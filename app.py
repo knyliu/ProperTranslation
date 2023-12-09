@@ -15,7 +15,7 @@ def about():
     return render_template('about.html')
 
 # 中翻英路由
-@app.route('/translate-zh-en', methods=['GET', 'POST'])
+@app.route('propertranslation.azurewebsites.net/translate-zh-en', methods=['GET', 'POST'])
 def translate_zh_en_route():
     result = None
     sentence = ''
