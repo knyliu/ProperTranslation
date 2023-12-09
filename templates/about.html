@@ -92,9 +92,10 @@
                 
             </div>
         </div>
-        
+
         <br>
         <br>
+
 
         <div class="base_container_about">
             <div class="text-container">
@@ -136,6 +137,30 @@
                 </a>
                 
                 <a href="https://knyliu.github.io/myweb/index.html" target="_blank" class="icon-link">
+                    <img src="{{ url_for('static', filename='web.png') }}" class="logo" width="25" height="25">
+                </a>
+                <style>
+                    .icon-link {
+                        margin-right: 10px; /* 或者你想要的任何間隙大小 */
+                    }
+                </style>
+            </div> 
+        </div> 
+        <br>
+        <br>
+        <div class="base_container">
+            <div class="text-container">
+                <div id="self_picture">
+                    <img src="{{ url_for('static', filename='yzyang.jpg') }}">
+                </div>
+                <h3>Yun-Zhen, Yang</h3>
+                <p>Working on data collecting, data preprocessing, and consulting.</p>
+                <br>
+                <a href="https://github.com/41171119H" target="_blank" class="icon-link">
+                    <img src="{{ url_for('static', filename='github.png') }}" class="logo" width="25" height="25">
+                </a>
+                
+                <a href="https://41171119h.github.io/my_web/" target="_blank" class="icon-link">
                     <img src="{{ url_for('static', filename='web.png') }}" class="logo" width="25" height="25">
                 </a>
                 <style>
