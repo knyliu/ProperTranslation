@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Proper Translation</title>
+    <script type="text/javascript">
+        function redirectTo(url) {
+            window.location.href = url;
+        }
+    </script>
+
+    <style>
+    a {
+        text-decoration: none;
+    }
+    .navbar {
+        width: 100%;
+        overflow: hidden;
+        background-color: rgb(250, 250, 252);
+        padding: 0 20px;
+        display: flex; 
+        justify-content: center;
+    }
+
+    .navbar a {
+        display: block;
+        color: rgb(57, 57, 57);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 10px;
+    }
+
+    .navbar a:hover {
+        color: black;
+    }
+
+
+    </style>
+</head>
+<body class="flex-container">
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="/translate-zh-en">中翻英 (zh_en)</a>
+        <a href="/translate-en-zh">英翻中 (en_zh)</a>
+        <a href="/about">About</a>
+    </div>
+
+    <br>
+
+    <div class="container" id="container">
+            <style>
+                #self_picture {
+                    width: 160px;
+                    height: 160px;
+                    overflow: hidden;
+                    position: relative;
+                    margin: 0 auto;
+                    border-radius: 15px;
+            
+                }
+                
+                #self_picture img {
+                    width: 100%;
+                    height: auto;
+                    position: absolute;
+                    transition: opacity 1s ease-in-out;
+                    display: block;
+                    margin: 0 auto;
+                    border-radius:100%;
+                }
+            </style>
+        <div class="text-container">
+            <h1>About</h1>
+        </div>
+    </div>
+
+        <br>
+        <br>
+
+        <div class="base_container_about">
+            <div class="text-container">
+                <h3>Reliable Data Sources</h3>
+                <br>
+                <p>This website is built on bilingual data from the National Academy for Educational Research.</p>
+                <p>It helps you get the most accurate translations of proper nouns in the simplest way.</p>
+                <br>
+                <a href="https://www.naer.edu.tw" target="_blank">
+                    <img src="{{ url_for('static', filename='near_logo.png') }}" width=auto height="30px">
+                </a>
+                </div>
+                <br>
+                
+            </div>
+        </div>
+        
+        <br>
+        <br>
+
+        <div class="base_container_about">
+            <div class="text-container">
+                <h3>Trusted Basic Translation Sources</h3>
+                <br>
+                <p>The underlying translation is powered by Microsoft Azure Natural Language Process.</p>
+                <p>Therefore, you can fully trust the accuracy of the translation.</p>
+                <br>
+                <a href="https://azure.microsoft.com/zh-tw/" target="_blank">
+                    <img src="{{ url_for('static', filename='azure.png') }}" width=auto height="50px">
+                </a>
+                </div>
+                <br>
+                
+            </div>
+        </div>
+
+    <br>    
+    <br>
+        <div style="width: 100%;display: flex; align-items: center; justify-content: center;">
+            <hr style="border: 0.5px solid; width: 80%; color: #b2b2b2;"/>
+        </div>
+
+        <div class="text-container">
+            <h1>Develpoer</h1>
+            <br>
+        </div>
+
+        <div class="base_container">
+            <div class="text-container">
+                <div id="self_picture">
+                    <img src="{{ url_for('static', filename='ykliu_2.jpg') }}">
+                </div>
+                <h3>Yen-Ku, Liu</h3>
+                <p>Working on the setup of Python Flask, the conception of the project, ideation of solutions, data preprocessing, and code writing.</p>
+                <br>
+                <a href="https://github.com/knyliu" target="_blank" class="icon-link">
+                    <img src="{{ url_for('static', filename='github.png') }}" class="logo" width="25" height="25">
+                </a>
+                
+                <a href="https://knyliu.github.io/myweb/index.html" target="_blank" class="icon-link">
+                    <img src="{{ url_for('static', filename='web.png') }}" class="logo" width="25" height="25">
+                </a>
+                <style>
+                    .icon-link {
+                        margin-right: 10px; /* 或者你想要的任何間隙大小 */
+                    }
+                </style>
+            </div> 
+        </div> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            <style>
+                .base_container_about {
+                background-color: #F5F5F7; /* 灰色背景颜色 */
+                border-radius: 10px; /* 圆角半径 */
+                padding: 20px; /* 可选：添加内边距以增加容器内的间距 */
+                width: 70%; /* 宽度 */
+                margin: 0 auto; /* 使用 margin 属性水平居中容器 */
+                }
+                .base_container {
+                background-color: #F5F5F7; /* 灰色背景颜色 */
+                border-radius: 10px; /* 圆角半径 */
+                padding: 20px; /* 可选：添加内边距以增加容器内的间距 */
+                width: 70%; /* 宽度 */
+                margin: 0 auto; /* 使用 margin 属性水平居中容器 */
+                }
+            </style>
+
+    <style>
+        .text-container{
+        text-align : center;
+        }
+
+        .text-container h1 {
+            font-weight: bold;
+        }
+
+        .text-container h2 {
+        font-size: 30px;
+        font-weight: bold;
+        color: #333333; 
+        }
+
+        .text-container h3 {
+        font-weight: bold;
+        color: #333333; 
+        }
+    
+        .text-container h4 {
+        font-weight: bold;
+        color: #333333; 
+        }
+
+        .text-container h6 {
+        font-weight: bold;
+        color: #4a4a4a; 
+        }
+
+        .text-container h7 {
+        color: #4a4a4a; 
+        }
+
+        .text-container p {
+        margin-top: 0px; /* 增加上间距 */
+        margin-bottom: 8px; /* 增加下间距 */
+        color: #6d6d6d; 
+        font-size: 13px;
+        }
+    </style>
+
+
+
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            }
+
+            .flex-container {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: auto;
+                margin-top: 0px;
+            }
+            button {
+                height: 35px;
+                width: 250px;
+                font-size: 13px;
+                margin-top: 20px;
+                margin-right: 20px;
+                background-color: rgb(87, 87, 87); /* 扁平化顏色 */
+                color: rgb(255, 255, 255);
+                border-radius: 50px; /* 較小的圓角 */
+                transition: background-color 0.2s; /* 平滑過渡效果 */
+                border: none; /* 移除邊框 */
+            }
+
+            button:hover {
+                background-color: rgb(211, 211, 211); /* 滑鼠懸停時的顏色變化 */
+                color: black;
+            }
+
+            #button-1 {
+                height: 35px;
+                width: 250px;
+                font-size: 13px;
+                margin-top: 20px;
+                margin-right: 20px;
+                background-color: rgb(211, 211, 211); /* 扁平化顏色 */
+                color: rgb(35, 35, 35);
+                border-radius: 50px; /* 較小的圓角 */
+                transition: background-color 0.2s; /* 平滑過渡效果 */
+                border: none; /* 移除邊框 */
+            }
+
+            #button-1:hover {
+                background-color: rgb(124, 122, 122); /* 滑鼠懸停時的顏色變化 */
+                color: white;
+            }
+
+
+
+
+            h1 {
+                color: #4d4d4d;
+            }
+        </style>
+    </body>
+    </html>

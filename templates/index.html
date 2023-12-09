@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Proper Translation</title>
+    <script type="text/javascript">
+        function redirectTo(url) {
+            window.location.href = url;
+        }
+    </script>
+    <style>
+    .navbar {
+        width: 100%;
+        overflow: hidden;
+        background-color: rgb(250, 250, 252);
+        padding: 0 20px;
+        display: flex; 
+        justify-content: center;
+    }
+
+    .navbar a {
+        display: block;
+        color: rgb(57, 57, 57);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 10px;
+    }
+
+    .navbar a:hover {
+        color: black;
+    }
+
+
+    </style>
+</head>
+<body class="flex-container">
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="/translate-zh-en">中翻英 (zh_en)</a>
+        <a href="/translate-en-zh">英翻中 (en_zh)</a>
+        <a href="/about">About</a>
+    </div>
+
+    <div class="container" id="container">
+        <h1>Proper Translation</h1>
+        <p>A tool designed specifically for translating proper noun addressing the issue of current translation tools'</p>
+        <p>inability to accurately translate proper noun.</p>
+        <br>
+        <button onclick="redirectTo('/translate-zh-en')">Start : Chinese to English</button>
+        <button id="button-1" onclick="redirectTo('/translate-en-zh')">Start : English to Chinese</button>
+    </div>
+
+
+
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+
+                background-image: url('/static/background.png'); /* 將 'your-image-url.jpg' 替換成你的圖片路徑 */
+                background-size: cover; /* 讓圖片覆蓋整個頁面 */
+                background-attachment: fixed; /* 讓圖片固定，不隨滾動條移動 */
+            }
+            p {
+                margin-top: 10px;  /* 上方間距 */
+                margin-bottom: 10px;  /* 下方間距 */
+            }
+            .container {
+                position: absolute;
+                bottom: 0;
+                width: calc(100% - 100px); /* 使用 calc() 函數計算寬度 */
+                padding: 20px;
+                margin-left: 100px;
+                margin-bottom: 150px;
+                text-align: left;
+                box-sizing: border-box;
+                border-radius: 10px;
+            }
+
+            .flex-container {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: auto;
+                margin-top: 0px;
+            }
+            button {
+                height: 35px;
+                width: 250px;
+                font-size: 13px;
+                margin-top: 20px;
+                margin-right: 20px;
+                background-color: rgb(87, 87, 87); /* 扁平化顏色 */
+                color: rgb(255, 255, 255);
+                border-radius: 50px; /* 較小的圓角 */
+                transition: background-color 0.2s; /* 平滑過渡效果 */
+                border: none; /* 移除邊框 */
+            }
+
+            button:hover {
+                background-color: rgb(211, 211, 211); /* 滑鼠懸停時的顏色變化 */
+                color: black;
+            }
+
+            #button-1 {
+                height: 35px;
+                width: 250px;
+                font-size: 13px;
+                margin-top: 20px;
+                margin-right: 20px;
+                background-color: rgb(211, 211, 211); /* 扁平化顏色 */
+                color: rgb(35, 35, 35);
+                border-radius: 50px; /* 較小的圓角 */
+                transition: background-color 0.2s; /* 平滑過渡效果 */
+                border: none; /* 移除邊框 */
+            }
+
+            #button-1:hover {
+                background-color: rgb(124, 122, 122); /* 滑鼠懸停時的顏色變化 */
+                color: white;
+            }
+
+
+
+
+            h1 {
+                font-size: 300%;
+                color: #4d4d4d;
+            }
+        </style>
+    </body>
+    </html>
