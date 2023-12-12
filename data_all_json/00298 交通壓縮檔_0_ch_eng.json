@@ -1,0 +1,3173 @@
+[
+    {
+        "登機門": "(boarding) gate"
+    },
+    {
+        "貨物囤存費": "(cargo) storage charge"
+    },
+    {
+        "貨物輸送順序": "(cargo) transportation priority"
+    },
+    {
+        "開發影響費": "(development) impact fees"
+    },
+    {
+        "研擬細部計畫、都市設計準則(草案)": "(Draft) Principles for Formulating Urban Design and Detailed Plans"
+    },
+    {
+        "都市計畫相關業務之處理": "(handling) urban planning related matters"
+    },
+    {
+        "裝卸時間記錄表": "(loading and unloading) time sheet; timesheet"
+    },
+    {
+        "群樁效率": "(pile) group efficiency"
+    },
+    {
+        "平面性": "(rail/track) twist;planarity"
+    },
+    {
+        "電信加值服務": "(telecommunications) value-added service(s)"
+    },
+    {
+        "事故發生": "(traffic) incident (occurrence); (traffic) accident (occurrence)"
+    },
+    {
+        "(運輸)淡季": "(transportation) off-season"
+    },
+    {
+        "船舶無線電呼號": "(vessel radio) call sign"
+    },
+    {
+        "1978年航海人員訓練、發證及當值標準國際公約，其1995年修正案及後續生效之修正案。": "1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as amended in 1995 and later amendments (STCW95)"
+    },
+    {
+        "連絡道": "access road"
+    },
+    {
+        "事故嚴重性": "accident severity"
+    },
+    {
+        "第一類電信事業會計制度及會計處理準則": "Accounting Standards and Regulations for Type I Telecommunications Enterprises"
+    },
+    {
+        "獎勵民間參與交通建設條例 簡稱: 獎參條例": "Act for Encouraging Private Participation in Transportation Infrastructure Projects"
+    },
+    {
+        "主動滑動面": "active surface of the slide"
+    },
+    {
+        "增停": "added stop(s)"
+    },
+    {
+        "額外承諾": "additional commitment"
+    },
+    {
+        "地址定位": "address matching"
+    },
+    {
+        "橫坑": "adit"
+    },
+    {
+        "防火可調門": "adjustable fire damper"
+    },
+    {
+        "先期規劃": "advance planning"
+    },
+    {
+        "支撐先進工法": "advanced shoring method;movable scaffold system"
+    },
+    {
+        "先進交通管理服務": "Advanced Traffic Management Services (ATMS)"
+    },
+    {
+        "先進車輛控制及安全(服務)系統": "advanced vehicle control and safety systems (AVCSS)"
+    },
+    {
+        "鼓風機及加藥機房": "aeration and chemical dosing machine room"
+    },
+    {
+        "空中三角測量": "aerotriangulation"
+    },
+    {
+        "航空城": "aerotropolis"
+    },
+    {
+        "航空貨運承攬業": "air freight forwarding (services);air freight forwarder(s)"
+    },
+    {
+        "航管活動": "air traffic control event/activity"
+    },
+    {
+        "航空器簽派員": "aircraft dispatcher; flight dispatcher"
+    },
+    {
+        "航空器登記規則": "Aircraft Registration Rules"
+    },
+    {
+        "民航運輸駕駛員執照": "Airline Transport Pilot Certificate/License"
+    },
+    {
+        "機場標燈": "airport beacon; aerodrome beacon"
+    },
+    {
+        "機場容量": "airport capacity"
+    },
+    {
+        "機場佈設規劃與設計": "airport layout planning and design"
+    },
+    {
+        "機場主計畫": "airport master plan"
+    },
+    {
+        "機場系統規劃": "airport systems planning"
+    },
+    {
+        "撥用": "allocate; allocation"
+    },
+    {
+        "抵價地及優先買回土地分配作業": "allocation process for replacement land and priority buyback land"
+    },
+    {
+        "攤分費率": "allocation rate"
+    },
+    {
+        "全紅時段": "all-red interval"
+    },
+    {
+        "業餘無線電管理辦法": "Amateur Radio Regulations"
+    },
+    {
+        "錨座": "anchor chock; anchorage"
+    },
+    {
+        "風速計": "anemometer"
+    },
+    {
+        "風速計": "anemometer"
+    },
+    {
+        "安平商港區土地徵收暨第一期工程計畫": "Anping Commercial Port Land Acquisition and Phase 1 Construction Plan"
+    },
+    {
+        "防盜警鈴": "anti-theft alarm"
+    },
+    {
+        "亞太經合會運輸研究發展及教育虛擬網站": "APEC Virtual Centre for Transportation Research, Development and Education"
+    },
+    {
+        "卸貨准單申請書": "Application for Cargo Discharge Permission"
+    },
+    {
+        "接近或保留鎖錠": "approach locking or stick locking"
+    },
+    {
+        "拱": "arch"
+    },
+    {
+        "護甲層": "armoring layer"
+    },
+    {
+        "亞太海運轉運中心": "Asia-Pacific Transshipment Center"
+    },
+    {
+        "組裝區": "assembly area"
+    },
+    {
+        "非對稱數位用戶迴路": "asymmetrical digital subscriber line (ADSL)"
+    },
+    {
+        "非同步轉送模式": "asynchronous transfer mode (ATM)"
+    },
+    {
+        "自動導軌運輸": "automated guideway transit (AGT)"
+    },
+    {
+        "自動公路系統": "automated highway system (AHS)"
+    },
+    {
+        "自動化輕軌捷運": "automated light rail transit"
+    },
+    {
+        "自動化路邊安檢": "Automated Roadside Safety Inspection"
+    },
+    {
+        "自動卸煤機": "automatic coal unloader"
+    },
+    {
+        "受話方付費自動處理系統": "automatic collect call system"
+    },
+    {
+        "自動貨物辨識": "automatic goods identification (AGI); automatic cargo identification (ACI)"
+    },
+    {
+        "船舶自動辨識系統": "Automatic Indentification System (AIS)"
+    },
+    {
+        "船舶自動辨識系統": "Automatic Indentification System (AIS)"
+    },
+    {
+        "平交道自動警報機": "automatic level-crossing warning system"
+    },
+    {
+        "自動列車控制系統": "Automatic Train Control (ATC) system"
+    },
+    {
+        "自動車輛定位": "Automatic Vehicle Location (AVL)"
+    },
+    {
+        "輔助標線": "auxiliary marking"
+    },
+    {
+        "平均延滯時間": "average delay time"
+    },
+    {
+        "每實動車輛每日平均行駛里程": "average km per operating vehicle per day"
+    },
+    {
+        "平均停車延時": "average parking duration"
+    },
+    {
+        "平均車位使用率": "average parking space occupancy"
+    },
+    {
+        "每車次客運密度": "average passenger-kilometers per vehicle run"
+    },
+    {
+        "每公噸貨物平均收入": "average revenue per tonne"
+    },
+    {
+        "每噸貨物平均運程": "average transport distance per tonne"
+    },
+    {
+        "主幹網路": "backbone network"
+    },
+    {
+        "迴水演算": "backwater calculation"
+    },
+    {
+        "齒坡跌水": "baffled apron drop"
+    },
+    {
+        "行李車": "baggage car; luggage car"
+    },
+    {
+        "地上感應器": "balise"
+    },
+    {
+        "銀行融資": "bank financing"
+    },
+    {
+        "拒馬": "barricade"
+    },
+    {
+        "無障礙": "barrier free"
+    },
+    {
+        "基地台": "base station"
+    },
+    {
+        "機電系統基本設計": "basic mechanical and electrical systems design"
+    },
+    {
+        "信號柱": "beacon"
+    },
+    {
+        "號誌機外方": "before the signal"
+    },
+    {
+        "戧堤": "berm"
+    },
+    {
+        "停泊港口": "berthing port"
+    },
+    {
+        "六十 三、六十四號碼頭改建計畫": "Berths 63 and 64 Reconstruction Project"
+    },
+    {
+        "腳踏車專用道": "bike lane; bicycle lane;bikes only"
+    },
+    {
+        "腳踏車道": "bike path"
+    },
+    {
+        "二進位同步通訊協定": "Binary Synchronous Communications Protocol"
+    },
+    {
+        "閉塞": "block"
+    },
+    {
+        "閉塞閘柄": "blocking lever"
+    },
+    {
+        "藍芽通訊技術": "Bluetooth technology"
+    },
+    {
+        "轉向架檢修": "bogie inspection (& maintenance)"
+    },
+    {
+        "鍋爐(姤)垢": "boiler scale"
+    },
+    {
+        "跳接線": "bonding jumper"
+    },
+    {
+        "鑽孔柱狀圖": "boring log"
+    },
+    {
+        "鑽孔紀錄，鑽孔柱狀圖": "boring log; drilling log"
+    },
+    {
+        "軔機故障": "brake malfunction"
+    },
+    {
+        "軔機敏感度": "brake sensitivity"
+    },
+    {
+        "碎波": "breaking wave"
+    },
+    {
+        "橋面伸縮縫": "bridge expansion joint;bridge expansion gap"
+    },
+    {
+        "橋梁管理系統": "bridge management system"
+    },
+    {
+        "寬頻": "broadband"
+    },
+    {
+        "電子佈告欄系統": "bulletin board system（BBS）"
+    },
+    {
+        "高速鐵路工程局": "Bureau of High Speed Rail, MOTC"
+    },
+    {
+        "大客車停車場": "bus park"
+    },
+    {
+        "線纜數據機": "cable modem"
+    },
+    {
+        "地籍測量": "cadastral survey"
+    },
+    {
+        "地籍清查": "cadastral survey; land registry research and verification"
+    },
+    {
+        "通聯記錄": "call detail record (CDR)"
+    },
+    {
+        "來話號碼識別": "caller ID"
+    },
+    {
+        "來電顯示": "caller ID"
+    },
+    {
+        "超高度不足量": "cant deficiency"
+    },
+    {
+        "可資本化財務成本": "capitalizable cost"
+    },
+    {
+        "正駕駛員": "captain"
+    },
+    {
+        "貨載總單簿": "cargo book"
+    },
+    {
+        "捆紮貨": "cargo in bundle"
+    },
+    {
+        "貨物短溢殘損查詢表": "cargo tracer"
+    },
+    {
+        "貨物單位": "cargo unit"
+    },
+    {
+        "車廂地板": "carriage floor"
+    },
+    {
+        "預鑄斜撐版配合場鑄箱形(型)梁合成橋": "cast-in-situ box girder bridge with precast strut panels"
+    },
+    {
+        "影像監視系統": "CCTV (closed circuit television system); security camera system"
+    },
+    {
+        "集中電話": "central control telephone system"
+    },
+    {
+        "集中式用戶專用交換機": "central office exchange service (Centrex)"
+    },
+    {
+        "集中式控制系統": "centralized control system"
+    },
+    {
+        "適任證書": "certificate of competency"
+    },
+    {
+        "認可證書": "certificate of endorsement"
+    },
+    {
+        "買賣船舶之抵押權設定證明": "certificate of mortgage for purchase of ship"
+    },
+    {
+        "挑戰2008：國家發展重點計畫": "Challenge 2008 National Development Plan"
+    },
+    {
+        "資訊可變標誌": "changeable message sign (CMS)"
+    },
+    {
+        "傭船租約": "charter party"
+    },
+    {
+        "化學品液貨船轉船裝卸": "chemical liquid tanker ship-to-ship transfer"
+    },
+    {
+        "家長接送區": "child pick-up/drop-off area"
+    },
+    {
+        "幼童專用車": "children's minibus"
+    },
+    {
+        "中和線": "Chungho Line"
+    },
+    {
+        "郵件處理規則": "Chunghwa Post Mail Handling Regulations"
+    },
+    {
+        "豎槽": "chute"
+    },
+    {
+        "圓弧型破壞": "circular failure"
+    },
+    {
+        "圓弧滑動面": "circular sliding surface"
+    },
+    {
+        "結關": "clearance"
+    },
+    {
+        "清道損失時間": "clearance lost time"
+    },
+    {
+        "氣候變異與劇烈天氣監測預報系統發展計畫": "Climate Change and Severe Weather Monitoring & Forecasting System Development Program"
+    },
+    {
+        "爬坡車道": "climbing lane"
+    },
+    {
+        "閉路電視攝影機": "closed circuit television (CCTV) camera"
+    },
+    {
+        "海岸地球電台": "coast earth station (CES)"
+    },
+    {
+        "座艙通話紀錄器": "cockpit voice recorder (CVR)"
+    },
+    {
+        "摩擦系(係）數": "coefficient of friction"
+    },
+    {
+        "崩陷": "collapse"
+    },
+    {
+        "列車障礙": "collision on crossing (http://www.railway.gov.tw/tw/CP.aspx?sn=7474)"
+    },
+    {
+        "碰撞預警系統": "collision warning system"
+    },
+    {
+        "共置（設備共管）": "co-location"
+    },
+    {
+        "設備代管": "colocation (colo)"
+    },
+    {
+        "職業駕照": "commercial driver's license"
+    },
+    {
+        "商港主管機關": "commercial port authority"
+    },
+    {
+        "商港設施": "commercial port facilities"
+    },
+    {
+        "商用車輛車上安全監視": "commercial vehicle onboard safety monitoring"
+    },
+    {
+        "商車營運系統": "commercial vehicle operations (CVO)"
+    },
+    {
+        "通訊、導航、監視與飛航管理": "Communication, Navigation and Surveillance/Air Traffic Management (CNS/ATM)"
+    },
+    {
+        "營業(用車)": "company vehicle"
+    },
+    {
+        "異議處理": "complaints handling"
+    },
+    {
+        "合成式防波堤": "composite breakwater"
+    },
+    {
+        "高快速公路整體路網交通管理系統綜合規劃": "Comprehensive Planning of a Traffic Management System for an Integrated Network of Freeways and Expressways"
+    },
+    {
+        "電腦整合海運作業系統": "Computer Integrated Marine Operations System (CIMOS)"
+    },
+    {
+        "電腦訂位系統": "computer reservation system (CRS)"
+    },
+    {
+        "電腦輔助派車系統": "computer-aided vehicle dispatch system"
+    },
+    {
+        "辦理公有土地撥用": "conducting transfers of land between public entities"
+    },
+    {
+        "傳導性干擾": "conductive interference"
+    },
+    {
+        "擁擠": "congestion"
+    },
+    {
+        "收貨人(受貨人)": "consignee"
+    },
+    {
+        "營建工程安全衛生手冊": "Construction Health & Safety Manual"
+    },
+    {
+        "全島運輸骨幹整建計畫": "Construction Plan for Islandwide Transportation Backbone"
+    },
+    {
+        "工務基地": "construction site office"
+    },
+    {
+        "離線率": "Contact loss rate?"
+    },
+    {
+        "貨櫃及車架": "container and chassis"
+    },
+    {
+        "貨櫃艙區": "container bay (船上)container yard (岸上)"
+    },
+    {
+        "併櫃裝載貨物": "container freight station (CFS) cargo"
+    },
+    {
+        "貨櫃保養廠": "container maintenance shop"
+    },
+    {
+        "貨櫃場作業費": "container terminal handling charge(s)"
+    },
+    {
+        "貨櫃週轉率": "container turnover rate"
+    },
+    {
+        "貨櫃集散場": "container yard"
+    },
+    {
+        "運送契約": "contract of carriage"
+    },
+    {
+        "專用路權": "controlled access rights-of-way;  exclusive road use right"
+    },
+    {
+        "單線簡易聯動閉塞式": "controlled manual block system"
+    },
+    {
+        "召開區段徵收後地價評議會議": "convene a land price appraisal meeting after zone expropriation"
+    },
+    {
+        "召開區段徵收說明會": "convene an explanatory meeting on zone expropriation"
+    },
+    {
+        "帳單整合": "convergent billing; consolidated billing; consolidated bill"
+    },
+    {
+        "銅線": "copper wire"
+    },
+    {
+        "岩心管": "core barrel"
+    },
+    {
+        "含貨價、保險費及運價之交易條件": "cost, insurance, freight (CIF)"
+    },
+    {
+        "行人倒數計時顯示器": "countdown pedestrian signal"
+    },
+    {
+        "縣道": "county highway"
+    },
+    {
+        "專差快遞專區": "Courier and Express Delivery Area"
+    },
+    {
+        "中油公司高雄成功廠區": "CPC Corporation Kaohsiung Chenggong Zone"
+    },
+    {
+        "起重機": "crane"
+    },
+    {
+        "肇事；事故": "crash;traffic incident;motor vehicle accident"
+    },
+    {
+        "拓展民航業務，營造優良經營環境。": "Creating a prime operating environment for civil aviation industry expansion"
+    },
+    {
+        "信用式電話服務": "credit telephone service (CTS)"
+    },
+    {
+        "臨界流": "critical flow"
+    },
+    {
+        "臨界路口控制": "critical intersection control"
+    },
+    {
+        "橫斷面圖": "cross section;cross-sectional image"
+    },
+    {
+        "立方公尺": "cubic metre (CBM; cbm)"
+    },
+    {
+        "文化遺址": "cultural heritage site"
+    },
+    {
+        "緣石": "curb"
+    },
+    {
+        "緣石": "curbstone"
+    },
+    {
+        "高鐵用地征收補償費提存暨存入保管專戶": "custodian account for HSR land expropriation compensation"
+    },
+    {
+        "客戶網路管理": "customer network management"
+    },
+    {
+        "客服中心": "customer service center"
+    },
+    {
+        "通關或報關": "customs clearance"
+    },
+    {
+        "海關貿易夥伴反恐方案": "Customs-Trade Partnership Against Terrorism (C-TPAT)"
+    },
+    {
+        "開挖面": "cutting face"
+    },
+    {
+        "船舶裝卸日報表": "Daily Report of Loading/Unloading"
+    },
+    {
+        "全日旅次分佈": "daily trip distribution"
+    },
+    {
+        "資料儲存體": "data storage medium"
+    },
+    {
+        "迴送列車": "deadheading (train)"
+    },
+    {
+        "賑(帳)單": "debit note; debit memo; invoice"
+    },
+    {
+        "(甲板)版": "deck"
+    },
+    {
+        "深開挖": "deep excavation"
+    },
+    {
+        "瑕疵狀況": "defective status"
+    },
+    {
+        "變位": "deflection"
+    },
+    {
+        "機務段": "depot"
+    },
+    {
+        "(機車)摔車": "derailment (?)"
+    },
+    {
+        "設計小時交通量": "design hourly volume (DHV)"
+    },
+    {
+        "專戶諮詢顧問": "designated consultant"
+    },
+    {
+        "滯洪量": "detention volume"
+    },
+    {
+        "開發行為": "development activities"
+    },
+    {
+        "都市計畫之規劃、擬定及審議": "devising, drafting and reviewing urban plans"
+    },
+    {
+        "鑽石鑽頭": "diamond bit"
+    },
+    {
+        "數位用戶迴路載波機": "digital loop carrier (DLC)"
+    },
+    {
+        "數位選擇性呼叫": "digital selective calling (DSC)"
+    },
+    {
+        "傾斜": "dip"
+    },
+    {
+        "賓字牌照": "diplomatic license plate"
+    },
+    {
+        "直通電話": "direct (phone) line"
+    },
+    {
+        "轉帳代繳": "direct debit"
+    },
+    {
+        "方向角": "direction angle; bearing"
+    },
+    {
+        "指向線": "direction line"
+    },
+    {
+        "會計師查核簽證第一類電信事業經營者財務報告作業要點": "Directions for CPA Auditing and Certification of Financial Reports for Type I Telecommunications Operators"
+    },
+    {
+        "高速鐵路計畫民間投資興建工程剩餘土石方處理要點": "Directions for the Disposal of Construction Spoils from Private Investment Projects for the High-Speed Rail"
+    },
+    {
+        "區段徵收作業中有關公共工程發包施工事項": "Directions for the Implementation of Contracted Public Works in Zone Expropriation"
+    },
+    {
+        "台中港區通行證請領須知": "Directions on Applying for a Taichung Harbor Area Pass"
+    },
+    {
+        "第一類電信事業經營者資產分離實施要點": "Directions on Asset Separation in Type 1 Telecommunications Operators"
+    },
+    {
+        "第一類電信事業經營者資金成本計算實施要點": "Directions on Capital Cost Calculation in Type 1 Telecommunications Operators"
+    },
+    {
+        "第一類電信事業經營者會計科目設置要點": "Directions on Chart of Accounts for Type I Telecommunications Operators"
+    },
+    {
+        "海事報告處理要點": "Directions on Processing Sea Protests"
+    },
+    {
+        "認定不應開發": "disapproved for development; disapproval of development"
+    },
+    {
+        "災害防救計畫": "disaster prevention and response plan"
+    },
+    {
+        "免責條款": "disclaimer (clause)"
+    },
+    {
+        "公害糾紛": "dispute(s) over public hazard(s) or nuisance(s)"
+    },
+    {
+        "動力分散式": "distributed power type (train)"
+    },
+    {
+        "具都市發展潛力地區": "district with urban development potential"
+    },
+    {
+        "勿干擾": "Do Not Disturb"
+    },
+    {
+        "碼頭碇泊費": "dockage; docking fee"
+    },
+    {
+        "國內航運": "domestic maritime transport"
+    },
+    {
+        "車門聯鎖裝置": "door interlocking device"
+    },
+    {
+        "(韓商)斗山重": "Doosan"
+    },
+    {
+        "都卜勒氣象雷達": "Doppler weather radar"
+    },
+    {
+        "雙回路供電": "double feeder power supply"
+    },
+    {
+        "複線 (雙軌)": "double-track (railway)"
+    },
+    {
+        "貨物裝卸水呎公證報告": "draft survey report"
+    },
+    {
+        "排水性鋪面": "drainage pavement"
+    },
+    {
+        "基隆港西22及西23號碼頭浚深及改善工程計畫": "Dredging and Improvement Plan for Keelung Harbor Wharves W22 & W23"
+    },
+    {
+        "打擊樁": "driven piles"
+    },
+    {
+        "駕駛室": "driver's cab"
+    },
+    {
+        "吊扣駕照": "driver's license suspension"
+    },
+    {
+        "駕駛行為": "driving behavior"
+    },
+    {
+        "吊掛線": "dropper"
+    },
+    {
+        "土壓力": "earth pressure"
+    },
+    {
+        "東部鐵路快速化": "Eastern Railway Speed Upgrade"
+    },
+    {
+        "東西向快速公路": "East-West Expressway"
+    },
+    {
+        "電子商務": "e-commerce"
+    },
+    {
+        "生態旅遊標章": "Ecotourism Taiwan (標章本身文字); ecotourism logo (文件內說明)"
+    },
+    {
+        "增強型 GPRS": "EDGE (Enhanced Data for Global Evolution); EGPRS (Enhanced GPRS)"
+    },
+    {
+        "有效單位重": "effective unit weight"
+    },
+    {
+        "有效運用財務資源，推動民航場站建設": "Effectively utilize financial resources to advance civil airport development"
+    },
+    {
+        "電力機車": "electric locomotive"
+    },
+    {
+        "電力系統": "electric power system"
+    },
+    {
+        "電氣路牌閉塞式": "electric tablet block system"
+    },
+    {
+        "電氣室": "electrical room"
+    },
+    {
+        "冷凍貨櫃供電費": "electricity charges for refrigerated containers"
+    },
+    {
+        "電子資料交換/可延伸性模態語言": "Electronic Data Interchange / Extensible Markup Language (EDI/XML)"
+    },
+    {
+        "高架鐵路": "elevated railway"
+    },
+    {
+        "電梯": "elevator"
+    },
+    {
+        "緊急事故處理服務": "emergency management services (EMS)"
+    },
+    {
+        "工程救險車": "emergency repair vehicle"
+    },
+    {
+        "緊急電話機": "emergency telephone"
+    },
+    {
+        "緊急道路": "emergency vehicle access road"
+    },
+    {
+        "緊急救援車輛管理": "Emergency Vehicle Management"
+    },
+    {
+        "員工買斷": "employee buyout (EBO)"
+    },
+    {
+        "迴送車": "empty return car"
+    },
+    {
+        "侵入線": "encroachment line (?)"
+    },
+    {
+        "端局": "end office (EO)"
+    },
+    {
+        "能源密集度": "energy intensity"
+    },
+    {
+        "施行細則": "enforcement rules"
+    },
+    {
+        "機車修理": "engine repair"
+    },
+    {
+        "提升郵政窗口服務品質": "enhancing post office counter service quality"
+    },
+    {
+        "行程中大眾運輸資訊": "en-route public transport information"
+    },
+    {
+        "環境影響評估": "environmental impact assessment (EIA)"
+    },
+    {
+        "環境影響評估": "environmental impact assessment (EIA)"
+    },
+    {
+        "環境影響評估報告書": "Environmental Impact Assessment (EIA) Report"
+    },
+    {
+        "環境影響評估法": "Environmental Impact Assessment Act"
+    },
+    {
+        "環境影響差異分析報告": "Environmental Impact Comparative Analysis Report"
+    },
+    {
+        "環境影響說明書": "environmental impact statement (EIS)"
+    },
+    {
+        "環境影響說明書": "Environmental Impact Statement (EIS)"
+    },
+    {
+        "環境資源信託基金": "Environmental Resources Trust (ERT)"
+    },
+    {
+        "環境敏感地帶(環境敏感區位)": "environmentally sensitive area"
+    },
+    {
+        "赤度 (赤道)": "equator"
+    },
+    {
+        "預定離港時間": "estimated time of departure, ETD"
+    },
+    {
+        "公車除外": "Except Buses"
+    },
+    {
+        "加速進行「桃園航空城先期發展計畫－貨運園區暨大園（南港地區）特定區計畫」。": "Expediting “Taoyuan Aerotropolis Initial Development Project - Air Cargo Park and Dayuan (Nangang Area) Special District Project”"
+    },
+    {
+        "直達車": "express train"
+    },
+    {
+        "一併徵收地": "expropriated leftover land"
+    },
+    {
+        "定期加掛": "extra cars attached to trains at particular times"
+    },
+    {
+        "脊背式橋梁": "extradosed bridge"
+    },
+    {
+        "快慢分隔島": "fast/slow lane divider"
+    },
+    {
+        "快速操船": "fast-time ship-handling simulation"
+    },
+    {
+        "疲勞試驗": "fatigue test; fatigue testing"
+    },
+    {
+        "可行性評估": "feasibility study"
+    },
+    {
+        "集貨港": "feeder port"
+    },
+    {
+        "接駁服務": "feeder service (貨物集散);shuttle service (旅客轉運)"
+    },
+    {
+        "接駁船": "feeder vessel"
+    },
+    {
+        "節慶活動": "festival events"
+    },
+    {
+        "光纖終端機": "fiber optic terminal"
+    },
+    {
+        "光纖到路邊": "fiber to the curb (FTTC)"
+    },
+    {
+        "野外探勘": "field exploration"
+    },
+    {
+        "檔案傳輸通訊協定": "File Transfer Protocol (FTP)"
+    },
+    {
+        "財務檢查": "financial examination;financial inspection"
+    },
+    {
+        "融資與租稅優惠": "financing and tax incentives"
+    },
+    {
+        "漁船檢查碼頭": "fishing boat inspection wharf"
+    },
+    {
+        "固定通信網路": "fixed communications network"
+    },
+    {
+        "衛星固定業務": "fixed-satellite service"
+    },
+    {
+        "船旗國": "flag state"
+    },
+    {
+        "特種閃光黃燈": "flashing amber light"
+    },
+    {
+        "回(覆)復型導桿": "flexible delineator post;flexible bollard"
+    },
+    {
+        "飛航組員": "flight crew member"
+    },
+    {
+        "飛航計畫": "flight plan"
+    },
+    {
+        "飛航模擬機": "flight simulator"
+    },
+    {
+        "飛航訓練器": "flight training device"
+    },
+    {
+        "容積加成(獎勵)": "floor area ratio bonus"
+    },
+    {
+        "動植物": "flora and fauna"
+    },
+    {
+        "霧(風或雨)慢行警告標誌": "fog warning sign;wind warning sign;rain warning sign"
+    },
+    {
+        "摺疊門": "folding door"
+    },
+    {
+        "折合40呎櫃": "forty-foot equivalent unit (FEU);40-foot equivalent unit"
+    },
+    {
+        "船邊交貨": "free alongside ship (FAS); free alongside"
+    },
+    {
+        "自由貿易港區": "free trade zone (FTZ)"
+    },
+    {
+        "自由場強震儀": "free-field strong motion accelerograph;free-field strong motion seismometer"
+    },
+    {
+        "自由車流速率": "free-flow speed"
+    },
+    {
+        "運費更正單": "freight adjustment note"
+    },
+    {
+        "貨車附屬品": "freight car appliances"
+    },
+    {
+        "貨車裝載效率": "freight car loading efficiency"
+    },
+    {
+        "貨車運用效率": "freight car utilization efficiency"
+    },
+    {
+        "劃(分)頻多重接(擷)取": "frequency division multiple access (FDMA)"
+    },
+    {
+        "燃油效率": "fuel efficiency"
+    },
+    {
+        "全彩顯示板": "full color display"
+    },
+    {
+        "全跨預鑄吊裝工法": "full-span precast launching method"
+    },
+    {
+        "落實飛安查核，強化飛航安全。": "Fully Implementing Flight Safety Inspection to Enhance Aviation Safety"
+    },
+    {
+        "功能": "function"
+    },
+    {
+        "復興號": "Fuxing Express"
+    },
+    {
+        "隨選遊戲": "Game On Demand"
+    },
+    {
+        "雜貨船": "general cargo ship"
+    },
+    {
+        "普通卸貨准單": "general discharge permit"
+    },
+    {
+        "整合封包無線電系統": "General Packet Radio Service (GPRS)"
+    },
+    {
+        "一般語音電話": "general voice telephony"
+    },
+    {
+        "一般碼頭夜工設備費": "general wharf night-work equipment charges"
+    },
+    {
+        "空間資訊融合服務": "geospatial fusion services"
+    },
+    {
+        "地質鑽探報告": "geotechnical investigation report"
+    },
+    {
+        "地工織物擋土牆": "geotextile retaining wall"
+    },
+    {
+        "安樑": "girder erection"
+    },
+    {
+        "全球軸心港": "global hub port"
+    },
+    {
+        "全球運籌管理中心": "global logistics management center"
+    },
+    {
+        "縱坡度": "grade"
+    },
+    {
+        "圖誌顯示系統": "graphic sign display system"
+    },
+    {
+        "方格北": "grid north"
+    },
+    {
+        "接近地面警告系統": "ground proximity warning system (GPWS)"
+    },
+    {
+        "就地支撐工法": "ground shoring method"
+    },
+    {
+        "地基處理": "ground treatment"
+    },
+    {
+        "土傳振動": "ground-borne vibration"
+    },
+    {
+        "接地碳刷": "grounding brush"
+    },
+    {
+        "固床工": "groundsill works"
+    },
+    {
+        "併裝貨物載貨證券": "groupage bill of lading"
+    },
+    {
+        "擔保提貨保證書": "Guarantee for Delivery of Goods without Production of Bill of Lading"
+    },
+    {
+        "第一類電信事業經營者財務報告編製要點": "Guidelines for Compiling Financial Reports of  Type 1 Telecommunications Enterprises"
+    },
+    {
+        "旅客運送實施要點": "Guidelines for Passenger Service Implementation"
+    },
+    {
+        "第一類電信事業經營者成本分攤基礎設置要點": "Guidelines on Establishing Cost Allocation Bases Between Operators for Type 1 Telecommunications"
+    },
+    {
+        "手提砸道機": "handheld tamper"
+    },
+    {
+        "手孔": "handhole"
+    },
+    {
+        "港灣污染整治、港區船舶廢棄物收受處理系統": "Harbor and Bay Pollution Remediation and Port Area Ship Waste Collection & Disposal System"
+    },
+    {
+        "港勤船舶管理中心": "Harbor Craft Management Center"
+    },
+    {
+        "主傭船契約/再傭船契約": "head charter/sub-charter"
+    },
+    {
+        "大廚": "head chef"
+    },
+    {
+        "列車班距": "headway"
+    },
+    {
+        "發車間距": "headway"
+    },
+    {
+        "重複合懸垂方式": "heavy compound catenary type"
+    },
+    {
+        "重車安全管理": "heavy vehicle safety management"
+    },
+    {
+        "高速鐵路建設計畫": "High Speed Rail Project"
+    },
+    {
+        "高速資訊幹線": "high-speed data backbone"
+    },
+    {
+        "高價貨": "high-value cargo"
+    },
+    {
+        "公路路況廣播": "Highway Advisory Radio (HAR)"
+    },
+    {
+        "公路資料": "highway data"
+    },
+    {
+        "公路績效監測系統": "Highway Performance Monitoring System (HPMS)"
+    },
+    {
+        "公路路線設計規範": "Highway Route Design Specifications"
+    },
+    {
+        "家訪旅次調查": "household travel survey"
+    },
+    {
+        "高鐵機電系統品保查驗計畫": "HSR E&M System Quality Assurance Inspection Plan"
+    },
+    {
+        "高鐵南港站": "HSR Nankang Station"
+    },
+    {
+        "水文分析": "hydrologic analysis;hydrological analysis"
+    },
+    {
+        "液態馬達(?)": "hydrostatic motor"
+    },
+    {
+        "(雨量)組體圖": "hyetograph"
+    },
+    {
+        "震源": "hypocenter"
+    },
+    {
+        "免責": "immunity"
+    },
+    {
+        "推行郵件處理自動化": "implementation of automated mail processing"
+    },
+    {
+        "船舶登記法施行細則": "Implementation Rules for the Ship Registration Act"
+    },
+    {
+        "推動「台北飛航情報區通訊、導航、監視與飛航管理發展建置計畫」，建立衛星化、數位化新一代飛航服務系統。": "Implementing the Plan to Develop and Install a  Communication, Navigation and Surveillance/Air Traffic Management (CNS/ATM) System in the Taipei Flight Information Region, and establishing a new-generation satellite-based digital navigation services syste"
+    },
+    {
+        "進口貨櫃動態查詢系統": "Import Container Status Online Inquiry System"
+    },
+    {
+        "帶內同頻": "in-band-on-channel (IBOC )"
+    },
+    {
+        "獎勵民間參與觀光遊憩設施建設": "incentivizing private participation in the development of facilities for tourism and recreation"
+    },
+    {
+        "民間電廠，獨立發電廠": "independent power plant"
+    },
+    {
+        "獨立監造工程師": "independent site engineer"
+    },
+    {
+        "獨立查核驗證及認證系統": "independent verification and validation system"
+    },
+    {
+        "工業專用港": "Industrial Exclusive Port"
+    },
+    {
+        "紅外線信號柱": "infrared beacon"
+    },
+    {
+        "紅外線": "infrared; infrared ray"
+    },
+    {
+        "受傷率": "injury rate"
+    },
+    {
+        "單位層": "institutional layer"
+    },
+    {
+        "儀器進場及降落作業": "instrument approach and landing operations"
+    },
+    {
+        "儀器飛航規則": "Instrument Flight Rules"
+    },
+    {
+        "互動式多媒體服務": "interactive multimedia services"
+    },
+    {
+        "相互交換性": "interchangeability"
+    },
+    {
+        "公路客運汽車": "intercity bus"
+    },
+    {
+        "長途客運（業）": "intercity bus (service/industry);long-distance bus (service/industry)"
+    },
+    {
+        "相互連結性": "interconnectivity"
+    },
+    {
+        "感受性干擾": "interference susceptibility; susceptibility to interference"
+    },
+    {
+        "聯鎖": "interlock, interlocking"
+    },
+    {
+        "複合(多聯式)運輸": "intermodal transport (複合運輸); multimodal transport (多聯式運輸)"
+    },
+    {
+        "國際航空業務過境協定": "International Air Services Transit Agreement (IASTA)"
+    },
+    {
+        "國際出租專線": "international private leased circuit (IPLC)"
+    },
+    {
+        "網際網路資料中心": "Internet Data Center (IDC)"
+    },
+    {
+        "交叉路口": "intersection"
+    },
+    {
+        "台北港第二期工程第二散雜貨儲運中心興建投資計畫": "Investment Plan for Constructing the 2nd Bulk & General Cargo Terminal in Phase 2 of Taipei Port Construction"
+    },
+    {
+        "台北港第二期工程第三散雜貨儲運中心興建投資計畫": "Investment Plan for Constructing the 3rd Bulk & General Cargo Terminal in Phase 2 of  Taipei Port Construction"
+    },
+    {
+        "農田水利會": "irrigation association"
+    },
+    {
+        "ISDN 基本速率介面": "ISDN Basic Rate Interface (BRI)"
+    },
+    {
+        "島式月臺": "island platform; center platform"
+    },
+    {
+        "資訊設備汰換更新計畫": "IT Equipment Upgrade Plan"
+    },
+    {
+        "政府辦理部分": "items undertaken by government"
+    },
+    {
+        "千斤頂": "jack"
+    },
+    {
+        "工作地點": "job site; worksite"
+    },
+    {
+        "共同(履行)減量": "Joint Implementation"
+    },
+    {
+        "共站": "joint station; co-station"
+    },
+    {
+        "高雄機場跑道延伸計畫": "Kaohsiung Airport Runway Extension Plan"
+    },
+    {
+        "高雄都會區大眾捷運路網": "Kaohsiung Mass Rapid Transit System Network"
+    },
+    {
+        "高雄內門宋江陣": "Kaohsiung Neimen Songjiang Battle Dance"
+    },
+    {
+        "龍骨": "keel"
+    },
+    {
+        "基隆自由貿易區": "Keelung Free Trade Zone"
+    },
+    {
+        "雞龍(籠)中元祭": "Keelung Ghost Festival"
+    },
+    {
+        "墾丁風鈴季": "Kenting Wind Chime Festival"
+    },
+    {
+        "核心資料庫": "kernel database; core database"
+    },
+    {
+        "車輛紅線票": "label marking a vehicle for repair"
+    },
+    {
+        "勞工安全衛生法(103年改為「職業安全衛生法」)": "Labor Safety and Health Act(Occupational Safety and Health Act [since 2014])"
+    },
+    {
+        "勞工安全衛生法": "Labor Safety and Health Act;Occupational Safety and Health Act (註：現在中文名稱為「職業安全衛生法」)"
+    },
+    {
+        "燈掛座": "lamp bracket"
+    },
+    {
+        "燈柱、燈桿": "lamp post"
+    },
+    {
+        "土地分配": "land allocation"
+    },
+    {
+        "配地": "land allotment/allocation (as replacement for expropriated land)"
+    },
+    {
+        "公路用地": "land designated for public road use"
+    },
+    {
+        "土地徵收條例": "Land Expropriation Act"
+    },
+    {
+        "土地徵收計畫書": "land expropriation plan"
+    },
+    {
+        "用地交付": "land handover"
+    },
+    {
+        "景觀工程": "landscape works; landscaping (project)"
+    },
+    {
+        "坍方偵測器": "landslide detector"
+    },
+    {
+        "裝卸時間計算表": "laytime calculation sheet"
+    },
+    {
+        "聯貸主辦銀行": "lead bank (of syndicated loan)"
+    },
+    {
+        "(液晶)發光二極(顯示器)": "LED display (light-emitting diode)"
+    },
+    {
+        "左轉待轉區": "left turn waiting area"
+    },
+    {
+        "併櫃": "less than container load (LCL); groupage"
+    },
+    {
+        "水準儀，橫坑，水平面": "level"
+    },
+    {
+        "二級航空噪音管制區": "level 2 aircraft noise control zone"
+    },
+    {
+        "平交道號誌": "level-crossing signal"
+    },
+    {
+        "汽車號牌": "license plate"
+    },
+    {
+        "車牌辦識": "license plate recognition"
+    },
+    {
+        "單行機車": "light engine"
+    },
+    {
+        "小型車": "light vehicle"
+    },
+    {
+        "線型馬達": "linear motor"
+    },
+    {
+        "線性參考系統": "linear referencing system"
+    },
+    {
+        "定期船運費同盟": "liner conference"
+    },
+    {
+        "液化天然氣": "liquefied natural gas (LNG)"
+    },
+    {
+        "六家工電基地": "Liujia Construction and Electrical Depot"
+    },
+    {
+        "區域網路": "local area network (LAN)"
+    },
+    {
+        "市內網路": "local network"
+    },
+    {
+        "市內電話中繼台": "local telephone central switch"
+    },
+    {
+        "地方性運輸規劃": "local transportation planning"
+    },
+    {
+        "汰換機車、客車空調設備案": "Locomotive & Coach Air-conditioning Replacement Project"
+    },
+    {
+        "運籌管理物流中心": "logistics center"
+    },
+    {
+        "標誌燈": "logo lights (飛機);marker lights (車輛)"
+    },
+    {
+        "沿岸流": "longshore current"
+    },
+    {
+        "搬運工": "longshoreman"
+    },
+    {
+        "長期沖刷深度": "long-term scour depth"
+    },
+    {
+        "長期運輸規劃": "long-term transportation planning"
+    },
+    {
+        "最低低潮位": "lowest low-tide level"
+    },
+    {
+        "鹿港慶端陽": "Lukang Dragon Boat Festival"
+    },
+    {
+        "午餐座談會": "lunch meeting"
+    },
+    {
+        "麥寮電廠": "Mailiao Power Plant"
+    },
+    {
+        "主配線架": "main distribution frame (MDF)"
+    },
+    {
+        "維修基地工程": "maintenance base project"
+    },
+    {
+        "免保養": "maintenance-free"
+    },
+    {
+        "工程災害": "major construction accident(s)"
+    },
+    {
+        "主要保養": "major servicing"
+    },
+    {
+        "手動把手": "manual lever"
+    },
+    {
+        "手動遮斷機": "manually operated barrier"
+    },
+    {
+        "手動號誌機": "manually operated signal"
+    },
+    {
+        "加碼": "margin/spread (借貸)"
+    },
+    {
+        "棧埠管理處": "Marine Terminal Office"
+    },
+    {
+        "海運輔助服務": "maritime auxiliary services"
+    },
+    {
+        "海事安全委員會": "Maritime Safety Committee (MSC)"
+    },
+    {
+        "航港資訊系統單一窗口": "Maritime Transport Network Portal (MTNet)"
+    },
+    {
+        "大眾捷運": "mass rapid transit  (MRT)"
+    },
+    {
+        "大眾捷運系統": "mass rapid transit system"
+    },
+    {
+        "發展大眾運輸條例": "Mass Transportation Development Act"
+    },
+    {
+        "轉播遇難信號": "Mayday Relay"
+    },
+    {
+        "機械通風效應": "mechanical ventilation effectiveness"
+    },
+    {
+        "媒體伺服器": "media server"
+    },
+    {
+        "巨型船舶": "mega ship"
+    },
+    {
+        "都會區": "metropolitan area"
+    },
+    {
+        "都會區捷運系統": "metropolitan mass rapid transit (MRT) system"
+    },
+    {
+        "微波信號柱": "microwave (beacon) pole"
+    },
+    {
+        "金門尚義機場飛安中期改善計畫": "Mid-term Plan for Kinmen Airport Flight Safety Improvement"
+    },
+    {
+        "迷你陸橋": "mini landbridge"
+    },
+    {
+        "小三通": "Mini Three Links"
+    },
+    {
+        "微型樁": "mini-pile"
+    },
+    {
+        "混合車流": "mixed traffic flow"
+    },
+    {
+        "混合列車": "mixed train"
+    },
+    {
+        "行動數據網路": "mobile data network"
+    },
+    {
+        "行動虛擬網路業者": "mobile virtual network operator (MVNO)"
+    },
+    {
+        "運式能源密集": "modal energy intensity"
+    },
+    {
+        "一體式車輪": "monoblock wheel"
+    },
+    {
+        "單軌捷運系統": "monorail rapid transit system"
+    },
+    {
+        "交通部中央氣象局氣象觀測設施周圍土地限制建築辦法": "MOTC Central Weather Bureau Regulations Restricting Construction on Land Peripheral to Meteorological Observation Facilities"
+    },
+    {
+        "機車優先道": "motorcycle priority lane"
+    },
+    {
+        "機車停等區": "motorcycle waiting zone (?)"
+    },
+    {
+        "機車騎士安全": "motorcyclist safety"
+    },
+    {
+        "多重功能光纖接取網路設備": "multi-function fiber-optic access network"
+    },
+    {
+        "多媒體簡訊服務": "multimedia messaging service (MMS)"
+    },
+    {
+        "電氣軌道總合試驗車": "multipurpose inspection train"
+    },
+    {
+        "多目的旅次": "multi-purpose trip"
+    },
+    {
+        "多功能警示標誌": "multi-purpose warning sign"
+    },
+    {
+        "貨物名稱": "name/description of goods"
+    },
+    {
+        "窄軌距": "narrow gauge"
+    },
+    {
+        "窄頻 ISDN": "narrowband ISDN (N-ISDN)"
+    },
+    {
+        "國家通訊": "national communications"
+    },
+    {
+        "國土資訊系統": "National Geographic Information System"
+    },
+    {
+        "國家資訊通信基本建設": "National Information Infrastructure（簡稱 NII）"
+    },
+    {
+        "國家智慧型運輸基礎建設": "National Intelligent Transportation Infrastructure (NITI)"
+    },
+    {
+        "我國IPv6建置計畫": "National IPv6 Deployment and Promotion Project"
+    },
+    {
+        "國家級架構": "national system architecture (NSA)"
+    },
+    {
+        "自然災害交通管理": "natural disaster traffic management"
+    },
+    {
+        "嚮導員": "navigator (鐵路用語)"
+    },
+    {
+        "協議價購": "negotiate the purchase price (地主與政府協調地價)"
+    },
+    {
+        "網路設施": "network facilities"
+    },
+    {
+        "網路營運者": "network operator"
+    },
+    {
+        "中性區間": "neutral section"
+    },
+    {
+        "新奧工法": "New Austrian Tunneling Method"
+    },
+    {
+        "硝化作用": "nitrification"
+    },
+    {
+        "禁止左轉": "No left turn"
+    },
+    {
+        "禁止迴轉": "NO U TURN"
+    },
+    {
+        "噪音防制": "noise abatement"
+    },
+    {
+        "非道碴軌道": "non-ballasted track"
+    },
+    {
+        "不停靠證明": "non-calling certificate"
+    },
+    {
+        "非車輛化": "non-motorized"
+    },
+    {
+        "不收縮水泥砂漿": "non-shrink grout;non-shrink mortar"
+    },
+    {
+        "無船公共運送人": "non-vessel operating common carrier (NVOCC)"
+    },
+    {
+        "不在合約範圍": "not in contract (NIC)"
+    },
+    {
+        "肇事件數": "number of accidents"
+    },
+    {
+        "死亡數": "number of deaths"
+    },
+    {
+        "車輛登記數": "number of registered vehicles"
+    },
+    {
+        "職業災害防治方案": "Occupational Hazard Prevention Program"
+    },
+    {
+        "抵配地": "offset land"
+    },
+    {
+        "離島航運": "offshore island air and sea transport"
+    },
+    {
+        "路外停車場": "off-street parking lot"
+    },
+    {
+        "油船": "oil tanker"
+    },
+    {
+        "單行道": "one-way street"
+    },
+    {
+        "過港隧道裝載危險品車輛通行線上申請系統": "Online Application System for Vehicles to Carry Hazardous Items through the Cross-harbor Tunnel"
+    },
+    {
+        "道路內腳踏車車道": "on-street bike lane (市區);on-road bike lane (郊外)"
+    },
+    {
+        "舉證責任": "onus of proof; burden of proof"
+    },
+    {
+        "車廂附有風檔打開裝置": "open gangway coach"
+    },
+    {
+        "開放式地理資訊服務模式": "open geographic information services model; open GIS service model"
+    },
+    {
+        "開放天空協定": "Open Skies Agreement"
+    },
+    {
+        "開放式系統互連架構": "open systems interconnection (OSI) architecture"
+    },
+    {
+        "明挖隧道": "open-cut tunnel"
+    },
+    {
+        "營運設施汰換更新計畫": "Operating Equipment Replacement Plan"
+    },
+    {
+        "行駛延日車數": "operating vehicle days"
+    },
+    {
+        "營運競標制度": "operation bidding system"
+    },
+    {
+        "操作管理與維運": "operation, administration and maintenance (OA&M)"
+    },
+    {
+        "營運管制中心": "operations control center"
+    },
+    {
+        "花蓮港務局組織條例": "Organic Act for Hualien Harbor Bureau"
+    },
+    {
+        "花蓮港務局棧埠管理處組織條例": "Organic Act for the Hualien Harbor Bureau Department of Stevedoring and Warehousing"
+    },
+    {
+        "花蓮港務局港埠工程處組織條例": "Organic Act for the Hualien Harbor Bureau Harbor Engineering Office"
+    },
+    {
+        "正射影像鑲嵌圖": "orthophoto mosaic"
+    },
+    {
+        "故障": "Out of Order (標示); malfunction"
+    },
+    {
+        "外港區使用規劃": "outer port area usage planning"
+    },
+    {
+        "全盤檢修": "overhaul"
+    },
+    {
+        "架空標誌": "overhead sign/signage"
+    },
+    {
+        "巴拿馬極限型船": "Panamax vessel"
+    },
+    {
+        "大貨車停車場": "parking lot for large trucks"
+    },
+    {
+        "車位小時": "parking space hour"
+    },
+    {
+        "部分驗收": "partial inspection and acceptance"
+    },
+    {
+        "旅客橋": "passenger access bridge"
+    },
+    {
+        "客貨運園區": "passenger and cargo park"
+    },
+    {
+        "定員": "passenger capacity"
+    },
+    {
+        "旅客資訊系統": "passenger information system (PIS)"
+    },
+    {
+        "客船": "passenger ship; passenger boat"
+    },
+    {
+        "每車公里客運密度": "passengers per bus-kilometer"
+    },
+    {
+        "路面標記": "pavement markings"
+    },
+    {
+        "路面等級": "pavement serviceability (rating)"
+    },
+    {
+        "尖峰時段旅次發生率": "peak hour trip generation rate"
+    },
+    {
+        "尖峰時間": "peak time (大眾運輸工具);rush hour (路況)"
+    },
+    {
+        "尖峰小時交通量": "peak-hour traffic volume"
+    },
+    {
+        "尖峰車位使用率": "peak-time parking space occupancy/usage (rate)"
+    },
+    {
+        "人行地下道": "pedestrian underpass"
+    },
+    {
+        "行人徒步區": "pedestrian zone"
+    },
+    {
+        "澎湖風帆海鱺節": "Penghu Windsurfing & Cobia Feasting Festival"
+    },
+    {
+        "衝擊鑽探": "percussion boring"
+    },
+    {
+        "粗貨": "perishable and/or contaminating cargo"
+    },
+    {
+        "透水試驗": "permeability test"
+    },
+    {
+        "可運行速率": "permissible operating speeds"
+    },
+    {
+        "自用(車)": "personal-use vehicle"
+    },
+    {
+        "花蓮港第二期擴建工程": "Phase 2 of the Hualien Port Expansion Project"
+    },
+    {
+        "網路電話/傳真閘道器": "phone/fax over IP gateway"
+    },
+    {
+        "像片坐標系": "photograph coordinate system; photographic coordinate system"
+    },
+    {
+        "實體架構": "physical architecture"
+    },
+    {
+        "π橋": "pi-girder bridge; π-shaped bridge"
+    },
+    {
+        "平溪天燈節": "Pingxi Sky Lantern Festival"
+    },
+    {
+        "高鐵站區聯外改善計畫": "Plan for Improving Access to HSR Station Districts"
+    },
+    {
+        "台灣地區易肇事路段改善計畫": "Plan for Improving Accident-Prone Road Sections in the Taiwan Area"
+    },
+    {
+        "基隆港修造廠遷建及原址改建貨櫃碼頭工程計畫": "Plan for Relocating the Keelung Port Shipyard and Constructing a Container Terminal in Its Place"
+    },
+    {
+        "郵政局屋及設備更新計畫": "Plan for the Renovation of Post Office Buildings and Equipment"
+    },
+    {
+        "桃園航空貨運園區暨大園（南崁地區）特定區計畫": "Plan for the Taoyuan Air Cargo Park and the Dayuan (Nankan) Designated Area"
+    },
+    {
+        "病蟲害防治": "plant disease and pest control"
+    },
+    {
+        "抽取式運算模式": "pluggable computing model"
+    },
+    {
+        "網路介接點": "point of interface (POI)"
+    },
+    {
+        "商港管轄地區": "port administration zone"
+    },
+    {
+        "進出港簽証系統": "port entry and exit visa system"
+    },
+    {
+        "花蓮港內外港區聯絡道路": "Port of Hualien Inner and Outer Harbor Areas Connecting Road"
+    },
+    {
+        "台中港工作船繫泊作業須知": "Port of Taichung Directions on Mooring Workboats"
+    },
+    {
+        "台中港船舶繫泊作業須知": "Port of Taichung Ship Berthing Directions"
+    },
+    {
+        "港埠政策": "Port Policy"
+    },
+    {
+        "港口國管制": "Port State Control (PSC)"
+    },
+    {
+        "港埠費率": "port tariff"
+    },
+    {
+        "預告號誌機": "position light signals"
+    },
+    {
+        "郵政法": "Postal Act"
+    },
+    {
+        "郵政資訊作業發展計畫": "Postal Information Systems Development Plan"
+    },
+    {
+        "郵政儲金匯兌法": "Postal Savings and Remittances Act"
+    },
+    {
+        "供電與電車線系統": "power supply and catenary system"
+    },
+    {
+        "動力傳動軸": "power transmission shaft;Cardan shaft"
+    },
+    {
+        "預鑄電纜槽": "precast cable trough"
+    },
+    {
+        "預鑄I型梁": "precast I-girder"
+    },
+    {
+        "預鑄場": "precasting yard"
+    },
+    {
+        "台鐵都會區捷運化暨區域鐵路先期建設計畫": "Preliminary Plan for TRA Metropolitan Area Rapid Transitization and Regional Railway Construction"
+    },
+    {
+        "籌備合約": "preparatory contract"
+    },
+    {
+        "研擬區段徵收計畫書草案": "preparing a draft plan for zone expropriation"
+    },
+    {
+        "預力樑": "prestressed beam"
+    },
+    {
+        "定時號誌控制": "pre-timed signal control"
+    },
+    {
+        "比價": "price comparison (purchasing)"
+    },
+    {
+        "主中心局": "primary center (PC)"
+    },
+    {
+        "透層": "prime coat"
+    },
+    {
+        "像片主點": "principal point of (aerial) photograph"
+    },
+    {
+        "私人航空器": "private aircraft"
+    },
+    {
+        "民間參與": "private participation"
+    },
+    {
+        "新購柴電機車六輛案": "Procurement Plan for Six Diesel Locomotives"
+    },
+    {
+        "職業駕駛人": "professional driver"
+    },
+    {
+        "禁止錨泊區": "prohibited-anchorage area"
+    },
+    {
+        "購置六十一輛GE電力機車動輪空轉偵測器案": "Project to Purchase 61 GE Electric Locomotive Axle-mounted Wheel-slip Detectors"
+    },
+    {
+        "僅有財損": "property damage only (PDO)"
+    },
+    {
+        "研擬區段徵收後地價評議會提案": "proposal for land value assessment after zone expropriation"
+    },
+    {
+        "溫泉區管理計畫": "Proposed Regulations for Administration of Hot Spring Areas"
+    },
+    {
+        "防護網": "protective screen; protective netting"
+    },
+    {
+        "通訊協定堆疊": "protocol stack"
+    },
+    {
+        "提供郵政資金促進國家經濟發展及穩定財政金融": "providing postal savings deposit funds to promote national economic development and stabilize financial markets"
+    },
+    {
+        "虛擬距離": "pseudorange"
+    },
+    {
+        "公開說明會": "public (explanatory) meeting"
+    },
+    {
+        "區段徵收計畫書公告及通知": "Public Announcement and Notification of Zone Expropriation Proposal"
+    },
+    {
+        "公共藝術及景觀設施": "public art and landscape installations"
+    },
+    {
+        "環境衛生用藥": "public health pesticide"
+    },
+    {
+        "公眾信息服務": "public message service;public message network"
+    },
+    {
+        "公眾電話交換網路": "public switched telephone network (PSTN)"
+    },
+    {
+        "大眾運輸系統整合": "public transport system integration"
+    },
+    {
+        "行人觸動號誌": "push-button pedestrian crossing signal"
+    },
+    {
+        "橋頭、善化、後龍、樹林監控站": "Qiaotou, Shanhua, Houlong and Shulin Monitoring Stations"
+    },
+    {
+        "品質保證": "quality assurance"
+    },
+    {
+        "品保查驗": "quality assurance inspection"
+    },
+    {
+        "品保監督與查驗": "quality assurance monitoring and inspection"
+    },
+    {
+        "快速檢修": "quick repairs"
+    },
+    {
+        "輻射性干擾": "radiation interference"
+    },
+    {
+        "副載波廣播系統": "radio data system (RDS)"
+    },
+    {
+        "射頻": "radio frequency (RF)"
+    },
+    {
+        "無線電轉播站": "radio relay station"
+    },
+    {
+        "電波偵測能量計畫": "Radio Spectrum Monitoring Project"
+    },
+    {
+        "泛舟賽": "raft race"
+    },
+    {
+        "貨車分等(鐵路)": "rail freight car classification"
+    },
+    {
+        "軌道檢測技術": "rail inspection technology/technique"
+    },
+    {
+        "鐵路橋樑": "railway bridge"
+    },
+    {
+        "鐵路立體化": "railway grade separation"
+    },
+    {
+        "鐵路立體化工程計畫": "Railway Grade-Separation Project"
+    },
+    {
+        "軌道安全管理系統": "Railway Safety Management System"
+    },
+    {
+        "方向閘柄": "railway switch lever"
+    },
+    {
+        "鐵路運送規則": "Railway Transport Rules"
+    },
+    {
+        "匝道封閉": "ramp closure; ramp closed"
+    },
+    {
+        "匝道儀控": "ramp metering"
+    },
+    {
+        "靜態快速測量": "rapid static surveying"
+    },
+    {
+        "真時操船": "real-time ship maneuvering"
+    },
+    {
+        "列車後方": "rear buffer zone(designated distance behind train)"
+    },
+    {
+        "重現期": "recurrence interval; return period"
+    },
+    {
+        "紅線禁止臨停": "Red Line: No Stopping"
+    },
+    {
+        "折射": "refraction"
+    },
+    {
+        "區域傳輸網路": "regional transmission network"
+    },
+    {
+        "航空器適航檢定給證規則": "Regulations for Aircraft Airworthiness Certification"
+    },
+    {
+        "新進乙級船員就業考核辦法": "Regulations for Evaluating New Ratings"
+    },
+    {
+        "原交通部郵政總局及其所屬機構現職人員優惠退休資遺辦法": "Regulations for Favorable Retirement and Severance Provisions for Employees of the Former Directorate General of Posts and Subordinate Institutions"
+    },
+    {
+        "船舶國籍證書核發規則": "Regulations for Issuing Certificates of Vessel Nationality"
+    },
+    {
+        "績優氣象業務人員獎勵表揚辦法": "Regulations for Rewarding and Commending Outstanding Meteorological Service"
+    },
+    {
+        "客船管理規則": "Regulations for the Administration of Passenger Vessels"
+    },
+    {
+        "專用氣象站認可辦法": "Regulations for the Approval of Specially Licensed Meteorological  Stations"
+    },
+    {
+        "航空人員訓練機構設立規則": "Regulations for the Establishment of Aviation Personnel Training Institutions"
+    },
+    {
+        "郵政儲金匯兌業務內部控制及稽核制度實施辦法": "Regulations for the Internal Control and Auditing of Postal Remittance and Savings Operations"
+    },
+    {
+        "郵政簡易人壽保險投保規則": "Regulations for the Purchase of Chunghwa Post Simple Life Insurance"
+    },
+    {
+        "第三代行動通信業務管理規則": "Regulations Governing 3G Mobile Telecommunications Businesses"
+    },
+    {
+        "學術試驗無線電臺管理辦法": "Regulations Governing Academic Experimental Radio Stations"
+    },
+    {
+        "航空貨物集散站經營業管理規則": "Regulations Governing Air Cargo Terminal Operators"
+    },
+    {
+        "航空貨運承攬業管理規則": "Regulations Governing Air Freight Forwarders"
+    },
+    {
+        "航空器飛航作業管理規則": "Regulations Governing Aircraft Flight Operations"
+    },
+    {
+        "空廚業管理規則": "Regulations Governing Airline Catering Services"
+    },
+    {
+        "航空站地勤業管理規則": "Regulations Governing Airport Ground Handling Services"
+    },
+    {
+        "國際商港棧埠管理規則": "Regulations Governing Berthing, Cargo Handling and Passenger Services in International Commercial Ports;Regulations Governing International Commercial Port Terminal Operations"
+    },
+    {
+        "有線廣播電視系統工程技術管理規則": "Regulations Governing Cable TV Broadcasting System Engineering"
+    },
+    {
+        "貨櫃集散站經營業管理規則": "Regulations Governing Container Terminal Operators"
+    },
+    {
+        "電信管制射頻器材管理辦法": "Regulations Governing Controlled Telecommunications Radio-Frequency Devices"
+    },
+    {
+        "專用電信設置使用及連接公共通信系統管理辦法": "Regulations Governing Dedicated Lines' Installation, Use and Connection to Public Telecommunications Systems"
+    },
+    {
+        "風景特定區管理規則": "Regulations Governing Designated Scenic Areas"
+    },
+    {
+        "國籍民用航空運輸業聘僱外籍駕駛員許可及管理辦法": "Regulations Governing Employment of Foreign Pilots by ROC Civil Air Carriers"
+    },
+    {
+        "固定通信業務管理規則": "Regulations Governing Fixed Telecommunications Operations"
+    },
+    {
+        "外籍航空器飛航國境規則": "Regulations Governing Foreign Aircraft Flying in ROC Territory"
+    },
+    {
+        "普通航空業管理規則": "Regulations Governing General Aviation Enterprises"
+    },
+    {
+        "旅館業管理規則": "Regulations Governing Hotel Enterprises"
+    },
+    {
+        "第一類電信事業網路互連管理辦法": "Regulations Governing Interconnection of Type I Telecom Carrier Networks"
+    },
+    {
+        "國際商港港務管理規則": "Regulations Governing International Commercial Port Administration"
+    },
+    {
+        "郵政儲金投資債券票券管理辦法": "Regulations Governing Investment of Postal Savings in Bonds, Bills and Notes"
+    },
+    {
+        "海水污染管理規則": "Regulations Governing Marine Pollution"
+    },
+    {
+        "民宿管理辦法": "Regulations Governing Minsu Accommodations;Regulations Governing Homestay Accommodations註：homestay通常是房客跟屋主住在一起，短暫寄居；Minsu是源自日文漢字「民宿」Minshuku"
+    },
+    {
+        "海運承攬運送業管理規則": "Regulations Governing Ocean Freight Forwarders"
+    },
+    {
+        "郵政儲金投資受益憑證及上市(櫃)股票管理辦法": "Regulations Governing Postal Savings Investment in Beneficiary Certificates and Publicly Listed or OTC Traded Stocks"
+    },
+    {
+        "自然人文生態景觀區專業導覽人員管理辦法": "Regulations Governing Professional Guides for Natural, Cultural and Ecological Scenic Areas"
+    },
+    {
+        "電波監理業務管理辦法": "Regulations Governing Radio Spectrum Supervision"
+    },
+    {
+        "打撈業管理規則": "Regulations Governing Salvage Operators"
+    },
+    {
+        "衛星通信業務管理規則": "Regulations Governing Satellite Communications Services"
+    },
+    {
+        "船務代理業管理規則": "Regulations Governing Ship Agencies"
+    },
+    {
+        "船舶無線電臺管理辦法": "Regulations Governing Shipboard Radio Stations"
+    },
+    {
+        "船舶運送業及船舶出租業管理規則": "Regulations Governing Shipping Vessel Carriage and Chartering Operators"
+    },
+    {
+        "第一類電信事業資費管理辦法": "Regulations Governing Tariffs of Type I Telecommunications Enterprises"
+    },
+    {
+        "電信普及服務管理辦法": "Regulations Governing Telecommunications Universal Service"
+    },
+    {
+        "航空人員檢定給證管理規則": "Regulations Governing the Assessment and Certification of Aviation Personnel"
+    },
+    {
+        "民用航空運輸業管理規則": "Regulations Governing the Civil Air Transport Industry"
+    },
+    {
+        "商港服務費收取保管及運用辦法": "Regulations Governing the Collection, Custody and Use of Commercial Port Dues"
+    },
+    {
+        "航空器維修廠所設立檢定規則": "Regulations Governing the Establishment and Certification of Aircraft Maintenance Stations"
+    },
+    {
+        "無線廣播電視電臺設置使用管理辦法": "Regulations Governing the Establishment and Use of Radio Broadcasting Television Stations"
+    },
+    {
+        "計程車專用無線電臺設置使用管理辦法": "Regulations Governing the Establishment and Use of Taxi Radio Stations"
+    },
+    {
+        "廣播電視業者設置地球電臺管理辦法": "Regulations Governing the Establishment of Earth Stations by Radio and Television Broadcasters"
+    },
+    {
+        "(衛星廣播電視工程技術管理辦法)衛星廣播電視事業設置地球電臺管理辦法": "Regulations Governing the Establishment of Earth Stations by Satellite Broadcasters"
+    },
+    {
+        "廣播電視業者設置微波電臺管理辦法": "Regulations Governing the Establishment of Microwave Stations by Radio & Television Broadcasters"
+    },
+    {
+        "電信業電腦處理個人資料管理辦法": "Regulations Governing the Handling of Digital Personal Data by Telecommunications Enterprises"
+    },
+    {
+        "學校實習無線廣播電臺設置使用管理辦法": "Regulations Governing the Installation and Use of School Practice Radio  Stations"
+    },
+    {
+        "郵政簡易人壽保險監督管理辦法": "Regulations Governing the Supervision of Chunghwa Post Simple Life Insurance"
+    },
+    {
+        "郵政儲金匯兌業務監督管理辦法": "Regulations Governing the Supervision of Postal Remittance and Savings Operations"
+    },
+    {
+        "航空器產品裝備及其零組件適航驗證管理辦法": "Regulations Governing the Testing and Certification of Aircraft Equipment, Parts and Components"
+    },
+    {
+        "觀光遊樂業管理規則": "Regulations Governing Tourist Amusement Enterprises"
+    },
+    {
+        "旅行業管理規則": "Regulations Governing Travel Agencies"
+    },
+    {
+        "第二類電信事業管理規則": "Regulations Governing Type II Telecommunications Operators"
+    },
+    {
+        "外國雇用人僱用中華民國船員許可辦法": "Regulations on Approving the Employment of ROC Seamen by Foreign Employers"
+    },
+    {
+        "高級電信工程人員及電信工程人員資格取得與管理辦法": "Regulations on Awarding and Administering Senior Telecommunications Engineer and Telecommunications Engineer Certification"
+    },
+    {
+        "航空客貨損害賠償辦法": "Regulations on Compensation for Harm to Air Passengers and Cargo"
+    },
+    {
+        "航空器產品裝備及其零組件生產檢定委託辦法": "Regulations on Delegating the Production Testing and Certification of Aircraft Equipment, Parts and Components"
+    },
+    {
+        "從事預報業務許可辦法": "Regulations on Permission to Provide Meteorological Forecast Services"
+    },
+    {
+        "驗船機構監督辦法": "Regulations on the Supervision of Ship Classification Societies"
+    },
+    {
+        "氣象預報警報統一發布辦法": "Regulations on the Unified Issuance of Meteorological Forecasts and Warnings"
+    },
+    {
+        "船舶丈量規則": "Regulations on Tonnage Measurement of Ships;Ship Measurement Regulations"
+    },
+    {
+        "台中港船舶移泊港外等候船席辦法": "Regulations on Vessels Shifting Moorings Outside the Harbor While Awaiting Berth in Taichung Port"
+    },
+    {
+        "救援列車": "relief train"
+    },
+    {
+        "遠端停機位": "remote aircraft stand"
+    },
+    {
+        "(搖)遙感(採)探測": "remote sensing and detection"
+    },
+    {
+        "遠端交換單元": "remote switch unit (RSU)"
+    },
+    {
+        "救難作業、搜救行動": "rescue operation, search and rescue"
+    },
+    {
+        "安置拆遷戶": "resettling occupants of demolished homes"
+    },
+    {
+        "廁所": "restroom; toilet"
+    },
+    {
+        "架空回流線": "return feeder wire"
+    },
+    {
+        "申領抵價地及優先買回案件之審核": "review of applications for replacement or priority buyback of compulsorily purchased land"
+    },
+    {
+        "芮氏規模": "Richter magnitude; Richter scale"
+    },
+    {
+        "共乘配對與預約服務": "rideshare matching and reservation service"
+    },
+    {
+        "剛性路面": "rigid pavement"
+    },
+    {
+        "道床": "road bed"
+    },
+    {
+        "路線封鎖解除": "road closure removal"
+    },
+    {
+        "高鐵橋下道路": "road under HSR elevated line"
+    },
+    {
+        "路邊緊急電話": "roadside emergency telephone"
+    },
+    {
+        "路側單元": "roadside unit (RSU)"
+    },
+    {
+        "(路線、) 路幅": "roadway"
+    },
+    {
+        "岩石品質指標": "rock quality designation (RQD)"
+    },
+    {
+        "路線 (、路幅)": "route"
+    },
+    {
+        "進路鎖錠": "route locking"
+    },
+    {
+        "膠輪式門型機": "rubber-tyred gantry crane"
+    },
+    {
+        "船舶載重線勘劃規則": "Rules on Setting Ship Load Lines"
+    },
+    {
+        "減速標線": "rumble strips"
+    },
+    {
+        "行車時間": "running time"
+    },
+    {
+        "安全準備": "safety readiness"
+    },
+    {
+        "打撈": "salvage (物), recover (人或動物)"
+    },
+    {
+        "泥砂生產量": "sand sediment yield"
+    },
+    {
+        "三義木雕藝術節": "Sanyi Wood Carving Festival"
+    },
+    {
+        "搜索與救助": "SAR"
+    },
+    {
+        "衛星導航系統": "satellite navigation system;Global Positioning System (GPS)"
+    },
+    {
+        "交通部中央氣象局規費收費標準": "Schedule of Fees and Charges of the Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "定期班機": "scheduled flight; regular flight service"
+    },
+    {
+        "屏柵線": "screenline; screen line"
+    },
+    {
+        "海運貿易": "seaborne trade"
+    },
+    {
+        "船員服務規則": "Seafarer Service Regulations"
+    },
+    {
+        "海勤": "seagoing service"
+    },
+    {
+        "搜索與救助": "search and rescue"
+    },
+    {
+        "第2港口信號台": "Second Harbor Signal Station"
+    },
+    {
+        "已乘區間": "section already traveled"
+    },
+    {
+        "區間絕緣裝置": "section insulator"
+    },
+    {
+        "淤積量": "sedimentation volume"
+    },
+    {
+        "地震儀": "seismograph; seismometer"
+    },
+    {
+        "地震學": "seismology"
+    },
+    {
+        "甄審委員會": "selection committee"
+    },
+    {
+        "半橫流式通風": "semi-transverse ventilation"
+    },
+    {
+        "分提單": "separate bill of lading (貨運代理人提單: house bill of lading)"
+    },
+    {
+        "服務流率": "service flow rate"
+    },
+    {
+        "服務道路(建議修正成輔助道路)": "service road"
+    },
+    {
+        "服務流量": "service volume"
+    },
+    {
+        "測沉板": "settlement platform; settlement plate"
+    },
+    {
+        "機上盒": "set-top box"
+    },
+    {
+        "共構": "shared/integrated structure; joint structure"
+    },
+    {
+        "潛盾工法": "shield method"
+    },
+    {
+        "船舶設備規則": "Ship and Boat Equipment Regulations"
+    },
+    {
+        "船舶設備規則第七編無線電信設備": "Ship Equipment Regulations Part 7: Radio Communications Equipment"
+    },
+    {
+        "航運業及進出港簽證系統": "shipping industry adminstration and port entry/exit permit systems"
+    },
+    {
+        "定期船公司": "shipping line;passenger line"
+    },
+    {
+        "貨物短損公證報告": "shortage/damage survey report"
+    },
+    {
+        "噴凝土": "shotcrete"
+    },
+    {
+        "權(灌)木": "shrub; bush"
+    },
+    {
+        "退關貨": "shut-out cargo"
+    },
+    {
+        "車輛邊撞": "side collision"
+    },
+    {
+        "側線": "siding; sidetrack (鐵道側線)"
+    },
+    {
+        "號誌顯示": "signal aspects"
+    },
+    {
+        "燈號轉換時段": "signal change interval"
+    },
+    {
+        "慢車道專用號誌": "signal for slow lane only"
+    },
+    {
+        "防護補償協會間對貨損理賠之協定": "Inter-Club Agreement"
+    },
+    {
+        "號誌分相": "signal phase"
+    },
+    {
+        "路簽機": "signalling block system"
+    },
+    {
+        "簽認儀式": "signing and confirmation ceremony (註: for contracts)"
+    },
+    {
+        "粉土": "silt"
+    },
+    {
+        "單純懸垂方式": "simple catenary (model/system/design/etc.)"
+    },
+    {
+        "簡易人壽保險法": "Simple Life Insurance Act"
+    },
+    {
+        "簡單運輸管理通訊協定": "Simple Transportation Management Protocol (STMP)"
+    },
+    {
+        "同頻發射共波式無線電話系統": "simulcast wireless telephony system"
+    },
+    {
+        "單一(一次)簽入": "single sign-on (SSO)"
+    },
+    {
+        "單線/雙線": "single-track / double-track (形容詞)"
+    },
+    {
+        "單包非包裝貨": "single-unit unpacked cargo"
+    },
+    {
+        "更換軌枕": "sleeper replacement"
+    },
+    {
+        "梳子壩": "slit dam"
+    },
+    {
+        "租用艙位": "slot charter"
+    },
+    {
+        "摺疊式小桌": "small folding table"
+    },
+    {
+        "小船管理規則": "Small Vessel Management Regulations"
+    },
+    {
+        "土質改良": "soil texture improvement"
+    },
+    {
+        "土方分析": "soil volume analysis (?)"
+    },
+    {
+        "音量訊號": "sound volume signal"
+    },
+    {
+        "資金來源": "source(s) of funds"
+    },
+    {
+        "特別准單": "special permit"
+    },
+    {
+        "特種車輛": "special purpose motor vehicles"
+    },
+    {
+        "特種車": "special purpose vehicle"
+    },
+    {
+        "專業區": "special zone"
+    },
+    {
+        "剩餘土石方處理": "spoil disposal"
+    },
+    {
+        "現點速率": "spot speed"
+    },
+    {
+        "利害相關者": "stakeholder; interested party"
+    },
+    {
+        "標準船用航行字彙": "standard marine navigation vocabulary"
+    },
+    {
+        "標準技術規範": "standard technical specification"
+    },
+    {
+        "旅行開始": "start of journey"
+    },
+    {
+        "航空器註冊國": "state of registry (for aircraft)"
+    },
+    {
+        "使用人所在國": "state of the operator"
+    },
+    {
+        "公營公司": "state-owned corporation;state-owned enterprise"
+    },
+    {
+        "靜態基線測量": "static baseline survey"
+    },
+    {
+        "站端軌道電路區間": "station end track circuit section (OS section)"
+    },
+    {
+        "定子": "stator"
+    },
+    {
+        "促進民間參與公共建設法": "Statute for Promoting Private Participation in Public Construction"
+    },
+    {
+        "立體像對": "stereo pair, stereoscopic pair"
+    },
+    {
+        "立體坐標儀": "stereocomparator"
+    },
+    {
+        "交通部台灣鐵路管理局行車特定事項": "Stipulations for Train Operation by Taiwan Railways Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "半動態基線測量": "stop-and-go survey"
+    },
+    {
+        "(岩層)走向": "strike (of strata)"
+    },
+    {
+        "區段徵收計畫書核報": "submission of zone expropriation proposal"
+    },
+    {
+        "從屬號誌機": "subordinate signal unit"
+    },
+    {
+        "用戶線路": "subscriber line"
+    },
+    {
+        "補充測量": "supplementary survey"
+    },
+    {
+        "重量體積檢量公證報告": "Survey Report of Weight and Volume Measurement"
+    },
+    {
+        "對稱式數位用戶迴路": "symmetric digital subscriber loop (SDSL)"
+    },
+    {
+        "行車紀錄器": "tachograph (機械); dash cam (攝影機)"
+    },
+    {
+        "台中港船舶到港、進港、出港作業須知": "Taichung Harbor Guidelines for the Arrival, Entry and Exit of Vessels"
+    },
+    {
+        "台中港船舶夜航規定": "Taichung Harbor Night Navigation Rules"
+    },
+    {
+        "台北中華美食展": "Taipei Chinese Cuisine Fair"
+    },
+    {
+        "台北國際龍舟錦標賽": "Taipei International Dragon Boat Races"
+    },
+    {
+        "台北燈節": "Taipei Lantern Festival"
+    },
+    {
+        "台北捷運初期路網": "Taipei MRT system initial network (註: Taipei MRT is now called Taipei Metro)"
+    },
+    {
+        "台北港北外廓防波堤延伸工程計畫": "Taipei Port North Outer Breakwater Extension Project"
+    },
+    {
+        "台北港第二期聯外道路(臨港道路銜接西濱快速道路)工程計畫": "Taipei Port Phase 2 Project: Access Road Construction Plan (Connecting Harbor Roads and the West Coast Expressway)"
+    },
+    {
+        "台北港第二期工程台北港貨櫃儲運中心興建投資計畫": "Taipei Port Phase 2 Project: Container Yard Construction Financing Plan"
+    },
+    {
+        "台北港第二期工程第一散雜貨儲運中心興建投資計畫": "Taipei Port Phase Ⅱ Construction Project: Bulk & General Cargo Terminal 1 Plan"
+    },
+    {
+        "台東南島文化節": "Taitung Festival of Austronesian Cultures"
+    },
+    {
+        "台灣地區整體運輸系統規劃": "Taiwan Area integrated transportation system planning"
+    },
+    {
+        "台灣慶端陽龍舟賽": "Taiwan Dragon Boat Festival Races"
+    },
+    {
+        "臺灣強地動觀測計畫": "Taiwan Strong-Motion Instrument Program (TSMIP)"
+    },
+    {
+        "台灣茶藝博覽會": "Taiwan Tea Culture Expo"
+    },
+    {
+        "砸道機(扎道機)": "tamping machine; ballast tamper"
+    },
+    {
+        "桃園航空客運服務專用區-民航人員訓練中心建設計畫": "Taoyuan Air Passenger Service Zone - Civil Aviation Personnel Training Center Development Plan"
+    },
+    {
+        "國際港港埠業務費費率表": "Tariff of International Port Charges"
+    },
+    {
+        "高鐵建設與台電輸電線路遷移聯繫會報": "Task Force for Coordinating HSR Construction and Taipower Transmission Line Relocation"
+    },
+    {
+        "技工執照": "technician's license;mechanic's license"
+    },
+    {
+        "電話亭": "telephone booth"
+    },
+    {
+        "電傳（交）文件": "teletex"
+    },
+    {
+        "臨行通行證": "temporary pass"
+    },
+    {
+        "臨時性攔砂及導排水設施": "temporary sand/gravel trap and water diversion facilities"
+    },
+    {
+        "張力長度": "tension-length"
+    },
+    {
+        "終端機": "terminal"
+    },
+    {
+        "碼頭能量": "terminal capacity; wharf capacity"
+    },
+    {
+        "試車牌照": "test run license plate"
+    },
+    {
+        "東部鐵路改善計畫": "The Eastern Railway Improvement Project"
+    },
+    {
+        "全球定位系統": "the Global Positioning System (GPS)"
+    },
+    {
+        "交通事權": "the governing authority for transportation"
+    },
+    {
+        "區段徵收區內公共設施之規劃及設計": "the planning and design of public facilities within zone expropriation areas"
+    },
+    {
+        "國家智慧型運輸系統標準通訊協定": "the National Transportation Communications for Intelligent Transportation System Protocol (NTCIP)"
+    },
+    {
+        "經緯儀": "Theodolite"
+    },
+    {
+        "三相不平衡": "three-phase unbalance"
+    },
+    {
+        "按時提醒": "timed reminder"
+    },
+    {
+        "時程網圖": "time-scaled network diagram"
+    },
+    {
+        "時制設計": "timing plan design"
+    },
+    {
+        "工具材料車庫": "tools and parts room"
+    },
+    {
+        "全測站經緯儀": "total station theodolite (TST)"
+    },
+    {
+        "遊覽車客運業": "tour bus industry;tour bus operator(s)"
+    },
+    {
+        "發展觀光條例": "Tourism Development Act"
+    },
+    {
+        "觀光政策白皮書": "Tourism Policy White Paper"
+    },
+    {
+        "台鐵公司化（再生）計畫": "TRA Corporatization Plan"
+    },
+    {
+        "台鐵左營新站工程興建計畫": "TRA Zuoying New Station Construction Project"
+    },
+    {
+        "軌道線型": "track alignment"
+    },
+    {
+        "軌道中心線": "track centerline"
+    },
+    {
+        "軌道電路": "track circuit"
+    },
+    {
+        "軌道電路": "track circuit"
+    },
+    {
+        "軌道不整：高低、方向、平面性、軌距、水平": "track irregularity: longitudinal level, alignment, torsion, gauge, level"
+    },
+    {
+        "軌道里程": "track kilometer"
+    },
+    {
+        "更新軌道結構計畫": "Track Structure Renovation Project"
+    },
+    {
+        "軌道切換工程": "track switching engineering"
+    },
+    {
+        "電力檢測": "traction power inspection"
+    },
+    {
+        "交通事故": "traffic accident"
+    },
+    {
+        "肇事責任": "traffic accident responsibility"
+    },
+    {
+        "筒型交通錐": "traffic barrel; traffic drum"
+    },
+    {
+        "交通寧靜區": "traffic calming zone"
+    },
+    {
+        "交通錐": "traffic cone"
+    },
+    {
+        "交通壅塞": "traffic congestion"
+    },
+    {
+        "交通環境影響管理": "traffic environmental impact management"
+    },
+    {
+        "交通衝擊評估": "Traffic Impact Assessment (TIA)"
+    },
+    {
+        "分道航行制（計畫）": "traffic separation scheme"
+    },
+    {
+        "列車等級": "train classification"
+    },
+    {
+        "列車行駛次數報表": "train cumulative runs table"
+    },
+    {
+        "列車終點指示設備": "train destination sign system"
+    },
+    {
+        "列車進行方向指示器": "train direction indicator"
+    },
+    {
+        "列車資訊系統": "train information display system"
+    },
+    {
+        "交通部台灣鐵路管理局行車實施要點": "Train Operation Directions of the Taiwan Railways Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "導流堤": "training jetty (Coastal Engineering)"
+    },
+    {
+        "移轉管轄": "transfer of supervision"
+    },
+    {
+        "指派路網": "transportation network assignment"
+    },
+    {
+        "轉運中心": "transshipment hub/center"
+    },
+    {
+        "轉口港": "transshipment port (entrepôt)"
+    },
+    {
+        "旅運型態": "travel pattern"
+    },
+    {
+        "旅行者服務資訊": "traveler information services"
+    },
+    {
+        "導線測量": "traverse survey"
+    },
+    {
+        "旅次吸引": "trip attraction"
+    },
+    {
+        "旅次產生": "trip generation"
+    },
+    {
+        "三腳架 (置放儀器)": "tripod"
+    },
+    {
+        "三腳架(置放高溫鍋/爐具)": "trivet"
+    },
+    {
+        "熱帶性低氣壓": "tropical depression (TD)"
+    },
+    {
+        "熱帶性暴風雨": "tropical storm"
+    },
+    {
+        "幹線港": "trunk line port"
+    },
+    {
+        "中繼式無線電": "trunked radio"
+    },
+    {
+        "洞道": "tunnel"
+    },
+    {
+        "隧道系統": "tunnel system"
+    },
+    {
+        "左轉後繼(續)直行": "Turn Left and Keep Going"
+    },
+    {
+        "轉點": "turning point (轉點指在何種情境下使用的？)"
+    },
+    {
+        "岔抌(枕)": "turnout tie; switch tie"
+    },
+    {
+        "極大型油輪": "ultra large crude carrier (ULCC)"
+    },
+    {
+        "超寬頻": "ultra-broadband"
+    },
+    {
+        "不平衡車道": "unbalanced lane usage"
+    },
+    {
+        "地下排水管": "underground drainage pipe"
+    },
+    {
+        "地下電纜": "underground electric cable"
+    },
+    {
+        "地下互感阻抗": "underground mutual impedance"
+    },
+    {
+        "鐵路地下化專案工程": "Underground Railway Project"
+    },
+    {
+        "無人看守之平交道": "unguarded crossing; unattended crossing"
+    },
+    {
+        "不斷電電源設備": "uninterruptible power supply (UPS)"
+    },
+    {
+        "不中斷電源設備": "uninterruptible power supply system"
+    },
+    {
+        "單位貨載": "unit load"
+    },
+    {
+        "卸貨記錄": "unloading record"
+    },
+    {
+        "都市設計": "urban design"
+    },
+    {
+        "都市運輸規劃": "urban transportation planning"
+    },
+    {
+        "美國公路土壤分類法": "US public roads soil classification system"
+    },
+    {
+        "使用者服務單元": "user services"
+    },
+    {
+        "可變標誌": "variable message sign (VMS); changeable message sign (CMS)"
+    },
+    {
+        "車輛偵測器": "vehicle detector"
+    },
+    {
+        "出車率": "vehicle dispatch rate"
+    },
+    {
+        "汽車檢驗": "vehicle inspection"
+    },
+    {
+        "車長": "vehicle length"
+    },
+    {
+        "客車乘載率": "vehicle occupancy rate"
+    },
+    {
+        "行車次數": "vehicle run"
+    },
+    {
+        "車輛過戶": "vehicle title transfer (美); vehicle ownership transfer (英)"
+    },
+    {
+        "車橋共振": "vehicle-bridge resonance"
+    },
+    {
+        "通風站": "ventilation station"
+    },
+    {
+        "縱斷線形": "vertical alignment"
+    },
+    {
+        "垂直跌水": "vertical drop; free overfall"
+    },
+    {
+        "傭船租金": "vessel charter payment"
+    },
+    {
+        "橫越（航道之）船舶": "vessel crossing"
+    },
+    {
+        "船舶登記法": "Vessel Registration Act"
+    },
+    {
+        "船舶檢丈": "vessel survey"
+    },
+    {
+        "振動監測系統": "vibration monitoring system"
+    },
+    {
+        "影像執法系統": "video enforcement system (VES)"
+    },
+    {
+        "隨選視訊服務": "video on demand (VOD)"
+    },
+    {
+        "蔓藤": "vine"
+    },
+    {
+        "視覺改善": "vision enhancement"
+    },
+    {
+        "分封式語音網路協定": "Voice over Internet Protocol (VoIP)"
+    },
+    {
+        "論程傭船": "voyage charter"
+    },
+    {
+        "易損性干擾": "vulnerability interference"
+    },
+    {
+        "垃圾分類": "waste sorting"
+    },
+    {
+        "污水處理廠": "wastewater treatment plant"
+    },
+    {
+        "波浪折射": "wave refraction"
+    },
+    {
+        "波長": "wavelength"
+    },
+    {
+        "道旁一般機電設施與設備": "wayside E/M facility;wayside E/M equipment"
+    },
+    {
+        "道旁號誌": "wayside signal"
+    },
+    {
+        "天氣資料整合暨即時預報系統": "Weather Integration and Nowcasting System (WINS)"
+    },
+    {
+        "楔型破壞": "wedge failure"
+    },
+    {
+        "碼頭裝卸能力": "wharf cargo-handling capacity"
+    },
+    {
+        "棧埠費率": "wharfage charge"
+    },
+    {
+        "車廂附有殘障人士進出設備": "wheelchair accessible car (火車);wheelchair accessible bus/coach (大客車)"
+    },
+    {
+        "廣域通訊": "wide area communication (WAC)"
+    },
+    {
+        "無線通訊協定": "wireless communication protocol;wireless transmission protocol"
+    },
+    {
+        "無線電叫人業務": "wireless paging service"
+    },
+    {
+        "X-光分析": "X-ray analysis"
+    },
+    {
+        "高聲電話": "yard interphone"
+    },
+    {
+        "鶯歌陶瓷嘉年華": "Yingge Ceramics Festival"
+    },
+    {
+        "班馬紋行人穿越道": "zebra crossing"
+    },
+    {
+        "左營基地": "Zuoying Base"
+    },
+    {
+        "超高": "外軌超高: superelevation of the outer rail;軌道超高度: the cant of the track"
+    }
+]

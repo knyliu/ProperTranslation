@@ -1,0 +1,8810 @@
+[
+    {
+        "權變評價法": "contingent valuation method"
+    },
+    {
+        "連續複利": "continuous compounding"
+    },
+    {
+        "連續雙向競價": "continuous double auction"
+    },
+    {
+        "連續耗損率": "continuous rate of leakage"
+    },
+    {
+        "連續性競價交易": "continuous trading"
+    },
+    {
+        "契約數量": "contract size"
+    },
+    {
+        "契約儲蓄機構": "contractual savings institution"
+    },
+    {
+        "控制變數技術": "control variate technique"
+    },
+    {
+        "主計長；財務長": "controller"
+    },
+    {
+        "轉換因子": "conversion factor"
+    },
+    {
+        "轉換溢價": "conversion premium"
+    },
+    {
+        "轉換價格": "conversion price"
+    },
+    {
+        "轉換比率": "conversion ratio"
+    },
+    {
+        "轉換價值": "conversion value"
+    },
+    {
+        "轉換": "convert"
+    },
+    {
+        "可轉換理論": "convertibility theory"
+    },
+    {
+        "可轉換特別股": "convertible preferred stock"
+    },
+    {
+        "可轉換證券": "convertible security"
+    },
+    {
+        "凸性": "convexity"
+    },
+    {
+        "協同效應": "coordinated effect"
+    },
+    {
+        "公司債": "corporate bond"
+    },
+    {
+        "企業融資": "corporate financing"
+    },
+    {
+        "企業掠奪者": "corporate raider"
+    },
+    {
+        "相關性": "correlation"
+    },
+    {
+        "相關係數": "correlation coeffeicient"
+    },
+    {
+        "債務成本": "cost of debt"
+    },
+    {
+        "權益成本": "cost of equity"
+    },
+    {
+        "新股成本": "cost of new stock"
+    },
+    {
+        "國家風險": "country risk"
+    },
+    {
+        "付息債券": "coupon bond"
+    },
+    {
+        "票面利率": "coupon rate"
+    },
+    {
+        "本息分離": "coupon striping"
+    },
+    {
+        "掩護性買權": "covered call"
+    },
+    {
+        "掩護性買權": "covered call"
+    },
+    {
+        "CIR模型": "Cox-Ingersoll-Ross model、 CIR model"
+    },
+    {
+        "信用": "credit"
+    },
+    {
+        "信用分配": "credit allocation"
+    },
+    {
+        "信用創造": "credit creation"
+    },
+    {
+        "信用違約交換": "credit default swap, CDS"
+    },
+    {
+        "信用衍生性商品": "credit derivatives"
+    },
+    {
+        "信用增強": "credit enhancement"
+    },
+    {
+        "信用擴張": "credit expansion"
+    },
+    {
+        "信用貸款": "credit loan"
+    },
+    {
+        "信用期間": "credit period"
+    },
+    {
+        "授信政策": "credit policy"
+    },
+    {
+        "信用評等": "credit rating"
+    },
+    {
+        "信用分配": "credit rationing"
+    },
+    {
+        "信用風險": "credit risk"
+    },
+    {
+        "信用評分": "credit score"
+    },
+    {
+        "信用利差": "credit spread"
+    },
+    {
+        "信用標準": "credit standard"
+    },
+    {
+        "信用條件": "credit terms"
+    },
+    {
+        "信用合作社": "credit union"
+    },
+    {
+        "信用增加式創新": "credit-generating innovation"
+    },
+    {
+        "交叉避險": "cross hedging"
+    },
+    {
+        "交叉匯率": "cross rate"
+    },
+    {
+        "跨境併購": "cross-border merger"
+    },
+    {
+        "橫斷面迴歸": "cross-sectional regression"
+    },
+    {
+        "連繫匯率制度": "currency board system"
+    },
+    {
+        "外匯期貨": "currency futures"
+    },
+    {
+        "外匯選擇權": "currency option"
+    },
+    {
+        "通貨交換": "currency swap"
+    },
+    {
+        "流動資產": "current asset"
+    },
+    {
+        "流動負債": "current liability"
+    },
+    {
+        "流動比率": "current ratio"
+    },
+    {
+        "當期收益率": "current yield ratio"
+    },
+    {
+        "客製化外匯選擇權商品": "customized currency option"
+    },
+    {
+        "循環股利政策": "cyclical dividend policy"
+    },
+    {
+        "每日價格波動限制": "daily price movement limit"
+    },
+    {
+        "DHS(Daniel-Hirsheifer-Subramanyam)模型": "Daniel-Hirsheifer-Subramanyam model"
+    },
+    {
+        "配息日": "date of payment"
+    },
+    {
+        "股權登記日": "date of record"
+    },
+    {
+        "法蘭克福指數": "DAX Index"
+    },
+    {
+        "銷售流通天數": "days sales outstanding, DSO"
+    },
+    {
+        "自營商": "dealer"
+    },
+    {
+        "造市": "dealer market"
+    },
+    {
+        "債務": "debt"
+    },
+    {
+        "負債比率": "debt ratio"
+    },
+    {
+        "債務證券": "debt securities"
+    },
+    {
+        "負債交換": "debt swap"
+    },
+    {
+        "決策框架": "decision framing"
+    },
+    {
+        "宣告日": "declaration date"
+    },
+    {
+        "專項投資組合": "dedication"
+    },
+    {
+        "專項策略": "dedication strategy"
+    },
+    {
+        "自付額": "deductible"
+    },
+    {
+        "違約溢價": "default premium"
+    },
+    {
+        "違約風險": "default risk"
+    },
+    {
+        "違約風險溢酬": "default risk premium {=DRP}"
+    },
+    {
+        "防禦性合併": "defensive merger"
+    },
+    {
+        "遞延年金": "deferred annuity"
+    },
+    {
+        "延遲履約選擇權": "deferred strike option"
+    },
+    {
+        "確定給付制": "defined benefit plan"
+    },
+    {
+        "確定提撥制": "defined contribution plan"
+    },
+    {
+        "財務槓桿程度": "degree of financial leverage, DEL"
+    },
+    {
+        "營運槓桿程度": "degree of operating leverage, DOL"
+    },
+    {
+        "總槓桿程度": "degree of total leverage, DTL"
+    },
+    {
+        "延遲選擇權": "delay option、option to postpone"
+    },
+    {
+        "交割": "delivery"
+    },
+    {
+        "交割價格": "delivery price"
+    },
+    {
+        "DSSW(DeLong-Shleifer-Summers-Waldmann)模型": "DeLong-Shleifer-Summers-Waldmann model, DSSW"
+    },
+    {
+        "delta中性": "delta neutral"
+    },
+    {
+        "存款": "deposit"
+    },
+    {
+        "存款保險制度": "deposit insurance system"
+    },
+    {
+        "存款保護制度": "deposit protection system"
+    },
+    {
+        "存款準備金": "deposit reserve"
+    },
+    {
+        "存款準備率": "deposit reserve rate"
+    },
+    {
+        "折舊": "depreciation"
+    },
+    {
+        "衍生性金融商品": "derivative"
+    },
+    {
+        "衍生性契約": "derivative contract"
+    },
+    {
+        "可分割的認股權證": "detachable warrant"
+    },
+    {
+        "擴散過程": "diffusion process"
+    },
+    {
+        "定額選擇權": "digital option"
+    },
+    {
+        "直接信用管制": "direct credit control"
+    },
+    {
+        "直接發行": "direct issuing"
+    },
+    {
+        "直接報價": "direct quotation"
+    },
+    {
+        "折現": "discount"
+    },
+    {
+        "折價債券": "discount bond"
+    },
+    {
+        "折現點": "discount point"
+    },
+    {
+        "貼現窗口": "discount window"
+    },
+    {
+        "現金流量折現模型": "discounted cash flow model, cash discount model"
+    },
+    {
+        "折現回收期間法": "discounted payback"
+    },
+    {
+        "處份效應": "disposition effect"
+    },
+    {
+        "可分散風險": "diversifiable risk"
+    },
+    {
+        "撤資": "divestiture"
+    },
+    {
+        "股利顧客效果": "dividend clientele effect"
+    },
+    {
+        "股利折現模型": "dividend discount model {=DDM}"
+    },
+    {
+        "股利收益": "dividend income"
+    },
+    {
+        "股利政策無關論": "dividend irrelevance"
+    },
+    {
+        "股利發放率": "dividend Payout Ratio"
+    },
+    {
+        "股利政策": "dividend policy"
+    },
+    {
+        "股利再投資計畫": "dividend reinvestment plans {=DRIPs}"
+    },
+    {
+        "股利稅": "dividend tax"
+    },
+    {
+        "股利收益率": "dividend yield ratio"
+    },
+    {
+        "股利之謎": "dividends puzzle"
+    },
+    {
+        "分離型商業銀行": "divisional commercial bank"
+    },
+    {
+        "金額存續期間": "dollar duration"
+    },
+    {
+        "絕對金額變異": "dollar volatility"
+    },
+    {
+        "雙向競價": "double auction"
+    },
+    {
+        "道瓊指數": "Dow Jones Indexe"
+    },
+    {
+        "道瓊威爾希爾全球整體市場指數": "Dow Jones Wilshire global total market Index"
+    },
+    {
+        "下方風險": "downside risk"
+    },
+    {
+        "下方風險": "downward risk"
+    },
+    {
+        "杜邦方程式": "Du Pont equation"
+    },
+    {
+        "二元式中央銀行制度": "dual central bank system"
+    },
+    {
+        "存續期間": "duration"
+    },
+    {
+        "荷蘭式競標": "dutch-auction tender offer"
+    },
+    {
+        "動態避險": "dynamic hedge"
+    },
+    {
+        "預警系統": "early warning system"
+    },
+    {
+        "息前稅前盈餘": "earning before interest and taxes, EBIT"
+    },
+    {
+        "獲利能力": "earning power ratio"
+    },
+    {
+        "息稅折舊攤銷前盈餘": "earnings before interest, taxes, depreciation, and amortization, EBITDA"
+    },
+    {
+        "每股盈餘": "earnings per share, EPS"
+    },
+    {
+        "盈餘保留率": "earnings retention ratio"
+    },
+    {
+        "EBITDA覆蓋率": "EBITDA coverage ratio"
+    },
+    {
+        "有效年利率": "effective annual rate, EFF%"
+    },
+    {
+        "有效價差": "effective spread"
+    },
+    {
+        "有效稅率": "effective tax rates"
+    },
+    {
+        "效率前緣": "efficient frontier"
+    },
+    {
+        "效率市場": "efficient market"
+    },
+    {
+        "效率市場假說": "efficient market hypothesis"
+    },
+    {
+        "效率投資組合": "efficient portfolio"
+    },
+    {
+        "效率投資組合管理": "efficient portfolio management"
+    },
+    {
+        "電子報價螢幕": "electronic quotation screen"
+    },
+    {
+        "電子交易": "electronic trading"
+    },
+    {
+        "隱含選擇權": "embedded option"
+    },
+    {
+        "能源期貨": "energy futures"
+    },
+    {
+        "委託投資": "entrusted investment"
+    },
+    {
+        "每股盈餘無異分析": "EPS indifference analysis"
+    },
+    {
+        "每股盈餘無異點": "EPS indifference point"
+    },
+    {
+        "報酬率均等原則": "equal rate of return principal"
+    },
+    {
+        "等權指數": "equally weighted Index"
+    },
+    {
+        "均衡": "equilibrium"
+    },
+    {
+        "權益": "equity"
+    },
+    {
+        "權益資本": "equity capital"
+    },
+    {
+        "權益分割": "equity carve-out"
+    },
+    {
+        "股權端": "equity leg"
+    },
+    {
+        "權益乘數": "equity multiplier"
+    },
+    {
+        "股權溢價、股權溢酬": "equity premium"
+    },
+    {
+        "權益剩餘法": "equity residual method"
+    },
+    {
+        "權益證券": "equity securities"
+    },
+    {
+        "權益交換": "equity swap"
+    },
+    {
+        "股權增加式創新": "equity-generating innovation"
+    },
+    {
+        "股價聯結票據": "equity-linked note"
+    },
+    {
+        "約當年金法": "equivalent annual annuity (EAA) approach"
+    },
+    {
+        "約當年利率": "equivalent annual rate, EAR"
+    },
+    {
+        "歐洲貨幣市場": "Euro currency market"
+    },
+    {
+        "海外可轉換公司債": "Euroconvertible bond"
+    },
+    {
+        "歐洲信用": "Eurocredits"
+    },
+    {
+        "歐洲美元": "Eurodollar"
+    },
+    {
+        "歐洲美元定期存款": "Eurodollar deposit, ED"
+    },
+    {
+        "歐洲美元期貨": "Eurodollar futures"
+    },
+    {
+        "歐洲美元期貨契約": "eurodollar futures contract"
+    },
+    {
+        "歐式選擇權": "European option"
+    },
+    {
+        "演化": "evolution"
+    },
+    {
+        "證券發行審批制度": "examination and approval system for issue of securities"
+    },
+    {
+        "超額利差、超額價差": "excess spread"
+    },
+    {
+        "超額波動": "excess volatility"
+    },
+    {
+        "匯率風險": "exchange rate risk"
+    },
+    {
+        "指數股票型基金": "exchange traded fund, ETF"
+    },
+    {
+        "可交換公司債": "exchangeable bond, EB"
+    },
+    {
+        "交易所": "exchanges"
+    },
+    {
+        "除息日": "ex-dividend date"
+    },
+    {
+        "員工認股權": "executive stock option"
+    },
+    {
+        "免責條款": "exemption clause"
+    },
+    {
+        "履約價格": "exercise price"
+    },
+    {
+        "履約價值": "exercise value"
+    },
+    {
+        "奇異選擇權": "exotic option"
+    },
+    {
+        "擴張緊縮選擇權": "expanded or contracted option"
+    },
+    {
+        "擴充型投資專案": "expansion project"
+    },
+    {
+        "預期理論": "expectation theory"
+    },
+    {
+        "期望報酬率": "expected rate of return"
+    },
+    {
+        "預期損失": "expected shortfall"
+    },
+    {
+        "預期總報酬率": "expected total return"
+    },
+    {
+        "期望效用": "expected utility"
+    },
+    {
+        "到期日": "expiration date"
+    },
+    {
+        "指數一般化自我迴歸條件異質變異模型": "exponential generalized autoregressive conditional heteroskedasticity model"
+    },
+    {
+        "指數加權移動平均模型": "exponentially weighted moving averages model, EWMA model"
+    },
+    {
+        "輸出入銀行": "export-import bank"
+    },
+    {
+        "可展期交換": "extendable swap"
+    },
+    {
+        "極值理論": "extreme value theory"
+    },
+    {
+        "面值": "face value"
+    },
+    {
+        "因素β": "factor beta"
+    },
+    {
+        "因子模型": "factor model"
+    },
+    {
+        "因素投資組合": "factor portfolio"
+    },
+    {
+        "因子風險": "factor risk"
+    },
+    {
+        "應收帳款讓售": "factoring of accounts receivable"
+    },
+    {
+        "農產品期貨": "farm product futures"
+    },
+    {
+        "厚尾": "fat tail、 heavy-tailed distributions"
+    },
+    {
+        "聯邦準備理事會": "Federal Reserve Board"
+    },
+    {
+        "信用貸款": "fiduciary loan"
+    },
+    {
+        "達成率": "fill rate"
+    },
+    {
+        "金融公司": "finance company"
+    },
+    {
+        "金融中介": "finance intermediary"
+    },
+    {
+        "金融中介機構理論": "finance intermediary organs theory"
+    },
+    {
+        "金融資產管理公司": "financial assets management company"
+    },
+    {
+        "金融票券市場": "financial bill market"
+    },
+    {
+        "金融債券": "financial bond"
+    },
+    {
+        "金融集團": "financial conglomerate"
+    },
+    {
+        "金融傳染": "financial contagion"
+    },
+    {
+        "金融危機": "financial crisis"
+    },
+    {
+        "財務危機": "financial distress"
+    },
+    {
+        "財務計量經濟學": "financial econometrics"
+    },
+    {
+        "財務預測": "financial forecasting"
+    },
+    {
+        "金融脆弱性": "financial fragility"
+    },
+    {
+        "金融期貨": "financial futures"
+    },
+    {
+        "金融期貨契約": "financial futures contract"
+    },
+    {
+        "金融期貨市場": "financial futures market"
+    },
+    {
+        "金融創新": "financial innovation"
+    },
+    {
+        "金融機構": "financial institution"
+    },
+    {
+        "金融中介": "financial intermediation"
+    },
+    {
+        "財務租賃": "financial lease"
+    },
+    {
+        "財務槓桿": "financial leverage"
+    },
+    {
+        "金融市場": "financial market"
+    },
+    {
+        "財務合併": "financial merger"
+    },
+    {
+        "金融選擇權市場": "financial option market"
+    },
+    {
+        "金融恐慌": "financial panic"
+    },
+    {
+        "金融監管": "financial regulation"
+    },
+    {
+        "財務風險": "financial risk"
+    },
+    {
+        "金融安全網": "financial safety net"
+    },
+    {
+        "金融服務": "financial service"
+    },
+    {
+        "金融服務公司": "financial services corporation"
+    },
+    {
+        "金融控股公司": "financial services holding company"
+    },
+    {
+        "財務報表分析": "financial statement analysis"
+    },
+    {
+        "金融交換": "financial swap"
+    },
+    {
+        "金融信託投資公司": "financial trust and investment companies"
+    },
+    {
+        "融資": "financing"
+    },
+    {
+        "火災與意外保險公司": "fire and casualty insurance company"
+    },
+    {
+        "公司特有風險": "firm specific risk"
+    },
+    {
+        "一階隨機優勢": "first order stochastic dominance"
+    },
+    {
+        "一級資本": "first tier capital"
+    },
+    {
+        "固定資產週轉率": "fixed asset turnover ratio"
+    },
+    {
+        "固定費用涵蓋比率": "fixed charge ratio"
+    },
+    {
+        "固定收益證券": "fixed income securities"
+    },
+    {
+        "盯住匯率制度": "fixed peg arrangement"
+    },
+    {
+        "固定價格招標": "fixed-price tender offer"
+    },
+    {
+        "彈性選擇權": "flexibility option"
+    },
+    {
+        "彈性不動產擔保": "flexible mortgage"
+    },
+    {
+        "浮動差額": "float"
+    },
+    {
+        "浮動端": "floating leg"
+    },
+    {
+        "浮動利率票據": "floating rate note, FRN"
+    },
+    {
+        "浮動利率債券": "floating-rate bond"
+    },
+    {
+        "場內委員會": "floor committee"
+    },
+    {
+        "場內交易者": "floor trader"
+    },
+    {
+        "發行成本": "flotation costs"
+    },
+    {
+        "強制贖回條款": "forced redeem clause"
+    },
+    {
+        "外國債券": "foreign bonds"
+    },
+    {
+        "外匯選擇權": "foreign currency option"
+    },
+    {
+        "外匯期貨市場": "foreign exchange futures market"
+    },
+    {
+        "外匯市場": "foreign exchange market"
+    },
+    {
+        "外匯選擇權市場": "foreign exchange option market"
+    },
+    {
+        "外匯交換": "foreign exchange swap"
+    },
+    {
+        "外國股票": "foreign shares"
+    },
+    {
+        "遠期契約": "forward contract"
+    },
+    {
+        "遠期利率": "forward interest rate"
+    },
+    {
+        "遠期市場": "forward market"
+    },
+    {
+        "遠期利率協議": "forward rate agreement"
+    },
+    {
+        "遠期生效選擇權": "forward start option"
+    },
+    {
+        "特許因素": "franchise factor"
+    },
+    {
+        "自由現金流量": "free cash flow"
+    },
+    {
+        "自由浮動區間": "freely-floating regime"
+    },
+    {
+        "善意合併": "friendly merger"
+    },
+    {
+        "前置費用": "front-end fee"
+    },
+    {
+        "新華富時中國A50指數": "FTSE Xinhua China A50 Index"
+    },
+    {
+        "完全稀釋每股盈餘": "fully diluted EPS"
+    },
+    {
+        "完全應稅等價收益率": "fully taxable equivalent yield {=FTEY}"
+    },
+    {
+        "基金": "fund"
+    },
+    {
+        "組合基金": "fund of fund, FOF"
+    },
+    {
+        "基金分割": "fund split"
+    },
+    {
+        "基金單位": "fund unit"
+    },
+    {
+        "基本分析": "fundamental analysis"
+    },
+    {
+        "基礎波動度": "fundamental volatility"
+    },
+    {
+        "終值": "future value"
+    },
+    {
+        "期貨經紀商": "futures commission merchants"
+    },
+    {
+        "期貨契約": "futures contract"
+    },
+    {
+        "期貨基金": "futures fund"
+    },
+    {
+        "期貨市場": "futures market"
+    },
+    {
+        "期貨選擇權": "futures option, option on futures"
+    },
+    {
+        "期貨交易法案": "Futures Trading Act"
+    },
+    {
+        "槓桿倍數": "gearing"
+    },
+    {
+        "一般性信用管制": "general credit control"
+    },
+    {
+        "一般化自我迴歸條件異質變異均數模型": "generalized autoregressive conditional heteroskedasticity-mean model"
+    },
+    {
+        "一般化自我迴歸條件異質變異模型": "generalized autoregressive conditionally heteroskedasticity model"
+    },
+    {
+        "一般公認會計原則": "generally accepted accounting principle, GAAP"
+    },
+    {
+        "公開發行": "going public"
+    },
+    {
+        "黃金期貨": "gold futures"
+    },
+    {
+        "黃金期貨市場": "gold futures market"
+    },
+    {
+        "黃金市場": "gold market"
+    },
+    {
+        "黃金降落傘": "golden parachute"
+    },
+    {
+        "商譽": "goodwill"
+    },
+    {
+        "Gordon成長模型": "Gordon growth model"
+    },
+    {
+        "Gordon一鳥在手模式": "Gordon's bird-in-the-hand model"
+    },
+    {
+        "政府國家抵押協會": "Government National Mortgage Association {=GNMA}"
+    },
+    {
+        "穀物期貨法案": "Grain Futures Act"
+    },
+    {
+        "超額認購選擇權": "green shoes option"
+    },
+    {
+        "溢價回購": "greenmail"
+    },
+    {
+        "成長選擇權": "growth option"
+    },
+    {
+        "成長率": "growth rate"
+    },
+    {
+        "保證": "guarantee"
+    },
+    {
+        "保本基金": "guaranteed fund"
+    },
+    {
+        "HJM模型": "Heath-Jarrow-Morton model、 HJM model"
+    },
+    {
+        "避險基金；對沖基金": "hedge fund"
+    },
+    {
+        "避險": "hedge、 hedging"
+    },
+    {
+        "避險者": "hedgers"
+    },
+    {
+        "避險比率": "hedging ratio"
+    },
+    {
+        "從眾行為": "herd behavior"
+    },
+    {
+        "異質性": "heterogeneity"
+    },
+    {
+        "歷史模擬法": "historical simulation method"
+    },
+    {
+        "登記基準日": "holder-of-record date"
+    },
+    {
+        "持有期間": "holding period"
+    },
+    {
+        "持有期間報酬率": "holding period return"
+    },
+    {
+        "Ho-Lee模型": "Ho-Lee model"
+    },
+    {
+        "自製股利政策": "homemade dividend policy"
+    },
+    {
+        "同質預期": "homogeneous expectation"
+    },
+    {
+        "香港恆生指數": "Hongkong Hang Seng Index"
+    },
+    {
+        "HS(Hong-Stein)模型": "Hong-Stein model"
+    },
+    {
+        "終值": "horizon (terminal) value"
+    },
+    {
+        "水平分析": "horizon analysis"
+    },
+    {
+        "水平價差策略": "horizontal spread strategy"
+    },
+    {
+        "非善意合併": "hostile merger"
+    },
+    {
+        "敵意接管": "hostile takeover"
+    },
+    {
+        "駝峰殖利率曲線": "humped yield curve"
+    },
+    {
+        "假設性公債": "hypothetical T-bond"
+    },
+    {
+        "即時性": "immediacy"
+    },
+    {
+        "免疫": "immunization、 immunisation hypothesis"
+    },
+    {
+        "資本減損規定": "impairment of capital rule"
+    },
+    {
+        "隱性契約": "implicit contracts"
+    },
+    {
+        "隱含波動度": "implied volatility"
+    },
+    {
+        "重要性抽樣法": "importance sampling"
+    },
+    {
+        "兩稅合一": "imputation tax system"
+    },
+    {
+        "激勵代理": "incentives agency"
+    },
+    {
+        "收益受益人": "income beneficiary"
+    },
+    {
+        "收益公司債": "income bond"
+    },
+    {
+        "損益表": "income statement"
+    },
+    {
+        "不完全契約": "incomplete contracts"
+    },
+    {
+        "不完全市場假說": "incompleteness market hypothesis"
+    },
+    {
+        "增量現金流量": "incremental cash flow"
+    },
+    {
+        "指數攤銷利率交換": "index amortizing swap, IAS"
+    },
+    {
+        "指數套利": "index arbitrage"
+    },
+    {
+        "指數基金": "index fund"
+    },
+    {
+        "指數期貨": "index futures"
+    },
+    {
+        "指數選擇權": "index option"
+    },
+    {
+        "指數債券": "indexed bond"
+    },
+    {
+        "無異曲線": "indifference curve"
+    },
+    {
+        "間接發行": "indirect issuing"
+    },
+    {
+        "間接報價": "indirect quotation"
+    },
+    {
+        "個體學習": "individual learning"
+    },
+    {
+        "個體時間恆量變數": "individual time-invariant variable"
+    },
+    {
+        "個體時變變數": "individual time-varying variable"
+    },
+    {
+        "歸納式學習": "inductive learning"
+    },
+    {
+        "工業金屬期貨": "industrial metals futures"
+    },
+    {
+        "產業基金": "industry fund"
+    },
+    {
+        "通貨膨脹": "Inflation"
+    },
+    {
+        "通貨膨脹溢酬": "inflation premium"
+    },
+    {
+        "資訊瀑布": "information cascade"
+    },
+    {
+        "資訊內涵效應": "information connotation effect"
+    },
+    {
+        "資訊內容效應": "information content effect"
+    },
+    {
+        "資訊內涵假說": "information content hypothesis"
+    },
+    {
+        "資訊揭露制度": "information disclosure requirement"
+    },
+    {
+        "資訊效率": "informational efficiency"
+    },
+    {
+        "知情交易者": "informed trader"
+    },
+    {
+        "原始保證金": "initial margin"
+    },
+    {
+        "內部半價差": "inside half-spread"
+    },
+    {
+        "內部人": "insider"
+    },
+    {
+        "內線交易": "insider trading"
+    },
+    {
+        "機構指數": "institutional index"
+    },
+    {
+        "機構投資人": "institutional investor"
+    },
+    {
+        "保險": "insurance"
+    },
+    {
+        "保險公司": "insurance company"
+    },
+    {
+        "保險市場": "insurance market"
+    },
+    {
+        "擔保債券": "insured bond"
+    },
+    {
+        "銀行同業拆借": "Interbank lending"
+    },
+    {
+        "銀行同業拆借": "inter-bank offered credit"
+    },
+    {
+        "利率期貨市場": "interest futures market"
+    },
+    {
+        "利率": "interest rate"
+    },
+    {
+        "利率預測交換": "interest rate anticipation swap"
+    },
+    {
+        "利率上限": "interest rate cap"
+    },
+    {
+        "利率上下限契約": "interest rate collars"
+    },
+    {
+        "利率下限": "interest rate floors"
+    },
+    {
+        "利率期貨": "interest rate futures"
+    },
+    {
+        "利率選擇權": "interest rate option"
+    },
+    {
+        "利率平價理論": "interest rate parity theorem"
+    },
+    {
+        "利率風險": "interest rate risk"
+    },
+    {
+        "利率風險": "interest rate risk or interest rate price risk"
+    },
+    {
+        "利率風險定價": "interest rate risk pricing"
+    },
+    {
+        "利率交換": "interest rate swap, IRS"
+    },
+    {
+        "利息稅盾": "interest tax shield"
+    },
+    {
+        "跨市場套利": "inter-market arbitrage"
+    },
+    {
+        "市場間利差": "intermarket sector spread"
+    },
+    {
+        "市場間價差交換": "intermarket spread swap"
+    },
+    {
+        "中間業務": "intermediary business"
+    },
+    {
+        "內部控制制度": "internal control system"
+    },
+    {
+        "內部報酬率法": "internal rate of return method"
+    },
+    {
+        "內部報酬率": "internal rate of return, IRR"
+    },
+    {
+        "國際期貨市場": "international futures market"
+    },
+    {
+        "國際銀行同業拆借市場": "international inter-bank market"
+    },
+    {
+        "國際租賃市場": "international leasing market"
+    },
+    {
+        "國際貨幣制度": "international monetary system"
+    },
+    {
+        "國際股票市場": "international stock market"
+    },
+    {
+        "國際交換交易員協會": "International Swap Dealers Association {=ISDA}"
+    },
+    {
+        "跨期套利": "inter-period arbitrage"
+    },
+    {
+        "價內": "in-the-money"
+    },
+    {
+        "市場內利差": "intramarket sector spread"
+    },
+    {
+        "內涵價值": "intrinsic value"
+    },
+    {
+        "內在價值法": "intrinsic value method"
+    },
+    {
+        "初始中介期貨經紀商": "introducing broker"
+    },
+    {
+        "存貨綜合留置權": "inventory blanket lien"
+    },
+    {
+        "存貨轉換期間": "inventory conversion period"
+    },
+    {
+        "存貨融資": "inventory financing"
+    },
+    {
+        "存貨模型": "inventory model"
+    },
+    {
+        "存貨週轉率": "inventory turnover ratio"
+    },
+    {
+        "逆浮動": "inverse floater"
+    },
+    {
+        "逆殖利率曲線": "inverted (abnormal) yield curve"
+    },
+    {
+        "投資": "investment"
+    },
+    {
+        "投資銀行": "investment bank"
+    },
+    {
+        "投資期間": "investment horizon"
+    },
+    {
+        "投資機會表": "investment opportunity schedule, IOS"
+    },
+    {
+        "投資專案計畫比較法": "investment project proposal comparison approach"
+    },
+    {
+        "投資時點選擇權": "investment timing option"
+    },
+    {
+        "投資等級債券": "investment-grade bonds"
+    },
+    {
+        "發票價格": "invoice price"
+    },
+    {
+        "首次公開發行溢價": "IPO premium"
+    },
+    {
+        "隔離效應": "isolation effect"
+    },
+    {
+        "發行成本": "issue cost"
+    },
+    {
+        "伊藤定理": "Ito's lemma"
+    },
+    {
+        "核估計": "kernel estimation"
+    },
+    {
+        "韓國綜合股價指數": "Korea composite stock price Index"
+    },
+    {
+        "馬來西亞吉隆坡股價指數": "Kuala Lumpur stock Index"
+    },
+    {
+        "單一價格法則": "law of one price"
+    },
+    {
+        "學習型選擇權": "learning option"
+    },
+    {
+        "租賃": "lease"
+    },
+    {
+        "租賃公司": "leasing company"
+    },
+    {
+        "法人股權證券": "legal corporate equity securities"
+    },
+    {
+        "法定存款準備率": "legal reserve ratio"
+    },
+    {
+        "最後貸款人": "lender of last resort"
+    },
+    {
+        "貸款息差": "lending margin"
+    },
+    {
+        "貸出投資組合": "lending portfolio"
+    },
+    {
+        "承租人": "lessee"
+    },
+    {
+        "出租人": "lessor"
+    },
+    {
+        "信用狀": "letter of credit"
+    },
+    {
+        "融資買進": "leveraged buy-out, LBO"
+    },
+    {
+        "負債": "liabilities"
+    },
+    {
+        "負債業務": "liability business"
+    },
+    {
+        "負債管理": "liability management"
+    },
+    {
+        "負債管理理論": "liability management theory"
+    },
+    {
+        "人壽保險公司": "life insurance company"
+    },
+    {
+        "風險分散極限原則": "limit of diversification"
+    },
+    {
+        "限價單": "limit order"
+    },
+    {
+        "有限責任": "limited liability"
+    },
+    {
+        "Lintner模型": "Lintner model"
+    },
+    {
+        "流動資產": "liquid asset"
+    },
+    {
+        "流動性": "liquidity"
+    },
+    {
+        "流動性偏好理論": "liquidity preference theory"
+    },
+    {
+        "流動性溢價、流動性溢酬": "liquidity premium"
+    },
+    {
+        "流動性風險": "liquidity risk"
+    },
+    {
+        "流動性交易者": "liquidity traders"
+    },
+    {
+        "流動性-增強型創新": "liquidity-enhancing innovation"
+    },
+    {
+        "貸款": "loan"
+    },
+    {
+        "貸款承諾": "loan commitment"
+    },
+    {
+        "呆帳準備": "loan loss reserve"
+    },
+    {
+        "貸款價值比": "loan-to-value ratio {=LTV}"
+    },
+    {
+        "局部預期理論": "local expectation theory"
+    },
+    {
+        "鎖定效應": "lock-in effect"
+    },
+    {
+        "倫敦金融時報指數": "London Financial Times-stock Exchange Index"
+    },
+    {
+        "倫敦銀行同業拆借利率": "London interbank bid rate, LIBID"
+    },
+    {
+        "倫敦銀行同業拆放利率": "London interbank offered rate"
+    },
+    {
+        "倫敦國際金融期貨交易所": "London International Financial Futures Exchange, LIFFEE"
+    },
+    {
+        "買入、買方": "long"
+    },
+    {
+        "多頭避險": "long hedges"
+    },
+    {
+        "多頭部位": "long position"
+    },
+    {
+        "買進跨式部位": "long straddle"
+    },
+    {
+        "長期債券": "long-term bond"
+    },
+    {
+        "長期負債": "long-term debt"
+    },
+    {
+        "長期股權預期證券": "long-term equity anticipation security, LEAPS"
+    },
+    {
+        "長期地方債券指數": "long-term municipal bond index"
+    },
+    {
+        "回顧型選擇權": "lookback option"
+    },
+    {
+        "損失規避": "loss aversion"
+    },
+    {
+        "整體避險": "macro hedge"
+    },
+    {
+        "維持保證金": "maintenance margin"
+    },
+    {
+        "主要市場指數": "major market index, MMI"
+    },
+    {
+        "可管理浮動區間": "managed-float regime"
+    },
+    {
+        "保證金": "margin"
+    },
+    {
+        "保證金追繳": "margin call"
+    },
+    {
+        "邊際資金成本": "marginal cost of capital {=MCC}"
+    },
+    {
+        "安全邊界": "margins of safety"
+    },
+    {
+        "股息競價特別股": "market auction preferred stock (money market preferred stock)"
+    },
+    {
+        "市場寬度": "market breadth"
+    },
+    {
+        "市場的完全性": "market completeness"
+    },
+    {
+        "市場深度": "market depth"
+    },
+    {
+        "市場紀律": "market discipline"
+    },
+    {
+        "市場效率性": "market efficiency"
+    },
+    {
+        "市場均衡": "market equilibrium"
+    },
+    {
+        "市場影響成本": "market impact cost"
+    },
+    {
+        "造市者": "market maker"
+    },
+    {
+        "市場微結構": "market microstructure"
+    },
+    {
+        "市場模式": "market model"
+    },
+    {
+        "市場乘數分析法": "market multiple analysis"
+    },
+    {
+        "市價單": "market order"
+    },
+    {
+        "市場投資組合": "market portfolio"
+    },
+    {
+        "市場價格": "market price"
+    },
+    {
+        "風險的市場價格": "market price of risk"
+    },
+    {
+        "市場彈性": "market resiliency"
+    },
+    {
+        "市場風險": "market risk"
+    },
+    {
+        "市場風險溢酬": "market risk premium"
+    },
+    {
+        "市場區隔理論": "market segmentation theory"
+    },
+    {
+        "市場附加價值": "market value added {=MVA}"
+    },
+    {
+        "市場價值比率": "market value ratio"
+    },
+    {
+        "市帳比": "market/book (M/B) ratio"
+    },
+    {
+        "有價證券": "marketable securities"
+    },
+    {
+        "逐日結算制度": "mark-to-market"
+    },
+    {
+        "平賭": "martingale"
+    },
+    {
+        "鬥牛士債券": "matador bond"
+    },
+    {
+        "配對原則": "matching principle"
+    },
+    {
+        "數理金融": "mathematical finance"
+    },
+    {
+        "到期日": "maturity date"
+    },
+    {
+        "到期日配合法": "maturity matching approach"
+    },
+    {
+        "到期風險溢酬": "maturity risk premium"
+    },
+    {
+        "到期策略": "maturity strategy"
+    },
+    {
+        "平均數復歸": "mean reversion"
+    },
+    {
+        "平均數-變異數分析": "mean-variance analysis"
+    },
+    {
+        "平均數-變異數準則": "mean-variance criterion"
+    },
+    {
+        "附加價值衡量": "measure of value added"
+    },
+    {
+        "股票交易所會員管理制度": "membership regulatory system of stock exchange"
+    },
+    {
+        "心理帳戶": "mental account"
+    },
+    {
+        "商人銀行": "merchant bank"
+    },
+    {
+        "金屬期貨": "metal futures"
+    },
+    {
+        "夾層融資": "mezzanine financing"
+    },
+    {
+        "夾層貸款證券化": "mezzanine loan securitization"
+    },
+    {
+        "最小變異數投資組合": "minimum-variance portfolio"
+    },
+    {
+        "MM定理": "MM proposition, Miller-Modigliani proposition"
+    },
+    {
+        "現代投資組合理論": "modern portfolio theory、 MPT"
+    },
+    {
+        "修正存續期間": "modified duration"
+    },
+    {
+        "修正後內部報酬率法": "modified internal rate of return, MIRR"
+    },
+    {
+        "動差配適法": "moment matching method"
+    },
+    {
+        "動量效應": "momentum effect"
+    },
+    {
+        "貨幣政策工具": "monetary policy instrument"
+    },
+    {
+        "貨幣": "money"
+    },
+    {
+        "貨幣市場": "money market"
+    },
+    {
+        "貨幣市場基金": "money market funds"
+    },
+    {
+        "貨幣市場共同基金": "money market mutual fund"
+    },
+    {
+        "價值狀態": "moneyness"
+    },
+    {
+        "蒙地卡羅模擬": "Monte Carlo simulation"
+    },
+    {
+        "道德勸說": "moral suasion"
+    },
+    {
+        "抵押": "mortgage"
+    },
+    {
+        "抵押債券": "mortgage bond"
+    },
+    {
+        "抵押貸款": "mortgage loan"
+    },
+    {
+        "不動產抵押擔保債券": "mortgage pass-throughs"
+    },
+    {
+        "房貸擔保證券": "mortgage-backed securities, MBS"
+    },
+    {
+        "跨國中央銀行制度": "multinational central bank system"
+    },
+    {
+        "多國公司": "multinational corporation"
+    },
+    {
+        "地方政府債券": "municipal bonds"
+    },
+    {
+        "互助銀行": "mutual bank"
+    },
+    {
+        "互助保險公司": "mutual insurance company"
+    },
+    {
+        "相互抵銷協議": "mutual offset arrangement"
+    },
+    {
+        "互助儲蓄銀行": "mutual saving bank"
+    },
+    {
+        "互斥專案": "mutually exclusive projects"
+    },
+    {
+        "選擇權祼部位": "naked option"
+    },
+    {
+        "那斯達克指數": "NASDAQ Index"
+    },
+    {
+        "自然避險": "natural hedges"
+    },
+    {
+        "可轉讓定期存單": "negotiable certificate of deposit"
+    },
+    {
+        "可轉讓支付提款帳戶": "negotiable order of withdrawal account"
+    },
+    {
+        "淨資本支出": "net capital expenditures"
+    },
+    {
+        "淨現金流量": "net cash flow"
+    },
+    {
+        "淨利差": "net interest margin"
+    },
+    {
+        "稅後淨營運收入": "net operating profit after taxes, NOPAT"
+    },
+    {
+        "淨營業資金": "net operating working capital, NOWC"
+    },
+    {
+        "淨現值法": "net present value method"
+    },
+    {
+        "淨現值": "net present value {=NPV}"
+    },
+    {
+        "淨營運資金": "net working capital"
+    },
+    {
+        "淨值": "net worth"
+    },
+    {
+        "紐約證券交易所綜合指數": "New York stock exchange composite Index"
+    },
+    {
+        "日經指數": "Nikkei Index"
+    },
+    {
+        "無套利條件": "no arbitrage condition"
+    },
+    {
+        "無套利均衡": "no-arbitrage equilibrium"
+    },
+    {
+        "雜訊交易者": "noise traders"
+    },
+    {
+        "名目利率": "nominal rate"
+    },
+    {
+        "名目無風險利率": "nominal risk-free rate"
+    },
+    {
+        "名目收益率": "nominal yield ratio"
+    },
+    {
+        "非銀行銀行": "nonbank bank"
+    },
+    {
+        "無股利支付股票": "nondividend paying stock"
+    },
+    {
+        "不良債權": "non-performing loan"
+    },
+    {
+        "正常交割延遲": "normal backwardation"
+    },
+    {
+        "正常交易延遲": "normal contango"
+    },
+    {
+        "名目本金": "notional principal"
+    },
+    {
+        "N階折現模型": "N-stage discount model"
+    },
+    {
+        "資產負債表外融資": "off balance sheet financing"
+    },
+    {
+        "資產負債表外業務": "off-balance sheet business"
+    },
+    {
+        "抵銷帳戶不動產擔保": "offset account mortgage"
+    },
+    {
+        "境外貨幣市場": "offshore currency market"
+    },
+    {
+        "境外金融市場": "offshore financial market"
+    },
+    {
+        "單因子期限結構模型": "one-factor term-structure model"
+    },
+    {
+        "未平倉量": "open interest"
+    },
+    {
+        "公開市場操作": "open market operation"
+    },
+    {
+        "人工喊價": "open outcry"
+    },
+    {
+        "開放式共同基金": "open-end mutual fund"
+    },
+    {
+        "公開市場回購": "open-market purchase"
+    },
+    {
+        "公開喊價競價": "open-outcry auction"
+    },
+    {
+        "營運損益兩平": "operating breakeven"
+    },
+    {
+        "營運槓桿": "operating leverage"
+    },
+    {
+        "營運合併": "operating merger"
+    },
+    {
+        "營運績效": "operational performance"
+    },
+    {
+        "機會成本": "opportunity cost"
+    },
+    {
+        "最適資本預算": "optimal capital budget"
+    },
+    {
+        "最適資本結構": "optimal capital structure, target capital structure"
+    },
+    {
+        "最適股利政策": "optimal dividend policy"
+    },
+    {
+        "最適投資組合": "optimal portfolio"
+    },
+    {
+        "選擇權": "option"
+    },
+    {
+        "選擇權結算機構": "option clearing corporation, OCC"
+    },
+    {
+        "選擇權市場": "option market"
+    },
+    {
+        "選擇權價值": "option value"
+    },
+    {
+        "選擇權發行人": "option writer"
+    },
+    {
+        "期貨選擇權": "options futures"
+    },
+    {
+        "委託單、下單": "order"
+    },
+    {
+        "委託單驅動": "order-driven"
+    },
+    {
+        "委託單驅動市場": "order-driven market"
+    },
+    {
+        "普通年金": "ordinary annuity"
+    },
+    {
+        "原始發行折價債券": "original issue discount (OID) bond"
+    },
+    {
+        "價外": "out-of-the-money"
+    },
+    {
+        "流通在外股": "outstanding shares"
+    },
+    {
+        "超額擔保": "over collateralization"
+    },
+    {
+        "過度反應": "over reaction"
+    },
+    {
+        "過度自信": "overconfidence"
+    },
+    {
+        "透支": "overdrafts"
+    },
+    {
+        "店頭市場": "over-the-counter markets"
+    },
+    {
+        "股價淨值評價法": "P/B valuation method, price per book value valuation method, P/B"
+    },
+    {
+        "打包選擇權": "package option"
+    },
+    {
+        "收購收購者": "pac-man"
+    },
+    {
+        "縱橫資料": "panel data"
+    },
+    {
+        "平價債券": "par bond"
+    },
+    {
+        "面值": "par value"
+    },
+    {
+        "平行貸款": "parallel loan"
+    },
+    {
+        "平價債券": "parity bond"
+    },
+    {
+        "參加特別股": "participating preferred stock"
+    },
+    {
+        "合夥": "partnership"
+    },
+    {
+        "被動債券管理": "passive bond management"
+    },
+    {
+        "被動投資組合": "passive portfolio"
+    },
+    {
+        "轉手證券": "pass-through securities"
+    },
+    {
+        "路徑相依選擇權": "path-dependent option"
+    },
+    {
+        "當鋪": "pawn shop, pawn broker"
+    },
+    {
+        "債務承擔併購": "pay debt merger"
+    },
+    {
+        "應付帳款遞延期間": "payables deferral period"
+    },
+    {
+        "回收期間法": "paybck period method"
+    },
+    {
+        "後付選擇權": "pay-later option"
+    },
+    {
+        "支付日": "payment date"
+    },
+    {
+        "融資順位理論": "pecking order theory"
+    },
+    {
+        "退休金給付擔保公司": "pension benefit guarantee corporation"
+    },
+    {
+        "退休基金": "pension fund"
+    },
+    {
+        "銷售額百分比法": "percentage of sales method"
+    },
+    {
+        "完美資本市場假說": "perfect capital market hypothesis"
+    },
+    {
+        "完全避險": "perfect hedge"
+    },
+    {
+        "績效股": "performance stock"
+    },
+    {
+        "永久性流動資產": "permanent current asset"
+    },
+    {
+        "永續年金": "perpetuity"
+    },
+    {
+        "個人信用機構": "personal credit institution"
+    },
+    {
+        "陽春型選擇權": "plain vanilla option"
+    },
+    {
+        "質押": "pledge"
+    },
+    {
+        "應收帳款質押": "pledging of accounts receivable"
+    },
+    {
+        "毒藥丸": "poison pill"
+    },
+    {
+        "政策銀行機構": "policy banking institution"
+    },
+    {
+        "存款準備政策": "policy of reserve requirement"
+    },
+    {
+        "政治風險": "political risk"
+    },
+    {
+        "投資組合": "portfolio"
+    },
+    {
+        "投資組合保險": "portfolio insurance"
+    },
+    {
+        "投資組合管理": "portfolio management"
+    },
+    {
+        "投資組合理論": "portfolio theory"
+    },
+    {
+        "投資組合風險值": "portfolio value-at-risk {=portfolio VaR}"
+    },
+    {
+        "持倉限額": "position limit"
+    },
+    {
+        "正向回饋": "positive feedback"
+    },
+    {
+        "郵政儲蓄銀行": "postal savings bank"
+    },
+    {
+        "事後稽核": "post-audit"
+    },
+    {
+        "預定準則": "predetermined criteria"
+    },
+    {
+        "優先認股權": "preemptive right"
+    },
+    {
+        "溢價；溢酬": "premium"
+    },
+    {
+        "溢價債券": "premium bond"
+    },
+    {
+        "提前償還率": "prepayment rate"
+    },
+    {
+        "折現值": "present discounted value {=PDV}"
+    },
+    {
+        "現值模型": "present value model"
+    },
+    {
+        "成長機會現值": "present value of growth opportunities {=PVGO}"
+    },
+    {
+        "價格發現": "price discovery"
+    },
+    {
+        "本益比模型": "price earnings ratio model"
+    },
+    {
+        "漲跌停限制": "price limit"
+    },
+    {
+        "股價淨值比": "price per book value"
+    },
+    {
+        "價格反轉": "price reversal"
+    },
+    {
+        "市價/現金流量比": "price/cash flow ratio"
+    },
+    {
+        "本益比評價法": "price/earnings ratio valuation method"
+    },
+    {
+        "本益比": "price-earning ratio, P/E ratio"
+    },
+    {
+        "本益倍數": "price-earnings multiple"
+    },
+    {
+        "定價運算子": "pricing operator"
+    },
+    {
+        "初級市場": "primary market"
+    },
+    {
+        "基本利率": "prime rate"
+    },
+    {
+        "私募股權基金": "private equity fund"
+    },
+    {
+        "非公開市場": "private markets"
+    },
+    {
+        "預測財務報表": "pro forma (projected) financial statements"
+    },
+    {
+        "銷貨利潤率": "profit margin on sales"
+    },
+    {
+        "獲利能力比率": "profitability ratios"
+    },
+    {
+        "程式交易": "program trading"
+    },
+    {
+        "承諾贖回收益率": "promised yield to call {=YTC}"
+    },
+    {
+        "承諾到期收益率": "promised yield to maturity"
+    },
+    {
+        "產物保險公司": "property insurance company"
+    },
+    {
+        "獨資": "proprietorship"
+    },
+    {
+        "保護性買權": "protective call"
+    },
+    {
+        "保護性賣權": "protective put"
+    },
+    {
+        "委託書": "proxy"
+    },
+    {
+        "委託書爭奪戰": "proxy fight"
+    },
+    {
+        "住房儲蓄公積基金": "public accumulation fund for housing saving"
+    },
+    {
+        "公開市場": "public markets"
+    },
+    {
+        "公募基金": "public placement fund"
+    },
+    {
+        "上市股票": "public shares"
+    },
+    {
+        "公開發行公司": "publicly owned corporation"
+    },
+    {
+        "純現金流匹配專項投資組合": "pure cash-matched dedicated portfolio"
+    },
+    {
+        "零息債券": "pure discount bond"
+    },
+    {
+        "純粹預期理論": "pure expectations theory"
+    },
+    {
+        "賣權與買權自營商協會": "Put and Call Dealer Association"
+    },
+    {
+        "賣權": "put option"
+    },
+    {
+        "利率交換賣權": "put swaption"
+    },
+    {
+        "可賣回債券": "putable bond"
+    },
+    {
+        "買權賣權平價關係": "put-call parity"
+    },
+    {
+        "可賣回": "puttable"
+    },
+    {
+        "可賣回普通股": "puttable common stock"
+    },
+    {
+        "總量管理": "quantity management"
+    },
+    {
+        "quanto選擇權": "quanto option"
+    },
+    {
+        "準美式選擇權": "Quasi-American option"
+    },
+    {
+        "速動比率": "quick ratio"
+    },
+    {
+        "報價驅動市場": "quotation-driven market"
+    },
+    {
+        "報價驅動": "quote-driven"
+    },
+    {
+        "彩虹選擇權": "rainbow option"
+    },
+    {
+        "棘輪選擇權": "ratchet option"
+    },
+    {
+        "棘輪效應": "ratcheting effect"
+    },
+    {
+        "實質票據學說": "real bills doctrine, real bills theory"
+    },
+    {
+        "實質景氣循環觀點": "real business cycle view"
+    },
+    {
+        "不動產信託投資": "real estate trust investment"
+    },
+    {
+        "實質利率": "real interest rate"
+    },
+    {
+        "實質權擇權": "real option , managerial option"
+    },
+    {
+        "實質無風險利率": "real risk-free rate of interest"
+    },
+    {
+        "已實現報酬率": "realized rate of return"
+    },
+    {
+        "實現價差": "realized spread"
+    },
+    {
+        "實現收益率": "realized yield, horizon yield"
+    },
+    {
+        "應收帳款收現期間": "receivable collection period"
+    },
+    {
+        "股權登記日": "record date"
+    },
+    {
+        "重貼現": "rediscount"
+    },
+    {
+        "多餘證券": "redundant securities"
+    },
+    {
+        "參考日": "reference date"
+    },
+    {
+        "再融資操作": "refunding operation"
+    },
+    {
+        "後悔規避": "regret aversion"
+    },
+    {
+        "呆帳準備金管理規定": "regulation on provisions for bad debt"
+    },
+    {
+        "再投資報酬率": "reinvestment rate"
+    },
+    {
+        "再投資風險": "reinvestment risk"
+    },
+    {
+        "相對價值法": "relative value method"
+    },
+    {
+        "攸關風險": "relevant risk"
+    },
+    {
+        "剩餘受益人": "remainderman"
+    },
+    {
+        "匯兌": "remittance"
+    },
+    {
+        "再抵押": "remortgage"
+    },
+    {
+        "重置計畫分析": "replacement analysis"
+    },
+    {
+        "重置成本法": "replacement cost method"
+    },
+    {
+        "重置型投資專案": "replacement project"
+    },
+    {
+        "複製": "replication"
+    },
+    {
+        "代表性經驗法則": "representativeness heuristics"
+    },
+    {
+        "必要報酬率": "required rate of return"
+    },
+    {
+        "備用舉債能力": "reserve borrowing capacity"
+    },
+    {
+        "準備基金": "reserve fund"
+    },
+    {
+        "住宅抵押貸款": "residential mortgage"
+    },
+    {
+        "住宅房貸擔保證券": "residential mortgage-backed securities, RMBS"
+    },
+    {
+        "剩餘股利模式": "residual dividend approach"
+    },
+    {
+        "剩餘股利政策": "residual dividend policy"
+    },
+    {
+        "殘值": "residual value"
+    },
+    {
+        "限制性股票": "restricted stock"
+    },
+    {
+        "零售銀行": "retail bank"
+    },
+    {
+        "保留盈餘": "retained earnings"
+    },
+    {
+        "報酬": "return"
+    },
+    {
+        "股权回报率": "return on equity, ROE"
+    },
+    {
+        "總資產報酬率": "return on total assets, ROA"
+    },
+    {
+        "報酬率變異": "return volatility"
+    },
+    {
+        "反向水平價差策略": "reverse calendar spreads"
+    },
+    {
+        "反向分割": "reverse split"
+    },
+    {
+        "循環信用": "revolving credit"
+    },
+    {
+        "報酬變異比率": "reward-to-variability ratio; RVAR"
+    },
+    {
+        "報酬-波動度比率": "reward-to-volatility ratio, Sharpe's measure"
+    },
+    {
+        "駕馭殖利率曲線": "riding the yield curve"
+    },
+    {
+        "抵銷權": "right of offset"
+    },
+    {
+        "餘額承銷購股權": "right offering with standby underwriting"
+    },
+    {
+        "風險": "risk"
+    },
+    {
+        "風險調整折現率": "risk adjusted discount rate"
+    },
+    {
+        "風險調整報酬率": "risk adjusted return rate"
+    },
+    {
+        "風險資產": "risk asset"
+    },
+    {
+        "風險規避": "risk aversion"
+    },
+    {
+        "風險控制": "risk control"
+    },
+    {
+        "風險管理": "risk management"
+    },
+    {
+        "風險中立": "risk neutral"
+    },
+    {
+        "風險分擔": "risk sharing"
+    },
+    {
+        "風險調整資金成本": "risk-adjusted costs of capital"
+    },
+    {
+        "風險基礎稽核": "risk-based audit"
+    },
+    {
+        "無風險資產": "risk-free asset"
+    },
+    {
+        "無風險利率": "risk-free interest rate、 RFR"
+    },
+    {
+        "無風險利率": "risk-free rate of interest"
+    },
+    {
+        "無風險避險": "riskless hedge"
+    },
+    {
+        "風險移轉創新": "risk-transferring innovation"
+    },
+    {
+        "法人說明會": "road show"
+    },
+    {
+        "滾動式避險": "rolling hedging"
+    },
+    {
+        "法規委員會": "Rules Committee"
+    },
+    {
+        "標準普爾500指數": "S&P 500 Index"
+    },
+    {
+        "售後租回": "sale and leaseback"
+    },
+    {
+        "銷售融資機構": "sales finance institution"
+    },
+    {
+        "武士債券": "samurai bond"
+    },
+    {
+        "儲蓄": "saving"
+    },
+    {
+        "儲蓄銀行": "savings bank"
+    },
+    {
+        "儲蓄機構": "savings institutions"
+    },
+    {
+        "尺度": "scaling"
+    },
+    {
+        "股票增資": "seasoned equity offering"
+    },
+    {
+        "二階隨機單調優勢": "second degree stochastic monotonic dominance"
+    },
+    {
+        "二階隨機優勢": "second order stochastic dominance"
+    },
+    {
+        "次級資本": "second tier capital"
+    },
+    {
+        "次級市場": "secondary market"
+    },
+    {
+        "擔保貸款": "secured loan"
+    },
+    {
+        "證券": "securities"
+    },
+    {
+        "美國證券管理委員會": "Securities and Exchange Commission {=SEC}"
+    },
+    {
+        "證券特徵線": "securities characteristic line、 SCL"
+    },
+    {
+        "證券公司": "securities company"
+    },
+    {
+        "證券融資": "securities financing"
+    },
+    {
+        "證券指數基金": "securities index fund"
+    },
+    {
+        "證券投資組合": "securities portfolio"
+    },
+    {
+        "證券市場": "security market"
+    },
+    {
+        "證券市場線": "security market line {=SML}"
+    },
+    {
+        "選擇性信用管制": "selective credit control"
+    },
+    {
+        "自我歸因": "self-attribution"
+    },
+    {
+        "自我控制": "self-control"
+    },
+    {
+        "自償性融資": "self-liquidating financing"
+    },
+    {
+        "賣空": "sell short"
+    },
+    {
+        "出售": "sell-off"
+    },
+    {
+        "每半年複利": "semiannual compounding"
+    },
+    {
+        "半強式效率": "semi-strong-form efficiency"
+    },
+    {
+        "序貫交易模型": "sequential trade model"
+    },
+    {
+        "分次償還債券": "serial bond"
+    },
+    {
+        "結算": "settlement"
+    },
+    {
+        "上證綜合指數": "Shanghai Composite Index"
+    },
+    {
+        "滬深300指數": "Shanghai Shenzhen 300 Index"
+    },
+    {
+        "殖利率曲線形狀": "shape of the yield curve"
+    },
+    {
+        "控股銀行制度": "share holding banking system"
+    },
+    {
+        "Sharpe比率": "Sharpe ratio"
+    },
+    {
+        "深圳成分指數": "Shenzhen stock exchange Component Index"
+    },
+    {
+        "空頭避險": "short hedging"
+    },
+    {
+        "空頭部位": "short position"
+    },
+    {
+        "放空跨式部位": "short straddle"
+    },
+    {
+        "喊價選擇權": "shout option"
+    },
+    {
+        "見票即付匯票": "sight draft"
+    },
+    {
+        "單利": "simple interest"
+    },
+    {
+        "償債基金": "sinking fund"
+    },
+    {
+        "償債基金條款": "sinking fund provision"
+    },
+    {
+        "小額貸款公司": "small loan company"
+    },
+    {
+        "社會學習": "social learning"
+    },
+    {
+        "軟性預算約束": "soft budget constraint"
+    },
+    {
+        "一次還本架構": "soft bullet structure"
+    },
+    {
+        "軟性商品期貨": "soft commodity futures"
+    },
+    {
+        "主權風險": "sovereign risk"
+    },
+    {
+        "主權基金": "sovereign wealth fund, SWF"
+    },
+    {
+        "特許經紀人": "specialist"
+    },
+    {
+        "專業銀行制": "specialized banking"
+    },
+    {
+        "特定風險": "specific risk"
+    },
+    {
+        "投機": "speculation"
+    },
+    {
+        "投機者": "speculators"
+    },
+    {
+        "減速措施": "speed bumps"
+    },
+    {
+        "證券發行推薦制": "sponsor's system for issue of securities"
+    },
+    {
+        "即時性資金": "spontaneous funds"
+    },
+    {
+        "即期利率": "spot interest rate"
+    },
+    {
+        "現貨市場": "spot markets"
+    },
+    {
+        "現貨價格": "spot price"
+    },
+    {
+        "即期匯率或即期利息": "spot rate"
+    },
+    {
+        "現貨-期貨平價定理": "spot-futures parity theorem or cost-of-carry relationship"
+    },
+    {
+        "價差": "spread"
+    },
+    {
+        "價差選擇權": "spread option"
+    },
+    {
+        "價差策略": "spread strategy"
+    },
+    {
+        "價差交易": "spread transaction"
+    },
+    {
+        "平準基金": "stabilization fund"
+    },
+    {
+        "穩定股利政策": "stable dividend policy"
+    },
+    {
+        "印花稅": "stamp taxes"
+    },
+    {
+        "個別風險": "stand-alone risk"
+    },
+    {
+        "標準差": "standard deviation"
+    },
+    {
+        "SPAN系統": "Standard Portfolio Analysis of Risk"
+    },
+    {
+        "擔保信用狀": "standby letter of credit"
+    },
+    {
+        "餘額包銷": "standby underwrite"
+    },
+    {
+        "狀態價格": "state price"
+    },
+    {
+        "現金流量表": "statement of cash flows"
+    },
+    {
+        "保留盈餘表": "statement of retained earnings"
+    },
+    {
+        "國有股": "state-owned shares"
+    },
+    {
+        "靜態資本結構理論": "static theory of capital structure"
+    },
+    {
+        "逐步提高履約價": "stepped-up exercise price"
+    },
+    {
+        "隨機波動模型": "stochastic volatility model"
+    },
+    {
+        "股票": "stock"
+    },
+    {
+        "股票股利": "stock dividend"
+    },
+    {
+        "股票基金": "stock fund"
+    },
+    {
+        "股價指數期貨市場": "stock index futures market"
+    },
+    {
+        "買回庫藏股": "stock repurchase"
+    },
+    {
+        "股票交易併購": "stock trade-off merger"
+    },
+    {
+        "停損限價單": "stop-limit order"
+    },
+    {
+        "停損單": "stop-loss order"
+    },
+    {
+        "跨式部位": "straddle"
+    },
+    {
+        "跨式部位交易策略": "straddle strategy"
+    },
+    {
+        "勒式部位策略": "strangle"
+    },
+    {
+        "偏多跨式部位": "strap"
+    },
+    {
+        "策略聯盟": "strategic alliance"
+    },
+    {
+        "壓力測試": "stress testing"
+    },
+    {
+        "執行或履約價": "strike or exercise price"
+    },
+    {
+        "執行價格": "striking price"
+    },
+    {
+        "偏空跨式部位": "strip"
+    },
+    {
+        "強式效率": "strong-form efficiency"
+    },
+    {
+        "結構型商品": "structured note"
+    },
+    {
+        "結構性金融商品": "structured product"
+    },
+    {
+        "次順位債券": "subordinated debenture"
+    },
+    {
+        "次級房貸": "subprime mortgage loan"
+    },
+    {
+        "替代交換": "substitution swap"
+    },
+    {
+        "超級股利": "Super dividend"
+    },
+    {
+        "超常成長": "supernormal growth"
+    },
+    {
+        "資產品質監管": "supervision on asset quality"
+    },
+    {
+        "流動性監管": "supervision on liquidity"
+    },
+    {
+        "補充退休金": "supplementary pension"
+    },
+    {
+        "交換": "swap"
+    },
+    {
+        "交換買賣商": "swap dealer"
+    },
+    {
+        "交換合約": "swaps contract"
+    },
+    {
+        "交換選擇權": "swaption"
+    },
+    {
+        "轉換選擇權": "switch option"
+    },
+    {
+        "對稱資訊": "symmetric information"
+    },
+    {
+        "聯貸": "syndicated loan, joint loan"
+    },
+    {
+        "綜效": "synergy"
+    },
+    {
+        "合成式買權": "synthetic call"
+    },
+    {
+        "合成式權益部位": "synthetic equity position"
+    },
+    {
+        "合成式投資組合": "synthetic portfolios"
+    },
+    {
+        "合成式短期債券": "synthetic T-bill"
+    },
+    {
+        "系統風險": "systematic risk"
+    },
+    {
+        "系統化壓力測試": "systematic stress testing"
+    },
+    {
+        "建倉": "take a position"
+    },
+    {
+        "接管": "takeover"
+    },
+    {
+        "有形資產": "tangible assets"
+    },
+    {
+        "目標資本結構": "target capital structure"
+    },
+    {
+        "標的公司": "target company"
+    },
+    {
+        "所得稅差異論": "tax differential theory"
+    },
+    {
+        "稅負規避": "tax dodge"
+    },
+    {
+        "資本稅": "tax on capital"
+    },
+    {
+        "稅負交換": "tax swap"
+    },
+    {
+        "技術分析": "technical analysis"
+    },
+    {
+        "暫時性流動資產": "temporary current asset"
+    },
+    {
+        "期限": "term"
+    },
+    {
+        "定期貸款": "term loan"
+    },
+    {
+        "投資報酬期限法": "term of investment return approach"
+    },
+    {
+        "定期再買回": "term repo"
+    },
+    {
+        "利率期限結構": "term structure of interest"
+    },
+    {
+        "結束日": "terminal date (horizon date)"
+    },
+    {
+        "基數": "the base number"
+    },
+    {
+        "知情交易機率": "the probability of informed trading"
+    },
+    {
+        "贏家詛咒假說": "the winner's curse hypothesis"
+    },
+    {
+        "最小升降單位": "tick size"
+    },
+    {
+        "交割時點選擇權": "time option"
+    },
+    {
+        "消費的時間偏好": "time preferences for consumption"
+    },
+    {
+        "時間價值": "time value"
+    },
+    {
+        "時間折現係數": "time-discount coefficient"
+    },
+    {
+        "利息涵蓋倍數比": "times-interest-earned (TIE) ratio"
+    },
+    {
+        "時間加權報酬率": "time-weighted rate of return"
+    },
+    {
+        "Tobin's Q比率": "Tobin's Q ratio"
+    },
+    {
+        "東京東證股票指數": "Tokyo Topix stock Index"
+    },
+    {
+        "上跨式交易策略": "top straddle"
+    },
+    {
+        "總資產周轉率": "total assets turnover ratio"
+    },
+    {
+        "追踨投資組合": "tracking portfolio"
+    },
+    {
+        "商業承兌匯票": "trade acceptance"
+    },
+    {
+        "交易機制": "trade mechanisms"
+    },
+    {
+        "抵換理論": "trade-off theory"
+    },
+    {
+        "交易停止": "trading halt"
+    },
+    {
+        "交易暫停": "trading suspension"
+    },
+    {
+        "交易帳戶": "transaction account"
+    },
+    {
+        "轉移帳戶": "transferred account"
+    },
+    {
+        "短暫波動度": "transitory volatility"
+    },
+    {
+        "跨國聯合制度": "transnational combination system"
+    },
+    {
+        "透明度": "transparency"
+    },
+    {
+        "財務長": "treasurer"
+    },
+    {
+        "國庫券": "treasury bill"
+    },
+    {
+        "國庫券期貨": "treasury bill futures"
+    },
+    {
+        "國庫券市場": "treasury bills market"
+    },
+    {
+        "公債": "treasury bond"
+    },
+    {
+        "美國中期公債": "treasury note"
+    },
+    {
+        "庫藏股": "treasury stock"
+    },
+    {
+        "Treynor式衡量": "Treynor's measure"
+    },
+    {
+        "確實賣斷": "true sale"
+    },
+    {
+        "信託合約": "trust agreement"
+    },
+    {
+        "信託存款": "trust deposit"
+    },
+    {
+        "信託基金": "trust fund"
+    },
+    {
+        "信託機構": "trust institution"
+    },
+    {
+        "信託貸款": "trust loan"
+    },
+    {
+        "信託存單": "trust receipt"
+    },
+    {
+        "信託委托人": "trust settlor"
+    },
+    {
+        "受託人": "trustee"
+    },
+    {
+        "兩基金的貨幣分離": "two fund monetary separation"
+    },
+    {
+        "兩階段股利折現模型": "two-stage dividend discount model"
+    },
+    {
+        "非平衡縱橫資料": "unbalanced panel data"
+    },
+    {
+        "反應不足": "under reaction"
+    },
+    {
+        "標的資產": "underlying asset"
+    },
+    {
+        "不可分散風險": "undiversifiable risk"
+    },
+    {
+        "不知情交易者": "uninformed trader"
+    },
+    {
+        "單一銀行制度": "unit bank system"
+    },
+    {
+        "一元式中央銀行制度": "unit central bank system"
+    },
+    {
+        "綜合銀行": "universal banking"
+    },
+    {
+        "未舉債貝他": "unlevered beta"
+    },
+    {
+        "未登記股票": "unregistered stock"
+    },
+    {
+        "非系統風險": "unsystematic risk"
+    },
+    {
+        "評價": "valuation"
+    },
+    {
+        "價值線指數": "value line index"
+    },
+    {
+        "風險值壓力測試": "Value-at-Risk stress testing {=VaR stress testing}"
+    },
+    {
+        "風險值": "value-at-risk {=VaR}"
+    },
+    {
+        "變異數": "variance"
+    },
+    {
+        "變動保證金": "variation margin"
+    },
+    {
+        "向量自我迴歸模型": "vector autoregressive model"
+    },
+    {
+        "向量誤差修正模型": "vector error correction model"
+    },
+    {
+        "vega": "vega"
+    },
+    {
+        "賣方融資": "vendor financing"
+    },
+    {
+        "創業投資機構": "venture capital institution"
+    },
+    {
+        "垂直價差策略": "vertical spread strategy"
+    },
+    {
+        "垂直型投資": "vertically integrated investment"
+    },
+    {
+        "村鎮銀行": "village bank"
+    },
+    {
+        "波動度": "volatility"
+    },
+    {
+        "波動度風險": "volatility risk"
+    },
+    {
+        "弱式效率": "weak-form efficiency"
+    },
+    {
+        "加權平均資金成本": "weighted average cost of capital {=WACC}"
+    },
+    {
+        "加權平均總市值": "weighted average total market value"
+    },
+    {
+        "充分分散風險的投資組合": "well-diversified portfolio"
+    },
+    {
+        "白馬騎士": "white knight"
+    },
+    {
+        "白馬護衛": "white squire"
+    },
+    {
+        "批發銀行": "wholesale bank"
+    },
+    {
+        "Wiener過程": "Wiener process"
+    },
+    {
+        "外卡選擇權": "wild card option"
+    },
+    {
+        "窗口指導": "window guidance"
+    },
+    {
+        "預扣稅": "withholding taxes"
+    },
+    {
+        "營運資金": "working capital"
+    },
+    {
+        "營運資金融資政策": "working capital financing policy"
+    },
+    {
+        "營運資金管理": "working capital management"
+    },
+    {
+        "營運資金政策": "working capital policy"
+    },
+    {
+        "最壞情境分析": "worst-case analysis"
+    },
+    {
+        "洋基債券": "Yankee bond"
+    },
+    {
+        "殖利率；良率": "yield"
+    },
+    {
+        "殖利率曲線": "yield curve"
+    },
+    {
+        "殖利率模型": "yield ratio model"
+    },
+    {
+        "收益率差": "yield spread"
+    },
+    {
+        "贖回收益率": "yield to call {=YTC}"
+    },
+    {
+        "Z型債券": "Z bond"
+    },
+    {
+        "零息債券": "zero coupon bond"
+    },
+    {
+        "零成長股": "zero growth stock"
+    },
+    {
+        "零息債券收益率": "zero-coupon yield"
+    },
+    {
+        "零投資組合": "zero-investment portfolio"
+    },
+    {
+        "α值": "α value、 alpha value"
+    },
+    {
+        "β係數": "β coefficient、 beta coefficient、"
+    },
+    {
+        "γ模型": "γ model"
+    },
+    {
+        "γ": "γ, gamma"
+    },
+    {
+        "δ模型": "δ model"
+    },
+    {
+        "δ": "δ, delta"
+    },
+    {
+        "θ": "θ, theta"
+    },
+    {
+        "ρ": "ρ, rho"
+    },
+    {
+        "A/B測試": "A/B Testing"
+    },
+    {
+        "放棄率": "abandonment rate"
+    },
+    {
+        "ABC分析": "ABC analysis"
+    },
+    {
+        "ABC存貨分類": "ABC inventory classification"
+    },
+    {
+        "預算內廣告製作成本": "above-the-line cost"
+    },
+    {
+        "絕對利益；絕對優勢": "absolute advantage"
+    },
+    {
+        "加速發展階段": "accelerated development stage"
+    },
+    {
+        "提前購買": "accelerated purchase"
+    },
+    {
+        "加速成長": "accelerating growth"
+    },
+    {
+        "加速原理": "acceleration principle"
+    },
+    {
+        "可接受價格範圍": "acceptable price range"
+    },
+    {
+        "接近障礙": "access barriers"
+    },
+    {
+        "可接近性": "accessible"
+    },
+    {
+        "業務專員": "account executive {=AE}"
+    },
+    {
+        "責任型行銷；當責行銷": "accountable marketing"
+    },
+    {
+        "涵化": "acculturation"
+    },
+    {
+        "自動結帳機": "ACM"
+    },
+    {
+        "可行動性": "actionable"
+    },
+    {
+        "主動出口": "active exporting"
+    },
+    {
+        "活動，興趣，意見": "activities, interests, and opinions {=AIO)"
+    },
+    {
+        "活動基礎成本法": "activity based costing {=ABC}"
+    },
+    {
+        "活動基礎的成本會計": "activity-based cost accounting"
+    },
+    {
+        "實質產品": "actual product"
+    },
+    {
+        "真實自我概念": "actual self-concept"
+    },
+    {
+        "廣告點閱次數": "Ad Clicks"
+    },
+    {
+        "廣告文案": "Ad Copy"
+    },
+    {
+        "廣告排程": "Ad Scheduling"
+    },
+    {
+        "從價稅": "ad valorem duty"
+    },
+    {
+        "廣告瀏覽次數": "Ad Views [Impressions]"
+    },
+    {
+        "調適的全球行銷": "adapted global marketing"
+    },
+    {
+        "調適的行銷組合": "adapted marketing mix"
+    },
+    {
+        "調適者": "adapter"
+    },
+    {
+        "調適性的控制預算編列": "adaptive control budgeting"
+    },
+    {
+        "調適性準則": "adaptive criteria"
+    },
+    {
+        "調適性實驗方法": "adaptive experimentation"
+    },
+    {
+        "調適性規劃": "adaptive planning"
+    },
+    {
+        "管理式垂直行銷通路系統": "administered vertical marketing system {=administered VMS}"
+    },
+    {
+        "創新採用者類別": "adopter categories in Diffusion of Innovations"
+    },
+    {
+        "採用": "adoption"
+    },
+    {
+        "創新應用過程": "adoption process of innovations"
+    },
+    {
+        "廣告作品": "advertisement"
+    },
+    {
+        "廣告主": "advertiser"
+    },
+    {
+        "廣告代理商；廣告公司": "advertising agency"
+    },
+    {
+        "廣告折讓；廣告津貼": "advertising allowance"
+    },
+    {
+        "廣告預算": "advertising appropriation"
+    },
+    {
+        "廣告預算": "advertising budget"
+    },
+    {
+        "廣告活動": "advertising campaign"
+    },
+    {
+        "廣告論點": "advertising claim"
+    },
+    {
+        "廣告干擾": "advertising clutter"
+    },
+    {
+        "廣告概念": "advertising concept"
+    },
+    {
+        "廣告文案": "advertising copy"
+    },
+    {
+        "廣告效果": "advertising effectiveness"
+    },
+    {
+        "廣告曝光": "advertising exposure"
+    },
+    {
+        "廣告目標": "advertising goal"
+    },
+    {
+        "廣告構想": "advertising idea"
+    },
+    {
+        "廣告音樂標語": "advertising jingle"
+    },
+    {
+        "廣告媒體": "advertising media"
+    },
+    {
+        "廣告訊息": "advertising message"
+    },
+    {
+        "廣告模式": "advertising model"
+    },
+    {
+        "廣告目標": "advertising objective"
+    },
+    {
+        "廣告滲透": "advertising penetration"
+    },
+    {
+        "廣告費率": "advertising rate"
+    },
+    {
+        "廣告版面": "advertising space"
+    },
+    {
+        "廣告策略": "advertising strategy"
+    },
+    {
+        "廣告主題": "advertising theme"
+    },
+    {
+        "廣告疲乏": "advertising wearout"
+    },
+    {
+        "編輯式廣告": "advertorial"
+    },
+    {
+        "宣導式廣告": "advocacy advertising"
+    },
+    {
+        "宣導者通路；宣導者管道": "advocate channel"
+    },
+    {
+        "連結行銷；聯盟行銷": "affiliate marketing"
+    },
+    {
+        "引薦方案": "affiliate program"
+    },
+    {
+        "群聚傾向": "affinities"
+    },
+    {
+        "量入為出法": "affordable method"
+    },
+    {
+        "售後支援": "after sales support"
+    },
+    {
+        "後續市場": "after-market"
+    },
+    {
+        "代理人；代理商": "agent"
+    },
+    {
+        "代理中間商": "agent middlemen"
+    },
+    {
+        "知曉-興趣-慾望-行動模式": "AIDA"
+    },
+    {
+        "輔助回憶": "aided recall"
+    },
+    {
+        "空陸聯運": "airtruck"
+    },
+    {
+        "聯盟": "alliance"
+    },
+    {
+        "折讓；津貼；寬放": "allowance"
+    },
+    {
+        "傾囊所有預算法": "all-you-can-afford budgeting"
+    },
+    {
+        "型一錯誤": "alpha error"
+    },
+    {
+        "可行方案評估": "alternative evaluation"
+    },
+    {
+        "突擊行銷": "ambush marketing"
+    },
+    {
+        "類比法": "analog approach"
+    },
+    {
+        "定錨與調整經驗法則": "anchoring and adjustment heuristic"
+    },
+    {
+        "預應訂價": "anticipatory pricing"
+    },
+    {
+        "反傾銷稅": "antidumping duties"
+    },
+    {
+        "訴求": "appeal"
+    },
+    {
+        "套利訂價理論": "arbitrage pricing theory {=APT}"
+    },
+    {
+        "仲裁": "arbitration"
+    },
+    {
+        "區域市場潛量": "area market potential"
+    },
+    {
+        "地區抽樣": "area sampling"
+    },
+    {
+        "議定價格": "Arm's-length price"
+    },
+    {
+        "崇拜群體": "aspirational group"
+    },
+    {
+        "資產週轉率": "asset turn-over"
+    },
+    {
+        "資產專屬活動": "asset-specific activity"
+    },
+    {
+        "聯想測試": "association test"
+    },
+    {
+        "分類": "assortment"
+    },
+    {
+        "保證": "assurance"
+    },
+    {
+        "居家購物頻道": "at-home shopping channel"
+    },
+    {
+        "注意": "attention"
+    },
+    {
+        "態度": "attitude"
+    },
+    {
+        "屬性": "attribute"
+    },
+    {
+        "屬性定位法": "attribute positioning"
+    },
+    {
+        "拍賣型訂價": "auction-type pricing"
+    },
+    {
+        "閱聽眾": "audience"
+    },
+    {
+        "視聽記錄儀": "audiometer"
+    },
+    {
+        "擴增產品": "augmented product"
+    },
+    {
+        "自動販賣": "automatic vending"
+    },
+    {
+        "有效市場": "available market"
+    },
+    {
+        "平均頻率": "average frequency"
+    },
+    {
+        "平均成本訂價法": "average-cost pricing"
+    },
+    {
+        "知曉-興趣-慾望-行動模式": "awareness, interest, desire, action {=AIDA} model"
+    },
+    {
+        "知曉-試用-重覆模式": "awareness-trial-repeat model"
+    },
+    {
+        "企業對企業": "B2B"
+    },
+    {
+        "企業對消費者": "B2C"
+    },
+    {
+        "向後發明": "backward invention"
+    },
+    {
+        "釣餌廣告": "bait advertising"
+    },
+    {
+        "平衡理論": "balance theory"
+    },
+    {
+        "橫幅廣告": "banner ad"
+    },
+    {
+        "條碼": "bar code"
+    },
+    {
+        "特價品": "bargain"
+    },
+    {
+        "特價品搜尋者": "bargain hunter"
+    },
+    {
+        "易貨貿易；以物易物": "barter"
+    },
+    {
+        "基本產品": "basic product"
+    },
+    {
+        "基準點訂價法": "basing-point pricing"
+    },
+    {
+        "貝式機率": "Bayesian probability"
+    },
+    {
+        "BCG成長-占有率矩陣": "BCG Growth-Share Matrix"
+    },
+    {
+        "行為區隔": "behavioral segmentation"
+    },
+    {
+        "信念": "belief"
+    },
+    {
+        "廣告製作隱藏成本": "below-the-line cost"
+    },
+    {
+        "利益定位": "benefit positioning"
+    },
+    {
+        "暢銷品": "best seller"
+    },
+    {
+        "型二錯誤": "beta error"
+    },
+    {
+        "投標": "bidding"
+    },
+    {
+        "提單": "bill of lading {= B/L}"
+    },
+    {
+        "黑市": "black market"
+    },
+    {
+        "滿版廣告": "bleed advertisement"
+    },
+    {
+        "品牌": "brand"
+    },
+    {
+        "品牌資產": "brand asset"
+    },
+    {
+        "品牌屬性": "brand attribute"
+    },
+    {
+        "品牌稽核": "brand audit"
+    },
+    {
+        "品牌戰爭": "brand battle"
+    },
+    {
+        "品牌信念": "brand belief"
+    },
+    {
+        "品牌發展指數": "Brand Development Index {=BDI}"
+    },
+    {
+        "品牌稀釋": "brand dilution"
+    },
+    {
+        "品牌要素": "brand element"
+    },
+    {
+        "品牌權益": "brand equity"
+    },
+    {
+        "品牌延伸": "brand extension"
+    },
+    {
+        "品牌熟悉度": "brand familiarity"
+    },
+    {
+        "品牌辨識；品牌識別；品牌身份": "brand identity"
+    },
+    {
+        "品牌形象": "brand image"
+    },
+    {
+        "品牌目錄": "brand inventory"
+    },
+    {
+        "品牌知識": "brand knowledge"
+    },
+    {
+        "品牌生命週期": "brand life cycle"
+    },
+    {
+        "品牌忠誠": "brand loyalty"
+    },
+    {
+        "品牌經理": "brand manager"
+    },
+    {
+        "品標": "brand mark"
+    },
+    {
+        "品牌組合": "brand mix"
+    },
+    {
+        "品牌滲透": "brand penetration"
+    },
+    {
+        "品牌個性": "brand personality"
+    },
+    {
+        "品牌組合": "brand portfolio"
+    },
+    {
+        "品牌定位": "brand positioning"
+    },
+    {
+        "品牌共鳴": "brand resonance"
+    },
+    {
+        "品牌再現": "brand revitalization"
+    },
+    {
+        "品牌轉換": "brand switching"
+    },
+    {
+        "品牌鑑價": "brand valuation"
+    },
+    {
+        "品牌變體": "branded variants"
+    },
+    {
+        "品牌化": "branding"
+    },
+    {
+        "損益平衡點": "break-even point"
+    },
+    {
+        "損益平衡訂價法": "break-even pricing"
+    },
+    {
+        "分裝": "breaking bulk"
+    },
+    {
+        "實體與網路兼營": "brick-and-click company"
+    },
+    {
+        "組合訂價法": "bundle pricing"
+    },
+    {
+        "企業購買程序；企業購買流程": "business buying process"
+    },
+    {
+        "企業市場；機構市場": "business market"
+    },
+    {
+        "企業行銷": "business marketing"
+    },
+    {
+        "事業組合": "business portfolio"
+    },
+    {
+        "購買者準備階段": "buyer readiness stage"
+    },
+    {
+        "購買者意願調查": "buyers intention survey"
+    },
+    {
+        "影響者": "buying influencers"
+    },
+    {
+        "購買力指數": "buying power index {=BPI}"
+    },
+    {
+        "購買者角色": "buying roles"
+    },
+    {
+        "話題行銷": "buzz marketing"
+    },
+    {
+        "迂迴攻擊": "bypass attack"
+    },
+    {
+        "副產品訂價": "by-product pricing"
+    },
+    {
+        "客服中心": "call center"
+    },
+    {
+        "拜訪頻率": "call frequency"
+    },
+    {
+        "拜訪報告": "call report"
+    },
+    {
+        "能量需求規劃": "capacity requirements planning {=CRP}"
+    },
+    {
+        "資本財": "capital goods"
+    },
+    {
+        "專屬市場": "captive market"
+    },
+    {
+        "專屬品訂價": "captive-product pricing"
+    },
+    {
+        "卡特爾": "cartel"
+    },
+    {
+        "金牛［事業］": "cash cow"
+    },
+    {
+        "現金折扣": "cash discount"
+    },
+    {
+        "現金回扣": "cash rebate"
+    },
+    {
+        "目錄": "catalog"
+    },
+    {
+        "型錄行銷": "catalog marketing"
+    },
+    {
+        "類別觀念": "category concept"
+    },
+    {
+        "品類發展指數": "Category Development Index {=CDI}"
+    },
+    {
+        "類別延伸": "category extension"
+    },
+    {
+        "類別殺手": "category killer"
+    },
+    {
+        "善因行銷": "cause marketing"
+    },
+    {
+        "善因行銷": "cause-related marketing"
+    },
+    {
+        "中央路徑": "central route"
+    },
+    {
+        "連鎖商店": "chain store"
+    },
+    {
+        "連鎖批發商": "chain wholesaler"
+    },
+    {
+        "連鎖比例法": "chain-ratio method"
+    },
+    {
+        "通路優勢": "channel advantage"
+    },
+    {
+        "通路領袖；渠道領袖": "channel captain"
+    },
+    {
+        "通路衝突": "channel conflict"
+    },
+    {
+        "通路控制": "channel control"
+    },
+    {
+        "通路合作": "channel cooperation"
+    },
+    {
+        "通路協調": "channel coordination"
+    },
+    {
+        "通路整合": "channel integration"
+    },
+    {
+        "通路長度": "channel length"
+    },
+    {
+        "通路階層": "channel level"
+    },
+    {
+        "通路管理": "channel management"
+    },
+    {
+        "通路寬度": "channel width"
+    },
+    {
+        "服務的特性": "characteristics of service"
+    },
+    {
+        "實體與網路兼營公司": "click-and-mortar company"
+    },
+    {
+        "網路公司": "click-only company"
+    },
+    {
+        "客戶": "client"
+    },
+    {
+        "複製者": "cloner"
+    },
+    {
+        "封閉性問題": "closed-end question"
+    },
+    {
+        "雲端運算": "cloud computing"
+    },
+    {
+        "集群分析": "cluster analysis"
+    },
+    {
+        "集群抽樣": "cluster sampling"
+    },
+    {
+        "集群型偏好": "clustered preferences"
+    },
+    {
+        "干擾": "clutter"
+    },
+    {
+        "共品牌": "co-branding"
+    },
+    {
+        "認知": "cognition"
+    },
+    {
+        "認知失調": "cognitive dissonance"
+    },
+    {
+        "認知過程": "cognitive processes"
+    },
+    {
+        "認知空間": "cognitive space"
+    },
+    {
+        "商業化；商化": "commercialization"
+    },
+    {
+        "佣金": "commission"
+    },
+    {
+        "委員會購買": "committee buying"
+    },
+    {
+        "一般化商品": "commodity"
+    },
+    {
+        "創新的可溝通性": "communicability of innovation"
+    },
+    {
+        "溝通；傳播": "communication"
+    },
+    {
+        "溝通效果": "communication effect"
+    },
+    {
+        "比較性廣告": "comparative advertising"
+    },
+    {
+        "比較性廣告": "comparison advertising"
+    },
+    {
+        "創新相容性": "compatibility of innovation"
+    },
+    {
+        "競爭對等預算": "competitive parity budgeting"
+    },
+    {
+        "競爭對等法": "competitive parity method"
+    },
+    {
+        "互補產品": "complementary products"
+    },
+    {
+        "輔助性服務": "complementary services"
+    },
+    {
+        "複雜型購買決策": "complex buying behavior"
+    },
+    {
+        "電腦輔助訪問": "computer assisted interviewing {=CAI}"
+    },
+    {
+        "電腦輔助的電話訪問": "computer-assisted telephone interview {=CATI}"
+    },
+    {
+        "集中行銷": "concentrated marketing"
+    },
+    {
+        "同心圈理論": "concentric zone theory"
+    },
+    {
+        "觀念測試": "concept testing"
+    },
+    {
+        "適度品質": "conformance quality"
+    },
+    {
+        "綜合多角化策略": "conglomerate diversification strategy"
+    },
+    {
+        "聯合分析": "conjoint analysis"
+    },
+    {
+        "炫耀性消費": "conspicuous consumption"
+    },
+    {
+        "顧問式銷售": "consultative selling"
+    },
+    {
+        "消費品": "consumer goods"
+    },
+    {
+        "消費者涉入": "consumer involvement"
+    },
+    {
+        "消費者運動": "consumer movement"
+    },
+    {
+        "消費者固定樣本": "consumer panel"
+    },
+    {
+        "消費者物價指數": "consumer price index {=CPI}"
+    },
+    {
+        "消費品": "consumer product"
+    },
+    {
+        "消費者推廣": "consumer promotion"
+    },
+    {
+        "消費者保護": "consumer protection"
+    },
+    {
+        "消费者研究": "consumer research"
+    },
+    {
+        "消費者促銷活動": "consumer sales promotion"
+    },
+    {
+        "消費者滿意": "consumer satisfaction"
+    },
+    {
+        "消費者剩餘": "consumer surplus"
+    },
+    {
+        "消費者調查": "consumer survey"
+    },
+    {
+        "消費者測試　": "consumer testing"
+    },
+    {
+        "消費者採用過程": "consumer-adoption process"
+    },
+    {
+        "消費者主義": "consumerism"
+    },
+    {
+        "消費者對企業線上行銷": "consumer-to-business {=C2B} online marketing"
+    },
+    {
+        "消費者對顧客線上行銷": "consumer-to-consumer {=C2C} online marketing"
+    },
+    {
+        "消費系統": "consumption system"
+    },
+    {
+        "貨櫃化": "containerization"
+    },
+    {
+        "內容分析": "content analysis"
+    },
+    {
+        "收縮防禦": "contraction defense"
+    },
+    {
+        "契約式銷售團隊": "contractual sales-force"
+    },
+    {
+        "契約式垂直行銷系統": "contractual vertical marketing system"
+    },
+    {
+        "控制性準則": "control criteria"
+    },
+    {
+        "便利品": "convenience goods"
+    },
+    {
+        "便利品": "convenience product"
+    },
+    {
+        "便利抽樣": "convenience sampling"
+    },
+    {
+        "便利商店": "convenience store"
+    },
+    {
+        "傳統式配銷通路": "conventional distribution channel"
+    },
+    {
+        "延攬": "co-optation"
+    },
+    {
+        "延攬": "co-option"
+    },
+    {
+        "文案策略": "copy strategy"
+    },
+    {
+        "文案測試": "copy testing"
+    },
+    {
+        "核心利益": "core benefit"
+    },
+    {
+        "核心能力；核心專長": "core competency"
+    },
+    {
+        "核心產品": "core product"
+    },
+    {
+        "企業廣告": "corporate advertising"
+    },
+    {
+        "企業文化": "corporate culture"
+    },
+    {
+        "公司型零售": "corporate retailing"
+    },
+    {
+        "公司式垂直行銷通路系統": "corporate vertical marketing system {=corporate VMS}"
+    },
+    {
+        "成本中心": "cost center"
+    },
+    {
+        "成本基礎式訂價": "cost-based pricing"
+    },
+    {
+        "每評點成本": "cost-per-rating point {=CPR or CPRP}"
+    },
+    {
+        "每千人成本": "cost-per-thousand {=CPM}"
+    },
+    {
+        "成本附加價格": "cost-plus price"
+    },
+    {
+        "反制廣告": "counteradvertising"
+    },
+    {
+        "仿冒者": "counterfeiter"
+    },
+    {
+        "反擊防禦": "counteroffensive defense"
+    },
+    {
+        "反區隔化": "countersegmentation"
+    },
+    {
+        "平衡稅": "countervailing duties"
+    },
+    {
+        "原產國效應": "country of origin effect"
+    },
+    {
+        "創意策略": "creative strategy"
+    },
+    {
+        "信任品質": "credence qualities"
+    },
+    {
+        "要徑排程": "critical path scheduling"
+    },
+    {
+        "Cronbach's alpha係數": "Cronbach's alpha; Cronbach alpha"
+    },
+    {
+        "交叉價格彈性": "cross-price elasticity"
+    },
+    {
+        "累積數量折扣": "cumulative quantity discount"
+    },
+    {
+        "顧客流失": "customer churn"
+    },
+    {
+        "顧客賦權": "customer empowerment"
+    },
+    {
+        "顧客權益；顧客價值": "customer equity"
+    },
+    {
+        "顧客終身價值": "customer lifetime value"
+    },
+    {
+        "顧客流失率": "customer loss rate"
+    },
+    {
+        "顧客忠誠": "customer loyalty"
+    },
+    {
+        "顧客滲透率": "customer penetration"
+    },
+    {
+        "顧客知覺價值": "customer perceived value"
+    },
+    {
+        "顧客利潤率分析": "customer profitability analysis"
+    },
+    {
+        "顧客關係管理": "customer relationship management {=CRM}"
+    },
+    {
+        "顧客維繫；顧客保留": "customer retention"
+    },
+    {
+        "顧客接觸點": "customer touch point"
+    },
+    {
+        "顧客價值分析": "customer value analysis"
+    },
+    {
+        "顧客價值評估": "customer value assessment"
+    },
+    {
+        "顧客價值層級": "customer value hierarchy"
+    },
+    {
+        "顧客價值基礎訂價法": "customer value-based pricing"
+    },
+    {
+        "顧客基礎的品牌權益": "customer-based brand equity"
+    },
+    {
+        "顧客驅動工程": "customer-driven engineering"
+    },
+    {
+        "顧客驅動創新": "customer-driven innovation"
+    },
+    {
+        "顧客化": "customerization"
+    },
+    {
+        "客製化行銷": "customized marketing"
+    },
+    {
+        "虛擬空間": "cyberspace"
+    },
+    {
+        "資料採礦；資料探勘": "data mining"
+    },
+    {
+        "資料倉庫": "data warehouse"
+    },
+    {
+        "資料庫行銷": "database marketing"
+    },
+    {
+        "折扣偏好傾向": "deal proneness"
+    },
+    {
+        "衰退成熟期": "decaying maturity stage"
+    },
+    {
+        "緩慢成長期": "decelerating growth stage"
+    },
+    {
+        "欺騙性廣告": "deceptive advertising"
+    },
+    {
+        "決策支援系統": "decision support system {=DSS}"
+    },
+    {
+        "衰退期": "decline stage"
+    },
+    {
+        "不充份的產品": "deficient product"
+    },
+    {
+        "延遲報價訂價法": "delayed quotation pricing"
+    },
+    {
+        "德菲法": "Delphi method"
+    },
+    {
+        "需求分析": "demand analysis"
+    },
+    {
+        "需求管理": "demand management"
+    },
+    {
+        "低行銷": "demarketing"
+    },
+    {
+        "百貨公司": "department store"
+    },
+    {
+        "部門化專門店": "departmentalized specialty store"
+    },
+    {
+        "深度訪談法": "depth interview"
+    },
+    {
+        "衍生需求": "derived demand"
+    },
+    {
+        "描述性行銷研究": "descriptive marketing research"
+    },
+    {
+        "盼望的產品；合需的產品": "desirable product"
+    },
+    {
+        "可差異性": "differentiable"
+    },
+    {
+        "差異行銷": "differentiated marketing"
+    },
+    {
+        "差異化": "differentiation"
+    },
+    {
+        "擴散曲線": "diffusion curve"
+    },
+    {
+        "擴散模式": "diffusion model"
+    },
+    {
+        "創新的擴散": "diffusion of innovation"
+    },
+    {
+        "直效行銷": "direct marketing"
+    },
+    {
+        "直接評分法": "direct rating method"
+    },
+    {
+        "郵遞行銷": "direct-mail marketing"
+    },
+    {
+        "直接訂購行銷": "direct-order marketing"
+    },
+    {
+        "直接回應行銷": "direct-response marketing"
+    },
+    {
+        "直接回應電視行銷": "direct-response television marketing"
+    },
+    {
+        "不連續創新": "discontinuous innovation"
+    },
+    {
+        "可自由支配購買力": "discretionary buying power"
+    },
+    {
+        "差別訂價": "discriminatory pricing"
+    },
+    {
+        "去中介化": "disintermediation"
+    },
+    {
+        "陳列": "display"
+    },
+    {
+        "趨避群體": "dissociate group"
+    },
+    {
+        "降低失調購買行為": "dissonance-reducing buying behavior"
+    },
+    {
+        "配銷通路；分配通路": "distribution channel"
+    },
+    {
+        "經銷商品牌": "distributor's brand"
+    },
+    {
+        "創新可分割性": "divisibility of innovation"
+    },
+    {
+        "老狗［事業］": "dog"
+    },
+    {
+        "沿門銷售": "door-to-door selling"
+    },
+    {
+        "向下延伸": "downward stretch"
+    },
+    {
+        "驅力": "drive"
+    },
+    {
+        "雙重調適": "dual adaptation"
+    },
+    {
+        "雙重配銷": "dual distribution"
+    },
+    {
+        "耐久財": "durable goods"
+    },
+    {
+        "荷式拍賣": "Dutch auction {descending bid}"
+    },
+    {
+        "動態訂價法": "dynamic pricing"
+    },
+    {
+        "早期採用者": "early adopter"
+    },
+    {
+        "早期多數；早期大眾": "early majority"
+    },
+    {
+        "生態消費者": "ecoconsumer"
+    },
+    {
+        "電子商務": "e-commerce"
+    },
+    {
+        "經濟性準則": "economic criteria"
+    },
+    {
+        "80-20法則": "eighty-twenty principle"
+    },
+    {
+        "推敲可能性模式": "elaboration likelihood model {=ELM}"
+    },
+    {
+        "需求彈性": "elasticity of demand"
+    },
+    {
+        "電子目錄": "electronic catalogue"
+    },
+    {
+        "電子行銷": "e-marketing"
+    },
+    {
+        "緊急品": "emergency goods"
+    },
+    {
+        "感情訴求": "emotional appeal"
+    },
+    {
+        "感性定位": "emotional positioning"
+    },
+    {
+        "仿效期": "emulation stage"
+    },
+    {
+        "包圍攻擊": "encirclement attack"
+    },
+    {
+        "工程屬性": "engineering attributes"
+    },
+    {
+        "英式拍賣": "English auction {ascending bid}"
+    },
+    {
+        "企業資源規劃系統": "enterprise resource planning system {=ERP}"
+    },
+    {
+        "進入障礙": "entry barriers"
+    },
+    {
+        "環境掃描；環境偵測": "environmental scanning"
+    },
+    {
+        "環境永續": "environmental sustainability"
+    },
+    {
+        "電子購買": "e-procurement"
+    },
+    {
+        "電子採購": "e-purchasing"
+    },
+    {
+        "母國中心導向": "ethnocentric orientation"
+    },
+    {
+        "評估通路準則": "evaluate channel alternatives"
+    },
+    {
+        "事件行銷": "event marketing"
+    },
+    {
+        "每日低價": "everyday low price {=EDLP}"
+    },
+    {
+        "喚起集合": "evoked set"
+    },
+    {
+        "主管摘要": "executive summary"
+    },
+    {
+        "退出障礙": "exit barriers"
+    },
+    {
+        "期望值模式": "expectancy-value model"
+    },
+    {
+        "期望-失驗模式": "expectation-disconfirmation model"
+    },
+    {
+        "期望產品": "expected product"
+    },
+    {
+        "期望服務": "expected service"
+    },
+    {
+        "經驗曲線訂價法": "experience curve pricing"
+    },
+    {
+        "經驗品質": "experience quality"
+    },
+    {
+        "體驗行銷": "experiential marketing"
+    },
+    {
+        "實驗設計": "experimental design"
+    },
+    {
+        "實驗組": "experimental group"
+    },
+    {
+        "專家通路": "expert channel"
+    },
+    {
+        "專家意見": "expert opinion"
+    },
+    {
+        "探索性行銷研究": "exploratory marketing research"
+    },
+    {
+        "探索性研究": "exploratory research"
+    },
+    {
+        "指數平滑法": "exponential smoothing"
+    },
+    {
+        "輸出管理公司": "export management company {=EMC}"
+    },
+    {
+        "出口行銷": "export marketing"
+    },
+    {
+        "廣泛性問題解決": "extensive problem solving"
+    },
+    {
+        "外部行銷": "external marketing"
+    },
+    {
+        "外部次級資料": "external secondary data"
+    },
+    {
+        "外部效度": "external validity"
+    },
+    {
+        "表面效度": "face validity"
+    },
+    {
+        "因素分析": "factor analysis"
+    },
+    {
+        "因子設計": "factorial design"
+    },
+    {
+        "暢貨中心": "factory outlet"
+    },
+    {
+        "家族品牌": "family brand"
+    },
+    {
+        "家庭生命週期": "family life cycle"
+    },
+    {
+        "原生家庭": "family of orientation"
+    },
+    {
+        "己身所出家庭；繁衍家庭": "family of procreation"
+    },
+    {
+        "快速週轉消費品": "fast-moving consumer goods {=FMCGs}"
+    },
+    {
+        "恐懼訴求": "fear appeal"
+    },
+    {
+        "戰鬥品牌": "fighter brand"
+    },
+    {
+        "舟車聯運": "fishyback"
+    },
+    {
+        "旗艦品牌": "flagship brand"
+    },
+    {
+        "旗艦店": "flagship store"
+    },
+    {
+        "側翼品牌": "flanker brand"
+    },
+    {
+        "側翼攻擊": "flanking attack"
+    },
+    {
+        "彈性訂價法": "flexible pricing"
+    },
+    {
+        "焦點團體": "focus group"
+    },
+    {
+        "追隨者優勢": "follower advantage"
+    },
+    {
+        "強制選擇尺度": "forced-choice scale"
+    },
+    {
+        "預測": "forecasting"
+    },
+    {
+        "向前[垂直]整合": "forward [vertical] integration"
+    },
+    {
+        "分散型市場": "fragmented market"
+    },
+    {
+        "加盟": "franchise"
+    },
+    {
+        "加盟者{業界俗稱加盟主}": "franchisee"
+    },
+    {
+        "夾頁": "free standing insert {=FSI}"
+    },
+    {
+        "自由貿易區": "free trade area{=FTA}"
+    },
+    {
+        "運費吸收訂價法": "freight absorption pricing"
+    },
+    {
+        "常購折扣": "frequency discount"
+    },
+    {
+        "常客方案": "frequency programs {=FPs}"
+    },
+    {
+        "正面攻擊": "frontal attack"
+    },
+    {
+        "滿巢期": "full nest stage"
+    },
+    {
+        "全部成本訂價法": "full-cost pricing"
+    },
+    {
+        "全產品線批發商": "full-line wholesaler"
+    },
+    {
+        "完全服務零售": "full-service retailing"
+    },
+    {
+        "功能性折扣": "functional discount"
+    },
+    {
+        "功能品質": "functional quality"
+    },
+    {
+        "性別區隔": "gender segmentation"
+    },
+    {
+        "綜合百貨店": "general merchandise store"
+    },
+    {
+        "X世代": "generation X"
+    },
+    {
+        "Y世代": "generation Y"
+    },
+    {
+        "非品牌商品；通用品牌": "generic brand"
+    },
+    {
+        "一般競爭": "generic competition"
+    },
+    {
+        "一般產品": "generic product"
+    },
+    {
+        "地區中心導向": "geocentric orientation"
+    },
+    {
+        "地理擴張策略": "geographical expansion strategy"
+    },
+    {
+        "地理訂價法": "geographical pricing"
+    },
+    {
+        "現行水準訂價法": "going-rate pricing"
+    },
+    {
+        "政府市場": "government market"
+    },
+    {
+        "灰色市場": "gray market"
+    },
+    {
+        "灰色行銷": "gray marketing"
+    },
+    {
+        "綠色行銷": "green marketing"
+    },
+    {
+        "毛評點": "gross rating point {=GRP}"
+    },
+    {
+        "群體深度訪談法；團體深度訪談法": "group in-depth interview"
+    },
+    {
+        "群體討論法；團體討論法": "group-discussion method"
+    },
+    {
+        "成長-占有率矩陣": "growth-share matrix"
+    },
+    {
+        "游擊行銷": "guerilla marketing"
+    },
+    {
+        "高特曼量表": "Guttman scale"
+    },
+    {
+        "習慣性購買行為": "habitual buying behavior"
+    },
+    {
+        "習慣性購買者": "habitual shoppers"
+    },
+    {
+        "強銷；硬賣": "hard-sell"
+    },
+    {
+        "收割策略": "harvesting strategy"
+    },
+    {
+        "重度使用": "heavy user"
+    },
+    {
+        "層次選擇模式": "hierarchical choice model"
+    },
+    {
+        "屬性層級": "hierarchy of attributes"
+    },
+    {
+        "需要層級": "hierarchy of needs"
+    },
+    {
+        "高低訂價法": "high-low pricing"
+    },
+    {
+        "維持策略": "hold strategy"
+    },
+    {
+        "全面行銷觀念": "holistic marketing concept"
+    },
+    {
+        "同質型偏好": "homogeneous preferences"
+    },
+    {
+        "水平通路衝突": "horizontal channel conflict"
+    },
+    {
+        "水平行銷系統": "horizontal marketing system {=HMS}"
+    },
+    {
+        "沿門銷售": "house-to-house selling"
+    },
+    {
+        "混合通路": "hybrid channels"
+    },
+    {
+        "大型超級市場": "hypermarket"
+    },
+    {
+        "構想": "idea generation"
+    },
+    {
+        "構想篩選": "idea screening"
+    },
+    {
+        "理想自我概念": "ideal self-concept"
+    },
+    {
+        "形象廣告": "image advertising"
+    },
+    {
+        "形象分析": "image analysis"
+    },
+    {
+        "形象差異化": "image differentiation"
+    },
+    {
+        "形象訂價法": "image pricing"
+    },
+    {
+        "重要性-績效分析；重要性-表現分析": "importance-performance analysis"
+    },
+    {
+        "衝動性購買": "impulse buying"
+    },
+    {
+        "衝動品": "impulse goods"
+    },
+    {
+        "內向物流": "inbound distribution"
+    },
+    {
+        "深度訪談法": "in-depth interview"
+    },
+    {
+        "個人行銷": "individual marketing"
+    },
+    {
+        "個人化": "individualization"
+    },
+    {
+        "工業購買行為": "industrial buying behavior"
+    },
+    {
+        "工業行銷": "industrial marketing"
+    },
+    {
+        "工業品": "industrial product"
+    },
+    {
+        "產業競爭": "industry competition"
+    },
+    {
+        "無彈性需求": "inelastic demand"
+    },
+    {
+        "無彈性供給": "inelastic supply"
+    },
+    {
+        "資訊型廣告；節目型廣告": "infomercial"
+    },
+    {
+        "資訊式訴求": "informational appeals"
+    },
+    {
+        "告知式廣告": "informative advertising"
+    },
+    {
+        "成份品牌": "ingredient branding"
+    },
+    {
+        "創新者": "innovators"
+    },
+    {
+        "投入-產出模式": "input-output models"
+    },
+    {
+        "不可分割性": "inseparability"
+    },
+    {
+        "機構廣告": "institutional advertising"
+    },
+    {
+        "機構市場": "institutional market"
+    },
+    {
+        "無形性": "intangibility"
+    },
+    {
+        "整合直效行銷": "integrated direct marketing {=IDM}"
+    },
+    {
+        "整合物流系統": "integrated logistics systems {= ILS}"
+    },
+    {
+        "整合行銷": "integrated marketing"
+    },
+    {
+        "整合行銷溝通": "integrated marketing communication {=IMC}"
+    },
+    {
+        "意願": "intention"
+    },
+    {
+        "互動行銷": "interactive marketing"
+    },
+    {
+        "攔阻訪問": "intercept interview"
+    },
+    {
+        "中間機構；中介機構": "intermediary"
+    },
+    {
+        "內部品牌化": "internal branding"
+    },
+    {
+        "內部行銷": "internal marketing"
+    },
+    {
+        "內部信度": "internal reliability"
+    },
+    {
+        "國際行銷": "international marketing"
+    },
+    {
+        "國際化過程": "internationalization process"
+    },
+    {
+        "網路調查": "internet survey"
+    },
+    {
+        "等距尺度": "interval scale"
+    },
+    {
+        "訪問者誤差": "interviewer error"
+    },
+    {
+        "內部網路": "intranet"
+    },
+    {
+        "內部創業者": "intrapreneur"
+    },
+    {
+        "導入期": "introduction stage"
+    },
+    {
+        "存貨持有成本": "inventory-carry cost"
+    },
+    {
+        "涉入": "involvement"
+    },
+    {
+        "非理性訴求": "irrational appeal"
+    },
+    {
+        "不規則需求": "irregular demand"
+    },
+    {
+        "切貨商": "jobber"
+    },
+    {
+        "聯合推廣": "joint promotions"
+    },
+    {
+        "合資共同品牌": "joint venture co-branding"
+    },
+    {
+        "判斷樣本": "judgment sample"
+    },
+    {
+        "判斷抽樣法": "judgment sampling"
+    },
+    {
+        "重要客戶": "key account"
+    },
+    {
+        "關鍵成功因素": "key success factors"
+    },
+    {
+        "關鍵字行銷": "keyword marketing"
+    },
+    {
+        "亭式行銷": "kiosk marketing"
+    },
+    {
+        "實驗室實驗法": "laboratory experiment"
+    },
+    {
+        "實驗室測試": "laboratory tests"
+    },
+    {
+        "落後者": "laggards"
+    },
+    {
+        "到岸價格": "landed cost price"
+    },
+    {
+        "晚期大眾": "late majority"
+    },
+    {
+        "潛在需求": "latent demand"
+    },
+    {
+        "潛在市場": "latent market"
+    },
+    {
+        "橫向多角化；水平多角化": "lateral diversification"
+    },
+    {
+        "橫向行銷；水平行銷": "lateral marketing"
+    },
+    {
+        "佈置": "layout"
+    },
+    {
+        "領袖定價法": "leader pricing"
+    },
+    {
+        "學習測試": "learning tests"
+    },
+    {
+        "授權產品": "licensed product"
+    },
+    {
+        "生活型態": "life style"
+    },
+    {
+        "生命週期成本": "life-cycle cost"
+    },
+    {
+        "李克特尺度": "Likert scale"
+    },
+    {
+        "有限問題解決[決策]": "limited problem solving [decision making]"
+    },
+    {
+        "產品線延伸": "line extension"
+    },
+    {
+        "產品線延伸決策": "line stretching"
+    },
+    {
+        "產品線特色決策": "line-featuring decision"
+    },
+    {
+        "產品線填補決策": "line-filling decision"
+    },
+    {
+        "標價": "list price"
+    },
+    {
+        "地方品牌": "local brand"
+    },
+    {
+        "在地行銷": "local marketing"
+    },
+    {
+        "地點訂價法": "location pricing"
+    },
+    {
+        "物流；運籌": "logistics"
+    },
+    {
+        "物流聯盟": "logistics alliances"
+    },
+    {
+        "標記": "logo"
+    },
+    {
+        "縱剖面研究；縱斷面研究": "longitudinal study"
+    },
+    {
+        "犧牲品；帶路貨": "loss leader"
+    },
+    {
+        "犧牲打訂價法": "loss-leader pricing"
+    },
+    {
+        "批量": "lot size"
+    },
+    {
+        "社交需要；社交需求": "love/ belonging needs"
+    },
+    {
+        "低品質陷阱": "low-quality trap"
+    },
+    {
+        "總體環境；宏觀環境": "macroenvironment"
+    },
+    {
+        "賣場攔阻訪問": "mall-intercept interview"
+    },
+    {
+        "管理契約": "management contract"
+    },
+    {
+        "製造者品牌": "manufacturer's brand"
+    },
+    {
+        "邊際分析": "marginal analysis"
+    },
+    {
+        "邊際成本": "marginal cost {=MC}"
+    },
+    {
+        "邊際效用": "marginal utility"
+    },
+    {
+        "降價": "markdown"
+    },
+    {
+        "市場": "market"
+    },
+    {
+        "市場吸引力": "market attractiveness"
+    },
+    {
+        "市場累加法": "market build-up method"
+    },
+    {
+        "市場挑戰者": "market challenger"
+    },
+    {
+        "市場集中度": "market concentration"
+    },
+    {
+        "市場整併": "market consolidation"
+    },
+    {
+        "市場涵蓋面": "market coverage"
+    },
+    {
+        "市場需求函數": "market demand function"
+    },
+    {
+        "市場分眾化": "market demassification"
+    },
+    {
+        "市場開發": "market development"
+    },
+    {
+        "市場多角化": "market diversification"
+    },
+    {
+        "市場跟隨者": "market follower"
+    },
+    {
+        "市場預測": "market forecast"
+    },
+    {
+        "市場零散化": "market fragmentation"
+    },
+    {
+        "市場情報": "market intelligence"
+    },
+    {
+        "市場領導者": "market leader"
+    },
+    {
+        "市場調整": "market modification"
+    },
+    {
+        "市場利基策略": "market niche strategy"
+    },
+    {
+        "市場利基者": "market nicher"
+    },
+    {
+        "市場提供物": "market offering"
+    },
+    {
+        "市場分割理論": "market partition theory"
+    },
+    {
+        "市場定位": "market positioning"
+    },
+    {
+        "市場潛量": "market potential"
+    },
+    {
+        "市場專精化": "market specialization"
+    },
+    {
+        "目標市場的選擇": "market targeting"
+    },
+    {
+        "市場測試": "market testing"
+    },
+    {
+        "市場驅動創新": "market-driven innovation"
+    },
+    {
+        "行銷": "marketing"
+    },
+    {
+        "行銷稽核": "marketing audit"
+    },
+    {
+        "行銷通路；行銷渠道": "marketing channel"
+    },
+    {
+        "行銷通路系統": "marketing channel system"
+    },
+    {
+        "行銷溝通": "marketing communication"
+    },
+    {
+        "行銷觀念": "marketing concept"
+    },
+    {
+        "行銷控制": "marketing control"
+    },
+    {
+        "行銷成本分析": "marketing cost analysis"
+    },
+    {
+        "行銷決策支援系統": "marketing decision support system {=MDSS}"
+    },
+    {
+        "行銷遠視病": "marketing hyperopia"
+    },
+    {
+        "行銷資訊系統": "marketing information system {=MkIS}"
+    },
+    {
+        "行銷情報": "marketing intelligence"
+    },
+    {
+        "行銷中間機構": "marketing intermediary"
+    },
+    {
+        "行銷管理": "marketing management"
+    },
+    {
+        "行銷度量": "marketing metrics"
+    },
+    {
+        "行銷組合": "marketing mix"
+    },
+    {
+        "行銷近視病": "marketing myopia"
+    },
+    {
+        "行銷網絡": "marketing network"
+    },
+    {
+        "行銷研究": "marketing research"
+    },
+    {
+        "行銷資源管理": "marketing resource management {=MRM}"
+    },
+    {
+        "行銷策略": "marketing strategy"
+    },
+    {
+        "行銷組合調整": "marketing-mix modification"
+    },
+    {
+        "市場導向策略規劃": "market-oriented strategic planning"
+    },
+    {
+        "市場滲透訂價法": "market-penetration pricing"
+    },
+    {
+        "市場吸脂訂價法": "market-skimming pricing"
+    },
+    {
+        "加成": "markup"
+    },
+    {
+        "加成訂價法": "markup pricing"
+    },
+    {
+        "馬斯洛需要層級；馬斯洛需求層次": "Maslow's hierarchy of needs"
+    },
+    {
+        "大眾傳播；大眾溝通": "mass communications"
+    },
+    {
+        "大眾市場": "mass market"
+    },
+    {
+        "大眾行銷": "mass marketing"
+    },
+    {
+        "成熟期": "maturity stage"
+    },
+    {
+        "最高可接受價格": "maximum acceptable price"
+    },
+    {
+        "衡量": "measurement"
+    },
+    {
+        "機械／電子觀察法": "mechanical/electronic observation"
+    },
+    {
+        "媒體": "media"
+    },
+    {
+        "媒體展露": "media exposure"
+    },
+    {
+        "媒體組合": "media mix"
+    },
+    {
+        "媒體規劃": "media planning"
+    },
+    {
+        "媒體排程": "media schedule"
+    },
+    {
+        "媒體選擇": "media selection"
+    },
+    {
+        "巨行銷": "megamarketing"
+    },
+    {
+        "大趨勢": "megatrend"
+    },
+    {
+        "記憶編碼": "memory encoding"
+    },
+    {
+        "記憶提取": "memory retrieval"
+    },
+    {
+        "記憶測試": "memory test"
+    },
+    {
+        "心智會計": "mental accounting"
+    },
+    {
+        "商品管理": "merchandise management"
+    },
+    {
+        "商品中間商": "merchant middlemen"
+    },
+    {
+        "商品批發商": "merchant wholesaler"
+    },
+    {
+        "訊息": "message"
+    },
+    {
+        "模仿產品": "me-too product"
+    },
+    {
+        "個體環境；微觀環境": "microenvironment"
+    },
+    {
+        "個體行銷；微觀行銷": "micromarketing"
+    },
+    {
+        "中間商": "middleman"
+    },
+    {
+        "中間商": "middleman"
+    },
+    {
+        "心占率": "mind share"
+    },
+    {
+        "傳教式銷售團隊；宣導式銷售團隊": "missionary sales force"
+    },
+    {
+        "混合式": "mix"
+    },
+    {
+        "游移防禦": "mobile defense"
+    },
+    {
+        "修正式再購": "modified rebuy"
+    },
+    {
+        "形態分析法": "morphological analysis"
+    },
+    {
+        "動機；激勵": "motivation"
+    },
+    {
+        "動機研究": "motivational research"
+    },
+    {
+        "動機": "motive"
+    },
+    {
+        "移動平均模式": "moving average model"
+    },
+    {
+        "多屬性態度模式": "multiattribute attitude model {=MAAM}"
+    },
+    {
+        "多品牌策略": "multibrand strategy"
+    },
+    {
+        "多重通路衝突": "multichannel conflict"
+    },
+    {
+        "多重配銷系統": "multichannel distribution system"
+    },
+    {
+        "多重通路行銷": "multichannel marketing"
+    },
+    {
+        "複共線性": "multicollinearity"
+    },
+    {
+        "多元尺度法": "multidimensional scaling {=MDS}"
+    },
+    {
+        "多層次銷售": "multilevel selling"
+    },
+    {
+        "多國公司": "multinational corporation {=MNC}"
+    },
+    {
+        "複迴歸分析": "multiple regression analysis"
+    },
+    {
+        "多因素指標法": "multiple-factor index method"
+    },
+    {
+        "多項目量表設計": "multiple-item scale design"
+    },
+    {
+        "多單位訂價法": "multiple-unit pricing"
+    },
+    {
+        "多地區訂價系統": "multiple-zone pricing system"
+    },
+    {
+        "多變量分析": "multivariate analysis"
+    },
+    {
+        "神秘購物者；秘密客": "mystery shopper"
+    },
+    {
+        "全國性品牌": "national brand"
+    },
+    {
+        "零庫存": "near-zero inventory"
+    },
+    {
+        "需要": "need"
+    },
+    {
+        "負面廣告": "negative advertising"
+    },
+    {
+        "負需求": "negative demand"
+    },
+    {
+        "網絡資訊": "network information"
+    },
+    {
+        "新顧客取得成本": "new customer acquisition cost"
+    },
+    {
+        "新產品": "new product"
+    },
+    {
+        "新產品開發": "new product development"
+    },
+    {
+        "新任務": "new task"
+    },
+    {
+        "利益市場": "niche market"
+    },
+    {
+        "利基行銷": "niche marketing"
+    },
+    {
+        "利基者": "nicher"
+    },
+    {
+        "干擾；噪音": "noise"
+    },
+    {
+        "名目尺度": "nominal scale"
+    },
+    {
+        "非補償性模式": "non-compensatory model"
+    },
+    {
+        "非耐久財": "nondurable goods"
+    },
+    {
+        "非人員溝通管道": "nonpersonal communication channel"
+    },
+    {
+        "非機率抽樣": "nonprobability sampling"
+    },
+    {
+        "無反應誤差": "nonresponse error"
+    },
+    {
+        "非抽樣誤差": "nonsampling error"
+    },
+    {
+        "無店面零售": "nonstore retailing"
+    },
+    {
+        "目標任務法": "objective-and-task method"
+    },
+    {
+        "觀察法": "observation"
+    },
+    {
+        "時機區隔化": "occasion segmentation"
+    },
+    {
+        "畸零尾數價格": "odd price"
+    },
+    {
+        "畸零-整數訂價法": "odd-even pricing"
+    },
+    {
+        "平價零售商": "off-price retailer"
+    },
+    {
+        "補償買回": "offset"
+    },
+    {
+        "寡占競爭": "oligopolistic competition"
+    },
+    {
+        "單面與雙面論點": "one- or two-sided arguments"
+    },
+    {
+        "不二價政策": "one price policy"
+    },
+    {
+        "一階地區抽樣": "one-stage area sampling"
+    },
+    {
+        "一階集群抽樣": "one-stage cluster sampling"
+    },
+    {
+        "線上廣告": "online advertising"
+    },
+    {
+        "線上焦點團體": "online focus group"
+    },
+    {
+        "線上行銷": "online marketing"
+    },
+    {
+        "線上行銷研究": "online marketing research"
+    },
+    {
+        "線上社會網絡": "online social network"
+    },
+    {
+        "開放式問題": "open-ended question"
+    },
+    {
+        "意見領袖": "opinion leader"
+    },
+    {
+        "機會成本": "opportunity cost"
+    },
+    {
+        "最適化模式": "optimization model"
+    },
+    {
+        "選購配件訂價": "optional-feature pricing"
+    },
+    {
+        "訂單爭取者": "order getter"
+    },
+    {
+        "訂購點": "order point"
+    },
+    {
+        "訂單接受者": "order taker"
+    },
+    {
+        "訂單處理成本": "order-processing cost"
+    },
+    {
+        "訂貨-運送-請款週期": "order-shipping-billing cycle"
+    },
+    {
+        "定貨到付款週期": "order-to-payment cycle"
+    },
+    {
+        "順序尺度": "ordinal scale"
+    },
+    {
+        "組織行銷": "organization marketing"
+    },
+    {
+        "組織購買": "organizational buying"
+    },
+    {
+        "機構市場": "organizational market"
+    },
+    {
+        "原廠代工製造": "original equipment manufacturer {=OEM}"
+    },
+    {
+        "出貨配銷": "outbound distribution"
+    },
+    {
+        "外撥電話行銷": "outbound telemarketing"
+    },
+    {
+        "戶外廣告": "outdoor advertising"
+    },
+    {
+        "暢貨商店": "outlet store"
+    },
+    {
+        "缺貨成本": "out-of-stock cost"
+    },
+    {
+        "過剩需求": "overdemand"
+    },
+    {
+        "過飽和需求": "overfull demand"
+    },
+    {
+        "間接成本": "overhead cost"
+    },
+    {
+        "包裝": "packaging"
+    },
+    {
+        "郵寄固定樣本調查": "panel survey"
+    },
+    {
+        "平行輸入": "parallel importing"
+    },
+    {
+        "母數": "parameter"
+    },
+    {
+        "母品牌": "parent brand"
+    },
+    {
+        "參與觀察法": "participant observation"
+    },
+    {
+        "夥伴關係管理": "partner relationship management {=PRM}"
+    },
+    {
+        "聚會銷售": "party selling"
+    },
+    {
+        "滲透價格政策": "penetration price policy"
+    },
+    {
+        "知覺績效": "perceived performance"
+    },
+    {
+        "知覺服務": "perceived service"
+    },
+    {
+        "知覺價值": "perceived value"
+    },
+    {
+        "知覺價值訂價法": "perceived-value pricing"
+    },
+    {
+        "知覺": "perception"
+    },
+    {
+        "知覺圖": "perceptual map"
+    },
+    {
+        "績效行銷": "performance marketing"
+    },
+    {
+        "定期調查": "periodic survey"
+    },
+    {
+        "周邊路徑": "peripheral route"
+    },
+    {
+        "易逝性": "perishability"
+    },
+    {
+        "許可式行銷": "permission marketing"
+    },
+    {
+        "人員溝通管道": "personal communication channel"
+    },
+    {
+        "人員訪問": "personal interview"
+    },
+    {
+        "個性；性格": "personality"
+    },
+    {
+        "說服式廣告": "persuasive advertising"
+    },
+    {
+        "幽靈": "phantom respondents"
+    },
+    {
+        "現場稽核": "physical audit"
+    },
+    {
+        "生理需要；生理需求": "physiological needs"
+    },
+    {
+        "背負法": "piggyback"
+    },
+    {
+        "通路": "place"
+    },
+    {
+        "定點廣告；地點廣告": "place advertising"
+    },
+    {
+        "計劃性過時": "planned obsolescence"
+    },
+    {
+        "愉悅的產品": "pleasing product"
+    },
+    {
+        "購買點": "point of purchase {=POP}"
+    },
+    {
+        "銷售點電腦系統": "point of sales system{=POS}"
+    },
+    {
+        "差異點": "point-of-difference{=POD}"
+    },
+    {
+        "對等點": "point-of-parity{=POP}"
+    },
+    {
+        "人口；母體": "population"
+    },
+    {
+        "組合測試": "portfolio test"
+    },
+    {
+        "定位": "positioning"
+    },
+    {
+        "定位宣言": "positioning statement"
+    },
+    {
+        "購後行為": "post-purchase behavior"
+    },
+    {
+        "購後失調": "post-purchase dissonance"
+    },
+    {
+        "潛在市場": "potential market"
+    },
+    {
+        "預測效率": "predictive validity"
+    },
+    {
+        "先發防禦": "preemptive defense"
+    },
+    {
+        "先發訂價法": "preemptive pricing"
+    },
+    {
+        "偏好": "preference"
+    },
+    {
+        "偏好測試": "preference tests"
+    },
+    {
+        "聲望訂價": "prestige pricing"
+    },
+    {
+        "前測": "pretest"
+    },
+    {
+        "價格": "price"
+    },
+    {
+        "價格上限": "price ceiling"
+    },
+    {
+        "價格彈性": "price elasticity"
+    },
+    {
+        "價格階升": "price escalation"
+    },
+    {
+        "價格下限": "price floor"
+    },
+    {
+        "價格戰": "price war"
+    },
+    {
+        "價格品質關係": "price-quality relationship"
+    },
+    {
+        "聯合訂價": "pricing collaborations"
+    },
+    {
+        "主要活動": "primary activities"
+    },
+    {
+        "大數原則": "principle of mass"
+    },
+    {
+        "私有品牌": "private brand"
+    },
+    {
+        "機率抽樣": "probability sampling"
+    },
+    {
+        "問題介定": "problem definition"
+    },
+    {
+        "問題確認": "problem recognition"
+    },
+    {
+        "生產者市場": "producer market"
+    },
+    {
+        "產品": "product"
+    },
+    {
+        "產品採用過程": "product adoption process"
+    },
+    {
+        "成組產品訂價": "product bundle pricing"
+    },
+    {
+        "產品類別": "product category"
+    },
+    {
+        "產品發展": "product development"
+    },
+    {
+        "產品刪減": "product elimination"
+    },
+    {
+        "產品進化": "product evolution"
+    },
+    {
+        "產品家族": "product family"
+    },
+    {
+        "產品線填充": "product line filling"
+    },
+    {
+        "產品線長度": "product line length"
+    },
+    {
+        "產品線訂價法": "product line pricing"
+    },
+    {
+        "產品線延伸": "product line stretching"
+    },
+    {
+        "產品組合": "product mix"
+    },
+    {
+        "產品組合深度": "product mix depth"
+    },
+    {
+        "產品組合長度": "product mix length"
+    },
+    {
+        "產品組合寬度": "product mix width"
+    },
+    {
+        "產品調整": "product modification"
+    },
+    {
+        "產品規劃": "product planning"
+    },
+    {
+        "產品組合": "product portfolio"
+    },
+    {
+        "產品組合分析": "product portfolio analysis"
+    },
+    {
+        "產品定位": "product positioning"
+    },
+    {
+        "產品繁衍": "product proliferation"
+    },
+    {
+        "產品安全": "product safety"
+    },
+    {
+        "產品專精化": "product specialization"
+    },
+    {
+        "產品策略": "product strategy"
+    },
+    {
+        "產品系統": "product system"
+    },
+    {
+        "產品測試": "product testing"
+    },
+    {
+        "產品價值分析": "product value analysis"
+    },
+    {
+        "產品／市場擴展矩陣": "product/ market expansion grid"
+    },
+    {
+        "產品／市場矩陣": "product/ market matrix"
+    },
+    {
+        "成組產品訂價法": "product-bundling pricing"
+    },
+    {
+        "產品型式生命週期": "product-forms life cycle"
+    },
+    {
+        "生產觀念": "production concept"
+    },
+    {
+        "生產導向": "production orientation"
+    },
+    {
+        "產品市場集中策略": "product-market concentration strategies"
+    },
+    {
+        "產品組合訂價法": "product-mix pricing"
+    },
+    {
+        "市場策略的利潤影響": "profit impact of market strategy {=PIMS}"
+    },
+    {
+        "投射技術": "projective techniques"
+    },
+    {
+        "推廣；促銷": "promotion"
+    },
+    {
+        "推廣聯盟；促銷聯盟": "promotion alliances"
+    },
+    {
+        "推廣管理": "promotion management"
+    },
+    {
+        "促銷廣告": "promotional advertising"
+    },
+    {
+        "促銷折讓": "promotional allowances"
+    },
+    {
+        "促銷折扣": "promotional discount"
+    },
+    {
+        "促銷訂價法": "promotional pricing"
+    },
+    {
+        "前瞻法": "prospective method"
+    },
+    {
+        "前瞻；潛在顧客": "prospects [customer]"
+    },
+    {
+        "保護主義": "protectionism"
+    },
+    {
+        "心理接近性": "psychic proximity"
+    },
+    {
+        "心理變數分析": "psychographic analysis"
+    },
+    {
+        "心理折扣": "psychological discounting"
+    },
+    {
+        "心理訂價": "psychological pricing"
+    },
+    {
+        "公共關係": "public relation"
+    },
+    {
+        "公共報導": "publicity"
+    },
+    {
+        "購買決策": "purchase decision"
+    },
+    {
+        "購買頻率": "purchase frequency"
+    },
+    {
+        "購買意圖": "purchase intention"
+    },
+    {
+        "立意抽樣": "purposive sampling"
+    },
+    {
+        "量化研究": "quantitative research"
+    },
+    {
+        "數量折扣": "quantity discount"
+    },
+    {
+        "問號［事業］": "question mark"
+    },
+    {
+        "配額抽樣": "quota sampling"
+    },
+    {
+        "雨票{事後補償}；保留券": "raincheck"
+    },
+    {
+        "隨機抽樣誤差": "random sampling error"
+    },
+    {
+        "排序評比量表": "rank-order rating scale"
+    },
+    {
+        "理性訴求": "rational appeal"
+    },
+    {
+        "準備購買階段": "readiness-to-buy stage"
+    },
+    {
+        "回扣": "rebate"
+    },
+    {
+        "再購": "rebuy purchase"
+    },
+    {
+        "兌換率": "redemption rate"
+    },
+    {
+        "參考價格": "reference price"
+    },
+    {
+        "退款": "refund"
+    },
+    {
+        "區域品牌": "regional brand"
+    },
+    {
+        "強化式廣告": "reinforcement advertising"
+    },
+    {
+        "再中介化": "reintermediation"
+    },
+    {
+        "關係權益": "relationship equity"
+    },
+    {
+        "關係行銷": "relationship marketing"
+    },
+    {
+        "攸關成本": "relevant cost"
+    },
+    {
+        "信度；可靠度": "reliability"
+    },
+    {
+        "提醒式廣告": "reminder advertising"
+    },
+    {
+        "常客": "repeat customer"
+    },
+    {
+        "重複購買": "repeat purchase"
+    },
+    {
+        "再定位；重定位": "repositioning"
+    },
+    {
+        "再購率": "repurchase rate"
+    },
+    {
+        "研究工具": "research instrument"
+    },
+    {
+        "研究計畫書": "research proposal"
+    },
+    {
+        "中間商": "reseller"
+    },
+    {
+        "中間商品牌": "reseller brand"
+    },
+    {
+        "受測者；受訪者": "respondent"
+    },
+    {
+        "受測者誤差": "respondent error"
+    },
+    {
+        "反應層級模式": "response hierarchy model"
+    },
+    {
+        "回應次序偏差": "response order bias"
+    },
+    {
+        "回應率": "response rate"
+    },
+    {
+        "零售共同品牌": "retail co-branding"
+    },
+    {
+        "零售者": "retailer"
+    },
+    {
+        "零售促銷": "retailer sales promotion"
+    },
+    {
+        "零售商贊助合作組織": "retailer sponsored cooperative"
+    },
+    {
+        "[顧客］保留成本": "retention cost"
+    },
+    {
+        "保留率": "retention rate"
+    },
+    {
+        "回顧法": "retrospective method"
+    },
+    {
+        "投資報酬訂價法": "return on investment {=ROI} pricing"
+    },
+    {
+        "逆向配銷": "reverse distribution"
+    },
+    {
+        "逆向通路": "reverse-flow channel"
+    },
+    {
+        "例行性產品": "routine products"
+    },
+    {
+        "安全需要；安全需求": "safety needs"
+    },
+    {
+        "銷售代理商": "sales agent"
+    },
+    {
+        "銷售分析": "sales analysis"
+    },
+    {
+        "銷售競賽": "sales contest"
+    },
+    {
+        "銷售效果": "sales effect"
+    },
+    {
+        "銷售團隊薪酬": "sales force compensation"
+    },
+    {
+        "銷售團隊": "sales force management"
+    },
+    {
+        "銷售團隊促銷": "sales force promotion"
+    },
+    {
+        "銷售團隊結構": "sales force structure"
+    },
+    {
+        "銷售預測": "sales forecast"
+    },
+    {
+        "銷售目標": "sales goals"
+    },
+    {
+        "銷售資訊系統": "sales information system"
+    },
+    {
+        "銷售前導": "sales lead"
+    },
+    {
+        "銷售管理": "sales management"
+    },
+    {
+        "銷售潛量": "sales potential"
+    },
+    {
+        "銷售簡報": "sales presentation"
+    },
+    {
+        "促銷活動": "sales promotion"
+    },
+    {
+        "銷售額": "sales quota"
+    },
+    {
+        "銷售代表": "sales representative"
+    },
+    {
+        "銷售退貨及折讓": "sales returns and allowances"
+    },
+    {
+        "銷售地區；銷售區域": "sales territory"
+    },
+    {
+        "銷售波動研究": "sales wave research"
+    },
+    {
+        "銷售導向方法": "sales-oriented approach"
+    },
+    {
+        "銷售反應函數": "sales-response functions"
+    },
+    {
+        "銷售變異分析": "sales-variance analysis"
+    },
+    {
+        "有益的產品": "salutary product"
+    },
+    {
+        "樣本": "sample"
+    },
+    {
+        "樣本設計誤差": "sample design error"
+    },
+    {
+        "樣本選擇誤差": "sample selection error"
+    },
+    {
+        "樣本數": "sample size"
+    },
+    {
+        "樣本統計值": "sample statistic"
+    },
+    {
+        "樣本調查": "sample survey"
+    },
+    {
+        "抽樣": "sampling"
+    },
+    {
+        "抽樣誤差": "sampling error"
+    },
+    {
+        "抽樣構架": "sampling frame"
+    },
+    {
+        "滿足因子": "satisfiers"
+    },
+    {
+        "量表衡量": "scale measurement"
+    },
+    {
+        "量表信度": "scale reliability"
+    },
+    {
+        "掃描器": "scanner"
+    },
+    {
+        "散佈圖": "scatter diagram"
+    },
+    {
+        "劇本": "scenario"
+    },
+    {
+        "商品混搭": "scrambled merchandising"
+    },
+    {
+        "過濾式問題": "screening questions"
+    },
+    {
+        "封籤拍賣": "sealed-bid auctions"
+    },
+    {
+        "搜尋引擎": "search engine"
+    },
+    {
+        "搜尋引擊行銷": "search engine marketing {=SEM}"
+    },
+    {
+        "搜尋品質": "search qualities"
+    },
+    {
+        "季節折扣": "seasonal discount"
+    },
+    {
+        "次級資料": "secondary data"
+    },
+    {
+        "次級群體": "secondary group"
+    },
+    {
+        "次級資訊": "secondary information"
+    },
+    {
+        "安全需要": "security needs"
+    },
+    {
+        "區隔": "segment"
+    },
+    {
+        "區隔市場": "segment market"
+    },
+    {
+        "區隔化基礎": "segmentation basis"
+    },
+    {
+        "區隔化要件": "segmentation criteria"
+    },
+    {
+        "區隔化訂價法": "segmented pricing"
+    },
+    {
+        "市場區隔，選擇目標市場，定位；區隔，目標，定位行銷": "segmenting, targeting, and positioning {=STP}"
+    },
+    {
+        "選擇偏差": "selection bias"
+    },
+    {
+        "選擇性廣告": "selective advertising"
+    },
+    {
+        "選擇性注意": "selective attention"
+    },
+    {
+        "選擇性編碼": "selective coding"
+    },
+    {
+        "選擇性扭曲": "selective distortion"
+    },
+    {
+        "選擇性展露": "selective exposure"
+    },
+    {
+        "選擇性知覺": "selective perception"
+    },
+    {
+        "選擇性保留": "selective retention"
+    },
+    {
+        "自我概念": "self concept"
+    },
+    {
+        "自我規範": "self regulation"
+    },
+    {
+        "自我選擇": "self selection"
+    },
+    {
+        "自助": "self service"
+    },
+    {
+        "自我實現需要；自我實現需求": "self-actualization needs"
+    },
+    {
+        "自行填答調查": "self-administered survey"
+    },
+    {
+        "自助式零售": "self-service retailing"
+    },
+    {
+        "賣方市場": "sellers market"
+    },
+    {
+        "銷售": "selling"
+    },
+    {
+        "銷售代理商": "selling agent"
+    },
+    {
+        "銷售觀念": "selling concept"
+    },
+    {
+        "語意差異法": "semantic differential"
+    },
+    {
+        "發訊者": "sender"
+    },
+    {
+        "敏感度分析": "sensitivity analysis"
+    },
+    {
+        "語句完成測驗；完句測驗": "sentence completion test"
+    },
+    {
+        "次序偏差": "sequence bias"
+    },
+    {
+        "服務": "service"
+    },
+    {
+        "服務管道": "service channel"
+    },
+    {
+        "服務失誤": "service failure"
+    },
+    {
+        "服務產出水準": "service output levels"
+    },
+    {
+        "服務提供者": "service provider"
+    },
+    {
+        "服務品質": "service quality"
+    },
+    {
+        "服務補救": "service recovery"
+    },
+    {
+        "服務價值": "service value"
+    },
+    {
+        "服務-利潤鏈": "service-profit chain"
+    },
+    {
+        "服務差異化": "services differentiation"
+    },
+    {
+        "設置成本": "setup cost"
+    },
+    {
+        "廣告支出比率": "share of advertising expenditure"
+    },
+    {
+        "心占率": "share of heart"
+    },
+    {
+        "市占率": "share of market"
+    },
+    {
+        "心占率": "share of mind"
+    },
+    {
+        "貨架占有率": "share of shelf"
+    },
+    {
+        "運送成本": "shipping costs"
+    },
+    {
+        "運送包裝": "shipping package"
+    },
+    {
+        "購物中心": "shopping center"
+    },
+    {
+        "選購品": "shopping goods"
+    },
+    {
+        "簡單隨機抽樣": "simple random sampling"
+    },
+    {
+        "均一價政策": "single price policy"
+    },
+    {
+        "均一價商店": "single price store"
+    },
+    {
+        "單區訂價法": "single-zone pricing"
+    },
+    {
+        "情勢評估": "situation assessment"
+    },
+    {
+        "吸脂訂價法": "skimming pricing"
+    },
+    {
+        "睡眠者效果": "sleeper effect"
+    },
+    {
+        "口號；標語": "slogan"
+    },
+    {
+        "上架費": "slotting allowance"
+    },
+    {
+        "上架費": "slotting fee"
+    },
+    {
+        "慢速週轉貨品": "slow-moving goods"
+    },
+    {
+        "雪球抽樣法": "snowball sampling"
+    },
+    {
+        "社會階層": "social class"
+    },
+    {
+        "社會意識": "social consciousness"
+    },
+    {
+        "社會理念行銷": "social marketing"
+    },
+    {
+        "社群媒體": "social media"
+    },
+    {
+        "社會流動性": "social mobility"
+    },
+    {
+        "社會責任行銷": "social responsibility marketing"
+    },
+    {
+        "產品的社會性分類": "societal classification of products"
+    },
+    {
+        "社會行銷": "societal marketing"
+    },
+    {
+        "社會行銷觀念": "societal marketing concept"
+    },
+    {
+        "社經地位": "socioeconomic status"
+    },
+    {
+        "軟銷": "soft sell"
+    },
+    {
+        "獨家供應商": "sole supplier"
+    },
+    {
+        "解決方案銷售": "solution selling"
+    },
+    {
+        "來源可信性": "source credibility"
+    },
+    {
+        "貨源策略": "sourcing strategy"
+    },
+    {
+        "空間競爭": "spatial competition"
+    },
+    {
+        "空間便利性": "spatial convenience"
+    },
+    {
+        "特殊事件訂價法": "special-event pricing"
+    },
+    {
+        "特殊品": "specialty goods"
+    },
+    {
+        "專門店": "specialty store"
+    },
+    {
+        "折半信度": "split-half reliability"
+    },
+    {
+        "贊助": "sponsorship"
+    },
+    {
+        "運動行銷": "sports marketing"
+    },
+    {
+        "現貨市場": "spot market"
+    },
+    {
+        "穩定成熟期": "stable maturity"
+    },
+    {
+        "利害關係人": "stakeholder"
+    },
+    {
+        "標準產業分類": "standard industrial classification {=SIC}"
+    },
+    {
+        "標準產業分類代碼": "standard industrial classification {=SIC} codes"
+    },
+    {
+        "民生用品": "staples"
+    },
+    {
+        "明星［事業］": "star"
+    },
+    {
+        "隱形行銷 ": "stealth marketing"
+    },
+    {
+        "刺激模糊性": "stimulus ambiguity"
+    },
+    {
+        "存貨週轉": "stock turnover"
+    },
+    {
+        "無庫存採購計劃": "stockless purchase plan"
+    },
+    {
+        "無庫存": "stock-out"
+    },
+    {
+        "庫存-銷售比": "stock-sales ratio"
+    },
+    {
+        "存貨倉庫": "storage warehouse"
+    },
+    {
+        "商店稽核": "store audits"
+    },
+    {
+        "商店品牌": "store brand"
+    },
+    {
+        "商店形象": "store image"
+    },
+    {
+        "店面佈局": "store layout"
+    },
+    {
+        "單一佣金計畫": "straight commission plan"
+    },
+    {
+        "直接延伸": "straight extension"
+    },
+    {
+        "直接產品延伸": "straight product extension"
+    },
+    {
+        "直接再購": "straight rebuy"
+    },
+    {
+        "單一薪資計畫": "straight salary plan"
+    },
+    {
+        "策略聯盟": "strategic alliances {=SA}"
+    },
+    {
+        "策略事業領域": "strategic business area {=SBA}"
+    },
+    {
+        "策略事業規劃": "strategic business planning"
+    },
+    {
+        "策略槓桿": "strategic leverage"
+    },
+    {
+        "策略行銷": "strategic marketing"
+    },
+    {
+        "策略行銷計畫": "strategic marketing plan"
+    },
+    {
+        "策略夥伴": "strategic partner"
+    },
+    {
+        "策略之窗": "strategic window"
+    },
+    {
+        "策略性撤退": "strategic withdrawal"
+    },
+    {
+        "分層立意抽樣法": "stratified purposive sampling"
+    },
+    {
+        "分層隨機抽樣法": "stratified random sampling {=STRS}"
+    },
+    {
+        "分層樣本": "stratified sample"
+    },
+    {
+        "結構性連結": "structural ties"
+    },
+    {
+        "結構式問卷": "structured questionnaire"
+    },
+    {
+        "副品牌": "sub-brand"
+    },
+    {
+        "足量性": "substantial"
+    },
+    {
+        "替代品": "substitute product"
+    },
+    {
+        "總結性評估": "summative evaluation"
+    },
+    {
+        "超級市場": "supermarket"
+    },
+    {
+        "超級商店": "superstore"
+    },
+    {
+        "供應商搜尋": "supplier search"
+    },
+    {
+        "供應商選擇": "supplier selection"
+    },
+    {
+        "供應商評估模式": "supplier-evaluation model"
+    },
+    {
+        "供應鏈管理": "supply chain management {=SCM}"
+    },
+    {
+        "調查工具誤差": "survey instrument error"
+    },
+    {
+        "調查研究": "survey research"
+    },
+    {
+        "永續行銷": "sustainable marketing"
+    },
+    {
+        "抽獎": "sweepstakes"
+    },
+    {
+        "轉換成本": "switching costs"
+    },
+    {
+        "共生行銷": "symbiotic marketing"
+    },
+    {
+        "象徵性產品": "symbolic product"
+    },
+    {
+        "系統性誤差": "systematic error"
+    },
+    {
+        "系統隨機抽樣法": "systematic random sampling {=SYMRS}"
+    },
+    {
+        "系統購買": "systems buying"
+    },
+    {
+        "系統式承包": "systems contracting"
+    },
+    {
+        "系統銷售": "systems selling"
+    },
+    {
+        "戰術性行銷計畫": "tactical marketing plan"
+    },
+    {
+        "有形物": "tangibles"
+    },
+    {
+        "目標閱聽眾": "target audience"
+    },
+    {
+        "目標成本法": "target costing"
+    },
+    {
+        "目標利潤訂價法": "target profit pricing"
+    },
+    {
+        "目標報酬訂價法": "target return pricing"
+    },
+    {
+        "團隊銷售": "team selling"
+    },
+    {
+        "技術品質": "technical quality"
+    },
+    {
+        "科技評估": "technological assessment"
+    },
+    {
+        "電話行銷": "telemarketing"
+    },
+    {
+        "電話訪問": "telephone interview"
+    },
+    {
+        "電話行銷": "telephone marketing"
+    },
+    {
+        "地區式": "territorial"
+    },
+    {
+        "測試市場": "test market"
+    },
+    {
+        "試銷": "test marketing"
+    },
+    {
+        "理論抽樣法": "theoretical sampling"
+    },
+    {
+        "第三方物流提供者": "third-party logistics {=3PL} provider"
+    },
+    {
+        "威脅": "threat"
+    },
+    {
+        "時間訂定法": "time pricing"
+    },
+    {
+        "時間數列分析": "time series analysis"
+    },
+    {
+        "顧客總成本": "total customer cost"
+    },
+    {
+        "顧客總價值": "total customer value"
+    },
+    {
+        "對經銷商的廣告": "trade advertising"
+    },
+    {
+        "對經銷商的折讓": "trade allowance"
+    },
+    {
+        "商標名稱": "trade name"
+    },
+    {
+        "經銷商促銷活動": "trade promotion"
+    },
+    {
+        "商展": "trade show"
+    },
+    {
+        "扺換折讓；舊換新折讓": "trade-in allowance"
+    },
+    {
+        "商標": "trademark"
+    },
+    {
+        "經銷關係組合": "trade-relation mix"
+    },
+    {
+        "人潮創造者": "traffic builder"
+    },
+    {
+        "交易": "transaction"
+    },
+    {
+        "交易成本分析": "transaction cost analysis {=TCA}"
+    },
+    {
+        "移轉訂價法": "transfer pricing"
+    },
+    {
+        "轉型式廣告": "transformational advertising"
+    },
+    {
+        "轉型式訴求": "transformational appeals"
+    },
+    {
+        "趨勢": "trend"
+    },
+    {
+        "試用": "trial"
+    },
+    {
+        "試用率": "trial rate"
+    },
+    {
+        "涓滴理論": "trickle down theory"
+    },
+    {
+        "整車": "truckload"
+    },
+    {
+        "T檢定": "t-test"
+    },
+    {
+        "交匙營運": "turn-key operation"
+    },
+    {
+        "二階通路": "two-level channel"
+    },
+    {
+        "兩部分訂價法": "two-part pricing"
+    },
+    {
+        "兩階段的溝通流程": "two-step flow-of-communication process"
+    },
+    {
+        "搭售協議": "tying agreement"
+    },
+    {
+        "最終消費者": "ultimate consumer"
+    },
+    {
+        "最終使用者": "ultimate user"
+    },
+    {
+        "無輔助回憶": "unaided recall"
+    },
+    {
+        "無差異行銷": "undifferentiated {mass}marketing"
+    },
+    {
+        "隱藏贊助者": "undisguised sponsorship"
+    },
+    {
+        "不公平競爭": "unfair competition"
+    },
+    {
+        "統一貨物分類碼": "uniform freight classification code"
+    },
+    {
+        "統一訂價法": "uniform pricing"
+    },
+    {
+        "獨特賣點": "unique selling proposition {=USP}"
+    },
+    {
+        "未覓品": "unsought good"
+    },
+    {
+        "非結構式問題": "unstructured question"
+    },
+    {
+        "向上銷售": "up-selling"
+    },
+    {
+        "向上延伸": "upward stretch"
+    },
+    {
+        "使用率": "usage rate"
+    },
+    {
+        "使用者": "user"
+    },
+    {
+        "效用": "utility"
+    },
+    {
+        "效度": "validity"
+    },
+    {
+        "價值及生活型態系統": "Value And Lifestyle System {=VALS}"
+    },
+    {
+        "價值基礎訂價法": "value based pricing"
+    },
+    {
+        "價值鏈": "value chain"
+    },
+    {
+        "價值遞送": "value delivery"
+    },
+    {
+        "價值遞送系統": "value delivery system"
+    },
+    {
+        "價值網絡": "value network"
+    },
+    {
+        "價值訂價法": "value pricing"
+    },
+    {
+        "附加價值訂價法": "value-added pricing"
+    },
+    {
+        "價值基礎訂價法": "value-based pricing"
+    },
+    {
+        "價值導向訂價法": "value-oriented pricing"
+    },
+    {
+        "變異性": "variability"
+    },
+    {
+        "變數；變項": "variable"
+    },
+    {
+        "變動價格政策": "variable price policy"
+    },
+    {
+        "變異數": "variance"
+    },
+    {
+        "雜貨店": "variety store"
+    },
+    {
+        "尋求變化的購買行為": "variety-seeking buying behavior"
+    },
+    {
+        "販賣機": "vending machine"
+    },
+    {
+        "垂直企業系統": "vertical business system"
+    },
+    {
+        "垂直通路衝突": "vertical channel conflict"
+    },
+    {
+        "垂直行銷系統": "vertical marketing system {=VMS}"
+    },
+    {
+        "病毒行銷": "viral marketing"
+    },
+    {
+        "視覺測試": "visual tests"
+    },
+    {
+        "廣告聲量比": "voice of share"
+    },
+    {
+        "自願型連鎖": "voluntary chain"
+    },
+    {
+        "會員制量販店": "warehouse club"
+    },
+    {
+        "零售量販店": "warehouse retailing"
+    },
+    {
+        "保證": "warranty"
+    },
+    {
+        "零售之輪理論": "wheel of retailing theory"
+    },
+    {
+        "會員制批發": "wholesale club"
+    },
+    {
+        "會員制批發商": "wholesale distributor"
+    },
+    {
+        "躉售物價指數": "wholesale price index {=WPI}"
+    },
+    {
+        "批發商": "wholesaler"
+    },
+    {
+        "批發商贊助合作組織": "wholesaler sponsored cooperative"
+    },
+    {
+        "批發": "wholesaling"
+    },
+    {
+        "寬度；廣度": "width"
+    },
+    {
+        "無線電話調查": "wireless phone survey"
+    },
+    {
+        "字彙聯想法": "word association"
+    },
+    {
+        "口碑": "word of mouth {=WOM}"
+    },
+    {
+        "口碑溝通": "word-of-mouth communication"
+    },
+    {
+        "口碑行銷": "word-of-mouth marketing"
+    },
+    {
+        "工作負荷分析": "workload analysis"
+    },
+    {
+        "工作負荷法": "workload approach"
+    },
+    {
+        "收益管理": "yield management"
+    },
+    {
+        "收益訂價法": "yield pricing"
+    },
+    {
+        "零階通路": "zero-level channel"
+    },
+    {
+        "協議區間": "zone of agreement"
+    },
+    {
+        "α 測試 ；功能性測試": "α testing"
+    },
+    {
+        "β測試；顧客測試": "β testing"
+    },
+    {
+        "絕對成本優勢": "absolute cost advantage"
+    },
+    {
+        "併購溢價": "acquisition premium"
+    },
+    {
+        "收購": "acquisitions"
+    },
+    {
+        "行動計畫": "action plan"
+    },
+    {
+        "價值活動成本法": "activity-based-costing (ABC)"
+    },
+    {
+        "管理層級": "administrative level"
+    },
+    {
+        "代理成本": "agency cost"
+    },
+    {
+        "代理問題": "agency problems"
+    },
+    {
+        "代理關係": "agency relationship"
+    },
+    {
+        "代理理論": "agency theory"
+    },
+    {
+        "標準聯盟": "alliance for industry standard"
+    },
+    {
+        "研發聯盟": "alliance for research and development"
+    },
+    {
+        "聯盟": "alliances"
+    },
+    {
+        "反托拉斯": "anti-trust"
+    },
+    {
+        "單次契約": "arm's-length contracts"
+    },
+    {
+        "資產售出": "asset divestiture"
+    },
+    {
+        "資產專屬性": "asset specificity"
+    },
+    {
+        "向後整合": "backward integration"
+    },
+    {
+        "平衡計分卡模型": "balanced scorecard model"
+    },
+    {
+        "談判槓桿": "bargaining leverage"
+    },
+    {
+        "議價力": "bargaining power"
+    },
+    {
+        "BCG矩陣": "BCG matrix"
+    },
+    {
+        "最佳實務": "best practice"
+    },
+    {
+        "最佳成本提供者策略": "best-cost provider strategy"
+    },
+    {
+        "投標策略": "bidding strategy"
+    },
+    {
+        "雙邊獨佔": "bilateral monopolies"
+    },
+    {
+        "受限理性；有限理性": "bounded rationality"
+    },
+    {
+        "品牌擴散": "brand proliferation"
+    },
+    {
+        "仲介型產業": "brokerage-type industries"
+    },
+    {
+        "資源組合": "bundle of resources"
+    },
+    {
+        "科層控制；官僚控制": "bureaucratic control"
+    },
+    {
+        "事業營運計劃": "business plan"
+    },
+    {
+        "事業營運流程": "business process"
+    },
+    {
+        "事業單位": "business unit"
+    },
+    {
+        "事業層級策略": "business-level strategies"
+    },
+    {
+        "事業單位競爭優勢": "business-unit competitive strength"
+    },
+    {
+        "買方議價力": "buyers bargaining power"
+    },
+    {
+        "垂直供需關係": "buyer-supplier vertical relationships"
+    },
+    {
+        "能力": "capabilities"
+    },
+    {
+        "能力基礎理論": "capability-based theory"
+    },
+    {
+        "資本生產力": "capital productivity"
+    },
+    {
+        "卡特爾": "cartel"
+    },
+    {
+        "金牛事業": "cash cow business"
+    },
+    {
+        "因果模糊性": "causal ambiguity"
+    },
+    {
+        "營運長": "chief operating officer {=COO}"
+    },
+    {
+        "協同合作": "collaboration"
+    },
+    {
+        "合作協定": "collaborative arrangements"
+    },
+    {
+        "合謀": "collusion"
+    },
+    {
+        "共通性": "commonalities"
+    },
+    {
+        "企業環境": "company environment"
+    },
+    {
+        "相容性": "compatibility"
+    },
+    {
+        "能耐": "competencies"
+    },
+    {
+        "競爭": "competition"
+    },
+    {
+        "競爭同質化": "competition convergence"
+    },
+    {
+        "競爭優勢": "competitive advantage"
+    },
+    {
+        "競爭分析": "competitive analysis"
+    },
+    {
+        "競爭能力": "competitive capabilities"
+    },
+    {
+        "競爭劣勢": "competitive disadvantage"
+    },
+    {
+        "動態競爭": "competitive dynamics"
+    },
+    {
+        "競爭情報": "competitive intelligence"
+    },
+    {
+        "競爭對抗": "competitive parity"
+    },
+    {
+        "競爭定位": "competitive position"
+    },
+    {
+        "競爭壓力": "competitive pressures"
+    },
+    {
+        "競爭性定價": "competitive pricing"
+    },
+    {
+        "競爭強勢": "competitive strength"
+    },
+    {
+        "競爭優越性": "competitive superiority"
+    },
+    {
+        "競爭弱勢": "competitive weakness"
+    },
+    {
+        "競爭武器": "competitive weapons"
+    },
+    {
+        "競爭性；競爭力": "competitiveness"
+    },
+    {
+        "競爭者分析": "competitor analysis"
+    },
+    {
+        "互補性資產": "complementary assets"
+    },
+    {
+        "互補性資源與能力": "complementary resources and capabilities"
+    },
+    {
+        "互補性策略聯盟": "complementary strategic alliance"
+    },
+    {
+        "互補者": "complementor"
+    },
+    {
+        "互補者能耐": "complementors competence"
+    },
+    {
+        "佈局": "configuration"
+    },
+    {
+        "複合式合併": "conglomerate merger"
+    },
+    {
+        "組織的良心": "conscientiousness of organization"
+    },
+    {
+        "建立共識": "consensus building"
+    },
+    {
+        "整併策略": "consolidation strategy"
+    },
+    {
+        "客戶關係管理": "consumer relation management (CRM)"
+    },
+    {
+        "內容整合者": "content aggregator"
+    },
+    {
+        "內容提供者": "content provider"
+    },
+    {
+        "交易內涵": "contents of transaction"
+    },
+    {
+        "契約式聯盟": "contract-based alliance"
+    },
+    {
+        "策略前提的控制": "control of strategic premises"
+    },
+    {
+        "合作": "cooperation"
+    },
+    {
+        "聯合定價": "cooperative pricing"
+    },
+    {
+        "競合": "coopetition"
+    },
+    {
+        "協調機制": "coordination mechanism"
+    },
+    {
+        "協調程序": "coordination process"
+    },
+    {
+        "核心事業": "core business"
+    },
+    {
+        "核心能耐": "core competencies"
+    },
+    {
+        "企業掠奪者": "corporate raiders"
+    },
+    {
+        "總體策略": "corporate strategy"
+    },
+    {
+        "企業創投": "corporate venture capital"
+    },
+    {
+        "成本優勢": "cost advantage"
+    },
+    {
+        "成本驅動因子": "cost drivers"
+    },
+    {
+        "互抵貿易": "countertrade"
+    },
+    {
+        "來源國": "country of origin"
+    },
+    {
+        "折扣券競爭": "coupon competition"
+    },
+    {
+        "挑精策略": "cream skimming"
+    },
+    {
+        "關鍵因子": "critical factor"
+    },
+    {
+        "交叉價格彈性": "cross price elasticity of demand"
+    },
+    {
+        "交叉銷售": "cross selling"
+    },
+    {
+        "跨境能耐移轉": "cross-border transfer of competencies"
+    },
+    {
+        "跨境專業能力移轉": "cross-border transfer of expertise"
+    },
+    {
+        "顧客導向企業": "customer-oriented business"
+    },
+    {
+        "客製化": "customization"
+    },
+    {
+        "割喉式競爭": "cut throat"
+    },
+    {
+        "決策體系": "decision hierarchy"
+    },
+    {
+        "居中程度": "degree of between"
+    },
+    {
+        "核心程度": "degree of centrality"
+    },
+    {
+        "產業集中度": "degree of concentration of industry"
+    },
+    {
+        "分權程度": "degree of decentralization"
+    },
+    {
+        "介入程度": "degree of involvement"
+    },
+    {
+        "移動彈性的程度": "degree of mobility"
+    },
+    {
+        "策略決策過程理性程度": "degree of rationality in strategic decision making"
+    },
+    {
+        "垂直整合程度": "degree of vertical integration"
+    },
+    {
+        "需求": "demand"
+    },
+    {
+        "需求面可替代性": "demand-side substitutability"
+    },
+    {
+        "需求-供給分析": "demand-supply analysis"
+    },
+    {
+        "鑽石模型": "diamond model"
+    },
+    {
+        "差異化策略": "differentiation strategy"
+    },
+    {
+        "以差異化為基礎的競爭優勢": "differentiation-based competitive advantage"
+    },
+    {
+        "直接複製": "direct duplication"
+    },
+    {
+        "規模不經濟": "diseconomy of scale"
+    },
+    {
+        "配銷商/零售商網絡": "distributor/retailer network"
+    },
+    {
+        "多角化": "diversification"
+    },
+    {
+        "多角化的多國企業": "diversified multinational corporation"
+    },
+    {
+        "撤資策略": "divestment strategy"
+    },
+    {
+        "瘦狗事業；苟延殘喘": "dog business"
+    },
+    {
+        "主導邏輯": "dominant logic"
+    },
+    {
+        "主導策略": "dominant strategy"
+    },
+    {
+        "動態能力": "dynamic capabilities"
+    },
+    {
+        "動態競爭": "dynamic competition"
+    },
+    {
+        "早期採用者": "early adopters"
+    },
+    {
+        "生態環境": "ecological environment"
+    },
+    {
+        "經濟租": "economic rent"
+    },
+    {
+        "經濟價值": "economic value"
+    },
+    {
+        "經濟附加價值": "economic value added"
+    },
+    {
+        "網際網路經濟學": "economics of internet"
+    },
+    {
+        "學習的經濟效益": "economies of learning"
+    },
+    {
+        "規模經濟": "economies of scale"
+    },
+    {
+        "多點經營的規模經濟": "economies of scale due to multiple sites"
+    },
+    {
+        "範疇經濟": "economies of scope"
+    },
+    {
+        "專業分工的經濟利益": "economies of specialization"
+    },
+    {
+        "期望彈性": "elastic expectation"
+    },
+    {
+        "非計畫中的策略": "emergent strategies"
+    },
+    {
+        "新興產業": "emerging industries"
+    },
+    {
+        "新興市場": "emerging markets"
+    },
+    {
+        "創業能力": "entrepreneurial capabilities"
+    },
+    {
+        "創業程序": "entrepreneurial process"
+    },
+    {
+        "進入障礙": "entry barriers"
+    },
+    {
+        "進入阻絕": "entry deterrence"
+    },
+    {
+        "進入模式": "entry mode"
+    },
+    {
+        "環境前提": "environment premises"
+    },
+    {
+        "環境複雜度": "environmental complexity"
+    },
+    {
+        "環境惡化": "environmental degradation"
+    },
+    {
+        "環境因素": "environmental factors"
+    },
+    {
+        "環境機會": "environmental opportunities"
+    },
+    {
+        "環境永續策略": "environmental sustainability strategies"
+    },
+    {
+        "環境威脅": "environmental threat"
+    },
+    {
+        "環境不確定性": "environmental uncertainty"
+    },
+    {
+        "環境": "environments"
+    },
+    {
+        "股權式聯盟": "equity-based alliance"
+    },
+    {
+        "續擴承諾": "escalating commitment"
+    },
+    {
+        "策略要素": "essences of strategy"
+    },
+    {
+        "演化策略": "evolutionary strategies"
+    },
+    {
+        "過剩產能": "excess capacity"
+    },
+    {
+        "獨家交易": "exclusive dealing"
+    },
+    {
+        "獨家授權": "exclusive licensing"
+    },
+    {
+        "專賣區域": "exclusive territory"
+    },
+    {
+        "退出障礙": "exit barriers"
+    },
+    {
+        "擴張": "expansion"
+    },
+    {
+        "經驗曲線": "experience curve"
+    },
+    {
+        "明示性合謀": "explicit collusion"
+    },
+    {
+        "出口": "exporting"
+    },
+    {
+        "外部分析": "external analysis"
+    },
+    {
+        "外部環境": "external environment"
+    },
+    {
+        "外部產業環境": "external industry environment"
+    },
+    {
+        "外部市場機會": "external market opportunities"
+    },
+    {
+        "外部利害關係人": "external stakeholders"
+    },
+    {
+        "引導工具": "facilitating device"
+    },
+    {
+        "快速追隨者": "fast follower"
+    },
+    {
+        "快老二策略": "fast second mover"
+    },
+    {
+        "快速退出策略": "fast-exit strategy"
+    },
+    {
+        "財務預算制度": "financial budgeting system"
+    },
+    {
+        "財務槓桿": "financial leverage"
+    },
+    {
+        "財務政策": "financial policy"
+    },
+    {
+        "財務資源": "financial resources"
+    },
+    {
+        "廠商專屬競爭優勢": "firm-specific competitive advantage"
+    },
+    {
+        "廠商專屬人力資本投資": "firm-specific human capital investments"
+    },
+    {
+        "廠商專屬投資": "firm-specific investments"
+    },
+    {
+        "先行者策略": "first mover strategy"
+    },
+    {
+        "先行者劣勢": "first-mover disadvantages"
+    },
+    {
+        "五力競爭分析模型": "five-forces model of competition"
+    },
+    {
+        "彈性": "flexibility"
+    },
+    {
+        "焦點競爭": "focal point competition"
+    },
+    {
+        "集中成本領導": "focused cost leadership"
+    },
+    {
+        "集中差異化": "focused differentiation"
+    },
+    {
+        "集中化市場區隔": "focused market segment"
+    },
+    {
+        "鎖喉策略": "foreclosure"
+    },
+    {
+        "外人直接投資": "foreign direct investment"
+    },
+    {
+        "國外市場": "foreign markets"
+    },
+    {
+        "零散型產業": "fragmented industries"
+    },
+    {
+        "搭便車": "free rider"
+    },
+    {
+        "完全整合": "full integration"
+    },
+    {
+        "功能部門": "functional departments"
+    },
+    {
+        "功能部門經理": "functional manager"
+    },
+    {
+        "功能別組織結構": "functional organizational structure"
+    },
+    {
+        "功能政策": "functional policies"
+    },
+    {
+        "功能定價": "functional pricing"
+    },
+    {
+        "功能層級策略": "functional-level strategies"
+    },
+    {
+        "賽局理論": "game theory"
+    },
+    {
+        "總體環境": "general environment"
+    },
+    {
+        "總體組織能耐": "general organizational competencies"
+    },
+    {
+        "一般性事業策略": "generic business strategies"
+    },
+    {
+        "一般性競爭策略": "generic competitive strategy"
+    },
+    {
+        "一般性策略": "generic strategies"
+    },
+    {
+        "地理群聚": "geographic clustering"
+    },
+    {
+        "地理涵蓋範圍": "geographic coverage"
+    },
+    {
+        "地理市場多角化策略": "geographic market diversification strategy"
+    },
+    {
+        "地理疆界": "geographical boundaries"
+    },
+    {
+        "地理範疇": "geographical scope"
+    },
+    {
+        "全球企業": "global companies"
+    },
+    {
+        "全球競爭": "global competition"
+    },
+    {
+        "全球環境": "global environment"
+    },
+    {
+        "全球擴張": "global expansion"
+    },
+    {
+        "全球化產業": "global industries"
+    },
+    {
+        "全球運籌": "global logistics"
+    },
+    {
+        "全球市場領導地位": "global market leadership"
+    },
+    {
+        "全球市場區隔": "global market segmentation"
+    },
+    {
+        "全球化產品": "global product"
+    },
+    {
+        "全球策略事業單位": "global SBU"
+    },
+    {
+        "全球標準化策略": "global standardization strategy"
+    },
+    {
+        "全球化策略": "global strategies"
+    },
+    {
+        "全球價值整合者": "global values integrator"
+    },
+    {
+        "全球化": "globalization"
+    },
+    {
+        "目標前提": "goal premises"
+    },
+    {
+        "科層治理": "governance by hierarchy"
+    },
+    {
+        "市場治理": "governance by market"
+    },
+    {
+        "治理機制": "governance mechanisms"
+    },
+    {
+        "治理結構": "governance structure"
+    },
+    {
+        "高價買回": "green mail"
+    },
+    {
+        "成長": "growth"
+    },
+    {
+        "成長產業": "growth industries"
+    },
+    {
+        "成長階段": "growth stage"
+    },
+    {
+        "成長策略": "growth strategy"
+    },
+    {
+        "水平多角化": "horizontal diversification"
+    },
+    {
+        "水平整合": "horizontal integration"
+    },
+    {
+        "水平合併；同業合併": "horizontal merger"
+    },
+    {
+        "方針管理制度": "hoshin management system"
+    },
+    {
+        "人力資本資源": "human capital resources"
+    },
+    {
+        "人力資源政策": "human resource policy"
+    },
+    {
+        "混合策略": "hybrid strategy"
+    },
+    {
+        "超競爭": "hyper competition"
+    },
+    {
+        "模仿能力": "imitating capabilities"
+    },
+    {
+        "模仿": "imitation"
+    },
+    {
+        "模仿障礙": "imitation barriers"
+    },
+    {
+        "不可完全模仿的資源": "imperfectly imitable resource"
+    },
+    {
+        "產業環境": "industrial environment"
+    },
+    {
+        "產業經濟學；產業組織學": "industrial organization (I-O)"
+    },
+    {
+        "產業趨勢": "industrial trend"
+    },
+    {
+        "產業": "industries"
+    },
+    {
+        "產業分析": "industry analysis"
+    },
+    {
+        "產業吸引力": "industry attractiveness"
+    },
+    {
+        "產業群聚": "industry clusters"
+    },
+    {
+        "產業匯合": "industry convergence"
+    },
+    {
+        "產業演進": "industry evolution"
+    },
+    {
+        "產業遊戲規則": "industry game rules"
+    },
+    {
+        "產業群組": "industry groups"
+    },
+    {
+        "產業成長率": "industry growth rate"
+    },
+    {
+        "產業生命週期": "industry life cycle"
+    },
+    {
+        "產業矩陣": "industry matrix"
+    },
+    {
+        "產業結構": "industry structure"
+    },
+    {
+        "產業價值鏈": "industry value chain"
+    },
+    {
+        "資訊科技": "information technology {=IT}"
+    },
+    {
+        "基礎建設": "infrastructure"
+    },
+    {
+        "首次公開發行": "initial public offering {=IPO}"
+    },
+    {
+        "價值鏈之創新與重組": "innovation and reconfiguration of value chain"
+    },
+    {
+        "制度同形化": "institutional isomorphism"
+    },
+    {
+        "無形資產": "intangible assets"
+    },
+    {
+        "無形資源": "intangible resources"
+    },
+    {
+        "整合設計製造商": "integrated design manufacture (IDM)"
+    },
+    {
+        "整合": "integration"
+    },
+    {
+        "整合機制": "integration mechanisms"
+    },
+    {
+        "整合流程": "integration process"
+    },
+    {
+        "智慧資本": "intellectual capital"
+    },
+    {
+        "計畫中的策略": "intended strategies"
+    },
+    {
+        "競爭強度": "intensity of competition"
+    },
+    {
+        "與競爭者的互動關係": "interactions with competitor"
+    },
+    {
+        "相互依存度": "interdependency"
+    },
+    {
+        "價值單元間的介面管理": "interface management between value units"
+    },
+    {
+        "内部分析": "internal analysis"
+    },
+    {
+        "内在能力": "internal capabilities"
+    },
+    {
+        "内部成本劣勢": "internal cost disadvantage"
+    },
+    {
+        "內部創業": "internal entrepreneurship"
+    },
+    {
+        "內部利害關係人": "internal stakeholders"
+    },
+    {
+        "內部新創事業": "internal start-ups"
+    },
+    {
+        "內部弱勢": "internal weaknesses"
+    },
+    {
+        "内部化": "internalization"
+    },
+    {
+        "國際競爭": "international competition"
+    },
+    {
+        "國際新創企業": "international entrepreneurial firm"
+    },
+    {
+        "國際擴張": "international expansion"
+    },
+    {
+        "國際整合": "international integration"
+    },
+    {
+        "國際營運": "international operations"
+    },
+    {
+        "國際策略": "international strategy"
+    },
+    {
+        "國際貿易與投資": "international trade and investment"
+    },
+    {
+        "國際化": "internationalization"
+    },
+    {
+        "網路策略": "internet strategy"
+    },
+    {
+        "人際網絡": "interpersonal network"
+    },
+    {
+        "導入期": "introduction stage"
+    },
+    {
+        "自省能力": "introspective ability"
+    },
+    {
+        "不可逆投資": "irreversible investment"
+    },
+    {
+        "隔離機制": "isolating mechanisms"
+    },
+    {
+        "以小搏大策略": "judo economics"
+    },
+    {
+        "垃圾債券": "junk bond"
+    },
+    {
+        "關鍵成功因素": "key success factors (KSF)"
+    },
+    {
+        "關鍵存活因素": "key survival factors"
+    },
+    {
+        "知識經濟": "knowledge economy"
+    },
+    {
+        "知識基礎的競爭": "knowledge-based competition"
+    },
+    {
+        "知識基礎的核心能耐": "knowledge-based core competence"
+    },
+    {
+        "知識基礎觀點": "knowledge-based view"
+    },
+    {
+        "競爭生態": "landscape"
+    },
+    {
+        "後進者": "late mover"
+    },
+    {
+        "跳蛙式競爭": "leapfrogging competition"
+    },
+    {
+        "做中學": "learning by doing"
+    },
+    {
+        "學習曲線": "learning curve"
+    },
+    {
+        "策略層級": "levels of strategy"
+    },
+    {
+        "授權合約": "licensing agreement"
+    },
+    {
+        "生命週期": "life cycle"
+    },
+    {
+        "生命週期分析": "life cycle analysis"
+    },
+    {
+        "阻絕式定價": "limit pricing"
+    },
+    {
+        "在地回應": "local responsiveness"
+    },
+    {
+        "在地化策略": "localization strategy"
+    },
+    {
+        "區位經濟": "location economies"
+    },
+    {
+        "區位基礎優勢": "location-based advantages"
+    },
+    {
+        "鎖入效果": "lock-in effects"
+    },
+    {
+        "長期承諾": "long-term commitment"
+    },
+    {
+        "長期契約": "long-term contracts"
+    },
+    {
+        "長期合作關係": "long-term cooperative relationships"
+    },
+    {
+        "長期目標": "long-term goals"
+    },
+    {
+        "長期成長": "long-term growth"
+    },
+    {
+        "長期規劃": "long-term planning"
+    },
+    {
+        "低成本營運": "low-cost operation"
+    },
+    {
+        "低成本提供者策略": "low-cost provider strategy"
+    },
+    {
+        "低價競爭": "low-price competition"
+    },
+    {
+        "低價產品": "low-price products"
+    },
+    {
+        "自製或外購": "make or buy"
+    },
+    {
+        "市場共同性": "market commonality"
+    },
+    {
+        "市場擴張併購": "market extension merger"
+    },
+    {
+        "市場成長": "market growth"
+    },
+    {
+        "市場領導": "market leadership"
+    },
+    {
+        "市場利基": "market niche"
+    },
+    {
+        "市場滲透": "market penetration"
+    },
+    {
+        "市場定位": "market positioning"
+    },
+    {
+        "市場力": "market power"
+    },
+    {
+        "市場飽合": "market saturation"
+    },
+    {
+        "市場區隔": "market segmentation"
+    },
+    {
+        "市場佔有率": "market share"
+    },
+    {
+        "市場結構": "market structure"
+    },
+    {
+        "行銷政策": "marketing policy"
+    },
+    {
+        "大量同質化": "mass commoditization"
+    },
+    {
+        "大量客製化": "mass customization"
+    },
+    {
+        "成熟期": "maturity"
+    },
+    {
+        "手段-目標體系": "means-ends chain"
+    },
+    {
+        "M型組織": "M-form organization"
+    },
+    {
+        "移動障礙": "mobility barriers"
+    },
+    {
+        "模組化": "modulization"
+    },
+    {
+        "獨占租": "monopoly rents"
+    },
+    {
+        "最惠國待遇條款": "most favored nation clauses"
+    },
+    {
+        "多事業部組織": "multibusiness organization"
+    },
+    {
+        "多國策略": "multidomestic strategy"
+    },
+    {
+        "多重市場競爭": "multimarket competition"
+    },
+    {
+        "多重市場接觸": "multimarket contact"
+    },
+    {
+        "多國競爭": "multinational competition"
+    },
+    {
+        "多國籍企業": "multinational corporations (MNCs)"
+    },
+    {
+        "多重授權": "multiple licensing"
+    },
+    {
+        "相互依賴": "mutual dependence"
+    },
+    {
+        "相互節制": "mutual forbearance"
+    },
+    {
+        "國家鑚石分析架構": "national diamond framework"
+    },
+    {
+        "國家基礎的競爭優勢": "nation-based competitive advantage"
+    },
+    {
+        "網絡效應": "network effects"
+    },
+    {
+        "網絡外部性": "network externality"
+    },
+    {
+        "網絡關係": "network relations"
+    },
+    {
+        "網絡結構": "network structure"
+    },
+    {
+        "網絡定位策略": "networking strategy"
+    },
+    {
+        "新進入者": "new entrants"
+    },
+    {
+        "非核心業務": "non-core business"
+    },
+    {
+        "非股權聯盟": "nonequity alliance"
+    },
+    {
+        "非價格競爭": "nonprice competition"
+    },
+    {
+        "不可替代的資源": "non-substitutable resources"
+    },
+    {
+        "非關稅貿易障礙": "nontariff trade barriers"
+    },
+    {
+        "攻擊性策略": "offensive strategies"
+    },
+    {
+        "寡佔": "oligopoly"
+    },
+    {
+        "營運政策": "operating policy"
+    },
+    {
+        "作業層級": "operational level"
+    },
+    {
+        "投機主義；機會主義": "opportunism"
+    },
+    {
+        "投機行為": "opportunistic behavior"
+    },
+    {
+        "機會分析": "opportunity analysis"
+    },
+    {
+        "組織文化": "organization culture"
+    },
+    {
+        "組織程序": "organization processes"
+    },
+    {
+        "組織能力": "organizational capabilities"
+    },
+    {
+        "組織變革": "organizational changes"
+    },
+    {
+        "組織慣性": "organizational inertia"
+    },
+    {
+        "組織政治": "organizational politics"
+    },
+    {
+        "組織資源": "organizational resources"
+    },
+    {
+        "組織餘裕資源": "organizational slack"
+    },
+    {
+        "投資回收期": "payback period"
+    },
+    {
+        "報酬矩陣": "payoff matrix"
+    },
+    {
+        "績效評估": "performance evaluation"
+    },
+    {
+        "規劃程序": "planning process"
+    },
+    {
+        "企劃幕僚": "planning staff"
+    },
+    {
+        "政治運作": "politicking"
+    },
+    {
+        "事業組合規劃模型": "portfolio planning models"
+    },
+    {
+        "併購後整合": "post merger integration {=PMI}"
+    },
+    {
+        "潛在競爭者": "potential competitors"
+    },
+    {
+        "潛在懲罰力": "potential punishment power {=PPP}"
+    },
+    {
+        "掠奪式定價": "predatory pricing"
+    },
+    {
+        "先佔策略": "preemption"
+    },
+    {
+        "溢酬定價": "premium pricing"
+    },
+    {
+        "價格擠壓": "price squeezing"
+    },
+    {
+        "主要價值活動": "primary value activities"
+    },
+    {
+        "主理人": "principal"
+    },
+    {
+        "主理-代理關係": "principal-agent relationships"
+    },
+    {
+        "囚犯困境": "prisoners' dilemma"
+    },
+    {
+        "預應策略": "proactive strategy"
+    },
+    {
+        "產品開發策略": "product development strategy"
+    },
+    {
+        "產品差異化": "product differentiation"
+    },
+    {
+        "產品多角化策略": "product diversification strategy"
+    },
+    {
+        "產品延伸併購": "product extension merger"
+    },
+    {
+        "產品創新": "product innovation"
+    },
+    {
+        "產品線": "product line"
+    },
+    {
+        "產品範疇": "product scope"
+    },
+    {
+        "產品-市場多角化策略": "product-market diversification strategy"
+    },
+    {
+        "產品導向企業": "product-oriented business"
+    },
+    {
+        "公共財": "public goods"
+    },
+    {
+        "間歇式均衡": "punctuated equilibrium"
+    },
+    {
+        "問號事業": "question mark business"
+    },
+    {
+        "提高對手成本": "raising rivals' costs"
+    },
+    {
+        "稀少的資源": "rare resources"
+    },
+    {
+        "稀少性": "rarity"
+    },
+    {
+        "因應策略": "reactive strategy"
+    },
+    {
+        "實質選擇權": "real options"
+    },
+    {
+        "已實現的策略": "realized strategy"
+    },
+    {
+        "相關多角化": "related diversification"
+    },
+    {
+        "關係資本": "relational capital"
+    },
+    {
+        "相對優勢；相對利益": "relative advantage"
+    },
+    {
+        "相對市佔率": "relative market share"
+    },
+    {
+        "更新程序": "renewal process"
+    },
+    {
+        "資源異質性": "resource heterogeneity"
+    },
+    {
+        "資源不可移動性": "resource immobility"
+    },
+    {
+        "條件前提": "resource premises"
+    },
+    {
+        "資源相似性": "resource similarity"
+    },
+    {
+        "資源弱勢": "resource weaknesses"
+    },
+    {
+        "資源適配": "resources fit"
+    },
+    {
+        "資源強勢": "resources strengths"
+    },
+    {
+        "投資報酬率": "return on investment (ROI)"
+    },
+    {
+        "風險溢酬": "risk premium"
+    },
+    {
+        "敵對狀態": "rivalry"
+    },
+    {
+        "敵手": "rivals"
+    },
+    {
+        "進入規模": "scale of entry"
+    },
+    {
+        "區隔": "segmentation"
+    },
+    {
+        "依序賽局": "sequential game"
+    },
+    {
+        "價值活動的共享": "sharing of value activity"
+    },
+    {
+        "單一事業公司": "single-business firms"
+    },
+    {
+        "狀況分析": "situation analysis"
+    },
+    {
+        "慢速退出策略": "slow-exit strategy"
+    },
+    {
+        "微笑曲線": "smiling curve"
+    },
+    {
+        "社會記憶": "social memory"
+    },
+    {
+        "控制幅度": "span of control"
+    },
+    {
+        "衍生[新事業]": "spin off"
+    },
+    {
+        "事業切割": "split off"
+    },
+    {
+        "穩定策略": "stability strategy"
+    },
+    {
+        "明星事業": "star business"
+    },
+    {
+        "策略行動": "strategic action"
+    },
+    {
+        "策略活動系統": "strategic activity system"
+    },
+    {
+        "策略聯盟": "strategic alliances"
+    },
+    {
+        "策略性資產": "strategic asset"
+    },
+    {
+        "策略選擇": "strategic choices"
+    },
+    {
+        "策略控制系統": "strategic control systems"
+    },
+    {
+        "策略決策制定": "strategic decision making"
+    },
+    {
+        "策略不一致性": "strategic dissonance"
+    },
+    {
+        "策略效果": "strategic effects"
+    },
+    {
+        "策略適配": "strategic fit"
+    },
+    {
+        "策略轉折點": "strategic inflection point"
+    },
+    {
+        "策略創新": "strategic innovation"
+    },
+    {
+        "策略層級": "strategic level"
+    },
+    {
+        "策略管理": "strategic management"
+    },
+    {
+        "策略矩陣分析法": "strategic matrix analysis"
+    },
+    {
+        "策略勢態；策略動向": "strategic move"
+    },
+    {
+        "策略目標": "strategic objectives"
+    },
+    {
+        "策略夥伴": "strategic partners"
+    },
+    {
+        "策略計畫": "strategic plan"
+    },
+    {
+        "策略規劃制度": "strategic planning systems"
+    },
+    {
+        "策略定位": "strategic positioning"
+    },
+    {
+        "策略形態": "strategic posture"
+    },
+    {
+        "策略的「形」與「勢」": "strategic posture and strategic move"
+    },
+    {
+        "策略形態分析法": "strategic posture approach"
+    },
+    {
+        "策略前提": "strategic premises"
+    },
+    {
+        "策略責任中心": "strategic responsibility center"
+    },
+    {
+        "策略思維": "strategic thinking"
+    },
+    {
+        "策略願景": "strategic vision"
+    },
+    {
+        "策略價值資產": "strategically valuable assets"
+    },
+    {
+        "策略分析": "strategy analysis"
+    },
+    {
+        "策略制定": "strategy formulation"
+    },
+    {
+        "策略地圖": "strategy maps"
+    },
+    {
+        "策略選項": "strategy options"
+    },
+    {
+        "強勢": "strengths"
+    },
+    {
+        "要素市場之結構與區隔": "structure and segmentation of factor market"
+    },
+    {
+        "結構-行為-績效模型": "structure-conduct-performance model (s-c-p)"
+    },
+    {
+        "在低成本與差異化間的進退維谷": "stuck in the middle"
+    },
+    {
+        "子公司": "subsidiaries"
+    },
+    {
+        "替代品": "substitutes"
+    },
+    {
+        "替代": "substitution"
+    },
+    {
+        "沉沒成本": "sunk cost"
+    },
+    {
+        "供應商議價力": "supplier bargaining power"
+    },
+    {
+        "供應商": "suppliers"
+    },
+    {
+        "供給面可替代性": "supply-side substitutability"
+    },
+    {
+        "支援性的價值活動": "supportive value activities"
+    },
+    {
+        "持續性": "sustainability"
+    },
+    {
+        "持續性競爭優勢": "sustainable competitive advantage"
+    },
+    {
+        "持續性獨特能耐": "sustainable distinctive competencies"
+    },
+    {
+        "轉換成本": "switching costs"
+    },
+    {
+        "SWOT 分析": "SWOT analysis"
+    },
+    {
+        "默會式合謀": "tacit collusion"
+    },
+    {
+        "默會式合作": "tacit cooperation"
+    },
+    {
+        "戰術層級": "tactical level"
+    },
+    {
+        "戰術": "tactics"
+    },
+    {
+        "接管": "takeovers"
+    },
+    {
+        "有形資源": "tangible resources"
+    },
+    {
+        "部分垂直整合": "tapered vertical integration"
+    },
+    {
+        "目標市場": "target market"
+    },
+    {
+        "任務環境": "task environment"
+    },
+    {
+        "技術領先策略": "technological leadership strategy"
+    },
+    {
+        "技術追隨者": "technology follower"
+    },
+    {
+        "短暫性競爭優勢": "temporary competitive advantage"
+    },
+    {
+        "新進入者威脅": "threat of new entrants"
+    },
+    {
+        "威脅": "threats"
+    },
+    {
+        "時機": "timing"
+    },
+    {
+        "進入時機": "timing of entry"
+    },
+    {
+        "以牙還牙": "tit-for –tat"
+    },
+    {
+        "完整解決方案提供者": "total solution provider"
+    },
+    {
+        "交易成本經濟學": "transactions cost economics"
+    },
+    {
+        "交易專屬投資": "transaction-specific investments"
+    },
+    {
+        "能耐移轉": "transferring competencies"
+    },
+    {
+        "觸動策略": "triggering strategy"
+    },
+    {
+        "轉虧為盈策略": "turnaround strategies"
+    },
+    {
+        "U型組織結構": "U-form structure"
+    },
+    {
+        "獨特能耐": "unique competence"
+    },
+    {
+        "獨特資源": "unique resource"
+    },
+    {
+        "獨特性": "uniqueness"
+    },
+    {
+        "非相關多角化": "unrelated diversification"
+    },
+    {
+        "使用者轉換成本": "user switching cost"
+    },
+    {
+        "具價值的資源": "valuable resource"
+    },
+    {
+        "價值": "value"
+    },
+    {
+        "價值活動": "value activities"
+    },
+    {
+        "價值專享": "value appropriation"
+    },
+    {
+        "價值創造": "value creation"
+    },
+    {
+        "價值毀滅": "value destruction"
+    },
+    {
+        "價值驅動因子": "value drivers"
+    },
+    {
+        "價值整合者": "value integrator"
+    },
+    {
+        "價值網": "value net"
+    },
+    {
+        "價值主張": "value proposition"
+    },
+    {
+        "價值單元": "value unit"
+    },
+    {
+        "產業前提的驗證": "verification of industry premises"
+    },
+    {
+        "驗證前提": "verification of premises"
+    },
+    {
+        "垂直控制": "vertical restraints"
+    },
+    {
+        "願景宣言": "vision statement"
+    },
+    {
+        "VRIO架構": "VRIO framework"
+    },
+    {
+        "弱勢": "weaknesses"
+    }
+]

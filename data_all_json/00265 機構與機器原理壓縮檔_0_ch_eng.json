@@ -1,0 +1,6017 @@
+[
+    {
+        "等效應力": "reduced stress"
+    },
+    {
+        "等效矩": "reduced moment"
+    },
+    {
+        "機構之等效質量": "reduced mass of a mechanism"
+    },
+    {
+        "等效力": "reduced force"
+    },
+    {
+        "直線平移": "rectilinear translation"
+    },
+    {
+        "直線運動": "rectilinear motion"
+    },
+    {
+        "往復運動": "reciprocating motion"
+    },
+    {
+        "往復從動件": "reciprocating cam follower"
+    },
+    {
+        "位移響應（振動）": "receptance"
+    },
+    {
+        "退出側（皮帶輪）": "receding side"
+    },
+    {
+        "雙量之實部": "real part of dual quantity"
+    },
+    {
+        "反作用，反作用力": "reaction"
+    },
+    {
+        "Rayleigh散逸函數": "Rayleigh dissipation function"
+    },
+    {
+        "比，比率": "ratio"
+    },
+    {
+        "棘輪": "ratchet wheel"
+    },
+    {
+        "棘輪機構": "ratchet mechanism"
+    },
+    {
+        "棘輪": "ratchet"
+    },
+    {
+        "Rapson滑行裝置": "Rapson slide"
+    },
+    {
+        "隨機振動": "random vibration"
+    },
+    {
+        "隨機程序": "random process"
+    },
+    {
+        "隨機的": "random"
+    },
+    {
+        "撞鎚": "ram"
+    },
+    {
+        "喉半徑（蝸輪）": "radius of the throat"
+    },
+    {
+        "迴轉半徑": "radius of gyration"
+    },
+    {
+        "曲率半徑": "radius of curvature"
+    },
+    {
+        "半徑": "radius"
+    },
+    {
+        "弳，弳度": "radian"
+    },
+    {
+        "徑〔向〕分量": "radial component"
+    },
+    {
+        "徑向從動件": "radial cam follower"
+    },
+    {
+        "齒條": "rack"
+    },
+    {
+        "均方根值": "r.m.s. value"
+    },
+    {
+        "五接頭桿": "quinary link"
+    },
+    {
+        "急回機構": "quick-return mechanism"
+    },
+    {
+        "四數": "quaternion"
+    },
+    {
+        "四接頭桿": "quaternary link"
+    },
+    {
+        "導數曲率四次曲線": "quartic of derivative curvature"
+    },
+    {
+        "量": "quantity"
+    },
+    {
+        "品質因子，品質因數（振動）": "quality factor"
+    },
+    {
+        "二次變換": "quadratic transformation"
+    },
+    {
+        "品質因子，品質因數（振動）": "Q-factor"
+    },
+    {
+        "脈動負載": "pulsating load"
+    },
+    {
+        "1.皮帶輪；2.滑輪": "pulley"
+    },
+    {
+        "近接感度（機器人）": "proximity sense"
+    },
+    {
+        "近軀端（機器人）": "proximal"
+    },
+    {
+        "義肢": "prosthetic device"
+    },
+    {
+        "比例機構": "proportional mechanism"
+    },
+    {
+        "比例控制": "proportional control"
+    },
+    {
+        "固有振動模態": "proper vector"
+    },
+    {
+        "內下運動（機器人）": "pronation"
+    },
+    {
+        "長次擺線": "prolate trochoid"
+    },
+    {
+        "1.程式設計；2.規劃": "programming"
+    },
+    {
+        "可程式機械臂": "programmable manipulator"
+    },
+    {
+        "輪廓，外形": "profile"
+    },
+    {
+        "慣性積": "product of inertia"
+    },
+    {
+        "程序": "process"
+    },
+    {
+        "稜柱〔運動〕對": "prismatic pair"
+    },
+    {
+        "虛功原理": "principle of virtual work"
+    },
+    {
+        "質心運動原理": "principle of motion of centre/center of mass"
+    },
+    {
+        "質心運動原理": "principle of motion of centre of mass"
+    },
+    {
+        "動量原理": "principle of momentum"
+    },
+    {
+        "角動量原理": "principle of moment of momentum"
+    },
+    {
+        "能量原理": "principle of energy"
+    },
+    {
+        "動量守恆原理": "principle of conservation of momentum"
+    },
+    {
+        "角動量守恆原理": "principle of conservation of moment of momentum"
+    },
+    {
+        "能量守恆原理": "principle of conservation of energy"
+    },
+    {
+        "原理": "principle"
+    },
+    {
+        "主慣性矩": "principal moment of inertia"
+    },
+    {
+        "慣性主軸線": "principal axis of inertia"
+    },
+    {
+        "主要的": "principal"
+    },
+    {
+        "原動機": "prime mover"
+    },
+    {
+        "主圓（凸輪）": "prime circle"
+    },
+    {
+        "主回饋": "primary feedback"
+    },
+    {
+        "位置軸線（機器人），主軸線": "primary axes"
+    },
+    {
+        "主要的": "primary"
+    },
+    {
+        "壓力角": "pressure angle"
+    },
+    {
+        "精確點": "precision point"
+    },
+    {
+        "精確度": "precision"
+    },
+    {
+        "進動，擾轉": "precession"
+    },
+    {
+        "傳力鏈": "power transmission chain"
+    },
+    {
+        "動力螺桿": "power screw"
+    },
+    {
+        "力之功率": "power of a force"
+    },
+    {
+        "1.功率；2.動力的": "power"
+    },
+    {
+        "質點之位能": "potential energy of particle"
+    },
+    {
+        "系統之位能": "potential energy of a system"
+    },
+    {
+        "質點之位能": "potential energy of a particle"
+    },
+    {
+        "位，勢": "potential"
+    },
+    {
+        "確動凸輪": "positive motion cam"
+    },
+    {
+        "確動凸輪": "positive drive cam"
+    },
+    {
+        "位置軸線（機器人）": "positional axes"
+    },
+    {
+        "位置準確度": "positional accuracy"
+    },
+    {
+        "位置向量": "position vector"
+    },
+    {
+        "位置角": "position angle"
+    },
+    {
+        "位置分析": "position analysis"
+    },
+    {
+        "位置": "position"
+    },
+    {
+        "逐位控制": "pose-to-pose control"
+    },
+    {
+        "姿勢": "pose"
+    },
+    {
+        "多項式曲線": "polynomial curve"
+    },
+    {
+        "多邊形": "polygon"
+    },
+    {
+        "極心線切線，瞬心線切線": "polode tangent"
+    },
+    {
+        "極心線法，瞬心線法": "polode method"
+    },
+    {
+        "極心線，瞬心線": "polode"
+    },
+    {
+        "極心切線": "pole-tangent"
+    },
+    {
+        "極心法線": "pole-normal"
+    },
+    {
+        "極心〔改換〕速度": "pole velocity"
+    },
+    {
+        "極心三角形": "pole triangle"
+    },
+    {
+        "大圓之極心": "pole of a great circle"
+    },
+    {
+        "極心改換速度": "pole changing velocity"
+    },
+    {
+        "極心": "pole"
+    },
+    {
+        "物體之極慣性矩": "polar moment of inertia of body"
+    },
+    {
+        "一平面區域之極慣性矩": "polar moment of inertia of a lamina"
+    },
+    {
+        "物體之極慣性矩": "polar moment of inertia of a body"
+    },
+    {
+        "極線": "polar line"
+    },
+    {
+        "逐點控制": "point-to-point control"
+    },
+    {
+        "逐點控制": "point-to point control"
+    },
+    {
+        "點位置縮減法": "point-position reduction method"
+    },
+    {
+        "尖端齒": "pointed tooth"
+    },
+    {
+        "尖頭從動件": "pointed cam follower"
+    },
+    {
+        "質點": "point mass"
+    },
+    {
+        "點接觸": "point contact"
+    },
+    {
+        "點": "point"
+    },
+    {
+        "慣性橢球面": "Poinsot ellipsoid of inertia"
+    },
+    {
+        "慣性橢球面": "Poinsot ellipsoid"
+    },
+    {
+        "重現型機器人": "playback robot"
+    },
+    {
+        "重現準確度": "playback accuracy"
+    },
+    {
+        "重現": "playback"
+    },
+    {
+        "平板凸輪": "plate cam"
+    },
+    {
+        "板": "plate"
+    },
+    {
+        "1.塑性；2.塑性力學": "plasticity"
+    },
+    {
+        "塑性應變": "plastic strain"
+    },
+    {
+        "塑性變形": "plastic deformation"
+    },
+    {
+        "塑性的": "plastic"
+    },
+    {
+        "行星齒輪系": "planetary gear train"
+    },
+    {
+        "行星齒輪": "planetary gear"
+    },
+    {
+        "行星傘齒輪系": "planetary bevel gear train"
+    },
+    {
+        "行星的": "planetary"
+    },
+    {
+        "行星齒輪": "planet gear"
+    },
+    {
+        "旋轉平面": "plane of rotation"
+    },
+    {
+        "運動平面": "plane of motion"
+    },
+    {
+        "平面運動": "plane motion"
+    },
+    {
+        "平面機構": "plane mechanism"
+    },
+    {
+        "平面指標機構": "plane indicatrix"
+    },
+    {
+        "平面代數曲線": "plane algebraic curve"
+    },
+    {
+        "平面": "plane"
+    },
+    {
+        "平面系統": "planar system"
+    },
+    {
+        "平面〔運動〕對": "planar pair"
+    },
+    {
+        "平面運動": "planar motion"
+    },
+    {
+        "平面機構": "planar mechanism"
+    },
+    {
+        "平面連桿組": "planar linkage"
+    },
+    {
+        "平面〔運動〕對": "planar contact pair"
+    },
+    {
+        "平面凸輪": "planar cam"
+    },
+    {
+        "平面的": "planar"
+    },
+    {
+        "瞬時圓心點曲線": "pivot-point curve"
+    },
+    {
+        "樞轉摩擦": "pivoting friction"
+    },
+    {
+        "樞軸": "pivot"
+    },
+    {
+        "節曲面": "pitch surface"
+    },
+    {
+        "節蝸線": "pitch spiral"
+    },
+    {
+        "節半徑": "pitch radius"
+    },
+    {
+        "節輪廓": "pitch profile"
+    },
+    {
+        "節點": "pitch point"
+    },
+    {
+        "節平面": "pitch plane"
+    },
+    {
+        "螺距": "pitch of screw"
+    },
+    {
+        "節線": "pitch line"
+    },
+    {
+        "節螺旋線": "pitch helix"
+    },
+    {
+        "節徑": "pitch diameter"
+    },
+    {
+        "節圓柱面": "pitch cylinder"
+    },
+    {
+        "節曲線": "pitch curve"
+    },
+    {
+        "節圓錐半徑": "pitch cone radius"
+    },
+    {
+        "節圓錐角": "pitch cone angle"
+    },
+    {
+        "節圓錐": "pitch cone"
+    },
+    {
+        "節圓": "pitch circle"
+    },
+    {
+        "周節角，俯仰角": "pitch angle"
+    },
+    {
+        "節，節距，螺距，俯仰": "pitch"
+    },
+    {
+        "銷鏈": "pintle chain"
+    },
+    {
+        "小齒輪，齒輇": "pinion"
+    },
+    {
+        "危險區": "pinch zone"
+    },
+    {
+        "銷子接頭": "pin joint"
+    },
+    {
+        "銷子輪傳動": "pin gearing"
+    },
+    {
+        "銷子輪": "pin gear"
+    },
+    {
+        "銷子": "pin"
+    },
+    {
+        "朝聖者步伐運動": "pilgrim-step motion"
+    },
+    {
+        "朝聖者步伐機構": "pilgrim-step mechanism"
+    },
+    {
+        "朝聖者步伐": "pilgrim-step"
+    },
+    {
+        "取放型機器人": "pick-and-place robot"
+    },
+    {
+        "取放型機器人": "pick-and place robot"
+    },
+    {
+        "相位邊限": "phase margin"
+    },
+    {
+        "相位交越點": "phase crossover"
+    },
+    {
+        "相位角": "phase angle"
+    },
+    {
+        "相": "phase"
+    },
+    {
+        "微擾，擾動": "perturbation"
+    },
+    {
+        "中垂線": "perpendicular bisector"
+    },
+    {
+        "永久應變": "permanent set"
+    },
+    {
+        "固定負載": "permanent load"
+    },
+    {
+        "週期運動": "periodic motion"
+    },
+    {
+        "運動週期": "period of motion"
+    },
+    {
+        "運動週期": "period of a motion"
+    },
+    {
+        "週期": "period"
+    },
+    {
+        "撞心，撞擊中心": "percussion， centre/center of pendulum"
+    },
+    {
+        "擺": "pendulum"
+    },
+    {
+        "機械腿": "pedipulator"
+    },
+    {
+        "峰間值": "peak-to-peak value"
+    },
+    {
+        "峰間值": "peak-to peak value"
+    },
+    {
+        "峰值": "peak value"
+    },
+    {
+        "爪，棘爪": "pawl"
+    },
+    {
+        "路徑演生機構": "path-generating mechanism"
+    },
+    {
+        "接觸路徑（齒輪）": "path of contact"
+    },
+    {
+        "路徑演生機構": "path generator"
+    },
+    {
+        "路徑之演生": "path generation"
+    },
+    {
+        "路徑演生機構": "path generating mechanism"
+    },
+    {
+        "路徑": "path"
+    },
+    {
+        "被動系統": "passive system"
+    },
+    {
+        "被動裝置": "passive device"
+    },
+    {
+        "無效自由度": "passive degree of freedom"
+    },
+    {
+        "被動補償": "passive accommodation"
+    },
+    {
+        "被動的": "passive"
+    },
+    {
+        "質點": "particle"
+    },
+    {
+        "平行四邊形定律": "parallelogram law"
+    },
+    {
+        "平行曲柄機構": "parallel-crank mechanism"
+    },
+    {
+        "平行運動機構": "parallel motion mechanism"
+    },
+    {
+        "平行力系": "parallel force system"
+    },
+    {
+        "平行等曲柄四連桿組": "parallel equal crank linkage"
+    },
+    {
+        "平行軸線定理": "parallel axes theorem"
+    },
+    {
+        "縮放儀": "pantograph"
+    },
+    {
+        "成運動對元件": "pairing element"
+    },
+    {
+        "運動對，對偶": "pair"
+    },
+    {
+        "泛音": "overtones"
+    },
+    {
+        "超越，過越量": "overshoot"
+    },
+    {
+        "過度拘束運動鏈": "over-constrained kinematic chain"
+    },
+    {
+        "外徑": "outside diameter"
+    },
+    {
+        "輸出扭矩": "output torque"
+    },
+    {
+        "輸出桿": "output link"
+    },
+    {
+        "輸出": "output"
+    },
+    {
+        "外機架位置": "outer frame position"
+    },
+    {
+        "外死點位置": "outer dead-centre position"
+    },
+    {
+        "密切橢圓": "osculating ellipse"
+    },
+    {
+        "密切曲線": "osculating curve"
+    },
+    {
+        "密切的": "osculating"
+    },
+    {
+        "振盪": "oscillation"
+    },
+    {
+        "搖擺運動": "oscillating motion"
+    },
+    {
+        "搖擺從動件": "oscillating follower"
+    },
+    {
+        "擺動汽缸連桿組": "oscillating cylinder linkage"
+    },
+    {
+        "擺動汽缸角": "oscillating cylinder angle"
+    },
+    {
+        "搖擺從動件": "oscillating cam follower"
+    },
+    {
+        "搖臂": "oscillating arm"
+    },
+    {
+        "搖擺的": "oscillating"
+    },
+    {
+        "正交速度": "orthogonal velocity"
+    },
+    {
+        "正交矩陣": "orthogonal matrix"
+    },
+    {
+        "正交的": "orthogonal"
+    },
+    {
+        "原點": "origin"
+    },
+    {
+        "方位軸線（機器人）": "orientational axes"
+    },
+    {
+        "方位": "orientation"
+    },
+    {
+        "普通齒輪系": "ordinary gear train"
+    },
+    {
+        "階式合成": "order-type synthesis"
+    },
+    {
+        "階數，階": "order"
+    },
+    {
+        "最佳化": "optimization"
+    },
+    {
+        "對頂極心四邊形": "opposite-pole quadrilateral"
+    },
+    {
+        "對頂極心": "opposite-pole"
+    },
+    {
+        "對頂極心": "opposite pole"
+    },
+    {
+        "作用壓力角": "operating pressure angle"
+    },
+    {
+        "開迴路諧波響應": "open-loop harmonic response"
+    },
+    {
+        "開迴路控制": "open-loop control"
+    },
+    {
+        "開迴路": "open-loop"
+    },
+    {
+        "開口球面曲線": "open spherical curve"
+    },
+    {
+        "力閉式運動對": "open pair"
+    },
+    {
+        "開運動鏈，開放運動鏈": "open kinematic chain"
+    },
+    {
+        "開口皮帶": "open belt"
+    },
+    {
+        "Oldham聯結器": "Oldham coupling"
+    },
+    {
+        "偏位滑件曲柄機構": "offset slider-crank"
+    },
+    {
+        "偏位擺動汽缸連桿組": "offset oscillating cylinder linkage"
+    },
+    {
+        "偏連鈑": "offset link"
+    },
+    {
+        "偏位從動件": "offset follower"
+    },
+    {
+        "補償誤差，偏位誤差": "offset error"
+    },
+    {
+        "偏位距離，偏位長度": "offset distance/length"
+    },
+    {
+        "偏位交叉滑件": "offset cross-slider"
+    },
+    {
+        "偏位圓": "offset circle"
+    },
+    {
+        "偏位從動件": "offset cam follower"
+    },
+    {
+        "偏距，偏位": "offset"
+    },
+    {
+        "離線規劃": "off-line programming"
+    },
+    {
+        "畫齒規": "odontograph"
+    },
+    {
+        "8字齒": "octoid tooth"
+    },
+    {
+        "斜衝擊": "oblique impact"
+    },
+    {
+        "斜交叉滑件": "oblique cross-slider"
+    },
+    {
+        "櫟皮鞣製皮帶": "oak-tanned belt"
+    },
+    {
+        "旋擺、章動（天體力學）": "nutation"
+    },
+    {
+        "螺帽": "nut"
+    },
+    {
+        "數值解": "numerical solution"
+    },
+    {
+        "數值分析法": "numerical analysis method"
+    },
+    {
+        "數目合成": "number synthesis"
+    },
+    {
+        "齒數": "number of teeth"
+    },
+    {
+        "鼻圓": "nose circle"
+    },
+    {
+        "正規化的，無因次化的": "normalized"
+    },
+    {
+        "固有振動": "normal vibration"
+    },
+    {
+        "正應力，垂直應力": "normal stress"
+    },
+    {
+        "法線反作用力": "normal reaction"
+    },
+    {
+        "法壓力角": "normal pressure angle"
+    },
+    {
+        "法平面": "normal plane"
+    },
+    {
+        "法徑節": "normal pitch"
+    },
+    {
+        "法模數": "normal module"
+    },
+    {
+        "固有振動模態": "normal mode of vibration"
+    },
+    {
+        "固有模態": "normal mode"
+    },
+    {
+        "法螺旋線": "normal helix"
+    },
+    {
+        "法徑節": "normal diametral pitch"
+    },
+    {
+        "法曲率": "normal curvature"
+    },
+    {
+        "法圓錐": "normal cone"
+    },
+    {
+        "法周節": "normal circular pitch"
+    },
+    {
+        "法線加速度": "normal acceleration"
+    },
+    {
+        "不平行等曲柄四連桿組": "non-parallel equal crank linkage normal"
+    },
+    {
+        "不平行等曲柄四連桿組": "non-parallel equal crank linkage"
+    },
+    {
+        "不可積分拘束系統": "non-holonomic system"
+    },
+    {
+        "不可積分拘束": "non-holonomic constraint"
+    },
+    {
+        "不可積分的": "non-holonomic"
+    },
+    {
+        "非Grashof雙搖桿": "non-Grashof double-rocker"
+    },
+    {
+        "非Grashof運動鏈": "non-Grashof chain"
+    },
+    {
+        "非保守力，非守恆力": "non-conservative force"
+    },
+    {
+        "非圓形齒輪": "non-circular gear"
+    },
+    {
+        "橫〔向〕周節": "nominal pitch diameter"
+    },
+    {
+        "噪音，雜訊": "noise"
+    },
+    {
+        "結點，節點（振動）": "node"
+    },
+    {
+        "Newton第三定律": "Newton's third law (of motion)"
+    },
+    {
+        "Newton第二定律": "Newton's second law (of motion)"
+    },
+    {
+        "Newton第一定律": "Newton's first law (of motion)"
+    },
+    {
+        "中立面": "neutral surface"
+    },
+    {
+        "中立平衡，隨遇平衡": "neutral equilibrium"
+    },
+    {
+        "中立軸線，中性軸線": "neutral axis"
+    },
+    {
+        "中立的，中性的": "neutral"
+    },
+    {
+        "固有模態（振動）": "natural mode"
+    },
+    {
+        "固有頻率，自然頻率": "natural frequency"
+    },
+    {
+        "蕈狀從動件": "mushroom cam follower"
+    },
+    {
+        "複螺紋": "multiple thread"
+    },
+    {
+        "多排鏈": "multiple strand chain"
+    },
+    {
+        "多迴路機構": "multi-loop mechanism"
+    },
+    {
+        "多層結構": "multi-layered structure"
+    },
+    {
+        "多自由度系統": "multi-degree-of-freedom system"
+    },
+    {
+        "導輪": "mule pulley"
+    },
+    {
+        "運動極心線，運動瞬心線": "moving polode"
+    },
+    {
+        "運動樞軸": "moving pivot"
+    },
+    {
+        "運動件": "moving member"
+    },
+    {
+        "運動極心線，運動瞬心線": "moving centrode"
+    },
+    {
+        "運動軸線面": "moving axode"
+    },
+    {
+        "運動的": "moving"
+    },
+    {
+        "動滑輪": "movable pulley"
+    },
+    {
+        "運動規劃": "motion program"
+    },
+    {
+        "剛體運動": "motion of a rigid body"
+    },
+    {
+        "運動": "motion"
+    },
+    {
+        "點運動": "motion of a point"
+    },
+    {
+        "動量": "momentum"
+    },
+    {
+        "瞬時暫停": "momentary dwell"
+    },
+    {
+        "慣性橢球面": "momental ellipsoid"
+    },
+    {
+        "動量矩，角動量": "moment of momentum"
+    },
+    {
+        "慣性矩": "moment of inertia"
+    },
+    {
+        "繞一軸線之力矩": "moment of force about an axis"
+    },
+    {
+        "繞一點之力矩": "moment of force about a point"
+    },
+    {
+        "力偶矩": "moment of couple"
+    },
+    {
+        "繞一軸線之力矩": "moment of a force about axis"
+    },
+    {
+        "繞一點之力矩": "moment of a force about a point"
+    },
+    {
+        "力偶矩": "moment of a couple"
+    },
+    {
+        "力臂": "moment arm"
+    },
+    {
+        "力矩，矩": "moment"
+    },
+    {
+        "剛性模數": "modulus of rigidity"
+    },
+    {
+        "模數": "modulus"
+    },
+    {
+        "模組（機器人），模數（齒輪）": "module"
+    },
+    {
+        "振動模態": "mode of vibration"
+    },
+    {
+        "模態": "mode"
+    },
+    {
+        "固有模態（振動）": "modal vector"
+    },
+    {
+        "機構之可動度": "mobility of mechanism"
+    },
+    {
+        "運動鏈之可動度": "mobility of kinematic chain"
+    },
+    {
+        "運動鏈之可動度": "mobility of a kinematic chain"
+    },
+    {
+        "可動度，自由度": "mobility"
+    },
+    {
+        "可移動型機器人": "mobile robot"
+    },
+    {
+        "樹狀運動鏈": "mobile"
+    },
+    {
+        "斜方齒輪": "mitre/miter gear"
+    },
+    {
+        "斜方齒輪": "miter/mitre gear"
+    },
+    {
+        "鏡像極心": "mirror pole"
+    },
+    {
+        "鏡像": "mirror image"
+    },
+    {
+        "方位軸線，次軸線（機器人）": "minor/secondary axes"
+    },
+    {
+        "方位軸線（機器人）": "minor axes"
+    },
+    {
+        "極小極大理論": "minimax theorem"
+    },
+    {
+        "板之中分面": "middle surface of plate"
+    },
+    {
+        "板之中分面": "middle surface of a plate"
+    },
+    {
+        "薄膜": "membrane"
+    },
+    {
+        "件": "member"
+    },
+    {
+        "機構拓樸構造矩陣": "mechanism topology matrix"
+    },
+    {
+        "機構元件": "mechanism element"
+    },
+    {
+        "機構設計": "mechanism design"
+    },
+    {
+        "機構與機器原理": "mechanism and machine theory"
+    },
+    {
+        "機構": "mechanism"
+    },
+    {
+        "機械系統": "mechanical system"
+    },
+    {
+        "機械陡震": "mechanical shock"
+    },
+    {
+        "機械速度響應（振動）": "mechanical mobility"
+    },
+    {
+        "機械工程設計": "mechanical engineering design"
+    },
+    {
+        "機械能": "mechanical energy"
+    },
+    {
+        "機械效率": "mechanical efficiency"
+    },
+    {
+        "機械設計": "mechanical design"
+    },
+    {
+        "機械利益": "mechanical advantage"
+    },
+    {
+        "機械的": "mechanical"
+    },
+    {
+        "均方值": "mean-square value"
+    },
+    {
+        "矩陣法": "matrix method"
+    },
+    {
+        "數學規劃": "mathematical programming"
+    },
+    {
+        "主從式機械臂": "master-slave manipulator"
+    },
+    {
+        "母凸輪": "master cam"
+    },
+    {
+        "質點之質量": "mass of particle"
+    },
+    {
+        "物體質量": "mass of body"
+    },
+    {
+        "質點之質量": "mass of a particle"
+    },
+    {
+        "質量": "mass"
+    },
+    {
+        "物體之質量": "mass of a body"
+    },
+    {
+        "邊限": "margin"
+    },
+    {
+        "手動變速器，手排變速箱（車輛）": "manual transmission"
+    },
+    {
+        "手動機械臂": "manual manipulator"
+    },
+    {
+        "手動的": "manual"
+    },
+    {
+        "可調遣性": "manoeuvrability"
+    },
+    {
+        "機械臂，操縱器": "manipulator"
+    },
+    {
+        "受控變數": "manipulated variable"
+    },
+    {
+        "位置軸線，主軸線（機器人）": "major/primary axes"
+    },
+    {
+        "橢圓之長短軸線": "major axis and minor axis of an ellipse"
+    },
+    {
+        "位置軸線（機器人）．主軸線": "major axes"
+    },
+    {
+        "主凸輪與回凸輪": "main-and-return cam"
+    },
+    {
+        "法周節": "main pitch circle"
+    },
+    {
+        "力之大小": "magnitude of force"
+    },
+    {
+        "力之大小": "magnitude of a force"
+    },
+    {
+        "機件": "machine member"
+    },
+    {
+        "機器設計": "machine design"
+    },
+    {
+        "機器": "machine"
+    },
+    {
+        "集塊參數系統，離散系統": "lumped-parameter system"
+    },
+    {
+        "低對": "lower pair"
+    },
+    {
+        "遊輪": "loose sheave"
+    },
+    {
+        "遊輪": "loose pulley"
+    },
+    {
+        "迴路比": "Loop ratio"
+    },
+    {
+        "迴路相位": "Loop phase"
+    },
+    {
+        "迴路增益": "loop gain"
+    },
+    {
+        "迴路方程式": "loop equation"
+    },
+    {
+        "迴路": "Loop"
+    },
+    {
+        "縱〔向〕波": "longitudinal wave"
+    },
+    {
+        "縱向振動": "longitudinal vibration"
+    },
+    {
+        "縱向應變": "longitudinal strain"
+    },
+    {
+        "縱向剛度": "longitudinal rigidity"
+    },
+    {
+        "縱向衝擊": "longitudinal impact"
+    },
+    {
+        "縱向力": "longitudinal force"
+    },
+    {
+        "縱向的": "longitudinal"
+    },
+    {
+        "長短齒冠制": "long and short addendum system"
+    },
+    {
+        "對數蝸線": "logarithmic spiral"
+    },
+    {
+        "對數減量": "logarithmic decrement"
+    },
+    {
+        "軌跡": "locus"
+    },
+    {
+        "呆鏈": "locked chain"
+    },
+    {
+        "葉子輪": "lobed wheels"
+    },
+    {
+        "負載容量": "load capacity"
+    },
+    {
+        "負載": "load"
+    },
+    {
+        "活動負載": "live load"
+    },
+    {
+        "連桿組": "linkwork"
+    },
+    {
+        "連桿機構": "linkage mechanism"
+    },
+    {
+        "連桿組": "linkage"
+    },
+    {
+        "連桿": "link"
+    },
+    {
+        "線性化": "linearization"
+    },
+    {
+        "線速度矩陣": "linear velocity matrix"
+    },
+    {
+        "線速度": "linear velocity"
+    },
+    {
+        "線性系統": "linear system"
+    },
+    {
+        "線速率": "linear speed"
+    },
+    {
+        "線運動": "linear motion"
+    },
+    {
+        "線動量": "linear momentum"
+    },
+    {
+        "線急跳度": "linear jerk"
+    },
+    {
+        "線位移": "linear displacement"
+    },
+    {
+        "線加速度": "linear acceleration"
+    },
+    {
+        "線性的": "linear"
+    },
+    {
+        "接觸線": "line of contact"
+    },
+    {
+        "聯心線": "line of centres/centers"
+    },
+    {
+        "力作用線": "line of action of force"
+    },
+    {
+        "力之作用線": "line of action of a force"
+    },
+    {
+        "作用線": "line of action"
+    },
+    {
+        "線方程式": "line equation"
+    },
+    {
+        "線坐標": "line coordinates"
+    },
+    {
+        "線接觸": "line contact"
+    },
+    {
+        "無窮遠處線": "line at infinity"
+    },
+    {
+        "直線": "line"
+    },
+    {
+        "極限摩擦力，靜摩擦限界": "limiting friction"
+    },
+    {
+        "機構之極限位置": "limit position of a mechanism"
+    },
+    {
+        "桿之極限位置": "limit position of a link"
+    },
+    {
+        "極限位置": "limit position"
+    },
+    {
+        "極限": "limit"
+    },
+    {
+        "蚶線": "limacon"
+    },
+    {
+        "升程": "lift"
+    },
+    {
+        "搖桿": "lever"
+    },
+    {
+        "左旋螺紋": "left-handed thread"
+    },
+    {
+        "左手螺旋": "left handed screw"
+    },
+    {
+        "前端": "leading end"
+    },
+    {
+        "導螺桿": "lead screw"
+    },
+    {
+        "齒扭距（蝸線傘齒輪）": "lead of spiral bevel gear"
+    },
+    {
+        "導程數，車床螺旋常數": "lead number"
+    },
+    {
+        "導程角": "lead angle"
+    },
+    {
+        "導程": "lead"
+    },
+    {
+        "伸縮鐵": "lazy tongs"
+    },
+    {
+        "萬有引力定律": "law of (universal) gravitation"
+    },
+    {
+        "定律": "law"
+    },
+    {
+        "車床螺旋常數，導程數": "lathe screw constant"
+    },
+    {
+        "梁之側向屈曲": "lateral buckling of a beam"
+    },
+    {
+        "固有模態（振動）": "latent vector"
+    },
+    {
+        "閂扣，搭扣": "latch"
+    },
+    {
+        "燈輪": "lantern wheel"
+    },
+    {
+        "一平面區域之極慣性矩": "lamina， polar moment of inertia of"
+    },
+    {
+        "Lagrange函數": "Lagrangian function"
+    },
+    {
+        "Lagrange乘子": "Lagrange multiplier"
+    },
+    {
+        "滯後": "lag"
+    },
+    {
+        "刃狀從動件": "knife edge follower"
+    },
+    {
+        "刃狀從動件": "knife edge cam follower"
+    },
+    {
+        "箏形連桿組": "kite linkage"
+    },
+    {
+        "動力學": "kinetostatics"
+    },
+    {
+        "運動力學": "kinetics"
+    },
+    {
+        "Lagrange函數": "kinetic potential"
+    },
+    {
+        "動摩擦": "kinetic friction"
+    },
+    {
+        "質點之動能": "kinetic energy of particle"
+    },
+    {
+        "系統之動能": "kinetic energy of a system"
+    },
+    {
+        "剛體之動能": "kinetic energy of a rigid body"
+    },
+    {
+        "質點之動能": "kinetic energy of a particle"
+    },
+    {
+        "動力的": "kinetic"
+    },
+    {
+        "機械運動學": "kinematics of machinery"
+    },
+    {
+        "運動學": "kinematics"
+    },
+    {
+        "運動合成": "kinematic synthesis"
+    },
+    {
+        "運動簡圖": "kinematic sketch"
+    },
+    {
+        "運動表示法": "kinematic representation"
+    },
+    {
+        "運動對": "kinematic pair"
+    },
+    {
+        "運動接頭": "kinematic joint"
+    },
+    {
+        "運動學上之倒置": "kinematic inversion"
+    },
+    {
+        "運動鏈": "kinematic chain"
+    },
+    {
+        "運動分析": "kinematic analysis"
+    },
+    {
+        "運動學的": "kinematic"
+    },
+    {
+        "軸頸": "journal"
+    },
+    {
+        "關節空間": "joint space"
+    },
+    {
+        "皮帶接頭": "joint of belt"
+    },
+    {
+        "接頭坐標系，關節坐標系": "joint coordinate system"
+    },
+    {
+        "接頭，關節": "joint"
+    },
+    {
+        "急跳度": "jerk"
+    },
+    {
+        "等向性": "isotropy"
+    },
+    {
+        "迷向線": "isotropic line"
+    },
+    {
+        "等向性體": "isotropic body"
+    },
+    {
+        "等腰迴轉塊連桿組": "isosceles turning block linkage"
+    },
+    {
+        "等腰連桿組": "isosceles linkage"
+    },
+    {
+        "等腰雙曲柄連桿組": "isosceles double crank linkage"
+    },
+    {
+        "同構〔性〕": "isomorphism"
+    },
+    {
+        "同構的": "isomorphic"
+    },
+    {
+        "孤立點": "isolated point"
+    },
+    {
+        "漸開蝸線面": "involute spiraloid"
+    },
+    {
+        "漸開螺旋面": "involute helical"
+    },
+    {
+        "漸開線齒輪": "involute gear"
+    },
+    {
+        "漸開線函數": "involute function"
+    },
+    {
+        "漸開線凸輪": "involute cam"
+    },
+    {
+        "漸開線": "involute"
+    },
+    {
+        "倒齒鏈": "inverted tooth chain"
+    },
+    {
+        "倒置之滑件曲柄機構": "inverted slider-crank"
+    },
+    {
+        "倒數器": "inversors"
+    },
+    {
+        "運動對的倒置": "inversion of pairs"
+    },
+    {
+        "運動對的倒置": "inversion of pair"
+    },
+    {
+        "倒置": "inversion"
+    },
+    {
+        "反向計算（機器人）": "inverse task"
+    },
+    {
+        "倒置運動，反運動": "inverse motion"
+    },
+    {
+        "反凸輪": "inverse cam"
+    },
+    {
+        "倒置的，反的": "inverse"
+    },
+    {
+        "不變系統": "invariant system"
+    },
+    {
+        "相交軸線": "intersecting axes"
+    },
+    {
+        "內齒輪": "internal gear"
+    },
+    {
+        "內力": "internal force"
+    },
+    {
+        "內傘齒輪": "internal bevel gear"
+    },
+    {
+        "間歇運動機構": "intermittent motion mechanism"
+    },
+    {
+        "間歇運動": "intermittent motion"
+    },
+    {
+        "中間情形": "intermediate cases"
+    },
+    {
+        "干涉計": "interferometer"
+    },
+    {
+        "干涉點": "interference point"
+    },
+    {
+        "漸開線齒輪的干涉": "interference of involute gears"
+    },
+    {
+        "干涉": "interference"
+    },
+    {
+        "可互換齒輪組": "interchangeable gear set"
+    },
+    {
+        "智慧型機器人": "intelligent robot"
+    },
+    {
+        "積分控制": "integral control"
+    },
+    {
+        "瞬時速度": "instantaneous velocity"
+    },
+    {
+        "瞬時螺旋軸線": "instantaneous screw axis"
+    },
+    {
+        "瞬時旋轉": "instantaneous rotation"
+    },
+    {
+        "瞬時不變量": "instantaneous invariants"
+    },
+    {
+        "瞬時暫停": "instantaneous dwell"
+    },
+    {
+        "瞬時速度中心": "instantaneous centre/center of velocity"
+    },
+    {
+        "瞬時加速度中心": "instantaneous centre/center of acceleration"
+    },
+    {
+        "瞬心，瞬時中心": "instantaneous centre"
+    },
+    {
+        "瞬時速度中心": "instantaneous center/centre of velocity"
+    },
+    {
+        "瞬時旋轉中心": "instantaneous center/centre of  rotation"
+    },
+    {
+        "瞬心，瞬時中心": "instantaneous center"
+    },
+    {
+        "瞬時旋轉軸線": "instantaneous axis of rotation"
+    },
+    {
+        "瞬時的": "instantaneous"
+    },
+    {
+        "瞬心法": "instant center/centre method"
+    },
+    {
+        "瞬心": "instant center/centre"
+    },
+    {
+        "輸入扭矩": "input torque"
+    },
+    {
+        "輪入桿": "input link"
+    },
+    {
+        "輸入": "input"
+    },
+    {
+        "內機架位置": "inner frame position"
+    },
+    {
+        "內死點位置": "inner dead centre/center position"
+    },
+    {
+        "初張力，初拉力": "initial tension"
+    },
+    {
+        "初始條件": "initial condition"
+    },
+    {
+        "反曲點中心": "inflection pole"
+    },
+    {
+        "反曲點": "inflection point"
+    },
+    {
+        "反曲點曲線（球面）": "inflection curve"
+    },
+    {
+        "反曲點圓": "inflection circle"
+    },
+    {
+        "反曲點中心": "inflection cintre/center"
+    },
+    {
+        "反曲點中心": "inflection center/centre"
+    },
+    {
+        "無窮接近位置": "infinitesimally separated positions"
+    },
+    {
+        "無段解析度": "infinite resolution"
+    },
+    {
+        "慣性坐標系": "inertial system"
+    },
+    {
+        "慣性張量": "inertia tensor"
+    },
+    {
+        "慣性力": "inertia force"
+    },
+    {
+        "慣性力偶": "inertia couple"
+    },
+    {
+        "慣性": "inertia"
+    },
+    {
+        "非彈性衝擊": "inelastic impact"
+    },
+    {
+        "間接接觸": "indirect contact"
+    },
+    {
+        "指示器，示功器": "indicator"
+    },
+    {
+        "分度從動件": "indexing follower"
+    },
+    {
+        "獨立迴路": "independent loop"
+    },
+    {
+        "不完全運動對": "incomplete pair"
+    },
+    {
+        "脈衝力": "impulsive force"
+    },
+    {
+        "脈衝": "impulse"
+    },
+    {
+        "阻抗": "impedance"
+    },
+    {
+        "衝擊力": "impact force"
+    },
+    {
+        "衝擊": "impact"
+    },
+    {
+        "鏡像極心": "image pole"
+    },
+    {
+        "像": "image"
+    },
+    {
+        "惰輪": "idler"
+    },
+    {
+        "惰輪": "idle pulley"
+    },
+    {
+        "惰輪": "idle gear"
+    },
+    {
+        "戟齒輪": "hypoid gear"
+    },
+    {
+        "內擺線": "hypocycloid"
+    },
+    {
+        "內周轉輪系": "hypocyclic epicyclic"
+    },
+    {
+        "靜不定力系": "hyperstatic system"
+    },
+    {
+        "雙曲面齒輪": "hyperboloidal gear"
+    },
+    {
+        "雙曲線機構": "hyperbolic mechanism"
+    },
+    {
+        "內擺線直線運動": "hypcoycloidal straight line motion"
+    },
+    {
+        "追逐齒": "hunting tooth"
+    },
+    {
+        "輪轂": "hub"
+    },
+    {
+        "滴漏形蝸桿": "hourglass worm"
+    },
+    {
+        "萬向接頭，十字接頭": "Hooke's universal joint"
+    },
+    {
+        "Hooke定律": "Hooke's law"
+    },
+    {
+        "十字接頭": "Hooke's joint"
+    },
+    {
+        "鉤節鏈": "hook joint chain"
+    },
+    {
+        "相關位置": "homologous positions"
+    },
+    {
+        "相關點": "homologous points"
+    },
+    {
+        "相關線": "homologous lines"
+    },
+    {
+        "齊次坐標": "homogeneous coordinates"
+    },
+    {
+        "均質體": "homogeneous body"
+    },
+    {
+        "可積分拘束系統": "holonomic system"
+    },
+    {
+        "可積分拘束": "holonomic constraint"
+    },
+    {
+        "可積分的": "holonomic"
+    },
+    {
+        "停駐（機器人）": "hold"
+    },
+    {
+        "起重滑車": "hoisting tackles"
+    },
+    {
+        "滾齒機": "hobbing machine"
+    },
+    {
+        "滾齒刀": "hob"
+    },
+    {
+        "鉸鏈": "hinge"
+    },
+    {
+        "高對": "higher pair"
+    },
+    {
+        "高階合成": "higher order synthesis"
+    },
+    {
+        "高階路徑曲率": "higher order path curvature"
+    },
+    {
+        "高階的": "higher order"
+    },
+    {
+        "非均質體": "heterogeneous body"
+    },
+    {
+        "人字齒輪": "herring-bone gear"
+    },
+    {
+        "螺旋角": "helix angle"
+    },
+    {
+        "螺旋線": "helix"
+    },
+    {
+        "螺旋面": "helicoid"
+    },
+    {
+        "螺旋〔運動〕對": "helical pair"
+    },
+    {
+        "螺旋運動": "helical motion"
+    },
+    {
+        "螺旋齒輪": "helical gear"
+    },
+    {
+        "螺旋的": "helical"
+    },
+    {
+        "心形凸輪": "heart cam"
+    },
+    {
+        "頂端死點位置": "head end dead center/centre position"
+    },
+    {
+        "Hartmann構圖法": "Hartmann construction"
+    },
+    {
+        "諧波振動": "harmonic vibration"
+    },
+    {
+        "調和分析": "harmonic analysis"
+    },
+    {
+        "諧波，調和的": "harmonic"
+    },
+    {
+        "Hamilton原理": "Hamilton's principle"
+    },
+    {
+        "Hamilton變數，正準變數": "Hamiltonian variable"
+    },
+    {
+        "Hamilton函數": "Hamiltonian function"
+    },
+    {
+        "迴轉效應": "gyroscopic effect"
+    },
+    {
+        "迴轉儀": "gyroscope"
+    },
+    {
+        "迴轉效應": "gyro effect"
+    },
+    {
+        "導輪": "guide pulley"
+    },
+    {
+        "導件": "guide"
+    },
+    {
+        "導引機構": "guidance mechanism"
+    },
+    {
+        "Grubler-Kutzbach判別準則（自由度／可動度）": "Grubler-Kutzbach criteria"
+    },
+    {
+        "地，接地": "ground"
+    },
+    {
+        "夾持器": "gripper"
+    },
+    {
+        "柵，格": "grillage"
+    },
+    {
+        "柵，格": "grid"
+    },
+    {
+        "大圓": "great circle"
+    },
+    {
+        "重力": "gravity"
+    },
+    {
+        "重力場": "gravitational field"
+    },
+    {
+        "Grashof定則": "Grashof rule"
+    },
+    {
+        "Grashof雙搖桿": "Grashof double-rocker"
+    },
+    {
+        "Grashof運動鏈": "Grashof chain"
+    },
+    {
+        "圖解法": "graphical method"
+    },
+    {
+        "圖解積分": "graphical integration"
+    },
+    {
+        "圖解微分": "graphical differentiation"
+    },
+    {
+        "圖解的": "graphical"
+    },
+    {
+        "圖論": "graph theory"
+    },
+    {
+        "Graham擒縱器": "Graham escapement"
+    },
+    {
+        "梯度": "gradient"
+    },
+    {
+        "調速器": "governor"
+    },
+    {
+        "隘半徑": "gorge radius"
+    },
+    {
+        "隘圓": "gorge circle"
+    },
+    {
+        "心射圖形": "gnomonic projection"
+    },
+    {
+        "桶狀凸輪": "globoidal cam"
+    },
+    {
+        "幾何拘束": "geometric constraint"
+    },
+    {
+        "測地扭率": "geodetic torsion"
+    },
+    {
+        "測地曲率": "geodetic curvature"
+    },
+    {
+        "日內瓦停止機構": "Geneva stop"
+    },
+    {
+        "日內瓦機構": "Geneva mechanism"
+    },
+    {
+        "日內瓦擒縱器": "Geneva escapement"
+    },
+    {
+        "日內瓦驅動機構": "Geneva drive"
+    },
+    {
+        "演生曲線": "generating curve"
+    },
+    {
+        "演生圓，創成圓": "generating circle"
+    },
+    {
+        "演生": "generating"
+    },
+    {
+        "廣義Oldham聯結器": "generalized Oldham coupling"
+    },
+    {
+        "廣義動量": "generalized momentum"
+    },
+    {
+        "廣義力": "generalized force"
+    },
+    {
+        "廣義坐標": "generalized coordinate"
+    },
+    {
+        "廣義的": "generalized"
+    },
+    {
+        "齒輪嚙合": "gearing"
+    },
+    {
+        "齒輪連桿組": "geared linkage"
+    },
+    {
+        "齒輪五連桿組": "geared five-bar linkage"
+    },
+    {
+        "齒輪傳動": "gear transmission"
+    },
+    {
+        "齒輪系": "gear train"
+    },
+    {
+        "刨齒機": "gear shaper"
+    },
+    {
+        "齒輪組": "gear set"
+    },
+    {
+        "齒輪段": "gear segment"
+    },
+    {
+        "齒輪段": "gear sector"
+    },
+    {
+        "齒輪比": "gear ratio"
+    },
+    {
+        "齒輪對": "gear pair"
+    },
+    {
+        "齒輪機構": "gear mechanism"
+    },
+    {
+        "齒輪毛胚": "gear blank"
+    },
+    {
+        "齒輪切製": "gear  cutting"
+    },
+    {
+        "齒輪": "gear"
+    },
+    {
+        "高架": "gantry"
+    },
+    {
+        "Galileo相對論定律": "Galileo's law of relativity"
+    },
+    {
+        "增益穩定性": "gain stability"
+    },
+    {
+        "增益邊限": "gain margin"
+    },
+    {
+        "增益交越點": "gain crossover"
+    },
+    {
+        "增益": "gain"
+    },
+    {
+        "基本振動": "fundamental vibration"
+    },
+    {
+        "基本模態（振動）": "fundamental mode"
+    },
+    {
+        "齒輪嚙合基本定律": "fundamental law of gearing"
+    },
+    {
+        "基本頻率": "fundamental frequency"
+    },
+    {
+        "基本的": "fundamental"
+    },
+    {
+        "函數機構": "function-generating mechanism"
+    },
+    {
+        "函數機構": "function generator"
+    },
+    {
+        "函數同族連桿組": "function cognates"
+    },
+    {
+        "函數": "function"
+    },
+    {
+        "足尺": "full scale"
+    },
+    {
+        "全深齒": "full depth tooth"
+    },
+    {
+        "鋒": "front"
+    },
+    {
+        "摩擦力": "frictional force"
+    },
+    {
+        "摩擦輪": "friction wheel"
+    },
+    {
+        "摩擦輪傳動": "friction gearing"
+    },
+    {
+        "摩擦傳動": "friction drive"
+    },
+    {
+        "摩擦": "friction"
+    },
+    {
+        "Freudenstein方程式": "Freudenstein equation"
+    },
+    {
+        "調頻訊號": "frequency-modulated signal"
+    },
+    {
+        "頻率響應函數": "frequency response function"
+    },
+    {
+        "頻率": "frequency"
+    },
+    {
+        "自由振動": "free vibration"
+    },
+    {
+        "簡支座": "free support"
+    },
+    {
+        "自由的": "free"
+    },
+    {
+        "桁架，構架": "frame-work"
+    },
+    {
+        "運動坐標之點速度": "frame velocity"
+    },
+    {
+        "運動坐標之運動": "frame motion"
+    },
+    {
+        "運動坐標之點加速度": "frame acceleration"
+    },
+    {
+        "機架，坐標系": "frame"
+    },
+    {
+        "諧波": "Fourier component"
+    },
+    {
+        "四連桿機構": "four-bar mechanism"
+    },
+    {
+        "四連桿組": "four-bar linkage"
+    },
+    {
+        "四連桿組": "four-bar"
+    },
+    {
+        "基座": "foundation"
+    },
+    {
+        "干犯（齒輪）": "fouling"
+    },
+    {
+        "成形銑刀": "formed milling cutter"
+    },
+    {
+        "形閉式運動對": "form-closed pair"
+    },
+    {
+        "虛齒數": "formative number of teeth"
+    },
+    {
+        "前臂，小臂": "forearm"
+    },
+    {
+        "強迫振動": "forced vibration"
+    },
+    {
+        "力閉式運動對": "force-closed pair"
+    },
+    {
+        "力感度（機器人）": "force sense"
+    },
+    {
+        "力多邊形": "force polygon"
+    },
+    {
+        "重力": "force of gravity"
+    },
+    {
+        "力函數": "force function"
+    },
+    {
+        "力線圖": "force diagram"
+    },
+    {
+        "力": "force"
+    },
+    {
+        "定向負載": "follower load"
+    },
+    {
+        "從動件": "follower"
+    },
+    {
+        "焦點": "focus"
+    },
+    {
+        "飛輪": "flywheel"
+    },
+    {
+        "浮桿": "floating link"
+    },
+    {
+        "抗撓剛度": "flexural rigidity"
+    },
+    {
+        "撓曲中心": "flexural centre"
+    },
+    {
+        "撓曲中心": "flexural center"
+    },
+    {
+        "撓曲的": "flexural"
+    },
+    {
+        "撓性件": "flexible member"
+    },
+    {
+        "可撓的": "flexible"
+    },
+    {
+        "可撓性，撓度，順從度": "flexibility"
+    },
+    {
+        "平面〔運動〕對": "flat pair"
+    },
+    {
+        "平面從動件": "flat face follower"
+    },
+    {
+        "平面從動件": "flat face cam follower"
+    },
+    {
+        "平皮帶傳動": "flat belting"
+    },
+    {
+        "平皮帶": "flat belt"
+    },
+    {
+        "平的": "flat"
+    },
+    {
+        "齒腹": "flank"
+    },
+    {
+        "固定停止點機器人": "fixed-stop robot"
+    },
+    {
+        "固定順序機械臂": "fixed-sequence manipulator"
+    },
+    {
+        "定滑輪": "fixed pulley"
+    },
+    {
+        "固定樞軸": "fixed pivot"
+    },
+    {
+        "固定件": "fixed member"
+    },
+    {
+        "固定負載": "fixed load"
+    },
+    {
+        "固定桿": "fixed link"
+    },
+    {
+        "固定極心線，固定瞬心線": "fixed polode"
+    },
+    {
+        "固定極心線，固定瞬心線": "fixed centrode"
+    },
+    {
+        "固定軸線面": "fixed axode"
+    },
+    {
+        "固定的": "fixed"
+    },
+    {
+        "五點暫停": "five-point dwell"
+    },
+    {
+        "有限分離位置": "finitely separated positions"
+    },
+    {
+        "基節〔距〕": "fine pitch"
+    },
+    {
+        "內圓角": "fillet"
+    },
+    {
+        "力場": "field of force"
+    },
+    {
+        "場": "field"
+    },
+    {
+        "Ferguson奇輪": "Ferguson's paradox"
+    },
+    {
+        "Ferguson分度機構": "Ferguson index"
+    },
+    {
+        "回饋元件": "feedback element"
+    },
+    {
+        "回饋": "feedback"
+    },
+    {
+        "回饋控制系統": "feedback control system"
+    },
+    {
+        "進給機構": "feed mechanism"
+    },
+    {
+        "因子，因數": "factor"
+    },
+    {
+        "齒輪厚度": "face width of gear"
+    },
+    {
+        "齒輪厚度": "face width"
+    },
+    {
+        "面齒輪": "face gear"
+    },
+    {
+        "面接觸率": "face contact ratio"
+    },
+    {
+        "面圓錐": "face cone"
+    },
+    {
+        "面凸輪": "face cam"
+    },
+    {
+        "齒面角": "face angle"
+    },
+    {
+        "齒扭距（蝸線傘齒輪）": "face advance"
+    },
+    {
+        "面": "face"
+    },
+    {
+        "極限位置": "extreme position"
+    },
+    {
+        "外齒輪": "external gear"
+    },
+    {
+        "外力": "external force"
+    },
+    {
+        "外部的": "external"
+    },
+    {
+        "連身機器人": "exoskeleton"
+    },
+    {
+        "激勵，激發": "excitation"
+    },
+    {
+        "超額": "excess"
+    },
+    {
+        "漸屈線": "evolute"
+    },
+    {
+        "Evan摩擦圓錐": "Evan's friction cones"
+    },
+    {
+        "Euler-Savary方程式": "Euler-Savary equation"
+    },
+    {
+        "Euler角": "Eulerian angles"
+    },
+    {
+        "擒縱器": "escapement"
+    },
+    {
+        "擒縱輪": "escape wheel"
+    },
+    {
+        "誤差訊號比": "error signal ratio"
+    },
+    {
+        "誤差訊號": "error signal"
+    },
+    {
+        "誤差": "error"
+    },
+    {
+        "遍歷性程序": "ergodic process"
+    },
+    {
+        "等值黏性阻尼": "equivalent viscous damping"
+    },
+    {
+        "等效慣性矩": "equivalent moment of inertia"
+    },
+    {
+        "等效力矩": "equivalent moment"
+    },
+    {
+        "等效機構": "equivalent mechanism"
+    },
+    {
+        "機構之等效質量": "equivalent mass of a mechanism"
+    },
+    {
+        "等效連桿組": "equivalent linkage"
+    },
+    {
+        "等效瞬時四連桿組": "equivalent instantaneous four-bar"
+    },
+    {
+        "等效力系": "equivalent force system"
+    },
+    {
+        "等效力": "equivalent force"
+    },
+    {
+        "棒之等效屈曲長度": "equivalent buckling length of a bar"
+    },
+    {
+        "等效的，等值的，當量": "equivalent"
+    },
+    {
+        "平衡構形，平衡組態": "equilibrium configuration"
+    },
+    {
+        "平衡": "equilibrium"
+    },
+    {
+        "赤道曲線": "equatorial curve"
+    },
+    {
+        "平衡方程式組": "equations of equilibrium"
+    },
+    {
+        "等塔輪組": "equal stepped pulleys"
+    },
+    {
+        "等曲柄連桿組": "equal crank linkage"
+    },
+    {
+        "外擺線": "epicycloid"
+    },
+    {
+        "周轉值": "epicyclic value"
+    },
+    {
+        "周轉齒輪系，行星齒輪系": "epicyclic gear train"
+    },
+    {
+        "周轉齒輪，行星齒輪": "epicyclic gear"
+    },
+    {
+        "周轉的，外周轉的": "epicyclic"
+    },
+    {
+        "包絡線法": "envelope method"
+    },
+    {
+        "包絡線方程式": "envelope equation"
+    },
+    {
+        "包絡線，包烙面": "envelope"
+    },
+    {
+        "應變": "engineering strain"
+    },
+    {
+        "發動機，引擎": "engine"
+    },
+    {
+        "能量": "energy"
+    },
+    {
+        "無端皮帶": "endless belt"
+    },
+    {
+        "端接器": "end-effector"
+    },
+    {
+        "端凸輪": "end cam"
+    },
+    {
+        "橢圓規": "elliptic trammel"
+    },
+    {
+        "橢圓機構": "elliptic mechanism"
+    },
+    {
+        "橢圓齒輪": "elliptic gear"
+    },
+    {
+        "製橢圓用夾頭": "elliptic chuck"
+    },
+    {
+        "橢圓的": "elliptic"
+    },
+    {
+        "慣性橢球面": "ellipsoid of inertia"
+    },
+    {
+        "橢球體，橢球面": "ellipsoid"
+    },
+    {
+        "橢圓規": "ellipsograph"
+    },
+    {
+        "橢圓": "ellipse"
+    },
+    {
+        "1.仰角 ； 2.高度": "elevation"
+    },
+    {
+        "基本功": "elementary work"
+    },
+    {
+        "元件": "element"
+    },
+    {
+        "肘關節": "elbow"
+    },
+    {
+        "彈性": "elasticity"
+    },
+    {
+        "彈性支座": "elastic support"
+    },
+    {
+        "彈性應變": "elastic strain"
+    },
+    {
+        "彈性軸線": "elastic line"
+    },
+    {
+        "彈性衝擊": "elastic impact"
+    },
+    {
+        "彈性遲滯": "elastic hysteresis"
+    },
+    {
+        "彈性基座": "elastic foundation"
+    },
+    {
+        "彈性力": "elastic force"
+    },
+    {
+        "彈性變形": "elastic deformation"
+    },
+    {
+        "彈性體": "elastic body"
+    },
+    {
+        "彈性軸線": "elastic axis"
+    },
+    {
+        "彈性的": "elastic"
+    },
+    {
+        "固有模態（振動）": "eigen-mode"
+    },
+    {
+        "效率": "efficiency"
+    },
+    {
+        "有效拉力": "effective pull"
+    },
+    {
+        "有效壓力角": "effective pressure angle"
+    },
+    {
+        "有效功力": "effective power"
+    },
+    {
+        "有效力": "effective force"
+    },
+    {
+        "有效的": "effective"
+    },
+    {
+        "有效直徑": "effective diameter"
+    },
+    {
+        "效應": "effect"
+    },
+    {
+        "偏心距": "eccentricity"
+    },
+    {
+        "偏心確動凸輪": "eccentric positive return cam"
+    },
+    {
+        "偏心衝擊": "eccentric impact"
+    },
+    {
+        "偏心的，偏心輪": "eccentric"
+    },
+    {
+        "機器動力學": "dynamics of machinery"
+    },
+    {
+        "動力學": "dynamics"
+    },
+    {
+        "動態剛性": "dynamic stiffness"
+    },
+    {
+        "動態剛性": "dynamic spring constant"
+    },
+    {
+        "動態負載": "dynamic load"
+    },
+    {
+        "動態誤差帶": "dynamic error band"
+    },
+    {
+        "旋轉體之動態平衡": "dynamic balance of rotating body"
+    },
+    {
+        "動態均衡，動 〔態〕 平衡": "dynamic balance"
+    },
+    {
+        "動力的，動態的": "dynamic"
+    },
+    {
+        "雙連桿": "dyad"
+    },
+    {
+        "暫停機構": "dwell mechanism"
+    },
+    {
+        "暫停": "dwell"
+    },
+    {
+        "對偶性": "duality"
+    },
+    {
+        "雙向量": "dual vector"
+    },
+    {
+        "雙量": "dual quantity"
+    },
+    {
+        "雙量之雙部": "dual part of dual quantity"
+    },
+    {
+        "雙數": "dual numbert"
+    },
+    {
+        "雙角": "dual angle"
+    },
+    {
+        "1.雙的 2.對偶": "dual"
+    },
+    {
+        "鼓狀凸輪": "drum cam"
+    },
+    {
+        "絞盤，鼓輪，圓筒": "drum"
+    },
+    {
+        "直接速度響應（振動）": "driving-point mobility"
+    },
+    {
+        "主動輪": "driving wheel"
+    },
+    {
+        "主動桿": "driving link"
+    },
+    {
+        "主動的": "driving"
+    },
+    {
+        "主動件": "driver"
+    },
+    {
+        "從動輪": "driven wheel"
+    },
+    {
+        "從動軸": "driven shaft"
+    },
+    {
+        "從動桿": "driven link"
+    },
+    {
+        "從動的": "driven"
+    },
+    {
+        "主動軸，驅動軸": "drive shaft"
+    },
+    {
+        "主動，驅動": "drive"
+    },
+    {
+        "漂移": "drift"
+    },
+    {
+        "牽桿機構": "drag-link mechanism"
+    },
+    {
+        "牽桿機構": "drag-link"
+    },
+    {
+        "雙滑件機構": "double-slider mechanism"
+    },
+    {
+        "雙搖桿機構": "double-rocker"
+    },
+    {
+        "雙搖桿機構": "double-rocker mechanism"
+    },
+    {
+        "人字齒輪": "double-helical gear"
+    },
+    {
+        "雙曲柄機構": "double-crank mechanism"
+    },
+    {
+        "雙螺紋": "double thread"
+    },
+    {
+        "雙滑件曲柄機構": "double slider-crank mechanism"
+    },
+    {
+        "二重點": "double point"
+    },
+    {
+        "雙擺": "double pendulum"
+    },
+    {
+        "雙十字接頭": "double Hooke's joint"
+    },
+    {
+        "雙動掣子": "double acting click"
+    },
+    {
+        "雙的": "double"
+    },
+    {
+        "分布負載，連續負載": "distributed load"
+    },
+    {
+        "分布力，連續力": "distributed force"
+    },
+    {
+        "分布的": "distributed"
+    },
+    {
+        "距離": "distance"
+    },
+    {
+        "末端": "distal"
+    },
+    {
+        "散逸力": "dissipative force"
+    },
+    {
+        "散逸函數": "dissipation function"
+    },
+    {
+        "散逸": "dissipation"
+    },
+    {
+        "位移訊號轉換器": "displacement transducer"
+    },
+    {
+        "位移矩陣": "displacement matrix"
+    },
+    {
+        "位移方程式": "displacement equation"
+    },
+    {
+        "位移": "displacement"
+    },
+    {
+        "位移線圖": "displacement diagram"
+    },
+    {
+        "圓盤摩擦輪": "disk friction wheel"
+    },
+    {
+        "平板凸輪，盤形凸輪": "disk cam"
+    },
+    {
+        "圓盤": "disk"
+    },
+    {
+        "離散系統，集塊參數系統": "discrete system"
+    },
+    {
+        "平板凸輪": "disc cam"
+    },
+    {
+        "方向": "direction"
+    },
+    {
+        "正向計算（機器人）": "direct task"
+    },
+    {
+        "正應變": "direct strain"
+    },
+    {
+        "直接位移響應（振動）": "direct receptance"
+    },
+    {
+        "直接速度響應（振動）": "direct mobility"
+    },
+    {
+        "直接碰撞，直接衝擊": "direct impact"
+    },
+    {
+        "直接接觸": "direct contact"
+    },
+    {
+        "直接的": "direct"
+    },
+    {
+        "尺度合成": "dimensional synthesis"
+    },
+    {
+        "差動絞盤": "differential windlass"
+    },
+    {
+        "差動傳動": "differential transmission"
+    },
+    {
+        "差動螺旋": "differential screw"
+    },
+    {
+        "差動機構": "differential mechanism"
+    },
+    {
+        "微分拘束": "differential constraint"
+    },
+    {
+        "微分的，差動的": "differential"
+    },
+    {
+        "徑平面": "diametral plane"
+    },
+    {
+        "徑節": "diametral pitch"
+    },
+    {
+        "直徑": "diameter"
+    },
+    {
+        "圖，線圖": "diagram"
+    },
+    {
+        "裝置": "device"
+    },
+    {
+        "展開曲面": "developed surface"
+    },
+    {
+        "變諧器": "detuner"
+    },
+    {
+        "可定力": "deterministic force"
+    },
+    {
+        "掣子": "detent"
+    },
+    {
+        "活鉤鏈": "detachable chain"
+    },
+    {
+        "演生點": "describing point"
+    },
+    {
+        "演生圓": "describing circle"
+    },
+    {
+        "微分控制": "derivative control"
+    },
+    {
+        "密度": "density"
+    },
+    {
+        "遲延": "delay"
+    },
+    {
+        "機構之自由度": "degree of freedom of a mechanism"
+    },
+    {
+        "運動對之自由度": "degree of freedom of a kinematic pair"
+    },
+    {
+        "運動鏈之自由度": "degree of freedom of a kinematic chain"
+    },
+    {
+        "自由度，可動度": "degree of freedom"
+    },
+    {
+        "拘束度": "degree of constraint"
+    },
+    {
+        "度，次": "degree"
+    },
+    {
+        "變形": "deformation"
+    },
+    {
+        "板之撓曲，板之變位": "deflection of plate"
+    },
+    {
+        "梁之撓曲，梁之變位": "deflection of beam"
+    },
+    {
+        "板之撓曲，板之變位": "deflection of a plate"
+    },
+    {
+        "梁之撓曲，梁之變位": "deflection of a beam"
+    },
+    {
+        "撓曲，變位": "deflection"
+    },
+    {
+        "齒根圓": "dedendum circle"
+    },
+    {
+        "齒根角": "dedendum angle"
+    },
+    {
+        "齒根": "dedendum"
+    },
+    {
+        "衰變，衰減": "decay"
+    },
+    {
+        "死點": "dead point"
+    },
+    {
+        "固定負載": "dead load"
+    },
+    {
+        "死點位置": "dead center/centre position"
+    },
+    {
+        "無幌擒縱器": "dead beat escapement"
+    },
+    {
+        "死帶": "dead band"
+    },
+    {
+        "減振比": "damping ratio"
+    },
+    {
+        "阻尼係數": "damping coefficient"
+    },
+    {
+        "阻尼": "damping"
+    },
+    {
+        "阻尼器": "damper"
+    },
+    {
+        "d'Alembert 原理": "d'Alembert's principle"
+    },
+    {
+        "慣性力": "d'Alembert force"
+    },
+    {
+        "慣性力偶": "d'Alembert couple"
+    },
+    {
+        "圓筒殼（力學）": "cylindrical shell"
+    },
+    {
+        "圓柱〔運動〕對": "cylindrical pair"
+    },
+    {
+        "圓柱齒輪": "cylindrical gear"
+    },
+    {
+        "圓柱形摩擦輪": "cylindrical friction wheel"
+    },
+    {
+        "圓柱坐標機器人": "cylindrical coordinate robot"
+    },
+    {
+        "圓柱凸輪": "cylindrical cam"
+    },
+    {
+        "圓柱形的": "cylindrical"
+    },
+    {
+        "圓柱形擒縱器": "cylinder escapement"
+    },
+    {
+        "圓柱": "cylinder"
+    },
+    {
+        "擺線運動": "cycloidal motion"
+    },
+    {
+        "擺線齒輪": "cycloidal gear"
+    },
+    {
+        "擺線": "cycloid/cycloidal curve"
+    },
+    {
+        "可省略坐標": "cyclic ignorable coordinate"
+    },
+    {
+        "機器之循環效率": "cyclic efficiency of machine"
+    },
+    {
+        "機器之循環效率": "cyclic efficiency of a machine"
+    },
+    {
+        "可省略坐標": "cyclic coordinate"
+    },
+    {
+        "循環的": "cyclic"
+    },
+    {
+        "循環": "cycle"
+    },
+    {
+        "切削行程": "cutting stroke"
+    },
+    {
+        "切削角": "cutting angle"
+    },
+    {
+        "切桿，剪切桿": "cut-link"
+    },
+    {
+        "尖點圓": "cusp circle"
+    },
+    {
+        "尖點": "cusp"
+    },
+    {
+        "曲線運動": "curvilinear motion"
+    },
+    {
+        "曲面從動件": "curved face cam follower"
+    },
+    {
+        "曲棒": "curved bar"
+    },
+    {
+        "曲線族": "curve family"
+    },
+    {
+        "曲線同族連桿組": "curve cognates"
+    },
+    {
+        "曲線": "curve"
+    },
+    {
+        "曲率": "curvature"
+    },
+    {
+        "短次擺線": "curtate trochoid"
+    },
+    {
+        "三次樣條曲線": "cubic spline"
+    },
+    {
+        "瞬時圓周點曲線／具穩定曲率之三次曲線": "cubic of stationary curvature"
+    },
+    {
+        "三次曲線": "cubic curve"
+    },
+    {
+        "三次的，三次曲線": "cubic"
+    },
+    {
+        "皮帶輪面的隆起": "crowning of pulley"
+    },
+    {
+        "隆面皮帶輪": "crowned pulley"
+    },
+    {
+        "冠齒輪": "crown gear"
+    },
+    {
+        "交叉滑件": "cross-slider"
+    },
+    {
+        "交越": "crossover"
+    },
+    {
+        "十字頭": "crosshead"
+    },
+    {
+        "交錯螺旋齒輪": "crossed helical gear"
+    },
+    {
+        "交叉皮帶": "crossed belt"
+    },
+    {
+        "交叉的，交錯的": "crossed"
+    },
+    {
+        "交叉位移響應（振動）": "cross receptance"
+    },
+    {
+        "臨界速率": "critical speed"
+    },
+    {
+        "臨界負載": "critical load"
+    },
+    {
+        "臨界力": "critical force"
+    },
+    {
+        "臨界阻尼": "critical damping"
+    },
+    {
+        "臨界的": "critical"
+    },
+    {
+        "月牙形鏈": "crescent chain"
+    },
+    {
+        "潛變": "creep"
+    },
+    {
+        "曲柄齒輪暫停機構（球面）": "crank-gear dwell mechanism"
+    },
+    {
+        "曲柄搖桿機構/曲柄搖桿": "crank-and-rocker mechanism/crank-rocker"
+    },
+    {
+        "曲柄搖桿機構": "crank-and-rocker mechanism"
+    },
+    {
+        "曲柄端死點位置": "crank end dead center/centre position"
+    },
+    {
+        "曲柄": "crank"
+    },
+    {
+        "聯結器，聯軸器": "coupling"
+    },
+    {
+        "耦桿點": "coupler point"
+    },
+    {
+        "耦桿": "coupler link"
+    },
+    {
+        "耦桿暫停機構": "coupler dwell mechanism"
+    },
+    {
+        "耦桿點曲線": "coupler point curve"
+    },
+    {
+        "耦桿點曲線": "coupler curve"
+    },
+    {
+        "耦桿同族連桿組": "coupler cognates"
+    },
+    {
+        "耦桿": "coupler"
+    },
+    {
+        "耦合模態（振動）": "coupled modes"
+    },
+    {
+        "力偶": "couple"
+    },
+    {
+        "對軸，副軸，中間軸": "counter shaft"
+    },
+    {
+        "相關位置": "correlated positions"
+    },
+    {
+        "相關點": "correlated points"
+    },
+    {
+        "相關線": "correlated lines"
+    },
+    {
+        "相關的": "correlated"
+    },
+    {
+        "Coriolis力": "Coriolis force"
+    },
+    {
+        "Coriolis加速度": "Coriolis acceleration"
+    },
+    {
+        "繩，索": "cord"
+    },
+    {
+        "共面系統": "coplanar system"
+    },
+    {
+        "共面力系": "coplanar force system"
+    },
+    {
+        "共面": "coplanar"
+    },
+    {
+        "坐標系": "coordinate system"
+    },
+    {
+        "坐標": "coordinate"
+    },
+    {
+        "輸送鏈": "conveyor chain"
+    },
+    {
+        "控制器": "controller"
+    },
+    {
+        "控制變數": "controlled variable"
+    },
+    {
+        "控制比，閉迴路諧波響應": "control ratio"
+    },
+    {
+        "控制元件": "control element"
+    },
+    {
+        "控制": "control"
+    },
+    {
+        "連體": "continuum"
+    },
+    {
+        "連續路徑控制": "continuous-path control"
+    },
+    {
+        "無段變速器": "continuous variable speed transmission"
+    },
+    {
+        "無段變速": "continuous variable speed"
+    },
+    {
+        "連續系統（連體）": "continuous system (continuum)"
+    },
+    {
+        "連續系統": "continuous system"
+    },
+    {
+        "連續運動": "continuous motion"
+    },
+    {
+        "連續負載，分布負載": "continuous load"
+    },
+    {
+        "連續力，分布力": "continuous force"
+    },
+    {
+        "連續梁": "continuous beam"
+    },
+    {
+        "連續的": "continuous"
+    },
+    {
+        "切線角": "contingence angle"
+    },
+    {
+        "接觸率": "contact ratio"
+    },
+    {
+        "接觸線長度": "contact length"
+    },
+    {
+        "接觸": "contact"
+    },
+    {
+        "拘束": "constraint"
+    },
+    {
+        "拘束運動": "constrained motion"
+    },
+    {
+        "拘束運動鏈": "constrained kinematic chain"
+    },
+    {
+        "拘束的": "constrained"
+    },
+    {
+        "等速曲線（球面）": "constant speed curve"
+    },
+    {
+        "定徑凸輪": "constant diameter cam"
+    },
+    {
+        "定寬凸輪": "constant breadth cam"
+    },
+    {
+        "不變（的）": "constant"
+    },
+    {
+        "守恆力，保守力": "conservative force"
+    },
+    {
+        "守恆力場": "conservative field of force"
+    },
+    {
+        "守恆的": "conservative"
+    },
+    {
+        "守恆": "conservation"
+    },
+    {
+        "運動對之自由度": "connectivity of kinematic pair"
+    },
+    {
+        "運動對之自由度": "connectivity of a kinematic pair"
+    },
+    {
+        "聯接軸": "connecting shaft"
+    },
+    {
+        "聯接桿": "connecting rod"
+    },
+    {
+        "聯接桿，耦桿": "connecting link"
+    },
+    {
+        "共軛位置": "conjugate position"
+    },
+    {
+        "共軛曲線": "conjugate curves"
+    },
+    {
+        "共軛曲線": "conjugate curve"
+    },
+    {
+        "共軛作用": "conjugate action"
+    },
+    {
+        "共軛的": "conjugate"
+    },
+    {
+        "錐形齒輪": "conical gear"
+    },
+    {
+        "錐形摩擦輪": "conical friction wheel"
+    },
+    {
+        "錐形凸輪": "conical cam"
+    },
+    {
+        "錐形的": "conical"
+    },
+    {
+        "圓錐曲線點曲線": "conic section point curve"
+    },
+    {
+        "構形，組態": "configuration"
+    },
+    {
+        "圓錐輪": "cone pulley"
+    },
+    {
+        "摩擦力圓錐": "cone of friction"
+    },
+    {
+        "圓錐距離": "cone distance"
+    },
+    {
+        "圓錐": "cone"
+    },
+    {
+        "條件": "condition"
+    },
+    {
+        "共點力系": "concurrent force system"
+    },
+    {
+        "集中力": "concentrated force"
+    },
+    {
+        "隱藏運動": "concealed motion"
+    },
+    {
+        "壓縮機": "compressor"
+    },
+    {
+        "壓縮力": "compressive force"
+    },
+    {
+        "壓縮波，應力波": "compression wave"
+    },
+    {
+        "壓縮期": "compression period"
+    },
+    {
+        "壓縮件": "compression member"
+    },
+    {
+        "壓縮": "compression"
+    },
+    {
+        "複式螺旋": "compound screw"
+    },
+    {
+        "複擺": "compound pendulum"
+    },
+    {
+        "複系齒輪系": "compound gear train"
+    },
+    {
+        "複式齒輪": "compound  gear"
+    },
+    {
+        "複式": "compound"
+    },
+    {
+        "分量": "component"
+    },
+    {
+        "順從性": "compliance"
+    },
+    {
+        "1.複數響應；2.阻尼線性系統之諧波響應": "complex response"
+    },
+    {
+        "複數": "complex number"
+    },
+    {
+        "複合連桿機構": "complex linkage mechanism"
+    },
+    {
+        "複數激勵，複數激發": "complex excitation"
+    },
+    {
+        "複數": "complex"
+    },
+    {
+        "相容方程式": "compatibility equation"
+    },
+    {
+        "柱": "column"
+    },
+    {
+        "指令": "command"
+    },
+    {
+        "Columb摩擦": "Columb friction"
+    },
+    {
+        "直射大圓（球面）": "collineation great circle"
+    },
+    {
+        "直射軸線": "collineation axis"
+    },
+    {
+        "軸環": "collar"
+    },
+    {
+        "套環鏈": "coil chain"
+    },
+    {
+        "同族機構": "cognate mechanism"
+    },
+    {
+        "同族連桿組": "cognate linkages"
+    },
+    {
+        "同族的": "cognate"
+    },
+    {
+        "靜摩擦係數": "coefficient of static friction"
+    },
+    {
+        "恢復係數": "coefficient of restitution"
+    },
+    {
+        "齒廓移位係數": "coefficient of profile shifting"
+    },
+    {
+        "不等速運動係數": "coefficient of non-uniformity of motion"
+    },
+    {
+        "動摩擦係數": "coefficient of kinetic friction"
+    },
+    {
+        "摩擦係數": "coefficient of friction"
+    },
+    {
+        "係數": "coefficient"
+    },
+    {
+        "粗牙（螺紋），粗齒（齒輪）徑節": "coarse pitch"
+    },
+    {
+        "離合器": "clutch"
+    },
+    {
+        "運動對之閉合": "closure of kinematic pair"
+    },
+    {
+        "運動對之閉合": "closure of a kinematic pair"
+    },
+    {
+        "閉迴路控制系統": "close-loop control system"
+    },
+    {
+        "控制比，閉迴路諧波響應": "closed-loop harmonic response"
+    },
+    {
+        "閉迴路控制系統": "closed-loop control system"
+    },
+    {
+        "閉迴路控制": "closed-loop control"
+    },
+    {
+        "閉迴路": "closed-loop"
+    },
+    {
+        "閉合解": "closed-form solution"
+    },
+    {
+        "球面閉曲線": "closed spherical curve"
+    },
+    {
+        "閉運動鏈，封閉運動鏈": "closed kinematic chain"
+    },
+    {
+        "閉曲線，封閉曲線": "closed curve"
+    },
+    {
+        "閉鏈，封閉鏈": "closed chain"
+    },
+    {
+        "緊節鏈": "close joint chain"
+    },
+    {
+        "底隙圓": "clearance circle"
+    },
+    {
+        "掣子，扣夾": "click"
+    },
+    {
+        "間隙，餘隙，底隙": "clearance"
+    },
+    {
+        "類": "class"
+    },
+    {
+        "圓點四次曲線": "circular quartic"
+    },
+    {
+        "圓點": "circular point"
+    },
+    {
+        "周節": "circular pitch"
+    },
+    {
+        "圓周運動": "circular motion"
+    },
+    {
+        "圓點曲線": "circular curve"
+    },
+    {
+        "圓點三次曲線": "circular cubic"
+    },
+    {
+        "圓弧確動凸輪": "circular arc cam"
+    },
+    {
+        "瞬時圓周點曲線": "circling-point curve"
+    },
+    {
+        "圓周點曲線": "circle-point curve"
+    },
+    {
+        "圓周點圓": "circle-point circle"
+    },
+    {
+        "圓周點": "circle-point"
+    },
+    {
+        "圓周點": "circle point"
+    },
+    {
+        "曲率圓": "circle of curvature"
+    },
+    {
+        "圓": "circle"
+    },
+    {
+        "精密時計擒縱器": "chronometer escapement"
+    },
+    {
+        "鉻鞣製皮帶": "chrome-tanned belt"
+    },
+    {
+        "弦線作用": "chordal action"
+    },
+    {
+        "精確點之Chebyshev分佈": "Chebyshev spacing of precision points"
+    },
+    {
+        "Chebyshev多項式": "Chebyshev polynomial"
+    },
+    {
+        "Chebyshev極小極大原理": "Chebyshev minimax theorem"
+    },
+    {
+        "特徵數，示性數": "characteristic number"
+    },
+    {
+        "特徵模態，固有模態": "characteristic mode"
+    },
+    {
+        "特徵的": "characteristic"
+    },
+    {
+        "可變構機構": "change point mechanism"
+    },
+    {
+        "變構點": "change point"
+    },
+    {
+        "緊鏈器": "chain tightener"
+    },
+    {
+        "緊鏈器": "chain tensioner"
+    },
+    {
+        "鏈節〔距〕": "chain pitch"
+    },
+    {
+        "鏈吊車": "chain hoist"
+    },
+    {
+        "鏈條傳動": "chain drive"
+    },
+    {
+        "鏈，鏈條": "chain"
+    },
+    {
+        "形心": "centroid"
+    },
+    {
+        "極心線切線，瞬心線切線": "centrode tangent"
+    },
+    {
+        "極心線，瞬心線": "centrode"
+    },
+    {
+        "瞬心多邊形": "centro polygon"
+    },
+    {
+        "極心，瞬心": "centro"
+    },
+    {
+        "向心力": "centripetal force"
+    },
+    {
+        "向心加速度": "centripetal acceleration"
+    },
+    {
+        "向心的": "centripetal"
+    },
+    {
+        "瞬時圓心點曲線": "centring-point/centering-point curve"
+    },
+    {
+        "離心力": "centrifugal force"
+    },
+    {
+        "離心加速度": "centrifugal acceleration"
+    },
+    {
+        "圓心點曲線": "centre-point/center-point curve"
+    },
+    {
+        "圓心點圓": "centre-point/center-point circle"
+    },
+    {
+        "圓心點": "centre-point/center-point"
+    },
+    {
+        "圓心點": "centre/center point"
+    },
+    {
+        "扭轉中心": "centre/center of twist"
+    },
+    {
+        "質量中心，質心": "centre of mass"
+    },
+    {
+        "重心": "centre of gravity / center of gravity"
+    },
+    {
+        "中央搖塊連桿組": "central swinging block linkage"
+    },
+    {
+        "心央滑件曲柄機構": "central slider-crank mechanism"
+    },
+    {
+        "中央滑件曲柄機構": "central slider-crank"
+    },
+    {
+        "中央擺動汽缸連桿組": "central oscillating cylinder linkage"
+    },
+    {
+        "中心運動": "central motion"
+    },
+    {
+        "中心碰撞，中心衝擊": "central impact"
+    },
+    {
+        "中心力": "central force"
+    },
+    {
+        "質心慣性橢球面": "central ellipsoid of inertia"
+    },
+    {
+        "中央曲線（球面）": "central curve"
+    },
+    {
+        "中央曲柄搖桿": "central crank-rocker"
+    },
+    {
+        "中央曲柄搖桿": "central crank"
+    },
+    {
+        "中心軸線": "central axis"
+    },
+    {
+        "中心的": "central"
+    },
+    {
+        "瞬時圓心點曲線": "centering-point/centring-point curve"
+    },
+    {
+        "瞬時圓心點曲線": "centering-point curve"
+    },
+    {
+        "扭轉中心": "center/centre of twist"
+    },
+    {
+        "撞心，撞擊中心": "center/centre of percussion"
+    },
+    {
+        "質心，質量中心": "center/centre of mass"
+    },
+    {
+        "重心": "center/centre of gravity"
+    },
+    {
+        "中心距": "center/centre distance"
+    },
+    {
+        "中心": "center/centre"
+    },
+    {
+        "直角坐標空間": "Cartesian space"
+    },
+    {
+        "直角坐標系": "Cartesian rectangular coordinate system"
+    },
+    {
+        "直角坐標機器人": "Cartesian coordinate robot"
+    },
+    {
+        "Carter-Hall圓": "Carter-Hall circle"
+    },
+    {
+        "行星〔托〕架": "carrier"
+    },
+    {
+        "心臟線運動": "cardioid motion"
+    },
+    {
+        "心臟線": "cardioid"
+    },
+    {
+        "主點": "cardinal point"
+    },
+    {
+        "主線": "cardinal line"
+    },
+    {
+        "Cardan軸": "Cardan shaft"
+    },
+    {
+        "Cardan位置": "Cardan position"
+    },
+    {
+        "Cardan萬向接頭": "Cardan joint"
+    },
+    {
+        "Cardan圓組": "Cardan circles"
+    },
+    {
+        "Cardan圓組": "Cardan circle pair"
+    },
+    {
+        "懸臂梁": "cantilever beam"
+    },
+    {
+        "正準變數": "canonical variable"
+    },
+    {
+        "正準坐標系，正則坐標系": "canonical system"
+    },
+    {
+        "凸輪軸": "camshaft"
+    },
+    {
+        "凸輪連桿機構": "cam-linkage mechanism"
+    },
+    {
+        "凸輪輪廓": "cam profile"
+    },
+    {
+        "凸輪對": "cam pair"
+    },
+    {
+        "凸輪機構": "cam mechanism"
+    },
+    {
+        "凸輪從動件": "cam follower"
+    },
+    {
+        "凸輪腹": "cam flank"
+    },
+    {
+        "凸輪，轗": "cam"
+    },
+    {
+        "索，纜": "cable"
+    },
+    {
+        "套筒鏈": "bushing chain"
+    },
+    {
+        "Burmester點組": "Burmester point-pair"
+    },
+    {
+        "Burmester點": "Burmester point"
+    },
+    {
+        "Burmester曲線": "Burmester curves"
+    },
+    {
+        "Burmester圓心點": "Burmester centre/center"
+    },
+    {
+        "板之皺曲": "buckling of plate"
+    },
+    {
+        "棒之屈曲": "buckling of bar"
+    },
+    {
+        "板之皺曲": "buckling of a plate"
+    },
+    {
+        "棒之屈曲": "buckling of a bar"
+    },
+    {
+        "屈曲，皺曲，側潰": "buckling"
+    },
+    {
+        "Bresse圓": "Bresse's circles"
+    },
+    {
+        "切線圓": "Bresse normal circle"
+    },
+    {
+        "分解": "break-ups"
+    },
+    {
+        "邊界條件": "boundary condition"
+    },
+    {
+        "齒底": "bottom land"
+    },
+    {
+        "物體力": "body force"
+    },
+    {
+        "Bobillier構圖法": "Bobillier construction"
+    },
+    {
+        "塊環鏈": "block chain"
+    },
+    {
+        "雙切線": "bitangent"
+    },
+    {
+        "雙極坐標": "bipolar coordinates"
+    },
+    {
+        "雙接頭桿": "binary link"
+    },
+    {
+        "等力主從式機械臂": "bilateral manipulator"
+    },
+    {
+        "雙向拘束，可逆拘束": "bilateral constraint"
+    },
+    {
+        "兩段式耦桿點曲線": "bicursal coupler curve"
+    },
+    {
+        "二重圓點曲線": "bicircular curve"
+    },
+    {
+        "偏差值，預設值": "bias"
+    },
+    {
+        "傘齒輪差速器": "bevel gear differential"
+    },
+    {
+        "傘齒輪": "bevel gear"
+    },
+    {
+        "抗彎剛性，抗彎勁度": "bending stiffness"
+    },
+    {
+        "彎曲力矩": "bending moment"
+    },
+    {
+        "彎曲": "bending"
+    },
+    {
+        "皮帶": "belt"
+    },
+    {
+        "皮帶傳動": "belting"
+    },
+    {
+        "雙臂曲柄桿": "bell crank lever"
+    },
+    {
+        "拍（振動）": "beat"
+    },
+    {
+        "接頭力，軸承力": "bearing force"
+    },
+    {
+        "軸承": "bearing"
+    },
+    {
+        "梁": "beam"
+    },
+    {
+        "鳥嘴狀尖點": "beak cusp"
+    },
+    {
+        "基準齒條": "basic rack"
+    },
+    {
+        "基本極心": "basic pole"
+    },
+    {
+        "基點": "base point"
+    },
+    {
+        "基節": "base pitch"
+    },
+    {
+        "基圓柱面": "base cylinder"
+    },
+    {
+        "基曲線": "base curve"
+    },
+    {
+        "基座坐標系": "base coordinate system"
+    },
+    {
+        "凸輪的基圓": "base circle of cam"
+    },
+    {
+        "漸開線的基圓": "base circle of an involute"
+    },
+    {
+        "基圓": "base circle"
+    },
+    {
+        "基座，機座，底座": "base"
+    },
+    {
+        "圓桶凸輪": "barrel cam"
+    },
+    {
+        "桿，棒": "bar"
+    },
+    {
+        "頻寬": "bandwidth"
+    },
+    {
+        "帶": "band"
+    },
+    {
+        "滾珠螺桿": "ball screw"
+    },
+    {
+        "Ball點": "Ball point"
+    },
+    {
+        "Ball曲線": "Ball curve"
+    },
+    {
+        "Ball圓心點": "Ball centre/center"
+    },
+    {
+        "均衡，平衡": "balancing"
+    },
+    {
+        "已均衡機構，已平衡機構": "balanced mechanism"
+    },
+    {
+        "均衡，平衡": "balance"
+    },
+    {
+        "背隙": "backlash"
+    },
+    {
+        "背齒輪": "back gear"
+    },
+    {
+        "背圓錐半徑": "back cone radius"
+    },
+    {
+        "背圓錐距離": "back cone distance"
+    },
+    {
+        "背圓錐": "back cone"
+    },
+    {
+        "背圓錐距離（齒輪）": "back component"
+    },
+    {
+        "方位角": "azimuth"
+    },
+    {
+        "軸線面": "axode"
+    },
+    {
+        "對稱軸線": "axis of symmetry"
+    },
+    {
+        "旋轉軸線": "axis of rotation"
+    },
+    {
+        "軸線": "axis"
+    },
+    {
+        "軸向推力": "axial thrust"
+    },
+    {
+        "軸向拉力": "axial tension"
+    },
+    {
+        "軸向節距": "axial pitch"
+    },
+    {
+        "軸向力": "axial force"
+    },
+    {
+        "軸向": "axial"
+    },
+    {
+        "軸線": "axes"
+    },
+    {
+        "平均 〔的〕": "average"
+    },
+    {
+        "自動變速器，自排變速箱（車輛）": "automatic transmission"
+    },
+    {
+        "自動控制器": "automatic controller"
+    },
+    {
+        "自動控制系統": "automatic control system"
+    },
+    {
+        "自動 〔的〕": "automatic"
+    },
+    {
+        "衰減": "attenuation"
+    },
+    {
+        "漸近線": "asymptote"
+    },
+    {
+        "Assur群": "Assur group"
+    },
+    {
+        "組合位置": "assembly position"
+    },
+    {
+        "Aronhold-Kennedy定理，三心定理": "Aronhold-Kennedy theorem"
+    },
+    {
+        "臂，行星架（齒輪組）": "arm"
+    },
+    {
+        "Archimedes蝸線": "Archimedes spiral"
+    },
+    {
+        "拱形件": "arch"
+    },
+    {
+        "漸遠弧": "arc of recess"
+    },
+    {
+        "接觸弧": "arc of contact"
+    },
+    {
+        "漸近弧": "arc of approach"
+    },
+    {
+        "作用弧": "arc of action"
+    },
+    {
+        "弧": "arc"
+    },
+    {
+        "進入側，漸近側（齒輪）": "approaching side"
+    },
+    {
+        "作用力，外力": "applied force"
+    },
+    {
+        "顯現運動": "apparent motion"
+    },
+    {
+        "非週期性運動": "aperiodic motion"
+    },
+    {
+        "對蹠點（球面）": "antipode"
+    },
+    {
+        "反節點，波腹": "antinode"
+    },
+    {
+        "擬人關節型機器人": "anthropomorphic robot"
+    },
+    {
+        "環齒輪，內齒輪": "annulus"
+    },
+    {
+        "環齒輪": "annular gear"
+    },
+    {
+        "異向性": "anisotropy"
+    },
+    {
+        "角速度向量": "angular velocity vector"
+    },
+    {
+        "角速度四面體（球面）": "angular velocity tetrahedron"
+    },
+    {
+        "角速比": "angular velocity ratio"
+    },
+    {
+        "角速度多邊形": "angular velocity polygon"
+    },
+    {
+        "角速度": "angular velocity"
+    },
+    {
+        "角速率": "angular speed"
+    },
+    {
+        "角運動": "angular motion"
+    },
+    {
+        "角動量": "angular momentum"
+    },
+    {
+        "角位移": "angular displacement"
+    },
+    {
+        "角加速度": "angular acceleration"
+    },
+    {
+        "角(的)": "angular"
+    },
+    {
+        "扭轉角": "angle of twist"
+    },
+    {
+        "扭轉角": "angle of torsion"
+    },
+    {
+        "旋轉角": "angle of rotation"
+    },
+    {
+        "漸遠角": "angle of recess"
+    },
+    {
+        "摩擦角": "angle of friction"
+    },
+    {
+        "變形角": "angle of deformation"
+    },
+    {
+        "接觸角": "angle of contact"
+    },
+    {
+        "漸近角": "angle of approach"
+    },
+    {
+        "作用角": "angle of action"
+    },
+    {
+        "角": "angle"
+    },
+    {
+        "類人形機器人": "android"
+    },
+    {
+        "錨形擒縱器": "anchor escapement"
+    },
+    {
+        "分析": "analysis"
+    },
+    {
+        "解析法": "analytical method"
+    },
+    {
+        "振幅": "amplitude"
+    },
+    {
+        "交變負載": "alternating load"
+    },
+    {
+        "代數包絡線": "algebraic envelope"
+    },
+    {
+        "可調整機構": "adjustable mechanism"
+    },
+    {
+        "齒冠圓": "addendum circle"
+    },
+    {
+        "齒冠角": "addendum angle"
+    },
+    {
+        "齒冠": "addendum"
+    },
+    {
+        "適應控制": "adaptive control"
+    },
+    {
+        "致動器": "actuator"
+    },
+    {
+        "致動訊號比": "actuating signal ratio"
+    },
+    {
+        "致動訊號": "actuating signal"
+    },
+    {
+        "致動": "actuating"
+    },
+    {
+        "主動系統": "active system"
+    },
+    {
+        "（主動）作用力": "active force"
+    },
+    {
+        "主動裝置": "active device"
+    },
+    {
+        "主動補償": "active accommodation"
+    },
+    {
+        "主動": "active"
+    },
+    {
+        "作用壓力角": "acting pressure angle"
+    },
+    {
+        "作用節徑": "acting pitch diameter"
+    },
+    {
+        "作用節圓": "acting pitch circle"
+    },
+    {
+        "作用齒腹": "acting flank"
+    },
+    {
+        "作用周節": "acting circular pitch"
+    },
+    {
+        "精度，準確度": "accuracy"
+    },
+    {
+        "補償": "accommodation"
+    },
+    {
+        "加速規，加速度計": "accelerometer"
+    },
+    {
+        "加速度多邊形": "acceleration polygon"
+    },
+    {
+        "加速度中心": "acceleration pole"
+    },
+    {
+        "極心加速度": "acceleration of pole"
+    },
+    {
+        "加速度矩陣": "acceleration matrix"
+    },
+    {
+        "加速度像": "acceleration image"
+    },
+    {
+        "重力加速度": "acceleration due to gravity"
+    },
+    {
+        "加速度向量圖": "acceleration diagram"
+    },
+    {
+        "加速度曲線": "acceleration curve"
+    },
+    {
+        "加速度軸線": "acceleration axis"
+    },
+    {
+        "加速度分析": "acceleration analysis"
+    },
+    {
+        "加速度": "acceleration"
+    },
+    {
+        "避震器，減震器": "absorber"
+    },
+    {
+        "絕對速度": "absolute velocity"
+    },
+    {
+        "絕對運動": "absolute motion"
+    },
+    {
+        "絕對加速度": "absolute acceleration"
+    },
+    {
+        "絕對": "absolute"
+    },
+    {
+        "多餘的": "redundant"
+    },
+    {
+        "多餘拘束": "redundant constraint"
+    },
+    {
+        "多餘自由度": "redundant degree of freedom"
+    },
+    {
+        "機器人之多餘可動度": "redundant mobility of a robot"
+    },
+    {
+        "機器人之多餘可動度": "redundant mobility of robot"
+    },
+    {
+        "基準圓（齒輪）": "reference circle"
+    },
+    {
+        "基準輸入": "reference input"
+    },
+    {
+        "基準點": "reference point"
+    },
+    {
+        "等速進動，等速擾轉": "regular precession"
+    },
+    {
+        "調整器": "regulator"
+    },
+    {
+        "相對的": "relative"
+    },
+    {
+        "相對加速度": "relative acceleration"
+    },
+    {
+        "相對Burmester點": "relative Burmester point"
+    },
+    {
+        "相對圓心點曲線": "relative centre/center-point curve"
+    },
+    {
+        "相對圓心點曲線": "relative centre-point/center-point curve"
+    },
+    {
+        "相對圓周點曲線": "relative circle-point curve"
+    },
+    {
+        "相對坐標系": "relative coordinate system"
+    },
+    {
+        "相對位移": "relative displacement"
+    },
+    {
+        "相對力": "relative force"
+    },
+    {
+        "相對運動": "relative motion"
+    },
+    {
+        "相對極心": "relative pole"
+    },
+    {
+        "相對極心線，相對瞬心線": "relative polode"
+    },
+    {
+        "相對螺旋運動": "relative screw motion"
+    },
+    {
+        "相對速度": "relative velocity"
+    },
+    {
+        "鬆弛時間": "relaxation time"
+    },
+    {
+        "終端對位順從器（機器人）": "remote centre/center compliance"
+    },
+    {
+        "重現性（機器人）": "repeatability"
+    },
+    {
+        "解析度": "resolution"
+    },
+    {
+        "軸關節速率控制（機器人）": "resolved-motion rate control"
+    },
+    {
+        "共振": "resonance"
+    },
+    {
+        "共振頻率": "resonance frequency"
+    },
+    {
+        "響應": "response"
+    },
+    {
+        "響應時間": "response time"
+    },
+    {
+        "恢復期": "restitution period"
+    },
+    {
+        "合力": "resultant force"
+    },
+    {
+        "合力矩": "resultant moment"
+    },
+    {
+        "羈留掣子，定位扣夾": "retaining click"
+    },
+    {
+        "羈留爪": "retaining pawl"
+    },
+    {
+        "減速度": "retardation"
+    },
+    {
+        "折返圓": "return circle"
+    },
+    {
+        "折返曲線（球面）": "return curve"
+    },
+    {
+        "折返中心": "return pole"
+    },
+    {
+        "回動彈簧": "return spring"
+    },
+    {
+        "退回行程": "return stroke"
+    },
+    {
+        "回歸齒輪系": "reverted gear train"
+    },
+    {
+        "旋轉〔運動〕對": "revolute pair"
+    },
+    {
+        "時間性拘束": "rheonomic constraint"
+    },
+    {
+        "時間性拘束系統": "rheonomic system"
+    },
+    {
+        "右手定則": "right hand rule"
+    },
+    {
+        "右手螺旋": "right handed screw"
+    },
+    {
+        "右旋螺旋": "right-handed thread"
+    },
+    {
+        "剛體": "rigid body"
+    },
+    {
+        "剛體導引": "rigid body guidance"
+    },
+    {
+        "剛性件": "rigid member"
+    },
+    {
+        "剛性，剛度": "rigidity"
+    },
+    {
+        "環齒輪": "ring gear"
+    },
+    {
+        "上升時間": "rise time"
+    },
+    {
+        "機器人": "robot"
+    },
+    {
+        "機器人系統": "robot system"
+    },
+    {
+        "機器人學": "robotics"
+    },
+    {
+        "搖桿": "rocker"
+    },
+    {
+        "桿": "rod"
+    },
+    {
+        "滾子": "roller"
+    },
+    {
+        "滾子從動件": "roller [cam]follower"
+    },
+    {
+        "滾子鏈": "roller chain"
+    },
+    {
+        "滾子摩擦輪": "roller friction wheel"
+    },
+    {
+        "滾子支座": "roller support"
+    },
+    {
+        "滾子齒輪凸輪機構": "roller-gear cam mechanism"
+    },
+    {
+        "滾動的": "rolling"
+    },
+    {
+        "滾動接觸": "rolling contact"
+    },
+    {
+        "滾動摩擦": "rolling friction"
+    },
+    {
+        "滾動負載": "rolling load"
+    },
+    {
+        "滾動": "rolling motion"
+    },
+    {
+        "1.根；2.齒根（齒輪）": "root"
+    },
+    {
+        "齒根角": "root angle"
+    },
+    {
+        "齒根圓": "root circle"
+    },
+    {
+        "齒根圓錐": "root cone"
+    },
+    {
+        "根徑": "root diameter"
+    },
+    {
+        "均方根值": "root-mean-square value"
+    },
+    {
+        "繩索　": "rope"
+    },
+    {
+        "繩傳動": "rope drive"
+    },
+    {
+        "旋缸式引擎": "rotary cylinder engine"
+    },
+    {
+        "旋轉的": "rotating"
+    },
+    {
+        "旋轉": "rotation"
+    },
+    {
+        "鬆垂": "sag"
+    },
+    {
+        "夾層": "sandwich"
+    },
+    {
+        "平面〔運動〕對": "sandwich pair"
+    },
+    {
+        "夾層結構": "sandwich structure"
+    },
+    {
+        "純量": "scalar"
+    },
+    {
+        "純量": "scalar quantity"
+    },
+    {
+        "1.天平；2.比例尺": "scale"
+    },
+    {
+        "比例因子，比例因數": "scale factor"
+    },
+    {
+        "非時間性拘束": "sceleronomic constraint"
+    },
+    {
+        "非時間性拘束系統": "sceleronomic system"
+    },
+    {
+        "蘇格蘭軛機構": "Scotch-yoke mechanism"
+    },
+    {
+        "1.螺旋；2.螺桿；3.螺釘": "screw"
+    },
+    {
+        "螺旋軸線": "screw axis"
+    },
+    {
+        "螺旋齒輪傳動": "screw gearing"
+    },
+    {
+        "螺旋機構": "screw mechanism"
+    },
+    {
+        "螺旋運動": "screw motion"
+    },
+    {
+        "螺旋〔運動〕對": "screw pair"
+    },
+    {
+        "螺距": "screw pitch"
+    },
+    {
+        "螺紋": "screw thread"
+    },
+    {
+        "螺紋直徑": "screw thread diameter"
+    },
+    {
+        "次加速度，急跳度": "second acceleration"
+    },
+    {
+        "次角加速度，角急跳度": "second angular acceleration"
+    },
+    {
+        "二階合成": "second order synthesis"
+    },
+    {
+        "方位軸線（機器人）": "secondary axes"
+    },
+    {
+        "自鎖機構": "self-locking mechanism"
+    },
+    {
+        "1.指向；2.感度（機器人）": "sense"
+    },
+    {
+        "敏感度": "sensitivity"
+    },
+    {
+        "感測器": "sensor"
+    },
+    {
+        "順序控制": "sequential control"
+    },
+    {
+        "伺服機構": "servomechanism"
+    },
+    {
+        "伺服系統": "servosystem"
+    },
+    {
+        "安定時間": "settling time"
+    },
+    {
+        "軸": "shaft"
+    },
+    {
+        "軸交角": "shaft angle"
+    },
+    {
+        "搖動": "shake"
+    },
+    {
+        "搖撼力": "shaking force"
+    },
+    {
+        "剪": "shear"
+    },
+    {
+        "剪力中心": "shear center"
+    },
+    {
+        "剪力中心": "shear centre"
+    },
+    {
+        "剪力": "shear force"
+    },
+    {
+        "剛性模數": "shear modulus"
+    },
+    {
+        "剪應變": "shear strain"
+    },
+    {
+        "剪應力": "shear stress"
+    },
+    {
+        "剪力波": "shear wave"
+    },
+    {
+        "剪力": "shearing force"
+    },
+    {
+        "槽輪": "sheave"
+    },
+    {
+        "陡震": "shock"
+    },
+    {
+        "陡震波": "shock wave"
+    },
+    {
+        "短齒冠制": "short addendum system"
+    },
+    {
+        "肩接頭（機器人）": "shoulder"
+    },
+    {
+        "梭狀從動件": "shuttle shaped cam follower"
+    },
+    {
+        "訊號": "signal"
+    },
+    {
+        "無聲鏈": "silent chain"
+    },
+    {
+        "簡單的": "simple"
+    },
+    {
+        "單迴路運動鍊": "simple closed kinematic chain"
+    },
+    {
+        "單式齒輪系": "simple gear train"
+    },
+    {
+        "簡諧運動": "simple harmonic motion"
+    },
+    {
+        "簡諧量": "simple harmonic quantity"
+    },
+    {
+        "單擺": "simple pendulum"
+    },
+    {
+        "簡支座": "simple support"
+    },
+    {
+        "簡支梁": "simply-supported beam"
+    },
+    {
+        "單螺紋": "single thread"
+    },
+    {
+        "奇異構形": "singular configuration"
+    },
+    {
+        "奇焦點": "singular focus"
+    },
+    {
+        "奇點": "singular point"
+    },
+    {
+        "正弦振動": "sinusoidal vibration"
+    },
+    {
+        "六連桿組": "six-bar linkage"
+    },
+    {
+        "六連桿機構": "six-bar mechanism"
+    },
+    {
+        "機構骨架圖": "skeleton"
+    },
+    {
+        "歪傘齒輪": "skew bevel gear"
+    },
+    {
+        "鬆邊": "slack side"
+    },
+    {
+        "棒之細長比": "slenderness ratio of a bar"
+    },
+    {
+        "棒之細長比": "slenderness ratio of bar"
+    },
+    {
+        "導軌": "slide"
+    },
+    {
+        "滑件": "slider"
+    },
+    {
+        "滑件曲柄": "slider-crank"
+    },
+    {
+        "滑件曲柄機構": "slider-crank mechanism"
+    },
+    {
+        "滑動": "sliding"
+    },
+    {
+        "滑塊": "sliding block"
+    },
+    {
+        "滑塊連桿組": "sliding block linkage"
+    },
+    {
+        "滑動接觸": "sliding contact"
+    },
+    {
+        "動摩擦": "sliding friction"
+    },
+    {
+        "滑動": "sliding motion"
+    },
+    {
+        "滑動對": "sliding pair"
+    },
+    {
+        "滑槽連桿組": "sliding slot linkage"
+    },
+    {
+        "滑移": "slip"
+    },
+    {
+        "滑移感度（機器人）": "slip sense"
+    },
+    {
+        "光滑支座": "smooth support"
+    },
+    {
+        "減震器": "snubber"
+    },
+    {
+        "起源連桿組": "source linkage"
+    },
+    {
+        "起源機構": "source mechanism"
+    },
+    {
+        "空間機構": "space mechanism"
+    },
+    {
+        "梁之跨距": "span of a beam"
+    },
+    {
+        "梁之跨距": "span of beam"
+    },
+    {
+        "空間凸輪": "spatial cam"
+    },
+    {
+        "空間凸輪機構": "spatial cam mechanism"
+    },
+    {
+        "空間機構": "spatial mechanism"
+    },
+    {
+        "空間力系": "spatial force system"
+    },
+    {
+        "空間連桿組": "spatial linkage"
+    },
+    {
+        "空間機構": "spatial mechanism"
+    },
+    {
+        "空間運動": "spatial motion"
+    },
+    {
+        "空間系統": "spatial system"
+    },
+    {
+        "滑率（齒輪）": "specific sliding"
+    },
+    {
+        "光譜，頻譜": "spectrum"
+    },
+    {
+        "速率": "speed"
+    },
+    {
+        "錐形皮帶輪": "speed cone"
+    },
+    {
+        "速比": "speed ratio"
+    },
+    {
+        "減速器": "speed reducer"
+    },
+    {
+        "減速比": "speed reduction ratio"
+    },
+    {
+        "球面的": "spherical"
+    },
+    {
+        "球面凸輪": "spherical cam"
+    },
+    {
+        "球面坐標機器人": "spherical coordinate robot"
+    },
+    {
+        "球面擺線": "spherical cycloid"
+    },
+    {
+        "球面橢圓": "spherical ellipse"
+    },
+    {
+        "球面外擺線": "spherical epicycloid"
+    },
+    {
+        "球面四連桿組": "spherical four-bar"
+    },
+    {
+        "球面四連桿組": "spherical four-bar linkage"
+    },
+    {
+        "球面內擺線": "spherical hypocycloid"
+    },
+    {
+        "球面漸開線": "spherical involute"
+    },
+    {
+        "球面連桿組": "spherical linkage"
+    },
+    {
+        "球面機構": "spherical mechanism"
+    },
+    {
+        "球面運動": "spherical motion"
+    },
+    {
+        "球面〔運動〕對": "spherical pair"
+    },
+    {
+        "球面擺": "spherical pendulum"
+    },
+    {
+        "球面速度": "spherical velocity"
+    },
+    {
+        "自轉": "spin"
+    },
+    {
+        "樞轉摩擦": "spin friction"
+    },
+    {
+        "自旋運動": "spin motion"
+    },
+    {
+        "心軸，主軸": "spindle"
+    },
+    {
+        "蝸線": "spiral"
+    },
+    {
+        "蝸線角": "spiral angle"
+    },
+    {
+        "蝸線傘齒輪": "spiral bevel gear"
+    },
+    {
+        "Archimedes蝸線": "spiral of Archimedes"
+    },
+    {
+        "蝸線傘齒輪": "spiral-bevel gear"
+    },
+    {
+        "蝸線傘齒輪傳動": "spiral-bevel gearing"
+    },
+    {
+        "彈簧": "spring"
+    },
+    {
+        "彈簧常數": "spring constant"
+    },
+    {
+        "回彈": "springback"
+    },
+    {
+        "鏈輪": "sprocket"
+    },
+    {
+        "鏈輪齒廓": "sprocket tooth profile"
+    },
+    {
+        "鏈輪": "sprocket wheel"
+    },
+    {
+        "正齒輪": "spur gear"
+    },
+    {
+        "穩定性": "stability"
+    },
+    {
+        "穩定平衡": "stable equilibrium"
+    },
+    {
+        "交錯齒": "staggered tooth"
+    },
+    {
+        "標準齒輪": "standard gear"
+    },
+    {
+        "定滑輪": "standing pulley"
+    },
+    {
+        "駐波": "standing wave"
+    },
+    {
+        "機器之起動階段": "starting regime of a machine"
+    },
+    {
+        "機器之啟動階段": "starting regime of machine"
+    },
+    {
+        "靜態的": "static"
+    },
+    {
+        "靜態均衡．靜 〔態〕 平衡": "static balance"
+    },
+    {
+        "旋轉體之靜態平衡": "static balance of rotating body"
+    },
+    {
+        "靜誤差帶": "static error band"
+    },
+    {
+        "靜摩擦": "static friction"
+    },
+    {
+        "靜態負載": "static load"
+    },
+    {
+        "靜定系統": "statically determinate system"
+    },
+    {
+        "靜不定系統": "statically indeterminate system"
+    },
+    {
+        "靜力學": "statics"
+    },
+    {
+        "穩定程序": "stationary process"
+    },
+    {
+        "平穩值": "stationary value"
+    },
+    {
+        "穩態": "steady-state"
+    },
+    {
+        "穩態誤差": "steady-state error"
+    },
+    {
+        "機器之穩態運轉": "steady-state motion of a machine"
+    },
+    {
+        "穩態振動": "steady-state vibration"
+    },
+    {
+        "步階函數": "step function"
+    },
+    {
+        "間歇機構": "step mechanism"
+    },
+    {
+        "間歇運動": "step motion"
+    },
+    {
+        "階級齒輪": "stepped gear"
+    },
+    {
+        "塔輪": "stepped pulley"
+    },
+    {
+        "剛性": "stiffness"
+    },
+    {
+        "剛性〔係數〕": "stiffness [coefficient]"
+    },
+    {
+        "激勵": "stimulus"
+    },
+    {
+        "隨機力": "stochastic force"
+    },
+    {
+        "隨機程序": "stochastic process"
+    },
+    {
+        "觸止": "stop"
+    },
+    {
+        "機器之停車階段": "stopping regime of a machine"
+    },
+    {
+        "機器之停車階段": "stopping regime of machine"
+    },
+    {
+        "直齒傘齒輪": "straight bevel gear"
+    },
+    {
+        "直線運動機構": "straight line [motion] mechanism"
+    },
+    {
+        "直線運動": "straight line motion"
+    },
+    {
+        "應變": "strain"
+    },
+    {
+        "應變能": "strain energy"
+    },
+    {
+        "強度": "strength"
+    },
+    {
+        "應力": "stress"
+    },
+    {
+        "縮放與旋轉": "stretch and rotation"
+    },
+    {
+        "弦": "string"
+    },
+    {
+        "閃頻器": "stroboscope"
+    },
+    {
+        "衝程，行程": "stroke"
+    },
+    {
+        "構造分析": "structural analysis"
+    },
+    {
+        "結構計算": "structural calculation"
+    },
+    {
+        "結構設計": "structural design"
+    },
+    {
+        "結構誤差": "structural error"
+    },
+    {
+        "構造簡圖": "structural sketch"
+    },
+    {
+        "構造合成": "structural synthesis"
+    },
+    {
+        "結構，構造": "structure"
+    },
+    {
+        "機構之構造": "structure of a mechanism"
+    },
+    {
+        "機構之構造": "structure of mechanism"
+    },
+    {
+        "支柱，枝桿，抗壓構件": "strut"
+    },
+    {
+        "短齒": "stub tooth"
+    },
+    {
+        "柱圜鏈": "stub-link chain"
+    },
+    {
+        "柱齒輪": "stud gear"
+    },
+    {
+        "柱環鏈": "stud link chain"
+    },
+    {
+        "次組合": "sub-assembly"
+    },
+    {
+        "次諧波": "subharmonic"
+    },
+    {
+        "次諧波響應": "subharmonic response"
+    },
+    {
+        "次諧波響應": "subharmonic-response"
+    },
+    {
+        "運動對的置換": "substitution of pairs"
+    },
+    {
+        "太陽齒輪": "sun gear"
+    },
+    {
+        "疊加角": "superposition angle"
+    },
+    {
+        "疊加原理": "superposition principle"
+    },
+    {
+        "補連桿組（球面）": "supplementary linkages"
+    },
+    {
+        "支座": "support"
+    },
+    {
+        "面接觸": "surface contact"
+    },
+    {
+        "表面力": "surface force"
+    },
+    {
+        "旋轉斜板": "swash plate"
+    },
+    {
+        "搖塊連桿組": "swinging block linkage"
+    },
+    {
+        "搖塊連桿組": "swinging or rocking block linkage"
+    },
+    {
+        "對稱耦桿點曲線": "symmetrical coupler curve"
+    },
+    {
+        "同步振動": "synchronous vibration"
+    },
+    {
+        "合成": "synthesis"
+    },
+    {
+        "系統": "system"
+    },
+    {
+        "系統誤差": "system error"
+    },
+    {
+        "觸感（機器人）": "tactile sense"
+    },
+    {
+        "切線，正切": "tangent"
+    },
+    {
+        "切線凸輪": "tangent cam"
+    },
+    {
+        "切線加速度": "tangential acceleration"
+    },
+    {
+        "切線圓": "tangential circle"
+    },
+    {
+        "切線效力": "tangential effort"
+    },
+    {
+        "切線反作用力": "tangential reaction"
+    },
+    {
+        "工作坐標系": "task coordinate system"
+    },
+    {
+        "教導式控制": "teach control"
+    },
+    {
+        "教導器": "teach pendant"
+    },
+    {
+        "教導時之速限": "teach restrict"
+    },
+    {
+        "教導式規劃": "teach-in programming"
+    },
+    {
+        "遙控者": "teleoperator"
+    },
+    {
+        "腱": "tendon"
+    },
+    {
+        "腱驅動器": "tendon drive"
+    },
+    {
+        "拉力": "tensile force"
+    },
+    {
+        "拉力，張力": "tension"
+    },
+    {
+        "離心張力": "tension centrifugal"
+    },
+    {
+        "張力槽輪": "tension sheave"
+    },
+    {
+        "三接頭桿": "ternary link"
+    },
+    {
+        "三心定理": "theorem of three centros"
+    },
+    {
+        "厚板": "thick plate"
+    },
+    {
+        "薄板": "thin plate"
+    },
+    {
+        "螺紋": "thread"
+    },
+    {
+        "螺紋角": "thread angle"
+    },
+    {
+        "三點暫停": "three-point dwell"
+    },
+    {
+        "喉徑": "throat diameter"
+    },
+    {
+        "緊邊": "tight side"
+    },
+    {
+        "時間": "time"
+    },
+    {
+        "時間常數": "time constant"
+    },
+    {
+        "時間函數": "time history"
+    },
+    {
+        "時間比": "time ratio"
+    },
+    {
+        "時間響應": "time response"
+    },
+    {
+        "正時皮帶，時限皮帶，確動皮帶": "timing belt"
+    },
+    {
+        "正時鏈條": "timing chain"
+    },
+    {
+        "肘節裝置": "toggle arrangement"
+    },
+    {
+        "肘節夾": "toggle clamp"
+    },
+    {
+        "肘節效應": "toggle effect"
+    },
+    {
+        "肘節機構": "toggle mechanism"
+    },
+    {
+        "肘節位置": "toggle position"
+    },
+    {
+        "齒面": "tooth face"
+    },
+    {
+        "齒腹": "tooth flank"
+    },
+    {
+        "齒形": "tooth profile"
+    },
+    {
+        "齒間": "tooth space"
+    },
+    {
+        "齒厚": "tooth thickness"
+    },
+    {
+        "齒頂": "top land"
+    },
+    {
+        "拓樸構造": "topological structure"
+    },
+    {
+        "扭矩": "torque"
+    },
+    {
+        "1.扭轉；2.扭率": "torsion"
+    },
+    {
+        "扭矩": "torsional moment"
+    },
+    {
+        "抗扭剛度": "torsional rigidity"
+    },
+    {
+        "扭轉振動": "torsional vibration"
+    },
+    {
+        "齒的總深度": "total depth of tooth"
+    },
+    {
+        "總升程": "total lift"
+    },
+    {
+        "總滑脫": "total slip"
+    },
+    {
+        "循跡點": "trace point"
+    },
+    {
+        "後端": "trailing end"
+    },
+    {
+        "輪系，系": "train"
+    },
+    {
+        "輪系值，系值": "train value"
+    },
+    {
+        "軌跡": "trajectory"
+    },
+    {
+        "訊號轉換器": "transducer"
+    },
+    {
+        "轉移函數": "transfer function"
+    },
+    {
+        "變換矩陣": "transformation matrix"
+    },
+    {
+        "暫態誤差": "transient error"
+    },
+    {
+        "暫態振動": "transient vibration"
+    },
+    {
+        "過渡曲線，分界曲線": "transition curve"
+    },
+    {
+        "平移": "translation"
+    },
+    {
+        "平移凸輪": "translation cam"
+    },
+    {
+        "平移式從動件": "translation follower"
+    },
+    {
+        "1.可傳動性；2.傳遞率": "transmissibility"
+    },
+    {
+        "1.傳動；2.變速箱": "transmission"
+    },
+    {
+        "傳動角，傳力角": "transmission angle"
+    },
+    {
+        "傳動函數": "transmission function"
+    },
+    {
+        "傳動指數，傳力指數": "transmission index"
+    },
+    {
+        "速比": "transmission ratio"
+    },
+    {
+        "轉移函數": "transmittance"
+    },
+    {
+        "運動坐標之運動": "transportation"
+    },
+    {
+        "運動坐標之點加速度": "transportation acceleration"
+    },
+    {
+        "慣性力": "transportation force"
+    },
+    {
+        "運動坐標之點速度": "transportation velocity"
+    },
+    {
+        "橫向的": "transverse"
+    },
+    {
+        "橫周節": "transverse circular pitch"
+    },
+    {
+        "橫〔向〕分量": "transverse component"
+    },
+    {
+        "橫徑節": "transverse diametral pitch"
+    },
+    {
+        "橫向力，剪力": "transverse force"
+    },
+    {
+        "橫向衝擊": "transverse impact"
+    },
+    {
+        "橫〔向〕壓力角": "transverse pressure angle"
+    },
+    {
+        "橫向振動": "transverse vibration"
+    },
+    {
+        "橫〔向〕波": "transverse wave"
+    },
+    {
+        "總行程": "travel， total"
+    },
+    {
+        "樹狀運動鏈": "tree"
+    },
+    {
+        "三角凸輪": "triangular cam"
+    },
+    {
+        "三搖桿機構": "triple rocker mechanism"
+    },
+    {
+        "次擺線": "trochoid"
+    },
+    {
+        "真應變": "true strain"
+    },
+    {
+        "構架，桁架": "truss"
+    },
+    {
+        "換向齒輪": "tumblers"
+    },
+    {
+        "迴轉塊連桿組": "turning block linkage"
+    },
+    {
+        "旋轉〔運動〕對": "turning pair"
+    },
+    {
+        "轉塔": "turret"
+    },
+    {
+        "扭轉": "twist"
+    },
+    {
+        "正扭齒輪": "twisted spur gear"
+    },
+    {
+        "扭矩": "twisting moment"
+    },
+    {
+        "扭矩": "twisting momentum"
+    },
+    {
+        "接觸方式": "type of contact"
+    },
+    {
+        "運動方式": "type of motion"
+    },
+    {
+        "類型合成": "type synthesis"
+    },
+    {
+        "抗拉強度": "ultimate strength"
+    },
+    {
+        "超諧波": "ultraharmonic"
+    },
+    {
+        "不定構形": "uncertainty configuration"
+    },
+    {
+        "無拘束運動鏈": "unconstrained kinematic chain"
+    },
+    {
+        "無拘束機構": "unconstrained mechanism"
+    },
+    {
+        "非耦合模態": "uncoupled modes"
+    },
+    {
+        "過切": "undercutting"
+    },
+    {
+        "不足，不足量": "undershoot"
+    },
+    {
+        "起伏點": "undulation point"
+    },
+    {
+        "一段式耦桿點曲線": "unicursal coupler curve"
+    },
+    {
+        "均布負載": "uniform load"
+    },
+    {
+        "等速運動": "uniform motion"
+    },
+    {
+        "均布負載": "uniformly distributed load"
+    },
+    {
+        "單向拘束": "unilateral constraint"
+    },
+    {
+        "單位向量": "unit vector"
+    },
+    {
+        "萬向接頭": "universal coupling"
+    },
+    {
+        "萬向接頭，十字接頭": "universal joint"
+    },
+    {
+        "不穩定平衡": "unstable equilibrium"
+    },
+    {
+        "上臂": "upperarm"
+    },
+    {
+        "有效功率": "useful power"
+    },
+    {
+        "三角皮帶": "V belt"
+    },
+    {
+        "值": "value"
+    },
+    {
+        "1.變數；2.可變的": "variable"
+    },
+    {
+        "變導程圓柱凸輪": "variable lead cylindrical cam"
+    },
+    {
+        "變導程螺桿": "variable lead screw"
+    },
+    {
+        "變速圓錐": "variable speed cone"
+    },
+    {
+        "變速三角皮帶傳動": "variable speed V belt drive"
+    },
+    {
+        "可變質量系統": "variable-mass system"
+    },
+    {
+        "可變節徑槽輪": "vari-pitch sheave"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "向量場": "vector field"
+    },
+    {
+        "向量函數": "vector function"
+    },
+    {
+        "向量迴路方程式": "vector loop equation"
+    },
+    {
+        "向量迴路法": "vector loop method"
+    },
+    {
+        "向量法": "vector method"
+    },
+    {
+        "向量": "vector quantity"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "速度分析": "velocity analysis"
+    },
+    {
+        "速度曲線": "velocity curve"
+    },
+    {
+        "速度向量圖": "velocity diagram"
+    },
+    {
+        "速度端點曲線": "velocity hodograph"
+    },
+    {
+        "速度像": "velocity image"
+    },
+    {
+        "速度矩陣": "velocity matrix"
+    },
+    {
+        "速度極心": "velocity pole"
+    },
+    {
+        "速度多邊形": "velocity polygon"
+    },
+    {
+        "速比": "velocity ratio"
+    },
+    {
+        "速度訊號轉換器": "velocity transducer"
+    },
+    {
+        "游標": "vernier"
+    },
+    {
+        "圓錐頂距離": "vertex distance"
+    },
+    {
+        "振動": "vibration"
+    },
+    {
+        "虛變形": "virtual deformation"
+    },
+    {
+        "虛位移": "virtual displacement"
+    },
+    {
+        "虛齒數": "virtual number of teeth"
+    },
+    {
+        "虛擬實境": "virtual reality"
+    },
+    {
+        "虛功": "virtual work"
+    },
+    {
+        "黏性阻尼": "viscous damping"
+    },
+    {
+        "步行機": "walking machine"
+    },
+    {
+        "波": "wave"
+    },
+    {
+        "波前，波鋒": "wave front"
+    },
+    {
+        "波長": "wavelength"
+    },
+    {
+        "楔": "wedge"
+    },
+    {
+        "楔形凸輪": "wedge cam"
+    },
+    {
+        "全稜柱對機構": "wedge mechanism"
+    },
+    {
+        "重量": "weight"
+    },
+    {
+        "輪": "wheel"
+    },
+    {
+        "總齒深": "whole depth"
+    },
+    {
+        "鋼索，綱絲繩": "wire rope"
+    },
+    {
+        "搖晃板": "wobble-plate"
+    },
+    {
+        "功": "work"
+    },
+    {
+        "變形功": "work of deformation"
+    },
+    {
+        "工作曲線": "working curve"
+    },
+    {
+        "工作齒深": "working depth"
+    },
+    {
+        "齒的工作深度": "working depth of tooth"
+    },
+    {
+        "工作包絡面": "working envelope"
+    },
+    {
+        "工作半徑": "working radius"
+    },
+    {
+        "工作範圍（機器人）": "working range"
+    },
+    {
+        "工作空間（機器人）": "working space"
+    },
+    {
+        "工作空間（機器人）": "working volume"
+    },
+    {
+        "大地坐標系統": "world coordinate system"
+    },
+    {
+        "蝸桿": "worm gear"
+    },
+    {
+        "蝸輪傳動": "worm gearing"
+    },
+    {
+        "蝸輪": "worm wheel"
+    },
+    {
+        "1.螺旋力；2.扳手": "wrench"
+    },
+    {
+        "腕": "wrist"
+    },
+    {
+        "軛式凸輪": "yoke cam"
+    },
+    {
+        "軛式從動件": "yoke follower"
+    },
+    {
+        "彈性模數": "Young's modulus"
+    },
+    {
+        "彈性模數": "Young's modulus of elasticity"
+    },
+    {
+        "零蝸線角傘齒輪": "Zerol bevel gear"
+    },
+    {
+        "零線穩定性": "zero-line stability"
+    }
+]

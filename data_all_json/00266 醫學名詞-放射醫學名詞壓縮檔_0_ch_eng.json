@@ -1,0 +1,5612 @@
+[
+    {
+        "(正性)對比劑": "(positive) contrast medium"
+    },
+    {
+        "(肺臓)實質化": "(pulmonary) consolidation"
+    },
+    {
+        "[氟-18]去氧葡萄糖": "2-[F-18]fluoro-2-deoxy-D-glucose {=FDG}"
+    },
+    {
+        "外展": "abduction"
+    },
+    {
+        "染色體雙擊異常": "abnormality of double hitting"
+    },
+    {
+        "絕對濾器；絕對濾片": "absolute filter"
+    },
+    {
+        "絕對測量": "absolute measurement"
+    },
+    {
+        "絕對風險": "absolute risk"
+    },
+    {
+        "吸收": "absorbance"
+    },
+    {
+        "吸收劑量": "absorbed dose (D)"
+    },
+    {
+        "吸收劑量率": "absorbed dose rate (D)"
+    },
+    {
+        "吸收分率": "absorbed fraction"
+    },
+    {
+        "吸收劑量指數": "absorbed-dose index"
+    },
+    {
+        "吸收係數": "absorption coefficient"
+    },
+    {
+        "吸收邊限；吸收邊緣": "absorption edge"
+    },
+    {
+        "含量；豐度": "abundance"
+    },
+    {
+        "受虐性腦傷": "abusive head trauma"
+    },
+    {
+        "鼻下耳孔線": "acanthiomeatal line"
+    },
+    {
+        "加速分次放射治療": "accelerated fractionated radiotherapy"
+    },
+    {
+        "加速分次": "accelerated fractionation"
+    },
+    {
+        "加速電極": "accelerating electrode"
+    },
+    {
+        "副裂隙": "accessory fissure"
+    },
+    {
+        "累積劑量": "accumulated dose"
+    },
+    {
+        "累積計": "accumulator"
+    },
+    {
+        "酸性定影浴": "acid fixing bath"
+    },
+    {
+        "酸性麥芽糖酶缺乏症": "acid maltase deficiency"
+    },
+    {
+        "肢端肥大症": "acromegaly"
+    },
+    {
+        "活化分析": "activation analysis"
+    },
+    {
+        "活化截面": "activation cross section"
+    },
+    {
+        "活性": "activity"
+    },
+    {
+        "急性瀰漫性腦脊髓炎": "acute disseminated encephalomyelitis {=ADEM}"
+    },
+    {
+        "急性間質性肺炎": "acute interstitial pneumonitis"
+    },
+    {
+        "急性輻射症候群": "Acute radiation syndrome {=ARS}"
+    },
+    {
+        "附加濾片；附加濾器": "addition filter"
+    },
+    {
+        "內收": "adduction"
+    },
+    {
+        "黏連性；沾黏的": "adhesive"
+    },
+    {
+        "粘連性滑膜囊炎": "adhesive capsulitis"
+    },
+    {
+        "鄰近效應": "adjacency effects"
+    },
+    {
+        "輔助治療": "adjuvant therapy"
+    },
+    {
+        "成人史迪爾氏症": "Adult Onset Still's Disease {=AOSD}"
+    },
+    {
+        "充氣的": "aerated"
+    },
+    {
+        "氣霧": "aerial fog"
+    },
+    {
+        "後荷法": "afterloading method"
+    },
+    {
+        "後荷裝置": "afterloading unit"
+    },
+    {
+        "胼胝體發育不全": "agenesis of corpus callosum"
+    },
+    {
+        "老化大腦": "aging brain"
+    },
+    {
+        "空氣支氣管像": "air bronchogram"
+    },
+    {
+        "空氣支氣管像徵象": "air bronchogram sign"
+    },
+    {
+        "空氣等價物質": "air equivalent material"
+    },
+    {
+        "空氣等價壁": "air equivalent wall"
+    },
+    {
+        "空間間隔技術": "air gap technique"
+    },
+    {
+        "空氣克馬率常數": "air kerma rate constant"
+    },
+    {
+        "氣體滯留": "air trapping"
+    },
+    {
+        "氣體－液體界面": "air-fluid level"
+    },
+    {
+        "氣腔": "airspace"
+    },
+    {
+        "鋁突破": "Al breakthrough"
+    },
+    {
+        "Alexander氏病": "Alexander disease"
+    },
+    {
+        "代數重建技術": "algebraic reconstruction technique {=ART}"
+    },
+    {
+        "演算法": "algorithm"
+    },
+    {
+        "α衰變；阿伐衰變": "alpha decay"
+    },
+    {
+        "α粒子；阿伐粒子": "alpha particle"
+    },
+    {
+        "α射線；阿伐射線": "alpha ray"
+    },
+    {
+        "另類分次放射治療": "altered fractionated radiotherapy"
+    },
+    {
+        "肺泡的；齒槽的": "alveolar"
+    },
+    {
+        "肺泡性實質化": "alveolar consolidation"
+    },
+    {
+        "肺泡型態": "alveolar pattern"
+    },
+    {
+        "肺泡狀軟組織肉瘤": "alveolar soft-part sarcoma"
+    },
+    {
+        "肺泡": "alveoli"
+    },
+    {
+        "美國藥學協會": "American Pharmaceutical Association {=APhA}"
+    },
+    {
+        "美國藥師協會": "American Pharmacists Association"
+    },
+    {
+        "放大器增益": "amplifier gain"
+    },
+    {
+        "類澱粉血管病變": "amyloid angiopathy"
+    },
+    {
+        "肌肉萎縮性脊髓側索硬化症(漸凍人)": "amyotrophic lateral sclerosis (ALS)"
+    },
+    {
+        "類比-數位轉換器": "analog-to-digital converter {=ADC}"
+    },
+    {
+        "動脈瘤": "aneurysm"
+    },
+    {
+        "動脈瘤樣骨性囊腫": "aneurysmal bone cyst {=ABC}"
+    },
+    {
+        "血管攝影": "angiography"
+    },
+    {
+        "血管成形術": "angioplasty"
+    },
+    {
+        "角動量": "angular momentum"
+    },
+    {
+        "僵直性脊柱炎": "ankylosing  spondylitis {=AS}"
+    },
+    {
+        "互毀": "annihilation"
+    },
+    {
+        "互毀輻射": "annihilation radiation"
+    },
+    {
+        "互毀反應": "annihilation reaction"
+    },
+    {
+        "年攝入限度": "annual limit on  intake {=ALI}"
+    },
+    {
+        "陽極": "anode"
+    },
+    {
+        "肩前脫位": "anterior dislocation of shoulder"
+    },
+    {
+        "前投影": "anterior projection"
+    },
+    {
+        "前後位投影": "anteroposterior {=AP} projection"
+    },
+    {
+        "逆時訊符合電路": "anticoincidence circuit"
+    },
+    {
+        "逆時訊符合計數法": "anticoincidence counting"
+    },
+    {
+        "逆時訊符合計數管": "anticoincidence tube"
+    },
+    {
+        "主動脈瘤": "aortic aneurysm"
+    },
+    {
+        "主動脈弓(結)": "aortic arch (knob)"
+    },
+    {
+        "主動脈攝影檢查": "aortography"
+    },
+    {
+        "前後直徑": "AP diameter"
+    },
+    {
+        "裝療器": "applicator"
+    },
+    {
+        "動脈攝影": "arteriography"
+    },
+    {
+        "動靜脈瘻": "arteriovenous fistula {=AVF}"
+    },
+    {
+        "動靜脈畸形": "arteriovenous malformation {=AVM}"
+    },
+    {
+        "關節腔攝影": "arthrography"
+    },
+    {
+        "假影": "artifacts"
+    },
+    {
+        "人工放射性核種": "artificial radioactive nuclide"
+    },
+    {
+        "合理抑低": "as low as reasonably achievable {=ALARA}"
+    },
+    {
+        "麴菌鼻竇炎": "Aspergillus sinusits"
+    },
+    {
+        "吸入異物": "aspirated foreign body"
+    },
+    {
+        "吸入性肺炎": "aspiration pneumonia"
+    },
+    {
+        "擴張不全": "atelectasis"
+    },
+    {
+        "原子": "atom"
+    },
+    {
+        "原子衰減係數": "atomic attenuation coefficient"
+    },
+    {
+        "原子截面": "atomic cross section"
+    },
+    {
+        "原子能委員會": "Atomic Energy Commission {=AEC}"
+    },
+    {
+        "原子質量單位": "atomic mass unit {=AMU}"
+    },
+    {
+        "原子序": "atomic number"
+    },
+    {
+        "原子量": "atomic weight"
+    },
+    {
+        "心耳": "atrial appendage"
+    },
+    {
+        "心房中膈缺損": "atrial septal defect"
+    },
+    {
+        "心房": "atrium"
+    },
+    {
+        "衰減": "attenuation"
+    },
+    {
+        "衰減係數": "attenuation coefficient"
+    },
+    {
+        "衰減校正": "attenuation correction"
+    },
+    {
+        "衰減曲線": "attenuation curve"
+    },
+    {
+        "鄂惹效應": "Auger effect"
+    },
+    {
+        "鄂惹電子": "Auger electron"
+    },
+    {
+        "自動貯片盒": "autocassette"
+    },
+    {
+        "自動注射裝置": "autoinjection system"
+    },
+    {
+        "自動注射器": "autoinjector"
+    },
+    {
+        "自動攝影術": "autoradiography"
+    },
+    {
+        "缺血性壞死": "avascular necrosis"
+    },
+    {
+        "拉扯性骨折": "avulsion fracture"
+    },
+    {
+        "軸位": "axial"
+    },
+    {
+        "軸方向": "axial direction"
+    },
+    {
+        "軸位影像": "axial image"
+    },
+    {
+        "軸切面": "axial plane"
+    },
+    {
+        "軸向橫斷面掃描攝影": "axial transverse tomography"
+    },
+    {
+        "奇": "azygos"
+    },
+    {
+        "奇裂隙": "azygos fissure"
+    },
+    {
+        "奇肺葉": "azygos lobe"
+    },
+    {
+        "B-模式": "B type mode"
+    },
+    {
+        "反投影法": "back projection"
+    },
+    {
+        "反散射係數": "back scatter factor {=BSF}"
+    },
+    {
+        "背景輻射": "background radiation"
+    },
+    {
+        "反向散射": "backscattering"
+    },
+    {
+        "反向散射係數": "backscattering factor"
+    },
+    {
+        "反向散射峰值": "backscattering peak"
+    },
+    {
+        "細菌性腦膜炎": "bacterial meningitis"
+    },
+    {
+        "氣球導管": "balloon catheter"
+    },
+    {
+        "Bankart損傷": "Bankart lesion"
+    },
+    {
+        "鋇劑": "barium"
+    },
+    {
+        "鋇灌腸攝影": "barium enema"
+    },
+    {
+        "桶狀胸": "barrel chest"
+    },
+    {
+        "Barton氏骨折": "Barton's fracture"
+    },
+    {
+        "基底腦池": "basal cisterns"
+    },
+    {
+        "基底肺節": "basal segments"
+    },
+    {
+        "射束": "beam"
+    },
+    {
+        "射束衰減器": "beam attenuator"
+    },
+    {
+        "射束平坦化濾板": "beam flattening filter"
+    },
+    {
+        "貝克；貝克勒": "becquerel {=Bq}"
+    },
+    {
+        "β衰變": "beta decay"
+    },
+    {
+        "β 射線": "beta-ray"
+    },
+    {
+        "β射線裝療器": "beta-ray applicator"
+    },
+    {
+        "三氟化硼計數器": "BF3 counter"
+    },
+    {
+        "三氟化硼比例計數器式勘檢器": "BF3 proportional counter type surveymeter"
+    },
+    {
+        "束縛能；結合能": "binding energy"
+    },
+    {
+        "生物半衰期": "biologic half-life"
+    },
+    {
+        "直接生物效應": "biological direct effect"
+    },
+    {
+        "生物效應": "biological effect"
+    },
+    {
+        "中子生物效應": "biological effect of neutron"
+    },
+    {
+        "輻射生物效應": "biological effect of radiation"
+    },
+    {
+        "生物有效半衰期": "biological effective half-life"
+    },
+    {
+        "生物有效劑量": "biologically effective dose {= BED}"
+    },
+    {
+        "生物等效劑量": "biologically equivalent dose"
+    },
+    {
+        "方塊偵檢器": "block detector"
+    },
+    {
+        "血腦屏障": "blood-brain barrier {=BBB}"
+    },
+    {
+        "輝散效應": "blooming effect"
+    },
+    {
+        "體姿": "body position"
+    },
+    {
+        "填充物": "bolus"
+    },
+    {
+        "單次快速注射；彈丸注射": "bolus injection"
+    },
+    {
+        "骨齡": "bone age"
+    },
+    {
+        "骨囊腫": "bone cyst"
+    },
+    {
+        "骨梗塞": "bone infarction"
+    },
+    {
+        "骨關節": "bone joint"
+    },
+    {
+        "骨髓轉化": "bone marrow conversion"
+    },
+    {
+        "骨髓逆轉化": "bone marrow reconversion"
+    },
+    {
+        "骨骼掃描": "bone scintigraphy"
+    },
+    {
+        "親骨性核素": "bone-seeking radionuclide"
+    },
+    {
+        "硼中子捕獲治療": "boron neutron capture therapy {=BNCT}"
+    },
+    {
+        "近接治療": "brachytherapy"
+    },
+    {
+        "近接治療射源": "brachytherapy source"
+    },
+    {
+        "布拉格尖峰；布勒格尖峰": "bragg peak"
+    },
+    {
+        "腦膿瘍": "brain abscess"
+    },
+    {
+        "腦萎縮": "brain atrophy"
+    },
+    {
+        "腦挫傷": "brain contusion"
+    },
+    {
+        "腦轉移": "brain metastasis"
+    },
+    {
+        "分支衰變": "branching decay"
+    },
+    {
+        "布萊恩管；陰極射線管": "braun tube"
+    },
+    {
+        "崩解": "breakdown"
+    },
+    {
+        "制動輻射": "bremsstrahlung"
+    },
+    {
+        "支氣管擴張症": "bronchiectasis"
+    },
+    {
+        "支氣管攝影": "bronchography"
+    },
+    {
+        "中段支氣管": "bronchus intermedius"
+    },
+    {
+        "Brown Sequard症候群": "Brown Sequard syndrome"
+    },
+    {
+        "棕色瘤": "brown tumor"
+    },
+    {
+        "具備活動柵的X光檢查枱": "bucky table"
+    },
+    {
+        "(能量)增建區": "build up area"
+    },
+    {
+        "椎間盤膨出": "bulging disc"
+    },
+    {
+        "(肺)大泡": "bulla"
+    },
+    {
+        "副產物": "by-product"
+    },
+    {
+        "旁觀者效應": "bystander effect (Abscopal Effect)"
+    },
+    {
+        "C-模式": "C type mode"
+    },
+    {
+        "柯特威耳(顱骨)像": "Caldwell view"
+    },
+    {
+        "校正": "calibration"
+    },
+    {
+        "骨痂": "callus"
+    },
+    {
+        "微血管瘤": "capillary hemangioma"
+    },
+    {
+        "癌性腦膜炎": "carcinomatosis meningitis"
+    },
+    {
+        "抑癌效應": "carcinostatic effect"
+    },
+    {
+        "心週期": "cardiac cycle"
+    },
+    {
+        "心胸比例": "cardiothoracic ratio"
+    },
+    {
+        "心胸比": "cardiothoracic ratio {=CTR}"
+    },
+    {
+        "心血管電腦斷造影": "cardiovascular computed tomography {=CVCT}"
+    },
+    {
+        "心血管疾病": "cardiovascular disease"
+    },
+    {
+        "氣管隆突": "carina"
+    },
+    {
+        "腕隧道症候群": "carpal tunnel syndrome"
+    },
+    {
+        "載體": "carrier"
+    },
+    {
+        "無載體": "carrier free"
+    },
+    {
+        "無載體分離": "carrier free separation"
+    },
+    {
+        "軟骨毛髮發育不良症候群": "cartilage hair hypoplasia syndrome"
+    },
+    {
+        "乾酪壞死": "caseating necrosis"
+    },
+    {
+        "陰極": "cathode"
+    },
+    {
+        "陰極射線管": "cathode ray tube {=CRT}"
+    },
+    {
+        "尾頭方向": "caudo-cranial direction"
+    },
+    {
+        "海綿狀血管瘤": "cavernous hemangioma"
+    },
+    {
+        "空洞化": "cavitary"
+    },
+    {
+        "空腔理論": "cavity theory"
+    },
+    {
+        "細胞週期": "Cell cycle"
+    },
+    {
+        "細胞存活曲線": "cell survival curve"
+    },
+    {
+        "細胞存活率": "cell survival ratio"
+    },
+    {
+        "中心性腦神經細胞瘤": "central neurocytoma"
+    },
+    {
+        "橋腦中央髓鞘溶解症": "central pontine myelinolysis {=CPM}"
+    },
+    {
+        "中央靜脈導管": "central venous catheter {=CVC}"
+    },
+    {
+        "腺泡中央型肺氣腫": "centriacinar emphysema"
+    },
+    {
+        "頭向化": "cephalization"
+    },
+    {
+        "小腦萎縮症": "cerebellar atrophy"
+    },
+    {
+        "小腦梗塞": "cerebellar infarction"
+    },
+    {
+        "小腦炎": "cerebellitis"
+    },
+    {
+        "類澱粉腦血管病變": "cerebral amyloid angiopathy (CAA)"
+    },
+    {
+        "腦動靜脈畸形": "cerebral arteriovenous malformation"
+    },
+    {
+        "腦血流量": "cerebral blood flow {=CBF}"
+    },
+    {
+        "大腦半側萎縮": "cerebral hemiatrophy"
+    },
+    {
+        "腦梗塞": "cerebral infarction"
+    },
+    {
+        "大腦炎": "cerebritis"
+    },
+    {
+        "腦脊液散播": "cerebrospinal fluid (CSF) seeding"
+    },
+    {
+        "腦脊髓液": "cerebrospinal fluid {=CSF}"
+    },
+    {
+        "大腦血管儲備": "cerebrovascular reserve {=CVR}"
+    },
+    {
+        "鈰劑量計": "cerium dosimeter"
+    },
+    {
+        "連鎖反應": "chain reaction"
+    },
+    {
+        "特性X射線": "characteristic X-ray"
+    },
+    {
+        "夏科氏關節炎": "Charcot arthropathy"
+    },
+    {
+        "荷電粒子": "charged particles"
+    },
+    {
+        "螯合法": "chelate method"
+    },
+    {
+        "螯合劑": "chelating agent"
+    },
+    {
+        "螯合": "chelation"
+    },
+    {
+        "化學螢光": "chemiluminescence"
+    },
+    {
+        "化學螢光免疫分析": "chemoluminiscence immunoassay"
+    },
+    {
+        "肺尖攝影": "chest (AP lordotic view)"
+    },
+    {
+        "Chiari I先天性畸形": "Chiari I malformation"
+    },
+    {
+        "Chiari II先天性畸形": "Chiari II malformation"
+    },
+    {
+        "Chiari III先天性畸形": "Chiari III malformation"
+    },
+    {
+        "膽道攝影": "cholangiography"
+    },
+    {
+        "膽囊膽道攝影": "cholecystcocholangiography"
+    },
+    {
+        "膽囊炎": "cholecystitis"
+    },
+    {
+        "膽囊攝影": "cholecystography"
+    },
+    {
+        "膽道閃爍造影": "cholescintigraphy"
+    },
+    {
+        "點狀軟骨發育異常": "Chondrodysplasia punctata"
+    },
+    {
+        "軟骨基質": "chondroid matrix"
+    },
+    {
+        "軟骨瘤": "chondroma"
+    },
+    {
+        "軟骨黏液樣纖維瘤": "chondromyxoid fibroma {=CMF}"
+    },
+    {
+        "軟骨肉瘤": "chondrosarcoma"
+    },
+    {
+        "脊索瘤": "chordoma"
+    },
+    {
+        "絨毛膜癌": "choriocarcinoma"
+    },
+    {
+        "脈絡叢": "choroid plexus"
+    },
+    {
+        "脈絡叢乳頭狀瘤": "choroid plexus papilloma"
+    },
+    {
+        "層析法": "chromatography"
+    },
+    {
+        "染色體變異": "chromosomal aberration"
+    },
+    {
+        "染色體不穩定": "chromosomal instability"
+    },
+    {
+        "染色體突變": "chromosomal mutation"
+    },
+    {
+        "染色體多形性": "chromosomal polymorphism"
+    },
+    {
+        "慢性曝露": "chronic exposure"
+    },
+    {
+        "慢性阻塞性肺病": "chronic obstructive pulmonary disease {=COPD}"
+    },
+    {
+        "慢性復發性多灶性骨髓炎": "chronic recurrent multifocal osteomyelitis {=CRMO}"
+    },
+    {
+        "瘢痕形成；結瘢": "cicatrization"
+    },
+    {
+        "古典散射": "classical scattering"
+    },
+    {
+        "卡頓效應": "Clayden's effect"
+    },
+    {
+        "廓清率": "clearance rate"
+    },
+    {
+        "廓清時間": "clearing time"
+    },
+    {
+        "脊椎骨裂": "cleft vertebra"
+    },
+    {
+        "顱骨鎖骨發育不全": "cleidocranial dysostosis"
+    },
+    {
+        "臨床靶體積": "clinical target volume {=CTV}"
+    },
+    {
+        "殖株；選殖": "clone"
+    },
+    {
+        "鈷60": "Co-60"
+    },
+    {
+        "鈷校準因子": "cobalt calibration factor"
+    },
+    {
+        "鈷攝影": "cobalt radiography"
+    },
+    {
+        "鈷-60針": "cobalt-60 needle"
+    },
+    {
+        "鈷-60遠隔治療機": "cobalt-60 teletherapy apparatus"
+    },
+    {
+        "鈷60管": "cobalt-60 tube"
+    },
+    {
+        "美國聯邦管制法規；聯邦規則彙編": "Code of Federal Regulation {=CFR}"
+    },
+    {
+        "均勻係數": "coefficient of homogeneity"
+    },
+    {
+        "同調散射": "coherent scattering"
+    },
+    {
+        "符合偵檢": "coincidenc detection"
+    },
+    {
+        "時訊符合電路": "coincidence circuit"
+    },
+    {
+        "時訊符合計數法": "coincidence counting"
+    },
+    {
+        "偶合偵測": "coincidence detection"
+    },
+    {
+        "偶合時窗": "coincidence time window"
+    },
+    {
+        "冷膿瘍": "cold abscess"
+    },
+    {
+        "冷原子": "cold atom"
+    },
+    {
+        "冷套組": "cold kits"
+    },
+    {
+        "冷結節": "cold nodules"
+    },
+    {
+        "冷(無放射活性)運轉": "cold run"
+    },
+    {
+        "冷區": "cold spot"
+    },
+    {
+        "塌陷(肺)": "collapse (lung)"
+    },
+    {
+        "Colles骨折": "Colles' fracture"
+    },
+    {
+        "準直儀": "collimator"
+    },
+    {
+        "碰撞能量損失": "collision energy loss"
+    },
+    {
+        "碰撞損失": "collision loss"
+    },
+    {
+        "碰撞阻止本領": "collision stopping power"
+    },
+    {
+        "膠體": "colloid"
+    },
+    {
+        "膠體的": "colloidal"
+    },
+    {
+        "放射性膠體金": "colloidal radioactive gold"
+    },
+    {
+        "群體；菌落": "colony"
+    },
+    {
+        "側腦室枕角擴大畸形": "colpocephaly"
+    },
+    {
+        "約定等效劑量": "committed dose equivalent"
+    },
+    {
+        "約定有效劑量": "committed effective dose"
+    },
+    {
+        "約定等價劑量": "committed equivalent dose"
+    },
+    {
+        "粉碎性骨折": "communicated fracture"
+    },
+    {
+        "伴隨陰影": "companion shadow"
+    },
+    {
+        "腔室": "compartments"
+    },
+    {
+        "互補DNA": "complementary DNA {=cDNA}"
+    },
+    {
+        "錯合作用": "complexation"
+    },
+    {
+        "複合式背蹠(足背足底)投影法": "composite dorso-plantar projection"
+    },
+    {
+        "康普頓吸收峰值": "Compton absorption peak"
+    },
+    {
+        "康普頓原子散射係數": "Compton atomic scattering coefficient"
+    },
+    {
+        "康普頓邊緣": "Compton edge"
+    },
+    {
+        "康普頓效應": "Compton effect"
+    },
+    {
+        "康普頓電子": "Compton electron"
+    },
+    {
+        "康普頓散射": "Compton scattering"
+    },
+    {
+        "康普頓波長": "Compton wavelength"
+    },
+    {
+        "電腦斷層造影檢查": "computed tomography {=CT}"
+    },
+    {
+        "電腦斷層造影檢查": "computer assisted tomography scan {=CAT scan}"
+    },
+    {
+        "縮合；濃縮": "condensation"
+    },
+    {
+        "順形放射治療": "conformal radiotherapy"
+    },
+    {
+        "鬱血性": "congestive"
+    },
+    {
+        "結締組織疾病": "connective tissue disease {=CTD}"
+    },
+    {
+        "實質化的": "consolidated"
+    },
+    {
+        "實質化": "consolidation"
+    },
+    {
+        "連續光譜": "continuous spectrum"
+    },
+    {
+        "連續X光；X射線": "continuous X-ray"
+    },
+    {
+        "禁忌": "contraindications"
+    },
+    {
+        "對比": "contrast"
+    },
+    {
+        "對比增強": "contrast enhancement"
+    },
+    {
+        "對比劑；造影劑；顯影劑": "contrast medium"
+    },
+    {
+        "對比解析度": "contrast resolution"
+    },
+    {
+        "對比度": "contrast scale"
+    },
+    {
+        "對比增強影像": "contrast-enhanced images"
+    },
+    {
+        "傳統骨肉瘤": "conventional osteosarcoma"
+    },
+    {
+        "聚焦式": "converging type"
+    },
+    {
+        "凸形": "convexity"
+    },
+    {
+        "卷積法": "convolution method"
+    },
+    {
+        "配位數": "coordination number"
+    },
+    {
+        "冠狀面的": "coronal"
+    },
+    {
+        "冠狀面影像": "coronal image"
+    },
+    {
+        "冠狀面": "coronal plane"
+    },
+    {
+        "皮質發育不全": "cortical dysplasia"
+    },
+    {
+        "腦皮質結節{缺陷瘤；錯構瘤；過誤瘤}": "cortical tuber {hamartoma}"
+    },
+    {
+        "肋膈角": "costophrenic angles"
+    },
+    {
+        "肋膈溝（角）": "costophrenic sulcus (angle)"
+    },
+    {
+        "庫侖": "coulomb"
+    },
+    {
+        "庫侖電壓障蔽": "coulomb potential barrier"
+    },
+    {
+        "庫侖法則": "coulomb's low"
+    },
+    {
+        "分計量": "count per minute {=CPM}"
+    },
+    {
+        "秒計量": "count per second {=CPS}"
+    },
+    {
+        "計數器": "counter"
+    },
+    {
+        "計數係數": "counting coefficient"
+    },
+    {
+        "計數效率": "counting efficiency"
+    },
+    {
+        "計數漏失": "counting loss"
+    },
+    {
+        "計數率": "counting rate"
+    },
+    {
+        "計數率器": "counting ratemeter"
+    },
+    {
+        "計數產率": "counting yield"
+    },
+    {
+        "每分鐘總計數": "counts/min"
+    },
+    {
+        "每秒鐘總計數": "counts/s; counts/second"
+    },
+    {
+        "偶合反應；偶合作用": "coupling"
+    },
+    {
+        "CR振動器": "CR oscillator"
+    },
+    {
+        "頭尾方向": "cranio-caudal direction"
+    },
+    {
+        "顱咽管瘤": "craniopharyngioma"
+    },
+    {
+        "呆小病": "Crentinism"
+    },
+    {
+        "庫賈氏症": "Creutzeldt-Jakob disease {=CJD}"
+    },
+    {
+        "關鍵器官；危急器官": "critical organ"
+    },
+    {
+        "交叉鉛柵": "cross grid"
+    },
+    {
+        "橫斷面": "cross section"
+    },
+    {
+        "隱球菌腦膜炎": "cryptococcal meningitis"
+    },
+    {
+        "CsI (TI)閃爍計數器": "Csl (TI) scintillation counter"
+    },
+    {
+        "電腦斷層密度": "CT density"
+    },
+    {
+        "CT劑量指標": "CT dose index {=CTDI}"
+    },
+    {
+        "CT值": "CT number {Hounsfield units, HU}"
+    },
+    {
+        "電腦斷層模擬定位儀": "CT simulator"
+    },
+    {
+        "外翻肘": "cubitus valgus"
+    },
+    {
+        "內翻肘": "cubitus varus"
+    },
+    {
+        "累積活性；累積放射性": "cumulated activity"
+    },
+    {
+        "累積放射活性": "cumulative activity"
+    },
+    {
+        "根治放射治療": "curative radiotherapy"
+    },
+    {
+        "居里": "curie {=Ci}"
+    },
+    {
+        "居里量器": "curiemeter"
+    },
+    {
+        "電流增強率": "current amplification factor"
+    },
+    {
+        "電流增益": "current gain"
+    },
+    {
+        "現行藥品優良製造規範": "current GMP {=cGMP}"
+    },
+    {
+        "直流電離箱": "current-type ionization chamber"
+    },
+    {
+        "庫欣氏症": "Cushing's syndrome"
+    },
+    {
+        "周期變化": "cycling"
+    },
+    {
+        "迴旋加速器": "cyclotron"
+    },
+    {
+        "囊性病變": "cystic degeneration"
+    },
+    {
+        "囊蟲病{豬肉絛蟲}": "cysticercosis"
+    },
+    {
+        "膀胱攝影": "cystography"
+    },
+    {
+        "細胞激素": "cytokines"
+    },
+    {
+        "巨細胞病毒感染": "cytomegalovirus {=CMV} infection"
+    },
+    {
+        "D0": "D0"
+    },
+    {
+        "D1": "D1"
+    },
+    {
+        "數位類比轉換器": "D-A convertor {digital-analog}"
+    },
+    {
+        "道耳頓；道耳吞": "Dalton"
+    },
+    {
+        "子核種": "daughter nuclide"
+    },
+    {
+        "失效時間；停滯時間": "dead time"
+    },
+    {
+        "衰變圖式": "decacy scheme"
+    },
+    {
+        "衰變系列": "decacy series"
+    },
+    {
+        "衰變": "decay"
+    },
+    {
+        "衰變定數": "decay constant"
+    },
+    {
+        "衰變形式": "decay form"
+    },
+    {
+        "除污因數": "decontamination factor"
+    },
+    {
+        "除污指數": "decontamination index"
+    },
+    {
+        "去卷積法": "deconvolution method"
+    },
+    {
+        "側臥擺位": "decubitus position"
+    },
+    {
+        "D形電極": "Dee"
+    },
+    {
+        "深層靜脈栓塞": "deep vein thrombosis {=DVT}"
+    },
+    {
+        "深層靜脈血栓": "deep vein thrombus"
+    },
+    {
+        "深部X射線治療": "deep X-ray therapy"
+    },
+    {
+        "深部等效劑量": "deep-dose equivalent"
+    },
+    {
+        "退行性骨關節病": "degenerative arthritis"
+    },
+    {
+        "退化性關節疾病": "degenerative joint disease　{=DJD}"
+    },
+    {
+        "衰退": "degradation"
+    },
+    {
+        "延遲計數": "delayed counts"
+    },
+    {
+        "遲延中子": "delayed neutron"
+    },
+    {
+        "骨折癒合延遲": "delayed union"
+    },
+    {
+        "缺失": "deletion"
+    },
+    {
+        "δ射線": "delta rays"
+    },
+    {
+        "路易氏體失智症": "demantia with Lewy bodies {=DLB}"
+    },
+    {
+        "變性": "denature"
+    },
+    {
+        "照片黑度計；感光密度計": "densitometer"
+    },
+    {
+        "密度": "density"
+    },
+    {
+        "牙本質發育不全": "dentinogenesis imperfecta"
+    },
+    {
+        "去氧葡萄糖": "deoxyglucose"
+    },
+    {
+        "去氧核醣核酸": "deoxyribonucleic acid {=DNA}"
+    },
+    {
+        "去氧核醣": "deoxyribose glucose"
+    },
+    {
+        "凹陷的": "depressed"
+    },
+    {
+        "凹陷": "depression"
+    },
+    {
+        "深部劑量": "depth dose"
+    },
+    {
+        "深部等劑量線": "depth isodose curve"
+    },
+    {
+        "皮膚炎": "dermatitis"
+    },
+    {
+        "偵檢元件": "detecting element"
+    },
+    {
+        "偵檢；探測": "detection"
+    },
+    {
+        "偵檢效率": "detection efficiency"
+    },
+    {
+        "偵檢器": "detector"
+    },
+    {
+        "確定效應": "deterministic effect"
+    },
+    {
+        "氘；重氫": "deuterium"
+    },
+    {
+        "氘核": "deuteron"
+    },
+    {
+        "(膠片)顯影": "developing"
+    },
+    {
+        "(膠片)顯影劑": "developing agent"
+    },
+    {
+        "反磁性物質": "diamagnetic substance"
+    },
+    {
+        "橫徑": "diameter transversa"
+    },
+    {
+        "橫膈膜": "diaphragm"
+    },
+    {
+        "脊髓縱裂": "diastematomyelia"
+    },
+    {
+        "鑑別診斷": "differential diagnosis"
+    },
+    {
+        "彌漫性": "diffuse"
+    },
+    {
+        "瀰漫性軸突損傷": "diffuse axonal injury　{=DAI}"
+    },
+    {
+        "特發性瀰漫性骨質增生症": "diffuse idiopathic skeletal hyperostosis {=DISH}"
+    },
+    {
+        "數位影像": "digital image"
+    },
+    {
+        "數位放射攝影(術)": "digital radiography {=DR}"
+    },
+    {
+        "數位減贅血管攝影": "digital subtraction angiography {=DSA}"
+    },
+    {
+        "數位類比變換器": "digital to analog convertor"
+    },
+    {
+        "直接作用": "direct action"
+    },
+    {
+        "直接數位放射攝影(術)": "direct digital radiography"
+    },
+    {
+        "直接游離輻射": "direct ionizing radiation"
+    },
+    {
+        "方向依賴性；方向依存性": "directional dependence"
+    },
+    {
+        "椎間盤切除術": "discetomy"
+    },
+    {
+        "椎間盤攝影(術)": "discography"
+    },
+    {
+        "無病存活期": "disease-free survival"
+    },
+    {
+        "蛻變率": "disintegration rate"
+    },
+    {
+        "脫位；脫臼": "dislocation"
+    },
+    {
+        "錯位型骨折": "displaced fracture"
+    },
+    {
+        "位移": "displacement"
+    },
+    {
+        "遠端小管": "distal tubule"
+    },
+    {
+        "發散準直儀": "diverging collimator"
+    },
+    {
+        "發散式": "diverging type"
+    },
+    {
+        "十二烷四醋酸": "doclecanetetraacetic acid {=DOTA}"
+    },
+    {
+        "多巴": "dopa"
+    },
+    {
+        "多巴胺": "dopamine"
+    },
+    {
+        "多巴胺-2-受體": "dopamine-2-receptor"
+    },
+    {
+        "多巴胺的": "dopaminergic"
+    },
+    {
+        "都卜勒超音波": "Doppler ultrasound"
+    },
+    {
+        "背蹠方向；足背足底方向": "dorso-plantar direction"
+    },
+    {
+        "劑量衰減校正": "dose attenuation correction"
+    },
+    {
+        "劑量校正儀": "dose calibrators"
+    },
+    {
+        "劑量分布": "dose distribution"
+    },
+    {
+        "劑量當量": "dose equivalent {=DE}"
+    },
+    {
+        "劑量率": "dose rate"
+    },
+    {
+        "劑量依賴性；劑量依存性": "dose rate dependence"
+    },
+    {
+        "劑量率效應": "dose rate effect"
+    },
+    {
+        "劑量率儀": "dose ratemeter"
+    },
+    {
+        "劑量減弱係數": "dose reduction factor {=DRF}"
+    },
+    {
+        "劑量減弱率": "dose reduction ratio"
+    },
+    {
+        "劑量反應曲線": "dose response curve"
+    },
+    {
+        "劑量體積直方圖": "dose volume histogram {=DVH}"
+    },
+    {
+        "劑量-長度乘積": "dose-length product {=DLP}"
+    },
+    {
+        "劑量-修正係數": "dose-modifying factor {=DMF}"
+    },
+    {
+        "劑量-效應曲線": "dose-response curve"
+    },
+    {
+        "劑量計": "dosimeter"
+    },
+    {
+        "劑量師": "dosimetrist"
+    },
+    {
+        "劑量測定術": "dosimetry"
+    },
+    {
+        "雙抗體法": "double antibody method"
+    },
+    {
+        "雙重對比造影法": "double contrast method"
+    },
+    {
+        "雙焦點X光管": "double focus X-ray tube"
+    },
+    {
+        "尺橈骨幹雙骨折": "double fracture of shafts of ulna and radius"
+    },
+    {
+        "雙螺旋": "double helix"
+    },
+    {
+        "雙線徵": "double line sign"
+    },
+    {
+        "雙重對比鋇劑檢查": "double-contrast barium study"
+    },
+    {
+        "倍增劑量": "doubling dose"
+    },
+    {
+        "倍增時間": "doubling time"
+    },
+    {
+        "雙能減影法": "dual energy subtraction"
+    },
+    {
+        "雙同位素技術": "dual-isotope technique"
+    },
+    {
+        "假射源": "dummy source"
+    },
+    {
+        "動態掃描": "dynamic-scan"
+    },
+    {
+        "點狀骨骺": "dysplasia epiphyseal punctata"
+    },
+    {
+        "半肢骨骺發育不良; Trevor氏病": "dysplasia epiphysealis hemimelica {=Trevor disease}"
+    },
+    {
+        "半肢骨骺發育不良": "dysplasia epiphysialis hemimelica {=DEH}"
+    },
+    {
+        "早期反應": "early response"
+    },
+    {
+        "早期反應基因": "early-response gene"
+    },
+    {
+        "渦電流": "eddy current"
+    },
+    {
+        "50%有效劑量": "effect dose 50% {=ED50}"
+    },
+    {
+        "有效原子序數": "effective atomic number"
+    },
+    {
+        "有效衰減係數": "effective attenuation coefficient"
+    },
+    {
+        "有效劑量": "effective dose"
+    },
+    {
+        "有效等效劑量": "effective dose equivalent"
+    },
+    {
+        "實效焦點": "effective focal spot"
+    },
+    {
+        "有效半衰期": "effective half-life"
+    },
+    {
+        "有效中子數": "effective neutron number"
+    },
+    {
+        "有效腎血漿流量": "effective renal plasma flow {=ERPF}"
+    },
+    {
+        "滲出液": "effusion"
+    },
+    {
+        "心電圖門控影像": "EKG/ECG-gated imaging"
+    },
+    {
+        "心電圖門控": "EKG-gated"
+    },
+    {
+        "彈性碰撞": "elastic collision"
+    },
+    {
+        "彈性散射": "elastic scattering"
+    },
+    {
+        "電場": "electric field"
+    },
+    {
+        "電位": "electric potential"
+    },
+    {
+        "電磁波": "electromagnetic wave"
+    },
+    {
+        "電子": "electron"
+    },
+    {
+        "電子突崩": "electron avalanche"
+    },
+    {
+        "電子束治療": "electron beam therapy"
+    },
+    {
+        "電子(射)束": "electron beams"
+    },
+    {
+        "電子捕獲": "electron capture {=EC}"
+    },
+    {
+        "電子捕獲蛻變": "electron capture disintegration"
+    },
+    {
+        "電子密度": "electron density"
+    },
+    {
+        "電子伏特": "electron volt {=eV}"
+    },
+    {
+        "電子捕獲躍遷": "electron-capture transitions"
+    },
+    {
+        "電子衰減係數": "electronic attenuation coefficient"
+    },
+    {
+        "電子碰撞截面": "electronic collision cross section"
+    },
+    {
+        "親電性氟化製劑": "electrophilic fluorinating agents"
+    },
+    {
+        "親電性氟化": "electrophilic fluorination"
+    },
+    {
+        "靜電單位": "electrostatic unit"
+    },
+    {
+        "洗出液": "eluate"
+    },
+    {
+        "射出式電腦斷層造影": "emission computed tomography {=ECT}"
+    },
+    {
+        "射出光譜": "emission spectrum"
+    },
+    {
+        "射出體": "emitter"
+    },
+    {
+        "氣腫": "emphysema"
+    },
+    {
+        "空蝶鞍症候群": "empty sella syndrome"
+    },
+    {
+        "包膜的": "encapsulated"
+    },
+    {
+        "腦膨出": "encephalocele"
+    },
+    {
+        "腦軟化": "encephalomalacia"
+    },
+    {
+        "內生軟骨瘤": "enchondroma"
+    },
+    {
+        "內吞作用": "endocytosis"
+    },
+    {
+        "內胚竇瘤": "endodermal sinus tumor"
+    },
+    {
+        "內生性的": "endogenous"
+    },
+    {
+        "內視鏡逆行性胰膽管攝影": "endoscopic retrograde cholangiopancreatography {=ERCP}"
+    },
+    {
+        "氣管內管；氣管導管": "endotracheal tube"
+    },
+    {
+        "能量吸收係數": "energy absorption coefficient"
+    },
+    {
+        "能量轉換係數": "energy conversion factors"
+    },
+    {
+        "能量依存": "energy dependence"
+    },
+    {
+        "能通量": "energy fluence"
+    },
+    {
+        "能通率": "energy fluence rate"
+    },
+    {
+        "能通量密度": "energy flux density"
+    },
+    {
+        "軌道能量": "energy orbits"
+    },
+    {
+        "能量解析度": "energy resolution"
+    },
+    {
+        "能量光譜；能譜": "energy spectrum"
+    },
+    {
+        "能量轉移係數": "energy transfer coefficient"
+    },
+    {
+        "能窗": "energy window"
+    },
+    {
+        "影像增強": "enhancement of image"
+    },
+    {
+        "高豐度": "enriched"
+    },
+    {
+        "腸病毒": "enterovirus"
+    },
+    {
+        "酵素免疫分析法": "enzyme immunoassay"
+    },
+    {
+        "酵素連結免疫吸附分析法": "enzyme-linked immunosorbent assay {=ELISA}"
+    },
+    {
+        "室管膜瘤": "ependymoma"
+    },
+    {
+        "表皮樣囊腫": "epidermoid cyst"
+    },
+    {
+        "表皮樣肉瘤": "epidermoid sarcoma"
+    },
+    {
+        "硬腦膜外(硬腦膜上)膿瘍": "epidural abscess"
+    },
+    {
+        "硬腦膜外(硬腦膜上)蓄膿": "epidural empyema"
+    },
+    {
+        "硬腦膜外(硬腦膜上)血腫": "epidural hematoma"
+    },
+    {
+        "上皮樣血管內皮細胞瘤": "epithelioid hemangioendothelioma"
+    },
+    {
+        "劑量平衡常數": "equilibrium dose constant"
+    },
+    {
+        "外翻足": "equinovalgus"
+    },
+    {
+        "內翻足": "equinovarus (club foot)"
+    },
+    {
+        "當量": "equivalent"
+    },
+    {
+        "等效劑量": "equivalent dose"
+    },
+    {
+        "直立": "erect"
+    },
+    {
+        "爾格；耳格": "erg"
+    },
+    {
+        "食道影像；食道攝影": "esophagography"
+    },
+    {
+        "食道影像；食道攝影": "esophagram"
+    },
+    {
+        "歐洲原子能共同體": "European Atomic Energy Community {= EURATOM}"
+    },
+    {
+        "歐洲藥品管理局": "European Medicines Evaluation Agency {= EMEA}"
+    },
+    {
+        "Ewing氏肉瘤": "Ewing sarcoma"
+    },
+    {
+        "(生物)體外": "ex vivo"
+    },
+    {
+        "(生物)體外技術": "ex vivo technique"
+    },
+    {
+        "激發態": "excited state"
+    },
+    {
+        "排泄": "excretion"
+    },
+    {
+        "排氣通風櫃": "exhaust fumehoods"
+    },
+    {
+        "呼氣": "expiration"
+    },
+    {
+        "吐氣": "expiratory"
+    },
+    {
+        "呼氣影像": "expiratory film"
+    },
+    {
+        "指數衰減": "exponential attenuation"
+    },
+    {
+        "曝露": "exposure"
+    },
+    {
+        "暴露校正因子": "exposure calibration factor"
+    },
+    {
+        "曝露劑量": "exposure dose"
+    },
+    {
+        "曝露率": "exposure rate"
+    },
+    {
+        "曝露率常數": "exposure rate constant"
+    },
+    {
+        "體外放射治療": "external radiotherapy"
+    },
+    {
+        "萃取率": "extractability"
+    },
+    {
+        "萃取": "extraction"
+    },
+    {
+        "萃取效率": "extraction efficiency"
+    },
+    {
+        "核外電子": "extranuclear electron"
+    },
+    {
+        "肋膜外腔": "extrapleural space"
+    },
+    {
+        "橋腦外髓鞘溶解症": "extrapontine myelinolysis {=EPM}"
+    },
+    {
+        "骨外黏液樣軟骨肉瘤": "extraskeletal myxoid chondrosarcoma"
+    },
+    {
+        "脊椎之小面關節": "facet joint"
+    },
+    {
+        "Fahr氏病": "Fahr disease"
+    },
+    {
+        "落塵；輻射塵": "fallout"
+    },
+    {
+        "扇形射束": "fan beam"
+    },
+    {
+        "快分裂效應": "fast fission effect"
+    },
+    {
+        "快中子": "fast neutron"
+    },
+    {
+        "快中子劑量": "fast neutron dose"
+    },
+    {
+        "快中子治療": "fast neutron therapy"
+    },
+    {
+        "回饋控制": "feedback control"
+    },
+    {
+        "成纖維性骨肉瘤": "fibroblastic osteosarcoma"
+    },
+    {
+        "皮質骨碟形破壞": "fibrous cortical defect"
+    },
+    {
+        "骨纖維異常增殖症": "fibrous dysplasia"
+    },
+    {
+        "照野": "field"
+    },
+    {
+        "視野；照野": "field of view {=FOV}"
+    },
+    {
+        "照野效應": "field-size effect"
+    },
+    {
+        "膠片佩章": "film badge"
+    },
+    {
+        "膠片配章劑量計": "film badge dosimeter"
+    },
+    {
+        "膠片指環": "film ring"
+    },
+    {
+        "濾片；濾器": "filter"
+    },
+    {
+        "濾波反投影法": "filter back projection {=FBP}"
+    },
+    {
+        "濾波反投影": "filtered backprojection {=FBP}"
+    },
+    {
+        "細針抽吸穿刺切片": "fine-needle aspiration biopsy {=FNAB}"
+    },
+    {
+        "首渡；首過": "first pass"
+    },
+    {
+        "首過放射性核種心室造影術": "first pass radionuclidic ventriculographic technique"
+    },
+    {
+        "首過法；首渡法": "first-pass method"
+    },
+    {
+        "核分裂產物": "fission products"
+    },
+    {
+        "裂隙": "fissure (s)"
+    },
+    {
+        "瘻管攝影": "fistulography"
+    },
+    {
+        "整平濾片": "flattening filter"
+    },
+    {
+        "通量": "fluence"
+    },
+    {
+        "通量率": "fluence rate"
+    },
+    {
+        "螢光": "fluorescence"
+    },
+    {
+        "螢光產率": "fluorescence yield"
+    },
+    {
+        "氟化去氧葡萄糖": "fluorodeoxyglucose {=FDG}"
+    },
+    {
+        "透視攝影裝置": "fluoroscope radiographic apparatus"
+    },
+    {
+        "螢光透視檢查": "fluoroscopy"
+    },
+    {
+        "氟骨病": "fluorosis"
+    },
+    {
+        "模糊效應階段 {亞急性腦梗塞}": "fogging effect {in subacute infarction}"
+    },
+    {
+        "食品與藥物管理局": "Food and Drug Administration {=FDA}"
+    },
+    {
+        "食品藥物管理局現代化法案": "Food and Drug Administration Modernization Act {=FDAMA}"
+    },
+    {
+        "分率；分次": "fraction"
+    },
+    {
+        "分次照射": "fractional irradiation"
+    },
+    {
+        "分次": "fractionation"
+    },
+    {
+        "片段": "fragment"
+    },
+    {
+        "框；節；幀": "frame"
+    },
+    {
+        "Frankel氏線": "Frankel line"
+    },
+    {
+        "游離抗原": "free antigen"
+    },
+    {
+        "自由感應衰減": "free induction decay {=FID}"
+    },
+    {
+        "自由基": "free radical"
+    },
+    {
+        "正面": "frontal"
+    },
+    {
+        "正面影像": "frontal view"
+    },
+    {
+        "半高全寬": "full width at half maximum {=FWHM}"
+    },
+    {
+        "功能影像": "functional image"
+    },
+    {
+        "鎵-67閃爍攝影": "Ga-67 scintigraphy"
+    },
+    {
+        "Galeazzi骨折": "Galeazzi fracture"
+    },
+    {
+        "氯化鎵": "gallium chloride"
+    },
+    {
+        "檸檬酸鎵": "gallium citrate"
+    },
+    {
+        "鎵-68": "gallium-68 {=Ga-68}"
+    },
+    {
+        "伽瑪攝影器": "gamma camera"
+    },
+    {
+        "伽瑪衰變": "gamma disintegration"
+    },
+    {
+        "伽瑪刀；加馬刀": "gamma knife"
+    },
+    {
+        "伽瑪射線": "gamma ray"
+    },
+    {
+        "伽瑪射線；加馬射線": "gamma ray {=γ-ray}"
+    },
+    {
+        "氣體層析術": "gas chromatography"
+    },
+    {
+        "門控": "gated"
+    },
+    {
+        "門控心臟血池平衡閃爍造影": "gated equilibrium cardiac blood pool scintigraphy"
+    },
+    {
+        "蓋格計數器": "Geiger-Muller (GM) counters"
+    },
+    {
+        "蓋格偵檢計": "Geiger-Muller (GM) survey meter"
+    },
+    {
+        "蓋革計數器": "Geiger-Muller counter"
+    },
+    {
+        "蓋革氏偵檢器": "Geiger-Muller detector"
+    },
+    {
+        "蓋革-史達爾法則": "Geiger-Nuttall's law"
+    },
+    {
+        "產生器；孳生器": "generator"
+    },
+    {
+        "基因體": "genome"
+    },
+    {
+        "基因體庫": "genomic library"
+    },
+    {
+        "基因型；遺傳型": "genotype"
+    },
+    {
+        "外翻膝": "genu valgus"
+    },
+    {
+        "內翻膝": "genu varus"
+    },
+    {
+        "地圖樣": "geographic"
+    },
+    {
+        "生殖細胞腫瘤": "germ cell tumor"
+    },
+    {
+        "胚細胞瘤": "germinoma"
+    },
+    {
+        "巨細胞星細胞瘤": "giant cell astrocytoma"
+    },
+    {
+        "巨細胞瘤": "giant cell tumor"
+    },
+    {
+        "腱鞘巨細胞瘤": "giant cell tumor of tendon sheath {=GCTTS}"
+    },
+    {
+        "巨人症": "gigantism"
+    },
+    {
+        "眉耳孔線": "gladellomeatal line"
+    },
+    {
+        "玻璃劑量計": "glass dosimeter"
+    },
+    {
+        "神經膠質母細胞瘤": "glioblastoma"
+    },
+    {
+        "多形性神經膠質母細胞瘤": "glioblastoma multiforme {=GBM}"
+    },
+    {
+        "大腦神經膠瘤病": "gliomatosis cerebri"
+    },
+    {
+        "腎小(絲)球過濾率": "glomerular filtration rate {=GFR}"
+    },
+    {
+        "腎小(絲)球": "glomerulus"
+    },
+    {
+        "球狀血管瘤": "glomus tumor"
+    },
+    {
+        "醣質新生作用": "gluconeogenesis"
+    },
+    {
+        "葡萄糖轉運體": "glucose transporter {=GLUT}"
+    },
+    {
+        "肝醣": "glycogen"
+    },
+    {
+        "醣解作用": "glycolysis"
+    },
+    {
+        "蓋革-彌勒計數器": "GM counter"
+    },
+    {
+        "性腺劑量": "gonad dose"
+    },
+    {
+        "防護(鉛)生殖器護罩": "gonadal shield"
+    },
+    {
+        "性腺；生殖腺": "gonads"
+    },
+    {
+        "藥品優良製造規範": "Good Manufacturing Practice {=GMP}"
+    },
+    {
+        "痛風性關節炎": "gouty arthritis"
+    },
+    {
+        "分級；等級": "grade"
+    },
+    {
+        "梯度線圈": "gradient coil"
+    },
+    {
+        "梯度修正": "gradient correction"
+    },
+    {
+        "梯度磁場": "gradient magnetic field"
+    },
+    {
+        "梯度磁場線圈": "gradient magnetic field coil"
+    },
+    {
+        "格雷；戈雷": "gray {=Gy}"
+    },
+    {
+        "灰階": "gray scale"
+    },
+    {
+        "大粗隆": "greater trochanter"
+    },
+    {
+        "鉛柵": "grid"
+    },
+    {
+        "柵板": "grid (G)"
+    },
+    {
+        "柵電位控制X光管": "grid controlled X-ray tube"
+    },
+    {
+        "鉛柵比": "grid ratio"
+    },
+    {
+        "腫瘤體積": "gross tumor volume {=GTV}"
+    },
+    {
+        "毛玻璃狀": "ground glass"
+    },
+    {
+        "基態": "ground state"
+    },
+    {
+        "毛玻璃狀衰減": "ground-glass attenuation"
+    },
+    {
+        "毛玻璃狀陰影": "ground-glass opacity"
+    },
+    {
+        "生長延遲": "growth delay"
+    },
+    {
+        "生長因子": "growth factor"
+    },
+    {
+        "導線": "guide wire"
+    },
+    {
+        "方針；規範": "guidelines"
+    },
+    {
+        "腦回顯影": "gyral enhancement"
+    },
+    {
+        "陀螺儀": "gyroscope"
+    },
+    {
+        "包蟲病": "hadatic cyst disease"
+    },
+    {
+        "含鐵血紅素沉積症": "haemosiderosis"
+    },
+    {
+        "半數致死劑量": "half lethal dose {=LD50}"
+    },
+    {
+        "半厚度": "half thickness"
+    },
+    {
+        "半值層": "half-value layer {=HVL}"
+    },
+    {
+        "外翻趾": "hallus valgus"
+    },
+    {
+        "內翻趾": "hallus varus"
+    },
+    {
+        "過誤瘤；錯構瘤": "hamartoma"
+    },
+    {
+        "不完全抗原；半抗原": "hapten"
+    },
+    {
+        "橋本氏甲狀腺炎": "Hashimoto's thyroiditis"
+    },
+    {
+        "保健物理": "health physics"
+    },
+    {
+        "熱休克蛋白": "heat shock protein"
+    },
+    {
+        "熱單位": "heat unit {=HU}"
+    },
+    {
+        "重粒子": "heavy charged particle"
+    },
+    {
+        "血管母細胞瘤": "hemangioblastoma"
+    },
+    {
+        "血管瘤": "hemangioma"
+    },
+    {
+        "血管外皮細胞瘤": "hemangiopericytoma"
+    },
+    {
+        "血容比": "hematocrit"
+    },
+    {
+        "半肢畸形": "hemimelia"
+    },
+    {
+        "半側胸廓；單側胸廓": "hemithorax"
+    },
+    {
+        "半椎體": "hemivertebra"
+    },
+    {
+        "血胸": "hemothorax"
+    },
+    {
+        "肝素": "heparin"
+    },
+    {
+        "結腸肝彎；肝曲": "hepatic flexure"
+    },
+    {
+        "肝膽造影劑": "hepatobiliary agents"
+    },
+    {
+        "肝細胞": "hepatocytes"
+    },
+    {
+        "椎間盤突出": "herniated disk"
+    },
+    {
+        "椎間盤突出": "herniation of intervertebral disc {= HIVD}"
+    },
+    {
+        "單純疱疹腦炎": "herpes simplex encephalitis"
+    },
+    {
+        "赫茲": "Herz"
+    },
+    {
+        "異質的": "heterogeneous"
+    },
+    {
+        "灰質異位": "heterotopia of gray matter"
+    },
+    {
+        "六碳糖激酶；己醣激酶": "hexokinase"
+    },
+    {
+        "裂孔疝氣": "hiatal hernia"
+    },
+    {
+        "高能X光線治療": "high energy X-ray therapy"
+    },
+    {
+        "高電壓放射攝影(術)(少用)": "high voltage radiography"
+    },
+    {
+        "高電壓攝影用增感屏": "high voltage radiography screen"
+    },
+    {
+        "高效能液相層析法": "high-performance liquid chromatography {=HPLC}"
+    },
+    {
+        "高解析度電腦斷層": "high-resolution CT {=HRCT}"
+    },
+    {
+        "肺門": "hilar"
+    },
+    {
+        "Hill-Sacks損傷": "Hill-Sack lesion"
+    },
+    {
+        "肺門": "hilum"
+    },
+    {
+        "組織漿菌症": "histoplasmosis"
+    },
+    {
+        "Hodgkin淋巴瘤": "Hodgkin lymphoma"
+    },
+    {
+        "前腦無裂畸形": "holoprosencephaly"
+    },
+    {
+        "蜂窩狀": "honeycombing"
+    },
+    {
+        "熱原子化學": "hot atom chemistry"
+    },
+    {
+        "熱原子效應": "hot atom effect"
+    },
+    {
+        "熱(有放射活性)運轉": "hot run"
+    },
+    {
+        "熱風滅菌": "hot-air sterilization"
+    },
+    {
+        "HU值": "Hounsfield unit {=HU}"
+    },
+    {
+        "單純疱疹病毒": "HSV herpes simplex virus {=HSV}"
+    },
+    {
+        "人類抗鼠抗體": "human anti-murine antibody {=HAMA}"
+    },
+    {
+        "Hunter氏病": "Hunter disease"
+    },
+    {
+        "混合掃描器": "hybrid scanner"
+    },
+    {
+        "雜合": "hybridization"
+    },
+    {
+        "積水性無腦畸形": "hydraencephaly"
+    },
+    {
+        "鹽酸": "hydrochloric acid {=HC1}"
+    },
+    {
+        "水解產物": "hydrolysate"
+    },
+    {
+        "水解的": "hydrolyzed"
+    },
+    {
+        "水氣胸": "hydropneumothorax"
+    },
+    {
+        "羥磷灰石": "hydroxyapatite"
+    },
+    {
+        "羥磷灰石基質": "hydroxyapatite matrix"
+    },
+    {
+        "羥基亞甲基二磷酸鹽": "hydroxymethylene diphosphonate {=HMDP or HDP}"
+    },
+    {
+        "高壓氧": "hyperbaric oxygen {=HBO}"
+    },
+    {
+        "高血鈣症": "hypercalcemia"
+    },
+    {
+        "高分次放射治療": "hyperfractionated radiotherapy"
+    },
+    {
+        "過度充氣": "hyperinflation"
+    },
+    {
+        "副甲狀腺功能亢進": "hyperparathyroidism"
+    },
+    {
+        "增生": "hyperplasia"
+    },
+    {
+        "熱療法": "hyperthermia"
+    },
+    {
+        "熱治療": "hyperthermia therapy"
+    },
+    {
+        "甲狀腺機能亢進": "hyperthyroidism"
+    },
+    {
+        "肥厚性骨關節病變": "hypertrophic pulmonary osteoarthropathy"
+    },
+    {
+        "高尿酸血症": "hyperuricemia"
+    },
+    {
+        "低二倍體": "hypodiploid"
+    },
+    {
+        "低分次放射治療": "hypofractionated radiotherapy"
+    },
+    {
+        "下咽": "hypopharynx"
+    },
+    {
+        "胼胝體發育不全": "hypoplasia of corpus callosum"
+    },
+    {
+        "下視丘": "hypothalamus"
+    },
+    {
+        "低張性十二指腸攝影": "hypotonic duodenography"
+    },
+    {
+        "換氣不足": "hypoventilation"
+    },
+    {
+        "子宮輸卵管攝影": "hysterosalpingography {=HSG}"
+    },
+    {
+        "碘-131全身掃描": "I-131 whole body scan {=131I WBS}"
+    },
+    {
+        "髂骨弓狀線": "iliac arcuate line"
+    },
+    {
+        "影像擷取": "image acquisition"
+    },
+    {
+        "影像放大器": "image amplifier {=IA}"
+    },
+    {
+        "影像對比": "image contrast"
+    },
+    {
+        "影像融合": "image fusion"
+    },
+    {
+        "影像增強器": "image intensifier"
+    },
+    {
+        "影像對位": "image registration"
+    },
+    {
+        "假想線": "imaginary lines"
+    },
+    {
+        "成像；攝影；造影": "imaging"
+    },
+    {
+        "影像診斷工具": "imaging modality"
+    },
+    {
+        "免疫螢光分析法": "immunofluorescence assay"
+    },
+    {
+        "試管內；體外": "in vitro"
+    },
+    {
+        "體內；活體內": "in vivo"
+    },
+    {
+        "活體內計數": "in vivo counting"
+    },
+    {
+        "活體內標識": "in vivo labeling"
+    },
+    {
+        "空氣曝露": "in-air exposure"
+    },
+    {
+        "入射劑量": "incident dose"
+    },
+    {
+        "不完整性骨折": "incomplete fracture"
+    },
+    {
+        "培養": "incubation"
+    },
+    {
+        "間接數位放射攝影(術)": "indirect digital radiography"
+    },
+    {
+        "間接游離輻射": "indirect ionizing radiation"
+    },
+    {
+        "非彈性碰撞": "inelastic collision"
+    },
+    {
+        "非彈性散射": "inelastic scattering"
+    },
+    {
+        "嬰兒骨皮質增生症": "infantile cortical hyperostosis {=Caffey disease}"
+    },
+    {
+        "下腔靜脈攝影(術)": "inferior vena cavography"
+    },
+    {
+        "浸潤": "infiltration"
+    },
+    {
+        "吸氣": "inspiration"
+    },
+    {
+        "吸氣影像": "inspiratory film"
+    },
+    {
+        "研究倫理規範審查小組": "Institutional Review Board {=IRB}"
+    },
+    {
+        "不全性骨折": "insufficiency fracture"
+    },
+    {
+        "增強法": "intensification"
+    },
+    {
+        "增感屏": "intensifying screen"
+    },
+    {
+        "肺葉間": "interlobar"
+    },
+    {
+        "肺葉裂隙": "interlobar fissure"
+    },
+    {
+        "內轉換": "internal conversion"
+    },
+    {
+        "內轉換係數": "internal conversion coefficient"
+    },
+    {
+        "內轉換過程": "internal conversion process"
+    },
+    {
+        "國際放射線單位及測定委員會": "international commission on radiation units and measurements {=ICRU}"
+    },
+    {
+        "國際輻射防護委員會；國際放射線防護委員會": "international commission on radiological protection {=ICRP}"
+    },
+    {
+        "間期": "interphase"
+    },
+    {
+        "間質性": "interstitial"
+    },
+    {
+        "間質性水腫": "interstitial edema"
+    },
+    {
+        "組織插種近接治療": "interstitial implant"
+    },
+    {
+        "間質性肺部疾病": "interstitial lung disease"
+    },
+    {
+        "間質型態": "interstitial pattern"
+    },
+    {
+        "間質": "interstitium"
+    },
+    {
+        "腦室間孔": "interventricular foramen"
+    },
+    {
+        "椎間盤": "intervertebral disc"
+    },
+    {
+        "腔內近接治療": "intracavitary implant"
+    },
+    {
+        "腦內出血": "intracerebral hemorrhage {=ICH}"
+    },
+    {
+        "顱內動脈瘤": "intracranial aneurysm"
+    },
+    {
+        "膜內成骨": "intramembranous ossification"
+    },
+    {
+        "手術中放射治療": "intraoperative radiation therapy {=IORT}"
+    },
+    {
+        "口腔內X光攝影": "intraoral radiography"
+    },
+    {
+        "經靜脈之心血管放射攝影(術)": "intravenous angiocardiography"
+    },
+    {
+        "腦室內的": "intraventricular {cerebral}"
+    },
+    {
+        "固有解析度": "intrinsic resolution"
+    },
+    {
+        "平方反比定律": "inverse square law"
+    },
+    {
+        "反轉回復": "inversion recovery"
+    },
+    {
+        "試驗中新藥": "Investigational New Drug {=IND}"
+    },
+    {
+        "骨包膜": "involucrum"
+    },
+    {
+        "碘131": "Iodine 131"
+    },
+    {
+        "離子": "ion"
+    },
+    {
+        "離子交換層析法": "ion-exchange chromatography"
+    },
+    {
+        "游離化": "ionization"
+    },
+    {
+        "游離腔": "ionization chamber"
+    },
+    {
+        "游離腔劑量計": "ionization chamber dosimeter"
+    },
+    {
+        "游離輻射": "ionizing radiation {=IR}"
+    },
+    {
+        "同側": "ipsilateral"
+    },
+    {
+        "鐵沉積": "iron deposition"
+    },
+    {
+        "照射體積": "irradiated volume"
+    },
+    {
+        "照射": "irradiation"
+    },
+    {
+        "缺血性腦中風": "ischemic infarction"
+    },
+    {
+        "同重素": "isobar"
+    },
+    {
+        "等中心點": "isocenter"
+    },
+    {
+        "等劑量": "isodose"
+    },
+    {
+        "等劑量曲線": "isodose curve"
+    },
+    {
+        "同質異能素": "isomer"
+    },
+    {
+        "異構態": "isomeric state"
+    },
+    {
+        "異構過渡": "isomeric transition {=IT}"
+    },
+    {
+        "異構物": "isomers"
+    },
+    {
+        "等中子素": "isotone"
+    },
+    {
+        "同位素": "isotope"
+    },
+    {
+        "同位素稀釋技術": "isotope dilution technique"
+    },
+    {
+        "同位素分離器": "isotope separator"
+    },
+    {
+        "疊代近似法": "iterative approximation"
+    },
+    {
+        "疊代重建法": "iterative reconstruction"
+    },
+    {
+        "焦耳": "joule"
+    },
+    {
+        "皮質旁軟骨肉瘤": "juxtacortical chondrosarcoma"
+    },
+    {
+        "大骨節病": "Kaschin-Beck disease"
+    },
+    {
+        "克利線": "Kerley lines"
+    },
+    {
+        "克馬": "Kerma {=K}"
+    },
+    {
+        "克馬係數": "Kerma coefficient"
+    },
+    {
+        "克馬率": "Kerma rate {=K}"
+    },
+    {
+        "仰臥腹部攝影；腎臟輸尿管膀胱攝影": "kidney ureter bladder {=KUB}"
+    },
+    {
+        "千伏特": "kilovoltage{=kV}"
+    },
+    {
+        "動能": "kinetic energy"
+    },
+    {
+        "套組": "kit"
+    },
+    {
+        "調速管；速調管": "klystron"
+    },
+    {
+        "標識；標定": "labeling"
+    },
+    {
+        "乳鐵素；乳鐵蛋白": "lactoferrin"
+    },
+    {
+        "乳過氧化酶": "lactoperoxidase"
+    },
+    {
+        "小洞性梗塞；小間隙梗塞": "lacunar infarction"
+    },
+    {
+        "拉莫[爾]頻率": "Larmor frequency"
+    },
+    {
+        "喉頭攝影(術)": "laryngography"
+    },
+    {
+        "延遲性效果": "late effect"
+    },
+    {
+        "晚期反應組織": "late responding tissue"
+    },
+    {
+        "晚期反應": "late responses"
+    },
+    {
+        "潛伏期": "latency period"
+    },
+    {
+        "潛影；潛像": "latent image"
+    },
+    {
+        "側臥位": "lateral decubitus"
+    },
+    {
+        "側臥位影像": "lateral decubitus view"
+    },
+    {
+        "外側延髓症候群": "lateral medullary syndrome"
+    },
+    {
+        "側面像": "lateral view"
+    },
+    {
+        "側面X光片": "lateral x-ray"
+    },
+    {
+        "鉛阻斷": "lead block"
+    },
+    {
+        "鉛毒腦病": "lead encephalopathy"
+    },
+    {
+        "鉛當量": "lead equivalent"
+    },
+    {
+        "襯鉛的": "lead-lined"
+    },
+    {
+        "漏洩": "leak"
+    },
+    {
+        "洩漏劑量": "leakage dose"
+    },
+    {
+        "滲漏輻射": "leakage radiation"
+    },
+    {
+        "左前斜擺位": "left anterior oblique (LAO) position"
+    },
+    {
+        "左側臥擺位": "left decubitus position"
+    },
+    {
+        "左下肺葉": "left lower lobe {= LLL}"
+    },
+    {
+        "左後斜擺位": "left posterior oblique (LPO) position"
+    },
+    {
+        "左上肺葉": "left upper lobe {=LUL}"
+    },
+    {
+        "楞次定律": "Lenz's law"
+    },
+    {
+        "軟腦膜癌病": "leptomeningeal carcinomatosis"
+    },
+    {
+        "Leri氏病": "Leri disease"
+    },
+    {
+        "致死劑量": "lethal dose {=LD}"
+    },
+    {
+        "腦白質失養症": "leukodystrophy"
+    },
+    {
+        "配位基；配位子；配位體": "ligand"
+    },
+    {
+        "配體結合分析": "ligand binding assay {=LBA}"
+    },
+    {
+        "光學顯微鏡": "light microscope"
+    },
+    {
+        "黃韌帶": "ligmentum flavum"
+    },
+    {
+        "鱟試劑法 {一種內毒素檢測方法}": "Limulus amebocyte lysate (LAL) test"
+    },
+    {
+        "線射源": "line source"
+    },
+    {
+        "直線加速器": "linear accelerator {=Linac}"
+    },
+    {
+        "直線衰減係數": "linear attenuation coefficient"
+    },
+    {
+        "線能量吸收係數": "linear energy absorption coefficient"
+    },
+    {
+        "直線能量轉移": "linear energy transfer {=LET}"
+    },
+    {
+        "線源": "linear source"
+    },
+    {
+        "線性阻擋本領": "linear stopping power"
+    },
+    {
+        "直線性；線性": "linearity"
+    },
+    {
+        "線性二次方模型": "linear-quadratic (LQ) model"
+    },
+    {
+        "舌葉": "lingula"
+    },
+    {
+        "樹枝狀脂肪瘤": "lipoma arborescens"
+    },
+    {
+        "脂肪脊髓脊膜膨出": "lipomyelomeningocele"
+    },
+    {
+        "液體閃爍計數器": "liquid scintillation counter"
+    },
+    {
+        "平腦畸形": "lissencephaly"
+    },
+    {
+        "肺葉的": "lobar"
+    },
+    {
+        "肺葉膨脹不全": "lobar atelectasis"
+    },
+    {
+        "肩胛絞鎖": "locked scapula"
+    },
+    {
+        "工作記錄簿": "log book"
+    },
+    {
+        "出貨記錄": "logging of shipment"
+    },
+    {
+        "縱向鬆弛時間": "longitudinal relaxation time"
+    },
+    {
+        "鬆脫": "loosening"
+    },
+    {
+        "低電壓放射攝影(術){少用}": "low volage radiography"
+    },
+    {
+        "低度的": "low-grade"
+    },
+    {
+        "螢光酵素": "luciferase"
+    },
+    {
+        "腰椎薦椎化": "lumbar sacralization"
+    },
+    {
+        "腰薦過渡椎": "lumbosacral transitional vertebra {=LSTV}"
+    },
+    {
+        "月骨半脫位": "lunate dislocation"
+    },
+    {
+        "肺紋理": "lung markings"
+    },
+    {
+        "淋巴結腫大；淋巴結病變": "lymphadenopathy"
+    },
+    {
+        "淋巴瘤": "lymphoma"
+    },
+    {
+        "淋巴閃爍攝影": "lymphoscintigraphy"
+    },
+    {
+        "冷凍乾燥": "lyophilization"
+    },
+    {
+        "冷凍乾燥的": "lyophilized"
+    },
+    {
+        "M型": "M mode"
+    },
+    {
+        "大顆粒聚合": "macroaggregated"
+    },
+    {
+        "大顆粒聚合白蛋白": "macroaggregated albumin {=MAA}"
+    },
+    {
+        "磁場梯度": "magnetic (field) gradient"
+    },
+    {
+        "磁場": "magnetic field"
+    },
+    {
+        "磁振造影": "magnetic resonance image {=MRI}"
+    },
+    {
+        "磁振造影": "magnetic resonance imaging {=MRI}"
+    },
+    {
+        "磁振頻譜": "magnetic resonance spectroscopy {=MRS}"
+    },
+    {
+        "磁控管": "magnetron"
+    },
+    {
+        "放大放射攝影(術)": "magnification radiography"
+    },
+    {
+        "大裂隙": "major fissures"
+    },
+    {
+        "惡性纖維組織細胞瘤": "malignant fibrous histiocytoma {=MFH}"
+    },
+    {
+        "乳房攝影": "mammogram"
+    },
+    {
+        "乳房攝影": "mammography"
+    },
+    {
+        "斗篷照野": "mantle field"
+    },
+    {
+        "大理石骨病": "marble bone disease"
+    },
+    {
+        "Maroteaux-lamy氏病": "Maroteaux-lamy syndrome"
+    },
+    {
+        "質量衰減係數": "mass attenuation coefficient"
+    },
+    {
+        "腫塊效應": "mass effect"
+    },
+    {
+        "質能吸收係數": "mass energy absorption coefficient"
+    },
+    {
+        "質譜儀": "mass spectrometry"
+    },
+    {
+        "質量阻擋本領": "mass stopping power"
+    },
+    {
+        "乳房切除術": "mastectomy"
+    },
+    {
+        "最大強度投影": "maximum intensity projection {=MIP}"
+    },
+    {
+        "最大許可濃度": "maximum permissible concentration {=MPC}"
+    },
+    {
+        "平均有效衰減係數": "mean effective attenuation coefficient"
+    },
+    {
+        "梅克爾氏憩室": "Meckel's diverticulum"
+    },
+    {
+        "正中矢狀面": "median-sagital plane"
+    },
+    {
+        "縱膈移位": "mediastinal shift"
+    },
+    {
+        "醫用迴旋加速器": "medical cyclotron"
+    },
+    {
+        "醫學劑量師": "medical dosimetrist"
+    },
+    {
+        "醫療曝露": "medical exposure"
+    },
+    {
+        "醫學內照射劑量": "medical internal radiation dose {=MIRD}"
+    },
+    {
+        "醫學物理師": "medical physicist"
+    },
+    {
+        "內外位投影": "mediolateral projection"
+    },
+    {
+        "中級能量用準直儀": "medium energy collimator"
+    },
+    {
+        "髓母細胞瘤": "medulloblastoma"
+    },
+    {
+        "巨大腦大池畸形": "mega cisterna magna"
+    },
+    {
+        "黑色素瘤": "melanoma"
+    },
+    {
+        "MELAS症候群 {粒線體異常引發之肌肉病變、腦病變、乳酸中毒、中風症候群}": "MELAS {mitochondrial myopathy, encephalopathy, lactic acidosis, strokes syndrome}"
+    },
+    {
+        "蠟淚樣骨病": "melorheostosis"
+    },
+    {
+        "腦膜瘤": "meningioma"
+    },
+    {
+        "腦膜腦膨出": "meningoencephalocele"
+    },
+    {
+        "半月板": "meniscus"
+    },
+    {
+        "MERRF症候群 {肌抽躍癲癇合併紅色襤褸肌纖維症}": "MERRF {Myoclonic Epilepsy with Ragged Red Fibers}"
+    },
+    {
+        "間葉型軟骨肉瘤": "mesenchymal chondrosarcoma"
+    },
+    {
+        "間皮瘤": "mesothelioma"
+    },
+    {
+        "代謝性腦病變": "metabolic encephalopathy"
+    },
+    {
+        "異染性白質失養症": "metachromatic leukodystrophy"
+    },
+    {
+        "幹骺端軟骨發育不全": "metaphyseal chondrodysplasia"
+    },
+    {
+        "介穩態；亞穩定態": "metastable state"
+    },
+    {
+        "轉移": "metastasis"
+    },
+    {
+        "亞甲基二磷酸鹽": "methylene diphosphonate {=MDP}"
+    },
+    {
+        "微凝體": "microaggregates"
+    },
+    {
+        "微居里": "microcurie {=μCi}"
+    },
+    {
+        "微劑量學": "microdosimetry"
+    },
+    {
+        "微西弗": "microsievert {=μSv}"
+    },
+    {
+        "中腕關節脫位": "midcarpal dislocation"
+    },
+    {
+        "中大腦動脈梗塞": "middle cerebral artery infarction"
+    },
+    {
+        "粟粒狀結節": "miliary nodules"
+    },
+    {
+        "毫居里": "milicurie {=mCi}"
+    },
+    {
+        "擠取": "milking"
+    },
+    {
+        "百萬電子伏特": "million electron volts {=MeV}"
+    },
+    {
+        "最小強度投影": "minimum intensity projection {=mIP, MinIP}"
+    },
+    {
+        "毫西弗": "minisievert {=mSv}"
+    },
+    {
+        "小裂隙": "minor fissure"
+    },
+    {
+        "粒線體腦病變": "mitochondrial encephalopathy"
+    },
+    {
+        "混合性結締組織疾病": "mixed connective tissue disease {=MCTD}"
+    },
+    {
+        "移動型X光攝影系統": "Mobile X-Ray System"
+    },
+    {
+        "移動型X光裝置": "mobile X-ray unit"
+    },
+    {
+        "修正的體內標誌法": "modified in vivo method"
+    },
+    {
+        "調制轉換函數": "modulation transfer function {=MTF}"
+    },
+    {
+        "分子影像": "molecular imaging"
+    },
+    {
+        "鉬": "molybdenum {=Mo}"
+    },
+    {
+        "鉬靶": "molybdenum target"
+    },
+    {
+        "單波X射線": "monochromatic X-ray"
+    },
+    {
+        "單株抗體": "monoclonal antibody {=Mab}"
+    },
+    {
+        "Monteggia骨折": "Monteggia fracture"
+    },
+    {
+        "Morquio氏病": "Morquio syndrome"
+    },
+    {
+        "蟲蝕狀破壞": "moth eaten"
+    },
+    {
+        "移動式鉛柵": "moving grid {Potter-Bucky grids}"
+    },
+    {
+        "毛毛樣血管疾病": "moyamoya disease"
+    },
+    {
+        "磁振神經束造影": "MR tractography"
+    },
+    {
+        "毫侖目": "mrem"
+    },
+    {
+        "黏多醣病": "mucopolysaccharidosis"
+    },
+    {
+        "黏膜相關淋巴組織淋巴瘤": "mucosa-associated lymphoid tissue lymphoma{=MALToma}"
+    },
+    {
+        "黏膜炎": "mucositis"
+    },
+    {
+        "多發骨肉瘤": "multicentric osteosarcoma"
+    },
+    {
+        "多頻道脈高分析器": "multichannel pulse height analyzer"
+    },
+    {
+        "多排偵測器": "multi-detector"
+    },
+    {
+        "多處局部": "multifocal"
+    },
+    {
+        "多門控擷取法": "multigated acquisition {=MUGA}"
+    },
+    {
+        "多發性骨骺發育不良": "multiple epiphyseal dysplasia"
+    },
+    {
+        "多發性骨髓瘤": "multiple myeloma"
+    },
+    {
+        "多發性硬化症": "multiple sclerosis"
+    },
+    {
+        "多系統萎縮": "multiple system atrophy {=MSA}"
+    },
+    {
+        "多切面": "multislice"
+    },
+    {
+        "多切面電腦斷層造影儀": "multi-slice CT"
+    },
+    {
+        "肌肉扭傷": "muscle strain"
+    },
+    {
+        "肌肉失養症": "muscular dystrophy"
+    },
+    {
+        "髓鞘形成過程；髓鞘化過程": "myelination process"
+    },
+    {
+        "骨髓纖維化": "myelofibrosis"
+    },
+    {
+        "脊髓腔攝影": "myelography"
+    },
+    {
+        "脊髓軟化": "myelomalacia"
+    },
+    {
+        "脊髓脊髓膜膨出": "myelomeningocele"
+    },
+    {
+        "心肌應變；心肌應力": "myocardial strain"
+    },
+    {
+        "碘化鈉(鉈)晶體": "Nal (TI) crystal"
+    },
+    {
+        "碘化鈉(鉈)晶體偵檢器": "Nal (TI) scintillation detector"
+    },
+    {
+        "碘化鈉(鉈)晶體勘檢器": "Nal (TI) scintillation surveymeter"
+    },
+    {
+        "奈米莫耳": "nanomolar"
+    },
+    {
+        "鼻胃管": "nasogastric tube (NG tube)"
+    },
+    {
+        "鼻咽癌": "nasopharyngeal carcinoma {=NPC}"
+    },
+    {
+        "美國輻射防護與度量委員會": "National Council on Radiation Protection and Measurement {=NCRP}"
+    },
+    {
+        "氮-氯苯磺醯胺氧化劑": "N-chlorobenzenesulfonamide"
+    },
+    {
+        "負性對比劑": "negative contrast medium"
+    },
+    {
+        "神經鞘瘤": "nerve sheath tumor"
+    },
+    {
+        "神經鞘瘤": "neurinoma"
+    },
+    {
+        "神經母細胞瘤": "neuroblastoma"
+    },
+    {
+        "腦內鐵沉積性神經系統退化症": "neurodegeneration with brain iron accumulation {=NBIA}"
+    },
+    {
+        "神經內分泌腫瘤": "neuroendocrine tumor"
+    },
+    {
+        "神經纖維瘤": "neurofibroma"
+    },
+    {
+        "神經纖維瘤病": "neurofibromatosis"
+    },
+    {
+        "神經受體": "neuroreceptor"
+    },
+    {
+        "微中子": "neutrinos"
+    },
+    {
+        "中子": "neutron {=n}"
+    },
+    {
+        "中子捕獲": "neutron capture"
+    },
+    {
+        "富中子；多中子": "neutron rich"
+    },
+    {
+        "新藥申請": "New Drug Application {=NDA}"
+    },
+    {
+        "無附加載體": "no carrier added {=NCA}"
+    },
+    {
+        "結節的": "nodular"
+    },
+    {
+        "結節": "nodule"
+    },
+    {
+        "非乾酪壞死": "non-caseating necrosis"
+    },
+    {
+        "非擴散性的": "nondiffusible"
+    },
+    {
+        "非何杰金氏淋巴癌": "non-Hodgkin's lymphoma {=NHL}"
+    },
+    {
+        "非游離輻射": "non-ionizing radiation"
+    },
+    {
+        "非同位素載體": "non-isotopic carrier"
+    },
+    {
+        "非磁性物質": "non-magnetic substance"
+    },
+    {
+        "非阻塞性": "nonobstructive"
+    },
+    {
+        "非小細胞肺癌": "non-small cell lung carcinoma"
+    },
+    {
+        "非特異性的": "nonspecific"
+    },
+    {
+        "非機率效應": "non-stochastic effects"
+    },
+    {
+        "骨折不癒合": "nonunion"
+    },
+    {
+        "常態分布": "normal distribution"
+    },
+    {
+        "常壓性水腦症": "normal pressure hydrocephalus {=NPH}"
+    },
+    {
+        "標準化": "normalization"
+    },
+    {
+        "核束縛能；核結合能": "nuclear binding energy"
+    },
+    {
+        "核蛻變": "nuclear disintegration"
+    },
+    {
+        "核分裂": "nuclear fission"
+    },
+    {
+        "核分裂衍生物": "nuclear fission product"
+    },
+    {
+        "核分裂反應": "nuclear fission reaction"
+    },
+    {
+        "核融合": "nuclear fusion"
+    },
+    {
+        "異構核": "nuclear isomer"
+    },
+    {
+        "核磁共振": "nuclear magnetic resonance {=NMR}"
+    },
+    {
+        "核藥學": "nuclear pharmacy"
+    },
+    {
+        "核反應": "nuclear reaction"
+    },
+    {
+        "核子反應爐": "nuclear reactor"
+    },
+    {
+        "核管理委員會": "Nuclear Regulatory Commission {=NRC}"
+    },
+    {
+        "核散裂": "nuclear spallation"
+    },
+    {
+        "核穩定": "nuclear stability"
+    },
+    {
+        "核變化": "nuclear transformation"
+    },
+    {
+        "核子": "nucleon"
+    },
+    {
+        "親核性氟化": "nucleophilic fluorination"
+    },
+    {
+        "原子核": "nucleus"
+    },
+    {
+        "核種；核素": "nuclide"
+    },
+    {
+        "阻塞；梗塞": "obstruction"
+    },
+    {
+        "阻塞的；梗塞的": "obstructive"
+    },
+    {
+        "褐黃病": "ochronosis"
+    },
+    {
+        "褐黃病性關節炎": "ochronotic arthritis"
+    },
+    {
+        "寡樹突神經膠細胞瘤": "oligodendroglioma"
+    },
+    {
+        "橄欖體橋腦小腦萎縮": "olivo-ponto-cerebellar atrophy {=OPCA}"
+    },
+    {
+        "嗜酸細胞瘤": "oncocytoma"
+    },
+    {
+        "致癌基因": "oncogene"
+    },
+    {
+        "腫瘤科醫師": "oncologist"
+    },
+    {
+        "腫瘤學": "oncology"
+    },
+    {
+        "不透明": "opacification"
+    },
+    {
+        "不透光的": "opaque"
+    },
+    {
+        "鴉片受體活化劑": "opiate agonist"
+    },
+    {
+        "光學密度": "optical density"
+    },
+    {
+        "經口造影劑": "oral contrast medium"
+    },
+    {
+        "軌道電子": "orbital electron"
+    },
+    {
+        "OM線；眶聽線": "orbitomeatal line"
+    },
+    {
+        "有機化": "organification"
+    },
+    {
+        "組織化的血腫": "organized hematoma"
+    },
+    {
+        "組織化中血腫": "organizing hematoma"
+    },
+    {
+        "口胃管": "orogastric tube"
+    },
+    {
+        "振盪": "oscillation"
+    },
+    {
+        "滲透壓": "osmolality"
+    },
+    {
+        "滲透性脫髓鞘症候群": "osmotic demyelination syndrome {=ODS}"
+    },
+    {
+        "骨化": "ossification"
+    },
+    {
+        "骨化血管瘤": "ossified hemangioma"
+    },
+    {
+        "骨化性血管瘤": "ossifying hemangioma"
+    },
+    {
+        "纖維囊性骨炎": "osteitis fibrosa cystica"
+    },
+    {
+        "成骨性骨轉移": "osteoblastic metastasis"
+    },
+    {
+        "骨軟骨炎": "osteochondritis"
+    },
+    {
+        "骨軟骨瘤": "osteochondroma"
+    },
+    {
+        "先天性成骨不全症": "osteogenesis imperfecta"
+    },
+    {
+        "骨樣基質": "osteoid matrix"
+    },
+    {
+        "骨樣骨瘤": "osteoid osteoma"
+    },
+    {
+        "骨溶解": "osteolysis"
+    },
+    {
+        "溶骨性骨轉移": "osteolytic metastases"
+    },
+    {
+        "骨質軟化症": "osteomalacia"
+    },
+    {
+        "骨髓炎": "osteomyelitis"
+    },
+    {
+        "條紋狀骨病": "osteopathia striata"
+    },
+    {
+        "骨斑點症": "osteopoikilosis"
+    },
+    {
+        "骨質疏鬆": "osteoporosis"
+    },
+    {
+        "放射性骨壞死": "osteoradionecrosis"
+    },
+    {
+        "骨肉瘤": "osteosarcoma"
+    },
+    {
+        "卵巢癌": "ovary cancer"
+    },
+    {
+        "增氧比": "oxygen enhancement ratio {=OER}"
+    },
+    {
+        "氧氣猝滅": "oxygen quenching"
+    },
+    {
+        "厚皮性骨膜病": "pachydermoperiostosis"
+    },
+    {
+        "Paget氏症": "Paget disease"
+    },
+    {
+        "成對發生": "pair production"
+    },
+    {
+        "姑息性放射治療": "palliative radiotherapy"
+    },
+    {
+        "脂膜炎": "panniculitis"
+    },
+    {
+        "血管翳": "pannus"
+    },
+    {
+        "頷骨全景攝影": "panoramagraphy"
+    },
+    {
+        "紙層析法": "paper chromatography"
+    },
+    {
+        "肺吸蟲病": "paragonimiasis"
+    },
+    {
+        "平行孔準直儀": "parallel-hole collimator"
+    },
+    {
+        "順磁性物質": "paramagnetic substance"
+    },
+    {
+        "壁層胸膜": "parietal pleura"
+    },
+    {
+        "巴金森症候群": "Parkinsonism"
+    },
+    {
+        "巴金森附加症候群": "Parkinson-plus syndrome"
+    },
+    {
+        "巴金森氏症": "Parkinson's disease"
+    },
+    {
+        "骨旁骨肉瘤": "parosteal osteosarcoma"
+    },
+    {
+        "部分線性衰減係數": "partial linear attenuation coefficient"
+    },
+    {
+        "部分體積效應": "partial volume effect"
+    },
+    {
+        "粒子；微粒": "particle"
+    },
+    {
+        "粒子加速器": "particle accelerator"
+    },
+    {
+        "粒子治療": "particle therapy"
+    },
+    {
+        "分配係數": "partition coefficient"
+    },
+    {
+        "病理性鈣化": "pathological calcification"
+    },
+    {
+        "類型；型態": "pattern"
+    },
+    {
+        "恥骨梳": "pectineal line"
+    },
+    {
+        "Pelkan骨刺": "Pelkan spur"
+    },
+    {
+        "半影區": "penumbra"
+    },
+    {
+        "胜肽受體放射性核種治療": "peptide receptor radionuclide therapy {=PRRT}"
+    },
+    {
+        "能窗百分比": "percent window"
+    },
+    {
+        "百分深度劑量": "percentage depth dose {=PDD}"
+    },
+    {
+        "百分深度劑量曲線": "percentage depth dose curve"
+    },
+    {
+        "灌流": "perfusion"
+    },
+    {
+        "灌流掃描": "perfusion scan"
+    },
+    {
+        "支氣管血管周邊束": "peribronchovascular bundle"
+    },
+    {
+        "心包膜積液": "pericardial effusion"
+    },
+    {
+        "心包膜": "pericardium"
+    },
+    {
+        "月骨周圍脫位": "perilunate dislocation"
+    },
+    {
+        "元素週期表": "periodic table of elements"
+    },
+    {
+        "骨膜反應": "periosteal reaction"
+    },
+    {
+        "骨膜炎": "periostitis"
+    },
+    {
+        "周邊血管攝影(術)": "peripheral arteriography"
+    },
+    {
+        "腹膜炎": "peritonitis"
+    },
+    {
+        "腦室周圍白質軟化症": "periventricular leukomalacia {=PVL}"
+    },
+    {
+        "腦室旁白質白斑": "periventricular white matter hyperintensity"
+    },
+    {
+        "侵潤破壞": "permeative destruction"
+    },
+    {
+        "吞噬作用": "phagocytosis"
+    },
+    {
+        "假體": "phantom"
+    },
+    {
+        "相位差": "phase shift"
+    },
+    {
+        "嗜鉻細胞瘤": "pheochromocytoma"
+    },
+    {
+        "靜脈石": "phlebolith"
+    },
+    {
+        "光動力治療": "photodynamic therapy {=PDT}"
+    },
+    {
+        "光電吸收係數": "photoelectric absorption coefficient"
+    },
+    {
+        "光電效應": "photoelectric effect"
+    },
+    {
+        "光電子": "photoelectron"
+    },
+    {
+        "光電子能量": "photoelectron energy"
+    },
+    {
+        "感光膠片劑量計": "photographic film dosimeters"
+    },
+    {
+        "光發光": "photoluminescence"
+    },
+    {
+        "光電倍增管": "photomultiplier tube {=PMT}"
+    },
+    {
+        "光子": "photon"
+    },
+    {
+        "光(激)中子": "photoneutron"
+    },
+    {
+        "光核反應": "photonuclear reaction"
+    },
+    {
+        "能峰": "photopeak"
+    },
+    {
+        "物理有效半衰期": "physical effective half-life"
+    },
+    {
+        "物理半衰期": "physical half-life {=T1/2p}"
+    },
+    {
+        "生理性鈣化": "physiological calcification"
+    },
+    {
+        "醫療影像儲傳系統": "picture archiving and communication system {=PACS}"
+    },
+    {
+        "色素絨毛結節性滑膜炎": "pigmented villonodular synovitis {=PVNS}"
+    },
+    {
+        "毛狀星細胞瘤": "pilocytic astrocytoma"
+    },
+    {
+        "針孔": "pinhole"
+    },
+    {
+        "針孔準直儀": "pinhole collimator"
+    },
+    {
+        "腦下垂體腺瘤": "pituitary adenoma"
+    },
+    {
+        "腦下垂體中風": "Pituitary apoplexy"
+    },
+    {
+        "腦下垂體窩": "pituitary fossa"
+    },
+    {
+        "腦下垂體微小腺瘤": "pituitary microadenoma"
+    },
+    {
+        "像素": "pixel"
+    },
+    {
+        "布朗克常數": "Planck's constant"
+    },
+    {
+        "切面；斷面": "plane"
+    },
+    {
+        "計畫靶體積": "planning target volume {=PTV}"
+    },
+    {
+        "漿細胞瘤": "plasmacytoma"
+    },
+    {
+        "白金靶": "platinum target"
+    },
+    {
+        "肋(胸)膜": "pleura"
+    },
+    {
+        "胸膜的；肋膜的": "pleural"
+    },
+    {
+        "胸膜積水": "pleural effusion"
+    },
+    {
+        "肋膜積液": "pleural fluid"
+    },
+    {
+        "肺囊蟲肺炎": "pneumocystis jiroveci pneumonia {=PJP}"
+    },
+    {
+        "氣腦攝影(術)": "pneumoencephalography {=PEG}"
+    },
+    {
+        "氣顱": "pneumoencephalus"
+    },
+    {
+        "氣縱膈；縱膈積氣": "pneumomediastinum"
+    },
+    {
+        "肺炎": "pneumonia"
+    },
+    {
+        "後腹膜氣腹攝影(術)": "pneumoretroperitoniography {=PRP}"
+    },
+    {
+        "氣胸": "pneumothorax"
+    },
+    {
+        "口袋劑量計": "pocket dosimeter"
+    },
+    {
+        "A點劑量": "point A dose"
+    },
+    {
+        "B點劑量": "point B dose"
+    },
+    {
+        "點射源": "point source"
+    },
+    {
+        "多發性關節炎": "polyarthritis"
+    },
+    {
+        "多株抗體": "polyclonal antibodies"
+    },
+    {
+        "多發性纖維性發育不全": "polyostotic fibrous dysplasia"
+    },
+    {
+        "多層斷層攝影(術)": "polytomography"
+    },
+    {
+        "孔洞腦": "porencephaly"
+    },
+    {
+        "手持式X光裝置": "portable X-ray unit"
+    },
+    {
+        "門脈攝影": "portography"
+    },
+    {
+        "擺位": "positioning"
+    },
+    {
+        "正子": "positron"
+    },
+    {
+        "正子蛻變；衰變": "positron decay"
+    },
+    {
+        "正子斷層造影": "positron emission computed tomography {=PET}"
+    },
+    {
+        "正子釋出核種": "positron emitter neucleus"
+    },
+    {
+        "正子射程": "positron range"
+    },
+    {
+        "後十字韌帶": "posterior cruciate ligament"
+    },
+    {
+        "後投影": "posterior projection"
+    },
+    {
+        "後前位投影": "posteroanterior {=PA} projection"
+    },
+    {
+        "潛在致死傷害": "potentially lethal damage {=PLD}"
+    },
+    {
+        "旋進": "precession"
+    },
+    {
+        "先驅物；前驅物": "precursor"
+    },
+    {
+        "壓力效應": "pressure effect"
+    },
+    {
+        "突觸前": "presynaptic"
+    },
+    {
+        "原發性高醛固酮症；原發性皮質醛酮症": "primary aldosteronism"
+    },
+    {
+        "主線圈": "primary coil"
+    },
+    {
+        "初級骨化中心": "primary ossification center"
+    },
+    {
+        "初級骨小樑": "primary trabeculae"
+    },
+    {
+        "原發腫瘤": "primary tumor"
+    },
+    {
+        "原始神經外胚層腫瘤": "primitive neuroectodermal tumor {=PNET}"
+    },
+    {
+        "探針": "probe"
+    },
+    {
+        "預後": "prognosis"
+    },
+    {
+        "進行性骨幹發育不良": "progressive diaphyseal dysplasia"
+    },
+    {
+        "進行性核上神經麻痺症": "progressive supranuclear palsy {=PSP}"
+    },
+    {
+        "全身性硬化症": "progressive systemic sclerosis"
+    },
+    {
+        "即時計數": "prompt counts"
+    },
+    {
+        "內轉": "pronation"
+    },
+    {
+        "比例計數器": "proportional counters"
+    },
+    {
+        "前列腺癌；攝護腺癌": "prostate cancer"
+    },
+    {
+        "防護(鉛)衣；圍裙": "protective apron"
+    },
+    {
+        "防護(鉛)用具": "protective device"
+    },
+    {
+        "防護(鉛)手套": "protective gloves"
+    },
+    {
+        "防護(鉛)護目鏡": "protective goggles"
+    },
+    {
+        "防護(鉛)護頸": "protective neck shield"
+    },
+    {
+        "協定；程序": "protocol"
+    },
+    {
+        "質子": "proton"
+    },
+    {
+        "質子治療": "proton therapy"
+    },
+    {
+        "原癌基因；原致癌基因": "proto-oncogene"
+    },
+    {
+        "椎間盤突出": "protruding disk"
+    },
+    {
+        "近端小管": "proximal tubule"
+    },
+    {
+        "假性軟骨發育不全": "pseudoachondroplastic dysplasia"
+    },
+    {
+        "假骨折": "pseudofracture"
+    },
+    {
+        "假痛風": "pseudogout"
+    },
+    {
+        "假性肥大": "pseudohypertrophy"
+    },
+    {
+        "假性腦脊髓膜膨出": "pseudomeningocele"
+    },
+    {
+        "假性腫瘤": "pseudotumor"
+    },
+    {
+        "乾癬": "psoriasis"
+    },
+    {
+        "乾癬性關節炎": "psoriatic arthritis"
+    },
+    {
+        "肺部": "pulmonary"
+    },
+    {
+        "肺部空洞化": "pulmonary {=cavitary}"
+    },
+    {
+        "肺動靜脈畸形": "pulmonary arteriovenous malformation"
+    },
+    {
+        "肺動脈": "pulmonary artery"
+    },
+    {
+        "肺水腫": "pulmonary edema"
+    },
+    {
+        "肺栓塞": "pulmonary emboli"
+    },
+    {
+        "肺部纖維化": "pulmonary fibrosis"
+    },
+    {
+        "肺梗塞": "pulmonary infarction"
+    },
+    {
+        "肺小葉": "pulmonary lobule"
+    },
+    {
+        "肺部紋路": "pulmonary markings"
+    },
+    {
+        "肺部結節": "pulmonary nodule"
+    },
+    {
+        "肺性骨關節病": "pulmonary osteoarthropathy"
+    },
+    {
+        "肺部灌流": "pulmonary perfusion"
+    },
+    {
+        "肺靜脈": "pulmonary vein"
+    },
+    {
+        "肺部血管": "pulmonary vessel"
+    },
+    {
+        "脈高分析器": "pulse height analyzer {=PHA}"
+    },
+    {
+        "脈衝序列": "pulse sequence"
+    },
+    {
+        "腎盂攝影(術)": "pyelography"
+    },
+    {
+        "化膿性脊柱炎": "pyogenic spondylitis"
+    },
+    {
+        "化膿性肌炎": "pyomyositis"
+    },
+    {
+        "熱原試驗": "pyrogen test"
+    },
+    {
+        "無熱原": "pyrogen-free"
+    },
+    {
+        "射質因素": "quality factor"
+    },
+    {
+        "準閾值劑量": "quasithreshold dose {=Dq}"
+    },
+    {
+        "淬熄": "quench"
+    },
+    {
+        "輻射；放射": "radiation"
+    },
+    {
+        "雷得": "radiation absorbed dose {=rad}"
+    },
+    {
+        "輻射劑量": "radiation dose"
+    },
+    {
+        "輻射劑量測定法": "radiation dosimetry"
+    },
+    {
+        "輻射效應；放射效應": "radiation effect"
+    },
+    {
+        "輻射曝露；放射曝露": "radiation exposure"
+    },
+    {
+        "放射照野；輻射照野": "radiation field"
+    },
+    {
+        "輻射危害": "radiation hazard"
+    },
+    {
+        "放射性肝炎": "radiation hepatitis"
+    },
+    {
+        "放射誘導癌病變": "radiation induced cancer"
+    },
+    {
+        "放射誘導白血病": "radiation induced leukemia"
+    },
+    {
+        "放射誘導癌病變": "radiation induced malignancy"
+    },
+    {
+        "放射性腦損傷": "radiation injury of brain"
+    },
+    {
+        "放射增敏藥物": "radiation intensifying medicine"
+    },
+    {
+        "輻射致死效應；放射致死效應": "radiation lethal effect"
+    },
+    {
+        "放射性壞死": "radiation necrosis"
+    },
+    {
+        "放射腫瘤科醫師": "radiation oncologist"
+    },
+    {
+        "放射性骨髓炎": "radiation osteomyelitis"
+    },
+    {
+        "放射性肺炎": "radiation pneumonities"
+    },
+    {
+        "輻射防護": "radiation protection"
+    },
+    {
+        "放射性肺纖維化": "radiation pulmonary fibrosis"
+    },
+    {
+        "輻射敏感度；輻射敏感性": "radiation sensitivity"
+    },
+    {
+        "放射增敏劑": "radiation sensitizer"
+    },
+    {
+        "輻射偵檢計；輻射測量計；輻射偵測儀": "radiation survey meter"
+    },
+    {
+        "放射(線)治療": "radiation therapy"
+    },
+    {
+        "美國放射腫瘤研究群": "Radiation Therapy Oncology Group　{=RTOG}"
+    },
+    {
+        "輻射加權因數": "radiation weighting factor {=WR}"
+    },
+    {
+        "放射誘導肝病變": "radiation-induced liver disease {=RILD}"
+    },
+    {
+        "放射性膠體": "radioactive colloid"
+    },
+    {
+        "放射性同位素": "radioactive isotope {=RI}"
+    },
+    {
+        "放射性同位素血管攝影(術)": "radioactive isotope angiography"
+    },
+    {
+        "放射性核種": "radioactive nuclide"
+    },
+    {
+        "放射性物質": "radioactive substance"
+    },
+    {
+        "放射性廢棄物": "radioactive waste"
+    },
+    {
+        "放射活性": "radioactivity"
+    },
+    {
+        "放射結合分析": "radiobinding assay {=RBA}"
+    },
+    {
+        "輻射生物學": "radiobiology"
+    },
+    {
+        "放化分析；放射化學分析": "radiochemical analysis"
+    },
+    {
+        "放化純度；放射化學純度": "radiochemical purity"
+    },
+    {
+        "放射化學": "radiochemistry"
+    },
+    {
+        "放射性診斷劑": "radiodiagnostic agent"
+    },
+    {
+        "射頻": "radiofrequency {=RF}"
+    },
+    {
+        "放射性氣體層析法": "radio-gas chromatography"
+    },
+    {
+        "放射免疫分析": "radioimmunoassay {=RIA}"
+    },
+    {
+        "放射免疫學": "radioimmunology"
+    },
+    {
+        "放射性碘化血清白蛋白": "radioiodinated serum albumin {=RISA}"
+    },
+    {
+        "放射性碘攝取": "radioiodine uptake"
+    },
+    {
+        "放射性同位素": "radioisotope {=RI}"
+    },
+    {
+        "放射性同位素發生器；放射性同位素孳生器": "radioisotope generator"
+    },
+    {
+        "放射性標誌探針": "radiolabeled probe"
+    },
+    {
+        "放射配體結合分析": "radioligand binding assay"
+    },
+    {
+        "醫事放射師": "radiological technologist"
+    },
+    {
+        "放射科醫師；放射線科醫師": "radiologist"
+    },
+    {
+        "放射線學": "radiology"
+    },
+    {
+        "放射線可透性": "radiolucency; radiolucent"
+    },
+    {
+        "輻射分解": "radiolysis"
+    },
+    {
+        "放射性壞死": "radionecrosis"
+    },
+    {
+        "放射性核種": "radionuclide"
+    },
+    {
+        "放射性核種；核素電腦斷層造影": "radionuclide computed tomography {=RCT}"
+    },
+    {
+        "放射性劑量校正器": "radionuclide dose callibrator"
+    },
+    {
+        "放射性核種產生器": "radionuclide generator"
+    },
+    {
+        "放射性核種純度": "radionuclide purity"
+    },
+    {
+        "放射性核種治療": "radionuclide therapy"
+    },
+    {
+        "放射性同位素腦室攝影": "radionuclide ventriculography {=RNV}"
+    },
+    {
+        "放射線不透性": "radiopacity; radiopaque"
+    },
+    {
+        "放射性藥品": "radiopharmaceutical"
+    },
+    {
+        "放射性藥物學": "radiopharmacy"
+    },
+    {
+        "放射光發光玻璃劑量器(計)": "radio-photoluminescence glass dosimeter {=RPLGD}"
+    },
+    {
+        "輻射保護劑；放射保護劑": "radioprotector"
+    },
+    {
+        "放射抗性": "radioresistance"
+    },
+    {
+        "放射反應性": "radioresponsiveness"
+    },
+    {
+        "輻射敏感性；放射敏感性": "radiosensitivity"
+    },
+    {
+        "放射増敏劑": "radiosensitizer"
+    },
+    {
+        "放射治療": "radiotherapy"
+    },
+    {
+        "放射性示蹤劑": "radiotracer"
+    },
+    {
+        "尺橈關節鬆弛": "radioulnar dissociation"
+    },
+    {
+        "尺橈關節不穩症": "radioulnar instability"
+    },
+    {
+        "橈尺位投影": "radioulnar projection"
+    },
+    {
+        "鐳": "radium {=Ra}"
+    },
+    {
+        "氡": "radon {=Rn}"
+    },
+    {
+        "射程；範圍": "range"
+    },
+    {
+        "Rasmussen氏腦炎": "Rasmussen encephalitis"
+    },
+    {
+        "反應截面": "reaction cross section"
+    },
+    {
+        "反應性關節": "reactive arthritis"
+    },
+    {
+        "隱性": "recessive"
+    },
+    {
+        "基因重組人工甲促素": "recombinant thyroid-stimulating hormone {=rhTSH-Tg}"
+    },
+    {
+        "回收(率)；回復": "recovery"
+    },
+    {
+        "直線掃描": "rectilinear scan"
+    },
+    {
+        "直線掃描器": "rectilinear scanner"
+    },
+    {
+        "復發": "recurrence"
+    },
+    {
+        "再分布": "redistribution"
+    },
+    {
+        "感興趣區域": "region of interest {=ROI}"
+    },
+    {
+        "Reiter氏症候群": "Reiter's syndrome"
+    },
+    {
+        "復發；再發": "relapse"
+    },
+    {
+        "相對吸收係數": "relative absorption coefficient"
+    },
+    {
+        "相對生物效應": "relative biological effectiveness {=RBE}"
+    },
+    {
+        "鬆弛": "relaxation"
+    },
+    {
+        "鬆弛時間": "relaxation time"
+    },
+    {
+        "侖目": "rem"
+    },
+    {
+        "侖目{輻射劑量單位}": "REM {roentgen equivalent man}"
+    },
+    {
+        "緩解": "remission"
+    },
+    {
+        "遙控後荷式近接[放射]治療": "remote afterloading brachytherapy"
+    },
+    {
+        "腎小管": "renal tubule"
+    },
+    {
+        "腎素-血管緊縮素系統": "renin-angiotensin system"
+    },
+    {
+        "腎臟攝影": "renogram"
+    },
+    {
+        "腎臟攝影": "renography"
+    },
+    {
+        "再氧化": "reoxygenation"
+    },
+    {
+        "修復": "repair"
+    },
+    {
+        "再增生": "repopulation"
+    },
+    {
+        "再現性": "reproducibility"
+    },
+    {
+        "解析度": "resolution"
+    },
+    {
+        "吸收中的血腫": "resolving hematoma"
+    },
+    {
+        "共振頻率": "resonance frequency"
+    },
+    {
+        "呼吸窘迫症候群": "respiratory distress syndrome {=RDS}"
+    },
+    {
+        "呼吸門控": "respiratory-gated"
+    },
+    {
+        "管制區": "restricted area"
+    },
+    {
+        "滯留時間": "retention time"
+    },
+    {
+        "網狀內皮細胞": "reticuloendothelial cell"
+    },
+    {
+        "心臟後方": "retrocardiac area"
+    },
+    {
+        "逆行性腎盂攝影": "retrograde pyelography"
+    },
+    {
+        "脊椎後滑脫": "retrolisthesis"
+    },
+    {
+        "胸骨後區": "retrosternal space"
+    },
+    {
+        "反班卡式損傷": "reverse Bankart lesion"
+    },
+    {
+        "反希爾沙克損傷": "revese Hill-Sachs lesion"
+    },
+    {
+        "橫紋肌肉瘤": "rhabdomyosarcoma"
+    },
+    {
+        "類風濕性關節炎": "rheumatoid arthritis"
+    },
+    {
+        "鼻漏": "rhinorrhea"
+    },
+    {
+        "肋骨": "ribs"
+    },
+    {
+        "右側": "right"
+    },
+    {
+        "右前斜擺位": "right anterior oblique (RAO) position"
+    },
+    {
+        "右側臥擺位": "right decubitus position"
+    },
+    {
+        "右心緣": "right heart border"
+    },
+    {
+        "右側面": "right lateral"
+    },
+    {
+        "右下肺葉": "right lower lobe {=RLL}"
+    },
+    {
+        "右中肺葉": "right middle lobe {=RML}"
+    },
+    {
+        "右後斜擺位": "right posterior oblique (RPO) position"
+    },
+    {
+        "右上肺葉": "right upper lobe {=RUL}"
+    },
+    {
+        "侖琴": "Roentgen {=R}"
+    },
+    {
+        "物理侖琴當量": "roentgen equivalent physical {=REP}"
+    },
+    {
+        "侖琴射線 (X光)": "roentgen ray"
+    },
+    {
+        "侖琴雷德轉換(換算)係數": "roentgen to rad conversion factor"
+    },
+    {
+        "旋轉陽極X光管": "rotating anode X-ray tube"
+    },
+    {
+        "軍刀狀脛": "saber shin"
+    },
+    {
+        "薦椎腰椎化": "sacral lumbarization"
+    },
+    {
+        "矢狀像": "sagittal image"
+    },
+    {
+        "矢狀面": "sagittal plane"
+    },
+    {
+        "骨骺損傷分類": "Salter Harris classification"
+    },
+    {
+        "Sanfilippo氏病": "Sanfilippo"
+    },
+    {
+        "肉瘤": "sarcoma"
+    },
+    {
+        "掃描": "scan"
+    },
+    {
+        "散射輻射": "scatter radiation"
+    },
+    {
+        "散射輻射": "scattered radiation"
+    },
+    {
+        "裂腦症": "schizencephaly"
+    },
+    {
+        "Schmorl結節": "Schmorl node"
+    },
+    {
+        "Schmorl氏結節": "Schmorl's node"
+    },
+    {
+        "閃爍攝影": "scintigraphy"
+    },
+    {
+        "閃爍計數器": "scintilation counter"
+    },
+    {
+        "閃爍攝影儀": "scintillation camera"
+    },
+    {
+        "閃爍劑量計": "scintillation dosimeters"
+    },
+    {
+        "閃爍掃描器": "scintillation scanner"
+    },
+    {
+        "閃爍勘檢器": "scintillation surveymeter"
+    },
+    {
+        "閃爍體": "scintillator"
+    },
+    {
+        "硬皮病": "scleroderma"
+    },
+    {
+        "探查性視圖": "scout view"
+    },
+    {
+        "壞血病": "scurvy"
+    },
+    {
+        "次發性腫瘤": "secondary cancer"
+    },
+    {
+        "次級骨化中心": "secondary ossification center"
+    },
+    {
+        "Seldinger法": "Seldinger method"
+    },
+    {
+        "選擇性血管攝影(術)": "selective angiography"
+    },
+    {
+        "選擇性激發脈衝": "selective excitation pulse {=SEP}"
+    },
+    {
+        "選擇性低張十二指腸攝影": "selective hypotonic duodenography"
+    },
+    {
+        "半導體劑量計": "semiconductor dosimeters"
+    },
+    {
+        "前哨淋巴結": "sentinel lymph node {=SLN}"
+    },
+    {
+        "中隔": "septa"
+    },
+    {
+        "腦室中隔缺損合併視神經發育不全": "septo-optic dysplasia"
+    },
+    {
+        "椎間盤斷離": "sequestrated disk"
+    },
+    {
+        "壞骨片": "sequestrum"
+    },
+    {
+        "血清反應陰性關節炎": "seronegative arthritis"
+    },
+    {
+        "血清陰性脊椎關節病變": "seronegative spondyloarthropathy"
+    },
+    {
+        "嬰兒搖晃症候群": "shaking baby syndrome"
+    },
+    {
+        "淺部等效劑量": "shallow-dose equivalent"
+    },
+    {
+        "保存期限": "shelf life"
+    },
+    {
+        "Shenton氏線": "Shenton's line"
+    },
+    {
+        "屏蔽": "shielding"
+    },
+    {
+        "屏蔽法": "shielding method"
+    },
+    {
+        "優化填補": "shimming"
+    },
+    {
+        "肩關節不穩定": "shoulder instability"
+    },
+    {
+        "唾液腺攝影": "sialography"
+    },
+    {
+        "唾液腺閃爍攝影": "sialoscintigraphy"
+    },
+    {
+        "副作用": "side effect"
+    },
+    {
+        "螯鐵蛋白": "siderophore"
+    },
+    {
+        "西弗": "sievert {=Sv}"
+    },
+    {
+        "徵象": "sign"
+    },
+    {
+        "訊號強度": "signal intensity"
+    },
+    {
+        "訊雜比；訊噪比": "signal to noise ratio {=SNR}"
+    },
+    {
+        "輪廓徵象": "silhouette sign"
+    },
+    {
+        "單頻道脈高分析器": "single channel pulse height analyzer"
+    },
+    {
+        "單光子射出電腦斷層造影": "single photon emission computed tomography {=SPECT}"
+    },
+    {
+        "單頻道分析儀": "Single-Channel Analyzer {=SCA}"
+    },
+    {
+        "竇狀隙": "sinusoids"
+    },
+    {
+        "顱底": "skull base"
+    },
+    {
+        "Smith骨折": "Smith fracture"
+    },
+    {
+        "固相放射免疫測定法": "solid phase (radio) immunoassay"
+    },
+    {
+        "體抑素": "somatostatin"
+    },
+    {
+        "體抑素受體攝影": "somatostatin receptor scintigraphy"
+    },
+    {
+        "體抑素受體": "somatostatin receptors {=SSTRs}"
+    },
+    {
+        "超音波檢查": "sonography"
+    },
+    {
+        "射源腫瘤距離": "souce-tumor distance {=STD}"
+    },
+    {
+        "射源皮膚距離": "source-skin distance {=SSD}"
+    },
+    {
+        "空間電荷": "space charge"
+    },
+    {
+        "動裂頭絛蟲症": "sparganosis"
+    },
+    {
+        "空間解析度": "spatial resolution"
+    },
+    {
+        "比活性；比活度": "specific activity"
+    },
+    {
+        "比伽瑪[射線]常數": "specific γ -ray constant"
+    },
+    {
+        "分光計；光譜儀": "spectrometer"
+    },
+    {
+        "自旋回波": "spin echo"
+    },
+    {
+        "自旋量子數": "spin quantum number"
+    },
+    {
+        "脊柱裂": "spina bifida"
+    },
+    {
+        "椎管狹窄": "spinal canal stenosis"
+    },
+    {
+        "脊髓性肌肉萎縮症": "spinal muscular atrophy {=SMA}"
+    },
+    {
+        "脊柱轉移": "spine metastasis"
+    },
+    {
+        "自旋-晶格鬆弛時間": "spin-lattice relaxation time"
+    },
+    {
+        "自旋-自旋鬆弛時間": "spin-spin relaxation time"
+    },
+    {
+        "脾臓閃爍攝影": "spleen scintigraphy"
+    },
+    {
+        "結腸脾彎；脾曲": "splenic flexure"
+    },
+    {
+        "椎體炎": "spondylitis"
+    },
+    {
+        "脊椎間盤炎": "spondylodiscitis"
+    },
+    {
+        "脊椎骨骺發育不全": "spondyloepiphyseal dysplasia {=SED}"
+    },
+    {
+        "脊椎滑脫": "spondylolisthesis"
+    },
+    {
+        "椎弓斷裂": "spondylolysis"
+    },
+    {
+        "椎弓斷裂性的脊椎滑脫": "spondylolytic spondylolisthesis"
+    },
+    {
+        "自發分裂": "spontaneous fission"
+    },
+    {
+        "分期": "stage"
+    },
+    {
+        "標準曲線": "standard curve"
+    },
+    {
+        "站立腹部攝影": "standing abdomen"
+    },
+    {
+        "直立擺位": "standing position"
+    },
+    {
+        "靜磁場": "static magnetic fields"
+    },
+    {
+        "固定陽極形X光管": "stationary anode X-ray tube"
+    },
+    {
+        "幹細胞": "stem cells"
+    },
+    {
+        "Still氏病": "Still disease"
+    },
+    {
+        "機率效應": "stochastic effects"
+    },
+    {
+        "胃氣泡": "stomach bubble"
+    },
+    {
+        "阻擋本領": "stopping power"
+    },
+    {
+        "應力性骨折": "stress fracture"
+    },
+    {
+        "鍶-90 {=90Sr}": "Strontium 90"
+    },
+    {
+        "擊暈現象": "stunning phenomenon"
+    },
+    {
+        "亞急性硬化性泛腦炎": "subacute sclerosing panencephalitis {=SSPE}"
+    },
+    {
+        "蜘蛛膜下出血": "subarachnoid hemorrhage {=SAH}"
+    },
+    {
+        "皮質下動脈硬化性腦病變": "subcortical arteriosclerotic encephalopathy {=SAE}"
+    },
+    {
+        "皮下氣腫": "subcutaneous emphysema"
+    },
+    {
+        "橫膈膜下": "subdiaphragm"
+    },
+    {
+        "硬膜下積液": "subdural effusion"
+    },
+    {
+        "硬膜下蓄膿": "subdural empyema"
+    },
+    {
+        "硬膜下血腫": "subdural hematoma"
+    },
+    {
+        "室管膜下巨細胞星狀瘤": "subependymal giant cell astrocytoma {=SEGA}"
+    },
+    {
+        "大腦鐮下腦疝脫": "subfalcine herniation"
+    },
+    {
+        "亞致死劑量": "sublethal dose"
+    },
+    {
+        "半脫位": "subluxation"
+    },
+    {
+        "骨膜下膿瘍": "subperioteal absccess"
+    },
+    {
+        "肺下的；肺底的": "subpulmonic"
+    },
+    {
+        "減影": "subtraction"
+    },
+    {
+        "上副裂隙": "superior accessory fissure"
+    },
+    {
+        "上腔靜脈": "superior vena cava"
+    },
+    {
+        "上腔靜脈攝影(術)": "superior vena cavography"
+    },
+    {
+        "超級骨掃描": "superscan"
+    },
+    {
+        "超選擇性血管攝影(術)": "superselective angiography"
+    },
+    {
+        "外旋": "supination"
+    },
+    {
+        "仰臥擺位": "supine position"
+    },
+    {
+        "仰臥影像": "supine view"
+    },
+    {
+        "表面劑量": "surface dose"
+    },
+    {
+        "偵測儀": "survey meter"
+    },
+    {
+        "勘檢器": "surveymeter"
+    },
+    {
+        "存活曲線": "survival curve"
+    },
+    {
+        "存活率": "survival rate"
+    },
+    {
+        "同存多中心骨肉瘤": "synchronous multicentric osteosarcoma"
+    },
+    {
+        "同步加速器": "synchrotron"
+    },
+    {
+        "滑膜炎": "synovitis"
+    },
+    {
+        "脊髓空洞症": "syringomyelia {syrinx}"
+    },
+    {
+        "全身性紅斑狼瘡": "systemic lupus erythematosus {=SLE}"
+    },
+    {
+        "串聯裝療器": "tandem applicator"
+    },
+    {
+        "相切照野": "tangential fields"
+    },
+    {
+        "相切照射；切線照射": "tangential irradiation"
+    },
+    {
+        "靶": "target"
+    },
+    {
+        "靶體": "target body"
+    },
+    {
+        "靶材": "target materials"
+    },
+    {
+        "放射性核種標靶治療": "targeted radionuclide therapy"
+    },
+    {
+        "結核性腦膜炎": "TB meningitis"
+    },
+    {
+        "結核性脊椎炎": "TB spondylodiscitis {=TB spine}"
+    },
+    {
+        "鎝-99m甲基雙磷酸鹽": "Tc-99m methyl diphosphonate {=Tc-99m MDP}"
+    },
+    {
+        "鎝99m-DTPA": "Technecium 99m-DTPA"
+    },
+    {
+        "鎝氣產生器；孳生器": "Technegas generator"
+    },
+    {
+        "遠隔放射治療": "teleradiotherapy"
+    },
+    {
+        "遠隔治療": "teletherapy"
+    },
+    {
+        "模版": "templates"
+    },
+    {
+        "時間解析度": "temporal resolution"
+    },
+    {
+        "張力性氣胸": "tension pneumothorax"
+    },
+    {
+        "畸胎瘤": "teratoma"
+    },
+    {
+        "終端蒸氣滅菌": "terminal steam sterilization"
+    },
+    {
+        "脊髓粘連": "tethered cord"
+    },
+    {
+        "美國醫學物理學會": "The American Association of Physicists in Medicine (AAPM)"
+    },
+    {
+        "熱中子": "thermal neutron"
+    },
+    {
+        "熱中子治療": "thermal neutron therapy"
+    },
+    {
+        "熱鬆弛時間": "thermal relaxation time"
+    },
+    {
+        "熱螢光": "thermoluminescence"
+    },
+    {
+        "熱螢光劑量計": "thermoluminescence dosimeter"
+    },
+    {
+        "熱發光劑量計：熱螢光劑量計": "thermoluminescence dosimeter {=TLD}"
+    },
+    {
+        "熱發光劑量計": "thermoluminescent dosimeter {=TLD}"
+    },
+    {
+        "薄層層析法": "thin-layer chromatography {=TLC}"
+    },
+    {
+        "湯姆森散射": "Thomson scattering"
+    },
+    {
+        "三維影像": "three-dimensional view"
+    },
+    {
+        "閾值": "threshold"
+    },
+    {
+        "閾值劑量": "threshold dose"
+    },
+    {
+        "血栓閉塞性脈管炎": "Thromboangiitis obliterans {=TAO}"
+    },
+    {
+        "甲狀腺球蛋白": "thyroglobulin {=Tg}"
+    },
+    {
+        "甲狀腺掃描": "thyroid scan"
+    },
+    {
+        "甲狀腺閃爍攝影": "thyroid scintigraphy"
+    },
+    {
+        "甲狀腺攝取": "thyroid uptake"
+    },
+    {
+        "促甲狀腺激素": "thyroid-stimulating hormone {=TSH}"
+    },
+    {
+        "促甲狀腺素": "thyrotropin"
+    },
+    {
+        "甲狀腺素": "thyroxine {=T4}"
+    },
+    {
+        "甲狀腺素結合球蛋白": "thyroxine-binding globulin {=TBG}"
+    },
+    {
+        "時間活性曲線": "time activity curve"
+    },
+    {
+        "時間常數": "time constant"
+    },
+    {
+        "時間因子": "time factor"
+    },
+    {
+        "組織補償濾器": "tissue compensating filter"
+    },
+    {
+        "組織劑量": "tissue dose"
+    },
+    {
+        "組織等價游離腔": "tissue equivalent ionization chamber"
+    },
+    {
+        "組織等價物質": "tissue equivatlent material"
+    },
+    {
+        "組織加權因數": "tissue weighting factor {=WT}"
+    },
+    {
+        "組織空氣比": "tissuse-air ratio {=TAR}"
+    },
+    {
+        "耐受劑量": "tolerance dose"
+    },
+    {
+        "Tolosa-Hunt症候群{痛性眼肌麻痹症候群}": "Tolosa-Hunt syndrome {painful ophthalmoplegia syndrome}"
+    },
+    {
+        "小腦扁桃體疝脫": "tonsilar herniation"
+    },
+    {
+        "探查性視圖": "topogram"
+    },
+    {
+        "總衰減係數": "total attenuation coefficient"
+    },
+    {
+        "全身照射": "total body irradiation {=TBI}"
+    },
+    {
+        "總有效等效劑量": "total effective dose equivalent {=TEDE}"
+    },
+    {
+        "總鐵結合能力/容量": "total iron-binding capcity {=TIBC}"
+    },
+    {
+        "總質量衰減係數": "total mass attenuation coefficient"
+    },
+    {
+        "Towne像{後顱窩正面像}": "Towne view"
+    },
+    {
+        "毒性髓鞘脫失": "toxic demyelination"
+    },
+    {
+        "中毒性腦病變": "toxic encephalopathy"
+    },
+    {
+        "弓蟲症": "toxoplasmosis"
+    },
+    {
+        "示蹤劑": "tracer"
+    },
+    {
+        "氣管造口術": "tracheostomy"
+    },
+    {
+        "經導管動脈栓塞術": "transcatheter arterial embolization {=TAE}"
+    },
+    {
+        "運鐵蛋白": "transferrin"
+    },
+    {
+        "轉化生長因子α": "transforming growth factor alpha {=TGF-α}"
+    },
+    {
+        "轉化生長因子β": "transforming growth factor beta {=TGF-β}"
+    },
+    {
+        "過渡平衡": "transient equilibrium"
+    },
+    {
+        "通過時間": "transit time"
+    },
+    {
+        "轉譯": "translation"
+    },
+    {
+        "易位": "translocation"
+    },
+    {
+        "轉甲基化": "transmethylation"
+    },
+    {
+        "傳送/傳輸": "transmission"
+    },
+    {
+        "運輸指數": "transport index {=TI}"
+    },
+    {
+        "經舟骨月骨周圍脫位": "transscaphoid perilunate dislocation"
+    },
+    {
+        "小腦幕腦疝脫": "transtentorial herniation"
+    },
+    {
+        "橫斷面": "transverse plane"
+    },
+    {
+        "橫向鬆弛時間": "transverse relaxation time"
+    },
+    {
+        "捕捉/捕獲現象": "trapping phenomenon"
+    },
+    {
+        "治療裝療器": "treatment applicator"
+    },
+    {
+        "治療計劃系統": "treatment planning system {=TPS}"
+    },
+    {
+        "三角纖維軟骨": "triangular fibrocartilage"
+    },
+    {
+        "延遲觸發": "Trigger delay"
+    },
+    {
+        "三碘甲狀腺素": "triiodothyroxine {=T3}"
+    },
+    {
+        "牙關緊閉": "trismus"
+    },
+    {
+        "Trummerfeld氏帶": "Trummerfeld space"
+    },
+    {
+        "促甲狀腺素釋素": "TSH-releasing hormone {=TRH}"
+    },
+    {
+        "管電流": "tube current"
+    },
+    {
+        "管電壓": "tube voltage"
+    },
+    {
+        "結核瘤": "tuberculoma"
+    },
+    {
+        "結核": "tuberculosis"
+    },
+    {
+        "結節性硬化症": "tuberous sclerosis"
+    },
+    {
+        "腫瘤": "tumor"
+    },
+    {
+        "腫瘤控制劑量": "tumor control dose"
+    },
+    {
+        "腫瘤壞死因子": "tumor necrosis factor {=TNF}"
+    },
+    {
+        "腫瘤閃爍攝影": "tumor scintigraphy"
+    },
+    {
+        "抑癌基因/腫瘤抑制基因": "tumor suppressor gene"
+    },
+    {
+        "腫瘤樣鈣化": "tumoral calcinosis"
+    },
+    {
+        "鎢": "Tungsten"
+    },
+    {
+        "鎢絲": "tungsten filament"
+    },
+    {
+        "酪胺酸": "tyrosine"
+    },
+    {
+        "美國藥典": "U.S. Pharmacopeia {=USP}"
+    },
+    {
+        "歐洲藥典": "European Pharmacopoeia"
+    },
+    {
+        "尺骨撞擊綜合徵": "ulnar impingement syndrome"
+    },
+    {
+        "極選擇性血管攝影(術)": "ultraselective angiography"
+    },
+    {
+        "超音波掃描術；超音波掃描檢查": "ultrasonography"
+    },
+    {
+        "超音波": "ultrasound"
+    },
+    {
+        "鉤回疝脫": "uncal herniation"
+    },
+    {
+        "單一劑量": "unit dose"
+    },
+    {
+        "原發部位不明腫瘤": "unknown primary tumor {=UPT}"
+    },
+    {
+        "非管制區": "unrestricted area"
+    },
+    {
+        "吸收/攝取": "uptake"
+    },
+    {
+        "攝取率": "uptake ratio"
+    },
+    {
+        "尿嘧啶": "uracil"
+    },
+    {
+        "尿毒性腦病變": "uremic encephalopathy"
+    },
+    {
+        "尿道攝影(術)": "urethrography"
+    },
+    {
+        "紫外線監測器": "UV monitor"
+    },
+    {
+        "真空現象": "vaccum phenomenon"
+    },
+    {
+        "價": "valence"
+    },
+    {
+        "價電子": "valence electron"
+    },
+    {
+        "價殼/價層": "valence shell"
+    },
+    {
+        "水痘腦炎": "varicella encephalitis"
+    },
+    {
+        "血管內皮生長因子": "vascular endothelial growth factor {=VEGF}"
+    },
+    {
+        "精管攝影(術)": "vasography"
+    },
+    {
+        "精管精囊攝影(術)": "vaso-vesiculography"
+    },
+    {
+        "靜脈梗塞": "venous infarction"
+    },
+    {
+        "靜脈畸形": "venous malformation"
+    },
+    {
+        "換氣/通氣": "ventilation"
+    },
+    {
+        "通氣灌流比": "ventilation perfusion ratio {VP ratio}"
+    },
+    {
+        "腦室腹腔分流通暢檢查": "ventricular peritoneal shunt {=VP shunt} patency study"
+    },
+    {
+        "腦室擴大": "ventriculomegaly"
+    },
+    {
+        "腦室腹腔分流術": "ventriculoperitoneal shunt {V-P shunt}"
+    },
+    {
+        "椎體壓迫骨折": "vertebral compression fracture"
+    },
+    {
+        "病毒胸苷激酶": "viral thymidine kinase"
+    },
+    {
+        "臓層": "visceral"
+    },
+    {
+        "臓層肋膜": "visceral pleura"
+    },
+    {
+        "臟層腹膜": "visceral peritoneum"
+    },
+    {
+        "體積效應": "volume effect"
+    },
+    {
+        "容積減少": "volume loss"
+    },
+    {
+        "福爾胡弗症": "Voorhoeve disease"
+    },
+    {
+        "灌入": "washin"
+    },
+    {
+        "流出": "washout"
+    },
+    {
+        "水等效": "water equivalent"
+    },
+    {
+        "瓦特氏(顱骨)像": "Water's view"
+    },
+    {
+        "波長": "wavelength"
+    },
+    {
+        "楔形濾器": "wedge filter"
+    },
+    {
+        "井型計數器": "well counter"
+    },
+    {
+        "西方墨點法": "Western blot method"
+    },
+    {
+        "白質水腫": "white matter edema"
+    },
+    {
+        "腦白質白斑": "white matter hyperintensity"
+    },
+    {
+        "全身造影": "whole-body imaging"
+    },
+    {
+        "野生型": "wild type"
+    },
+    {
+        "威利氏環(大腦動脈環)": "Willis' circle (cerebral arterial circle)"
+    },
+    {
+        "威爾森氏病": "Wilson's disease"
+    },
+    {
+        "溫伯格環": "Wimberger ring"
+    },
+    {
+        "窗值；窗位": "window level"
+    },
+    {
+        "窗幅；窗寬": "window width"
+    },
+    {
+        "編織骨": "woven bone"
+    },
+    {
+        "腱性黃瘤": "xanthoma"
+    },
+    {
+        "口乾症": "xerostomia"
+    },
+    {
+        "腎上腺腦白質失養症": "X-linked adrenoleukodystrophy"
+    },
+    {
+        "X光；X射線": "X-ray"
+    },
+    {
+        "X光高壓產生器": "X-ray high voltage generator"
+    },
+    {
+        "光模擬定位儀": "X-ray simulator"
+    },
+    {
+        "X光管": "X-ray tube"
+    },
+    {
+        "釔-90玻璃微球體": "Y-90 glass microspheres"
+    },
+    {
+        "釔-90樹脂微球體": "Y-90 resin microspheres"
+    },
+    {
+        "產率": "yield"
+    },
+    {
+        "青少年發作性牛皮癬性關節炎": "young onset psoriatic arthritis"
+    },
+    {
+        "青少年發作型類風濕性關節炎": "young onset rheumatoid arthritis"
+    },
+    {
+        "年輕型中風": "young stroke"
+    },
+    {
+        "釔-90 {=90Y}": "yttrium-90"
+    },
+    {
+        "α粒子": "α particle"
+    },
+    {
+        "α射線": "α ray"
+    },
+    {
+        "α/β比值": "α/β ratio"
+    },
+    {
+        "β+衰變": "β+decay"
+    },
+    {
+        "β-衰變": "β-decay"
+    },
+    {
+        "半乳糖酶": "β-galactosidase"
+    },
+    {
+        "β射線": "β-ray"
+    }
+]

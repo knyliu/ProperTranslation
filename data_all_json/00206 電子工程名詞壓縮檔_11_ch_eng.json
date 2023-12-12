@@ -1,0 +1,1982 @@
+[
+    {
+        "工作電壓": "working voltage"
+    },
+    {
+        "工件托架": "workpiece carrier"
+    },
+    {
+        "工作件夾持": "workpiece chuck"
+    },
+    {
+        "工件夾": "workpiece clamp"
+    },
+    {
+        "工件觸點": "workpiece contact"
+    },
+    {
+        "工件接觸墊": "workpiece contact pad"
+    },
+    {
+        "工件切": "workpiece cutting"
+    },
+    {
+        "工件嚙合": "workpiece engaging"
+    },
+    {
+        "工件保持": "workpiece hold"
+    },
+    {
+        "工件標記": "workpiece marks"
+    },
+    {
+        "工件電漿處理": "workpiece plasma treatment"
+    },
+    {
+        "工件處理裝置": "workpiece processing device"
+    },
+    {
+        "工件處理裝置": "workpiece processing system"
+    },
+    {
+        "工件程式解譯": "workpiece program interpret"
+    },
+    {
+        "工件支撐表面": "workpiece support surface"
+    },
+    {
+        "工件表面": "workpiece surface"
+    },
+    {
+        "工件傳送系統": "workpiece transfer system"
+    },
+    {
+        "工件輸送": "workpiece transport"
+    },
+    {
+        "工件扳手": "workpiece wrench"
+    },
+    {
+        "工件旋轉": "workpieces rotating"
+    },
+    {
+        "維修廠": "workshop"
+    },
+    {
+        "廠長": "workshop supervisor"
+    },
+    {
+        "工作站": "workstation"
+    },
+    {
+        "工作站辨識碼": "workstation identification code"
+    },
+    {
+        "工作站識別系統": "workstation identification system"
+    },
+    {
+        "世界坐標": "world coordinate"
+    },
+    {
+        "世界盃": "world cup"
+    },
+    {
+        "世界環境": "world environment"
+    },
+    {
+        "世界地圖": "world map"
+    },
+    {
+        "全球資訊網": "World Wide Web"
+    },
+    {
+        "全球資訊網協會": "world wide web consortium{=W3C}"
+    },
+    {
+        "全球資訊網服務": "world wide web service"
+    },
+    {
+        "單寫多讀": "WORM"
+    },
+    {
+        "蝸桿式齒輪": "worm gear"
+    },
+    {
+        "蟲監督": "worm monitor"
+    },
+    {
+        "蝸輪": "worm wheel"
+    },
+    {
+        "蟲洞路由": "Wormhole Routing"
+    },
+    {
+        "路由選路協定": "wormhole routing protocols"
+    },
+    {
+        "磨損螺絲": "worn screw"
+    },
+    {
+        "最壞情況": "worst case condition"
+    },
+    {
+        "最壞情況增益敏感性預決定": "worst case gain sensitivity predetermination"
+    },
+    {
+        "最壞情況字組": "worst case pattern"
+    },
+    {
+        "最壞情況壓力條件": "worst case stress condition"
+    },
+    {
+        "卷鐵芯": "wound core"
+    },
+    {
+        "創傷滲出物": "wound exudate"
+    },
+    {
+        "傷口癒合": "wound healing"
+    },
+    {
+        "傷口感染": "wound infection"
+    },
+    {
+        "傷口痛": "wound pain"
+    },
+    {
+        "傷口照護": "Wounds Care"
+    },
+    {
+        "織物薄片": "woven fabric sheet"
+    },
+    {
+        "編織纖維": "woven fiber"
+    },
+    {
+        "織狀玻璃": "woven glass"
+    },
+    {
+        "織聚合物材料": "woven polymeric material"
+    },
+    {
+        "抖動；嗚聲": "wow"
+    },
+    {
+        "抖動率表": "wow & flutter meter"
+    },
+    {
+        "抖晃": "wow and flutter"
+    },
+    {
+        "抖動率；嗚嗚一顫抖": "wow flutter"
+    },
+    {
+        "周圍包繞": "wrap around"
+    },
+    {
+        "捲包式太陽電池": "wrap around type solar cell"
+    },
+    {
+        "繞接接觸": "wrap contact"
+    },
+    {
+        "(電腦圖學之)周圍包繞": "wraparound(in computer graphics)"
+    },
+    {
+        "包覆": "Wrapper"
+    },
+    {
+        "包裹材料": "wrapping material"
+    },
+    {
+        "包裝棉紙": "wrapping tissue"
+    },
+    {
+        "扳手": "wrench"
+    },
+    {
+        "扳手本體": "wrench body"
+    },
+    {
+        "扳手掣子": "wrench pawl"
+    },
+    {
+        "扳手結構": "wrench structure"
+    },
+    {
+        "扳手上蓋": "wrench upper lid"
+    },
+    {
+        "皺褶": "Wrinkle"
+    },
+    {
+        "手腕": "Wrist"
+    },
+    {
+        "腕離斷": "wrist disarticulation"
+    },
+    {
+        "腕關節": "wrist joint"
+    },
+    {
+        "腕墊": "wrist mat"
+    },
+    {
+        "腕墊": "wrist pad"
+    },
+    {
+        "手環": "Wristband"
+    },
+    {
+        "護腕結構": "wristlet structure"
+    },
+    {
+        "寫入判別裝置": "write-in discriminating device"
+    },
+    {
+        "寫入存取階段": "write access phase"
+    },
+    {
+        "寫入放大": "Write amplification"
+    },
+    {
+        "寫入放大器電路": "write amplifier circuit"
+    },
+    {
+        "回寫": "write back"
+    },
+    {
+        "寫入廣播": "write broadcast"
+    },
+    {
+        "寫緩衝器": "write buffer"
+    },
+    {
+        "寫入電路": "write circuit"
+    },
+    {
+        "寫入電流偏移": "write current offset"
+    },
+    {
+        "寫入資料": "write data input"
+    },
+    {
+        "寫入軟體": "write in software"
+    },
+    {
+        "寫入罩": "write masking"
+    },
+    {
+        "單寫多讀": "Write Once Read Many{=WORM}"
+    },
+    {
+        "單寫多讀": "write once/read many{=WORM}"
+    },
+    {
+        "寫入參數": "write parameter"
+    },
+    {
+        "防寫感測器": "write protect sensor"
+    },
+    {
+        "寫入保護": "write protection"
+    },
+    {
+        "寫入脈衝調整": "write pulse adjustment"
+    },
+    {
+        "寫入脈衝寬度控制": "write pulse width control"
+    },
+    {
+        "寫入範圍": "write range"
+    },
+    {
+        "寫入速率": "write rate"
+    },
+    {
+        "寫網": "write web"
+    },
+    {
+        "寫網頁": "write web page"
+    },
+    {
+        "寫入控制電路": "write-in control circuit"
+    },
+    {
+        "單次寫入光學記錄媒體": "write-once optical recording medium"
+    },
+    {
+        "寫入": "writing"
+    },
+    {
+        "寫放大": "writing amplification"
+    },
+    {
+        "書寫桿": "writing bar"
+    },
+    {
+        "寫入循環": "writing cycle"
+    },
+    {
+        "書寫用具": "writing devices"
+    },
+    {
+        "謄寫電子槍": "writing gun"
+    },
+    {
+        "謄寫電子槍偏向極": "writing gun deflecting electrode"
+    },
+    {
+        "寫資訊輸入裝置": "writing information input device"
+    },
+    {
+        "書寫用具": "writing instrument"
+    },
+    {
+        "寫入光功率": "writing optical power"
+    },
+    {
+        "書寫速度": "writing speed"
+    },
+    {
+        "書寫系統": "writing system"
+    },
+    {
+        "筆試": "written test"
+    },
+    {
+        "錯誤尺寸": "wrong dimensions"
+    },
+    {
+        "熟鐵": "wrought iron"
+    },
+    {
+        "二硫化鎢": "WS2"
+    },
+    {
+        "二硒化鎢": "WSe2"
+    },
+    {
+        "沃爾特肖特基研究所": "WSI"
+    },
+    {
+        "無線電台技術操作": "WTR operation"
+    },
+    {
+        "w 型光纖": "w-type fiber"
+    },
+    {
+        "烏蘭韋伯天線": "Wullenweber antenna"
+    },
+    {
+        "鋅礦": "Wurtzite"
+    },
+    {
+        "鋅礦相": "Wurtzite phase"
+    },
+    {
+        "全球資訊網架構": "WWW architecture"
+    },
+    {
+        "Y 接（變壓器）": "wye (transformer)"
+    },
+    {
+        "X波段": "X Band"
+    },
+    {
+        "X光": "X ray"
+    },
+    {
+        "X 射線電腦斷層掃描": "X ray computerized tomography{=XCT}"
+    },
+    {
+        "X射線繞射": "X ray diffraction"
+    },
+    {
+        "Ｘ 射線雷射": "X ray laser"
+    },
+    {
+        "Ｘ 射線拓撲": "X ray topography"
+    },
+    {
+        "x86 架構": "x86 architecture"
+    },
+    {
+        "紅酵母": "xanthophyllomyces dendrorhous"
+    },
+    {
+        "X方向移動機構": "X-direction moving mechanism"
+    },
+    {
+        "各式數位用戶線": "xDSL"
+    },
+    {
+        "各式數位用戶線與十億位元乙太網路與收發器": "xDSL and gigabit ethernet circuits and transceivers"
+    },
+    {
+        "各式數位用戶線信號處理機": "XDSL signal processor"
+    },
+    {
+        "氙": "Xenon"
+    },
+    {
+        "氙弧燈": "xenon arc lamp"
+    },
+    {
+        "氙閃光燈泵": "Xenon ashlamp pumping"
+    },
+    {
+        "二氟化氙": "xenon difluoride"
+    },
+    {
+        "氙準分子燈": "xenon excimer lamp"
+    },
+    {
+        "氙閃光": "xenon flash"
+    },
+    {
+        "氙氣頭燈": "xenon headlight"
+    },
+    {
+        "氙燈": "xenon lamp"
+    },
+    {
+        "氙雷射": "Xenon laser"
+    },
+    {
+        "氙材料/元件": "Xenon materials/devices"
+    },
+    {
+        "口腔乾燥症治療": "xerostomia treatment"
+    },
+    {
+        "x 接面": "x-junction"
+    },
+    {
+        "可擴展標示語言檔案": "XML file"
+    },
+    {
+        "跨媒體優化研究": "XMOS"
+    },
+    {
+        "異或非": "XNOR"
+    },
+    {
+        "異或": "XOR"
+    },
+    {
+        "「互斥或」閘": "XOR gate"
+    },
+    {
+        "x 射線": "x-ray"
+    },
+    {
+        "X 光吸收光譜術": "X-ray absorption spectroscopy"
+    },
+    {
+        "x 射線與伽瑪射線設備": "x-ray and gamma ray equipment"
+    },
+    {
+        "x 射線與伽瑪射線望遠鏡": "x-ray and gamma ray telescope"
+    },
+    {
+        "x 射線與粒子束": "x-ray and particle beam"
+    },
+    {
+        "x 射線應用": "x-ray application"
+    },
+    {
+        "x 射線天文學": "x-ray astronomy"
+    },
+    {
+        "x 射線天文偵測器": "x-ray astronomy detector"
+    },
+    {
+        "x 射線原子光譜": "x-ray atomic spectrum"
+    },
+    {
+        "X光束": "X-ray beam"
+    },
+    {
+        "x射線攝影機": "x-ray camera"
+    },
+    {
+        "x 射線化學分析": "x-ray chemical analysis"
+    },
+    {
+        "外科用 x 光顯影紗布": "x-ray detectable surgical gauze"
+    },
+    {
+        "x 射線偵測": "x-ray detection"
+    },
+    {
+        "x 射線偵測器": "x-ray detector"
+    },
+    {
+        "x 射線繞射": "x-ray diffraction"
+    },
+    {
+        "X光繞射圖": "X-ray diffraction chart"
+    },
+    {
+        "X 光繞射法": "X-ray diffraction method"
+    },
+    {
+        "X 光繞射儀": "X-ray diffractometer"
+    },
+    {
+        "x 射線繞射峰寬化法": "x-ray diffractometry line broadening method"
+    },
+    {
+        "x 射線繞射法": "x-ray diffractometry{=XRD}"
+    },
+    {
+        "x 射線效應": "x-ray effect"
+    },
+    {
+        "x 射線放射光譜": "x-ray emission spectrum"
+    },
+    {
+        "x 射線放射閾及螢光": "x-ray emission threshold and fluorescence"
+    },
+    {
+        "x射線曝光設備": "x-ray exposure apparatus"
+    },
+    {
+        "x 光軟片": "x-ray film"
+    },
+    {
+        "X 光螢光分析": "X-ray fluorescence analysis"
+    },
+    {
+        "x射線產生裝置": "x-ray generating device"
+    },
+    {
+        "具穩定輸入之 x 光影像增強器": "x-ray image intensifier with stabilized input"
+    },
+    {
+        "x 射線影像感測器": "x-ray image sensor"
+    },
+    {
+        "X光影像信號": "X-ray image signal"
+    },
+    {
+        "x 射線成像": "x-ray imaging"
+    },
+    {
+        "X光檢查": "X-ray inspecting"
+    },
+    {
+        "x 射線照射": "x-ray irradiation"
+    },
+    {
+        "x 射線雷射": "x-ray laser"
+    },
+    {
+        "x 射線雷射誘發紫外線發光": "x-ray laser induced UV luminescence"
+    },
+    {
+        "x 射線微影術": "x-ray lithography"
+    },
+    {
+        "X 光光罩": "X-ray mask"
+    },
+    {
+        "x 射線量測": "x-ray measurement"
+    },
+    {
+        "x 射線微分析": "x-ray microanalysis"
+    },
+    {
+        "x 射線單光儀": "x-ray monochromator"
+    },
+    {
+        "x 射線光學": "x-ray optics"
+    },
+    {
+        "x 射線光電子能譜學": "x-ray photoelectron spectroscopy{=XPS}"
+    },
+    {
+        "x 射線光電子譜": "x-ray photoelectron spectrum"
+    },
+    {
+        "x 射線光電子能譜學": "x-ray photoelectronic spectroscopy{=XPS}"
+    },
+    {
+        "x 光板": "x-ray plate"
+    },
+    {
+        "x 射線生成": "x-ray production"
+    },
+    {
+        "x射線投影曝光": "x-ray projection exposure"
+    },
+    {
+        "x 射線比例計數器": "x-ray proportional counter"
+    },
+    {
+        "x 射線防護圍裙": "x-ray protective apron"
+    },
+    {
+        "x 射線防護手套": "x-ray protective glove"
+    },
+    {
+        "x 射線反射": "x-ray reflection"
+    },
+    {
+        "x 射線光阻": "x-ray resist"
+    },
+    {
+        "X光室": "X-ray room"
+    },
+    {
+        "x 射線散射": "x-ray scattering"
+    },
+    {
+        "x 射線光譜學": "x-ray spectroscopy"
+    },
+    {
+        "x 射線光譜偵測器": "x-ray spectroscopy detector"
+    },
+    {
+        "X 光治療": "X-ray therapy"
+    },
+    {
+        "x射線處理": "x-ray treatment"
+    },
+    {
+        "x 射線管": "x-ray tube"
+    },
+    {
+        "胸及腹部用 x 射線水假體": "X-ray water phantom for chest and abdomen"
+    },
+    {
+        "x 射線伽瑪射線儀器與技術": "x-ray, gamma-ray instrument and technique"
+    },
+    {
+        "X射線衍射儀": "XRD"
+    },
+    {
+        "極紫外干涉": "XUV interferometry"
+    },
+    {
+        "極紫外光學常數": "XUV optical constants"
+    },
+    {
+        "極紫外反射": "XUV reflectometry"
+    },
+    {
+        "x-y軸載台裝置": "x-y axis stage device"
+    },
+    {
+        "X-Y 線性工作台": "X-Y linear table"
+    },
+    {
+        "X-Y 記錄器": "X-Y recorder"
+    },
+    {
+        "二甲苯異構物": "xylene isomer"
+    },
+    {
+        "二甲苯異構化": "xylene isomerization"
+    },
+    {
+        "木糖酸": "xylonic acid"
+    },
+    {
+        "Y 接頭": "Y junction"
+    },
+    {
+        "Y鍵聯": "Y linkage"
+    },
+    {
+        "Y 參數": "Y parameter"
+    },
+    {
+        "YAG 放大器": "YAG amplifier"
+    },
+    {
+        "YAG 雷射": "YAG laser"
+    },
+    {
+        "YAG材料/元件": "YAG materials/devices"
+    },
+    {
+        "YAG 銲接；釔鋁石榴石銲接": "YAG welding"
+    },
+    {
+        "八木天線": "yagi antenna"
+    },
+    {
+        "YAlO3 雷射": "YAlO3 laser"
+    },
+    {
+        "碼": "yard"
+    },
+    {
+        "紗線分級": "yarn grading"
+    },
+    {
+        "紗結構": "yarn structure"
+    },
+    {
+        "搖動": "yaw"
+    },
+    {
+        "偏航角": "yaw angle"
+    },
+    {
+        "偏駛力矩": "yaw moment"
+    },
+    {
+        "鐿": "Yb"
+    },
+    {
+        "鐿(3+)/鋁(3+) 共摻光纖": "Yb(3+)/Al(3+) codoped fiber"
+    },
+    {
+        "鐿：KGW": "Yb:KGW"
+    },
+    {
+        "鐿:YAG": "Yb:YAG"
+    },
+    {
+        "鐿:YAG 雷射": "Yb:YAG laser"
+    },
+    {
+        "Yb3+:Er3+ 共摻光纖": "Yb3+:Er3+ codoped fiber"
+    },
+    {
+        "摻鐿光纖放大器": "Yb-doped fiber amplifier"
+    },
+    {
+        "摻鐿光纖雷射": "Yb-doped fiber laser"
+    },
+    {
+        "Y 分支": "Y-branch"
+    },
+    {
+        "三硼酸鈣氧釔": "YCa4O(BO3)3"
+    },
+    {
+        "YCbCr色彩空間": "YCbCr color space"
+    },
+    {
+        "Y 向切割": "Y-cut"
+    },
+    {
+        "年分": "year number"
+    },
+    {
+        "出廠年月": "Year of MFG"
+    },
+    {
+        "酵母菌": "Yeast"
+    },
+    {
+        "酵母菌細胞": "yeast cell"
+    },
+    {
+        "酵母感染": "yeast infect"
+    },
+    {
+        "黃色螢光": "yellow fluorescent"
+    },
+    {
+        "黃色螢光粉": "yellow fluorescent powder"
+    },
+    {
+        "黃光": "yellow light"
+    },
+    {
+        "黃熱": "yellow maturity"
+    },
+    {
+        "日元貨幣附加費": "Yen Applica surcharge"
+    },
+    {
+        "產出": "yield"
+    },
+    {
+        "前有幹道": "Yield Ahead"
+    },
+    {
+        "良率分析": "yield analysis"
+    },
+    {
+        "產出增加": "yield enhancement"
+    },
+    {
+        "產出估計": "yield estimation"
+    },
+    {
+        "良率因素": "yield factor"
+    },
+    {
+        "良率改善": "yield improvement"
+    },
+    {
+        "良率損失空間": "yield loss space"
+    },
+    {
+        "產出最佳化": "yield optimization"
+    },
+    {
+        "良率分析整合": "yield rate analysis integration"
+    },
+    {
+        "良率檢測": "yield ratio detection"
+    },
+    {
+        "產出壓力": "yield stress"
+    },
+    {
+        "產生增進": "yielding enhance"
+    },
+    {
+        "YIG薄膜/元件": "YIG films/devices"
+    },
+    {
+        "YIG 材料/元件": "YIG materials/devices"
+    },
+    {
+        "釔鐵石榴石調諧振盪器": "YIG tuned oscillator"
+    },
+    {
+        "釔鐵石榴石－釓鎵石榴石錐度波導": "YIG-GGG taper waveguide"
+    },
+    {
+        "Y 接面": "Y-junction"
+    },
+    {
+        "Y 接面耦合器": "Y-junction coupler"
+    },
+    {
+        "基苯磺醯胺": "yl benzenesulfonamide"
+    },
+    {
+        "基苯磺醯胺衍生物": "yl benzenesulfonamide derivative"
+    },
+    {
+        "基環系統": "yl ring system"
+    },
+    {
+        "基磺醯胺": "yl sulfonamide derivative"
+    },
+    {
+        "氟化釔鋰雷射": "YLF laser"
+    },
+    {
+        "氧化錳釔薄膜": "YMnO3 thin film"
+    },
+    {
+        "瑜珈": "yoga"
+    },
+    {
+        "軛": "yoke"
+    },
+    {
+        "軛偏轉": "yoke deflect"
+    },
+    {
+        "軛部材": "yoke piece"
+    },
+    {
+        "磁軛結構": "yoke structures"
+    },
+    {
+        "年輕成人": "young adult"
+    },
+    {
+        "洋華光電公司": "Young Fast"
+    },
+    {
+        "年輕人": "young people"
+    },
+    {
+        "楊氏實驗": "Young`s experiment"
+    },
+    {
+        "楊氏模數": "Young`s modulu"
+    },
+    {
+        "楊氏模數": "Youngs modulus"
+    },
+    {
+        "鐿化合物": "Ytterbium compound"
+    },
+    {
+        "鐿元件": "Ytterbium device"
+    },
+    {
+        "鐿玻璃": "Ytterbium glass"
+    },
+    {
+        "鐿雷射": "Ytterbium laser"
+    },
+    {
+        "鐿雷射材料": "Ytterbium laser material"
+    },
+    {
+        "鐿材料": "Ytterbium material"
+    },
+    {
+        "鐿材料/元件": "Ytterbium materials/devices"
+    },
+    {
+        "鐿玻璃雷射": "Ytterbium:glass laser"
+    },
+    {
+        "鐿": "Ytterbium{=Yb}"
+    },
+    {
+        "摻鐿鍶氟磷灰石": "ytterbium-doped strontium fluorapatite{=Yb:S-FAP}"
+    },
+    {
+        "三氧化二釔燒結": "yttria sinter"
+    },
+    {
+        "釔燒結體": "yttria sintered body"
+    },
+    {
+        "釔": "Yttrium"
+    },
+    {
+        "鋁酸釔雷射": "yttrium aluminate laser"
+    },
+    {
+        "釔鋁石榴石雷射": "yttrium aluminium garnet laser{=YAG laser}"
+    },
+    {
+        "釔鋁石榴石；雅各": "yttrium aluminium garnet{=YAG}"
+    },
+    {
+        "釔鋁石榴石；雅各": "yttrium aluminum garnet{=YAG}"
+    },
+    {
+        "釔化合物": "Yttrium compound"
+    },
+    {
+        "釔離子": "yttrium ion"
+    },
+    {
+        "釔鐵石榴石單晶元件": "yttrium iron garnet single crystal device{=YIG single crystal device}"
+    },
+    {
+        "釔鐵石榴石": "yttrium iron garnet{=YIG}"
+    },
+    {
+        "釔雷射": "Yttrium laser"
+    },
+    {
+        "釔材料/元件": "Yttrium materials/devices"
+    },
+    {
+        "釔材料/雷射": "Yttrium materials/lasers"
+    },
+    {
+        "氧化釔": "Yttrium Oxide"
+    },
+    {
+        "釔系超導體": "yttrium series superconductor"
+    },
+    {
+        "嘉義區監理所雲林監理站": "Yunlin Station of Chiayi Motor Vehicles Office"
+    },
+    {
+        "Z - 緩衝器": "Z - buffer"
+    },
+    {
+        "Ｚ微位移元件": "Z fine displacement element"
+    },
+    {
+        "Z 掃描": "Z scan"
+    },
+    {
+        "Z轉換": "Z transform"
+    },
+    {
+        "Z值": "Z value"
+    },
+    {
+        "扎多夫－朱序列": "Zadoff-Chu sequence"
+    },
+    {
+        "札克相位": "Zak phase"
+    },
+    {
+        "z緩衝影像資料": "z-buffer image data"
+    },
+    {
+        "斑馬魚": "zebrafish"
+    },
+    {
+        "斑馬魚": "Zebrafish Larvae"
+    },
+    {
+        "分子內則曼與斯塔克效應": "Zeeman and stark effects in molecules"
+    },
+    {
+        "則曼效應": "Zeeman effect"
+    },
+    {
+        "原子內則曼效應": "Zeeman effect in atom"
+    },
+    {
+        "則曼雷射": "Zeeman laser"
+    },
+    {
+        "禪定": "Zen Meditation"
+    },
+    {
+        "曾納崩潰": "Zener breakdown"
+    },
+    {
+        "曾納二極體": "Zener diode"
+    },
+    {
+        "齊納穿隧": "Zener tunneling"
+    },
+    {
+        "天頂位置": "zenith position"
+    },
+    {
+        "沸石吸附劑": "zeolite adsorbent"
+    },
+    {
+        "沸石吸附": "zeolite adsorption"
+    },
+    {
+        "沸石觸媒": "zeolite catalyst"
+    },
+    {
+        "沸石晶體": "zeolite crystals"
+    },
+    {
+        "沸石膜": "zeolite film"
+    },
+    {
+        "沸石lsx": "zeolite lsx"
+    },
+    {
+        "沸石合成": "zeolite synthesis"
+    },
+    {
+        "澤尼克多項式": "Zernike polynomial"
+    },
+    {
+        "零點": "zero"
+    },
+    {
+        "零位址指令": "zero address instruction"
+    },
+    {
+        "零調整器": "zero adjuster"
+    },
+    {
+        "零賦值": "Zero assignment"
+    },
+    {
+        "零偏壓": "zero bias"
+    },
+    {
+        "零偏壓操作": "zero bias operation"
+    },
+    {
+        "零偏壓電阻面積乘積": "zero bias resistance area product"
+    },
+    {
+        "零偏壓": "zero bias voltage"
+    },
+    {
+        "零位元": "zero bit"
+    },
+    {
+        "零區塊": "zero block"
+    },
+    {
+        "零道閥": "zero channel threshold"
+    },
+    {
+        "零電路": "zero circuit"
+    },
+    {
+        "零間隙": "zero clearance"
+    },
+    {
+        "零條件": "zero condition"
+    },
+    {
+        "零導電帶": "zero conduction band"
+    },
+    {
+        "過零點檢測器": "zero cross detector"
+    },
+    {
+        "零點交叉": "zero crossing"
+    },
+    {
+        "零交叉檢測器": "zero crossing detector"
+    },
+    {
+        "零電流換相": "zero current commutation"
+    },
+    {
+        "零電流狀態": "zero current condition"
+    },
+    {
+        "零電流切換": "zero current switching"
+    },
+    {
+        "零缺點": "zero defect"
+    },
+    {
+        "零檢測概率": "zero detection probability"
+    },
+    {
+        "零繞射": "zero diffract"
+    },
+    {
+        "零數位資料": "zero digital data"
+    },
+    {
+        "零排放": "zero discharge"
+    },
+    {
+        "零色散": "zero dispersion"
+    },
+    {
+        "零色散波長": "zero dispersion wavelength"
+    },
+    {
+        "零色散波長量測": "zero dispersion wavelength measurement"
+    },
+    {
+        "零負載比": "zero duty ratio"
+    },
+    {
+        "零差系統": "zero error system"
+    },
+    {
+        "零場多穩態": "zero filed multistable"
+    },
+    {
+        "迫零等化器": "Zero Forcing equalizer{=ZF}"
+    },
+    {
+        "零頻率": "zero frequency"
+    },
+    {
+        "零間隙半導體": "zero gap semiconductor"
+    },
+    {
+        "零電感電流": "zero inductor current"
+    },
+    {
+        "零插入": "zero insertion"
+    },
+    {
+        "零中頻": "zero intermediate frequency"
+    },
+    {
+        "零遮罩": "zero mask"
+    },
+    {
+        "零記憶通道": "zero memory channel"
+    },
+    {
+        "零記憶源": "zero memory source"
+    },
+    {
+        "零調變": "zero modulation"
+    },
+    {
+        "零偏移電壓": "zero offset voltage"
+    },
+    {
+        "零光程差": "zero optical path difference"
+    },
+    {
+        "零階保持器": "zero order holder"
+    },
+    {
+        "零基準": "zero reference"
+    },
+    {
+        "零旋轉軸": "zero rotational axis"
+    },
+    {
+        "零序阻抗": "zero sequence impedance"
+    },
+    {
+        "零序方法": "zero sequence method"
+    },
+    {
+        "零序電抗": "zero sequence reactance"
+    },
+    {
+        "零序電阻": "zero sequence resistance"
+    },
+    {
+        "零信號位準": "zero signal level"
+    },
+    {
+        "零狀態": "zero state"
+    },
+    {
+        "零穩態誤差系統": "zero steady state error system"
+    },
+    {
+        "零抑制": "zero suppression"
+    },
+    {
+        "零電納": "zero susceptance"
+    },
+    {
+        "零溫度係數點": "zero temperature coefficient point"
+    },
+    {
+        "零項": "zero term"
+    },
+    {
+        "零閾值": "zero threshold"
+    },
+    {
+        "零傾斜角": "zero tilt angle"
+    },
+    {
+        "零周轉": "zero turnaround"
+    },
+    {
+        "零價鐵": "zero valent iron"
+    },
+    {
+        "零振動": "Zero Vibration"
+    },
+    {
+        "零伏特": "zero volt"
+    },
+    {
+        "零電壓": "zero voltage"
+    },
+    {
+        "零電壓導數切換": "zero voltage derivative switching{=ZVDS}"
+    },
+    {
+        "零電壓偵測": "zero voltage detection"
+    },
+    {
+        "零電壓切換": "Zero Voltage Switch"
+    },
+    {
+        "零電壓切換": "zero voltage switching{=ZVS}"
+    },
+    {
+        "零電壓切換裝置": "zero voltage switching apparatus"
+    },
+    {
+        "零電壓向量": "zero voltage vector"
+    },
+    {
+        "零天頂角": "zero zenith angle"
+    },
+    {
+        "零偏壓調變": "zero-biased modulation"
+    },
+    {
+        "零跨越": "zero-crossing"
+    },
+    {
+        "零跨越檢測器": "zero-crossing detector"
+    },
+    {
+        "零跨越鑑別器": "zero-crossing discriminator"
+    },
+    {
+        "零跨越失真": "zero-crossing distortion"
+    },
+    {
+        "零電流檢測": "zero current detection"
+    },
+    {
+        "零維空間": "zero-dimensional space"
+    },
+    {
+        "零誤差系統": "zero-error system"
+    },
+    {
+        "零相位濾波": "zero phase filtering"
+    },
+    {
+        "零點漂移": "zero point drift"
+    },
+    {
+        "零相序電壓注入": "zero sequence voltage injection"
+    },
+    {
+        "零點移位技術": "zero-shifting technique"
+    },
+    {
+        "副載波零值彩度": "zero-subcarrier chromaticity"
+    },
+    {
+        "零階零相位遮罩": "zeroth order nulled phase mask"
+    },
+    {
+        "零階共振器": "zeroth order resonator{=ZOR}"
+    },
+    {
+        "零階傳輸線": "zeroth order transmission line"
+    },
+    {
+        "零樹編碼": "zerotree coding"
+    },
+    {
+        "零樹編碼": "zero tree coding"
+    },
+    {
+        "零電壓切換技術": "zero voltage switching technique"
+    },
+    {
+        "鋸齒型樣": "zigzag pattern"
+    },
+    {
+        "曲折接線（變壓器）": "zig-zag (transformer)"
+    },
+    {
+        "曲折濾波器": "zigzag filter"
+    },
+    {
+        "曲折線慢波線": "zigzag slow wave line"
+    },
+    {
+        "鋸齒狀彈簧": "zigzag spring"
+    },
+    {
+        "鋸齒狀的上端": "zigzag top"
+    },
+    {
+        "鋸齒狀軌線": "zigzag trajectory"
+    },
+    {
+        "方位角": "zimuth"
+    },
+    {
+        "鋅": "Zinc"
+    },
+    {
+        "醋酸鋅": "zinc acetate"
+    },
+    {
+        "鋅合金": "Zinc alloy"
+    },
+    {
+        "鋅合金電鍍液": "zinc alloy electroplating solution"
+    },
+    {
+        "鋅合金/化合物": "Zinc alloys/compounds"
+    },
+    {
+        "鋅合金/化合物元件": "Zinc alloys/compounds, devices"
+    },
+    {
+        "鋁酸鋅": "zinc aluminate"
+    },
+    {
+        "鋅陽極": "zinc anode"
+    },
+    {
+        "鋅鋇": "zinc barium"
+    },
+    {
+        "閃鋅礦": "zinc blende"
+    },
+    {
+        "閃鋅礦晶格結構": "zinc blende lattice structure"
+    },
+    {
+        "鋅礦相": "zinc blende phase"
+    },
+    {
+        "鋅催化劑": "zinc catalyst"
+    },
+    {
+        "氯化鋅": "zinc chloride"
+    },
+    {
+        "氯化鋅型乾電池": "zinc chloride type dry cell"
+    },
+    {
+        "鉻酸鋅": "Zinc chromate"
+    },
+    {
+        "鍍鋅程序": "zinc coating process"
+    },
+    {
+        "鍍鋅鋼板": "zinc coating steel plate"
+    },
+    {
+        "鋅錯合物": "zinc complex"
+    },
+    {
+        "鋅化合物": "Zinc compound"
+    },
+    {
+        "鋅檢測": "zinc detection"
+    },
+    {
+        "鋅擴散": "Zinc diffusion"
+    },
+    {
+        "鋅電極": "zinc electrode"
+    },
+    {
+        "鋅燃料": "zinc fuel"
+    },
+    {
+        "氫氧化鋅": "zinc hydroxide"
+    },
+    {
+        "鋅離子": "zinc ion"
+    },
+    {
+        "鋅材料/元件": "Zinc materials/devices"
+    },
+    {
+        "硝酸鋅水溶液": "zinc nitrate aqueous solution"
+    },
+    {
+        "氧化鋅": "Zinc Oxide"
+    },
+    {
+        "氧化鋅銅": "zinc oxide copper"
+    },
+    {
+        "氧化鋅薄膜": "zinc oxide film"
+    },
+    {
+        "氧化鋅奈米柱": "Zinc Oxide Nanorods"
+    },
+    {
+        "氧化鋅粉末": "zinc oxide powder"
+    },
+    {
+        "氧化鋅靶": "zinc oxide target"
+    },
+    {
+        "四足氧化鋅": "Zinc Oxide Tetrapod"
+    },
+    {
+        "氧化鋅薄膜": "zinc oxide thin film"
+    },
+    {
+        "氧化鋅變阻器": "zinc oxide varistor"
+    },
+    {
+        "含氧化鋅": "zinc oxide-containing"
+    },
+    {
+        "過氧化鋅": "Zinc peroxide"
+    },
+    {
+        "鋅磷酸鹽玻璃": "zinc phosphate glass"
+    },
+    {
+        "磷酸鋅處理": "zinc phosphate treated"
+    },
+    {
+        "鍍鋅系鋼板": "zinc plated steel sheet"
+    },
+    {
+        "硒化鋅": "zinc selenide"
+    },
+    {
+        "矽酸鋅": "zinc silicate"
+    },
+    {
+        "鋅矽酸鹽發芽": "Zinc silicate germinate"
+    },
+    {
+        "鋅焊料": "zinc solder"
+    },
+    {
+        "硫酸鋅": "zinc sulfate"
+    },
+    {
+        "硫化鋅": "zinc sulfide"
+    },
+    {
+        "硫化鋅": "Zinc sulphide"
+    },
+    {
+        "酒石酸鋅": "zinc tartrate"
+    },
+    {
+        "碲化鋅": "zinc telluride"
+    },
+    {
+        "鈦酸鋅": "zinc titanate"
+    },
+    {
+        "鋅空氣電池": "zinc air cell"
+    },
+    {
+        "鍍鋅鋼板": "zinc-coated steel sheet"
+    },
+    {
+        "鍍鋅鋼板": "zinciferous plated steel sheet"
+    },
+    {
+        "鋅銀蓄電池": "zinc-silver storage battery"
+    },
+    {
+        "鋅錫氧化物": "Zinc-tin oxide"
+    },
+    {
+        "郵遞區號": "zip code"
+    },
+    {
+        "鋯酸鹽": "zirconate"
+    },
+    {
+        "氧化鋯塗層": "zirconia coating"
+    },
+    {
+        "氧化鋯多晶": "zirconia polycrystalline"
+    },
+    {
+        "鋯合金": "zirconium alloy"
+    },
+    {
+        "鋯合金護套": "zirconium alloy cladding"
+    },
+    {
+        "鋯化合物": "Zirconium compound"
+    },
+    {
+        "二氧化鋯": "Zirconium dioxide"
+    },
+    {
+        "氫化鋯": "zirconium hydride"
+    },
+    {
+        "氫氧化鋯懸浮液": "zirconium hydroxide suspension"
+    },
+    {
+        "鋯材料/元件": "Zirconium materials/devices"
+    },
+    {
+        "氮化鋯": "zirconium nitride"
+    },
+    {
+        "鋯氧化物": "Zirconium oxide"
+    },
+    {
+        "氧化鋯粉末": "zirconium oxide powder"
+    },
+    {
+        "鋯氧氮": "Zirconium oxynitride{=Zr-oxynitride}"
+    },
+    {
+        "磷酸鋯": "zirconium phosphate"
+    },
+    {
+        "矽酸鋯": "Zirconium silicate"
+    },
+    {
+        "鈦酸鋯錫": "zirconium tin titanate"
+    },
+    {
+        "鋯": "Zirconium{=Zr}"
+    },
+    {
+        "鋅活性": "Zn active"
+    },
+    {
+        "鋅浴": "Zn bath"
+    },
+    {
+        "鋅配合物": "Zn complex"
+    },
+    {
+        "鋅擴散": "Zn diffusion"
+    },
+    {
+        "鋅擴散": "Zn indiffusion"
+    },
+    {
+        "鋅錫比": "Zn/Sn ratio"
+    },
+    {
+        "鈦酸鋅": "Zn2TiO4"
+    },
+    {
+        "氧化鎵鋅": "ZnGa2O4"
+    },
+    {
+        "氧化鎂鋅": "ZnMgO"
+    },
+    {
+        "氧化錳鋅": "ZnMnO"
+    },
+    {
+        "氮化鋅": "ZnN"
+    },
+    {
+        "氧化鋅": "ZnO"
+    },
+    {
+        "氧化鋅緩衝層": "ZnO buffer layer"
+    },
+    {
+        "氧化鋅奈米線": "ZnO nanowire"
+    },
+    {
+        "氧化鋅粉末": "ZnO powder"
+    },
+    {
+        "氧化鋅變阻器": "ZnO rheostat"
+    },
+    {
+        "氧化鋅基板": "ZnO substrate"
+    },
+    {
+        "氧化鋅薄膜電晶體": "ZnO TFT"
+    },
+    {
+        "氧化鋅薄膜": "ZnO thin film"
+    },
+    {
+        "氧化鋅變阻器": "ZnO varistor"
+    },
+    {
+        "氧化鋅/氧化鎂鋅": "ZnO/ZnMgO"
+    },
+    {
+        "硫化鋅": "ZnS"
+    },
+    {
+        "硫化鋅 : TbOF": "ZnS : TbOF"
+    },
+    {
+        "硫化鋅緩衝": "ZnS buffer"
+    },
+    {
+        "硫化鋅緩衝膜": "ZnS buffer film"
+    },
+    {
+        "硫化鋅披覆層": "ZnS cladding layer"
+    },
+    {
+        "硒化鋅": "ZnSe"
+    },
+    {
+        "硒化鋅晶層": "ZnSe epilayer"
+    },
+    {
+        "硒化鋅材料/元件": "ZnSe materials/devices"
+    },
+    {
+        "硒硫化鋅": "ZnSSe"
+    },
+    {
+        "硒化鋅硫碲": "ZnSTeSe"
+    },
+    {
+        "透明帶": "Zona pellucida"
+    },
+    {
+        "區域電網": "Zonal Grid"
+    },
+    {
+        "區間": "zone"
+    },
+    {
+        "區域數元": "zone bit"
+    },
+    {
+        "區域冷卻系統": "zone cooling system"
+    },
+    {
+        "時區指定符": "zone designator"
+    },
+    {
+        "區域數位": "zone digit"
+    },
+    {
+        "區域氣體分配": "zone gas distribution"
+    },
+    {
+        "域識別器": "zone identifier"
+    },
+    {
+        "區域電感": "zone inductive"
+    },
+    {
+        "區域熔煉": "zone melting"
+    },
+    {
+        "區域溶化與區域提純": "Zone melting and zone refining"
+    },
+    {
+        "拒收過程區": "zone of rejectable processes"
+    },
+    {
+        "區域板": "zone plate"
+    },
+    {
+        "空間濾波器區域板": "zone plates spatial filters"
+    },
+    {
+        "區電阻": "zone resistive"
+    },
+    {
+        "區濺鍍靶": "zone sputtering target"
+    },
+    {
+        "變焦鏡頭成像": "zoom lens imaging"
+    },
+    {
+        "可變焦透鏡模組": "zoom lens module"
+    },
+    {
+        "變焦鏡頭系統": "zoom lens system"
+    },
+    {
+        "變焦系統": "Zoom system"
+    },
+    {
+        "變焦追蹤": "zoom tracking"
+    },
+    {
+        "伸縮鏡頭": "zoomar lens"
+    },
+    {
+        "調焦": "zooming"
+    },
+    {
+        "變焦模組": "zooming module"
+    },
+    {
+        "氧化鋯": "ZrO2"
+    },
+    {
+        "Z 形電極": "Z-shaped electrode"
+    },
+    {
+        "α 分布反饋": "α DFB"
+    },
+    {
+        "α 因數": "α factor"
+    },
+    {
+        "α 參數": "α parameter"
+    },
+    {
+        "α 矽間隔": "α Si spacer"
+    },
+    {
+        "α 射線檢測器": "α-ray detector"
+    },
+    {
+        "β 因數": "β factor"
+    },
+    {
+        "β 射線檢測器": "β-ray detector"
+    },
+    {
+        "β 碳化矽": "β-SiC"
+    },
+    {
+        "γ 基體效應因子": "γ body effect factor"
+    },
+    {
+        "γ 射線檢測器": "γ-ray detector"
+    },
+    {
+        "Γ-X 混合": "Γ-X mixing"
+    },
+    {
+        "δ 摻雜薄板": "δ-doped sheet"
+    },
+    {
+        "δ 摻雜薄板": "δ-doping sheet"
+    },
+    {
+        "微全分析系統": "μ-TAS"
+    },
+    {
+        "σ 法驗收允收抽樣計畫": "σ-method acceptance sampling plan"
+    },
+    {
+        "χ2:χ2級聯": "χ2:χ2 cascading"
+    },
+    {
+        "立體造型便條紙": "3D memo pad"
+    },
+    {
+        "交交流；交流至交流": "ac/ac"
+    },
+    {
+        "交直流；交流至直流": "ac/dc"
+    },
+    {
+        "交流－交流": "ac-ac"
+    },
+    {
+        "交流－直流": "ac-dc"
+    },
+    {
+        "交交流；交流至交流": "ac-to-ac"
+    },
+    {
+        "交直流；交流至直流": "ac-to-dc"
+    },
+    {
+        "類比／數位": "analog/digital{=A/D}"
+    },
+    {
+        "類比至數位": "analog-to-digital"
+    },
+    {
+        "類比至數位轉換": "analog-to-digital conversion"
+    },
+    {
+        "變異數分析": "analysis of variance{=ANOVA}"
+    },
+    {
+        "AT 切向石英；對 Z 軸 35 度 15 分切向石英": "AT-cut quartz"
+    },
+    {
+        "藍光發光二極體": "blue light-emitting diode"
+    },
+    {
+        "跨鏈路干擾": "cross link interference{=CLI}"
+    },
+    {
+        "電流模式除法器": "current mode divider"
+    },
+    {
+        "直交流；直流至交流": "dc/ac"
+    },
+    {
+        "直直流；直流至直流": "dc/dc"
+    },
+    {
+        "直流－交流": "dc-ac"
+    },
+    {
+        "直交流；直流至交流": "dc-to-ac"
+    },
+    {
+        "直直流；直流至直流": "dc-to-dc"
+    },
+    {
+        "直直流轉換器": "dc-to-dc converter"
+    },
+    {
+        "自由度": "degree-of-freedom{=DOF}"
+    },
+    {
+        "數位至類比技術": "digital-to-analog technique"
+    },
+    {
+        "入射方向": "direction of arrival{=DOA}"
+    },
+    {
+        "GT 切向石英；對 Z 軸 51 度 7 分切向石英": "GT-cut quartz"
+    },
+    {
+        "混合類比至數位轉換器": "hybrid analog-to-digital converter"
+    },
+    {
+        "艾隆輪；麥卡倫輪；瑞典輪": "Ilon wheel"
+    },
+    {
+        "長短期記憶體": "long short-term memory{=LSTM}"
+    },
+    {
+        "多重路徑干擾": "multi-path interference"
+    },
+    {
+        "非揮發性薄膜": "nonvolatile thin film"
+    },
+    {
+        "負載點": "point of load{=POL}"
+    },
+    {
+        "具表現層狀態轉換": "RESTful"
+    },
+    {
+        "無表現層狀態轉換": "RESTless"
+    },
+    {
+        "單端初級電感轉換器；SEPIC 轉換器": "single-ended primary inductor converter{=SEPIC}"
+    },
+    {
+        "ST 切向石英；對 Z 軸 35 度 25 分切向石英": "ST-cut quartz"
+    },
+    {
+        "史托克韋爾轉換；S 轉換": "Stockwell transform (ST)"
+    },
+    {
+        "瑞典輪；麥卡倫輪；艾隆輪": "Swedish wheel"
+    },
+    {
+        "瑞典輪式全方向機器人": "Swedish wheeled omnidirectional robot{=SWOR}"
+    },
+    {
+        "三埠三向直直流轉換器": "three-port three directional dc/dc converter"
+    },
+    {
+        "時效性網路；時間敏感網路": "time sensitive networking{=TSN}"
+    },
+    {
+        "時間序列資料": "time series data"
+    },
+    {
+        "基地台": "transmission and reception point{=TRP}"
+    },
+    {
+        "橫向磁": "transverse magnetic{=TM}"
+    },
+    {
+        "基地台間；基地台對基地台": "TRP-to-TRP"
+    },
+    {
+        "超可靠低延遲通訊": "ultra reliable low latency communication{=URLLC}"
+    },
+    {
+        "非數字式時鐘；未編號時鐘": "unnumbered clock"
+    },
+    {
+        "生命徵象檢測": "vital sign detection"
+    },
+    {
+        "被動知識管理系統": "passive knowledge management system"
+    },
+    {
+        "自動結帳系統": "automatic check-out system"
+    },
+    {
+        "刪除": "delete"
+    },
+    {
+        "資通訊；資訊通訊": "information and communication"
+    },
+    {
+        "多重高度衛星中繼系統": "multiple altitude satellite relay system"
+    },
+    {
+        "光學網路；光纖網路": "optical network"
+    },
+    {
+        "信令；訊令": "signalling"
+    },
+    {
+        "空間分集系統": "space diversity system"
+    },
+    {
+        "切換模式整流器；開關模式整流器": "switch-mode rectifier{=SMR}"
+    }
+]

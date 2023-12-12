@@ -1,0 +1,3863 @@
+[
+    {
+        "秘書長": "Secretary-general"
+    },
+    {
+        "諮議員": "Member of Taiwan Provincial  Consultative Council "
+    },
+    {
+        "顧問": "Advisor"
+    },
+    {
+        "參事": "Counselor"
+    },
+    {
+        "副秘書長": "Deputy Secretary-general"
+    },
+    {
+        "執行秘書": "Executive Secretary"
+    },
+    {
+        "行務委員 (中央銀行)": "Advisor"
+    },
+    {
+        "委員": "Member of ____ Committee"
+    },
+    {
+        "研究委員": "Senior Researcher"
+    },
+    {
+        "副執行秘書": "Deputy Executive Secretary"
+    },
+    {
+        "主任秘書": "Chief Secretary"
+    },
+    {
+        "督學": "1.Senior Inspector (簡任)"
+    },
+    {
+        "視察": "簡任：1.Senior Specialist (具專業技術);  2.Senior Executive Officer (一般行政)    薦任：1.Specialist (具專業技術);  2.Executive Officer (一般行政)"
+    },
+    {
+        "參議": "1.Senior Executive Officer(簡任); 2.Executive Officer(薦任)"
+    },
+    {
+        "專門委員": "1.Senior Specialist (具專業技術); 2.Senior Executive Officer (一般行政) ; 3.Assistant Director-General (屬輔佐主管性質)"
+    },
+    {
+        "消費者保護官": "1.Senior Consumer Ombudsman Officer (簡任); 2.Consumer Ombudsman Officer (薦任)"
+    },
+    {
+        "編纂": "簡任：1.Senior Specialist (具專業技術);  2.Senior Executive Officer (一般行政)  / 薦任：1.Specialist (具專業技術) ; 2.Executive Officer (一般行政)"
+    },
+    {
+        "秘書": "1.Senior Secretary (簡任)"
+    },
+    {
+        "稽核": "1.Senior Auditor (簡任); 2.Auditor (薦任)"
+    },
+    {
+        "編審": "簡任：1.Senior Specialist (具專業技術) ;  2.Senior Executive Officer (一般行政)  / 薦任：1.Specialist (具專業技術); 2.Executive Officer (一般行政)"
+    },
+    {
+        "編譯 ": "簡任：1.Senior Foreign-language Writer (如新聞局英文編譯 Senior English Writer) 2.Senior Editor   / 薦任：1.Foreign-language Writer (如新聞局英文編譯 English Writer) 2.Editor"
+    },
+    {
+        "專員": "1.Specialist (具專業技術); 2.Executive Officer (一般行政)"
+    },
+    {
+        "諮議": "1.Specialist (具專業技術); 2.Executive Officer (一般行政)"
+    },
+    {
+        "視導": "Executive Officer"
+    },
+    {
+        "編輯": "1.Editor (一般編輯)"
+    },
+    {
+        "科員": "Officer"
+    },
+    {
+        "組員": "Officer"
+    },
+    {
+        "課員": "Officer"
+    },
+    {
+        "里幹事": "Officer"
+    },
+    {
+        "佐理員": "Junior Officer"
+    },
+    {
+        "助理員": "Junior Officer"
+    },
+    {
+        "管理員": "Junior Officer"
+    },
+    {
+        "戶籍員": "Junior Officer"
+    },
+    {
+        "屠宰管理員": "Junior Officer"
+    },
+    {
+        "就業助理員": "Junior Officer"
+    },
+    {
+        "助理幹事": "Clerk"
+    },
+    {
+        "辦事員": "Clerk"
+    },
+    {
+        "資料員": "Clerk "
+    },
+    {
+        "書記": "Associate Clerk"
+    },
+    {
+        "機要秘書": "Secretary"
+    },
+    {
+        "機要專員": "Executive Officer"
+    },
+    {
+        "調用人員": "調用職稱之英譯"
+    },
+    {
+        "紀錄": "Meeting Recorder"
+    },
+    {
+        "業務助理": "Assistant"
+    },
+    {
+        "兼主任": "本職或兼職之英譯。"
+    },
+    {
+        "兼副主任": "本職或兼職之英譯。"
+    },
+    {
+        "兼執行秘書": "本職或兼職之英譯。"
+    },
+    {
+        "雇員": "Assistant Clerk"
+    },
+    {
+        "業務士": "Assistant Clerk"
+    },
+    {
+        "工友": "1.Maintenance Worker; 2.Messenger (送公文); 3.Janitor (清潔工)"
+    },
+    {
+        "約聘人員": "Contract Employee"
+    },
+    {
+        "約用人員": "Contract Employee"
+    },
+    {
+        "約聘企劃師": "Planner"
+    },
+    {
+        "約聘社區規劃師助理": "Community Planning Assistant"
+    },
+    {
+        "聘用事務員": "Clerk"
+    },
+    {
+        "約雇": "Contract Employee"
+    },
+    {
+        "約僱人員": "Contract Employee"
+    },
+    {
+        "約僱助理": "Assistant"
+    },
+    {
+        "約僱技術員": "Technician"
+    },
+    {
+        "約僱事務員": "Clerk"
+    },
+    {
+        "約僱服務員": "1.Clerk; 2.Docent"
+    },
+    {
+        "約僱保管員": "Assistant"
+    },
+    {
+        "約僱售票員": "Ticketing Assistant"
+    },
+    {
+        "約僱救生員": "Lifeguard "
+    },
+    {
+        "約僱幹事": "Clerk"
+    },
+    {
+        "約僱管理員": "Assistant"
+    },
+    {
+        "約僱護理員": "Nursing Assistant"
+    },
+    {
+        "約僱驗票員": "Ticket Taker"
+    },
+    {
+        "約僱河川管理員": "Clerk"
+    },
+    {
+        "約僱河川巡防員": "Patrolman"
+    },
+    {
+        "專業臨時人員": "Temporary Worker"
+    },
+    {
+        "臨時人員": "Temporary Worker"
+    },
+    {
+        "臨時造單員": "1.Freelance Worker (文書類); 2.Piece Worker (生產類) "
+    },
+    {
+        "臨編書記": "Associate Clerk"
+    },
+    {
+        "工讀生": "Work-study Student"
+    },
+    {
+        "以工代賑": "Temporary Worker"
+    },
+    {
+        "志工": "Volunteer"
+    },
+    {
+        "按件計酬員": "1.Freelance Worker (文書類); 2.Piece Worker (生產類) "
+    },
+    {
+        "單工": "Piece Worker"
+    },
+    {
+        "少將總教官": "Major General, Head Military Instructor "
+    },
+    {
+        "上校教官": "Colonel, Military Instructor "
+    },
+    {
+        "中校教官": "Lieutenant Colonel, Military Instructor "
+    },
+    {
+        "少校教官": "Major, Military Instructor "
+    },
+    {
+        "上尉教官": "Captain, Military Instructor "
+    },
+    {
+        "軍訓教官": "Military Training Instructor "
+    },
+    {
+        "教官": "Military Training Instructor"
+    },
+    {
+        "教授": "Professor "
+    },
+    {
+        "榮譽教授": "Emeritus  Professor"
+    },
+    {
+        "交換教授": "Visiting Professor "
+    },
+    {
+        "客座教授": "Visiting Professor "
+    },
+    {
+        "兼任教授": "Adjunct Professor "
+    },
+    {
+        "副教授": "Associate Professor "
+    },
+    {
+        "兼任副教授": "Adjunct Associate Professor "
+    },
+    {
+        "助理教授": "Assistant Professor "
+    },
+    {
+        "研究教授": "Research Professor "
+    },
+    {
+        "研究副教授": "Associate Research Professor "
+    },
+    {
+        "研究助理教授": "Assistant Research Professor "
+    },
+    {
+        "諮詢委員": "Advisory Committee Member "
+    },
+    {
+        "俞國華財經講座": "          Professor"
+    },
+    {
+        "講座": "Lecturer "
+    },
+    {
+        "講師": "Lecturer "
+    },
+    {
+        "兼任講師": "Adjunct Lecturer "
+    },
+    {
+        "護理教師": "Nursing Teacher"
+    },
+    {
+        "護理講師": "Nursing Instructor"
+    },
+    {
+        "交換講師": "Visiting Lecturer "
+    },
+    {
+        "教師": "Teacher "
+    },
+    {
+        "助教": "Teaching Assistant "
+    },
+    {
+        "發言人": "Spokesman "
+    },
+    {
+        "助理設計師(國光劇團)": "Assistant Stage Lighting Costume"
+    },
+    {
+        "助理舞台監督": "Assistant Stage Manager "
+    },
+    {
+        "編導": "1.Scenarist; 2. (Stage) Director "
+    },
+    {
+        "助理編纂": "Assistant Editor "
+    },
+    {
+        "助理技術指導": "Assistant Technical Director "
+    },
+    {
+        "助理排練指導": "Assistant Rehearsal Master"
+    },
+    {
+        "箱管": "Props Manager"
+    },
+    {
+        "訓導員": "Career Counselor"
+    },
+    {
+        "編輯": "1.Editor (一般編輯); 2.Foreign-language Editor (如新聞局英文編輯 English Editor)  (漁業廣播電臺)"
+    },
+    {
+        "輔導員": "Counselor"
+    },
+    {
+        "助理研究員": "Assistant Researcher "
+    },
+    {
+        "導演": "Director"
+    },
+    {
+        "導播": "Director"
+    },
+    {
+        "幹事": "Officer"
+    },
+    {
+        "解說員": "Docent  "
+    },
+    {
+        "導覽員": "Specialist"
+    },
+    {
+        "服務員": "Docent"
+    },
+    {
+        "指導員": "Instructor  "
+    },
+    {
+        "營養師": "Dietitian "
+    },
+    {
+        "獸醫師": "Veterinarian "
+    },
+    {
+        "技術師": "1.Associate Specialist (薦任); 2.Assistant Specialist (委任)"
+    },
+    {
+        "助理輔導員": "Assistant Counselor "
+    },
+    {
+        "採訪員": "Reporter  (教育、漁業等廣播電臺)"
+    },
+    {
+        "節目員": "1.Programmer; 2.Program Host"
+    },
+    {
+        "播音員": "Announcer"
+    },
+    {
+        "助理員": "Junior Officer"
+    },
+    {
+        "行政助理": "Administrative Assistant"
+    },
+    {
+        "助理編輯": "Assistant Editor "
+    },
+    {
+        "法律顧問": "Legal Consultant "
+    },
+    {
+        "研究助理": "Research Assistant "
+    },
+    {
+        "專任助理": "Special Assistant "
+    },
+    {
+        "製作經理": "Production Manager "
+    },
+    {
+        "藝術總監": "Artist Director"
+    },
+    {
+        "舞台監督": "Stage Manager "
+    },
+    {
+        "舞台執行": "1.Stage Crew  (全體團員); 2.Member of Stage Crew (個人)"
+    },
+    {
+        "舞台執行(個人)": "Member of Stage Crew "
+    },
+    {
+        "音響執行": "1.Sound Crew   (全體團員); 2.Member of Sound Crew (個人)"
+    },
+    {
+        "技術指導": "Technical Director "
+    },
+    {
+        "音樂指導": "Music Director "
+    },
+    {
+        "排練指導": "Rehearsal Director "
+    },
+    {
+        "燈光執行": "1.Lighting Crew  (全體團員); 2.Member of Lighting Crew (個人)"
+    },
+    {
+        "燈光設計師": "Lighting Designer "
+    },
+    {
+        "容妝": "Makeup"
+    },
+    {
+        "演員": "Actor/Actress "
+    },
+    {
+        "樂師": "Musician "
+    },
+    {
+        "字幕": "Subtitler "
+    },
+    {
+        "收發員": "Messenger"
+    },
+    {
+        "勤務員": "1.Maintenance Worker; 2.Messenger（送公文）; 3.Janitor （清潔工）"
+    },
+    {
+        "專案人員": "Research Assistant  "
+    },
+    {
+        "助理": "Assistant "
+    },
+    {
+        "助理編審": "Assistant Editor "
+    },
+    {
+        "指揮": "Conductor  "
+    },
+    {
+        "樂團團員": "Orchestra Members  "
+    },
+    {
+        "館務員": "Assistant Curator "
+    },
+    {
+        "約聘美工": "Art Designer"
+    },
+    {
+        "約聘編譯": "Editor / Writer / Translator"
+    },
+    {
+        "約聘攝影": "Photographer"
+    },
+    {
+        "輔導員": "Counselor "
+    },
+    {
+        "總技師": "Chief Technician  "
+    },
+    {
+        "正訓練師": "Trainer "
+    },
+    {
+        "正職業訓練師": "Vocational Trainer "
+    },
+    {
+        "訓練管理員": "Training Specialist"
+    },
+    {
+        "社會工作督導員": "Supervision Officer"
+    },
+    {
+        "總幹事": "Chief of Staff "
+    },
+    {
+        "副職業訓練師": "Associate Vocational Trainer "
+    },
+    {
+        "社工師": "Senior Social Worker "
+    },
+    {
+        "助理職業訓練師": "Assistant Vocational Trainer "
+    },
+    {
+        "助理訓練師": "Assistant Trainer "
+    },
+    {
+        "訓練員": "Junior Trainer "
+    },
+    {
+        "助理輔導員": "Assistant Counselor "
+    },
+    {
+        "保健員": "Healthcare  Assistant "
+    },
+    {
+        "保育員": "Childcare Assistant"
+    },
+    {
+        "約聘社會工作員": "Social Worker "
+    },
+    {
+        "商標高級審查官": "Senior Trademark Officer  "
+    },
+    {
+        "專利高級審查官": "Senior Patent Officer    "
+    },
+    {
+        "商標助理審查官": "Assistant Trademark Officer "
+    },
+    {
+        "專利助理審查官": "Assistant Patent Officer    "
+    },
+    {
+        "商標審查官": "Trademark Officer   "
+    },
+    {
+        "專利審查官": "Patent Officer    "
+    },
+    {
+        "商標審查員": "Trademark Examiner"
+    },
+    {
+        "稽查督察員": "Supervisor"
+    },
+    {
+        "督察員": "Junior Inspector "
+    },
+    {
+        "毒化物管理師": "Toxic Substance Specialist"
+    },
+    {
+        "毒化物助理管理師": "Assistant Toxic Substance Specialist"
+    },
+    {
+        "毒物稽查員": "Toxic Substance Inspector"
+    },
+    {
+        "毒物檢驗員": "Toxic Substance Inspector"
+    },
+    {
+        "稽查員": "Inspector"
+    },
+    {
+        "稽查": "Inspector"
+    },
+    {
+        "初審": "Preliminary Reviewer"
+    },
+    {
+        "複審": "Secondary Reviewer"
+    },
+    {
+        "勞工安全衛生檢查員": "Industrial Safety Inspector"
+    },
+    {
+        "外籍勞工業務檢查員": "Foreign Worker Inspector "
+    },
+    {
+        "站務員": "Clerk   (林區管理處)"
+    },
+    {
+        "人事處處長": "Director"
+    },
+    {
+        "人事處副處長": "Deputy Director"
+    },
+    {
+        "人事室主任": "1.Director (簡任); 2.Chief Personnel Officer (薦任)"
+    },
+    {
+        "人事管理員": "Personnel Officer"
+    },
+    {
+        "人事佐理員": "Junior Personnel Officer"
+    },
+    {
+        "人事助理員": "Junior Personnel Officer"
+    },
+    {
+        "政風處處長": "Director"
+    },
+    {
+        "政風處副處長": "Deputy Director"
+    },
+    {
+        "政風室主任": "1.Director (簡任); 2.Chief Civil Service Ethics Officer (薦任)"
+    },
+    {
+        "會計長": "Comptroller "
+    },
+    {
+        "副會計長": "Vice Comptroller"
+    },
+    {
+        "會計主任": "1.Director (簡任); 2.Chief Accounting Officer (薦任)"
+    },
+    {
+        "會計管理員": "Accounting Officer"
+    },
+    {
+        "會計員": "Accounting Officer"
+    },
+    {
+        "會計佐理員": "1.Accounting Assistant; 2.Junior Officer"
+    },
+    {
+        "統計長": "Director-general"
+    },
+    {
+        "副統計長": "Deputy Director-general"
+    },
+    {
+        "統計主任": "1.Director (簡任); 2.Chief Statistician (薦任)"
+    },
+    {
+        "統計員": "Statistician "
+    },
+    {
+        "特約統計調查員": "Investigator"
+    },
+    {
+        "技監": "1.Technical Superintendent (具工程專業技術); 2.Counselor (具顧問或參事性質如衛生署技監)"
+    },
+    {
+        "技正": "簡任：1.Senior Technical Specialist; 2.Senior Specialist  (負責行政業務如衛生署技正) / 薦任：1.Technical Specialist; 2.Specialist  (負責行政業務如衛生署技正)"
+    },
+    {
+        "技士": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "技師": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "技術員": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "檢查員": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "技佐": "1.Associate Technical Specialist (薦任); 2.Junior Technical Specialist (委任)"
+    },
+    {
+        "站務員": "Clerk"
+    },
+    {
+        "技術助理員": "Technician "
+    },
+    {
+        "技術士": "Technician "
+    },
+    {
+        "技術生": "Technical Assistant"
+    },
+    {
+        "司機員": "1.Chauffeur （首長座車）; 2.Driver （公務車）"
+    },
+    {
+        "駕駛": "1.Chauffeur （首長座車）; 2.Driver （公務車）"
+    },
+    {
+        "技工": "Technical Worker"
+    },
+    {
+        "聘用技術員": "Technician "
+    },
+    {
+        "檢查人員": "Inspector"
+    },
+    {
+        "技術人員": "Technician"
+    },
+    {
+        "技術助理員": "Technician"
+    },
+    {
+        "測量助理": "Surveying Assistant"
+    },
+    {
+        "派駐人員": "Stationed Agent"
+    },
+    {
+        "委辦公司人員": "Stationed Agent"
+    },
+    {
+        "技助": "Maintenance Worker"
+    },
+    {
+        "站工": "Maintenance Worker"
+    },
+    {
+        "粗工": "Maintenance Worker"
+    },
+    {
+        "測工": "Surveying Worker"
+    },
+    {
+        "雇工": "1.Maintenance Worker; 2.Messenger (送公文); 3.Janitor (清潔工)"
+    },
+    {
+        "洗車工": "1.Maintenance Worker; 2.Messenger (送公文); 3.Janitor (清潔工)"
+    },
+    {
+        "臨時單工": "Temporary Worker"
+    },
+    {
+        "臨時僱工": "Temporary Worker"
+    },
+    {
+        "總工程司": "Chief Engineer"
+    },
+    {
+        "總工程師": "Chief Engineer"
+    },
+    {
+        "副總工程司": "Deputy Chief Engineer"
+    },
+    {
+        "副總工程師": "Deputy Chief Engineer"
+    },
+    {
+        "主任工程司": "Supervising Engineer"
+    },
+    {
+        "正工程司": "1.Senior Engineer(簡任); 2.Engineer(薦任)"
+    },
+    {
+        "正工程師": "1.Senior Engineer(簡任); 2.Engineer(薦任)"
+    },
+    {
+        "工程司": "1.Senior Engineer(簡任); 2.Engineer(薦任)"
+    },
+    {
+        "工程師": "1.Senior Engineer(簡任); 2.Engineer(薦任)"
+    },
+    {
+        "環境工程師": "Environmental Engineer"
+    },
+    {
+        "副工程司": "Associate Engineer"
+    },
+    {
+        "副工程師": "Associate Engineer"
+    },
+    {
+        "幫工程司": "Assistant Engineer"
+    },
+    {
+        "助理工程司    ": "Assistant Engineer"
+    },
+    {
+        "助理工程師": "Assistant Engineer"
+    },
+    {
+        "助理環境工程師": "Assistant Environmental Engineer"
+    },
+    {
+        "工程員": "1.Assistant Engineer (薦任); 2.Junior Engineer (委任)"
+    },
+    {
+        "工務員": "1.Assistant Engineer (薦任); 2.Junior Engineer (委任)"
+    },
+    {
+        "材料管理員": "Materials Officer"
+    },
+    {
+        "助理工務員": "Engineering Assistant"
+    },
+    {
+        "助理工程員": "Engineering Assistant"
+    },
+    {
+        "助理管制員": "Engineering Assistant"
+    },
+    {
+        "監工員": "Overseer"
+    },
+    {
+        "材料員": "Materials Clerk"
+    },
+    {
+        "助理監工員": "Assistant Overseer "
+    },
+    {
+        "高級分析師": "Senior Systems Analyst"
+    },
+    {
+        "高級設計師": "Senior Systems Designer"
+    },
+    {
+        "高級管理師": "Senior Systems Coordinator"
+    },
+    {
+        "分析師": "Systems Analyst"
+    },
+    {
+        "系統分析師": "Systems Analyst"
+    },
+    {
+        "電子作業管理師": "Systems Coordinator"
+    },
+    {
+        "設計師": "Systems Designer"
+    },
+    {
+        "程式設計師": "Systems Designer"
+    },
+    {
+        "管理師": "Systems Coordinator"
+    },
+    {
+        "系統操作師": "Chief Systems Operator"
+    },
+    {
+        "助理分析師": "Assistant Systems Analyst"
+    },
+    {
+        "助理設計師": "Assistant Systems Designer"
+    },
+    {
+        "助理管理師": "Assistant Systems Coordinator"
+    },
+    {
+        "管理員": "Junior Systems Coordinator"
+    },
+    {
+        "設計員": "1.Junior Systems Designer; 2.Programmer"
+    },
+    {
+        "電腦操作員": "Computer Operator"
+    },
+    {
+        "操作員": "Systems Operator"
+    },
+    {
+        "聘用資料管理師": "Systems Coordinator"
+    },
+    {
+        "聘用管理師": "Systems Coordinator"
+    },
+    {
+        "主治醫師": "Attending Physician"
+    },
+    {
+        "醫師": "Physician"
+    },
+    {
+        "總技師": "Chief Technician  "
+    },
+    {
+        "職業訓練師": "Vocational Trainer "
+    },
+    {
+        "正訓練師": "Trainer "
+    },
+    {
+        "訓練管理員": "Training Specialist"
+    },
+    {
+        "總幹事": "Chief of Staff "
+    },
+    {
+        "護理督導": "Nursing  Supervisor "
+    },
+    {
+        "督導": "Nursing  Supervisor "
+    },
+    {
+        "住院總醫師": "Chief Resident Doctor  "
+    },
+    {
+        "住院醫師": "Resident Doctor "
+    },
+    {
+        "精神科醫師": "Psychiatrist "
+    },
+    {
+        "牙醫師": "Dentist  "
+    },
+    {
+        "中醫師": "Doctor of Chinese Medicine"
+    },
+    {
+        "醫事檢驗師": "Medical Technologist  "
+    },
+    {
+        "物理治療師": "Physical Therapist  "
+    },
+    {
+        "放射化學師": "Radiochemist "
+    },
+    {
+        "放射科醫師；放射線科醫師": "Radiologist "
+    },
+    {
+        "臨床心理師": "Clinical psychologist "
+    },
+    {
+        "臨床心理技師": "Clinical psychologist "
+    },
+    {
+        "勞工安全管理師": "Occupational Safety Specialist  "
+    },
+    {
+        "職能治療師": "Occupational Therapist  "
+    },
+    {
+        "社會工作師": "Senior Social Worker "
+    },
+    {
+        "助理訓練師": "Assistant Trainer "
+    },
+    {
+        "藥師": "Pharmacist "
+    },
+    {
+        "營養師": "Dietitian "
+    },
+    {
+        "護理師": "Professional Nurse  "
+    },
+    {
+        "檢驗師": "Medical Technologist  "
+    },
+    {
+        "訓練員": "Junior Trainer "
+    },
+    {
+        "技師": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "技術員": "1.Associate Medical Specialist (薦任); 2.Assistant Medical Specialist (委任)"
+    },
+    {
+        "護理長": "Head Nurse"
+    },
+    {
+        "護理督導員": "Nursing  Supervision Officer"
+    },
+    {
+        "衛生教育指導員": "Public Health Instructor"
+    },
+    {
+        "衛生稽查員": "Public Health Inspector"
+    },
+    {
+        "生活輔導員": "Assistant "
+    },
+    {
+        "心理輔導員": "Associate Counselor"
+    },
+    {
+        "助理輔導員": "Assistant Counselor "
+    },
+    {
+        "社會服務員": "Social Worker "
+    },
+    {
+        "護士": "Nurse "
+    },
+    {
+        "公共衛生護士": "Public Health Nurse "
+    },
+    {
+        "稽查員": "Inspector"
+    },
+    {
+        "勞工安全衛生管理員": "Occupational Safety and Hygiene Officer"
+    },
+    {
+        "保健員": "Healthcare  Assistant "
+    },
+    {
+        "營養員": "Nutritionist"
+    },
+    {
+        "檢驗生": "Medical Technologist  Assistant"
+    },
+    {
+        "物理治療生": "Physical Therapist  Assistant"
+    },
+    {
+        "藥劑生": "Pharmacist Assistant"
+    },
+    {
+        "護理佐理員": "Nursing Assistant "
+    },
+    {
+        "技術助理員": "Technician "
+    },
+    {
+        "助產士": "Midwife"
+    },
+    {
+        "病患服務員": "1.Nursing Aide ; 2.Nurses' Aide; 3.Assistant Nurse"
+    },
+    {
+        "助理監工員": "Assistant Overseer"
+    },
+    {
+        "研究員": "Researcher"
+    },
+    {
+        "副研究員": "Associate Researcher"
+    },
+    {
+        "助理研究員": "Assistant Researcher"
+    },
+    {
+        "研究助理": "Research Assistant"
+    },
+    {
+        "助理": "Assistant"
+    },
+    {
+        "約聘研究員": "Researcher"
+    },
+    {
+        "顧問": "Advisor"
+    },
+    {
+        "經濟參事": "(Economic) Counselor"
+    },
+    {
+        "文化參事": "(Cultural) Counselor"
+    },
+    {
+        "新聞參事": "(Information) Counselor"
+    },
+    {
+        "商務專員": "Senior (Commercial)  Specialist"
+    },
+    {
+        "經濟專員": "Senior (Economic) Specialist"
+    },
+    {
+        "文化專員": "Senior (Cultural) Specialist"
+    },
+    {
+        "一等秘書": "First Secretary"
+    },
+    {
+        "一等商務秘書": "First (Commercial) Secretary"
+    },
+    {
+        "一等經濟秘書": "First (Economic) Secretary"
+    },
+    {
+        "一等文化秘書": "First (Cultural) Secretary"
+    },
+    {
+        "一等新聞秘書": "First (Information) Secretary"
+    },
+    {
+        "二等秘書": "Second Secretary"
+    },
+    {
+        "二等商務秘書": "Second (Commercial) Secretary"
+    },
+    {
+        "二等經濟秘書": "Second (Economic) Secretary"
+    },
+    {
+        "二等文化秘書": "Second (Cultural) Secretary"
+    },
+    {
+        "二等新聞秘書": "Second (Information) Secretary"
+    },
+    {
+        "三等秘書": "Third Secretary"
+    },
+    {
+        "三等商務秘書": "Third (Commercial) Secretary"
+    },
+    {
+        "三等文化秘書": "Third (Cultural) Secretary"
+    },
+    {
+        "三等新聞秘書": "Third (Information) Secretary"
+    },
+    {
+        "主事": "Officer "
+    },
+    {
+        "主任觀護人": "Chief Probation Officer"
+    },
+    {
+        "觀護人": "Probation Officer"
+    },
+    {
+        "教誨師": "Counselor of Rehabilitation and Education"
+    },
+    {
+        "講座": "Lecturer "
+    },
+    {
+        "導師": "Counselor"
+    },
+    {
+        "輔導員": "Counselor"
+    },
+    {
+        "臨床心理師": "Clinical Psychologist"
+    },
+    {
+        "法警長": "Chief Bailiff"
+    },
+    {
+        "社會工作員": "Social Worker"
+    },
+    {
+        "作業導師": "Instructor"
+    },
+    {
+        "法警": "Bailiff"
+    },
+    {
+        "訓練委員": "Member of  Training Committee"
+    },
+    {
+        "研究委員": "Member of  Research Committee"
+    },
+    {
+        "設計委員": "Member of  Planning Committee"
+    },
+    {
+        "報務長": "Chief Operator"
+    },
+    {
+        "調查專員": "Special Agent"
+    },
+    {
+        "機務長": "Chief Technician"
+    },
+    {
+        "訓練師": "Trainer"
+    },
+    {
+        "調查員": "Agent"
+    },
+    {
+        "報務員": "Operator"
+    },
+    {
+        "機務員": "Technician"
+    },
+    {
+        "解說員": "Escort"
+    },
+    {
+        "學員": "Trainee"
+    },
+    {
+        "檢察總長": "Prosecutor General"
+    },
+    {
+        "檢察長": "Chief Prosecutor"
+    },
+    {
+        "主任檢察官": "Lead Prosecutor"
+    },
+    {
+        "檢察官": "Prosecutor"
+    },
+    {
+        "主任檢察事務官": "Lead Administrative Prosecutor"
+    },
+    {
+        "書記官長": "Secretary General"
+    },
+    {
+        "檢察事務官": "Administrative Prosecutor"
+    },
+    {
+        "主任行政執行官": "Chief Enforcement Officer"
+    },
+    {
+        "行政執行官": "Enforcement Officer"
+    },
+    {
+        "執行書記官": "Clerk"
+    },
+    {
+        "主任法醫師": "Chief Forensic Medical Examiner"
+    },
+    {
+        "法醫師": "Forensic Medical Examiner"
+    },
+    {
+        "檢驗員": "Forensic Investigator"
+    },
+    {
+        "執行員": "Junior Enforcement Officer"
+    },
+    {
+        "書記官": "Clerk"
+    },
+    {
+        "通譯": "Interpreter"
+    },
+    {
+        "主任管理員": "Sergeant"
+    },
+    {
+        "錄事": "Clerk Assistant"
+    },
+    {
+        "書記": "Associate Clerk"
+    },
+    {
+        "駐區督察": "Senior Regional Inspector "
+    },
+    {
+        "督察長": "Chief Inspector "
+    },
+    {
+        "督察": "Senior Inspector"
+    },
+    {
+        "督察員": "Junior Inspector"
+    },
+    {
+        "局員": "Executive Officer"
+    },
+    {
+        "巡官": "Second-lieutenant "
+    },
+    {
+        "科員": "Officer"
+    },
+    {
+        "調查員": "Investigator"
+    },
+    {
+        "警正組員": "Major"
+    },
+    {
+        "偵查員（一）": "Detective"
+    },
+    {
+        "偵查員（二）": "Associate Detective"
+    },
+    {
+        "警員": "Police Officer"
+    },
+    {
+        "巡佐": "Sergeant"
+    },
+    {
+        "警務佐": "Sergeant"
+    },
+    {
+        "隊員": "Officer "
+    },
+    {
+        "帳務檢查員": "Accounts Inspector"
+    },
+    {
+        "輔導員": "Counselor"
+    },
+    {
+        "工務員": "1.Assistant Engineer (薦任); 2.Junior Engineer (委任)"
+    },
+    {
+        "社工員": "Social Worker"
+    },
+    {
+        "測量員": "Surveyor"
+    },
+    {
+        "查驗員": "Inspector "
+    },
+    {
+        "復健員": "Physical Therapist "
+    },
+    {
+        "營養員": "Nutritionist "
+    },
+    {
+        "資料員": "Clerk "
+    },
+    {
+        "話務員": "Operator "
+    },
+    {
+        "線務員": "Lineman"
+    },
+    {
+        "技術生": "Technical Assistant"
+    },
+    {
+        "偵查員": "Detective "
+    },
+    {
+        "警務員": "Lieutenant  Captain"
+    },
+    {
+        "解說員": "Docent "
+    },
+    {
+        "保育巡查員": "Park Ranger "
+    },
+    {
+        "教育班長": "Sergeant"
+    },
+    {
+        "機工長": "Crew Chief "
+    },
+    {
+        "測量助理": "Surveying Assistant "
+    },
+    {
+        "園藝工": "Gardener "
+    },
+    {
+        "勞務工": "Worker "
+    },
+    {
+        "監護工": "Caretaker "
+    },
+    {
+        "直昇機駕駛": "Pilot "
+    },
+    {
+        "約僱測量員": "Surveyor"
+    },
+    {
+        "替代役役男": "Substitute Civilian Serviceman"
+    },
+    {
+        "艦長": "Captain"
+    },
+    {
+        "艦艇機師": "Engineer"
+    },
+    {
+        "艦艇駕駛員": "Pilot"
+    },
+    {
+        "參謀主任": "Chief of Staff "
+    },
+    {
+        "一般軍醫官": "Medical Officer"
+    },
+    {
+        "牙醫官": "Dental Officer"
+    },
+    {
+        "軍醫官": "Medical Officer"
+    },
+    {
+        "主任教官": "Chief Instructor"
+    },
+    {
+        "人事官": "Personnel Officer "
+    },
+    {
+        "後勤官": "Logistics Officer "
+    },
+    {
+        "心理輔導官": "Counseling Officer "
+    },
+    {
+        "行政官": "Administrative Officer "
+    },
+    {
+        "訓練官": "Training Officer"
+    },
+    {
+        "運輸官": "Transportation Officer"
+    },
+    {
+        "巡防官": "Patrol Officer "
+    },
+    {
+        "執勤官": "Duty Officer "
+    },
+    {
+        "值星官": "Duty Officer "
+    },
+    {
+        "值星班長": "Duty Sergeant"
+    },
+    {
+        "情報官": "Intelligence Officer "
+    },
+    {
+        "教官": "Instructor "
+    },
+    {
+        "通資官": "Communications Officer"
+    },
+    {
+        "人事士(岸巡)": "Personnel Sergeant "
+    },
+    {
+        "人事士(洋巡)": "Petty Officer "
+    },
+    {
+        "光電修護士": "Maintenance Sergeant"
+    },
+    {
+        "安檢士": "Inspection Sergeant "
+    },
+    {
+        "作業士": "Sergeant "
+    },
+    {
+        "後勤士": "Logistics Sergeant "
+    },
+    {
+        "醫務士": "Medical Sergeant"
+    },
+    {
+        "通信士": "Communications Sergeant"
+    },
+    {
+        "電機士": "Electrical System Sergeant"
+    },
+    {
+        "巡防士": "Patrol Sergeant"
+    },
+    {
+        "軍械士": "Armorer "
+    },
+    {
+        "雷達作業士": "Radarman"
+    },
+    {
+        "輪機士": "Mechanic"
+    },
+    {
+        "行政士": "Administrative Sergeant"
+    },
+    {
+        "預財士": "Budget and Finance Sergeant"
+    },
+    {
+        "自動資料處理士": "Data Processing Sergeant"
+    },
+    {
+        "無線電話務士": "Radio Operator Sergeant"
+    },
+    {
+        "有線電修護士": "Wire Maintenance Sergeant"
+    },
+    {
+        "無線電修護士": "Radio Maintenance Sergeant"
+    },
+    {
+        "雷達修護士": "Radar Maintenance Sergeant"
+    },
+    {
+        "電腦硬體儀器維護士": "Computer Hardware Maintenance Sergeant"
+    },
+    {
+        "聯合警衛士": "Joint Guard Sergeant"
+    },
+    {
+        "查緝員": "Reconnaissance Officer"
+    },
+    {
+        "通信員": "Communications Technician "
+    },
+    {
+        "巡防兵": "Patrolman"
+    },
+    {
+        "食勤兵": "Cook"
+    },
+    {
+        "醫務兵": "Medic "
+    },
+    {
+        "文書兵": "Clerk  Assistant "
+    },
+    {
+        "通信兵": "Communications Assistant  "
+    },
+    {
+        "駕駛兵": "Driver "
+    },
+    {
+        "駐警小隊長": "Security Supervisor"
+    },
+    {
+        "駐警隊長": "Security Chief"
+    },
+    {
+        "駐警隊員": "Security Guard"
+    },
+    {
+        "隊長(國父紀念館、中正紀念堂、大學)": "Captain"
+    },
+    {
+        "小隊長(國父紀念館、中正紀念堂、大學)": "Leader"
+    },
+    {
+        "總務處駐警隊校警": "Security Guard"
+    },
+    {
+        "駐衛警": "Security Guard"
+    },
+    {
+        "駐衛警察": "Security Guard"
+    },
+    {
+        "河川駐警": "Security Guard"
+    },
+    {
+        "警報員": "Alarm Operator"
+    },
+    {
+        "通訊員": "Communications Technician "
+    },
+    {
+        "督察": "Inspector"
+    },
+    {
+        "督導  ": "Inspector"
+    },
+    {
+        "勞工安全管理師": "Occupational Safety Specialist  "
+    },
+    {
+        "勞工安全衛生管理員": "Occupational Safety and Hygiene Officer"
+    },
+    {
+        "工務員": "1.Assistant Engineer (薦任); 2.Junior Engineer (委任)"
+    },
+    {
+        "技術員": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "勞工衛生管理師": "Occupational Health Specialist"
+    },
+    {
+        "材料管理員": "Materials Officer"
+    },
+    {
+        "管理員  ": "Junior Officer"
+    },
+    {
+        "稽查員": "Inspector "
+    },
+    {
+        "繪圖員 ": "Draftsperson"
+    },
+    {
+        "助理員": "Junior Officer"
+    },
+    {
+        "助理工務員": "Engineering Assistant  "
+    },
+    {
+        "技術士": "Technician "
+    },
+    {
+        "材料員": "Materials Clerk"
+    },
+    {
+        "資料員": "Clerk "
+    },
+    {
+        "監工員": "Overseer"
+    },
+    {
+        "話務員  ": "Emergency Announcer  "
+    },
+    {
+        "操作士": "Technical Assistant"
+    },
+    {
+        "交通工程師  ": "Traffic Engineer  "
+    },
+    {
+        "維護工程師  ": "Maintenance Engineer  "
+    },
+    {
+        "站務員  ": "Clerk  "
+    },
+    {
+        "打卡員": "Typist"
+    },
+    {
+        "服務員": "Service Staff"
+    },
+    {
+        "機械工程員  ": "Junior Mechanical Engineer"
+    },
+    {
+        "交控工務員  ": "Junior Traffic Engineer  "
+    },
+    {
+        "電子工程員  ": "Junior Electrical Engineer"
+    },
+    {
+        "地磅操作員  ": "Weigh Station Operator "
+    },
+    {
+        "約僱收費員  ": "Toll Collector"
+    },
+    {
+        "文書士": "Assistant Clerk"
+    },
+    {
+        "材料試驗士": "Technical Clerk"
+    },
+    {
+        "養路士": "Technical Assistant"
+    },
+    {
+        "機務士": "Technical Assistant"
+    },
+    {
+        "工務士": "Technical Assistant"
+    },
+    {
+        "料務士": "Materials Staff"
+    },
+    {
+        "事務士": "Associate Clerk"
+    },
+    {
+        "業務士": "Assistant Clerk"
+    },
+    {
+        "路燈修理士": "Technical Assistant"
+    },
+    {
+        "作業手 ": "Operator"
+    },
+    {
+        "養路領班 ": "Foreman"
+    },
+    {
+        "修護領班 ": "Head Mechanic "
+    },
+    {
+        "文書工 ": "Official Dispatch Worker "
+    },
+    {
+        "木工 ": "Carpenter "
+    },
+    {
+        "水電工 ": "Plumber/Electrician "
+    },
+    {
+        "材試工 ": "Technical Worker"
+    },
+    {
+        "事務工 ": "Assistant Clerk"
+    },
+    {
+        "泥水工 ": "Mason"
+    },
+    {
+        "修護技工 ": "Mechanic "
+    },
+    {
+        "測量工 ": "Surveying Worker"
+    },
+    {
+        "園藝工 ": "Gardener  "
+    },
+    {
+        "電機工 ": "Technical Worker"
+    },
+    {
+        "起重機司機": "Crane Operator "
+    },
+    {
+        "主任調度員": "Chief Dispatcher  "
+    },
+    {
+        "調度員": "Dispatcher "
+    },
+    {
+        "機車調度員": "Locomotive Dispatcher "
+    },
+    {
+        "主任氣象員": "Senior Weatherman "
+    },
+    {
+        "主任航務員": "Senior Flight Operations Officer "
+    },
+    {
+        "主任航詢員": "Senior Flight Information Officer "
+    },
+    {
+        "主任報務員": "Senior Operator "
+    },
+    {
+        "主任管制員": "Senior Controller "
+    },
+    {
+        "專任教官": "Instructor"
+    },
+    {
+        "飛航員": "Pilot "
+    },
+    {
+        "飛航業務員": "Flight Operations Officer"
+    },
+    {
+        "航務員": "Flight Operations Officer "
+    },
+    {
+        "航詢員": "Flight Information Officer "
+    },
+    {
+        "預報員": "Forecaster "
+    },
+    {
+        "管制員": "Controller "
+    },
+    {
+        "觀測員": "Weather Observer "
+    },
+    {
+        "助理管制員": "Assistant Officer"
+    },
+    {
+        "消防士": "Fire Fighter"
+    },
+    {
+        "主任預報員": "Senior Forecaster "
+    },
+    {
+        "簡任技正(電子)": "Senior Engineer "
+    },
+    {
+        "簡任技正(地震)": "Senior Seismologist"
+    },
+    {
+        "簡任技正(氣象)": "Senior Meteorologist "
+    },
+    {
+        "小船駕駛": "Skipper"
+    },
+    {
+        "大副": "First Mate "
+    },
+    {
+        "大管輪": "First Engineer"
+    },
+    {
+        "工務員": "1.Assistant Engineer (薦任); 2.Junior Engineer (委任)"
+    },
+    {
+        "水手": "Seaman"
+    },
+    {
+        "水手長": "Boatswain"
+    },
+    {
+        "加油工": "Oiler"
+    },
+    {
+        "材料管理員": "Materials Officer"
+    },
+    {
+        "巡察員": "Officer "
+    },
+    {
+        "泥工長": "Chief Mason"
+    },
+    {
+        "泥水工": "Mason"
+    },
+    {
+        "挖泥長": "Dredger Captain"
+    },
+    {
+        "倉庫管理員": "Warehouse Officer"
+    },
+    {
+        "副水手長": "Deputy Boatswain"
+    },
+    {
+        "副挖泥長": "Deputy Dredger Captain"
+    },
+    {
+        "帳務檢查員": "Accounts Inspector"
+    },
+    {
+        "教務員": "Officer "
+    },
+    {
+        "舵工長": "Chief Helmsman"
+    },
+    {
+        "船士": "Seaman"
+    },
+    {
+        "船副": "Deck Officer "
+    },
+    {
+        "勞工衛生管理員": "Occupational Health Officer  "
+    },
+    {
+        "港務長": "Harbor Master "
+    },
+    {
+        "鉗工長": "Chief Mechanic"
+    },
+    {
+        "電工長": "Chief Electrician"
+    },
+    {
+        "管輪": "Engineer"
+    },
+    {
+        "領班": "Foreman"
+    },
+    {
+        "廚工": "Kitchen Worker"
+    },
+    {
+        "稽查": "Inspector"
+    },
+    {
+        "輪機長": "Chief Engineer"
+    },
+    {
+        "機工長": "Chief Motorman"
+    },
+    {
+        "雜工": "Maintenance Worker  "
+    },
+    {
+        "藥劑員": "Junior Pharmacist"
+    },
+    {
+        "董事": "Director "
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "副總經理": "Vice President"
+    },
+    {
+        "協理": "Assistant President"
+    },
+    {
+        "主任委員 ": "Chairperson"
+    },
+    {
+        "副主任委員 ": "Vice Chairperson"
+    },
+    {
+        "委員   ": "Member of ____ Council"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "主任工程司  ": "Supervising Engineer"
+    },
+    {
+        "副處長": "Deputy Director"
+    },
+    {
+        "專門委員   ": "Senior Executive Officer"
+    },
+    {
+        "秘書   ": "Secretary"
+    },
+    {
+        "主任郵票監印員 ": "Chief Stamp Printing  Supervisor "
+    },
+    {
+        "副理": "Deputy Manager"
+    },
+    {
+        "主任": "Director "
+    },
+    {
+        "稽核": "Auditor"
+    },
+    {
+        "主任講師      ": "Senior Instructor"
+    },
+    {
+        "管理師": "Executive Officer"
+    },
+    {
+        "設計師": "Systems Designer"
+    },
+    {
+        "工程司": "Engineer"
+    },
+    {
+        "講師": "Instructor"
+    },
+    {
+        "副管理師    ": "Associate Executive Officer"
+    },
+    {
+        "副工程司": "Associate Engineer"
+    },
+    {
+        "副設計師": "Associate Systems Designer"
+    },
+    {
+        "郵票監印員  ": "Stamp Printing Supervisor "
+    },
+    {
+        "局長": "Postmaster"
+    },
+    {
+        "助理管理師  ": "Assistant Executive Officer"
+    },
+    {
+        "助理工程司    ": "Assistant Engineer"
+    },
+    {
+        "助理設計師": "Assistant Systems Designer"
+    },
+    {
+        "副局長": "Deputy Postmaster"
+    },
+    {
+        "助理視察員": "Assistant Inspector"
+    },
+    {
+        "站長": "Station Chief"
+    },
+    {
+        "管理員  ": "Junior Executive Officer"
+    },
+    {
+        "工程員": "Junior Engineer"
+    },
+    {
+        "火車郵件押運員": "Train Mail Guard"
+    },
+    {
+        "程式管制員": "Systems Design Assistant "
+    },
+    {
+        "機器管制員": "Operations Assistant "
+    },
+    {
+        "郵件接送員": "Mail Assistant"
+    },
+    {
+        "郵運聯絡員": "Liaison Staff"
+    },
+    {
+        "郵務稽查": "Postal Inspector"
+    },
+    {
+        "佐理員": "Assistant Clerk"
+    },
+    {
+        "工作員": "Counter Clerk"
+    },
+    {
+        "工作士": "Delivery Clerk"
+    },
+    {
+        "董事長": "Chairperson"
+    },
+    {
+        "董事": "Director"
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "總經理": "President"
+    },
+    {
+        "執行副總經理": "Senior Executive Vice President"
+    },
+    {
+        "副總經理": "Senior Vice President"
+    },
+    {
+        "總工程師": "Chief Engineer"
+    },
+    {
+        "總視察": "Inspector-General"
+    },
+    {
+        "主任祕書": "Chief Secretary"
+    },
+    {
+        "副主任委員(研究設計委員會)": "Vice Chairperson"
+    },
+    {
+        "協理": "Vice President"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "副總工程師": "Deputy Chief Engineer"
+    },
+    {
+        "副總視察": "Deputy Inspector-General"
+    },
+    {
+        "委員(研究設計委員會)": "Commissioner"
+    },
+    {
+        "副處長": "Deputy Director"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "工程師": "Engineer"
+    },
+    {
+        "管理師": "Executive Officer"
+    },
+    {
+        "特別助理": "Special Assistant"
+    },
+    {
+        "副經理": "Deputy Manager"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任研究員": "Chief Researcher"
+    },
+    {
+        "主任講師": "Chief Instructor"
+    },
+    {
+        "專門委員(研究設計委員會)": "Assistant Director-General"
+    },
+    {
+        "講師(十四層次以上)": "Senior Instructor"
+    },
+    {
+        "秘書": "Secretary"
+    },
+    {
+        "稽核": "Auditor"
+    },
+    {
+        "副工程師": "Associate Engineer"
+    },
+    {
+        "副管理師": "Associate Executive Officer"
+    },
+    {
+        "講師(十四層次以下)": "Instructor"
+    },
+    {
+        "課長": "Section Chief"
+    },
+    {
+        "助理工程師": "Assistant Engineer"
+    },
+    {
+        "助理管理師": "Assistant Executive Officer"
+    },
+    {
+        "助教": "Associate Instructor"
+    },
+    {
+        "專員": "Assistant Clerk"
+    },
+    {
+        "一般工程員": "Junior Engineer "
+    },
+    {
+        "一般工程師": "Engineer "
+    },
+    {
+        "一般行政管理員": "General Administrative Clerk "
+    },
+    {
+        "一般行政管理師": "General Administrative Officer"
+    },
+    {
+        "人事管理員": "Personnel Clerk "
+    },
+    {
+        "人事管理師": "Personnel Officer"
+    },
+    {
+        "土木工程員": "Civil Engineering Technician"
+    },
+    {
+        "土木技術員": "Civil Engineering Technician"
+    },
+    {
+        "土木測繪技術員": "Survey Technician"
+    },
+    {
+        "工作分析師": "Job Analysis Officer"
+    },
+    {
+        "工場長": "Chief"
+    },
+    {
+        "工業安全衛生員": "Safety and Industrial Hygiene Clerk"
+    },
+    {
+        "工業安全衛生師": "Safety and Industrial Hygiene Officer"
+    },
+    {
+        "工業安全檢查員": "Industrial Safety Inspector"
+    },
+    {
+        "工業關係管理員": "Industrial Relations Clerk"
+    },
+    {
+        "工業關係管理師": "Industrial Relations Officer"
+    },
+    {
+        "井務技術員": "Well Technician"
+    },
+    {
+        "內外線技術員": "Line Technician"
+    },
+    {
+        "內線技術員": "Line Technician"
+    },
+    {
+        "內燃機車駕駛員": "Driver"
+    },
+    {
+        "內燃機維修操作員": "Engine Technician"
+    },
+    {
+        "公共關係管理員": "Public Relations Clerk"
+    },
+    {
+        "公共關係管理師": "Public Relations Officer"
+    },
+    {
+        "分析技術員": "Chemical Technician"
+    },
+    {
+        "化學工程師": "Chemical Engineer "
+    },
+    {
+        "化學品檢驗員": "Chemical  Inspector"
+    },
+    {
+        "化學師": "Chemist"
+    },
+    {
+        "天然氣事業部執行長": "Executive Manager"
+    },
+    {
+        "文書管理員": "Documents Clerk"
+    },
+    {
+        "木作技術員": "Carpenter"
+    },
+    {
+        "水處理技術員": "Water Treatment Technician"
+    },
+    {
+        "水軟化技術員": "Water Treatment Technician"
+    },
+    {
+        "主任地質師": "Chief  Geologist"
+    },
+    {
+        "主任稽核": "Chief  Inspector"
+    },
+    {
+        "主辦會計": "Accountant"
+    },
+    {
+        "出納員": "Cashier Clerk "
+    },
+    {
+        "出納師": "Cashier"
+    },
+    {
+        "加油站營業員": "Attendant"
+    },
+    {
+        "加油設備修護員": "Gas Instrument Repair Technician"
+    },
+    {
+        "加氣員": "Attendant"
+    },
+    {
+        "司泵員": "Pump Operator"
+    },
+    {
+        "司廚員": "Cook"
+    },
+    {
+        "司爐技術員": "Furnace Technician"
+    },
+    {
+        "打撈技術員": "Salvage Operator "
+    },
+    {
+        "石化事業部執行長": "Executive Manager"
+    },
+    {
+        "企劃控制員": "Planning Clerk "
+    },
+    {
+        "印刷技術員": "Printing Technician"
+    },
+    {
+        "地球化學探勘師": "Geochemical Engineer "
+    },
+    {
+        "地球物理探勘師": "Geophysical Engineer "
+    },
+    {
+        "地質技術員": "Geological Technician"
+    },
+    {
+        "地質師": "Geologist"
+    },
+    {
+        "地質測繪員": "Geology Survey Technician"
+    },
+    {
+        "冷作技術員": "Refrigeration Technician"
+    },
+    {
+        "冷凍機操作員": "Refrigerating Machine Technician"
+    },
+    {
+        "技術員": "Technician"
+    },
+    {
+        "汽車維修技術員": "Mechanic"
+    },
+    {
+        "皂化技術員": "Soapification Technician"
+    },
+    {
+        "車床技術員": "Lathe Technician"
+    },
+    {
+        "巡管員": "Pipe Patrol"
+    },
+    {
+        "防噴技術員": "Blowout Prevention Technician"
+    },
+    {
+        "事務管理師": "General Service Officer"
+    },
+    {
+        "取樣技術員": "Sampling Technician"
+    },
+    {
+        "拖船駕駛員": "Tugboat Pilot"
+    },
+    {
+        "泥水技術員": "Mason"
+    },
+    {
+        "泥漿技術員": "Mud Technician"
+    },
+    {
+        "法務管理師": "Legal Affairs Officer"
+    },
+    {
+        "油污泥處理技術員": "Spill Technician"
+    },
+    {
+        "油品行銷事業部執行長": "Executive Manager"
+    },
+    {
+        "油料裝卸員": "Fuel Loading  Operator"
+    },
+    {
+        "油氣儀表檢修員": "Instrument Repair Technician"
+    },
+    {
+        "油漆員": "Painter"
+    },
+    {
+        "油駁駕駛員": "Oil Barge Pilot"
+    },
+    {
+        "油駁操作員": "Oil  Barge Crew"
+    },
+    {
+        "物料管理員": "Materials Clerk"
+    },
+    {
+        "物料管理師": "Materials Officer"
+    },
+    {
+        "物探技術員": "Seismic Technician"
+    },
+    {
+        "物探資料處理員": "Seismic Data processor"
+    },
+    {
+        "保全事業部執行長": "Executive Manager"
+    },
+    {
+        "保全員": "Guard"
+    },
+    {
+        "品質管制員": "Quality Control Technician"
+    },
+    {
+        "政風": "Ethic Officer"
+    },
+    {
+        "研究員": "Researcher "
+    },
+    {
+        "穿測技術員": "Electric Logging Technician"
+    },
+    {
+        "重機械修理員": "Heavy Equipment Mechanic"
+    },
+    {
+        "倉儲管理員": "Warehouse Clerk"
+    },
+    {
+        "氣焊技術員": "Acetylene Welder"
+    },
+    {
+        "消防技術員": "Fire Fighter"
+    },
+    {
+        "消防師": "Fire Prevention Specialist"
+    },
+    {
+        "特種汽車駕駛員": "Special Vehicle Driver"
+    },
+    {
+        "秘書": "Secretary"
+    },
+    {
+        "航空加油員": "Operator"
+    },
+    {
+        "航空加油設備修護員": "Repair Station Technician"
+    },
+    {
+        "財務管理員": "Finance Clerk"
+    },
+    {
+        "財務管理師": "Finance Officer"
+    },
+    {
+        "配管技術員": "Pipe Fitter"
+    },
+    {
+        "副執行長": "Deputy Executive Manager"
+    },
+    {
+        "專案經理": "Project Manager"
+    },
+    {
+        "採油技術員": "Oil Well Technician"
+    },
+    {
+        "採購員": "Procurement Clerk"
+    },
+    {
+        "救生技術員": "Lifeguard "
+    },
+    {
+        "教育訓練員": "Training Clerk  "
+    },
+    {
+        "混油技術員": "Mixing Technician"
+    },
+    {
+        "產品管理員": "Product Control Clerk"
+    },
+    {
+        "產品管理師": "Product Control Officer"
+    },
+    {
+        "設備檢查員": "Junior Equipment  Inspector"
+    },
+    {
+        "循環水處理員": "Water Treatment Technician"
+    },
+    {
+        "普運管理員": "General Transportation Clerk"
+    },
+    {
+        "普運管理師": "General Transportation Officer"
+    },
+    {
+        "發變電技術員": "Power Supply Technician"
+    },
+    {
+        "園藝技術員": "Gardener"
+    },
+    {
+        "會計管理員": "Accounting Clerk"
+    },
+    {
+        "會計管理師": "Accounting Officer"
+    },
+    {
+        "業務管理員": "Sales Clerk"
+    },
+    {
+        "業務管理師": "Sales Officer"
+    },
+    {
+        "煉油技術員": "Refinery Technician"
+    },
+    {
+        "煉製技術員": "Gas Refining Technician"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "裝配技術員": "Assembling Technician"
+    },
+    {
+        "話務員": "Operator"
+    },
+    {
+        "資料編輯員": "Data Compiling Clerk "
+    },
+    {
+        "資料編輯師": "Data Compiling Officer"
+    },
+    {
+        "鉗作技術員": "Bench Technician"
+    },
+    {
+        "電子儀器技術員": "Electronic Instrument Technician"
+    },
+    {
+        "電訊裝修技術員": "Electronics Repair Technician"
+    },
+    {
+        "電焊技術員": "Electrical Arc Welder"
+    },
+    {
+        "電腦作業員": "Computer Operator"
+    },
+    {
+        "電機工程師": "Electrical Engineer "
+    },
+    {
+        "電機裝修技術員": "Electrical Equipment Repair Technician"
+    },
+    {
+        "電機檢修員": "Rotary Electrical Equipment Repair Technician"
+    },
+    {
+        "管檢技術員": "Pipe Inspection Technician"
+    },
+    {
+        "儀電工程師": "Instruments and Electronics Engineer"
+    },
+    {
+        "廢水處理技術員": "Waste Water Treatment Technician"
+    },
+    {
+        "潤滑保養員": "Lubrication Technician"
+    },
+    {
+        "稽核": "Inspector"
+    },
+    {
+        "調配技術員": "Compounding Technician"
+    },
+    {
+        "機械工程師": "Mechanical Engineer "
+    },
+    {
+        "機械技術員": "Mechanical Technician"
+    },
+    {
+        "機械品檢驗技術員": "Mechanical Inspection Technician"
+    },
+    {
+        "機電繪圖技術員": "Drafting Technician"
+    },
+    {
+        "輸氣技術員": "Pipeline Technician"
+    },
+    {
+        "壓縮機技術員": "Compressor Technician"
+    },
+    {
+        "檢驗技術員": "Testing Technician"
+    },
+    {
+        "環境保護技術員": "Environmental Protection Technician"
+    },
+    {
+        "環境保護員": "Environmental Protection Clerk"
+    },
+    {
+        "環境保護師": "Environmental Protection Specialist"
+    },
+    {
+        "總檢核": "Inspector General"
+    },
+    {
+        "鍋爐技術員": "Boiler Technician"
+    },
+    {
+        "鍛造技術員": "Forging Technician"
+    },
+    {
+        "雜務員": "Technical Assistant"
+    },
+    {
+        "礦冶工程師": "Mining and Metallurgical Engineer"
+    },
+    {
+        "攝印技術員": "Microfilm Technician"
+    },
+    {
+        "灌裝技術員": "Filling Technician"
+    },
+    {
+        "鑽井技術員": "Drilling Technician"
+    },
+    {
+        "首席領港": "Chief Pilot "
+    },
+    {
+        "船塢長": "Dockmaster"
+    },
+    {
+        "業務代表": "Representative"
+    },
+    {
+        "領港": "Pilot"
+    },
+    {
+        "檢核": "Inspector"
+    },
+    {
+        "一般工程員": "Junior Engineer "
+    },
+    {
+        "一般工程師": "Engineer "
+    },
+    {
+        "一般行政管理員": "General Administrative Clerk "
+    },
+    {
+        "一般行政管理師": "General Administrative Officer"
+    },
+    {
+        "一般勤務員": "Technical Assistant"
+    },
+    {
+        "人事管理員": "Personnel Clerk"
+    },
+    {
+        "人事管理師": "Personnel Officer"
+    },
+    {
+        "土木工程員": "Civil Engineering Technician"
+    },
+    {
+        "土木工程師": "Civil Engineer"
+    },
+    {
+        "土木技術員": "Civil Engineering Technician"
+    },
+    {
+        "工作分析員": "Job Analysis Clerk"
+    },
+    {
+        "工作分析師": "Job Analysis Officer"
+    },
+    {
+        "工業工程員": "Industrial Technician"
+    },
+    {
+        "工業工程師": "Industrial Engineer"
+    },
+    {
+        "工業安全員": "Occupational Safety Technician"
+    },
+    {
+        "工業關係管理員": "Industrial Relations Clerk"
+    },
+    {
+        "工業關係管理師": "Industrial Relations Officer"
+    },
+    {
+        "中央調度監": "Superintendent for Central Coordination"
+    },
+    {
+        "內燃機車駕駛員": "Driver "
+    },
+    {
+        "公共關係管理員": "Public Relations  Clerk"
+    },
+    {
+        "公共關係管理師": "Public Relations Officer  "
+    },
+    {
+        "分隊長": "Chief"
+    },
+    {
+        "化工技術員": "Chemical Technician"
+    },
+    {
+        "人力資源管理師": "Human Resource Officer  "
+    },
+    {
+        "化學工程員": "Chemical Technician"
+    },
+    {
+        "化學工程師": "Chemical Engineer"
+    },
+    {
+        "化學師": "Chemist"
+    },
+    {
+        "化學試驗員": "Chemical Testing Technician"
+    },
+    {
+        "文書管理員": "Documents Clerk"
+    },
+    {
+        "文書管理師": "Documents Administrator "
+    },
+    {
+        "木作技術員": "Carpenter"
+    },
+    {
+        "水土保持員": "Soil Conservation Technician"
+    },
+    {
+        "水文氣象員": "Meteorological Technician"
+    },
+    {
+        "主任秘書": "Chief Secretary"
+    },
+    {
+        "出納員": "Cashier Clerk "
+    },
+    {
+        "出納師": "Cashier"
+    },
+    {
+        "企劃控制員": "Planning Clerk"
+    },
+    {
+        "企劃控制師": "Planning Specialist"
+    },
+    {
+        "地質員": "Geological Technician"
+    },
+    {
+        "地質師": "Geologist"
+    },
+    {
+        "守衛員": "Guard"
+    },
+    {
+        "收費員": "Fee Collector"
+    },
+    {
+        "冷作技術員": "Refrigeration Technician"
+    },
+    {
+        "助理值班工程師": "Assistant Head Engineer"
+    },
+    {
+        "助理秘書": "Assistant Secretary"
+    },
+    {
+        "技術員": "Technician"
+    },
+    {
+        "汽車駕駛員": "Driver"
+    },
+    {
+        "事務員": "Clerk "
+    },
+    {
+        "事務管理員": "General Service Clerk"
+    },
+    {
+        "事務管理師": "General Service Officer"
+    },
+    {
+        "供電督導": "Supervisor"
+    },
+    {
+        "招待所勤務員": "Technical Assistant"
+    },
+    {
+        "放射化學員": "Assistant Radiochemist "
+    },
+    {
+        "林業技術員": "Forestry Technician"
+    },
+    {
+        "林業技術師": "Forestry Specialist"
+    },
+    {
+        "法務管理員": "Legal Affairs Clerk "
+    },
+    {
+        "法務管理師": "Legal Affairs Officer"
+    },
+    {
+        "炊事員": "Cook"
+    },
+    {
+        "物料管理員": "Materials Clerk"
+    },
+    {
+        "物料管理師": "Materials Officer"
+    },
+    {
+        "物理試驗員": "Physical Testing Technician"
+    },
+    {
+        "信差事務員": "Messenger"
+    },
+    {
+        "保健物理員": "Health Technician"
+    },
+    {
+        "政風督導": "Supervisor"
+    },
+    {
+        "研究員": "Researcher"
+    },
+    {
+        "計畫經理": "Project Manager"
+    },
+    {
+        "計劃工程師": "Project Engineer"
+    },
+    {
+        "重機械修理員": "Heavy Equipment Mechanic "
+    },
+    {
+        "重機械運轉員": "Heavy Equipment Operator"
+    },
+    {
+        "值班工程師": "Head Engineer"
+    },
+    {
+        "值班主任": "Shift Leader"
+    },
+    {
+        "倉儲管理員": "Storage Clerk"
+    },
+    {
+        "倉儲管理師": "Storage Officer"
+    },
+    {
+        "核能工程員": "Nuclear Technician"
+    },
+    {
+        "核能工程師": "Nuclear Engineer"
+    },
+    {
+        "氣象員": "Meteorologic Technician"
+    },
+    {
+        "氣象師": "Meteorologist"
+    },
+    {
+        "秘書": "Secretary"
+    },
+    {
+        "財務管理員": "Finance Clerk"
+    },
+    {
+        "財務管理師": "Finance Officer"
+    },
+    {
+        "財產管理員": "Property Clerk"
+    },
+    {
+        "財產管理師": "Property Officer "
+    },
+    {
+        "起重作業員": "Crane Operator"
+    },
+    {
+        "起重技術員": "Crane Technician"
+    },
+    {
+        "高等法務師": "Senior Counsel "
+    },
+    {
+        "停電技術員": "Switch Controller"
+    },
+    {
+        "副中央調度監": "Deputy Superintendent for Central Coordination "
+    },
+    {
+        "副研究員": "Associate Researcher"
+    },
+    {
+        "執行秘書": "Executive Secretary"
+    },
+    {
+        "宿舍勤務員": "Technical Assistant"
+    },
+    {
+        "專業工程師": "Senior Engineer "
+    },
+    {
+        "專業管理師": "Senior Specialist"
+    },
+    {
+        "專業總工程師": "Chief Engineer"
+    },
+    {
+        "採購員": "Procurement Clerk "
+    },
+    {
+        "採購師": "Procurement Officer"
+    },
+    {
+        "教育訓練員": "Training Clerk"
+    },
+    {
+        "教育訓練師": "Training Officer"
+    },
+    {
+        "烹飪員": "Cook"
+    },
+    {
+        "焊接技術員": "Welding Technician"
+    },
+    {
+        "統計員": "Assistant Statistician"
+    },
+    {
+        "統計師": "Statistician"
+    },
+    {
+        "普運管理員": "General Transportation Clerk"
+    },
+    {
+        "普運管理師": "General Transportation Officer"
+    },
+    {
+        "測繪作業員": "Survey Technician"
+    },
+    {
+        "測繪技術員": "Survey Technician"
+    },
+    {
+        "視察": "Inspector"
+    },
+    {
+        "傳達員": "Messenger"
+    },
+    {
+        "園藝員": "Gardener    "
+    },
+    {
+        "會計管理員": "Accounting Clerk"
+    },
+    {
+        "會計管理師": "Accounting Officer"
+    },
+    {
+        "業務督導": "Supervisor"
+    },
+    {
+        "業務管理員": "Sales Clerk"
+    },
+    {
+        "業務管理師": "Sales Officer"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "董事長": "Chairperson of the Board"
+    },
+    {
+        "裝卸勤務員": "Technical Assistant"
+    },
+    {
+        "話務員": "Operator"
+    },
+    {
+        "資料控制員": "Data Control Clerk"
+    },
+    {
+        "資料控制師": "Data Control Officer"
+    },
+    {
+        "資料編輯員": "Data Compiling Clerk "
+    },
+    {
+        "資料編輯師": "Data Compiling Officer"
+    },
+    {
+        "電表抄錄員": "Meter Reader"
+    },
+    {
+        "電訊裝修員": "Telecommunications Technician"
+    },
+    {
+        "電務督導": "Supervisor"
+    },
+    {
+        "電腦軟體工程員": "Computer Software Clerk "
+    },
+    {
+        "電腦軟體工程師": "Computer Software Engineer"
+    },
+    {
+        "電腦硬體工程員": "Computer Hardware Clerk"
+    },
+    {
+        "電腦硬體工程師": "Computer Hardware Engineer"
+    },
+    {
+        "電腦機具操作員": "Computer Operation Clerk"
+    },
+    {
+        "電腦機具操作師": "Computer Operation Officer"
+    },
+    {
+        "電機工程員": "Electrical Technician"
+    },
+    {
+        "電機工程師": "Electrical Engineer"
+    },
+    {
+        "電機裝修員": "Electrical Technician"
+    },
+    {
+        "電機運轉員": "Electrical Operator"
+    },
+    {
+        "預算管理員": "Budget Clerk"
+    },
+    {
+        "預算管理師": "Budget Officer"
+    },
+    {
+        "儀電工程員": "Instruments and Electronics Technician "
+    },
+    {
+        "儀電工程師": "Instruments and Electronics Engineer"
+    },
+    {
+        "儀器修造員": "Instruments Technician "
+    },
+    {
+        "稽查": "Inspector"
+    },
+    {
+        "稽核": "Auditor"
+    },
+    {
+        "線務督導": "Supervisor"
+    },
+    {
+        "線路裝修員": "Line Technician"
+    },
+    {
+        "機械工程員": "Mechanical Technician"
+    },
+    {
+        "機械工程師": "Mechanical Engineer"
+    },
+    {
+        "機械技術員": "Mechanical Technician"
+    },
+    {
+        "機械裝修員": "Mechanic"
+    },
+    {
+        "辦公室勤務員": "Technical Assistant"
+    },
+    {
+        "館長": "Director"
+    },
+    {
+        "檢核": "Inspector"
+    },
+    {
+        "檢驗員": "Technician"
+    },
+    {
+        "營運督導": "Supervisor"
+    },
+    {
+        "環境衛生員": "Environmental Hygiene Clerk"
+    },
+    {
+        "總經理": "President"
+    },
+    {
+        "總稽核": "Auditor General"
+    },
+    {
+        "總檢核、總稽查": "Inspector General"
+    },
+    {
+        "鍛造技術員": "Forging Technician"
+    },
+    {
+        "醫療技術員": "Medical Technician"
+    },
+    {
+        "醫療技術師": "Medical Specialist"
+    },
+    {
+        "藥劑生": "Assistant Pharmacist"
+    },
+    {
+        "藥劑師": "Pharmacist"
+    },
+    {
+        "礦冶工程員": "Mining and Metallurgical Technician"
+    },
+    {
+        "礦冶工程師": "Mining and Metallurgical Engineer"
+    },
+    {
+        "護士": "Nurse"
+    },
+    {
+        "護理員": "Assistant Nurse"
+    },
+    {
+        "鑄造工程員": "Molding Technician"
+    },
+    {
+        "鑄造工程師": "Molding Engineer"
+    },
+    {
+        "鑄造技術員": "Molding Technician"
+    },
+    {
+        "行政士": "Assistant Clerk"
+    },
+    {
+        "常務董事": "Managing Director"
+    },
+    {
+        "常駐監察人": "Managing Supervisor"
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "工安環保工程師": "Industrial Safety and Environmental Protection Engineer"
+    },
+    {
+        "化工技術員": "Chemical Technician"
+    },
+    {
+        "生產技術工程師": "Production Engineer "
+    },
+    {
+        "行銷工程師": "Marketing Engineer "
+    },
+    {
+        "法務管理師": "Legal Affairs Officer"
+    },
+    {
+        "品保工程師": "Quality Assurance Engineer "
+    },
+    {
+        "品保技術員": "Quality Assurance Technician "
+    },
+    {
+        "型態管理師": "Configuration Specialist "
+    },
+    {
+        "後勤工程師": "Logistics Engineer "
+    },
+    {
+        "後勤管理員": "Logistics Clerk "
+    },
+    {
+        "飛安工程師": "Flight Safety Engineer "
+    },
+    {
+        "飛行作業工程師": "Flight Operations Engineer "
+    },
+    {
+        "特別助理": "Special Assistant "
+    },
+    {
+        "專案管理師": "Project Specialist  "
+    },
+    {
+        "採購管理師": "Procurement Officer"
+    },
+    {
+        "組裝工程師": "Assembly Engineer "
+    },
+    {
+        "設施工程師": "Facility Engineer "
+    },
+    {
+        "設計工程師": "Design Engineer "
+    },
+    {
+        "試飛師": "Test Pilot "
+    },
+    {
+        "試飛工程師": "Flight Test Engineer "
+    },
+    {
+        "試驗工程師": "Test Engineer "
+    },
+    {
+        "資深技師": "Senior Specialist "
+    },
+    {
+        "資深技術員": "Senior Technician"
+    },
+    {
+        "資深管理員": "Senior Clerk "
+    },
+    {
+        "電子電機技術員": "Electronic and Electrical Technician"
+    },
+    {
+        "維修工程師": "Maintenance Engineer"
+    },
+    {
+        "製片技術員": "Video Technician  "
+    },
+    {
+        "製造工程師": "Manufacturing Engineer "
+    },
+    {
+        "檢核管理師": "Auditor"
+    },
+    {
+        "繪圖技術員": "Drafting Technician"
+    },
+    {
+        "約聘商標審查員": "Assistant Trademark Officer "
+    },
+    {
+        "約聘專利審查委員": "Senior Patent Officer  "
+    },
+    {
+        "礦場監督員": "Safety Inspector "
+    },
+    {
+        "董事長": "Chairperson"
+    },
+    {
+        "董事": "Director of the Board"
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "總經理": "President"
+    },
+    {
+        "副總經理": "Vice President"
+    },
+    {
+        "顧問": "Advisor"
+    },
+    {
+        "董事會秘書室主任": "Director"
+    },
+    {
+        "總稽核": "Auditor General"
+    },
+    {
+        "稽核": "Auditor"
+    },
+    {
+        "專門委員": "Senior Executive Officer"
+    },
+    {
+        "協理": "Director"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "副理": "Assistant Manager (事業部、營業處)"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "副處長": "Deputy Director"
+    },
+    {
+        "廠長": "Director"
+    },
+    {
+        "副廠長": "Deputy Director"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "副所長": "Deputy Director"
+    },
+    {
+        "(系)主任": "Chief"
+    },
+    {
+        "(場)主任": "Chief"
+    },
+    {
+        "(室)主任": "Chief"
+    },
+    {
+        "技正": "簡任：1.Senior Technical Specialist; 2.Senior Specialist  (負責行政業務) / 薦任：1.Technical Specialist; 2.Specialist  (負責行政業務)"
+    },
+    {
+        "視察": "簡任：1.Senior Specialist (具專業技術); 2.Senior Executive Officer (一般行政) / 薦任：1.Specialist (具專業技術); 2.Executive Officer (一般行政)"
+    },
+    {
+        "秘書": "1.Senior Secretary (簡任); 2.Secretary (薦任)"
+    },
+    {
+        "專員": "1.Specialist (具專業技術); 2.Executive Officer (一般行政)"
+    },
+    {
+        "課長": "Chief"
+    },
+    {
+        "股長": "Head"
+    },
+    {
+        "帳務檢查員": "Accounts Inspector"
+    },
+    {
+        "會計員": "Accounting Officer"
+    },
+    {
+        "會計佐理員": "Accounting Assistant"
+    },
+    {
+        "統計分析員": "Statistics Officer"
+    },
+    {
+        "成本分析員": "Cost Analysis Officer"
+    },
+    {
+        "高級分析師": "Senior Systems Analyst"
+    },
+    {
+        "分析師": "Systems Analyst"
+    },
+    {
+        "設計師": "Systems Designer"
+    },
+    {
+        "管理師": "Systems Coordinator"
+    },
+    {
+        "助理分析師": "Assistant Systems Analyst"
+    },
+    {
+        "助理設計師": "Assistant Systems Designer"
+    },
+    {
+        "助理管理師": "Assistant Systems Coordinator"
+    },
+    {
+        "人事管理員": "Personnel Officer"
+    },
+    {
+        "人事佐理員": "Junior Personnel Officer"
+    },
+    {
+        "管理員": "Junior Officer"
+    },
+    {
+        "技士": "1.Associate Technical Specialist (薦任); 2.Assistant Technical Specialist (委任)"
+    },
+    {
+        "技佐": "1.Associate Technical Specialist (薦任); 2.Junior Technical Specialist (委任)"
+    },
+    {
+        "課員": "Officer"
+    },
+    {
+        "辦事員": "Clerk"
+    },
+    {
+        "書記": "Associate Clerk"
+    },
+    {
+        "護士": "Nurse"
+    },
+    {
+        "約聘人員": "Contract Employees"
+    },
+    {
+        "研究員": "Researcher"
+    },
+    {
+        "副研究員": "Associate Researcher"
+    },
+    {
+        "助理研究員": "Assistant Researcher"
+    },
+    {
+        "勞工安全管理師": "Occupational Safety Specialist  "
+    },
+    {
+        "勞工衛生管理師": "Occupational Health Specialist"
+    },
+    {
+        "勞工安全衛生管理員": "Occupational Safety and Hygiene Officer"
+    },
+    {
+        "勞工安全管理員": "Occupational Safety Officer"
+    },
+    {
+        "勞工衛生管理員": "Occupational Health Officer  "
+    },
+    {
+        "藥師": "Pharmacist"
+    },
+    {
+        "輔導員": "Counselor"
+    },
+    {
+        "業務員": "Clerk"
+    },
+    {
+        "助理業務員": "Assistant"
+    },
+    {
+        "雇員": "Assistant Clerk"
+    },
+    {
+        "司機員": "1.Chauffeur （首長座車）; 2.Driver （公務車）"
+    },
+    {
+        "警衛": "Security Guard"
+    },
+    {
+        "儲運員": "Logistics Technical Assistant"
+    },
+    {
+        "事務員": "Assistant"
+    },
+    {
+        "製菸技術員": "Production Technical Assistant"
+    },
+    {
+        "製酒技術員": "Production Technical Assistant"
+    },
+    {
+        "製瓶技術員": "Manufacturing Technical Assistant"
+    },
+    {
+        "製蓋技術員": "Manufacturing Technical Assistant"
+    },
+    {
+        "印刷技術員": "Printing Technical Assistant"
+    },
+    {
+        "製版技術員": "Engraving Technical Assistant"
+    },
+    {
+        "印刷設計員": "Graphics Technical Assistant"
+    },
+    {
+        "試驗技術員": "Testing Technical Assistant"
+    },
+    {
+        "品管技術員": "Quality Control Technical Assistant"
+    },
+    {
+        "汽車技術員": "Mechanic"
+    },
+    {
+        "電氣技術員": "Electrician"
+    },
+    {
+        "工務技術員": "Engineering Technical Assistant"
+    },
+    {
+        "環保技術員": "Environmental Technical Assistant"
+    },
+    {
+        "鍋爐技術員": "Boiler Technical Assistant"
+    },
+    {
+        "冷凍技術員": "Refrigeration Technical Assistant"
+    },
+    {
+        "電子技術員": "Electronics Technical Assistant"
+    },
+    {
+        "堆高機駕駛員": "Forklift Driver"
+    },
+    {
+        "鏟車駕駛員": "Shovel Driver"
+    },
+    {
+        "督察": "1.Senior Inspector (簡任); 2.Inspector (薦任)"
+    },
+    {
+        "督導": "1.Senior Inspector (簡任); 2.Inspector (薦任)"
+    },
+    {
+        "稽核": "1.Senior Auditor (簡任); 2.Auditor (薦任)"
+    },
+    {
+        "審核員": "Revenue Assessor"
+    },
+    {
+        "稽查": "1.Senior Audit Officer (簡任); 2.Audit Officer (薦任); 3.Assistant Audit Officer (委任)"
+    },
+    {
+        "檢核員": "Junior Auditor "
+    },
+    {
+        "稅務員": "Revenue Officer"
+    },
+    {
+        "助理稅務員": "Assistant Revenue Officer"
+    },
+    {
+        "辦事員": "Clerk"
+    },
+    {
+        "股員": "Clerk"
+    },
+    {
+        "按件計酬員": "1.Freelance Worker (文書類); 2.Piece Worker (生產類)"
+    },
+    {
+        "總經理室管理師": "Executive Officer"
+    },
+    {
+        "總經理室工程師": "Senior Engineer"
+    },
+    {
+        "管理師": "Officer"
+    },
+    {
+        "管理員": "Clerk"
+    },
+    {
+        "事務員": "Assistant"
+    },
+    {
+        "工程師": "Engineer"
+    },
+    {
+        "工程員": "Assistant Engineer"
+    },
+    {
+        "技術員": "Technician"
+    },
+    {
+        "系統分析師": "Systems Analyst"
+    },
+    {
+        "系統管理師": "Systems Coordinator"
+    },
+    {
+        "系統操作師": "Systems Operator"
+    },
+    {
+        "程式設技師": "Systems Designer"
+    },
+    {
+        "資料管理師": "Data Coordinator"
+    },
+    {
+        "資料登錄員": "Data Operator "
+    },
+    {
+        "化學師": "Chemist "
+    },
+    {
+        "出納師": "Cashier "
+    },
+    {
+        "出納員": "Cashier Clerk "
+    },
+    {
+        "採購員": "Procurement Clerk "
+    },
+    {
+        "採購師": "Procurement Officer"
+    },
+    {
+        "領班": "Foreman "
+    },
+    {
+        "稽核師": "Auditor "
+    },
+    {
+        "稽核員": "Junior Auditor "
+    },
+    {
+        "操作員": "Operator "
+    },
+    {
+        "膳食員": "Cook "
+    },
+    {
+        "總經理": "President and CEO"
+    },
+    {
+        "副總經理": "Vice President"
+    },
+    {
+        "經理": "General Manager"
+    },
+    {
+        "副經理": "Deputy General Manager"
+    },
+    {
+        "襄理": "Assistant General Manager "
+    },
+    {
+        "稽核": "Auditor "
+    },
+    {
+        "一等專員": "Senior Specialist "
+    },
+    {
+        "二等專員": "Specialist "
+    },
+    {
+        "三等專員": "Associate Specialist "
+    },
+    {
+        "四等專員": "Assistant Specialist "
+    },
+    {
+        "領組": "Officer "
+    },
+    {
+        "董事長": "Chairperson of the Board"
+    },
+    {
+        "董事": "Director of the Board"
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "常駐監察人": "Resident Supervisor"
+    },
+    {
+        "總經理": "President"
+    },
+    {
+        "副總經理": "Executive Vice President"
+    },
+    {
+        "業務委員": "Counselor"
+    },
+    {
+        "處長": "Director "
+    },
+    {
+        "主任": "Director "
+    },
+    {
+        "副處長": "Deputy Director"
+    },
+    {
+        "副主任": "Deputy Director"
+    },
+    {
+        "襄理": "Assistant Director"
+    },
+    {
+        "秘書": "Assistant Director and Secretary"
+    },
+    {
+        "稽核": "Assistant Director and Auditor"
+    },
+    {
+        "一等專員": "Senior Specialist"
+    },
+    {
+        "二等專員": "Specialist"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "副科長": "Deputy Chief"
+    },
+    {
+        "助理稽核": "Assistant Auditor"
+    },
+    {
+        "三等專員": "Assistant Specialist"
+    },
+    {
+        "四等專員": "Junior Specialist"
+    },
+    {
+        "領組": "Assistant Officer"
+    },
+    {
+        "辦事員": "Clerk"
+    },
+    {
+        "助員": "Associate Clerk"
+    },
+    {
+        "練習員": "Assistant Clerk"
+    },
+    {
+        "雇員": "Junior Clerk"
+    },
+    {
+        "工員": "Driver / Technician / Janitor / Messenger"
+    },
+    {
+        "警衛": "Security Guard"
+    },
+    {
+        "董事長": "Chairperson of the Board"
+    },
+    {
+        "董事": "Director of the Board"
+    },
+    {
+        "常務董事": "Managing Director of the Board"
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "常駐監察人": "Resident Supervisor"
+    },
+    {
+        "總經理": "President"
+    },
+    {
+        "副總經理": "Executive Vice President"
+    },
+    {
+        "總稽核": "Executive Vice President and General Auditor"
+    },
+    {
+        "主任秘書": "Senior Vice President and Chief Secretary"
+    },
+    {
+        "室主任": "Senior Vice President and General Manager"
+    },
+    {
+        "部經理": "Senior Vice President and General Manager"
+    },
+    {
+        "一等分行經理": "Senior Vice President and General Manager"
+    },
+    {
+        "專門委員": "Senior Vice President"
+    },
+    {
+        "副主任秘書": "Vice President and Deputy Chief Secretary"
+    },
+    {
+        "室副主任": "Vice President and Deputy General Manager"
+    },
+    {
+        "部副經理": "Vice President and Deputy General Manager"
+    },
+    {
+        "一等分行副經理": "Vice President and Deputy General Manager"
+    },
+    {
+        "二等分行經理": "Vice President and General Manager"
+    },
+    {
+        "三等分行經理": "Vice President and General Manager"
+    },
+    {
+        "研究員": "Vice President"
+    },
+    {
+        "業務規劃師": "Systems Planning Deputy General Manager"
+    },
+    {
+        "二等分行副經理": "Assistant Vice President and Deputy General Manager"
+    },
+    {
+        "三等分行副經理": "Assistant Vice President and Deputy General Manager"
+    },
+    {
+        "高級襄理": "Assistant Vice President and Assistant General Manager"
+    },
+    {
+        "高級專員": "Assistant Vice President "
+    },
+    {
+        "秘書": "Assistant Vice President and Secretary"
+    },
+    {
+        "稽核": "Assistant Vice President and Auditor "
+    },
+    {
+        "高級制度分析師": "Senior Systems Analyst"
+    },
+    {
+        "科長": "Manager"
+    },
+    {
+        "課長": "Manager"
+    },
+    {
+        "中級襄理": "Manager"
+    },
+    {
+        "中級專員": "Banking Officer"
+    },
+    {
+        "助理秘書": "Secretary"
+    },
+    {
+        "助理稽核": "Auditor"
+    },
+    {
+        "中級技術師": "Senior Technician"
+    },
+    {
+        "制度分析師": "Systems Analyst"
+    },
+    {
+        "副科長": "Deputy Manager"
+    },
+    {
+        "初級襄理": "Deputy Manager"
+    },
+    {
+        "初級專員": "Deputy Banking Officer"
+    },
+    {
+        "助理制度分析師": "Assistant Systems Analyst"
+    },
+    {
+        "程式設計師": "Systems Designer"
+    },
+    {
+        "領組": "Assistant Banking Officer"
+    },
+    {
+        "助理程式設計師": "Assistant Systems Designer"
+    },
+    {
+        "資料管制師": "Information Control Officer"
+    },
+    {
+        "辦事員": "Clerk"
+    },
+    {
+        "助理員": "Associate Clerk"
+    },
+    {
+        "練習員": "Assistant Clerk"
+    },
+    {
+        "雇員": "Junior Clerk"
+    },
+    {
+        "檢券員": "Bank Note Sorter"
+    },
+    {
+        "工友": "1.Maintenance Worker; 2.Messenger (送公文); 3.Janitor (清潔工)"
+    },
+    {
+        "技工": "Technician"
+    },
+    {
+        "駕駛": "Driver"
+    },
+    {
+        "隊長": "Security Chief "
+    },
+    {
+        "副隊長": "Deputy Security Chief"
+    },
+    {
+        "警務員": "Security Guard"
+    },
+    {
+        "小隊長": "Security Supervisor"
+    },
+    {
+        "分隊長": "Subsection Leader"
+    },
+    {
+        "隊員": "Security Guard"
+    },
+    {
+        "立法委員": "Member of the Legislative Yuan"
+    },
+    {
+        "報務員": "Aeronautical communications officer"
+    }
+]

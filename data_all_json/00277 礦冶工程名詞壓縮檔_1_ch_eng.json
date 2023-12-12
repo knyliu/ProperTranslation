@@ -1,0 +1,10247 @@
+[
+    {
+        "焙燒爐": "roastine furnace"
+    },
+    {
+        "焙燒窯": "roasting kiln"
+    },
+    {
+        "焙燒機": "roasting machine"
+    },
+    {
+        "焙燒爐": "roasting oven"
+    },
+    {
+        "焙燒罐": "roasting pot"
+    },
+    {
+        "岩石": "rock"
+    },
+    {
+        "石瀝青": "rock asphalt"
+    },
+    {
+        "成礦有關岩石": "rock associations"
+    },
+    {
+        "岩石鑽頭": "rock bit"
+    },
+    {
+        "岩磐螺栓 ; 頂磐螺栓 ; 岩柱": "rock bolt"
+    },
+    {
+        "頂磐栓固 ; 岩磐栓固 ; 岩栓安裝": "rock bolting"
+    },
+    {
+        "碎礦機": "rock breaker"
+    },
+    {
+        "岩崩 ; 岩石突出": "rock bump"
+    },
+    {
+        "岩壁暴潰 ; 岩石突出": "rock burst"
+    },
+    {
+        "岩心 ; 岩芯": "rock core"
+    },
+    {
+        "水晶": "rock crystal"
+    },
+    {
+        "鑿岩機 ; 風鑽機": "rock drill"
+    },
+    {
+        "岩石坑道": "rock drivage"
+    },
+    {
+        "石塵": "rock dust"
+    },
+    {
+        "石塵噴射": "rock dusting"
+    },
+    {
+        "煤層萎縮區": "rock fault"
+    },
+    {
+        "廢石充填 ; 填石": "rock filling"
+    },
+    {
+        "石英粉": "rock-flour"
+    },
+    {
+        "造岩礦物": "rock-forming mineral"
+    },
+    {
+        "岩石基礎": "rock foundation"
+    },
+    {
+        "天然氣 ; 石油氣": "rock gas"
+    },
+    {
+        "溜煤井": "rock hole"
+    },
+    {
+        "石油地質師": "rock hound"
+    },
+    {
+        "岩石力學": "rock mechanics"
+    },
+    {
+        "石油": "rock oil"
+    },
+    {
+        "岩層壓力": "rock pressure"
+    },
+    {
+        "岩體暴潰": "rock pressure burst"
+    },
+    {
+        "儲油層 ; 儲油岩": "rock reservoir"
+    },
+    {
+        "騎縫岩": "rock riders"
+    },
+    {
+        "垂吊岩": "rock rolls"
+    },
+    {
+        "岩鹽": "rock salt"
+    },
+    {
+        "鏟裝機 ; 裝礦機": "rock shovel"
+    },
+    {
+        "山崩 ; 山坡滑崩": "rock slip"
+    },
+    {
+        "石油": "rock tar"
+    },
+    {
+        "岩石種類": "rock types"
+    },
+    {
+        "關井壓力上升": "rock up"
+    },
+    {
+        "搖洗桌": "rocker"
+    },
+    {
+        "搖臂": "rocker arm"
+    },
+    {
+        "地磐岩": "rockhead"
+    },
+    {
+        "彈性桿": "rocking lever"
+    },
+    {
+        "誘導自噴": "rocking the well"
+    },
+    {
+        "採石板工": "rockmen"
+    },
+    {
+        "地質師": "rocksy"
+    },
+    {
+        "洛氏硬度儀": "Rockwell hardness machine"
+    },
+    {
+        "洛氏硬度試驗[桿]頓鑽": "Rockwell hardness test rod and drop-pull system"
+    },
+    {
+        "非架上抽油桿靠架": "rod board"
+    },
+    {
+        "焊管工": "rod burner"
+    },
+    {
+        "抽油桿卡": "rod clamp"
+    },
+    {
+        "連接桿": "rod connecting"
+    },
+    {
+        "桿杯脂": "rod cup grease"
+    },
+    {
+        "偏心桿": "rod eccentric"
+    },
+    {
+        "抽油桿吊卡": "rod elevator"
+    },
+    {
+        "抽油桿抓": "rod grasp"
+    },
+    {
+        "抽油桿導 ; 桿導": "rod guide"
+    },
+    {
+        "抽油桿吊掛": "rod hanger"
+    },
+    {
+        "抽油桿釣": "rod hook"
+    },
+    {
+        "抽油線": "rod line"
+    },
+    {
+        "抽油泵": "rod line pump"
+    },
+    {
+        "抽油線導架": "rod line rocker"
+    },
+    {
+        "馬頭繩": "rod line swing"
+    },
+    {
+        "軋條機 ; 棒磨機": "rod mill"
+    },
+    {
+        "抽油桿盤根": "rod packing"
+    },
+    {
+        "抽油桿盤根壓蓋": "rod packing gland"
+    },
+    {
+        "活塞桿": "rod piston"
+    },
+    {
+        "抽油泵": "rod pump"
+    },
+    {
+        "油樣採收桿": "rod thief"
+    },
+    {
+        "電特兩氏冰凍法": "Rodio-Dehottay process"
+    },
+    {
+        "混濁原油": "roily oil"
+    },
+    {
+        "斜夾層": "roke"
+    },
+    {
+        "輥碎機": "roll crusher"
+    },
+    {
+        "滾偏角": "roll-off angle"
+    },
+    {
+        "壓軋氧化層 ; 銹皮": "roll scale"
+    },
+    {
+        "硫礦石": "rod sulphur"
+    },
+    {
+        "轉輥螺絲": "roll threading"
+    },
+    {
+        "輥軋熔接": "roll welding"
+    },
+    {
+        "金箔": "rolled gold"
+    },
+    {
+        "軋鋼成品": "rolled-steel sections"
+    },
+    {
+        "滾筒 ; 壓路機": "roller"
+    },
+    {
+        "輥軸承": "roller bearing"
+    },
+    {
+        "滾齒鑽頭 ; 滾動式鑽頭": "roller bit"
+    },
+    {
+        "輥鏈 ; 滾子鏈": "roller chain"
+    },
+    {
+        "平軋": "roller levelling"
+    },
+    {
+        "輥磨機": "roller mill"
+    },
+    {
+        "矯正式平軋": "roller straightening"
+    },
+    {
+        "咬角 ; 軋角": "rolling angle"
+    },
+    {
+        "滾齒岩心鑽具": "rolling cutter core head"
+    },
+    {
+        "軋機 ; 軋廠": "rolling mill"
+    },
+    {
+        "滾動阻力": "rolling resistance"
+    },
+    {
+        "軋向組織": "rolling texturess"
+    },
+    {
+        "煤層起伏 ; 軋輥機": "rolls"
+    },
+    {
+        "原煤 ; 原礦砂": "rom"
+    },
+    {
+        "羅馬水泥": "Roman cement"
+    },
+    {
+        "頂磐": "roof"
+    },
+    {
+        "頂磐栓固 ; 岩磐栓固": "roof bolting"
+    },
+    {
+        "頂磐控制": "roof control"
+    },
+    {
+        "頂磐切": "roof cut"
+    },
+    {
+        "蓋層 ; 蓋岩": "roof rock"
+    },
+    {
+        "房 ; 室": "room"
+    },
+    {
+        "房柱法採煤": "room-and-pillar"
+    },
+    {
+        "齒根冷軋": "root rolling"
+    },
+    {
+        "首道熔接層": "root run"
+    },
+    {
+        "翻鬆機 ; 除根機": "rooter"
+    },
+    {
+        "繩索": "rope"
+    },
+    {
+        "索籃": "rope bucket"
+    },
+    {
+        "捲索帽": "rope cappel"
+    },
+    {
+        "割索器": "rope chopper"
+    },
+    {
+        "索卡 ; 索夾": "rope clamp"
+    },
+    {
+        "索夾": "rope clip"
+    },
+    {
+        "繩索直徑": "rope diameter"
+    },
+    {
+        "索鑽 ; 頓鑽": "rope drill"
+    },
+    {
+        "[繩]索傳動": "rope drive"
+    },
+    {
+        "綱索扣接": "rope fastenings"
+    },
+    {
+        "索抓": "rope grab"
+    },
+    {
+        "綱索導軌": "rope guides"
+    },
+    {
+        "鋼索拖拉搬運": "rope haulage"
+    },
+    {
+        "割索刀": "rope knife"
+    },
+    {
+        "捲索急跳": "rope plucking"
+    },
+    {
+        "索槽輪 ; 繩輪": "rope sheave"
+    },
+    {
+        "索頭結 ; 索接頭 ; 索帽": "rope socket"
+    },
+    {
+        "撈索矛": "rope spear"
+    },
+    {
+        "接索工具": "rope splicing tool"
+    },
+    {
+        "撈索器": "rope worm"
+    },
+    {
+        "司鑽[頓鑽]": "ropeman"
+    },
+    {
+        "[架空]索道": "ropeway"
+    },
+    {
+        "釩雲母": "roscoelite"
+    },
+    {
+        "玫瑰花式組織 ; 菊花形應變計": "rosette"
+    },
+    {
+        "松香油": "rosin oil"
+    },
+    {
+        "旋轉鑽頭": "rotary bit"
+    },
+    {
+        "遊動滑車": "rotary block"
+    },
+    {
+        "旋轉鼓風機": "rotary blower"
+    },
+    {
+        "旋轉鑽法": "rotary boring"
+    },
+    {
+        "旋轉碎礦機": "rotary breaker"
+    },
+    {
+        "轉盤襯套": "rotary bushing"
+    },
+    {
+        "旋轉翻車架": "rotary car dump"
+    },
+    {
+        "旋轉鑽絞車": "rotary drawworks"
+    },
+    {
+        "旋轉鑽[機]": "rotary drill"
+    },
+    {
+        "旋轉鑽[法]": "rotary drilling"
+    },
+    {
+        "旋轉鑽機": "rotary drilling machine"
+    },
+    {
+        "旋轉鑽機": "rotary drilling rig"
+    },
+    {
+        "轉盤方鑽桿襯套": "rotary deive bushing"
+    },
+    {
+        "旋轉翻車架": "rotary dumper"
+    },
+    {
+        "鑽進控制": "rotary feed control"
+    },
+    {
+        "施轉打撈活環": "rotary fishing jar"
+    },
+    {
+        "迴轉鍛造": "rotary forging"
+    },
+    {
+        "迴轉爐": "rotary furnace"
+    },
+    {
+        "轉式氣量錶": "rotary gas meter"
+    },
+    {
+        "鑽工": "rotary helper"
+    },
+    {
+        "大鉤": "rotary hook"
+    },
+    {
+        "水龍帶 ; 泥漿軟管": "rotary hose"
+    },
+    {
+        "液壓井壁刮刀": "rotary hydraulic expansion wall scraper"
+    },
+    {
+        "迴轉窯": "rotary kiln"
+    },
+    {
+        "鑽繩": "rotary line"
+    },
+    {
+        "轉盤": "rotary machine"
+    },
+    {
+        "旋衝式鑽機 ; 旋衝式鑽井": "rotary-percussive drill"
+    },
+    {
+        "鑽工": "rotary runner"
+    },
+    {
+        "轉動篩 ; 圓轉篩": "rotary screen"
+    },
+    {
+        "迴轉剪機": "rotary shear"
+    },
+    {
+        "套管鞋": "rotary shoe"
+    },
+    {
+        "圓轉選分桌": "rotary sorting table"
+    },
+    {
+        "轉速": "rotary speed"
+    },
+    {
+        "轉動鍛製": "rotary swaging"
+    },
+    {
+        "水龍頭": "rotary swivel"
+    },
+    {
+        "轉盤": "rotary table"
+    },
+    {
+        "轉盤襯套": "rotary table bushing"
+    },
+    {
+        "旋轉翻車架": "rotary tippler"
+    },
+    {
+        "大鉗": "rotary tongs"
+    },
+    {
+        "迴旋閥 ; 轉閥": "rotary valve"
+    },
+    {
+        "震動旋轉翻車架": "rotary vibrating tippler"
+    },
+    {
+        "旋轉式襯管掛": "rotating liner hanger"
+    },
+    {
+        "旋轉斷層": "rotational fault"
+    },
+    {
+        "迴轉滑動面": "rotational slip"
+    },
+    {
+        "旋轉錘鑽機": "rotator hammer drill"
+    },
+    {
+        "轉爐煉鋼法": "rotor steel process"
+    },
+    {
+        "鑽工": "rough hand"
+    },
+    {
+        "初砂清選環迴": "rougher-cleaning circuit"
+    },
+    {
+        "鑽工": "rough neck"
+    },
+    {
+        "初選系 ; 初選環迴": "roughing circuit"
+    },
+    {
+        "粗軋機": "roughing mill"
+    },
+    {
+        "粗軋機": "roughing stand"
+    },
+    {
+        "炮孔排": "round"
+    },
+    {
+        "圓塊煤": "round coal"
+    },
+    {
+        "圓鋼索": "round strand rope"
+    },
+    {
+        "圓洗桌": "round table"
+    },
+    {
+        "起下鑽": "round trip"
+    },
+    {
+        "雜工": "roust about"
+    },
+    {
+        "雜工領班": "roustabout pusher"
+    },
+    {
+        "採油領班": "rousty foreman"
+    },
+    {
+        "例行分析": "routine analysis"
+    },
+    {
+        "地質師": "roxy"
+    },
+    {
+        "橡皮 ; 像膠": "rubber"
+    },
+    {
+        "橡膠輸送帶": "rubber belt"
+    },
+    {
+        "橡膠面層鋼輸送帶": "rubber-covered steel conveyor"
+    },
+    {
+        "橡皮軟管": "rubber hose"
+    },
+    {
+        "橡膠絕緣材料橡膠絕緣體": "rubber insulator"
+    },
+    {
+        "橡皮內襯管": "rubber-lined pipe"
+    },
+    {
+        "橡皮內襯礦兜": "rubber-lined skip"
+    },
+    {
+        "橡膠盤根 ; 橡膠襯墊 ; 橡膠填料": "rubber packing"
+    },
+    {
+        "橡皮構造": "rubber structures"
+    },
+    {
+        "橡皮脹大試驗": "rubber swelling test"
+    },
+    {
+        "膠輪車運輸": "rubber-tyred haulage"
+    },
+    {
+        "防撞導索": "rubbing ropes"
+    },
+    {
+        "攙塊石混凝土": "rubber concrete"
+    },
+    {
+        "銣": "rubidium"
+    },
+    {
+        "紅寶石": "ruby"
+    },
+    {
+        "紅銅礦": "ruby copper"
+    },
+    {
+        "紅銀礦": "ruby silver"
+    },
+    {
+        "比量斷面": "ruling section"
+    },
+    {
+        "規定工資": "ruling wage"
+    },
+    {
+        "滾光法": "rumbling"
+    },
+    {
+        "下抽刷器": "run a swab"
+    },
+    {
+        "輸油": "run a tank"
+    },
+    {
+        "裸孔採油井": "run borefoot"
+    },
+    {
+        "下套管": "run casing"
+    },
+    {
+        "成品罐 ; 成品槽": "run down tank"
+    },
+    {
+        "構造高區井": "run high"
+    },
+    {
+        "下鑽": "run in hole (R.I.H)"
+    },
+    {
+        "下測深繩": "run line"
+    },
+    {
+        "原礦石": "run-of-mine ore"
+    },
+    {
+        "輸油": "run oil"
+    },
+    {
+        "節流採油": "run on choke"
+    },
+    {
+        "輸油記錄": "run ticket"
+    },
+    {
+        "廢棄鑽屑 ; 廢棄鑽漿": "run-to-waste"
+    },
+    {
+        "車瀉": "runaway"
+    },
+    {
+        "流路 ; 澆道 ; 轉子": "runner"
+    },
+    {
+        "起下鑽": "running and pulling operation"
+    },
+    {
+        "鬆質煤": "running coal"
+    },
+    {
+        "遊動地層 ; 浮動區域": "running ground"
+    },
+    {
+        "崩潰性頁岩": "running shale"
+    },
+    {
+        "逕流": "runoff"
+    },
+    {
+        "漏出 ; 格外耐疲": "runout"
+    },
+    {
+        "破裂 ; 破斷": "rupture"
+    },
+    {
+        "破裂強度": "rupture strength"
+    },
+    {
+        "銹": "rust"
+    },
+    {
+        "防銹添加劑": "rust preventive"
+    },
+    {
+        "防銹打底處理": "rust proofing"
+    },
+    {
+        "釕": "ruthenium"
+    },
+    {
+        "金紅石": "rutile"
+    },
+    {
+        "袋裝式下水泥": "sack cementing"
+    },
+    {
+        "犧牲陽極": "sacrificial anodes"
+    },
+    {
+        "遊樑柱軸承": "saddle bearing"
+    },
+    {
+        "鞍狀法蘭": "saddle flange"
+    },
+    {
+        "管子止漏鋏 ; 鞍形管座": "saddle pipe"
+    },
+    {
+        "褶頂礦床": "saddle reef"
+    },
+    {
+        "凹形鑽頭": "saddleback tip"
+    },
+    {
+        "安全電流": "safe circuit"
+    },
+    {
+        "安全帶": "safety belt"
+    },
+    {
+        "安全雷管": "safety blasting cap"
+    },
+    {
+        "安全板": "safety board"
+    },
+    {
+        "安全帽 ; 安全罩": "safety cape"
+    },
+    {
+        "安全掣子": "safety catch"
+    },
+    {
+        "安全鋏": "safety clamp"
+    },
+    {
+        "安全卸鉤": "safety detaching hook"
+    },
+    {
+        "安全設備": "safety device"
+    },
+    {
+        "安全門": "safety door"
+    },
+    {
+        "安全係數 ; 安全因素": "safety factor"
+    },
+    {
+        "安全引線": "safety fuse"
+    },
+    {
+        "安全鉤": "safety hook"
+    },
+    {
+        "安全接頭": "safety joint"
+    },
+    {
+        "安全燈": "safety lamp"
+    },
+    {
+        "有帽安全燈": "safety lamp bouneted"
+    },
+    {
+        "安全燈礦": "safety lamp mine"
+    },
+    {
+        "安全閂": "safety latch"
+    },
+    {
+        "保安員": "safety officer"
+    },
+    {
+        "保安礦柱": "safety pillar"
+    },
+    {
+        "安全平台": "safety platform"
+    },
+    {
+        "安全塞": "safety plug"
+    },
+    {
+        "安全標貼": "safety poster"
+    },
+    {
+        "安全絞車": "safety rope winch"
+    },
+    {
+        "安全封塞": "safety seal"
+    },
+    {
+        "安全滑車": "safety slide"
+    },
+    {
+        "安全車擋": "safety stop"
+    },
+    {
+        "安全接頭": "safety sub"
+    },
+    {
+        "安全開關": "safety switch"
+    },
+    {
+        "安全閥": "safety valve"
+    },
+    {
+        "捲索下垂控制塔": "sag tower"
+    },
+    {
+        "磠砂 ; 銨鹽溶劑": "salt-ammoniac"
+    },
+    {
+        "淨煤產量": "saleable output"
+    },
+    {
+        "銷售氣": "sales gas"
+    },
+    {
+        "含鹽岩": "saliferous rock"
+    },
+    {
+        "鹽礦床": "saline residue"
+    },
+    {
+        "鹽分 ; 鹽度": "salinity"
+    },
+    {
+        "鹽分計 ; 鹽度計": "salinometer"
+    },
+    {
+        "流涎症": "salivation"
+    },
+    {
+        "鹽類 ; 鹽": "salt"
+    },
+    {
+        "鹽浴": "salt bath"
+    },
+    {
+        "含鹽水泥": "salt cement"
+    },
+    {
+        "鹽殼抑塵法": "salt-crust process"
+    },
+    {
+        "缺鹽症": "salt deficiency"
+    },
+    {
+        "鹽丘": "salt dome"
+    },
+    {
+        "鹽丘油[氣]層": "salt dome pool"
+    },
+    {
+        "鹽丘封閉": "salt dome trap"
+    },
+    {
+        "鹽栓油層": "salt plug pool"
+    },
+    {
+        "鹽水噴霧試驗": "salt-spray test"
+    },
+    {
+        "鹽性黏土": "salt water clay"
+    },
+    {
+        "鹽水處置": "salt water disposal"
+    },
+    {
+        "鹽水泥漿": "salt water mud"
+    },
+    {
+        "鹽水井": "salt water well"
+    },
+    {
+        "樣品摻假": "salting"
+    },
+    {
+        "硝石": "saltpetre"
+    },
+    {
+        "舊料回收": "salvage"
+    },
+    {
+        "回收價值": "salvage value"
+    },
+    {
+        "釤": "samarium"
+    },
+    {
+        "人造金剛砂": "samite"
+    },
+    {
+        "樣品": "sample"
+    },
+    {
+        "樣品袋": "sample bag"
+    },
+    {
+        "取樣筒": "sample chamber"
+    },
+    {
+        "樣品研磨機": "sample grinder"
+    },
+    {
+        "取樣記錄": "sample log"
+    },
+    {
+        "樣品標號": "sample mark"
+    },
+    {
+        "樣品減縮": "sample reduction"
+    },
+    {
+        "取樣器 ; 取樣者": "sampler"
+    },
+    {
+        "井壁取樣器": "sampler side wall"
+    },
+    {
+        "取樣 ; 採樣 ; 抽樣": "sampling"
+    },
+    {
+        "採樣瓶 ; 取樣瓶": "sampling bottle"
+    },
+    {
+        "取樣器": "sampling instrument"
+    },
+    {
+        "抽樣檢驗": "sampling inspection"
+    },
+    {
+        "取樣管": "sampling pipe"
+    },
+    {
+        "遊樑支柱": "Samson's post"
+    },
+    {
+        "砂": "sand"
+    },
+    {
+        "汲砂筒": "sand bailer"
+    },
+    {
+        "砂浴": "sand bath"
+    },
+    {
+        "砂床": "sand bed"
+    },
+    {
+        "噴砂法 ; 吹砂法": "sand-blasting"
+    },
+    {
+        "分砂器 ; 砂箱": "sand box"
+    },
+    {
+        "汲砂器": "sand bucket"
+    },
+    {
+        "砂痂": "sand buckle"
+    },
+    {
+        "砂模鑄造": "sand-casting"
+    },
+    {
+        "含砂量": "sand content"
+    },
+    {
+        "防砂": "sand control"
+    },
+    {
+        "砂蝕": "sand erosion"
+    },
+    {
+        "除砂 ; 隔砂": "sand exclusion"
+    },
+    {
+        "尾砂充填": "sand filling"
+    },
+    {
+        "砂濾器": "sand filter"
+    },
+    {
+        "加砂浮選": "sand flotation"
+    },
+    {
+        "流砂充填": "sand fluching"
+    },
+    {
+        "加砂液裂": "sand frac"
+    },
+    {
+        "井口沉砂器": "sand hog"
+    },
+    {
+        "汲砂繩": "sand line"
+    },
+    {
+        "多孔層等厚圖": "sand maps"
+    },
+    {
+        "比例加砂器": "sand proportioner"
+    },
+    {
+        "砂泵 ; 抽砂泵": "sand pump"
+    },
+    {
+        "砂繩捲軸": "sand reel"
+    },
+    {
+        "砂替換法": "sand-replacement method"
+    },
+    {
+        "砂繩輪支柱": "sand sill"
+    },
+    {
+        "儲砂罐": "sand silo"
+    },
+    {
+        "試砂器": "sand tester"
+    },
+    {
+        "砂層厚度": "sand thickness"
+    },
+    {
+        "截砂器": "sand trap"
+    },
+    {
+        "砂害 ; 砂侵": "sand trouble"
+    },
+    {
+        "砂塞 ; 砂堵": "sand up"
+    },
+    {
+        "生產井": "sand well"
+    },
+    {
+        "泥漿車": "sand wheel"
+    },
+    {
+        "砂包": "sandbag"
+    },
+    {
+        "砂泥分選法": "sands-and-slimes process"
+    },
+    {
+        "隔砂篩管": "sands screen pipe"
+    },
+    {
+        "砂岩": "sandstone"
+    },
+    {
+        "砂岩貯油層": "sandstone reservoir rock"
+    },
+    {
+        "砂土": "sandy soil"
+    },
+    {
+        "皂化": "saponification"
+    },
+    {
+        "皂化值": "saponification number"
+    },
+    {
+        "藍寶石": "sapphire"
+    },
+    {
+        "腐泥煤": "sapropelic coals"
+    },
+    {
+        "砂岩電測解釋法": "saraband"
+    },
+    {
+        "衛星導航系統": "satellite navigation system"
+    },
+    {
+        "衛星定位": "satellite positioning"
+    },
+    {
+        "衛星井集油系統": "satellite system"
+    },
+    {
+        "衛星井": "satellite well"
+    },
+    {
+        "纖維石(膏)": "satinspar"
+    },
+    {
+        "飽和空氣": "saturated air"
+    },
+    {
+        "含油岩心": "saturated core"
+    },
+    {
+        "飽和烴 ; 飽和碳氫化合物": "saturated hydrocarbon"
+    },
+    {
+        "飽和油層": "saturated pool"
+    },
+    {
+        "飽和鹽水泥漿": "saturated salt water mud"
+    },
+    {
+        "飽和溶液": "saturated solution"
+    },
+    {
+        "潛水面": "saturated surface"
+    },
+    {
+        "飽和蒸氣": "saturated vapor"
+    },
+    {
+        "飽和蒸氣壓": "saturated vapor pressure"
+    },
+    {
+        "飽和 ; 飽和率": "saturation"
+    },
+    {
+        "飽和指數": "saturation exponent"
+    },
+    {
+        "飽和壓力": "saturation pressure"
+    },
+    {
+        "加護接頭 ; 防損接頭": "saver sub"
+    },
+    {
+        "方鑽桿保護接頭": "saver sub kelly"
+    },
+    {
+        "鋸齒狀爆破": "sawtooth blasting"
+    },
+    {
+        "梯階仰掘法": "sawtooth stopings"
+    },
+    {
+        "賽氏比色計 ; 色博比色計": "Saybolt chromometer"
+    },
+    {
+        "賽氏色度 ; 色博色度": "Saybolt color"
+    },
+    {
+        "賽氏色度計 ; 色博色度計": "Saybolt colorimeter"
+    },
+    {
+        "賽氏黏度計": "Saybolt viscosimeter"
+    },
+    {
+        "賽氏黏度": "Saybolt viscosity"
+    },
+    {
+        "鼓風爐": "scaffolding"
+    },
+    {
+        "水垢 ; 銹度 ; 保護膜": "scale"
+    },
+    {
+        "沉澱垢 ; 石蠟沉積": "scale deposit"
+    },
+    {
+        "防垢劑": "scale inhibitor"
+    },
+    {
+        "塊蠟": "scale wax"
+    },
+    {
+        "撬大石": "scaling"
+    },
+    {
+        "凹形穿孔器": "scallop gun"
+    },
+    {
+        "除砂 ; 裁瑕": "scalping"
+    },
+    {
+        "鈧": "scandium"
+    },
+    {
+        "掃瞄器": "scanner"
+    },
+    {
+        "掃瞄": "scanning"
+    },
+    {
+        "掃瞄式電子顯微鏡": "scanning electron  microscope"
+    },
+    {
+        "X光微探分析儀": "scanning electroprobe X-ray micro-analyser"
+    },
+    {
+        "翻鬆機": "scarifier"
+    },
+    {
+        "五輪天車": "scatter sheave crown"
+    },
+    {
+        "散射珈瑪線": "scattered gamma ray"
+    },
+    {
+        "清掃機": "scavenger"
+    },
+    {
+        "貧砂": "scavenger sand"
+    },
+    {
+        "清除": "scavenging"
+    },
+    {
+        "鼓風清掃機": "scavenging blower"
+    },
+    {
+        "澈選系統 ; 澈選系": "scavenging circuit"
+    },
+    {
+        "清除井孔": "scavenging the hole"
+    },
+    {
+        "鎢酸鈣礦 ; 白鎢礦": "scheelite"
+    },
+    {
+        "圖解": "schematic"
+    },
+    {
+        "史氏方程式": "Schilthuis' equation"
+    },
+    {
+        "片理": "schistosity"
+    },
+    {
+        "片岩": "schists"
+    },
+    {
+        "施蘭卜吉電測法": "Schlumberger method"
+    },
+    {
+        "施密特圖式(極座標地層傾向圖)": "Schmidt plot"
+    },
+    {
+        "閃光計數器 ; 閃爍計數計": "scintillation counter"
+    },
+    {
+        "旋轉斷層": "scissors fault"
+    },
+    {
+        "反跳硬度計": "scleroscope"
+    },
+    {
+        "反跳硬度試驗": "scleroscope hardness test"
+    },
+    {
+        "富錫礦石": "scone"
+    },
+    {
+        "撈匙 ; 兜 ; 勺子": "scoop"
+    },
+    {
+        "火山渣": "scoria"
+    },
+    {
+        "坩碟法": "scorification"
+    },
+    {
+        "坩碟": "scorifier"
+    },
+    {
+        "廢棄區坑道": "scouring"
+    },
+    {
+        "探察報告": "scout report"
+    },
+    {
+        "矽控制整流系統": "SCR system (silicon control rectifier system)"
+    },
+    {
+        "急停桿": "scram rods"
+    },
+    {
+        "金屬廢料": "scrap"
+    },
+    {
+        "殘值": "scrap value"
+    },
+    {
+        "炮孔清刮棒 ; 刮土機 ; 刮砂機 ; 耙礦機": "scraper"
+    },
+    {
+        "刮孔探煤兩用器": "scraper and break detector"
+    },
+    {
+        "多耙箱耙犁機": "scraper box plough"
+    },
+    {
+        "耙砂斗": "scraper bucket"
+    },
+    {
+        "鏈條輸送機": "scraper chain conveyor"
+    },
+    {
+        "刮送機": "scraper conveyor"
+    },
+    {
+        "耙礦機": "scraper loader"
+    },
+    {
+        "管線刮刀": "scraper pipe line"
+    },
+    {
+        "單刨箱耙犁機": "scraper plough"
+    },
+    {
+        "清管器出入管": "scraper trap"
+    },
+    {
+        "井壁刮刀": "scraper wall"
+    },
+    {
+        "清管器 ; 鋼絲刷": "scraper wire brush"
+    },
+    {
+        "刮刷": "scratch burshing"
+    },
+    {
+        "劃痕硬度試驗": "scratch test"
+    },
+    {
+        "清壁刷": "scratcher"
+    },
+    {
+        "陡坡腳碎石層": "scree"
+    },
+    {
+        "山腳碎鐵礦": "scree iron ore"
+    },
+    {
+        "陡坡腳碎石山崩": "scree slips"
+    },
+    {
+        "篩": "screen"
+    },
+    {
+        "過篩分析": "screen analysis"
+    },
+    {
+        "衝擊篩": "screen impact"
+    },
+    {
+        "篩管 ; 孔明管": "screen pipe"
+    },
+    {
+        "篩分試驗 ; 過篩試驗": "screen sizing test"
+    },
+    {
+        "過篩": "screening"
+    },
+    {
+        "篩析": "screening analysis"
+    },
+    {
+        "篩去物": "screenings"
+    },
+    {
+        "螺旋錐 ; 螺旋鑽": "screw auger"
+    },
+    {
+        "螺旋鐘": "screw bell"
+    },
+    {
+        "螺旋輸送機": "screw conveyor"
+    },
+    {
+        "螺旋扇風機": "screw fan"
+    },
+    {
+        "螺旋套": "screw socket"
+    },
+    {
+        "螺絲料": "screw stock"
+    },
+    {
+        "螺旋給進鑽機": "screwfeed machine"
+    },
+    {
+        "螺絲黃銅": "screwing brass"
+    },
+    {
+        "滌氣器 ; 清潔器 ; 分離器": "scrubber"
+    },
+    {
+        "滌氣塔": "scrubber tower"
+    },
+    {
+        "海底擴張[作用]": "sea-floor spreading"
+    },
+    {
+        "海底管線": "sea-loading line"
+    },
+    {
+        "海底山丘": "sea mount"
+    },
+    {
+        "海溝": "sea trench"
+    },
+    {
+        "海水泥漿": "sea water mud"
+    },
+    {
+        "密封牆": "seal"
+    },
+    {
+        "墊料": "seal element"
+    },
+    {
+        "填塞器密封圈": "seal packer"
+    },
+    {
+        "密封軸承鑽頭": "sealed bearing bit"
+    },
+    {
+        "封閉區": "sealed-off area"
+    },
+    {
+        "密封貯油層": "sealed reservoir"
+    },
+    {
+        "封閉": "sealing"
+    },
+    {
+        "堵塞劑 ; 堵漏劑": "sealing agents"
+    },
+    {
+        "層 ; 細脈 ; 縫": "seam"
+    },
+    {
+        "煤層構造": "seam structure"
+    },
+    {
+        "縫熔接 ; 縫焊": "seam welding"
+    },
+    {
+        "無縫套管": "seamless casing"
+    },
+    {
+        "無縫管": "seamless pipe"
+    },
+    {
+        "季裂": "season cracking"
+    },
+    {
+        "木材風乾": "seasoning timber"
+    },
+    {
+        "煤層底土": "seat earth"
+    },
+    {
+        "管座鞋 ; 安放鞋": "seating shoe"
+    },
+    {
+        "正割係數": "secant modulus"
+    },
+    {
+        "普遍礦": "second-class ore"
+    },
+    {
+        "礦柱回採": "second mining"
+    },
+    {
+        "第二出口": "second outlet"
+    },
+    {
+        "礦柱回採": "second working"
+    },
+    {
+        "二次空氣": "secondary air"
+    },
+    {
+        "二次爆破": "secondary blasting"
+    },
+    {
+        "蓄電池": "secondary cell"
+    },
+    {
+        "二期下水泥": "secondary cementing"
+    },
+    {
+        "二期潛變": "secondary creep"
+    },
+    {
+        "次生晶體": "secondary crystal"
+    },
+    {
+        "二次微分": "secondary derivative"
+    },
+    {
+        "次生富集": "secondary enrichment"
+    },
+    {
+        "二期生產": "secondary exploitation"
+    },
+    {
+        "補助風扇機": "secondary fan"
+    },
+    {
+        "二次硬化": "secondary hardening"
+    },
+    {
+        "重煉金屬": "secondary metal"
+    },
+    {
+        "二期移棲": "secondary migration"
+    },
+    {
+        "次生礦物": "secondary mineral"
+    },
+    {
+        "次生礦物質": "secondary mineral matter"
+    },
+    {
+        "二次相": "secondary phases"
+    },
+    {
+        "次生孔隙率": "secondary porosity"
+    },
+    {
+        "二期採油": "secondary production"
+    },
+    {
+        "二次淬火": "secondary quenching"
+    },
+    {
+        "二期可採原油": "secondary recoverable oil"
+    },
+    {
+        "二期採收": "secondary recovery"
+    },
+    {
+        "二期蘊藏量": "secondary reserve"
+    },
+    {
+        "二次直井": "secondary shaft"
+    },
+    {
+        "二次分流": "secondary splits"
+    },
+    {
+        "次生地層封閉": "secondary straigraphic trap"
+    },
+    {
+        "彼得礦脈 ; 次生脈": "secondary vein"
+    },
+    {
+        "回注地層水": "secondary water"
+    },
+    {
+        "剖面": "section"
+    },
+    {
+        "井口徑規": "section gauge"
+    },
+    {
+        "分管岩心筒": "sectional core barrel"
+    },
+    {
+        "分段式襯管": "sectional liner"
+    },
+    {
+        "套管磨銑器": "sectional mill"
+    },
+    {
+        "沉積物": "sediment"
+    },
+    {
+        "沉屑管": "sediment tube"
+    },
+    {
+        "沉積灰分": "sedimentary ash"
+    },
+    {
+        "沉積礦床": "sedimentary ore deposit"
+    },
+    {
+        "沉積岩": "sedimentary rock"
+    },
+    {
+        "沉積[作用]": "sedimentation"
+    },
+    {
+        "初步勘察報告": "see out report"
+    },
+    {
+        "席貝克效應": "Seebeck effect"
+    },
+    {
+        "晶種 ; 種晶": "seed crystal"
+    },
+    {
+        "滲水 ; 油苗 ; 油露頭": "seepage"
+    },
+    {
+        "色氏熔錐(測溫錐)": "Seger cones"
+    },
+    {
+        "扇形流孔板 ; 扇形孔口板": "segmental orifice plate"
+    },
+    {
+        "分結 ; 偏析作用": "segregation"
+    },
+    {
+        "感震強度": "seismic intensity"
+    },
+    {
+        "震測法": "seismic method"
+    },
+    {
+        "震波測勘 ; 震測": "seismic prospecting"
+    },
+    {
+        "[震波]反射法 ; 反射法震測": "seismic reflection method"
+    },
+    {
+        "[震波]折射法 ; 折射法震測": "seismic refraction method"
+    },
+    {
+        "震波炸測": "seismic shooting"
+    },
+    {
+        "震波測勘": "seismic survey"
+    },
+    {
+        "震波": "seismic waves"
+    },
+    {
+        "震波記錄 ; 地震記錄 ; 地震儀": "seismogram"
+    },
+    {
+        "地震儀 ; 震測儀": "seismograph"
+    },
+    {
+        "地震學家": "seismologist"
+    },
+    {
+        "地震學": "seismology"
+    },
+    {
+        "地震器": "seismoscone"
+    },
+    {
+        "膠執": "seizure"
+    },
+    {
+        "席兆耐熱擠法": "Sejournet process"
+    },
+    {
+        "局部滲炭": "selective carburizing"
+    },
+    {
+        "局部腐蝕": "selective corrosion"
+    },
+    {
+        "選擇充填": "selective filling"
+    },
+    {
+        "擇優浮選法": "selective flotation"
+    },
+    {
+        "選徑短座管": "selective landing nipple"
+    },
+    {
+        "局部交代作用": "selective metasomatism"
+    },
+    {
+        "選擇採礦 ; 選擇採掘": "selective mining"
+    },
+    {
+        "局部淬火": "selective quenching"
+    },
+    {
+        "局部硫化": "selective sulphatizing"
+    },
+    {
+        "封閉選擇 ; 局部封閉": "selective trapping"
+    },
+    {
+        "透石膏": "selenite"
+    },
+    {
+        "硒": "selenium"
+    },
+    {
+        "自動風門": "self-acting door"
+    },
+    {
+        "重力斜坡道": "self-acting incline"
+    },
+    {
+        "自動調整電弧熔接": "self-adjusting arc welding"
+    },
+    {
+        "自走支架": "self-advancing supports"
+    },
+    {
+        "自發退火": "self-annealing"
+    },
+    {
+        "自足海域工作台": "self-contained platform"
+    },
+    {
+        "自卸礦車 ; 自動卸車": "self-dumping car"
+    },
+    {
+        "自含熔劑礦砂": "self-fluxing ore"
+    },
+    {
+        "空冷硬化": "self-hardening"
+    },
+    {
+        "自裝式傾卸車": "self-loading dumper"
+    },
+    {
+        "自然電位": "self potential"
+    },
+    {
+        "自然電位電測[圖]": "self-potential log"
+    },
+    {
+        "自生電位探礦法": "self-potential method"
+    },
+    {
+        "自動礦燈室": "self-service lamproom"
+    },
+    {
+        "自動定時風速計": "self-timing anemometer"
+    },
+    {
+        "斷層泥": "selvage"
+    },
+    {
+        "細柔磨布": "selvyt cloth"
+    },
+    {
+        "間歇泵抽井": "semi-agitator"
+    },
+    {
+        "半無煙煤": "semi-anthracites"
+    },
+    {
+        "半自動控制": "semi-automatic control"
+    },
+    {
+        "半導體": "semi-conductors"
+    },
+    {
+        "半金屬的": "semi-metallic"
+    },
+    {
+        "半永久性鑄模": "semi-permanent moulds"
+    },
+    {
+        "鋼性鑄鐵 ; 半鋼 ; 鋼質鑄鐵": "semi-steel"
+    },
+    {
+        "半沉式": "semi-submersible"
+    },
+    {
+        "礦區探井": "semi-wildcat"
+    },
+    {
+        "荀茲曼壘輥冷軋機": "Sendzimer mill"
+    },
+    {
+        "顯熱": "sensible heat"
+    },
+    {
+        "靈敏度": "sensibility"
+    },
+    {
+        "靈敏炸藥": "sensitive explosive"
+    },
+    {
+        "感熱油料 ; 熱敏油料": "sensitive stocks"
+    },
+    {
+        "靈敏度 ; 敏感性 ; 感度": "sensitivity"
+    },
+    {
+        "感測器": "sensor"
+    },
+    {
+        "放炮守望人": "sentries"
+    },
+    {
+        "加強用鋼繩": "sentry wire"
+    },
+    {
+        "補助通風": "separate ventilation"
+    },
+    {
+        "選礦介質": "separating media"
+    },
+    {
+        "隔風門": "separation door"
+    },
+    {
+        "選礦機 ; 分礦器 ; 分離器": "separator"
+    },
+    {
+        "分離器天然氣": "separator gas"
+    },
+    {
+        "順序控制": "sequence control"
+    },
+    {
+        "多價螯合劑": "sequestering agent"
+    },
+    {
+        "絹雲母": "sericite"
+    },
+    {
+        "串聯電路點放": "series circuit firing"
+    },
+    {
+        "串並聯電路點放": "series parallel circuit"
+    },
+    {
+        "串聯通風法": "series ventilation"
+    },
+    {
+        "蛇紋石 ; 蛇紋岩": "serpentine"
+    },
+    {
+        "鋸齒狀銑鞋": "serrated drive shoe"
+    },
+    {
+        "勤務直井": "service shaft"
+    },
+    {
+        "加油站": "service station"
+    },
+    {
+        "不動差排": "sessile dislocation"
+    },
+    {
+        "支架組 ; 礦車列車 ; 輥碎機碎距": "set"
+    },
+    {
+        "立根 ; 鑽桿排立": "set back"
+    },
+    {
+        "安放套管": "set casing"
+    },
+    {
+        "安放套管": "set pipe"
+    },
+    {
+        "擬定點": "setting point"
+    },
+    {
+        "安放工具 ; 安定工具": "setting tool"
+    },
+    {
+        "沉實地帶": "settled ground"
+    },
+    {
+        "後期生產 ; 穩定產量": "settled production"
+    },
+    {
+        "沉陷": "settlement"
+    },
+    {
+        "沉澱槽 ; 沉降槽": "settler"
+    },
+    {
+        "沉澱槽": "setting ditch"
+    },
+    {
+        "沉澱池 ; 沉降池 ; 沉降 ; 沉降槽": "settling pit"
+    },
+    {
+        "沉降率": "settling rate"
+    },
+    {
+        "沉澱池 ; 沉降槽": "settling tank"
+    },
+    {
+        "凝結試驗 ; 沉降試驗": "settling test"
+    },
+    {
+        "沉降速度": "settling velocity"
+    },
+    {
+        "七點式水沖": "seven-spot flooding system"
+    },
+    {
+        "六點儀 ; 六分儀": "sextant"
+    },
+    {
+        "塞來氏煤分類法": "seyler's classification"
+    },
+    {
+        "連結環": "shackle"
+    },
+    {
+        "聯動繩": "shackle line"
+    },
+    {
+        "聯動桿": "shackle rod"
+    },
+    {
+        "聯桿傳動法 ; 聯桿傳動系統": "shackle rod system"
+    },
+    {
+        "掛釣工": "shackler"
+    },
+    {
+        "造影": "shadowing"
+    },
+    {
+        "直井 ; 礦井 ; 軸": "shaft"
+    },
+    {
+        "礦井裕度": "shaft allowance"
+    },
+    {
+        "直井能量": "shaft capacity"
+    },
+    {
+        "井口 ; 豎井圈": "shaft collar"
+    },
+    {
+        "直井管路": "shaft column"
+    },
+    {
+        "鑽孔法鑿井": "shaft drilling"
+    },
+    {
+        "直爐": "shaft furnace"
+    },
+    {
+        "直井導軌": "shaft guides"
+    },
+    {
+        "直井分出平巷點": "shaft inset"
+    },
+    {
+        "直井襯壁": "shaft lining"
+    },
+    {
+        "直井礦": "shaft mines"
+    },
+    {
+        "直井保安柱 ; 坑井保安柱": "shaft pillar"
+    },
+    {
+        "直井錘測量": "shaft plumbing"
+    },
+    {
+        "直井礦倉": "shaft pocket"
+    },
+    {
+        "井底站": "shaft siding"
+    },
+    {
+        "直井信號": "shaft signalling"
+    },
+    {
+        "直井開鑿 ; 礦井開鑿": "shaft sinking"
+    },
+    {
+        "鑿井用鑿岩機": "shaft-sinking drill"
+    },
+    {
+        "鑿井水泵 ; 吊式水泵": "shaft-sinking pump"
+    },
+    {
+        "直井站": "shaft station"
+    },
+    {
+        "直井測量": "shaft survey"
+    },
+    {
+        "直井襯壁 ; 直井壁": "shaft wall"
+    },
+    {
+        "鑄品脫模": "shake-out"
+    },
+    {
+        "聯動長桿及鋼繩": "shake rod and line"
+    },
+    {
+        "聯桿驅動": "shake rod system"
+    },
+    {
+        "搖動輸送機": "shaker conveyor"
+    },
+    {
+        "震盪喂礦機": "shaker feeder"
+    },
+    {
+        "搖動鏟裝礦機": "shaker-shovel loader"
+    },
+    {
+        "震盪溜礦槽": "shaking ore chute"
+    },
+    {
+        "搖動篩 ; 搖篩 ; 震盪篩": "shaking screen"
+    },
+    {
+        "震盪桌": "shaking table"
+    },
+    {
+        "頁岩": "shale"
+    },
+    {
+        "頁岩基線": "shale base line"
+    },
+    {
+        "頁岩夾層": "shale break"
+    },
+    {
+        "頁岩密度": "shale density"
+    },
+    {
+        "頁岩油": "shale oil"
+    },
+    {
+        "頁岩尖滅": "shale out"
+    },
+    {
+        "震動式泥裝篩": "shale shaker"
+    },
+    {
+        "頁岩質": "shaly"
+    },
+    {
+        "型鋼": "shape"
+    },
+    {
+        "形狀因素": "shape factor"
+    },
+    {
+        "內斜藥筒": "shaped charge"
+    },
+    {
+        "銑削": "shaping"
+    },
+    {
+        "持分原油": "share oil"
+    },
+    {
+        "碎裂": "shatter-cracks"
+    },
+    {
+        "平眼割眼式 ; 平眼抽心孔式": "shatter cut"
+    },
+    {
+        "耐碎試驗": "shatter test"
+    },
+    {
+        "蕭氏製模法": "Shaw process"
+    },
+    {
+        "剪裂 ; 剪床": "shear"
+    },
+    {
+        "剪切廠": "shear mill"
+    },
+    {
+        "剪力唇": "shear lip"
+    },
+    {
+        "剪力模數": "shear modulus"
+    },
+    {
+        "切梢": "shear pin"
+    },
+    {
+        "差壓控制閥 ; 安全洩壓閥": "shear relief value"
+    },
+    {
+        "剪力山崩": "shear slide"
+    },
+    {
+        "抗剪強度 ; 剪切強度": "shear strength"
+    },
+    {
+        "剪力試驗": "shear tests"
+    },
+    {
+        "膠黏力": "shear value"
+    },
+    {
+        "切變波 ; 橫波": "shear wave"
+    },
+    {
+        "剪碎帶": "shear zone"
+    },
+    {
+        "膠黏力測定器": "shearometer"
+    },
+    {
+        "套筒炸藥": "sheathed explosive"
+    },
+    {
+        "槽輪": "sheave"
+    },
+    {
+        "羊腳壓路機": "sheepsfoot roller"
+    },
+    {
+        "裂隙富礦": "sheet"
+    },
+    {
+        "片條": "sheet bar"
+    },
+    {
+        "片條機": "sheet bar mill"
+    },
+    {
+        "薄鋼片": "sheet-iron"
+    },
+    {
+        "剪裂帶": "sheeted ground"
+    },
+    {
+        "抽油桿卡箍": "shell buckle"
+    },
+    {
+        "殼模鑄造": "shell moulding"
+    },
+    {
+        "造殼注漿法": "shell-perm process"
+    },
+    {
+        "泥砂泵": "shell pump"
+    },
+    {
+        "西氏地面電阻測定儀": "shepard cane"
+    },
+    {
+        "觀望礦": "shepherding"
+    },
+    {
+        "滲鋅防銹法": "sherardising"
+    },
+    {
+        "屏蔽 ; 屏障 ; 地盾": "shield"
+    },
+    {
+        "屏蔽電弧熔接 ; 遮斷電弧熔接": "shielded arc welding"
+    },
+    {
+        "班 ; 移位": "shift"
+    },
+    {
+        "監工 ; 班主管": "shift boss"
+    },
+    {
+        "裡工工作": "shift work"
+    },
+    {
+        "墊隙片 ; 填隙片": "shim"
+    },
+    {
+        "脛骨保護器": "shin-bone protector"
+    },
+    {
+        "直接冶鍊礦": "shipping ore"
+    },
+    {
+        "漂石 ; 游散礦石": "shoad"
+    },
+    {
+        "游散礦石追尋": "shoading"
+    },
+    {
+        "減震器": "shock absorber"
+    },
+    {
+        "震動岩崩": "shock bump"
+    },
+    {
+        "震擊抵抗": "shock resistance"
+    },
+    {
+        "抗震鋼": "shock-resisting steel"
+    },
+    {
+        "震擊試驗": "shock test"
+    },
+    {
+        "震波": "shock wave"
+    },
+    {
+        "漂石 ; 游散礦石": "shode"
+    },
+    {
+        "蹄鐵 ; 鋼靴": "shoe"
+    },
+    {
+        "管鞋接頭": "shoe joint"
+    },
+    {
+        "井內泥砂泵": "shoe-shell"
+    },
+    {
+        "鞋帶狀貯油砂層": "shoestring sand pool"
+    },
+    {
+        "鞋帶狀砂岩封閉": "shoestring sand trap"
+    },
+    {
+        "可採礦帶 ; 富礦帶": "shoot"
+    },
+    {
+        "穿孔器": "shoot pipe"
+    },
+    {
+        "引爆員": "shooter"
+    },
+    {
+        "對比炸測": "shooting correlation"
+    },
+    {
+        "傾角炸測": "shooting dip"
+    },
+    {
+        "單向炸測": "shooting end"
+    },
+    {
+        "環列炸測": "shooting ring"
+    },
+    {
+        "水上炸測": "shooting water"
+    },
+    {
+        "蕭氏硬度": "Shore hardness"
+    },
+    {
+        "蕭氏反跳硬度刻度": "Shore hardness scale"
+    },
+    {
+        "蕭氏反跳度計": "Shore scleroscope"
+    },
+    {
+        "瞬遲發爆炸": "short-delay blasting"
+    },
+    {
+        "瞬遲發電管": "short-delay detonator"
+    },
+    {
+        "短程擠注法": "short squeeze"
+    },
+    {
+        "短螺紋接頭": "short thread joint"
+    },
+    {
+        "鑽串抽刷試驗": "short trip test"
+    },
+    {
+        "焰熱噴水硬化處理": "shorterising"
+    },
+    {
+        "短牆 ; 短壁": "shortwall"
+    },
+    {
+        "短壁切煤機 ; 短牆切煤機": "shortwall coal-cutter"
+    },
+    {
+        "短壁開採法": "shortwall development"
+    },
+    {
+        "獨炮": "shot"
+    },
+    {
+        "鋼珠鑽頭": "shot bit"
+    },
+    {
+        "珠粒噴擊": "shot-blasting"
+    },
+    {
+        "爆炸深度": "shot depth"
+    },
+    {
+        "鋼珠鑽 ; 鋼珠鑽井": "shot drill"
+    },
+    {
+        "鋼球鑽機樣品": "shot drill sample"
+    },
+    {
+        "放炮": "shot firing"
+    },
+    {
+        "炮孔 ; 炮眼 ; 炸孔": "shot hole"
+    },
+    {
+        "炸孔鑽機": "shot hole rig"
+    },
+    {
+        "引炸信號": "shot mark"
+    },
+    {
+        "製彈合金": "shot metal"
+    },
+    {
+        "噴珠法": "shot-peening"
+    },
+    {
+        "炸點 ; 震點": "shot point"
+    },
+    {
+        "瞬間點熔接": "shot welding"
+    },
+    {
+        "噴置混凝土": "shotcrete"
+    },
+    {
+        "電爆纜": "shotfiring cable"
+    },
+    {
+        "電爆纜試驗": "shotfiring cable tests"
+    },
+    {
+        "電爆電路": "shotfiring circuit"
+    },
+    {
+        "擋爆鏈式幕": "shotfiring curtain"
+    },
+    {
+        "炮孔排放炮": "shotfiring in rounds"
+    },
+    {
+        "邵其缺陷": "Shottky defect"
+    },
+    {
+        "鏟裝機 ; 裝礦機": "shovel loader"
+    },
+    {
+        "徵兆": "showing"
+    },
+    {
+        "縮套接頭": "shrink grip joint"
+    },
+    {
+        "收縮": "shrinkage"
+    },
+    {
+        "縮孔": "shrinkage cavity"
+    },
+    {
+        "收縮曲線": "shrinkage curve"
+    },
+    {
+        "收縮因數": "shrinkage factor"
+    },
+    {
+        "收縮孔穴": "shrinkage hole"
+    },
+    {
+        "縮管": "shrinkage pipe"
+    },
+    {
+        "積砂法採礦": "shrinkage stoping"
+    },
+    {
+        "縮裂": "shrinkage tear"
+    },
+    {
+        "收縮試驗": "shrinkage test"
+    },
+    {
+        "收縮套合": "shrinking on"
+    },
+    {
+        "縮套大接頭": "shrunk-on tool joint"
+    },
+    {
+        "目動迴車道": "shunt-back"
+    },
+    {
+        "關井停採 ; 停工": "shut-down pressure"
+    },
+    {
+        "關井": "shut-in"
+    },
+    {
+        "關井套管壓力": "shut-in casing pressure (SICP)"
+    },
+    {
+        "關井鑽桿壓力": "shut-in drill pipe pressure{=SIDP}"
+    },
+    {
+        "關井地層壓力": "shut-in formation pressure"
+    },
+    {
+        "關井壓力": "shut-in pressure"
+    },
+    {
+        "最高許可產量差": "shut-in production"
+    },
+    {
+        "封存油氣井": "shut-in storage"
+    },
+    {
+        "關閉井": "shut-in well"
+    },
+    {
+        "緊急關閉閥": "shut-off valve"
+    },
+    {
+        "塞門": "shutter"
+    },
+    {
+        "模板": "shuttering"
+    },
+    {
+        "梭子機煤車": "shuttle car"
+    },
+    {
+        "梭閥": "shuttle valve"
+    },
+    {
+        "水銀粉化": "sickening"
+    },
+    {
+        "側吹": "side blowing"
+    },
+    {
+        "開口撈籃": "side-door basket"
+    },
+    {
+        "側開吊卡": "side-door elevator"
+    },
+    {
+        "側卸礦車": "side-dumper"
+    },
+    {
+        "側通節流嘴": "side-ported choke"
+    },
+    {
+        "側掃聲納": "side-scan sonar"
+    },
+    {
+        "側震輸送帶": "side-shaking conveyor"
+    },
+    {
+        "側望遠鏡": "side telescope"
+    },
+    {
+        "側採岩心 ; 井壁採岩心": "side wall coring"
+    },
+    {
+        "井壁採岩樣": "side wall sample"
+    },
+    {
+        "菱鐵礦": "siderite"
+    },
+    {
+        "鐵肺症": "siderosis"
+    },
+    {
+        "側鑽": "sidetracking"
+    },
+    {
+        "側線": "sidings"
+    },
+    {
+        "西格班埃": "Siegbahn Ångstrom"
+    },
+    {
+        "西門子馬丁法 ; 平爐法": "Siemens-Martin process"
+    },
+    {
+        "篩綱 ; 篩": "sieve"
+    },
+    {
+        "過篩分析": "sieve analysis"
+    },
+    {
+        "篩孔規 ; 篩目": "sieve scale"
+    },
+    {
+        "印木 ; 封印木": "sigillaria"
+    },
+    {
+        "σ相": "sigma phase"
+    },
+    {
+        "丁烷瓦斯測定器": "sigma recording methanometer"
+    },
+    {
+        "S/N比": "signal noise ratio"
+    },
+    {
+        "信號系統": "signal system"
+    },
+    {
+        "信號系統": "signalling system"
+    },
+    {
+        "氧化矽 ; 矽石": "silica"
+    },
+    {
+        "矽磚": "silica brick"
+    },
+    {
+        "矽膠": "silica gel"
+    },
+    {
+        "高矽石岩石": "silica rock"
+    },
+    {
+        "矽砂 ; 玻璃砂": "silica sand"
+    },
+    {
+        "矽酸度": "silicate degree"
+    },
+    {
+        "碳酸氣製模法": "silicate process"
+    },
+    {
+        "水玻璃 ; 矽酸鈉": "silicate sodium"
+    },
+    {
+        "矽化封水法": "silicatization process"
+    },
+    {
+        "矽質": "siliceous"
+    },
+    {
+        "矽塵": "siliceous dust"
+    },
+    {
+        "矽質耐火泥": "siliceous fireclay"
+    },
+    {
+        "矽鏡鐵": "silico-spiegeleisen"
+    },
+    {
+        "矽錳合金": "silicomanganese"
+    },
+    {
+        "矽": "silicon"
+    },
+    {
+        "矽基滑脂": "silicon base grease"
+    },
+    {
+        "矽黃銅": "silicon brasses"
+    },
+    {
+        "矽青銅": "silicon bronzes"
+    },
+    {
+        "矽控制整流系統": "silicon control rectifier system (SCR)"
+    },
+    {
+        "矽石粉": "silicon flour"
+    },
+    {
+        "矽滑脂": "silicon grease"
+    },
+    {
+        "矽鐵片": "silicon iron sheet"
+    },
+    {
+        "矽鋼": "silicon steel"
+    },
+    {
+        "高矽鏡鐵": "siliconeison"
+    },
+    {
+        "矽樹脂": "silicones"
+    },
+    {
+        "滲矽[處理]": "siliconising"
+    },
+    {
+        "矽肺病": "silicosis"
+    },
+    {
+        "矽化作用": "silisification"
+    },
+    {
+        "絹絲光澤": "silky lustre"
+    },
+    {
+        "岩床 ; 海脊 ; 地標 ; 底木": "sill"
+    },
+    {
+        "起築層": "sill floor"
+    },
+    {
+        "矽線石": "sillimanite"
+    },
+    {
+        "微砂 ; 淤泥 ; 粉砂": "silt"
+    },
+    {
+        "粉砂岩": "siltstone"
+    },
+    {
+        "微砂土壤": "silty soil"
+    },
+    {
+        "銀鎢接點合金": "silvelmet"
+    },
+    {
+        "銀": "silver"
+    },
+    {
+        "銀汞膏 ; 銀汞齊": "silver amalgam"
+    },
+    {
+        "輝銀礦": "silver glance"
+    },
+    {
+        "銀鉛礦": "silver lead ore"
+    },
+    {
+        "鍍銀": "silver plating"
+    },
+    {
+        "矽錳鋁鐵": "simanal"
+    },
+    {
+        "簡單蒸餾": "simple distillation"
+    },
+    {
+        "單純性矽肺症": "simple silicosis"
+    },
+    {
+        "單純煤層分離": "simple split seam"
+    },
+    {
+        "同時替車": "simultaneous decking"
+    },
+    {
+        "單根 ; 單": "single"
+    },
+    {
+        "單動管制閥 ; 單動開[關]閥": "single acting control valve"
+    },
+    {
+        "單側開拓井底": "single approach pitbottom"
+    },
+    {
+        "單層完成": "single completion"
+    },
+    {
+        "單心電纜": "single conductor cable"
+    },
+    {
+        "單蕊電爆纜": "single-core shotfiring cable"
+    },
+    {
+        "單晶體 ; 單晶": "single crystal"
+    },
+    {
+        "單銀吊卡 ; 輕硬吊卡": "single elevator"
+    },
+    {
+        "單道進口": "single entry"
+    },
+    {
+        "單獨人力鑽孔": "single-hand drilling"
+    },
+    {
+        "單線吊斗架空索道": "single jig-back"
+    },
+    {
+        "單柱井架 ; 吊桿": "single mast"
+    },
+    {
+        "單相流動": "single phase flow"
+    },
+    {
+        "單輥碎礦機": "single-roll crusher"
+    },
+    {
+        "單軌斜坡道 ; 單軌索道": "single rope haulage"
+    },
+    {
+        "單排式爆炸": "single-row blasting"
+    },
+    {
+        "單照儀": "single shot"
+    },
+    {
+        "單照儀": "single-shot instrument"
+    },
+    {
+        "單管岩心筒": "single-tube core barrel"
+    },
+    {
+        "單單位制工作面": "single-unit panel"
+    },
+    {
+        "震旦紀": "Sinian"
+    },
+    {
+        "沉浮分析 ; 重液分析": "sink-float analysis"
+    },
+    {
+        "沉浮法 ; 重液選礦法 ; 沉浮選礦法": "sink-float process"
+    },
+    {
+        "鑿井工 ; 頓鑽工 ; 俯鑽機": "sinker"
+    },
+    {
+        "[上衝]加重桿(頓鑽)": "sinker bar"
+    },
+    {
+        "實心鑽鋌穩定器": "sinker bar guide"
+    },
+    {
+        "鑿井兩用工作台": "sinking and walling scafford"
+    },
+    {
+        "鑿井用吊桶": "sinking bucket"
+    },
+    {
+        "鑿井隊訓練": "sinker crew training"
+    },
+    {
+        "鑿井用吊桶": "sinking kibble"
+    },
+    {
+        "鑿井工作台": "sinking platform"
+    },
+    {
+        "鑿井水泵 ; 吊式水泵": "sinking pump"
+    },
+    {
+        "燒結 ; 泉華": "sinter"
+    },
+    {
+        "燒結工場": "sinter plant"
+    },
+    {
+        "燒結碳化物": "sintered carbides"
+    },
+    {
+        "燒結金屬製品": "sintered metal products"
+    },
+    {
+        "燒結": "sintering"
+    },
+    {
+        "燒結爐": "sintering furnace"
+    },
+    {
+        "燒結機": "sintering machine"
+    },
+    {
+        "燒結法": "sintering process"
+    },
+    {
+        "擾流": "sinuous flow"
+    },
+    {
+        "虹吸": "siphon"
+    },
+    {
+        "虹吸錶": "siphon gage"
+    },
+    {
+        "虹吸注油器": "siphon oiler"
+    },
+    {
+        "西洛哥扇風機": "Sirocco fan"
+    },
+    {
+        "場地調查": "site investigation"
+    },
+    {
+        "位置圖": "site plan"
+    },
+    {
+        "粒度減細": "size reduction"
+    },
+    {
+        "細塵選取器": "size selector"
+    },
+    {
+        "粒度分析": "sizing"
+    },
+    {
+        "整面過程": "sizing pass"
+    },
+    {
+        "分粒試驗": "sizing test"
+    },
+    {
+        "製管條板": "skelp"
+    },
+    {
+        "滑座式電測儀": "skid mounted loging unit"
+    },
+    {
+        "滑漿磨光": "skid polishing"
+    },
+    {
+        "滑軌": "skid rail"
+    },
+    {
+        "滑座式鑽機": "skid rig"
+    },
+    {
+        "滑動移位": "skiding"
+    },
+    {
+        "平土 ; 撇碴 ; 直餾": "skimming"
+    },
+    {
+        "油水分離池": "skimming pit"
+    },
+    {
+        "浮渣": "skimping"
+    },
+    {
+        "表面乾模": "skin-drying mold"
+    },
+    {
+        "膚表效應 ; 表皮效應": "skin effect"
+    },
+    {
+        "膚表因數": "skin factor"
+    },
+    {
+        "皮膜浮選": "skin flotation"
+    },
+    {
+        "整面過程": "skin-pass"
+    },
+    {
+        "礦兜 ; 巧籠": "skip"
+    },
+    {
+        "礦兜滑動門": "skip guillotine door"
+    },
+    {
+        "礦兜運輸": "skip haulage"
+    },
+    {
+        "礦兜導軌": "skip track"
+    },
+    {
+        "礦兜捲揚": "skip winding"
+    },
+    {
+        "跳躍週期": "skipped cycle"
+    },
+    {
+        "煤巷壁採": "skipping"
+    },
+    {
+        "褶樁": "skirt pile"
+    },
+    {
+        "煤柱壁採": "skirting"
+    },
+    {
+        "太空實驗室": "sky lab"
+    },
+    {
+        "軋錠扁鋼板 ; 坑道支架墊板 ; 岩板": "slab"
+    },
+    {
+        "分次割眼式 ; 分次抽心孔式": "slabbing cut"
+    },
+    {
+        "軋片機": "slabbing mill"
+    },
+    {
+        "屑煤": "slack"
+    },
+    {
+        "座重": "slack-off weight"
+    },
+    {
+        "軟蠟 ; 粗蠟": "slack wax"
+    },
+    {
+        "熔渣": "slag"
+    },
+    {
+        "熔渣磚": "slag brick"
+    },
+    {
+        "溶渣水泥": "slag cement"
+    },
+    {
+        "出渣口": "slag notch"
+    },
+    {
+        "積渣室": "slag pocket"
+    },
+    {
+        "渣池": "slag pond"
+    },
+    {
+        "熔渣流道": "slag runner"
+    },
+    {
+        "熔渣綿": "slag wool"
+    },
+    {
+        "消石灰 ; 熟石灰": "slaked lime"
+    },
+    {
+        "消和 ; 沸化": "slaking"
+    },
+    {
+        "斜坑": "slant"
+    },
+    {
+        "定向井 ; 斜井": "slant well"
+    },
+    {
+        "板岩": "slate"
+    },
+    {
+        "板岩劈理": "slaty cleavage"
+    },
+    {
+        "枕木": "sleepers"
+    },
+    {
+        "套筒閥": "sleeve valve"
+    },
+    {
+        "層 ; 片": "slice"
+    },
+    {
+        "分層開採 ; 頂層分條開採": "slicing"
+    },
+    {
+        "轉車鋼板 ; 迎頭綱板": "slick sheet"
+    },
+    {
+        "鏡 ; 鏡肌 ; 斷層擦痕 ; 擦面": "slickensides"
+    },
+    {
+        "山崩 ; 滑動": "slide"
+    },
+    {
+        "捲移鑽繩": "slide drilling line"
+    },
+    {
+        "滑動閥": "slide-valve"
+    },
+    {
+        "滑動軸心": "sliding mandrel"
+    },
+    {
+        "滑動工資制度": "sliding scale system"
+    },
+    {
+        "滑動側門": "sliding side door"
+    },
+    {
+        "側滑門 ; 滑筒": "sliding sleeve"
+    },
+    {
+        "小孔": "slim hole"
+    },
+    {
+        "小型鑽機": "slim hole rig"
+    },
+    {
+        "細粉物 ; 砂漿 ; 礦漿 ; 漿沫": "slime"
+    },
+    {
+        "漿沫包膜": "slime coating"
+    },
+    {
+        "瀝青": "slimepits"
+    },
+    {
+        "漿沫法": "sliming method"
+    },
+    {
+        "吊索 ; 吊鏈 ; 吊環": "sling"
+    },
+    {
+        "旋轉濕度計": "sling hygrometer"
+    },
+    {
+        "坍山 ; 節理 ; 割目 ; 斷層 ; 滑移量 ; 滑減量 ; 滑動": "slip"
+    },
+    {
+        "封掛裝置": "slip and seat assembly"
+    },
+    {
+        "滑鑄": "slip castings"
+    },
+    {
+        "卡抓": "slip grip"
+    },
+    {
+        "卡鈎": "slip hook"
+    },
+    {
+        "滑動干涉論": "slip interference theory"
+    },
+    {
+        "卡瓦式套筒": "slip socket"
+    },
+    {
+        "卡瓦式撈碗": "slip socket overshot"
+    },
+    {
+        "井口油桿": "slip stick"
+    },
+    {
+        "卡瓦 ; 油管吊掛": "slip suspension"
+    },
+    {
+        "卡瓦式吊卡": "slip type elevator"
+    },
+    {
+        "滑降速度": "slip velocity"
+    },
+    {
+        "滑降效應 ; 滑動效應": "slippage effect"
+    },
+    {
+        "卡瓦": "slips"
+    },
+    {
+        "傾斜度 ; 斜坑 ; 斜井 ; 斷層補角 ; 褶皺翼": "slope"
+    },
+    {
+        "斜坑礦": "slope mine"
+    },
+    {
+        "溝縫劈楔岩栓": "slot-and-wedge bolt"
+    },
+    {
+        "槽孔管": "slotted pipe"
+    },
+    {
+        "崩潰 ; 崩塌": "sloughing"
+    },
+    {
+        "崩潰頁岩": "sloughing shale"
+    },
+    {
+        "緩慢彎曲試驗": "slow-bend test"
+    },
+    {
+        "慢速中子": "slow neutrons"
+    },
+    {
+        "緩凝水泥": "slow setting cement"
+    },
+    {
+        "流漿 ; 淤漿 ; 淤泥": "sludge"
+    },
+    {
+        "廢漿管制 ; 淤泥消除": "sludge abatement"
+    },
+    {
+        "泥漿箱": "sludge box"
+    },
+    {
+        "泥漿樣品": "sludge sample"
+    },
+    {
+        "砂泵": "sludger"
+    },
+    {
+        "泵入重泥漿": "slug the pipe"
+    },
+    {
+        "射水法採礦 ; 溜洗槽": "sluice"
+    },
+    {
+        "溢流泥": "slum"
+    },
+    {
+        "炸藥節吊裝": "slung cartridges"
+    },
+    {
+        "泥漿 ; 漿體 ; 泥煤漿 ; 漿劑 ; 乳劑": "slurry"
+    },
+    {
+        "泥砂汲筒": "slush bucket"
+    },
+    {
+        "瀝鑄法": "slush casting"
+    },
+    {
+        "防銹油": "slush oil"
+    },
+    {
+        "泥漿池": "slush pit"
+    },
+    {
+        "泥漿泵": "slush pump"
+    },
+    {
+        "耙礦機": "slusher"
+    },
+    {
+        "尾砂充填 ; 耙礦": "slushing"
+    },
+    {
+        "耙礦巷": "slushing drift"
+    },
+    {
+        "兩合電測解釋": "small slam"
+    },
+    {
+        "砷鈷礦": "smaltite"
+    },
+    {
+        "冶煉場 ; 冶煉業者": "smelter"
+    },
+    {
+        "冶煉場": "smeltery"
+    },
+    {
+        "冶煉 ; 熔煉": "smelting"
+    },
+    {
+        "菱鋅礦": "smithsonite"
+    },
+    {
+        "煙": "smoke"
+    },
+    {
+        "防煙盔": "smoke helmet"
+    },
+    {
+        "發煙點": "smoke point"
+    },
+    {
+        "風速煙測": "smoke test"
+    },
+    {
+        "測風煙管": "smoke tube"
+    },
+    {
+        "低煙質煙煤": "smokeless coal"
+    },
+    {
+        "光面爆破": "smooth blasting"
+    },
+    {
+        "光面捲筒": "smooth-faced drum"
+    },
+    {
+        "光輸壓路機": "smooth-wheel roller"
+    },
+    {
+        "蛇炮孔": "snake hole"
+    },
+    {
+        "蛇穴法解大石": "snake holing"
+    },
+    {
+        "蛇進": "snaking"
+    },
+    {
+        "裝甲伸縮輸送機": "snaking conveyor"
+    },
+    {
+        "壓扣設置器": "snap latch setting tool"
+    },
+    {
+        "帶罩單滑車": "snatch block"
+    },
+    {
+        "鑽井工作自動記錄器": "snitch"
+    },
+    {
+        "濾管": "snore"
+    },
+    {
+        "抑壓惰輪": "snub pulley"
+    },
+    {
+        "高壓降管設備": "snubbing device"
+    },
+    {
+        "制壓裝置": "snubbing gear"
+    },
+    {
+        "大鉗安全繩柱": "snubbing post"
+    },
+    {
+        "抗壓下油管": "snubbing tubing"
+    },
+    {
+        "浸潤劑": "soaking agent"
+    },
+    {
+        "均熱爐": "soaking pit"
+    },
+    {
+        "浸泡液": "soaking solution"
+    },
+    {
+        "皂選法": "soaking flotation"
+    },
+    {
+        "皂石": "soapstone"
+    },
+    {
+        "膩感 ; 油感": "soapy feel"
+    },
+    {
+        "SAE等級潤滑油料": "Society of Automotive Engineer (SAE)oil oil"
+    },
+    {
+        "索帽 ; 承窩 ; 撈筒 ; 套管 ; 管節 ; 挿座": "socket"
+    },
+    {
+        "蘇打硫酸式滅火器": "soda acid fire extinguisher"
+    },
+    {
+        "鹼灰 ; 蘇打灰": "soda ash"
+    },
+    {
+        "鈉基潤滑脂": "soda base grease"
+    },
+    {
+        "地層傾角 ; 傾向表示圖": "soda plot"
+    },
+    {
+        "蘇德氏電極": "Soderberg electrode"
+    },
+    {
+        "鈉": "sodium"
+    },
+    {
+        "鈉汞膏 ; 鈉汞齊": "sodium amalgam"
+    },
+    {
+        "鈉基滑脂": "sodium base grease"
+    },
+    {
+        "碳酸氫鈉 ; 小蘇打": "sodium bicarbonate"
+    },
+    {
+        "重鉻酸鈉": "sodium bichromate"
+    },
+    {
+        "碳酸鈉 ; 鹼灰 ; 蘇打": "sodium carbonate"
+    },
+    {
+        "鈉質纖維素": "sodium carboxymethyl cellulose"
+    },
+    {
+        "氯化鈉 ; 食鹽": "sodium chloride"
+    },
+    {
+        "鉻酸鈉": "sodium chromate"
+    },
+    {
+        "氰化鈉": "sodium cyanide"
+    },
+    {
+        "苛性鈉 ; 氫氧化鈉": "sodium hydroxide"
+    },
+    {
+        "油酸鈉": "sodium olerate"
+    },
+    {
+        "軟脂酸鈉": "sodium palmitate"
+    },
+    {
+        "磷酸鈉": "sodium polyacrylate"
+    },
+    {
+        "矽酸鈉泥漿 ; 水玻璃泥漿": "sodium silicate mud"
+    },
+    {
+        "硫化鈉": "sodium sulphide"
+    },
+    {
+        "軟退火線": "soft-annealed wire"
+    },
+    {
+        "軟鐵": "soft iron"
+    },
+    {
+        "軟鉛": "soft-lead"
+    },
+    {
+        "軟瀝青": "soft-pitch"
+    },
+    {
+        "軟質焊藥": "soft-solder"
+    },
+    {
+        "軟水": "soft water"
+    },
+    {
+        "軟化": "softening"
+    },
+    {
+        "柔鉛爐": "softening furnace"
+    },
+    {
+        "軟化點": "softing point"
+    },
+    {
+        "土壤 ; 土": "soil"
+    },
+    {
+        "土壤分析圖": "soil analysis map"
+    },
+    {
+        "土壤載重量": "soil bearing capacity"
+    },
+    {
+        "土壤水泥膠結": "soil cement"
+    },
+    {
+        "土壤分類": "soil classification"
+    },
+    {
+        "土壤分類試驗": "soil classification tests"
+    },
+    {
+        "土壤岩心": "soil core"
+    },
+    {
+        "土壤蠕動": "soil creep"
+    },
+    {
+        "土壤密度": "soil density"
+    },
+    {
+        "土壤力學": "soil mechanics"
+    },
+    {
+        "導管": "soil pipe"
+    },
+    {
+        "土壤初步分類": "soil preliminary classification"
+    },
+    {
+        "土壤剖面圖": "soil profile"
+    },
+    {
+        "土壤取樣筒": "soil-sampling tube"
+    },
+    {
+        "土壤強固": "soil stabilization"
+    },
+    {
+        "土壤調查": "soil survey"
+    },
+    {
+        "焊劑": "solder"
+    },
+    {
+        "水溶焊劑": "solder paint"
+    },
+    {
+        "焊接": "soldering"
+    },
+    {
+        "硫質噴氣孔": "solfatara"
+    },
+    {
+        "固體滲碳": "solid carburising"
+    },
+    {
+        "固粒含量": "solid content"
+    },
+    {
+        "固粒控制": "solid control"
+    },
+    {
+        "固體燃料": "solid fuel"
+    },
+    {
+        "固體侵入": "solid invasion"
+    },
+    {
+        "固體潤滑劑": "solid lubricants"
+    },
+    {
+        "硬地層地質圖 ; 基岩圖": "solid map"
+    },
+    {
+        "實充填": "solid packing"
+    },
+    {
+        "固體石油": "solid petroleum"
+    },
+    {
+        "凝固點": "solid point"
+    },
+    {
+        "固體低煙燃料": "solid smokeless fuel"
+    },
+    {
+        "固溶溶解度": "solid solubility"
+    },
+    {
+        "固溶溶解限": "solid solubility limit"
+    },
+    {
+        "固溶體 ; 固體溶液": "solid solution"
+    },
+    {
+        "實充填": "solid stowing"
+    },
+    {
+        "凝固 ; 固化": "solidification"
+    },
+    {
+        "凝固點 ; 固化點": "solidifying point"
+    },
+    {
+        "砂泵": "solids-handling pump"
+    },
+    {
+        "固相線": "solidus"
+    },
+    {
+        "堆礦台 ; 井梯站台": "sollar"
+    },
+    {
+        "溶解度": "solubility"
+    },
+    {
+        "溶解度曲線": "solubility curve"
+    },
+    {
+        "互溶度": "solubility mutual"
+    },
+    {
+        "陽極電解[法]": "soluble anode processes"
+    },
+    {
+        "溶質": "solute"
+    },
+    {
+        "溶液": "solution"
+    },
+    {
+        "溶解裂隙": "solution cavities"
+    },
+    {
+        "溶解氣": "solution gas"
+    },
+    {
+        "溶解氣驅": "solution gas drive"
+    },
+    {
+        "溶解氣油比": "solution gas-oil ratio"
+    },
+    {
+        "溶解孔隙率": "solution porosity"
+    },
+    {
+        "固溶處理": "solution treatment"
+    },
+    {
+        "溶解力": "solvency"
+    },
+    {
+        "溶劑": "solvent"
+    },
+    {
+        "溶劑脫蠟": "solvent dewaxing"
+    },
+    {
+        "溶劑油": "solvent naphtha"
+    },
+    {
+        "溶解力": "solvent power"
+    },
+    {
+        "固溶線": "solvus"
+    },
+    {
+        "聲納計": "sonargage"
+    },
+    {
+        "測井電極": "sonde"
+    },
+    {
+        "電極體誤差": "sonde error"
+    },
+    {
+        "音波疲勞": "sonic fatigue"
+    },
+    {
+        "感音計": "sonic gauge"
+    },
+    {
+        "音波電測 ; 聲波井錄": "sonic logging"
+    },
+    {
+        "音波檢驗法 ; 聲波檢驗法": "sonic testing"
+    },
+    {
+        "水金屬夾雜物": "sonims"
+    },
+    {
+        "糙斑鐵": "sorbite"
+    },
+    {
+        "吸附作用": "sorption"
+    },
+    {
+        "揀選 ; 淘遷 ; 分選 ; 分類 ; 分級": "sorting"
+    },
+    {
+        "發音器 ; 發聲器": "sound generator"
+    },
+    {
+        "音測 ; 海深探測": "sounding"
+    },
+    {
+        "頂磐敲探": "sounding the roof"
+    },
+    {
+        "發源地": "source area"
+    },
+    {
+        "生油層 ; 成油層": "source bed (rock)"
+    },
+    {
+        "酸蝕": "sour corrosion"
+    },
+    {
+        "高硫分原油": "sour crude"
+    },
+    {
+        "酸氣": "sour gas"
+    },
+    {
+        "酸水": "sour water"
+    },
+    {
+        "酸油氣井": "sour well"
+    },
+    {
+        "自然電位電測[圖] ; 自生電位電測[圖]": "S.P. log"
+    },
+    {
+        "空間格子": "space lattices"
+    },
+    {
+        "間隔裝藥": "spaced loaging"
+    },
+    {
+        "斜坑座車": "spake"
+    },
+    {
+        "剝離": "spalling"
+    },
+    {
+        "跨距": "span"
+    },
+    {
+        "晶石": "spar"
+    },
+    {
+        "預備工作面": "spare face"
+    },
+    {
+        "火星點燃引擎": "spark ignition engine"
+    },
+    {
+        "放電加工": "spark machining"
+    },
+    {
+        "火花試驗": "spark test"
+    },
+    {
+        "菱鐵礦": "spathose iron"
+    },
+    {
+        "碎礦石": "spawl"
+    },
+    {
+        "撈矛 ; 油管清掃棒": "spear"
+    },
+    {
+        "美國石油學會規範": "specification API"
+    },
+    {
+        "美國材料檢驗協會規範": "specification ASTM"
+    },
+    {
+        "比制震能": "specific damping capacity"
+    },
+    {
+        "比重": "specific gravity"
+    },
+    {
+        "比重校正因數": "specific gravity factor"
+    },
+    {
+        "比熱": "specific heat"
+    },
+    {
+        "比電阻 ; 電阻係數": "specific resistance"
+    },
+    {
+        "比面積": "specific surface"
+    },
+    {
+        "比韌性": "specific tenacity"
+    },
+    {
+        "比黏度": "specific viscosity"
+    },
+    {
+        "比容積": "specific volume"
+    },
+    {
+        "沉積物比重": "specific weight of sediment"
+    },
+    {
+        "標本 ; 樣品 ; 試樣": "specimen"
+    },
+    {
+        "珈瑪能譜電測圖[井錄]": "spectral gamma-ray log"
+    },
+    {
+        "光譜符號 ; 光譜特性": "spectral signature"
+    },
+    {
+        "攝譜儀 ; 光譜儀": "spectrograph"
+    },
+    {
+        "分光計": "spectrometer"
+    },
+    {
+        "分光光度計": "spectrophotometer"
+    },
+    {
+        "分光高溫度": "spectropyrometer"
+    },
+    {
+        "分光鏡 ; 光譜鏡": "spectroscope"
+    },
+    {
+        "鏡鐵礦": "specular-iron"
+    },
+    {
+        "鏡銅": "speculum"
+    },
+    {
+        "鏡青銅": "speculum metal"
+    },
+    {
+        "快速水份測定器": "speedy moisture tester"
+    },
+    {
+        "砷銻溶渣": "speiss"
+    },
+    {
+        "商業鋅 ; 粗鋅 ; 硬焊黃銅 ; 鋅鑄品": "spelter"
+    },
+    {
+        "閃鋅礦": "sphalerite"
+    },
+    {
+        "球面收差": "spherical aberration"
+    },
+    {
+        "弧形壩": "spherical dam"
+    },
+    {
+        "球形聚式電測[井錄]": "spherically focused log"
+    },
+    {
+        "球[狀石]墨鑄鐵": "spheroidal graphite cast-iron"
+    },
+    {
+        "球化雪明碳鐵": "spheroidized cementite"
+    },
+    {
+        "球化處理": "spheroidising"
+    },
+    {
+        "卡盤": "spider"
+    },
+    {
+        "卡盤襯套": "spider liner"
+    },
+    {
+        "[高錳]鏡鐵": "spiegel"
+    },
+    {
+        "[低錳]鏡鐵": "spiegeleisen"
+    },
+    {
+        "公管頭": "spigot end of pipe"
+    },
+    {
+        "照射損傷 ; 道釘": "spike"
+    },
+    {
+        "打扦 ; 打挿板": "spiling"
+    },
+    {
+        "扦板 ; 挿板": "spill"
+    },
+    {
+        "溢出點": "spill point"
+    },
+    {
+        "溢礦接受輸送機": "spillage conveyor"
+    },
+    {
+        "溢礦接受礦倉": "spillage pit"
+    },
+    {
+        "打扦鑿進法 ; 打挿板鑿進法": "spilling"
+    },
+    {
+        "錠子油": "spindle  oil"
+    },
+    {
+        "尖晶石": "spinel"
+    },
+    {
+        "緊扣器": "spinner hawk"
+    },
+    {
+        "旋穹成形 ; 旋轉": "spinning"
+    },
+    {
+        "緊扣鏈": "spinning chain"
+    },
+    {
+        "緊扣繩": "spinning line"
+    },
+    {
+        "緊扣接頭": "spinning sub"
+    },
+    {
+        "螺旋式溜煤槽": "spiral chute"
+    },
+    {
+        "螺旋分級機": "spiral-classifier"
+    },
+    {
+        "螺旋式分煤機 ; 螺旋洗煤機": "spiral coal cleaner"
+    },
+    {
+        "螺旋選礦機": "spiral concentrator"
+    },
+    {
+        "螺旋喂礦機": "spiral feeder"
+    },
+    {
+        "盤旋道路": "spiral track"
+    },
+    {
+        "盤旋隧道": "spiral tunnel"
+    },
+    {
+        "螺線焊縫套管": "spiral weld sheet metal casing"
+    },
+    {
+        "螺線焊縫套管": "spiral welded casing"
+    },
+    {
+        "無限螺旋桿": "spiral worm"
+    },
+    {
+        "汽油": "spirit petroleum"
+    },
+    {
+        "噴渣": "spitting"
+    },
+    {
+        "漏斗形分級機": "spitzkasten"
+    },
+    {
+        "濺給油法": "splash lubrication"
+    },
+    {
+        "飛濺區": "splash zone"
+    },
+    {
+        "濺注油法 ; 飛濺油潤": "splashing oiling"
+    },
+    {
+        "鋼索接頭 ; 繩索絞接": "splice"
+    },
+    {
+        "接繩工具 ; 絞結工具": "splicing outfit"
+    },
+    {
+        "指軸 ; 心軸": "splindle"
+    },
+    {
+        "燭煤": "splint coal"
+    },
+    {
+        "多片狀": "splintery"
+    },
+    {
+        "風分流 ; 分支煤層": "split"
+    },
+    {
+        "切開岩心": "split core"
+    },
+    {
+        "[算數與對數]並列圖(電測)": "split grid"
+    },
+    {
+        "分割砂模": "split mold"
+    },
+    {
+        "分割模型": "split pattern"
+    },
+    {
+        "煤層分離": "split seam"
+    },
+    {
+        "分列展開": "split spread"
+    },
+    {
+        "分裂變態": "split transformation"
+    },
+    {
+        "片狀吊掛": "split type hanger"
+    },
+    {
+        "套管割裂器": "spliter casing"
+    },
+    {
+        "分流通風": "splitting of air"
+    },
+    {
+        "樣品縮減": "splitting of samples"
+    },
+    {
+        "捨石場": "spoil bank"
+    },
+    {
+        "廢石堆": "spoil heap"
+    },
+    {
+        "廢石堆發火": "spoil heap fire"
+    },
+    {
+        "海綿金": "sponge gold"
+    },
+    {
+        "海綿狀滑脂": "sponge grease"
+    },
+    {
+        "海綿鐵": "sponge iron"
+    },
+    {
+        "自然發火 ; 自燃": "spontaneous combustion"
+    },
+    {
+        "自生電位 ; 自然電位": "spontaneous potential"
+    },
+    {
+        "井口雙法蘭接頭": "spool flange"
+    },
+    {
+        "炮孔清刮棒": "spoon"
+    },
+    {
+        "間隔採岩心": "spot coring"
+    },
+    {
+        "滴點試驗": "spot test"
+    },
+    {
+        "點焊 ; 點熔接": "spot welding"
+    },
+    {
+        "小移動 ; 泵置": "spotting"
+    },
+    {
+        "零用捲揚機": "spotting hoist"
+    },
+    {
+        "井內間隔注油": "spotting oil"
+    },
+    {
+        "星點礦": "spotting  ore"
+    },
+    {
+        "井噴": "spout"
+    },
+    {
+        "噴井": "spouter"
+    },
+    {
+        "斜撐柱 ; 制輪棒": "sprags"
+    },
+    {
+        "噴灑冷凝器 ; 淋水冷凝器": "spray condenser"
+    },
+    {
+        "噴[霧]嘴": "spray nozzle"
+    },
+    {
+        "噴水淬水": "spray quenching"
+    },
+    {
+        "滴焊": "spray transfer"
+    },
+    {
+        "霧帶": "spray zone"
+    },
+    {
+        "噴金處理": "sprayed metal coating"
+    },
+    {
+        "噴霧器 ; 噴水車": "sprayer"
+    },
+    {
+        "噴霧機": "spraying machine"
+    },
+    {
+        "噴水器": "sprays"
+    },
+    {
+        "噴熔法": "sprayweld process"
+    },
+    {
+        "平碴機": "spreader"
+    },
+    {
+        "無頭釘 ; 加強釘": "sprigs"
+    },
+    {
+        "彈簧黃銅": "spring brass"
+    },
+    {
+        "彈簧螯": "spring dart"
+    },
+    {
+        "彈簧油": "spring oil"
+    },
+    {
+        "彈性桿": "spring pole"
+    },
+    {
+        "彈簧輥碎機": "spring roll crusher"
+    },
+    {
+        "彈簧鋼": "spring steel"
+    },
+    {
+        "炸藥室": "springing"
+    },
+    {
+        "平環鏈 ; 扁環鏈": "sprocket chain"
+    },
+    {
+        "直澆置": "sprue"
+    },
+    {
+        "開鑽頓具 ; 沖洗矛": "spud"
+    },
+    {
+        "粗泥漿": "spud mud"
+    },
+    {
+        "淺井鑽機 ; 輕便頓鑽鑽機": "spudder"
+    },
+    {
+        "起斜衛進 ; 開鑽": "spudding"
+    },
+    {
+        "淺鑽鑽頭 ; 側沖鑽頭": "spudding bit"
+    },
+    {
+        "表土頓鑽鑽孔": "spudding boreholes"
+    },
+    {
+        "開鑽": "spudding-in"
+    },
+    {
+        "拉筋繩扣": "spudding shoe"
+    },
+    {
+        "岔出石英脈": "spurs"
+    },
+    {
+        "電測解釋師學會": "SPWLA(Society of Professional Wire Line Analyst)"
+    },
+    {
+        "方鑽鋌": "square drill collar"
+    },
+    {
+        "平方律（差排）": "square rule"
+    },
+    {
+        "方孔篩": "square screen"
+    },
+    {
+        "方棚架 ; 方格架 ; 方棚木架": "square set"
+    },
+    {
+        "方架塊狀陷落法": "square-set block caving"
+    },
+    {
+        "方架工作面": "square-set stopes"
+    },
+    {
+        "方架採礦法": "square-set stoping"
+    },
+    {
+        "擠彎 ; 擠壓": "squeeze"
+    },
+    {
+        "擠壓製模機": "squeeze molding machine"
+    },
+    {
+        "擠水泥工作 ; 擠壓工作": "squeeze job"
+    },
+    {
+        "擠壓器": "squeezers"
+    },
+    {
+        "引火線": "squib"
+    },
+    {
+        "引爆藥": "squib shot"
+    },
+    {
+        "快套接頭": "squinch joint"
+    },
+    {
+        "單側帶傳輸": "SSB (single-sideband)transmission"
+    },
+    {
+        "賽氏秒數（油黏度單位）": "SSU (seconds Saybolt Universal)"
+    },
+    {
+        "半沉式補給船": "SSV (semi-submersible supply vessel)"
+    },
+    {
+        "入扣 ; 挿入": "stab"
+    },
+    {
+        "次割眼 ; 輔助抽心孔": "stab hole"
+    },
+    {
+        "挿管式下水泥": "stab-in cementing"
+    },
+    {
+        "襯管接回管": "stab liner string"
+    },
+    {
+        "二棚踏板": "stabbing board"
+    },
+    {
+        "穩定測定計": "stablity meter"
+    },
+    {
+        "穩定管串": "stabilized assembly"
+    },
+    {
+        "穩定性氧化鋯": "stabilized zirconia"
+    },
+    {
+        "穩定器 ; 穩定塔 ; 安定劑": "stabilizer"
+    },
+    {
+        "穩定處理": "stabilizing"
+    },
+    {
+        "切煤機先進巷 ; 坑內馬厩": "stable"
+    },
+    {
+        "煙道 ; 岩柱 ; 石柱": "stack"
+    },
+    {
+        "煙道損失": "stack loss"
+    },
+    {
+        "煙道溫度": "stack temperature"
+    },
+    {
+        "疊積缺層": "stacking faults"
+    },
+    {
+        "測距儀": "stadia"
+    },
+    {
+        "測距棒": "stadia rod"
+    },
+    {
+        "測距儀": "stadimeter"
+    },
+    {
+        "分段下水泥": "stage cementing"
+    },
+    {
+        "段箍(分段下水泥)": "stage collar"
+    },
+    {
+        "轉接輸送機": "stage loader"
+    },
+    {
+        "分段分離 ; 汽提": "stage separation"
+    },
+    {
+        "分段捲揚": "stage winding"
+    },
+    {
+        "差肩炮眼": "staggered blast holes"
+    },
+    {
+        "差肩惰輪": "staggered idlers"
+    },
+    {
+        "差肩排列井": "staggered well"
+    },
+    {
+        "不銹鐵": "stainless iron"
+    },
+    {
+        "無漬油": "stainless oil"
+    },
+    {
+        "不銹鋼": "stainless steel"
+    },
+    {
+        "階梯曲線": "stair step curve"
+    },
+    {
+        "階級狀礦脈": "staircase vein"
+    },
+    {
+        "次煤巷": "stall"
+    },
+    {
+        "房柱法": "stall and room working"
+    },
+    {
+        "倉窯焙燒": "stall roast"
+    },
+    {
+        "搗礦杵 ; 碎礦機": "stamp"
+    },
+    {
+        "重力搗礦機": "stamp battery"
+    },
+    {
+        "搗礦場": "stamp mill"
+    },
+    {
+        "搗礦機": "stamper"
+    },
+    {
+        "衝印": "stamping"
+    },
+    {
+        "衝印模型": "stamping die"
+    },
+    {
+        "衝印成型法": "stamping process"
+    },
+    {
+        "軋台 ; 立根 ; 平潮": "stand"
+    },
+    {
+        "間距 ; 例鑽桿": "stand off"
+    },
+    {
+        "立管": "stand pipe"
+    },
+    {
+        "井底備用巷": "standage room"
+    },
+    {
+        "基準立方呎": "standard cubic feet{=SCF}"
+    },
+    {
+        "基準立方公尺": "standard cubic meter{=SCM}"
+    },
+    {
+        "標準金": "standard gold"
+    },
+    {
+        "正規繞向鋼索": "standard lay rope"
+    },
+    {
+        "標準穿入試驗": "standard penetration test"
+    },
+    {
+        "標準銀": "standard silver"
+    },
+    {
+        "標準溶液": "standard solution"
+    },
+    {
+        "標準化": "standardization"
+    },
+    {
+        "備用煤面": "standbye face"
+    },
+    {
+        "閒置時間 ; 待命時間": "standing time"
+    },
+    {
+        "固定閥": "standing valve"
+    },
+    {
+        "固定閥起具": "standing valve puller"
+    },
+    {
+        "井內常水面": "standing water level"
+    },
+    {
+        "密封工作 ; 密封牆": "stank"
+    },
+    {
+        "黃錫礦": "stannite"
+    },
+    {
+        "錫": "stannum"
+    },
+    {
+        "中斷直井": "staple shaft"
+    },
+    {
+        "星形鑽頭 ; 十字鑽頭": "star bit"
+    },
+    {
+        "轉盤挿柱": "star post"
+    },
+    {
+        "澱粉": "starch"
+    },
+    {
+        "起動泵壓": "starting pressure"
+    },
+    {
+        "始極片": "starting sheet"
+    },
+    {
+        "靜柱壓": "static column pressure"
+    },
+    {
+        "靜力疲勞": "static fatigue"
+    },
+    {
+        "地層靜壓": "static formation pressure"
+    },
+    {
+        "固定斜篩": "static grizzly"
+    },
+    {
+        "靜壓頭 ; 靜水頭": "static head"
+    },
+    {
+        "靜穿入試驗": "static penetration test"
+    },
+    {
+        "靜壓": "static pressure"
+    },
+    {
+        "靜壓高差": "static prssure head"
+    },
+    {
+        "靜水面": "static water level"
+    },
+    {
+        "抽油泵外殼": "stationary barrel"
+    },
+    {
+        "固定條篩": "stationary bar screen"
+    },
+    {
+        "定常狀態": "stationary states"
+    },
+    {
+        "史帝田鐵": "steadite"
+    },
+    {
+        "史帝氏脆性": "stead's brittleness"
+    },
+    {
+        "穩流": "steady flow"
+    },
+    {
+        "穩定期潛變": "steady-state creep"
+    },
+    {
+        "穩流": "steady state flow"
+    },
+    {
+        "蒸汽鍋爐": "steam boiler"
+    },
+    {
+        "鍋爐煤 ; 燃料煤": "steam coal"
+    },
+    {
+        "蒸汽螺管": "steam coil"
+    },
+    {
+        "蒸汽凝結器": "steam condenser"
+    },
+    {
+        "蒸汽蒸餾": "steam distillation"
+    },
+    {
+        "汽驅法": "steam drive"
+    },
+    {
+        "蒸汽乳液": "steam emulsion"
+    },
+    {
+        "蒸汽機 ; 蒸汽引擎": "steam engine"
+    },
+    {
+        "火口用蒸汽": "steam for burner"
+    },
+    {
+        "泵用蒸汽": "steam for pumping"
+    },
+    {
+        "蒸汽發生器": "steam generator"
+    },
+    {
+        "煤層注蒸汽": "steam infusion"
+    },
+    {
+        "注蒸汽法": "steam injection"
+    },
+    {
+        "蒸汽動力廠": "steam power plant"
+    },
+    {
+        "蒸汽泵": "steam pump"
+    },
+    {
+        "過熱蒸汽": "steam super-heated"
+    },
+    {
+        "祛水器 ; 蒸汽阱": "steam trap"
+    },
+    {
+        "汽輪機 ; 汽渦輪": "steam turbine"
+    },
+    {
+        "硬脂酸鹽 ; 十八酸鹽": "stearate"
+    },
+    {
+        "硬脂酸": "stearate acid"
+    },
+    {
+        "塊滑石 ; 凍石": "steatite "
+    },
+    {
+        "凍石": "steatite talc"
+    },
+    {
+        "鋼": "steel"
+    },
+    {
+        "鋼拱": "steel arches"
+    },
+    {
+        "鋼鑽頭": "steel bit"
+    },
+    {
+        "滲炭鋼": "steel blister"
+    },
+    {
+        "焚鋼": "steel burnet"
+    },
+    {
+        "鋼套管": "steel casing"
+    },
+    {
+        "鋼鑄件": "steel casting"
+    },
+    {
+        "滲炭鋼": "steel cement"
+    },
+    {
+        "液壓柱": "steel chock"
+    },
+    {
+        "合成鋼": "steel composite"
+    },
+    {
+        "鋼輸送帶輸送機": "steel conveyor band"
+    },
+    {
+        "模具鋼 ; 沖模鋼": "steel die"
+    },
+    {
+        "雙重煉鋼": "steel duplex"
+    },
+    {
+        "沸鋼": "steel effervescenced"
+    },
+    {
+        "電爐鋼": "steel electric"
+    },
+    {
+        "強性不變鋼": "steel elemvar"
+    },
+    {
+        "井析鋼": "steel eutectoid"
+    },
+    {
+        "精煉鋼": "steel finished"
+    },
+    {
+        "鍛鋼": "steel forged"
+    },
+    {
+        "石墨鋼": "steel graphitic"
+    },
+    {
+        "鋼導軌": "steel guides"
+    },
+    {
+        "高碳鋼": "steel high carbon"
+    },
+    {
+        "高錳鋼": "steel high manganese"
+    },
+    {
+        "高速鋼": "steel high speed"
+    },
+    {
+        "過共析鋼": "steel hypereutectoid"
+    },
+    {
+        "亞共析鋼": "steel hypo-eutectoid"
+    },
+    {
+        "低溫用鋼": "steel low-temperature"
+    },
+    {
+        "磁性鋼": "steel magnetic"
+    },
+    {
+        "軟鋼": "steel mile"
+    },
+    {
+        "不變形鋼": "steel non-deforming"
+    },
+    {
+        "不縮鋼": "steel non-shrinking"
+    },
+    {
+        "油淬火鋼": "steel oil hardening"
+    },
+    {
+        "平爐鋼": "steel open hearth"
+    },
+    {
+        "過熱鋼": "steel overheating"
+    },
+    {
+        "析出更化鋼": "steel P.H."
+    },
+    {
+        "鋼廠": "steel plant"
+    },
+    {
+        "犁鋼": "steel plow"
+    },
+    {
+        "鋼板輸送機": "steel plate conveyor"
+    },
+    {
+        "鋼柱塞": "steel plunger"
+    },
+    {
+        "鋼製品": "steel product"
+    },
+    {
+        "鋼撐柱": "steel prop"
+    },
+    {
+        "四元合金鋼": "steel quarternary alloy"
+    },
+    {
+        "長方直井鋼襯": "steel rectangular shaft supports"
+    },
+    {
+        "再選鋼": "steel resorting"
+    },
+    {
+        "淨面鋼 ; 未靜鋼 ; 帶邊鋼": "steel rimmed"
+    },
+    {
+        "鋼拱": "steel rings"
+    },
+    {
+        "不銹鋼": "steel rustless"
+    },
+    {
+        "自動硬化鋼": "steel self-hardening"
+    },
+    {
+        "半靜鋼": "steel semi-killed"
+    },
+    {
+        "鋼隔風門": "steel separation door"
+    },
+    {
+        "淺層硬化鋼": "steel shallow hardening"
+    },
+    {
+        "矽鉻鋼": "steel silchrome"
+    },
+    {
+        "建築鋼": "steel structural"
+    },
+    {
+        "精煉鋼": "steel super-refining"
+    },
+    {
+        "鋼支架": "steel support"
+    },
+    {
+        "鋼絲加強輸送帶": "steel-wire reinforced belt"
+    },
+    {
+        "鋼索": "steel-wire rope"
+    },
+    {
+        "鍛軋鋼": "steel wrought"
+    },
+    {
+        "煉鋼廠": "steelworks"
+    },
+    {
+        "陡坡": "steep gradient"
+    },
+    {
+        "固定柱": "stell prop"
+    },
+    {
+        "星狀結晶 ; 星射": "stellate"
+    },
+    {
+        "史特耐合金": "Stellite"
+    },
+    {
+        "方鑽桿 ; 杵桿 ; 頓鑽鑽鋌": "stem"
+    },
+    {
+        "砂丸": "stem bags"
+    },
+    {
+        "炸藥棒": "stemmer"
+    },
+    {
+        "填塞物 ; 填塞": "stemming"
+    },
+    {
+        "臭劑": "stenches"
+    },
+    {
+        "目標量": "stent"
+    },
+    {
+        "目貫 ; 穿風巷": "stenton"
+    },
+    {
+        "對比階距(電測)": "step distance"
+    },
+    {
+        "階狀斷層 ; 階梯斷層": "step faults"
+    },
+    {
+        "延展鑽井": "step-out drilling"
+    },
+    {
+        "逐步疲勞試驗": "step test"
+    },
+    {
+        "升壓變壓器": "step-up transformer"
+    },
+    {
+        "階狀礦脈 ; 階梯礦脈": "step-vein"
+    },
+    {
+        "脆銀礦": "stephanite"
+    },
+    {
+        "階級煤面長壁法": "stepped longwall"
+    },
+    {
+        "立體網狀圖": "stereonet"
+    },
+    {
+        "英幣標準銀": "sterling silver"
+    },
+    {
+        "輝銻礦": "stibnite"
+    },
+    {
+        "黏卡 ; 卡鑽": "sticking"
+    },
+    {
+        "黏陷煤層": "sticky coal"
+    },
+    {
+        "剛直管串": "stiff assembly"
+    },
+    {
+        "硬縫黏土": "stiff-fissured clay"
+    },
+    {
+        "起重架": "stiff leg"
+    },
+    {
+        "史氏水型圖": "Stiff method of water analysis diagram"
+    },
+    {
+        "剛性": "stiffness"
+    },
+    {
+        "井架腳柱": "stile"
+    },
+    {
+        "蒸餾器 ; 蒸餾釜": "still"
+    },
+    {
+        "分批蒸餾器 ; 批次蒸餾釜": "still batch"
+    },
+    {
+        "降伏柱": "stilt"
+    },
+    {
+        "激勵 ; 激發": "stimulation"
+    },
+    {
+        "導桿 ; 引導管": "stinger"
+    },
+    {
+        "臭氣": "stinkdamp"
+    },
+    {
+        "目標量": "stint"
+    },
+    {
+        "蹄形連合器": "stirrup"
+    },
+    {
+        "岩幹形礦體 ; 庫存料": "stock"
+    },
+    {
+        "爐料線": "stock line"
+    },
+    {
+        "潤滑油料": "stock lube"
+    },
+    {
+        "貯罐桶(單位)": "stock tank barrels(STB)"
+    },
+    {
+        "貯礦堆 ; 物料堆": "stockpile"
+    },
+    {
+        "綱狀礦脈": "stockwork"
+    },
+    {
+        "材料場": "stockyard"
+    },
+    {
+        "司托克(動黏度單位)": "stoke"
+    },
+    {
+        "加煤機": "stoker"
+    },
+    {
+        "司托克定律": "stokes' law"
+    },
+    {
+        "司氏沉降定律": "Stokes' law of settling"
+    },
+    {
+        "無煙煤": "stone coal"
+    },
+    {
+        "岩石坑道": "stone drift"
+    },
+    {
+        "石粉": "stone dust"
+    },
+    {
+        "石粉滅火器": "stone-dust barrier"
+    },
+    {
+        "石粉散布": "stone dusting"
+    },
+    {
+        "地磐岩": "stone-head"
+    },
+    {
+        "每開金剛石粒數": "stone per carat"
+    },
+    {
+        "切石鋸": "stone saw"
+    },
+    {
+        "掘石工": "stoneman"
+    },
+    {
+        "掘石工作": "stonework"
+    },
+    {
+        "擋車夾": "stop-blocks"
+    },
+    {
+        "間歇開關井": "stop-cocking"
+    },
+    {
+        "擋箍": "stop collar"
+    },
+    {
+        "防止塗層": "stop-off"
+    },
+    {
+        "擋環": "stop ring"
+    },
+    {
+        "停止閥": "stop valve"
+    },
+    {
+        "工作面 ; 採礦室": "stope"
+    },
+    {
+        "工作面品位圖": "stope assay plans"
+    },
+    {
+        "工作面鑽機台": "stope board"
+    },
+    {
+        "工作面開拓": "stope development"
+    },
+    {
+        "工作面充填料": "stope fillings"
+    },
+    {
+        "小捲機": "stope hoist"
+    },
+    {
+        "工作面取樣": "stope sampling"
+    },
+    {
+        "仰鑽機": "stoper"
+    },
+    {
+        "採礦": "stoping"
+    },
+    {
+        "採礦方法": "stoping methods"
+    },
+    {
+        "開採寬度": "stoping width"
+    },
+    {
+        "封堵牆;密封牆": "stopping"
+    },
+    {
+        "儲藏室": "storage"
+    },
+    {
+        "蓄電池": "storage battery"
+    },
+    {
+        "蓄電池機車": "storage battery locomotive"
+    },
+    {
+        "貯油損耗": "storage loss"
+    },
+    {
+        "貯罐 ; 儲槽 ; 儲池": "storage tank"
+    },
+    {
+        "倉庫 ; 材料庫": "store"
+    },
+    {
+        "司氏黏度計": "Stormer viscosimeter"
+    },
+    {
+        "旋轉濕度計": "Storrow whirling hygrometer"
+    },
+    {
+        "熱圍爐": "stove"
+    },
+    {
+        "火爐胡桃": "stove nuts"
+    },
+    {
+        "導管": "stove pipe"
+    },
+    {
+        "長壁面充填 ; 填充": "stowing"
+    },
+    {
+        "充填模板": "stowing forms"
+    },
+    {
+        "充填採礦法": "stowing methods"
+    },
+    {
+        "雙封填塞器": "straddle packer"
+    },
+    {
+        "順鑽": "straight-ahead drilling"
+    },
+    {
+        "甘油炸藥": "straight dynamite"
+    },
+    {
+        "鋼大樑支架": "straight girder support"
+    },
+    {
+        "直井": "straight hole"
+    },
+    {
+        "純礦油": "straight mineral oil"
+    },
+    {
+        "正極性": "straight polarity"
+    },
+    {
+        "垂直擴鑽": "straight reaming"
+    },
+    {
+        "直餾": "straight run"
+    },
+    {
+        "整流器": "straightening vane"
+    },
+    {
+        "修直井": "straightening well"
+    },
+    {
+        "應變": "strain"
+    },
+    {
+        "應變時效 ; 應變老化": "strain ageing"
+    },
+    {
+        "應變退火": "strain-anneal"
+    },
+    {
+        "應變計": "strain  gauges"
+    },
+    {
+        "應變硬化": "strain hardening"
+    },
+    {
+        "應變線": "strain line"
+    },
+    {
+        "應變鬆弛": "strain relaxation"
+    },
+    {
+        "過濾器 ; 濾篩": "strainer"
+    },
+    {
+        "馬來錫": "strait tin"
+    },
+    {
+        "平行煤巷": "strait work"
+    },
+    {
+        "闊溜洗槽": "strake"
+    },
+    {
+        "股 ; 繩股 ; 海濱 ; 湖濱": "strand"
+    },
+    {
+        "煤頂支撐架 ; 圓周尺": "strap"
+    },
+    {
+        "繞襯皮帶": "strap belt"
+    },
+    {
+        "下管檢尺 ; 下鑽檢尺": "strap in"
+    },
+    {
+        "起鑽檢尺": "strap out"
+    },
+    {
+        "立管檢尺": "strap out of hole"
+    },
+    {
+        "地層": "strata"
+    },
+    {
+        "井壁螺栓": "strata bolts"
+    },
+    {
+        "地層控制": "strata control"
+    },
+    {
+        "地層探井": "strata hole"
+    },
+    {
+        "戰略礦物": "strategic minerals"
+    },
+    {
+        "策略性計劃": "strategic planning"
+    },
+    {
+        "層理": "stratification"
+    },
+    {
+        "沼氣分層": "stratification of methane"
+    },
+    {
+        "成層油層": "stratified reservoir"
+    },
+    {
+        "地層鑽探孔": "stratigraphic bores"
+    },
+    {
+        "地層鑽探": "stratigraphic boring"
+    },
+    {
+        "地層圖": "stratigraphic map"
+    },
+    {
+        "地層剖面圖": "stratigraphic profile"
+    },
+    {
+        "地層順序": "stratigraphic sequence"
+    },
+    {
+        "地層探井": "stratigraphic test"
+    },
+    {
+        "地層封閉": "stratigraphic trap"
+    },
+    {
+        "次生地層封閉": "stratigraphic trap secondary"
+    },
+    {
+        "地層學": "stratigraphy"
+    },
+    {
+        "地層": "stratum"
+    },
+    {
+        "司託勞感受試驗": "Strauss test"
+    },
+    {
+        "漏電腐蝕": "stray-current corrosion"
+    },
+    {
+        "條痕 ; 條紋": "streak"
+    },
+    {
+        "河金": "stream gold"
+    },
+    {
+        "砂錫": "stream tin"
+    },
+    {
+        "層流 ; 恒流": "streamline flow"
+    },
+    {
+        "極限強度": "strength ultimate"
+    },
+    {
+        "應力": "stress"
+    },
+    {
+        "應力集中": "stress concentration"
+    },
+    {
+        "應力集中因素": "stress concentration factor"
+    },
+    {
+        "應力腐蝕": "stress corrosion"
+    },
+    {
+        "應力集中點": "stress raisers"
+    },
+    {
+        "應力比": "stress ratio"
+    },
+    {
+        "弛力退火": "stress relief annealing"
+    },
+    {
+        "弛力溝": "stress relief contour"
+    },
+    {
+        "應力消除槽": "stress relief groove"
+    },
+    {
+        "應力弛鬆": "stress-relieving"
+    },
+    {
+        "應力破斷資料": "stress-rupture data"
+    },
+    {
+        "應力應變圖": "stress-strain diagram"
+    },
+    {
+        "應力測定儀": "stress tester"
+    },
+    {
+        "伸張應變": "stretcher strains"
+    },
+    {
+        "條痕 ; 刻痕 ; 條紋 ; 擦紋": "striation"
+    },
+    {
+        "走向 ; 礦體發現 ; 罷工 ; 試鍍 ; 誤擊坑": "strike"
+    },
+    {
+        "走向斷層": "strike fault"
+    },
+    {
+        "橫移斷層": "strike slip fault"
+    },
+    {
+        "走向式露天開采法": "strike working"
+    },
+    {
+        "火藥束(管串炸退用)": "string shot"
+    },
+    {
+        "吊線測量": "string survey"
+    },
+    {
+        "穿[鑽]繩": "string up"
+    },
+    {
+        "小礦脈": "stringer"
+    },
+    {
+        "起鑽記錄表": "strip chart"
+    },
+    {
+        "露天採礦": "strip mining"
+    },
+    {
+        "起揚": "strip out"
+    },
+    {
+        "隔條充填": "strip packing"
+    },
+    {
+        "豎槽樣品": "strip sample"
+    },
+    {
+        "鋼條": "strip steel"
+    },
+    {
+        "乾氣": "stripped gas"
+    },
+    {
+        "間歇生產井 ; 汽提塔 ; 橡皮環": "stripper"
+    },
+    {
+        "老油田": "stripper field"
+    },
+    {
+        "天然汽油廠": "stripper plant"
+    },
+    {
+        "枯老油層": "stripper pool"
+    },
+    {
+        "鑽桿[橡膠]刮泥盤": "stripper rubber"
+    },
+    {
+        "老井 ; 枯竭井": "stripper well"
+    },
+    {
+        "煤面裝煤 ; 剝離 ; 拆卸 ; 剝取 ; 汽提": "stripping"
+    },
+    {
+        "修井起管作業": "stripping job"
+    },
+    {
+        "抗壓起管": "stripping the pipe"
+    },
+    {
+        "石礦剝離": "stripping the quarry"
+    },
+    {
+        "衝擊式活環": "stroke jar"
+    },
+    {
+        "鍶": "strontium"
+    },
+    {
+        "平口容量": "struck capacity"
+    },
+    {
+        "構造鑽探": "structural boring"
+    },
+    {
+        "構造閉合": "structural closure"
+    },
+    {
+        "構造等高線": "structural contour"
+    },
+    {
+        "構造等高線圖": "structural contour map"
+    },
+    {
+        "構造封閉": "structural trap"
+    },
+    {
+        "結構[地質] ; 構造": "structure"
+    },
+    {
+        "構造鑽探": "structure drilling"
+    },
+    {
+        "構造圖": "structure map"
+    },
+    {
+        "欀間撐": "strut"
+    },
+    {
+        "被卡管": "stuck pipe"
+    },
+    {
+        "雙頭螺栓": "stud"
+    },
+    {
+        "鑽井領班": "stud driller"
+    },
+    {
+        "螺樁": "studding"
+    },
+    {
+        "井口井圈橫樑": "studdle"
+    },
+    {
+        "填料函 ; 盤根盒": "stuffing box"
+    },
+    {
+        "撐木 ; 盛接台": "stull"
+    },
+    {
+        "工作面站台": "stull covering"
+    },
+    {
+        "撐木支撐": "stull timbering"
+    },
+    {
+        "記錄針頭": "stylus"
+    },
+    {
+        "苯乙烯": "styrene"
+    },
+    {
+        "接頭": "sub"
+    },
+    {
+        "次原子質點": "sub-atomic particles"
+    },
+    {
+        "半煙煤 ; 亞煙煤": "sub-bituminous coals"
+    },
+    {
+        "次臨界採掘面積": "sub-critical area of extraction"
+    },
+    {
+        "中段巷道 ; 副巷": "sub-level"
+    },
+    {
+        "中段平坑陷落採礦法": "sub-level caving"
+    },
+    {
+        "中段平坑採礦法 ; 闊空峒採礦法": "sub-level stoping"
+    },
+    {
+        "潛露頭": "sub-outcrop"
+    },
+    {
+        "中段平坑採礦法 ; 闊空峒採礦法": "sub-stoping"
+    },
+    {
+        "零下處理": "sub-zero treatment"
+    },
+    {
+        "微傾斜的": "subaclinal"
+    },
+    {
+        "充氣浮選機": "subaeration flotation machine"
+    },
+    {
+        "水底電纜": "subaqueous cable"
+    },
+    {
+        "隱沒帶": "subduction zone"
+    },
+    {
+        "路基": "subgrade"
+    },
+    {
+        "昇華": "sublimation"
+    },
+    {
+        "水下爆破": "submarine blasting"
+    },
+    {
+        "海底電纜": "submarine cable"
+    },
+    {
+        "海底輸油線": "submarine loading line"
+    },
+    {
+        "海底管線": "submarine pipe line"
+    },
+    {
+        "海底油氣露頭 ; 海底油氣苗": "submarine seepages"
+    },
+    {
+        "包覆式電弧熔接 ; 潛弧熔接": "submerged arc welding"
+    },
+    {
+        "水下生產系統": "submerged production system"
+    },
+    {
+        "沒入油中深度": "submergence"
+    },
+    {
+        "可沉式平底船 ; 沉式駁船": "submersible barge"
+    },
+    {
+        "沉水泵": "submersible pump"
+    },
+    {
+        "亞金屬光澤": "submetallic luster"
+    },
+    {
+        "黑常低壓": "subnormal pressure"
+    },
+    {
+        "海底井口安全裝置(試油氣用)": "subsea test tree(SSTT)"
+    },
+    {
+        "海底作業艙": "subsea work enclosure"
+    },
+    {
+        "後成礦床": "subsequent ore deposit"
+    },
+    {
+        "地陷": "subsidence"
+    },
+    {
+        "地陷窪地": "subsidence basin"
+    },
+    {
+        "地陷縫": "subsidence break"
+    },
+    {
+        "地陷曲線": "subsidence curve"
+    },
+    {
+        "地陷率": "subsidence factor"
+    },
+    {
+        "次生裂隙 ; 張力裂隙": "subsidiary fractures"
+    },
+    {
+        "支部運輸": "subsidiary transport"
+    },
+    {
+        "次矽酸鹽": "subsilicate"
+    },
+    {
+        "亞土 ; 心土": "subsoil"
+    },
+    {
+        "亞土壤排水": "subsoil drainage"
+    },
+    {
+        "變電所": "substation"
+    },
+    {
+        "接頭": "substitute"
+    },
+    {
+        "置換式固溶體": "substitutional solid solution"
+    },
+    {
+        "井架底座": "substructure"
+    },
+    {
+        "地下": "subsurface"
+    },
+    {
+        "土壤排水": "subsurface drainage"
+    },
+    {
+        "地下沖蝕": "subsurface erosion"
+    },
+    {
+        "地下斷層": "subsurface fault"
+    },
+    {
+        "地下地質圖": "subsurface geologic map"
+    },
+    {
+        "地下地質調查": "subsurface geologic survey"
+    },
+    {
+        "地下地質 ; 地下地質學": "subsurface geology"
+    },
+    {
+        "地下壓力": "subsurface pressure"
+    },
+    {
+        "井下泵": "subsurface pump"
+    },
+    {
+        "油管安全閥": "subsurface safety valve"
+    },
+    {
+        "地下溝造圖": "subsurface structure map"
+    },
+    {
+        "地下溫度": "subsurface temperature"
+    },
+    {
+        "地下溫度計": "subsurface thermometer"
+    },
+    {
+        "缺位相": "subtraction phase"
+    },
+    {
+        "抽油桿": "sucker pole"
+    },
+    {
+        "抽油桿": "sucker rod"
+    },
+    {
+        "抽油桿吊卡": "sucker rod elevator"
+    },
+    {
+        "抽油桿導引": "sucker rod guide"
+    },
+    {
+        "抽油桿吊掛": "sucker rod hanger"
+    },
+    {
+        "抽油機": "sucker rod jack"
+    },
+    {
+        "抽油桿接頭": "sucker rod joint"
+    },
+    {
+        "桿式抽泵": "sucker-rod pump"
+    },
+    {
+        "吸端消震器": "suction dampener"
+    },
+    {
+        "吸入式扇風機": "suction fan"
+    },
+    {
+        "吸引過濾機": "suction filter"
+    },
+    {
+        "吸引高 ; 吸水頭": "suction head"
+    },
+    {
+        "吸[入]管": "suction pipe"
+    },
+    {
+        "吸[入]罐": "suction tank"
+    },
+    {
+        "制止閥 ; 吸入閥": "suction valve"
+    },
+    {
+        "無油氣砂層": "suitcase sand"
+    },
+    {
+        "硫酸鹽化": "sulphating"
+    },
+    {
+        "硫酸化焙燒": "sulphatizing roast"
+    },
+    {
+        "硫化物": "sulphide"
+    },
+    {
+        "硫化物腐蝕": "sulphide corrosion"
+    },
+    {
+        "硫化礦[石]": "sulphide ore"
+    },
+    {
+        "有機硫化物": "sulphide organic"
+    },
+    {
+        "脫除硫化物設備": "sulphide remover"
+    },
+    {
+        "硫化帶": "sulphide zone"
+    },
+    {
+        "硫化劑": "sulphidizing reagent"
+    },
+    {
+        "滲硫硬化法": "Sulphinuz process"
+    },
+    {
+        "硫 ; 硫黃": "sulphur"
+    },
+    {
+        "二氧化硫處理": "sulphur dioxide treating"
+    },
+    {
+        "硫黃礦開採": "sulphur mining"
+    },
+    {
+        "硫印": "sulphur print"
+    },
+    {
+        "硫印檢驗法": "sulphur printing"
+    },
+    {
+        "硫化氫": "sulphuretted hydrogen"
+    },
+    {
+        "硫酸": "sulphuric acid"
+    },
+    {
+        "硫酸處理": "sulphuric acid treating"
+    },
+    {
+        "水倉 ; 水坑 ; 窖井 ; 井底潭 ; 廢電池": "sump"
+    },
+    {
+        "增壓": "super charge"
+    },
+    {
+        "超壓縮校正因數": "super compressibility factor"
+    },
+    {
+        "超臨界開採面積": "super-critical area of extraction"
+    },
+    {
+        "超剛鋁 ; 超柱拉鋁": "super duralumin"
+    },
+    {
+        "過熱": "super heat"
+    },
+    {
+        "過飽和固溶體": "super-saturated solid solution"
+    },
+    {
+        "超合金": "superalloys"
+    },
+    {
+        "過冷": "supercooling"
+    },
+    {
+        "超高": "superelevation"
+    },
+    {
+        "出露礦床 ; 地面礦床": "superficial deposit"
+    },
+    {
+        "超微分級機": "superfine classifier"
+    },
+    {
+        "次生的": "supergene"
+    },
+    {
+        "過熱蒸汽": "superheated steam"
+    },
+    {
+        "過熱器": "superheater"
+    },
+    {
+        "過熱處理": "superheating"
+    },
+    {
+        "重疊載重": "superimposed load"
+    },
+    {
+        "超晶格 ; 規律格子 ; 規則格子": "superlattice"
+    },
+    {
+        "超導磁率合金": "supermumetal"
+    },
+    {
+        "超塑性": "superplasticity"
+    },
+    {
+        "過飽和溶液": "supersaturated solution"
+    },
+    {
+        "過飽和": "supersaturation"
+    },
+    {
+        "支架 ; 支柱 ; 支撐": "support"
+    },
+    {
+        "壓制下降料間": "suppression decaytime"
+    },
+    {
+        "壓制震盪器": "suppression oscillator"
+    },
+    {
+        "界面活性劑": "surface active agent"
+    },
+    {
+        "表面活性化": "surface activity"
+    },
+    {
+        "地表空氣漏風": "surface air leakage"
+    },
+    {
+        "地面儲礦倉": "surface bunker"
+    },
+    {
+        "表層套管": "surface casing"
+    },
+    {
+        "井口鐵道佈置": "surface circuit"
+    },
+    {
+        "面表燃燒": "surface combustion"
+    },
+    {
+        "壁面冷凝器": "surface condenser"
+    },
+    {
+        "表面密度": "surface density"
+    },
+    {
+        "地表面處理": "surface dressing"
+    },
+    {
+        "表面能力": "surface energy"
+    },
+    {
+        "表面精製度": "surface finish"
+    },
+    {
+        "地表地質": "surface geology"
+    },
+    {
+        "表面硬化": "surface hardening"
+    },
+    {
+        "地表漲高": "surface lift"
+    },
+    {
+        "地面調查": "surface mapping"
+    },
+    {
+        "露天開採 ; 地面開採": "surface mining"
+    },
+    {
+        "均衡面": "surface of compensation"
+    },
+    {
+        "導管 ; 表層套管": "surface pipe"
+    },
+    {
+        "地面電位探礦法": "surface potential method"
+    },
+    {
+        "地面壓力 ; 井口壓力": "surface pressure"
+    },
+    {
+        "地面復原": "surface reinstatement"
+    },
+    {
+        "表面冷軋": "super rolling"
+    },
+    {
+        "地面鹽丘": "surface salt dome"
+    },
+    {
+        "導管": "surface string"
+    },
+    {
+        "表面張力": "surface tension"
+    },
+    {
+        "界面活性劑": "surfactant"
+    },
+    {
+        "界面活性劑泥漿": "surfactant mud"
+    },
+    {
+        "湧溢 ; 縱移": "surge"
+    },
+    {
+        "緩沖礦倉": "surge bunker"
+    },
+    {
+        "擠壓損失": "surge loss"
+    },
+    {
+        "衝壓": "surge pressure"
+    },
+    {
+        "平衝滑輪": "surge pulley"
+    },
+    {
+        "測量": "survey"
+    },
+    {
+        "懸浮固粒": "suspended solid"
+    },
+    {
+        "懸掛筒片直井襯壁法": "suspended tubbing"
+    },
+    {
+        "懸浮物 ; 懸浮體": "suspension"
+    },
+    {
+        "懸濁質": "suspensoid"
+    },
+    {
+        "縫合線": "suture line"
+    },
+    {
+        "鈴木效應": "Suzuki effect"
+    },
+    {
+        "抽刷 ; 抽刷器": "swab"
+    },
+    {
+        "擦乾": "swab down"
+    },
+    {
+        "擦刷 ; 引噴": "swab in"
+    },
+    {
+        "抽刷器": "swabber"
+    },
+    {
+        "抽刷": "swabbing"
+    },
+    {
+        "抽刷作用": "swabbing effect"
+    },
+    {
+        "抽刷繩": "swabbing line"
+    },
+    {
+        "抽刷生產": "swabbing production"
+    },
+    {
+        "抽刷試驗": "swabbing test"
+    },
+    {
+        "抽油井": "swabbing well"
+    },
+    {
+        "套管整形器": "swage"
+    },
+    {
+        "擠擊 ; 擠鍛 ; 型鍛": "swaging"
+    },
+    {
+        "沼澤區鑽井": "swamp drilling"
+    },
+    {
+        "切屑": "swarf"
+    },
+    {
+        "斜樑拉筋": "sway brace"
+    },
+    {
+        "軟蠟 ; 汗除蠟": "sweated wax"
+    },
+    {
+        "出汗 ; 發汗法 ; 軟焊": "sweating"
+    },
+    {
+        "軟蠟": "sweats"
+    },
+    {
+        "套管整形器": "swedge"
+    },
+    {
+        "大小接頭": "swedged nipple"
+    },
+    {
+        "瑞典生鐵": "Swedish iron"
+    },
+    {
+        "排掃效率": "sweep efficiency"
+    },
+    {
+        "排掃模式": "sweepout pattern"
+    },
+    {
+        "甜蝕": "sweet corrosion"
+    },
+    {
+        "脫硫原油 ; 低硫分原油 ; 甜化原油": "sweet crude"
+    },
+    {
+        "無硫天然氣 ; 脫臭氣": "sweet gas"
+    },
+    {
+        "完全焙燒": "sweet roasting"
+    },
+    {
+        "脫硫法 ; 脫臭法": "sweetening process"
+    },
+    {
+        "套管偏測器(頓鑽)": "sweetening spider"
+    },
+    {
+        "膨脹 ; 脹疵 ; 降起地": "swell"
+    },
+    {
+        "膨脹 ; 降起地": "swelling"
+    },
+    {
+        "膨脹指數": "swelling index"
+    },
+    {
+        "膨脹係數": "swelling number"
+    },
+    {
+        "膨脹壓力": "swelling pressure"
+    },
+    {
+        "膨脹性頁岩": "swelling shale"
+    },
+    {
+        "分次割眼式 ; 分次抽心孔式": "swing cut"
+    },
+    {
+        "搖盪鎚": "swing hammer"
+    },
+    {
+        "擺錘碎礦機": "swing hammer crusher"
+    },
+    {
+        "懸錘調節機": "swing-hammer regulator"
+    },
+    {
+        "遊擺管": "swing line"
+    },
+    {
+        "遊擺管 ; 罐內活動排放管": "swing pipe"
+    },
+    {
+        "自動迴車道": "switch-back"
+    },
+    {
+        "開關油": "switch oil"
+    },
+    {
+        "水龍頭頸": "swivel neck"
+    },
+    {
+        "針碲金礦": "sylvanite"
+    },
+    {
+        "支架回收機": "Sylvester"
+    },
+    {
+        "回步速率": "synchronous speed"
+    },
+    {
+        "向斜": "syncline"
+    },
+    {
+        "增效作用": "synergism"
+    },
+    {
+        "同生礦床": "syngenetic deposits"
+    },
+    {
+        "合成地震紀錄": "synthesis seismic record"
+    },
+    {
+        "合成汽油": "synthetic gasoline"
+    },
+    {
+        "合成橡膠": "synthetic rubber"
+    },
+    {
+        "虹吸型傾角計": "syphonic inclinometer"
+    },
+    {
+        "自動張力平衡器": "system rucker"
+    },
+    {
+        "有規律取樣": "systematic sampling"
+    },
+    {
+        "取樣基本誤差": "systematic sampling errors"
+    },
+    {
+        "有規律支架": "systematic support"
+    },
+    {
+        "T型破裂試驗": "T-cracking test"
+    },
+    {
+        "井架 ; 總深度": "TD(total depth)"
+    },
+    {
+        "桌選機 ; 選礦桌 ; 常水層": "table"
+    },
+    {
+        "選礦桌 ; 桌選機": "table concentrating"
+    },
+    {
+        "桌精選法": "table concentration"
+    },
+    {
+        "皺紋桌": "table corduroy"
+    },
+    {
+        "桌浮選法": "table flotation"
+    },
+    {
+        "板狀層": "tabular deposit"
+    },
+    {
+        "轉速計": "tachometer"
+    },
+    {
+        "定位點熔接": "tack welds"
+    },
+    {
+        "膠黏性": "tackiness"
+    },
+    {
+        "短程計劃": "tactical planning"
+    },
+    {
+        "特氏閃點試驗": "Tag flash test"
+    },
+    {
+        "劈尖": "tagging"
+    },
+    {
+        "尾端 ; 拉緊端": "tail end"
+    },
+    {
+        "尾門巷": "tail gate"
+    },
+    {
+        "蒸餾試驗室 ; 尾屋": "tail house"
+    },
+    {
+        "末期生產": "tail production"
+    },
+    {
+        "尾水路 ; 鑽屑排出溝": "tail race"
+    },
+    {
+        "尾桿": "tail rod"
+    },
+    {
+        "尾索": "tail rope"
+    },
+    {
+        "主尾索索道搬運": "tail-rope haulage"
+    },
+    {
+        "尾槽輪 ; 回端槽輪": "tail sheave"
+    },
+    {
+        "尾砂堰": "tailing dam"
+    },
+    {
+        "尾砂處理": "tailing disposal"
+    },
+    {
+        "尾砂池": "tailing pond"
+    },
+    {
+        "尾砂 ; 尾礦": "tailings"
+    },
+    {
+        "清選機": "tailings machine"
+    },
+    {
+        "尾礦沉積槽": "tailings settling tank"
+    },
+    {
+        "[拉桿]離合支柱": "take off post"
+    },
+    {
+        "塔爾波法": "Talbot process"
+    },
+    {
+        "滑石": "talc"
+    },
+    {
+        "採煤程標記 ; 檢尺": "tally"
+    },
+    {
+        "風化崖堆 ; 崖錐": "talus"
+    },
+    {
+        "泰利表面儀": "Talysurf"
+    },
+    {
+        "炮孔裝填": "tamping"
+    },
+    {
+        "炸藥棒": "tamping rod"
+    },
+    {
+        "串列複式引擎 ; 串列複式動力機": "tandem compound engine"
+    },
+    {
+        "串聯捲揚": "tandem hoisting"
+    },
+    {
+        "串列軋機": "tandem mill"
+    },
+    {
+        "串聯制 ; 串聯系統": "tandem system"
+    },
+    {
+        "正切模數": "tangent modulus"
+    },
+    {
+        "池 ; 罐 ; 槽": "tank"
+    },
+    {
+        "攪拌罐": "tank agitating"
+    },
+    {
+        "油槽脹縮頂": "tank ballons"
+    },
+    {
+        "油罐駁船 ; 槽駁船": "tank barge"
+    },
+    {
+        "選油站 ; 油槽區": "tank battery"
+    },
+    {
+        "無頂油槽": "tank bleaching"
+    },
+    {
+        "油罐通風管": "tank breather tube"
+    },
+    {
+        "油罐車 ; 囤車": "tank car"
+    },
+    {
+        "油罐加熱管": "tank coil"
+    },
+    {
+        "鋼筋水泥罐": "tank concreter"
+    },
+    {
+        "原油貯槽": "tank crude oil storage"
+    },
+    {
+        "油槽圓蓋": "tank dome"
+    },
+    {
+        "土製貯油槽": "tank earthen storage"
+    },
+    {
+        "油槽區 ; 油囤區": "tank farm"
+    },
+    {
+        "蓄氣槽": "tank gasometer"
+    },
+    {
+        "油槽計量錶": "tank gauge"
+    },
+    {
+        "量油罐": "tank gauging"
+    },
+    {
+        "油槽損耗": "tank outage"
+    },
+    {
+        "罐[槽]內樣品": "tank sample"
+    },
+    {
+        "貯油站": "tank station"
+    },
+    {
+        "油輪": "tank steamer"
+    },
+    {
+        "油槽計量員": "tank strapper"
+    },
+    {
+        "油罐車": "tank wagon"
+    },
+    {
+        "油槽區": "tank yard"
+    },
+    {
+        "貯存能量 ; 囤量": "tankage"
+    },
+    {
+        "油輪": "tanker"
+    },
+    {
+        "油輪噸位": "tanker tonnage"
+    },
+    {
+        "丹寧 ; 鞣酸": "tannin"
+    },
+    {
+        "鉭": "tantalum"
+    },
+    {
+        "鉭青銅": "tantalum bronze"
+    },
+    {
+        "撈錐": "tap"
+    },
+    {
+        "絲錐 ; 螺旋鑽": "tap drill"
+    },
+    {
+        "流出口 ; 出鐵口": "tap hole"
+    },
+    {
+        "管扣撈錐": "tap pipe thread"
+    },
+    {
+        "放出口": "tap spout"
+    },
+    {
+        "遞小管串": "taper string"
+    },
+    {
+        "斜絲錐": "taper tap"
+    },
+    {
+        "挺桿": "tappet"
+    },
+    {
+        "打開出鐵口 ; 出鐵 ; 出鋼 ; 攻絲 ; 汲出": "tapping"
+    },
+    {
+        "虹吸法": "tapping by syphone"
+    },
+    {
+        "真空罐汲出法": "tapping by vacuum ladle"
+    },
+    {
+        "工作面洩水": "tapping old workings"
+    },
+    {
+        "焦油": "tar"
+    },
+    {
+        "焦油": "tar oil"
+    },
+    {
+        "焦油砂 ; 瀝青砂": "tar sand"
+    },
+    {
+        "空車重量 ; 皮重": "tare"
+    },
+    {
+        "生銹 ; 銹晦": "tarnish"
+    },
+    {
+        "抵抗": "tarnish-resistant"
+    },
+    {
+        "塗焦油": "tarring"
+    },
+    {
+        "萊抽絲法": "Taylor process"
+    },
+    {
+        "鎢碳鋼鑽頭": "TCI(tungsten carbide insert bit)"
+    },
+    {
+        "拆卸": "tear down"
+    },
+    {
+        "淺層橫移斷層": "tear fault"
+    },
+    {
+        "鎝": "technetium"
+    },
+    {
+        "凝聚力強度": "technical cohesive strength"
+    },
+    {
+        "大地構造學 ; 動力構造學": "tectonics"
+    },
+    {
+        "地殼結構儀": "tectonometer"
+    },
+    {
+        "三通 ; 丁形件": "tee"
+    },
+    {
+        "澆注": "teeming"
+    },
+    {
+        "盛桶": "teeming ladle"
+    },
+    {
+        "澆注線": "teeming line"
+    },
+    {
+        "鐵富龍絕緣材料 ; 特夫綸絕緣材料": "teflon insulator"
+    },
+    {
+        "康銅 ; 康史登銅": "telconstan"
+    },
+    {
+        "電子管導線合金": "telecoseal"
+    },
+    {
+        "豎式溜煤槽": "telegraph"
+    },
+    {
+        "定向測角儀": "telescopic alignment instrument"
+    },
+    {
+        "手攜遠望水準儀": "telescopic hand level"
+    },
+    {
+        "伸縮性旋轉接頭": "telescoping swivel joint"
+    },
+    {
+        "顴察用法蘭": "tell tale flange"
+    },
+    {
+        "碲化物": "telluride"
+    },
+    {
+        "碲": "tellurium"
+    },
+    {
+        "碲銅": "tellurium copper"
+    },
+    {
+        "碲鉛": "tellurium lead"
+    },
+    {
+        "定位儀 ; 微波測距儀": "tellurometer hydrodist"
+    },
+    {
+        "硬度 ; 含碳量 ; 回火": "temper"
+    },
+    {
+        "回火脆性": "temper brittleness"
+    },
+    {
+        "回火碳": "temper carbon"
+    },
+    {
+        "回火色": "temper colour"
+    },
+    {
+        "調節絲槓": "temper screw"
+    },
+    {
+        "回火應力": "temper stressing"
+    },
+    {
+        "溫度基礎校正因數": "temperature base factor"
+    },
+    {
+        "攝氏溫度": "temperature centigrade"
+    },
+    {
+        "華氏溫度(溫標)": "temperature Fahrenheit"
+    },
+    {
+        "溫度梯度": "temperature gradient"
+    },
+    {
+        "溫度逆化": "temperature inversion"
+    },
+    {
+        "溫度測量": "temperature measurement"
+    },
+    {
+        "溫度測定": "temperature survey"
+    },
+    {
+        "回火變勒鐵": "tempered bainite"
+    },
+    {
+        "回火麻田散鐵": "tempered matensite"
+    },
+    {
+        "回火[法]": "tempering"
+    },
+    {
+        "母合金": "tempering metals"
+    },
+    {
+        "回火油": "tempering oil"
+    },
+    {
+        "測溫筆": "Tempilstiks"
+    },
+    {
+        "型板 ; 模板": "template"
+    },
+    {
+        "暫時硬水": "temporary hardness of water"
+    },
+    {
+        "直井臨時支架": "temporary shaft support"
+    },
+    {
+        "臨時支架": "temporary supports"
+    },
+    {
+        "十分鐘黏力膠": "ten-minute gel"
+    },
+    {
+        "韌性 ; 抗拉強度": "tenacity"
+    },
+    {
+        "土狀黑銅礦": "tenite"
+    },
+    {
+        "榫": "tenon"
+    },
+    {
+        "黑銅礦": "tenorite"
+    },
+    {
+        "引張負荷": "tensile load"
+    },
+    {
+        "抗拉強度": "tensile strength"
+    },
+    {
+        "抗拉試驗": "tensil test"
+    },
+    {
+        "張力": "tension"
+    },
+    {
+        "邊界張力": "tension boundary"
+    },
+    {
+        "自動緊索車": "tension carriage"
+    },
+    {
+        "張力計": "tension device unit"
+    },
+    {
+        "拉緊端": "tension end"
+    },
+    {
+        "張力裂隙": "tension fractures"
+    },
+    {
+        "張力指示器": "tension indicator"
+    },
+    {
+        "張力帶": "tension zone"
+    },
+    {
+        "升管張力平衡器": "tensioner riser"
+    },
+    {
+        "自動張力平衡器": "tensioner system Rucker"
+    },
+    {
+        "輸送帶拉緊裝置": "tensioning device belts"
+    },
+    {
+        "鋱": "terbium"
+    },
+    {
+        "輸油站 ; 輸氣站 ; 終端機": "terminal"
+    },
+    {
+        "引捩": "terminal curvature"
+    },
+    {
+        "終極速度": "terminal velocity"
+    },
+    {
+        "三元合金": "ternary"
+    },
+    {
+        "三元合金": "ternary alloy"
+    },
+    {
+        "三元共晶": "ternary eutectic"
+    },
+    {
+        "三元板 ; 鍍鉛錫鐵板": "terne plate"
+    },
+    {
+        "素燒陶器": "terra-cottas"
+    },
+    {
+        "階地 ; 段丘 ; 台地;坪": "terrace"
+    },
+    {
+        "地形校定": "terrain correction"
+    },
+    {
+        "礦區 ; 區域": "territory"
+    },
+    {
+        "第三紀": "Tertiary"
+    },
+    {
+        "第三醇 ; 叔醇": "tertiary alcohol"
+    },
+    {
+        "第三階段潛變": "tertiary creep"
+    },
+    {
+        "第三段碎礦": "tertiary crushing"
+    },
+    {
+        "三次直井": "tertiary shaft"
+    },
+    {
+        "組成間微應力": "tessellated stresses"
+    },
+    {
+        "吸收試驗": "test absorption"
+    },
+    {
+        "酸度試驗": "test acidity"
+    },
+    {
+        "灰分含量試驗": "test ash content"
+    },
+    {
+        "彎曲試驗": "test bending"
+    },
+    {
+        "燃燒性試驗": "test burning quality"
+    },
+    {
+        "水泥試驗": "test cement"
+    },
+    {
+        "水泥混合試驗": "test cementing mixing"
+    },
+    {
+        "濁點試驗": "test cloud"
+    },
+    {
+        "色度試驗": "test color"
+    },
+    {
+        "稠度試驗": "test consistency"
+    },
+    {
+        "轉化試驗": "test conversion"
+    },
+    {
+        "腐蝕試驗": "test corrosion"
+    },
+    {
+        "滴點試驗": "test dropping point"
+    },
+    {
+        "燃燒點試驗 ; 火點試驗": "test fire point"
+    },
+    {
+        "閃點試驗": "test flash point"
+    },
+    {
+        "地層測驗": "test formation"
+    },
+    {
+        "固點試驗 ; 冰點試驗": "test freezing point"
+    },
+    {
+        "比重試驗": "test gravity"
+    },
+    {
+        "試鉛": "test lead"
+    },
+    {
+        "熔點試驗": "test melting point"
+    },
+    {
+        "辛烷值試驗": "test octane number"
+    },
+    {
+        "油井水泥試驗": "test oil-well cement"
+    },
+    {
+        "試坑": "test pit"
+    },
+    {
+        "沉積試驗": "test sedimentation"
+    },
+    {
+        "軟化點試驗": "test softening point"
+    },
+    {
+        "固化點試驗": "test solidifying point"
+    },
+    {
+        "比重試驗": "test specific gravity"
+    },
+    {
+        "試壓座": "test stump"
+    },
+    {
+        "硫分試驗": "test sulfure"
+    },
+    {
+        "熱值試驗": "test thermal value"
+    },
+    {
+        "蒸氣壓試驗": "test vapor pressure"
+    },
+    {
+        "揮發度試驗": "test volatility"
+    },
+    {
+        "試驗井 ; 探井 ; 觀察井": "test well"
+    },
+    {
+        "試驗焰": "testing flame"
+    },
+    {
+        "試體壓力": "testing pressure"
+    },
+    {
+        "試塊 ; 試片": "testpiece"
+    },
+    {
+        "四乙[基]鉛": "tetraethyl lead"
+    },
+    {
+        "正方晶體": "tetragonal crystal"
+    },
+    {
+        "四面體組織": "tetrahedral structure"
+    },
+    {
+        "黝銅礦": "tetrahedrite"
+    },
+    {
+        "織構應力": "textural stress"
+    },
+    {
+        "織構組織": "texture"
+    },
+    {
+        "鉈": "thallium"
+    },
+    {
+        "理論風壓": "theoretical depression"
+    },
+    {
+        "理論儲量": "theorefical tonnage"
+    },
+    {
+        "熱催化作用": "thermal activation"
+    },
+    {
+        "熱烴化法": "thermal alkylation process"
+    },
+    {
+        "熱分析": "thermal analysis"
+    },
+    {
+        "火焰噴射鑽孔": "thermal boring"
+    },
+    {
+        "熱容量": "thermal capacity"
+    },
+    {
+        "熱力中心": "thermal center"
+    },
+    {
+        "含熱量": "thermal content"
+    },
+    {
+        "熱裂": "thermal cracking"
+    },
+    {
+        "熱斷路": "thermal cut-out"
+    },
+    {
+        "溫能蛻變時間電測圖": "thermal decay time log"
+    },
+    {
+        "熱分解": "thermal decomposition"
+    },
+    {
+        "熱驅 ; 熱攻": "thermal drive"
+    },
+    {
+        "加熱乾燥": "thermal drying"
+    },
+    {
+        "熱效率": "thermal efficiency"
+    },
+    {
+        "熱蝕刻": "thermal etching"
+    },
+    {
+        "熱膨脹": "thermal expansion"
+    },
+    {
+        "熱疲勞": "thermal fatigue"
+    },
+    {
+        "地溫梯度": "thermal gradient"
+    },
+    {
+        "熱紅外光": "thermal infrared"
+    },
+    {
+        "熱紅外光測圖儀": "thermal mapper"
+    },
+    {
+        "接觸變質": "thermal metamorphism"
+    },
+    {
+        "示溫漆": "thermal paints"
+    },
+    {
+        "熱效應礦塵取樣儀": "thermal precipitator"
+    },
+    {
+        "熱性質": "thermal property"
+    },
+    {
+        "熱攻採油 ; 熱驅採油": "thermal recovery"
+    },
+    {
+        "電熔開動噴水器": "thermal release water spray"
+    },
+    {
+        "加熱分選": "thermal separation"
+    },
+    {
+        "熱震盪": "thermal shock"
+    },
+    {
+        "熱積面 ; 熱積點": "thermal spike"
+    },
+    {
+        "熱激勵": "thermal stimulation"
+    },
+    {
+        "熱矯法": "thermal straightening"
+    },
+    {
+        "熱應力": "thermal stresses"
+    },
+    {
+        "傅熱速度": "thermal velocity"
+    },
+    {
+        "噴射鑽孔": "thermic drilling"
+    },
+    {
+        "熱導體 ; 熱電阻體": "thermistors"
+    },
+    {
+        "鋁熱劑": "thermit"
+    },
+    {
+        "鋁熱劑法": "thermit process"
+    },
+    {
+        "鋁熱作用": "thermit reaction"
+    },
+    {
+        "發熱熔接法": "thermit welding"
+    },
+    {
+        "熱電動力": "thermo-electromotive force"
+    },
+    {
+        "熱流冷卻": "thermo-siphon cooling"
+    },
+    {
+        "熱黏度": "thermor viscosity"
+    },
+    {
+        "熱電偶": "thermocouple"
+    },
+    {
+        "熱力學": "thermodynamic"
+    },
+    {
+        "彈性熱力效應": "thermoelastic effect"
+    },
+    {
+        "熱電效應": "thermoelectric effects"
+    },
+    {
+        "熱鍍腐蝕": "thermogalvanic corrosion"
+    },
+    {
+        "溫度紀綠器": "thermograph"
+    },
+    {
+        "熱彎金屬": "thermometals"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "兩極溫度計": "thermometer(maximum and minimum)"
+    },
+    {
+        "溫度計套筒": "thermometer well"
+    },
+    {
+        "測溫法扇風機試驗": "thermometric fan test"
+    },
+    {
+        "熱核子反應": "thermonuclear reaction"
+    },
+    {
+        "熱電堆": "thermopile"
+    },
+    {
+        "熱噴法": "thermospray process"
+    },
+    {
+        "厚煤層": "thick seam"
+    },
+    {
+        "濃稠油": "thickened oil"
+    },
+    {
+        "增稠器 ; 增稠劑": "thickener"
+    },
+    {
+        "濃泥 ; 濃集": "thickening"
+    },
+    {
+        "初凝時間": "thickening time"
+    },
+    {
+        "厚度圖": "thickness map"
+    },
+    {
+        "抽油樣器 ; 竊浮": "thief"
+    },
+    {
+        "取樣口": "thief hatch"
+    },
+    {
+        "漏洩砂層": "thief sand"
+    },
+    {
+        "底磐泥": "thill"
+    },
+    {
+        "鋼繩嵌環": "thimble"
+    },
+    {
+        "薄膜法": "thin film technique"
+    },
+    {
+        "薄煤層": "thin seam"
+    },
+    {
+        "薄片 ; 變薄煤層": "thin section"
+    },
+    {
+        "稀釋劑": "thinners"
+    },
+    {
+        "稀釋劑 ; 減黏劑": "thinning agents"
+    },
+    {
+        "減黏稀釋": "thinning dilution"
+    },
+    {
+        "接通開鑿": "thirling"
+    },
+    {
+        "靜凝性 ; 黏變性": "thixotropy"
+    },
+    {
+        "湯氏轉爐": "Thomas converter"
+    },
+    {
+        "湯瑪斯法": "Thomas process"
+    },
+    {
+        "湯生效應": "Thomson effect"
+    },
+    {
+        "釷氧": "thoria"
+    },
+    {
+        "釷": "thorium"
+    },
+    {
+        "絲扣塗料": "thread compound"
+    },
+    {
+        "護絲套": "thread protector"
+    },
+    {
+        "三重式軋鋼機": "three-high rolling mill"
+    },
+    {
+        "三根式架 ; 二柱一樑架 ; 三節棚": "three-piece set"
+    },
+    {
+        "三點負荷": "three-point-loading"
+    },
+    {
+        "三產品洗煤": "three-product washing"
+    },
+    {
+        "三段式油氣分離": "three-stage separation"
+    },
+    {
+        "三段活塞泵甫": "three-throw ram pump"
+    },
+    {
+        "三翼鑽頭": "three way bit"
+    },
+    {
+        "三翼鑽頭": "three wing bit"
+    },
+    {
+        "起始壓力 ; 低降壓力": "threshold pressure"
+    },
+    {
+        "三節立根": "thribble"
+    },
+    {
+        "三棚": "thribble board"
+    },
+    {
+        "三棚[踏板]": "thribble platform"
+    },
+    {
+        "爐喉": "throat"
+    },
+    {
+        "節流": "throttle"
+    },
+    {
+        "節流閥": "throttle valve"
+    },
+    {
+        "統煤 ; 未分選煤": "through coal"
+    },
+    {
+        "經油管穿孔法": "through tubing perforation"
+    },
+    {
+        "直達通風": "through ventilation"
+    },
+    {
+        "落差 ; 縱斷距 ; 振幅": "throw"
+    },
+    {
+        "勻鍍能力 ; 拋力": "throwing power"
+    },
+    {
+        "推動式離合器": "thrust clutch"
+    },
+    {
+        "逆衝斷層；衝上斷層": "thrust fault"
+    },
+    {
+        "逆斷層封閉": "thrust fault trap"
+    },
+    {
+        "逆衝斷層面": "thrust plane"
+    },
+    {
+        "銩": "thulium"
+    },
+    {
+        "橫貫巷": "thwarting"
+    },
+    {
+        "第氏水型圖": "Tickell water analysis diagram"
+    },
+    {
+        "潮汐": "tide"
+    },
+    {
+        "回接導管": "tie back stem"
+    },
+    {
+        "拉桿": "tie rods"
+    },
+    {
+        "枕木": "ties"
+    },
+    {
+        "惰氣熔接": "Tig welding"
+    },
+    {
+        "保密探井 ; 緊孔": "tight hole"
+    },
+    {
+        "緻密砂層": "tight sand"
+    },
+    {
+        "漂礫土壤": "till"
+    },
+    {
+        "傾斜晶界面": "till boundary"
+    },
+    {
+        "傾斜模": "tilt-mould"
+    },
+    {
+        "傾斜地下水面": "tilted water table"
+    },
+    {
+        "傾轉爐": "tilting furnace"
+    },
+    {
+        "坑木": "timber"
+    },
+    {
+        "支架回收機": "timber drawer"
+    },
+    {
+        "木蓆": "timber mat"
+    },
+    {
+        "木材浸液處理": "timber picking"
+    },
+    {
+        "木材防腐": "timber preservation"
+    },
+    {
+        "木架壤 ; 木支架 ; 木棚架": "timber set"
+    },
+    {
+        "木材車": "timber trolley"
+    },
+    {
+        "架壤 ; 支架 ; 棚架 ; 支柱": "timbering"
+    },
+    {
+        "時動研究": "time and motion study"
+    },
+    {
+        "時間成份曲線": "time-composition curve"
+    },
+    {
+        "等時間線圖": "time contour"
+    },
+    {
+        "時間曲線": "time curve"
+    },
+    {
+        "降伏點遲延": "time delay of yield point"
+    },
+    {
+        "走時曲線": "time distance curve"
+    },
+    {
+        "鑽進時間": "time on bottom"
+    },
+    {
+        "時間淬火；麻回火": "time-quenching"
+    },
+    {
+        "時間剖面圖": "time section"
+    },
+    {
+        "時溫曲線": "time-temperature curve"
+    },
+    {
+        "時代地層單位": "time-stratigraphic unit"
+    },
+    {
+        "時間研究": "time study"
+    },
+    {
+        "時間對降伏潛變試驗": "time-yield test"
+    },
+    {
+        "定時器": "timer"
+    },
+    {
+        "計時": "timing"
+    },
+    {
+        "鍚石 ; 鍚精砂 ; 鍚": "tin"
+    },
+    {
+        "鍚基巴比合金": "tin-base Babbitts"
+    },
+    {
+        "鍚銅片 ; 鏡銅": "tin-copper plating"
+    },
+    {
+        "鍚嗚": "tin-cry"
+    },
+    {
+        "錫砂挖泥機撈採": "tin dredging"
+    },
+    {
+        "鍚箔": "tin foil"
+    },
+    {
+        "安全帽": "tin hat"
+    },
+    {
+        "錫害 ; 錫毒": "tin pest"
+    },
+    {
+        "錫汗": "tin sweat"
+    },
+    {
+        "砷鈷礦": "tin-white cobalt"
+    },
+    {
+        "馬口鐵 ; 鍍錫鐵片": "tinplate"
+    },
+    {
+        "飾鋅": "tinsel"
+    },
+    {
+        "錫石": "tinstone"
+    },
+    {
+        "色調計 ; 色輝計": "tinto-meter"
+    },
+    {
+        "傾倒車": "tipper"
+    },
+    {
+        "脆性試驗": "tipper test"
+    },
+    {
+        "斜箱取樣器": "tipping-box sampler"
+    },
+    {
+        "翻車台": "tipple"
+    },
+    {
+        "翻車架 ; 翻車器": "tippler"
+    },
+    {
+        "氧化鈦": "titania"
+    },
+    {
+        "榍石": "titanite (sphene)"
+    },
+    {
+        "鈦": "titanium"
+    },
+    {
+        "礦權": "title"
+    },
+    {
+        "滴定": "titration"
+    },
+    {
+        "黃色炸藥 ; 三硝基甲苯": "T.N.T."
+    },
+    {
+        "黃色炸藥與硝銨混合炸藥": "T.N.T./ammonium nitrate explosive"
+    },
+    {
+        "來回吊斗架空索道": "to-and-fro ropeway"
+    },
+    {
+        "採台腳": "toe"
+    },
+    {
+        "底孔": "toe hole"
+    },
+    {
+        "肘節螺栓": "toggle bolt"
+    },
+    {
+        "允許誤差": "tolerance"
+    },
+    {
+        "甲笨": "toluene"
+    },
+    {
+        "甲苯": "toluol"
+    },
+    {
+        "銅鋅合金": "tombac alloys"
+    },
+    {
+        "槓桿 ; 千斤頂柄": "tommy bar"
+    },
+    {
+        "大鉗": "tong"
+    },
+    {
+        "鉗鍥": "tong key"
+    },
+    {
+        "大鉗扭力錶": "tong torque gauge"
+    },
+    {
+        "噸因數": "tonnage factor"
+    },
+    {
+        "導向具方向": "tool face"
+    },
+    {
+        "大接頭": "tool joint"
+    },
+    {
+        "鑽井隊長": "tool pusher"
+    },
+    {
+        "刮具": "tool scraping"
+    },
+    {
+        "工具鋼": "tool steel"
+    },
+    {
+        "齒輪碎煤機": "toothed rolls"
+    },
+    {
+        "銅鎳分層法": "top and bottom process"
+    },
+    {
+        "頂吹": "top blowing"
+    },
+    {
+        "頂切": "top cut"
+    },
+    {
+        "頂法蘭": "top flange"
+    },
+    {
+        "頂端門巷": "top gate"
+    },
+    {
+        "擴頂平孔": "top hole"
+    },
+    {
+        "上向長孔採煤法": "top holes"
+    },
+    {
+        "頂栓": "top plug"
+    },
+    {
+        "頂澆": "top pouring"
+    },
+    {
+        "巷道加高": "top ripping"
+    },
+    {
+        "頂層礦片": "top slice"
+    },
+    {
+        "頂層分條開採法": "top slicing"
+    },
+    {
+        "頂接頭": "top sub"
+    },
+    {
+        "自頂至底鑽孔": "top-to-toe drilling"
+    },
+    {
+        "頂層水": "top water"
+    },
+    {
+        "黃玉 ; 黃晶": "topaz"
+    },
+    {
+        "地形圖": "topographical map"
+    },
+    {
+        "地形[學]": "topography"
+    },
+    {
+        "尖載 ; 直餾": "topping"
+    },
+    {
+        " 直餾工場": "topping plant"
+    },
+    {
+        "直餾汽油": "tops"
+    },
+    {
+        "表土": "topsoil"
+    },
+    {
+        "沼濁煤": "torbanite"
+    },
+    {
+        "井底炸藥": "torpedo"
+    },
+    {
+        "引炸": "torpedoeing"
+    },
+    {
+        "轉矩 ; 扭矩": "torque"
+    },
+    {
+        "扭矩轉換器": "torque converter"
+    },
+    {
+        "栓密器 ; 栓緊器": "torque tool"
+    },
+    {
+        "捲揚轉距圖": "torque winding diagram"
+    },
+    {
+        "扥爾": "torr"
+    },
+    {
+        "扭力計": "torsion balance"
+    },
+    {
+        "扭力黏度計": "torsion viscosimeter"
+    },
+    {
+        "扭轉偏移": "torsional deflection"
+    },
+    {
+        "穿流距離比(油層)": "tortuosity"
+    },
+    {
+        "總酸價": "total acid number"
+    },
+    {
+        "總鹼價": "total basic number"
+    },
+    {
+        "總硬度": "total hardness of water"
+    },
+    {
+        "焓 ; 熱函": "total heat"
+    },
+    {
+        "總熱值": "total heating value"
+    },
+    {
+        "總磁力": "total magnetic force"
+    },
+    {
+        "總孔隙率": "total porosity"
+    },
+    {
+        "總通風壓力 ; 總風壓 ; 總壓力": "total pressure"
+    },
+    {
+        "總產量": "total production"
+    },
+    {
+        "總阻力 ; 總礦阻": "total resistance"
+    },
+    {
+        "總通風壓力 ; 總風阻": "total ventilating pressure"
+    },
+    {
+        "接觸熔接": "touch welding"
+    },
+    {
+        "精銅 ; 勒煉銅": "tough pitch copper"
+    },
+    {
+        "難開石面": "tough way"
+    },
+    {
+        "韌性": "toughness"
+    },
+    {
+        "電氣石 ;  壁璽": "tourmaline"
+    },
+    {
+        "平土機": "towed grader"
+    },
+    {
+        "井架工": "tower hand"
+    },
+    {
+        "滌氣塔": "tower scrubbing"
+    },
+    {
+        "汽提塔": "tower stripping"
+    },
+    {
+        "有毒性": "toxicity"
+    },
+    {
+        "痕跡 ; 追跡": "trace"
+    },
+    {
+        "追蹤術": "tracer technique"
+    },
+    {
+        "粗面岩": "trachyte"
+    },
+    {
+        "轉石追蹤": "tracing float"
+    },
+    {
+        "輸送機軌路 ; 鐵路 ; 軌道": "track"
+    },
+    {
+        "架空索道軌索": "track cable"
+    },
+    {
+        "軌距": "track gauge"
+    },
+    {
+        "鐵道搬運": "track haulage"
+    },
+    {
+        "無軌車礦": "trackless mine"
+    },
+    {
+        "無軌法隧道開鑿": "trackless tunnelling"
+    },
+    {
+        "架空索道牽引索": "traction rope"
+    },
+    {
+        "曳引濃集槽": "traction thickener"
+    },
+    {
+        "牽引力 ; 牽引作用力": "tractive force"
+    },
+    {
+        "牽引機 ; 牽引車 ; 曳引機": "tractor"
+    },
+    {
+        "頸式闊煤巷": "trail jud"
+    },
+    {
+        "拖車 ; 平板車": "trailer"
+    },
+    {
+        "拖曳電纜": "trailing cable"
+    },
+    {
+        "尾隨邊緣": "trailing edge"
+    },
+    {
+        "列車": "train"
+    },
+    {
+        "訓練工作面": "training face"
+    },
+    {
+        "訓練坑道": "training gallery"
+    },
+    {
+        "礦車": "tram"
+    },
+    {
+        "推運": "tramming"
+    },
+    {
+        "混入鐵器": "tramp iron"
+    },
+    {
+        "輕便鐵道 ; [架空]索道": "tramway"
+    },
+    {
+        "穿晶": "transcrystalline"
+    },
+    {
+        "橫移斷層": "transcurrent fault"
+    },
+    {
+        "轉換器": "transducers"
+    },
+    {
+        "礦石轉運吊井": "transfer"
+    },
+    {
+        "轉接礦槽": "transfer chute"
+    },
+    {
+        "轉接站": "transfer point"
+    },
+    {
+        "傳送率": "transfer rate"
+    },
+    {
+        "轉形斷層": "transform fault"
+    },
+    {
+        "變態": "transformation"
+    },
+    {
+        "變態點": "transformation point"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "經緯儀": "transit"
+    },
+    {
+        "未穩定流備": "transient flow"
+    },
+    {
+        "介曲線 ; 緩和曲線": "transition curve"
+    },
+    {
+        "過渡格子": "transition lattice"
+    },
+    {
+        "過渡期": "transition period"
+    },
+    {
+        "轉變點": "transition point"
+    },
+    {
+        "轉脆溫度": "transition temperature"
+    },
+    {
+        "遞變帶": "transition zone"
+    },
+    {
+        "滑移": "translation"
+    },
+    {
+        "半透明": "translucency"
+    },
+    {
+        "透明[性]": "transparency"
+    },
+    {
+        "流導性(油層)": "transmissibility"
+    },
+    {
+        "傳導 ; 傳輸": "transmission"
+    },
+    {
+        "傳輸系統": "transmission system"
+    },
+    {
+        "超鈍態": "transpassivity"
+    },
+    {
+        "蒸散": "transpiration"
+    },
+    {
+        "搬運 ; 運輸": "transport"
+    },
+    {
+        "遷移數": "transport number"
+    },
+    {
+        "可搬動設備": "transportable equipment"
+    },
+    {
+        "管線輸送": "transportation pipe line"
+    },
+    {
+        "運積土 ; 移積土壤": "transported soil"
+    },
+    {
+        "超鈾元素": "transuranic elements"
+    },
+    {
+        "橫彎試驗": "transverse bend test"
+    },
+    {
+        "橫向尺度": "transverse dimension"
+    },
+    {
+        "分離器 ; 封閉": "trap"
+    },
+    {
+        "分離器壓力": "trap pressure"
+    },
+    {
+        "河道沉積封閉": "trap channel filling"
+    },
+    {
+        "沉積封閉": "trap deposition"
+    },
+    {
+        "斷層褶皺封閉": "trap fault-fold"
+    },
+    {
+        "離岸砂洲封閉": "trap off-shore bar"
+    },
+    {
+        "構造封閉": "trap structure"
+    },
+    {
+        "定性地層測驗": "trap test"
+    },
+    {
+        "移動地陷角": "traveling angle of draw"
+    },
+    {
+        "可提式抽油襯筒": "traveling barrel"
+    },
+    {
+        "遊車 ; 遊動滑車": "traveling block"
+    },
+    {
+        "天車防撞器": "traveling block bumper"
+    },
+    {
+        "遊動閥": "traveling valve"
+    },
+    {
+        "走動負荷": "traveling weight"
+    },
+    {
+        "導線": "traverse"
+    },
+    {
+        "導線測量": "traverse survey"
+    },
+    {
+        "遷車台": "traverser"
+    },
+    {
+        "石灰華 ; 鈣華": "travertine"
+    },
+    {
+        "輸送機槽": "tray"
+    },
+    {
+        "泡罩盤": "trays bubble"
+    },
+    {
+        "處理器": "treater"
+    },
+    {
+        "脫臭處理 ; 脫硫處理": "treating process sweetening"
+    },
+    {
+        "廢水處理": "treating waste water"
+    },
+    {
+        "起枝": "treeing"
+    },
+    {
+        "震擾區域": "tremor tract"
+    },
+    {
+        "挖試溝": "trenching"
+    },
+    {
+        "重吊鑽具": "trepan"
+    },
+    {
+        "侵採": "trespass"
+    },
+    {
+        "三錐鑽頭": "tri-cone bit"
+    },
+    {
+        "三錐磨": "tri-con mill"
+    },
+    {
+        "三矽酸鹽": "tri-silicate"
+    },
+    {
+        "三斜度礦篩": "tri-slope screen"
+    },
+    {
+        "實驗工作面": "trial face"
+    },
+    {
+        "試坑": "trial pit"
+    },
+    {
+        "試炸": "trial shots"
+    },
+    {
+        "三疊紀；三疊系": "Triassic"
+    },
+    {
+        "三軸性": "triaxiality"
+    },
+    {
+        "小包採制": "tributing"
+    },
+    {
+        "小包工人": "tributors"
+    },
+    {
+        "三氯乙烯": "trichlorethylene"
+    },
+    {
+        "三斜晶系": "triclinic"
+    },
+    {
+        "三斜晶體": "triclinic crystal"
+    },
+    {
+        "激勵器": "trigger"
+    },
+    {
+        "三方晶體": "trigonal crystal"
+    },
+    {
+        "修整 ; 備整": "trim"
+    },
+    {
+        "周界炮孔 ; 修切炮孔": "trimmers"
+    },
+    {
+        "扳手 ; 管鉗": "trimo wrench"
+    },
+    {
+        "黃色炸藥 ; 三硝基甲苯": "trinitrotoluene"
+    },
+    {
+        "氣徵": "trip gas"
+    },
+    {
+        "三層完成": "triple completion"
+    },
+    {
+        "三進巷": "triple entry"
+    },
+    {
+        "三層完成填塞器": "triple packer"
+    },
+    {
+        "三重點 ; 三相平衡溫度": "triple point"
+    },
+    {
+        "三層完成耶誕樹": "triple tree"
+    },
+    {
+        "三缸泵": "triplex pump"
+    },
+    {
+        "三腳架": "tripod"
+    },
+    {
+        "矽藻石": "tripoli"
+    },
+    {
+        "輸送帶卸礦裝置 ; 卸礦機": "tripper"
+    },
+    {
+        "平台車": "trolley"
+    },
+    {
+        "單軋吊車": "trolley hoist"
+    },
+    {
+        "天線電車": "trolley locomotive"
+    },
+    {
+        "圓轉篩 ; 筒形轉篩": "trommel"
+    },
+    {
+        "吐粒散鐵": "troostite"
+    },
+    {
+        "車本納轉爐": "Tropenas converter"
+    },
+    {
+        "熱帶包裝炸藥": "tropic pack"
+    },
+    {
+        "困擾性頁岩": "troublesome shale"
+    },
+    {
+        "輸送機槽 ; 槽 ; 向斜底": "trough"
+    },
+    {
+        "重力輸送機": "trough conveyor"
+    },
+    {
+        "地塹斷層": "trough fault"
+    },
+    {
+        "槽形皮帶輸送機": "troughed belt"
+    },
+    {
+        "鑽井扭力錶": "tru-torgue indicator"
+    },
+    {
+        "下水泥卡車": "truck cementing"
+    },
+    {
+        "車載式穿測儀": "truck-mounted logging unit"
+    },
+    {
+        "真方向角": "true bearing"
+    },
+    {
+        "真傾斜": "true dip"
+    },
+    {
+        "真流體": "true fluid"
+    },
+    {
+        "真子午線": "true meridian"
+    },
+    {
+        "真北": "true north"
+    },
+    {
+        "真比重": "true specific gravity"
+    },
+    {
+        "真應力": "true stress"
+    },
+    {
+        "微細焦點式井錄[電測圖]": "trumpet log"
+    },
+    {
+        "號角黃銅": "trumpet metal"
+    },
+    {
+        "幹線輸送機": "trunk conveyor"
+    },
+    {
+        "幹線": "trunk line"
+    },
+    {
+        "幹線坑道": "trunk roadway"
+    },
+    {
+        "暫停鑽進": "T.S.D."
+    },
+    {
+        "海嘯": "tsunamis"
+    },
+    {
+        "礦車": "tub"
+    },
+    {
+        "礦車卡": "tub stop"
+    },
+    {
+        "直井圓筒襯壁": "tubbing"
+    },
+    {
+        "管鋏": "tube clamp"
+    },
+    {
+        "礦管器": "tube expander"
+    },
+    {
+        "濾塵管": "tube filter"
+    },
+    {
+        "管形爐": "tube furnace"
+    },
+    {
+        "管磨機": "tube mill"
+    },
+    {
+        "管板": "tube sheet"
+    },
+    {
+        "結核體": "tuberculation"
+    },
+    {
+        "瘤狀礦物": "tuberose"
+    },
+    {
+        "通風管 ; 油管": "tubing"
+    },
+    {
+        "油管錨": "tubing anchor"
+    },
+    {
+        "油管錨塞": "tubing anchor packer"
+    },
+    {
+        "油管洩放閥": "tubing bleeder"
+    },
+    {
+        "油管起下滑車": "tubing block"
+    },
+    {
+        "油管測徑儀": "tubing caliper"
+    },
+    {
+        "油管撈抓": "tubing catcher"
+    },
+    {
+        "油管止回瓣": "tubing check"
+    },
+    {
+        "井口油管接頭": "tubing extension"
+    },
+    {
+        "油管刮規": "tubing gauge cutter"
+    },
+    {
+        "油管接合法蘭": "tubing-head adapter flange"
+    },
+    {
+        "油管穿孔": "tubing perforation"
+    },
+    {
+        "襯筒式抽油泵": "tubing pump"
+    },
+    {
+        "油管伸縮節": "tubing receptacle"
+    },
+    {
+        "油管起揚機": "tubing retractor"
+    },
+    {
+        "油管安全閥": "tubing safety valve"
+    },
+    {
+        "油管封塞裝置": "tubing seal assembly"
+    },
+    {
+        "套管完成法 ; 油管兼套管完井": "tubingless completion"
+    },
+    {
+        "管類": "tubular goods"
+    },
+    {
+        "勒性水泥 ; 纖維水泥": "tuf cement"
+    },
+    {
+        "凝灰岩": "tuff"
+    },
+    {
+        "大皮帶導輪": "tug-rin"
+    },
+    {
+        "杜肯硬度試驗機": "Tukon tester"
+    },
+    {
+        "轉動磨礦機": "tumbling mill"
+    },
+    {
+        "桐油": "tung oil"
+    },
+    {
+        "鎢": "tungsten"
+    },
+    {
+        "碳化鎢": "tungsten carbide"
+    },
+    {
+        "鎢碳鋼鑽頭": "tungsten carbide bit"
+    },
+    {
+        "鎢碳鋼鑽頭": "tungsten carbide insert bit"
+    },
+    {
+        "鎢極": "tungsten electrodes"
+    },
+    {
+        "隧道 ; 坑道": "tunnel"
+    },
+    {
+        "巷道法爆破": "tunnel blast"
+    },
+    {
+        "隧道鑿進車": "tunnel carriage"
+    },
+    {
+        "坑道襯壁": "tunnel lining"
+    },
+    {
+        "坑道開鑿": "tunnelling"
+    },
+    {
+        "混濁度": "turbidity"
+    },
+    {
+        "透平 ; 輪機 ; 滑輪機": "turbine"
+    },
+    {
+        "輪機滑油": "turbine-oil"
+    },
+    {
+        "輪機泵 ; 透平泵 ; 渦輪泵": "turbine pump"
+    },
+    {
+        "渦輪鼓風機": "turbo blower"
+    },
+    {
+        "渦輪鑽井": "turbo drilling"
+    },
+    {
+        "亂流因數": "turbulence factor"
+    },
+    {
+        "湍流 ; 亂流 ; 紊流 ; 擾流": "turbulent flow"
+    },
+    {
+        "水赤鐵礦": "turgite"
+    },
+    {
+        "方角成形輥": "turks head rolls"
+    },
+    {
+        "迴旋緊子 ; 鬆緊螺旋扣": "turnbuckle"
+    },
+    {
+        "轉向直井": "turned vertical shaft"
+    },
+    {
+        "側線 ; 道岔 ; 叉道": "turnout"
+    },
+    {
+        "週期週轉": "turnover"
+    },
+    {
+        "轉車鋼板": "turnsheet"
+    },
+    {
+        "轉盤": "turntable"
+    },
+    {
+        "土耳其玉 ; 綠松石": "turquoise"
+    },
+    {
+        "計件工作 ; 包工": "tut-work"
+    },
+    {
+        "風嘴": "tuyere"
+    },
+    {
+        "風嘴帶": "tuyere zone"
+    },
+    {
+        "陶氏比重計": "Twaddell hydrometer"
+    },
+    {
+        "雙晶條": "twin bands"
+    },
+    {
+        "雙蕊電爆線": "twin-core shotfiring cable"
+    },
+    {
+        "雙晶": "twinning"
+    },
+    {
+        "螺鑽 ; 麻花鑽": "twist drill"
+    },
+    {
+        "脫扣": "twist-off"
+    },
+    {
+        "二重軋機": "two-high rolling mill"
+    },
+    {
+        "二重萬能軋鋼機": "two-high universal mill"
+    },
+    {
+        "雙進風港制": "two-intakes"
+    },
+    {
+        "二路式熱風爐": "two-pass stove"
+    },
+    {
+        "兩相流動": "two-phase flow"
+    },
+    {
+        "兩相地層體積因數": "two-phase formation volume factor"
+    },
+    {
+        "雙向變態": "two-phase transformation"
+    },
+    {
+        "一柱一樑架 ; 二節棚": "two-piece set"
+    },
+    {
+        "粗細分類洗煤機": "two-process washer"
+    },
+    {
+        "二級壓縮": "two-stage compression"
+    },
+    {
+        "兩段捲揚": "two-stage hoisting"
+    },
+    {
+        "兩翼鑽頭": "two-way bit"
+    },
+    {
+        "兩翼鑽頭": "two-wing bit"
+    },
+    {
+        "闊溜洗槽": "tye"
+    },
+    {
+        "泰勒系統": "Tyler series"
+    },
+    {
+        "代表地層產生": "type locality"
+    },
+    {
+        "活字合金": "type metals"
+    },
+    {
+        "U管流體壓力計": "U-tube manometer"
+    },
+    {
+        "元素分析": "ultimate analysis"
+    },
+    {
+        "極限負荷": "ultimate load"
+    },
+    {
+        "最大總產量": "ultimate production"
+    },
+    {
+        "最大總採收量": "ultimate recovery"
+    },
+    {
+        "極限抗張強度": "ultimate tensile strength"
+    },
+    {
+        "超強力鋼": "ultra-high tensile steels"
+    },
+    {
+        "紫外線顯微鏡學": "ultra-violet microscopy"
+    },
+    {
+        "紫外線": "ultra-violet rays"
+    },
+    {
+        "超音波清洗": "ultrasonic cleaning"
+    },
+    {
+        "超音波焊接": "ultrasonic soldering"
+    },
+    {
+        "超音波檢驗": "ultrasonic test"
+    },
+    {
+        "紫外線": "ultraviolet light"
+    },
+    {
+        "紫外線放射": "ultraviolet radiation"
+    },
+    {
+        "不平衡捲揚": "unbalanced hoisting"
+    },
+    {
+        "不破裂金屬": "unbreakable metal"
+    },
+    {
+        "裸孔": "uncased hole"
+    },
+    {
+        "不整合": "unconformity"
+    },
+    {
+        "不整合封閉": "unconformity trap"
+    },
+    {
+        "疏鬆砂層": "unconsolidated sand"
+    },
+    {
+        "未浸污層": "uncontaminated zone"
+    },
+    {
+        "低溫退火": "under-annealing"
+    },
+    {
+        "擴鑽": "under-ream"
+    },
+    {
+        "擴展式擴孔器 ; 底孔鑽": "under-reamer"
+    },
+    {
+        "底索法索道搬運": "under-rope haulage"
+    },
+    {
+        "未飽和油層": "under saturated pool"
+    },
+    {
+        "未飽和油層": "under saturated-reservoir"
+    },
+    {
+        "焊裂": "underbead crack"
+    },
+    {
+        "久炸岩": "underbreak"
+    },
+    {
+        "地下道式風橋": "undercast"
+    },
+    {
+        "底磐泥 ; 煤層底土": "underclay"
+    },
+    {
+        "過冷": "undercooling"
+    },
+    {
+        "闊洗金槽": "undercurrent"
+    },
+    {
+        "底切": "undercut"
+    },
+    {
+        "底切噴霧器": "undercut atomizer"
+    },
+    {
+        "底切著火": "undercut ignition"
+    },
+    {
+        "基蝕 ; 低截餾": "undercutting"
+    },
+    {
+        "火下加煤機": "underfeed stoker"
+    },
+    {
+        "潛流 ; 暗流 ; 篩上物": "underflow"
+    },
+    {
+        "次規井孔": "undergage hole"
+    },
+    {
+        "井內噴井": "underground blowout"
+    },
+    {
+        "坑內礦倉": "underground bunker"
+    },
+    {
+        "地下燃燒法 ; 火攻採油法": "underground combustion"
+    },
+    {
+        "坑內探勘": "underground exploration"
+    },
+    {
+        "坑內車庫": "underground garage"
+    },
+    {
+        "地下氣化": "underground gasification"
+    },
+    {
+        "坑內漏斗井采礦法": "underground glory hole method"
+    },
+    {
+        "坑內運輸": "underground haulage"
+    },
+    {
+        "坑內選礦場": "underground mill"
+    },
+    {
+        "地下貯層": "underground reservoir"
+    },
+    {
+        "地下貯庫": "underground storage"
+    },
+    {
+        "坑內用變壓器": "underground transformer"
+    },
+    {
+        "坑內作業": "underground working"
+    },
+    {
+        "坑內修理間": "underground workshop"
+    },
+    {
+        "俯採法 ; 下向採掘法": "underhand stoping"
+    },
+    {
+        "傾斜": "underlay"
+    },
+    {
+        "底磐斜井": "underlay shaft"
+    },
+    {
+        "傾斜 ; 撐木傾角": "underlie"
+    },
+    {
+        "下伏層": "underlying bed"
+    },
+    {
+        "抽油機垂擉裝置": "underpull jack"
+    },
+    {
+        "海底採礦": "undersea mining"
+    },
+    {
+        "海底探勘": "undersea prospecting"
+    },
+    {
+        "篩下物": "undersize"
+    },
+    {
+        "低應力反覆處理": "understressing"
+    },
+    {
+        "俯衝斷層": "underthrust"
+    },
+    {
+        "水底完成": "underwater completion"
+    },
+    {
+        "柱撐直接壓力": "underweight"
+    },
+    {
+        "未擾動樣品": "undisturbed sample"
+    },
+    {
+        "含水剪力試驗": "undrained shear test"
+    },
+    {
+        "不平斷口": "uneven fracture"
+    },
+    {
+        "單聯式穿孔器": "uni-jet perferator"
+    },
+    {
+        "等速流": "uniform flow"
+    },
+    {
+        "級配均勻土壤": "uniformly-graded soil"
+    },
+    {
+        "聯合比色計": "union colorimeter"
+    },
+    {
+        "聯合合金": "union metal"
+    },
+    {
+        "結合熔接法": "unionmelt process"
+    },
+    {
+        "混合液脫臭 ; 混合液脫硫": "unisol sweeting"
+    },
+    {
+        "度 ; 單位": "unit"
+    },
+    {
+        "基準單位 ; 基準度": "unit basis"
+    },
+    {
+        "協議開發": "unit exploitation"
+    },
+    {
+        "單元浮選機": "unit flotation cell"
+    },
+    {
+        "聯合開發 ; 單元操作 ; 單位操作": "unit operation"
+    },
+    {
+        "聯合開發合作": "unit operation agreement"
+    },
+    {
+        "單位馬力": "unit power"
+    },
+    {
+        "單位制通風": "unit ventilation"
+    },
+    {
+        "單價": "univalent"
+    },
+    {
+        "萬能切煤機": "universal coal-cutter"
+    },
+    {
+        "萬向接頭": "universal joint"
+    },
+    {
+        "萬能軋機": "universal mill"
+    },
+    {
+        "萬能[材料]試驗機": "universal testing machine"
+    },
+    {
+        "綜合熱處理": "universal trim"
+    },
+    {
+        "無鉛汽油": "unlead gasoline"
+    },
+    {
+        "裸孔": "unlined hole"
+    },
+    {
+        "翻車架 ; 翻車機": "unloader"
+    },
+    {
+        "非生產開拓": "unproductive development"
+    },
+    {
+        "不安全動作": "unsafe act"
+    },
+    {
+        "不安全動作": "unsafe behavior"
+    },
+    {
+        "不安全環境": "unsafe condition"
+    },
+    {
+        "不安全環境": "unsafe environment"
+    },
+    {
+        "不飽和烴": "unsaturated hydrocarbon"
+    },
+    {
+        "不飽和鹽水泥漿": "unsaturated salt water mud"
+    },
+    {
+        "不飽和": "unsaturation"
+    },
+    {
+        "退扣": "unscrew"
+    },
+    {
+        "未密封貯油層": "unsealed reservoir"
+    },
+    {
+        "快速鑽進": "unspool"
+    },
+    {
+        "未穩流": "unsteady state flow"
+    },
+    {
+        "逆傾": "up dip"
+    },
+    {
+        "高區井": "up-dip well"
+    },
+    {
+        "孔口受波器 ; 井口受波器": "up-hole geophone"
+    },
+    {
+        "孔口炸測": "up-hole shooting"
+    },
+    {
+        "排氣坑": "upcast"
+    },
+    {
+        "出風井 ; 排氣坑 ; 回風井": "upcast shaft"
+    },
+    {
+        "遊動閥": "upper valve"
+    },
+    {
+        "頂層水": "upper water"
+    },
+    {
+        "加厚管頭": "upset"
+    },
+    {
+        "管頭加厚套管": "upset casing"
+    },
+    {
+        "加厚鑽桿接頭": "upset end joint"
+    },
+    {
+        "管頭加厚管": "upset tubing"
+    },
+    {
+        "鍛粗": "upsetting"
+    },
+    {
+        "上昇衝程": "upstroke"
+    },
+    {
+        "出風井": "uptake"
+    },
+    {
+        "結晶瀝青鈾礦": "uraninite"
+    },
+    {
+        "鈾礦類": "uranite"
+    },
+    {
+        "鈾": "uranium"
+    },
+    {
+        "鈾醯": "uranyl"
+    },
+    {
+        "尿素": "urea"
+    },
+    {
+        "尿素樹脂": "urea resin"
+    },
+    {
+        "空位": "vacancy"
+    },
+    {
+        "空位跳越": "vacancy jumps"
+    },
+    {
+        "抽吸噴擊": "vacu-blast"
+    },
+    {
+        "真空": "vacuum"
+    },
+    {
+        "真空鑄造": "vacuum casting"
+    },
+    {
+        "真空除氣機": "vacuum degasser"
+    },
+    {
+        "真空沉積": "vacuum deposition"
+    },
+    {
+        "真空蒸餾": "vacuum distillation"
+    },
+    {
+        "真空扇風機": "vacuum fan"
+    },
+    {
+        "真空濾機 ; 真空濾池": "vacuum filter"
+    },
+    {
+        "真空過濾": "vacuum filtration"
+    },
+    {
+        "真空計": "vacuum gauge"
+    },
+    {
+        "真空鍍覆": "vacuum plating"
+    },
+    {
+        "真空泵": "vacuum pump"
+    },
+    {
+        "真空蒸餾器": "vacuum still"
+    },
+    {
+        "真空處理": "vacuum treatment"
+    },
+    {
+        "下滲水": "vadose water"
+    },
+    {
+        "[原子]價": "valence"
+    },
+    {
+        "凡銳合金": "Valray"
+    },
+    {
+        "碘價 ; 碘值": "value iodine"
+    },
+    {
+        "金值 ; 金品位": "values"
+    },
+    {
+        "閥": "valve"
+    },
+    {
+        "制動閥": "valve actuator"
+    },
+    {
+        "盲閘閥": "valve blind"
+    },
+    {
+        "差壓閥": "valve differential"
+    },
+    {
+        "閥齒輪": "valve gear"
+    },
+    {
+        "槓桿放油閥": "valve lever dump"
+    },
+    {
+        "閥定位器": "valve positioner"
+    },
+    {
+        "調節閥": "valve regulator"
+    },
+    {
+        "閥座": "valve seat"
+    },
+    {
+        "電磁閥": "valve solenoid"
+    },
+    {
+        "直流閥": "valve straightway"
+    },
+    {
+        "三向閥": "valve three way"
+    },
+    {
+        "遊動閥": "valve travelling"
+    },
+    {
+        "凡奧科法": "Van Arkel process"
+    },
+    {
+        "釩鉛礦": "vanadinite"
+    },
+    {
+        "釩": "vanadium"
+    },
+    {
+        "風速計": "vane anemometer"
+    },
+    {
+        "葉片旋轉剪力試驗": "vane test"
+    },
+    {
+        "播洗器": "vanner"
+    },
+    {
+        "播洗[法]": "vanning"
+    },
+    {
+        "播洗試金法": "vanning assay"
+    },
+    {
+        "氣體滲碳法": "vapocarb process"
+    },
+    {
+        "[貯油罐]蒸汽圓頂": "vapor dome"
+    },
+    {
+        "氣液平衡": "vapor-liquid equilibrium"
+    },
+    {
+        "汽障": "vapor lock"
+    },
+    {
+        "李得蒸汽壓": "vapor pressure Reid"
+    },
+    {
+        "蒸發器": "vaporizer"
+    },
+    {
+        "蒸汽噴洗": "vapour blasting"
+    },
+    {
+        "蒸汽去油": "vapour degreasing"
+    },
+    {
+        "汽相抑制劑": "vapour phase inhibitors"
+    },
+    {
+        "蒸汽壓 ; 汽壓": "vapour pressure"
+    },
+    {
+        "變斜多層礦篩": "vari-slope screen"
+    },
+    {
+        "洗選桶": "vat"
+    },
+    {
+        "楔形割眼式 ; 楔形抽心孔式": "vee cut"
+    },
+    {
+        "魏加氏定律": "Vegard's law"
+    },
+    {
+        "礦脈": "vein"
+    },
+    {
+        "瀝青脈": "vein bitumen"
+    },
+    {
+        "脈石英": "vein quartz"
+    },
+    {
+        "礦脈物": "vein-stuff"
+    },
+    {
+        "礦脈系": "vein-system"
+    },
+    {
+        "細礦脈": "veinlet"
+    },
+    {
+        "脈石": "veinstone"
+    },
+    {
+        "震爆速度": "velocity of detonation"
+    },
+    {
+        "淺層油砂": "velvet"
+    },
+    {
+        "射流項 ; 約縮斷面": "vena contracta"
+    },
+    {
+        "氣氣孔 ; 通氣孔": "vent hole"
+    },
+    {
+        "通風": "ventilation"
+    },
+    {
+        "風門": "ventilation door"
+    },
+    {
+        "通風效率": "ventilation efficiency"
+    },
+    {
+        "通風公式": "ventilation formula"
+    },
+    {
+        "通風計畫": "ventilation planning"
+    },
+    {
+        "通風壓力 ; 風壓": "ventilation pressure"
+    },
+    {
+        "調節風窗 ; 調節風門": "ventilation regulator"
+    },
+    {
+        "分流通風": "ventilation splitting"
+    },
+    {
+        "通風標準": "ventilation standards"
+    },
+    {
+        "封堵牆": "ventilation stopping"
+    },
+    {
+        "通風測量": "ventilation survey"
+    },
+    {
+        "通風符號": "ventilation symbols"
+    },
+    {
+        "通風管": "ventilation tubing"
+    },
+    {
+        "交氏流量計 ; 細腰流量計": "Venturi meter"
+    },
+    {
+        "細腰管": "Venturi tube"
+    },
+    {
+        "銅綠": "verdigris"
+    },
+    {
+        "蛭石 ; 蛭石填料": "vermiculite"
+    },
+    {
+        "豎式螺鑽": "vertical auger drill"
+    },
+    {
+        "縱曲線 ; 豎曲線": "vertical curve"
+    },
+    {
+        "豎向導惰輪": "vertical guide idlers"
+    },
+    {
+        "垂直移棲": "vertical migration"
+    },
+    {
+        "垂直滲透率": "vertical permeability"
+    },
+    {
+        "細胞狀": "vesicular"
+    },
+    {
+        "振動輸送機": "vibrating conveyor"
+    },
+    {
+        "震動爐篦": "vibrating grate"
+    },
+    {
+        "耐震軟管": "vibrating hose"
+    },
+    {
+        "振動裝車台": "vibrating platform"
+    },
+    {
+        "振動篩 ; 泥漿篩": "vibrating screen"
+    },
+    {
+        "震動法頂磐試驗": "vibration method of roof testing"
+    },
+    {
+        "震動試驗": "vibration test"
+    },
+    {
+        "震動篩 ; 振動篩": "vibratory screen"
+    },
+    {
+        "震動計": "vibrograph"
+    },
+    {
+        "振盪震源": "vibroseis"
+    },
+    {
+        "維凱合金": "Vicalloy"
+    },
+    {
+        "維氏硬度": "Vickers hardness"
+    },
+    {
+        "維氏硬度試驗": "Vickers hardness test"
+    },
+    {
+        "維多利克接頭": "victaulic coupling"
+    },
+    {
+        "處女煤": "virgin coal"
+    },
+    {
+        "初生金屬 ; 原煉金屬": "virgin metal"
+    },
+    {
+        "油氣層原始壓力": "virgin pressure"
+    },
+    {
+        "虛比降": "virtual slope"
+    },
+    {
+        "減黏": "visbreaking"
+    },
+    {
+        "滯彈現象": "viscoelastic behaviour"
+    },
+    {
+        "絕度計": "viscometer; viscosimeter"
+    },
+    {
+        "黏度": "viscosity"
+    },
+    {
+        "增黏劑": "viscosity builder"
+    },
+    {
+        "直接指示黏度": "viscosity direct indicating"
+    },
+    {
+        "黏度比重常數": "viscosity gravity constant"
+    },
+    {
+        "黏度指數": "viscosity index"
+    },
+    {
+        "對應黏度": "viscosity reduced"
+    },
+    {
+        "司氏黏度": "viscosity Stormer"
+    },
+    {
+        "黏度試驗": "viscosity test"
+    },
+    {
+        "遲滯潛變": "viscous creep"
+    },
+    {
+        "滯流 ; 黏流": "viscous flow"
+    },
+    {
+        "黏性流體": "viscous fluid"
+    },
+    {
+        "捲揚指示儀": "visual indicator"
+    },
+    {
+        "維塔立合金": "Vitallium"
+    },
+    {
+        "鏡煤素 ; 晶煤": "vitrain"
+    },
+    {
+        "玻璃搪瓷": "vitreous enamelling"
+    },
+    {
+        "玻璃光澤": "vitreous lustre"
+    },
+    {
+        "玻璃化": "vitrification"
+    },
+    {
+        "熔結 ; 玻璃化": "vitrifying"
+    },
+    {
+        "硫酸": "vitriol"
+    },
+    {
+        "空隙 ; 空洞": "void"
+    },
+    {
+        "空隙率": "void ratio"
+    },
+    {
+        "空隙": "void space"
+    },
+    {
+        "空隙": "voidage"
+    },
+    {
+        "揮發物": "volatile matter"
+    },
+    {
+        "揮發性油儲層": "volatile oil reservoir"
+    },
+    {
+        "揮發性產品": "volatile product"
+    },
+    {
+        "汽油": "volatile spirts"
+    },
+    {
+        "揮發性 ; 揮發度": "volatility"
+    },
+    {
+        "相對揮發度": "volatility relative"
+    },
+    {
+        "火山彈": "volcanic bomb"
+    },
+    {
+        "火山角礫岩": "volcanic breccia"
+    },
+    {
+        "井底加熱器": "volcanic burner"
+    },
+    {
+        "火山岩貯油層": "volcanic reservoir rock"
+    },
+    {
+        "井底加熱處理": "volcanic treatment"
+    },
+    {
+        "火山作用": "volcanism"
+    },
+    {
+        "火山": "volcano"
+    },
+    {
+        "錫礦砂乾燥場": "vole"
+    },
+    {
+        "伏特電池": "voltaic cell"
+    },
+    {
+        "體積因數": "volume factor"
+    },
+    {
+        "分子體積": "volume mole"
+    },
+    {
+        "對應體積": "volume reduced"
+    },
+    {
+        "體積分析": "volumetric analysis"
+    },
+    {
+        "體積法計算": "volumetric calculation"
+    },
+    {
+        "體積法": "volumetric method"
+    },
+    {
+        "體積固竭型油氣層": "volumetric reservoir"
+    },
+    {
+        "體積流量計": "volumetric type flowmeter"
+    },
+    {
+        "渦形外殼": "volute"
+    },
+    {
+        "拱石": "voussoirs"
+    },
+    {
+        "孔穴充填": "vug filling"
+    },
+    {
+        "孔穴孔隙率": "vugular porosity"
+    },
+    {
+        "加硫橡膠": "vulcanized rubber"
+    },
+    {
+        "錳土 ; 不純硬錳礦": "wad"
+    },
+    {
+        "搖擺扇風機": "waddle fan"
+    },
+    {
+        "鐵路貨車": "wagon"
+    },
+    {
+        "貨車制動器": "wagon arrester"
+    },
+    {
+        "貨車增速減速器": "wagon booster-retarder"
+    },
+    {
+        "車裝鑽機": "wagon drill"
+    },
+    {
+        "撬棍 ; 撬桿": "wagon pinch bar"
+    },
+    {
+        "復軌器": "wagon re-railer"
+    },
+    {
+        "貨車減速器": "wagon retarder"
+    },
+    {
+        "貨車翻車架": "wagon tippler"
+    },
+    {
+        "瓦氏轉盤澆注機": "wagon casting wheel"
+    },
+    {
+        "華氏盤形切煤機": "Walker disc machine"
+    },
+    {
+        "遊樑": "walking beam"
+    },
+    {
+        "行走式拉索挖機": "walking dragline"
+    },
+    {
+        "行走式連續採煤機": "walking miner"
+    },
+    {
+        "自走支架": "walking support"
+    },
+    {
+        "磐 ; 側壁": "wall"
+    },
+    {
+        "牆結": "wall accretions"
+    },
+    {
+        "井壁刷": "wall brush"
+    },
+    {
+        "造壁性": "wall building"
+    },
+    {
+        "泥壁": "wall cake"
+    },
+    {
+        "清壁器 ; 清壁刷": "wall cleaner"
+    },
+    {
+        "管鈎 ; 打撈鈎": "wall hook"
+    },
+    {
+        "套管內填塞器": "wall hook packer"
+    },
+    {
+        "長向邊樑": "wall plate"
+    },
+    {
+        "井壁電阻電測圖": "wall resistivity log"
+    },
+    {
+        "圍岩": "wall rock"
+    },
+    {
+        "井壁採樣器": "wall sampler"
+    },
+    {
+        "井壁抓刷": "wall scratcher"
+    },
+    {
+        "差壓黏卡": "wall sticking"
+    },
+    {
+        "砌井圈": "walling"
+    },
+    {
+        "基礎襯壁": "walling curb"
+    },
+    {
+        "襯壁工作台": "walling scaffold"
+    },
+    {
+        "煤巷 ; 礦體邊界": "walls"
+    },
+    {
+        "磷酸鹽表面處理": "walterisation"
+    },
+    {
+        "[計]量桿": "wantage rod"
+    },
+    {
+        "華利電動組合控制": "Ward-Leonard control"
+    },
+    {
+        "材料庫 ; 倉庫": "warehouse"
+    },
+    {
+        "溫暖硬化": "warm hardening"
+    },
+    {
+        "溫暖加工": "warm-work"
+    },
+    {
+        "彎曲斷層": "warped fault"
+    },
+    {
+        "煤層黏土底磐": "warrant"
+    },
+    {
+        "華瑞克安全裝置": "Warwick safety device"
+    },
+    {
+        "沖冼管": "wash pipe"
+    },
+    {
+        "洗選曲線 ; 可洗曲線": "washability curve"
+    },
+    {
+        "沖冼矛": "washdown spear"
+    },
+    {
+        "洗煤機 ; 墊圈 ; 墊杯": "washer"
+    },
+    {
+        "選礦廠 ; 選煤廠 ; 洗煤場": "washery"
+    },
+    {
+        "洗煤用水": "washery water"
+    },
+    {
+        "洗滌油": "washing oil"
+    },
+    {
+        "煤層萎縮區": "washouts"
+    },
+    {
+        "套洗管": "washover pipe"
+    },
+    {
+        "套洗鞋": "washover shoe"
+    },
+    {
+        "腐蝕耗損": "wastage"
+    },
+    {
+        "採掘跡": "waste"
+    },
+    {
+        "採掘跡邊線支架": "waste edge support"
+    },
+    {
+        "廢氣": "waste gas"
+    },
+    {
+        "廢熱": "waste heat"
+    },
+    {
+        "廢水處理": "waste water disposal"
+    },
+    {
+        "水袋塞": "waster ampoule stemming"
+    },
+    {
+        "水分析": "water analysis"
+    },
+    {
+        "水衡機 ; 溶液平量": "water balance"
+    },
+    {
+        "吊水桶": "water barrel"
+    },
+    {
+        "防水煤注": "water barrier"
+    },
+    {
+        "水基隔離液": "water base flush"
+    },
+    {
+        "水基泥漿": "water base mud"
+    },
+    {
+        "含水面": "water bearing horizon"
+    },
+    {
+        "含水層": "water bearing layer"
+    },
+    {
+        "注水爆破": "water blasting"
+    },
+    {
+        "水障": "water block"
+    },
+    {
+        "鍋爐給水": "water boiler feed"
+    },
+    {
+        "水底煤氣發生爐": "water bottom gas producer"
+    },
+    {
+        "水結": "water bound"
+    },
+    {
+        "水容量": "water capacity"
+    },
+    {
+        "水灰比": "water-cement ratio"
+    },
+    {
+        "水錐": "water cone"
+    },
+    {
+        "水錐作用": "water coning"
+    },
+    {
+        "水潛動": "water creep"
+    },
+    {
+        "結晶水": "water crystallization"
+    },
+    {
+        "水墊": "water cushion"
+    },
+    {
+        "水切": "water cut"
+    },
+    {
+        "水封閉牆": "water dam"
+    },
+    {
+        "廢水柱入井": "water disposal well"
+    },
+    {
+        "水滴腐蝕試驗": "water-drip test"
+    },
+    {
+        "水驅": "water drive"
+    },
+    {
+        "水侵": "water encroachment"
+    },
+    {
+        "封水[法]": "water exclusion"
+    },
+    {
+        "檢水儀": "water finder"
+    },
+    {
+        "示水膏": "water finder paste"
+    },
+    {
+        "指侵 ; 水竄 ; 指狀水侵": "water fingering"
+    },
+    {
+        "水沖採油": "water flooding"
+    },
+    {
+        "水煤氣": "water gas"
+    },
+    {
+        "水位計 ; 水錶": "water gauge"
+    },
+    {
+        "水碎碴": "water granulated slag"
+    },
+    {
+        "水玻璃": "water glass"
+    },
+    {
+        "水層": "water horizon"
+    },
+    {
+        "水侵": "water incursion"
+    },
+    {
+        "水侵": "water inflex"
+    },
+    {
+        "煤層注水": "water infusion"
+    },
+    {
+        "注水槍": "water infusion gun"
+    },
+    {
+        "注水泵甫": "water-infusion pump"
+    },
+    {
+        "注水法": "water injection"
+    },
+    {
+        "水油乳": "water in oil emulsion"
+    },
+    {
+        "湧水": "water inrush"
+    },
+    {
+        "水侵": "water intrusion"
+    },
+    {
+        "水侵": "water invasion"
+    },
+    {
+        "水分離": "water knock out"
+    },
+    {
+        "水層": "water layer"
+    },
+    {
+        "潛水面 ; 水位 ; 水平面 ; 排水平坑": "water level"
+    },
+    {
+        "[吃]水線": "water line"
+    },
+    {
+        "水線腐蝕": "water-line corrosion"
+    },
+    {
+        "水倉 ; 水庫": "water lodge"
+    },
+    {
+        "水淹": "water logged"
+    },
+    {
+        "濾液 ; 脫水": "water loss"
+    },
+    {
+        "水份滲移力": "water migration force"
+    },
+    {
+        "毛管水": "water of capillarity"
+    },
+    {
+        "水油比": "water oil ratio"
+    },
+    {
+        "水淬火": "water quenching"
+    },
+    {
+        "拒水膜": "water-repellent coating"
+    },
+    {
+        "水圈": "water ring"
+    },
+    {
+        "水飽和率": "water saturation"
+    },
+    {
+        "水封": "water seal"
+    },
+    {
+        "封閉水層": "water shut off"
+    },
+    {
+        "水溶性油": "water soluble oil"
+    },
+    {
+        "隔水套管串 ; 隔水套管": "water string"
+    },
+    {
+        "天車台 ; 地下水面": "water table"
+    },
+    {
+        "潛水位等高線": "water-table contour"
+    },
+    {
+        "常水位深度": "water-table level"
+    },
+    {
+        "天車台空間": "water table opening"
+    },
+    {
+        "水灰比": "water-to-cement ratio"
+    },
+    {
+        "水勒化": "water toughening"
+    },
+    {
+        "水擾": "water trouble"
+    },
+    {
+        "水管鍋爐": "water-tube boiler"
+    },
+    {
+        "循環溝 ; 水路": "water way"
+    },
+    {
+        "水濕性儲油層": "water wet reservoirs"
+    },
+    {
+        "測水儀": "water witch"
+    },
+    {
+        "水道": "watercourse"
+    },
+    {
+        "水基液裂": "waterfrac"
+    },
+    {
+        "防水石粉": "waterproofed stone dust"
+    },
+    {
+        "防水電氣雷管": "waterproof electric blasting cap"
+    },
+    {
+        "瓦 ; 瓦特": "watt"
+    },
+    {
+        "瓦時 ": "watt-hour"
+    },
+    {
+        "瓦計 ; 瓦特計": "wattmeter"
+    },
+    {
+        "波動力學": "wave mechanics"
+    },
+    {
+        "波頻計 ; 波長計": "wavemeter"
+    },
+    {
+        "蠟": "wax"
+    },
+    {
+        "含蠟蒸餾液": "wax distillate"
+    },
+    {
+        "通氣蠟帶": "wax-vent"
+    },
+    {
+        "磨損": "wear"
+    },
+    {
+        "防磨襯套": "wear bushing"
+    },
+    {
+        "耐磨合金": "wear-resisting alloy"
+    },
+    {
+        "風化": "weathering"
+    },
+    {
+        "風化層修正 ; 表層修正": "weathering correction"
+    },
+    {
+        "煤風化": "weathering of coal"
+    },
+    {
+        "天然汽油風化": "weathering of natural gasoline"
+    },
+    {
+        "原油風化": "weathering of oil"
+    },
+    {
+        "風化原油": "weathering oil"
+    },
+    {
+        "機採煤面條片": "web"
+    },
+    {
+        "尖劈 ; 楔木": "wedge"
+    },
+    {
+        "劈楔套管岩栓": "wedge-and-sleeve bolt"
+    },
+    {
+        "卡瓦 ; 楔塊": "wedge block"
+    },
+    {
+        "楔螺栓": "wedge bolt"
+    },
+    {
+        "楔形割眼式 ; 楔形抽心孔式": "wedge cut"
+    },
+    {
+        "楔形導軌": "wedge guides"
+    },
+    {
+        "楔形理論": "wedge theory"
+    },
+    {
+        "楔形篩線網篩": "wedge wire screen"
+    },
+    {
+        "基本襯壁": "wedging curb"
+    },
+    {
+        "滴液岩心 ; 易碎岩心": "weeping core"
+    },
+    {
+        "韋氏氧氣呼吸器": "Weg oxygen apparatus"
+    },
+    {
+        "不停車自動磅秤": "weighing-in-motion system"
+    },
+    {
+        "頂磐低降 ; 重量": "weight"
+    },
+    {
+        "分批秤拌": "weight batching"
+    },
+    {
+        "重錘落卡法": "weight dropping method"
+    },
+    {
+        "指重計": "weight indicating gage"
+    },
+    {
+        "加重料": "weight material"
+    },
+    {
+        "泥漿比重 ; 泥漿密度": "weight mud"
+    },
+    {
+        "鑽頭加重 ; 鑽重": "weight on bit"
+    },
+    {
+        "重量流速": "weight rate of flow"
+    },
+    {
+        "重量比炸力": "weight strength"
+    },
+    {
+        "重泥漿": "weighted mud"
+    },
+    {
+        "加重料": "weighting material"
+    },
+    {
+        "自動浮秤 ; 連續重量計": "weightometer"
+    },
+    {
+        "焊滴": "weld bead"
+    },
+    {
+        "熔接腐蝕": "weld decay"
+    },
+    {
+        "焊程 ; 焊道": "weld run"
+    },
+    {
+        "熔接性能試驗": "weldability tests"
+    },
+    {
+        "焊接套管": "welded casing"
+    },
+    {
+        "熔接 ; 焊接": "welding"
+    },
+    {
+        "電焊條 ; 電熔接條": "welding electrodes"
+    },
+    {
+        "焊藥": "welding flux"
+    },
+    {
+        "焊頸": "welding neck"
+    },
+    {
+        "井": "well"
+    },
+    {
+        "廢井": "well abandoned"
+    },
+    {
+        "井孔污損": "well bore damage"
+    },
+    {
+        "井口控制歧管": "well control manifold"
+    },
+    {
+        "鑽屑": "well cutting"
+    },
+    {
+        "鑽屑分析": "well cutting analysis"
+    },
+    {
+        "井偏": "well deflection"
+    },
+    {
+        "井偏": "well drift"
+    },
+    {
+        "水浸井": "well gone to water"
+    },
+    {
+        "優級配土壤": "well-graded soil"
+    },
+    {
+        "井口裝置": "well head assembly"
+    },
+    {
+        "海底井口裝置": "well head mudline suspension"
+    },
+    {
+        "井間干擾": "well interference"
+    },
+    {
+        "井柱狀圖 ; 井綠": "well log"
+    },
+    {
+        "測井 ; 錄井": "well logging"
+    },
+    {
+        "抽油井": "well on the beam"
+    },
+    {
+        "井模式": "well pattern"
+    },
+    {
+        "井壓": "well pressure"
+    },
+    {
+        "生產井": "well producing"
+    },
+    {
+        "井生產力": "well productivity"
+    },
+    {
+        "鑽井計畫": "well program"
+    },
+    {
+        "駐井地質師": "well site geologist"
+    },
+    {
+        "井距": "well spacing"
+    },
+    {
+        "油井激勵處理": "well stimulation"
+    },
+    {
+        "油井原流": "well stream"
+    },
+    {
+        "測井": "well surveying"
+    },
+    {
+        "油氣井符號": "well symbols"
+    },
+    {
+        "井溫": "well temperature"
+    },
+    {
+        "大直徑炮孔": "wellhole"
+    },
+    {
+        "大爆破": "wellhole blast"
+    },
+    {
+        "威爾斯式接口": "Welsh notch"
+    },
+    {
+        "濕法粒度分析": "wet analysis"
+    },
+    {
+        "乾濕球溫度計 ; 濕度計": "wet and dry-bulb thermometer"
+    },
+    {
+        "濕法分析 ; 濕法試金 ; 濕式試金": "wet assay"
+    },
+    {
+        "濕孔爆破": "wet blasting"
+    },
+    {
+        "濕球溫度計": "wet bulb thermometer"
+    },
+    {
+        "濕式分級機": "wet classifier"
+    },
+    {
+        "濕選": "wet cleaning"
+    },
+    {
+        "濕渦錐": "wet cyclone"
+    },
+    {
+        "濕式頓鑽機": "wet drill"
+    },
+    {
+        "濕[天然]氣": "wet gas"
+    },
+    {
+        "濕式氣量錶": "wet gas meter"
+    },
+    {
+        "含鉛金銀礦": "wet gold-silver ores"
+    },
+    {
+        "濕磨[法]": "wet grinding"
+    },
+    {
+        "濕法": "wet method"
+    },
+    {
+        "噴水通風採礦 ; 溶液採礦": "wet mining"
+    },
+    {
+        "濕天然氣": "wet natural gas"
+    },
+    {
+        "乳化油 ; 濕原油": "wet oil"
+    },
+    {
+        "濕潤週邊": "wet perimeter"
+    },
+    {
+        "濕物樣品": "wet sample"
+    },
+    {
+        "濕法篩分": "wet screening"
+    },
+    {
+        "濕選": "wet separation"
+    },
+    {
+        "濕蒸氣": "wet steam"
+    },
+    {
+        "可濕性": "wettability"
+    },
+    {
+        "濕潤 ; 沾濕": "wetting"
+    },
+    {
+        "助濕劑 ; 潤濕劑": "wetting agent"
+    },
+    {
+        "煤塵潤濕": "wetting coal dust"
+    },
+    {
+        "可濕性流體": "wetting fluid"
+    },
+    {
+        "鯨式切臂": "whale-type jib"
+    },
+    {
+        "自動求救無線電信號": "whaler radio beacon"
+    },
+    {
+        "軸距": "wheel-base"
+    },
+    {
+        "輪狀提升機": "wheel elevator"
+    },
+    {
+        "輪式吸濾機": "wheel-type suction filter"
+    },
+    {
+        "噴粒清理機": "wheelabrator"
+    },
+    {
+        "導向斜具 ; 導向楔": "whipstock"
+    },
+    {
+        "導向鑽進": "whipstocking"
+    },
+    {
+        "轉軸彎曲": "whirling"
+    },
+    {
+        "旋轉濕度計": "whirling hygrometer"
+    },
+    {
+        "鬚晶": "whiskers"
+    },
+    {
+        "出氣孔": "whistler"
+    },
+    {
+        "白青銅": "white bronze"
+    },
+    {
+        "白口鐵 ; 白鑄鐵": "white cast-iron"
+    },
+    {
+        "白銅": "white copper"
+    },
+    {
+        "白色飾金": "white gold"
+    },
+    {
+        "白心展性鑄鐵 ; 白心可鍛鑄鐵": "white heart malleable iron"
+    },
+    {
+        "鉛白": "white lead"
+    },
+    {
+        "白合金": "white metal"
+    },
+    {
+        "白合金捲索帽": "white-metal cappel"
+    },
+    {
+        "白油": "white oil"
+    },
+    {
+        "白霉": "white rust"
+    },
+    {
+        "白砂": "white sands"
+    },
+    {
+        "白渣 ; 還元渣": "white slag"
+    },
+    {
+        "白錫": "white tin"
+    },
+    {
+        "一氧化碳 ; 氧化碳氣": "whitedamp"
+    },
+    {
+        "岩心全分析": "whole core analysis"
+    },
+    {
+        "房柱法煤巷": "whole workings"
+    },
+    {
+        "鐘形撈具": "widemouth socket"
+    },
+    {
+        "威德曼組織": "Widmanstatten structure"
+    },
+    {
+        "礦脈厚度 ; 礦脈真厚度": "width of lode"
+    },
+    {
+        "威德曼效應": "Wiedeman effect"
+    },
+    {
+        "探油人": "wild catter"
+    },
+    {
+        "野性金屬(滾蕩熔金)": "wild metal"
+    },
+    {
+        "噴井": "wild well"
+    },
+    {
+        "野貓井 ; 探井": "wildcat"
+    },
+    {
+        "韋氏桌選機": "Wilfley table"
+    },
+    {
+        "矽鋅礦": "willemite"
+    },
+    {
+        "清孔器": "wimble"
+    },
+    {
+        "絞車 ; 捲揚機": "winch"
+    },
+    {
+        "氣動絞車": "winch air-operated"
+    },
+    {
+        "手絞車": "winch hand-operated"
+    },
+    {
+        "絞盤車 ; 捲揚車": "winch truck"
+    },
+    {
+        "風力發電機": "wind drive generator"
+    },
+    {
+        "濾器": "windbore"
+    },
+    {
+        "風巷": "wind road"
+    },
+    {
+        "抗風強度": "wind-load rating"
+    },
+    {
+        "捲揚機": "winder"
+    },
+    {
+        "捲揚機剎車": "winder brake"
+    },
+    {
+        "捲揚": "winding"
+    },
+    {
+        "捲揚設備": "winding apparatus"
+    },
+    {
+        "捲揚週期 ; 捲揚循環": "winding cycle"
+    },
+    {
+        "捲筒": "winding drum"
+    },
+    {
+        "捲揚機": "winding engine"
+    },
+    {
+        "天輪 ; 天車": "winding pulley"
+    },
+    {
+        "捲索": "winding rope"
+    },
+    {
+        "天輪 ; 天車": "winding sheave"
+    },
+    {
+        "捲速 ; 捲揚速度": "winding speed"
+    },
+    {
+        "列波隙": "window (between wave train)"
+    },
+    {
+        "側翼閥": "wing valve"
+    },
+    {
+        "採礦": "winning"
+    },
+    {
+        "多青油": "winter green oil"
+    },
+    {
+        "下山 ; 下鑿吊井": "winze"
+    },
+    {
+        "拭焊劑": "wiping solder"
+    },
+    {
+        "鑽桿刮泥盤": "wiper drill pipe"
+    },
+    {
+        "線錠": "wire-bar"
+    },
+    {
+        "金屬網": "wire-cloth"
+    },
+    {
+        "繩號規": "wire gage"
+    },
+    {
+        "鋼索錨 ; 鋼線錨": "wire line anchor"
+    },
+    {
+        "鋼繩鋏": "wire line clamp"
+    },
+    {
+        "鋼線岩心筒": "wire-line core-barrel"
+    },
+    {
+        "鋼線採岩心": "wire line coring"
+    },
+    {
+        "電纜地層測驗器": "wire line formation tester"
+    },
+    {
+        "鋼線導具 ; 鋼線導引": "wire line guide"
+    },
+    {
+        "鋼線活環": "wire line jar"
+    },
+    {
+        "鋼線操作": "wire line operation"
+    },
+    {
+        "鋼索防噴器": "wire line preventer"
+    },
+    {
+        "鋼線泵抽": "wire line pumping"
+    },
+    {
+        "鋼線採岩心": "wire line retrievable coring"
+    },
+    {
+        "鋼線作業": "wire line service"
+    },
+    {
+        "曳動式鋼線設備": "wire line skid unit"
+    },
+    {
+        "鋼線套頭": "wire line socket"
+    },
+    {
+        "鋼線加重桿": "wire line stem"
+    },
+    {
+        "鋼線操作具": "wire line tool"
+    },
+    {
+        "接線棒材": "wire rod"
+    },
+    {
+        "鋼索 ; 鋼繩": "wire rope"
+    },
+    {
+        "鋼索股 ; 鋼繩股": "wire rope strand"
+    },
+    {
+        "鋼索試驗": "wire-rope tests"
+    },
+    {
+        "線鋸": "wire saw"
+    },
+    {
+        "鋼絲捲繞篩管": "wire wrapped screen pipe"
+    },
+    {
+        "拉線 ; 蒸氣逃逸": "wiredrawing"
+    },
+    {
+        "毛髮狀礦物": "wiry"
+    },
+    {
+        "撤離標準": "withdrawal standard"
+    },
+    {
+        "碳酸鋇礦": "witherite"
+    },
+    {
+        "韋克兩氏磁鐵": "Witton-Kramer magnet"
+    },
+    {
+        "維瓦特斯籃": "Witwatersrand"
+    },
+    {
+        "水乳油泥漿": "W/O emulsion mud"
+    },
+    {
+        "幌動車輪壓土機": "wobble wheel roller"
+    },
+    {
+        "水泥候固": "W.O.C."
+    },
+    {
+        "鎢 ; 鎢錳鐵礦 ; 鎢砂": "wolfram"
+    },
+    {
+        "鎢錳鐵礦": "wolframite"
+    },
+    {
+        "待命": "WOO (waiting on order)"
+    },
+    {
+        "甲醇 ; 木精": "wood alcohol"
+    },
+    {
+        "木椿法": "wood piling"
+    },
+    {
+        "木腳墊": "wood stilt"
+    },
+    {
+        "纖維錫石": "wood tin"
+    },
+    {
+        "木圓筒襯壁": "wooden tubbing"
+    },
+    {
+        "伍氏合金": "Wood's metal"
+    },
+    {
+        "木質褐煤": "woody lignite"
+    },
+    {
+        "木紋組織": "woody structure"
+    },
+    {
+        "吳滋法(滲碳煉鋼法)": "Wootz process"
+    },
+    {
+        "加工硬化": "work-hardening"
+    },
+    {
+        "工作觀測 ; 工作衡量": "work measurement"
+    },
+    {
+        "工作研究": "work study"
+    },
+    {
+        "救生衣": "work vest"
+    },
+    {
+        "可採的": "workable"
+    },
+    {
+        "可採礦石": "workable ore"
+    },
+    {
+        "可採量": "workable tonnage"
+    },
+    {
+        "岩心外筒 ; 抽油吸筒": "working barrel"
+    },
+    {
+        "抽油泵": "working barrel pump"
+    },
+    {
+        "遊樑": "working beam"
+    },
+    {
+        "工作台": "working board"
+    },
+    {
+        "流動資本": "working capital"
+    },
+    {
+        "生產費": "working cost"
+    },
+    {
+        "工作面": "working face"
+    },
+    {
+        "校正錶 ; 標準錶": "working gauge"
+    },
+    {
+        "回向開採": "working home"
+    },
+    {
+        "前向開採": "working out"
+    },
+    {
+        "工作壓力": "working pressure"
+    },
+    {
+        "生產井": "working shaft"
+    },
+    {
+        "煤柱回採": "working the broken"
+    },
+    {
+        "房巷開鑿": "working the whole"
+    },
+    {
+        "遊動閥": "working valve"
+    },
+    {
+        "坑峒 ; 坑道": "workings"
+    },
+    {
+        "修井用泥漿": "workover fluid"
+    },
+    {
+        "修井": "workover job"
+    },
+    {
+        "修井鑽井": "workover rig"
+    },
+    {
+        "纏繞試驗": "wrapping test"
+    },
+    {
+        "扳手": "wrench"
+    },
+    {
+        "橫移斷層": "wrench fault"
+    },
+    {
+        "皺紋": "wrinkling"
+    },
+    {
+        "遊樑鐵栓": "wrist pin"
+    },
+    {
+        "鍛軋合金": "wrought alloy"
+    },
+    {
+        "熟鐵": "wrought iron"
+    },
+    {
+        "彩鉬鉛礦": "wulfenite"
+    },
+    {
+        "勒瀝青": "wurtzilite"
+    },
+    {
+        "X40合金": "X40"
+    },
+    {
+        "X合金": "X alloy"
+    },
+    {
+        "X相態": "X-constituent"
+    },
+    {
+        "X射線": "X-ray"
+    },
+    {
+        "X線吸收": "X-ray absorption"
+    },
+    {
+        "特性X線": "X-ray characteristic"
+    },
+    {
+        "X線結晶分析法": "X-ray crystal analysis"
+    },
+    {
+        "X線繞射": "X-ray diffraction"
+    },
+    {
+        "X線粉末繞射法": "X-ray powder diffraction method"
+    },
+    {
+        "強透力X線": "X-ray hard"
+    },
+    {
+        "X線透視法": "X-ray radiography"
+    },
+    {
+        "弱力X線": "X-ray soft"
+    },
+    {
+        "X線攝譜儀": "X-ray spectrograph"
+    },
+    {
+        "鋁青銅合金": "xantal alloys"
+    },
+    {
+        "黃酸鹽": "xanthate"
+    },
+    {
+        "氙": "xenon"
+    },
+    {
+        "耶誕樹": "X'mas tree"
+    },
+    {
+        "Y合金(活塞鋁合金)": "Y-alloy"
+    },
+    {
+        "黃銅鑄件": "yellow brass"
+    },
+    {
+        "鑽工": "yellow hammer"
+    },
+    {
+        "下沉 ; 屈伏 ; 產率": "yield"
+    },
+    {
+        "降伏點": "yield point"
+    },
+    {
+        "降服強度": "yield strength"
+    },
+    {
+        "降服值": "yield value"
+    },
+    {
+        "軟弱底磐": "yielding floor"
+    },
+    {
+        "可縮撐柱": "yielding prop"
+    },
+    {
+        "可縮支架": "yielding support"
+    },
+    {
+        "淺井頓鑽機": "yo-yo"
+    },
+    {
+        "軛": "yoke"
+    },
+    {
+        "楊氏模數": "Young's modulus"
+    },
+    {
+        "鐿": "ytterbium"
+    },
+    {
+        "釔": "yttrium"
+    },
+    {
+        "z合金(軸承鋁合金)": "Z-alloy"
+    },
+    {
+        "乙鎳": "Z-nickel"
+    },
+    {
+        "薩馬克合金(亞鑄鋅金合)": "Zamak alloys"
+    },
+    {
+        "依爾劑(鋁合金浸蝕劑)": "Zeerlader Von"
+    },
+    {
+        "蔡司塵埃取樣器": "Zeiss konimeter"
+    },
+    {
+        "依柯焊條(焊鋁)": "zelco"
+    },
+    {
+        "沸石法": "zeolite process"
+    },
+    {
+        "沸石": "zeolites"
+    },
+    {
+        "氯化依菲林(浸蝕劑)": "Zephiran chloride"
+    },
+    {
+        "無毛細壓力面": "zero capillary pressure plane"
+    },
+    {
+        "華氏零度凝結油": "zero oil"
+    },
+    {
+        "零電位": "zero potential"
+    },
+    {
+        "最低流動溫度": "zero pour"
+    },
+    {
+        "零零膠黏力": "zero-zero gel"
+    },
+    {
+        "Z形過濾機": "zigzag filter"
+    },
+    {
+        "鋅": "zinc"
+    },
+    {
+        "鋅基滑脂": "zinc base grease"
+    },
+    {
+        "閃鋅礦": "zinc blende"
+    },
+    {
+        "鋅箱": "zinc boxes"
+    },
+    {
+        "鋅箱澱物": "zinc box precipitate"
+    },
+    {
+        "氯化鋅": "zinc chloride"
+    },
+    {
+        "鉻酸鋅 ; 鋅鉻黃": "zinc chromate"
+    },
+    {
+        "鍍鋅": "zinc coating"
+    },
+    {
+        "鋅壓鑄合金": "zinc die-casting alloys"
+    },
+    {
+        "篩鋅": "zinc tinsel"
+    },
+    {
+        "鋅白": "zinc white"
+    },
+    {
+        "鋅粉": "zinc dust"
+    },
+    {
+        "著鋅處理": "zincate treatment"
+    },
+    {
+        "鍍鋅法": "zincote process"
+    },
+    {
+        "二號鋯合金": "zircaloy-2"
+    },
+    {
+        "鋯[英]石": "zircon"
+    },
+    {
+        "氧化鋯 ; 鋯氧": "zirconia"
+    },
+    {
+        "鋯砂坩鍋": "zirconia crucible"
+    },
+    {
+        "鋯": "zirconium"
+    },
+    {
+        "紅鋅礦": "zinicite"
+    },
+    {
+        "油層污損": "zonal damage"
+    },
+    {
+        "帶 ; 層帶": "zone"
+    },
+    {
+        "異常震區": "zone of abnormal seismic intensity"
+    },
+    {
+        "毛細管帶": "zone of capillarity"
+    },
+    {
+        "破裂區 ; 破裂帶": "zone of fracture"
+    },
+    {
+        "破碎及流動帶 ; 裂隙流動岩帶": "zone of fracture and flowage"
+    },
+    {
+        "礦脈帶": "zone of lode"
+    },
+    {
+        "氧化帶": "zone of oxidation"
+    },
+    {
+        "原生礦帶": "zone of primary deposits"
+    },
+    {
+        "還原帶": "zone of reduction"
+    },
+    {
+        "飽和帶": "zone of saturation"
+    },
+    {
+        "風化滯": "zone of weathering"
+    },
+    {
+        "帶熔精煉法": "zone refining"
+    },
+    {
+        "帶狀排列": "zoning"
+    },
+    {
+        "溶劑萃取 ; 溶液萃取": "solvent extraction"
+    }
+]

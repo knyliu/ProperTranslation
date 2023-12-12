@@ -1,0 +1,1730 @@
+[
+    {
+        "行政院": "Executive Yuan"
+    },
+    {
+        "內政部": "Ministry of the Interior"
+    },
+    {
+        "外交部": "Ministry of Foreign Affairs"
+    },
+    {
+        "國防部": "Ministry of National Defense"
+    },
+    {
+        "財政部": "Ministry of Finance"
+    },
+    {
+        "教育部": "Ministry of Education"
+    },
+    {
+        "法務部": "Ministry of Justice"
+    },
+    {
+        "經濟部": "Ministry of Economic Affairs"
+    },
+    {
+        "交通部": "Ministry of Transportation and Communications"
+    },
+    {
+        "蒙藏委員會": "Mongolian and Tibetan Affairs Commission"
+    },
+    {
+        "僑務委員會": "Overseas Compatriot Affairs Commission"
+    },
+    {
+        "中央銀行": "Central Bank of the Republic of China"
+    },
+    {
+        "行政院主計處": "Directorate-General of Budget, Accounting and Statistics, Executive Yuan"
+    },
+    {
+        "行政院人事行政局": "Central Personnel Administration, Executive Yuan"
+    },
+    {
+        "行政院新聞局": "Government Information Office, Executive Yuan"
+    },
+    {
+        "行政院衛生署": "Department of Health, Executive Yuan"
+    },
+    {
+        "行政院環境保護署": "Environmental Protection Administration, Executive Yuan"
+    },
+    {
+        "國立故宮博物院": "National Palace Museum"
+    },
+    {
+        "行政院大陸委員會": "Mainland Affairs Council, Executive Yuan"
+    },
+    {
+        "行政院經濟建設委員會": "Council for Economic Planning and Development, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會": "Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院青年輔導委員會": "National Youth Commission, Executive Yuan"
+    },
+    {
+        "行政院原子能委員會": "Atomic Energy Council, Executive Yuan"
+    },
+    {
+        "行政院國家科學委員會": "National Science Council, Executive Yuan"
+    },
+    {
+        "行政院研究發展考核委員會": "Research, Development and Evaluation Commission, Executive Yuan"
+    },
+    {
+        "行政院農業委員會": "Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院文化建設委員會": "Council for Cultural Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會": "Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院公平交易委員會": "Fair Trade Commission, Executive Yuan"
+    },
+    {
+        "行政院公共工程委員會": "Public Construction Commission, Executive Yuan"
+    },
+    {
+        "行政院體育委員會": "Sports Affairs Council, Executive Yuan"
+    },
+    {
+        "行政院原住民族委員會": "Council of Indigenous Peoples, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署": "Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "行政院消費者保護委員會": "Consumer Protection Commission, Executive Yuan"
+    },
+    {
+        "行政院客家委員會": "Council for Hakka Affairs, Executive Yuan"
+    },
+    {
+        "中央選舉委員會": "Central Election Commission"
+    },
+    {
+        "行政院金融監督管理委員會": "Financial Supervisory Commission, Executive Yuan"
+    },
+    {
+        "行政院飛航安全委員會": "Council for Aviation Safety, Executive Yuan"
+    },
+    {
+        "國家通訊傳播委員會": "National Communications Commission"
+    },
+    {
+        "行政院九二一震災災後重建推動委員會": "The 921 Earthquake Post-Disaster Recover Commission, Executive Yuan"
+    },
+    {
+        "臺灣省政府": "Taiwan Provincial Government"
+    },
+    {
+        "福建省政府": "Fuchien Provincial Government"
+    },
+    {
+        "臺灣省諮議會": "Taiwan Provincial Consultative Council "
+    },
+    {
+        "內政部警政署": "National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部建築研究所": "Architecture and Building Research Institute, Ministry of the Interior"
+    },
+    {
+        "中央警察大學": "Central Police University "
+    },
+    {
+        "內政部兒童局": "Child Welfare Bureau, Ministry of the Interior"
+    },
+    {
+        "內政部役政署": "Conscription Agency, Ministry of the Interior"
+    },
+    {
+        "內政部消防署": "National Fire Agency, Ministry of the Interior"
+    },
+    {
+        "內政部營建署": "Construction and Planning Agency, Ministry of the Interior"
+    },
+    {
+        "內政部土地重劃工程局": "Land Readjustment Engineering Bureau, Ministry of the Interior"
+    },
+    {
+        "內政部土地測量局": "Land Survey Bureau , Ministry of the Interior"
+    },
+    {
+        "內政部社會福利工作人員研習中心": "Social Welfare Workers' Training Center, Ministry of the Interior"
+    },
+    {
+        "內政部彰化老人養護中心": "Changhua Nursing Home, Ministry of the Interior"
+    },
+    {
+        "內政部少年之家": "Adolescents' Home  , Ministry of the Interior"
+    },
+    {
+        "內政部雲林教養院": "Yunlin Education and Nursing Institute, Ministry of the Interior"
+    },
+    {
+        "內政部南投啟智教養院": "Nantou Education and Nursing Institute, Ministry of the Interior"
+    },
+    {
+        "內政部台南教養院": "Tainan Education and Nursing Institute, Ministry of the Interior"
+    },
+    {
+        "內政部北區兒童之家": "Northern Region Children's Home, Ministry of the Interior"
+    },
+    {
+        "內政部中區兒童之家": "Central Region Children's Home, Ministry of the Interior"
+    },
+    {
+        "內政部南區兒童之家": "Southern Region Children's Home, Ministry of the Interior"
+    },
+    {
+        "內政部澎湖老人之家": "Penghu Senior Citizens' Home, Ministry of the Interior"
+    },
+    {
+        "內政部北區老人之家": "Nouthern Region Senior Citizens' Home, Ministry of the Interior"
+    },
+    {
+        "內政部中區老人之家": "Central Region Senior Citizens' Home, Ministry of the Interior"
+    },
+    {
+        "內政部南區老人之家": "Southern Region Senior Citizens' Home, Ministry of the Interior"
+    },
+    {
+        "內政部東區老人之家": "Eastern Region Senior Citizens' Home, Ministry of the Interior"
+    },
+    {
+        "內政部宜蘭教養院籌備處": "Yilan Education and Nursing Institute Provisional Office, Ministry of the Interior"
+    },
+    {
+        "內政部入出國及移民署": "National Immigration Agency, Ministry of the Interior"
+    },
+    {
+        "外交部外交領事人員講習所": "Foreign Service Institute, Ministry of Foreign Affairs"
+    },
+    {
+        "外交部領事事務局": "Bureau of Consular Affairs, Ministry of Foreign Affairs"
+    },
+    {
+        "財政部國庫署": "National Treasury Agency, Ministry of Finance"
+    },
+    {
+        "財政部賦稅署": "Taxation Agency, Ministry of Finance"
+    },
+    {
+        "財政部國有財產局": "National Property Administration, Ministry of Finance"
+    },
+    {
+        "財政部臺北市國稅局": "Taipei National Tax Administration, Ministry of Finance"
+    },
+    {
+        "財政部高雄市國稅局": "Kaohsiung National Tax Administration, Ministry of Finance"
+    },
+    {
+        "財政部臺灣省北區國稅局": "National Tax Administration of Northern Taiwan Province, Ministry of Finance"
+    },
+    {
+        "財政部臺灣省中區國稅局": "National Tax Administration of Central Taiwan Province, Ministry of Finance"
+    },
+    {
+        "財政部臺灣省南區國稅局": "National Tax Administration of Southern Taiwan Province, Ministry of Finance"
+    },
+    {
+        "財政部金融局": "Bureau of Monetary Affairs, Ministry of Finance"
+    },
+    {
+        "財政部關稅總局": "Directorate General of Customs, Ministry of Finance"
+    },
+    {
+        "財政部證券暨期貨管理委員會": "Securities and Futures Commission, Ministry of Finance"
+    },
+    {
+        "財政部稅制委員會": "Taxation and Tariff Committee, Ministry of Finance"
+    },
+    {
+        "財政部財稅人員訓練所": "Training Institute, Ministry of Finance, Ministry of Finance"
+    },
+    {
+        "財政部財稅資料中心": "Financial Data Center, Ministry of Finance, Ministry of Finance"
+    },
+    {
+        "財政部臺北區支付處": "Taipei Disbursement Office, Ministry of Finance, Ministry of Finance"
+    },
+    {
+        "中國輸出入銀行": "The Export-Import Bank of the Republic of China"
+    },
+    {
+        "中央信託局": "Central Trust of China"
+    },
+    {
+        "中央存款保險股份有限公司": "Central Deposit Insurance Corporation  "
+    },
+    {
+        "臺灣銀行": "Bank of Taiwan  "
+    },
+    {
+        "臺灣土地銀行": "Land Bank of Taiwan "
+    },
+    {
+        "合作金庫銀行股份有限公司": "Taiwan Cooperative Bank  "
+    },
+    {
+        "臺灣菸酒股份有限公司": "Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "財政部印刷廠": "Printing Plant, Ministry of Finance"
+    },
+    {
+        "國立中央圖書館台灣分館": "National Taiwan Library"
+    },
+    {
+        "國家圖書館": "National Central Library  "
+    },
+    {
+        "國立歷史博物館": "National Museum of History"
+    },
+    {
+        "國立臺灣科學教育館": "National Taiwan Science Education Center"
+    },
+    {
+        "國立台灣藝術教育館": "National Taiwan Arts Education Center"
+    },
+    {
+        "國立中國醫藥研究所": "National Institute of Chinese Medicine"
+    },
+    {
+        "國立國父紀念館": "National Sun Yat-sen Memorial Hall "
+    },
+    {
+        "國立中正紀念堂管理處": "National Chiang Kai-shek Memorial Management Office"
+    },
+    {
+        "國立科學工藝博物館": "National Science and Technology Museum "
+    },
+    {
+        "國立自然科學博物館": "National Museum of Natural Science  "
+    },
+    {
+        "國立海洋生物博物館": "National Museum of Marine Biology "
+    },
+    {
+        "國立海洋科技博物館籌備處": "National Museum of Marine Science and Technology Provisional Office  "
+    },
+    {
+        "國立中正文化中心": "National Zhongzheng Cultural Center "
+    },
+    {
+        "國立國光劇團": "National Guoguang Opera Company  "
+    },
+    {
+        "國立台灣史前文化博物館": "National Museum of Prehistory  "
+    },
+    {
+        "國立教育廣播電台": "National Education Radio Station"
+    },
+    {
+        "國立新竹社會教育館": "National Hsinchu Social Education Center"
+    },
+    {
+        "國立彰化社會教育館": "National Changhua Social Education Center"
+    },
+    {
+        "國立台南社會教育館": "National Tainan Social Education Center"
+    },
+    {
+        "國立台東社會教育館": "National Taitung Social Education Center"
+    },
+    {
+        "台灣省中等學校教師研習會": "Taiwan Secondary Education Teachers Training Center"
+    },
+    {
+        "國立教育研究院籌備處": "National Institute of Education Research Provisional Office"
+    },
+    {
+        "國立鳳凰谷鳥園": "National Fenghuanggu Bird Park"
+    },
+    {
+        "_______大學": "________ University"
+    },
+    {
+        "國立中正大學": "National Chung Cheng University"
+    },
+    {
+        "國立中興大學": "National Chung Hsing University"
+    },
+    {
+        "國立東華大學": "National Dong Hwa University"
+    },
+    {
+        "國立政治大學": "National Chengchi University"
+    },
+    {
+        "國立清華大學": "National Tsing Hua University"
+    },
+    {
+        "國立陽明大學": "National Yang Ming University"
+    },
+    {
+        "國立臺北大學": "National Taipei University"
+    },
+    {
+        "國立臺灣海洋大學": "National Taiwan Ocean University"
+    },
+    {
+        "國立臺灣藝術大學": "National Taiwan University of Arts "
+    },
+    {
+        "國立台灣大學": "National Taiwan University"
+    },
+    {
+        "國立臺東師範學院": "National Taitung Teachers College "
+    },
+    {
+        "國立臺東體育實驗高級中學": "National Taitung Physical Education High School "
+    },
+    {
+        "國立科學工業園區實驗高級中學": "National Science Park High School"
+    },
+    {
+        "_____高中": "High School"
+    },
+    {
+        "___工業職業學校": "Industrial High School"
+    },
+    {
+        "___農業職業學校": "Agriculture High School"
+    },
+    {
+        "___商業職業學校": "Commercial High School"
+    },
+    {
+        "___家事職業學校": "Home Economics High School"
+    },
+    {
+        "___海事職業學校": "Maritime High School"
+    },
+    {
+        "___水產職業學校": "Fishery High School"
+    },
+    {
+        "___特殊教育學校": "Special Education School"
+    },
+    {
+        "___啟聰學校": "Special Education School for the Deaf"
+    },
+    {
+        "___啟明學校": "Special Education School for the Blind"
+    },
+    {
+        "___啟智學校": "Special Education School for the Mentally Retarded"
+    },
+    {
+        "最高法院檢察署": "Supreme Prosecutors Office"
+    },
+    {
+        "台灣高等法院檢察署": "Taiwan High Prosecutors Office"
+    },
+    {
+        "檢察機關(各檢察署)": "        Prosecutors Office"
+    },
+    {
+        "台灣屏東監獄": "Pingtung Prison"
+    },
+    {
+        "台灣桃園女子監獄": "Taoyuan Women's Prison"
+    },
+    {
+        "台灣台中女子監獄": "Taichung Women's Prison"
+    },
+    {
+        "台灣高雄女子監獄": "Kaohsiung Women's Prison"
+    },
+    {
+        "台灣自強外役監獄": "Ziqiang Minimum-Security Prison"
+    },
+    {
+        "台灣桃園少年輔育院": "Taoyuan Reform School"
+    },
+    {
+        "台灣彰化少年輔育院": "Changhua Reform School"
+    },
+    {
+        "台灣泰源技能訓練所": "Taiyuan Training Institute"
+    },
+    {
+        "誠正中學": "Chengzheng High School"
+    },
+    {
+        "台灣台北看守所": "Taipei Detention Center"
+    },
+    {
+        "台灣台北少年觀護所": "Taipei Juvenile Detention House"
+    },
+    {
+        "監獄、輔育院、看守所、學校": "Prison, Reform School, Detention Center, High School"
+    },
+    {
+        "法務部行政執行署": "Administrative Enforcement Agency, Ministry of Justice"
+    },
+    {
+        "法務部調查局": "Investigation Bureau, Ministry of Justice"
+    },
+    {
+        "法務部司法官訓練所": "Training Institute for Judges and Prosecutors, Ministry of Justice"
+    },
+    {
+        "法務部矯正人員訓練所": "Training Institute for Correctional Officers, Ministry of Justice"
+    },
+    {
+        "法務部法醫研究所": "Forensic Medicine Institute, Ministry of Justice"
+    },
+    {
+        "經濟部工業局": "Industrial Development Bureau, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部國際貿易局": "Bureau of  Foreign Trade, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部智慧財產局": "Intellectual Property Office, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部標準檢驗局": "Bureau of Standards, Metrology and Inspection, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部中小企業處": "Small and Medium Enterprise Administration, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部加工出口區管理處": "Export Processing Zone  Administration, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部中央地質調查所": "Central Geological Survey, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部投資審議委員會": "Investment Board, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部能源委員會": "Energy Commission, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部國營事業委員會": "State-owned Enterprise  Commission, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部貿易調查委員會": "International Trade Commission, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部專業人員研究中心": "Professional Training Center, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署": "Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部礦務局": "Bureau of Mines, Ministry of Economic Affairs"
+    },
+    {
+        "台灣糖業股份有限公司": "Taiwan Sugar Corporation"
+    },
+    {
+        "台灣電力股份有限公司": "Taiwan Power Company"
+    },
+    {
+        "中國石油股份有限公司": "Chinese Petroleum Corporation"
+    },
+    {
+        "中國造船股份有限公司": "China Shipbuilding Corporation"
+    },
+    {
+        "臺鹽實業股份有限公司": "Taiwan Salt Company"
+    },
+    {
+        "漢翔航空工業股份有限公司": "Aerospace Industrial Development Corporation"
+    },
+    {
+        "唐榮鐵工廠股份有限公司": "Tang Eng Iron Works Co., LTD "
+    },
+    {
+        "臺灣省自來水股份有限公司": "Taiwan Water Corporation"
+    },
+    {
+        "中華郵政股份有限公司": "Chunghwa Post Co., Ltd."
+    },
+    {
+        "交通部電信總局": "Directorate General of Telecommunications, Ministry of Transportation and Communications"
+    },
+    {
+        "中華電信股份有限公司": "Chunghwa Telecom Co., Ltd. "
+    },
+    {
+        "交通部民用航空局": "Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部觀光局": "Tourism Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部臺灣區國道高速公路局": "National Freeway Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局": "Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部運輸研究所": "Institute of Transportation, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部鐵路改建工程局": "Railway Reconstruction Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道新建工程局": "National Expressway Engineering Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高速鐵路工程局": "Bureau of High Speed Rail, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部臺灣鐵路管理局": "Taiwan Railways Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局": "Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部基隆港務局": "Keelung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高雄港務局": "Kaohsiung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部花蓮港務局": "Hualien Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台中港務局": "Taichung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "中華函授學校": "Chung Hwa Correspondence School"
+    },
+    {
+        "華僑通訊社": "Overseas Compatriot News Agency"
+    },
+    {
+        "中央印製廠": "Central Engraving and Printing Plant"
+    },
+    {
+        "中央造幣廠": "Central Mint "
+    },
+    {
+        "行政院主計處電子處理資料中心": "Data Management Processing Center , Directorate-General of Budget, Accounting and Statistics, Executive Yuan"
+    },
+    {
+        "公務人力發展中心": "Civil Service Development Institute "
+    },
+    {
+        "公務人員住宅及福利委員會": "Civil Service Housing and Welfare Committee"
+    },
+    {
+        "行政院人事行政局地方行政研習中心": "Regional Civil Service Development Institute, Central Personnel Administration, Executive Yuan"
+    },
+    {
+        "行政院衛生署藥物食品檢驗局": "Bureau of Food and Drug Analysis, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署管制藥品管理局": "Bureau of Controlled Drugs, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署疾病管制局": "Centers for Disease Control, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署胸腔病院": "Chest Hospital, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署國民健康局": "Bureau of Health Promotion, Department of Health, Executive Yuan"
+    },
+    {
+        "中央健康保險局": "Bureau of National Health Insurance "
+    },
+    {
+        "行政院衛生署中醫藥委員會": "Committee on Chinese Medicine and Pharmacy, Department of Health, Executive Yuan"
+    },
+    {
+        "全民健康保險爭議審議委員會": "National Health Insurance Dispute Mediation Committee"
+    },
+    {
+        "全民健康保險監理委員會": "National Health Insurance Supervisory Committee"
+    },
+    {
+        "全民健康保險醫療費用協定委員會": "National Health Insurance Medical Expenditure Negotiation Committee"
+    },
+    {
+        "行政院衛生署署立醫療院": "        Hospital, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署宜蘭醫院": "Yilan Hospital, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署樂生療養院": "Leseng Sanatorium, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院衛生署桃園療養院": "Taoyuan Mental Hospital, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院環境保護署環境檢驗所": "Environmental Analysis  Laboratory, Environmental Protection Administration, Executive Yuan"
+    },
+    {
+        "行政院環境保護署環境保護人員訓練所 ": "Environmental Professionals Training Institute, Environmental Protection Administration, Executive Yuan"
+    },
+    {
+        "行政院大陸委員會香港事務局": "Hong Kong Affairs Bureau, Mainland Affairs Council, Executive Yuan"
+    },
+    {
+        "行政院大陸委員會澳門事務局": "Macao Affairs Office, Mainland Affairs Council, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會台北榮民總醫院": "Taipei Veterans General Hospital, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會各榮民醫院": "         Veterans Hospital, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會桃園榮民醫院": "Taoyuan Veterans Hospital, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會台南榮民之家": "Tainan Veterans' Home, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會八德榮民自費安養中心": "Bade Veterans Domiciliary Center, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會台北市榮民服務處": "Taipei City Veterans Service Office, VAC"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會訓練中心": "Vocational Training Center, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會武陵農場": "Wuling Veterans Farm, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會食品工廠": "Veterans Food Processing Factory, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會台北榮民技術勞務中心": "Taipei Veterans Technical Labor Center, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會高雄榮民技術勞務中心": "Kaohsiung Veterans Technical Labor Center, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會塑膠工廠": "Veterans Plastic Works, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會榮民製藥廠": "Veterans Pharmaceutical Plant, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會龍崎工廠": "Longci Dynamite Plant, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "行政院國軍退除役官兵輔導委員會榮民森林保育事業管理處": "Forest Conservation and Enterprise Administration, Veterans Affairs Commission, Executive Yuan"
+    },
+    {
+        "榮民工程股份有限公司": "RSEA Engineering Corporation "
+    },
+    {
+        "行政院青年輔導委員會職業訓練中心": "Vocational Training Center, National Youth Commission, Executive Yuan"
+    },
+    {
+        "行政院原子能委員會核能研究所": "Institute of Nuclear Energy Research, Atomic Energy Council, Executive Yuan"
+    },
+    {
+        "行政院原子能委員會輻射偵測中心": "Radiation Monitoring Center, Atomic Energy Council, Executive Yuan"
+    },
+    {
+        "行政院原子能委員會放射性物料管理局": "Fuel Cycle and Materials Administration, Atomic Energy Council, Executive Yuan"
+    },
+    {
+        "行政院國家科學委員會科學工業園區管理局": "Science Park Administration, National Science Council, Executive Yuan"
+    },
+    {
+        "行政院國家科學委員會科學技術資料中心": "Science and Technology Information Center, National Science Council, Executive Yuan"
+    },
+    {
+        "行政院國家科學委員會精密儀器發展中心": "Precision Instrument Development Center, National Science Council, Executive Yuan"
+    },
+    {
+        "行政院國家科學委員會南部科學工業園區管理局": "Southern Taiwan Science Park Administration, National Science Council, Executive Yuan"
+    },
+    {
+        "檔案管理局": "National Archives  Administration"
+    },
+    {
+        "行政院農業委員會漁業署": "Fisheries Agency, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會林務局": "Forestry Bureau, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會動植物防疫檢疫局": "Bureau of Animal and Health Plant Health Inspection and Quarantine, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會水土保持局": "Soil and Water Conservation Bureau, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會北區糧食管理處": "Central Region Grain Administration, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會中區糧食管理處": "Northern Region Grain Administration, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會南區糧食管理處": "Southern Region Grain Administration, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會東區糧食管理處": "Eastern Region Grain Administration, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會農業試驗所": "Agricultural Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會畜產試驗所": "Livestock Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會家畜衛生試驗所": "Animal Health Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會林業試驗所": "Forestry Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會水產試驗所": "Fisheries Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會農業藥物毒物試驗所": "Agricultural Chemicals and Toxic Substances Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會特有生物研究保育中心": "Endemic Species Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會桃園區農業改良場": "Taoyuan District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會苗栗區農業改良場": "Miaoli District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會臺中區農業改良場": "Taichung District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會台南區農業改良場": "Tainan District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會高雄區農業改良場": "Kaohsiung District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會花蓮區農業改良場": "Hualien District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會臺東區農業改良場": "Taitung District Agricultural Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會茶業改良場": "Tea Research and Extension Station , Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會種苗改良繁殖場": "Seed Improvement and Propagation Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "國立傳統藝術中心": "National Center of Traditional Arts "
+    },
+    {
+        "國立文化資產保存研究中心籌備處": "Provisional Office of National Center for Cultural Heritage "
+    },
+    {
+        "國立臺灣博物館": "National Taiwan Museum "
+    },
+    {
+        "國立臺中圖書館": "National Taichung Library "
+    },
+    {
+        "國立臺灣交響樂團": "National Taiwan Symphony Orchestra "
+    },
+    {
+        "國立臺灣美術館": "National Taiwan Museum of Fine Arts"
+    },
+    {
+        "國立臺灣工藝研究所": "National Taiwan Craft Research Institute  "
+    },
+    {
+        "國立臺灣歷史博物館": "National Museum of Taiwan History   "
+    },
+    {
+        "行政院勞工委員會職業訓練局": "Bureau of Employment and Vocational Training, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會北區勞動檢查所": "Northern Region Inspection Office, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會中區勞動檢查所": "Central Region Inspection Office, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會南區勞動檢查所": "Southern Region Inspection Office, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會勞工安全衛生研究所": "Institute of Occupational Safety and Health, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會勞工保險局": "Bureau of Labor Insurance, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會勞工保險監理委員會": "Labor Insurance Supervisory Commission, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院體育委員會國家運動選手訓練中心": "National Sports Training Center, Sports Affairs Council, Executive Yuan"
+    },
+    {
+        "行政院體育委員會臺中體育場": "Taichung Stadium"
+    },
+    {
+        "行政院原住民族委員會文化園區管理局": "Cultural Park Administration, Council of Indigenous Peoples, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署海洋巡防總局": "Maritime Patrol Directorate General, Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署海岸巡防總局": "Coastal Patrol Directorate General, Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "行政院金融監督管理委員會銀行局": "Monetary Affairs Bureau, Financial Supervisory Commission, Executive Yuan"
+    },
+    {
+        "行政院金融監督管理委員會證券期貨局": "Securities and Futures Bureau, Financial Supervisory Commission, Executive Yuan"
+    },
+    {
+        "行政院金融監督管理委員會保險局": "Insurance Bureau, Financial Supervisory Commission, Executive Yuan"
+    },
+    {
+        "行政院金融監督管理委員會檢查局": "Inspection Bureau, Financial Supervisory Commission, Executive Yuan"
+    },
+    {
+        "臺灣省竹苗區車輛行車事故鑑定委員會": "Hsinchu / Miaoli Traffic Accident Investigation  Committee   "
+    },
+    {
+        "臺灣省花東區車輛行車事故鑑定委員會": "Hualien / Taitung Traffic Accident Investigation  Committee   "
+    },
+    {
+        "臺灣省南投縣區車輛行車事故鑑定委員會": "Nantou Traffic Accident Investigation Committee   "
+    },
+    {
+        "臺灣省桃園縣區車輛行車事故鑑定委員會": "Taoyuan Traffic Accident Investigation Committee   "
+    },
+    {
+        "臺灣省高屏澎區車輛行車事故鑑定委員會": "Kaohsiung / Pingtung Traffic Accident Investigation  Committee   "
+    },
+    {
+        "臺灣省基宜區車輛行車事故鑑定委員會": "Keelung / Yiland Traffic Accident Investigation  Committee   "
+    },
+    {
+        "臺灣省嘉雲區車輛行車事故鑑定委員會": "Chiayi / Yunlin Traffic Accident Investigation Committee   "
+    },
+    {
+        "臺灣省彰化縣區車輛行車事故鑑定委員會": "Changhua Traffic Accident Investigation Committee   "
+    },
+    {
+        "臺灣省臺中市區車輛行車事故鑑定委員會": "Taichung City Traffic Accident Investigation Committee   "
+    },
+    {
+        "臺中市車輛行車事故鑑定委員會": "Taichung Traffic Accident Investigation Committee   "
+    },
+    {
+        "新北市車輛行車事故鑑定委員會": "Taipei Traffic Accident Investigation Committee   "
+    },
+    {
+        "臺灣省臺南區車輛行車事故鑑定委員會": "Tainan Traffic Accident Investigation Committee   "
+    },
+    {
+        "內政部警政署警察機械修理廠": "Police Equipment Maintenance Plant, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署民防防情指揮管制所": "Civil Defense Headquarters, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署警察廣播電台": "Police Radio Station, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署警察電訊所": "Police Telecommunications Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署基隆港務警察局": "Keelung Harbor Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署台中港務警察局": "Taichung Harbor Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署高雄港務警察局": "Kaohsiung Harbor Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署花蓮港務警察局": "Hualien Harbor Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署空中警察隊": "Aerial Police Brigade, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署國家公園警察大隊": "National Parks Police Corps, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署臺灣保安警察總隊": "Special Police Provincial Headquarters, National  Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署保安警察第一總隊": "Special Police First Headquarters, National  Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署保安警察第五總隊": "Special Police Fifth Headquarters, National  Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署保安警察第六總隊": "Special Police Sixth Headquarters, National  Police Agency, Ministry of the Interior"
+    },
+    {
+        "臺灣警察專科學校": "Taiwan Police College "
+    },
+    {
+        "內政部警政署鐵路警察局": "Railway Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署航空警察局": "Aviation Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署國道公路警察局": "National Highway Police Office, National Police  Agency, Ministry of the Interior"
+    },
+    {
+        "內政部警政署刑事警察局": "Criminal Investigation Police Office, National Police Agency, Ministry of the Interior"
+    },
+    {
+        "內政部消防署基隆港務消防隊": "Keelung Harbor Fire Brigade, National Fire Agency, Ministry of the Interior"
+    },
+    {
+        "內政部消防署空中消防隊籌備處": "Aerial Fire Brigade Provisional Office, National Fire Agency, Ministry of the Interior"
+    },
+    {
+        "內政部營建署金門國家公園管理處": "Kinmen National Park Headquarters, Construction and Planning Agency, Ministry of the Interior"
+    },
+    {
+        "內政部營建署墾丁國家公園管理處": "Kenting National Park Headquarters, Construction and Planning Agency, Ministry of the Interior"
+    },
+    {
+        "內政部營建署市鄉規劃局": "Urban and Rural Planning Office, Construction and Planning Agency, Ministry of the Interior"
+    },
+    {
+        "內政部營建署新生地開發局": "Land Reclamation Office , Construction and Planning Agency, Ministry of the Interior"
+    },
+    {
+        "內政部營建署重機械工程隊": "Heavy Equipment Construction Corps, Construction and Planning Agency, Ministry of the Interior"
+    },
+    {
+        "內政部入出國及移民署各服務站": "        Service Center, National Immigration Agency, Ministry of the Interior"
+    },
+    {
+        "內政部入出國及移民署各收容所": "        Detention Center, National Immigration Agency, Ministry of the Interior"
+    },
+    {
+        "財政部國有財產局台灣北區辦事處": "Northern Region Office, National Property Administration, Ministry of Finance"
+    },
+    {
+        "財政部國有財產局台灣中區辦事處": "Central Region Office, National Property Administration, Ministry of Finance"
+    },
+    {
+        "財政部國有財產局台灣南區辦事處": "Southern Region Office, National Property Administration, Ministry of Finance"
+    },
+    {
+        "財政部基隆關稅局": "Keelung Customs Office, Directorate General of Customs, Ministry of Finance"
+    },
+    {
+        "財政部臺北關稅局": "Taipei Customs Office, Directorate General of Customs, Ministry of Finance"
+    },
+    {
+        "財政部臺中關稅局": "Taichung Customs Office, Directorate General of Customs, Ministry of Finance"
+    },
+    {
+        "財政部高雄關稅局": "Kaohsiung Customs Office, Directorate General of Customs, Ministry of Finance"
+    },
+    {
+        "臺灣菸酒股份有限公司台北菸廠": "Taipei Cigarette Plant, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司台中菸葉廠": "Taichung Tobacco Redrying Plant, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司台中酒廠": "Taichung Distillery, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司林口酒廠": "Linkou Brewery, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司南投酒廠": "Nantou Winery, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司竹南啤酒廠": "Jhunan Brewery, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司林口印刷廠": "Linkou Printing Plant, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司南港瓶蓋廠": "Nangang Bottle Cap Plant, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司菸研究所": "Tobacco Research Institute, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司酒研究所": "Liquor Research Institute, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "臺灣菸酒股份有限公司台北營業處": "Taipei Office, Taiwan Tobacco and Liquor Corporation"
+    },
+    {
+        "國立教育廣播電台彰化分台": "Changhua Substation, National Education Radio Station"
+    },
+    {
+        "國立教育廣播電台高雄分台": "Kaohsiung Substation, National Education Radio Station"
+    },
+    {
+        "國立教育廣播電台花蓮分台": "Hualien Substation, National Education Radio Station"
+    },
+    {
+        "國立教育廣播電台台東分台": "Taitung Substation, National Education Radio Station"
+    },
+    {
+        "國立中興大學農學院實驗林管理處": "Experimental Forest Office, National Chung Cheng University "
+    },
+    {
+        "國立台灣大學附設醫院": "Teaching Hospital, National Taiwan University"
+    },
+    {
+        "國立台灣大學生物資源暨農學院實驗林管理處": "Experimental Forest Office, College of Bioresources and Agricultural, National Taiwan University "
+    },
+    {
+        "國立台灣大學生物資源暨農學院附設山地實驗農場": "Experimental Upland Farm, College of Bioresources and Agricultural, National Taiwan University  "
+    },
+    {
+        "國立台灣大學生物資源暨農學院附設農業試驗場": "Experimental Agriculture Station, College of Bioresources and Agricultural, National Taiwan University  "
+    },
+    {
+        "國立台灣大學生物資源暨農學院附設動物醫院": "Animal Hospital, College of Bioresources and Agricultural, National Taiwan University  "
+    },
+    {
+        "國立政治大學附設公務人員教育中心": "Civil Service Education Center, National Chengchi University"
+    },
+    {
+        "國立政治大學附設實驗幼稚園": "Kindergarten, National Chengchi University"
+    },
+    {
+        "國立政治大學附屬高級中學籌備處": "High School Provisional Office, National Chengchi University"
+    },
+    {
+        "國立臺東師範學院附設實驗國民小學": "Elementary School, National Taitung Teachers College "
+    },
+    {
+        "台灣高等法院高雄分院檢察署": "Kaohsiung Branch, Taiwan High Prosecutors Office"
+    },
+    {
+        "台灣高雄地方法院檢察署": "Kaohsiung District Prosecutors Office"
+    },
+    {
+        "法務部彰化行政執行處": "Changhua Branch, Administrative Enforcement Agency, Ministry of Justice"
+    },
+    {
+        "法務部調查局台北市調查處": "Taipei City Field Office, Investigation Bureau, Ministry of Justice"
+    },
+    {
+        "法務部調查局台中市調查站": "Taichung City Station, Investigation Bureau, Ministry of Justice"
+    },
+    {
+        "經濟部國際貿易局高雄辦事處": "Kaohsiung Office, Bureau of Foreign Trade, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部標準檢驗局臺中分局": "Taichung Branch, Bureau of  Standards, Metrology and Inspection, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部標準檢驗局高雄分局": "Kaohsiung Branch, Bureau of  Standards, Metrology and Inspection, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部加工出口區管理處高雄分處": "Kaohsiung Branch, Export Processing Zone  Administration, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署北區水資源局": "Northern Region Water Resources Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署中區水資源局": "Central Region Water Resources Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署南區水資源局": "Southern Region Water Resources Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署水利規劃試驗所": "Water Resources Planning Institute, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第一河川局": "First River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第二河川局": "Second River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第三河川局": "Third River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第四河川局": "Fourth River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第五河川局": "Fifth River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第六河川局": "Sixth River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第七河川局": "Seventh River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第八河川局": "Eighth River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第九河川局": "Ninth River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署第十河川局": "Tenth River Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部水利署台北水源特定區管理局": "Taipei Water Management Office, Water Resources Agency, Ministry of Economic Affairs"
+    },
+    {
+        "經濟部礦務局東區辦事處": "Eastern Region Office, Bureau of Mines, Ministry of Economic Affairs"
+    },
+    {
+        "台灣電力股份有限公司林口發電廠": "Linkou Thermal Power Plant, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司各發電廠": "       Thermal Power Plant, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司新營區營運處": "Sinying Branch, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司各供電區營運處": "       Power Supply Branch, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司各區營業處": "       Branch, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司第一核能發電廠": "First Nuclear Power Plant, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司訓練所": "Training Institute, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司綜合研究所": "Taiwan Power Research Institute, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司南部資料處理中心": "Southern Region Data Processing Center, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司有限和平工程處 ": "Hoping Project Office, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司核能後端營運處": "Department of Nuclear Back-end Management"
+    },
+    {
+        "台灣電力股份有限公司放射試驗室": "Radiation Laboratory, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司施工隊": "       Construction Team, Taiwan Power Company"
+    },
+    {
+        "台灣電力股份有限公司各區施工處": "Region Construction Office, Taiwan Power Company"
+    },
+    {
+        "中國石油股份有限公司電信事業部": "Telecommunications Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司探採事業部": "Exploration and Production Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司油品行銷事業部": "Marketing Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司煉製事業部": "Refining Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司潤滑油事業部": "Lubricants Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司石化事業部": "Petrochemical Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司天然氣事業部  ": "Natural Gas Business Division, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司探採研究所": "Exploration Research Institute, Chinese Petroleum Corporation"
+    },
+    {
+        "中國石油股份有限公司北部工程處": "Northern Region Engineering Division, Chinese Petroleum Corporation"
+    },
+    {
+        "臺鹽實業股份有限公司台北營業處": "Taipei Branch, Taiwan Salt Company"
+    },
+    {
+        "臺鹽實業股份有限公司嘉義廠": "Chiayi Plant, Taiwan Salt Company"
+    },
+    {
+        "臺鹽實業股份有限公司南科分公司": "Tainan Science Park Branch, Taiwan Salt Company"
+    },
+    {
+        "臺灣省自來水股份有限公司第一區管理處": "First Branch, Taiwan Water Corporation"
+    },
+    {
+        "臺灣省自來水股份有限公司北區工程處": "Northern Region Engineering Office, Taiwan Water Corporation"
+    },
+    {
+        "臺灣省自來水股份有限公司員工訓練所": "Training Institute, Taiwan Water Corporation"
+    },
+    {
+        "臺灣省自來水股份有限公司北區水表修理場": "Northern Region Repairing Plant, Taiwan Water Corporation"
+    },
+    {
+        "中華郵政股份有限公司三重郵局": "Sanchong Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司中壢郵局": "Zhongli Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台中郵局": "Taichung Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台北郵局": "Taipei Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台東郵局": "Taitung Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台南郵局": "Tainan Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司宜蘭郵局": "Yilan Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司板橋郵局": "Banciao Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司花蓮郵局": "Hualien Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司南投郵局": "Nantou Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司屏東郵局": "Pingtung Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司苗栗郵局": "Miaoli Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司桃園郵局": "Taoyuan Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司高雄郵局": "Kaohsiung Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司基隆郵局": "Keelung Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司雲林郵局": "Yunlin Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司新竹郵局": "Hsinchu Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司新營郵局": "Sinying Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司嘉義郵局": "Chiayi Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司彰化郵局": "Changhua Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司鳳山郵局": "Fengshan Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司澎湖郵局": "Penghu Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司豐原郵局": "Fengyuan Post Office, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台中郵件處理中心": "Taichung Mail Processing Center, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台北郵件處理中心": "Taipei Mail Processing Center, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司台南郵件處理中心": "Tainan Mail Processing Center, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司桃園郵件處理中心": "Taoyuan Mail Processing Center, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華郵政股份有限公司高雄郵件處理中心": "Kaohsiung Mail Processing Center, Chunghwa Post Co., Ltd."
+    },
+    {
+        "中華電信股份有限公司台灣北(中、南 )區電信分公司": "       Region Branch, Chunghwa Telecom Co., Ltd. "
+    },
+    {
+        "中華電信股份有限公司台灣中區電信分公司": "Central Region Branch, Chunghwa Telecom Co., Ltd. "
+    },
+    {
+        "中華電信股份有限公司行動通信分公司": "Mobile Business Branch, Chunghwa Telecom Co., Ltd. "
+    },
+    {
+        "中華電信股份有限公司國際電信分公司": "International Business Branch, Chunghwa Telecom Co., Ltd.  "
+    },
+    {
+        "中華電信股份有限公司數據通信分公司": "Data Communications  Branch, Chunghwa Telecom Co., Ltd.  "
+    },
+    {
+        "中華電信股份有限公司電信研究所": "Chunghwa Telecom Research Institute"
+    },
+    {
+        "中華電信股份有限公司電信訓練所": "Chunghwa Telecom Training Institute, Chunghwa Telecom Co., Ltd.  "
+    },
+    {
+        "交通部民用航空局台北國際航空站": "Taipei International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局高雄國際航空站": "Kaohsiung International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局台東航空站": "Taitung International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局台南航空站": "Tainan International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局花蓮航空站": "Hualien International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局馬公航空站": "Taipei International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局恆春航空站": "Hengchun Airport Office, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局桃園航空客貨運園區開發中心": "Taoyuan Global Hub Development Center, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局民航人員訓練所": "Aviation Training Institute, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局飛航服務總台": "Air Navigation and Weather Services, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局機場擴建工程處": "Airport Development  Engineering Office, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部民用航空局航空隊": "General Aviation Squadron, Civil Aeronautics Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道高速公路局北區工程處": "Northern Region Engineering Office, National Expressway Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道高速公路局中區工程處": "Central Region Engineering Office, National Expressway Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道高速公路局南區工程處": "Southern Region Engineering Office, National Expressway Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道高速公路局拓建工程處": "Widening Construction Office, National Expressway Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道高速公路局楊梅收費站": "Yangmei Toll Station, National Expressway Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局天文站": "Astronomical Observatory, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局五分山氣象雷達站": "Wufenshan Weather Radar Station, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局日月潭氣象站": "Sun Moon Lake Weather Station, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局氣象預報中心": "Weather Forecast Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局地震測報中心": "Seismic Information Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局氣象儀器檢校中心": "Meteorological Instruments Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局海象測報中心": "Marine Information Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局氣象衛星中心": "Meteorological Satellite Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局氣象資訊中心": "Weather Information Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部中央氣象局台灣南區氣象中心": "Southern Region Weather Center, Central Weather Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部運輸研究所港灣技術研究中心": "Harbor and Marine Technology Center, Institute of Transportation, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部鐵路改建工程局東部工程處": "Eastern Region Engineering Office, Railway Reconstruction Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道新建工程局第一工程處": "First Engineering  Office, National Expressway Engineering Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道新建工程局第二工程處": "Second Engineering  Office, National Expressway Engineering Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道新建工程局第三工程處": "Third Engineering  Office, National Expressway Engineering Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台灣區國道新建工程局第四工程處": "Fourth Engineering  Office, National Expressway Engineering Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部臺灣鐵路管理局餐旅服務總所": "Catering Service Department, Taiwan Railways Administration, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局第一區養護工程處": "First Maintenance Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局第二區養護工程處": "Second Maintenance Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局第三區養護工程處": "Third Maintenance Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局第四區養護工程處": "Fourth Maintenance Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局第五區養護工程處": "Fifth Maintenance Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局西部濱海公路中區工程處": "West Coast Expressway Central Region Engineering Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局西部濱海公路南區工程處": "West Coast Expressway Southern Region Engineering Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局西部濱海公路北區臨時工程處": "West Coast Expressway Northern Region Temporary Engineering Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局臺北區監理所": "Taipei Motor Vehicles Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局新竹區監理所": "Hsinchu Motor Vehicles Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局臺中區監理所": "Taichung Motor Vehicles Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局嘉義區監理所": "Chiayi Motor Vehicles Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局高雄區監理所": "Kaohsiung Motor Vehicles Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局北部汽車技術訓練中心": "Northern Region Vehicle Training Center, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局材料試驗所": "Materials Testing Laboratory, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局東西向快速公路中區工程處": "Central Region Construction Office for the East-West Expressway, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局東西向快速公路南區工程處": "Southern Region Construction Office for the East-West Expressway, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部公路總局重大橋樑工程處": "Major Bridges Construction Office, Directorate General of Highways, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台中港務局港埠工程處": "Harbor Engineering Office, Taichung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台中港務局棧埠管理處": "Stevedoring and Warehousing Department, Taichung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部花蓮港務局棧埠管理處": "Stevedoring and Warehousing Department, Hualien Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高雄港務局棧埠管理處": "Stevedoring and Warehousing Department, Kaohsiung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高雄港務局港埠工程處": "Harbor Engineering Office, Kaohsiung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高雄港務局船舶機械修造工廠": "Ship Machinery Repair Works, Kaohsiung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部台中港務局船舶機械修造工廠": "Ship Machinery Repair Works, Taichung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高雄港務局安平港分局": "Anping Harbor Branch, Kaohsiung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部高雄港務局馬公辦事處": "Magong Harbor Office, Kaohsiung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "交通部基隆港務局船舶管理所": "Work Vessel Office, Keelung Harbor Bureau, Ministry of Transportation and Communications"
+    },
+    {
+        "行政院衛生署臺北醫院城區分院": "Chengjhong Branch, Taipei Hospital, Department of Health, Executive Yuan"
+    },
+    {
+        "行政院農業委員會漁業署臺灣區漁業廣播電臺": "Taiwan Area Fishery Radio Station, Fisheries Agency, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會林務局農林航空測量所": "Aerial Survey Office, Forestry Bureau, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會林務局嘉義林區管理處": "Chiayi Forest District Office, Forestry Bureau, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會林務局羅東林區管理處": "Luodong Forest District Office, Forestry Bureau, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會動植物防疫檢疫局台中分局": "Taichung Branch, Bureau of Animal and Plant Health Inspection and Quarantine, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會動植物防疫檢疫局各分局": "        Branch, Bureau of Animal and Plant Health Inspection and Quarantine, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會水土保持局第一工程所": "First Engineering Office, Soil and Water Conservation Bureau, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會農業試驗所嘉義農業試驗分所": "Chiayi Agricultural Experiment Branch, Agricultural Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會農業試驗所鳳山熱帶園藝試驗分所": "Fengshan Tropical Horticultural Experiment Branch, Agricultural Research Institute , Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會畜產試驗所宜蘭分所": "Yilan branch, Livestock Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會畜產試驗所種畜繁殖場": "Animal Propagation Station, Livestock Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會畜產試驗所臺東種畜繁殖場": "Taitung Animal Propagation Station, Livestock Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會家畜衛生試驗所分所": "Animal Drugs Inspection Branch, Animal Health Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會家畜衛生試驗所動物用藥檢定分所": "Animal Drugs Inspection Branch, Animal Health Research Institute, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院農業委員會茶業改良場臺東分場": "Taitung Branch, Tea Research and Extension Station, Council of Agriculture, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會職業訓練局基隆區就業服務中心": "Keelung Employment Services Center, Vocational Training Bureau, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院勞工委員會職業訓練局臺南職業訓練中心": "Tainan Training Center, Vocational Training Bureau, Council of Labor Affairs, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署海岸巡防總局中部地區巡防局": "Central Coastal Patrol Office, Coastal Patrol Directorate General, Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署海岸巡防總局北部地區巡防局": "Northern Coastal Patrol Office, Coastal Patrol Directorate General, Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署海岸巡防總局東部地區巡防局": "Eastern Coastal Patrol Office, Coastal Patrol Directorate General, Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "行政院海岸巡防署海岸巡防總局南部地區巡防局": "Southern Coastal Patrol Office, Coastal Patrol Directorate General, Coast Guard Administration, Executive Yuan"
+    },
+    {
+        "中華電信股份有限公司分公司所屬營運處": "Branch Office, Chunghwa Telecom Co., Ltd.  "
+    },
+    {
+        "行政院國家搜救指揮中心": "National Rescue Command Center"
+    },
+    {
+        "交通部民用航空局桃園國際航空站": "Taoyuan International Airport Office, Civil Aeronautics Administration, Ministry of Transportation and Communications "
+    },
+    {
+        "稅政發展科": "Tax Administration Development Division"
+    },
+    {
+        "行政院國家科學委員會高等研究園區開發籌備處": "Advanced Research Park Provisional Office, National Science Council, Executive Yuan "
+    },
+    {
+        "行政院衛生署中央健康保險局": "Bureau of National Health Insurance, Department of Health, Executive Yuan  "
+    },
+    {
+        "醫審暨藥材組": "Medical Review and Pharmaceutical Benefits Division"
+    },
+    {
+        "總統府": "Office of the President "
+    },
+    {
+        "中央研究院": "Academia Sinica"
+    },
+    {
+        "國史館": "Academia Historica"
+    },
+    {
+        "國家安全會議": "National Security Council"
+    },
+    {
+        "國家安全局": "National Security Bureau"
+    },
+    {
+        "立法院": "Legislative Yuan"
+    },
+    {
+        "最高法院": "Supreme Court"
+    },
+    {
+        "臺灣高等法院": "Taiwan High Court "
+    },
+    {
+        "臺灣高等法院____分院": "Taiwan High Court ____ Branch "
+    },
+    {
+        "地方法院": "District Court "
+    },
+    {
+        "最高行政法院": "Supreme Administrative Court"
+    },
+    {
+        "高等行政法院": "High Administrative Court "
+    },
+    {
+        "智慧財產法院": "Intellectual Property Court "
+    },
+    {
+        "公務員懲戒委員會": "Public Functionary Disciplinary Sanction Commission"
+    },
+    {
+        "司法院司法人員研習所": "Judicial Personnel Institute, Judicial Yuan "
+    },
+    {
+        "考試院": "Examination Yuan"
+    },
+    {
+        "考選部": "Ministry of Examination"
+    },
+    {
+        "銓敘部": "Ministry of Civil Service "
+    },
+    {
+        "公務人員退休撫卹基金監理委員會": "Public Service Pension Fund Supervisory Board"
+    },
+    {
+        "公務人員保障暨培訓委員會": "Civil Service Protection and Training Commission"
+    },
+    {
+        "監察院": "Control Yuan"
+    },
+    {
+        "審計部": "National Audit Office"
+    },
+    {
+        "司法院": "Judicial Yuan "
+    },
+    {
+        "2": "1"
+    }
+]

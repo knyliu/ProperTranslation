@@ -1,0 +1,1262 @@
+[
+    {
+        "校長室": "principal's office"
+    },
+    {
+        "校長": "principal"
+    },
+    {
+        "副校長": "vice principal"
+    },
+    {
+        "秘書": "secretary"
+    },
+    {
+        "會客室": "reception room"
+    },
+    {
+        "起居室": "principal's suite"
+    },
+    {
+        "教務處": "educational affairs office"
+    },
+    {
+        "教務主任": "educational affairs director"
+    },
+    {
+        "組長": "section chief"
+    },
+    {
+        "副組長": "deputy section chief"
+    },
+    {
+        "教學組": "curriculum and instruction section "
+    },
+    {
+        "教學組長": "curriculum and instruction section chief"
+    },
+    {
+        "課研組": "curriculum development section"
+    },
+    {
+        "課研組長": "curriculum development section chief"
+    },
+    {
+        "研究發展組": "research and development section"
+    },
+    {
+        "研究發展組長": "research and development section chief"
+    },
+    {
+        "註冊組": "registration section"
+    },
+    {
+        "註冊組長": "registration section chief"
+    },
+    {
+        "資訊組": "information technology section"
+    },
+    {
+        "資訊執行祕書": "executive secretary of information technology"
+    },
+    {
+        "設備組": "equipment section"
+    },
+    {
+        "設備組長": "equipment section chief"
+    },
+    {
+        "試務組": "examinations section"
+    },
+    {
+        "試務組長": "examinations section chief"
+    },
+    {
+        "課務組": "curriculum section"
+    },
+    {
+        "課務組長": "curriculum section chief"
+    },
+    {
+        "實習組": "practicum/internship administration section"
+    },
+    {
+        "實習組長": "practicum/internship administration section chief"
+    },
+    {
+        "就業輔導組": "career guidance section"
+    },
+    {
+        "就業輔導組長": "career guidance section chief"
+    },
+    {
+        "實驗研究組": "student lab section"
+    },
+    {
+        "實驗研究組長": "student lab section chief"
+    },
+    {
+        "綜合高中組": "comprehensive high school section"
+    },
+    {
+        "綜合高中組長": "comprehensive high school section chief"
+    },
+    {
+        "音樂組": "music education section"
+    },
+    {
+        "音樂組長": "music education section chief"
+    },
+    {
+        "美術組": "art section"
+    },
+    {
+        "美術組長": "art section chief"
+    },
+    {
+        "舞蹈組": "dance section"
+    },
+    {
+        "舞蹈組長": "dance section chief"
+    },
+    {
+        "行政協辦": "deputy administrative officer"
+    },
+    {
+        "幹事": "clerk; officer"
+    },
+    {
+        "教材製作室": "teaching materials prep room"
+    },
+    {
+        "印刷室": "printing room"
+    },
+    {
+        "學籍檔案室": "registrar records room"
+    },
+    {
+        "教學設備及器材室": "teaching equipment room"
+    },
+    {
+        "儲藏室": "storeroom"
+    },
+    {
+        "學生事務處": "student affairs office"
+    },
+    {
+        "學務主任": "student affairs director"
+    },
+    {
+        "衛生組": "health & hygiene section"
+    },
+    {
+        "衛生組長": "health & hygiene section chief"
+    },
+    {
+        "社團活動組": "clubs & activities section"
+    },
+    {
+        "社團活動組長": "clubs & activities section chief"
+    },
+    {
+        "訓育組": "Student Activities Section"
+    },
+    {
+        "訓育組長": "Student Activities Section Chief"
+    },
+    {
+        "生活輔導組": "Student Conduct Section;Student Conduct and Safety Section"
+    },
+    {
+        "生活輔導組長": "Student Conduct Section Chief;Student Conduct and Safety Section Chief"
+    },
+    {
+        "生活教育組(生教組)": "Student Conduct Section;Student Conduct and Safety Section"
+    },
+    {
+        "生活教育組長": "Student Conduct Section Chief;Student Conduct and Safety Section Chief"
+    },
+    {
+        "體育組": "physical education section"
+    },
+    {
+        "體育組長": "physical education section chief"
+    },
+    {
+        "體育班組長": "physical education section chief"
+    },
+    {
+        "運動教練": "coach"
+    },
+    {
+        "運動傷害防護員": "sports injury assistant"
+    },
+    {
+        "游泳教練": "swimming coach"
+    },
+    {
+        "救生員": "lifeguard"
+    },
+    {
+        "保健室": "nurse's office"
+    },
+    {
+        "健康中心": "health center"
+    },
+    {
+        "校護": "school nurse"
+    },
+    {
+        "休養室": "recovery room"
+    },
+    {
+        "盥洗間": "restroom"
+    },
+    {
+        "駐校醫師": "school doctor"
+    },
+    {
+        "哺乳室": "breastfeeding room"
+    },
+    {
+        "護士": "nurse"
+    },
+    {
+        "營養師": "dietitian"
+    },
+    {
+        "護理師": "registered nurse"
+    },
+    {
+        "護理教師": "health and nursing teacher"
+    },
+    {
+        "住宿生輔導員": "dorm adviser (正式稱呼);dorm parent (暱稱)"
+    },
+    {
+        "體育設備及器材室": "PE equipment room"
+    },
+    {
+        "軍護室": "military intructors and nursing teachers room"
+    },
+    {
+        "軍械庫": "armory"
+    },
+    {
+        "廣播室": "public address room"
+    },
+    {
+        "補校": "extension school"
+    },
+    {
+        "補校主任": "extension school director"
+    },
+    {
+        "校務主任": "extension school director"
+    },
+    {
+        "輔導處(室)": "counseling office"
+    },
+    {
+        "輔導主任": "counseling director"
+    },
+    {
+        "專任輔導教師": "(school) guidance counselor"
+    },
+    {
+        "兼任輔導教師": "part-time counseling teacher"
+    },
+    {
+        "心理測驗室": "psychology tests room"
+    },
+    {
+        "諮商室": "counseling room"
+    },
+    {
+        "個別諮商室": "individual counseling room"
+    },
+    {
+        "團體輔導室": "group counseling room"
+    },
+    {
+        "資料陳列室": "display room"
+    },
+    {
+        "輔導專欄": "guidance board"
+    },
+    {
+        "視聽器材室": "audiovisual equipment room"
+    },
+    {
+        "觀察室": "observation room"
+    },
+    {
+        "輔導活動專科教室": "guidance activities classroom"
+    },
+    {
+        "輔導中心": "counseling center"
+    },
+    {
+        "輔導中心主任": "counseling center director"
+    },
+    {
+        "輔導組": "counseling section"
+    },
+    {
+        "輔導組長": "counseling section chief"
+    },
+    {
+        "生涯輔導組": "career guidance section"
+    },
+    {
+        "生涯輔導組長": "career guidance section chief"
+    },
+    {
+        "資料組": "student records section"
+    },
+    {
+        "資料組長": "student records section chief"
+    },
+    {
+        "復健組": "physical rehabilitation section"
+    },
+    {
+        "復健組長": "physical rehabilitation section chief"
+    },
+    {
+        "復健中心": "physical rehabilitation center"
+    },
+    {
+        "教官室": "military instructor's office (一位教官辦公室);military instructors office (多位教官辦公室)"
+    },
+    {
+        "主任教官": "chief military instructor"
+    },
+    {
+        "軍訓教官": "military instructor"
+    },
+    {
+        "社工師": "licensed social worker"
+    },
+    {
+        "社工室": "social workers office"
+    },
+    {
+        "諮商師": "counselor"
+    },
+    {
+        "復健諮商室": "physical rehabilitation counseling room"
+    },
+    {
+        "物理治療師": "physical therapist"
+    },
+    {
+        "物理治療室": "physical therapy room"
+    },
+    {
+        "專業治療室": "specialized treatment room"
+    },
+    {
+        "情緒轉換室": "calming room"
+    },
+    {
+        "職能治療師": "occupational therapist"
+    },
+    {
+        "職能治療室": "occupational therapy room"
+    },
+    {
+        "諮商心理師": "counseling psychologist"
+    },
+    {
+        "臨床心理師": "clinical psychologist"
+    },
+    {
+        "語言治療師": "speech therapist"
+    },
+    {
+        "會客接待室": "reception room"
+    },
+    {
+        "生涯發展資料室": "career development resources room"
+    },
+    {
+        "團體諮商室": "group counseling room"
+    },
+    {
+        "學生資料檔案室": "student records storage room"
+    },
+    {
+        "總務處": "general affairs office"
+    },
+    {
+        "總務主任": "general affairs director"
+    },
+    {
+        "事務組": "general affairs section"
+    },
+    {
+        "事務組長": "general affairs section chief"
+    },
+    {
+        "庶務組": "miscellaneous affairs section"
+    },
+    {
+        "庶務組長": "miscellaneous affairs section chief"
+    },
+    {
+        "出納組": "cashier’s section"
+    },
+    {
+        "出納組長": "cashier section chief"
+    },
+    {
+        "文書組": "mail and documents section"
+    },
+    {
+        "文書組長": "mail and documents section chief"
+    },
+    {
+        "助理員": "assistant"
+    },
+    {
+        "管理員": "custodian"
+    },
+    {
+        "書記": "junior clerk"
+    },
+    {
+        "技工": "junior technical specialist"
+    },
+    {
+        "技佐": "associate technician (薦任)junior technician (委任)assistant technician (技佐)"
+    },
+    {
+        "技士": "technical specialist"
+    },
+    {
+        "技正": "senior technical specialist"
+    },
+    {
+        "電氣管理員": "electrical superintendent"
+    },
+    {
+        "工友": "support worker"
+    },
+    {
+        "文書檔案室": "archive and document room"
+    },
+    {
+        "金庫室": "treasury room"
+    },
+    {
+        "人事室": "personnel office"
+    },
+    {
+        "人事室主任": "personnel office director"
+    },
+    {
+        "人事組員": "personnel officer"
+    },
+    {
+        "人事佐理員": "personnel assistant"
+    },
+    {
+        "人事助理員": "personnel assistant"
+    },
+    {
+        "人事雇員": "personnel aide"
+    },
+    {
+        "會計室": "accounting office"
+    },
+    {
+        "主計室": "budget and accounting office (描述用);Budget & Accounting Office (標示用)"
+    },
+    {
+        "會計室主任": "accounting office director"
+    },
+    {
+        "會計組員": "accounting officer"
+    },
+    {
+        "會計佐理員": "accounting assistant"
+    },
+    {
+        "教學資源中心": "teaching resources center"
+    },
+    {
+        "資源教室": "resource classroom"
+    },
+    {
+        "鄉土教室": "heritage & culture classroom"
+    },
+    {
+        "圖書館": "library"
+    },
+    {
+        "圖書館主任": "library director"
+    },
+    {
+        "圖書管理員": "librarian"
+    },
+    {
+        "技術服務組": "technical services section"
+    },
+    {
+        "技術服務組長": "technical services section chief"
+    },
+    {
+        "資訊媒體組": "information & media section"
+    },
+    {
+        "資訊媒體組長": "information & media section chief"
+    },
+    {
+        "讀者服務組": "reader services section"
+    },
+    {
+        "讀者服務組長": "reader services section chief"
+    },
+    {
+        "實習處": "practicum/internship administration office"
+    },
+    {
+        "實習處主任": "practicum/internship administration office director"
+    },
+    {
+        "技能檢定組": "skill assessment section"
+    },
+    {
+        "技能檢定組長": "skill assessment section chief"
+    },
+    {
+        "實用技能組": "practical skills section"
+    },
+    {
+        "實用技能組長": "practical skills section chief"
+    },
+    {
+        "特殊教育處": "special education office"
+    },
+    {
+        "特殊教育處主任": "special education office director"
+    },
+    {
+        "特殊教育組": "special education section"
+    },
+    {
+        "特殊教育組長": "special education section chief"
+    },
+    {
+        "建教合作處": "cooperative education office"
+    },
+    {
+        "建教合作處主任": "cooperative education office director"
+    },
+    {
+        "建教合作組": "cooperative education section"
+    },
+    {
+        "建教合作組長": "cooperative education section chief"
+    },
+    {
+        "進修部": "continuing education department"
+    },
+    {
+        "進修部主任": "continuing education department director"
+    },
+    {
+        "教務組": "academic affairs section"
+    },
+    {
+        "教務組長": "academic affairs section chief"
+    },
+    {
+        "學生事務組": "student affairs section"
+    },
+    {
+        "學生事務組長": "student affairs section chief"
+    },
+    {
+        "實習輔導組": "practicum/internship support section"
+    },
+    {
+        "實習輔導組長": "practicum/internship support section chief"
+    },
+    {
+        "護理人員": "nursing staff"
+    },
+    {
+        "兼任幹事": "part-time clerk"
+    },
+    {
+        "資訊室": "information management office"
+    },
+    {
+        "資訊室主任": "information management office director"
+    },
+    {
+        "研究發展處": "research and development office"
+    },
+    {
+        "研究發展處主任": "research and development office director"
+    },
+    {
+        "教育交流執行秘書": "executive secretary of (international) educational exchange"
+    },
+    {
+        "技術交流處": "technical exchange office"
+    },
+    {
+        "技術交流處主任": "technical exchange office director"
+    },
+    {
+        "電算中心（中控室）": "computer center (central control room)"
+    },
+    {
+        "資訊中心": "information technology center"
+    },
+    {
+        "學生活動中心": "student activity center"
+    },
+    {
+        "社團教室": "student clubs classroom"
+    },
+    {
+        "韻律教室": "aerobics classroom"
+    },
+    {
+        "表演劇場": "performance theater"
+    },
+    {
+        "文化走廊": "culture corridor"
+    },
+    {
+        "活動展演場": "event, display and performance area"
+    },
+    {
+        "藝文活動場館": "arts and cultural venues"
+    },
+    {
+        "社區活動中心": "community activity center"
+    },
+    {
+        "綜合活動中心": "general activity center"
+    },
+    {
+        "社團辦公室": "student clubs office"
+    },
+    {
+        "(大)禮堂": "auditorium"
+    },
+    {
+        "體育館": "gymnasium(傳統使用);gym(新趨勢使用)"
+    },
+    {
+        "看台": "spectator stands"
+    },
+    {
+        "更衣室": "locker room (有置物櫃);changing room (無置物櫃)"
+    },
+    {
+        "游泳池": "swimming pool"
+    },
+    {
+        "置物櫃": "lockers(多個置物櫃);locker (單一置物櫃)"
+    },
+    {
+        "盥洗室": "restroom"
+    },
+    {
+        "水質過濾與消毒機電設備室": "water filtration and disinfection equipment room"
+    },
+    {
+        "桌球室": "table tennis room"
+    },
+    {
+        "輪椅觀眾席位": "wheelchair seating area"
+    },
+    {
+        "教學研究室(教師辦公室)": "teachers office"
+    },
+    {
+        "教材教具室": "teaching aids and materials room"
+    },
+    {
+        "兼、代課教師辦公室": "part-time and substitute teachers office"
+    },
+    {
+        "兼、代課教師": "part-time and substitute teachers"
+    },
+    {
+        "實習教師辦公室": "intern and student teachers office"
+    },
+    {
+        "實習教師": "student teacher (在學的實習教師);intern teacher (已畢業的實習教師)"
+    },
+    {
+        "幼兒園": "preschool"
+    },
+    {
+        "幼兒園主任": "preschool director;kindergarten director"
+    },
+    {
+        "教保組長": "educare section chief"
+    },
+    {
+        "組員": "officer (用於位階);section member (指隸屬某組之成員)"
+    },
+    {
+        "教師": "teacher"
+    },
+    {
+        "教師助理員": "teacher's assistant"
+    },
+    {
+        "代理教師": "substitute teacher"
+    },
+    {
+        "導師辦公室": "homeroom teachers office"
+    },
+    {
+        "導師": "homeroom teacher"
+    },
+    {
+        "生活輔導員": "dorm adviser (正式稱呼);dorm parent (暱稱)"
+    },
+    {
+        "服務員": "service staff member"
+    },
+    {
+        "約(聘)僱人員": "contract employee"
+    },
+    {
+        "臨時人員": "temporary worker"
+    },
+    {
+        "駐衛警": "campus security"
+    },
+    {
+        "校警": "campus security officer"
+    },
+    {
+        "保全": "security"
+    },
+    {
+        "家長會辦公室": "parents association office"
+    },
+    {
+        "家長會長": "president of the parents association"
+    },
+    {
+        "家長委員": "parents association member"
+    },
+    {
+        "教師會辦公室": "teachers association office"
+    },
+    {
+        "教師會會長": "teachers association president"
+    },
+    {
+        "退休教師辦公室": "retired teachers office"
+    },
+    {
+        "退休教師": "retired teacher"
+    },
+    {
+        "多元智慧開發專科教室": "multiple intelligences development classroom"
+    },
+    {
+        "多功能教室": "multi-purpose classroom"
+    },
+    {
+        "多功能E化教室": "multi-purpose e-learning classroom"
+    },
+    {
+        "體能發展室": "physical development exercise room"
+    },
+    {
+        "語言專科教室": "language classroom"
+    },
+    {
+        "童軍教室": "scouts room"
+    },
+    {
+        "生物實驗室": "biology lab"
+    },
+    {
+        "體適能發展室": "health and fitness room"
+    },
+    {
+        "數理資優教室": "math & science GATE classroom"
+    },
+    {
+        "e化準備室": "e-learning class preparation room"
+    },
+    {
+        "特教教室": "special education classroom"
+    },
+    {
+        "特教辦公室": "special education office"
+    },
+    {
+        "補救教學教室": "remedial education classroom"
+    },
+    {
+        "學習發展中心": "learning and development center"
+    },
+    {
+        "資優教室": "GATE classroom"
+    },
+    {
+        "數位語言及閱讀室": "digital language and reading room"
+    },
+    {
+        "築夢園": "Dreamweaver Garden"
+    },
+    {
+        "理化資優教室": "science GATE classroom"
+    },
+    {
+        "學府藝廊": "school art gallery"
+    },
+    {
+        "普通教室": "general classroom"
+    },
+    {
+        "備用普通教室": "spare classroom"
+    },
+    {
+        "專科教室": "(English/art/computer…) classroom"
+    },
+    {
+        "(專業)科主任": "head of (...) department"
+    },
+    {
+        "(專門)學程主任": "director of (...) program"
+    },
+    {
+        "行政辦公室": "administration office"
+    },
+    {
+        "特殊教育教室": "special education classroom"
+    },
+    {
+        "資訊教室": "IT classroom"
+    },
+    {
+        "家政教室": "home economics classroom"
+    },
+    {
+        "家政教室管理員": "home economics classroom custodian"
+    },
+    {
+        "自然教室": "natural science classroom"
+    },
+    {
+        "英語教室": "English classroom"
+    },
+    {
+        "鄉土語言教室": "native language classroom"
+    },
+    {
+        "音樂教室": "music classroom"
+    },
+    {
+        "美勞教室": "arts & crafts classroom"
+    },
+    {
+        "電腦教室": "computer classroom(傳統使用);computer lab(新趨勢使用)"
+    },
+    {
+        "視聽教室": "audiovisual classroom"
+    },
+    {
+        "語言教室": "language lab"
+    },
+    {
+        "禮儀教室": "etiquette classroom"
+    },
+    {
+        "烹飪教室": "culinary classroom"
+    },
+    {
+        "工藝教室": "arts & crafts classroom"
+    },
+    {
+        "綜合教室": "multipurpose classroom"
+    },
+    {
+        "實驗室": "lab"
+    },
+    {
+        "多元創新教室": "diversity and innovation classroom"
+    },
+    {
+        "商業服務教室": "business skills classroom"
+    },
+    {
+        "美髮教室": "hairstyling classroom"
+    },
+    {
+        "農園藝教室": "agronomy & horticulture classroom"
+    },
+    {
+        "中餐教室": "Chinese cuisine classroom"
+    },
+    {
+        "西餐教室": "western cuisine classroom"
+    },
+    {
+        "烘焙教室": "baking classroom"
+    },
+    {
+        "洗衣教室": "laundry classroom"
+    },
+    {
+        "手工藝教室": "handicraft classroom"
+    },
+    {
+        "物品整理教室": "goods and materials handling classroom"
+    },
+    {
+        "體能訓練教室": "physical training classroom"
+    },
+    {
+        "裝配教室": "product assembly classroom"
+    },
+    {
+        "飲料調製教室": "beverage preparation classroom"
+    },
+    {
+        "生活教室": "life skills classroom"
+    },
+    {
+        "門市服務教室": "retail services classroom"
+    },
+    {
+        "環境清潔教室": "environment cleaning classroom"
+    },
+    {
+        "包裝教室": "packaging classroom"
+    },
+    {
+        "健身教室": "fitness classroom"
+    },
+    {
+        "感統教室": "sensory integration classroom"
+    },
+    {
+        "知動教室": "perceptual motor skills classroom"
+    },
+    {
+        "實驗室管理員": "lab custodian"
+    },
+    {
+        "廚房": "kitchen"
+    },
+    {
+        "廚房經理": "kitchen manager"
+    },
+    {
+        "廚房工作人員": "kitchen staff"
+    },
+    {
+        "鍋爐室": "boiler room"
+    },
+    {
+        "廚工更衣室": "kitchen staff changing room"
+    },
+    {
+        "廚房辦公室": "kitchen office"
+    },
+    {
+        "進貨檢驗區": "delivery inspection area"
+    },
+    {
+        "魚肉蔬果處理區": "fish, meat, fruit & vegetable preparation area"
+    },
+    {
+        "烹調區": "cooking area"
+    },
+    {
+        "配膳區": "meal preparation area"
+    },
+    {
+        "洗滌區": "washing and rinsing area"
+    },
+    {
+        "廚房廢棄物處理區": "kitchen waste area"
+    },
+    {
+        "餐廳": "cafeteria"
+    },
+    {
+        "教職員餐廳": "staff cafeteria"
+    },
+    {
+        "學生餐廳": "student cafeteria"
+    },
+    {
+        "實習餐廳": "training restaurant"
+    },
+    {
+        "實習商店": "training store"
+    },
+    {
+        "教職員宿舍": "staff dormitory"
+    },
+    {
+        "教職員工托兒室": "daycare room for children of staff"
+    },
+    {
+        "學生宿舍": "student dorm"
+    },
+    {
+        "志工室": "volunteer room"
+    },
+    {
+        "防空避難室": "air raid shelter"
+    },
+    {
+        "茶水間": "tea & water room (無廚具);kitchenette (有簡單廚具等)"
+    },
+    {
+        "樂器室": "musical instrument room"
+    },
+    {
+        "練習室": "practice room"
+    },
+    {
+        "舞台": "stage"
+    },
+    {
+        "視聽音響控制室": "audiovisual control room"
+    },
+    {
+        "器材存放室": "equipment storage room"
+    },
+    {
+        "教具室": "teaching aids room"
+    },
+    {
+        "教具室管理員": "teaching aids room custodian"
+    },
+    {
+        "教師室": "teachers office"
+    },
+    {
+        "校史室": "school history room"
+    },
+    {
+        "會議室": "conference room"
+    },
+    {
+        "大會議室": "conference room"
+    },
+    {
+        "小會議室": "meeting room"
+    },
+    {
+        "演講廳": "lecture hall"
+    },
+    {
+        "校友會室": "alumni association office"
+    },
+    {
+        "教師會室": "teachers association room"
+    },
+    {
+        "合作社": "(school) co-op"
+    },
+    {
+        "合作社經理": "(school) co-op manager"
+    },
+    {
+        "合作社雇員": "(school) co-op assistant"
+    },
+    {
+        "傳達室": "gate room"
+    },
+    {
+        "維修工友": "maintenance worker"
+    },
+    {
+        "清潔工友": "cleaning worker"
+    },
+    {
+        "園藝工友": "gardener"
+    },
+    {
+        "交通導護": "school crossing guard"
+    },
+    {
+        "糾察隊": "prefect team"
+    },
+    {
+        "家長義工": "parent volunteer"
+    },
+    {
+        "愛心媽媽": "parent volunteer"
+    },
+    {
+        "交誼廳": "staff lounge"
+    },
+    {
+        "物流中心": "logistics center"
+    },
+    {
+        "公用儲藏室": "common storage room"
+    },
+    {
+        "油印室": "print and copy room"
+    },
+    {
+        "器材室": "equipment room"
+    },
+    {
+        "檔案室": "archives room"
+    },
+    {
+        "閱覽室": "reading room"
+    },
+    {
+        "警衛(值勤)室": "security room"
+    },
+    {
+        "警衛": "security guard"
+    },
+    {
+        "值夜室": "night security room"
+    },
+    {
+        "替代役": "alternative military service (指替代役「制度」)alternative military serviceman (指替代役「役男」)"
+    },
+    {
+        "廁所": "restroom"
+    },
+    {
+        "無障礙廁所": "accessible restroom"
+    },
+    {
+        "兩性廁所": "gender-neutral restroom"
+    },
+    {
+        "男生廁所": "boys' restroom (描述用);Boys (標示用)"
+    },
+    {
+        "女生廁所": "girls' restroom (描述用);Girls (標示用)"
+    },
+    {
+        "化糞池": "septic tank"
+    },
+    {
+        "倉儲室": "storeroom"
+    },
+    {
+        "機電設備空間": "electrical equipment area"
+    },
+    {
+        "高壓受電變電室": "high-voltage transformer room"
+    },
+    {
+        "洗車場": "car wash"
+    },
+    {
+        "汽車停車場": "car park"
+    },
+    {
+        "地面式停車場": "(surface) parking lot"
+    },
+    {
+        "地下停車場": "underground parking"
+    },
+    {
+        "機踏車停車棚": "covered motorcycle parking"
+    },
+    {
+        "無障礙車位": "accessible parking"
+    },
+    {
+        "樓梯": "stairs"
+    },
+    {
+        "川堂": "entrance hall"
+    },
+    {
+        "司令台": "ceremonial stand"
+    },
+    {
+        "廣場": "plaza"
+    },
+    {
+        "操場": "sports ground (中學以上);playground (小學以下)"
+    },
+    {
+        "運動場": "sports ground"
+    },
+    {
+        "田徑場": "athletic field"
+    },
+    {
+        "球場": "ballcourt (無草地);sports field (有草地)"
+    },
+    {
+        "綜合球場": "multi-sport ballcourt(s)"
+    },
+    {
+        "棒、壘球場": "baseball/softball field"
+    },
+    {
+        "風雨操場": "covered playground"
+    },
+    {
+        "遊戲器材區": "playground equipment area"
+    },
+    {
+        "生態教學園區": "eco-education garden(傳統使用);ecoliteracy garden (新趨勢使用)"
+    },
+    {
+        "學習步道": "Learning Path"
+    },
+    {
+        "休閒活動區": "recreation area"
+    },
+    {
+        "烤肉區": "barbecue area"
+    },
+    {
+        "露營區": "camping area"
+    },
+    {
+        "水池": "cistern"
+    },
+    {
+        "綠廊": "green corridor"
+    },
+    {
+        "綠地": "green field"
+    },
+    {
+        "涼亭": "pavilion"
+    },
+    {
+        "綠化區": "green space"
+    },
+    {
+        "室外休閒區": "outdoor recreation area"
+    },
+    {
+        "家長接送區": "student drop-off/pick-up area"
+    },
+    {
+        "垃圾清運場及資源回收場": "refuse and recyclables collection station"
+    },
+    {
+        "水資源再利用空間": "water reuse space"
+    },
+    {
+        "有機肥資源處理區": "organic composting area"
+    }
+]

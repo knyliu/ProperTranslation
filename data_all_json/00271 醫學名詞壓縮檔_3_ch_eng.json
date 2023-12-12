@@ -1,0 +1,2393 @@
+[
+    {
+        "毒魚刺傷": "venomous fishes sting"
+    },
+    {
+        "毒蛇咬傷": "venomous snake bite"
+    },
+    {
+        "靜脈的": "venous"
+    },
+    {
+        "靜脈吸收": "venous absorption"
+    },
+    {
+        "靜脈囊狀瘤": "venous aneurysm"
+    },
+    {
+        "靜脈血": "venous blood"
+    },
+    {
+        "靜脈微血管": "venous capillary"
+    },
+    {
+        "靜脈導管插入": "venous catheterization"
+    },
+    {
+        "靜脈性跛行": "venous claudication"
+    },
+    {
+        "靜脈導管": "venous duct"
+    },
+    {
+        "靜脈性濕疹": "venous eczema"
+    },
+    {
+        "靜脈性水腫": "venous edema"
+    },
+    {
+        "靜脈溝": "venous grooves"
+    },
+    {
+        "靜脈出血": "venous hemorrhage"
+    },
+    {
+        "靜脈哼聲": "venous hum"
+    },
+    {
+        "高靜脈壓": "venous hypertension"
+    },
+    {
+        "靜脈湖": "venous lake"
+    },
+    {
+        "帶狀靜脈形成不良": "venous malformations zosteriform"
+    },
+    {
+        "靜脈雜音": "venous murmur"
+    },
+    {
+        "靜脈壓力": "venous pressure"
+    },
+    {
+        "靜脈回流": "venous return"
+    },
+    {
+        "靜脈竇": "venous sinus"
+    },
+    {
+        "靜脈溝": "venous sulci"
+    },
+    {
+        "靜脈血栓形成": "venous thrombosis"
+    },
+    {
+        "靜脈輸血法": "venous transfusion"
+    },
+    {
+        "靜脈曲張性潰瘍": "venous ulcer"
+    },
+    {
+        "靜脈性小腿潰瘍": "venous ulceration of leg"
+    },
+    {
+        "靜脈曲張": "venous varix"
+    },
+    {
+        "孔": "vent"
+    },
+    {
+        "兔肛病": "vent disease"
+    },
+    {
+        "腹": "venter"
+    },
+    {
+        "枕肌": "venter occipitalis musculi occipitofrontalis"
+    },
+    {
+        "垂腹": "venter propendens"
+    },
+    {
+        "換氣；換氣法": "ventilation"
+    },
+    {
+        "換氣灌注肺掃描": "ventilation-perfusion lung scanning"
+    },
+    {
+        "換氣灌注比率": "ventilation-perfusion ratio"
+    },
+    {
+        "呼吸器": "ventilator"
+    },
+    {
+        "呼吸頻率": "ventilatory frequency"
+    },
+    {
+        "腹的；腹面的": "ventral"
+    },
+    {
+        "枕額肌額腹": "ventral frontalis musculi occipitofrontalis"
+    },
+    {
+        "腹側腸繫膜": "ventral mesentery"
+    },
+    {
+        "腹胰管": "ventral pancreatic duct"
+    },
+    {
+        "骶尾腹側肌": "ventral sacrococcygeal muscle"
+    },
+    {
+        "腹側脊髓丘腦徑": "ventral spinothalamic tract"
+    },
+    {
+        "腹面": "ventral surface"
+    },
+    {
+        "心室中膈": "ventriclar septum"
+    },
+    {
+        "室": "ventricle"
+    },
+    {
+        "心室性早期收縮": "ventricualr premature beat"
+    },
+    {
+        "心室早期複合波": "ventricualr premature complex"
+    },
+    {
+        "心室性頻脈": "ventricualr tachycarrhythmia"
+    },
+    {
+        "室的": "ventricular"
+    },
+    {
+        "心室囊狀瘤": "ventricular aneurysm"
+    },
+    {
+        "大腦導水管": "ventricular aqueduct"
+    },
+    {
+        "心室性不整脈": "ventricular arrhythmia"
+    },
+    {
+        "心室輔助裝置": "ventricular assist device"
+    },
+    {
+        "心室早期摶動": "ventricular beat"
+    },
+    {
+        "心室傳導阻斷": "ventricular block"
+    },
+    {
+        "心室複合體{包括心電圖QRS與T波表示心室之興奮}": "ventricular complex"
+    },
+    {
+        "心室性凹": "ventricular depression"
+    },
+    {
+        "心室逸搏": "ventricular escape beat"
+    },
+    {
+        "心室性期外收縮": "ventricular extrasystole"
+    },
+    {
+        "心室顫動": "ventricular fibrillation"
+    },
+    {
+        "腦室液": "ventricular fluid"
+    },
+    {
+        "心室皺摺": "ventricular fold"
+    },
+    {
+        "心室神經節": "ventricular ganglia"
+    },
+    {
+        "心室平均電軸": "ventricular gradient"
+    },
+    {
+        "心室溝": "ventricular groove"
+    },
+    {
+        "心室肥大": "ventricular hypertrophy"
+    },
+    {
+        "室韌帶": "ventricular ligament"
+    },
+    {
+        "心室性高丘": "ventricular plateau"
+    },
+    {
+        "心室早期搏動": "ventricular premature beat"
+    },
+    {
+        "心室性節律": "ventricular rhythm"
+    },
+    {
+        "心室中膈的": "ventricular septal"
+    },
+    {
+        "心室間隔缺陷": "ventricular septaldefect"
+    },
+    {
+        "心室中隔": "ventricular septum"
+    },
+    {
+        "心室收縮": "ventricular systole"
+    },
+    {
+        "室": "ventriculi"
+    },
+    {
+        "乾胃粉": "ventriculin"
+    },
+    {
+        "腦室動脈分流": "ventriculoatrial shunt"
+    },
+    {
+        "腦室腦池分流": "ventriculocisternal shunt"
+    },
+    {
+        "腦室攝影術；心室攝影術": "ventriculography"
+    },
+    {
+        "側腦室乳突分流": "ventriculomastoid shunt"
+    },
+    {
+        "心室胸膜分流": "ventriculopleural shunt"
+    },
+    {
+        "缺乏尺骨或大拇指及心室中隔缺損": "ventriculoradial dysplasia"
+    },
+    {
+        "室管膜炎": "ventriculorum meningitis"
+    },
+    {
+        "腦室靜脈分流": "ventriculovenous shunt"
+    },
+    {
+        "室；胃": "ventriculus"
+    },
+    {
+        "腹側": "ventro"
+    },
+    {
+        "小腦腹側徑": "ventrocerebellar tract"
+    },
+    {
+        "腹外側塊": "ventrolateral mass"
+    },
+    {
+        "腹外側塊": "ventrolateral muscle"
+    },
+    {
+        "腎星狀靜脈": "venulae stellatae renis"
+    },
+    {
+        "小靜脈": "venule"
+    },
+    {
+        "小靜脈炎": "venulitis"
+    },
+    {
+        "言語的": "verbal"
+    },
+    {
+        "寫句不能": "verbal agraphia"
+    },
+    {
+        "言語的失語症": "verbal aphasia"
+    },
+    {
+        "馬鞭草": "verbena"
+    },
+    {
+        "Verga氏淚溝": "Verga's lacrimal groove"
+    },
+    {
+        "Verhoeff-van Gieson氏染劑": "Verhoeff-van Gieson stain"
+    },
+    {
+        "蠕動": "vermicular motion"
+    },
+    {
+        "蠕蟲樣皮萎病": "vermiculate atrophoderma"
+    },
+    {
+        "蠕蟲狀的": "vermiform"
+    },
+    {
+        "闌尾": "vermiform appendix"
+    },
+    {
+        "唇紅": "vermillion of the lip"
+    },
+    {
+        "蠕蟲的": "verminous"
+    },
+    {
+        "血寄生蟲性動脈瘤": "verminous aneurysm"
+    },
+    {
+        "寄生蟲性闌尾炎": "verminous appendicitis"
+    },
+    {
+        "小腦蚓部": "vermis"
+    },
+    {
+        "春季肺水腫": "vernal edema of lung"
+    },
+    {
+        "Vernet氏症候群": "Vernet's syndrome"
+    },
+    {
+        "胎兒皮脂": "vernix caseosa"
+    },
+    {
+        "疣": "verruca"
+    },
+    {
+        "尖形疣": "verruca acuminata"
+    },
+    {
+        "肉疣": "verruca carnea"
+    },
+    {
+        "指狀疣": "verruca digitata"
+    },
+    {
+        "絲狀疣": "verruca filiformis"
+    },
+    {
+        "平滑疣": "verruca glabra"
+    },
+    {
+        "海馬回疣": "verruca gyri hippocampi"
+    },
+    {
+        "青年疣": "verruca juvenilis"
+    },
+    {
+        "濕疣": "verruca mollusciformis"
+    },
+    {
+        "剖屍結節": "verruca necrogenica"
+    },
+    {
+        "祕魯疣": "verruca peruviana"
+    },
+    {
+        "扁平疣": "verruca plana"
+    },
+    {
+        "老年扁平疣": "verruca plana senilis"
+    },
+    {
+        "蹠疣": "verruca plantaris"
+    },
+    {
+        "老人疣": "verruca senilis"
+    },
+    {
+        "單純疣": "verruca simplex"
+    },
+    {
+        "尖頭濕疣": "verruca venereal"
+    },
+    {
+        "尋常疣": "verruca vulgaris"
+    },
+    {
+        "尖濕疣": "verruca, accuminat"
+    },
+    {
+        "疣狀的": "verruciform"
+    },
+    {
+        "疣狀黃色瘤": "verruciform xanthoma"
+    },
+    {
+        "疣狀的": "verruciforme"
+    },
+    {
+        "疣的": "verrucose"
+    },
+    {
+        "疣的": "verrucous"
+    },
+    {
+        "疣狀癌": "verrucous carcinoma"
+    },
+    {
+        "疣狀皮膚炎": "verrucous dermatitis"
+    },
+    {
+        "線狀發炎性疣狀表皮痣斑": "verrucous epidermal naevus, inflammatory linear"
+    },
+    {
+        "疣狀血管瘤": "verrucous hemangioma"
+    },
+    {
+        "斑色的": "versicolor"
+    },
+    {
+        "脊椎；椎骨": "vertebra"
+    },
+    {
+        "椎骨的": "vertebral"
+    },
+    {
+        "椎弓": "vertebral arch"
+    },
+    {
+        "脊椎關節炎": "vertebral arthritis"
+    },
+    {
+        "脊椎阻斷": "vertebral block"
+    },
+    {
+        "椎體": "vertebral body"
+    },
+    {
+        "脊椎脫位": "vertebral dislocation"
+    },
+    {
+        "椎溝": "vertebral groove"
+    },
+    {
+        "脊椎神經": "vertebral nerve"
+    },
+    {
+        "脊椎骨軟骨病": "vertebral osteochondrosis"
+    },
+    {
+        "椎肋": "vertebral rib"
+    },
+    {
+        "椎靜脈": "vertebral vein"
+    },
+    {
+        "脊柱基底局部缺血": "vertebrobasilar ischemia"
+    },
+    {
+        "椎骨與肋骨的": "vertebrocostal"
+    },
+    {
+        "椎肋": "vertebrocostal rib"
+    },
+    {
+        "椎胸膜韌帶": "vertebropleural ligament"
+    },
+    {
+        "椎骨與胸骨的": "vertebrosternal"
+    },
+    {
+        "真肋；椎胸骨肋": "vertebrosternal rib"
+    },
+    {
+        "垂直的；頂的": "vertical"
+    },
+    {
+        "舌垂直肌": "vertical muscle of tongue"
+    },
+    {
+        "垂直性眩暈": "vertical vertigo"
+    },
+    {
+        "眩暈的": "vertiginous"
+    },
+    {
+        "眩暈": "vertigo"
+    },
+    {
+        "種子狀骨": "vesalian bone"
+    },
+    {
+        "導靜脈": "vesalian vein"
+    },
+    {
+        "Vesalis氏竇": "Vesalis sinus"
+    },
+    {
+        "Vesalius氏韌帶；腹股溝韌帶": "Vesalius ligament"
+    },
+    {
+        "瘋狂的；躁狂的": "vesanic"
+    },
+    {
+        "囊；膀胱": "vesica"
+    },
+    {
+        "膽囊": "vesica fellea"
+    },
+    {
+        "囊的；膀胱的": "vesical"
+    },
+    {
+        "膀胱性血尿": "vesical hematuria"
+    },
+    {
+        "膀胱疝": "vesical hernia"
+    },
+    {
+        "膀胱紫瘢病": "vesical purpura"
+    },
+    {
+        "膀胱靜脈": "vesical vein"
+    },
+    {
+        "發泡劑": "vesicant"
+    },
+    {
+        "胞囊；水疱": "vesicle"
+    },
+    {
+        "膀胱；囊泡": "vesico"
+    },
+    {
+        "膀胱子宮頸陰道瘻": "vesico-cervico-vaginal fistula"
+    },
+    {
+        "膀胱腹腔引流": "vesicocelomic drainage"
+    },
+    {
+        "膀胱與子宮頸的": "vesicocervical"
+    },
+    {
+        "膀胱子宮頸瘻": "vesicocervical fistula"
+    },
+    {
+        "膀胱與結腸的": "vesicocolic"
+    },
+    {
+        "膀胱結腸瘻": "vesicocolic fistula"
+    },
+    {
+        "膀胱皮瘻": "vesicocutaneous fistula"
+    },
+    {
+        "膀胱腸瘻": "vesicoenteric fistula"
+    },
+    {
+        "膀胱腸瘻": "vesicointestinal fistula"
+    },
+    {
+        "膀胱恥骨韌帶": "vesicopubic ligament"
+    },
+    {
+        "膀胱臍韌帶": "vesicoumbilical ligament"
+    },
+    {
+        "膀胱輸尿管逆流": "vesicoureteral regurgitation"
+    },
+    {
+        "膀胱輸尿管逆流": "vesicoureteric reflux"
+    },
+    {
+        "膀胱子宮陷凹": "vesicouterine excavation"
+    },
+    {
+        "膀胱子宮瘻": "vesicouterine fistula"
+    },
+    {
+        "膀胱子宮韌帶": "vesicouterine ligament"
+    },
+    {
+        "膀胱與陰道的": "vesicovaginal"
+    },
+    {
+        "膀胱陰道瘻": "vesicovaginal fistula"
+    },
+    {
+        "胞；囊；水泡": "vesicula"
+    },
+    {
+        "胞狀的；囊狀的；水泡的": "vesicular"
+    },
+    {
+        "肺泡氣腫": "vesicular emphysema"
+    },
+    {
+        "肺泡音": "vesicular murmur"
+    },
+    {
+        "肺泡叩響": "vesicular resonance"
+    },
+    {
+        "肺泡呼吸音": "vesicular respiration"
+    },
+    {
+        "肺泡支氣管呼吸音": "vesiculobronchial respiration"
+    },
+    {
+        "肺泡空洞呼吸音": "vesiculocavernous respiration"
+    },
+    {
+        "水泡的；小水泡的": "vesiculosus"
+    },
+    {
+        "肺泡鼓響": "veslculotympanic resonance"
+    },
+    {
+        "黃昏的；晚間的": "vesperal"
+    },
+    {
+        "黃昏幻覺": "vesperal hallucination"
+    },
+    {
+        "小管；血管": "vessel"
+    },
+    {
+        "VEST移動功能": "VEST ambulatory function"
+    },
+    {
+        "前庭的": "vestibular"
+    },
+    {
+        "前庭性失調症": "vestibular ataxia"
+    },
+    {
+        "前庭性喉炎": "vestibular laryngitis"
+    },
+    {
+        "前庭韌帶": "vestibular ligament"
+    },
+    {
+        "前庭神經": "vestibular nerve"
+    },
+    {
+        "前庭感覺": "vestibular sense"
+    },
+    {
+        "前庭面": "vestibular surface"
+    },
+    {
+        "前庭靜脈": "vestibular vein"
+    },
+    {
+        "前庭性眩暈": "vestibular vertigo"
+    },
+    {
+        "前庭": "vestibule"
+    },
+    {
+        "前庭炎": "vestibulitis"
+    },
+    {
+        "陰唇前庭炎": "vestibulitis vulvai"
+    },
+    {
+        "前庭小腦徑": "vestibulocerebellar tract"
+    },
+    {
+        "前庭耳蝸神經": "vestibulocochlear nerve"
+    },
+    {
+        "前庭與脊椎的": "vestibulospinal"
+    },
+    {
+        "前庭脊[髓]徑": "vestibulospinal tract"
+    },
+    {
+        "前庭": "vestibulum"
+    },
+    {
+        "退化肌": "vestigial muscle"
+    },
+    {
+        "獸醫學": "veterinary medicine"
+    },
+    {
+        "岩蘭草": "vetiver"
+    },
+    {
+        "震動症候群": "vibration syndrome"
+    },
+    {
+        "震動性滑膜炎": "vibration synovitis"
+    },
+    {
+        "振動器": "vibrator"
+    },
+    {
+        "震動性血管水腫": "vibratory angioedema"
+    },
+    {
+        "弧菌屬": "Vibrio"
+    },
+    {
+        "弧菌性敗血症": "vibrio septicemia"
+    },
+    {
+        "鬚毛": "vibrissa(e)"
+    },
+    {
+        "替代的": "vicarious"
+    },
+    {
+        "補償性痛經；異位性痛經": "vicarious dysmenorrhea"
+    },
+    {
+        "替代性氣腫": "vicarious emphysema"
+    },
+    {
+        "替代性出血": "vicarious hemorrhage"
+    },
+    {
+        "替代性肥大": "vicarious hypertropy"
+    },
+    {
+        "異位性月經": "vicarious menstruation"
+    },
+    {
+        "替代性呼吸": "vicarious respiration"
+    },
+    {
+        "Vicat氏針": "Vicat needle"
+    },
+    {
+        "Vicq d'Azyr氏帶": "Vicq d'Azyr's band"
+    },
+    {
+        "Vidal病{神經性皮炎}": "Vidal disease"
+    },
+    {
+        "影像密度測量法": "videodensitometry"
+    },
+    {
+        "翼管": "vidian canal"
+    },
+    {
+        "翼管神經": "vidian nerve"
+    },
+    {
+        "翼管神經痛": "vidian neuralgia"
+    },
+    {
+        "翼管靜脈": "vidian vein"
+    },
+    {
+        "Vignal氏細胞": "Vignal's cell"
+    },
+    {
+        "Villaret氏症候群": "Villaret's syndrome"
+    },
+    {
+        "蛛網膜絨毛": "villi of arachnoid"
+    },
+    {
+        "絨毛與結節的": "villonodular"
+    },
+    {
+        "絨毛結節狀腱鞘炎": "villonodular tenosynovitis"
+    },
+    {
+        "絨毛的": "villose"
+    },
+    {
+        "絨毛的": "villous"
+    },
+    {
+        "絨毛管狀癌": "villous duct cancer"
+    },
+    {
+        "絨毛狀乳頭狀瘤": "villous papilloma"
+    },
+    {
+        "絨毛胎盤": "villous placenta"
+    },
+    {
+        "絨毛狀滑膜炎": "villous synovitis"
+    },
+    {
+        "絨毛狀腱鞘炎": "villous tenosynovitis"
+    },
+    {
+        "肝病性眩暈": "villous vertigo"
+    },
+    {
+        "絨毛": "villus"
+    },
+    {
+        "長春花生物鹼": "vinblastine"
+    },
+    {
+        "Vincent氏咽峽炎": "Vincent's angina"
+    },
+    {
+        "Vincent氏感染": "Vincent's infection"
+    },
+    {
+        "Vincent氏微生物": "Vincent's organism"
+    },
+    {
+        "Vincent氏牙周咽峽炎": "Vincent's periodontal angina"
+    },
+    {
+        "長春新生物鹼": "vincristine"
+    },
+    {
+        "乙酸乙烯酯共聚物乳液": "vinyl acetate copolymer emulsion"
+    },
+    {
+        "乙酸乙烯脂‧巴豆酸共聚物": "vinyl acetate ‧ crotonic and copolymer"
+    },
+    {
+        "乙酸乙烯脂‧苯乙烯共聚物乳液": "vinyl acetate ‧ styrene copolymer emulsion"
+    },
+    {
+        "氯乙烯": "vinyl chloride"
+    },
+    {
+        "乙烯吡咯啶酮‧乙酸乙烯脂共聚物": "vinylpyrrolidone vinylacetate copolymer"
+    },
+    {
+        "暴力": "violence"
+    },
+    {
+        "紫；紫色染料": "violet"
+    },
+    {
+        "紫色盲": "violet blindness"
+    },
+    {
+        "蝮蛇": "viper"
+    },
+    {
+        "病毒的": "viral"
+    },
+    {
+        "病毒性腦膜炎": "viral meningitis"
+    },
+    {
+        "病毒性脊髓炎": "viral myelitis"
+    },
+    {
+        "病毒性心肌炎": "viral myocarditis"
+    },
+    {
+        "病毒性心包炎": "viral pericarditis"
+    },
+    {
+        "Virchow氏細胞；痲瘋細胞": "Virchow's cell"
+    },
+    {
+        "草綠色鏈球菌感染": "viridans streptococcal infection"
+    },
+    {
+        "男性化": "virilism"
+    },
+    {
+        "男性化的；雄性化的": "virilizing"
+    },
+    {
+        "男性化瘤；雄性化瘤": "virilizing tumor"
+    },
+    {
+        "病毒": "virus"
+    },
+    {
+        "病毒抗原": "virus antigen"
+    },
+    {
+        "病毒性橫痃": "virus bubo"
+    },
+    {
+        "病毒基因組": "virus genome"
+    },
+    {
+        "病毒出血性發燒": "virus hemorrhagic fever"
+    },
+    {
+        "病毒誘導": "virus induction"
+    },
+    {
+        "腹股溝淋巴肉芽腫病毒": "virus of lymphogranuloma inguinale"
+    },
+    {
+        "病毒再活化": "virus reactivation"
+    },
+    {
+        "病毒變異": "virus variation"
+    },
+    {
+        "病毒性血球吞噬症候群": "virus-associated-hemophagocytic syndrome"
+    },
+    {
+        "X病毒病": "virus-X disease"
+    },
+    {
+        "內臟": "viscera"
+    },
+    {
+        "內臟的": "visceral"
+    },
+    {
+        "內臟感覺缺失": "visceral anesthesia"
+    },
+    {
+        "內臟性關節炎": "visceral arthritis"
+    },
+    {
+        "內臟異位": "visceral ectopia"
+    },
+    {
+        "內臟痛風": "visceral gout"
+    },
+    {
+        "腮溝": "visceral groove"
+    },
+    {
+        "內臟異位": "visceral heterotaxy"
+    },
+    {
+        "內臟損傷": "visceral injury"
+    },
+    {
+        "內臟肌": "visceral muscle"
+    },
+    {
+        "內臟神經": "visceral nerve"
+    },
+    {
+        "內臟神經痛": "visceral neuralgia"
+    },
+    {
+        "內臟感覺異常": "visceral paresthesia"
+    },
+    {
+        "胸膜臟層": "visceral pleura"
+    },
+    {
+        "內臟神經叢；自主神經叢": "visceral plexus"
+    },
+    {
+        "內臟下垂": "visceral ptosis"
+    },
+    {
+        "臟器感覺": "visceral sense"
+    },
+    {
+        "內臟下垂": "visceroptosis"
+    },
+    {
+        "親內臟性病毒": "viscerotropic virus"
+    },
+    {
+        "視力；視覺": "vision"
+    },
+    {
+        "視力的；視覺的": "visual"
+    },
+    {
+        "視力": "visual acuity"
+    },
+    {
+        "視性失語症": "visual aphasia"
+    },
+    {
+        "視細胞": "visual cell"
+    },
+    {
+        "視覺記憶": "visual memory"
+    },
+    {
+        "視覺": "visual sense"
+    },
+    {
+        "視力計": "visuometer"
+    },
+    {
+        "肺活量": "vital capacity"
+    },
+    {
+        "臍囊液": "vital fluid"
+    },
+    {
+        "生命徵象": "vital sign"
+    },
+    {
+        "維生素": "vitamin"
+    },
+    {
+        "維生素A酸": "vitamin A acid"
+    },
+    {
+        "維生素A油": "vitamin A-oil"
+    },
+    {
+        "複合維生素B": "vitamin B complex"
+    },
+    {
+        "維生素B1": "vitamin Bl"
+    },
+    {
+        "維生素D3膽酯醇": "vitamin D3-cholecalciferol"
+    },
+    {
+        "卵黃囊狀黃斑失養症": "vitelliform macular dystrophy"
+    },
+    {
+        "卵黃的": "vitelline"
+    },
+    {
+        "卵黃循環": "vitelline circulation"
+    },
+    {
+        "卵黃板": "vitelline disc"
+    },
+    {
+        "卵黃管": "vitelline duct"
+    },
+    {
+        "卵黃膜": "vitelline membrane"
+    },
+    {
+        "卵黃靜脈": "vitelline vein"
+    },
+    {
+        "卵黃與腸的": "vitello-intestinal"
+    },
+    {
+        "卵黃腸管囊腫": "vitellointestinal cyst"
+    },
+    {
+        "卵黃腸管": "vitellointestinal duct"
+    },
+    {
+        "玻璃狀液": "vitreous humor"
+    },
+    {
+        "間日瘧": "vivax malaria"
+    },
+    {
+        "語顫": "vocal fremitus"
+    },
+    {
+        "聲帶韌帶": "vocal ligament"
+    },
+    {
+        "聲帶肌": "vocal muscle"
+    },
+    {
+        "語響": "vocal resonance"
+    },
+    {
+        "職業性盲": "vocational blindness"
+    },
+    {
+        "Vogt氏症候群": "Vogt's syndrome"
+    },
+    {
+        "Vogt─小柳原田氏症候群{腦炎─白斑伴失明}": "Vogt-Koyanagi-Harada syndrome{encephalitis-vifili-do with blindness}"
+    },
+    {
+        "Vohwinkel氏症候群{蹠掌角化併斷指}": "Vohwinkel's syndrome{multilating keratoderma}"
+    },
+    {
+        "佛依特線": "Voigt's lines"
+    },
+    {
+        "掌側副韌帶": "volar accessory ligament"
+    },
+    {
+        "掌側頭韌帶": "volar capitular ligament"
+    },
+    {
+        "掌側腕掌韌帶": "volar carpometacarpal ligament"
+    },
+    {
+        "掌側腕間韌帶": "volar intercarpal ligament"
+    },
+    {
+        "掌側骨間肌": "volar interosseous muscle"
+    },
+    {
+        "掌側橫掌間韌帶": "volar transverse intermetacarpal ligament"
+    },
+    {
+        "火山樣病灶": "volcano lesion"
+    },
+    {
+        "Volkmann氏管": "Volkmann's canal"
+    },
+    {
+        "Volkmann氏攣縮": "Volkmann's contracture"
+    },
+    {
+        "Volkmann氏夾板": "Volkmann's splint"
+    },
+    {
+        "Volkmann氏症候群": "Volkmann's syndrome"
+    },
+    {
+        "化電的": "voltaic"
+    },
+    {
+        "電流性眩暈": "voltaic vertigo"
+    },
+    {
+        "Voltolini氏病": "Voltolini's disease"
+    },
+    {
+        "容積；體積": "volume"
+    },
+    {
+        "容積超過負荷": "volume overload"
+    },
+    {
+        "容量分析溶液": "volumetric solution"
+    },
+    {
+        "自由意志脫位": "voluntary dislocation"
+    },
+    {
+        "隨意運動": "voluntary motion"
+    },
+    {
+        "隨意肌": "voluntary muscle"
+    },
+    {
+        "犁骨": "vomer"
+    },
+    {
+        "犁形骨": "vomer bone"
+    },
+    {
+        "犁骨溝": "vomeral groove"
+    },
+    {
+        "嘔吐": "vomiting"
+    },
+    {
+        "嘔吐中樞": "vomiting center"
+    },
+    {
+        "嘔吐病": "vomting sickness"
+    },
+    {
+        "von Bergmann氏疝": "von Bergmann's hernia"
+    },
+    {
+        "von Frey氏症候群{耳顳神經損傷症候群}": "von Frey's syndrome{auriculotemporal syndrome}"
+    },
+    {
+        "von Hippel-Lindau氏症候群{眼─小腦─皮膚血管瘤症候群}": "von Hippel-Lindau syndrome{angiomatosis retinae et cerebelli-cutaneous remangioma syndrome}"
+    },
+    {
+        "馮‧科薩染劑": "Von Kossa stain"
+    },
+    {
+        "von Kupffer氏細胞": "von Kupffer's cell"
+    },
+    {
+        "von Recklinghausen氏病": "von Recklinghausen disease"
+    },
+    {
+        "von Recklinghausen氏病": "von Recklinghausen's disease"
+    },
+    {
+        "von Willebrand氏病": "von Willebrand disease"
+    },
+    {
+        "渦": "vortex"
+    },
+    {
+        "渦狀細胞": "vortex cell"
+    },
+    {
+        "渦靜脈": "vorticose veins"
+    },
+    {
+        "尋常的": "vulgaris"
+    },
+    {
+        "Vulpian氏萎縮": "Vulpian's atrophy"
+    },
+    {
+        "女陰；口": "vulva"
+    },
+    {
+        "女陰": "vulvae"
+    },
+    {
+        "女陰的": "vulvar"
+    },
+    {
+        "女陰門": "vulvar anus"
+    },
+    {
+        "女陰炎": "vulvitis"
+    },
+    {
+        "陰唇痛症": "vulvodynia"
+    },
+    {
+        "女陰與陰道的": "vulvovaginal"
+    },
+    {
+        "女陰陰道肛": "vulvovaginal anus"
+    },
+    {
+        "女陰陰道炎": "vulvovaginitis"
+    },
+    {
+        "W字型疝": "W hernia"
+    },
+    {
+        "Waardenburg氏症候群{耳聾─白髮─眼病症候群}": "Waardenburg's syndrome{deafness-white hair-ocular syndrome}"
+    },
+    {
+        "WAGR症候群": "WAGR syndrome"
+    },
+    {
+        "Wagstaffe氏骨折": "Wagstaffe's fracture"
+    },
+    {
+        "乍醒垂瞼": "waking ptosis"
+    },
+    {
+        "覺醒狀態": "waking state"
+    },
+    {
+        "瓦登斯特隆巨球蛋白血症": "Waldenstrom's macroglobulinemia"
+    },
+    {
+        "Waldever氏液": "Waldever's fluid"
+    },
+    {
+        "兩腳規式步行夾板": "walking-callioer splint"
+    },
+    {
+        "壁": "wall"
+    },
+    {
+        "Wallenberg氏症候群": "Wallenberg's syndrome"
+    },
+    {
+        "Waller氏退化": "Wallerian degeneration"
+    },
+    {
+        "胡桃殼粉": "walnut shell power"
+    },
+    {
+        "Walther氏管；小舌下管": "Walther's duct"
+    },
+    {
+        "游走的；浮動的": "wandering"
+    },
+    {
+        "游走性關節炎": "wandering arthritis"
+    },
+    {
+        "游走骨；浮動骨": "wandering bone"
+    },
+    {
+        "游走細胞": "wandering cell"
+    },
+    {
+        "游走性甲狀腺腫": "wandering goiter"
+    },
+    {
+        "游走痛：一再變更疼痛位置的疼痛": "wandering pain"
+    },
+    {
+        "Wangensteen氏引流": "Wangensteen drainage"
+    },
+    {
+        "戰陣醫學": "war medicine"
+    },
+    {
+        "病房": "ward"
+    },
+    {
+        "Ward-Romano氏症候群": "Ward-Romano syndrome"
+    },
+    {
+        "Wardrop氏病；惡性甲床炎": "Wardrop's onychia maligna disease"
+    },
+    {
+        "華法林{一種抗凝血劑}": "warfarin"
+    },
+    {
+        "疣": "wart"
+    },
+    {
+        "疣病毒": "wart virus"
+    },
+    {
+        "Wartenberg氏病": "Wartenberg's disease"
+    },
+    {
+        "疣狀痘瘡": "wartpox"
+    },
+    {
+        "疣狀的": "warty"
+    },
+    {
+        "疣瘢瘤": "warty cicatricial tumor"
+    },
+    {
+        "疣狀角化不良瘤": "warty dyskeratoma"
+    },
+    {
+        "疣狀濕疹": "warty eczema"
+    },
+    {
+        "疣狀潰瘍": "warty ulcer"
+    },
+    {
+        "麂皮樣皮膚": "wash-leather skin"
+    },
+    {
+        "洗衣板狀頭蓋": "washboard scalp"
+    },
+    {
+        "黃蜂螫傷": "wasp sting"
+    },
+    {
+        "水樣透明的": "wasserhelle"
+    },
+    {
+        "水樣透明細胞": "wasserhelle cell"
+    },
+    {
+        "梅毒Wassermann氏反應": "Wassermann reaction for syphilis"
+    },
+    {
+        "消耗病": "wasting disease"
+    },
+    {
+        "消耗性癱瘓；進行性肌肉萎縮": "wasting palsy"
+    },
+    {
+        "水": "water"
+    },
+    {
+        "水平衡": "water balance"
+    },
+    {
+        "水墊": "water bed"
+    },
+    {
+        "耗水量": "water consumption"
+    },
+    {
+        "水敷": "water dressing"
+    },
+    {
+        "水中毒": "water intoxication"
+    },
+    {
+        "水溶性維生素": "water soluble vitamin"
+    },
+    {
+        "水傳染病": "water-borne disease"
+    },
+    {
+        "水傳染": "water-borne infection"
+    },
+    {
+        "水樣透明細胞": "water-clear cell"
+    },
+    {
+        "水衝狀脈": "water-hammer pulse"
+    },
+    {
+        "水渦式機頭": "water-turbine handpiece"
+    },
+    {
+        "水車狀雜音": "water-wheel murmur"
+    },
+    {
+        "Waterhouse-Friderichsen二氏症候群": "Waterhouse-Friderichsen syndrome"
+    },
+    {
+        "Waterhouse-Friedericksen氏症候群{猛爆性腦膜炎球菌菌血症或其他菌血症伴出血、紫瘢、休克}": "Waterhouse-Friedericksen syndrome"
+    },
+    {
+        "大腦分水界性梗塞": "watershed infarction"
+    },
+    {
+        "Watson氏病": "Watson's disease"
+    },
+    {
+        "Watson氏症候群{咖啡牛奶斑及肺動脈瓣狹窄}": "Watson's syndrome{Café au lait spots and pulmonary stenosis}"
+    },
+    {
+        "波浪性呼吸音": "wavy respiration"
+    },
+    {
+        "蠟": "wax"
+    },
+    {
+        "蠟型": "wax form"
+    },
+    {
+        "蠟性角化病": "wax keratosis"
+    },
+    {
+        "蠟型": "wax pattern"
+    },
+    {
+        "發育期疼痛": "waxing pain"
+    },
+    {
+        "蠟狀的；蠟樣的": "waxy"
+    },
+    {
+        "蠟樣變性": "waxy degeneration"
+    },
+    {
+        "臘狀皮膚和僵直關節": "waxy skin and stiff joints"
+    },
+    {
+        "衰弱足": "weak foot"
+    },
+    {
+        "弱性潰瘍": "weak ulcer"
+    },
+    {
+        "衰弱；無力": "weakness"
+    },
+    {
+        "Weary-Kindler氏症候群{遺傳性肢端角化多形皮膚萎縮}": "Weary-Kindler syndrome{hereditary acrokeratotic poikiloderma of Weary}"
+    },
+    {
+        "紡織工咳": "weaver's cough"
+    },
+    {
+        "蹼": "web"
+    },
+    {
+        "蹼狀的": "webbed"
+    },
+    {
+        "蹼頸": "webbed neck"
+    },
+    {
+        "蹼狀趾": "webbed toe"
+    },
+    {
+        "織邊繃帶": "webbing bandage"
+    },
+    {
+        "Weber-Christian二氏病{復發性結節性脂膜炎}": "Weber-Christian disease"
+    },
+    {
+        "Weber-Christian氏症候群{結節性脂層炎}": "Weber-Christian syndrome{nodular panniculitis}"
+    },
+    {
+        "Weber-Dimitri二氏病": "Weber-Dimitri disease"
+    },
+    {
+        "Weber-Dubler二氏症候群": "Weber-Dubler syndrome"
+    },
+    {
+        "蹼足": "wed foot"
+    },
+    {
+        "楔": "wedge"
+    },
+    {
+        "哭泣；滴水；滴落": "weep"
+    },
+    {
+        "濕潤性濕疹": "weeping eczema"
+    },
+    {
+        "韋伯爾─帕烈得體": "Weibel-Palade bodies"
+    },
+    {
+        "重量": "weight"
+    },
+    {
+        "濕潤性濕疹": "weight loss"
+    },
+    {
+        "Weil氏病；螺旋體性黃疸": "Weil's disease"
+    },
+    {
+        "Weingarten氏症候群": "Weingarten's syndrome"
+    },
+    {
+        "Weingartner氏病": "Weingartner's disease"
+    },
+    {
+        "Weir Mitchell二氏皮膚": "Weir Mitchell skin"
+    },
+    {
+        "Weitbrecht氏韌帶": "Weitbrecht's ligament"
+    },
+    {
+        "Welander氏潰瘍": "Welander's ulcer"
+    },
+    {
+        "Wells氏症候群{嗜伊紅性蜂窩組織炎}": "Wells' syndrome{eosinophilic cellulitis, recurrent granulomatous dermatitis with eosinophilia}"
+    },
+    {
+        "Wenckebach氏房室傳導阻斷": "Wenckebach atrioventricular block"
+    },
+    {
+        "Wenckebach氏病": "Wenckebach's disease"
+    },
+    {
+        "Wenckebach氏阻斷": "wenckeback's block"
+    },
+    {
+        "Werdnig-Hoffmann二氏麻痺": "Werdnig-Hoffmann paralysis"
+    },
+    {
+        "Werner氏症候群": "Werner syndrome"
+    },
+    {
+        "Werner氏症候群{成人早老症}": "Werner's syndrome{adult progeria; pangeria}"
+    },
+    {
+        "Wernicke氏失語症": "Wernicke's aphasia"
+    },
+    {
+        "Wernicke氏腦病": "Wernicke's encephalopathy"
+    },
+    {
+        "Wernicke氏症候群": "Wernicke's syndrome"
+    },
+    {
+        "Wertheim氏夾": "Wertheim splint"
+    },
+    {
+        "Wesselsbron病毒": "Wesselsbron virus"
+    },
+    {
+        "西尼羅河熱": "West Nile fever"
+    },
+    {
+        "西尼羅河病毒": "West Nile virus"
+    },
+    {
+        "Westermark氏徴象": "Westermark's sign"
+    },
+    {
+        "Westphal氏比重天平": "Westphal balance"
+    },
+    {
+        "Westphal氏病": "Westphal's disease"
+    },
+    {
+        "Westphal-Strumpell二氏病": "Westphal-Strumpell disease"
+    },
+    {
+        "濕的": "wet"
+    },
+    {
+        "濕咳": "wet cough"
+    },
+    {
+        "濕肺": "wet lung"
+    },
+    {
+        "濕至乾敷料": "wet-to-dry dressing"
+    },
+    {
+        "Wetherbee氏病": "Wetherbee's disease"
+    },
+    {
+        "Weyer氏症候群": "Weyer's syndrome"
+    },
+    {
+        "Wharton氏管": "Wharton's duct"
+    },
+    {
+        "小麥": "wheat"
+    },
+    {
+        "輪": "wheel"
+    },
+    {
+        "輪細胞": "wheel cell"
+    },
+    {
+        "輪椅": "wheel-chair"
+    },
+    {
+        "哮喘；喘鳴": "wheeze"
+    },
+    {
+        "胸椎骨": "whettle bones"
+    },
+    {
+        "吹氣性雜音": "whiffing murmur"
+    },
+    {
+        "鞭毛細胞": "whip cell"
+    },
+    {
+        "Whipple氏病": "Whipple disease"
+    },
+    {
+        "股骨頭；膝蓋骨": "whirl bone"
+    },
+    {
+        "唯語響；低語響": "whispering resonance"
+    },
+    {
+        "哨聲雜音": "whistling murmur"
+    },
+    {
+        "白色的": "white"
+    },
+    {
+        "白色萎縮": "white atrophy"
+    },
+    {
+        "白血球": "white blood cell"
+    },
+    {
+        "白色劃紋現象": "white dermographism"
+    },
+    {
+        "白色移植物": "white graft"
+    },
+    {
+        "白色肺炎": "white lung"
+    },
+    {
+        "白色月經": "white menstruation"
+    },
+    {
+        "鵝口瘡": "white mouth"
+    },
+    {
+        "白肌": "white muscle"
+    },
+    {
+        "白肌病": "white muscle disease"
+    },
+    {
+        "卵巢白斑": "white scar of ovary"
+    },
+    {
+        "白色海綿樣痣": "white sponge nevus"
+    },
+    {
+        "白色表淺性甲癬": "white superficial onychomycosis"
+    },
+    {
+        "關節白腫": "white swelling"
+    },
+    {
+        "白色血栓": "white thrombus"
+    },
+    {
+        "白頂囊腫": "white-domed cyst"
+    },
+    {
+        "白點病": "white-spot disease"
+    },
+    {
+        "指端化膿；趾端化膿": "whitlow"
+    },
+    {
+        "完整蛋白質": "whole protein"
+    },
+    {
+        "全身性照射法": "whole-body irradiation"
+    },
+    {
+        "Whytt氏病": "Whytt's disease"
+    },
+    {
+        "Wichmann氏氣喘": "Wichmann's asthma"
+    },
+    {
+        "Wickersheimer氏液": "Wickersheimer's fluid"
+    },
+    {
+        "維克韓條紋": "Wickham's striae"
+    },
+    {
+        "Widal氏症候群": "Widal's syndrome"
+    },
+    {
+        "廣播的；蔓延的": "widespread"
+    },
+    {
+        "寬度": "width"
+    },
+    {
+        "Wiedemann Rautenstrauch氏症候群{早老症候群}": "Wiedmann Rautenstrauch syndrome{premature ag-ing syn.; neonatal pseudohydrocephalic progeroid syn.}"
+    },
+    {
+        "Wiener氏孔": "Wiener's pore"
+    },
+    {
+        "野生病毒": "wild virus"
+    },
+    {
+        "Wilder氏飲食": "Wilder's diet"
+    },
+    {
+        "Wildermuth氏耳": "Wildermuth's ear"
+    },
+    {
+        "維金森三角": "Wilkinson's triangle"
+    },
+    {
+        "Williams氏症候群": "Williams syndrome"
+    },
+    {
+        "柳枝狀骨折": "willow fracture"
+    },
+    {
+        "Wilms氏瘤{腎母細胞瘤}": "Wilms tumor"
+    },
+    {
+        "Wilson氏阻斷": "Wilson block"
+    },
+    {
+        "Wilson氏病": "Wilson disease"
+    },
+    {
+        "Wilson氏肌": "Wilson's muscle"
+    },
+    {
+        "Wilson氏症候群": "Wilson's syndrome"
+    },
+    {
+        "Winchester氏症候群{嬰兒僵直皮膚症候群}": "Winchester syndrome{infantile stiff skin syndrome}"
+    },
+    {
+        "Winckel氏病": "Winckel's disease"
+    },
+    {
+        "脹氣": "wind"
+    },
+    {
+        "氣絞痛": "wind colic"
+    },
+    {
+        "窗": "window"
+    },
+    {
+        "Windscheid氏病": "Windscheid's disease"
+    },
+    {
+        "翼": "wing"
+    },
+    {
+        "翼狀細胞": "wing cell"
+    },
+    {
+        "Winkelman氏病": "Winkelman's disease"
+    },
+    {
+        "瞬目痙攣": "winking spasm"
+    },
+    {
+        "Winkler氏病": "Winkler's disease"
+    },
+    {
+        "Winogradsky氏溶液": "Winogradsky's solution"
+    },
+    {
+        "Winslow氏韌帶": "Winslow's ligament"
+    },
+    {
+        "冬季咳嗽": "winter cough"
+    },
+    {
+        "Winton氏病": "Winton disease"
+    },
+    {
+        "金屬線": "wire"
+    },
+    {
+        "線夾": "wire splint"
+    },
+    {
+        "Wissler氏病": "Wissler's disease"
+    },
+    {
+        "Wissler氏症候群": "Wissler's syndrome{subsepsis allergica}"
+    },
+    {
+        "{北美}金縷梅精": "witch hazel distillate"
+    },
+    {
+        "{北美}金縷梅粉": "witch hazel powder"
+    },
+    {
+        "巫術症候群{人工性接觸性蕁麻疹}": "Witchcraft syndrome{contact urticaria artifacta}"
+    },
+    {
+        "戒斷；脫癮": "withdrawal"
+    },
+    {
+        "戒斷症候群": "withdrawal syndrome"
+    },
+    {
+        "萎縮癌": "withering cancer"
+    },
+    {
+        "Witkop-Brearly-Gwntry氏症候群": "Witkop-Brearly-Gwntry syndrome"
+    },
+    {
+        "Witkop-von Sallman氏病{外胚層發育異常}": "Witkop-von Sallman disease{ectodermal dyspla-sia : hypoplastic enamel, onycholysis, hypohidr-osis}"
+    },
+    {
+        "Witkop-Von Sallmann二氏病": "Witkop-Von Sallmann disease"
+    },
+    {
+        "Wolf-Hirschhorn二氏症候群": "Wolf-Hirschhorn syndrome"
+    },
+    {
+        "Wolfe氏移植物": "Wolfe's graft"
+    },
+    {
+        "Wolff-Parkinson-White三氏症候群": "Wolff-Parkinson-White syndrome"
+    },
+    {
+        "Wolffian氏囊腫": "Wolffian cyst"
+    },
+    {
+        "Wolffian氏管": "Wolffian duct"
+    },
+    {
+        "Wolman氏病": "Wolman disease"
+    },
+    {
+        "木異物肉芽腫": "wood foreign body granuloma"
+    },
+    {
+        "木夾板": "wood splint"
+    },
+    {
+        "Wood氏燈": "Wood's light"
+    },
+    {
+        "劈木者病": "woodcutters disease"
+    },
+    {
+        "木性叩響": "wooden percussion resonance"
+    },
+    {
+        "木樸叩響": "wooden resonance"
+    },
+    {
+        "羊毛狀髮": "woolly hair"
+    },
+    {
+        "字盲": "word blindness"
+    },
+    {
+        "Woringer-Kolopp氏病": "Woringer-Kolopp disease"
+    },
+    {
+        "工作側咬合": "working bite"
+    },
+    {
+        "工作模型": "working cast"
+    },
+    {
+        "工作側髁": "working condyle"
+    },
+    {
+        "工作側接觸": "working contact"
+    },
+    {
+        "嚼咀咬合面": "working occlusal surface"
+    },
+    {
+        "齒工作咬合": "working occlusion"
+    },
+    {
+        "蟲；蠕蟲": "worm"
+    },
+    {
+        "縫間骨": "wormian bones"
+    },
+    {
+        "苦艾": "wormwood"
+    },
+    {
+        "沃諾爾環": "Woronoff ring"
+    },
+    {
+        "創傷": "wound"
+    },
+    {
+        "創傷後營養不良": "wound dystrophy"
+    },
+    {
+        "傷口水腫": "wound edema"
+    },
+    {
+        "網狀骨": "woven bone"
+    },
+    {
+        "賴特染劑": "Wright stain"
+    },
+    {
+        "Wright氏症候群": "Wright's syndrome"
+    },
+    {
+        "皺紋皮膚症候群": "wrinkly skin syndrome{premature aging synd.}"
+    },
+    {
+        "Wrisberg氏韌帶": "Wrisberg's ligament"
+    },
+    {
+        "Wrisberg氏神經": "Wrisberg's nerve"
+    },
+    {
+        "腕": "wrist"
+    },
+    {
+        "腕骨骨折": "wrist fracture"
+    },
+    {
+        "書寫者麻痺": "writer's palsy"
+    },
+    {
+        "書寫痙攣": "writer's spasm"
+    },
+    {
+        "斜頸": "wry neck"
+    },
+    {
+        "Wyburn-Mason氏症候群{單側性腦視網膜動靜脈畸形}": "Wyburn-Mason syndrome{Bonnet-Dechaume-Blanc syn., unilateral retinocephalic arteriovenous mal-formation}"
+    },
+    {
+        "X染色體": "X chromosome"
+    },
+    {
+        "X型組織細胞增多症": "X histiocytosis"
+    },
+    {
+        "X波": "X wave"
+    },
+    {
+        "X性聯的": "X-linked"
+    },
+    {
+        "性連遺傳": "X-linked inheritance"
+    },
+    {
+        "X性聯智力不足": "X-linked mental deficiency"
+    },
+    {
+        "X射線": "X-ray"
+    },
+    {
+        "X射線性禿髮": "X-ray alopecia"
+    },
+    {
+        "X射線繞射模式；X射線繞射圖案": "X-ray diffraction pattern"
+    },
+    {
+        "X光膠片": "X-ray film"
+    },
+    {
+        "X光產生器": "X-ray generator"
+    },
+    {
+        "製作塗片X光射線": "X-ray mount"
+    },
+    {
+        "X射線病": "X-ray sickness"
+    },
+    {
+        "X光光譜學": "X-ray spectroscopy"
+    },
+    {
+        "黃多醣膠": "xanthan gum"
+    },
+    {
+        "眼瞼黃斑瘤": "xanthelasma palpebrarum"
+    },
+    {
+        "類黃斑瘤；著色性蕁麻疹": "xanthelasmoidea"
+    },
+    {
+        "黃嘌呤；黃鹼": "xanthine"
+    },
+    {
+        "黃嘌呤脫氫酶": "xanthine dehydrogenase"
+    },
+    {
+        "黃嘌呤氧化酶": "xanthine oxidase"
+    },
+    {
+        "黃嘌呤氧化酶缺乏": "xanthine oxidase deficiency"
+    },
+    {
+        "掌條紋狀黃變": "xanthochromia striata palmaris"
+    },
+    {
+        "黃病變的": "xanthochromic"
+    },
+    {
+        "黃病變性黃疸": "xanthochromic jaundice"
+    },
+    {
+        "黃肉芽腫": "xanthogranuloma"
+    },
+    {
+        "黃色肉芽腫症": "xanthogranulomatosis"
+    },
+    {
+        "黃瘤": "xanthoma"
+    },
+    {
+        "黃瘤細胞": "xanthoma cell"
+    },
+    {
+        "播散性黃色瘤": "xanthoma disseminatum"
+    },
+    {
+        "黃瘤病": "xanthomatosis"
+    },
+    {
+        "黃色脂沉著組織球增生症": "xanthosiderohistiocytosis"
+    },
+    {
+        "異種的": "xenogenic"
+    },
+    {
+        "異種移植物": "xenogenic graft"
+    },
+    {
+        "異種移植物": "xenograft"
+    },
+    {
+        "異種的": "xenologous"
+    },
+    {
+        "異種移植物": "xenologous graft"
+    },
+    {
+        "異種形成移植物": "xenoplastic graft"
+    },
+    {
+        "異體移植": "xenoplasty"
+    },
+    {
+        "乾皮病；皮膚乾燥症": "xeroderma"
+    },
+    {
+        "乾皮樣病": "xerodermoid"
+    },
+    {
+        "乾燥[病]": "xerosis"
+    },
+    {
+        "口乾症": "xerostomia"
+    },
+    {
+        "乾燥": "xerosus"
+    },
+    {
+        "乾燥的": "xerotic"
+    },
+    {
+        "乾裂性濕疹": "xerotic eczema"
+    },
+    {
+        "肋劍突韌帶": "xiphocostal ligament"
+    },
+    {
+        "劍突": "xiphoid bone"
+    },
+    {
+        "肋劍突韌帶": "xiphoid ligament"
+    },
+    {
+        "XXXXY性染色異常症候群": "XXXXY syndrome"
+    },
+    {
+        "XXYY性染色異常症候群": "XXYY syndrome{multiple cutaneous angioma, ac-rocyanosis, peripheral vascular disease}"
+    },
+    {
+        "木糖醇": "xylitol"
+    },
+    {
+        "木糖醇脫氫酶缺乏症": "xylitol dehydrogenase deficiency"
+    },
+    {
+        "XYY性染色體異常症候群": "XYY syndrome"
+    },
+    {
+        "Y 軸": "Y axis"
+    },
+    {
+        "Y型組織細胞增多症；疣狀黃瘤": "Y histiocytosis"
+    },
+    {
+        "y波": "y wave"
+    },
+    {
+        "Y字繃帶": "Y-shaped bandage"
+    },
+    {
+        "髂股韌帶": "Y-shaped ligament"
+    },
+    {
+        "歐蓍草": "yarrow"
+    },
+    {
+        "胡椒性象皮病": "yava skin"
+    },
+    {
+        "酵母": "yeast"
+    },
+    {
+        "酵母菌腦膜炎": "yeast meningitis"
+    },
+    {
+        "黃；黃色染料": "yellow"
+    },
+    {
+        "黃色萎縮": "yellow atrophy"
+    },
+    {
+        "黃色盲": "yellow blindness"
+    },
+    {
+        "黃疸病": "yellow disease"
+    },
+    {
+        "黃色酵素": "yellow enzymes"
+    },
+    {
+        "黃熱病病毒": "yellow fever virus"
+    },
+    {
+        "黃骨髓": "yellow marrow"
+    },
+    {
+        "黃甲症候群{Samman氏症候群}": "yellow nails syndrome{Samman's syndrome}"
+    },
+    {
+        "黃藍色盲": "yellow-blue blindness"
+    },
+    {
+        "Yemen潰瘍": "Yemen ulcer"
+    },
+    {
+        "鼠疫桿菌感染": "Yersinia infection"
+    },
+    {
+        "伊蘭花": "ylang-ylang"
+    },
+    {
+        "協合肌": "yoked muscle"
+    },
+    {
+        "卵黃": "yolk"
+    },
+    {
+        "卵黃細胞": "yolk cell"
+    },
+    {
+        "卵黃膜": "yolk skin"
+    },
+    {
+        "卵黃囊胎盤": "yolk-sac placenta"
+    },
+    {
+        "Young氏症候群": "Young's syndrome"
+    },
+    {
+        "z帶": "z band"
+    },
+    {
+        "Z線": "Z line"
+    },
+    {
+        "Zaglas氏韌帶": "Zaglas's ligament"
+    },
+    {
+        "山貝西潰瘍": "Zambesi ulcer"
+    },
+    {
+        "Zander氏細胞": "Zander's cell"
+    },
+    {
+        "斑馬樣色素過度沉著": "zebra-like hyperpigmentation"
+    },
+    {
+        "Zehbe氏細胞": "Zehbe's cell"
+    },
+    {
+        "Zellweger氏症候群": "Zellweger syndrome"
+    },
+    {
+        "Zenker氏溶液": "Zenker solution"
+    },
+    {
+        "Zenker氏液": "Zenker's fluid"
+    },
+    {
+        "Zenker氏症候群": "Zenker's syndrome"
+    },
+    {
+        "Ziehl氏溶液": "Ziehl's solution"
+    },
+    {
+        "紀依爾─聶爾森方法": "Ziehl-Nielsen method"
+    },
+    {
+        "Zimmer飛機式夾板": "Zimmer airplane splint"
+    },
+    {
+        "Zimmer夾板": "Zimmer splint"
+    },
+    {
+        "Zimmermann-Laband氏症候群{遺傳性齒齦纖維瘤症候群}": "Zimmermann-Laband syndrome{hereditary gingival fibromatosis}"
+    },
+    {
+        "鋅": "zinc"
+    },
+    {
+        "鋅絞痛": "zinc colic"
+    },
+    {
+        "鋅缺乏症候群": "zinc deficiency syndrome"
+    },
+    {
+        "匹塞翁鋅": "zinc pyrithione"
+    },
+    {
+        "硫酸鋅": "zinc sulfate"
+    },
+    {
+        "碳鋅電池": "zinc-carbon cell"
+    },
+    {
+        "鋅銅電池": "zinc-copper cell"
+    },
+    {
+        "鋅魚精蛋白胰島素": "zinc-protamine insulin"
+    },
+    {
+        "氧化鋅": "zine oxide"
+    },
+    {
+        "薑流浸膏": "zingiberis fluid"
+    },
+    {
+        "Zinn氏韌帶": "Zinn's ligament"
+    },
+    {
+        "Zinsser-Cole-Engmann氏症候群": "Zinsser-Cole-Engmann syndrome"
+    },
+    {
+        "Ziprkowski-Margolis氏症候群": "Ziprkowski-Margolis syndrome"
+    },
+    {
+        "Zollinger-Ellison二氏症候群": "Zollinger-Ellison syndrome"
+    },
+    {
+        "帶狀胎盤": "zonary placenta"
+    },
+    {
+        "區": "zone"
+    },
+    {
+        "輪匝帶": "zonular band"
+    },
+    {
+        "帶狀胎盤": "zonular placenta"
+    },
+    {
+        "寄生動物性感染": "zoogenetic infection"
+    },
+    {
+        "動物性的；獲自動物的；胎生的": "zoogenous"
+    },
+    {
+        "戀獸癖的": "zoophilic"
+    },
+    {
+        "嗜動物性真菌": "zoophilic fungus"
+    },
+    {
+        "動物移植物": "zooplastic graft"
+    },
+    {
+        "動物組織移植術": "zooplasty"
+    },
+    {
+        "帶狀疱疹": "zoster"
+    },
+    {
+        "帶狀的；帶疹狀的": "zosteriform"
+    },
+    {
+        "帶狀小痣樣痣": "zosteriform lentiginous nevus"
+    },
+    {
+        "帶狀網狀色素過度沉著": "zosteriform reticulate hyperpigmentaton"
+    },
+    {
+        "Zuckerkandl氏靜脈": "Zuckerkandl's vein"
+    },
+    {
+        "聰布施型全身性膿疱性乾癬": "Zumbusch psoriasis"
+    },
+    {
+        "兩性離子": "zwitterion"
+    },
+    {
+        "併指(趾)畸形": "zygodactyly"
+    },
+    {
+        "顴骨": "zygoma"
+    },
+    {
+        "顴骨": "zygomatic bone"
+    },
+    {
+        "顴神經": "zygomatic nerve"
+    },
+    {
+        "顴面孔": "zygomaticofacial foramen"
+    },
+    {
+        "顴面神經": "zygomaticofacial nerve"
+    },
+    {
+        "顴顳神經": "zygomaticotemporal nerve"
+    },
+    {
+        "顴肌": "zygomaticus"
+    },
+    {
+        "大顴肌": "zygomaticus major muscle"
+    },
+    {
+        "小顴肌": "zygomaticus minor muscle"
+    },
+    {
+        "接合子": "zygote"
+    },
+    {
+        "產酶的；產酶活性的；使發酵的": "zymogenic"
+    },
+    {
+        "產酶細胞": "zymogenic cell"
+    },
+    {
+        "發酵的": "zymotic"
+    },
+    {
+        "傳染性腹瀉：痢疾": "zymotic diarrhea"
+    },
+    {
+        "發酵病；傳染病": "zymotic disease"
+    },
+    {
+        "ɛ-胺己酸": "ɛ-aminocaproic acid"
+    },
+    {
+        "α-戊桂皮醛": "α-amyl cinnamic aldehyde"
+    },
+    {
+        "甲型半乳糖苷酶缺乏": "α-galactosidase deficiency"
+    },
+    {
+        "乙型水解酶缺乏": "β-hydroxylase deficiency"
+    }
+]

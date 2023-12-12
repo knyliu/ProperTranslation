@@ -1,0 +1,3602 @@
+[
+    {
+        "木質地板": "woody floor"
+    },
+    {
+        "纖維狀斷口": "woody fracture"
+    },
+    {
+        "木質褐煤": "woody lignite"
+    },
+    {
+        "木本植物": "woody plant"
+    },
+    {
+        "低音揚聲器": "woofer"
+    },
+    {
+        "羊毛；軟毛；羊毛狀物；毛織品": "wool"
+    },
+    {
+        "乾毛機；烘毛機": "wool dryer"
+    },
+    {
+        "毛纖維": "wool fiber"
+    },
+    {
+        "捲；纏": "woold"
+    },
+    {
+        "梳毛機": "woolen card"
+    },
+    {
+        "毛紡機": "woolen spinning machine"
+    },
+    {
+        "卷毛雲": "woolpack cloud"
+    },
+    {
+        "武麥拉火箭試驗場": "Woomera rocket range"
+    },
+    {
+        "字目錄": "word directory"
+    },
+    {
+        "字驅動器": "word driver"
+    },
+    {
+        "錯字": "word error"
+    },
+    {
+        "詞輸入系統": "Word input system"
+    },
+    {
+        "粗鉛": "word lead"
+    },
+    {
+        "字長": "word length"
+    },
+    {
+        "字元": "word line"
+    },
+    {
+        "字線位址解碼器": "word line address decoder"
+    },
+    {
+        "字元線結構": "word line configuration"
+    },
+    {
+        "字線對應": "word line corresponding"
+    },
+    {
+        "字元線組織": "word line organisation"
+    },
+    {
+        "字線垂直": "word line perpendicular"
+    },
+    {
+        "字線帶": "word line strap"
+    },
+    {
+        "變形字": "word of deformation"
+    },
+    {
+        "文字處理": "word processing"
+    },
+    {
+        "字元線電壓升壓": "wordline voltage boost"
+    },
+    {
+        "蝸輪傳動": "wore gearing"
+    },
+    {
+        "功；工作；作業": "work"
+    },
+    {
+        "工作精度": "work accuracy"
+    },
+    {
+        "工件用心軸": "work arbor"
+    },
+    {
+        "工作面積": "work area"
+    },
+    {
+        "工作授權清單": "work authorization"
+    },
+    {
+        "工作臺": "work bench"
+    },
+    {
+        "分工結構": "Work Breakdown Structure"
+    },
+    {
+        "加工脆性": "work brittleness"
+    },
+    {
+        "工作能力": "work capacity"
+    },
+    {
+        "工作架": "work carrier"
+    },
+    {
+        "工作內容": "work content"
+    },
+    {
+        "工作循環": "work cycle"
+    },
+    {
+        "工作設計": "work design"
+    },
+    {
+        "作業裝置": "work device"
+    },
+    {
+        "作業程序表": "work diagram"
+    },
+    {
+        "工件排出系統": "work discharge system"
+    },
+    {
+        "作業因數": "work done factor"
+    },
+    {
+        "施工圖": "work drawing"
+    },
+    {
+        "工作效能": "work efficiency"
+    },
+    {
+        "作業環境": "work environment"
+    },
+    {
+        "工作經驗；工作經歷": "work experience"
+    },
+    {
+        "工作流": "work flow"
+    },
+    {
+        "工作函數": "work function"
+    },
+    {
+        "加工硬化": "work hardening"
+    },
+    {
+        "加工硬化指數": "work hardening exponent"
+    },
+    {
+        "工件頭座": "work head"
+    },
+    {
+        "工作架": "work holder or carriers"
+    },
+    {
+        "在製品；處理中的工件": "work in process{=WIP}"
+    },
+    {
+        "施工中": "work in progress{=WIP}"
+    },
+    {
+        "工作指令": "work instruction"
+    },
+    {
+        "工作梯": "work ladder"
+    },
+    {
+        "工作燈": "work lamp"
+    },
+    {
+        "工作期；施工期": "work life"
+    },
+    {
+        "工作負載": "work load"
+    },
+    {
+        "工作量測": "work measurement"
+    },
+    {
+        "變形工作": "work of deformation"
+    },
+    {
+        "工期": "work period"
+    },
+    {
+        "工作件": "work piece"
+    },
+    {
+        "工作件夾具": "work piece clamp"
+    },
+    {
+        "工作件夾": "work piece holder"
+    },
+    {
+        "工件加工": "work piece machining"
+    },
+    {
+        "工件加工裝置": "work piece machining apparatus"
+    },
+    {
+        "定位樁": "work pile"
+    },
+    {
+        "工作平面布置": "work place layout"
+    },
+    {
+        "工作平台": "work platform"
+    },
+    {
+        "工作點": "Work Point{=WP}"
+    },
+    {
+        "工作進度": "work progress"
+    },
+    {
+        "功比": "work ratio"
+    },
+    {
+        "工作比": "work ration"
+    },
+    {
+        "工作件扶架": "work rest"
+    },
+    {
+        "工作休息週期": "work rest cycle"
+    },
+    {
+        "工作規則": "work rule"
+    },
+    {
+        "工作取樣": "work sampling"
+    },
+    {
+        "工作時程表": "work schedule"
+    },
+    {
+        "工作排程": "work scheduling"
+    },
+    {
+        "工區": "work section"
+    },
+    {
+        "工作井": "Work Shaft"
+    },
+    {
+        "工作船；作業船": "work ship"
+    },
+    {
+        "工場；工廠": "work shop"
+    },
+    {
+        "工作簡化": "work simplification"
+    },
+    {
+        "工作站": "work station"
+    },
+    {
+        "工作狀況": "work status"
+    },
+    {
+        "工作步驟": "work step"
+    },
+    {
+        "工作研究": "work study"
+    },
+    {
+        "監工": "work supervisor"
+    },
+    {
+        "工件架": "work support"
+    },
+    {
+        "工作臺": "work table"
+    },
+    {
+        "作業槽": "work tank"
+    },
+    {
+        "工事列車": "work train"
+    },
+    {
+        "工作單元代碼": "work unit code"
+    },
+    {
+        "缺點之工作代號": "work unit code for discrepancy"
+    },
+    {
+        "工作船": "work vessel"
+    },
+    {
+        "工區": "work zone"
+    },
+    {
+        "工作區遮罩": "work zone enclosure"
+    },
+    {
+        "施工標誌": "work zone sign"
+    },
+    {
+        "可加工性；工作度": "workability"
+    },
+    {
+        "混凝土工作度": "workability of concrete"
+    },
+    {
+        "工作台": "workbench"
+    },
+    {
+        "毛坯": "workblank"
+    },
+    {
+        "工作船": "workboat"
+    },
+    {
+        "工作手冊": "workbook"
+    },
+    {
+        "擠壓輸送": "work-clamping mean"
+    },
+    {
+        "捏和針入度": "worked penetration"
+    },
+    {
+        "加工木材": "worked timber"
+    },
+    {
+        "工人；作業員": "worker"
+    },
+    {
+        "工作流程管理": "Workflow management"
+    },
+    {
+        "工作流程": "workflow process"
+    },
+    {
+        "工件夾具": "workholder"
+    },
+    {
+        "隨行夾具": "workholding pallet"
+    },
+    {
+        "動作；工作": "working"
+    },
+    {
+        "車輛工作能力": "working ability of vehicle"
+    },
+    {
+        "工作時發生之意外": "working accident"
+    },
+    {
+        "作業通路": "working alley"
+    },
+    {
+        "工作弧": "working arc"
+    },
+    {
+        "工作區": "working area"
+    },
+    {
+        "工作區門": "working area door"
+    },
+    {
+        "嚙合側隙": "working backlash"
+    },
+    {
+        "工作檯": "working bench"
+    },
+    {
+        "工作浮力；有效浮力": "working buoyancy"
+    },
+    {
+        "工作室": "working chamber"
+    },
+    {
+        "工作特性": "working characteristics"
+    },
+    {
+        "工作回路": "working circuit"
+    },
+    {
+        "工作情況；工作條件": "working condition"
+    },
+    {
+        "工況圖": "working condition chart"
+    },
+    {
+        "工作曲線": "working curve"
+    },
+    {
+        "工作循環": "working cycle"
+    },
+    {
+        "工作汽缸": "working cylinder"
+    },
+    {
+        "加工輥筒": "working cylinders"
+    },
+    {
+        "工作日": "working day"
+    },
+    {
+        "工作深度": "working depth"
+    },
+    {
+        "齒的工作深度": "working depth of tooth"
+    },
+    {
+        "工作裝置": "working device"
+    },
+    {
+        "施工圖解": "working diagram"
+    },
+    {
+        "工作日報": "working diary"
+    },
+    {
+        "工作距離": "working distance"
+    },
+    {
+        "工作門": "working door"
+    },
+    {
+        "工作圖；施工圖": "working drawing"
+    },
+    {
+        "工作邊緣": "working edge"
+    },
+    {
+        "閥之工作緣": "working edge of valve"
+    },
+    {
+        "工作效率；作業效率": "working efficiency"
+    },
+    {
+        "工作效率": "working efficinecy"
+    },
+    {
+        "工作電極": "working electrode"
+    },
+    {
+        "工作端": "working end"
+    },
+    {
+        "工作能量": "working energy"
+    },
+    {
+        "側吃刀量": "working engagement of the cutting edge"
+    },
+    {
+        "工作包絡面": "working envelope"
+    },
+    {
+        "作業環境": "working environment"
+    },
+    {
+        "工作面": "working face"
+    },
+    {
+        "運轉配合；可動配台": "working fit"
+    },
+    {
+        "工作齒腹": "working flank"
+    },
+    {
+        "工作液體": "working fluid"
+    },
+    {
+        "工作流體加熱器效率": "working fluid heater efficiency"
+    },
+    {
+        "工作液體對": "working fluid pair"
+    },
+    {
+        "工作力": "working force"
+    },
+    {
+        "工作量規": "working gage"
+    },
+    {
+        "工作氣體": "working gas"
+    },
+    {
+        "工作玻璃容器": "working glass container"
+    },
+    {
+        "工作水頭": "working head"
+    },
+    {
+        "工作高度": "working height"
+    },
+    {
+        "工作時": "working hour"
+    },
+    {
+        "工作區間": "working interval"
+    },
+    {
+        "行駛里程": "working kilometer"
+    },
+    {
+        "工作長度": "working length"
+    },
+    {
+        "工作燈": "working light"
+    },
+    {
+        "工作負載；工作負荷": "working load"
+    },
+    {
+        "工作量測標準": "working measurement standard"
+    },
+    {
+        "工作介質": "working media"
+    },
+    {
+        "工作媒質": "working medium"
+    },
+    {
+        "工質容積": "working medium volume"
+    },
+    {
+        "工作記憶": "working memory"
+    },
+    {
+        "工作方法": "working method"
+    },
+    {
+        "工作混合物": "working mixture"
+    },
+    {
+        "工作動程": "working motion"
+    },
+    {
+        "工作動機": "working motive"
+    },
+    {
+        "工作服": "working overall"
+    },
+    {
+        "運轉部分": "working part"
+    },
+    {
+        "工作動路": "working path"
+    },
+    {
+        "垂直工作力": "working perpendicular force"
+    },
+    {
+        "工作件；工件": "working piece"
+    },
+    {
+        "工作活塞": "working piston"
+    },
+    {
+        "嚙合節點": "working pitch point"
+    },
+    {
+        "工作圖；工作計畫": "working plan"
+    },
+    {
+        "工作平面": "working plane"
+    },
+    {
+        "工作平台": "working platform"
+    },
+    {
+        "工作點": "working point"
+    },
+    {
+        "工位器具": "working position apparatus"
+    },
+    {
+        "工作功率": "working power"
+    },
+    {
+        "工作壓力": "working pressure"
+    },
+    {
+        "工作壓力角": "working pressure angle"
+    },
+    {
+        "管路工作壓力": "working pressure of pipeline"
+    },
+    {
+        "工作過程": "working process"
+    },
+    {
+        "pv許用值": "working pv value"
+    },
+    {
+        "工作半徑": "working radius"
+    },
+    {
+        "工作範圍": "working range"
+    },
+    {
+        "工作速率": "working rate"
+    },
+    {
+        "工作阻力": "working resistance"
+    },
+    {
+        "施工縫": "working seam"
+    },
+    {
+        "施工縫防水膠": "working seam waterproof adhesive"
+    },
+    {
+        "工作剖面；工作段": "working section"
+    },
+    {
+        "工作段流速；試驗段流速": "working section velocity"
+    },
+    {
+        "工作井": "working shaft"
+    },
+    {
+        "工作地點；工作現場": "working site"
+    },
+    {
+        "整地": "working soil"
+    },
+    {
+        "工作空間": "working space"
+    },
+    {
+        "工作速率": "working speed"
+    },
+    {
+        "工作標準器": "working standard"
+    },
+    {
+        "工作中應變計": "working strain gauge"
+    },
+    {
+        "資用強度": "working strength"
+    },
+    {
+        "工作應力": "working stress"
+    },
+    {
+        "工作衝程": "working stroke"
+    },
+    {
+        "工作物質": "working substance"
+    },
+    {
+        "工作面": "working surface"
+    },
+    {
+        "犁體工作面": "working surface of plough body"
+    },
+    {
+        "工作臺": "working table"
+    },
+    {
+        "工作組": "working team"
+    },
+    {
+        "資用拉力": "working tension"
+    },
+    {
+        "活錨；使錨鬆動": "working the anchor"
+    },
+    {
+        "工作時間": "working time"
+    },
+    {
+        "作業時刻表；現行時刻表": "working timetable"
+    },
+    {
+        "工作齒深": "working tooth depth"
+    },
+    {
+        "工作扭轉角": "working torsion angle"
+    },
+    {
+        "內膛": "working tube"
+    },
+    {
+        "工作極限載荷": "working ultimate load"
+    },
+    {
+        "工作極限扭轉角": "working ultimate torsion angle"
+    },
+    {
+        "工作值": "working value"
+    },
+    {
+        "工作電壓": "working voltage"
+    },
+    {
+        "工作容積；工作量": "working volume"
+    },
+    {
+        "作業幅寬": "working width"
+    },
+    {
+        "工作負荷": "workload"
+    },
+    {
+        "技工": "workman"
+    },
+    {
+        "工匠技術；工藝": "workmanship"
+    },
+    {
+        "修井作業車": "workover rig"
+    },
+    {
+        "工件": "workpiece"
+    },
+    {
+        "衣片運輸器；工件載體": "workpiece carrier"
+    },
+    {
+        "工件變換器": "workpiece changer"
+    },
+    {
+        "工件夾": "workpiece clamp"
+    },
+    {
+        "工件夾持裝置": "workpiece clamping device"
+    },
+    {
+        "工件冷卻器": "workpiece cooler"
+    },
+    {
+        "工件坐標系統": "workpiece coordinate system"
+    },
+    {
+        "工件定位": "workpiece orient"
+    },
+    {
+        "工件表面": "workpiece surface"
+    },
+    {
+        "工廠；工場": "works"
+    },
+    {
+        "作業中標誌": "works in progress sign"
+    },
+    {
+        "作業計畫；工作計畫": "works plan"
+    },
+    {
+        "作業計畫": "works project"
+    },
+    {
+        "工廠；工場": "workshop"
+    },
+    {
+        "工作間用具": "workshop appliance"
+    },
+    {
+        "工場起重機": "workshop crane"
+    },
+    {
+        "廠長": "workshop supervisor"
+    },
+    {
+        "工作站": "Workstation"
+    },
+    {
+        "工作站": "workstation network"
+    },
+    {
+        "工作台": "worktable"
+    },
+    {
+        "世界航空圖": "world aeronautical chart"
+    },
+    {
+        "大地坐標系": "world coordinate system"
+    },
+    {
+        "世界環境": "world environment"
+    },
+    {
+        "世界衛生組織": "World Health Organization{=WHO}"
+    },
+    {
+        "世界地圖": "World map"
+    },
+    {
+        "世界氣象組織": "World Meterological Organization{=WMO}"
+    },
+    {
+        "世界多圖錐投影方格": "world polyconic grid"
+    },
+    {
+        "全球網路資訊網": "World Wide Web{=WWW}"
+    },
+    {
+        "蝸桿": "worm"
+    },
+    {
+        "蝸輪摩煞車": "worm [wheel friction] brake"
+    },
+    {
+        "蝸桿與蝸輪": "worm and  [worm] wheel"
+    },
+    {
+        "蝸桿與蝸輪": "worm and [worm] gear"
+    },
+    {
+        "蝸桿與蝸輪": "worm and gear"
+    },
+    {
+        "蝸桿蝸輪轉向裝置": "worm and gear steering"
+    },
+    {
+        "蝸桿指銷式轉向器": "worm and peg steering gear"
+    },
+    {
+        "蝸桿與扇形蝸輪": "worm and sector"
+    },
+    {
+        "蝸桿煞": "worm brake"
+    },
+    {
+        "蝸旋運送機": "worm conveyor"
+    },
+    {
+        "蝸桿驅動": "worm drive"
+    },
+    {
+        "蝸桿驅動速率比": "worm drive gear ratio"
+    },
+    {
+        "蝸桿齒面寬": "worm face width"
+    },
+    {
+        "蝸輪；蝸桿": "worm gear"
+    },
+    {
+        "蝸輪驅動": "worm gear drive"
+    },
+    {
+        "蝸輪進給": "worm gear feed"
+    },
+    {
+        "蝸輪滾刀": "worm gear hob"
+    },
+    {
+        "蝸輪對": "worm gear pair"
+    },
+    {
+        "蝸桿": "worm gear set"
+    },
+    {
+        "蝸輪傳動絞盤": "worm geared capstan"
+    },
+    {
+        "蝸輪弔重器": "worm geared hoist"
+    },
+    {
+        "蝸輪傳動": "worm gearing"
+    },
+    {
+        "變速比修形蝸杆傳動": "worm gearing modified with varying of transmission ratio"
+    },
+    {
+        "蝸桿滾齒刀": "worm hob"
+    },
+    {
+        "螺旋式混合器": "worm mixer"
+    },
+    {
+        "蝸形管": "worm pipe"
+    },
+    {
+        "蝸輪減速機": "worm reduction gear"
+    },
+    {
+        "蝸桿旋轉": "worm screw"
+    },
+    {
+        "扇形蝸輪": "worm sector"
+    },
+    {
+        "蝸桿軸": "worm shaft"
+    },
+    {
+        "蝸輪刮齒刀": "worm shaving hob"
+    },
+    {
+        "蝸桿螺紋": "worm thread"
+    },
+    {
+        "蝸桿止推軸承": "worm thrust bearing"
+    },
+    {
+        "蝸輪": "worm wheel"
+    },
+    {
+        "蝸輪驅動": "worm wheel drive"
+    },
+    {
+        "蝸輪滾刀": "worm wheel hob"
+    },
+    {
+        "蝸輪減速齒輪": "worm wheel reduction gear"
+    },
+    {
+        "蝸輪刮齒刀": "worm wheel shaving cutter"
+    },
+    {
+        "磨損輪緣": "worn flange"
+    },
+    {
+        "磨合軸頸": "worn in journal"
+    },
+    {
+        "磨耗軌": "worn out rail"
+    },
+    {
+        "磨耗形狀": "worn profile"
+    },
+    {
+        "衛氏片簧閥": "Worthington feather"
+    },
+    {
+        "衛氏泵": "Worthington pump"
+    },
+    {
+        "繞製物品": "wound article"
+    },
+    {
+        "傷口癒合": "wound healing"
+    },
+    {
+        "樹木創傷": "wound in tree"
+    },
+    {
+        "纏繞襯裡": "wound liner"
+    },
+    {
+        "繞線式變流器": "wound primary type current transformer"
+    },
+    {
+        "纏繞阻抗": "wound resistance"
+    },
+    {
+        "繞線轉子": "wound rotor"
+    },
+    {
+        "編織石棉": "woven asbestos"
+    },
+    {
+        "編織袋": "woven bag"
+    },
+    {
+        "織製帶": "woven belt"
+    },
+    {
+        "織密": "woven density"
+    },
+    {
+        "織物": "woven fabric"
+    },
+    {
+        "編織纖維": "woven fiber"
+    },
+    {
+        "編紗束；紗束布": "woven roving"
+    },
+    {
+        "編織篩": "woven screen"
+    },
+    {
+        "金屬絲編織網": "woven wire cloth"
+    },
+    {
+        "歪變": "wracking"
+    },
+    {
+        "圍包角": "wrap angle"
+    },
+    {
+        "繞接接觸件": "wrap contact"
+    },
+    {
+        "環列翼": "wrap-around fin"
+    },
+    {
+        "卷製軸套": "wrapped bearing bush"
+    },
+    {
+        "高壓燃油包管": "wrapped tube for high pressure fuel"
+    },
+    {
+        "包裹坯料": "wrapper blank"
+    },
+    {
+        "外鍋板": "wrapper plate"
+    },
+    {
+        "捆包": "wrapping"
+    },
+    {
+        "包揉機": "wrapping and twisting machine"
+    },
+    {
+        "包裹材料": "wrapping material"
+    },
+    {
+        "捆包動作指示器": "wrapping movement indicator"
+    },
+    {
+        "包裝紙": "wrapping paper"
+    },
+    {
+        "包裝棉紙": "wrapping tissue"
+    },
+    {
+        "包揉": "wrapping twisting"
+    },
+    {
+        "沈船浮標": "wreck buoy"
+    },
+    {
+        "沉船燈浮標": "wreck light buoy"
+    },
+    {
+        "軌道破壞": "wreck of track"
+    },
+    {
+        "救援用鐵路起重機": "wreck railway crane"
+    },
+    {
+        "沈船移位": "wreck removal"
+    },
+    {
+        "殘骸分布圖": "wreckage distribution diagram"
+    },
+    {
+        "海難救助作業；打撈工作": "wrecking"
+    },
+    {
+        "撬棍": "wrecking bar"
+    },
+    {
+        "重載滑車": "wrecking block"
+    },
+    {
+        "救險起重機": "wrecking crane"
+    },
+    {
+        "救險列車": "wrecking train"
+    },
+    {
+        "扳手": "wrench"
+    },
+    {
+        "扳手掛板": "wrench board"
+    },
+    {
+        "扳手鏈": "wrench chain"
+    },
+    {
+        "扳緊配合；鉗緊配合": "wrench fit"
+    },
+    {
+        "扳手開口": "wrench opening"
+    },
+    {
+        "扳手結構": "wrench structure"
+    },
+    {
+        "扳手扭矩": "wrench torque"
+    },
+    {
+        "扳手": "wrenches"
+    },
+    {
+        "扳磚": "wrenching"
+    },
+    {
+        "旋緊裕度": "wrenching allowance"
+    },
+    {
+        "窗楣；泄水槽；跳板": "wriggle"
+    },
+    {
+        "工匠": "wright"
+    },
+    {
+        "萊特兄弟": "Wright Brothers"
+    },
+    {
+        "收縮量；過盈量；絞；扭；黏合": "wring"
+    },
+    {
+        "扭緊螺栓；裝配螺栓": "wring bolt"
+    },
+    {
+        "高級特技飛行": "wring out"
+    },
+    {
+        "絞機": "wringer"
+    },
+    {
+        "緊貼": "wringing"
+    },
+    {
+        "緊貼配合": "wringing fit"
+    },
+    {
+        "起皺；蒙皮挫曲；皺紋": "wrinkle"
+    },
+    {
+        "皺紋帶": "wrinkled band"
+    },
+    {
+        "皺紋飾面": "wrinkled finish"
+    },
+    {
+        "皺摺面": "wrinkled surface"
+    },
+    {
+        "起皺紋": "wrinkling"
+    },
+    {
+        "腕": "wrist"
+    },
+    {
+        "腕部關節": "wrist joint"
+    },
+    {
+        "肘銷": "wrist pin"
+    },
+    {
+        "肘銷螺帽": "wrist pin nut"
+    },
+    {
+        "肘板": "wrist plate"
+    },
+    {
+        "腕部密封圈": "wrist seal"
+    },
+    {
+        "護腕結構": "wristlet structure"
+    },
+    {
+        "肘銷承": "wristpin bearing"
+    },
+    {
+        "寫入放大器電路": "write amplifier circuit"
+    },
+    {
+        "錄像偏壓": "write bias"
+    },
+    {
+        "寫緩衝器": "write buffer"
+    },
+    {
+        "寫入資料": "write data input"
+    },
+    {
+        "寫入軟體": "write in software"
+    },
+    {
+        "寫入參數": "write parameters"
+    },
+    {
+        "寫入判斷裝置": "write-in discriminating device"
+    },
+    {
+        "寫入循環": "writing cycle"
+    },
+    {
+        "書寫用具": "writing implement"
+    },
+    {
+        "書寫用具": "writing instrument"
+    },
+    {
+        "寫入光功率": "writing optical power"
+    },
+    {
+        "書寫用紙": "writing paper"
+    },
+    {
+        "寫入速率": "writing speed"
+    },
+    {
+        "書寫系統": "writing system"
+    },
+    {
+        "筆試": "written test"
+    },
+    {
+        "書面警告": "written warning"
+    },
+    {
+        "錯誤尺寸": "wrong dimension"
+    },
+    {
+        "逆向行駛": "wrong direction movement"
+    },
+    {
+        "逆向行駛": "wrong direction moving"
+    },
+    {
+        "誤操作警報": "wrong operation alarm"
+    },
+    {
+        "侵權行為": "wrongful act"
+    },
+    {
+        "錯誤占用": "wrongly occupied"
+    },
+    {
+        "鍛造用合金": "wrought alloy"
+    },
+    {
+        "鍛鋁合金": "wrought aluminum alloy"
+    },
+    {
+        "熱銅": "wrought copper"
+    },
+    {
+        "熱銅合金": "wrought copper alloy"
+    },
+    {
+        "熟鐵；鍛鐵；銲接鋼": "wrought iron"
+    },
+    {
+        "熟鐵條": "wrought iron bar"
+    },
+    {
+        "熟鐵彎頭": "wrought iron bend"
+    },
+    {
+        "熟鐵管": "wrought iron pipe"
+    },
+    {
+        "熟鐵板": "wrought iron plate"
+    },
+    {
+        "熟鐵鉚釘": "wrought iron rivet"
+    },
+    {
+        "鍛釘": "wrought nail"
+    },
+    {
+        "鍛鋼": "wrought steel"
+    },
+    {
+        "線應變計": "wwire strain gage"
+    },
+    {
+        "全球資訊網架構": "WWW architecture"
+    },
+    {
+        "Y 型線": "wye"
+    },
+    {
+        "桅端鐵環；桁端鐵環；吊桿端鐵環": "wythe"
+    },
+    {
+        "發射時刻（火箭）": "X"
+    },
+    {
+        "X 管制圖": "X control chart"
+    },
+    {
+        "X 端 / Y 端": "X End / Y End"
+    },
+    {
+        "X 型發動機": "X engine"
+    },
+    {
+        "X 形卡規": "X gage"
+    },
+    {
+        "X 型槽銲道": "X groove weld"
+    },
+    {
+        "X 型接頭": "X joint"
+    },
+    {
+        "X光": "X ray"
+    },
+    {
+        "X射線繞射": "X ray diffraction"
+    },
+    {
+        "不適飛行天氣": "X weather"
+    },
+    {
+        "X 翼機": "X wing"
+    },
+    {
+        "X/Y 端門控制開關": "X/Y end door control switch{=DCSX}"
+    },
+    {
+        "X 加時間": "X+time"
+    },
+    {
+        "X 軸線；X 軸": "X-axis"
+    },
+    {
+        "Xbar 管制圖": "Xbar control chart"
+    },
+    {
+        "X 形切割": "X-cut"
+    },
+    {
+        "X 截晶體": "X-cut crystal"
+    },
+    {
+        "X 端門斷路器": "X-end doors circuit breaker"
+    },
+    {
+        "X 端 / Y 端煞車故障": "X-end/Y-end braking fault"
+    },
+    {
+        "氙": "Xenon"
+    },
+    {
+        "氙燈氣候試驗箱": "xenon arc type climatic test chamber"
+    },
+    {
+        "氙氣燈泡": "xenon bulb"
+    },
+    {
+        "氯化氙準分子雷射": "xenon chloride excimer laser"
+    },
+    {
+        "二氟化氙": "Xenon difluoride"
+    },
+    {
+        "氙準分子燈": "xenon excimer lamp"
+    },
+    {
+        "氙閃光燈": "xenon flash lamp"
+    },
+    {
+        "氟化氙準分子雷射": "xenon fluoride excimer laser"
+    },
+    {
+        "氙氣頭燈": "xenon headlight"
+    },
+    {
+        "氙燈": "xenon lamp"
+    },
+    {
+        "靜電複印": "xerox"
+    },
+    {
+        "X 型振動": "X-form vibration"
+    },
+    {
+        "變位齒輪對": "X-gear pair"
+    },
+    {
+        "具修改中心距轉位齒輪對": "X-gear pair with modified center distance"
+    },
+    {
+        "具參考中心距轉位齒輪對": "X-gear pair with reference center distance"
+    },
+    {
+        "X 型構件": "X-member"
+    },
+    {
+        "XML 編碼規則": "XML encoding rule"
+    },
+    {
+        "可擴展標示語言檔案": "XML file"
+    },
+    {
+        "XML 綱要定義": "XML schema definition"
+    },
+    {
+        "對 X 軸力矩": "X-moment"
+    },
+    {
+        "發射機關斷燈": "xmtr off light"
+    },
+    {
+        "發射機調諧燈": "xmtr tune light"
+    },
+    {
+        "「互斥或」閘": "XOR gate"
+    },
+    {
+        "X形外伸支腿": "X–outrigger"
+    },
+    {
+        "實驗型飛機": "X-plane"
+    },
+    {
+        "X 光放射": "X-radiation"
+    },
+    {
+        "X 射線厚度計": "X-radiation thickness meter"
+    },
+    {
+        "X 光照相": "X-radiography"
+    },
+    {
+        "X 射線": "X-ray"
+    },
+    {
+        "X 射線吸收光譜儀": "X-ray absorption spectrometer"
+    },
+    {
+        "X 射線分析": "X-ray analysis"
+    },
+    {
+        "X 射線分析儀": "X-ray analyzer"
+    },
+    {
+        "X 射線天文學": "X-ray astronomy"
+    },
+    {
+        "X 射線光束截捕器": "X-ray beam stop"
+    },
+    {
+        "X 射線照像機": "X-ray camera"
+    },
+    {
+        "X 射線控制器": "X-ray controller"
+    },
+    {
+        "X 射線晶體光譜儀": "X-ray crystal spectrometer"
+    },
+    {
+        "X 射線檢測儀表": "X-ray detection apparatus"
+    },
+    {
+        "X光偵測器": "X-ray detector"
+    },
+    {
+        "x射線繞射": "x-ray diffract"
+    },
+    {
+        "X 光繞射": "X-ray diffraction"
+    },
+    {
+        "X 射線繞射分析": "X-ray diffraction analysis"
+    },
+    {
+        "X 光繞射法": "X-ray diffraction method"
+    },
+    {
+        "X 射線繞射儀": "X-ray diffractometer{=XRD}"
+    },
+    {
+        "X 光繞射": "X-ray diffractometry"
+    },
+    {
+        "X 射線劑量計": "X-ray dosimeter"
+    },
+    {
+        "x射線軟片": "x-ray film"
+    },
+    {
+        "X 射線過濾器": "X-ray filter"
+    },
+    {
+        "X射線螢光光譜儀": "X-ray fluorescence"
+    },
+    {
+        "X 射線螢光分析": "X-ray fluorescence analysis"
+    },
+    {
+        "X 射線螢光發射光譜儀": "X-ray fluorescent emission spectrometer"
+    },
+    {
+        "X 射線測角儀": "X-ray goniometer"
+    },
+    {
+        "X 射線高壓產生器": "X-ray high voltage generator"
+    },
+    {
+        "X 射線檢驗": "X-ray inspection"
+    },
+    {
+        "X 射線雷射": "X-ray laser"
+    },
+    {
+        "X 射線微分析儀": "X-ray micro analyser{=XMA}"
+    },
+    {
+        "X 射線單色儀": "X-ray monochrometer"
+    },
+    {
+        "X 射線非破壞檢測": "X-ray nondestructive testing"
+    },
+    {
+        "X 射線光電子能譜儀": "X-ray photoelectron spectrometer"
+    },
+    {
+        "X 射線光電子光譜學": "X-ray photoelectron spectroscopy"
+    },
+    {
+        "X 射線照像": "X-ray photograph"
+    },
+    {
+        "X 光照相機；X 光照像機": "X-ray photography"
+    },
+    {
+        "X 射線設備": "X-ray plant"
+    },
+    {
+        "X 射線粉末繞射儀": "X-ray powder diffractometer"
+    },
+    {
+        "X 射線透視法": "X-ray radiograph"
+    },
+    {
+        "X 光室": "X-ray room"
+    },
+    {
+        "X 光散射": "X-ray scattering"
+    },
+    {
+        "X 射線攝譜儀": "X-ray spectrograph"
+    },
+    {
+        "X 射線光譜儀": "X-ray spectrometer{=XRS}"
+    },
+    {
+        "X 射線分光器具": "X-ray spectroscope apparatus"
+    },
+    {
+        "X 射線光譜": "X-ray spectrum"
+    },
+    {
+        "工業用 X 射線電視器具": "X-ray television apparatus for industry"
+    },
+    {
+        "X 射線換能器": "X-ray transducer"
+    },
+    {
+        "X 射線管": "X-ray tube"
+    },
+    {
+        "X 射線管電流": "X-ray tube current"
+    },
+    {
+        "X 射線管屏蔽": "X-ray tube shield"
+    },
+    {
+        "X 射線管電壓": "X-ray tube voltage"
+    },
+    {
+        "X 射線管視窗": "X-ray tube window"
+    },
+    {
+        "x-y軸載台裝置": "x-y axis stage device"
+    },
+    {
+        "XY微動裝置": "XY fine motion device"
+    },
+    {
+        "X-Y 繪圖機": "X-Y plotter"
+    },
+    {
+        "XY 記錄儀": "XY recorder"
+    },
+    {
+        "木膠": "xylan"
+    },
+    {
+        "二甲苯": "xylene [C6H4CH3)2]"
+    },
+    {
+        "二甲苯擴散": "xylene diffusion"
+    },
+    {
+        "二甲苯異構物": "xylene isomer"
+    },
+    {
+        "二甲苯損失": "xylene loss"
+    },
+    {
+        "染料": "xylidine"
+    },
+    {
+        "木刻術": "xylography"
+    },
+    {
+        "木質物": "xyloid material"
+    },
+    {
+        "二甲苯": "xylole"
+    },
+    {
+        "木材比重計；測容器": "xylometer"
+    },
+    {
+        "木糖酸": "xylonic acid"
+    },
+    {
+        "非變位齒輪": "X-zero gear"
+    },
+    {
+        "Y 係氫者；Y 係氫": "Y being hydrogen"
+    },
+    {
+        "Y 形接法；星形接法": "Y connection"
+    },
+    {
+        "Y 因子": "Y factor"
+    },
+    {
+        "Y 因子法": "Y factor method"
+    },
+    {
+        "Y 形接頭": "Y joint"
+    },
+    {
+        "Y 型過濾器": "Y Strainer"
+    },
+    {
+        "Y 型線": "Y track"
+    },
+    {
+        "雙開道岔": "Y turnout"
+    },
+    {
+        "星三角接法": "Y-△ connection"
+    },
+    {
+        "遊艇": "yacht"
+    },
+    {
+        "遊艇裝具": "yacht fittings"
+    },
+    {
+        "輕麻繩": "yacht marline"
+    },
+    {
+        "遊艇等級": "yacht rating"
+    },
+    {
+        "遊艇比賽": "yacht regatta"
+    },
+    {
+        "窄平艉；帆遊艇式艉": "yacht stern"
+    },
+    {
+        "八木天線": "Yagi antenna"
+    },
+    {
+        "Y 合金": "y-alloy"
+    },
+    {
+        "動力船舶": "yarage"
+    },
+    {
+        "舷外吊桿": "yard boom"
+    },
+    {
+        "場地起重機": "yard crane"
+    },
+    {
+        "機廠手動模式": "yard manual mode{=YM}"
+    },
+    {
+        "機廠模式應用繼電器": "Yard Mode Apply Relay{=YMAR}"
+    },
+    {
+        "機廠模式繼電器": "Yard Mode Relay{=YMR}"
+    },
+    {
+        "造船編號": "yard number"
+    },
+    {
+        "碼磅制": "yard pound system"
+    },
+    {
+        "廠修": "yard repair"
+    },
+    {
+        "帆桁索": "yard rope"
+    },
+    {
+        "吊桁索": "yard sling"
+    },
+    {
+        "碼尺；規範；標尺": "yard stick"
+    },
+    {
+        "桁端滑車組": "yard tackle"
+    },
+    {
+        "站內軌道": "yard tracks"
+    },
+    {
+        "吊桿牽索": "yard whip"
+    },
+    {
+        "碼；場地；帆桁；造船廠": "yard{=YD}"
+    },
+    {
+        "立方碼": "yardage"
+    },
+    {
+        "橫桁": "yardarm"
+    },
+    {
+        "橫桅端閃光信號燈": "yardarm blinker"
+    },
+    {
+        "集材機": "yarder"
+    },
+    {
+        "調車員；轉轍工": "yardman"
+    },
+    {
+        "標準；碼尺": "yardstick"
+    },
+    {
+        "紗；塞麻；線股；小索": "yarn"
+    },
+    {
+        "紗彎曲": "yarn bend"
+    },
+    {
+        "紗線制動器": "yarn brake"
+    },
+    {
+        "絲線通道": "yarn channel"
+    },
+    {
+        "紗支數": "yarn count"
+    },
+    {
+        "紗線供給": "yarn feed"
+    },
+    {
+        "成紗區": "yarn forming region"
+    },
+    {
+        "紗線分級": "yarn grading"
+    },
+    {
+        "紗覆蓋": "yarn overlay"
+    },
+    {
+        "紗線加工機": "yarn processing"
+    },
+    {
+        "紗段": "yarn segment"
+    },
+    {
+        "紗結構": "yarn structure"
+    },
+    {
+        "線拉": "yarn tensioning"
+    },
+    {
+        "紗試驗機；細線試驗機": "yarn tester"
+    },
+    {
+        "紗線變形機": "yarn texturing machine"
+    },
+    {
+        "紗卷繞": "yarn winding"
+    },
+    {
+        "梭織物": "yarn woven fabric"
+    },
+    {
+        "偏航；偏流": "yaw"
+    },
+    {
+        "偏航角": "yaw angle"
+    },
+    {
+        "偏航軸": "yaw axis"
+    },
+    {
+        "偏航軸承": "yaw bearing"
+    },
+    {
+        "偏航控制": "yaw control"
+    },
+    {
+        "偏航控制增益系統": "yaw control augmentation system"
+    },
+    {
+        "偏航控制速率": "yaw controlling speed"
+    },
+    {
+        "抗偏器": "yaw damper"
+    },
+    {
+        "艏搖擺": "yaw heel"
+    },
+    {
+        "偏航計": "yaw meter"
+    },
+    {
+        "轉向位置": "yaw position"
+    },
+    {
+        "偏流探針": "yaw probe"
+    },
+    {
+        "偏航調整機構": "yaw regulating mechanism"
+    },
+    {
+        "橫擺響應": "yaw response"
+    },
+    {
+        "橫搖力矩": "yaw torque"
+    },
+    {
+        "偏航失穩": "yaw unstability"
+    },
+    {
+        "側滑片": "yaw vane"
+    },
+    {
+        "橫擺速度": "yaw velocity"
+    },
+    {
+        "人體橫擺振動": "yaw vibration of human body"
+    },
+    {
+        "偏搖": "yawing"
+    },
+    {
+        "偏搖角": "yawing angle"
+    },
+    {
+        "轉子軸偏搖角": "yawing angle of rotor shaft"
+    },
+    {
+        "平擺力偶": "yawing couple"
+    },
+    {
+        "艏搖頻率": "yawing frequency"
+    },
+    {
+        "偏航力矩": "yawing moment"
+    },
+    {
+        "偏航力矩係數": "yawing moment coefficient"
+    },
+    {
+        "滾轉偏航力矩": "yawing moment due to roll"
+    },
+    {
+        "側滑偏航力矩": "yawing moment due to sideslip"
+    },
+    {
+        "跳動質量偏搖慣性矩": "yawing moment of inertia of sprung mass"
+    },
+    {
+        "車輛橫擺慣性矩": "yawing moment of inertia of vehicle"
+    },
+    {
+        "平搖運動": "yawing motion"
+    },
+    {
+        "偏航角速率": "yawing rate"
+    },
+    {
+        "偏搖速度": "yawing velocity"
+    },
+    {
+        "船載小艇；小帆船；前高後低雙桅帆船": "yawl"
+    },
+    {
+        "偏航表": "yawmeter"
+    },
+    {
+        "y 軸": "y-axis"
+    },
+    {
+        "y 形支管": "y-branch"
+    },
+    {
+        "y 形連接": "y-connection"
+    },
+    {
+        "y 截晶體": "y-cut crystal"
+    },
+    {
+        "輾壓年月及方法": "year and method rolled"
+    },
+    {
+        "出廠年": "year of manufacture"
+    },
+    {
+        "全年空調系統": "year round air conditioning system"
+    },
+    {
+        "年度養護計畫": "yearly maintenance program"
+    },
+    {
+        "酵母菌細胞": "yeast cell"
+    },
+    {
+        "酵母萃取物": "Yeast extract"
+    },
+    {
+        "酵母粉": "yeast powder"
+    },
+    {
+        "黃色警報": "yellow alert"
+    },
+    {
+        "黃色黃銅": "yellow brass"
+    },
+    {
+        "黃結塊": "yellow cake"
+    },
+    {
+        "跑道燈光之黃色注意地帶": "yellow caution zone{=YCZ}"
+    },
+    {
+        "黃色警示線": "yellow demarcation line"
+    },
+    {
+        "黃熱病": "yellow fever"
+    },
+    {
+        "檢疫旗": "yellow flag"
+    },
+    {
+        "黃色墨水組成": "yellow ink composition"
+    },
+    {
+        "黃色背心": "yellow jacket"
+    },
+    {
+        "黃光": "yellow light"
+    },
+    {
+        "海軍黃銅": "yellow metal"
+    },
+    {
+        "黃磷": "yellow phosphorus"
+    },
+    {
+        "黃松": "yellow pine"
+    },
+    {
+        "黃海延繩釣鯛漁船": "Yellow Sea bream longline fishing boat"
+    },
+    {
+        "黃乾漆片": "yellow shellac"
+    },
+    {
+        "黃雪": "yellow snow"
+    },
+    {
+        "黃色警報": "yellow warning"
+    },
+    {
+        "黃風": "yellow wind"
+    },
+    {
+        "變黃": "Yellowing"
+    },
+    {
+        "黃度係數": "yellowness index"
+    },
+    {
+        "鉛黃": "yelow lead"
+    },
+    {
+        "日元貨幣附加費": "yen applica surcharge"
+    },
+    {
+        "直流式閥；Y 型球形閥": "Y-globe valve"
+    },
+    {
+        "降伏；收穫": "yield"
+    },
+    {
+        "前有幹道": "yield ahead"
+    },
+    {
+        "良率分析": "yield analysis"
+    },
+    {
+        "收穫面積": "yield area"
+    },
+    {
+        "生產能量": "yield capacity"
+    },
+    {
+        "降伏極限": "yield limit"
+    },
+    {
+        "降伏負載": "yield load"
+    },
+    {
+        "收益管理": "yield management"
+    },
+    {
+        "降伏點": "yield point"
+    },
+    {
+        "良率分析整合": "yield rate analysis integration"
+    },
+    {
+        "降伏比": "yield ratio"
+    },
+    {
+        "降伏應變": "yield strain"
+    },
+    {
+        "降伏強度": "yield strength"
+    },
+    {
+        "降伏應力": "yield stress"
+    },
+    {
+        "降伏抗張應力": "yield tensile stress"
+    },
+    {
+        "降服值": "yield value"
+    },
+    {
+        "降服": "yielding"
+    },
+    {
+        "退讓軸承": "yielding bearing"
+    },
+    {
+        "彈性聯軸器": "Yielding couplings"
+    },
+    {
+        "降伏點": "yielding point"
+    },
+    {
+        "衝擊橡皮": "yielding rubber"
+    },
+    {
+        "y 形接合": "y-joint"
+    },
+    {
+        "y 接合部": "y-junction"
+    },
+    {
+        "基苯磺醯胺衍生物": "yl benzenesulfonamide derivative"
+    },
+    {
+        "基環系統": "yl ring system"
+    },
+    {
+        "y 形水平儀": "y-level"
+    },
+    {
+        "y 金屬；釔": "y-metal"
+    },
+    {
+        "Y 調變影像": "Y-modulation image"
+    },
+    {
+        "越躍": "yo yo"
+    },
+    {
+        "呼叫聲；Yo-kora（水平移動撥道）": "yo-heave-ho"
+    },
+    {
+        "軛；駕駛盤；橫舵柄": "yoke"
+    },
+    {
+        "軛式凸輪": "yoke cam"
+    },
+    {
+        "軛連接": "yoke connection"
+    },
+    {
+        "軛式從動件": "yoke follower"
+    },
+    {
+        "舵鏈；划艇舵索；舵柄繩": "yoke line"
+    },
+    {
+        "磁軛法": "yoke method"
+    },
+    {
+        "具平面隨動器星形凸輪": "yoke radial cam with flat faced follower"
+    },
+    {
+        "具滾輪隨動器星形凸輪": "yoke radial cam with roller follower"
+    },
+    {
+        "斜艏尖艉；魚鱗板；敞式帆艇": "yole"
+    },
+    {
+        "楊氏率（係數）": "Young"
+    },
+    {
+        "新進員工": "young staff"
+    },
+    {
+        "楊氏模數": "Youngs modulus"
+    },
+    {
+        "彈性模數": "Young's modulus of elasticity"
+    },
+    {
+        "芥子氣": "y-perite"
+    },
+    {
+        "y 形件": "y-piece"
+    },
+    {
+        "y 形管": "y-pipe"
+    },
+    {
+        "Y 形皮帶": "Y-shaped belt"
+    },
+    {
+        "y 接續": "y-splice"
+    },
+    {
+        "y 形支索": "y-stay"
+    },
+    {
+        "Y 形道岔": "Y–switch"
+    },
+    {
+        "鎰": "ytterbium{=Yb}"
+    },
+    {
+        "三氧化二釔燒結": "yttria sinter"
+    },
+    {
+        "氧化釔燒結體": "Yttria sintered"
+    },
+    {
+        "釔燒結體": "yttria sintered body"
+    },
+    {
+        "鋁酸釔雷射": "yttrium aluminate laser{=YAP laser}"
+    },
+    {
+        "釔鋁石榴石": "yttrium aluminium garnet{=YAG}"
+    },
+    {
+        "釔鋁石榴石": "yttrium aluminum garnet"
+    },
+    {
+        "釔離子": "Yttrium ion"
+    },
+    {
+        "氧化釔": "yttrium oxide"
+    },
+    {
+        "釔系超導體": "yttrium series superconductor"
+    },
+    {
+        "釔安定氧化鋯": "yttrium stabilized zirconia{=YSZ}"
+    },
+    {
+        "釔": "yttrium{=Y}"
+    },
+    {
+        "三通管；y 形接管": "y-tube"
+    },
+    {
+        "y 形引擎；y 形發動機": "y-type engine"
+    },
+    {
+        "y 型泵": "y-type pump"
+    },
+    {
+        "嘉義區監理所雲林監理站": "yunlin station of chia-yi  motor vehicles office"
+    },
+    {
+        "y 形閥": "y-valve"
+    },
+    {
+        "Z 形材": "Z bar"
+    },
+    {
+        "Z 修正量": "Z correction"
+    },
+    {
+        "Z 測試": "Z test"
+    },
+    {
+        "Z 變換；Z 轉換": "Z transformation"
+    },
+    {
+        "Z值": "Z value"
+    },
+    {
+        "西班牙帆艦": "zabra"
+    },
+    {
+        "齊富": "Zahnradfabrik Friedrichshafen{=ZF}"
+    },
+    {
+        "紅海長艏後斜艉單桅帆船": "zaima"
+    },
+    {
+        "早期後緣翼的一種": "Zapp flap"
+    },
+    {
+        "紅海單桅船": "zaruka"
+    },
+    {
+        "z 軸": "z-axis"
+    },
+    {
+        "z 形條": "z-bar"
+    },
+    {
+        "z 信標": "z-beacon"
+    },
+    {
+        "z 形梁": "z-beam"
+    },
+    {
+        "z 接法": "z-connection"
+    },
+    {
+        "z 形曲柄": "z-crank"
+    },
+    {
+        "z 型驅動": "z-drive"
+    },
+    {
+        "斑馬魚": "zebra fish"
+    },
+    {
+        "格林威治標準時間": "Zebra time"
+    },
+    {
+        "ZZ 進場系統": "Zed Zed"
+    },
+    {
+        "z 形條": "zee bar"
+    },
+    {
+        "波羅的海半甲板拖網漁帆漁": "zeesenboot"
+    },
+    {
+        "齊納二極體": "Zener diode"
+    },
+    {
+        "天頂；頂點": "zenith"
+    },
+    {
+        "天頂角": "zenith angle"
+    },
+    {
+        "天頂距": "zenith distance"
+    },
+    {
+        "天頂天底軸": "zenith nadir axis"
+    },
+    {
+        "天頂雨": "zenithal rains"
+    },
+    {
+        "沸石": "zeolite"
+    },
+    {
+        "沸石軟水器": "zeolite [water]softener"
+    },
+    {
+        "沸石吸附劑": "zeolite adsorbent"
+    },
+    {
+        "沸石吸附": "zeolite adsorption"
+    },
+    {
+        "沸石觸媒": "zeolite catalyst"
+    },
+    {
+        "沸石給水處理法": "zeolite feedwater treatment"
+    },
+    {
+        "沸石軟水法": "zeolite process"
+    },
+    {
+        "沸石載體": "zeolite support"
+    },
+    {
+        "沸石合成": "zeolite synthesis"
+    },
+    {
+        "和風；夏季暖風": "zephyr"
+    },
+    {
+        "齊柏林（飛船）": "Zeppelin"
+    },
+    {
+        "潤滑脂嘴": "zerk"
+    },
+    {
+        "零；零點；零位；零度": "zero"
+    },
+    {
+        "零位調整裝置": "zero adjuster"
+    },
+    {
+        "零位調整": "zero adjustment"
+    },
+    {
+        "零位調整": "zero adjustment [of a measuring instrument]"
+    },
+    {
+        "量測系統之零位調整": "zero adjustment of a measuring system"
+    },
+    {
+        "零空速": "zero air speed"
+    },
+    {
+        "零裕度": "zero allowance"
+    },
+    {
+        "零方位": "zero azimuth"
+    },
+    {
+        "零角蝸線斜齒輪": "zero bevel gears"
+    },
+    {
+        "零位元": "zero bit"
+    },
+    {
+        "零浮力；臨界浮力": "zero buoyancy"
+    },
+    {
+        "中縱剖面線": "zero buttock"
+    },
+    {
+        "零高雲幕": "zero ceiling"
+    },
+    {
+        "零值中心安培計": "zero center ammeter"
+    },
+    {
+        "中央零位標度": "zero center scale"
+    },
+    {
+        "零色散": "zero chromatic dispersion"
+    },
+    {
+        "零間隙": "zero clearance"
+    },
+    {
+        "零條件": "zero condition"
+    },
+    {
+        "零交越": "zero crossing"
+    },
+    {
+        "跨零頻率；零交越頻率": "zero crossing frequency"
+    },
+    {
+        "零交越": "zero crossover"
+    },
+    {
+        "無缺點": "zero defect"
+    },
+    {
+        "零差探測": "zero difference detection"
+    },
+    {
+        "零排放": "zero discharge"
+    },
+    {
+        "零排放車": "zero emission vehicle{=ZEV}"
+    },
+    {
+        "無預旋進氣口": "zero entry swirl inlet"
+    },
+    {
+        "零誤差": "zero error"
+    },
+    {
+        "零點誤差": "zero error [of a measuring instrument ]"
+    },
+    {
+        "零點漂移": "zero float"
+    },
+    {
+        "零頻率鑑別器": "zero frequency discriminator"
+    },
+    {
+        "無燃料重量": "zero fuel weight"
+    },
+    {
+        "零氣體": "zero gas"
+    },
+    {
+        "零級空氣": "zero grade air"
+    },
+    {
+        "無重狀態": "zero gravity"
+    },
+    {
+        "失重；零重量": "zero gravity weight"
+    },
+    {
+        "零爬升梯度高度": "zero gross gradient"
+    },
+    {
+        "開始時間": "zero hour"
+    },
+    {
+        "零位指示器": "zero indicator"
+    },
+    {
+        "零電感": "zero inductance"
+    },
+    {
+        "零插力連接器": "zero insertion force connector"
+    },
+    {
+        "零點不穩定性": "zero instability"
+    },
+    {
+        "零長發射器（無導管）": "zero launcher"
+    },
+    {
+        "零長": "zero length"
+    },
+    {
+        "無軌式發射裝置": "zero length launcher"
+    },
+    {
+        "零長發射": "zero length launching{=Zell}"
+    },
+    {
+        "零升力攻角": "zero lift angle"
+    },
+    {
+        "零升力攻角": "zero lift angle of attack"
+    },
+    {
+        "零升力弦": "zero lift chord"
+    },
+    {
+        "零升力阻力": "zero lift drag"
+    },
+    {
+        "零升力阻力係數": "zero lift drag coefficient"
+    },
+    {
+        "零升力線": "zero lift line"
+    },
+    {
+        "零升力力矩": "zero lift moment"
+    },
+    {
+        "零升力彈道": "zero lift trajectory"
+    },
+    {
+        "零位線": "zero line"
+    },
+    {
+        "零線穩定性": "zero line stability"
+    },
+    {
+        "空載": "zero load"
+    },
+    {
+        "無人當值機艙": "zero man engine room"
+    },
+    {
+        "基準記號": "zero mark"
+    },
+    {
+        "零矩陣": "zero matrix"
+    },
+    {
+        "零子午線": "zero meridian"
+    },
+    {
+        "零度測量法": "zero method"
+    },
+    {
+        "零彎矩跨距": "zero moment span"
+    },
+    {
+        "零偏": "zero offset"
+    },
+    {
+        "零偏移電壓": "zero offset voltage"
+    },
+    {
+        "零光程差": "zero optical path difference"
+    },
+    {
+        "零輸出基線": "zero output base line"
+    },
+    {
+        "零相序": "zero phase sequence"
+    },
+    {
+        "零相電流": "zero phase sequence current"
+    },
+    {
+        "零相變換": "zero phase shift"
+    },
+    {
+        "零點": "zero point"
+    },
+    {
+        "零點校正裝置": "zero point correcting device"
+    },
+    {
+        "零污染": "zero pollution"
+    },
+    {
+        "零位": "zero position"
+    },
+    {
+        "零電位": "zero potential"
+    },
+    {
+        "零上升率飛行速率": "zero rate of climb speed"
+    },
+    {
+        "零位指示器": "zero reader"
+    },
+    {
+        "零點讀數": "zero reading"
+    },
+    {
+        "歸零裝置": "zero resetting device"
+    },
+    {
+        "零點回復": "zero return"
+    },
+    {
+        "零序": "zero sequence"
+    },
+    {
+        "置零調整；歸零": "zero set"
+    },
+    {
+        "零偏距車輪": "zero set wheel"
+    },
+    {
+        "歸零": "zero setting"
+    },
+    {
+        "調零裝置": "zero setting device"
+    },
+    {
+        "零點移位": "zero shift"
+    },
+    {
+        "零瞄準線": "zero sight line"
+    },
+    {
+        "無信號區": "zero signal zone"
+    },
+    {
+        "零速偵測安全": "zero speed detection safety"
+    },
+    {
+        "零安定性導數": "zero stability derivatives"
+    },
+    {
+        "零級（渦輪發動機）": "zero stage"
+    },
+    {
+        "零狀態": "zero state"
+    },
+    {
+        "松杆配平速率": "zero stick force trim speed"
+    },
+    {
+        "零齒差型輸出機構": "zero teeth difference type output mechanism"
+    },
+    {
+        "零度溫度": "zero temperature"
+    },
+    {
+        "無推力螺距": "zero thrust pitch"
+    },
+    {
+        "不整地種植": "zero till planting"
+    },
+    {
+        "不整地": "zero tillage"
+    },
+    {
+        "零傾斜旋轉之固定元件": "zero tilt rotation holding mean"
+    },
+    {
+        "無扭力螺距": "zero torque pitch"
+    },
+    {
+        "縱平浮": "zero trim"
+    },
+    {
+        "零價鐵": "zero valent iron"
+    },
+    {
+        "零速度繼電器": "zero velocity relay{=ZVR}"
+    },
+    {
+        "零能見度": "zero visibility"
+    },
+    {
+        "零電壓": "zero voltage"
+    },
+    {
+        "零電壓切換": "zero voltage switching"
+    },
+    {
+        "零波阻": "zero wave drag"
+    },
+    {
+        "無風": "zero wind"
+    },
+    {
+        "零零天氣": "zero/zero weather"
+    },
+    {
+        "零時區時間": "zero/zone time"
+    },
+    {
+        "補零": "zeroing means"
+    },
+    {
+        "零蝸線角傘齒輪": "Zerol bevel gear"
+    },
+    {
+        "衡器歸零裝置": "zero-setting device of a weighing instrument"
+    },
+    {
+        "零星級隔室；零星車廂": "zero-star compartment"
+    },
+    {
+        "熱力學第零定律": "zeroth law of thermodynamics"
+    },
+    {
+        "零點追蹤裝置": "zero-tracking device"
+    },
+    {
+        "零高度零速度彈射逃生系統": "zero-zero escape system"
+    },
+    {
+        "零高度零速度彈射椅": "zero-zero seat"
+    },
+    {
+        "祝納氏汽閥圖": "Zeuner valve diagram"
+    },
+    {
+        "曹納式氣閥圖": "Zeuners valve diagram"
+    },
+    {
+        "朱茶炒乾機": "Zhu tea roasting machine"
+    },
+    {
+        "錯從；鉅齒形": "zigzag"
+    },
+    {
+        "鋸齒形天線": "zigzag antenna"
+    },
+    {
+        "鋸齒形接法": "zigzag connection"
+    },
+    {
+        "交錯固結": "zigzag fastening"
+    },
+    {
+        "錯從間歇填角熔接": "zigzag intermittent fillet weld"
+    },
+    {
+        "交錯間斷銲接": "zigzag intermittent weld"
+    },
+    {
+        "曲折閃電": "zigzag lightning"
+    },
+    {
+        "蛇行操縱": "zigzag maneuver"
+    },
+    {
+        "蛇航操縱；曲折操縱；Z 型操縱": "zigzag maneuvering"
+    },
+    {
+        "曲折形件": "zigzag pieces"
+    },
+    {
+        "鋸齒形電阻器": "zigzag resistance unit"
+    },
+    {
+        "錯從鉚接合": "zigzag rivet joint"
+    },
+    {
+        "差排鉚接；交錯鉚接": "zigzag riveting"
+    },
+    {
+        "摺尺": "zigzag rule"
+    },
+    {
+        "曲折掃描": "zigzag scanning"
+    },
+    {
+        "曲折搜索": "zigzag search"
+    },
+    {
+        "鋸齒形分離板": "zigzag separating plate"
+    },
+    {
+        "鋸齒縫紉機": "zigzag sewing machine"
+    },
+    {
+        "之形板清選機": "zigzag table separator"
+    },
+    {
+        "蛇航試驗；Z 型試驗": "zigzag test"
+    },
+    {
+        "交錯銲接": "zigzag weld"
+    },
+    {
+        "方位角": "zimuth"
+    },
+    {
+        "鋅": "zinc"
+    },
+    {
+        "醋酸鋅": "zinc acetate"
+    },
+    {
+        "鋅空氣電池": "zinc air battery"
+    },
+    {
+        "鋅合金": "zinc alloy"
+    },
+    {
+        "鋅基合金模　": "zinc alloy die"
+    },
+    {
+        "鋅合金壓鑄": "Zinc alloy die casting"
+    },
+    {
+        "鋅合金電鍍液": "zinc alloy electroplating solution"
+    },
+    {
+        "鋁酸鋅": "zinc aluminate"
+    },
+    {
+        "鋅渣": "zinc ash"
+    },
+    {
+        "鋅基合金": "zinc base alloy"
+    },
+    {
+        "鋅基軸承合金": "zinc base bearing metal"
+    },
+    {
+        "鋅基白合金": "zinc base white metal"
+    },
+    {
+        "鋅浴": "zinc bath"
+    },
+    {
+        "閃鋅礦": "zinc blende"
+    },
+    {
+        "氯化鋅": "zinc chloride"
+    },
+    {
+        "鋅鉻黃": "zinc chromate"
+    },
+    {
+        "鋅鉻黃": "zinc chrome"
+    },
+    {
+        "鍍鋅": "zinc coating"
+    },
+    {
+        "鍍鋅鋼板": "zinc coating steel plate"
+    },
+    {
+        "鋅錯合物": "zinc complex"
+    },
+    {
+        "鋅化合物": "zinc compound"
+    },
+    {
+        "鋅銅鎳合金；鋅白銅": "zinc copper nickel alloy"
+    },
+    {
+        "鋅模鑄": "zinc die casting"
+    },
+    {
+        "鋅渣": "zinc dross"
+    },
+    {
+        "鋅杜拉鋁": "zinc durolumin"
+    },
+    {
+        "鋅塵": "zinc dust"
+    },
+    {
+        "鋅當量": "zinc equivalent"
+    },
+    {
+        "矽氟化鋅": "zinc fluosilicate"
+    },
+    {
+        "鍍鋅": "zinc galvanizing"
+    },
+    {
+        "鋅綠": "zinc green"
+    },
+    {
+        "氫氧化鋅": "zinc hydroxide"
+    },
+    {
+        "碘化鋅": "zinc iodide"
+    },
+    {
+        "鋅離子": "zinc ion"
+    },
+    {
+        "鋅金屬粉": "zinc metal powder"
+    },
+    {
+        "氮化鋅": "zinc nitride"
+    },
+    {
+        "氧化鋅；鋅白": "zinc oxide"
+    },
+    {
+        "氧化鋅薄膜": "Zinc oxide film"
+    },
+    {
+        "氧化鋅粉末": "zinc oxide powder"
+    },
+    {
+        "氧化鋅靶": "zinc oxide target"
+    },
+    {
+        "氧化鋅薄膜": "zinc oxide thin film"
+    },
+    {
+        "含氧化鋅": "zinc oxide-containing"
+    },
+    {
+        "鋅漆": "zinc paint"
+    },
+    {
+        "過氧化鋅": "zinc peroxide"
+    },
+    {
+        "鋅磷酸鹽": "zinc phosphate"
+    },
+    {
+        "磷酸鋅處理": "zinc phosphate treated"
+    },
+    {
+        "鋅板": "zinc plate"
+    },
+    {
+        "鍍鋅系鋼板": "zinc plated steel sheet"
+    },
+    {
+        "鋅板": "zinc plating"
+    },
+    {
+        "鋅粉": "zinc powder"
+    },
+    {
+        "保護用鋅板": "zinc protector"
+    },
+    {
+        "鋅棒；鋅條": "zinc rod"
+    },
+    {
+        "硒化鋅": "zinc selenide"
+    },
+    {
+        "鋅片": "zinc sheet"
+    },
+    {
+        "矽酸鋅": "zinc silicate"
+    },
+    {
+        "矽酸鋅燒結": "zinc silicate sintering"
+    },
+    {
+        "鋅塊": "zinc slab"
+    },
+    {
+        "鋅銲劑": "zinc solder"
+    },
+    {
+        "鋅鑄塊": "zinc spelter"
+    },
+    {
+        "硫酸鋅": "zinc sulfate"
+    },
+    {
+        "硫化鋅": "zinc sulfide"
+    },
+    {
+        "硫酸鋅": "zinc sulphate"
+    },
+    {
+        "硫化鋅": "zinc sulphide"
+    },
+    {
+        "鈦酸鋅": "zinc titanate"
+    },
+    {
+        "鋅白；鋅華": "zinc white"
+    },
+    {
+        "鋅黃": "zinc yellow"
+    },
+    {
+        "鍍鋅鋼板": "zinc-coated steel sheet"
+    },
+    {
+        "鍍鋅鋼板": "zinciferous plated steel sheet"
+    },
+    {
+        "浸鋅": "zincing"
+    },
+    {
+        "紅心礦（ZnO)": "zincite"
+    },
+    {
+        "陽極": "zincode"
+    },
+    {
+        "鋅版": "zincograph"
+    },
+    {
+        "含鋅漆": "zincrich paint"
+    },
+    {
+        "輝鋅礦": "zinkenite"
+    },
+    {
+        "郵遞區號": "zip code"
+    },
+    {
+        "拉鏈緊固件": "zip fastener"
+    },
+    {
+        "高能燃料": "zip fuel"
+    },
+    {
+        "拉鏈": "zipper"
+    },
+    {
+        "拉鍊運動": "zipping motion"
+    },
+    {
+        "鋯合金": "zircalloy"
+    },
+    {
+        "鋯土": "zircon clay"
+    },
+    {
+        "鋯砂": "zircon sand"
+    },
+    {
+        "氧化鋯": "zirconia"
+    },
+    {
+        "氧化鋯鋁": "zirconia alumina"
+    },
+    {
+        "氧化鋯塗層": "zirconia coating"
+    },
+    {
+        "氧化鋯偶合": "zirconia coupling"
+    },
+    {
+        "氧化鋯先質": "zirconia precursor"
+    },
+    {
+        "氧化鋯管爐": "zirconia tube furnace"
+    },
+    {
+        "鋯合金": "zirconium alloy"
+    },
+    {
+        "二氧化鋯": "zirconium dioxide"
+    },
+    {
+        "氧化鋯氧分析儀器": "zirconium dioxide oxygen analyzer"
+    },
+    {
+        "氫化鋯": "Zirconium hydride"
+    },
+    {
+        "氮化鋯": "zirconium nitride"
+    },
+    {
+        "氧化鋯": "zirconium oxide"
+    },
+    {
+        "氧化鋯粉末": "zirconium oxide powder"
+    },
+    {
+        "磷酸鋯": "zirconium phosphate"
+    },
+    {
+        "矽酸鋯": "zirconium silicate"
+    },
+    {
+        "鈦酸鋯錫": "zirconium tin titanate"
+    },
+    {
+        "鋯": "zirconium{=Zr}"
+    },
+    {
+        "z 形鐵": "z-iron"
+    },
+    {
+        "鋅浴": "Zn bath"
+    },
+    {
+        "氧化鋅奈米線": "ZnO nanowire"
+    },
+    {
+        "氧化鋅粉末": "ZnO powder"
+    },
+    {
+        "氧化鋅薄膜": "ZnO thin film"
+    },
+    {
+        "硫化鋅粉": "ZnS powder"
+    },
+    {
+        "黃道": "Zodiac"
+    },
+    {
+        "黃道帶": "zodiacal band"
+    },
+    {
+        "黃道光": "zodiacal light"
+    },
+    {
+        "透明帶": "zona pellucida"
+    },
+    {
+        "緯流；緯向環流": "zonal flow"
+    },
+    {
+        "緯流指數": "zonal index"
+    },
+    {
+        "區帶轉頭": "zonal rotor"
+    },
+    {
+        "緯向風": "zonal wind"
+    },
+    {
+        "區；區域；帶；層": "zone"
+    },
+    {
+        "區間呼叫": "zone call"
+    },
+    {
+        "區域控制": "zone control"
+    },
+    {
+        "分區控風板": "zone damper"
+    },
+    {
+        "區段徵收": "Zone Expropriation"
+    },
+    {
+        "區域暖房": "zone heating"
+    },
+    {
+        "帶域熔化法": "zone melting"
+    },
+    {
+        "作用區": "zone of action"
+    },
+    {
+        "齧入區": "zone of approach"
+    },
+    {
+        "接觸區": "zone of contact"
+    },
+    {
+        "破裂區；破裂帶": "zone of fracture"
+    },
+    {
+        "熔合區；熔合帶": "zone of fusion"
+    },
+    {
+        "航道交錯區": "zone of interaction"
+    },
+    {
+        "嚙合區": "zone of meshing"
+    },
+    {
+        "齧出區": "zone of recess"
+    },
+    {
+        "拒收過程區": "zone of rejectable processes"
+    },
+    {
+        "靜音區": "zone of silence"
+    },
+    {
+        "信風帶": "zone of trade wind"
+    },
+    {
+        "變風帶": "zone of variable wind"
+    },
+    {
+        "區域艤裝": "zone outfitting"
+    },
+    {
+        "區域選擇設備": "zone selection unit{=ZSU}"
+    },
+    {
+        "區域系統分類": "zone system of classification"
+    },
+    {
+        "域靶": "zone target"
+    },
+    {
+        "區域強化玻璃": "zone tempered glass"
+    },
+    {
+        "區域時": "zone time"
+    },
+    {
+        "分段送風": "zoned air control"
+    },
+    {
+        "分區管制": "Zoning"
+    },
+    {
+        "攢升；圖像放大": "zoom"
+    },
+    {
+        "細化分析": "zoom analysis"
+    },
+    {
+        "變焦機構": "zoom mechanism"
+    },
+    {
+        "變焦立體判讀儀": "zoom stereo interpretoscope"
+    },
+    {
+        "變焦系統": "zoom system"
+    },
+    {
+        "克羅地亞無甲板漁船": "zopplolo"
+    },
+    {
+        "z 型推進": "z-peller propulsion"
+    },
+    {
+        "z 形搜索": "z-search"
+    },
+    {
+        "z 形斷面": "z-section"
+    },
+    {
+        "z 形鋼": "z-steel"
+    },
+    {
+        "右捻": "z-twist"
+    },
+    {
+        "z 型埋刮板輸送機": "z-type en masse conveyor"
+    },
+    {
+        "蘇格蘭帆裝漁船": "Zulu"
+    },
+    {
+        "巴西沿海帆船": "zumaca"
+    },
+    {
+        "兩性離子中性": "zwitterionic neutral"
+    },
+    {
+        "螢光探傷器": "zyglo"
+    },
+    {
+        "螢光探傷法": "zyglo inspection method"
+    },
+    {
+        "螢光滲透劑": "zyglo penetrant"
+    },
+    {
+        "螢光滲透探傷法": "zyglo penetrant method"
+    },
+    {
+        "α+β 鍛造；阿爾發+貝他鍛造": "α+β forging"
+    },
+    {
+        "α 肥粒鐵；阿爾發肥粒鐵": "α-ferrite"
+    },
+    {
+        "β 鍛造；貝他鍛造": "β forging"
+    },
+    {
+        "β 射線厚度計；貝他射線厚度計": "β radiation thickness meter"
+    },
+    {
+        "β 麻田散體；貝他麻田散體": "β-martensite"
+    },
+    {
+        "β 射線傳感器；貝他射線傳感器": "β-ray transducer"
+    },
+    {
+        "γ 射線厚度計；伽馬射線厚度計": "γ radiation thickness meter"
+    },
+    {
+        "γ 射線密度計；伽馬射線密度計": "γ-densitometer"
+    },
+    {
+        "δ 肥粒鐵；德他肥粒鐵": "δ-ferrite"
+    },
+    {
+        "ε 碳化物": "ε-carbide"
+    },
+    {
+        "λc 輪廊濾波器": "λc profile filter"
+    },
+    {
+        "λf 輪廊濾波器": "λf profile filter"
+    },
+    {
+        "λs 輪廊濾波器": "λs profile filter"
+    },
+    {
+        "π 弧度磁分析器": "π radian magnetic analyzer"
+    },
+    {
+        "σ 相脆性": "σ-embrittlement"
+    },
+    {
+        "χ  碳化物": "χ-carbide"
+    },
+    {
+        "Ω 管平臺": "Ω-tube platen"
+    },
+    {
+        "反輻射飛彈；反雷達飛彈": "anti-radar missile"
+    },
+    {
+        "電化學分析法": "electrochemical analysis method"
+    },
+    {
+        "前視紅外線": "forward-looking infra red{=FLIR}"
+    },
+    {
+        "夜間紅外線低空導航": "low altitude navigation by infrared at night"
+    },
+    {
+        "主凸輪": "main cam"
+    },
+    {
+        "最大速率操作": "maximum speed operating"
+    },
+    {
+        "介穩定": "meta stable"
+    },
+    {
+        "草穀比": "MOG-to-grain ratio {=MOG:G}"
+    },
+    {
+        "多層波紋管": "multi ply bellow"
+    },
+    {
+        "多層皮帶": "multi ply belt"
+    },
+    {
+        "多層合板": "multi ply plywood"
+    },
+    {
+        "多沖鎚鍛造": "multi ram forging"
+    },
+    {
+        "多沖鎚鍛模": "multi ram forging die"
+    },
+    {
+        "多螺旋": "multi screw"
+    },
+    {
+        "多溫組合式冷藏陳列櫃": "multi temperature combined refrigerated display cabinet"
+    },
+    {
+        "複螺紋蝸桿": "multi thread worm"
+    },
+    {
+        "多重軌跡分析顯示器": "multi trace analysis display{=MTAD}"
+    },
+    {
+        "多火管鍋爐": "multi tubular boiler"
+    },
+    {
+        "多腳型基礎": "multileg type foundation"
+    },
+    {
+        "多輸入多輸出": "multiple input multiple output{=MIMO}"
+    },
+    {
+        "綜合窗口": "multiservice counter"
+    },
+    {
+        "窄頻帶直接列印": "narrow band direct printing{=NBDP}"
+    },
+    {
+        "鎳鉻／鎳鋁合金熱電偶": "nickel-chromium alloy/nickel-aluminum alloy thermocouple"
+    },
+    {
+        "無延展性轉變": "nil ductility transition{=NDT}"
+    },
+    {
+        "訂位未到旅客": "no show"
+    },
+    {
+        "非使用者更換式光源": "non user replaceable light source"
+    },
+    {
+        "非接觸空氣量規": "non-contact air gage"
+    },
+    {
+        "非侵蝕助熔劑": "noncorrosive flux"
+    },
+    {
+        "非雷達傳送": "non-radar transfer{=NRT}"
+    },
+    {
+        "止回閥": "nonreturn valve{=NRV}"
+    },
+    {
+        "未完成戰備": "not-operational ready{=NOR}"
+    },
+    {
+        "核生化": "nuclear-biological-chemical{=NBC}"
+    },
+    {
+        "三分之一倍頻帶濾波器": "one-third octave band filter"
+    },
+    {
+        "存取機；疊取機；S/R 機": "S/R machine"
+    },
+    {
+        "夜間紅外線尋標": "targeting by infrared at night"
+    },
+    {
+        "燃盡風噴嘴；燃盡空氣噴嘴": "overfire air nozzle"
+    },
+    {
+        "燃盡風；燃盡空氣": "overfire air{=OFA}"
+    },
+    {
+        "掛梁架空起重機": "overhead crane with carrier beam"
+    },
+    {
+        "防爆架空起重機": "overhead explosion proof crane"
+    },
+    {
+        "旋臂載人吊運車架空移動起重機": "overhead travelling crane with slewing man trolley"
+    },
+    {
+        "架空型起重機": "overhead type crane"
+    },
+    {
+        "置頂氣門發動機；置頂氣門引擎": "overhead valve engine"
+    },
+    {
+        "搭疊式烘板": "overlapping drying plate"
+    },
+    {
+        "跨線橋；天橋": "overline bridge"
+    },
+    {
+        "過載釋放離合器": "overload release clutch"
+    },
+    {
+        "過載／欠載指示器": "overload/underload indicator"
+    },
+    {
+        "機械過載": "mechanical overloading"
+    },
+    {
+        "超尺寸貨物": "oversize goods"
+    },
+    {
+        "超支": "overspending"
+    },
+    {
+        "高架車站": "overtrack station"
+    },
+    {
+        "本船噪音": "own ship noise"
+    },
+    {
+        "牛車": "oxcart"
+    },
+    {
+        "氧化物磁石": "oxide magnet"
+    },
+    {
+        "氧乙炔": "oxyacetylene"
+    },
+    {
+        "氧乙炔燃燒器": "oxyacetylene burner"
+    },
+    {
+        "氧乙炔切割": "oxyacetylene cutting"
+    },
+    {
+        "氧乙炔切割設備": "oxyacetylene cutting equipment"
+    },
+    {
+        "氧乙炔切割機": "oxyacetylene cutting machine"
+    },
+    {
+        "氧乙炔焰": "oxyacetylene flame"
+    },
+    {
+        "氧乙炔軟管": "oxyacetylene hose"
+    },
+    {
+        "氫氧切割": "oxyhydrogen cutting"
+    },
+    {
+        "氫氧焰": "oxyhydrogen flame"
+    },
+    {
+        "氧氣天然氣切割": "oxy-natural-gas cutting"
+    },
+    {
+        "整體式空氣調節機組": "packaged air conditioning unit"
+    },
+    {
+        "明輪殼": "paddle wheel box"
+    },
+    {
+        "水田驅動耙": "paddy field driving harrow"
+    },
+    {
+        "來令片組": "pad set"
+    },
+    {
+        "噴漆鎗": "paint spray gun"
+    },
+    {
+        "噴漆機": "paint spraying machine"
+    },
+    {
+        "成對鑄造": "pair block casting"
+    },
+    {
+        "托板貨輪": "palletized cargo carrier"
+    },
+    {
+        "托盤堆垛車": "pallet stacking truck"
+    },
+    {
+        "托盤型輸送機": "pallet type conveyor"
+    },
+    {
+        "心土犁；中心土壤犁": "pan breaker"
+    },
+    {
+        "造紙機械": "paper manufacturing machinery"
+    },
+    {
+        "拋物面反射器麥克風": "parabolic reflector microphone"
+    },
+    {
+        "平行菱形翼形": "parallel double wedge airfoil"
+    },
+    {
+        "平行快速傅立葉轉換": "parallel fast Fourier transform{=PFFT}"
+    },
+    {
+        "並流噴水冷凝器": "parallel current jet condenser"
+    },
+    {
+        "平口虎鉗": "parallel jaw vice"
+    },
+    {
+        "平行航向方形（直升機飛行訓練）": "parallel leading square"
+    },
+    {
+        "平行四連桿型鬆土器": "parallelogram type ripper"
+    },
+    {
+        "平行板致動器": "parallel plate actuator"
+    },
+    {
+        "平行板冷凝器": "parallel plate condenser"
+    },
+    {
+        "參數化起飛數": "parametric takeoff number"
+    },
+    {
+        "停放飛機保全系統": "parked aircraft security system{=PASS}"
+    },
+    {
+        "局部空調機組": "partial air conditioning unit"
+    },
+    {
+        "部分進汽": "partial arc admission"
+    },
+    {
+        "部分進汽度": "partial arc admission degree"
+    },
+    {
+        "部分流取樣法": "partial flow sampling"
+    },
+    {
+        "部分流式煙度計": "partial flow smokemeter"
+    },
+    {
+        "部分車載充電器；部分機載充電器": "partially onboard charger"
+    },
+    {
+        "部分儀表飛行": "partial panel flight"
+    },
+    {
+        "部分壓力服": "partial pressure suit"
+    },
+    {
+        "部分油門後燃": "part throttle reheat"
+    },
+    {
+        "部分單元作業": "part unit operation"
+    },
+    {
+        "客貨電梯": "passenger goods lift"
+    },
+    {
+        "乘客公里": "passenger-kilometer"
+    },
+    {
+        "軋輥；環槽": "pass groove"
+    },
+    {
+        "被動車身傾斜系統": "passive body tilting system"
+    },
+    {
+        "被動 Q 開關": "passive Q switch"
+    },
+    {
+        "被動導引飛彈": "passive guide missile"
+    },
+    {
+        "跨越偏移量": "passover offset"
+    },
+    {
+        "探路機空投區管制": "pathfinder drop zone control{=PDZC}"
+    },
+    {
+        "小旋塞": "pea cock"
+    },
+    {
+        "峰值聚合": "peak polymerization"
+    },
+    {
+        "尖峰負載額定輸出": "peak load rated output"
+    },
+    {
+        "尖峰電力削峰服務": "peak power shaving service"
+    },
+    {
+        "削峰作業": "peak shaving operation"
+    },
+    {
+        "波來體可鍛鑄鐵": "pearlite malleable iron"
+    },
+    {
+        "行人穿越道標誌": "pedestrian-crossing marking"
+    },
+    {
+        "齒桿耙": "peg tooth harrow"
+    }
+]

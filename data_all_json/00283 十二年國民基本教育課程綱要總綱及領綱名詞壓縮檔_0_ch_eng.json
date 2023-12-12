@@ -1,0 +1,344 @@
+[
+    {
+        "高級中等學校": "senior high school (學校名稱用);upper secondary school (學制層級)"
+    },
+    {
+        "普通型高級中等學校": "general high school (學校名稱用);general senior high school (學制層級)"
+    },
+    {
+        "技術型高級中等學校": "vocational high school (學校名稱用);vocational senior high school (學制層級)"
+    },
+    {
+        "綜合型高級中等學校": "comprehensive high school (學校名稱用);comprehensive senior high school (學制層級)"
+    },
+    {
+        "單科型高級中等學校(體育、藝術、科學、外文)": "specialized high school (學校名稱用);specialized senior high school (學制層級)"
+    },
+    {
+        "彈性學習課程": "alternative curriculum"
+    },
+    {
+        "彈性學習時間": "alternative learning period"
+    },
+    {
+        "主題/專題/議題探究": "theme/project/issue-based inquiry"
+    },
+    {
+        "課程架構": "curriculum framework"
+    },
+    {
+        "課程規劃": "curriculum planning"
+    },
+    {
+        "部定必修": "MOE-required courses"
+    },
+    {
+        "類、群、科": "category, cluster, department"
+    },
+    {
+        "授課年段": "course arrangement by year"
+    },
+    {
+        "授課年段與學分配置": "course arrangement by year and credit allocation"
+    },
+    {
+        "實習課/實作課": "hands-on course"
+    },
+    {
+        "專精科目": "specialized subject"
+    },
+    {
+        "專業科目": "vocational subject"
+    },
+    {
+        "學習": "learning;study"
+    },
+    {
+        "校訂必修": "school-developed required course"
+    },
+    {
+        "學校本位課程": "school-specific course"
+    },
+    {
+        "技藝課程": "vocational curriculum;vocational course"
+    },
+    {
+        "自主學習": "self-directed learning"
+    },
+    {
+        "自治活動": "student-directed activities"
+    },
+    {
+        "充實（增廣）課程": "enrichment program"
+    },
+    {
+        "開設": "offer"
+    },
+    {
+        "分科教學": "subject-specific teaching"
+    },
+    {
+        "服務學習": "service learning"
+    },
+    {
+        "英語文以外之第二外國語文課程": "second foreign language other than English"
+    },
+    {
+        "原住民族地區及原住民重點學校": "schools in indigenous areas and schools with special indigenous focus"
+    },
+    {
+        "群課程研究會": "subject-group curriculum research committee"
+    },
+    {
+        "專題實作": "project-based practical course"
+    },
+    {
+        "中華文化基本教材": "Fundamental Readings in Chinese Culture"
+    },
+    {
+        "藝術才能班": "art talent class"
+    },
+    {
+        "體育班": "sport talent class"
+    },
+    {
+        "性向及興趣測驗": "aptitude and interest test"
+    },
+    {
+        "學習歷程檔案": "academic portfolio"
+    },
+    {
+        "依群之屬性實施分組教學": "ability-grouping teaching"
+    },
+    {
+        "教學目標": "teaching objectives"
+    },
+    {
+        "學術學程": "academic program"
+    },
+    {
+        "課程之“邏輯性”": "logical sequence"
+    },
+    {
+        "獨立研究": "independent study"
+    },
+    {
+        "情意發展": "affective development"
+    },
+    {
+        "家長期望": "parental expectations"
+    },
+    {
+        "學習成果": "learning outcomes"
+    },
+    {
+        "年度課程計畫備查及校務評鑑": "annual curriculum plan filing and school evaluation"
+    },
+    {
+        "學術團體": "academic organization"
+    },
+    {
+        "主管機關": "competent authority"
+    },
+    {
+        "教學節數": "teaching sessions"
+    },
+    {
+        "學習重點": "learning focus"
+    },
+    {
+        "特殊需求領域課程": "course(s) in the special needs domain"
+    },
+    {
+        "學校特色活動": "school-distinctive event"
+    },
+    {
+        "技能領域": "skill domain"
+    },
+    {
+        "教學研究會": "teaching and research committee"
+    },
+    {
+        "分流選修": "differentiated elective courses;differentially tracked elective courses"
+    },
+    {
+        "合作課程": "joint course"
+    },
+    {
+        "課程手冊": "course handbook"
+    },
+    {
+        "核心素養": "core competency/competencies"
+    },
+    {
+        "領域學習課程": "domain-specific curriculum"
+    },
+    {
+        "三大面向與九大項目": "Three Dimensions and Nine Items of Core Competencies"
+    },
+    {
+        "閩南語": "Minnan (language)"
+    },
+    {
+        "跨領域、跨學科": "cross-curricular"
+    },
+    {
+        "適性揚才": "nurture by nature"
+    },
+    {
+        "啟發生命潛能": "inspiring students to unleash their full potential"
+    },
+    {
+        "新住民語文": "native languages of new immigrants"
+    },
+    {
+        "部定課程": "MOE-mandated curriculum"
+    },
+    {
+        "部定必修課程": "MOE-mandated courses"
+    },
+    {
+        "語文表達與傳播應用": "Expression & Communication in Mandarin Chinese"
+    },
+    {
+        "各類文學選讀": "Windows on Literature"
+    },
+    {
+        "專題閱讀與研究": "Topical Readings and Studies"
+    },
+    {
+        "英語聽講": "English Listening and Speaking"
+    },
+    {
+        "英文閱讀與寫作": "English Reading and Writing"
+    },
+    {
+        "英文作文": "English Composition"
+    },
+    {
+        "第二外國語文": "Second Foreign Language"
+    },
+    {
+        "選修數學甲": "Math Enrichment I (Elective)"
+    },
+    {
+        "選修數學乙": "Math Enrichment II (Elective)"
+    },
+    {
+        "(歷史)族群、性別與國家的歷史": "History of Ethnicity, Gender and Nation"
+    },
+    {
+        "(歷史)科技、環境與藝術的歷史": "History of Technology, Environment and Art"
+    },
+    {
+        "(地理)空間資訊科技": "Geospatial Information Technology"
+    },
+    {
+        "(地理)社會環境議題": "Global Social- Environmental Issues"
+    },
+    {
+        "(公民與社會)現代社會與經濟": "Modern Society and Economy"
+    },
+    {
+        "(公民與社會)民主政治與法律": "Democratic Politics and Law"
+    },
+    {
+        "探究與實作：歷史學探究": "Inquiry and Practice: Historical Inquiry"
+    },
+    {
+        "探究與實作：地理與人文社會科學研究": "Inquiry and Practice: Geographic Perspectives in the Humanities and Social Sciences"
+    },
+    {
+        "探究與實作：公共議題與社會探究": "Inquiry and Practice: Public Issues and Social Inquiry"
+    },
+    {
+        "(選修物理)力學一": "Mechanics I"
+    },
+    {
+        "(選修物理)力學二與熱學": "Mechanics II and Thermal Physics"
+    },
+    {
+        "(選修物理)波動、光及聲音": "Waves, Sound and Light"
+    },
+    {
+        "(選修物理)電磁現象一": "Electromagnetic Phenomena I"
+    },
+    {
+        "(選修物理)電磁現象二與量子現象": "Electromagnetic Phenomena II and Quantum Phenomena"
+    },
+    {
+        "(選修化學)物質與能量": "Matter and Energy"
+    },
+    {
+        "(選修化學)物質構造與反應速率": "Chemical Structure and Kinetics"
+    },
+    {
+        "(選修化學)化學反應與平衡一": "Chemical Reaction and Equilibrium I"
+    },
+    {
+        "(選修化學)化學反應與平衡二": "Chemical Reaction and Equilibrium II"
+    },
+    {
+        "(選修化學)有機化學與應用科技": "Organic Chemistry and Applications"
+    },
+    {
+        "(選修生物)細胞與遺傳": "Cell and Genetics"
+    },
+    {
+        "(選修生物)生命的起源與植物體的構造與功能": "Origin of Life, and Plant Structure & Function"
+    },
+    {
+        "(選修生物)動物體的構造與功能": "Animal Structure & Function"
+    },
+    {
+        "(選修生物)生態、演化及生物多樣性": "Ecology, Evolution and Biodiversity"
+    },
+    {
+        "(選修地球科學)地質與環境": "Geology and the Environment"
+    },
+    {
+        "(選修地球科學)大氣、海洋及天文": "Atmosphere, Ocean and Astronomy"
+    },
+    {
+        "表演創作": "Performance Creation"
+    },
+    {
+        "多媒體音樂": "Multimedia Music"
+    },
+    {
+        "基本設計": "Basic Design"
+    },
+    {
+        "新媒體藝術": "New Media Art"
+    },
+    {
+        "思考：智慧的啟航": "Thinking: The Beginning of Wisdom"
+    },
+    {
+        "未來想像與生涯進路": "Future Imagination and Career Path"
+    },
+    {
+        "創新生活與家庭": "Innovative Life and Family"
+    },
+    {
+        "進階程式設計": "Advanced Programming"
+    },
+    {
+        "工程設計專題": "Engineering Design Project"
+    },
+    {
+        "機器人專題": "Robotics Project"
+    },
+    {
+        "科技應用專題": "Applied Technology Project"
+    },
+    {
+        "安全教育與傷害防護": "Safety Education and Injury Prevention"
+    },
+    {
+        "運動與健康": "Exercise and Health"
+    },
+    {
+        "健康與休閒生活": "Health and Leisure"
+    }
+]
