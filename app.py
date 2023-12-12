@@ -1,9 +1,12 @@
 from flask import Flask, request, render_template
 import jieba
 import io
+import os
 import requests, uuid, json
 
 app = Flask(__name__)
+
+folder_path = 'data_all_json'
 
 # 主頁路由
 @app.route('/')
@@ -29,7 +32,7 @@ def translate_zh_en_route():
 
         user_input = ','.join(numbers)
         documents = [sentence]
-        result = translate_zh_en(documents, user_input)
+        result = translate_zh_en(documents, user_input, folder_path)
 
     return render_template('translate_zh_en.html', result=result, sentence=sentence, numbers=','.join(numbers))
 
@@ -48,16 +51,29 @@ def translate_en_zh_route():
 
         user_input = ','.join(numbers)
         documents = [sentence]
-        result = translate_en_zh(documents, user_input)
+        result = translate_en_zh(documents, user_input, folder_path)
 
     return render_template('translate_en_zh.html', result=result, sentence=sentence, numbers=','.join(numbers))
 
+
+
 # 中翻英的功能實現
-def translate_zh_en(documents, user_input):
-    ###### all_list 是所有樂詞網上面的資料
-    # 从名为 'data_all.json' 的文件中读取数据
-    with open('data_all.json', 'r', encoding='utf-8') as file:
-        all_lists = json.load(file)
+def translate_zh_en(documents, user_input, folder_path):
+    # Split user input into file names
+    file_names = [name.strip() for name in user_input.split(',')]
+
+    # Create a dictionary to store the contents of all files
+    all_lists = {}
+
+    # Read the specified files from the 'data_all_json' folder
+    for file_name in file_names:
+        file_path = os.path.join(folder_path, file_name + '.json')
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as file:
+                # Store the file's dictionaries in all_lists with the file name as key
+                all_lists[file_name] = json.load(file)
+        else:
+            print(f"File '{file_name}' does not exist.")
 
     # 提示用户输入
     user_input = user_input
@@ -79,7 +95,7 @@ def translate_zh_en(documents, user_input):
 
     # 打印合并后的列表
     # print("合并后的列表：")
-    # print(merged_list)
+    print(merged_list)
 
 
     ###### ch_eng是最後用來判斷的list，也就是之前最後的merged_list
@@ -153,39 +169,28 @@ def translate_zh_en(documents, user_input):
     return translated_text
 
 # 英翻中的功能實現
-def translate_en_zh(documents, user_input):
-    ###### all_list 是所有樂詞網上面的資料
-    # 从名为 'data_all.json' 的文件中读取数据
-    with open('data_all.json', 'r', encoding='utf-8') as file:
-        all_lists = json.load(file)
+def translate_en_zh(documents, user_input, folder_path):
+    # Split user input into file names
+    file_names = [name.strip() for name in user_input.split(',')]
 
-    # 提示用户输入
-    user_input = user_input
+    # Create a dictionary to store the contents of all files
+    all_lists = {}
 
-    # 分割用户输入的字符串，获取键名列表
-    selected_keys = [key.strip() for key in user_input.split(',')]
-
-    # 新建一个列表来存储合并后的结果
-    merged_list = []
-
-    # 检查并打印用户选择的元素，并将它们添加到合并列表中
-    for key in selected_keys:
-        if key in all_lists:
-            print(f"键 '{key}'")
-            # print(f"键 '{key}': {all_lists[key]}")
-            merged_list.extend(all_lists[key])  # 将选中的元素添加到合并列表中
+    # Read the specified files from the 'data_all_json' folder
+    for file_name in file_names:
+        file_path = os.path.join(folder_path, file_name + '.json')
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as file:
+                # Store the file's dictionaries in all_lists with the file name as key
+                all_lists[file_name] = json.load(file)
         else:
-            print(f"键名 '{key}' 不存在。")
+            print(f"File '{file_name}' does not exist.")
 
-    # 打印合并后的列表
-    # print("合并后的列表：")
-    # print(merged_list)
+    # Merge the dictionaries from all files into a single list
+    ch_eng = [entry for sublist in all_lists.values() for entry in sublist]
 
-
-    ###### ch_eng是最後用來判斷的list，也就是之前最後的merged_list
-    ch_eng = merged_list
-    # ch_eng = [{"含氮雜環": "nitrogen containing heterocyclic"}, {"手術": "surgery"}]
-    for entry in merged_list:
+    # Replace English terms in the document with their Chinese equivalents
+    for entry in ch_eng:
         for key, value in entry.items():
             documents[0] = documents[0].replace(value, key)
 
