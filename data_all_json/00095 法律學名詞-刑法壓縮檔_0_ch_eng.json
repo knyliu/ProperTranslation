@@ -1,0 +1,935 @@
+[
+    {
+        "罪刑法定原則／罪刑法定主義": "Principle of legality"
+    },
+    {
+        "類推禁止": "Prohibition of analogy (of law)"
+    },
+    {
+        "溯及禁止／溯及既往禁止": "Prohibition of retroactive law／Prohibition of ex post facto law"
+    },
+    {
+        "明確性要求": "Principle of clarity／Vagueness doctrine"
+    },
+    {
+        "習慣法禁止": "Prohibition of customary law"
+    },
+    {
+        "限時法": "Temporary law"
+    },
+    {
+        "得罰性；應罰性": "Worthiness of punishment"
+    },
+    {
+        "需罰性": "Necessity of punishment"
+    },
+    {
+        "構成要件該當性": "Fulfillment of the legal element"
+    },
+    {
+        "違法性": "Unlawfulness"
+    },
+    {
+        "罪責／有責性": "Culpability"
+    },
+    {
+        "行為": "Act"
+    },
+    {
+        "作為": "Affirmative act"
+    },
+    {
+        "不作為": "Omission"
+    },
+    {
+        "因果關係": "Causation"
+    },
+    {
+        "行為犯；舉動犯": "Non-result constituted offense"
+    },
+    {
+        "結果犯": "Result-constituted offense"
+    },
+    {
+        "法益": "Legal interest"
+    },
+    {
+        "基本構成要件": "Basic legal element"
+    },
+    {
+        "加重構成要件": "Aggravated legal element"
+    },
+    {
+        "減輕構成要件": "Mitigative legal element"
+    },
+    {
+        "客觀處罰條件；客觀可罰性條件": "Objective condition for punishment"
+    },
+    {
+        "規範性構成要件要素": "Normative legal element"
+    },
+    {
+        "描述性構成要件要素": "Descriptive legal element"
+    },
+    {
+        "客觀構成要件": "Objective legal element"
+    },
+    {
+        "主觀構成要件": "Subjective legal element"
+    },
+    {
+        "成文的構成要件要素": "Statutory legal element"
+    },
+    {
+        "不成文的構成要件要素": "Non-statutory legal element"
+    },
+    {
+        "作為犯": "Criminal offense committed by affirmative act"
+    },
+    {
+        "故意犯": "Criminal offense committed by intent"
+    },
+    {
+        "過失犯": "Criminal offense committed by negligence"
+    },
+    {
+        "實害犯": "Crimes constituted by violation of legal interests"
+    },
+    {
+        "危險犯": "Crimes constituted by endangerment of legal interests"
+    },
+    {
+        "具體危險犯": "Crimes constituted by concrete endangerment of legal interests"
+    },
+    {
+        "抽象危險犯": "Crimes constituted by abstract endangerment of legal interests"
+    },
+    {
+        "身分犯；特別犯": "Status offense"
+    },
+    {
+        "不純正身分犯": "Non-genuine status offense"
+    },
+    {
+        "純正身分犯": "Genuine status offense"
+    },
+    {
+        "己手犯；親手犯": "Crimes committed with one's own hand"
+    },
+    {
+        "故意": "Intent"
+    },
+    {
+        "意圖": "Purpose"
+    },
+    {
+        "錯誤": "Mistake"
+    },
+    {
+        "客體錯誤": "Mistake as to the identity of the victim or object"
+    },
+    {
+        "容許規範": "Justification"
+    },
+    {
+        "阻卻違法要件": "Element of legal justification"
+    },
+    {
+        "阻卻違法事由": "Ground of legal justification"
+    },
+    {
+        "正當防衛": "Self-defense, defense of others, defense of property"
+    },
+    {
+        "罪責原則": "Principle of culpability"
+    },
+    {
+        "意志自由": "Free will"
+    },
+    {
+        "可非難性": "Blameworthiness"
+    },
+    {
+        "責任能力": "Responsibility／Capacity"
+    },
+    {
+        "無責任能力": "Lack of criminal capacity／Lack of criminal responsibility"
+    },
+    {
+        "少年": "Juvenile"
+    },
+    {
+        "不法意識；違法性認識；不法認識": "Appreciation of wrongfulness"
+    },
+    {
+        "文書": "Document"
+    },
+    {
+        "偽造文書": "Forgery of documents"
+    },
+    {
+        "偽造貨幣": "Counterfeiting of money"
+    },
+    {
+        "虛偽證言": "False statement"
+    },
+    {
+        "誣告": "Casting false suspicion / Malicious accusation"
+    },
+    {
+        "縱放人犯": "Facilitating escape of prisoners"
+    },
+    {
+        "謊稱犯罪": "Misleading authorities about commission of offence"
+    },
+    {
+        "行使偽造貨幣": "Putting counterfeit money into circulation"
+    },
+    {
+        "脫逃": "Escape"
+    },
+    {
+        "湮滅證據": "Destruction of evidence"
+    },
+    {
+        "製作不真正文書": "Making a counterfeit documemt"
+    },
+    {
+        "變造真正文書": "Alteration of genuine document"
+    },
+    {
+        "未經宣誓之虛偽陳述": "False unsworn statement"
+    },
+    {
+        "偽證": "Perjury"
+    },
+    {
+        "緊急狀態下之陳述": "Statement made under duress"
+    },
+    {
+        "使人為虛偽陳述": "Subornation of false statement"
+    },
+    {
+        "更正虛偽之陳述": " Correction of false statement"
+    },
+    {
+        "偽造機器紀錄": "Forgery of technical records"
+    },
+    {
+        "偽造具證據重要性之電磁紀錄": "Forgery of data of probative value"
+    },
+    {
+        "贓物罪": "Handling stolen goods"
+    },
+    {
+        "包庇犯罪所得利益": "Aiding after the fact and harboring criminal proceeds"
+    },
+    {
+        "電磁紀錄贓物罪": "Handling stolen data"
+    },
+    {
+        "電磁紀錄": "Data"
+    },
+    {
+        "後續犯罪/後行犯": "Affiliate offense"
+    },
+    {
+        "準贓物": "Conversion of stolen goods"
+    },
+    {
+        "內亂": "Sedition /Insurrection"
+    },
+    {
+        "外患": "Treason"
+    },
+    {
+        "洩漏國家機密": "Divulging state secrets"
+    },
+    {
+        "刺探國家機密": "Spying out state secrets"
+    },
+    {
+        "侵害友邦元首與外國代表": "Attack against head of state and representative of a foreign state"
+    },
+    {
+        "損害外國國旗與國章": "Desecration of flags and state symbols of foreign states"
+    },
+    {
+        "瀆職罪": "Offenses committed in public office"
+    },
+    {
+        "違背職務受賄": "Taking bribes"
+    },
+    {
+        "關於職務受賄": " Accepting benefits"
+    },
+    {
+        "違背職務行賄": "Giving bribes"
+    },
+    {
+        "關於職務行賄": "Granting benefits"
+    },
+    {
+        "枉法裁判": "Judicial perversion of justice"
+    },
+    {
+        "濫權追訴": "Prosecution of innocent persons /Abuse of prosecutorial discretion"
+    },
+    {
+        "違法行刑": "Enforcement against innocent persons"
+    },
+    {
+        "妨害公務": "Resistance to enforcement officers / Obstruction of public affairs"
+    },
+    {
+        "妨害投票": "Disruption of electoral process"
+    },
+    {
+        "妨害投票結果正確": "Fraud in connection with elections"
+    },
+    {
+        "妨害投票秘密": "Violation of ballot secrecy"
+    },
+    {
+        "賄選": "Vote buying"
+    },
+    {
+        "性自主": "Sexual autonomy"
+    },
+    {
+        "性自主決定能力": "Capacity to sexual autonomy"
+    },
+    {
+        "性客體": "Sexual object"
+    },
+    {
+        "性騷擾": "Sexual harassment"
+    },
+    {
+        "性交": "Sexual  intercourse"
+    },
+    {
+        "風化犯罪": "Offenses against public morals"
+    },
+    {
+        "妨害性自主罪": "Offenses against sexual autonomy"
+    },
+    {
+        "性侵": "Sexual assaults"
+    },
+    {
+        "制度性依賴關係": "Institutional dependency"
+    },
+    {
+        "地位的濫用": "Abuse of status"
+    },
+    {
+        "猥褻行為": "Obscene acts"
+    },
+    {
+        "性的行為": "Sexual conducts"
+    },
+    {
+        "強制性交": "Rape"
+    },
+    {
+        "性強制": "Sexual coercion"
+    },
+    {
+        "強制猥褻": "Obscenity by coercion"
+    },
+    {
+        "未來的惡害": "Future harm"
+    },
+    {
+        "現時的施加惡害": "Imminent harm"
+    },
+    {
+        "可感受到的惡害": "Perceivable harm"
+    },
+    {
+        "拘禁": "False imprisonment"
+    },
+    {
+        "精神上的強制": "Psychological coercion"
+    },
+    {
+        "物理上的強制": "Physical coercion"
+    },
+    {
+        "絕對強制": "vis absoluta"
+    },
+    {
+        "相對強制": "vis compulsiva"
+    },
+    {
+        "行動自由": "Freedom of movement"
+    },
+    {
+        "強制罪": "Coercion"
+    },
+    {
+        "強暴": "Violent act"
+    },
+    {
+        "脅迫": "Threat"
+    },
+    {
+        "人口販運": "Human trafficking"
+    },
+    {
+        "妨害自由罪": "Offense against personal liberty"
+    },
+    {
+        "恐嚇": "Intimidation"
+    },
+    {
+        "侵入住居": "Criminal trespass"
+    },
+    {
+        "名譽": "Reputation"
+    },
+    {
+        "侮辱": "Insult"
+    },
+    {
+        "誹謗": "Defamation"
+    },
+    {
+        "惡意中傷/詆毀": "Grossly insulting"
+    },
+    {
+        "危害信用": "Endangering credit"
+    },
+    {
+        "私密領域": "Intimate sphere "
+    },
+    {
+        "秘密領域": "Private sphere/Secret sphere"
+    },
+    {
+        "談話秘密": "Privacy of the spoken words/Secret conversation"
+    },
+    {
+        "信件秘密": "Secrecy of correspondence"
+    },
+    {
+        "刑法適用法": "Application of criminal law"
+    },
+    {
+        "國際刑事司法互助": "Mutual assistance in criminal matters"
+    },
+    {
+        "屬地原則": "Territorial principle/ Territorial applicability"
+    },
+    {
+        "積極屬人原則／積極屬人主義": "Active nationality principle"
+    },
+    {
+        "消極屬人原則／消極屬人主義": "Passive nationality principle"
+    },
+    {
+        "世界法原則": "Universality principle"
+    },
+    {
+        "保護原則": "Protective principle"
+    },
+    {
+        "民事不法": "Civil wrong/ Illegality under civil law"
+    },
+    {
+        "刑事不法": "Offense/ Illegality under criminal law"
+    },
+    {
+        "行政不法": "Illegality under administrative law/ Administrative illegality"
+    },
+    {
+        "結果不法": "Illegality attributed to the consequence of an act"
+    },
+    {
+        "行為不法": "Illegality attributed to the act"
+    },
+    {
+        "可罰性": "Culpability/ Criminal liability"
+    },
+    {
+        "實害結果": "Harm"
+    },
+    {
+        "危險結果": "Danger"
+    },
+    {
+        "加重結果": "Aggravated result/ Extended result"
+    },
+    {
+        "客觀歸責": "Objective attribution/ Objective imputation"
+    },
+    {
+        "條件理論": "But-for theory/ But-for causation"
+    },
+    {
+        "等價理論": "Theory of equivalent consideration"
+    },
+    {
+        "相當理論": "Theory of adequate causation/ Theory of probable result"
+    },
+    {
+        "構成要件": "Element of an offense"
+    },
+    {
+        "變體構成要件": "Variant element of an offense"
+    },
+    {
+        "空白構成要件": "Blank element of an offense"
+    },
+    {
+        "空白刑法": "Blank criminal law"
+    },
+    {
+        "不作為犯": "Crime by omission"
+    },
+    {
+        "純正不作為犯": "Crime by genuine omission"
+    },
+    {
+        "不純正不作為犯": "Crime by ingenuine omission"
+    },
+    {
+        "結果加重犯／加重結果犯": "Criminal offense with aggravated result"
+    },
+    {
+        "狀態犯": "Instant offense"
+    },
+    {
+        "繼續犯": "Continuing offense"
+    },
+    {
+        "多行為犯": "Multi-act offense"
+    },
+    {
+        "雙行為犯": "Dual-act offense"
+    },
+    {
+        "行為非價": "Worthlessness attributed to the act"
+    },
+    {
+        "結果非價": "Worthlessness attributed to the consequence of an act"
+    },
+    {
+        "良知非價": "Worthlessness attributed to the conscience"
+    },
+    {
+        "重罪": "Felony/ Serious offense"
+    },
+    {
+        "輕罪": "Misdemeanor / Minor offense"
+    },
+    {
+        "適格犯": "Crime constituted by adequate endangerment of legal interests"
+    },
+    {
+        "一般犯": "Crime that can be committed by anyone"
+    },
+    {
+        "告訴乃論之罪": "Offense which may only be prosecuted upon request"
+    },
+    {
+        "國際刑法": "International criminal law"
+    },
+    {
+        "負面構成要件要素理論": "Theory of negative elements of an offense"
+    },
+    {
+        "刑事追訴條件": "Prerequisite to prosecution"
+    },
+    {
+        "刑事追訴障礙": "Obstacle to prosecution"
+    },
+    {
+        "訴訟要件": "Prerequisite to trial"
+    },
+    {
+        "刑事告訴": "Criminal complaint"
+    },
+    {
+        "條件公式": "But-for test"
+    },
+    {
+        "擇一因果關係": "Alternative causation"
+    },
+    {
+        "累積因果關係": "Accumulative causation"
+    },
+    {
+        "超越的因果關係": "Intervening cause"
+    },
+    {
+        "合乎法則條件理論": "Causation based on natural law"
+    },
+    {
+        "容許風險": "Permitted risk"
+    },
+    {
+        "自我損害": "Self-infliction"
+    },
+    {
+        "自陷危險": "Self-endangerment"
+    },
+    {
+        "自我負責原則": "Doctrine of self-responsibility"
+    },
+    {
+        "降低風險": "Risk reduction"
+    },
+    {
+        "風險升高理論": "Theory of risk aggravation"
+    },
+    {
+        "打擊錯誤": "Aberratio ictus(拉丁文)"
+    },
+    {
+        "因果歷程錯誤": "Mistake in the chain of causation"
+    },
+    {
+        "容許構成要件": "Element of justification"
+    },
+    {
+        "超法規阻卻違法事由": "Non-statutory justification"
+    },
+    {
+        "緊急避難": "Necessity"
+    },
+    {
+        "阻卻違法的緊急避難": "Necessity as justification"
+    },
+    {
+        "減免罪責的緊急避難": "Necessity as excuse"
+    },
+    {
+        "法益權衡理論": "Balancing test for legal interests"
+    },
+    {
+        "利益權衡理論": "Balancing test for interests"
+    },
+    {
+        "攻擊性緊急避難": "Offensive necessity"
+    },
+    {
+        "防衛性緊急避難": "Defensive necessity"
+    },
+    {
+        "阻卻違法的承諾": "Consent as ground of justification"
+    },
+    {
+        "推測的承諾": "Presumptive consent"
+    },
+    {
+        "社會相當性": "Social adequacy"
+    },
+    {
+        "心理罪責概念": "Concept of psychological capabilty"
+    },
+    {
+        "規範罪責概念": "Concept of normative capabilty"
+    },
+    {
+        "功能罪責概念": "Concept of functional capabilty"
+    },
+    {
+        "減輕責任能力": "Diminished responsibility"
+    },
+    {
+        "辨識能力": "Ability to distinguish"
+    },
+    {
+        "疾病性精神障礙": "Pathological mental disorder"
+    },
+    {
+        "深層意識障礙": "Profound consciousness disorder"
+    },
+    {
+        "智能不足": "Intellectual disability"
+    },
+    {
+        "精神異常": "Mental disorder"
+    },
+    {
+        "衝動行為": "Irresistible impulse"
+    },
+    {
+        "原因自由行為": "Actio libera in causa"
+    },
+    {
+        "故意原因自由行為": "Intentional actio libera in causa"
+    },
+    {
+        "過失原因自由行為": "Negligent actio libera in causa"
+    },
+    {
+        "阻卻罪責事由": "Excuse"
+    },
+    {
+        "減免罪責事由": "Partial excuse"
+    },
+    {
+        "超法規減免罪責事由": "Non-statutory excuse"
+    },
+    {
+        "禁止錯誤": "Mistake of law"
+    },
+    {
+        "容許錯誤": "Mistake of pattern of justification"
+    },
+    {
+        "包攝錯誤／涵攝錯誤": "Mistake of subsumption"
+    },
+    {
+        "容許構成要件錯誤": "Mistake of prerequisite fact of justification"
+    },
+    {
+        "罪責型態": "Form of culpability"
+    },
+    {
+        "可避免之禁止錯誤": "Avoidable mistake of law"
+    },
+    {
+        "不可避免之禁止錯誤": "Unavoidable mistake of law"
+    },
+    {
+        "良心犯": "Prisoner of conscience"
+    },
+    {
+        "故意罪責": "Culpability of intent"
+    },
+    {
+        "過失罪責": "Culpability of negligence"
+    },
+    {
+        "期待可能性": "Reasonable expectation"
+    },
+    {
+        "誤想防衛": "Mistake of fact in self-defense"
+    },
+    {
+        "誤想防衛過當": "Mistake of fact in excessive self-defense"
+    },
+    {
+        "防衛過當": "Excessive self-defense"
+    },
+    {
+        "寬恕罪責之緊急避難": "Excusing necessity"
+    },
+    {
+        "避難過當": "Excessive necessity"
+    },
+    {
+        "犯罪參與理論": "Theory of crime participation"
+    },
+    {
+        "犯罪參與": "Crime participation"
+    },
+    {
+        "正犯": "Principal"
+    },
+    {
+        "共犯": "Accomplice"
+    },
+    {
+        "直接正犯": "Direct principal"
+    },
+    {
+        "間接正犯": "Indirect principal"
+    },
+    {
+        "共同正犯": "Co-principal"
+    },
+    {
+        "教唆": "Solicitation"
+    },
+    {
+        "幫助犯": "Accessory"
+    },
+    {
+        "相續共同正犯": "Successive coprincipal"
+    },
+    {
+        "陷害教唆": "Entrapment"
+    },
+    {
+        "犯罪挑唆": "Inducement"
+    },
+    {
+        "相續幫助犯": "Successive accessory"
+    },
+    {
+        "共同的犯罪決意": "Common intent"
+    },
+    {
+        "共謀犯": "Conspirator"
+    },
+    {
+        "限縮的正犯概念": "Restrictive concept of  principal"
+    },
+    {
+        "擴張的正犯概念": "Extensive concept of principal"
+    },
+    {
+        "利益理論": "Theory of interest"
+    },
+    {
+        "犯罪支配": "Domination of the offense"
+    },
+    {
+        "功能的犯罪支配": "Functional domination of crime"
+    },
+    {
+        "職務犯": "Official  offense"
+    },
+    {
+        "過失共同正犯": "Negligent co-principal"
+    },
+    {
+        "事後幫助": "Accessory after the act"
+    },
+    {
+        "幫助行為": "Assistance"
+    },
+    {
+        "心理幫助": "Mental assistance"
+    },
+    {
+        "過失": "Negligence"
+    },
+    {
+        "重大過失": "Recklessness / Gross negligence"
+    },
+    {
+        "注意義務": "Duty of care"
+    },
+    {
+        "注意義務違反": "Breach of the duty of care"
+    },
+    {
+        "預見可能性": "Forseeability"
+    },
+    {
+        "避免可能性": "Avoidability "
+    },
+    {
+        "未遂": "Attempt"
+    },
+    {
+        "陰謀": "Conspiracy"
+    },
+    {
+        "預備": "Preparation"
+    },
+    {
+        "既遂": "Accomplishment"
+    },
+    {
+        "終了": "Completion"
+    },
+    {
+        "著手": "Substantial step"
+    },
+    {
+        "行為決意": "Determination "
+    },
+    {
+        "不能未遂": "Inherent impossibility"
+    },
+    {
+        "迷信犯": "Superstition"
+    },
+    {
+        "幻覺犯": "Legal impossibility"
+    },
+    {
+        "積極悔悟": "Repentance"
+    },
+    {
+        "中止未遂": "Abandonment of attempt"
+    },
+    {
+        "個人減輕刑罰事由": "Personal ground for mitigation of punishment"
+    },
+    {
+        "己意": "Voluntary intent"
+    },
+    {
+        "作為": "Action"
+    },
+    {
+        "不作為": "Omission/Inaction"
+    },
+    {
+        "準因果關係": "Quasi-causation"
+    },
+    {
+        "刑罰": "Punishment/Penalty"
+    },
+    {
+        "主刑": "Principal punishment "
+    },
+    {
+        "從刑": "Accessory punishment"
+    },
+    {
+        "死刑": "Death penalty / Capital punishment"
+    },
+    {
+        "自由刑": "Prison sentence / Incarceration"
+    },
+    {
+        "有期徒刑": "Imprisonment"
+    },
+    {
+        "無期徒刑": "Life imprisonment"
+    },
+    {
+        "罰金刑": "Fine"
+    },
+    {
+        "應報理論": "Retributive theory"
+    },
+    {
+        "預防理論": "Preventive theory"
+    },
+    {
+        "財產刑": "Monetary punishment"
+    },
+    {
+        "沒收": "Forfeiture"
+    },
+    {
+        "利得沒收": "Forfeiture of ill-gotten assets"
+    },
+    {
+        "犯罪工具": "Instruments of crime"
+    },
+    {
+        "犯罪產物": "Products of crime"
+    },
+    {
+        "犯罪所得": "Proceeds of crime"
+    },
+    {
+        "追徵價額": "Forfeiture of substitute property"
+    },
+    {
+        "時效": "Statute of limitations"
+    },
+    {
+        "追訴權時效": "Statute of limitations on prosecution"
+    },
+    {
+        "行刑權時效": "Statute of limitations on enforcement"
+    },
+    {
+        "作為可能性": "Possibility to act"
+    },
+    {
+        "控制能力": "Ability to control"
+    }
+]

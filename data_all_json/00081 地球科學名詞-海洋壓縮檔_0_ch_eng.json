@@ -1,0 +1,8144 @@
+[
+    {
+        "冰融": "ablation"
+    },
+    {
+        "消融角礫岩": "ablation breccia"
+    },
+    {
+        "消融錐": "ablation cone"
+    },
+    {
+        "冰融儀": "ablatograph"
+    },
+    {
+        "浪蝕基岩面": "abraded bedrock surface"
+    },
+    {
+        "磨蝕": "abrasion"
+    },
+    {
+        "磨蝕痕跡": "abrasion mark"
+    },
+    {
+        "海蝕平台；海蝕台地": "abrasion platform"
+    },
+    {
+        "浪蝕海岸線": "abrasion shoreline"
+    },
+    {
+        "海蝕面；浪蝕面": "abrasion surface"
+    },
+    {
+        "海蝕台地；浪蝕台地": "abrasion tableland"
+    },
+    {
+        "海蝕階地；浪蝕階地": "abrasion terrace"
+    },
+    {
+        "吸收性；吸收率": "absorptivity"
+    },
+    {
+        "深淵底；深海的": "abyssal"
+    },
+    {
+        "深海軟泥": "abyssal ooze"
+    },
+    {
+        "深淵底平原；深海平原": "abyssal plain"
+    },
+    {
+        "深海紅土": "abyssal red earth"
+    },
+    {
+        "深淵水層{4000–6000 公尺}": "abyssopelagic"
+    },
+    {
+        "加速器質譜儀": "accelerator mass spectrometry (AMS)"
+    },
+    {
+        "增積板塊邊界；增生型板塊邊界": "accreting plate boundary"
+    },
+    {
+        "固結；凝聚；堆積": "accretion"
+    },
+    {
+        "增積海灘面；加積海灘面": "accretion beach face"
+    },
+    {
+        "增積層；加積層": "accretion bed"
+    },
+    {
+        "增積砂嶺；外展灘脊": "accretion ridge"
+    },
+    {
+        "加積波痕": "accretion ripple mark"
+    },
+    {
+        "加積地形": "accretion topography"
+    },
+    {
+        "填加脈": "accretion vein"
+    },
+    {
+        "增積砂壩；加積砂壩": "accretionary bar"
+    },
+    {
+        "增積盆地": "accretionary basin"
+    },
+    {
+        "增積帶；加積帶": "accretionary belt"
+    },
+    {
+        "增積海岸；加積海岸": "accretionary coast"
+    },
+    {
+        "增積火山泥礫": "accretionary lapilli"
+    },
+    {
+        "增積熔岩球": "accretionary lava ball"
+    },
+    {
+        "增積板塊邊界；增生型板塊邊界": "accretionary plate boundary"
+    },
+    {
+        "增積岩體": "accretionary prism"
+    },
+    {
+        "增積海脊": "accretionary ridge"
+    },
+    {
+        "增積隱沒複合體": "accretionary subduction complex"
+    },
+    {
+        "增積楔形體": "accretionary wedge"
+    },
+    {
+        "堆積島": "accumulated island"
+    },
+    {
+        "堆積速率": "accumulation rate"
+    },
+    {
+        "酸化作用": "acidification"
+    },
+    {
+        "酸度；酸性": "acidity"
+    },
+    {
+        "聲波基盤": "acoustic basement"
+    },
+    {
+        "聲波釋放": "acoustic release"
+    },
+    {
+        "聲波測深；聲學探測": "acoustic sounding"
+    },
+    {
+        "聲波條帶測繪": "acoustic swath-mapping"
+    },
+    {
+        "輻線珊瑚屬": "Actinaraea"
+    },
+    {
+        "肉珊瑚目": "Actinaria"
+    },
+    {
+        "星形藻屬{綠藻類}": "Actinastrum"
+    },
+    {
+        "星狀骨針{海綿動物}": "actine"
+    },
+    {
+        "海葵目": "Actiniaria"
+    },
+    {
+        "星樁箭石屬": "Actinocamax"
+    },
+    {
+        "輻環藻屬": "Actinocyclus"
+    },
+    {
+        "輻射泡沫珊瑚科": "Actinocystidae"
+    },
+    {
+        "放射線藻屬": "Actinophycus"
+    },
+    {
+        "射足蟲類{原生動物}；射足類{棘皮動物}": "Actinopoda"
+    },
+    {
+        "輻孔藻屬": "Actinoporella"
+    },
+    {
+        "輻管蟲屬{有孔蟲類}": "Actinosiphon"
+    },
+    {
+        "放射層孔蟲屬": "Actinostroma"
+    },
+    {
+        "仿放射層孔蟲屬": "Actinostromaria"
+    },
+    {
+        "翼脈藻[囊孢]科": "Actinothecaceae"
+    },
+    {
+        "活動大陸邊緣": "active continental margin"
+    },
+    {
+        "主動微波": "active microwave"
+    },
+    {
+        "活動板塊": "active plate"
+    },
+    {
+        "活動板塊邊緣": "active plate margin"
+    },
+    {
+        "主動感測器": "active sensor"
+    },
+    {
+        "活火山": "active volcano"
+    },
+    {
+        "弓形三角洲": "acuate delta"
+    },
+    {
+        "尖石屬{鈣質超微化石}": "Acuturris"
+    },
+    {
+        "隱籠蟲屬{放射蟲屬}": "Adelocyrtis"
+    },
+    {
+        "滿苔蘚蟲科": "Adeonidae"
+    },
+    {
+        "自由孔珊瑚屬；樹枝管珊瑚屬": "Adetopora"
+    },
+    {
+        "黏附；黏附力": "adhesion"
+    },
+    {
+        "附著力；黏附力": "adhesive force"
+    },
+    {
+        "絕熱": "adiabatic"
+    },
+    {
+        "絕熱冷卻": "adiabatic cooling"
+    },
+    {
+        "絕熱增溫": "adiabatic heating"
+    },
+    {
+        "絕熱遞減率": "adiabatic lapse rate"
+    },
+    {
+        "絕熱現象": "adiabatic phenomenon"
+    },
+    {
+        "絕熱過程": "adiabatic process"
+    },
+    {
+        "絕熱溫度梯度": "adiabatic temperature gradient"
+    },
+    {
+        "絕熱增溫": "adiabatic warming"
+    },
+    {
+        "平坑": "adit"
+    },
+    {
+        "海圖": "admiralty chart"
+    },
+    {
+        "青年期海岸": "adolescent coast"
+    },
+    {
+        "前移海岸": "advanced coast"
+    },
+    {
+        "前進海岸": "advancing coast"
+    },
+    {
+        "外源堆積": "adventitious deposit"
+    },
+    {
+        "風成沉積；風積物": "aeolation"
+    },
+    {
+        "風成相；風成的": "aeolian"
+    },
+    {
+        "風成沉積；風積物": "aeolian deposit"
+    },
+    {
+        "風積物；風成沉積": "aeolian sediment"
+    },
+    {
+        "蛞蝓屬": "Aeolis"
+    },
+    {
+        "航空攝影": "aerial photography"
+    },
+    {
+        "好氧性；嗜氧性；好氧的；有氧的": "aerobic"
+    },
+    {
+        "好氧細菌；需氧菌；有氧菌；嗜氧性細菌": "aerobic bacteria"
+    },
+    {
+        "有氧消化[作用]": "aerobic digestion"
+    },
+    {
+        "有氧呼吸[作用]": "aerobic respiration"
+    },
+    {
+        "灰氣蘚屬{苔蘚植物}": "Aerobryopsis"
+    },
+    {
+        "氣溶膠；氣膠": "aerosol"
+    },
+    {
+        "親合力": "affinity"
+    },
+    {
+        "圓環螺屬{腹足類}": "Agallospira"
+    },
+    {
+        "首飾星石屬{鈣質超微化石}": "Agalmatoaster"
+    },
+    {
+        "孔葉藻屬": "Agarum"
+    },
+    {
+        "定年": "age dating"
+    },
+    {
+        "年代測定": "age determination"
+    },
+    {
+        "老化海水": "aged sea water"
+    },
+    {
+        "小阿蓋特珊瑚屬": "Agetolitella"
+    },
+    {
+        "阿蓋特珊瑚屬": "Agetolites"
+    },
+    {
+        "聚合體": "aggregate"
+    },
+    {
+        "集積平原": "aggregation plain"
+    },
+    {
+        "老化": "aging"
+    },
+    {
+        "彩星介屬{介形類}": "Aglaiocypris"
+    },
+    {
+        "華美葉肢介屬": "Aglestheria"
+    },
+    {
+        "無棱菊石屬": "Agoniatites"
+    },
+    {
+        "無角菊石目{頭足類}": "Agoniatitida"
+    },
+    {
+        "無磁偏差線": "agonic line"
+    },
+    {
+        "阿古拉斯洋流": "Agulhas Current"
+    },
+    {
+        "阿古拉斯海台": "Agulhas Plateau"
+    },
+    {
+        "非造礁性": "ahermatypic"
+    },
+    {
+        "阿繆石屬{鈣質超微化石}": "Ahmuellerella"
+    },
+    {
+        "伊谷草屬{紅藻類}": "Ahnfeltia"
+    },
+    {
+        "艾皮魚屬": "Aipichthys"
+    },
+    {
+        "氣泡": "air bubble"
+    },
+    {
+        "空氣污染物": "air contaminant"
+    },
+    {
+        "空氣推舉作用": "air heave"
+    },
+    {
+        "大氣冰晶沈積": "air hoar"
+    },
+    {
+        "氣圈": "air mass"
+    },
+    {
+        "空氣污染物質": "air pollutants"
+    },
+    {
+        "空氣污染；大氣污染": "air pollution"
+    },
+    {
+        "大氣爆炸探測法": "air shooting"
+    },
+    {
+        "空中電磁測勘": "airborne electromagnetic survey"
+    },
+    {
+        "空氣傳播物": "air-borne substance"
+    },
+    {
+        "空氣槍": "airgun"
+    },
+    {
+        "空氣槍陣列": "airgun array"
+    },
+    {
+        "空氣槍氣泡脈波": "airgun bubble pulse"
+    },
+    {
+        "氣舉法": "air-lift method"
+    },
+    {
+        "海氣交換": "air-sea exchange"
+    },
+    {
+        "海氣通量": "air-sea flux"
+    },
+    {
+        "氣海交互作用": "air-sea interaction"
+    },
+    {
+        "氣海界面": "air-sea interface"
+    },
+    {
+        "氣水界面": "air-water interface"
+    },
+    {
+        "艾里均衡假說": "Airy isostatic hypothesis"
+    },
+    {
+        "艾氏螺旋": "Airy's spiral"
+    },
+    {
+        "艾里–海斯肯寧系統；艾里海斯肯寧均衡說": "Airy-Heiskanen system"
+    },
+    {
+        "阿拉巴馬蟲科{有孔蟲類}": "Alabaminidae"
+    },
+    {
+        "阿萊珊瑚屬": "Alaiophyllum"
+    },
+    {
+        "翅藻屬{褐藻類}": "Alaria"
+    },
+    {
+        "翅女神介屬{介形類}": "Alatacythere"
+    },
+    {
+        "冰谷棚": "alb"
+    },
+    {
+        "反照率": "albedo"
+    },
+    {
+        "阿爾布期{白堊紀}": "Albian"
+    },
+    {
+        "潔面介屬": "Albileberis"
+    },
+    {
+        "八射珊瑚亞綱": "Alcyonaria"
+    },
+    {
+        "海冠苔蘚蟲屬": "Alcyonidium"
+    },
+    {
+        "阿爾德苔蘚蟲屬{苔蘚類}": "Alderina"
+    },
+    {
+        "阿留申海盆": "Aleutian Basin"
+    },
+    {
+        "阿留申島弧": "Aleutian island arc"
+    },
+    {
+        "阿留申海溝": "Aleutian Trench"
+    },
+    {
+        "阿力山得期": "Alexandrian"
+    },
+    {
+        "藻類": "alga"
+    },
+    {
+        "海藻{alga的複數}": "algae"
+    },
+    {
+        "藻成的": "algal"
+    },
+    {
+        "藻灘；藻堤": "algal bank"
+    },
+    {
+        "藻海灘": "algal beach"
+    },
+    {
+        "藻類生物岩礁": "algal bioherm"
+    },
+    {
+        "藻華": "algal bloom"
+    },
+    {
+        "藻結砂坪": "algal bound sand flat"
+    },
+    {
+        "藻碳酸鹽": "algal carbonate"
+    },
+    {
+        "藻類化學": "algal chemistry"
+    },
+    {
+        "藻灰岩；藻類石灰岩": "algal limestone"
+    },
+    {
+        "藻蓆": "algal mat"
+    },
+    {
+        "藻丘": "algal mound"
+    },
+    {
+        "藻粒": "algal pellet"
+    },
+    {
+        "藻穴": "algal pit"
+    },
+    {
+        "藻礁": "algal reef"
+    },
+    {
+        "藻嶺；藻脊": "algal ridge"
+    },
+    {
+        "藻緣礁": "algal rim"
+    },
+    {
+        "藻質腐泥": "algal sapropel"
+    },
+    {
+        "藻類構造": "algal structure"
+    },
+    {
+        "藻礁沈積": "algal-reef sediment"
+    },
+    {
+        "海石屬；海球石屬{鈣質超微化石}": "Alisphaera"
+    },
+    {
+        "鹼土": "alkali soil"
+    },
+    {
+        "鹼性安山岩": "alkali-andesite"
+    },
+    {
+        "鹼性玄武岩": "alkali-basalt"
+    },
+    {
+        "鹼鈣指數": "alkali-calcic index"
+    },
+    {
+        "鹼鈣系列": "alkali-calcic series"
+    },
+    {
+        "鹼鈣指數": "alkali-lime index"
+    },
+    {
+        "鹼鈣岩系": "alkali-lime series"
+    },
+    {
+        "鹼度": "alkalinity"
+    },
+    {
+        "鹼金屬蒸汽磁力儀": "alkali-vapor magnetometer"
+    },
+    {
+        "奇罩螺屬{腹足類}": "Allepithema"
+    },
+    {
+        "阿利提蟲屬{有孔蟲類}": "Alliatina"
+    },
+    {
+        "網足蟲亞目{有孔蟲類}": "Allogromiina"
+    },
+    {
+        "異龍屬；異特龍屬": "Allosaurus"
+    },
+    {
+        "奇轉螺屬": "Allostrophia"
+    },
+    {
+        "奇壁珊瑚屬": "Allotropiophyllum"
+    },
+    {
+        "溝眼花介屬": "Alocopocythere"
+    },
+    {
+        "沿岸流": "alongshore current"
+    },
+    {
+        "阿爾法海脊": "Alpha Ridge"
+    },
+    {
+        "阿爾泰柱珊瑚屬": "Altaja"
+    },
+    {
+        "高度計；測高儀": "altimeter"
+    },
+    {
+        "測高術": "altimetry"
+    },
+    {
+        "鋁矽酸鹽{礦物}": "aluminosilicates"
+    },
+    {
+        "小蜂巢蟲科{有孔蟲類}": "Alveolinellidae"
+    },
+    {
+        "蜂巢蟲科{有孔蟲類}": "Alveolinidae"
+    },
+    {
+        "小槽珊瑚屬": "Alveolitella"
+    },
+    {
+        "槽珊瑚屬": "Alveolites"
+    },
+    {
+        "嫩花介屬{介形類}": "Amalocythere"
+    },
+    {
+        "繩菊石屬": "Amaltheus"
+    },
+    {
+        "阿曼多珊瑚屬": "Amandophyllum"
+    },
+    {
+        "準暗螺屬；亞莫螺屬{腹足類}": "Amaurellina"
+    },
+    {
+        "似暗螺亞屬{腹足類}": "Amauropsis"
+    },
+    {
+        "琥珀螺屬{腹足類}": "Amberleya"
+    },
+    {
+        "週遭水質": "ambient water quality"
+    },
+    {
+        "遲鈍輪藻屬": "Amblyochara"
+    },
+    {
+        "弱飾葉肢介屬{節肢類}": "Amelestheria"
+    },
+    {
+        "美亞海盆": "Amerasia Basin"
+    },
+    {
+        "阿米蘭特海溝": "Amirante Trench"
+    },
+    {
+        "手杖蟲屬；砂桿蟲屬；砂棒蟲屬{有孔蟲類}": "Ammobaculites"
+    },
+    {
+        "瘤星介屬{介形類}": "Ammocypris"
+    },
+    {
+        "砂盤蟲屬{有孔蟲類}": "Ammodiscus"
+    },
+    {
+        "捲轉蟲屬{有孔蟲類}": "Ammonia"
+    },
+    {
+        "鮞狀岩": "ammonite"
+    },
+    {
+        "菊石類{頭足類}": "ammonites"
+    },
+    {
+        "菊石亞綱{頭足類}": "Ammonoidea"
+    },
+    {
+        "砂管口蟲屬{有孔蟲類}": "Ammosiphonia"
+    },
+    {
+        "砂擬球蟲屬{有孔蟲類}": "Ammosphaeroidina"
+    },
+    {
+        "砂質蟲屬{有孔蟲類}": "Ammotium"
+    },
+    {
+        "河邊螺屬{腹足類}": "Amnicola"
+    },
+    {
+        "暗彎角石屬{鈣質超微化石}": "Amnuralithus"
+    },
+    {
+        "無耳髻蛤屬{雙殼類}": "Amonotis"
+    },
+    {
+        "雙花介屬{介形類}": "Amphicythere"
+    },
+    {
+        "前溝藻屬{甲藻類}": "Amphidinium"
+    },
+    {
+        "雙齒蠣屬{雙殼類}": "Amphidontes"
+    },
+    {
+        "無潮點；潮節點": "amphidrome"
+    },
+    {
+        "兩向洄游{非生殖洄游}": "amphidromous"
+    },
+    {
+        "雙面介屬{介形類}": "Amphileberis"
+    },
+    {
+        "文昌魚": "Amphioxus"
+    },
+    {
+        "梭貝屬{雙殼類}": "Amphiperas"
+    },
+    {
+        "端腳目": "Amphipoda"
+    },
+    {
+        "雙列藻屬；蟹手藻屬": "Amphiroa"
+    },
+    {
+        "雙蓋蟲屬{有孔蟲屬}": "Amphistegina"
+    },
+    {
+        "雙軛顆石屬{鈣質超微化石}": "Amphizygus"
+    },
+    {
+        "包珊瑚式": "amplexid type"
+    },
+    {
+        "包合珊瑚屬": "Amplexiphyllum"
+    },
+    {
+        "脊板包珊瑚屬": "Amplexocarinia"
+    },
+    {
+        "擬包珊瑚屬；似包珊瑚屬": "Amplexoides"
+    },
+    {
+        "包珊瑚屬": "Amplexus"
+    },
+    {
+        "寬劍螺屬{腹足類}": "Amplogladius"
+    },
+    {
+        "大盤螺屬{腹足類}": "Amploualvata"
+    },
+    {
+        "壇螺屬{腹足類}": "Ampullina"
+    },
+    {
+        "旋台螺屬{腹足類}": "Ampullospira"
+    },
+    {
+        "阿姆塞士珊瑚屬": "Amsassia"
+    },
+    {
+        "盾海扇屬{雙殼類}": "Amussiopecten"
+    },
+    {
+        "日月海扇屬{雙殼類}": "Amussium"
+    },
+    {
+        "杏仁狀玄武岩": "amygdaloidal basalt"
+    },
+    {
+        "杏仁珊瑚屬": "Amygdalophyllum"
+    },
+    {
+        "杏仁孔": "amygdule"
+    },
+    {
+        "合成代謝；組成代謝": "anabolism"
+    },
+    {
+        "似疣菊石屬{頭足類}": "Anacrochordiceras"
+    },
+    {
+        "溯河[洄游]的；溯河[繁殖]的": "anadromous"
+    },
+    {
+        "厭氧菌；厭氧生物": "anaerobes"
+    },
+    {
+        "厭氧的；缺氧的": "anaerobic"
+    },
+    {
+        "厭氧菌；厭氧性細菌": "anaerobic bacteria"
+    },
+    {
+        "缺氧層": "anaerobic layer"
+    },
+    {
+        "缺氧氧化": "anaerobic oxidation"
+    },
+    {
+        "缺氧沉積物": "anaerobic sediments"
+    },
+    {
+        "阿納魚屬": "Anaethalion"
+    },
+    {
+        "似裸齒菊石屬": "Anagymnites"
+    },
+    {
+        "似克什米爾菊石屬{頭足類}": "Anakashmirites"
+    },
+    {
+        "似西伯利亞菊石屬": "Anasibirites"
+    },
+    {
+        "似西藏菊石屬": "Anatibetites"
+    },
+    {
+        "切割菊石屬": "Anatomites"
+    },
+    {
+        "海下水蝕洞": "anchialine"
+    },
+    {
+        "曲腫螺屬{腹足類}": "Ancylastrum"
+    },
+    {
+        "鉤菊石超科{頭足類}": "Ancyloceratacea"
+    },
+    {
+        "曲螺屬{腹足類}": "Ancylus"
+    },
+    {
+        "安達曼海盆": "Andaman Basin"
+    },
+    {
+        "安達曼–尼科巴島弧": "Andaman-Nicobar island arc"
+    },
+    {
+        "安德生菊石屬{頭足類}": "Anderssonoceras"
+    },
+    {
+        "松卷菊石屬{頭足類}": "Anetotoceras"
+    },
+    {
+        "鮟[鱇]": "anglerfish"
+    },
+    {
+        "安哥拉海盆": "Angola Basin"
+    },
+    {
+        "鰻屬": "Anguilla"
+    },
+    {
+        "角螺屬{腹足類}；具角藻屬": "Angularia"
+    },
+    {
+        "角顆石屬{鈣質超微化石}": "Angulolithina"
+    },
+    {
+        "多棱角螺屬；角螺屬{腹足類}": "Angulyagra"
+    },
+    {
+        "狹莢蛤屬{雙殼類}": "Angustella"
+    },
+    {
+        "硬石膏；無水石膏": "anhydrite"
+    },
+    {
+        "似茴芹螺屬{腹足類}": "Anisopsis"
+    },
+    {
+        "反口螺屬{腹足類}": "Anisostoma"
+    },
+    {
+        "環節動物門": "Annelida"
+    },
+    {
+        "環顆石屬{鈣質超微化石}": "Annulithus"
+    },
+    {
+        "無齒蚌屬{雙殼類}": "Anodonta"
+    },
+    {
+        "似無齒蚌屬{雙殼類}": "Anodontoides"
+    },
+    {
+        "安諾菊石屬{頭足類}": "Anolcites"
+    },
+    {
+        "異常蟲屬{有孔蟲類}": "Anomalina"
+    },
+    {
+        "畸心蛤屬{雙殼類}": "Anomalocardia"
+    },
+    {
+        "異鉸目；異韌目{雙殼類}": "Anomalodesmata"
+    },
+    {
+        "畸盤蛤屬{雙殼類}": "Anomalodiscus"
+    },
+    {
+        "不等蛤屬{雙殼類}": "Anomia"
+    },
+    {
+        "似耳菊石屬{頭足類}": "Anotoceras"
+    },
+    {
+        "無氧": "anoxia"
+    },
+    {
+        "無氧海盆；缺氧海盆[地質]": "anoxic basin"
+    },
+    {
+        "海底無氧狀態": "anoxic bottom condition"
+    },
+    {
+        "無氧情況": "anoxic condition"
+    },
+    {
+        "無氧環境": "anoxic environment"
+    },
+    {
+        "無氧間隙水": "anoxic pore water"
+    },
+    {
+        "無氧狀態": "anoxic state"
+    },
+    {
+        "無氧水；無氧水體": "anoxic water"
+    },
+    {
+        "無氧帶；缺氧層": "anoxic zone"
+    },
+    {
+        "南極底層水": "Antarctic Bottom Water (AABW)"
+    },
+    {
+        "環南極[洋]流": "Antarctic Circumpolar Current (ACC)"
+    },
+    {
+        "南極中層水": "Antarctic Intermediate Water (AAIW)"
+    },
+    {
+        "南濱洋": "Antarctic Ocean"
+    },
+    {
+        "南極洲板塊": "Antarctic Plate"
+    },
+    {
+        "南極大陸；南極古陸": "Antarctica"
+    },
+    {
+        "花珊瑚屬": "Antheria"
+    },
+    {
+        "花星珊瑚屬": "Antheriastraea"
+    },
+    {
+        "花巢珊瑚亞科": "Antherolitinae"
+    },
+    {
+        "珊瑚類": "anthozoan"
+    },
+    {
+        "珊瑚蟲管": "anthozoan polyp"
+    },
+    {
+        "潮奏點": "anti-amphidrome"
+    },
+    {
+        "反氣旋；反旋": "anticyclonic"
+    },
+    {
+        "抗附著；抗污損": "anti-fouling"
+    },
+    {
+        "安地列斯洋流": "Antilles Current"
+    },
+    {
+        "角珊瑚目": "Antipatharia"
+    },
+    {
+        "多環螺屬{腹足類}": "Anulifera"
+    },
+    {
+        "安源葉肢介屬": "Anyuanestheria"
+    },
+    {
+        "隱節螺屬{腹足類}": "Aphanotylus"
+    },
+    {
+        "無光帶；無光區": "aphotic zone"
+    },
+    {
+        "簡單雕殼葉肢介屬": "Aploglyptus"
+    },
+    {
+        "遠地點": "apogee"
+    },
+    {
+        "鵝掌螺屬{腹足類}": "Aporrhais"
+    },
+    {
+        "表觀耗氧量": "apparent oxygen utilization (AOU)"
+    },
+    {
+        "表觀溶度積": "apparent solubility product"
+    },
+    {
+        "並列沙灘": "apposition beach"
+    },
+    {
+        "裙地": "apron"
+    },
+    {
+        "非假鉸蚌屬{雙殼類}": "Apseudocardinia"
+    },
+    {
+        "阿普第藻屬": "Apteodinium"
+    },
+    {
+        "無翅罩形顆石屬{鈣質超微化石}": "Aptertapetra"
+    },
+    {
+        "無翅類{節肢動物類}": "Apterygota"
+    },
+    {
+        "海蝕石": "aquafact"
+    },
+    {
+        "低度含水層": "aquiclude"
+    },
+    {
+        "阿拉伯海盆": "Arabian Basin"
+    },
+    {
+        "阿拉伯海": "Arabian Sea"
+    },
+    {
+        "阿拉伯松藻屬": "Arabicodium"
+    },
+    {
+        "蛛網星珊瑚屬": "Arachnastraea"
+    },
+    {
+        "叢嵌珊瑚屬": "Arachniophyllum"
+    },
+    {
+        "孔壁柱珊瑚屬": "Araiostrotion"
+    },
+    {
+        "島弧岩漿作用": "arc magmatism"
+    },
+    {
+        "箱蛤屬；魁蛤{雙殼類}": "Arca"
+    },
+    {
+        "弓翼蛤屬{雙殼類}": "Arcavicula"
+    },
+    {
+        "古菊石屬{頭足類}": "Arcestes"
+    },
+    {
+        "古盤蟲屬{有孔蟲類}": "Archaeodiscus"
+    },
+    {
+        "古球蟲屬{有孔蟲類}": "Archaeosphaera"
+    },
+    {
+        "原始蟲屬；古蟲屬{有孔蟲類}": "Archaias"
+    },
+    {
+        "底棲大陸坡的": "archibenthic"
+    },
+    {
+        "群島；列島": "archipelago"
+    },
+    {
+        "原帽蟲超科{放射蟲類}": "Archipiliicae"
+    },
+    {
+        "原蓋螺屬{腹足類}": "Architectonica"
+    },
+    {
+        "曲蚌屬{雙殼類}": "Arconaia"
+    },
+    {
+        "箱珊瑚屬": "Arcophyllum"
+    },
+    {
+        "北冰洋": "Arctic Ocean"
+    },
+    {
+        "北極海": "Arctic Sea"
+    },
+    {
+        "北極蛤屬{雙殼類}": "Arctica"
+    },
+    {
+        "北極菊石亞科{頭足類}": "Arctoceratinae"
+    },
+    {
+        "弧–溝間隙": "arc-trench gap"
+    },
+    {
+        "弧形三角洲": "arcuate delta"
+    },
+    {
+        "砂質有孔蟲目": "Arenaceous Foraminifera"
+    },
+    {
+        "砂質維達蟲屬{有孔蟲類}": "Arenovidalina"
+    },
+    {
+        "異突藻屬": "Areoligera"
+    },
+    {
+        "阿根廷海盆": "Argentine Basin"
+    },
+    {
+        "單脊菊石屬；白羊石屬；白羊菊石屬{頭足類}": "Arietites"
+    },
+    {
+        "海鯰科": "Ariidae"
+    },
+    {
+        "高貴褶菊石屬{頭足類}": "Aristoptychites"
+    },
+    {
+        "阿氏顆石屬{鈣質超微化石}": "Arkhangelskiella"
+    },
+    {
+        "腕{海百合}": "arm [in crinoids]"
+    },
+    {
+        "亞美尼亞【虫筵】屬{有孔蟲類}": "Armenina"
+    },
+    {
+        "阿帕菊石屬{頭足類}": "Arpadites"
+    },
+    {
+        "弱飾螺屬{腹足類}": "Arrhoges"
+    },
+    {
+        "箭蟲": "arrow worm"
+    },
+    {
+        "豐年蝦；滷蟲": "artemia"
+    },
+    {
+        "節心藻屬": "Arthrocardia"
+    },
+    {
+        "有節蟲屬{有孔蟲類}": "Articulina"
+    },
+    {
+        "人工海灘": "artificial beach"
+    },
+    {
+        "人工海岸": "artificial coast"
+    },
+    {
+        "人工棲所": "artificial habitat"
+    },
+    {
+        "人工魚礁": "artificial reef"
+    },
+    {
+        "小淺野氏蟲屬{有孔蟲類}": "Asanonella"
+    },
+    {
+        "小囊輪藻屬": "Ascidiella"
+    },
+    {
+        "囊溝藻屬；子囊藻屬": "Ascodinium"
+    },
+    {
+        "無震洋脊；無震海嶺": "aseismic ridge"
+    },
+    {
+        "火山灰層": "ash bed"
+    },
+    {
+        "阿斯本菊石屬{頭足類}": "Aspenites"
+    },
+    {
+        "盾珊瑚屬": "Aspidiophyllum"
+    },
+    {
+        "盾顆石屬{鈣質超微化石}": "Aspidolithus"
+    },
+    {
+        "盾棒石屬{鈣質超微化石}": "Aspidorhabdus"
+    },
+    {
+        "阿蘇喀林珊瑚屬": "Asserculinia"
+    },
+    {
+        "同化[作用]": "assimilation"
+    },
+    {
+        "阿西石屬{鈣質超微化石}": "Assipetra"
+    },
+    {
+        "龍蝦蟲屬{有孔蟲類}": "Astacolus"
+    },
+    {
+        "星盤蟲屬{有孔蟲類}": "Asterigerina"
+    },
+    {
+        "星古盤蟲屬{有孔蟲類}": "Asteroarchaediscus"
+    },
+    {
+        "星狀顆石屬{鈣質超微化石}": "Asterolith"
+    },
+    {
+        "星輪蟲屬{有孔蟲類}": "Asterorotalia"
+    },
+    {
+        "軟流圈": "asthenosphere"
+    },
+    {
+        "星射放射蟲類": "astrolophi"
+    },
+    {
+        "天文潮": "astronomical tide"
+    },
+    {
+        "星狀溝{有孔蟲類}": "astrorhiza"
+    },
+    {
+        "不對稱波痕": "asymmetrical ripple mark"
+    },
+    {
+        "變房蟲目{有孔蟲類}": "Ataxophragmiida"
+    },
+    {
+        "不全網層孔蟲屬": "Atelodictyon"
+    },
+    {
+        "不等珊瑚屬": "Atelophyllum"
+    },
+    {
+        "大西洋邊緣": "Atlantic margin"
+    },
+    {
+        "大西洋": "Atlantic Ocean"
+    },
+    {
+        "大西洋岩群": "Atlantic suite"
+    },
+    {
+        "大西洋型海岸": "Atlantic-type coast"
+    },
+    {
+        "海氣相互作用": "atmosphere-ocean interaction"
+    },
+    {
+        "大氣輸入": "atmospheric input"
+    },
+    {
+        "大氣沉降": "atmospheric sedimentation"
+    },
+    {
+        "海水中大氣痕量氣體": "atmospheric trace gases in seawater"
+    },
+    {
+        "環礁": "atoll"
+    },
+    {
+        "環礁島；環狀珊瑚島": "atoll island"
+    },
+    {
+        "環礁潟湖": "atoll lagoon"
+    },
+    {
+        "環形泥炭沼澤": "atoll moor"
+    },
+    {
+        "環狀珊瑚礁；環礁": "atoll reef"
+    },
+    {
+        "環礁圈": "atoll ring"
+    },
+    {
+        "環礁狀構造": "atoll structure"
+    },
+    {
+        "環礁狀組織；環狀組織": "atoll texture"
+    },
+    {
+        "奇異輪藻屬": "Atopochara"
+    },
+    {
+        "奇花介屬": "Atopocythere"
+    },
+    {
+        "奇異珊瑚屬": "Atopophyllum"
+    },
+    {
+        "衰減": "attenuation"
+    },
+    {
+        "溝旋菊石屬{頭足類}": "Aulacosphinctes"
+    },
+    {
+        "槽孔貝屬{腕足類}": "Aulacothyris"
+    },
+    {
+        "擬槽孔貝屬{腕足類}": "Aulacothyroides"
+    },
+    {
+        "軸星珊瑚屬；軸管珊瑚屬；軸管星珊瑚屬": "Aulina"
+    },
+    {
+        "管蛛網珊瑚屬": "Auloclisia"
+    },
+    {
+        "泡沫喇叭珊瑚屬": "Aulocystis"
+    },
+    {
+        "中柱管珊瑚屬；柱管珊瑚屬": "Aulophyllum"
+    },
+    {
+        "煙斗珊瑚屬；喇叭孔珊瑚屬": "Aulopora"
+    },
+    {
+        "管扭蟲屬{有孔蟲類}": "Aulotortus"
+    },
+    {
+        "奧斯汀貝屬{腕足類}": "Austinella"
+    },
+    {
+        "澳洲板塊": "Australian Plate"
+    },
+    {
+        "澳洲珊瑚屬": "Australophyllum"
+    },
+    {
+        "南方圓螺屬{腕足類}": "Australorbis"
+    },
+    {
+        "自生礦物": "authigenic mineral"
+    },
+    {
+        "自生沉積物": "authigenic sediment"
+    },
+    {
+        "原地岩體": "autochthon"
+    },
+    {
+        "原地岩體": "autochthone"
+    },
+    {
+        "原地堆積": "autochthonous deposit"
+    },
+    {
+        "水下自動巡航器；自主式水下載具": "Autonomous Underwater Vehicle (AUV)"
+    },
+    {
+        "自營": "autotrophy"
+    },
+    {
+        "流水裂地；決口；沖裂；急流沖刷": "avulsion"
+    },
+    {
+        "軸對稱海上重力儀；軸對稱海洋重力儀": "axially symmetric sea gravimeter"
+    },
+    {
+        "石軸珊瑚屬": "Axolithophyllum"
+    },
+    {
+        "東風螺屬{腹足類}": "Babylonia"
+    },
+    {
+        "弧後地區": "back arc area"
+    },
+    {
+        "弧後盆地": "back arc basin"
+    },
+    {
+        "弧後擴張": "back arc spreading"
+    },
+    {
+        "弧後隱沒；弧後俯衝": "back arc subduction"
+    },
+    {
+        "礁後；礁後區": "backreef"
+    },
+    {
+        "後礁相；礁後相": "backreef facies"
+    },
+    {
+        "礁後潟湖": "backreef lagoon"
+    },
+    {
+        "礁後沉積物": "backreef sediment"
+    },
+    {
+        "反向散射": "backscatter"
+    },
+    {
+        "向後散射": "backscattering"
+    },
+    {
+        "濱後灘": "backshore beach"
+    },
+    {
+        "濱後堆積": "backshore deposit"
+    },
+    {
+        "濱後階地；海蝕階地": "backshore terrace"
+    },
+    {
+        "海底挖泥器": "bag dredge"
+    },
+    {
+        "袋形蟲屬{有孔蟲類}": "Baggina"
+    },
+    {
+        "貝塞蟲屬{有孔蟲類}": "Baisalina"
+    },
+    {
+        "貝莢蛤屬{雙殼類}": "Bakevellia"
+    },
+    {
+        "鬚鯨屬": "Balaenoptera"
+    },
+    {
+        "巴拉頓菊石屬{頭足類}": "Balatonites"
+    },
+    {
+        "鬚鯨": "Baleen whale"
+    },
+    {
+        "鱗魨屬{魚類}": "Balistes"
+    },
+    {
+        "壓艙水": "ballast water"
+    },
+    {
+        "波羅的海": "Baltic Sea"
+    },
+    {
+        "波羅的古陸": "Baltica"
+    },
+    {
+        "班達海盆": "Banda Basin"
+    },
+    {
+        "班達海溝": "Banda Trench"
+    },
+    {
+        "岸；堤；淺灘；沙洲": "bank"
+    },
+    {
+        "淺灘環礁": "bank atoll"
+    },
+    {
+        "淺灘堡礁": "bank barrier"
+    },
+    {
+        "灘礁": "bank reef"
+    },
+    {
+        "班旦珊瑚屬": "Bantamia"
+    },
+    {
+        "沙洲；沙壩；巴{壓力單位}": "bar"
+    },
+    {
+        "硬鮞綠泥石": "baralite"
+    },
+    {
+        "斜壓不穩定": "baroclinic instability"
+    },
+    {
+        "正壓不穩定": "barotropic instability"
+    },
+    {
+        "巴蘭德珊瑚屬": "Barrandeophyllum"
+    },
+    {
+        "堰洲；堤": "barrier"
+    },
+    {
+        "堰洲群": "barrier chain"
+    },
+    {
+        "堰洲海岸；沙壩海岸": "barrier coast"
+    },
+    {
+        "堰洲島；離岸沙洲島": "barrier island"
+    },
+    {
+        "堡礁；堤礁": "barrier reef"
+    },
+    {
+        "堡礁潟湖海岸": "barrier reef lagoon coast"
+    },
+    {
+        "堡礁": "barrier reefs"
+    },
+    {
+        "堰洲沉積；壩沉積": "barrier sediment"
+    },
+    {
+        "巴特拉姆【虫筵】屬{有孔蟲類}": "Bartramella"
+    },
+    {
+        "基底海侵岩相": "basal trangressive lithofacies"
+    },
+    {
+        "基底不整合": "basal unconformity"
+    },
+    {
+        "玄武岩層": "basaltic layer"
+    },
+    {
+        "基準面；侵蝕基面": "base level"
+    },
+    {
+        "底部湧浪堆積，底風暴流堆積": "base surge deposit"
+    },
+    {
+        "底覆；底超": "baselap"
+    },
+    {
+        "基線": "baseline"
+    },
+    {
+        "基盤；基岩": "basement"
+    },
+    {
+        "基盤隆起；基盤高地": "basement high"
+    },
+    {
+        "基岩": "basement rock"
+    },
+    {
+        "基盤隆起": "basement uplift"
+    },
+    {
+        "基盤翹曲": "basement warp"
+    },
+    {
+        "鹼度": "basicity"
+    },
+    {
+        "海盆；盆地": "basin"
+    },
+    {
+        "盆地相碳酸鹽": "basinal carbonate"
+    },
+    {
+        "盆形沈陷": "basinal subsidence"
+    },
+    {
+        "盆底扇": "basin-floor fan"
+    },
+    {
+        "海盆–微大陸體系": "basin-microcontinent system"
+    },
+    {
+        "海盆陸棚間分異作用": "basin-shelf fractionation"
+    },
+    {
+        "洋盆間的分異": "basin-to-basin fractionation"
+    },
+    {
+        "深度計": "bathmeter"
+    },
+    {
+        "水深圖": "bathmetric chart"
+    },
+    {
+        "測深儀；水深測量器": "bathometer"
+    },
+    {
+        "深海區{生物1000–4000 公尺}": "bathyal"
+    },
+    {
+        "半深海堆積": "bathyal deposit"
+    },
+    {
+        "半深海相": "bathyal facies"
+    },
+    {
+        "測深儀；水深測量器": "bathymeter"
+    },
+    {
+        "深海的": "bathymetric"
+    },
+    {
+        "深海生物相": "bathymetric biofacies"
+    },
+    {
+        "等[水]深線": "bathymetric contour"
+    },
+    {
+        "等深線": "bathymetric line"
+    },
+    {
+        "水深圖": "bathymetric map"
+    },
+    {
+        "水深測勘": "bathymetric survey"
+    },
+    {
+        "測深法": "bathymetry"
+    },
+    {
+        "海底地形的": "bathyorographical"
+    },
+    {
+        "深水層；半深海的": "bathypelagic"
+    },
+    {
+        "半深海層": "bathypelagic zone"
+    },
+    {
+        "半深海浮游生物": "bathyplankton"
+    },
+    {
+        "深層流動": "bathyrheal underflow"
+    },
+    {
+        "深海鹽度計": "bathysalinometer"
+    },
+    {
+        "球形深海潛水器": "bathysphere"
+    },
+    {
+        "深溫儀；溫深儀": "bathythermograph (BT)"
+    },
+    {
+        "梯錐螺屬{腹足類}": "Batillaria"
+    },
+    {
+        "線蜆屬{雙殼類}": "Batissa"
+    },
+    {
+        "勺板叢珊瑚屬": "Battersbyia"
+    },
+    {
+        "海灣": "bay"
+    },
+    {
+        "海底電纜；近海震波接收電纜": "bay cable"
+    },
+    {
+        "灣擾": "bay disturbance"
+    },
+    {
+        "灣口沙壩；灣口沙洲": "baymouth beach"
+    },
+    {
+        "海灘": "beach"
+    },
+    {
+        "海灘淤積作用": "beach accretion"
+    },
+    {
+        "海灘沙堤；海底暗礁；海灘障壁": "beach barrier"
+    },
+    {
+        "海灘流槽；湖灘流槽": "beach chute"
+    },
+    {
+        "拍岸浪": "beach comber"
+    },
+    {
+        "灘角；灘嘴；灘尖": "beach cusp"
+    },
+    {
+        "灘面": "beach face"
+    },
+    {
+        "海灘相": "beach facies"
+    },
+    {
+        "海灘砂礦": "beach placer"
+    },
+    {
+        "海灘縱剖面": "beach profile"
+    },
+    {
+        "灘脊": "beach rampart"
+    },
+    {
+        "海灘坡": "beach slope"
+    },
+    {
+        "灘岸": "beach strand"
+    },
+    {
+        "灘線": "beachline"
+    },
+    {
+        "底載；層載": "bed-load"
+    },
+    {
+        "比爾定律": "Beer's Law"
+    },
+    {
+        "擬箭石屬{頭足類}": "Belemnitella"
+    },
+    {
+        "箭石屬{頭足類}": "Belemnites"
+    },
+    {
+        "箭石類{頭足類}": "Belemnoidea"
+    },
+    {
+        "箭石類": "belemnoids"
+    },
+    {
+        "似箭石屬{頭足類}": "Belemnopsis"
+    },
+    {
+        "小貝爾氏螺屬{腹足類}": "Belgrandiella"
+    },
+    {
+        "環梭螺屬{腹足類}": "Bellamya"
+    },
+    {
+        "箭菊石屬{頭足類}": "Beloceras"
+    },
+    {
+        "貝雷特角石屬{頭足類}": "Beloitoceras"
+    },
+    {
+        "白鯨": "beluga"
+    },
+    {
+        "本尼菊石屬{頭足類}": "Beneckeia"
+    },
+    {
+        "本氏螺屬{腹足類}": "Benedictia"
+    },
+    {
+        "本格拉洋流": "Benguela Current"
+    },
+    {
+        "班尼奧夫帶；班氏帶": "Benioff zone"
+    },
+    {
+        "底棲性；底棲的": "benthic"
+    },
+    {
+        "海底邊界層": "benthic boundary layer"
+    },
+    {
+        "底流前緣": "benthic front"
+    },
+    {
+        "底棲生物": "benthic organism"
+    },
+    {
+        "底棲生物沉積作用": "benthic sedimentation"
+    },
+    {
+        "海底浪": "benthic storm"
+    },
+    {
+        "底棲帶": "benthic zone"
+    },
+    {
+        "底棲生物群": "benthon"
+    },
+    {
+        "棲底的；底棲的": "benthonic"
+    },
+    {
+        "底棲有孔蟲": "benthonic foraminifera"
+    },
+    {
+        "水底植物": "benthophyte"
+    },
+    {
+        "底棲生物": "benthos"
+    },
+    {
+        "水底生物帶": "benthos belt"
+    },
+    {
+        "白令海": "Bering Sea"
+    },
+    {
+        "灘肩": "berm"
+    },
+    {
+        "灘台脊": "berm crest"
+    },
+    {
+        "百慕達海隆": "Bermuda Rise"
+    },
+    {
+        "倍奈螺屬{腹足類}": "Bernaya"
+    },
+    {
+        "貝利亞斯菊石屬{頭足類}": "Berriasella"
+    },
+    {
+        "長壁內溝珊瑚屬": "Bethanyphyllum"
+    },
+    {
+        "伯利吉齒菊石屬{頭足類}": "Beyrichites"
+    },
+    {
+        "伯利吉菊石屬{頭足類}": "Beyrichoceras"
+    },
+    {
+        "勺板叢珊瑚屬": "Biattershyia"
+    },
+    {
+        "雙盤顆石屬{鈣質超微化石}": "Bidiscus"
+    },
+    {
+        "雙串蟲屬{有孔蟲類}": "Bigenerina"
+    },
+    {
+        "小海灣": "bight"
+    },
+    {
+        "畢靈星珊瑚屬": "Billingsastraea"
+    },
+    {
+        "雙玦蟲屬{有孔蟲類}": "Billoculina"
+    },
+    {
+        "小雙玦蟲屬{有孔蟲類}": "Billoculinella"
+    },
+    {
+        "生化需氧量": "biochemical oxygen demand (BOD)"
+    },
+    {
+        "生物碎屑的": "bioclastic"
+    },
+    {
+        "生物碎屑": "bioclastics"
+    },
+    {
+        "生物多樣性": "biodiversity"
+    },
+    {
+        "生物膜": "biofilm"
+    },
+    {
+        "生質能": "biofuel"
+    },
+    {
+        "生命起源的": "biogenic"
+    },
+    {
+        "生物矽；生物硅": "biogenic silica"
+    },
+    {
+        "生物源沈積物": "biogenous sediments"
+    },
+    {
+        "生物地球化學循環；生物地球化學旋迴": "biogeochemical cycle"
+    },
+    {
+        "生物地球化學": "biogeochemistry"
+    },
+    {
+        "生物地理區": "biogeographic region"
+    },
+    {
+        "生物地理學": "biogeography"
+    },
+    {
+        "生物礁": "bioherm"
+    },
+    {
+        "生物塊礁岩": "biohermite"
+    },
+    {
+        "生物指標": "bioindicator"
+    },
+    {
+        "生物限制元素": "biolimiting elements"
+    },
+    {
+        "生物顆粒": "biologic grain"
+    },
+    {
+        "生物軟泥": "biologic ooze"
+    },
+    {
+        "生物磷灰岩；生物磷塊岩": "biologic phosphorite"
+    },
+    {
+        "生物需氧量": "biological oxygen demand (BOD)"
+    },
+    {
+        "生物幫浦；生物泵": "biological pump"
+    },
+    {
+        "生物安全": "biological safety"
+    },
+    {
+        "生物沉積作用": "biological sedimentation"
+    },
+    {
+        "生物螢光；生物發光": "bioluminescence"
+    },
+    {
+        "生物分解作用": "biolysis"
+    },
+    {
+        "生物放大；生物富集[作用]": "biomagnification"
+    },
+    {
+        "生物指標": "biomarker"
+    },
+    {
+        "生物群系；生物群區": "biome"
+    },
+    {
+        "生物細晶岩": "biomicrite"
+    },
+    {
+        "生物礫岩": "biomicrorudite"
+    },
+    {
+        "生物微屑岩": "biomicrosparite"
+    },
+    {
+        "仿生學": "biomimetics"
+    },
+    {
+        "生物礦化；生物礦化作用": "biomineralization"
+    },
+    {
+        "仿生學": "bionics"
+    },
+    {
+        "生物圈；生物界": "biosphere"
+    },
+    {
+        "生物礁[層]的": "biostromal"
+    },
+    {
+        "生物礁": "biostrome"
+    },
+    {
+        "生物合成作用": "biosynthesis"
+    },
+    {
+        "生物遙測；生物追蹤": "biotelemetry"
+    },
+    {
+        "生物擾動作用": "bioturbation"
+    },
+    {
+        "生物擾動構造": "bioturbation structure"
+    },
+    {
+        "生物擾動岩": "bioturbite"
+    },
+    {
+        "二分鮞粒；對分鮞粒": "bipartite oolite"
+    },
+    {
+        "雙盤棒石屬{鈣質超微化石}": "Bipodorhabdus"
+    },
+    {
+        "鳥足狀三角洲": "bird-foot delta"
+    },
+    {
+        "比克顆石屬{鈣質超微化石}": "Birkelundia"
+    },
+    {
+        "比塞特菊石屬{頭足類}": "Bisatoceras"
+    },
+    {
+        "餅乾顆石屬；雙盾顆石屬{鈣質超微化石}": "Biscutum"
+    },
+    {
+        "鑽頭；位元": "bit"
+    },
+    {
+        "二枚貝": "bivalve"
+    },
+    {
+        "琵琶【虫筵】屬{有孔蟲類}": "Biwaella"
+    },
+    {
+        "暗色冰": "black ice"
+    },
+    {
+        "黑海": "Black Sea"
+    },
+    {
+        "黑煙囪": "black smoker"
+    },
+    {
+        "黑體": "blackbody"
+    },
+    {
+        "布萊克海台": "Blake Plateau"
+    },
+    {
+        "布蘭弗菊石屬{頭足類}": "Blanfordiceras"
+    },
+    {
+        "藻華": "bloom"
+    },
+    {
+        "高萼珊瑚屬": "Blothrophyllum"
+    },
+    {
+        "藍綠菌；藍綠藻": "blue-green algae"
+    },
+    {
+        "陡岸；懸崖": "bluff"
+    },
+    {
+        "滯水彎": "bogan"
+    },
+    {
+        "包吉姆巴依珊瑚屬": "Bogimbailites"
+    },
+    {
+        "渤海藻屬{甲藻類}": "Bohaidina"
+    },
+    {
+        "渤海螺屬{腹足類}": "Bohaispira"
+    },
+    {
+        "沸點": "boiling point (b.p.)"
+    },
+    {
+        "陡峻海岸": "bold coast"
+    },
+    {
+        "箭頭蟲屬{有孔蟲類}": "Bolivina"
+    },
+    {
+        "簇石屬{鈣質超微化石}": "Bomolithus"
+    },
+    {
+        "小笠原–馬里亞納島弧": "Bonin-Mariana island arc"
+    },
+    {
+        "鰹魚": "bonito"
+    },
+    {
+        "硼酸鹽鹼度": "borate alkalinity"
+    },
+    {
+        "博里珊瑚屬": "Borelasma"
+    },
+    {
+        "溝珊瑚屬": "Bothrophyllum"
+    },
+    {
+        "葡萄藻屬{黃藻類}": "Botryococcus"
+    },
+    {
+        "瓶頸灣": "bottleneck bay"
+    },
+    {
+        "海底取岩芯": "bottom coring"
+    },
+    {
+        "底層流；底流": "bottom current"
+    },
+    {
+        "底層密度流": "bottom density current"
+    },
+    {
+        "底流": "bottom flow"
+    },
+    {
+        "海底地形": "bottom topography"
+    },
+    {
+        "底層水": "bottom water"
+    },
+    {
+        "鮑氏藻屬": "Boueina"
+    },
+    {
+        "布干維爾海溝": "Bougainville Trench"
+    },
+    {
+        "巨礫灘；礫石灘": "boulder beach"
+    },
+    {
+        "布爾頓【虫筵】屬{有孔蟲類}": "Boultonia"
+    },
+    {
+        "界面膜": "boundary film"
+    },
+    {
+        "界面通量": "boundary flux"
+    },
+    {
+        "邊界層": "boundary layer"
+    },
+    {
+        "博文比[率]": "Bowen's Ratio"
+    },
+    {
+        "箱形峽谷": "box canyon"
+    },
+    {
+        "箱式採岩器": "box corer"
+    },
+    {
+        "盒子模式": "box model"
+    },
+    {
+        "布拉魯德球石屬{鈣質超微化石}": "Braarudosphaera"
+    },
+    {
+        "短板珊瑚屬": "Brachyelasma"
+    },
+    {
+        "橋台狀三角洲": "bracket delta"
+    },
+    {
+        "半鹹水堆積": "brackish deposit"
+    },
+    {
+        "半鹹環境；半淡鹹水環境": "brackish environment"
+    },
+    {
+        "半鹹水；微鹹水；半淡鹹水": "brackish water"
+    },
+    {
+        "半鹹水潟湖相；淡化潟湖相": "brackish-water lagoon facies"
+    },
+    {
+        "高肌介目{介形類}": "Bradoricopida"
+    },
+    {
+        "布拉迪蟲屬{有孔蟲類}": "Bradyina"
+    },
+    {
+        "布拉特雷介屬{介形類}": "Bradyleya"
+    },
+    {
+        "遲珊瑚屬": "Bradyphyllum"
+    },
+    {
+        "布拉格散射": "Bragg scattering"
+    },
+    {
+        "布蘭利特石屬{鈣質超微化石}": "Bramletteius"
+    },
+    {
+        "分叉海灣": "branch bay"
+    },
+    {
+        "叉河島；三角洲島；河間島": "branch island"
+    },
+    {
+        "分叉河口灣": "branching bay"
+    },
+    {
+        "巴西海盆": "Brazil Basin"
+    },
+    {
+        "巴西洋流": "Brazil Current"
+    },
+    {
+        "層皮結核": "breadcrust"
+    },
+    {
+        "碎浪": "breaker"
+    },
+    {
+        "碎波高度": "breaker height"
+    },
+    {
+        "碎浪帶": "breaker zone"
+    },
+    {
+        "防波堤": "breakwater"
+    },
+    {
+        "短軸【虫筵】屬{有孔蟲類}": "Brevaxina"
+    },
+    {
+        "短內溝珊瑚屬": "Breviphrentis"
+    },
+    {
+        "短珊瑚屬": "Breviphyllum"
+    },
+    {
+        "短隔壁珊瑚屬": "Breviseptophyllum"
+    },
+    {
+        "布魯斯特角": "Brewster's angle"
+    },
+    {
+        "判草蟲屬": "Brizalina"
+    },
+    {
+        "布羅因索石屬{鈣質超微化石}": "Broinsonia"
+    },
+    {
+        "勃氏藻屬": "Broomea"
+    },
+    {
+        "褐色黏土": "brown clay"
+    },
+    {
+        "蘚蟲類；苔蘚動物門": "Bryozoa"
+    },
+    {
+        "氣泡效應": "bubble effect"
+    },
+    {
+        "巴卡庫石屬{鈣質超微化石}": "Bucculinus"
+    },
+    {
+        "布基菊石屬{頭足類}": "Buchites"
+    },
+    {
+        "菩薩菊石屬{頭足類}": "Buddhaites"
+    },
+    {
+        "緩衝容量；緩衝能力": "buffer capacity"
+    },
+    {
+        "緩衝溶液": "buffer solution"
+    },
+    {
+        "小泡蟲屬{有孔蟲類}": "Bulimina"
+    },
+    {
+        "布拉德型熱探針": "Bullard probe"
+    },
+    {
+        "布洛格菊石屬{頭足類}": "Bulogites"
+    },
+    {
+        "潛山；埋藏丘": "buried hill"
+    },
+    {
+        "緬甸蛤屬{雙殼類}": "Burmesia"
+    },
+    {
+        "緬甸貝屬{腕足類}": "Burmirhynchia"
+    },
+    {
+        "布什珊瑚屬": "Buschophyllum"
+    },
+    {
+        "混獲": "bycatch"
+    },
+    {
+        "β-海泡石": "β-sepiolite"
+    },
+    {
+        "串跌": "Cascade"
+    },
+    {
+        "碳捕獲和封存 (CCS)": "carbon capture and storage (CCS)"
+    },
+    {
+        "碳固存": "carbon sequestration"
+    },
+    {
+        "碳酸鹽系統": "carbonate system"
+    },
+    {
+        "化學生物帶": "chemobiotic zone"
+    },
+    {
+        "化學合成；化合作用": "chemosynthesis"
+    },
+    {
+        "搬運力": "competence"
+    },
+    {
+        "通道": "conduit"
+    },
+    {
+        "國際[哥本哈根]標準海水": "Copenhagen water (= normal water)"
+    },
+    {
+        "幾丁質": "chitin"
+    },
+    {
+        "努德森滴定管；氯度滴定管": "chlorinity burette"
+    },
+    {
+        "居禮溫度": "Curie temperature"
+    },
+    {
+        "箱網養殖": "cage culture"
+    },
+    {
+        "卡拉波西珊瑚屬{床板珊瑚類}": "Calapoecia"
+    },
+    {
+        "鈣質的；石灰質的": "calcareous"
+    },
+    {
+        "鈣質沉積物": "calcareous  sediment"
+    },
+    {
+        "鈣[質]藻": "calcareous algae"
+    },
+    {
+        "鈣蟲屬{有孔蟲類}": "Calcarina"
+    },
+    {
+        "鈣質膠結的": "calcarinate"
+    },
+    {
+        "拖鞋珊瑚屬": "Calceola"
+    },
+    {
+        "鈣質的": "calcic"
+    },
+    {
+        "鈣蘭石屬{鈣質超微化石}": "Calcicalathina"
+    },
+    {
+        "鈣化；鈣化作用": "calcification"
+    },
+    {
+        "鈣質海綿綱": "Calcispongia"
+    },
+    {
+        "鈣質海綿": "Calcispongiae"
+    },
+    {
+        "方解石補償深度": "calcite compensation depth (CCD)"
+    },
+    {
+        "碳酸鈣補償深度": "calcium carbonate compensation depth"
+    },
+    {
+        "加利福尼亞洋流": "California Current"
+    },
+    {
+        "麗葉菊石屬 {頭足類}": "Calliphylloceras"
+    },
+    {
+        "美珊瑚屬": "Calophyllum"
+    },
+    {
+        "硬錳礦；軟錳礦": "calvonigrite"
+    },
+    {
+        "彎曲球石屬{鈣質超微化石}": "Campylosphaera"
+    },
+    {
+        "加那利洋流": "Canary Current"
+    },
+    {
+        "犬齒珊瑚屬": "Caninia"
+    },
+    {
+        "犬齒珊瑚亞目；羽層隔壁亞目": "Caniniacea"
+    },
+    {
+        "峽谷": "canyon"
+    },
+    {
+        "峽谷充填物": "canyon fill"
+    },
+    {
+        "岬；岬角": "cape"
+    },
+    {
+        "碳循環": "carbon cycle"
+    },
+    {
+        "碳當量": "carbon equivalent"
+    },
+    {
+        "碳流量": "carbon flow"
+    },
+    {
+        "碳匯": "carbon sink"
+    },
+    {
+        "碳源": "carbon source"
+    },
+    {
+        "碳質的": "carbonaceous"
+    },
+    {
+        "碳酸鹽鹼度": "carbonate alkalinity"
+    },
+    {
+        "碳酸岩造體": "carbonate buildup"
+    },
+    {
+        "碳酸鹽補償深度": "carbonate compensation depth (CCD)"
+    },
+    {
+        "碳酸鹽地台": "carbonate platform"
+    },
+    {
+        "石炭蟲屬{有孔蟲類}": "Carbonella"
+    },
+    {
+        "蟹珊瑚屬": "Carcinophyllum"
+    },
+    {
+        "心菊石屬{頭足類}": "Cardioceras"
+    },
+    {
+        "加勒比板塊": "Caribbean Plate"
+    },
+    {
+        "加勒比海": "Caribbean Sea"
+    },
+    {
+        "卡里農顆石{鈣質超微化石}": "Carinolithus"
+    },
+    {
+        "卡爾斯伯格海脊": "Carlsberg Ridge"
+    },
+    {
+        "肉食動物；肉食者": "carnivore"
+    },
+    {
+        "卡魯特珊瑚屬": "Carruthersella"
+    },
+    {
+        "盔形蟲屬{有孔蟲類}": "Cassidulina"
+    },
+    {
+        "盔形蟲超科{有孔蟲類}": "Cassidulinacea"
+    },
+    {
+        "降河[洄游]的": "catadromous"
+    },
+    {
+        "沙島；沙礁": "cay"
+    },
+    {
+        "海灘岩；礁島岩": "cay rock"
+    },
+    {
+        "珊瑚洲砂岩": "cay sandstone"
+    },
+    {
+        "開曼海溝": "Cayman Trench"
+    },
+    {
+        "西里伯斯海盆": "Celebes Basin"
+    },
+    {
+        "多孔蟲屬{有孔蟲類}": "Cellanthus"
+    },
+    {
+        "空盤蟲超科{放射蟲類}": "Cenodiscicae"
+    },
+    {
+        "中央谷": "central valley"
+    },
+    {
+        "尖角石超科{頭足類}": "Centrocerataceae"
+    },
+    {
+        "頭足類": "cephalopods"
+    },
+    {
+        "菊面石屬{頭足類}": "Ceratite"
+    },
+    {
+        "菊面石的": "ceratitic"
+    },
+    {
+        "菊面石式縫合線": "ceratitic suture"
+    },
+    {
+        "角布里米尼蟲科；弓小泡蟲科{有孔蟲類}": "Ceratobuliminidae"
+    },
+    {
+        "鯨豚類": "cetacean"
+    },
+    {
+        "白堊": "chalk"
+    },
+    {
+        "鮞綠泥石": "chamosite"
+    },
+    {
+        "水道；頻道": "channel"
+    },
+    {
+        "通道；河床；河槽": "channel-way"
+    },
+    {
+        "輪藻屬": "Chara"
+    },
+    {
+        "裂溝": "chasm"
+    },
+    {
+        "唇菊石超科{頭足類}": "Cheilocerataceae"
+    },
+    {
+        "化學質量平衡": "chemical mass balance"
+    },
+    {
+        "化學需氧量": "chemical oxygen demand (COD)"
+    },
+    {
+        "化學物種": "chemical speciation"
+    },
+    {
+        "化學示踪劑": "chemical tracer"
+    },
+    {
+        "化學風化": "chemical weathering"
+    },
+    {
+        "化學螢光；化學發光": "chemiluminescence"
+    },
+    {
+        "化學吸附": "chemisorption"
+    },
+    {
+        "化合自營生物": "chemoautotrophs"
+    },
+    {
+        "化學營養生物": "chemotrophs"
+    },
+    {
+        "海沼沙脊": "chenier"
+    },
+    {
+        "直隸角石屬{頭足類}": "Chihlioceras"
+    },
+    {
+        "智利海盆": "Chile Basin"
+    },
+    {
+        "智利海隆": "Chile Rise"
+    },
+    {
+        "智利海溝": "Chile Trench"
+    },
+    {
+        "智利型隱沒帶；智利型俯衝帶": "Chilean-type subduction zone"
+    },
+    {
+        "銀鮫": "chimeras"
+    },
+    {
+        "煙囪狀柱；筒狀礦體": "chimney"
+    },
+    {
+        "努德森移液管；氯度移液管": "chlorinity pipet"
+    },
+    {
+        "綠泥石": "chlorite"
+    },
+    {
+        "綠泥石化": "chloritization"
+    },
+    {
+        "葉綠素": "chlorophyll"
+    },
+    {
+        "軟骨魚綱": "Chondrichthyes"
+    },
+    {
+        "漏斗珊瑚屬": "Chonophyllyum"
+    },
+    {
+        "脊索動物": "chordate"
+    },
+    {
+        "色度計；比度計": "chromometer"
+    },
+    {
+        "朱森(虫+筵)屬{有孔蟲類}": "Chusenella"
+    },
+    {
+        "朱森珊瑚屬": "Chusenophyllum"
+    },
+    {
+        "麵包蟲類{有孔蟲類}": "Cibicides"
+    },
+    {
+        "雪卡藻毒素": "ciguatoxin"
+    },
+    {
+        "纖毛蟲類；纖毛蟲": "ciliate"
+    },
+    {
+        "柱叢珊瑚屬": "Cionodendron"
+    },
+    {
+        "環流": "circulation"
+    },
+    {
+        "循環示踪劑": "circulation tracer"
+    },
+    {
+        "環太平洋岩區": "circum-Pacific province"
+    },
+    {
+        "枝盤菊石科{頭足類}": "Cladiscitidae"
+    },
+    {
+        "格子顆石屬{鈣質超微化石}": "Clathrolithus"
+    },
+    {
+        "黏土": "clay"
+    },
+    {
+        "懸崖；崖": "cliff"
+    },
+    {
+        "梯形蟲屬；柵口蟲屬{有孔蟲類}": "Climacammina"
+    },
+    {
+        "氣候學": "climatology"
+    },
+    {
+        "女海神菊石屬{頭足類}": "Clionites"
+    },
+    {
+        "蛛網珊瑚屬": "Clisiophyllum"
+    },
+    {
+        "封閉式循環": "closed cycle"
+    },
+    {
+        "新月藻屬{綠藻類}": "Closterium"
+    },
+    {
+        "海神石屬{頭足類}": "Clymenia"
+    },
+    {
+        "盾海膽屬{海膽類}": "Clypeaster"
+    },
+    {
+        "刺[絲]胞動物門": "Cnidaria"
+    },
+    {
+        "粒級": "coarse-tail grading"
+    },
+    {
+        "海岸": "coast"
+    },
+    {
+        "海岸線": "coast line"
+    },
+    {
+        "海岸帶": "coast zone"
+    },
+    {
+        "海岸加積": "coastal accretion"
+    },
+    {
+        "海岸加積": "coastal aggradation"
+    },
+    {
+        "海岸屏障壩": "coastal barrier"
+    },
+    {
+        "海岸流；沿岸流　": "coastal current"
+    },
+    {
+        "海岸進侵": "coastal encroachment"
+    },
+    {
+        "海岸資源；沿岸資源": "coastal resource"
+    },
+    {
+        "海岸帶": "coastal zone"
+    },
+    {
+        "海岸線": "coastline"
+    },
+    {
+        "粗礫": "cobble"
+    },
+    {
+        "鈣板藻灰泥": "coccoconite"
+    },
+    {
+        "顆石藻類；鈣板藻類": "coccolithid"
+    },
+    {
+        "鈣板藻；顆石藻": "Coccolithophora"
+    },
+    {
+        "球石藻；球菌藻": "coccolithophore"
+    },
+    {
+        "顆石屬；球石屬{鈣質超微化石}": "Coccolithus"
+    },
+    {
+        "殼角石屬{頭足類}": "Cochlioceras"
+    },
+    {
+        "科克斯板塊": "Cocos Plate"
+    },
+    {
+        "鱈": "cod"
+    },
+    {
+        "責任制漁業準則": "Code of Conduct for Responsible Fisheries"
+    },
+    {
+        "喇叭珊瑚屬": "Codonophyllum"
+    },
+    {
+        "共壁珊瑚目{八射珊瑚}": "Coenothecalia"
+    },
+    {
+        "冷泉{海洋}": "cold seep"
+    },
+    {
+        "小聚環疊層石屬；小聚環藻屬": "Collenella"
+    },
+    {
+        "聚環疊層石屬；聚環藻屬": "Collenia"
+    },
+    {
+        "碰撞": "collision"
+    },
+    {
+        "碰撞邊緣": "collision margin"
+    },
+    {
+        "膠體；膠凝態": "colloid"
+    },
+    {
+        "膠凝態懸浮 ；膠凝懸體": "colloidal suspension"
+    },
+    {
+        "群體珊瑚": "colonial coral"
+    },
+    {
+        "群體生物": "colonial organism"
+    },
+    {
+        "圓柱疊層石屬": "Colonnella"
+    },
+    {
+        "哥倫布菊石屬": "Columbites"
+    },
+    {
+        "柱珊瑚屬": "Columnaria"
+    },
+    {
+        "鈕扣珊瑚屬": "Combophyllum"
+    },
+    {
+        "國際地質科學聯合會海洋地質學委員會；國際地科聯海洋地質學委員會": "Commission for Marine Geology, IUGS"
+    },
+    {
+        "亞洲近岸海域礦產資源聯合勘探協調委員會[礦產聯勘協委會]": "Committee for Co-ordination of Joint Prospecting for Mineral Resources in Asia Offshore Areas (CCOP)"
+    },
+    {
+        "群集；群聚；群落": "community"
+    },
+    {
+        "壓實；壓密": "compaction"
+    },
+    {
+        "海水組成": "composition of sea water"
+    },
+    {
+        "搬運力": "competency"
+    },
+    {
+        "壓縮性；壓縮率；可壓性": "compressibility"
+    },
+    {
+        "擠壓盆地；擠陷盆地": "compressional basin"
+    },
+    {
+        "壓縮波；縱波": "compressional wave"
+    },
+    {
+        "壓縮波速度": "compressional wave velocity"
+    },
+    {
+        "濃度梯度": "concentration gradient"
+    },
+    {
+        "整接海岸線；順向海岸線": "concordant coastline"
+    },
+    {
+        "結核；固結": "concretion"
+    },
+    {
+        "凝結[作用]；凝聚[作用]": "condensation"
+    },
+    {
+        "凝結核": "condensation nucleus"
+    },
+    {
+        "凝聚層序": "condensed sequence"
+    },
+    {
+        "傳導；導電 ；聲導": "conductance"
+    },
+    {
+        "可導電性": "conductibility"
+    },
+    {
+        "導電式鹽度計": "conductive salinometer"
+    },
+    {
+        "導電度": "conductivity"
+    },
+    {
+        "鹽溫深儀": "conductivity temperature depth (CTD)"
+    },
+    {
+        "錐狀體": "cone"
+    },
+    {
+        "錐狀三角洲": "cone delta"
+    },
+    {
+        "礫岩": "conglomerate"
+    },
+    {
+        "原生的": "connate"
+    },
+    {
+        "圓錐顆石屬{鈣質超微化石}": "Conococcolithus"
+    },
+    {
+        "錐疊層石屬": "Conophyton"
+    },
+    {
+        "守恆": "conservation"
+    },
+    {
+        "守恆濃度": "conservative concentration"
+    },
+    {
+        "守恆成分": "conservative constituents"
+    },
+    {
+        "守恆元素": "conservative elements"
+    },
+    {
+        "守恆系統": "conservative system"
+    },
+    {
+        "固結；凝固；固結作用；凝固作用": "consolidation"
+    },
+    {
+        "海水成分恆定性": "constancy of composition of sea water"
+    },
+    {
+        "等密度面": "constant density surface"
+    },
+    {
+        "海水成分[物]": "constituents in sea water"
+    },
+    {
+        "海水組成[物]": "constituents of sea water"
+    },
+    {
+        "組成；構造；結構 ；成分": "constitution"
+    },
+    {
+        "含量": "content"
+    },
+    {
+        "大陸": "continent"
+    },
+    {
+        "大陸增生": "continental accretion"
+    },
+    {
+        "大陸漂移": "continental drift"
+    },
+    {
+        "大陸漂移說": "continental drift theory"
+    },
+    {
+        "大陸成長；大陸增長": "continental growth"
+    },
+    {
+        "大陸邊緣；陸緣": "continental margin"
+    },
+    {
+        "大陸台地": "continental platform"
+    },
+    {
+        "大陸隆堆；大陸緣積": "continental rise"
+    },
+    {
+        "陸隆堆裙": "continental rise apron"
+    },
+    {
+        "陸隆堆錐": "continental rise cone"
+    },
+    {
+        "大陸棚；大陸架；陸棚": "continental shelf"
+    },
+    {
+        "陸棚相；陸架相": "continental shelf facies"
+    },
+    {
+        "大陸坡；大陸斜坡": "continental slope"
+    },
+    {
+        "大陸階地": "continental terrace"
+    },
+    {
+        "連續運轉的水質監測": "continuous on-stream monitoring of water quality"
+    },
+    {
+        "等高線；等深線；輪廓；外型": "contour"
+    },
+    {
+        "等深海流；等深流": "contour current"
+    },
+    {
+        "等值[線]圖": "contour diagram"
+    },
+    {
+        "等值線 ；等深線；等高線": "contour line"
+    },
+    {
+        "等值線圖 ；等高線圖；等深線圖": "contour map"
+    },
+    {
+        "等值面": "contour surface"
+    },
+    {
+        "平積岩": "contourite"
+    },
+    {
+        "收縮係數": "contraction coefficient"
+    },
+    {
+        "疊置濱線": "contraposed shoreline"
+    },
+    {
+        "對比；對照；反差；襯度": "contrast"
+    },
+    {
+        "生物多樣性公約": "Convention of Biological Diversity (CBD)"
+    },
+    {
+        "瀕危野生動植物種國際貿易公約": "Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)"
+    },
+    {
+        "聚合邊界；匯聚邊界": "convergent boundary"
+    },
+    {
+        "匯聚流": "convergent current"
+    },
+    {
+        "聚合邊緣；匯聚邊緣": "convergent margin"
+    },
+    {
+        "聚合板塊；匯聚板塊；聚斂板塊": "convergent plate"
+    },
+    {
+        "聚合型板塊邊界；匯聚型板塊邊界": "converging plate boundary"
+    },
+    {
+        "黑潮及鄰近水域的合作研究": "Cooperative Study of the Kuroshio and Adjacent Regions (CSK)"
+    },
+    {
+        "橈足類": "copepod"
+    },
+    {
+        "橈足亞綱": "Copepoda"
+    },
+    {
+        "共聚合作用": "copolymerisation"
+    },
+    {
+        "柯帕疊層石屬": "Copperia"
+    },
+    {
+        "共沉澱": "co-precipitation"
+    },
+    {
+        "貝殼石灰岩；介殼石灰岩": "coquina"
+    },
+    {
+        "珊瑚；珊瑚蟲": "coral"
+    },
+    {
+        "珊瑚藻相": "coral algal facies"
+    },
+    {
+        "珊瑚環礁": "coral atoll"
+    },
+    {
+        "珊瑚灘": "coral beach"
+    },
+    {
+        "珊瑚白化": "coral bleaching"
+    },
+    {
+        "珊瑚丘；礁岩塊；珊瑚塊": "coral knoll"
+    },
+    {
+        "珊瑚石灰岩": "coral limestone"
+    },
+    {
+        "珊瑚柱": "coral pillar"
+    },
+    {
+        "珊瑚塔": "coral pinnacle"
+    },
+    {
+        "珊瑚蟲": "coral polyp"
+    },
+    {
+        "珊瑚礁角礫岩": "coral rag"
+    },
+    {
+        "珊瑚礁": "coral reef"
+    },
+    {
+        "珊瑚砂": "coral sand"
+    },
+    {
+        "珊瑚海": "Coral Sea"
+    },
+    {
+        "珊瑚海盆": "Coral Sea Basin"
+    },
+    {
+        "珊瑚暗礁；珊瑚洲": "coral shoal"
+    },
+    {
+        "珊瑚丘": "coral tableland"
+    },
+    {
+        "珊瑚崖錐；珊瑚屑錐": "coral talus"
+    },
+    {
+        "珊瑚藻沉積物": "coralgal"
+    },
+    {
+        "珊瑚藻微晶石灰岩": "coralgal micrite"
+    },
+    {
+        "珊瑚藻屬{鈣藻}": "Corallina"
+    },
+    {
+        "珊瑚藻": "coralline algae"
+    },
+    {
+        "珊瑚石灰岩": "coralline crag"
+    },
+    {
+        "珊瑚相": "coralline facies"
+    },
+    {
+        "珊瑚石灰岩": "coralline limestone"
+    },
+    {
+        "珊瑚藻類": "Corallineae"
+    },
+    {
+        "珊瑚單體": "corallite"
+    },
+    {
+        "珊瑚礁海岸": "coral-reef coast"
+    },
+    {
+        "珊瑚礁潟湖": "coral-reef lagoon"
+    },
+    {
+        "珊瑚礁海岸線；珊瑚礁濱線": "coral-reef shoreline"
+    },
+    {
+        "珊瑚–層孔蟲岩礁": "coral-stromatoporoid reef"
+    },
+    {
+        "瞳仁環顆石屬{鈣質超微化石}": "Corannulus"
+    },
+    {
+        "岩芯；岩心；地核；磁心；核心": "core"
+    },
+    {
+        "岩芯分析；岩心分析": "core analysis"
+    },
+    {
+        "岩芯管；岩心管；岩芯筒；岩心筒；取芯筒": "core barrel"
+    },
+    {
+        "岩芯鑽頭；岩心鑽頭；取芯鑽頭": "core bit"
+    },
+    {
+        "取芯鑽進；取芯鑽採": "core boring"
+    },
+    {
+        "岩芯捕捉器；岩心捕捉器；岩芯爪；岩心爪": "core catcher"
+    },
+    {
+        "岩芯切割機；岩心切割機；岩芯切片機；岩心切片機；岩芯切刀；岩心切刀": "core cutter"
+    },
+    {
+        "岩芯鑽；岩心鑽": "core drill"
+    },
+    {
+        "岩芯收穫率；岩心收穫率；取芯率；岩芯採收率；岩心採收率": "core recovery"
+    },
+    {
+        "岩芯標本；岩心標本": "core sample"
+    },
+    {
+        "岩芯記錄圖；岩心記錄圖；岩芯柱狀圖；岩心柱狀圖": "coregraph"
+    },
+    {
+        "岩芯採取器；岩心採取器；取岩芯器；取岩心器；取芯器；採岩器": "corer"
+    },
+    {
+        "取岩芯；取岩心": "coring"
+    },
+    {
+        "柯氏力": "Coriolis force"
+    },
+    {
+        "花冠顆石屬{鈣質超微化石}": "Corollithion"
+    },
+    {
+        "腐蝕 ；侵蝕": "corrosion"
+    },
+    {
+        "簇棚珊瑚屬": "Corwenia"
+    },
+    {
+        "瘤菊石屬": "Cosmoceras"
+    },
+    {
+        "宇宙源放射性同位素": "cosmogenic radioisotopes"
+    },
+    {
+        "全球種；廣佈種": "cosmopolitan species"
+    },
+    {
+        "同潮線；等潮線": "cotidal line"
+    },
+    {
+        "共價": "covalence"
+    },
+    {
+        "小灣；小河灣": "cove"
+    },
+    {
+        "響鹽": "cracking salt"
+    },
+    {
+        "白堊盤石屬{鈣質超微化石}": "Cretadiscus"
+    },
+    {
+        "裂隙；冰隙；決口{河堤}": "crevasse"
+    },
+    {
+        "篩旋蟲屬{有孔蟲類}": "Cribrospira"
+    },
+    {
+        "篩口蟲屬{有孔蟲類}": "Cribrostomum"
+    },
+    {
+        "海百合；海羊齒": "crinoid"
+    },
+    {
+        "海冠亞門{棘皮類}": "Crinozoa"
+    },
+    {
+        "羊角菊石屬": "Crioceras"
+    },
+    {
+        "海百合屑石灰岩": "criquina"
+    },
+    {
+        "臨界條件": "critical condition"
+    },
+    {
+        "臨界點": "critical point"
+    },
+    {
+        "臨界壓力": "critical pressure"
+    },
+    {
+        "臨界坡度": "critical slope"
+    },
+    {
+        "臨界狀態": "critical state"
+    },
+    {
+        "臨界溫度": "critical temperature(s)"
+    },
+    {
+        "臨界最高溫度": "critical thermal maximum"
+    },
+    {
+        "臨界值": "critical value"
+    },
+    {
+        "克氏輪藻屬": "Croftiella"
+    },
+    {
+        "橫沙洲；分叉脊{波痕}；橫把{鈣質超微化石}": "cross bar"
+    },
+    {
+        "交錯層理": "cross bedding"
+    },
+    {
+        "交錯層理；交互成層": "cross-stratification"
+    },
+    {
+        "交錯層": "cross-stratum"
+    },
+    {
+        "克羅澤海盆": "Crozet Basin"
+    },
+    {
+        "克羅澤海台": "Crozet Plateau"
+    },
+    {
+        "原油": "crude oil (= crude petroleum)"
+    },
+    {
+        "地殼": "crust"
+    },
+    {
+        "甲殼類": "crustacean"
+    },
+    {
+        "隱生藻；陀螺狀疊層石": "cryptozoon"
+    },
+    {
+        "晶體離子半徑": "crystal ionic radius"
+    },
+    {
+        "晶格": "crystal lattice"
+    },
+    {
+        "晶質的；結晶的 ；晶狀的": "crystalline"
+    },
+    {
+        "結晶石灰岩": "crystalline limestone"
+    },
+    {
+        "結晶": "crystallization"
+    },
+    {
+        "櫛板動物門；櫛水母動物門": "Ctenophora"
+    },
+    {
+        "立方球蟲科{放射蟲類}": "Cubosphaeridae"
+    },
+    {
+        "團粒": "cumularspharolith"
+    },
+    {
+        "杯狀穴{海蝕}": "cuphole"
+    },
+    {
+        "岩鐘；鐘形丘；鐘狀殼{放射蟲}": "cupola"
+    },
+    {
+        "松球海百合": "Cupressocrinus"
+    },
+    {
+        "居禮{放射性強度單位}": "curie"
+    },
+    {
+        "居禮點": "Curie point"
+    },
+    {
+        "流": "current"
+    },
+    {
+        "泥沙流": "current drift"
+    },
+    {
+        "彎曲沙洲；彎曲沙壩": "curved bar"
+    },
+    {
+        "海灘嘴": "cusp beach"
+    },
+    {
+        "尖頭沙壩；三角沙壩": "cuspate bar"
+    },
+    {
+        "小灘角": "cusplet"
+    },
+    {
+        "蝕積": "cut-and-fill"
+    },
+    {
+        "岩屑；鑽屑": "cuttings"
+    },
+    {
+        "藍[綠]菌；藍綠藻": "cyanobacteria"
+    },
+    {
+        "杯軸珊瑚屬": "Cyathaxonia"
+    },
+    {
+        "脊板杯珊瑚屬": "Cyathocarinia"
+    },
+    {
+        "杯蛛網珊瑚屬": "Cyathoclisia"
+    },
+    {
+        "杯海百合亞目{棘皮類}": "Cyathocrinina"
+    },
+    {
+        "盃珊瑚屬": "Cyathophyllum"
+    },
+    {
+        "杯盾珊瑚科": "Cyathopsidae"
+    },
+    {
+        "環口動物門": "Cycliophora"
+    },
+    {
+        "環角石屬{頭足類}": "Cycloceras"
+    },
+    {
+        "圓顆石屬{鈣質超微化石}": "Cyclococcolithus"
+    },
+    {
+        "氣旋；正旋": "cyclonic"
+    },
+    {
+        "棚珊瑚屬": "Cylisphyllum"
+    },
+    {
+        "泡沫珊瑚屬": "Cystiphyllum"
+    },
+    {
+        "泡沫板{珊瑚類}": "cystosepiment"
+    },
+    {
+        "浮標": "drifter"
+    },
+    {
+        "分巴": "decibar"
+    },
+    {
+        "敍述性物理海洋學": "descriptive physical oceanography"
+    },
+    {
+        "頻散；彌散": "dispersion"
+    },
+    {
+        "溶解無機碳": "dissolved inorganic carbon (DIC)"
+    },
+    {
+        "德拜-休克耳係數": "Debye-Hückel coefficient"
+    },
+    {
+        "德雷克通道": "Drake Passage"
+    },
+    {
+        "德拜-休克耳限制定律": "Debye-Hückel limiting law"
+    },
+    {
+        "海樽屬｛尾索動物亞門｝": "Doliolina"
+    },
+    {
+        "偶極；偶極子": "dipole"
+    },
+    {
+        "道耳頓數": "Dalton number"
+    },
+    {
+        "道耳頓定律": "Dalton’s law"
+    },
+    {
+        "多瑙菊石屬{頭足類}": "Danubites"
+    },
+    {
+        "年代測定；測年；定年": "dating"
+    },
+    {
+        "死區": "dead zone"
+    },
+    {
+        "碎屑": "debris"
+    },
+    {
+        "碎屑流": "debris flow"
+    },
+    {
+        "腐解 ；衰變；衰減": "decay"
+    },
+    {
+        "衰減常數；衰變常數": "decay constant"
+    },
+    {
+        "衰變率": "decay rate"
+    },
+    {
+        "德卡導航器": "Decca navigator"
+    },
+    {
+        "分貝": "decibel (db)"
+    },
+    {
+        "傾斜；偏差；磁偏角；方位角；赤緯": "declination"
+    },
+    {
+        "分解 ；腐爛": "decompose"
+    },
+    {
+        "分解[作用]": "decomposition"
+    },
+    {
+        "深淵；海淵": "deep"
+    },
+    {
+        "深海環流": "deep circulation"
+    },
+    {
+        "深地函柱；深地幔柱": "deep mantle plume"
+    },
+    {
+        "深海散射層": "deep scattering layer (DSL)"
+    },
+    {
+        "深海鑽探計畫": "Deep Sea Drilling Project (DSDP)"
+    },
+    {
+        "深海聲道": "deep sound channel"
+    },
+    {
+        "深水拖體": "deep tow"
+    },
+    {
+        "深海盆地": "deep-sea basin"
+    },
+    {
+        "深海底；深海床": "deep-sea bed"
+    },
+    {
+        "深海水道": "deep-sea channel"
+    },
+    {
+        "深海環流": "deep-sea circulation"
+    },
+    {
+        "深海錐": "deep-sea cone"
+    },
+    {
+        "深海堆積": "deep-sea deposit"
+    },
+    {
+        "深海相": "deep-sea facies"
+    },
+    {
+        "深海扇": "deep-sea fan"
+    },
+    {
+        "深海軟泥": "deep-sea ooze"
+    },
+    {
+        "深海平原": "deep-sea plain"
+    },
+    {
+        "深海沉積物": "deep-sea sediment"
+    },
+    {
+        "深海測深": "deep-sea sounding"
+    },
+    {
+        "深層流": "deep-water current"
+    },
+    {
+        "深水三角洲": "deep-water delta"
+    },
+    {
+        "深水鑽探；深海鑽探": "deep-water drilling"
+    },
+    {
+        "深水波": "deep-water wave"
+    },
+    {
+        "減坡作用{地質}；降解[作用] ；剝蝕；減削；減低；退化": "degradation"
+    },
+    {
+        "解離程度": "degree of dissociation"
+    },
+    {
+        "電離度 ；游離度": "degree of ionization"
+    },
+    {
+        "礦化程度": "degree of mineralization"
+    },
+    {
+        "脫水；脫水作用": "dehydration"
+    },
+    {
+        "脫水劑": "dehydrator"
+    },
+    {
+        "脫水作用": "dehydrolysis"
+    },
+    {
+        "去離子水": "deionized water"
+    },
+    {
+        "三角洲": "delta"
+    },
+    {
+        "三角洲前緣": "delta front"
+    },
+    {
+        "三角洲葉狀體；三角洲朵體": "delta lobe"
+    },
+    {
+        "三角洲平原": "delta plain"
+    },
+    {
+        "三角洲前積；三角洲增長": "deltaic progradation"
+    },
+    {
+        "三角洲平原複合體": "deltaic-plain complex"
+    },
+    {
+        "底棲的": "demersal"
+    },
+    {
+        "脫礦作用；去礦作用": "demineralization"
+    },
+    {
+        "密度計": "densimeter"
+    },
+    {
+        "密度": "density"
+    },
+    {
+        "等密度線": "density contour"
+    },
+    {
+        "密度流": "density current"
+    },
+    {
+        "密度流": "density flow"
+    },
+    {
+        "最大密度": "density maximum"
+    },
+    {
+        "高密度底流": "density underflow"
+    },
+    {
+        "夷平作用": "deplanation"
+    },
+    {
+        "堆積中心": "depocenter"
+    },
+    {
+        "堆積作用；沈澱作用": "deposition"
+    },
+    {
+        "堆積循環；堆積旋廻": "depositional cycle"
+    },
+    {
+        "堆積環境": "depositional environment"
+    },
+    {
+        "堆積模式": "depositional model"
+    },
+    {
+        "堆積層序": "depositional sequence"
+    },
+    {
+        "堆積體系": "depositional tracts"
+    },
+    {
+        "凹陷；窪地；降低；抑制": "depression"
+    },
+    {
+        "深度轉換": "depth conversion"
+    },
+    {
+        "深度偏移修正": "depth migration"
+    },
+    {
+        "補償深度": "depth of compensation"
+    },
+    {
+        "深度–時間轉換": "depth time conversion"
+    },
+    {
+        "淡化水；脫鹽水": "desalinated water"
+    },
+    {
+        "海水淡化；脫鹽": "desalination"
+    },
+    {
+        "淡化水；脫鹽水": "desalted water"
+    },
+    {
+        "敍述性化學海洋學": "descriptive chemical oceanography"
+    },
+    {
+        "裂變；蛻變": "desintegration"
+    },
+    {
+        "脫附": "desorption"
+    },
+    {
+        "脫附效率": "desorption efficiency"
+    },
+    {
+        "脫硫作用": "desulfidation"
+    },
+    {
+        "碎屑物": "detrital matter"
+    },
+    {
+        "碎屑有機質": "detrital organic matter"
+    },
+    {
+        "食碎屑動物": "detritivores"
+    },
+    {
+        "碎屑；腐質；屑粒；岩屑": "detritus"
+    },
+    {
+        "第二房室；第二殼室{有孔蟲類}": "deuteroconch"
+    },
+    {
+        "卷繞菱形顆石屬{鈣質超微化石}": "Diadorhombus"
+    },
+    {
+        "卷繞軛石屬{鈣質超微化石}": "Diadozygus"
+    },
+    {
+        "河海洄游的": "diadromous"
+    },
+    {
+        "河海洄游": "diadromy"
+    },
+    {
+        "貫入作用；衝頂；擠入構造；穿刺構造": "diapir"
+    },
+    {
+        "衝頂構造鹽體": "diapir salt"
+    },
+    {
+        "衝頂構造；擠入構造；刺穿構造": "diapir structure"
+    },
+    {
+        "貫入作用": "diapirism"
+    },
+    {
+        "矽藻；硅藻": "diatom"
+    },
+    {
+        "矽藻土": "diatom earth"
+    },
+    {
+        "矽藻綱": "Diatomacae"
+    },
+    {
+        "矽藻土": "diatomaceous earth"
+    },
+    {
+        "矽藻類": "diatomeae"
+    },
+    {
+        "矽藻軟泥": "diatomic ooze"
+    },
+    {
+        "棚珊瑚屬": "Dibunophyllum"
+    },
+    {
+        "電介質；電介體；介電的": "dielectric"
+    },
+    {
+        "介電常數": "dielectric constant"
+    },
+    {
+        "差異壓實[作用]": "differential compaction"
+    },
+    {
+        "差異侵蝕": "differential erosion"
+    },
+    {
+        "擴散": "diffusion"
+    },
+    {
+        "擴散係數": "diffusion coefficient"
+    },
+    {
+        "擴散常數": "diffusion constant"
+    },
+    {
+        "擴散效應": "diffusion effect"
+    },
+    {
+        "因次分析": "dimensional analysis"
+    },
+    {
+        "雙形菊石超科{頭足類}": "Dimorphocerataceae"
+    },
+    {
+        "渦鞭藻；甲藻；腰鞭毛藻": "dinoflagellate"
+    },
+    {
+        "卷心珊瑚屬": "Dinophyllum"
+    },
+    {
+        "雌雄異體": "dioecious"
+    },
+    {
+        "二氧化物": "dioxide"
+    },
+    {
+        "偏方二十四面體": "diploid"
+    },
+    {
+        "崩解；解集": "disaggregate"
+    },
+    {
+        "排放；流量；放電": "discharge"
+    },
+    {
+        "盤星石屬{鈣質超微化石}": "Discoaster"
+    },
+    {
+        "圓旋蟲屬{有孔蟲類}": "Discocyclina"
+    },
+    {
+        "盤狀顆石；盤狀石{鈣質超微化石}": "discolith"
+    },
+    {
+        "盤葉菊石科{頭足類}": "Discophyllitidae"
+    },
+    {
+        "圓盤蟲屬{有孔蟲類}": "Discorbis"
+    },
+    {
+        "盤球石{鈣質超微化石}": "Discosphaera"
+    },
+    {
+        "不平衡": "disequilibrium"
+    },
+    {
+        "蛻變；分裂 ；崩解": "disintegration"
+    },
+    {
+        "細粒石灰岩": "dismicrite"
+    },
+    {
+        "頻散係數；彌散係數": "dispersion coefficient"
+    },
+    {
+        "頻散關係；彌散關係": "dispersion relation"
+    },
+    {
+        "頻散波；彌散波": "dispersion wave"
+    },
+    {
+        "頻散波；彌散波": "dispersive wave"
+    },
+    {
+        "弱光帶": "disphotic zone"
+    },
+    {
+        "離解[作用]": "dissociation"
+    },
+    {
+        "離解化學吸附作用": "dissociation chemisorption"
+    },
+    {
+        "離解常數": "dissociation constant"
+    },
+    {
+        "溶解[作用]": "dissolution"
+    },
+    {
+        "溶解效應": "dissolution effect"
+    },
+    {
+        "溶解動力學": "dissolution kinetics"
+    },
+    {
+        "溶解率": "dissolution rate"
+    },
+    {
+        "溶解通量": "dissolved flux"
+    },
+    {
+        "溶解氮": "dissolved nitrogen"
+    },
+    {
+        "溶解營養鹽類": "dissolved nutrient"
+    },
+    {
+        "溶解有機碳": "dissolved organic carbon (DOC)"
+    },
+    {
+        "溶解有機化合物": "dissolved organic compound"
+    },
+    {
+        "溶解有機質": "dissolved organic matter (DOM)"
+    },
+    {
+        "溶解有機氮": "dissolved organic nitrogen (DON)"
+    },
+    {
+        "溶解有機磷": "dissolved organic phosphorus (DOP)"
+    },
+    {
+        "溶氧；溶氧量": "dissolved oxygen (DO)"
+    },
+    {
+        "溶解相": "dissolved phase"
+    },
+    {
+        "溶解鹽類": "dissolved salts"
+    },
+    {
+        "溶解性固體": "dissolved solid"
+    },
+    {
+        "溶解容量": "dissolving capacity"
+    },
+    {
+        "溶解力": "dissolving power"
+    },
+    {
+        "日(的)": "diurnal"
+    },
+    {
+        "全日潮": "diurnal tide"
+    },
+    {
+        "輻散；散度；發散": "divergence"
+    },
+    {
+        "擴張邊界": "divergent boundary"
+    },
+    {
+        "分離板塊邊界": "divergent plate boundary"
+    },
+    {
+        "多樣性指標": "diversity index"
+    },
+    {
+        "潛水鐘": "diving bell"
+    },
+    {
+        "赤道無風帶": "doldrums"
+    },
+    {
+        "白雲碳酸鹽岩": "dolomite carbonatite"
+    },
+    {
+        "白雲石化": "dolomitization"
+    },
+    {
+        "優勢種": "dominant species"
+    },
+    {
+        "都卜勒海流儀": "Doppler current meter"
+    },
+    {
+        "都卜勒效應": "Doppler effect"
+    },
+    {
+        "都卜勒雷達": "Doppler radar"
+    },
+    {
+        "都卜勒聲納": "Doppler sonar"
+    },
+    {
+        "道塞特菊石屬{頭足類}": "Dorsetensia"
+    },
+    {
+        "雙[重]擴散": "double diffusion"
+    },
+    {
+        "杜基維奇(虫+筵)屬{有孔蟲類}": "Doutkevichiella"
+    },
+    {
+        "下切作用": "downcutting"
+    },
+    {
+        "向下傾；順傾向": "downdip"
+    },
+    {
+        "下傾斷塊": "downdip block"
+    },
+    {
+        "隱沒板塊；俯衝板塊": "downgoing plate"
+    },
+    {
+        "隱沒岩塊；俯衝岩塊": "downgoing slab"
+    },
+    {
+        "下落斷塊": "downthrown block"
+    },
+    {
+        "沉降流；下降流": "downwelling"
+    },
+    {
+        "拖曳係數": "drag coefficient"
+    },
+    {
+        "流域；滙水盆地": "drainage basin"
+    },
+    {
+        "底拖；採泥器": "dredge"
+    },
+    {
+        "鈣質軟泥": "drewite"
+    },
+    {
+        "漂流": "drift current"
+    },
+    {
+        "鑽孔紀錄；鑽井紀錄": "driller's log"
+    },
+    {
+        "鑽探": "drilling"
+    },
+    {
+        "沉溺海岸": "drowned coast"
+    },
+    {
+        "傾倒場址": "dumping site"
+    },
+    {
+        "小頓巴(虫+筵)屬{有孔蟲類}": "Dunbarinella"
+    },
+    {
+        "頓巴(虫+筵)屬{有孔蟲類}": "Dunbarula"
+    },
+    {
+        "動力環境；動態環境": "dynamic environment"
+    },
+    {
+        "動力平衡；動態平衡": "dynamic equilibrium"
+    },
+    {
+        "動力定位；動態定位": "dynamic positioning"
+    },
+    {
+        "動力地形": "dynamic topography"
+    },
+    {
+        "動力黏滯性": "dynamic viscosity"
+    },
+    {
+        "動力黏滯係數": "dynamic viscosity coefficient"
+    },
+    {
+        "動力海洋學": "dynamical oceanography"
+    },
+    {
+        "動力潮": "dynamical tide"
+    },
+    {
+        "弱光帶；弱光層": "dysphotic zone"
+    },
+    {
+        "矽藻土": "earth tripolite"
+    },
+    {
+        "東澳[大利亞]洋流": "East Australian Current"
+    },
+    {
+        "東格陵蘭洋流": "East Greenland Current"
+    },
+    {
+        "東印度洋海脊": "East Indian Ridge"
+    },
+    {
+        "東美拉尼西亞海溝": "East Melanesia Trench"
+    },
+    {
+        "東太平洋隆起": "East Pacific Rise"
+    },
+    {
+        "復活島斷裂帶；復活島破裂帶": "Easter Fracture Zone"
+    },
+    {
+        "東風帶": "easterlies"
+    },
+    {
+        "東風；東風帶": "easterly wind"
+    },
+    {
+        "退潮流": "ebb current"
+    },
+    {
+        "退潮": "ebb tide"
+    },
+    {
+        "退潮": "ebbing"
+    },
+    {
+        "棘皮動物": "echinoderm"
+    },
+    {
+        "回聲；回音；回波；反射波；反射信號": "echo"
+    },
+    {
+        "回聲測距；回聲定位": "echo ranging"
+    },
+    {
+        "回聲測深儀；回聲儀": "echo sounder"
+    },
+    {
+        "回音測深": "echo sounding"
+    },
+    {
+        "回音[測深]圖；音測圖": "echogram"
+    },
+    {
+        "回音[深度]記錄儀": "echograph"
+    },
+    {
+        "生態足跡": "ecological footprint"
+    },
+    {
+        "專屬經濟海域": "Economic Exclusion Zone (EEZ)"
+    },
+    {
+        "生態系": "ecosystem"
+    },
+    {
+        "生態[系]交會區": "ecotone"
+    },
+    {
+        "生態旅遊": "ecotourism"
+    },
+    {
+        "外溫動物；變溫動物": "ectotherm"
+    },
+    {
+        "渦旋；漩渦": "eddy"
+    },
+    {
+        "渦動擴散係數": "eddy diffusion coefficient"
+    },
+    {
+        "[沙]岸緣波": "edge wave"
+    },
+    {
+        "鰻草": "eelgrass"
+    },
+    {
+        "艾克曼深度": "Ekman depth"
+    },
+    {
+        "艾克曼層": "Ekman layer"
+    },
+    {
+        "艾克曼數": "Ekman number"
+    },
+    {
+        "艾克曼抽汲；艾克曼泵": "Ekman pumping"
+    },
+    {
+        "艾克曼螺旋": "Ekman spiral"
+    },
+    {
+        "艾克曼輸送": "Ekman transport"
+    },
+    {
+        "聖嬰[現象]；艾尼紐[現象]": "El Niño"
+    },
+    {
+        "導電": "electric conduction"
+    },
+    {
+        "電化作用": "electrochemical action"
+    },
+    {
+        "導電度": "electro-conductivity"
+    },
+    {
+        "電解質；電離質 ；電解[溶]液": "electrolyte"
+    },
+    {
+        "電解[電]池": "electrolytic cell"
+    },
+    {
+        "電磁波譜": "electromagnetic spectrum (EMS)"
+    },
+    {
+        "海水電子活度": "electron activity of seawater"
+    },
+    {
+        "電子親合勢": "electron affinity"
+    },
+    {
+        "電子給予體": "electron donor"
+    },
+    {
+        "電價鍵": "electrovalent bond"
+    },
+    {
+        "元素分析": "elementary analysis"
+    },
+    {
+        "海水元素": "elements in seawater"
+    },
+    {
+        "橢圓蟲科{放射蟲類}": "Ellipsidiidae"
+    },
+    {
+        "橢球面大地測量學": "ellipsoidal geodesy"
+    },
+    {
+        "橢球狀熔岩": "ellipsoidal lava"
+    },
+    {
+        "橢球蟲屬{有孔蟲}": "Ellipsoidina"
+    },
+    {
+        "希望蟲屬{有孔蟲}": "Elphidium"
+    },
+    {
+        "分泌；噴氣；噴發": "emanation"
+    },
+    {
+        "堤防；沙堤": "embankment"
+    },
+    {
+        "灣形海岸；多灣海岸": "embayed coast"
+    },
+    {
+        "海灣": "embayment"
+    },
+    {
+        "河口": "embouchure"
+    },
+    {
+        "上升；出露": "emergence"
+    },
+    {
+        "上升海岸": "emergent coast"
+    },
+    {
+        "能值": "emergy"
+    },
+    {
+        "遷出": "emigration"
+    },
+    {
+        "艾氏石屬{鈣板藻；鈣質超微化石}": "Emilania"
+    },
+    {
+        "放射率": "emissivity"
+    },
+    {
+        "帝王海山群": "Emperor Seamount Chain"
+    },
+    {
+        "賦予權力；授權給": "empower"
+    },
+    {
+        "環礁": "encircling reef"
+    },
+    {
+        "侵入；入侵": "encroachment"
+    },
+    {
+        "當量點；終點": "end point"
+    },
+    {
+        "瀕危種": "endangered species"
+    },
+    {
+        "特有種；地方種；固有種": "endemic species"
+    },
+    {
+        "內卷蟲屬{有孔蟲類}": "Endothyra"
+    },
+    {
+        "能量串跌": "energy cascade"
+    },
+    {
+        "能量方程式": "energy equation"
+    },
+    {
+        "能量通量": "energy flux"
+    },
+    {
+        "活化能": "energy of activation"
+    },
+    {
+        "濃縮；富集": "enrichment"
+    },
+    {
+        "富集因數": "enrichment factor"
+    },
+    {
+        "聖嬰南方振盪": "El Niño and Southern Oscillation (ENSO)"
+    },
+    {
+        "熱函；焓": "enthalpy"
+    },
+    {
+        "淡化熱函": "enthalpy of desalting"
+    },
+    {
+        "汲入": "entrainment"
+    },
+    {
+        "熵": "entropy"
+    },
+    {
+        "熵產生": "entropy creation"
+    },
+    {
+        "熵產生": "entropy production"
+    },
+    {
+        "始紡綞蟲屬": "Eofusulina"
+    },
+    {
+        "風成的": "eolian"
+    },
+    {
+        "始史塔夫(虫+筵)屬{有孔蟲類}": "Eostaffella"
+    },
+    {
+        "始費伯克(虫+筵)屬{有孔蟲類}": "Eoverbeekina"
+    },
+    {
+        "陸緣海；淺海": "epeiric sea"
+    },
+    {
+        "造陸運動": "epeirogeny"
+    },
+    {
+        "底上底棲性；底表棲性的": "epibenthic"
+    },
+    {
+        "陸緣海": "epicontinental sea"
+    },
+    {
+        "陸緣沉積；淺海沉積": "epicontinental sedimentation"
+    },
+    {
+        "底表動物；附著動物": "epifauna"
+    },
+    {
+        "表層沉積物": "epigenic sediment"
+    },
+    {
+        "半淺海的": "epineritic"
+    },
+    {
+        "表水層": "epipelagic"
+    },
+    {
+        "海洋光合作用帶": "epipelagic zone"
+    },
+    {
+        "附生植被": "epiphyte"
+    },
+    {
+        "附生浮游生物；表層浮游生物": "epiplankton"
+    },
+    {
+        "造陸作用；造陸運動": "epirogeny"
+    },
+    {
+        "幕式構造運動": "episodic movement"
+    },
+    {
+        "幕式沉降": "episodic subsidence"
+    },
+    {
+        "上穹蟲屬{有孔蟲類}": "Eponides"
+    },
+    {
+        "埃普羅顆石屬{鈣質超微化石}": "Eprolithus"
+    },
+    {
+        "赤道無風帶": "equatorial calm belt"
+    },
+    {
+        "赤道反流": "Equatorial Countercurrent"
+    },
+    {
+        "赤道暖流": "equatorial drift"
+    },
+    {
+        "赤道潛流": "Equatorial Undercurrent"
+    },
+    {
+        "平衡常數": "equilibrium constant"
+    },
+    {
+        "平衡潮": "equilibrium tide"
+    },
+    {
+        "平衡氣壓": "equilibrium vapor pressure"
+    },
+    {
+        "等價 ；相等；相當": "equivalence"
+    },
+    {
+        "等當電位": "equivalence potential"
+    },
+    {
+        "當量 ；等效；等值": "equivalent"
+    },
+    {
+        "當量電導": "equivalent conductance"
+    },
+    {
+        "當量": "equivalent weight"
+    },
+    {
+        "埃氏顆石屬{鈣質超微化石}": "Ericsonia"
+    },
+    {
+        "侵蝕": "erosion"
+    },
+    {
+        "侵蝕海岸": "erosion coast"
+    },
+    {
+        "侵蝕谷": "erosional valley"
+    },
+    {
+        "噴發": "eruption"
+    },
+    {
+        "噴發裂隙": "eruption fissure"
+    },
+    {
+        "噴發堆積": "eruptive deposit"
+    },
+    {
+        "噴發岩": "eruptive rock"
+    },
+    {
+        "厄文特里亞古海{今阿拉伯海、紅海和波斯灣地區}": "Erythraean"
+    },
+    {
+        "主要成分": "essential component"
+    },
+    {
+        "[生命]必要元素　　": "essential element"
+    },
+    {
+        "河口灣的；河口的": "estuarine"
+    },
+    {
+        "河口化學": "estuarine chemistry"
+    },
+    {
+        "河口環流": "estuarine circulation"
+    },
+    {
+        "河口灣三角洲": "estuarine delta"
+    },
+    {
+        "河口灣堆積": "estuarine deposit"
+    },
+    {
+        "河口環境": "estuarine environment"
+    },
+    {
+        "河口灣相": "estuarine facies"
+    },
+    {
+        "河口；河口灣": "estuary"
+    },
+    {
+        "河口灣沉積": "estuary sediment"
+    },
+    {
+        "蝕甌穴；蝕壺穴": "etched pothole"
+    },
+    {
+        "篩球蟲亞科{放射蟲類}": "Ethmosphaerinae"
+    },
+    {
+        "真核生物": "eukaryotes"
+    },
+    {
+        "遠洋黏土": "eupelagic clay"
+    },
+    {
+        "遠洋沉積": "eupelagic deposit"
+    },
+    {
+        "遠洋相": "eupelagic facies"
+    },
+    {
+        "遠洋沉積物": "eupelagic sediment"
+    },
+    {
+        "透光的；透光帶": "euphotic"
+    },
+    {
+        "透光層；有光層；真光層": "euphotic layer"
+    },
+    {
+        "透光帶；真光帶；有光帶": "euphotic zone"
+    },
+    {
+        "歐亞大陸": "Eurasia"
+    },
+    {
+        "歐亞海盆": "Eurasia Basin"
+    },
+    {
+        "歐亞板塊": "Eurasian Plate"
+    },
+    {
+        "海峽；水道": "euripus"
+    },
+    {
+        "歐洲太空[總]署；歐洲太空局": "European Space Agency (ESA)"
+    },
+    {
+        "廣深性的；耐深的": "eurybathic"
+    },
+    {
+        "廣鹽性": "euryhaline"
+    },
+    {
+        "廣鹽性": "euryhalinity"
+    },
+    {
+        "廣光性層": "euryphotic zone"
+    },
+    {
+        "廣鹽性": "eurysalinity"
+    },
+    {
+        "廣溫性": "eurytherm"
+    },
+    {
+        "廣溫性的": "eurythermal"
+    },
+    {
+        "廣溫性的": "eurythermic"
+    },
+    {
+        "廣生境的；廣適應性的": "eurytopic"
+    },
+    {
+        "成熟腐泥": "eu-sapropel"
+    },
+    {
+        "全球海面升降": "eustasy"
+    },
+    {
+        "全球海面升降": "eustacy"
+    },
+    {
+        "全球海面升降的": "eustatic"
+    },
+    {
+        "全球海平面升降循環": "eustatic cycle"
+    },
+    {
+        "全球海面變動": "eustatic fluctuation"
+    },
+    {
+        "全球海面升降": "eustatism"
+    },
+    {
+        "增溫的；發熱的": "euthermic"
+    },
+    {
+        "優養的": "eutrophic"
+    },
+    {
+        "優養水": "eutrophic water"
+    },
+    {
+        "優養化": "eutrophication"
+    },
+    {
+        "優養": "eutrophy"
+    },
+    {
+        "無氧的": "euxinic"
+    },
+    {
+        "無氧海盆": "euxinic basin"
+    },
+    {
+        "無氧堆積": "euxinic deposit"
+    },
+    {
+        "蒸發；汽化 ；脫水": "evaporate"
+    },
+    {
+        "蒸發；汽化": "evaporating"
+    },
+    {
+        "蒸發；汽化；蒸發作用": "evaporation"
+    },
+    {
+        "蒸發熱": "evaporation heat"
+    },
+    {
+        "蒸發過程": "evaporation process"
+    },
+    {
+        "蒸發速率": "evaporation rate"
+    },
+    {
+        "蒸發鹽；蒸發岩": "evaporite"
+    },
+    {
+        "平頂山脊；平頂脊": "even-crested ridge"
+    },
+    {
+        "渦流侵蝕作用；甌穴侵蝕作用；壺穴侵蝕作用": "evorsion"
+    },
+    {
+        "域外保育；移地保育；異地保育": "ex situ conservation"
+    },
+    {
+        "過度；過量 ；餘物": "excess"
+    },
+    {
+        "過量二氧化碳": "excess CO2"
+    },
+    {
+        "交換吸附": "exchange adsorption"
+    },
+    {
+        "[離子]交換色層法": "exchange chromatography"
+    },
+    {
+        "交換係數": "exchange coefficient"
+    },
+    {
+        "出射度": "exitance"
+    },
+    {
+        "外骨骼": "exoskeleton"
+    },
+    {
+        "放熱的": "exothermal"
+    },
+    {
+        "外來種": "exotic species"
+    },
+    {
+        "膨脹係數": "expansion coefficient"
+    },
+    {
+        "顯式法": "explicit scheme"
+    },
+    {
+        "消光係數": "extinction coefficient"
+    },
+    {
+        "萃取[法]": "extraction"
+    },
+    {
+        "糞球粒；糞粒": "faecal pellet"
+    },
+    {
+        "福克蘭洋流": "Falkland Current"
+    },
+    {
+        "散落；散落物；沉降物；落塵；放射塵[埃]；放射性沉降": "fallout"
+    },
+    {
+        "扇；沖積扇；扇形地；扇形沉積": "fan"
+    },
+    {
+        "扇端": "fan apex"
+    },
+    {
+        "扇灣": "fan bay"
+    },
+    {
+        "扇形三角洲": "fan delta"
+    },
+    {
+        "扇形沉積": "fan deposit"
+    },
+    {
+        "扇狀岩屑錐；扇狀岩堆": "fan talus"
+    },
+    {
+        "扇階地[沖積]": "fan terrace"
+    },
+    {
+        "扇濁流岩": "fan turbidite"
+    },
+    {
+        "法拉榮板塊": "Farallon Plate"
+    },
+    {
+        "小環礁；小珊瑚礁": "faro"
+    },
+    {
+        "寬帶蟲屬{有孔蟲類}": "Fasciolites"
+    },
+    {
+        "簇狀珊瑚屬": "Fasciphyllum"
+    },
+    {
+        "測深圖；水深圖；測深儀記錄": "fathogram"
+    },
+    {
+        "噚{長度單位}": "fathom"
+    },
+    {
+        "測深儀": "fathometer"
+    },
+    {
+        "斷層海岸": "fault coast"
+    },
+    {
+        "斷層灣": "fault embayment"
+    },
+    {
+        "豆石{鈣質超微化石}": "Favolithora"
+    },
+    {
+        "糞粒": "fecal pellet"
+    },
+    {
+        "孕卵數；生殖力": "fecundity"
+    },
+    {
+        "通道；礦脈支脈": "feeder"
+    },
+    {
+        "食性": "feeding habit"
+    },
+    {
+        "索餌洄游": "feeding migration"
+    },
+    {
+        "臭碳酸鹽軟泥": "fetid carbonate ooze"
+    },
+    {
+        "濾食者": "filter feeder"
+    },
+    {
+        "指狀沙壩": "finger bar"
+    },
+    {
+        "有限振幅波": "finite amplitude wave"
+    },
+    {
+        "峽灣": "fiord"
+    },
+    {
+        "漁獲努力": "fishing effort"
+    },
+    {
+        "裂縫噴發": "fissure eruption"
+    },
+    {
+        "固定碳": "fixed carbon"
+    },
+    {
+        "峽灣": "fjord"
+    },
+    {
+        "峽灣海岸": "fjord coast"
+    },
+    {
+        "鞭毛蟲綱": "Flagellate"
+    },
+    {
+        "海底平頂山": "flat-topped seamount"
+    },
+    {
+        "浮冰": "floating ice"
+    },
+    {
+        "浮冰": "floe"
+    },
+    {
+        "漲潮": "flood tide"
+    },
+    {
+        "海床；河床；底盤；岩面": "floor"
+    },
+    {
+        "佛羅里達洋流": "Florida Current"
+    },
+    {
+        "沿岸沼澤": "flotant"
+    },
+    {
+        "比目魚類": "flounders"
+    },
+    {
+        "流痕": "flow mark"
+    },
+    {
+        "螢光物質": "fluorescent material"
+    },
+    {
+        "氟量計 ；螢光計": "fluorimeter"
+    },
+    {
+        "螢光測定法": "fluorimetry"
+    },
+    {
+        "氟量計 ；螢光計": "fluorometer"
+    },
+    {
+        "螢光法": "Fluorometry"
+    },
+    {
+        "冰融的": "fluvioglacial"
+    },
+    {
+        "底部": "fondo"
+    },
+    {
+        "底部岩層": "fondothem"
+    },
+    {
+        "食物鏈": "food chain"
+    },
+    {
+        "食物網": "food web"
+    },
+    {
+        "有孔蟲；有孔蟲類": "foraminifera"
+    },
+    {
+        "有孔蟲目": "Foraminiferida"
+    },
+    {
+        "有孔蟲岩": "foraminite"
+    },
+    {
+        "弧前": "forearc"
+    },
+    {
+        "弧前盆地": "forearc basin"
+    },
+    {
+        "前礁堤": "fore-barrier"
+    },
+    {
+        "前灘台；前灘肩": "foreberm"
+    },
+    {
+        "前淵": "foredeep"
+    },
+    {
+        "前丘；前灘沙丘": "foredune"
+    },
+    {
+        "前陸棚": "foreland shelf"
+    },
+    {
+        "前驅波；前驅湧波": "forerunner wave"
+    },
+    {
+        "前積層": "foreset bed"
+    },
+    {
+        "前濱；前灘": "foreshore"
+    },
+    {
+        "前濱灘台；前濱灘肩": "foreshore berm"
+    },
+    {
+        "前海溝": "fore-trench"
+    },
+    {
+        "前淵；前海槽": "fore-trough"
+    },
+    {
+        "生成熱": "formation heat"
+    },
+    {
+        "古洋脊": "fossil ridge"
+    },
+    {
+        "古隱沒帶；古消減帶": "fossil subduction zone"
+    },
+    {
+        "分[部]提取": "fractional extraction"
+    },
+    {
+        "分部沉澱；分級沉澱": "fractional precipitation"
+    },
+    {
+        "分化": "fractionation"
+    },
+    {
+        "游離狀態；單體狀態": "free state"
+    },
+    {
+        "冷凍脫鹽": "freezing desalination"
+    },
+    {
+        "冰點 ；凝固點": "freezing point"
+    },
+    {
+        "冰點降低": "freezing point depression"
+    },
+    {
+        "凍結過程 ；凍結法": "freezing process"
+    },
+    {
+        "裙礁": "fringing reef"
+    },
+    {
+        "陸緣灣": "front bay"
+    },
+    {
+        "噴氣孔；氣孔；噴氣": "fumarole"
+    },
+    {
+        "真菌界": "Fungi"
+    },
+    {
+        "漏斗海": "funnel sea"
+    },
+    {
+        "漏斗灣": "funnel-shaped bay"
+    },
+    {
+        "槽溝": "furrow"
+    },
+    {
+        "熔解": "fusion"
+    },
+    {
+        "熔化熱": "fusion heat"
+    },
+    {
+        "伽瑪 (磁場強度單位。= 10-5奧斯特)；灰度係數 ；反襯度；微克": "gamma (γ)"
+    },
+    {
+        "γ輻射強度": "gamma radiation intensity"
+    },
+    {
+        "γ射線探測器": "gamma ray detector"
+    },
+    {
+        "γ射線[頻]譜儀": "gamma ray spectrometer"
+    },
+    {
+        "γ閃爍[頻]譜儀": "gamma scintillation spectrometer"
+    },
+    {
+        "γ射線顯影術；伽馬射線顯影術": "gamma-radiography"
+    },
+    {
+        "恆河菊石屬{頭足類}": "Gangadharites"
+    },
+    {
+        "加氏顆石屬{鈣質超微化石}": "Gartnerago"
+    },
+    {
+        "氣體常數": "gas constant"
+    },
+    {
+        "氣體交換": "gas exchange"
+    },
+    {
+        "氣焰": "gas flare"
+    },
+    {
+        "天然氣水合物": "gas hydrate"
+    },
+    {
+        "噴氣口": "gas spout"
+    },
+    {
+        "天然氣處裡系統": "gas treating system"
+    },
+    {
+        "噴氣口": "gas vent"
+    },
+    {
+        "高斯-塞德法": "Gauss-Seidel method"
+    },
+    {
+        "通用海洋水深圖": "GEBCO (general bathymetric chart of the oceans)"
+    },
+    {
+        "蓋格計數器": "Geiger counter"
+    },
+    {
+        "凝膠[體]；凍膠": "gel"
+    },
+    {
+        "膠凝；凝膠化": "gelatinaion"
+    },
+    {
+        "膠凝作用；凝膠化[作用]": "gelation"
+    },
+    {
+        "形成膠體": "gel-forming"
+    },
+    {
+        "基因多樣性；遺傳多樣性": "genetic diversity"
+    },
+    {
+        "基因型": "genotype"
+    },
+    {
+        "地球化學異常": "geochemical anomaly"
+    },
+    {
+        "地球化學循環": "geochemical circulation"
+    },
+    {
+        "地球化學斷面；地球化學剖面": "geochemical profile"
+    },
+    {
+        "地球化學": "geochemistry"
+    },
+    {
+        "大地水準面": "geoid"
+    },
+    {
+        "地磁極反轉": "geomagnetic polarity reversal"
+    },
+    {
+        "空間資訊": "geomatics"
+    },
+    {
+        "重力位異常": "geopotential anomaly"
+    },
+    {
+        "重力位面": "geopotential surface"
+    },
+    {
+        "地衡流；地轉流": "geostrophic current"
+    },
+    {
+        "地熱鹽水": "geothermal brine"
+    },
+    {
+        "全球碳計畫": "Global Carbon Project (GCP)"
+    },
+    {
+        "全球氣候變遷": "global climate change"
+    },
+    {
+        "全球循環": "global cycle"
+    },
+    {
+        "全球監測": "global monitoring"
+    },
+    {
+        "全球觀測系統": "global observation"
+    },
+    {
+        "全球暖化；地球暖化": "global warming"
+    },
+    {
+        "全球水系統計畫": "Global Water System Project (GWSP)"
+    },
+    {
+        "抱球蟲屬{有孔蟲類}": "Globigerina"
+    },
+    {
+        "抱球蟲泥": "globigerina mud"
+    },
+    {
+        "抱球蟲泥灰岩": "globigerinid marl"
+    },
+    {
+        "球瓣蟲屬{有孔蟲類}": "Globivalvulina"
+    },
+    {
+        "截球蟲屬{有孔蟲類}": "Globotruncana"
+    },
+    {
+        "鮞狀石灰岩": "globulitic limestone"
+    },
+    {
+        "球旋蟲屬{有孔蟲類}": "Glomospira"
+    },
+    {
+        "稜菊石屬 {頭足類})": "Goniatites"
+    },
+    {
+        "方錐珊瑚屬": "Goniophyllum"
+    },
+    {
+        "抓斗式挖泥船": "grab dredger"
+    },
+    {
+        "克分子": "gram-molecule (mol.)"
+    },
+    {
+        "重力的；重量分析的；測重量的": "gravimetric"
+    },
+    {
+        "重量分析": "gravimetric analysis"
+    },
+    {
+        "重力波": "gravity wave"
+    },
+    {
+        "刮食者": "grazers"
+    },
+    {
+        "溫室效應": "greenhouse effect"
+    },
+    {
+        "總生產量": "gross production"
+    },
+    {
+        "地下水": "ground water"
+    },
+    {
+        "地下水流": "ground water flow"
+    },
+    {
+        "矽藻土": "guhr"
+    },
+    {
+        "墨西哥灣": "Gulf of Mexico"
+    },
+    {
+        "灣流": "Gulf Stream"
+    },
+    {
+        "沖蝕溝": "gully"
+    },
+    {
+        "噴泉": "gushing spring"
+    },
+    {
+        "大環流": "gyre"
+    },
+    {
+        "棲地碎裂": "habitat fragmentation"
+    },
+    {
+        "超深淵區": "hadal zone"
+    },
+    {
+        "超深淵水層": "hadalpelagic"
+    },
+    {
+        "鱈": "haddock"
+    },
+    {
+        "鱈": "hake"
+    },
+    {
+        "半衰期": "half-life"
+    },
+    {
+        "比目魚": "halibut"
+    },
+    {
+        "高鹽水": "haline water"
+    },
+    {
+        "鹹水浮游生物": "haliplankton"
+    },
+    {
+        "海底換質作用": "halmyrolysis"
+    },
+    {
+        "嗜鹽細菌": "halobacteria"
+    },
+    {
+        "鹽度躍層；斜鹽層；鹽躍層": "halocline"
+    },
+    {
+        "鹵素": "halogen"
+    },
+    {
+        "鹵化氫": "halogen hydride"
+    },
+    {
+        "鹵酸": "haloid acid"
+    },
+    {
+        "鹹水浮游生物": "haloplankton"
+    },
+    {
+        "郝氏(虫+筵)屬〔有孔蟲類〕": "Haoella"
+    },
+    {
+        "定鞭藻綱{鈣質超微化石}": "Haptophyceae"
+    },
+    {
+        "夏威夷海脊": "Hawaiian Ridge"
+    },
+    {
+        "夏威夷式火山": "Hawaiian-type volcano"
+    },
+    {
+        "中長玄武岩": "hawaiite"
+    },
+    {
+        "玳瑁": "hawksbills"
+    },
+    {
+        "早坂珊瑚屬{管珊瑚}": "Hayasakaia"
+    },
+    {
+        "岬；岬角": "headland"
+    },
+    {
+        "溯源侵蝕": "headward erosion"
+    },
+    {
+        "熱平衡": "heat balance"
+    },
+    {
+        "熱容；熱容量": "heat capacity"
+    },
+    {
+        "導熱；熱傳導": "heat conduction"
+    },
+    {
+        "熱含量": "heat content"
+    },
+    {
+        "熱流探針": "heat flow probe"
+    },
+    {
+        "熱流通量": "heat flux"
+    },
+    {
+        "活化熱": "heat of activation"
+    },
+    {
+        "凝結熱": "heat of condensation"
+    },
+    {
+        "熱傳輸": "heat transfer"
+    },
+    {
+        "重金屬": "heavy metal"
+    },
+    {
+        "海倫海溝": "Hellenic Trench"
+    },
+    {
+        "半遠洋的；半深海的": "hemipelagic"
+    },
+    {
+        "半深海相": "hemipelagic facies"
+    },
+    {
+        "亨利定律；氣體溶解定律": "Henry’s law"
+    },
+    {
+        "草食性": "herbivorous"
+    },
+    {
+        "雌雄同體": "hermaphroditism"
+    },
+    {
+        "赫斯隆起": "Hess Rise"
+    },
+    {
+        "不均勻性；多相性 ；異質性": "heterogeneity"
+    },
+    {
+        "非均勻的；多相的 ；異質的": "heterogeneous"
+    },
+    {
+        "異營生物": "heterotroph"
+    },
+    {
+        "異營的": "heterotrophic"
+    },
+    {
+        "異營型營養": "heterotrophic nutrition"
+    },
+    {
+        "六骸面屬{鈣質超微化石}": "Hexalithus"
+    },
+    {
+        "六柱蟲屬{放射蟲類}": "Hexastylus"
+    },
+    {
+        "高分子量化合物": "high molecular compound"
+    },
+    {
+        "高聚合物": "high polymer"
+    },
+    {
+        "公海；遠洋；狂浪{風浪六級}": "high sea"
+    },
+    {
+        "高潮位；滿潮位": "high tidal level"
+    },
+    {
+        "高潮階地；滿潮階地": "high tidal terrace"
+    },
+    {
+        "高強度放射性廢物": "high-level radioactive waste"
+    },
+    {
+        "高放射性廢物處置": "high-level waste disposal"
+    },
+    {
+        "強螢光水域": "highly fluorescing waters"
+    },
+    {
+        "高水位期": "highstand"
+    },
+    {
+        "歷史海洋學": "historical oceanography"
+    },
+    {
+        "挖泥船": "hog barge"
+    },
+    {
+        "錳鋇礦": "hollandite"
+    },
+    {
+        "均勻性；均質性": "homogeneity"
+    },
+    {
+        "均勻的；均質的": "homogeneous"
+    },
+    {
+        "均相平衡": "homogeneous equilibrium"
+    },
+    {
+        "均勻輻射": "homogeneous radiation"
+    },
+    {
+        "水平擴散率": "horizontal diffusivity"
+    },
+    {
+        "水平分布": "horizontal distribution"
+    },
+    {
+        "水平渦動擴散": "horizontal eddy diffusion"
+    },
+    {
+        "熱鹵水區": "hot brine area"
+    },
+    {
+        "熱點": "hot spot"
+    },
+    {
+        "熱泉": "hot spring"
+    },
+    {
+        "熱點地函柱；熱點地幔柱": "hot-spot plume"
+    },
+    {
+        "腐植質": "humic material"
+    },
+    {
+        "腐植質": "humus"
+    },
+    {
+        "水合物": "hydrate"
+    },
+    {
+        "水合物冷凍過程": "hydrate freezing process"
+    },
+    {
+        "水合離子半徑": "hydrated ionic radius"
+    },
+    {
+        "水合[作用]；水化[作用]": "hydration"
+    },
+    {
+        "水合數": "hydration number"
+    },
+    {
+        "碳氫化合物；烴": "hydrocarbon"
+    },
+    {
+        "水化學": "hydrochemistry"
+    },
+    {
+        "氫電極": "hydrogen electrode"
+    },
+    {
+        "氫離子活度": "hydrogen ion activity"
+    },
+    {
+        "氫離子濃度": "hydrogen ion concentration"
+    },
+    {
+        "氫化作用": "hydrogenation"
+    },
+    {
+        "水成作用": "hydrogenesis"
+    },
+    {
+        "水成的": "hydrogenous"
+    },
+    {
+        "水成成分": "hydrogenous component"
+    },
+    {
+        "水成成分": "hydrogenous constituent"
+    },
+    {
+        "水成物質": "hydrogenous material"
+    },
+    {
+        "水成相": "hydrogenous phase"
+    },
+    {
+        "水文地球化學循環": "hydrogeochemical cycling"
+    },
+    {
+        "水文地球化學": "hydrogeochemistry"
+    },
+    {
+        "水文測量；海道測量": "hydrographic survey"
+    },
+    {
+        "水文學；水理學；海道測量學": "hydrography"
+    },
+    {
+        "水文循環": "hydrological cycle"
+    },
+    {
+        "水解；水解作用": "hydrolysis"
+    },
+    {
+        "水解離": "hydrolytic dissociation"
+    },
+    {
+        "水解化的": "hydrolyzed"
+    },
+    {
+        "水合氫離子": "hydronium ion"
+    },
+    {
+        "親水物": "hydrophile"
+    },
+    {
+        "親水的": "hydrophilic"
+    },
+    {
+        "親水性聚合物": "hydrophilic polymer"
+    },
+    {
+        "親水性表面": "hydrophilic surface"
+    },
+    {
+        "適水的 ；親水的": "hydrophilous"
+    },
+    {
+        "疏水物": "hydrophobe"
+    },
+    {
+        "疏水的": "hydrophobic"
+    },
+    {
+        "疏水鍵": "hydrophobic bond"
+    },
+    {
+        "疏水水合作用": "hydrophobic hydration"
+    },
+    {
+        "疏水性表面": "hydrophobic surface"
+    },
+    {
+        "避水的": "hydrophobous"
+    },
+    {
+        "水中聽音器；水中受波器": "hydrophone"
+    },
+    {
+        "水圈": "hydrosphere"
+    },
+    {
+        "流體靜壓力": "hydrostatic pressure"
+    },
+    {
+        "流體靜應力": "hydrostatic stress"
+    },
+    {
+        "熱液的": "hydrothermal"
+    },
+    {
+        "熱液活動": "hydrothermal activity"
+    },
+    {
+        "熱液蝕變": "hydrothermal alteration"
+    },
+    {
+        "熱液能": "hydrothermal energy"
+    },
+    {
+        "熱液成礦作用": "hydrothermal genesis"
+    },
+    {
+        "熱液變質作用": "hydrothermal metamorphism"
+    },
+    {
+        "熱液礦床": "hydrothermal mineral deposit"
+    },
+    {
+        "熱液礦床": "hydrothermal ore deposit"
+    },
+    {
+        "熱液作用；熱液過程": "hydrothermal process"
+    },
+    {
+        "熱液": "hydrothermal solution"
+    },
+    {
+        "深海熱泉": "hydrothermal vent"
+    },
+    {
+        "熱液水": "hydrothermal water"
+    },
+    {
+        "含水的；水化的": "hydrous"
+    },
+    {
+        "氫氧化物": "hydroxide"
+    },
+    {
+        "羥[基]胺": "hydroxylamine"
+    },
+    {
+        "羥基化[作用]": "hydroxylation"
+    },
+    {
+        "水螅綱": "Hydrozoa"
+    },
+    {
+        "高張溶液的": "hyperosmotic"
+    },
+    {
+        "超高鹽度的": "hypersaline"
+    },
+    {
+        "低鹽的": "hypohaline"
+    },
+    {
+        "深水層": "hypolimnion"
+    },
+    {
+        "低鹽的": "hyposaline"
+    },
+    {
+        "低氧": "hypoxia"
+    },
+    {
+        "等壓的": "isostatic"
+    },
+    {
+        "非飲用水": "impotable water"
+    },
+    {
+        "冰蓋；冰帽": "ice cap"
+    },
+    {
+        "冰核": "ice nucleus"
+    },
+    {
+        "冰山": "iceberg"
+    },
+    {
+        "破冰船": "ice-breaker"
+    },
+    {
+        "理想氣體": "ideal gas"
+    },
+    {
+        "灼燒損失量": "ignition loss"
+    },
+    {
+        "遷入": "immigration"
+    },
+    {
+        "不溶混性": "immiscibility"
+    },
+    {
+        "不混合的 ；不溶混的": "immiscible"
+    },
+    {
+        "非理想氣體；真實氣體": "imperfect gas"
+    },
+    {
+        "雜質；夾雜物 ；不純": "impurity"
+    },
+    {
+        "近親繁殖": "inbreeding"
+    },
+    {
+        "入射": "incidence"
+    },
+    {
+        "入射角": "incidence angle"
+    },
+    {
+        "不可壓縮性": "incompressibility"
+    },
+    {
+        "含油量指數": "index of oil content"
+    },
+    {
+        "污染指數": "index of pollution"
+    },
+    {
+        "折射率；折光率；折射指數": "index of refraction"
+    },
+    {
+        "印度洋": "Indian Ocean"
+    },
+    {
+        "印澳板塊": "Indian-Australian Plate"
+    },
+    {
+        "指標種": "indicator species"
+    },
+    {
+        "原有烴；本地烴": "indigenous hydrocarbon"
+    },
+    {
+        "難溶性；不溶性": "indissolubility"
+    },
+    {
+        "印支運動": "Indosinian movement"
+    },
+    {
+        "印支造山運動": "Indosinian orogeny"
+    },
+    {
+        "誘導反應": "induced reaction"
+    },
+    {
+        "誘導反滲透": "induced reverse osmosis"
+    },
+    {
+        "感應電導示溫儀": "inducted conductivity temperature indicator"
+    },
+    {
+        "感應式鹽度儀": "inductive salinometer"
+    },
+    {
+        "感應率；誘導率 ；介電常數": "inductivity"
+    },
+    {
+        "惰性的": "inert"
+    },
+    {
+        "惰性組分": "inert constituents"
+    },
+    {
+        "惰性元素": "inert element"
+    },
+    {
+        "惰性氣體": "inert gas"
+    },
+    {
+        "惰性溶劑": "inert solvent"
+    },
+    {
+        "慣性流": "inertial current"
+    },
+    {
+        "慣性流": "inertial flow"
+    },
+    {
+        "底內動物": "infauna"
+    },
+    {
+        "滲濾 ；滲透；滲入": "infiltration"
+    },
+    {
+        "流入；流入量": "inflow"
+    },
+    {
+        "流體；流入的": "influent"
+    },
+    {
+        "流入量": "influx"
+    },
+    {
+        "紅外線吸收分析法": "infrared absorption method"
+    },
+    {
+        "紅外線量子放大器": "infrared amplifier by stimulated emission of radiation ( IRASER )"
+    },
+    {
+        "紅外線分析": "infrared analysis"
+    },
+    {
+        "紅外線探測儀；紅外線檢波儀": "infrared detector"
+    },
+    {
+        "紅外線發射譜": "infrared emission spectrum"
+    },
+    {
+        "紅外線變像器": "infrared image convertor"
+    },
+    {
+        "紅外線干涉光譜儀": "infrared interferometer spectrometer (IRIS)"
+    },
+    {
+        "紅外[線]輻射": "infrared radiation (IR)"
+    },
+    {
+        "紅外線輻射溫度計": "infrared radiation thermometer (IRT)"
+    },
+    {
+        "紅外線": "infrared ray"
+    },
+    {
+        "紅外光譜學": "infrared spectroscopy"
+    },
+    {
+        "成分；要素": "ingredient"
+    },
+    {
+        "不均勻性；多相性": "inhomogeneity"
+    },
+    {
+        "不均勻的；多相的": "inhomogeneous"
+    },
+    {
+        "注入": "injection"
+    },
+    {
+        "內弧盆地": "inner arc basin"
+    },
+    {
+        "內核": "inner core"
+    },
+    {
+        "內陸棚；內陸架": "inner shelf"
+    },
+    {
+        "無機的": "inorganic"
+    },
+    {
+        "無機環境": "inorganic environment"
+    },
+    {
+        "無機物質": "inorganic matter"
+    },
+    {
+        "無機營養鹽": "inorganic nutrient"
+    },
+    {
+        "近岸": "inshore"
+    },
+    {
+        "近岸水": "inshore water"
+    },
+    {
+        "不溶[解]性": "insolubility"
+    },
+    {
+        "不穩定性；不穩定度": "instability"
+    },
+    {
+        "島的": "insular"
+    },
+    {
+        "島棚；島架": "insular shelf"
+    },
+    {
+        "年際變化": "interannual change"
+    },
+    {
+        "年際變化": "interannual variation"
+    },
+    {
+        "弧間的": "interarc"
+    },
+    {
+        "弧間盆地": "interarc basin"
+    },
+    {
+        "界面": "interface"
+    },
+    {
+        "界面交換過程": "interface exchange process"
+    },
+    {
+        "界面活性": "interfacial activity"
+    },
+    {
+        "界面薄膜": "interfacial film"
+    },
+    {
+        "界面現象": "interfacial phenomenon"
+    },
+    {
+        "界面聚合作用": "interfacial polymerization"
+    },
+    {
+        "界面張力": "interfacial tension"
+    },
+    {
+        "光的干擾": "interference of light"
+    },
+    {
+        "干涉術": "interferometry"
+    },
+    {
+        "間冰期的": "interglacial"
+    },
+    {
+        "間冰期": "interglaciation"
+    },
+    {
+        "政府間海洋學委員會": "Intergovernmental Oceanographic Commission (IOC)"
+    },
+    {
+        "互溶混性": "intermiscibility"
+    },
+    {
+        "內電解法；自發電解法": "internal electrolysis"
+    },
+    {
+        "內潮": "internal tide"
+    },
+    {
+        "內波": "internal wave"
+    },
+    {
+        "國際海洋物理科學協會": "International Association for the Physical Sciences of the Ocean (IAPSO)"
+    },
+    {
+        "國際生物海洋協會": "International Association of Biological Oceanography (IABO)"
+    },
+    {
+        "國際水文科學協會": "International Association of Hydrological Sciences (IAHS)"
+    },
+    {
+        "國際氣象學與大氣物理學協會": "International Association of Meteorology and Atmospheric Physics (IAMAP)"
+    },
+    {
+        "國際原子能機構": "International Atomic Energy Agency (IAEA)"
+    },
+    {
+        "國際環境標準": "international environmental standards"
+    },
+    {
+        "國際地球物理年": "International Geophysical Year (IGY)"
+    },
+    {
+        "國際地圈生物圈計畫": "International Geosphere Biosphere Program (IGBP)"
+    },
+    {
+        "世界自然保護聯盟": "International Union for Conservation of Nature and Natural Resources (IUCN)"
+    },
+    {
+        "國際大地測量及地球物理學聯合會": "International Union of Geodesy and Geophysics (IUGG)"
+    },
+    {
+        "國際地質科學聯合會": "International Union of Geological Sciences (IUGS)"
+    },
+    {
+        "國際理論與應用化學聯合會": "International Union of Pure and Applied Chemistry (IUPAC)"
+    },
+    {
+        "顆粒間的": "interparticle"
+    },
+    {
+        "板塊間的": "interplate"
+    },
+    {
+        "共聚作用": "interpolymerization"
+    },
+    {
+        "間隙鹵水": "interstitial brine"
+    },
+    {
+        "粒間環境": "interstitial environment"
+    },
+    {
+        "間隙流體": "interstitial fluid"
+    },
+    {
+        "間隙物質": "interstitial material"
+    },
+    {
+        "間隙水": "interstitial water"
+    },
+    {
+        "潮間帶的": "intertidal"
+    },
+    {
+        "潮間帶": "intertidal zone"
+    },
+    {
+        "[間]熱帶輻合帶": "intertropical convergence zone  (ITCZ)"
+    },
+    {
+        "弧內盆地": "intra-arc basin"
+    },
+    {
+        "古陸內盆地": "intracratonic basin"
+    },
+    {
+        "洋內弧": "intraoceanic arc"
+    },
+    {
+        "板塊內的": "intraplate"
+    },
+    {
+        "侵入": "intrusion"
+    },
+    {
+        "侵入岩": "intrusive rock"
+    },
+    {
+        "洪水；淹水": "inundation"
+    },
+    {
+        "入侵種": "invasive species"
+    },
+    {
+        "碘定量分析": "iodimetric analysis"
+    },
+    {
+        "富碘物": "iodine-rich product"
+    },
+    {
+        "離子活度積": "ion activity product (IAP)"
+    },
+    {
+        "離子濃差電池": "ion concentration cell"
+    },
+    {
+        "離子交換": "ion exchange"
+    },
+    {
+        "離子交換色層法": "ion exchange chromatography"
+    },
+    {
+        "離子交換滲析": "ion exchange dialysis"
+    },
+    {
+        "離子交換膜": "ion exchange membrane"
+    },
+    {
+        "離子交換劑": "ion exchanger"
+    },
+    {
+        "離子通量": "ion flux"
+    },
+    {
+        "離子對": "ion pair"
+    },
+    {
+        "離子清除": "ion scavenging"
+    },
+    {
+        "離子交換容量；離子交換能力": "ion-exchange capacity"
+    },
+    {
+        "離子交換樹脂": "ion-exchange resin"
+    },
+    {
+        "離子活度": "ionic activity"
+    },
+    {
+        "離子鍵": "ionic bond"
+    },
+    {
+        "離子淡化": "ionic desalination"
+    },
+    {
+        "離子水合作用": "ionic hydration"
+    },
+    {
+        "離子連結": "ionic link"
+    },
+    {
+        "離子聚合作用": "ionic polymerization"
+    },
+    {
+        "離子度積": "ionic product"
+    },
+    {
+        "游離；電離": "ionization"
+    },
+    {
+        "離子選擇性電極": "ion-selective electrode"
+    },
+    {
+        "輻照度": "irradiance"
+    },
+    {
+        "等星珊瑚屬": "Isastrea"
+    },
+    {
+        "等焓線": "isenthalpic"
+    },
+    {
+        "等熵線": "isentrope"
+    },
+    {
+        "等熵流": "isentropic flow"
+    },
+    {
+        "等熵過程": "isentropic process"
+    },
+    {
+        "等熵面": "isentropic surface"
+    },
+    {
+        "等熵": "isentropy"
+    },
+    {
+        "島弧": "island arc"
+    },
+    {
+        "島鏈": "island chain"
+    },
+    {
+        "島堤": "island mole"
+    },
+    {
+        "島棚；島架": "island shelf"
+    },
+    {
+        "島坡": "island slope"
+    },
+    {
+        "等壓；等壓線": "isobar"
+    },
+    {
+        "等基線": "isobase"
+    },
+    {
+        "等深線": "isobath"
+    },
+    {
+        "等溫[度]深度線；等溫[度]深度面": "isobathytherm"
+    },
+    {
+        "等色的": "isochromatic"
+    },
+    {
+        "等水色線": "isochromatic line"
+    },
+    {
+        "等焓": "isoenthalpy"
+    },
+    {
+        "等重力異常線": "isogal"
+    },
+    {
+        "等磁力線": "isogam"
+    },
+    {
+        "等地溫線": "isogeotherm"
+    },
+    {
+        "等磁偏角線": "isogon"
+    },
+    {
+        "等角[現象]": "isogonism"
+    },
+    {
+        "等鹽[度]線": "isohaline"
+    },
+    {
+        "等鹽[度]線": "isohalsine"
+    },
+    {
+        "等高線": "isohypse"
+    },
+    {
+        "同分異構物": "isomer"
+    },
+    {
+        "異構化作用": "isomerization"
+    },
+    {
+        "等厚圖": "isopach map"
+    },
+    {
+        "等壓線": "isopiestic line"
+    },
+    {
+        "等壓點": "isopiestic point"
+    },
+    {
+        "等壓線": "isopiestics"
+    },
+    {
+        "等值線": "isopleth"
+    },
+    {
+        "等足類": "isopod"
+    },
+    {
+        "等長變線": "isopor"
+    },
+    {
+        "等密度": "isopycnal"
+    },
+    {
+        "等密度面": "isopycnic surface"
+    },
+    {
+        "等滲透的": "isosmotic"
+    },
+    {
+        "等滲透性": "isosmoticity"
+    },
+    {
+        "大地均衡[說]｛原稱「地殼均衡說」｝": "isostasy"
+    },
+    {
+        "大地均衡補償；地殼均衡補償": "isostatic compensation"
+    },
+    {
+        "等壓線": "isostatic curve"
+    },
+    {
+        "大地均衡反彈；地殼均衡反彈": "isostatic rebound"
+    },
+    {
+        "等溫[線]": "isotherm"
+    },
+    {
+        "等溫的": "isothermal"
+    },
+    {
+        "等溫變化": "isothermal change"
+    },
+    {
+        "等溫線": "isothermal contour"
+    },
+    {
+        "等溫膨脹": "isothermal expansion"
+    },
+    {
+        "等溫層": "isothermal layer"
+    },
+    {
+        "等溫過程": "isothermal process"
+    },
+    {
+        "等溫殘磁": "isothermal remanent magnetization (IRM)"
+    },
+    {
+        "同位素": "isotope"
+    },
+    {
+        "同位素添加法": "isotope addition method"
+    },
+    {
+        "同位素鑒定": "isotope assay"
+    },
+    {
+        "同位素化學": "isotope chemistry"
+    },
+    {
+        "同位素氣候期": "isotope climatic stage"
+    },
+    {
+        "同位素稀釋分析": "isotope dilution analysis"
+    },
+    {
+        "同位素稀釋質譜法": "isotope dilution mass spectrometry"
+    },
+    {
+        "同位素稀釋分析法": "isotope dilution method"
+    },
+    {
+        "同位素稀釋表面電離質譜法": "isotope dilution surface ionization mass spectrometry"
+    },
+    {
+        "同位素效應": "isotope effect"
+    },
+    {
+        "同位素分化": "isotope fractionation"
+    },
+    {
+        "同位素地質溫度計": "isotope geothermometer"
+    },
+    {
+        "同位素異構物": "isotope isomer"
+    },
+    {
+        "同位素年齡": "isotopic age"
+    },
+    {
+        "同位素測年；同位素紀年": "isotopic dating"
+    },
+    {
+        "同位素交換": "isotopic exchange"
+    },
+    {
+        "同位素標記": "isotopic labelling"
+    },
+    {
+        "同位素污染": "isotopic pollution"
+    },
+    {
+        "同位素標準": "isotopic standard"
+    },
+    {
+        "同位素示蹤劑": "isotopic tracer"
+    },
+    {
+        "同位素示蹤技術": "isotopic tracer technique"
+    },
+    {
+        "同位素示蹤": "isotopic tracing"
+    },
+    {
+        "各向同性；均向性": "isotropy"
+    },
+    {
+        "地峽": "isth"
+    },
+    {
+        "地峽": "isthmus"
+    },
+    {
+        "世界自然保護聯盟紅色名錄{瀕危物種}": "International Union for Conservation of Nature (IUCN) Red List"
+    },
+    {
+        "伊豆–小笠原海溝": "Izu-Bonin Trench"
+    },
+    {
+        "伊豆–小笠原海溝": "Izu-Ogasawara Trench"
+    },
+    {
+        "鰺": "jack"
+    },
+    {
+        "日本海盆": "Japan Basin"
+    },
+    {
+        "日本島弧": "Japan island arc"
+    },
+    {
+        "日本海溝": "Japan Trench"
+    },
+    {
+        "日本海洋資料中心": "Japanese Oceanographic Data Center (JODC)"
+    },
+    {
+        "哈拉米洛極性亞期": "Jaramillo polarity subchron"
+    },
+    {
+        "爪哇海溝": "Java Trench"
+    },
+    {
+        "地球深部取樣海洋聯合機構": "Joint Oceanographic Institutions for Deep Earth Sampling (JOIDES)"
+    },
+    {
+        "全球海洋通量聯合研究": "Joint Global Ocean Flux Study (JGOFS)"
+    },
+    {
+        "海洋學聯合大會": "Joint Oceanographic Assembly (JOA)"
+    },
+    {
+        "焦耳 [功或能的單位]": "joule"
+    },
+    {
+        "焦耳效應": "Joule effect"
+    },
+    {
+        "焦耳熱": "Joule heat"
+    },
+    {
+        "焦耳定律": "Joule's law"
+    },
+    {
+        "璜帝富加板塊": "Juan de Fuca Plate"
+    },
+    {
+        "坎氏顆石屬{鈣質超微化石}": "Kamptnerius"
+    },
+    {
+        "開斯頓岩心取樣器；盒式取樣器": "Kasten corer"
+    },
+    {
+        "晚冰期": "kataglacial"
+    },
+    {
+        "深成熱液礦床": "katathermal ore deposit"
+    },
+    {
+        "深成熱液": "katathermal solution"
+    },
+    {
+        "昆布；巨藻": "kelp"
+    },
+    {
+        "克氏溫度；絕對溫度": "Kelvin temperature"
+    },
+    {
+        "克爾文波；凱爾文波": "Kelvin wave"
+    },
+    {
+        "克馬德克海溝": "Kermadec Trench"
+    },
+    {
+        "沙島；沙礁": "key"
+    },
+    {
+        "運動特性": "kinetic characteristic"
+    },
+    {
+        "運動學": "kinetics"
+    },
+    {
+        "凱氏測氮法": "Kjeldahl method"
+    },
+    {
+        "圓丘；海底丘": "knoll"
+    },
+    {
+        "節{速率單位}": "knot"
+    },
+    {
+        "努德森滴定管；氯度滴定管": "Knudsen burette"
+    },
+    {
+        "努德森移液管；氯度移液管": "Knudsen pipet"
+    },
+    {
+        "磷蝦": "krill"
+    },
+    {
+        "K -策略": "K-strategy"
+    },
+    {
+        "庫拉板塊": "Kula plate"
+    },
+    {
+        "岩芯取樣器": "Kullenberg corer"
+    },
+    {
+        "千島海盆": "Kuril Basin"
+    },
+    {
+        "千島島弧": "Kuril Island Arc"
+    },
+    {
+        "千島–堪察加海溝": "Kuril-Kamchatka Trench"
+    },
+    {
+        "黑潮": "Kuroshio"
+    },
+    {
+        "黑潮延伸流": "Kuroshio extension current"
+    },
+    {
+        "海峽": "kyle"
+    },
+    {
+        "超微化石": "nannofossil"
+    },
+    {
+        "超微化石軟泥": "nannofossil ooze"
+    },
+    {
+        "球石；顆石類": "nannooliths"
+    },
+    {
+        "超微古生物學": "nannopaleontoloty"
+    },
+    {
+        "超微浮游生物": "nannoplankton"
+    },
+    {
+        "超微星石屬{鈣質超微化石}": "Nannotetraster"
+    },
+    {
+        "四分超微錐石屬{鈣質超微化石}": "Nannotetrina"
+    },
+    {
+        "超微旋轉錐石屬{鈣質超微化石}": "Nannoturba"
+    },
+    {
+        "南森瓶": "Nansen bottle"
+    },
+    {
+        "南森海脊；南森海嶺": "Nansen Ridge"
+    },
+    {
+        "織紋蟲亞目{放射蟲類}": "Nasselinae"
+    },
+    {
+        "美國國家海洋大氣總署": "National Oceanic and Atmospheric Administration (NOAA)"
+    },
+    {
+        "美國國家海洋資料中心": "National Oceanographic Data Center (NODC)"
+    },
+    {
+        "天然化合物": "native compound"
+    },
+    {
+        "天然元素": "native element"
+    },
+    {
+        "本土種": "native species"
+    },
+    {
+        "天然吸附劑": "natural adsorbing agent"
+    },
+    {
+        "天然鹵化有機物": "natural halogenated organics"
+    },
+    {
+        "天然有機鹵化合物": "natural organohalogen compounds"
+    },
+    {
+        "天然抗氧化劑": "natural oxidation inhibitor"
+    },
+    {
+        "天然放射性": "natural radioactivity"
+    },
+    {
+        "天然放射性核素[核種]": "natural radionuclides"
+    },
+    {
+        "自然保留區": "natural reserve"
+    },
+    {
+        "天然樹脂": "natural resin"
+    },
+    {
+        "自然自淨能力": "natural self-purification capacity"
+    },
+    {
+        "航海天文曆；航海年鑑": "nautical almanac"
+    },
+    {
+        "航海圖": "nautical chart"
+    },
+    {
+        "海浬；浬": "nautical mile"
+    },
+    {
+        "鸚鵡螺式殼{頭足類}": "nautilicone"
+    },
+    {
+        "鸚鵡螺{頭足類}": "nautiloid"
+    },
+    {
+        "鸚鵡螺屬{頭足類}": "Nautilus"
+    },
+    {
+        "涅-史氏方程；那微葉-史托克方程": "Navier-Stokes Equations"
+    },
+    {
+        "導航；航行": "navigation"
+    },
+    {
+        "領航員；導航設備": "navigator"
+    },
+    {
+        "納斯卡板塊；那茲卡板塊": "Nazca Plate"
+    },
+    {
+        "小潮": "neap tide"
+    },
+    {
+        "近岸": "nearshore"
+    },
+    {
+        "近岸環流": "nearshore circulation"
+    },
+    {
+        "近岸堆積": "nearshore deposit"
+    },
+    {
+        "近濱帶；近濱區": "nearshore zone"
+    },
+    {
+        "負浮力 [下沉]": "negative buoyancy"
+    },
+    {
+        "緩化劑；負催化劑": "negative catalyst"
+    },
+    {
+        "負離子": "negative ion"
+    },
+    {
+        "陰電勢；負電位；負電勢": "negative potential"
+    },
+    {
+        "負性濱線": "negative shoreline"
+    },
+    {
+        "游泳動物；游泳生物": "nekton"
+    },
+    {
+        "刺絲胞": "nematocyte"
+    },
+    {
+        "線形動物門": "Nematoda"
+    },
+    {
+        "濁狀層；霧狀層；霧濁層": "nepheloid layer"
+    },
+    {
+        "混濁沉積物": "nepheloid sediment"
+    },
+    {
+        "濁狀水；霧狀水": "nepheloid water"
+    },
+    {
+        "霧狀帶": "nepheloid zone"
+    },
+    {
+        "濁度計": "nephelometer"
+    },
+    {
+        "濁度測定法": "nephelometry"
+    },
+    {
+        "腎顆石屬{鈣質超微化石}": "Nephrolithus"
+    },
+    {
+        "近海": "neritic"
+    },
+    {
+        "淨浮力": "net buoyancy"
+    },
+    {
+        "淨初級生產量": "net primary production"
+    },
+    {
+        "淨初級生產力": "net primary productivity"
+    },
+    {
+        "淨輻射表": "net radiometer"
+    },
+    {
+        "淨搬運量；淨輸送量": "net transport"
+    },
+    {
+        "漂浮生物": "neuston"
+    },
+    {
+        "中性粒子": "neutral particle"
+    },
+    {
+        "中和；抵消": "neutralization"
+    },
+    {
+        "中性膜電滲析法": "neutral-membrane electrodialysis"
+    },
+    {
+        "中子吸收作用": "neutron absorption"
+    },
+    {
+        "中子活化分析": "neutron activation analysis"
+    },
+    {
+        "中子活化輻射": "neutron activation irradiation"
+    },
+    {
+        "中子活化產物": "neutron activation product"
+    },
+    {
+        "中子活化法": "neutron activation technique"
+    },
+    {
+        "中子捕獲": "neutron capture"
+    },
+    {
+        "新不列顛海溝": "New Britain Trench"
+    },
+    {
+        "新赫布里底板塊": "New Hebrides Plate"
+    },
+    {
+        "生態位、區位、棲位": "niche"
+    },
+    {
+        "尼考梅達菊石屬{頭足類}": "Nicomedites"
+    },
+    {
+        "尼羅河三角洲": "Nile Delta"
+    },
+    {
+        "水位計": "nilometer"
+    },
+    {
+        "東經九十度洋脊": "Ninety-East Ridge"
+    },
+    {
+        "浪蝕洞；小崖": "nip"
+    },
+    {
+        "硝酸鹽再生[作用]": "nitrate regeneration"
+    },
+    {
+        "硝化 ；硝化作用": "nitrification"
+    },
+    {
+        "硝化": "nitrifying"
+    },
+    {
+        "硝化菌": "nitrifying bacteria"
+    },
+    {
+        "氮同化作用": "nitrogen assimilation"
+    },
+    {
+        "氮循環": "nitrogen cycle"
+    },
+    {
+        "固氮作用": "nitrogen fixation"
+    },
+    {
+        "固氮菌": "nitrogen fixing bacteria"
+    },
+    {
+        "氮化作用": "nitrogenation"
+    },
+    {
+        "無氮有機質": "nitrogen-free organic matter"
+    },
+    {
+        "含氮的": "nitrogenous"
+    },
+    {
+        "惰性氣體": "noble gas"
+    },
+    {
+        "貴金屬": "noble metal"
+    },
+    {
+        "節房蟲屬{有孔蟲類}": "Nodosaria"
+    },
+    {
+        "諾氏棒石屬{鈣質超微化石}": "Noelaerhabdus"
+    },
+    {
+        "似諾氏石屬{鈣質超微化石}": "Noelites"
+    },
+    {
+        "生物不可降解物質": "non-biodegradable materials"
+    },
+    {
+        "非守恆濃度": "non-conservative concentration"
+    },
+    {
+        "海水非守恆成分": "non-conservative constituents of seawater"
+    },
+    {
+        "非守恆元素": "non-conservative elements"
+    },
+    {
+        "非守恆量": "non-conservative quantity"
+    },
+    {
+        "非腐蝕性的": "non-corrosive"
+    },
+    {
+        "非腐蝕材料": "non-corrosive material"
+    },
+    {
+        "非腐蝕性": "non-corrosiveness"
+    },
+    {
+        "不可分解的": "non-decomposable"
+    },
+    {
+        "不可降解的": "non-degradable"
+    },
+    {
+        "非電解質": "non-electrolyte"
+    },
+    {
+        "非造礁珊瑚": "nonhermatypic coral"
+    },
+    {
+        "多口蟲屬{有孔蟲類}": "Nonion"
+    },
+    {
+        "非離子型表面活化劑": "nonionic surfactant"
+    },
+    {
+        "非生物資源": "non-living resources"
+    },
+    {
+        "非光合成的": "non-photosynthesizing"
+    },
+    {
+        "非光合成的": "non-photosynthetic"
+    },
+    {
+        "非飲用水": "non-portable water"
+    },
+    {
+        "不能自生資源；不可更新資源": "non-renewable resources"
+    },
+    {
+        "無毒的": "non-toxic"
+    },
+    {
+        "不透明": "non-transparent"
+    },
+    {
+        "不均勻": "non-uniform"
+    },
+    {
+        "標準濃度；[克]當量濃度": "normal concentration"
+    },
+    {
+        "標準狀況{ 0°C和760毫米汞壓}": "normal condition"
+    },
+    {
+        "常態分布": "normal distribution"
+    },
+    {
+        "標準電極勢": "normal electrode potential"
+    },
+    {
+        "正反射": "normal reflection"
+    },
+    {
+        "正常折射": "normal refraction"
+    },
+    {
+        "標準海水": "normal sea water"
+    },
+    {
+        "當量溶液": "normal solution"
+    },
+    {
+        "國際[哥本哈根]標準海水": "normal water"
+    },
+    {
+        "當量濃度": "normality"
+    },
+    {
+        "正規化雷達截面": "normalized radar cross section (NRSC)"
+    },
+    {
+        "標準化單位": "normalized unit"
+    },
+    {
+        "常態化植被指數": "Normalized Vegetation Index (NVI)"
+    },
+    {
+        "北美海盆": "North American Basin"
+    },
+    {
+        "北美板塊": "North American Plate"
+    },
+    {
+        "北大西洋洋流": "North Atlantic Current"
+    },
+    {
+        "北大西洋深層水": "North Atlantic deep water"
+    },
+    {
+        "北大西洋公約組織": "North Atlantic Treaty Organization (NATO)"
+    },
+    {
+        "北新赫布里底海溝": "North New Hebrides Trench"
+    },
+    {
+        "東北太平洋海盆": "Northeast Pacific Basin"
+    },
+    {
+        "西北太平洋海盆": "Northwest Pacific Basin"
+    },
+    {
+        "挪威海流": "Norwegian Current"
+    },
+    {
+        "有害物質；毒素": "noxious substance"
+    },
+    {
+        "[原子]核的；有核的": "nuclear"
+    },
+    {
+        "核分裂": "nuclear fission"
+    },
+    {
+        "核融合": "nuclear fusion"
+    },
+    {
+        "同核異構體；同核異構物": "nuclear isomer"
+    },
+    {
+        "核磁共振": "nuclear magnetic resonance (NMR)"
+    },
+    {
+        "核動力": "nuclear power"
+    },
+    {
+        "核電廠": "nuclear power plant"
+    },
+    {
+        "核輻射": "nuclear radiation"
+    },
+    {
+        "核反應": "nuclear reaction"
+    },
+    {
+        "核反應器；核反應堆": "nuclear reactor"
+    },
+    {
+        "核種 ；核類": "nuclear species"
+    },
+    {
+        "親核的；親質子的": "nucleophilic"
+    },
+    {
+        "[原子]核；[晶]核 ；細胞核": "nucleus"
+    },
+    {
+        "核種": "nuclide"
+    },
+    {
+        "貨幣蟲屬{有孔蟲類}": "Nummulites"
+    },
+    {
+        "育幼場": "nursing ground"
+    },
+    {
+        "營養鹽；營養素": "nutrient"
+    },
+    {
+        "營養鹽化學": "nutrient chemistry"
+    },
+    {
+        "營養鹽循環": "nutrient cycle"
+    },
+    {
+        "營養鹽缺乏": "nutrient deficiency"
+    },
+    {
+        "營養鹽耗竭": "nutrient depletion"
+    },
+    {
+        "營養鹽元素": "nutrient element"
+    },
+    {
+        "營養鹽需求；營養物質需求": "nutrient requirement"
+    },
+    {
+        "營養鹽": "nutrient salt"
+    },
+    {
+        "營養鹽吸收；營養物質的吸收": "nutrient uptake"
+    },
+    {
+        "含營養鹽區域；含營養物質區域": "nutrient zone"
+    },
+    {
+        "營養不足；營養鹽不足": "nutrient-starved"
+    },
+    {
+        "營養物": "nutriment"
+    },
+    {
+        "營養 ；食物；養料": "nutrition"
+    },
+    {
+        "營養豐富的 ；營養的": "nutritional"
+    },
+    {
+        "營養需要 ；營養需要量": "nutritional requirement"
+    },
+    {
+        "營養豐富的；富營養的": "nutritious"
+    },
+    {
+        "營養豐富的": "nutritive"
+    },
+    {
+        "營養[價]值": "nutritive value"
+    },
+    {
+        "海底地震儀": "ocean bottom seismometer (OBS)"
+    },
+    {
+        "海-氣界面": "ocean air interface"
+    },
+    {
+        "海洋水色": "ocean colour"
+    },
+    {
+        "海洋水色測量": "ocean colour measurement"
+    },
+    {
+        "洋流": "ocean current"
+    },
+    {
+        "海洋排放": "ocean discharge"
+    },
+    {
+        "海洋鑽探計畫": "Ocean Drilling Program (ODP)"
+    },
+    {
+        "海拋": "ocean dumping"
+    },
+    {
+        "海洋能": "ocean energy"
+    },
+    {
+        "海洋能源": "ocean energy resource"
+    },
+    {
+        "海洋環境": "ocean environment"
+    },
+    {
+        "海床；海底": "ocean floor"
+    },
+    {
+        "海洋通量": "ocean flux"
+    },
+    {
+        "海洋排放管": "ocean outfall"
+    },
+    {
+        "海洋污染": "ocean pollution"
+    },
+    {
+        "海洋生產力": "ocean productivity"
+    },
+    {
+        "海洋資源": "ocean resources"
+    },
+    {
+        "洋脊": "ocean ridge"
+    },
+    {
+        "洋脊拉斑玄武岩；洋脊矽質玄武岩": "ocean ridge tholeiite"
+    },
+    {
+        "海洋隆起；海隆": "ocean rise"
+    },
+    {
+        "海洋貯藏": "ocean storage"
+    },
+    {
+        "海洋溫差電力": "ocean temperature differential power"
+    },
+    {
+        "海洋熱能；海洋溫差能": "ocean thermal energy"
+    },
+    {
+        "海洋溫差發電": "ocean thermal energy conversion (OTEC)"
+    },
+    {
+        "海洋-大氣交換；海-氣交換": "ocean-atmosphere interchange"
+    },
+    {
+        "海洋地殼": "oceanic crust"
+    },
+    {
+        "大洋脫氮[硝]速率": "oceanic denitrification rate"
+    },
+    {
+        "海洋污損預報": "oceanic fouling forecast"
+    },
+    {
+        "洋底破裂帶；洋底斷裂帶": "oceanic fracture zone"
+    },
+    {
+        "海底熱流": "oceanic heat flow"
+    },
+    {
+        "洋島拉斑玄武岩": "oceanic island thoelite (OIT)"
+    },
+    {
+        "海洋地殼分層": "oceanic layering"
+    },
+    {
+        "海洋氮收支": "oceanic nitrogen budget"
+    },
+    {
+        "海洋聲散射體": "oceanic sound scatterer"
+    },
+    {
+        "海洋學": "oceanography"
+    },
+    {
+        "海洋學": "oceanology"
+    },
+    {
+        "八板顆石屬{鈣質超微化石}": "Octolithites"
+    },
+    {
+        "章魚": "octopus"
+    },
+    {
+        "美國海軍研究署": "Office of Naval Research (ONR)"
+    },
+    {
+        "退覆": "offlap"
+    },
+    {
+        "離岸；近海；外海": "offshore"
+    },
+    {
+        "離岸沙洲": "offshore bar"
+    },
+    {
+        "離岸環境": "offshore environment"
+    },
+    {
+        "離岸天然氣": "offshore gas"
+    },
+    {
+        "離岸採礦": "offshore mining"
+    },
+    {
+        "離岸採油系統": "offshore oil production system"
+    },
+    {
+        "離岸石油資源": "offshore oil resources"
+    },
+    {
+        "離岸油溢": "offshore oil spills"
+    },
+    {
+        "離岸採油平臺": "offshore production platform"
+    },
+    {
+        "離岸採油技術": "offshore production technology"
+    },
+    {
+        "離岸水域": "offshore waters"
+    },
+    {
+        "漏油；洩油": "oil spill"
+    },
+    {
+        "沖繩海槽": "Okinawa Trough"
+    },
+    {
+        "寡鹽的": "oligohaline"
+    },
+    {
+        "貧屬種型海洋；貧屬種型大洋": "oligotaxic ocean"
+    },
+    {
+        "貧養的": "oligotrophic"
+    },
+    {
+        "貧營養水": "oligotrophic water"
+    },
+    {
+        "橄欖矽質玄武岩": "olivine tholeiite"
+    },
+    {
+        "雜食性者": "omnivore"
+    },
+    {
+        "翁通爪哇海台": "Ontong Java Plateau"
+    },
+    {
+        "鮞粒；鮞石；魚卵石": "ooid"
+    },
+    {
+        "鮞狀石": "ooide"
+    },
+    {
+        "卵形蟲屬{有孔蟲類}": "Oolina"
+    },
+    {
+        "鮞狀岩": "oolite"
+    },
+    {
+        "鮞石；魚卵石": "oolith"
+    },
+    {
+        "軟泥": "ooze"
+    },
+    {
+        "軟泥的；淤泥質的": "oozy"
+    },
+    {
+        "不透明": "opaque"
+    },
+    {
+        "開闊大洋；開放海洋": "open oceans"
+    },
+    {
+        "蛇綠岩": "ophiolite"
+    },
+    {
+        "蛇綠岩系": "ophiolite suite"
+    },
+    {
+        "光能": "optical energy"
+    },
+    {
+        "光譜": "optical spectrum"
+    },
+    {
+        "光透射": "optical transmission"
+    },
+    {
+        "有機吸收劑": "organic absorbent"
+    },
+    {
+        "有機分析": "organic analysis"
+    },
+    {
+        "生物灘": "organic bank"
+    },
+    {
+        "有機緩衝溶液": "organic buffer"
+    },
+    {
+        "有機碳": "organic carbon"
+    },
+    {
+        "有機化學污染物": "organic chemical pollutant"
+    },
+    {
+        "有機覆蓋層": "organic coating"
+    },
+    {
+        "有機覆蓋層": "organic coating layer"
+    },
+    {
+        "有機膠體": "organic colloid"
+    },
+    {
+        "有機成分": "organic constituent"
+    },
+    {
+        "有機防腐蝕劑": "organic corrosion inhibitor"
+    },
+    {
+        "有機循環": "organic cycle"
+    },
+    {
+        "有機碎屑": "organic debris"
+    },
+    {
+        "有機衍生物": "organic derivatives"
+    },
+    {
+        "有機質溶解成分": "organic dissolved component"
+    },
+    {
+        "有機排放水": "organic effluent"
+    },
+    {
+        "有機電化學": "organic electrochemistry"
+    },
+    {
+        "有機環境": "organic environment"
+    },
+    {
+        "有機碎屑": "organic fragment"
+    },
+    {
+        "有機地球化學": "organic geochemistry"
+    },
+    {
+        "有機質譜分析": "organic mass spectrometry"
+    },
+    {
+        "有機物質": "organic material"
+    },
+    {
+        "有機質": "organic matter"
+    },
+    {
+        "有機物降解": "organic matter degradation"
+    },
+    {
+        "有機膜": "organic membrane"
+    },
+    {
+        "有機汞": "organic mercury"
+    },
+    {
+        "有機氮": "organic nitrogen"
+    },
+    {
+        "有機營養物": "organic nutrient"
+    },
+    {
+        "有機顆粒": "organic particle"
+    },
+    {
+        "有機顆粒物": "organic particulate matter"
+    },
+    {
+        "有機磷": "organic phosphorus"
+    },
+    {
+        "有機色素": "organic pigment"
+    },
+    {
+        "有機污染物": "organic pollutant"
+    },
+    {
+        "有機污染物分析": "organic pollutant analysis"
+    },
+    {
+        "有機鹽": "organic salt"
+    },
+    {
+        "有機溶質": "organic solutes"
+    },
+    {
+        "有機物質": "organic substance"
+    },
+    {
+        "有機廢物": "organic waste"
+    },
+    {
+        "有機污水": "organic waste water"
+    },
+    {
+        "有機結合態氮": "organically bound nitrogen"
+    },
+    {
+        "有機磷殺蟲劑": "organophosphorus insecticide"
+    },
+    {
+        "有機營養的": "organotrophic"
+    },
+    {
+        "有機營養活性": "organotrophic activity"
+    },
+    {
+        "滲透壓調節": "osmoregulation"
+    },
+    {
+        "滲透[作用]": "osmose"
+    },
+    {
+        "滲透[作用]": "osmosis"
+    },
+    {
+        "滲透係數": "osmotic coefficient"
+    },
+    {
+        "滲透當量": "osmotic equivalent"
+    },
+    {
+        "滲透壓梯度": "osmotic pressure gradient"
+    },
+    {
+        "硬骨魚綱": "Osteichthyes"
+    },
+    {
+        "海洋溫差發電系統": "OTEC power system"
+    },
+    {
+        "外弧": "outer arc"
+    },
+    {
+        "外緣隆起": "outer arch"
+    },
+    {
+        "外核；外地核": "outer core"
+    },
+    {
+        "外緣隆起": "outer rise"
+    },
+    {
+        "外陸棚；外陸架": "outer shelf"
+    },
+    {
+        "外緣隆起": "outer swell"
+    },
+    {
+        "流出": "outflow"
+    },
+    {
+        "除氣；脫氣": "outgassing"
+    },
+    {
+        "過漁；過度漁撈": "overfishing"
+    },
+    {
+        "溢流；溢出": "overflow"
+    },
+    {
+        "溢流管道系統": "overflow piping system"
+    },
+    {
+        "氧化劑": "oxidant"
+    },
+    {
+        "氧化作用": "oxidation"
+    },
+    {
+        "氧化還原指示計": "oxidation-reduction indicator"
+    },
+    {
+        "氧化侵蝕": "oxidative attack"
+    },
+    {
+        "氧化能力": "oxidative capacity"
+    },
+    {
+        "氧化分解": "oxidative decomposition"
+    },
+    {
+        "氧化降解": "oxidative degradation"
+    },
+    {
+        "氧化劑": "oxidizer"
+    },
+    {
+        "氧化劑": "oxidizing agent"
+    },
+    {
+        "氧濃度": "oxygen concentration"
+    },
+    {
+        "耗氧量": "oxygen consumption"
+    },
+    {
+        "氧循環": "oxygen cycle"
+    },
+    {
+        "缺氧": "oxygen deficiency"
+    },
+    {
+        "缺氧": "oxygen deficit"
+    },
+    {
+        "需氧量": "oxygen demand"
+    },
+    {
+        "缺氧": "oxygen depletion"
+    },
+    {
+        "氧分佈": "oxygen distribution"
+    },
+    {
+        "最大含氧層": "oxygen maximum layer"
+    },
+    {
+        "最小含氧層；最低溶氧層": "oxygen minimum layer"
+    },
+    {
+        "需氧量": "oxygen requirement"
+    },
+    {
+        "最少含氧區": "oxygen-minimum zone"
+    },
+    {
+        "缺氧水；貧氧水": "oxygen-poor water"
+    },
+    {
+        "氫氧化合物；羟基氧化物；水合氧化物": "oxyhydroxides"
+    },
+    {
+        "親潮": "Oyashio"
+    },
+    {
+        "磷酸鹽磷；PO<Sub>4</Sub>-P": "phosphate-P"
+    },
+    {
+        "光電效應": "photoeffect"
+    },
+    {
+        "年產量與平均重量之比率": "P/B ratio"
+    },
+    {
+        "太平洋邊緣": "Pacific margin"
+    },
+    {
+        "太平洋": "Pacific Ocean "
+    },
+    {
+        "太平洋板塊": "Pacific Plate"
+    },
+    {
+        "太平洋型海岸": "Pacific-type coast"
+    },
+    {
+        "平滑熔岩 ; 繩狀熔岩": "pahoehoe lava"
+    },
+    {
+        "帛琉海溝": "Palau Trench"
+    },
+    {
+        "古生物化學": "paleobiochemistry"
+    },
+    {
+        "古海洋學": "paleoceanogrpahy"
+    },
+    {
+        "古洋流": "paleocirculation"
+    },
+    {
+        "古分子": "paleo-molecule"
+    },
+    {
+        "古鹽度": "paleosalinity"
+    },
+    {
+        "古土壤": "paleosols"
+    },
+    {
+        "古斜溫層；古溫躍層": "paleo-thermocline"
+    },
+    {
+        "變餘沉積物": "palimpsest sediment"
+    },
+    {
+        "變餘組織": "palimpsest texture"
+    },
+    {
+        "盤古大陸；泛大陸": "Pangaea"
+    },
+    {
+        "泛古洋": "Panthalassa"
+    },
+    {
+        "紙上色層分析法": "paper chromatography"
+    },
+    {
+        "帕雷塞貝拉海盆": "Parace Vela Basin"
+    },
+    {
+        "準週期{海面相對上升準週期}": "paracycle "
+    },
+    {
+        "近海的": "paralic"
+    },
+    {
+        "寄生物；寄生者": "parasites"
+    },
+    {
+        "部分莫耳熱函": "partial molal heat content"
+    },
+    {
+        "部分莫耳體積": "partial molal volume"
+    },
+    {
+        "分壓": "partial pressure"
+    },
+    {
+        "部分飽和": "partial saturation"
+    },
+    {
+        "粒徑": "particle size"
+    },
+    {
+        "粒徑分析": "particle size analysis"
+    },
+    {
+        "粒徑分佈；顆粒級配": "particle size distribution"
+    },
+    {
+        "顆粒性碳": "particulate carbon"
+    },
+    {
+        "顆粒性無機碳": "particulate inorganic carbon (PIC)"
+    },
+    {
+        "顆粒性物質": "particulate material"
+    },
+    {
+        "懸浮顆粒; 懸浮微粒": "particulate matter"
+    },
+    {
+        "顆粒性有機碳": "particulate organic carbon (POC)"
+    },
+    {
+        "顆粒性有機質": "particulate organic matter (POM)"
+    },
+    {
+        "顆粒性有機氮": "particulate organic nitrogen (PON)"
+    },
+    {
+        "顆粒性有機磷": "particulate organic phosphorus (POP)"
+    },
+    {
+        "顆粒性有機物": "particulate organic substance"
+    },
+    {
+        "顆粒相": "particulate phase"
+    },
+    {
+        "顆粒性磷": "particulate phosphorus"
+    },
+    {
+        "分配；分隔 ；畫分；區分": "partition"
+    },
+    {
+        "分配係數；分隔係數": "partition coefficient"
+    },
+    {
+        "分配[定]律": "partition law"
+    },
+    {
+        "十億分比；十億分之": "parts per billion (ppb)"
+    },
+    {
+        "百萬分比；百萬分之": "parts per million (ppm)"
+    },
+    {
+        "千分比； 千分之": "parts per thousand(ppt)"
+    },
+    {
+        "被動邊緣": "passive margin"
+    },
+    {
+        "塊礁": "patch reef"
+    },
+    {
+        "遠洋的": "pelagian"
+    },
+    {
+        "遠洋的；水層的；水層區": "pelagic"
+    },
+    {
+        "遠洋堆積物": "pelagic deposits"
+    },
+    {
+        "遠洋環境": "pelagic environment"
+    },
+    {
+        "遠洋相": "pelagic facies"
+    },
+    {
+        "水層魚類": "pelagic fish"
+    },
+    {
+        "遠洋沉積物": "pelagic sediment"
+    },
+    {
+        "遠洋沉積": "pelagic sedimentation"
+    },
+    {
+        "遠洋帶": "pelagic zone"
+    },
+    {
+        "糞球粒；糞粒": "pellet"
+    },
+    {
+        "透光；光的穿透": "penetration of light"
+    },
+    {
+        "半島": "peninsula"
+    },
+    {
+        "膠溶作用": "peptization"
+    },
+    {
+        "每年": "per annum"
+    },
+    {
+        "千分率；千分之幾": "per mille (0/00 )"
+    },
+    {
+        "體積百分率": "percentage by volume"
+    },
+    {
+        "重量百分率": "percentage by weight"
+    },
+    {
+        "百分誤差；誤差率": "percentage error"
+    },
+    {
+        "回收率": "percentage recovery"
+    },
+    {
+        "鱸腳盤棒石屬{鈣質超微化石}": "Percivalia"
+    },
+    {
+        "滲出液；濾出液": "percolate"
+    },
+    {
+        "滲透濾器": "percolating filter"
+    },
+    {
+        "滲濾 ": "percolation"
+    },
+    {
+        "滲濾係數": "percolation factor"
+    },
+    {
+        "完全吸收體；理想吸收體": "perfect absorber "
+    },
+    {
+        "理想流體": "perfect fluid"
+    },
+    {
+        "理想氣體": "perfect gas"
+    },
+    {
+        "橄欖岩": "peridotite"
+    },
+    {
+        "近地點": "perigee"
+    },
+    {
+        "週期表": "periodic table"
+    },
+    {
+        "附生性藻類": "periphyton"
+    },
+    {
+        "似喉頸石屬{鈣質超微化石}": "Peritrachelina"
+    },
+    {
+        "永久[恆定]溫躍層": "permanent thermocline"
+    },
+    {
+        "滲透性；滲透率；滲蝕度 ；導磁性；導磁率": "permeability"
+    },
+    {
+        "滲透；穿過": "permeate"
+    },
+    {
+        "滲透": "permeation"
+    },
+    {
+        "滲透量": "permeation flux"
+    },
+    {
+        "滲透速度": "permeation velocity"
+    },
+    {
+        "極限容許濃度{污染物質}": "permissible concentration limit"
+    },
+    {
+        "容許誤差": "permissible error"
+    },
+    {
+        "電容量；電容率；介電常數": "permittivity"
+    },
+    {
+        "波斯灣": "Persian Gulf "
+    },
+    {
+        "秘魯海盆": "Peru Basin"
+    },
+    {
+        "祕魯洋流": "Peru Curent"
+    },
+    {
+        "秘魯海溝": "Peru Trench"
+    },
+    {
+        "瓣石屬{鈣質超微化石}": "Petasus"
+    },
+    {
+        "富含石油的": "petroliferous"
+    },
+    {
+        "酸鹼計；氫離子計；pH計": "pH meter"
+    },
+    {
+        "pH值": "pH value"
+    },
+    {
+        "相；相位；階段；期": "phase"
+    },
+    {
+        "相變": "phase change"
+    },
+    {
+        "相[態]圖 ；全相圖": "phase diagram"
+    },
+    {
+        "相平衡": "phase equilibrium"
+    },
+    {
+        "相律": "phase rule"
+    },
+    {
+        "表[現]型": "phenotype"
+    },
+    {
+        "費洛蒙": "pheromone"
+    },
+    {
+        "菲律賓島弧": "Philippine Island Arc"
+    },
+    {
+        "菲律賓海板塊": "Philippine Sea Plate"
+    },
+    {
+        "菲律賓海溝": "Philippine Trench"
+    },
+    {
+        "菲尼克斯板塊": "Phoenix Plate"
+    },
+    {
+        "磷酸酶": "phosphatase"
+    },
+    {
+        "磷酸鹽": "phosphate"
+    },
+    {
+        "磷酸鹽同化[作用]": "phosphate assimilation"
+    },
+    {
+        "磷酸鹽磷；PO4-P": "phosphate phosphorus"
+    },
+    {
+        "磷光[現象]": "phosphorescence"
+    },
+    {
+        "磷灰岩": "phosphorite"
+    },
+    {
+        "磷循環": "phosphorus cycle"
+    },
+    {
+        "透光帶": "photic"
+    },
+    {
+        "透光層": "photic region"
+    },
+    {
+        "透光層；透光帶；真光層": "photic zone"
+    },
+    {
+        "光吸收": "photoabsorption"
+    },
+    {
+        "光能自營[養]性營養": "photoautotrophic nutrition"
+    },
+    {
+        "發光細菌": "photobacteria"
+    },
+    {
+        "光電管；光電池": "photocell "
+    },
+    {
+        "光氧化作用": "photochemical oxidation"
+    },
+    {
+        "光化過程": "photochemical process"
+    },
+    {
+        "光化學反應": "photochemical reaction "
+    },
+    {
+        "光化學煙霧": "photochemical smog"
+    },
+    {
+        "光化學轉化": "photochemical transformation"
+    },
+    {
+        "光化學": "photochemistry"
+    },
+    {
+        "光解作用": "photodissociation"
+    },
+    {
+        "光電池": "photoelectric "
+    },
+    {
+        "光電比色計": "photoelectric colorimeter"
+    },
+    {
+        "光電效應": "photoelectric effect "
+    },
+    {
+        "光[量]子": "photon"
+    },
+    {
+        "光周期": "photoperiod"
+    },
+    {
+        "發光器": "photophore"
+    },
+    {
+        "光合作用": "photosynthesis"
+    },
+    {
+        "光合/呼吸比": "photosynthesis/respiration ratio"
+    },
+    {
+        "光合菌；光合細菌": "photosynthetic bacteria"
+    },
+    {
+        "光合色素": "photosynthetic pigment"
+    },
+    {
+        "光合輻射能": "photosynthetic radiant energy"
+    },
+    {
+        "光合作用率": "photosynthetic rate"
+    },
+    {
+        "趨光性": "phototaxis "
+    },
+    {
+        "趨光性": "phototaxy"
+    },
+    {
+        "光電池": "photovoltaic cell"
+    },
+    {
+        "藻類化學": "phycochemistry"
+    },
+    {
+        "藻藍素": "phycocyanin"
+    },
+    {
+        "藻紅素": "phycoerythrin"
+    },
+    {
+        "藻類學": "phycology"
+    },
+    {
+        "親緣地理學": "phylogeography"
+    },
+    {
+        "僧帽水母": "Physalia"
+    },
+    {
+        "物理吸附": "physical adsorption"
+    },
+    {
+        "物理風化；機械風化": "physical weathering"
+    },
+    {
+        "浮游植物；植物性浮游生物": "phytoplankton"
+    },
+    {
+        "超微浮游生物": "picoplankton"
+    },
+    {
+        "苦橄玄武岩": "picritic basalt"
+    },
+    {
+        "皮克特菊石屬{頭足類}": "Pictetia"
+    },
+    {
+        "壓力滲析法": "piezodialysis"
+    },
+    {
+        "色素；色料": "pigment"
+    },
+    {
+        "色素分析": "pigment analysis"
+    },
+    {
+        "色素單位": "pigment unit"
+    },
+    {
+        "色素形成[作用]；色素沉著；著色": "pigmentation"
+    },
+    {
+        "沙丁[魚]": "pilchard"
+    },
+    {
+        "枕狀熔岩": "pillow lava"
+    },
+    {
+        "枕狀構造": "pillow structure"
+    },
+    {
+        "聲納剖面儀": "pinger profiler"
+    },
+    {
+        "尖柱；尖礁": "pinnacle"
+    },
+    {
+        "尖礁": "pinnacle reef"
+    },
+    {
+        "移液管；吸量管": "pipet"
+    },
+    {
+        "移液管；吸量管": "pipette "
+    },
+    {
+        "魚食者": "piscivores"
+    },
+    {
+        "活塞岩心器；活塞岩芯器": "piston corer"
+    },
+    {
+        "縱搖；瀝青": "pitch"
+    },
+    {
+        "胎盤菊石屬{頭足類}": "Placenticeras"
+    },
+    {
+        "砂礫礦": "placer"
+    },
+    {
+        "淡水": "plain water"
+    },
+    {
+        "普朗克定律": "Planck's Law"
+    },
+    {
+        "行星渦度": "planetary vorticity"
+    },
+    {
+        "行星波": "planetary wave"
+    },
+    {
+        "浮游生物": "plankton"
+    },
+    {
+        "浮游性有孔蟲": "planktonic foraminifera"
+    },
+    {
+        "平卷蟲屬": "Planomalina"
+    },
+    {
+        "板塊": "plate"
+    },
+    {
+        "板塊邊界": "plate boundary"
+    },
+    {
+        "板塊碰撞": "plate collision"
+    },
+    {
+        "板塊構造": "plate tectonics"
+    },
+    {
+        "板塊構造學說": "plate tectonics theory"
+    },
+    {
+        "台地；載台{物理}": "platform"
+    },
+    {
+        "台地海岸": "platform coast"
+    },
+    {
+        "鉑電阻溫度計": "platinum resistance thermometer"
+    },
+    {
+        "鉑-鈷[比色]法": "platinum-cobalt method"
+    },
+    {
+        "扁形動物門": "Platyhelminthes"
+    },
+    {
+        "舌狀；羽狀；噴流": "plume"
+    },
+    {
+        "熱柱學說": "plume theory"
+    },
+    {
+        "深成熱液礦床": "plutonogenic hydrothermal deposit"
+    },
+    {
+        "袋狀灘": "pocket beach"
+    },
+    {
+        "錐行凹痕": "pockmarks"
+    },
+    {
+        "變鹽度": "poikilohaline"
+    },
+    {
+        "變溫動物": "poikilotherms"
+    },
+    {
+        "彭卡瑞波": "Poincare wave"
+    },
+    {
+        "偏振計；偏振器": "polarimeter "
+    },
+    {
+        "極性": "polarity"
+    },
+    {
+        "極化；偏振": "polarization"
+    },
+    {
+        "極譜": "polarogram"
+    },
+    {
+        "極譜儀": "polarograph"
+    },
+    {
+        "極譜分析[法]": "polarographic analysis"
+    },
+    {
+        "極譜法": "polarography"
+    },
+    {
+        "極譜滴定[法]": "polarometric titration"
+    },
+    {
+        "多毛類": "polychaetes"
+    },
+    {
+        "聚環顆石屬{鈣質超微化石}": "Polycyclolithus"
+    },
+    {
+        "聚合作用": "polymerization"
+    },
+    {
+        "多核苷酸；核酸": "polynucleotide"
+    },
+    {
+        "多胜肽；縮多氨酸": "polypeptide"
+    },
+    {
+        "深海靜水": "pontic"
+    },
+    {
+        "棲深海的": "pontophilus"
+    },
+    {
+        "間隙水；孔隙水": "pore water"
+    },
+    {
+        "海綿動物門；多孔動物": "Porifera"
+    },
+    {
+        "全孔放射蟲目": "Porulosida"
+    },
+    {
+        "正吸附": "positive adsorption"
+    },
+    {
+        "正浮力": "positive buoyancy"
+    },
+    {
+        "陽離子；正離子": "positive ion"
+    },
+    {
+        "陽極；正極": "positive pole"
+    },
+    {
+        "正電位；陽電勢；正電勢": "positive potential"
+    },
+    {
+        "正子；陽電子": "positron"
+    },
+    {
+        "冰後期": "post-glacial age"
+    },
+    {
+        "飲用水": "potable water"
+    },
+    {
+        "電位 ；勢；位 ；電勢": "potential"
+    },
+    {
+        "位能；勢能": "potential energy"
+    },
+    {
+        "潛在資源": "potential resource"
+    },
+    {
+        "潛在來源": "potential source"
+    },
+    {
+        "位溫；潛溫；勢溫": "potential temperature "
+    },
+    {
+        "位渦": "potential vorticity"
+    },
+    {
+        "電位表；電勢表": "potentiometer"
+    },
+    {
+        "電位分析法": "potentiometry"
+    },
+    {
+        "實用鹽度": "practical salinity"
+    },
+    {
+        "實用鹽標": "practical salinity scale "
+    },
+    {
+        "實用鹽度單位": "practical salinity unit (psu)"
+    },
+    {
+        "明蝦；對蝦": "prawns"
+    },
+    {
+        "沉澱；沉澱物": "precipitate "
+    },
+    {
+        "沉澱[作用]；降水": "precipitation"
+    },
+    {
+        "掠食；捕食": "predation"
+    },
+    {
+        "掠食者；捕食者": "predator"
+    },
+    {
+        "壓力滲析法": "pressure dialysis"
+    },
+    {
+        "盛行西風帶": "prevailing westerlies"
+    },
+    {
+        "被掠者": "prey"
+    },
+    {
+        "原生海岸": "primary coast"
+    },
+    {
+        "基礎生產量；初級生產量": "primary production"
+    },
+    {
+        "基礎生產力；初級生產力": "primary productivity"
+    },
+    {
+        "原始標準海水": "primary standard sea water"
+    },
+    {
+        "原生演替": "primary succession"
+    },
+    {
+        "污水初步處理": "primary treatment of sewage"
+    },
+    {
+        "原始核種；原始核素": "primordial nuclide"
+    },
+    {
+        "普氏顆石屬{鈣質超微化石}": "Prinsius"
+    },
+    {
+        "處理後流出物": "processed effluent"
+    },
+    {
+        "前三角洲": "prodelta"
+    },
+    {
+        "生產力": "productivity"
+    },
+    {
+        "前積作用": "progradation"
+    },
+    {
+        "前積": "prograding"
+    },
+    {
+        "前積三角洲": "prograding delta"
+    },
+    {
+        "防護漆；防護塗層": "protective coating"
+    },
+    {
+        "原生生物界": "Protista"
+    },
+    {
+        "原索動物": "protochordates"
+    },
+    {
+        "原始海洋": "proto-ocean"
+    },
+    {
+        "原生動物門": "Protozoa"
+    },
+    {
+        "假絕熱[的]": "pseudo-adiabatic"
+    },
+    {
+        "假幾丁質{有孔蟲類}": "pseudochitin"
+    },
+    {
+        "擬艾氏顆石屬{鈣質超微化石}": "Pseudoemiliania"
+    },
+    {
+        "假輪蟲屬{有孔蟲類}": "Pseudorotalia"
+    },
+    {
+        "翼足蟲軟泥": "pteropod ooze"
+    },
+    {
+        "波多黎各海溝": "Puerto Rico Trench"
+    },
+    {
+        "拉張盆地": "pull-apart basin"
+    },
+    {
+        "淨化[作用]；提純[作用]": "purification"
+    },
+    {
+        "密度躍層": "pycnocline "
+    },
+    {
+        "比重計；比重瓶": "pycnometer"
+    },
+    {
+        "比重計；比重瓶": "pyknometer "
+    },
+    {
+        "生物量金字塔": "pyramid of biomass"
+    },
+    {
+        "能量金字塔": "pyramid of energy"
+    },
+    {
+        "派熱克斯玻璃": "Pyrex"
+    },
+    {
+        "軟錳礦": "pyrolusite"
+    },
+    {
+        "熱解作用；高溫分解": "pyrolysis"
+    },
+    {
+        "熱液交代礦床": "pyrometasomatic deposit"
+    },
+    {
+        "熱液交代變質": "pyrometasomatism"
+    },
+    {
+        "似內卷蟲屬{有孔蟲類}": "Quasiendothyra"
+    },
+    {
+        "似紡錘蟲屬{有孔蟲類}": "Quasifusulina"
+    },
+    {
+        "地磁平靜區": "quiet magnetic zone"
+    },
+    {
+        "五塊蟲屬{有孔蟲類}": "Quinqueloculina"
+    },
+    {
+        "五角棒石{鈣質超微化石}": "Quinquerhabdus"
+    }
+]

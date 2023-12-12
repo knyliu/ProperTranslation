@@ -1,0 +1,410 @@
+[
+    {
+        "阿爾德": "Alder"
+    },
+    {
+        "阿爾伯": "Arber"
+    },
+    {
+        "貝德諾爾慈": "Bednorz"
+    },
+    {
+        "貝爾吉烏斯": "Bergius"
+    },
+    {
+        "貝特": "Bethe"
+    },
+    {
+        "畢尼希": "Binnig"
+    },
+    {
+        "布洛伯爾": "Blobel"
+    },
+    {
+        "布洛何": "Bloch"
+    },
+    {
+        "波爾": "Böll"
+    },
+    {
+        "博爾恩": "Born"
+    },
+    {
+        "博許": "Bosch"
+    },
+    {
+        "博特": "Bothe"
+    },
+    {
+        "布朗特": "Brandt"
+    },
+    {
+        "布勞恩": "Braun"
+    },
+    {
+        "布瑞納": "Brenner"
+    },
+    {
+        "布何納": "Buchner"
+    },
+    {
+        "布特南特": "Butenandt"
+    },
+    {
+        "卡內提": "Canetti"
+    },
+    {
+        "寇呂": "Cori"
+    },
+    {
+        "迭默爾特": "Dehmelt"
+    },
+    {
+        "戴仁侯佛": "Deisenhofer"
+    },
+    {
+        "迭爾布呂柯": "Delbrück"
+    },
+    {
+        "第爾斯": "Diels"
+    },
+    {
+        "竇馬柯": "Domagk"
+    },
+    {
+        "艾爾里希": "Ehrlich"
+    },
+    {
+        "艾根": "Eigen"
+    },
+    {
+        "艾恩斯特": "Ernst"
+    },
+    {
+        "艾爾特": "Ertl"
+    },
+    {
+        "歐宇肯": "Eucken"
+    },
+    {
+        "費雪": "Fischer"
+    },
+    {
+        "費雪": "Fischer"
+    },
+    {
+        "費雪": "Fischer"
+    },
+    {
+        "費雪": "Fischer"
+    },
+    {
+        "佛爾斯曼": "Forßmann"
+    },
+    {
+        "弗朗柯": "Franck"
+    },
+    {
+        "弗瑞特": "Fried"
+    },
+    {
+        "歌培特-麥爾": "Goeppert-Mayer"
+    },
+    {
+        "葛拉斯": "Grass"
+    },
+    {
+        "葛林貝柯": "Grünberg"
+    },
+    {
+        "哈伯": "Haber"
+    },
+    {
+        "漢恩": "Hahn"
+    },
+    {
+        "亨許": "Hänsch"
+    },
+    {
+        "浩普特曼": "Hauptmann"
+    },
+    {
+        "海森堡": "Heisenberg"
+    },
+    {
+        "赫茲": "Hertz"
+    },
+    {
+        "黑慈貝柯": "Herzberg"
+    },
+    {
+        "黑斯": "Hess"
+    },
+    {
+        "黑斯": "Hess"
+    },
+    {
+        "赫塞": "Hesse"
+    },
+    {
+        "霍夫曼": "Hoffmann"
+    },
+    {
+        "霍夫曼": "Hoffmann"
+    },
+    {
+        "忽伯": "Huber"
+    },
+    {
+        "葉里內柯": "Jelinek"
+    },
+    {
+        "燕仁": "Jensen"
+    },
+    {
+        "坎德爾": "Kandel"
+    },
+    {
+        "卡爾普魯斯": "Karplus"
+    },
+    {
+        "卡熱": "Karrer"
+    },
+    {
+        "卡慈": "Katz"
+    },
+    {
+        "克特勒": "Ketterle"
+    },
+    {
+        "季辛吉": "Kissinger"
+    },
+    {
+        "寇何": "Koch"
+    },
+    {
+        "寇何爾": "Kocher"
+    },
+    {
+        "柯勒": "Köhler"
+    },
+    {
+        "孔恩": "Kohn"
+    },
+    {
+        "寇瑟爾": "Kossel"
+    },
+    {
+        "柯瑞普斯": "Krebs"
+    },
+    {
+        "柯略默": "Kroemer"
+    },
+    {
+        "庫恩": "Kuhn"
+    },
+    {
+        "庫許": "Kusch"
+    },
+    {
+        "藍特許泰納": "Landsteiner"
+    },
+    {
+        "利普曼": "Lipmann"
+    },
+    {
+        "略威": "Loewi"
+    },
+    {
+        "鏤連慈": "Lorenz"
+    },
+    {
+        "呂能": "Lynen"
+    },
+    {
+        "曼": "Mann"
+    },
+    {
+        "麥爾侯夫": "Meyerhof"
+    },
+    {
+        "密歇爾": "Michel"
+    },
+    {
+        "蒙仁": "Mommsen"
+    },
+    {
+        "默斯包爾": "Mößbauer"
+    },
+    {
+        "繆勒": "Müller"
+    },
+    {
+        "繆勒": "Müller"
+    },
+    {
+        "繆勒": "Müller"
+    },
+    {
+        "內爾": "Neher"
+    },
+    {
+        "內恩斯特": "Nernst"
+    },
+    {
+        "女斯萊因-佛爾哈特": "Nüsslein-Volhard"
+    },
+    {
+        "奧斯特瓦特": "Ostwald"
+    },
+    {
+        "袍爾": "Paul"
+    },
+    {
+        "袍里": "Pauli"
+    },
+    {
+        "佩魯慈": "Perutz"
+    },
+    {
+        "普朗柯": "Planck"
+    },
+    {
+        "普瑞格爾": "Pregl"
+    },
+    {
+        "柯魏德": "Quidde"
+    },
+    {
+        "瑞斯": "Riess"
+    },
+    {
+        "洛熱": "Rohrer"
+    },
+    {
+        "倫琴": "Röntgen"
+    },
+    {
+        "路斯卡": "Ruska"
+    },
+    {
+        "薩柯斯": "Sachs"
+    },
+    {
+        "薩柯曼": "Sakmann"
+    },
+    {
+        "許略丁格爾": "Schrödinger"
+    },
+    {
+        "史懷哲": "Schweitzer"
+    },
+    {
+        "許汶英格": "Schwinger"
+    },
+    {
+        "賽佛特": "Seifert"
+    },
+    {
+        "辛格": "Singer"
+    },
+    {
+        "許佩曼": "Spemann"
+    },
+    {
+        "許皮特勒": "Spitteler"
+    },
+    {
+        "許塔柯": "Stark"
+    },
+    {
+        "許陶丁格": "Staudinger"
+    },
+    {
+        "許坦貝格": "Steinberger"
+    },
+    {
+        "許貼恩": "Stern"
+    },
+    {
+        "許特默爾": "Störmer"
+    },
+    {
+        "許特瑞熱曼": "Stresemann"
+    },
+    {
+        "序特侯夫": "Südhof"
+    },
+    {
+        "封‧拜爾": "von Baeyer"
+    },
+    {
+        "封‧貝林": "von Behring"
+    },
+    {
+        "封‧弗瑞許": "von Frisch"
+    },
+    {
+        "封‧海埃柯": "von Hayek"
+    },
+    {
+        "封‧海熱": "von Heyse"
+    },
+    {
+        "封‧柯利秦": "von Klitzing"
+    },
+    {
+        "封‧勞爾": "von Laue"
+    },
+    {
+        "封‧列納特": "von Lenard"
+    },
+    {
+        "封‧奧夕埃慈奇": "von Ossietzky"
+    },
+    {
+        "封‧入特納": "von Suttner"
+    },
+    {
+        "瓦葛納 - 姚雷柯": "Wagner-Jauregg"
+    },
+    {
+        "瓦拉何": "Wallach"
+    },
+    {
+        "瓦爾布爾柯": "Warburg"
+    },
+    {
+        "魏爾納": "Werner"
+    },
+    {
+        "魏藍特": "Wieland"
+    },
+    {
+        "汶因": "Wien"
+    },
+    {
+        "魏爾許貼特": "Willstätter"
+    },
+    {
+        "汶因道斯": "Windaus"
+    },
+    {
+        "魏提希": "Wittig"
+    },
+    {
+        "魏特呂希": "Wüthrich"
+    },
+    {
+        "契葛勒": "Ziegler"
+    },
+    {
+        "秦可納格": "Zinkernagel"
+    },
+    {
+        "席葛蒙迪": "Zsigmondy"
+    },
+    {
+        "楚‧浩仁": "zur Hausen"
+    }
+]

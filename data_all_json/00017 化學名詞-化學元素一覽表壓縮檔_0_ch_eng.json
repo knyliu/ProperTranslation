@@ -1,0 +1,356 @@
+[
+    {
+        "氫": "hydrogen"
+    },
+    {
+        "氦": "helium"
+    },
+    {
+        "鋰": "lithium"
+    },
+    {
+        "鈹": "beryllium"
+    },
+    {
+        "硼": "boron"
+    },
+    {
+        "碳": "carbon"
+    },
+    {
+        "氮": "nitrogen"
+    },
+    {
+        "氧": "oxygen"
+    },
+    {
+        "氟": "fluorine"
+    },
+    {
+        "氖": "neon"
+    },
+    {
+        "鈉": "sodium"
+    },
+    {
+        "鎂": "magnesium"
+    },
+    {
+        "鋁": "aluminium; aluminum*"
+    },
+    {
+        "矽": "silicon"
+    },
+    {
+        "磷": "phosphorus"
+    },
+    {
+        "硫": "sulfur"
+    },
+    {
+        "氯": "chlorine"
+    },
+    {
+        "氬": "argon"
+    },
+    {
+        "鉀": "potassium"
+    },
+    {
+        "鈣": "calcium"
+    },
+    {
+        "鈧": "scandium"
+    },
+    {
+        "鈦": "titanium"
+    },
+    {
+        "釩": "vanadium"
+    },
+    {
+        "鉻": "chromium"
+    },
+    {
+        "錳": "manganese"
+    },
+    {
+        "鐵": "iron"
+    },
+    {
+        "鈷": "cobalt"
+    },
+    {
+        "鎳": "nickel"
+    },
+    {
+        "銅": "copper"
+    },
+    {
+        "鋅 ": "zinc"
+    },
+    {
+        "鎵": "gallium"
+    },
+    {
+        "鍺": "germanium"
+    },
+    {
+        "砷": "arsenic"
+    },
+    {
+        "硒": "selenium"
+    },
+    {
+        "溴": "bromine"
+    },
+    {
+        "氪": "krypton"
+    },
+    {
+        "銣": "rubidium"
+    },
+    {
+        "鍶": "strontium"
+    },
+    {
+        "釔": "yttrium"
+    },
+    {
+        "鋯": "zirconium"
+    },
+    {
+        "鈮": "niobium"
+    },
+    {
+        "鉬": "molybdenum; molybdenium*"
+    },
+    {
+        "鎝": "technetium; technium*"
+    },
+    {
+        "釕": "ruthenium"
+    },
+    {
+        "銠": "rhodium"
+    },
+    {
+        "鈀": "palladium"
+    },
+    {
+        "銀": "silver"
+    },
+    {
+        "鎘": "cadmium"
+    },
+    {
+        "銦": "indium"
+    },
+    {
+        "錫": "tin"
+    },
+    {
+        "銻": "antimony"
+    },
+    {
+        "碲": "tellurium"
+    },
+    {
+        "碘": "iodine"
+    },
+    {
+        "氙": "xenon"
+    },
+    {
+        "銫": "caesium; cesium* "
+    },
+    {
+        "鋇": "barium"
+    },
+    {
+        "鑭": "lanthanum"
+    },
+    {
+        "鈰": "cerium"
+    },
+    {
+        "鐠": "praseodymium"
+    },
+    {
+        "釹": "neodymium"
+    },
+    {
+        "鉕": "promethium"
+    },
+    {
+        "釤": "samarium"
+    },
+    {
+        "銪": "europium"
+    },
+    {
+        "釓": "gadolinium"
+    },
+    {
+        "鋱": "terbium"
+    },
+    {
+        "鏑": "dysprosium"
+    },
+    {
+        "鈥": "holmium"
+    },
+    {
+        "鉺": "erbium"
+    },
+    {
+        "銩": "thulium"
+    },
+    {
+        "鐿": "ytterbium"
+    },
+    {
+        "鎦": "lutetium"
+    },
+    {
+        "鉿": "hafnium"
+    },
+    {
+        "鉭": "tantalum"
+    },
+    {
+        "鎢": "tungsten"
+    },
+    {
+        "錸": "rhenium"
+    },
+    {
+        "鋨": "osmium"
+    },
+    {
+        "銥": "iridium"
+    },
+    {
+        "鉑": "platinum; platinium*"
+    },
+    {
+        "金": "gold"
+    },
+    {
+        "汞": "mercury"
+    },
+    {
+        "鉈": "thallium"
+    },
+    {
+        "鉛": "lead"
+    },
+    {
+        "鉍": "bismuth"
+    },
+    {
+        "釙": "polonium"
+    },
+    {
+        "砈": "astatine"
+    },
+    {
+        "氡": "radon"
+    },
+    {
+        "鍅": "francium"
+    },
+    {
+        "鐳": "radium"
+    },
+    {
+        "錒": "actinium"
+    },
+    {
+        "釷": "thorium"
+    },
+    {
+        "鏷": "protactinium"
+    },
+    {
+        "鈾": "uranium"
+    },
+    {
+        "錼": "neptunium"
+    },
+    {
+        "鈽": "plutonium"
+    },
+    {
+        "鋂": "americium"
+    },
+    {
+        "鋦": "curium"
+    },
+    {
+        "鉳": "berkelium"
+    },
+    {
+        "鉲": "californium"
+    },
+    {
+        "鑀": "einsteinium"
+    },
+    {
+        "鐨": "fermium"
+    },
+    {
+        "鍆": "mendelevium"
+    },
+    {
+        "鍩": "nobelium"
+    },
+    {
+        "鐒": "lawrencium"
+    },
+    {
+        "鑪": "rutherfordium"
+    },
+    {
+        "【金杜】": "dubnium"
+    },
+    {
+        "【金喜】": "seaborgium"
+    },
+    {
+        "【金波】": "bohrium"
+    },
+    {
+        "【金黑】": "hassium"
+    },
+    {
+        "【金麥】": "meitnerium"
+    },
+    {
+        "鐽": "darmstadtium"
+    },
+    {
+        "錀": "roentgenium"
+    },
+    {
+        "鎶": "copernicium"
+    },
+    {
+        "鈇": "flerovium"
+    },
+    {
+        "鉝": "livermorium"
+    },
+    {
+        "鉨": "nihonium"
+    },
+    {
+        "鏌": "moscovium"
+    },
+    {
+        "石田": "tennessine"
+    },
+    {
+        "气奧": "oganesson"
+    }
+]

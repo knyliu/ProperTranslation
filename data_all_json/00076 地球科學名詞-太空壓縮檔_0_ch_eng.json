@@ -1,0 +1,7334 @@
+[
+    {
+        "A/E比{吸收發射比}": "A/E ratio"
+    },
+    {
+        "隕石燒蝕": "ablation of meteorites"
+    },
+    {
+        "絕對閃爍效率": "absolute scintillation efficiency"
+    },
+    {
+        "絕對太陽通量": "absolute solar flux"
+    },
+    {
+        "吸收指數": "absorption index"
+    },
+    {
+        "接納錐": "acceptance cones"
+    },
+    {
+        "愛因斯坦係數": "A-coefficient"
+    },
+    {
+        "聲頻": "acoustic frequency"
+    },
+    {
+        "聲波溫度計": "acoustic thermometer"
+    },
+    {
+        "聲波": "acoustic waves"
+    },
+    {
+        "聲重力波": "acoustic-gravity waves"
+    },
+    {
+        "擷取與追蹤雷達": "acquisition and tracking radar"
+    },
+    {
+        "活躍區": "active area"
+    },
+    {
+        "主動腔體輻射計": "active cavity radiometer"
+    },
+    {
+        "活躍日": "active day"
+    },
+    {
+        "主動元件": "active element"
+    },
+    {
+        "主動實驗": "active experiment"
+    },
+    {
+        "活躍期": "active period"
+    },
+    {
+        "活躍日珥區": "active prominence region"
+    },
+    {
+        "絕熱加速": "adiabatic acceleration"
+    },
+    {
+        "絕熱條件": "adiabatic condition"
+    },
+    {
+        "絕熱加熱": "adiabatic heating"
+    },
+    {
+        "絕熱指數": "adiabatic index"
+    },
+    {
+        "絕熱不變性": "adiabatic invariance"
+    },
+    {
+        "絕熱變化": "adiabatic variation"
+    },
+    {
+        "近日點前移": "advance of the perihelion"
+    },
+    {
+        "AE指數{極區電噴流指數}": "AE index"
+    },
+    {
+        "航空彈道學": "aeroballistics"
+    },
+    {
+        "高空生物學": "aerobiology"
+    },
+    {
+        "氣動阻力": "aerodynamic drag"
+    },
+    {
+        "[空]氣動力學": "aerodynamics"
+    },
+    {
+        "懸浮微粒；氣[溶]膠": "aerosols"
+    },
+    {
+        "太空飛機": "aerospace plane"
+    },
+    {
+        "空氣拖曳；空氣阻力": "air drag"
+    },
+    {
+        "航空測量": "airborne survey"
+    },
+    {
+        "氣流": "air-flow"
+    },
+    {
+        "氣暉光解[離]": "airglow photodissociation"
+    },
+    {
+        "氣暉共振散射": "airglow resonance scattering"
+    },
+    {
+        "空域": "air-space"
+    },
+    {
+        "氣團": "air-sphere"
+    },
+    {
+        "氣流": "airstream"
+    },
+    {
+        "極光千米波輻射": "AKR {=Auroral Kilometric Radiation}"
+    },
+    {
+        "反照電子": "albedo electron"
+    },
+    {
+        "阿爾文馬赫數": "Alfven Mach number"
+    },
+    {
+        "阿爾文速率": "Alfven speed"
+    },
+    {
+        "阿爾文速度": "Alfven velocity"
+    },
+    {
+        "阿爾文波": "Alfyen waves"
+    },
+    {
+        "全慣性導航": "all-inertial guidance"
+    },
+    {
+        "百靈鳥衛星； 雲雀衛星": "Alouette Satellite"
+    },
+    {
+        "α射線游離": "alpha ionization"
+    },
+    {
+        "α粒子": "alpha particle"
+    },
+    {
+        "α射線": "alpha-rays"
+    },
+    {
+        "高層雲": "altostratus cloud"
+    },
+    {
+        "背景磁場；周圍磁場": "ambient magnetic field"
+    },
+    {
+        "雙極擴散係數": "ambipolar diffusion coefficient"
+    },
+    {
+        "美國航空太空學會 {=AIAA}": "American Institute of Aeronautics and Astronautics"
+    },
+    {
+        "各向異性宇宙": "an isotropic universe"
+    },
+    {
+        "角度調變": "angle modulation"
+    },
+    {
+        "攻角；衝角": "angle of attack"
+    },
+    {
+        "爬升角；上升角": "angle of climb"
+    },
+    {
+        "偏角": "angle of declination"
+    },
+    {
+        "俯角": "angle of depression"
+    },
+    {
+        "下降角": "angle of descent"
+    },
+    {
+        "偏[向]角": "angle of deviation"
+    },
+    {
+        "仰角": "angle of elevation"
+    },
+    {
+        "傾角": "angle of inclination"
+    },
+    {
+        "滯後角": "angle of lag"
+    },
+    {
+        "超前角": "angle of lead"
+    },
+    {
+        "展開角": "angle of spread"
+    },
+    {
+        "扭角": "angle of torsion"
+    },
+    {
+        "扭轉角": "angle of twist"
+    },
+    {
+        "迴旋角頻率； 迴轉角頻率": "angular gyro-frequencies"
+    },
+    {
+        "角偏極": "angular polarization"
+    },
+    {
+        "角位置": "angular position"
+    },
+    {
+        "公元": "Anno Domini"
+    },
+    {
+        "年平均": "annual means"
+    },
+    {
+        "年跨度": "annual time span"
+    },
+    {
+        "異常電離": "anomalous ionization"
+    },
+    {
+        "異常彗尾": "anomalous tail"
+    },
+    {
+        "異常季曼效應": "anomalous Zeeman effect"
+    },
+    {
+        "南極圈": "Antarctic Circle"
+    },
+    {
+        "南極臭氧分佈": "antarctic ozone distribution"
+    },
+    {
+        "南極對流層反氣旋": "antarctic tropospheric anticyclone"
+    },
+    {
+        "南極大陸；南極洲": "Antarctica"
+    },
+    {
+        "反電子": "antielectron"
+    },
+    {
+        "抗重力": "antigravity"
+    },
+    {
+        "反平行；逆平行": "antiparallel"
+    },
+    {
+        "反日；背日": "antisolar"
+    },
+    {
+        "反日方向；背日方向": "antisolar direction"
+    },
+    {
+        "反日向；背日向": "antisunward"
+    },
+    {
+        "Ap地磁指數": "Ap index"
+    },
+    {
+        "頂點；向點": "apex"
+    },
+    {
+        "地球運動向點": "apex of Earth's motion"
+    },
+    {
+        "遠地點發動機": "apogee kick motor"
+    },
+    {
+        "遠地點發動機": "apogee motor"
+    },
+    {
+        "遠地點速率": "apogee speed"
+    },
+    {
+        "視電子含量": "apparent electron content"
+    },
+    {
+        "視高": "apparent height"
+    },
+    {
+        "視反射高度": "apparent reflection height"
+    },
+    {
+        "視速率": "apparent speed"
+    },
+    {
+        "視表面亮度": "apparent surface brightness"
+    },
+    {
+        "阿普頓-哈崔公式": "Appleton-Hartree formula"
+    },
+    {
+        "應用科技衛星": "Applications Technology Satellite {=ATS}"
+    },
+    {
+        "外加頻率": "applied frequency"
+    },
+    {
+        "應用地球物理學": "applied geophysics"
+    },
+    {
+        "弧": "Arc"
+    },
+    {
+        "電弧放電": "arc discharge"
+    },
+    {
+        "北極圈": "Arctic Circle"
+    },
+    {
+        "北極": "arctic pole"
+    },
+    {
+        "覆蓋區": "area coverage"
+    },
+    {
+        "區域覆蓋率": "area coverage rate"
+    },
+    {
+        "火星中心的": "areocentric"
+    },
+    {
+        "近日點幅角": "argument of the perihelion"
+    },
+    {
+        "締合後分離": "associative detachment"
+    },
+    {
+        "小行星環帶": "asteroid ring"
+    },
+    {
+        "小行星區帶": "asteroid zone"
+    },
+    {
+        "太空航行學": "astronautics"
+    },
+    {
+        "天文赤道": "astronomical equator"
+    },
+    {
+        "不對稱效應": "asymmetric effect"
+    },
+    {
+        "大氣密度": "atmosphere density"
+    },
+    {
+        "大氣加熱": "atmosphere heating"
+    },
+    {
+        "大氣光學厚度": "atmosphere optical thickness"
+    },
+    {
+        "大氣標尺高；大氣尺度高": "atmosphere scale height"
+    },
+    {
+        "大氣邊界": "atmospheric boundary"
+    },
+    {
+        "大氣組成": "atmospheric composition"
+    },
+    {
+        "大氣擴散": "atmospheric diffusion"
+    },
+    {
+        "大氣發電機": "atmospheric dynamo"
+    },
+    {
+        "大氣電參數": "atmospheric electric parameters"
+    },
+    {
+        "大氣發射": "atmospheric emission"
+    },
+    {
+        "大氣探測者衛星": "Atmospheric Explorer {=AE} satellite"
+    },
+    {
+        "大氣振盪": "atmospheric oscillation"
+    },
+    {
+        "大氣壓力": "atmospheric pressure"
+    },
+    {
+        "大氣過程": "atmospheric processes"
+    },
+    {
+        "大氣拖曳；大氣阻力": "atmospheric drag"
+    },
+    {
+        "極光副暴": "auroral substorm"
+    },
+    {
+        "鋇離子雲": "Ba + clouds"
+    },
+    {
+        "背景計數": "background count"
+    },
+    {
+        "背景亮度": "background luminance"
+    },
+    {
+        "背景噪音；背景雜訊": "background noise"
+    },
+    {
+        "反向散射；背向散射": "backscatter"
+    },
+    {
+        "反向散射截面；背向散射截面": "backscatter cross-section"
+    },
+    {
+        "反向散射電子": "backscattered electron"
+    },
+    {
+        "球狀閃電": "ball lightning"
+    },
+    {
+        "氣球": "balloon"
+    },
+    {
+        "氣球高度": "balloon altitude"
+    },
+    {
+        "氣球觀測": "balloon observation"
+    },
+    {
+        "球載衛星": "balloon satellite"
+    },
+    {
+        "氣球探測": "balloon sounding"
+    },
+    {
+        "球載探測器": "balloon-borne detector"
+    },
+    {
+        "譜帶": "band"
+    },
+    {
+        "譜寬；頻寬": "band width"
+    },
+    {
+        "帶通濾波器": "band-pass filter"
+    },
+    {
+        "巴{壓力單位}": "bar"
+    },
+    {
+        "鋇雲": "barium clouds"
+    },
+    {
+        "鋇離子雲實驗": "barium ion cloud experiment"
+    },
+    {
+        "鋇蒸氣": "barium vapour"
+    },
+    {
+        "斜壓的": "baroclinic"
+    },
+    {
+        "斜壓流": "baroclinic flow"
+    },
+    {
+        "氣壓自計圖；氣壓自記曲線": "barogram"
+    },
+    {
+        "氣壓儀": "barograph"
+    },
+    {
+        "氣壓計": "barometer"
+    },
+    {
+        "氣壓高度": "barometric height"
+    },
+    {
+        "氣壓層": "barosphere"
+    },
+    {
+        "正壓流體": "barotropic fluid"
+    },
+    {
+        "正壓模式": "barotropic model"
+    },
+    {
+        "正壓": "barotropy"
+    },
+    {
+        "巴特爾Kp指數": "Bartel's Kp index"
+    },
+    {
+        "引力中心；質[量中]心": "barycenter"
+    },
+    {
+        "質心坐標": "barycentric coordinate"
+    },
+    {
+        "基線": "base line"
+    },
+    {
+        "信標": "beacon"
+    },
+    {
+        "信標延時": "beacon delay"
+    },
+    {
+        "信標衛星": "beacon satellite"
+    },
+    {
+        "信標間斷": "beacon skipping"
+    },
+    {
+        "信標跟蹤": "beacon tracking"
+    },
+    {
+        "波束；光束": "beam"
+    },
+    {
+        "定向[波束]天線": "beam antenna"
+    },
+    {
+        "射束區域": "beam area"
+    },
+    {
+        "射束效率": "beam efficiency"
+    },
+    {
+        "射束分裂器": "beam splitter"
+    },
+    {
+        "射束寬度": "beam width"
+    },
+    {
+        "拍頻；差頻": "beat frequency"
+    },
+    {
+        "比爾-蘭伯特定律": "Beer-Lambert law"
+    },
+    {
+        "公元前": "Before Christ, B.C."
+    },
+    {
+        "偏食始；初虧": "beginning of partial eclipse"
+    },
+    {
+        "全食始": "beginning of totality"
+    },
+    {
+        "全食帶": "belt of totality"
+    },
+    {
+        "伯努力概率": "Bernoulli probability"
+    },
+    {
+        "伯努力定理": "Bernoulli’s theorem"
+    },
+    {
+        "貝塞爾方程": "Bessel equation"
+    },
+    {
+        "貝塞爾函數": "Bessel function"
+    },
+    {
+        "β衰變": "beta decay"
+    },
+    {
+        "β因子": "beta factor"
+    },
+    {
+        "β粒子": "beta particle"
+    },
+    {
+        "β譜": "beta spectrum"
+    },
+    {
+        "β射線": "beta-rays"
+    },
+    {
+        "β躍遷": "beta-transition"
+    },
+    {
+        "β迴旋加速器": "betatron"
+    },
+    {
+        "β迴旋加速": "betatron acceleration"
+    },
+    {
+        "β迴旋效應": "betatron effect"
+    },
+    {
+        "β迴旋加速機制": "betatron mechanism"
+    },
+    {
+        "雙馬克斯威分布": "bi-Maxwellian distribution"
+    },
+    {
+        "雙向的": "bidirectional"
+    },
+    {
+        "結合能；束縛能": "binding energy"
+    },
+    {
+        "二項式分布": "binomial distribution"
+    },
+    {
+        "二項式機率": "binomial porbability"
+    },
+    {
+        "生物層": "biosphere"
+    },
+    {
+        "雙極[黑子]羣": "bipolar group"
+    },
+    {
+        "雙極磁區": "bipolar magnetic region"
+    },
+    {
+        "雙極黑子": "bipolar sunspot"
+    },
+    {
+        "黑體": "black body"
+    },
+    {
+        "黑體輻射": "blackbody radiation"
+    },
+    {
+        "黑體溫度": "blackbody temperature"
+    },
+    {
+        "中斷{無線電通信}": "blackout"
+    },
+    {
+        "爆炸波": "blast wave"
+    },
+    {
+        "阻塞環流": "blocking circulation"
+    },
+    {
+        "阻塞型式": "blocking pattern"
+    },
+    {
+        "藍移": "blue shift {=blueshift}"
+    },
+    {
+        "體波": "body wave"
+    },
+    {
+        "波茲曼常數": "Boltzmann constant"
+    },
+    {
+        "波茲曼公式": "Boltzmann formula"
+    },
+    {
+        "波茲曼-沙哈理論": "Boltzmann-Saha theory"
+    },
+    {
+        "邦德反照率{球面反照率}": "Bond albedo"
+    },
+    {
+        "助推器": "booster"
+    },
+    {
+        "準向設備": "boresight facility"
+    },
+    {
+        "底部探測儀": "bottom-side sounder"
+    },
+    {
+        "底部電離圖": "bottomside ionogram"
+    },
+    {
+        "底部電離層": "bottomside ionosphere"
+    },
+    {
+        "束縛電荷": "bound charge"
+    },
+    {
+        "束縛-自由躍遷": "bound-free transition"
+    },
+    {
+        "邊界": "boundary"
+    },
+    {
+        "邊界條件": "boundary condition"
+    },
+    {
+        "邊界層": "boundary layer"
+    },
+    {
+        "界面": "boundary surface"
+    },
+    {
+        "布西內斯克方程": "Boussinesq equations"
+    },
+    {
+        "弓形震波": "bow shock (wave)"
+    },
+    {
+        "艏波": "bow-wave"
+    },
+    {
+        "玻意耳定律": "Boyle's law"
+    },
+    {
+        "減速；制動": "braking"
+    },
+    {
+        "減速橢圓；制動橢圓": "braking ellipses"
+    },
+    {
+        "減速軌道{衛星進入大氣時的}； 制動軌道{衛星進入大氣時的}": "braking orbit"
+    },
+    {
+        "分支比": "branching ratio"
+    },
+    {
+        "[極光]崩離區間": "break-up sector"
+    },
+    {
+        "伯特圖威定律": "Breit and Tuve's theorem"
+    },
+    {
+        "致動輻射； 軔致輻射": "bremsstrahlung"
+    },
+    {
+        "亮邊緣": "bright limb"
+    },
+    {
+        "亮點": "bright points"
+    },
+    {
+        "亮環": "bright ring"
+    },
+    {
+        "亮度": "brightness"
+    },
+    {
+        "亮度係數": "brightness coefficient"
+    },
+    {
+        "亮度溫度； 亮溫": "brightness temperature"
+    },
+    {
+        "寬譜帶": "broad band"
+    },
+    {
+        "廣播衛星": "broadcasting satellite"
+    },
+    {
+        "整體成份": "bulk composition"
+    },
+    {
+        "整體運動": "bulk motion"
+    },
+    {
+        "整體速度": "bulk velocity"
+    },
+    {
+        "浮力效應": "buoyancy effect"
+    },
+    {
+        "燃盡高度": "burnout altitude"
+    },
+    {
+        "爆發": "burst"
+    },
+    {
+        "衛星本體": "bus"
+    },
+    {
+        "蝶形圖{太陽黑子}": "butterfly diagram"
+    },
+    {
+        "絕對黑體": "absolute blackbody"
+    },
+    {
+        "加速表；加速儀": "accelerometer"
+    },
+    {
+        "空中照相；空中攝影": "aerial photograph"
+    },
+    {
+        "航空遙測技術": "aerial remote sensing technology"
+    },
+    {
+        "氣動光學效應": "aero-optical effect"
+    },
+    {
+        "航太；航空太空": "aerospace"
+    },
+    {
+        "充氣軸承陀螺儀": "air bearing gyroscope"
+    },
+    {
+        "空中發射載具": "air-launched launch vehicle"
+    },
+    {
+        "角加速計": "angular accelerometer"
+    },
+    {
+        "電弧放電": "arcing discharge"
+    },
+    {
+        "上升段": "ascending phase"
+    },
+    {
+        "升/降交點": "ascending/descending node"
+    },
+    {
+        "展弦比": "aspect ratio"
+    },
+    {
+        "太空工程": "astronautical engineering"
+    },
+    {
+        "太空飛行大氣環境": "atmospheric spaceflight environment"
+    },
+    {
+        "姿態航向參考系統": "attitude and heading reference system"
+    },
+    {
+        "姿態保持": "attitude hold"
+    },
+    {
+        "太空船姿態操控": "attitude maneuver of spacecraft"
+    },
+    {
+        "姿態調整": "attitude trim"
+    },
+    {
+        "自主導航；自律導航": "autonomous navigation"
+    },
+    {
+        "太空輻射生物效應": "biological effect of space radiation"
+    },
+    {
+        "無訊號區": "blackout area"
+    },
+    {
+        "廣播衛星": "broadcasting satellite"
+    },
+    {
+        "氣球": "balloon"
+    },
+    {
+        "正則方程": "canonical equation"
+    },
+    {
+        "載頻；載波頻率": "carrier frequency"
+    },
+    {
+        "級聯": "cascade"
+    },
+    {
+        "空腔": "cavity"
+    },
+    {
+        "天體": "celestial body"
+    },
+    {
+        "天球赤道": "celestial equator"
+    },
+    {
+        "天文慣性導引": "celestial inertial guidance"
+    },
+    {
+        "黃緯": "celestial latitude"
+    },
+    {
+        "黃經": "celestial longitude"
+    },
+    {
+        "天體力學": "celestial mechanics"
+    },
+    {
+        "天球子午圈": "celestial meridian"
+    },
+    {
+        "天體導航": "celestial navigation"
+    },
+    {
+        "天極": "celestial pole"
+    },
+    {
+        "天球": "celestial sphere"
+    },
+    {
+        "迴旋中心": "center of gyration"
+    },
+    {
+        "質量中心； 質心": "center of mass"
+    },
+    {
+        "厘巴": "centi-bar"
+    },
+    {
+        "離心力": "centrifugal force"
+    },
+    {
+        "銫鐘": "caceium clock"
+    },
+    {
+        "鈣譜斑": "calcium flocculus"
+    },
+    {
+        "校準；校正": "calibration"
+    },
+    {
+        "燭光{光強度}": "candela"
+    },
+    {
+        "正則坐標": "canonical coordinates"
+    },
+    {
+        "正則變換": "canonical transformation"
+    },
+    {
+        "冠狀日珥": "cap prominence"
+    },
+    {
+        "卡納維彌爾角": "Cape Canaveral"
+    },
+    {
+        "捕獲": "capture"
+    },
+    {
+        "捕獲截面": "capture cross-section"
+    },
+    {
+        "碳循環": "carbon cycle"
+    },
+    {
+        "載波": "carrier wave"
+    },
+    {
+        "卡林頓子午線": "Carrington meridian"
+    },
+    {
+        "直角坐標；笛卡兒坐標": "Cartesian coordinates"
+    },
+    {
+        "級聯射叢": "cascade shower"
+    },
+    {
+        "卡塞格林天線": "Cassegrain antenna"
+    },
+    {
+        "空腔共振": "cavity resonances"
+    },
+    {
+        "天體背景": "celestial background"
+    },
+    {
+        "天球坐標": "celestial coordinates"
+    },
+    {
+        "天體位置": "celestial position"
+    },
+    {
+        "環形對流； 胞狀對流": "cellular convection"
+    },
+    {
+        "重力中心": "center of gravity"
+    },
+    {
+        "百分度": "centigrade"
+    },
+    {
+        "中央子午線": "central meridian"
+    },
+    {
+        "中央電漿片": "central plasma sheet"
+    },
+    {
+        "極帽中心區": "central polar cap"
+    },
+    {
+        "法國國家太空研究中心": "Centre National d'Etudes Spatiales"
+    },
+    {
+        "離心加速度": "centrifugal acceleration"
+    },
+    {
+        "離心[力]漂移": "centrifugal drift"
+    },
+    {
+        "離心效應": "centrifugal effect"
+    },
+    {
+        "向心力": "centripetal force"
+    },
+    {
+        "連鎖反應": "chain reaction"
+    },
+    {
+        "錢德勒周期": "Chandler period"
+    },
+    {
+        "波道；通道": "channel"
+    },
+    {
+        "波道鑑別器": "channel discriminator"
+    },
+    {
+        "查普曼層": "Chapman layer"
+    },
+    {
+        "查普曼廓線": "Chapman profile"
+    },
+    {
+        "特徵曲線": "characteristic curve"
+    },
+    {
+        "特徵維度": "characteristic dimension"
+    },
+    {
+        "特徵方程": "characteristic equation"
+    },
+    {
+        "特徵點": "characteristic point"
+    },
+    {
+        "特徵溫度": "characteristic temperature"
+    },
+    {
+        "特徵時間": "characteristic time"
+    },
+    {
+        "特徵值": "characteristic value"
+    },
+    {
+        "電荷密度": "charge density"
+    },
+    {
+        "電荷交換": "charge exchange"
+    },
+    {
+        "電中性": "charge neutrality"
+    },
+    {
+        "電荷數": "charge number"
+    },
+    {
+        "電荷分離": "charge separation"
+    },
+    {
+        "電荷譜": "charge spectrum"
+    },
+    {
+        "帶電成份": "charged constituents"
+    },
+    {
+        "帶電粒子": "charged particle"
+    },
+    {
+        "充電": "charging"
+    },
+    {
+        "特徵尺度": "characteristic length"
+    },
+    {
+        "查理定律": "Charles's law"
+    },
+    {
+        "{人工釋放的}化學雲": "chemical cloud"
+    },
+    {
+        "化學組成": "chemical composition"
+    },
+    {
+        "化學平衡": "chemical equilibrium"
+    },
+    {
+        "化學反應": "chemical reaction"
+    },
+    {
+        "化學釋放實驗": "Chemical Release Experiment"
+    },
+    {
+        "化學螢光": "chemiluminescence"
+    },
+    {
+        "光化層頂": "chemopause"
+    },
+    {
+        "光化層": "chemosphere"
+    },
+    {
+        "中國宇航協會": "Chinese Society of Astronautics"
+    },
+    {
+        "球粒隕石": "chondrite"
+    },
+    {
+        "色球層；彩球層": "chromosphere"
+    },
+    {
+        "色球層拋射": "chromospheric ejection"
+    },
+    {
+        "色球層爆發； 色球層噴發": "chromospheric eruption"
+    },
+    {
+        "色球層閃焰； 色球層耀斑": "chromospheric flare"
+    },
+    {
+        "色球層譜斑": "chromospheric flocculus"
+    },
+    {
+        "色球層高度": "chromospheric level"
+    },
+    {
+        "色球層日芒": "chromospheric mottling"
+    },
+    {
+        "色球層針狀物": "chromospheric spicule"
+    },
+    {
+        "色球層針狀體": "chromospheric spike"
+    },
+    {
+        "紀年法；年代學": "chronology"
+    },
+    {
+        "全球磁情指數": "Ci index"
+    },
+    {
+        "電影經緯儀；高經度光學跟縱器": "cine theodolite"
+    },
+    {
+        "赤緯圈": "circle of declination"
+    },
+    {
+        "緯度圈；黃緯圈": "circle of latitude"
+    },
+    {
+        "經度圈；黃經圈": "circle of longitude"
+    },
+    {
+        "圓形迴旋； 圓形迴轉": "circular gyration"
+    },
+    {
+        "圓[形]軌道": "circular orbit"
+    },
+    {
+        "圓極化；圓偏振": "circular polarization"
+    },
+    {
+        "環流": "circulation"
+    },
+    {
+        "環流型式": "circulation pattern"
+    },
+    {
+        "古典極光帶": "classical auroral zone"
+    },
+    {
+        "氣候": "climate"
+    },
+    {
+        "氣侯變遷": "climate change"
+    },
+    {
+        "氣候模式": "climate modeling"
+    },
+    {
+        "氣候的": "climatic"
+    },
+    {
+        "氣候學的": "climatological"
+    },
+    {
+        "氣候學": "climatology"
+    },
+    {
+        "鐘差；時鐘校正": "clock correction"
+    },
+    {
+        "諧和規；向量圓圖": "clock diagram"
+    },
+    {
+        "順時[針]的": "clockwise"
+    },
+    {
+        "封閉磁層模型; 封閉式磁層模型": "closed magnetospheric model"
+    },
+    {
+        "雲吸收{雲對電磁輻射的吸收}": "cloud absorption"
+    },
+    {
+        "雲高計": "cloud altimeter"
+    },
+    {
+        "雲衰減": "cloud attenuation"
+    },
+    {
+        "雲帶": "cloud band"
+    },
+    {
+        "雲室": "cloud chamber"
+    },
+    {
+        "雲量": "cloud cover"
+    },
+    {
+        "雲形成": "cloud formation"
+    },
+    {
+        "雲粒": "cloud particle"
+    },
+    {
+        "雲型": "cloud pattern"
+    },
+    {
+        "雲系": "cloud system"
+    },
+    {
+        "雲項高度": "cloud-top height"
+    },
+    {
+        "雲量": "cloudiness"
+    },
+    {
+        "簇團": "cluster"
+    },
+    {
+        "簇離子": "cluster ions"
+    },
+    {
+        "慣性飛行；滑翔飛行": "coasting flight"
+    },
+    {
+        "餘赤緯；極距": "codeclination"
+    },
+    {
+        "係數": "coefficient"
+    },
+    {
+        "同調": "coherence"
+    },
+    {
+        "同調載波": "coherent carrier"
+    },
+    {
+        "同調回波": "coherent echo"
+    },
+    {
+        "同調擾動": "coherent fluctuation"
+    },
+    {
+        "同調散射": "coherent scattering"
+    },
+    {
+        "線圈天線": "Coil antenna"
+    },
+    {
+        "餘緯": "colatitude"
+    },
+    {
+        "冷鋒": "cold front"
+    },
+    {
+        "冷電漿": "cold plasma"
+    },
+    {
+        "群體行為": "collective behaviour"
+    },
+    {
+        "準直": "collimation"
+    },
+    {
+        "準直儀": "collimator"
+    },
+    {
+        "碰撞": "collision"
+    },
+    {
+        "碰撞頻率": "collision frequency"
+    },
+    {
+        "碰撞參數": "collision parameter"
+    },
+    {
+        "無碰撞電漿": "collision-free plasma"
+    },
+    {
+        "碰撞制動輻射": "collisional bremsstrahlung"
+    },
+    {
+        "[譜線]碰撞致寬": "collisional broadening"
+    },
+    {
+        "碰撞截面": "collisional cross section"
+    },
+    {
+        "碰撞阻尼": "collisional damping"
+    },
+    {
+        "碰撞脫離": "collisional detachment"
+    },
+    {
+        "碰撞激發": "collisional excitation"
+    },
+    {
+        "非碰撞磁化電漿": "collisionless magnetized plasma"
+    },
+    {
+        "非碰撞電漿": "collisionless plasma"
+    },
+    {
+        "非碰撞電漿震波": "collissionless plasma shock"
+    },
+    {
+        "柱密度": "column density"
+    },
+    {
+        "柱電子含量": "columnar electron content"
+    },
+    {
+        "二分圈；二至圈": "colure"
+    },
+    {
+        "彗髮": "coma"
+    },
+    {
+        "彗星": "comet"
+    },
+    {
+        "彗星雲": "comet cloud"
+    },
+    {
+        "彗尾": "comet tail"
+    },
+    {
+        "彗頭": "cometary head"
+    },
+    {
+        "彗核": "cometary nucleus"
+    },
+    {
+        "指令": "command"
+    },
+    {
+        "指令與資料處理次系統": "command and data handling subsystem"
+    },
+    {
+        "指揮艙": "command module"
+    },
+    {
+        "世界氣象組織高空氣象委員會": "Commission for Aerology of the World Meteorological Organization"
+    },
+    {
+        "通信衛星": "communications satellite"
+    },
+    {
+        "羅盤": "compass"
+    },
+    {
+        "補償": "compensation"
+    },
+    {
+        "複雜[黑子]羣": "complex group"
+    },
+    {
+        "複離子": "complex ion"
+    },
+    {
+        "複折射指數": "complex refractive index"
+    },
+    {
+        "分量；成份；組元": "component"
+    },
+    {
+        "分力": "component of force"
+    },
+    {
+        "複合光譜": "composite spectrum"
+    },
+    {
+        "組成成份": "composition"
+    },
+    {
+        "受壓磁層": "compressed magnetosphere"
+    },
+    {
+        "可壓縮流體": "compressible fluid"
+    },
+    {
+        "壓縮阿爾文波": "compressive Alfven wave"
+    },
+    {
+        "康普頓效應": "Compton effect"
+    },
+    {
+        "康普頓散射": "Compton scattering"
+    },
+    {
+        "通信衛星": "comsat"
+    },
+    {
+        "濃度": "concentration"
+    },
+    {
+        "概念圖": "conceptual picture"
+    },
+    {
+        "凝結": "condensation"
+    },
+    {
+        "條件平衡": "conditional equilibrium"
+    },
+    {
+        "條件不穩定": "conditional instability"
+    },
+    {
+        "電導率": "conductivity"
+    },
+    {
+        "錐體；錐面": "cone"
+    },
+    {
+        "逃逸錐": "cone of escape"
+    },
+    {
+        "圓錐截面": "conic sections"
+    },
+    {
+        "共軛": "conjugacy"
+    },
+    {
+        "共軛光電子": "conjugate photoelectrons"
+    },
+    {
+        "共軛點；對蹠點": "conjugate point"
+    },
+    {
+        "合": "conjunction"
+    },
+    {
+        "守恆定律": "conservation law"
+    },
+    {
+        "角動量守恆": "conservation of angular momentum"
+    },
+    {
+        "能量守恆": "conservation of energy"
+    },
+    {
+        "磁矩守恆": "conservation of magnetic momentum"
+    },
+    {
+        "質量守恆": "conservation of mass"
+    },
+    {
+        "動量守恆": "conservation of momentum"
+    },
+    {
+        "渦度守恆": "conservation of vorticity"
+    },
+    {
+        "守恆散射": "conservative scattering"
+    },
+    {
+        "守恆系統": "conservative system"
+    },
+    {
+        "守恆量": "conserved quantity"
+    },
+    {
+        "不變性": "Constancy"
+    },
+    {
+        "恆相": "constant phase"
+    },
+    {
+        "常數": "constants"
+    },
+    {
+        "建設性干涉": "constructive interference"
+    },
+    {
+        "大陸漂移": "continental drift"
+    },
+    {
+        "陸圈": "continental sphere"
+    },
+    {
+        "連續方程": "continuity equation"
+    },
+    {
+        "連續發射": "continuous emission"
+    },
+    {
+        "連續模": "continuous mode"
+    },
+    {
+        "連續譜": "continuous spectrum"
+    },
+    {
+        "雲種": "cloud type"
+    },
+    {
+        "連續波電離層探測儀": "continuous wave ionosondes"
+    },
+    {
+        "控制艙； 控制模組": "control module"
+    },
+    {
+        "對流": "convection"
+    },
+    {
+        "對流胞": "convection cell"
+    },
+    {
+        "凍結[磁]力線對流": "convection of frozen-in field line"
+    },
+    {
+        "對流圖形": "convection pattern"
+    },
+    {
+        "對流率": "convection rates"
+    },
+    {
+        "對流雲": "convective cloud"
+    },
+    {
+        "對流運動": "convective motion"
+    },
+    {
+        "對流區": "convective region"
+    },
+    {
+        "輻合帶": "convergence zone"
+    },
+    {
+        "轉換因子": "conversion factor"
+    },
+    {
+        "冷卻": "cooling"
+    },
+    {
+        "冷卻機制": "cooling mechanism"
+    },
+    {
+        "共面的": "coplanar"
+    },
+    {
+        "共面軌道": "coplanar orbit"
+    },
+    {
+        "核；核心；譜線中心；地核": "core"
+    },
+    {
+        "地核磁場": "core field"
+    },
+    {
+        "柯氏效應": "Coriolis effect"
+    },
+    {
+        "柯氏力": "Coriolis force"
+    },
+    {
+        "冕；日冕": "corona"
+    },
+    {
+        "冕放電": "corona discharge"
+    },
+    {
+        "日冕儀": "coronagraph"
+    },
+    {
+        "日冕擾亂": "coronal disturbances"
+    },
+    {
+        "日冕增強": "coronal enhancement"
+    },
+    {
+        "日冕平衡": "coronal equilibrium"
+    },
+    {
+        "日冕閃焰": "coronal flare"
+    },
+    {
+        "冕洞；日冕洞": "coronal hole"
+    },
+    {
+        "日冕[譜]線": "coronal line"
+    },
+    {
+        "冕環；日冕環": "coronal loop"
+    },
+    {
+        "冕珥": "coronal prominence"
+    },
+    {
+        "冕區；日冕區": "coronal region"
+    },
+    {
+        "冕流束": "coronal streamer"
+    },
+    {
+        "黑子冕珥": "coronal sunspot prominence"
+    },
+    {
+        "日冕暫態": "coronal transient"
+    },
+    {
+        "冕風": "coronal wind"
+    },
+    {
+        "日冕觀測鏡": "coronascope"
+    },
+    {
+        "共旋": "corotate"
+    },
+    {
+        "共旋磁力線": "corotating magnetic field line"
+    },
+    {
+        "共旋磁場結構": "corotating magnetic structure"
+    },
+    {
+        "共旋空間結構": "corotating spatial structure"
+    },
+    {
+        "共旋": "corotation"
+    },
+    {
+        "共旋場強度": "corotation field strength"
+    },
+    {
+        "共旋區": "corotation region"
+    },
+    {
+        "共旋速度": "corotation velocity"
+    },
+    {
+        "共旋運動": "corotational motion"
+    },
+    {
+        "粒子": "corpuscle"
+    },
+    {
+        "宇宙粒子射線；宇宙粒子射束": "corpuscular cosmic ray"
+    },
+    {
+        "粒子食": "corpuscular eclipse"
+    },
+    {
+        "粒子效應": "corpuscular effect"
+    },
+    {
+        "粒子加熱": "corpuscular heating"
+    },
+    {
+        "粒子輻射": "corpuscular radiation"
+    },
+    {
+        "粒子束": "corpuscular stream"
+    },
+    {
+        "訂正偶極坐標": "corrected dipole coordinate"
+    },
+    {
+        "訂正地磁坐標": "corrected geomagnetic coordinate"
+    },
+    {
+        "訂正地磁緯度；訂正磁緯": "corrected geomagnetic latitude"
+    },
+    {
+        "訂正磁極": "corrected geomagnetic pole"
+    },
+    {
+        "訂正磁地方時": "corrected local magnetic time"
+    },
+    {
+        "訂正；校正；修正": "correction"
+    },
+    {
+        "相關擾動": "correlated fluctuations"
+    },
+    {
+        "相關": "correlation"
+    },
+    {
+        "相關分析": "correlation analysis"
+    },
+    {
+        "相關系數": "correlation coefficient"
+    },
+    {
+        "宇宙豐度": "cosmic abundance"
+    },
+    {
+        "宇宙背景輻射": "cosmic background radiation"
+    },
+    {
+        "宇宙射線背景": "cosmic ray background"
+    },
+    {
+        "宇宙射線暴": "comic ray burst"
+    },
+    {
+        "宇宙射線譜": "comic ray spectrum"
+    },
+    {
+        "宇宙雲": "cosmic cloud"
+    },
+    {
+        "宇宙塵": "cosmic dust"
+    },
+    {
+        "宇宙光": "cosmic light"
+    },
+    {
+        "宇宙磁場": "cosmic magnetic field"
+    },
+    {
+        "宇宙雜訊；宇宙噪音": "cosmic noise"
+    },
+    {
+        "宇宙電漿": "cosmic plasma"
+    },
+    {
+        "宇宙輻射": "cosmic radiation"
+    },
+    {
+        "宇宙輻射粒子": "cosmic radiation particle"
+    },
+    {
+        "宇宙電波輻射": "cosmic radio radiation"
+    },
+    {
+        "宇宙電波": "cosmic radio waves"
+    },
+    {
+        "宇宙射線天文學": "cosmic ray astronomy"
+    },
+    {
+        "宇宙射線探測器": "cosmic ray detector"
+    },
+    {
+        "宇宙射線擴散": "cosmic ray diffusion"
+    },
+    {
+        "宇宙射線噴流": "cosmic ray jet"
+    },
+    {
+        "宇宙線射叢": "cosmic ray shower"
+    },
+    {
+        "宇宙線星": "cosmic ray star"
+    },
+    {
+        "宇宙射線": "cosmic rays"
+    },
+    {
+        "宇宙常數": "cosmical constant"
+    },
+    {
+        "宇宙電動力學": "cosmical electrodynamics"
+    },
+    {
+        "宇宙物理學": "cosmical physics"
+    },
+    {
+        "宇宙常數": "cosmological constant"
+    },
+    {
+        "宇宙學；宇宙論": "cosmology"
+    },
+    {
+        "太空人": "cosmonaut"
+    },
+    {
+        "宇航學": "cosmonautics"
+    },
+    {
+        "宇宙": "cosmos"
+    },
+    {
+        "庫侖": "Coulomb"
+    },
+    {
+        "庫侖碰撞": "Coulomb collision"
+    },
+    {
+        "庫侖阻尼": "Coulomb damping"
+    },
+    {
+        "庫倫能量耗散": "Coulomb energy loss"
+    },
+    {
+        "庫侖場": "Coulomb field"
+    },
+    {
+        "庫侖散射": "Coulomb scattering"
+    },
+    {
+        "庫侖定律": "Coulomb’s law"
+    },
+    {
+        "計數率計": "count rate meter"
+    },
+    {
+        "倒數": "countdown"
+    },
+    {
+        "計數器": "counter"
+    },
+    {
+        "逆時針方向": "counter-clockwise direction"
+    },
+    {
+        "耦合": "coupling"
+    },
+    {
+        "共變異數": "covariance"
+    },
+    {
+        "覆蓋；遮蔽；涵蓋": "cover"
+    },
+    {
+        "涵蓋範圍": "coverage"
+    },
+    {
+        "考林電導率": "Cowling conductivity"
+    },
+    {
+        "環形山；火山口；隕石坑": "crater"
+    },
+    {
+        "關鍵設計審查": "critical design review"
+    },
+    {
+        "臨界距離": "critical distance"
+    },
+    {
+        "臨界能量": "critical energy"
+    },
+    {
+        "臨界頻率": "critical frequency"
+    },
+    {
+        "臨界高度": "critical level"
+    },
+    {
+        "臨界逃逸高度": "critical level of escape"
+    },
+    {
+        "臨界質量": "critical mass"
+    },
+    {
+        "臨界鏡點高度": "critical mirror height"
+    },
+    {
+        "臨界點": "critical point"
+    },
+    {
+        "臨界壓力": "critical pressure"
+    },
+    {
+        "臨界速率": "critical speed"
+    },
+    {
+        "臨界溫度": "critical temperature"
+    },
+    {
+        "臨界速度": "critical velocity"
+    },
+    {
+        "交叉相關": "cross correlation"
+    },
+    {
+        "交叉調制": "cross-modulation"
+    },
+    {
+        "越極帽對流": "cross-polar-cap convection"
+    },
+    {
+        "截面": "cross-section"
+    },
+    {
+        "越尾電流": "cross-tail current"
+    },
+    {
+        "越尾場": "cross-tail field"
+    },
+    {
+        "地殼": "crust"
+    },
+    {
+        "晶體光譜計； 晶體光譜儀": "crystal spectrometer"
+    },
+    {
+        "居里": "Curie"
+    },
+    {
+        "居里點": "Curie point"
+    },
+    {
+        "居里溫度": "Curie temperature"
+    },
+    {
+        "旋度；旋狀[極光]": "curl"
+    },
+    {
+        "無旋的": "curl-free"
+    },
+    {
+        "電流": "current"
+    },
+    {
+        "電流胞": "current cell"
+    },
+    {
+        "流函數": "current function"
+    },
+    {
+        "電流中斷": "current interruption"
+    },
+    {
+        "電流游離腔；電流游離艙": "current ionization chamber"
+    },
+    {
+        "電流形態": "current pattern"
+    },
+    {
+        "電流鞘模式": "current sheath model"
+    },
+    {
+        "電流片": "current sheet"
+    },
+    {
+        "電流強度": "current strength"
+    },
+    {
+        "電流系統": "current system"
+    },
+    {
+        "電流向量；電流矢量": "current vector"
+    },
+    {
+        "帘狀結構": "curtain-like structure"
+    },
+    {
+        "曲率漂移電流": "curvature drift current"
+    },
+    {
+        "曲率漂移": "curvature drift"
+    },
+    {
+        "地球曲率": "curvature of the earth"
+    },
+    {
+        "曲率向量": "curvature vector"
+    },
+    {
+        "曲彗尾": "curved tail"
+    },
+    {
+        "磁斗區": "cusp"
+    },
+    {
+        "截止能量": "cut-off energy"
+    },
+    {
+        "截止": "cutoff"
+    },
+    {
+        "循環；周期": "cycle"
+    },
+    {
+        "德拜屏蔽距離": "Debye shielding distance"
+    },
+    {
+        "德拜-休克耳模型": "Debye-Hückel model"
+    },
+    {
+        "德拜長度": "Debye-length"
+    },
+    {
+        "差分都卜勒效應": "differential Doppler effect"
+    },
+    {
+        "差分法拉第法": "differential Faraday method"
+    },
+    {
+        "都卜勒致寬": "Doppler broadening"
+    },
+    {
+        "都卜勒等值線": "Doppler contour"
+    },
+    {
+        "都卜勒[譜線]核": "Doppler core"
+    },
+    {
+        "都卜勒位移": "Doppler displacement"
+    },
+    {
+        "都卜勒頻移": "Doppler frequency shift"
+    },
+    {
+        "都卜勒導航": "Doppler navigation"
+    },
+    {
+        "都卜勒測距": "Doppler ranging"
+    },
+    {
+        "都卜勒追蹤系統": "Doppler tracking system"
+    },
+    {
+        "都卜勒頻寬": "Doppler width"
+    },
+    {
+        "差速自轉；差動自轉": "differential rotation"
+    },
+    {
+        "D層": "D layer"
+    },
+    {
+        "D域": "D region"
+    },
+    {
+        "D環 {土星的最內環}": "D ring"
+    },
+    {
+        "阻尼常數": "damping constant"
+    },
+    {
+        "暗譜斑": "dark flocculus"
+    },
+    {
+        "背陽半球": "dark hemisphere"
+    },
+    {
+        "背陽時間": "dark hours"
+    },
+    {
+        "暗邊緣": "dark limb"
+    },
+    {
+        "資料擷取": "data-acquisition"
+    },
+    {
+        "晨昏子午線": "dawn and dusk meridian"
+    },
+    {
+        "黎明效應；曙光效應": "dawn effect"
+    },
+    {
+        "黎明子午線": "dawn meridian"
+    },
+    {
+        "晨側": "dawn side"
+    },
+    {
+        "晨側磁層": "dawn side magnetosphere"
+    },
+    {
+        "晨側磁層頂": "dawn side of magnetopause"
+    },
+    {
+        "晨昏不對稱性": "dawn-dusk asymmetry"
+    },
+    {
+        "晨昏電場": "dawn-dusk electric field"
+    },
+    {
+        "晨-夜-昏側": "dawn-night-dusk side"
+    },
+    {
+        "晨側極光橢圓圈": "dawnside auroral oval"
+    },
+    {
+        "晨側磁尾": "dawnside magnetotail"
+    },
+    {
+        "日氣暉": "day airglow"
+    },
+    {
+        "晝弧": "day arc"
+    },
+    {
+        "向陽半球": "day hemisphere"
+    },
+    {
+        "日氣暉發射": "dayglow emission"
+    },
+    {
+        "晝光效應": "daylight effect"
+    },
+    {
+        "晝側": "dayside"
+    },
+    {
+        "晝側極光": "dayside aurora"
+    },
+    {
+        "晝側極光橢圓圈": "dayside auroral oval"
+    },
+    {
+        "晝側邊界": "dayside boundary"
+    },
+    {
+        "晝側電離層": "dayside ionosphere"
+    },
+    {
+        "晝側磁層": "dayside magnetosphere"
+    },
+    {
+        "晝側極帽邊界": "dayside polar cap boundary"
+    },
+    {
+        "白晝離子產生": "daytime ion production"
+    },
+    {
+        "白晝流星": "daytime meteor"
+    },
+    {
+        "白晝[流星]餘跡": "daytime train"
+    },
+    {
+        "逐日太陽-天氣效應": "day-to-day solar-weather effects"
+    },
+    {
+        "去活化[作用]": "deactivation"
+    },
+    {
+        "十米波": "decameter wave"
+    },
+    {
+        "衰變產物": "decay product"
+    },
+    {
+        "衰變時間常數": "decay time constant"
+    },
+    {
+        "減速輻射": "deceleration radiation"
+    },
+    {
+        "分貝": "decibel"
+    },
+    {
+        "分米電波發射": "decimeter radio emission"
+    },
+    {
+        "磁偏角": "declination of the geomagnetic field"
+    },
+    {
+        "磁偏儀；磁偏角儀": "declinometer"
+    },
+    {
+        "去耦；退耦": "decouple"
+    },
+    {
+        "近地磁層對流": "deep magnetospheric convection"
+    },
+    {
+        "深太空": "deep space"
+    },
+    {
+        "去激發": "de-excitation"
+    },
+    {
+        "致偏磁體": "deflecting magnet"
+    },
+    {
+        "致偏磁場": "deflecting magnetic field"
+    },
+    {
+        "去磁； 退磁": "degauss"
+    },
+    {
+        "激發度": "degree of excitation"
+    },
+    {
+        "去離子化": "deionization"
+    },
+    {
+        "延時遙傳": "delay- time telemetry"
+    },
+    {
+        "延遲落塵": "delayed fallout"
+    },
+    {
+        "延遲時間": "delay-time"
+    },
+    {
+        "消磁化； 去磁化": "demagnetization"
+    },
+    {
+        "消磁； 去磁": "demagnetize"
+    },
+    {
+        "密度分布": "density distribution"
+    },
+    {
+        "密度擾動": "density fluctuations"
+    },
+    {
+        "密度微擾": "density perturbations"
+    },
+    {
+        "密度波": "density wave"
+    },
+    {
+        "沉積區": "deposition region"
+    },
+    {
+        "[下]降軌[道]； 下降路徑": "descent path"
+    },
+    {
+        "消旋期軌道": "despun orbits"
+    },
+    {
+        "破壞性干涉": "destructive interference"
+    },
+    {
+        "探測器陣列": "detector array"
+    },
+    {
+        "軌道測定； 測軌": "determination of orbit"
+    },
+    {
+        "偏向吸收": "deviate absorption"
+    },
+    {
+        "抗磁矩； 反磁矩": "diamagnetic moment"
+    },
+    {
+        "抗磁性； 反磁性": "diamagnetism"
+    },
+    {
+        "菱形天線": "diamond antenna"
+    },
+    {
+        "雙原子分子": "diatomic molecule"
+    },
+    {
+        "差頻 [率]": "difference frequency"
+    },
+    {
+        "差分吸收": "differential absorption"
+    },
+    {
+        "差分充填": "differential charging"
+    },
+    {
+        "差分密度譜": "differential density spectrum"
+    },
+    {
+        "差分鑑別器": "differential discriminator"
+    },
+    {
+        "差分能量譜": "differential energy spectrum"
+    },
+    {
+        "繞射光柵": "diffraction grating"
+    },
+    {
+        "繞射圖型": "diffraction pattern"
+    },
+    {
+        "擴散極光帶": "diffuse aruoral band"
+    },
+    {
+        "擴散極光": "diffuse aurora"
+    },
+    {
+        "太陽漫輻射": "diffuse solar radiation"
+    },
+    {
+        "漫射面": "diffuse surfaces"
+    },
+    {
+        "漫射光": "diffused light"
+    },
+    {
+        "擴散方程": "diffusion equation"
+    },
+    {
+        "擴散過程": "diffusion processes"
+    },
+    {
+        "擴散速度": "diffusion velocity"
+    },
+    {
+        "擴散波": "diffusion wave"
+    },
+    {
+        "擴散平衡": "diffusive equilibrium"
+    },
+    {
+        "擴散層": "diffusive layer"
+    },
+    {
+        "擴散分離": "diffusive separation"
+    },
+    {
+        "數位記錄傳導": "Digital telemetry"
+    },
+    {
+        "數位類比轉換": "digital-to-analog conversion"
+    },
+    {
+        "稀釋電漿": "dilute plasma"
+    },
+    {
+        "磁傾角": "dip angle"
+    },
+    {
+        "磁傾圈": "dip circle"
+    },
+    {
+        "磁傾赤道": "dip equator"
+    },
+    {
+        "磁傾緯度": "dip latitude"
+    },
+    {
+        "地平傾角": "dip of horizon"
+    },
+    {
+        "磁傾極": "dip pole"
+    },
+    {
+        "磁傾指針": "dip-needle"
+    },
+    {
+        "偶極地磁場": "dipolar geomagnetic field"
+    },
+    {
+        "偶極軸": "dipole axis"
+    },
+    {
+        "偶極餘緯 [度]": "dipole colatitude"
+    },
+    {
+        "偶極坐標": "dipole coordinates"
+    },
+    {
+        "偶極赤道": "dipole equator"
+    },
+    {
+        "偶極場": "dipole field"
+    },
+    {
+        "偶極緯度": "dipole latitude"
+    },
+    {
+        "偶極地方時坐標系": "dipole local time coordinate system"
+    },
+    {
+        "偶極經度": "dipole longitude"
+    },
+    {
+        "偶極子午圈； 偶極子午線": "dipole meridian"
+    },
+    {
+        "偶極子夜": "dipole midnight"
+    },
+    {
+        "偶極正午": "dipole noon"
+    },
+    {
+        "偶極子極": "dipole pole"
+    },
+    {
+        "偶極輻射": "dipole radiation"
+    },
+    {
+        "偶極時； 地磁時": "dipole time (=geomagnetic time)"
+    },
+    {
+        "磁傾針": "dipping needle"
+    },
+    {
+        "直播衛星": "direct broadcasting satellite"
+    },
+    {
+        "直接太陽效應": "direct solar effects"
+    },
+    {
+        "直接太陽輻射": "direct solar radiation"
+    },
+    {
+        "直接地球響應{指太陽活動時}": "direct terrestrial response"
+    },
+    {
+        "方位角": "direction angle"
+    },
+    {
+        "方向餘弦": "direction cosine"
+    },
+    {
+        "定向儀": "direction finder"
+    },
+    {
+        "定向": "direction finding"
+    },
+    {
+        "航向陀螺儀": "Direction gyro"
+    },
+    {
+        "磁化方向": "direction of magnetization"
+    },
+    {
+        "定向天線": "directional antenna"
+    },
+    {
+        "定向天線": "directive antenna"
+    },
+    {
+        "不連續光譜": "discontinuous spectrum"
+    },
+    {
+        "不連續束；離散束": "discrete beams"
+    },
+    {
+        "離散極帽區極光": "discrete polar cap aurora"
+    },
+    {
+        "離散電波源": "discrete radio source"
+    },
+    {
+        "離散光譜": "discrete spectrum"
+    },
+    {
+        "離散X射線源": "discrete X-ray sources"
+    },
+    {
+        "鑑別器； 鑑頻器": "discriminator"
+    },
+    {
+        "色散方程； 頻散方程": "dispersion equation"
+    },
+    {
+        "色散波； 頻散波": "dispersion wave"
+    },
+    {
+        "位移電流": "displacement current"
+    },
+    {
+        "潰消{電流}； 崩裂{磁力線}": "disruption"
+    },
+    {
+        "消耗性的； 損耗性的": "dissipative"
+    },
+    {
+        "耗散力": "dissipative force"
+    },
+    {
+        "解離": "dissociation"
+    },
+    {
+        "解離電勢； 解離電位": "dissociation potential"
+    },
+    {
+        "解離性附著": "dissociative attachment"
+    },
+    {
+        "解離復合": "dissociative recombination"
+    },
+    {
+        "遠磁尾": "distant magnetotail"
+    },
+    {
+        "畸變波": "distorted wave"
+    },
+    {
+        "分布函數": "distribution function"
+    },
+    {
+        "擾動微粒通量": "disturbance corpuscular flux"
+    },
+    {
+        "擾動逐日變化": "disturbance daily variation"
+    },
+    {
+        "擾動場": "disturbance field"
+    },
+    {
+        "地磁場擾動": "disturbance of the geomagnetic field"
+    },
+    {
+        "擾動極區電流": "disturbance polar current"
+    },
+    {
+        "擾動環": "disturbance ring"
+    },
+    {
+        "擾動太陽": "disturbed sun"
+    },
+    {
+        "擾動期": "disturbed time"
+    },
+    {
+        "日[的]": "diurnal"
+    },
+    {
+        "日振幅": "diurnal amplitude"
+    },
+    {
+        "日分量": "diurnal component"
+    },
+    {
+        "日調制": "diurnal modulation"
+    },
+    {
+        "日變幅； 日較差": "diurnal range"
+    },
+    {
+        "圓頂； 穹面": "Dome"
+    },
+    {
+        "雙層": "double layer"
+    },
+    {
+        "雙鞘； 雙片": "double sheath"
+    },
+    {
+        "太陽黑子雙周期": "double sunspot cycle"
+    },
+    {
+        "雙線": "doublet line"
+    },
+    {
+        "環管形輻射帶": "doughnut-shaped zone"
+    },
+    {
+        "下傳天波": "down coming sky wave"
+    },
+    {
+        "下傳波": "downgoing wave"
+    },
+    {
+        "向下傳訊； 下鏈": "down-link"
+    },
+    {
+        "下游": "downstream"
+    },
+    {
+        "尾向對流": "downtail convection"
+    },
+    {
+        "拖曳效應": "drag effect"
+    },
+    {
+        "極光幔": "drapery"
+    },
+    {
+        "漂移笛模不穩定": "drift flute mode instability"
+    },
+    {
+        "漂移殼": "drift shell"
+    },
+    {
+        "漂移速率": "drift speed"
+    },
+    {
+        "漂移速度": "drift velocity"
+    },
+    {
+        "驅動功能": "driving function"
+    },
+    {
+        "驅動機制": "driving mechanism"
+    },
+    {
+        "細雨形": "drizzle type"
+    },
+    {
+        "赤道環形電流磁[暴]指數": "Dst index"
+    },
+    {
+        "雙頻鎖相接收機": "dual frequency phase locked receiver"
+    },
+    {
+        "導管傳播": "ducted propagation"
+    },
+    {
+        "導管哨波": "ducted whistler"
+    },
+    {
+        "啞鈴形分布": "dumbbeli distribution"
+    },
+    {
+        "掩食時間": "duration of eclipse"
+    },
+    {
+        "全食時間": "duration of totality"
+    },
+    {
+        "黃昏子午圈； 黃昏子午線": "dusk meridian"
+    },
+    {
+        "昏側": "dusk side"
+    },
+    {
+        "昏夜區段": "dusk-midnight sector"
+    },
+    {
+        "昏側磁層": "duskside magnetosphere"
+    },
+    {
+        "昏側磁尾": "duskside magnetotail"
+    },
+    {
+        "昏側磁層頂": "duskside of the magnetopause"
+    },
+    {
+        "昏側橢圓圈": "duskside oval"
+    },
+    {
+        "昏側磁尾": "duskside tail"
+    },
+    {
+        "占空比": "duty ratio"
+    },
+    {
+        "動力探索衛星": "Dynamic Explorer"
+    },
+    {
+        "動力相互作用": "dynamic interaction"
+    },
+    {
+        "動力形態學": "dynamic morphology"
+    },
+    {
+        "動態[頻]譜": "dynamic spectrum"
+    },
+    {
+        "動力過程": "dynamical processes"
+    },
+    {
+        "發電機": "dynamo"
+    },
+    {
+        "電離層動態探測儀": "dynasonde"
+    },
+    {
+        "日極值": "daily extremes"
+    },
+    {
+        "日平均； 日均值": "daily mean"
+    },
+    {
+        "日變幅； 日較差": "daily range"
+    },
+    {
+        "日變化； 逐日變化": "daily variation"
+    },
+    {
+        "阻尼波": "damped wave"
+    },
+    {
+        "阻尼； 衰減": "damping"
+    },
+    {
+        "資料鏈": "data link"
+    },
+    {
+        "資料簡化": "data reduction"
+    },
+    {
+        "數據中繼衛星": "data relay satellite"
+    },
+    {
+        "晝光": "daylight"
+    },
+    {
+        "碎屑": "debris"
+    },
+    {
+        "衰變時間": "decay time"
+    },
+    {
+        "磁偏角； 偏角； 赤緯": "declination"
+    },
+    {
+        "赤緯圈": "declination circle"
+    },
+    {
+        "譯碼機； 解碼器": "decoder"
+    },
+    {
+        "偏轉": "deflection"
+    },
+    {
+        "自由度": "degree of freedom"
+    },
+    {
+        "電離度": "degree of ionization"
+    },
+    {
+        "解調": "demodulation"
+    },
+    {
+        "空乏層": "depletion layer"
+    },
+    {
+        "降交點": "descending node"
+    },
+    {
+        "消旋天線": "despun antenna"
+    },
+    {
+        "分離震波": "detached shock wave"
+    },
+    {
+        "探測； 檢測； 檢波； 偵測": "detection"
+    },
+    {
+        "探測器； 檢波器": "detector"
+    },
+    {
+        "偏差": "deviation"
+    },
+    {
+        "電介質； 介電的": "dielectric"
+    },
+    {
+        "繞射": "diffraction"
+    },
+    {
+        "漫輻射": "diffuse radiation"
+    },
+    {
+        "漫反射": "diffuse reflection"
+    },
+    {
+        "擴散； 漫射": "diffusion"
+    },
+    {
+        "擴散係數": "diffusion coefficient"
+    },
+    {
+        "傾角； 傾斜": "dip"
+    },
+    {
+        "偶極天線": "dipole antenna"
+    },
+    {
+        "碟[形天線]": "dish"
+    },
+    {
+        "色散； 頻散": "dispersion"
+    },
+    {
+        "畸變； 變形": "distortion"
+    },
+    {
+        "日變化": "diurnal variation"
+    },
+    {
+        "輻散  散度": "divergence"
+    },
+    {
+        "雙線； 偶極線": "doublet"
+    },
+    {
+        "曳力； 拖曳； 阻力": "drag"
+    },
+    {
+        "拖曳係數": "drag coefficient"
+    },
+    {
+        "漂移": "drift"
+    },
+    {
+        "漂移率": "drift rate"
+    },
+    {
+        "投落送； 空投探空儀": "dropsonde"
+    },
+    {
+        "導管； 管道": "duct"
+    },
+    {
+        "黃昏": "dusk"
+    },
+    {
+        "動力壓": "dynamic pressure"
+    },
+    {
+        "動態範圍": "dynamic range"
+    },
+    {
+        "動力黏性": "dynamic viscosity"
+    },
+    {
+        "都卜勒效應": "Doppler effect"
+    },
+    {
+        "都卜勒雷達": "Doppler radar"
+    },
+    {
+        "都卜勒頻移": "Doppler shift"
+    },
+    {
+        "逃逸；逃脫": "escape"
+    },
+    {
+        "爆發日珥": "eruptive prominence"
+    },
+    {
+        "爆發": "eruption"
+    },
+    {
+        "愛爾拖；艾爾托；臭氧層有效輻射温度": "ertor"
+    },
+    {
+        "地球輻射；地射": "eradiation"
+    },
+    {
+        "等效寬度；相當波寬": "equivalent width"
+    },
+    {
+        "等效電壓": "equivalent voltage"
+    },
+    {
+        "等效溫度": "equivalent temperature"
+    },
+    {
+        "等效環形電流": "equivalent ring current"
+    },
+    {
+        "等效雜訊溫度": "equivalent noise temperature"
+    },
+    {
+        "電光學": "electro-optics"
+    },
+    {
+        "地磁場": "geomagnetic field"
+    },
+    {
+        "等效高度；相當高度": "equivalent height"
+    },
+    {
+        "等效深度；等效厚度；相當厚度": "equivalent depth"
+    },
+    {
+        "等效電流": "equivalent current"
+    },
+    {
+        "等位面；等勢面": "equipotential surface"
+    },
+    {
+        "等位線；等勢線": "equipotential line"
+    },
+    {
+        "二分點；春秋分": "equinox"
+    },
+    {
+        "二分點；春秋分點": "equinoctial points"
+    },
+    {
+        "二分圈": "equinoctial colure"
+    },
+    {
+        "等值線": "equilines"
+    },
+    {
+        "平衡溫度": "equilibrium temperatures"
+    },
+    {
+        "電子-離子複合；電子-離子再結合": "electron-ion recombination"
+    },
+    {
+        "地磁赤道": "geomagnetic equator"
+    },
+    {
+        "平衡數密度": "equilibrium number density"
+    },
+    {
+        "平衡能譜": "equilibrium energy spectrum"
+    },
+    {
+        "向赤道方向": "equatorwards"
+    },
+    {
+        "赤道側邊緣": "equatorward edge"
+    },
+    {
+        "赤道側邊界": "equatorward boundary"
+    },
+    {
+        "赤道側": "equatorside"
+    },
+    {
+        "赤道擴散F": "equatorial spread F"
+    },
+    {
+        "赤道環形電流指數": "equatorial ring current index"
+    },
+    {
+        "赤道環形電流": "equatorial ring current"
+    },
+    {
+        "赤道區": "equatorial region"
+    },
+    {
+        "電子-離子碰撞頻率": "electron-ion collision frequency"
+    },
+    {
+        "地磁效應": "geomagnetic effect"
+    },
+    {
+        "赤道半徑": "equatorial radius"
+    },
+    {
+        "赤道面": "equatorial plane"
+    },
+    {
+        "米粒{日面}": "granule"
+    },
+    {
+        "赤道軌道": "equatorial orbit"
+    },
+    {
+        "米粒組織{日面}": "granulation"
+    },
+    {
+        "赤道電離層": "equatorial ionosphere"
+    },
+    {
+        "緩型閃焰": "gradual flare"
+    },
+    {
+        "赤道電噴流": "equatorial electrojet"
+    },
+    {
+        "緩始磁暴": "gradual commencement magnetic storm"
+    },
+    {
+        "赤道隆起": "equatorial bulge"
+    },
+    {
+        "梯度風": "gradient wind"
+    },
+    {
+        "赤道異常": "equatorial anomaly"
+    },
+    {
+        "梯度漂移速度": "gradient drift velocity"
+    },
+    {
+        "赤道": "equator"
+    },
+    {
+        "梯度漂移不穩定": "gradient drift instability"
+    },
+    {
+        "狀態方程": "equation of state"
+    },
+    {
+        "梯度漂移電流": "gradient drift current"
+    },
+    {
+        "曆元": "epoch"
+    },
+    {
+        "梯度漂移": "gradient drift"
+    },
+    {
+        "電子雲": "electronic cloud"
+    },
+    {
+        "地磁擾亂": "geomagnetic disturbance"
+    },
+    {
+        "環境模擬室；環境模擬艙": "environmental chamber"
+    },
+    {
+        "戈達太空飛行中心": "Goddard Space Flight Center (=GSFC)"
+    },
+    {
+        "進入通道；進入走廊{指進入大氣層的}": "entry corridor"
+    },
+    {
+        "全球尺度": "global scale"
+    },
+    {
+        "熵": "entropy"
+    },
+    {
+        "全球定位系統": "Global Positioning System (GPS)"
+    },
+    {
+        "焓": "enthalpy"
+    },
+    {
+        "全球圖像": "global picture"
+    },
+    {
+        "能檻": "energy threshold"
+    },
+    {
+        "全球熱量收支": "global heat budget"
+    },
+    {
+        "能階": "energy step"
+    },
+    {
+        "全球環流模式": "global circulation model (=GCM)"
+    },
+    {
+        "能譜": "energy spectrum"
+    },
+    {
+        "全球波束": "global beam"
+    },
+    {
+        "能量區間": "energy range"
+    },
+    {
+        "下滑航線； 下滑軌道": "glide path"
+    },
+    {
+        "能量損失": "energy loss"
+    },
+    {
+        "冰川學": "glaciology"
+    },
+    {
+        "能階圖": "energy level diagram"
+    },
+    {
+        "冰川消退": "glacier recession"
+    },
+    {
+        "電子捕集器；電子捕獲": "electron trap"
+    },
+    {
+        "地磁偶極； 地磁雙極": "geomagnetic dipole"
+    },
+    {
+        "能階": "energy level"
+    },
+    {
+        "冰川": "glacier"
+    },
+    {
+        "能量間隙": "energy gaps"
+    },
+    {
+        "冰川的": "glacial"
+    },
+    {
+        "能量通量": "energy flux"
+    },
+    {
+        "地球同步衛星": "geosynchronous satellite"
+    },
+    {
+        "能量分布": "energy distribution"
+    },
+    {
+        "地球同步軌道": "geosynchronous orbit"
+    },
+    {
+        "能量耗散": "energy dissipation"
+    },
+    {
+        "地球同步高度": "geosynchronous altitude"
+    },
+    {
+        "能量沉積": "energy deposition"
+    },
+    {
+        "地轉風": "geostrophic wind"
+    },
+    {
+        "能量密度": "energy density"
+    },
+    {
+        "地轉渦度": "geostrophic vorticity"
+    },
+    {
+        "能量守恆": "energy conservation"
+    },
+    {
+        "地轉的": "geostrophic"
+    },
+    {
+        "能量": "energy"
+    },
+    {
+        "地球同步衛星": "geostationary satellite"
+    },
+    {
+        "能量學": "energetics"
+    },
+    {
+        "地球同步軌道": "geostationary orbit"
+    },
+    {
+        "電子溫度": "electron temperature"
+    },
+    {
+        "地磁偏角": "geomagnetic declination"
+    },
+    {
+        "高能粒子": "energetic particle"
+    },
+    {
+        "地球同步氣象衛星": "Geostationary Meteorological Satellite (=GMS)"
+    },
+    {
+        "高能電子": "energetic electrons"
+    },
+    {
+        "近地太空": "geospace"
+    },
+    {
+        "生光； 食甚終": "end of totality"
+    },
+    {
+        "重力位公尺": "geopotential meter"
+    },
+    {
+        "復圓；食終": "end of eclipse"
+    },
+    {
+        "重力位高": "geopotential height"
+    },
+    {
+        "發射率": "emissivity"
+    },
+    {
+        "重力位高度": "geopotential altitude"
+    },
+    {
+        "發射光譜": "emission spectrum"
+    },
+    {
+        "重力位": "geopotential"
+    },
+    {
+        "發射譜線": "emission line"
+    },
+    {
+        "地球物理學": "geophysics"
+    },
+    {
+        "發射層": "emission layer"
+    },
+    {
+        "地球物理的": "geophysical"
+    },
+    {
+        "發射頻率": "emission frequency"
+    },
+    {
+        "幾何； 幾何學； 幾何圖形": "geometry"
+    },
+    {
+        "發射效率": "emission efficiency"
+    },
+    {
+        "幾何日落點": "geometrical sunset point"
+    },
+    {
+        "電子自旋共振": "electron spin resonance"
+    },
+    {
+        "地磁坐標系統": "geomagnetic coordinate system"
+    },
+    {
+        "發射係數": "emission coefficient"
+    },
+    {
+        "幾何反照率": "geometric albedo"
+    },
+    {
+        "發射": "emission"
+    },
+    {
+        "地球力學； 地質力學": "geomechanics"
+    },
+    {
+        "復明": "emersion"
+    },
+    {
+        "地磁； 地磁學": "geomagnetism"
+    },
+    {
+        "距角；伸長": "elongation"
+    },
+    {
+        "地磁變化": "geomagnetic variation"
+    },
+    {
+        "橢圓軌道": "elliptical orbit"
+    },
+    {
+        "地磁時間": "geomagnetic time"
+    },
+    {
+        "橢圓偏振": "elliptic polarization"
+    },
+    {
+        "磁尾": "geomagnetic tail"
+    },
+    {
+        "仰角；高度": "elevation"
+    },
+    {
+        "地磁突脈衝": "geomagnetic sudden impulse"
+    },
+    {
+        "仰角": "elevatin angle"
+    },
+    {
+        "磁暴": "geomagnetic storm"
+    },
+    {
+        "軌道要素": "elements of orbit"
+    },
+    {
+        "地磁響應": "geomagnetic response"
+    },
+    {
+        "元素；元量；單元；要素": "element"
+    },
+    {
+        "地磁寧靜期": "geomagnetic quiet time"
+    },
+    {
+        "電子殼層": "electron shell"
+    },
+    {
+        "地磁坐標": "geomagnetic coordinate"
+    },
+    {
+        "靜電波": "electrostatic wave"
+    },
+    {
+        "地磁極": "geomagnetic pole"
+    },
+    {
+        "靜電結構": "electrostatic structures"
+    },
+    {
+        "地磁參數": "geomagnetic parameter"
+    },
+    {
+        "靜電探針": "electrostatic probe"
+    },
+    {
+        "地磁觀測台": "geomagnetic observatory"
+    },
+    {
+        "靜電微湍流": "electrostatic microturbulence"
+    },
+    {
+        "地磁子夜": "geomagnetic midnight"
+    },
+    {
+        "靜電離子回旋不穩定性": "electrostatic ion cyclotron instability"
+    },
+    {
+        "地磁微脈動": "geomagnetic micropulsation"
+    },
+    {
+        "靜電平衡": "electrostatic equilibrium"
+    },
+    {
+        "地磁經度": "geomagnetic longitude"
+    },
+    {
+        "靜電能": "electrostatic energy"
+    },
+    {
+        "地磁緯度": "geomagnetic latitude"
+    },
+    {
+        "靜電雙探針": "electrostatic double probe"
+    },
+    {
+        "地磁指數": "geomagnetic index"
+    },
+    {
+        "靜電雙層": "electrostatic double layer"
+    },
+    {
+        "地磁傾角": "geomagnetic inclination"
+    },
+    {
+        "逃逸通量": "escape flux"
+    },
+    {
+        "靜電分析器": "electrostatic analyzer"
+    },
+    {
+        "地磁場": "geomagnetic field"
+    },
+    {
+        "電子片束": "electron sheet beam"
+    },
+    {
+        "地磁分量": "geomagnetic component"
+    },
+    {
+        "夫朗和斐[光]譜": "Fraunhofer spectrum"
+    },
+    {
+        "夫朗和斐譜線": "Fraunhofer line"
+    },
+    {
+        "參考坐標": "frame of reference"
+    },
+    {
+        "分數": "fraction"
+    },
+    {
+        "傅立葉定理": "Fourier theorem"
+    },
+    {
+        "融合": "fusion"
+    },
+    {
+        "傅立葉分析； 傅氏分析": "Fourier analysis"
+    },
+    {
+        "漏斗形區": "funnel-shaped region"
+    },
+    {
+        "基頻": "fundamental frequency"
+    },
+    {
+        "全離化電漿": "fully ionized plasma"
+    },
+    {
+        "半極大值全寬度": "full width at half-maximum"
+    },
+    {
+        "全波理論": "full wave theory"
+    },
+    {
+        "全波解": "full wave solution"
+    },
+    {
+        "望； 滿月": "full moon"
+    },
+    {
+        "燃料電池； 燃料箱": "fuel cell"
+    },
+    {
+        "凍結磁場": "frozen-in magnetic field"
+    },
+    {
+        "凍結磁力線": "frozen-in field line"
+    },
+    {
+        "噴泉效應": "fountain effect"
+    },
+    {
+        "凍結磁場": "frozen magnetic field"
+    },
+    {
+        "凍結場": "frozen field"
+    },
+    {
+        "鋒系": "frontal system"
+    },
+    {
+        "鋒面雲": "frontal cloud"
+    },
+    {
+        "摩擦": "friction"
+    },
+    {
+        "夫瑞奈區；菲涅耳區": "Fresnel zone"
+    },
+    {
+        "頻譜": "frequency spectrum"
+    },
+    {
+        "頻率響應； 頻響": "frequency response"
+    },
+    {
+        "發生頻次； 出現頻率": "frequency of occurrence"
+    },
+    {
+        "調頻": "frequency modulation"
+    },
+    {
+        "前視機載雷達": "Forward-looking airborne radar"
+    },
+    {
+        "變頻器": "frequency converter"
+    },
+    {
+        "頻道": "frequency channel"
+    },
+    {
+        "頻帶； 頻段": "frequency band"
+    },
+    {
+        "頻率": "frequency"
+    },
+    {
+        "凍結": "freezing-in"
+    },
+    {
+        "結冰核": "freezing nuclei"
+    },
+    {
+        "自由－束縛躍遷": "free-bound transition"
+    },
+    {
+        "自由程": "free path"
+    },
+    {
+        "自由陀螺儀": "free gyro"
+    },
+    {
+        "自由下落": "free fall"
+    },
+    {
+        "前向震波": "forward shock"
+    },
+    {
+        "黃道": "ecliptic"
+    },
+    {
+        "銀河經度": "galactic longitude"
+    },
+    {
+        "電子產生率；電子生成率": "electron production rate"
+    },
+    {
+        "食": "eclipse"
+    },
+    {
+        "銀河緯度": "galactic latitude"
+    },
+    {
+        "電子產生；電子生成": "electron product ion"
+    },
+    {
+        "電子沉降": "electron precipitation"
+    },
+    {
+        "電子軌道": "electron orbit"
+    },
+    {
+        "電子數密度": "electron number density"
+    },
+    {
+        "電子湮滅率；電子消失率": "electron loss rate"
+    },
+    {
+        "電子湮滅；電子消失": "electron loss"
+    },
+    {
+        "電子層": "electron layer"
+    },
+    {
+        "電子迴轉共振": "electron gyro-resonance"
+    },
+    {
+        "電子槍": "electron gun"
+    },
+    {
+        "電子逃逸": "electron escape"
+    },
+    {
+        "地磁活動指數": "geomagnetic activity index"
+    },
+    {
+        "回波訊號": "echo signal"
+    },
+    {
+        "銀河赤道": "galactic equator"
+    },
+    {
+        "電子能譜": "electron energy spectrum"
+    },
+    {
+        "地磁的": "geomagnetic"
+    },
+    {
+        "電子能通量": "electron energy flux"
+    },
+    {
+        "大地水準面": "geoid"
+    },
+    {
+        "電子脫離": "electron detachment"
+    },
+    {
+        "地理極": "geographic pole"
+    },
+    {
+        "電子密度廓線": "electron density profile"
+    },
+    {
+        "地理子午線；地理子午圈": "geographic meridian"
+    },
+    {
+        "電子密度": "electron density"
+    },
+    {
+        "地理經度": "geographic longitude"
+    },
+    {
+        "電子迴旋頻率": "electron cyclotron frequency"
+    },
+    {
+        "地理緯度": "geographic latitude"
+    },
+    {
+        "電子[電]流": "electron current"
+    },
+    {
+        "地理赤道": "geographic equator"
+    },
+    {
+        "電子濃度": "electron concentration"
+    },
+    {
+        "地理坐標": "geographic coordinate"
+    },
+    {
+        "電子碰撞": "electron collisions"
+    },
+    {
+        "地理餘緯": "geographic colatitude"
+    },
+    {
+        "電子雲": "electron cloud"
+    },
+    {
+        "地球動力學": "geodynamics"
+    },
+    {
+        "回波脈衝": "echo pulse"
+    },
+    {
+        "銀河宇宙射線； 宇宙射線": "galactic cosmic ray"
+    },
+    {
+        "電子化學": "electron chemistry"
+    },
+    {
+        "測地衛星": "geodetic satellite"
+    },
+    {
+        "電子轟擊": "electron bombardment"
+    },
+    {
+        "測地參考系統； 大地參考系統": "Geodetic Reference System (=GRS)"
+    },
+    {
+        "電子帶": "electron belt"
+    },
+    {
+        "測地緯圈": "geodetic parallel"
+    },
+    {
+        "電子束": "electron beam"
+    },
+    {
+        "測地子午線": "geodetic meridian"
+    },
+    {
+        "電子極光": "electron aurora"
+    },
+    {
+        "測地經度；大地經度": "geodetic longitude"
+    },
+    {
+        "電子附著": "electron attachment"
+    },
+    {
+        "測地緯度；大地緯度": "geodetic latitude"
+    },
+    {
+        "電子加速器": "electron accelerator"
+    },
+    {
+        "測地坐標； 大地坐標": "geodetic coordinate"
+    },
+    {
+        "電子": "electron"
+    },
+    {
+        "測地天文學；大地天文學": "geodetic astronomy"
+    },
+    {
+        "電動勢": "electromotive force"
+    },
+    {
+        "測地學； 大地測量學": "geodesy"
+    },
+    {
+        "靜電計": "electrometer"
+    },
+    {
+        "地冕發射": "geocorona emission"
+    },
+    {
+        "回波功率": "echo power"
+    },
+    {
+        "銀河宇宙輻射； 宇宙輻射": "galactic cosmic radiation"
+    },
+    {
+        "電磁學": "electromagnetics"
+    },
+    {
+        "地冕": "geocorona"
+    },
+    {
+        "電磁波": "electromagnetic wave"
+    },
+    {
+        "地球年代學； 地質年代學": "geochronology"
+    },
+    {
+        "電磁理論": "electromagnetic theory"
+    },
+    {
+        "地球化學": "geochemistry"
+    },
+    {
+        "電磁輻射": "electromagnetic radiation"
+    },
+    {
+        "地球化學循環": "geochemical cycle"
+    },
+    {
+        "電磁探測": "electromagnetic probing"
+    },
+    {
+        "地心天頂": "geocentric zenith"
+    },
+    {
+        "電磁干擾": "electromagnetic interference"
+    },
+    {
+        "地心軌道": "geocentric orbit"
+    },
+    {
+        "電磁交互作用": "electromagnetic interactions"
+    },
+    {
+        "地心經度": "geocentric longitude"
+    },
+    {
+        "電磁耦合": "electromagnetic coupling"
+    },
+    {
+        "地心緯度": "geocentric latitude"
+    },
+    {
+        "電磁相容性": "electromagnetic compatibility"
+    },
+    {
+        "地球慣性坐標": "geocentric inertial coordinate"
+    },
+    {
+        "電磁脈衝": "electromagantic pulse"
+    },
+    {
+        "地心距": "geocentric distance"
+    },
+    {
+        "回波強度": "echo intensity"
+    },
+    {
+        "銀河坐標": "galactic coordinate"
+    },
+    {
+        "電磁干擾": "electromagantic interference"
+    },
+    {
+        "地心直徑": "geocentric diameter"
+    },
+    {
+        "電[致]發光": "electroluminescence"
+    },
+    {
+        "地心坐標": "geocentric coordinate"
+    },
+    {
+        "電噴流": "electrojet"
+    },
+    {
+        "地心角": "geocentric angle"
+    },
+    {
+        "電中性": "electrical neutrality"
+    },
+    {
+        "地心的": "geocentric"
+    },
+    {
+        "電勢；電位": "electric potential"
+    },
+    {
+        "地球天文物理學": "geoastrophysics"
+    },
+    {
+        "極化電場": "electric polarization field"
+    },
+    {
+        "（詞類）表示\"地球\"或\"大地\"": "geo-"
+    },
+    {
+        "電場強度": "electric field strength"
+    },
+    {
+        "廣義歐姆定率": "generalized Ohm's law"
+    },
+    {
+        "放電": "electric discharge"
+    },
+    {
+        "廣義地磁緯度": "generalized magnetic latitude"
+    },
+    {
+        "導電率；電導率": "electric conductivity"
+    },
+    {
+        "總歲差": "general precession"
+    },
+    {
+        "電弧": "electric arc"
+    },
+    {
+        "大氣環流模式": "general circulation model"
+    },
+    {
+        "回波；回聲": "echo"
+    },
+    {
+        "伽； 加爾 {重力加速度單位}": "gal"
+    },
+    {
+        "本徵頻率": "eigen frequency"
+    },
+    {
+        "大氣環流": "general circulation"
+    },
+    {
+        "e倍能量": "e-folding energy"
+    },
+    {
+        "雙子星計畫": "Gemini"
+    },
+    {
+        "有效地球輻射": "effective terrestrial radiation"
+    },
+    {
+        "蓋格－繆勒計數器": "Geiger-Müller counter"
+    },
+    {
+        "有效溫度": "effective temperature"
+    },
+    {
+        "蓋格計數器": "Geiger counter"
+    },
+    {
+        "有效電位": "effective potential"
+    },
+    {
+        "對日照； [黃道]反暉": "gegenschein"
+    },
+    {
+        "有效等向輻射功率": "effective isotropic radiated power"
+    },
+    {
+        "高斯分布": "Gaussian distribution"
+    },
+    {
+        "有效高度": "effective height"
+    },
+    {
+        "高斯": "gauss {=G}"
+    },
+    {
+        "渦流速度": "eddy velocity"
+    },
+    {
+        "氣圈；氣界": "gas-sphere"
+    },
+    {
+        "渦流譜": "eddy spectrum"
+    },
+    {
+        "氣體游離艙": "gas ionization chamber"
+    },
+    {
+        "渦流能量": "eddy energy"
+    },
+    {
+        "氣體放電管": "gas discharge tube"
+    },
+    {
+        "偏心率； 離心率": "eccentricity"
+    },
+    {
+        "增益對雜訊溫度比": "gain-to-noise temperature ratio"
+    },
+    {
+        "渦流擴散係數": "eddy diffusion coefficient"
+    },
+    {
+        "氣體計數器": "gas counter"
+    },
+    {
+        "渦流擴散": "eddy diffusion"
+    },
+    {
+        "噴流角{行星際磁場}": "garden hose angle"
+    },
+    {
+        "渦電流": "eddy current"
+    },
+    {
+        "伽瑪{磁場強度單位=10^-3 高斯=10^-9 特斯勒}": "gamma (γ)"
+    },
+    {
+        "渦流": "eddy"
+    },
+    {
+        "伽利略衛星{木星的四大衛星}": "Galilean satellites"
+    },
+    {
+        "艾丁頓近似": "Eddington approximation"
+    },
+    {
+        "星系； 銀河系": "galaxy/Galaxy"
+    },
+    {
+        "生態圈": "ecosphere"
+    },
+    {
+        "銀河風； 恆星風": "galactic wind"
+    },
+    {
+        "黃道面": "ecliptic plane"
+    },
+    {
+        "星系太空": "galactic space"
+    },
+    {
+        "黃經": "ecliptic longitude"
+    },
+    {
+        "銀河電波": "galactic radio wave"
+    },
+    {
+        "黃緯": "ecliptic latitude"
+    },
+    {
+        "銀極": "galactic pole"
+    },
+    {
+        "黃道坐標": "ecliptic coordinates"
+    },
+    {
+        "銀河面": "galactic plane"
+    },
+    {
+        "東向電流": "eastward current"
+    },
+    {
+        "增益": "gain"
+    },
+    {
+        "地磁感應器": "earth inductor"
+    },
+    {
+        "地球探測衛星": "Earth Exploration Satellite (EES)"
+    },
+    {
+        "地球橢球體": "Earth ellipsoid"
+    },
+    {
+        "大地電流； 地電流": "earth current"
+    },
+    {
+        "地殼": "Earth crust"
+    },
+    {
+        "地核": "Earth core"
+    },
+    {
+        "形成機制": "formation mechanism"
+    },
+    {
+        "預報": "forecast"
+    },
+    {
+        "強迫函數": "forcing function"
+    },
+    {
+        "無外力磁場": "force-free magnetic field"
+    },
+    {
+        "強制振盪": "forced oscillation"
+    },
+    {
+        "福布希效應": "Forbush effect"
+    },
+    {
+        "東來風": "easterly wind"
+    },
+    {
+        "福布希衰減": "Forbush decrease"
+    },
+    {
+        "地球同步軌道": "earth-synchronous orbit"
+    },
+    {
+        "地球軌道衛星": "earth-orbiting satellite"
+    },
+    {
+        "E域 {電離層}": "E region"
+    },
+    {
+        "地光": "earthlight"
+    },
+    {
+        "地球電離層柱": "earth-ionosphere column"
+    },
+    {
+        "地球空腔共振": "earth-cavity resonances"
+    },
+    {
+        "地磁": "earth's magnetism"
+    },
+    {
+        "地磁場": "earth's magnetic field"
+    },
+    {
+        "地電場": "earth's electric field"
+    },
+    {
+        "地軸": "earth's axis"
+    },
+    {
+        "固體潮；地潮": "Earth tide"
+    },
+    {
+        "地面站": "earth station"
+    },
+    {
+        "地影": "Earth shadow"
+    },
+    {
+        "E層": "E layer"
+    },
+    {
+        "地球衛星": "earth satellite"
+    },
+    {
+        "地球自轉": "Earth rotation"
+    },
+    {
+        "地球資源技術衛星": "Earth Resources Technology Satellite (ERTS)"
+    },
+    {
+        "地球資源衛星": "Earth Resources Satellite (ERS)"
+    },
+    {
+        "地球輻射": "earth radiation"
+    },
+    {
+        "地脈動": "earth pulsation"
+    },
+    {
+        "地電位": "earth potential"
+    },
+    {
+        "地球軌道": "earth orbit"
+    },
+    {
+        "地球觀測衛星": "Earth Observation Satellite (EOS)"
+    },
+    {
+        "地幔；地函": "Earth mantle"
+    },
+    {
+        "E×B漂移": "E × B drift"
+    },
+    {
+        "禁區（帶電粒子運動的）": "forbidden region"
+    },
+    {
+        "禁線（光譜的）": "forbidden line"
+    },
+    {
+        "折曲； 皺褶": "Fold"
+    },
+    {
+        "福克耳-卜朗克方程": "Fokker-Planck equation"
+    },
+    {
+        "聚焦效應": "focusing effect"
+    },
+    {
+        "飛掠": "flyby"
+    },
+    {
+        "通量計": "fluxmeter"
+    },
+    {
+        "通門磁力計": "fluxgate magnetometer"
+    },
+    {
+        "內通量管 {指磁力管}": "flux tube"
+    },
+    {
+        "通量管": "flux tube"
+    },
+    {
+        "激發效率": "excitation efficiency"
+    },
+    {
+        "重力； 引力": "gravitational force"
+    },
+    {
+        "通量不變量": "flux invariant"
+    },
+    {
+        "通量輻散": "flux divergence"
+    },
+    {
+        "通量密度": "flux density"
+    },
+    {
+        "通量": "flux"
+    },
+    {
+        "笛型不穩定": "flute instability"
+    },
+    {
+        "螢光": "fluorescence"
+    },
+    {
+        "起伏； 漲落； 擾亂": "fluctuation"
+    },
+    {
+        "流型": "flow pattern"
+    },
+    {
+        "流線": "flow line"
+    },
+    {
+        "流程圖": "flow chart"
+    },
+    {
+        "激發": "excitation"
+    },
+    {
+        "重力場； 引力場": "gravitational field"
+    },
+    {
+        "譜斑 {複數 flocculi}": "flocculus"
+    },
+    {
+        "飛行路線； 航線": "flightpath"
+    },
+    {
+        "飛行模型": "flight model"
+    },
+    {
+        "飛行通道； 飛行走廊": "flight corridor"
+    },
+    {
+        "飛行姿態": "flight attitude"
+    },
+    {
+        "閃光譜": "flash spectrum"
+    },
+    {
+        "閃焰浪湧": "flare surge"
+    },
+    {
+        "閃焰": "flare"
+    },
+    {
+        "焰狀弧（極光）": "flaming arc"
+    },
+    {
+        "擬合": "fitting"
+    },
+    {
+        "入夜側": "evening side"
+    },
+    {
+        "重力常數；引力常數": "gravitational constant"
+    },
+    {
+        "分裂": "fission"
+    },
+    {
+        "上弦": "first quarter"
+    },
+    {
+        "第一宇宙速度": "first cosmic velocity"
+    },
+    {
+        "火流星": "fireball"
+    },
+    {
+        "精細結構": "fine Structure"
+    },
+    {
+        "濾波能力": "filterability"
+    },
+    {
+        "濾波器； 濾光器；濾光鏡": "filter"
+    },
+    {
+        "迴旋共振； 迴轉共振": "gyroresonance"
+    },
+    {
+        "薄膜； 膠片": "film"
+    },
+    {
+        "迴旋運動； 迴轉運動": "gyromotion"
+    },
+    {
+        "色球暗條； 色球暗紋": "filament"
+    },
+    {
+        "陀螺儀": "gyro scope"
+    },
+    {
+        "場沿傳播": "field-aligned propagation"
+    },
+    {
+        "迴旋半徑； 迴轉半徑": "gyro radius"
+    },
+    {
+        "入夜區段": "evening sector"
+    },
+    {
+        "重力加速度": "gravitational acceleration"
+    },
+    {
+        "場沿沉降": "field-aligned precipitation"
+    },
+    {
+        "迴旋周期； 迴轉周期": "gyro period"
+    },
+    {
+        "場沿不規則體": "field-aligned irregularity"
+    },
+    {
+        "迴旋頻率； 迴轉頻率": "gyro frequency"
+    },
+    {
+        "場沿電流": "field-aligned current"
+    },
+    {
+        "迴旋中心": "gyro center"
+    },
+    {
+        "磁力管；場管": "field tube"
+    },
+    {
+        "迴旋； 迴轉": "gyration"
+    },
+    {
+        "場反轉": "field reversal"
+    },
+    {
+        "逆時迴旋": "gyrate counter-clockwise"
+    },
+    {
+        "視場": "field of view"
+    },
+    {
+        "順時迴旋": "gyrate clockwise"
+    },
+    {
+        "磁力線共振": "field line resonance"
+    },
+    {
+        "導引中心": "guiding center"
+    },
+    {
+        "磁力線合併": "field line merging"
+    },
+    {
+        "導波": "guided wave"
+    },
+    {
+        "場力線": "field line"
+    },
+    {
+        "導引": "guidance"
+    },
+    {
+        "場形態": "field configuration"
+    },
+    {
+        "成長波": "growing wave"
+    },
+    {
+        "蒸發過程； 蒸散過程": "evaporation processes"
+    },
+    {
+        "重力計": "gravimeter"
+    },
+    {
+        "場沿；場列": "field aligned"
+    },
+    {
+        "成長相": "growing phase"
+    },
+    {
+        "費米加速": "Fermi acceleration"
+    },
+    {
+        "群速度； 群速": "group velocity"
+    },
+    {
+        "特色； 特性": "feature"
+    },
+    {
+        "群折射率； 群折射指數": "group refractive index"
+    },
+    {
+        "快模": "fast mode"
+    },
+    {
+        "群延遲": "group delay"
+    },
+    {
+        "法拉第旋轉": "Faraday rotation"
+    },
+    {
+        "地面支援設備": "ground-support equipment"
+    },
+    {
+        "法拉第效應": "Faraday effect"
+    },
+    {
+        "地面探測器； 地面探針； 陸基探測器； 陸基探針": "ground-based probe"
+    },
+    {
+        "法拉第筒": "Faraday cylinder"
+    },
+    {
+        "地面觀測台； 陸基觀測台": "ground-based observatories"
+    },
+    {
+        "法拉第杯": "Faraday cup"
+    },
+    {
+        "地面觀測； 陸基觀測": "ground-based observation"
+    },
+    {
+        "遠紅外光； 遠紅外線": "far infrared"
+    },
+    {
+        "地面測量； 陸基測量": "ground-based measurement"
+    },
+    {
+        "扇狀射線": "fan ray"
+    },
+    {
+        "陸基電離層探測儀；陸基電離層送": "ground-based ionosonde"
+    },
+    {
+        "歐洲太空總署": "European Space Agency (ESA)"
+    },
+    {
+        "光柵光譜": "grating spectrum"
+    },
+    {
+        "沉降；落塵": "fallout"
+    },
+    {
+        "地面反向散射": "ground-backscatter"
+    },
+    {
+        "落球法": "falling-sphere method"
+    },
+    {
+        "地波": "ground wave"
+    },
+    {
+        "晴空電場": "fair-weather electric field"
+    },
+    {
+        "基態": "ground state"
+    },
+    {
+        "衰消": "fadeout"
+    },
+    {
+        "地面回波": "ground return"
+    },
+    {
+        "光斑{複數faculae}": "facula"
+    },
+    {
+        "格林威治時": "Greenwich time"
+    },
+    {
+        "法布立-培若干涉儀": "Fabry-Perot interferometer"
+    },
+    {
+        "格林威治恆星時": "Greenwich sidereal time"
+    },
+    {
+        "F2域": "F2 region"
+    },
+    {
+        "格林威治子午線": "Greenwich meridian"
+    },
+    {
+        "F2層": "F2 layer"
+    },
+    {
+        "格林威治民用時； 世界時": "Greenwich civil time"
+    },
+    {
+        "F域": "F region"
+    },
+    {
+        "格林威治視太陽時": "Greenwich apparent time"
+    },
+    {
+        "F層": "F layer"
+    },
+    {
+        "格林威治視民用時": "Greenwich apparent civil time"
+    },
+    {
+        "逃逸速度；逃脫速度": "escape velocity"
+    },
+    {
+        "光柵分光鏡": "grating spectroscope"
+    },
+    {
+        "極寧靜條件": "extremely quiet condition"
+    },
+    {
+        "溫室效應": "greenhouse effect"
+    },
+    {
+        "極紫外": "extreme ultraviolet"
+    },
+    {
+        "氧綠線": "green oxygen line"
+    },
+    {
+        "溫帶對流層頂": "extratropical tropopause"
+    },
+    {
+        "極光綠線": "green auroral line"
+    },
+    {
+        "大氣頂太陽輻射": "extra-terrestrial radiation"
+    },
+    {
+        "大紅斑{木星}": "Great Red Spot"
+    },
+    {
+        "地球外的": "extraterrestrial"
+    },
+    {
+        "大旱": "great drought"
+    },
+    {
+        "異常波": "extraordinary wave"
+    },
+    {
+        "大圓": "great circle"
+    },
+    {
+        "異常模": "extraordinary mode"
+    },
+    {
+        "掠入射": "grazing incidence"
+    },
+    {
+        "消光係數": "extinction coefficient"
+    },
+    {
+        "掠射角": "grazing angle"
+    },
+    {
+        "消光": "extinction"
+    },
+    {
+        "伽瑪射線望遠鏡": "g-ray telescope"
+    },
+    {
+        "外源": "external source"
+    },
+    {
+        "灰度； 灰階": "gray scale"
+    },
+    {
+        "逃逸率； 逃脫率": "escape rate"
+    },
+    {
+        "光柵攝譜儀": "grating spectrograph"
+    },
+    {
+        "外磁場": "external magnetic field"
+    },
+    {
+        "伽瑪射線輻射": "g-ray radiation"
+    },
+    {
+        "外力": "external force"
+    },
+    {
+        "格雷碼；二進制碼": "Gray code"
+    },
+    {
+        "探險者衛星1號": "Explorer 1"
+    },
+    {
+        "灰體": "gray body"
+    },
+    {
+        "外氣層": "exosphere"
+    },
+    {
+        "灰體大氣": "gray atmosphere"
+    },
+    {
+        "外氣層頂": "exopause"
+    },
+    {
+        "重力波": "gravity wave"
+    },
+    {
+        "地[球]外生物學": "exobiology"
+    },
+    {
+        "重力異常": "gravity anomaly"
+    },
+    {
+        "激發態；受激態": "excited state"
+    },
+    {
+        "重力": "gravity"
+    },
+    {
+        "激發電勢；激發電位": "excitation potential"
+    },
+    {
+        "引力潮； 重力潮": "gravitational tide"
+    },
+    {
+        "激發機制": "excitation mechanism"
+    },
+    {
+        "重力紅移": "gravitational red shift"
+    },
+    {
+        "禁制躍遷": "forbidden transition"
+    },
+    {
+        "激發能": "excitation energy"
+    },
+    {
+        "重力輻射": "gravitational radiation"
+    },
+    {
+        "逃逸損失": "escape loss"
+    },
+    {
+        "光柵": "grating"
+    },
+    {
+        "水平分量": "H component"
+    },
+    {
+        "H α 線": "H α line"
+    },
+    {
+        "黑爾黑子雙周": "Hale cycle"
+    },
+    {
+        "半值厚度｛指吸收體｝": "half value thickness"
+    },
+    {
+        "半衰期；半生期": "half-life period"
+    },
+    {
+        "半功率束寬": "half-power beamwidth"
+    },
+    {
+        "半功率點": "half-power point"
+    },
+    {
+        "半功率寬度": "half-power width"
+    },
+    {
+        "半寬": "half-width"
+    },
+    {
+        "霍爾電導率": "Hall conductivity"
+    },
+    {
+        "霍爾電流": "Hall current"
+    },
+    {
+        "霍爾效應": "Hall effect"
+    },
+    {
+        "霍爾磁力計": "Hall effect magnetometer"
+    },
+    {
+        "哈雷彗星": "Halley's comet"
+    },
+    {
+        "硬著陸": "hard landing"
+    },
+    {
+        "硬輻射": "hard radiation"
+    },
+    {
+        "高真空": "hard vacuum"
+    },
+    {
+        "硬X射線": "hard X-ray"
+    },
+    {
+        "強化；硬化": "hardening"
+    },
+    {
+        "諧和分析": "harmonic analysis"
+    },
+    {
+        "諧波規；諧波標度盤": "harmonic dial"
+    },
+    {
+        "諧和定律": "harmonic law"
+    },
+    {
+        "諧和運動": "harmonic motion"
+    },
+    {
+        "諧波振盪器": "harmonic oscillator"
+    },
+    {
+        "諧波；諧音": "harmonic overtone"
+    },
+    {
+        "哈特里臭氧帶": "Hartley band of ozone"
+    },
+    {
+        "彗頭": "head of comet"
+    },
+    {
+        "航向": "heading"
+    },
+    {
+        "熱收支": "heat budget"
+    },
+    {
+        "熱傳導": "heat conduction"
+    },
+    {
+        "熱通量": "heat flux"
+    },
+    {
+        "熱輸入": "heat input"
+    },
+    {
+        "熱管": "heat pipe"
+    },
+    {
+        "熱輻射": "heat radiation"
+    },
+    {
+        "熱匯": "heat sink"
+    },
+    {
+        "熱源": "heat source"
+    },
+    {
+        "熱傳導方程": "heat-conduction equation"
+    },
+    {
+        "加熱機制": "heating mechanism"
+    },
+    {
+        "加熱率": "heating rate"
+    },
+    {
+        "天體": "heavenly body"
+    },
+    {
+        "赫維賽德層｛E層｝": "Heaviside layer"
+    },
+    {
+        "重離子": "heavy ion"
+    },
+    {
+        "重型載運載具；大載重發射載具": "heavy lift launch vehicle"
+    },
+    {
+        "高度": "height"
+    },
+    {
+        "高度間隔；高度區間": "height interval"
+    },
+    {
+        "消失點高度 {流星}": "height of disappearance"
+    },
+    {
+        "高度累積電導率": "height-integrated conductivity"
+    },
+    {
+        "高度累積電流": "height-integrated current"
+    },
+    {
+        "螺旋天線": "helical antenna"
+    },
+    {
+        "日心坐標": "heliocentric coordinates"
+    },
+    {
+        "日心距離": "heliocentric distance"
+    },
+    {
+        "日心緯度": "heliocentric latitude"
+    },
+    {
+        "日心經度": "heliocentric longitude"
+    },
+    {
+        "日心軌道": "heliocentric orbit"
+    },
+    {
+        "太陽地球物理［學］": "heliogeophysics"
+    },
+    {
+        "日照儀": "heliograph"
+    },
+    {
+        "日面圖": "heliographic chart"
+    },
+    {
+        "日面坐標": "heliographic coordinates"
+    },
+    {
+        "日面緯度": "heliographic latitude"
+    },
+    {
+        "日面經度": "heliographic longitude"
+    },
+    {
+        "日面極": "heliographic pole"
+    },
+    {
+        "日面緯度": "heliolatitude"
+    },
+    {
+        "日面經度": "heliolongitude"
+    },
+    {
+        "日磁層頂": "heliopause"
+    },
+    {
+        "太陽圈": "heliosphere"
+    },
+    {
+        "亥姆霍玆不穩度": "Helmholtz instability"
+    },
+    {
+        "半球": "hemisphere"
+    },
+    {
+        "赫玆": "hertz"
+    },
+    {
+        "赫玆伯帶": "Herzberg band"
+    },
+    {
+        "非均質層": "heterosphere"
+    },
+    {
+        "高頻波": "HF wave"
+    },
+    {
+        "高能天文物理［學］": "high energy astrophysics"
+    },
+    {
+        "高能粒子": "high energy particle"
+    },
+    {
+        "高緯": "high latitude"
+    },
+    {
+        "高緯電離層": "high latitude ionosphere"
+    },
+    {
+        "高緯沉降區": "high latitude precipitation region"
+    },
+    {
+        "高緯副暴": "high latitude substorm"
+    },
+    {
+        "高磁緯": "high magnetic latitude"
+    },
+    {
+        "高分辨率；高解析度": "high resolution"
+    },
+    {
+        "高太陽活動性": "high solar activity"
+    },
+    {
+        "高真空": "high vacuum"
+    },
+    {
+        "高軌衛星": "high-altitude satellite"
+    },
+    {
+        "大扁度軌道": "high-eccentric orbit"
+    },
+    {
+        "高能尾端｛能譜的｝": "high-energy tail"
+    },
+    {
+        "高傾角軌道": "high-inclination orbit"
+    },
+    {
+        "高緯邊界": "high-latitude boundary"
+    },
+    {
+        "高緯區": "high-latitude region"
+    },
+    {
+        "高空氣球": "high-level balloon"
+    },
+    {
+        "大扁度橢圓軌道": "highly elliptical orbit"
+    },
+    {
+        "大扁度橢圓軌道": "highly elongated orbit"
+    },
+    {
+        "高通濾波[器]": "high-pass filter"
+    },
+    {
+        "高導磁材料；高磁導材料": "high-permeability material"
+    },
+    {
+        "嘶聲": "hiss"
+    },
+    {
+        "直方圖": "histogram"
+    },
+    {
+        "風徑圖；速端曲線": "hodograph"
+    },
+    {
+        "霍曼轉移軌道": "Hohmann transfer orbit"
+    },
+    {
+        "引導；歸航": "homing"
+    },
+    {
+        "歸航信標": "homing beacon"
+    },
+    {
+        "歸航導引": "homing guidance"
+    },
+    {
+        "均勻性": "homogeneity"
+    },
+    {
+        "均勻的": "homogeneous"
+    },
+    {
+        "均質大氣": "homogeneous atmosphere"
+    },
+    {
+        "均質面": "homogeneous surface"
+    },
+    {
+        "均質層頂": "homopause"
+    },
+    {
+        "均質層": "homosphere"
+    },
+    {
+        "跳躍｛電波反射的｝": "hop"
+    },
+    {
+        "地平": "horizon"
+    },
+    {
+        "水平感測器；水平感應器": "horizon sensor"
+    },
+    {
+        "水平軸": "horizontal axis"
+    },
+    {
+        "地平圈": "horizontal circle"
+    },
+    {
+        "水平分量": "horizontal component"
+    },
+    {
+        "水平擴散": "horizontal diffusion"
+    },
+    {
+        "水平要素": "horizontal element"
+    },
+    {
+        "水平層狀": "horizontally stratified"
+    },
+    {
+        "喇叭形區域": "horn-shaped region"
+    },
+    {
+        "馬蹄形極光": "horseshoe type aurora"
+    },
+    {
+        "熱電漿": "hot plasma"
+    },
+    {
+        "霍夫函數": "Hough function"
+    },
+    {
+        "時角": "hour angle"
+    },
+    {
+        "時圈": "hour circle"
+    },
+    {
+        "時均值": "hourly average"
+    },
+    {
+        "時均值": "hourly mean"
+    },
+    {
+        "哈伯太空望遠鏡": "Hubble Space Telescope"
+    },
+    {
+        "尤金帶": "Huggins band"
+    },
+    {
+        "颶風": "hurricane"
+    },
+    {
+        "混合頻率": "hybrid frequency"
+    },
+    {
+        "水合物": "hydrate"
+    },
+    {
+        "烴；碳氫化合物": "hydrocarbon"
+    },
+    {
+        "氫譜斑": "hydrogen flocculus"
+    },
+    {
+        "氫氣暉": "hydrogen glow"
+    },
+    {
+        "氫譜線": "hydrogen line"
+    },
+    {
+        "過氧化氫": "hydrogen peroxide"
+    },
+    {
+        "氫日珥": "hydrogen prominence"
+    },
+    {
+        "磁流體震波": "hydromagnetic shock wave"
+    },
+    {
+        "磁流體波": "hydromagnetic wave"
+    },
+    {
+        "磁流體力學": "hydromagnetics"
+    },
+    {
+        "流體靜力方程": "hydrostatic equation"
+    },
+    {
+        "流體靜力平衡": "hydrostatic equilibrium"
+    },
+    {
+        "流體靜力模式": "hydrostatic model"
+    },
+    {
+        "吸濕的": "hygroscopic"
+    },
+    {
+        "超高音速": "hypersonic"
+    },
+    {
+        "超高音速流": "hypersonic flow"
+    },
+    {
+        "遲滯效應": "hysteresis effect"
+    },
+    {
+        "場沿電導率": "field alien conductivity"
+    },
+    {
+        "極光沉降": "aurora precipitation"
+    },
+    {
+        "崩陷": "collapse"
+    },
+    {
+        "差動通量": "differential flux"
+    },
+    {
+        "昏晨": "dusk dawn"
+    },
+    {
+        "電噴流": "electric jet"
+    },
+    {
+        "布拉格條件": "Bragg condition"
+    },
+    {
+        "日冕加熱": "coronal heating"
+    },
+    {
+        "電子譜": "electron spectrum"
+    },
+    {
+        "日間電離層": "daytime ionosphere"
+    },
+    {
+        "赤道離化異常": "equatorial ionization anomaly (EIA)"
+    },
+    {
+        "全球導航衛星系統": "global navigation satellite system (GNSS)"
+    },
+    {
+        "反相": "anti-phase"
+    },
+    {
+        "升軌": "ascending leg"
+    },
+    {
+        "降軌": "descending leg"
+    },
+    {
+        "全天成像儀": "all-sky imager"
+    },
+    {
+        "人為誤差": "human error"
+    },
+    {
+        "振幅閃爍": "amplitude scintillation"
+    },
+    {
+        "日冕物質拋射": "corona mass ejection"
+    },
+    {
+        "複雜區": "complex region"
+    },
+    {
+        "壓縮波": "compression wave"
+    },
+    {
+        "極光沉降": "auroral precipitation"
+    },
+    {
+        "冰核": "ice nucleus"
+    },
+    {
+        "冰晶核": "ice-crystal nucleus"
+    },
+    {
+        "理想氣體": "ideal gas"
+    },
+    {
+        "影像管": "image tube"
+    },
+    {
+        "衝擊加速度": "impact acceleration"
+    },
+    {
+        "撞擊區；著陸區": "impact area"
+    },
+    {
+        "撞擊點": "impact point"
+    },
+    {
+        "撞擊帶": "impact zone"
+    },
+    {
+        "阻抗探針": "impedance probe"
+    },
+    {
+        "非守恆型散射": "imperfect scattering"
+    },
+    {
+        "閃焰級別": "importance of a flare"
+    },
+    {
+        "脈衝性加熱": "impulsive heating"
+    },
+    {
+        "脈衝波": "impulsive wave"
+    },
+    {
+        "降軌段": "in bound leg"
+    },
+    {
+        "同相位；同相": "in phase"
+    },
+    {
+        "入射；入射角；攻角": "incidence"
+    },
+    {
+        "入射波": "incident wave"
+    },
+    {
+        "傾角；水平差": "inclination"
+    },
+    {
+        "傾斜軌道": "inclined orbit"
+    },
+    {
+        "磁傾儀": "inclinometer"
+    },
+    {
+        "非同調": "incoherent"
+    },
+    {
+        "非相干反向散射雷達": "incoherent backscatter"
+    },
+    {
+        "非同相散射；異調散射": "incoherent scatter"
+    },
+    {
+        "非同相散射雷達；異調散射雷達": "incoherent scatter radar（ISR）"
+    },
+    {
+        "指數；指標": "index"
+    },
+    {
+        "折射率；折射指數": "index of refraction"
+    },
+    {
+        "指示器": "indicator"
+    },
+    {
+        "間接效應": "indirect effect"
+    },
+    {
+        "感應": "induction"
+    },
+    {
+        "感生阻力": "induction drag"
+    },
+    {
+        "非彈性碰撞": "inelastic collision"
+    },
+    {
+        "惰性氣體": "inert gas"
+    },
+    {
+        "慣性漂移": "inertia drift"
+    },
+    {
+        "慣性漂移速度": "inertia drift velocity"
+    },
+    {
+        "慣性力": "inertia force"
+    },
+    {
+        "慣性項": "inertia term"
+    },
+    {
+        "慣性軸": "inertial axis"
+    },
+    {
+        "慣性座標系": "inertial coordinate system"
+    },
+    {
+        "慣性導引": "inertial guidance"
+    },
+    {
+        "慣性質量": "inertial mass"
+    },
+    {
+        "慣性導航": "inertial navigation"
+    },
+    {
+        "慣性軌道": "inertial orbit"
+    },
+    {
+        "慣性空間": "inertial space"
+    },
+    {
+        "慣性速度": "inertial velocity"
+    },
+    {
+        "內行星": "inferior planet"
+    },
+    {
+        "紅外；紅外線": "infrared"
+    },
+    {
+        "紅外線": "infrared ray"
+    },
+    {
+        "紅外探測器；紅外感測器": "infrared sensor"
+    },
+    {
+        "紅外窗區": "infrared window"
+    },
+    {
+        "不均勻": "inhomogeneity"
+    },
+    {
+        "不均勻電漿": "inhomogeneous"
+    },
+    {
+        "初始條件": "initial conditions"
+    },
+    {
+        "初［始壓縮］相": "initial phase"
+    },
+    {
+        "注入；入軌 {衛星飛船}": "injection"
+    },
+    {
+        "內［日］冕": "inner corolla"
+    },
+    {
+        "內磁層": "inner magnetosphere"
+    },
+    {
+        "內行星": "inner planet"
+    },
+    {
+        "內質子帶": "inner proton belt"
+    },
+    {
+        "內輻射帶": "inner radiation belt"
+    },
+    {
+        "內管 {指磁力管}": "inner tube"
+    },
+    {
+        "同相": "in-phase"
+    },
+    {
+        "入軌": "insertion"
+    },
+    {
+        "日射；日照": "insolation"
+    },
+    {
+        "不穩定": "instability"
+    },
+    {
+        "瞬間視野": "instantaneous FOV"
+    },
+    {
+        "積分密度譜": "integral density spectrum"
+    },
+    {
+        "積分通量": "integral flux"
+    },
+    {
+        "累積效應": "integrated effect"
+    },
+    {
+        "積分譜": "integrated spectrum"
+    },
+    {
+        "強度": "intensity"
+    },
+    {
+        "互擾日珥": "interacting prominence"
+    },
+    {
+        "交互作用": "interaction"
+    },
+    {
+        "交換不穩定［性］": "interchange instability"
+    },
+    {
+        "互相連接；互連": "interconnection"
+    },
+    {
+        "洲際彈道飛彈": "intercontinental ballistic missile"
+    },
+    {
+        "跨領域": "interdiscipline"
+    },
+    {
+        "干涉；干擾": "interference"
+    },
+    {
+        "干涉濾波器": "interference filter"
+    },
+    {
+        "干涉計；干涉儀": "interferometer"
+    },
+    {
+        "星系際氣體": "intergalactic"
+    },
+    {
+        "國際地磁和高層大氣物理協會": "International Association of Geomagnetism and Aeronomy （ IAGA）"
+    },
+    {
+        "國際民用航空組織": "International Civil Aviation Organization （ICAO）"
+    },
+    {
+        "國際科學聯合會理事會": "International Council of Scientific Unions （ICSU）"
+    },
+    {
+        "國際換日線": "International Date Line (IDL)"
+    },
+    {
+        "國際地磁參考場": "International Geomagnetic Reference Field （IGRF）"
+    },
+    {
+        "國際地球物理年": "International Geophysical Year （ IGY）"
+    },
+    {
+        "國際磁層研究": "International Magnetospheric Study（ IMS）"
+    },
+    {
+        "國際極年": "International Polar Year （IPY）"
+    },
+    {
+        "國際寧靜太陽年": "International Quiet Sun Year （IQSY）"
+    },
+    {
+        "國際參照大氣": "International Reference Atmosphere"
+    },
+    {
+        "國際參考電離層": "International Reference Ionosphere （IRI）"
+    },
+    {
+        "國際大地測量與地球物理學聯合會": "International Union of Geodesy and Geophysics (IUGG)"
+    },
+    {
+        "國際無線電科學聯合會": "International Union of Radio Science （IURSI）"
+    },
+    {
+        "行星際": "interplaneatary"
+    },
+    {
+        "行星際磁場": "interplanetary magnetic field"
+    },
+    {
+        "行星際磁場": "Interplanetary Magnetic Field（ IMF）"
+    },
+    {
+        "行星際震波": "interplanetary shock"
+    },
+    {
+        "行星際空間；行星際太空": "interplanetary space"
+    },
+    {
+        "衛星間鏈路": "inter-satellite link"
+    },
+    {
+        "星際": "interstellar"
+    },
+    {
+        "星際磁場": "interstellar magnetic field"
+    },
+    {
+        "星際空間": "interstellar space"
+    },
+    {
+        "星際風": "interstellar wind"
+    },
+    {
+        "區間": "interval"
+    },
+    {
+        "本徵亮度；本質亮度": "intrinsic brightness"
+    },
+    {
+        "積分不變量": "invariant"
+    },
+    {
+        "不變磁座標": "invariant geomagnetic coordinate"
+    },
+    {
+        "不變緯度；固有緯度": "invariant latitude"
+    },
+    {
+        "不變平面｛太陽系的｝": "invariant plane"
+    },
+    {
+        "逆溫層": "inversion layer"
+    },
+    {
+        "向內": "inward"
+    },
+    {
+        "離子捕獲": "ion capture"
+    },
+    {
+        "離子雲": "ion cloud"
+    },
+    {
+        "離子團": "ion cluster"
+    },
+    {
+        "離子成分": "ion composition"
+    },
+    {
+        "離子濃度": "ion concentration"
+    },
+    {
+        "離子含量": "ion content"
+    },
+    {
+        "離子計數器": "ion counter"
+    },
+    {
+        "離子電流": "ion current"
+    },
+    {
+        "離子迴旋頻率": "ion cyclotron frequency"
+    },
+    {
+        "離子迴旋共振": "ion cyclotron resonance"
+    },
+    {
+        "離子迴旋波": "ion cyclotron wave"
+    },
+    {
+        "離子密度": "ion density"
+    },
+    {
+        "離子擴散": "ion diffusion"
+    },
+    {
+        "離子拖曳": "ion drag"
+    },
+    {
+        "離子引擎": "ion engine"
+    },
+    {
+        "離子計": "ion gauge"
+    },
+    {
+        "離子質譜計": "ion mass spectrometer"
+    },
+    {
+        "離子遷移率": "ion mobility"
+    },
+    {
+        "離子對": "ion pair"
+    },
+    {
+        "離子生成": "ion production"
+    },
+    {
+        "離子譜儀": "ion spectrometer"
+    },
+    {
+        "離子溫度": "ion temperature"
+    },
+    {
+        "離子捕集器": "ion trap"
+    },
+    {
+        "離子波": "ion wave"
+    },
+    {
+        "離子聲波不穩定": "ion-acoustic instability"
+    },
+    {
+        "離子聲模": "ion-acoustic mode"
+    },
+    {
+        "離子聲波": "ionacoustic wave"
+    },
+    {
+        "離子原子交換": "ion-atom interchange reaction"
+    },
+    {
+        "離子原子重新排列": "ion-atom rearrangement"
+    },
+    {
+        "離子複合": "ionic recombination"
+    },
+    {
+        "離子－離子中和": "ion-ion neutralization"
+    },
+    {
+        "游離；電離": "ionization"
+    },
+    {
+        "離子－中性粒子碰撞": "ion-neutral collision"
+    },
+    {
+        "電離圖": "ionogram"
+    },
+    {
+        "電離層頂": "ionopause"
+    },
+    {
+        "電離層探測儀": "ionosonde"
+    },
+    {
+        "電離層": "ionosphere"
+    },
+    {
+        "電離層－大氣層耦合": "ionosphere-atmosphere coupling"
+    },
+    {
+        "電離層－大氣層交互作用": "ionosphere-atmosphere interaction"
+    },
+    {
+        "電離層－磁層耦合": "ionosphere-magnetosphere coupling"
+    },
+    {
+        "電離層－磁層交互作用": "ionosphere-magnetosphere interaction"
+    },
+    {
+        "電離層的": "ionospheric"
+    },
+    {
+        "電離層吸收": "ionospheric absorption"
+    },
+    {
+        "電離層特性": "ionospheric characteristics"
+    },
+    {
+        "電離層電導率": "ionospheric conductivity"
+    },
+    {
+        "電離層地球共轉電場": "ionospheric corotation electric field"
+    },
+    {
+        "電離層電流系統": "ionospheric current system"
+    },
+    {
+        "電離層擾亂": "ionospheric disturbance"
+    },
+    {
+        "電離層D域": "ionospheric D-region"
+    },
+    {
+        "電離層發電機": "ionospheric dynamo"
+    },
+    {
+        "電離層食": "ionospheric eclipse"
+    },
+    {
+        "電離層效應": "ionospheric effect"
+    },
+    {
+        "電離層E域": "ionospheric E-region"
+    },
+    {
+        "人工加熱電離層": "ionospheric heating modification"
+    },
+    {
+        "電離層不規則體": "ionospheric irregularity"
+    },
+    {
+        "電離層高度": "ionospheric level"
+    },
+    {
+        "電離層觀測臺": "ionospheric observatory"
+    },
+    {
+        "電離層參數": "ionospheric parameter"
+    },
+    {
+        "電離層電漿": "ionospheric plasma"
+    },
+    {
+        "電離層電位；電離層電勢": "ionospheric potential"
+    },
+    {
+        "電離層探針": "Ionospheric probe"
+    },
+    {
+        "電離層探測": "ionospheric probing"
+    },
+    {
+        "電離層廓線": "ionospheric profile"
+    },
+    {
+        "電離層傳播": "ionospheric propagation"
+    },
+    {
+        "電離層傳播延遲": "ionospheric propagation delay"
+    },
+    {
+        "電離層觀測量": "ionospheric properties"
+    },
+    {
+        "電離層域": "ionospheric region"
+    },
+    {
+        "電離層響應": "ionospheric response"
+    },
+    {
+        "電離層閃爍": "Ionospheric scintillation"
+    },
+    {
+        "電離層探測": "ionospheric sounding"
+    },
+    {
+        "電離層磁靜日電流": "ionospheric Sq current"
+    },
+    {
+        "電離層暴": "ionospheric storm"
+    },
+    {
+        "電離層結構": "ionospheric structure"
+    },
+    {
+        "電離層潮": "ionospheric tide"
+    },
+    {
+        "電離層波": "ionospheric wave"
+    },
+    {
+        "不規則體": "irregularity"
+    },
+    {
+        "等異常線": "isanomaly"
+    },
+    {
+        "等異常圖": "isoanomaly maps"
+    },
+    {
+        "極光等頻線": "isoaurore"
+    },
+    {
+        "等壓線": "isobar"
+    },
+    {
+        "等壓面圖；等壓線圖": "isobaric chart"
+    },
+    {
+        "等壓線": "isobaric line"
+    },
+    {
+        "等壓面": "isobaric surface"
+    },
+    {
+        "等壓線": "isobarometric line"
+    },
+    {
+        "極光等頻線": "isochasm"
+    },
+    {
+        "等磁傾線": "isocline"
+    },
+    {
+        "等［磁］力線；等強度線": "isodynamic"
+    },
+    {
+        "等地磁強度圖": "isodynamic map"
+    },
+    {
+        "等磁偏角的": "isogonic"
+    },
+    {
+        "等偏線": "isogons"
+    },
+    {
+        "等磁線": "isomagnetic line"
+    },
+    {
+        "等磁力圖": "isomagnetic map"
+    },
+    {
+        "等壓線": "isopiestics"
+    },
+    {
+        "等值線": "isopleth"
+    },
+    {
+        "地磁變線": "isopore"
+    },
+    {
+        "等磁變線": "isoporic"
+    },
+    {
+        "等磁變線": "isoporic line"
+    },
+    {
+        "等溫大氣": "isothermal atmosphere"
+    },
+    {
+        "等溫層": "isothermal layer"
+    },
+    {
+        "等值線": "isotimic"
+    },
+    {
+        "同位素": "isotope"
+    },
+    {
+        "同位素示蹤物": "isotopic tracer"
+    },
+    {
+        "均向的": "isotropic"
+    },
+    {
+        "各向同性；均向性": "isotropy"
+    },
+    {
+        "噴流": "jet"
+    },
+    {
+        "噴射推進實驗室": "Jet Propulsion Laboratory (JPL)"
+    },
+    {
+        "噴流": "jet stream"
+    },
+    {
+        "木星磁層": "Jovian magnetosphere"
+    },
+    {
+        "類木行星": "Jovian planet"
+    },
+    {
+        "跳躍條件": "jump condition"
+    },
+    {
+        "木星": "Jupiter"
+    },
+    {
+        "木星紅斑": "Jupiter red spot"
+    },
+    {
+        "K日冕": "K corona"
+    },
+    {
+        "地磁K指數": "K index"
+    },
+    {
+        "克氏溫度；絕對溫度": "Kelvin temperature"
+    },
+    {
+        "克爾文波": "Kelvin wave"
+    },
+    {
+        "甘迺迪太空中心": "Kennedy Space Center"
+    },
+    {
+        "啟動發動機": "kick motor"
+    },
+    {
+        "運動學": "kinematics"
+    },
+    {
+        "動力及磁性流體力學理論": "kinetic and MHD theory"
+    },
+    {
+        "動能密度": "kinetic energy density"
+    },
+    {
+        "運動溫度": "kinetic temperature"
+    },
+    {
+        "動力學": "kinetics"
+    },
+    {
+        "扭曲不穩定": "kink instability"
+    },
+    {
+        "基爾霍夫定律": "Kirchhoff’s laws"
+    },
+    {
+        "克莍恩西名公式": "Klein-Nishina formula"
+    },
+    {
+        "突降": "knee"
+    },
+    {
+        "地磁K指數": "K index"
+    },
+    {
+        "分子氮離子": "N2+ ion"
+    },
+    {
+        "天底[點]": "nadir"
+    },
+    {
+        "負離子": "nagative ion"
+    },
+    {
+        "奈秒": "nanosecond"
+    },
+    {
+        "窄帶濾波器": "narrow band filter"
+    },
+    {
+        "美國國家航空暨太空總署": "National Aeronautics and Space Administration (NASA)"
+    },
+    {
+        "美國國家海洋大氣總署": "National Oceanic and Atomospherifc Administration (NOAA)"
+    },
+    {
+        "自然周期；固有周期": "natural period"
+    },
+    {
+        "導航；航行": "navigation"
+    },
+    {
+        "導航衛星": "navigation satellite"
+    },
+    {
+        "導航星衛星": "Navstar satellite"
+    },
+    {
+        "海軍導航衛星系統": "Navy Navigation Satellite System (NNSS)"
+    },
+    {
+        "近紅外線": "near infrared"
+    },
+    {
+        "近極地軌道": "near polar orbit"
+    },
+    {
+        "近實時；近即時": "near real time"
+    },
+    {
+        "近紫外": "near ultraviolet"
+    },
+    {
+        "負異常": "negative anomaly"
+    },
+    {
+        "負電荷": "negative charge"
+    },
+    {
+        "負相關": "negative correlation"
+    },
+    {
+        "負極性": "negative polarity"
+    },
+    {
+        "淨通量": "net flux"
+    },
+    {
+        "中性線": "neutral 1ine"
+    },
+    {
+        "中性空氣": "neutral air"
+    },
+    {
+        "中性大氣": "neutral atmosphere"
+    },
+    {
+        "中性原子": "neutral atom"
+    },
+    {
+        "中性密度": "neutral density"
+    },
+    {
+        "中性氣體": "neutral gas"
+    },
+    {
+        "中性粒子": "neutral particle"
+    },
+    {
+        "中性點": "neutral point"
+    },
+    {
+        "中性片": "neutral sheet"
+    },
+    {
+        "中性面": "neutral surface"
+    },
+    {
+        "中性高層大氣": "neutral upper atmosphere"
+    },
+    {
+        "中性風": "neutral wind"
+    },
+    {
+        "中子通量": "neutron flux"
+    },
+    {
+        "中子星": "neutron star"
+    },
+    {
+        "中性層項": "neutropause"
+    },
+    {
+        "中性層": "neutrosphere"
+    },
+    {
+        "夜氣輝": "night airglow"
+    },
+    {
+        "夜輝": "night glow"
+    },
+    {
+        "夜半球": "night hemisphere"
+    },
+    {
+        "夜輝發射": "nightglow emission"
+    },
+    {
+        "夜側": "nightside"
+    },
+    {
+        "夜側極光": "nightside aurora"
+    },
+    {
+        "夜側電離層": "nightside ionosphere"
+    },
+    {
+        "夜側磁層": "nightside magnetosphere"
+    },
+    {
+        "夜天輻射": "night-sky radiation"
+    },
+    {
+        "夜間": "nighttime"
+    },
+    {
+        "夜間電離層": "nighttime ionosphere"
+    },
+    {
+        "氮原子": "nitrogen atom"
+    },
+    {
+        "夜光雲": "noctilucent cloud"
+    },
+    {
+        "夜間冷卻": "nocturnal cooling"
+    },
+    {
+        "夜間輻射": "nocturnal radiation"
+    },
+    {
+        "交點線；節線": "nodal line"
+    },
+    {
+        "節面": "nodal plane"
+    },
+    {
+        "交點；節點": "node"
+    },
+    {
+        "交點月": "nodical month"
+    },
+    {
+        "雜訊；噪音": "noise"
+    },
+    {
+        "雜訊溫度": "noise temperature"
+    },
+    {
+        "線規圖；列線圖": "nomogram"
+    },
+    {
+        "非偏向吸收": "nondeviate absorption"
+    },
+    {
+        "非線性波": "nonlinear wave"
+    },
+    {
+        "非線性現象": "nonlinear phenomena"
+    },
+    {
+        "（正）午": "noon"
+    },
+    {
+        "正態分布": "normal distribution"
+    },
+    {
+        "正射；垂直入射": "normal incidence"
+    },
+    {
+        "常態；正常的；標準的；正交的；法線": "normal"
+    },
+    {
+        "常態大氣": "normal atmosphere"
+    },
+    {
+        "法向分量": "normal component"
+    },
+    {
+        "正則方程；正規方程": "normal equation"
+    },
+    {
+        "正模": "normal mode"
+    },
+    {
+        "標準化；常態化": "normalization"
+    },
+    {
+        "歸一密度": "normalized density"
+    },
+    {
+        "北極": "north pole"
+    },
+    {
+        "北上[軌]道": "northbound"
+    },
+    {
+        "北半球": "northern hemisphere"
+    },
+    {
+        "北向分量": "northward component"
+    },
+    {
+        "鼻錐; 前錐體": "nose cone"
+    },
+    {
+        "新星": "nova"
+    },
+    {
+        "核分裂": "nuclear fission"
+    },
+    {
+        "核融合": "nuclear fusion"
+    },
+    {
+        "核旋進動磁力計": "nuclear precession magnetometer"
+    },
+    {
+        "核反應": "nuclear reaction"
+    },
+    {
+        "致核效應": "nucleating effects"
+    },
+    {
+        "冰核生成": "nucleation formation"
+    },
+    {
+        "核子": "nucleon"
+    },
+    {
+        "核子成分": "nucleonic component"
+    },
+    {
+        "數密度": "number density"
+    },
+    {
+        "數值孔徑": "numerical aperture"
+    },
+    {
+        "數值編碼": "numerical coding"
+    },
+    {
+        "數值預報": "numerical forecasting"
+    },
+    {
+        "數值方法": "numerical method"
+    },
+    {
+        "數值模擬": "numerical modeling"
+    },
+    {
+        "數值模擬": "numerical simulation"
+    },
+    {
+        "數值解": "numerical solution"
+    },
+    {
+        "章動": "nutation"
+    },
+    {
+        "扁球；扁球面": "oblate spheroid"
+    },
+    {
+        "扁率": "oblateness"
+    },
+    {
+        "斜磁流體震波": "oblique hydromagnetic shock"
+    },
+    {
+        "斜投射； 斜入射": "oblique incidence"
+    },
+    {
+        "斜震波": "oblique shock"
+    },
+    {
+        "斜向探測": "oblique sounding"
+    },
+    {
+        "斜度": "obliquity"
+    },
+    {
+        "觀測台；觀象台": "observatory"
+    },
+    {
+        "觀測台站": "observing station"
+    },
+    {
+        "掩星": "occultation"
+    },
+    {
+        "發生頻次；發生頻率": "occurrence frequency"
+    },
+    {
+        "增加的海洋蒸發": "ocean evaporation"
+    },
+    {
+        "海氣交互作用": "ocean-atmosphere interaction"
+    },
+    {
+        "八極子": "octupole"
+    },
+    {
+        "奇周": "odd cycle"
+    },
+    {
+        "奧斯特（磁場強度單位）": "Oersted"
+    },
+    {
+        "歐姆加熱": "ohmic heating"
+    },
+    {
+        "全向": "omnidirection"
+    },
+    {
+        "飛行電腦； 機載電腦": "on-board computer (OBC)"
+    },
+    {
+        "起始； 肇始": "onset"
+    },
+    {
+        "不透明性； 蔽光性": "opacity"
+    },
+    {
+        "不透明的": "opaque"
+    },
+    {
+        "開［磁］力線　開放式力線": "open field line"
+    },
+    {
+        "開磁層模型； 開放式磁層模型無": "open magnetospheric model"
+    },
+    {
+        "操作，運算，運行，作業": "operation"
+    },
+    {
+        "操作的，工作的，控制的，作業的，運行的，運算的": "operational"
+    },
+    {
+        "算子；算符；操作員": "operator"
+    },
+    {
+        "視光極光": "optical aurora"
+    },
+    {
+        "光學厚度；光學深度": "optical depth"
+    },
+    {
+        "光程": "optical distance"
+    },
+    {
+        "光學路徑；光程": "optical path"
+    },
+    {
+        "光泵": "optical pump"
+    },
+    {
+        "光學窗": "optical window"
+    },
+    {
+        "光學": "optics"
+    },
+    {
+        "軌道": "orbit"
+    },
+    {
+        "軌道控制": "orbit control"
+    },
+    {
+        "軌道測定；測軌": "orbit determination"
+    },
+    {
+        "入軌": "orbit injection"
+    },
+    {
+        "軌道編號": "orbit number"
+    },
+    {
+        "軌道周期": "orbit period"
+    },
+    {
+        "軌道擾動": "orbit perturbation"
+    },
+    {
+        "軌道面": "orbit plane"
+    },
+    {
+        "軌道轉換": "orbit transfer"
+    },
+    {
+        "軌道衰減": "orbital decay"
+    },
+    {
+        "軌道要素": "orbital element"
+    },
+    {
+        "軌道傾角": "orbital inclination"
+    },
+    {
+        "軌道參數": "orbital parameter"
+    },
+    {
+        "軌道周期": "orbital period"
+    },
+    {
+        "軌道速度": "orbital velocity"
+    },
+    {
+        "軌道飛行器； 軌道船": "Orbiter"
+    },
+    {
+        "軌道太陽觀察台": "Orbiting Solar Observatory (OSO)"
+    },
+    {
+        "正常模": "ordinary mode"
+    },
+    {
+        "正常射線": "ordinary ray"
+    },
+    {
+        "正常波跡": "ordinary ray trace"
+    },
+    {
+        "正常波": "ordinary wave"
+    },
+    {
+        "縱坐標": "ordinate"
+    },
+    {
+        "有機懸浮顆粒": "organic aerosol"
+    },
+    {
+        "有機閃爍體": "organic scintillator"
+    },
+    {
+        "原點；起源": "origin"
+    },
+    {
+        "正交的": "orthogonal"
+    },
+    {
+        "正交函數": "orthogonal function"
+    },
+    {
+        "正交極化": "orthogonal polarization"
+    },
+    {
+        "振盪": "oscillation"
+    },
+    {
+        "振盪中心": "oscillation center"
+    },
+    {
+        "振子": "oscillator"
+    },
+    {
+        "吻切軌道": "osculating orbit"
+    },
+    {
+        "異相": "out of phase"
+    },
+    {
+        "爆發": "outbreak"
+    },
+    {
+        "外磁層": "outer magnetosphere"
+    },
+    {
+        "外行星": "outer planet"
+    },
+    {
+        "外層空間": "outer space"
+    },
+    {
+        "出紅外輻射": "outgoing infrared radiation"
+    },
+    {
+        "出輻射": "outgoing radiation"
+    },
+    {
+        "截止頻率": "out-off frequency"
+    },
+    {
+        "輸出信號": "output signal"
+    },
+    {
+        "輸出端": "output terminal"
+    },
+    {
+        "極光橢圓帶": "oval-shaped belt"
+    },
+    {
+        "過熱": "overheating"
+    },
+    {
+        "臭氧層": "ozone layer"
+    },
+    {
+        "臭氧送": "ozonesonde"
+    },
+    {
+        "臭氧計": "ozonometer"
+    },
+    {
+        "臭氧層頂": "ozonopause"
+    },
+    {
+        "臭氧層": "ozonosphere"
+    },
+    {
+        "對生": "pair production"
+    },
+    {
+        "拋物面天線": "parabolic antenna"
+    },
+    {
+        "平行電導率": "parallel conductivity"
+    },
+    {
+        "參數; 參量": "parameter"
+    },
+    {
+        "參數化": "parametrization"
+    },
+    {
+        "停駐軌道": "parking orbit"
+    },
+    {
+        "偏相關": "partial correlation"
+    },
+    {
+        "偏食   ": "partial eclipse"
+    },
+    {
+        "日偏食": "partial solar eclipse"
+    },
+    {
+        "粒子轟擊": "particle bombardment"
+    },
+    {
+        "粒子輻射": "particle radiation"
+    },
+    {
+        "粒子散射": "particle scattering"
+    },
+    {
+        "粒子徑跡": "particle track"
+    },
+    {
+        "粒子軌跡": "particle trajectory"
+    },
+    {
+        "微粒": "particulate"
+    },
+    {
+        "懸浮微粒": "particulate matter (PM)"
+    },
+    {
+        "帕斯卡{壓力單位}": "pascal"
+    },
+    {
+        "掃掠; 軌跡": "passage"
+    },
+    {
+        "通帶": "pass-band"
+    },
+    {
+        "被動式衛星": "passive satellite"
+    },
+    {
+        "斑塊；塊斑": "patch"
+    },
+    {
+        "飛行路經；飛行軌道；星下點軌跡": "path"
+    },
+    {
+        "軌跡長度": "path length"
+    },
+    {
+        "全食帶": "path of total eclipse"
+    },
+    {
+        "圖樣；圖型 ": "pattern"
+    },
+    {
+        "酬載；載荷": "payload"
+    },
+    {
+        "酬載專家；載荷專家": "payload specialist"
+    },
+    {
+        "層峰高度；峰值高度": "peak altitude"
+    },
+    {
+        "峰到峰對應": "peak-to-peak correspondence"
+    },
+    {
+        "佩德森電導率": "Pederson conductivity"
+    },
+    {
+        "貫穿；穿透": "penetration"
+    },
+    {
+        "半影": "penumbra"
+    },
+    {
+        "近地軸": "Periapsis"
+    },
+    {
+        "近星點": "periastron"
+    },
+    {
+        "近心點": "pericenter"
+    },
+    {
+        "近月點": "pericynthian"
+    },
+    {
+        "近地點": "perigee"
+    },
+    {
+        "遠地點發動機": "perigee kick motor"
+    },
+    {
+        "近地點發動機": "perigee motor"
+    },
+    {
+        "近日點": "perihelion"
+    },
+    {
+        "周期振盪": "periodic oscillation"
+    },
+    {
+        "周期性": "periodicity"
+    },
+    {
+        "滲透性；磁導率": "permeability"
+    },
+    {
+        "容許譜線": "permitted line"
+    },
+    {
+        "容許躍遷": "permitted transition"
+    },
+    {
+        "垂直通量": "perpendicular flux"
+    },
+    {
+        "微擾；擾動": "perturbation"
+    },
+    {
+        "微擾係數": "perturbation coefficient"
+    },
+    {
+        "微擾法": "perturbation method"
+    },
+    {
+        "微擾理論": "perturbation theory"
+    },
+    {
+        "相；相位": "phase"
+    },
+    {
+        "相位延遲": "phase delay"
+    },
+    {
+        "相位差": "phase difference"
+    },
+    {
+        "相高度": "phase height"
+    },
+    {
+        "磁暴相": "phase of magnetic storm"
+    },
+    {
+        "相程": "phase path"
+    },
+    {
+        "相位閃爍": "phase scintillation"
+    },
+    {
+        "相移": "phase shift"
+    },
+    {
+        "相空間": "phase space"
+    },
+    {
+        "相速率": "phase speed"
+    },
+    {
+        "相速度": "phase velocity"
+    },
+    {
+        "鎖相": "phase-locked"
+    },
+    {
+        "磷光體": "phosphor"
+    },
+    {
+        "光陰極": "photocathode"
+    },
+    {
+        "光電管；光電池": "photocell"
+    },
+    {
+        "光化的；光化學的": "photochemical"
+    },
+    {
+        "光化解離": "photochemical dissociation"
+    },
+    {
+        "光化效應": "photochemical effect"
+    },
+    {
+        "光化平衡": "photochemical equilibrium"
+    },
+    {
+        "光化反應": "photochemical reaction"
+    },
+    {
+        "光化學": "photochemistry"
+    },
+    {
+        "光電導管；光導電池": "photoconductive cell"
+    },
+    {
+        "光解": "photo-decomposition"
+    },
+    {
+        "光致分離；光致脫離": "photodetachment"
+    },
+    {
+        "光離解率": "photodissociation rate"
+    },
+    {
+        "光電吸收": "photoelectric absorption"
+    },
+    {
+        "光電管；光電池": "photoelectric cell"
+    },
+    {
+        "光電流": "photoelectric current"
+    },
+    {
+        "光電效應": "photoelectric effect"
+    },
+    {
+        "光電電離": "photoelectric ionization"
+    },
+    {
+        "光電光度計": "photoelectric photometer"
+    },
+    {
+        "光電測光術": "photoelectric photometry"
+    },
+    {
+        "光電管": "photoelectric tube"
+    },
+    {
+        "光電子": "photoelectron"
+    },
+    {
+        "光電子能譜學": "photoelectron spectroscopy"
+    },
+    {
+        "光激": "photo-excitation"
+    },
+    {
+        "照相底片": "photographic plate"
+    },
+    {
+        "太陽[全色]照片": "photoheliogram"
+    },
+    {
+        "光電離": "photoionization"
+    },
+    {
+        "光電離率": "photoionization rate"
+    },
+    {
+        "光解作用": "photolysis"
+    },
+    {
+        "光度計": "photometer"
+    },
+    {
+        "測光[術]；光度測量": "photometry"
+    },
+    {
+        "光電倍增管": "photomultiplier"
+    },
+    {
+        "光子計數": "photon count"
+    },
+    {
+        "光致複合": "photon-recombination"
+    },
+    {
+        "光偏振計": "photopolarimeter"
+    },
+    {
+        "光球層": "photosphere"
+    },
+    {
+        "光電管": "phototube"
+    },
+    {
+        "皮秒": "picosecond"
+    },
+    {
+        "箍縮效應": "pinch effect"
+    },
+    {
+        "俯仰": "pitch"
+    },
+    {
+        "俯仰角": "pitch angle"
+    },
+    {
+        "平面分層": "planar stratification"
+    },
+    {
+        "普朗克常數": "Planck constant"
+    },
+    {
+        "普朗克函數": "Planck function"
+    },
+    {
+        "行星": "planet"
+    },
+    {
+        "行星天文學": "planetary astronomy"
+    },
+    {
+        "行星大氣": "planetary atmosphere"
+    },
+    {
+        "行星邊界層": "planetary boundary layer"
+    },
+    {
+        "行星艏震波": "planetary bow shock"
+    },
+    {
+        "全球地磁指數；行星地磁指數": "planetary geomagnetic index"
+    },
+    {
+        "行星熱收支": "planetary heat budget"
+    },
+    {
+        "行星地磁指數": "planetary index"
+    },
+    {
+        "行星歲差；行星進動": "planetary precession"
+    },
+    {
+        "行星波": "planetary wave"
+    },
+    {
+        "行星表面學": "planetography"
+    },
+    {
+        "小行星": "planetoid"
+    },
+    {
+        "行星學": "planetology"
+    },
+    {
+        "電漿": "plasma"
+    },
+    {
+        "電漿艙": "plasma chamber"
+    },
+    {
+        "電漿雲": "plasma cloud"
+    },
+    {
+        "電漿對流": "plasma convection"
+    },
+    {
+        "電漿頻散函數": "plasma dispersion function"
+    },
+    {
+        "嚨漿漂移速度": "plasma drift velocity"
+    },
+    {
+        "電漿流": "plasma flow"
+    },
+    {
+        "電漿頻率": "plasma frequency"
+    },
+    {
+        "電漿槍": "plasma gun"
+    },
+    {
+        "電漿不穩定": "plasma instability"
+    },
+    {
+        "電漿幔；電漿函": "plasma mantle"
+    },
+    {
+        "電漿振盪": "plasma oscillation"
+    },
+    {
+        "電漿壓力": "plasma pressure"
+    },
+    {
+        "電漿共振": "plasma resonances"
+    },
+    {
+        "電漿鞘": "plasma sheath"
+    },
+    {
+        "電漿片": "plasma sheet"
+    },
+    {
+        "電漿片邊界": "plasma sheet boundary"
+    },
+    {
+        "電漿尾": "plasma tail"
+    },
+    {
+        "電漿溫度": "plasma temperature"
+    },
+    {
+        "電漿波": "plasma wave"
+    },
+    {
+        "電漿振盪頻率": "plasma-oscillation frequency"
+    },
+    {
+        "電漿層頂": "plasmapause"
+    },
+    {
+        "電漿層": "plasmasphere"
+    },
+    {
+        "冥王星": "Pluto"
+    },
+    {
+        "尖端放電": "point discharge"
+    },
+    {
+        "衝擊點": "point of impact"
+    },
+    {
+        "點源": "point source"
+    },
+    {
+        "帕松分布": "Poisson distribution"
+    },
+    {
+        "帕松方程": "Poisson's equation"
+    },
+    {
+        "極反照率": "polar albedo changes"
+    },
+    {
+        "極角": "polar angle"
+    },
+    {
+        "極軸": "polar axis"
+    },
+    {
+        "極帽；極冠": "polar cap"
+    },
+    {
+        "極帽氣輝": "polar cap glow"
+    },
+    {
+        "極圈": "polar circle"
+    },
+    {
+        "極座標": "polar coordinates"
+    },
+    {
+        "極區電流系統": "polar current system"
+    },
+    {
+        "極尖區": "polar cusp"
+    },
+    {
+        "極晝；永晝": "polar day"
+    },
+    {
+        "極直徑": "polar diameter"
+    },
+    {
+        "極距": "polar distance"
+    },
+    {
+        "極輝": "polar glow"
+    },
+    {
+        "極區電離層": "polar ionosphere"
+    },
+    {
+        "磁力圖": "polar magnetogram"
+    },
+    {
+        "極移": "polar motion"
+    },
+    {
+        "永夜；極夜": "polar night"
+    },
+    {
+        "繞極軌道": "polar orbit"
+    },
+    {
+        "極羽": "polar plumes"
+    },
+    {
+        "極半徑": "polar radius"
+    },
+    {
+        "極雨（指小通量的極光粒子沉降）": "polar rain"
+    },
+    {
+        "極射線（日冕）": "polar rays"
+    },
+    {
+        "極颮": "polar squall"
+    },
+    {
+        "極風": "polar wind"
+    },
+    {
+        "偏振計": "polarimeter"
+    },
+    {
+        "極性": "polarity"
+    },
+    {
+        "可極化電介質": "polarizable dielectric"
+    },
+    {
+        "極化；偏振": "polarization"
+    },
+    {
+        "偏振角": "polarization angles"
+    },
+    {
+        "極化漂移": "polarization drift"
+    },
+    {
+        "極化效應": "polarization effect"
+    },
+    {
+        "偏振橢圓": "polarization ellipses"
+    },
+    {
+        "極化反轉": "polarization reversal"
+    },
+    {
+        "偏振旋轉 ； 極化旋轉": "polarization rotation"
+    },
+    {
+        "偏振輻射": "polarized radiation"
+    },
+    {
+        "極": "pole"
+    },
+    {
+        "黃極": "pole of the ecliptic"
+    },
+    {
+        "赤極": "pole of the equator"
+    },
+    {
+        "向極": "poleward"
+    },
+    {
+        "向極邊界": "poleward boundary"
+    },
+    {
+        "向極邊緣": "poleward edge"
+    },
+    {
+        "向極水平": "poleward horizon"
+    },
+    {
+        "污染": "pollution"
+    },
+    {
+        "垂環場": "poloidal field"
+    },
+    {
+        "多冪模型": "polytrope"
+    },
+    {
+        "多向變性指數": "polytropic index"
+    },
+    {
+        "位置角": "position angle"
+    },
+    {
+        "正灣擾": "positive bay"
+    },
+    {
+        "正電荷": "positive charge"
+    },
+    {
+        "正離子": "positive ions"
+    },
+    {
+        "正粒子": "positive particle"
+    },
+    {
+        "正極性": "positive polarity"
+    },
+    {
+        "正空間電荷": "positive space charges"
+    },
+    {
+        "[帶]正[電的]電離層": "positively charged ionosphere"
+    },
+    {
+        "正子;正電子": "positron"
+    },
+    {
+        "冰後期": "post-glacial time"
+    },
+    {
+        "震波後電漿": "post-shock plasma"
+    },
+    {
+        "震波後太陽風": "post-shock solar wind"
+    },
+    {
+        "暴後": "post-storm"
+    },
+    {
+        "暴後相": "post-storm phase"
+    },
+    {
+        "鉀層": "potassium layer"
+    },
+    {
+        "位差": "potential difference"
+    },
+    {
+        "電位差": "potential double layer"
+    },
+    {
+        "位能；勢能": "potential energy"
+    },
+    {
+        "電位梯度": "potential gradient"
+    },
+    {
+        "位溫": "potential temperature"
+    },
+    {
+        "位溫梯度": "potential temperature gradient"
+    },
+    {
+        "功率密度譜": "power density spectrum"
+    },
+    {
+        "冪律分布": "power law distribution"
+    },
+    {
+        "功率譜密度": "power spectral density"
+    },
+    {
+        "功率譜": "power spectrum"
+    },
+    {
+        "坡印亭向量  ": "Poynting vector"
+    },
+    {
+        "崩離前極光": "pre-breakup aurora"
+    },
+    {
+        "前導黑子": "preceding spot"
+    },
+    {
+        "前導黑子": "preceding sunspot"
+    },
+    {
+        "歲差；進動": "precession"
+    },
+    {
+        "歲差": "precession of the equinoxes"
+    },
+    {
+        "進動": "precessional motion"
+    },
+    {
+        "可降水量": "precipitable water vapor"
+    },
+    {
+        "沉降": "precipitate"
+    },
+    {
+        "沉降電子通量": "precipitating electron fluxes"
+    },
+    {
+        "沉降電子": "precipitating electrons"
+    },
+    {
+        "沉降粒子": "precipitating particles"
+    },
+    {
+        "沉降電漿粒子": "precipitating plasma particles"
+    },
+    {
+        "沉降；降水；降水量；雨量": "precipitation"
+    },
+    {
+        "降水區；沉降區": "precipitation area"
+    },
+    {
+        "沉降通量": "precipitation fluxes"
+    },
+    {
+        "降水指數": "precipitation index"
+    },
+    {
+        "沉降強度": "precipitation intensity"
+    },
+    {
+        "沉降型式": "precipitation pattern"
+    },
+    {
+        "沉降帶": "precipitation zone"
+    },
+    {
+        "前兆；前趨物": "precursor"
+    },
+    {
+        "黎明前": "pre-dawn"
+    },
+    {
+        "黎明前增強": "predawn enhancement"
+    },
+    {
+        "預報": "prediction"
+    },
+    {
+        "預報因子": "predictor"
+    },
+    {
+        "預離解": "predissociation"
+    },
+    {
+        "預電離": "preionization"
+    },
+    {
+        "氣壓圖": "pressure chart"
+    },
+    {
+        "[大氣]壓力場": "pressure field"
+    },
+    {
+        "壓力梯度": "pressure gradiant"
+    },
+    {
+        "壓力艙": "Pressure mudule"
+    },
+    {
+        "高壓脊": "pressure ridge"
+    },
+    {
+        "壓力標高": "pressure scale height"
+    },
+    {
+        "低壓槽": "pressure trough"
+    },
+    {
+        "暴前": "pre-storm"
+    },
+    {
+        "主要分量；優勢成分": "prevailing"
+    },
+    {
+        "初級宇宙[射]線": "primary cosmic radiation"
+    },
+    {
+        "初級宇宙[射]線": "primary cosmic rays"
+    },
+    {
+        "原始電子": "primary electron"
+    },
+    {
+        "主輻射器": "primary horn"
+    },
+    {
+        "初級離子": "primary ion"
+    },
+    {
+        "主要過程": "primary process"
+    },
+    {
+        "初級質子": "primary proton"
+    },
+    {
+        "初級輻射": "primary radiation"
+    },
+    {
+        "本初子午圈；本初子午線": "prime meridian"
+    },
+    {
+        "卯酉圈": "prime vertical"
+    },
+    {
+        "原始大氣": "primitive atmosphere"
+    },
+    {
+        "初[始]軌[道]": "primitive orbit"
+    },
+    {
+        "原生大氣": "primordial atmosphere"
+    },
+    {
+        "大行星": "principal planets"
+    },
+    {
+        "等效原理": "principle of equivalence"
+    },
+    {
+        "共振原理": "principle of resonance"
+    },
+    {
+        "概率": "probability"
+    },
+    {
+        "概率分布": "probability distribution"
+    },
+    {
+        "機率誤差": "probable error"
+    },
+    {
+        "探針；探示器；探測器": "probe"
+    },
+    {
+        "產生；生成": "production"
+    },
+    {
+        "生成機制": "production mechanism"
+    },
+    {
+        "廓線；剖面": "profile"
+    },
+    {
+        "拋射體；射彈（指火箭，導彈等）": "projectile"
+    },
+    {
+        "日珥": "prominence"
+    },
+    {
+        "日珥閃焰": "prominence flare"
+    },
+    {
+        "日珥結": "prominence knot"
+    },
+    {
+        "日珥分光鏡": "prominence spectroscope"
+    },
+    {
+        "日珥流": "prominence streamer"
+    },
+    {
+        "傳播延遲": "propagation delay"
+    },
+    {
+        "傳播波": "propagative wave"
+    },
+    {
+        "原質量；固有質量": "proper mass"
+    },
+    {
+        "自行（恆星的）": "proper motion"
+    },
+    {
+        "質子": "proton"
+    },
+    {
+        "質子極光": "proton aurora"
+    },
+    {
+        "質子極光副暴": "proton aurora substorm"
+    },
+    {
+        "質子帶": "proton belt"
+    },
+    {
+        "質子轟擊": "proton bombardment"
+    },
+    {
+        "質子密度": "proton density"
+    },
+    {
+        "質子離解": "proton dissociation"
+    },
+    {
+        "質子能通量": "proton energy flux"
+    },
+    {
+        "質子事件": "proton event"
+    },
+    {
+        "質子閃焰": "proton flare"
+    },
+    {
+        "質子通量": "proton flux"
+    },
+    {
+        "質子迴旋半徑": "proton gyroradius"
+    },
+    {
+        "質子磁力計": "proton magnetometer"
+    },
+    {
+        "質子質量": "proton mass"
+    },
+    {
+        "質子極光橢圓圈": "proton oval"
+    },
+    {
+        "質子進動磁力計": "Proton precession magnetometer"
+    },
+    {
+        "質子沉降": "proton precipitation"
+    },
+    {
+        "質子暴": "proton storms"
+    },
+    {
+        "質子哨波": "proton whistler"
+    },
+    {
+        "質子極光區": "proton zone"
+    },
+    {
+        "質子迴旋波": "proton-cyclotron wave"
+    },
+    {
+        "質子層": "protonosphere"
+    },
+    {
+        "偽捕獲區": "pseudo trapping region"
+    },
+    {
+        "偽隨機碼": "pseudorandom code"
+    },
+    {
+        "脈衝星": "pulsar"
+    },
+    {
+        "脈動[極光]弧": "pulsating arc"
+    },
+    {
+        "脈動極光": "pulsating aurora"
+    },
+    {
+        "脈動星": "pulsating star"
+    },
+    {
+        "脈動": "pulsation"
+    },
+    {
+        "脈動說": "pulsation theory"
+    },
+    {
+        "脈衝電離室": "pulse ionization chamber"
+    },
+    {
+        "脈波調變": "pulse modulation"
+    },
+    {
+        "脈波調數": "pulse number modulation"
+    },
+    {
+        "脈波調相": "pulse phase modulation"
+    },
+    {
+        "脈衝成形": "pulse shaping"
+    },
+    {
+        "脈衝探測儀": "pulse sounders"
+    },
+    {
+        "脈衝寬度": "pulse width"
+    },
+    {
+        "脈幅調制": "pulse-amplitude modulation"
+    },
+    {
+        "脈衝編碼調制": "pulse-code modulation"
+    },
+    {
+        "脈衝雷射": "pulsed lasers"
+    },
+    {
+        "脈衝雷達": "pulsed radar"
+    },
+    {
+        "脈頻調制": "pulse-frequency modulation"
+    },
+    {
+        "脈高分析器": "pulse-height analyzer"
+    },
+    {
+        "脈高譜": "pulse-height spectrum"
+    },
+    {
+        "脈高調制": "pulse-length modulation"
+    },
+    {
+        "脈時調制": "pulse-time modulation"
+    },
+    {
+        "脈寬調制": "pulse-width modulation"
+    },
+    {
+        "脈動極光": "pulsing aurora"
+    },
+    {
+        "P波": "P-wave"
+    },
+    {
+        "全天空輻射計": "pyranometer"
+    },
+    {
+        "直達日射計": "pyrheliometric pyranometer"
+    },
+    {
+        "象限儀": "quadrant"
+    },
+    {
+        "四極": "quadrupole"
+    },
+    {
+        "四極質譜計": "quadrupole mass spectrometer"
+    },
+    {
+        "量[子]化": "quantization"
+    },
+    {
+        "量子": "quantum"
+    },
+    {
+        "量子產率": "quantum yield"
+    },
+    {
+        "夸克": "quark"
+    },
+    {
+        "類星體": "quasar"
+    },
+    {
+        "準周期擾動": "quasi-periodic perturbations"
+    },
+    {
+        "準兩年振盪": "quasi-biennial oscillation"
+    },
+    {
+        "準平衡分布": "quasi-equilibrium distribution"
+    },
+    {
+        "準均勻的": "quasi-homogeneous"
+    },
+    {
+        "準縱（向）傳播": "quasi-longitudinal propagation"
+    },
+    {
+        "準中性": "quasi-neutrality"
+    },
+    {
+        "準周期變化": "quasi-periodic variation"
+    },
+    {
+        "類星體": "quasi-stellar object"
+    },
+    {
+        "準橫（向）傳播": "quasi-transverse propagation"
+    },
+    {
+        "猝滅反應": "quenching reactions"
+    },
+    {
+        "寧靜光譜": "quiescence spectrum"
+    },
+    {
+        "寧靜宇宙線": "quiescent cosmic ray"
+    },
+    {
+        "寧靜原始輻射": "quiescent primary radiation"
+    },
+    {
+        "寧靜日珥": "quiescent prominence"
+    },
+    {
+        "寧靜極光弧": "quiet auroral arc"
+    },
+    {
+        "寧靜太陽": "quiet sun"
+    },
+    {
+        "寧靜期": "quiet time"
+    },
+    {
+        "皮 ; 兆分之一<Sup>(10-12)</Sup>": "pico-"
+    }
+]

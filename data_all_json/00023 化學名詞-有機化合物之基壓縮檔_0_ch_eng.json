@@ -1,0 +1,3191 @@
+[
+    {
+        "芳氧基": "aroxy;arylox"
+    },
+    {
+        "烷氧基": "alkoxy"
+    },
+    {
+        "【口奈】啶基": "naphthyridinyl"
+    },
+    {
+        "萘氧基": "naphthyloxy"
+    },
+    {
+        "萘次甲基": "naphthylmethylidyne"
+    },
+    {
+        "萘亞甲基": "naphthylmethylene {naphthal}"
+    },
+    {
+        "亞二氫萘基": "naphthylidene"
+    },
+    {
+        "伸萘雙偶氮基": "naphthylenebisazo"
+    },
+    {
+        "伸萘基": "naphthylene"
+    },
+    {
+        "萘偶氮基": "naphthylazo"
+    },
+    {
+        "萘基": "naphthyl"
+    },
+    {
+        "萘甲醯氧基": "naphthoyloxy"
+    },
+    {
+        "萘氧基": "naphthoxy"
+    },
+    {
+        "萘甲醯基 {萘羰基}": "naphthoyl {naphthalenecarbonyl}"
+    },
+    {
+        "萘并[2,3-b]噻吩基": "naphtho[2,3-b]thienyl; thiophanthrenyl"
+    },
+    {
+        "萘次甲基": "naphthenyl"
+    },
+    {
+        "萘二甲醯亞胺基": "naphthalimido"
+    },
+    {
+        "萘羰基 {萘甲醯基}": "naphthalenecarbonyl {naphthoyl}"
+    },
+    {
+        "萘偶氮基": "naphthaleneazo"
+    },
+    {
+        "萘亞甲基": "naphthal {naphthylmethylene}"
+    },
+    {
+        "稠四苯基": "naphthacenyl"
+    },
+    {
+        "肉豆蔻基；十四基": "myristyl"
+    },
+    {
+        "肉豆蔻醯基；十四醯基": "myristoyl"
+    },
+    {
+        "蜜蠟基；三十基": "myricyl"
+    },
+    {
+        "【口末】啉基": "morpholinyl"
+    },
+    {
+        "N-【口末】啉基": "morpholino"
+    },
+    {
+        "1-甲基乙烯基 {異丙烯基}": "1-methylvinyl {isopropenyl}"
+    },
+    {
+        "(甲硫)磺醯基": "(methylthio)sulfonyl"
+    },
+    {
+        "甲硫基": "methylthio"
+    },
+    {
+        "甲磺醯基": "methylsulfonyl"
+    },
+    {
+        "甲磺[醯]亞胺醯基": "methylsulfonimidoyl"
+    },
+    {
+        "甲亞磺醯胺基": "methylsulfinylamino"
+    },
+    {
+        "甲亞磺醯基": "methylsulfinyl"
+    },
+    {
+        "甲亞磺[醯]肟醯基": "methylsulfinohydroximoyl"
+    },
+    {
+        "甲亞磺[醯]腙醯基": "methylsulfinohydrazonoyl"
+    },
+    {
+        "甲亞磺[醯]亞胺醯基": "methylsulfinimidoyl"
+    },
+    {
+        "2-甲基丙烯醯基 {甲基丙烯醯基}": "2-methylpropenoyl {methacryloyl}"
+    },
+    {
+        "羥甲基": "methylol; hydroxymethyl"
+    },
+    {
+        "次甲基": "methylidyne"
+    },
+    {
+        "5-甲基己基": "5-methylhexyl"
+    },
+    {
+        "3,4-亞甲二氧苯甲醯基 {向日葵醯基}": "3,4-methylenedioxybenzoyl {piperonyloyl; heliotropoyl}"
+    },
+    {
+        "亞甲二氧基": "methylenedioxy"
+    },
+    {
+        "亞甲基": "methylene"
+    },
+    {
+        "甲二硫基": "methyldithio"
+    },
+    {
+        "反-甲基丁烯二醯基": "trans-methylbutenedioyl"
+    },
+    {
+        "順-甲基丁烯二醯基": "cis-methylbutenedioyl"
+    },
+    {
+        "3-甲基丁醯基": "3-methylbutanoyl"
+    },
+    {
+        "α-甲苄基": "α-methylbenzyl"
+    },
+    {
+        "甲苄基": "methylbenzyl"
+    },
+    {
+        "甲苯甲醯基": "methylbenzenecarbonoyl; toluoyl"
+    },
+    {
+        "甲(氧偶氮)基": "methylazoxy"
+    },
+    {
+        "甲偶氮基": "methylazo"
+    },
+    {
+        "甲胺基": "methylamino"
+    },
+    {
+        "甲烯丙基": "methylallyl"
+    },
+    {
+        "α-甲基丙烯醯基": "α-methylacryloyl"
+    },
+    {
+        "甲基": "methyl"
+    },
+    {
+        "甲氧磺醯基": "methoxysulfonyl"
+    },
+    {
+        "甲氧亞磺醯基": "methoxysulfinyl"
+    },
+    {
+        "鄰甲氧苯基 {癒創木基}": "o-methoxyphenyl {guaiacyl}"
+    },
+    {
+        "甲氧苯基": "methoxyphenyl"
+    },
+    {
+        "甲氧亞胺基": "methoxyimino"
+    },
+    {
+        "甲氧羰基": "methoxycarbonyl"
+    },
+    {
+        "甲氧硫代磺醯基": "methoxy(thiosulfonyl)"
+    },
+    {
+        "甲氧亞【草卞】基{大茴香亞甲基；甲氧苯亞甲基}": "methoxybenzylidene {anisal; anisylidene}"
+    },
+    {
+        "對甲氧亞苄基": "p-methoxybenzylidene"
+    },
+    {
+        "對甲氧苄基；對甲氧苯甲基": "p-methoxybenzyl"
+    },
+    {
+        "甲氧苯甲醯基 {大茴香醯基}": "methoxybenzoyl {anisoyl}"
+    },
+    {
+        "甲氧苯胺基": "methoxyanilino {anisidino}"
+    },
+    {
+        "甲氧基": "methoxy"
+    },
+    {
+        "甲氧草醯基": "methoxalyl"
+    },
+    {
+        "甲硫胺醯基": "methionyl"
+    },
+    {
+        "次甲基": "methenyl; methylidyne; methine"
+    },
+    {
+        "亞甲基": "methene; methylene"
+    },
+    {
+        "甲醯基": "methanoyl; formyl"
+    },
+    {
+        "甲亞磺醯基": "methanesulfinyl"
+    },
+    {
+        "甲亞磺醯胺基": "methanesulfinamido"
+    },
+    {
+        "甲(氧偶氮)基": "methaneazoxy"
+    },
+    {
+        "甲偶氮基": "methaneazo"
+    },
+    {
+        "甲基烯丙基": "methallyl; 2-methylallyl"
+    },
+    {
+        "甲基丙烯醯基": "methacryloyl"
+    },
+    {
+        "間胺苯磺醯基": "metanilyl"
+    },
+    {
+        "甲磺醯基": "mesyl; methanesulfonyl"
+    },
+    {
+        "中草醯基": "mesoxalyl"
+    },
+    {
+        "α-【草米】基；3,5-二甲苯甲基；3,5-二甲苄基": "α-mesityl"
+    },
+    {
+        "酸中草醯基": "mesoxalo"
+    },
+    {
+        "【草米】基；2,4,6-三甲苯基": "mesityl"
+    },
+    {
+        "中康醯基": "mesaconoyl"
+    },
+    {
+        "巰基；氫硫基": "mercapto"
+    },
+    {
+        "【草孟】基": "menthyl"
+    },
+    {
+        "【艹孟】烯基": "menthenyl"
+    },
+    {
+        "蜜蠟基；三十基": "melissyl"
+    },
+    {
+        "苦杏仁醯基；苯乙醇醯基": "mandeloyl"
+    },
+    {
+        "蘋果醯基 {羥丁二醯基}": "maloyl {hydroxybutanedioyl}"
+    },
+    {
+        "蘋果醯基；羥丁二醯基": "maloyl"
+    },
+    {
+        "丙二醯基": "malonyl"
+    },
+    {
+        "順丁烯二醯基": "maleoyl"
+    },
+    {
+        "離胺醯基": "lysyl"
+    },
+    {
+        "沈香基": "linalyl"
+    },
+    {
+        "白胺醯基": "leucyl"
+    },
+    {
+        "月桂基 {十二基}": "lauryl {dodecyl}"
+    },
+    {
+        "月桂醯基；十二醯基": "lauroyl"
+    },
+    {
+        "羊毛硫胺醯基": "lanthionyl"
+    },
+    {
+        "乳醯基 {2-羥丙醯基}": "lactoyl; lactyl {2-hydroxypropanoyl}"
+    },
+    {
+        "乳醯基": "lactoyl"
+    },
+    {
+        "酮基": "keto"
+    },
+    {
+        "異【口咢】唑基": "isoxazolyl"
+    },
+    {
+        "異【艹法】基": "isoviolanthrenyl"
+    },
+    {
+        "異戊醯基": "isovaleryl"
+    },
+    {
+        "異脲基": "isoureido"
+    },
+    {
+        "異硫脲基": "isothioureido"
+    },
+    {
+        "異硫氰酸基": "isothiocyano"
+    },
+    {
+        "異硫氰基": "isothiocyanato"
+    },
+    {
+        "異噻唑基": "isothiazolyl"
+    },
+    {
+        "異半卡肼": "isosemicarbazido"
+    },
+    {
+        "異硒氰基": "isoselenocyanato"
+    },
+    {
+        "異喹啉基": "isoquinolyl"
+    },
+    {
+        "異丙苯基": "isopropylphenyl"
+    },
+    {
+        "亞異丙基": "isopropylidene"
+    },
+    {
+        "異丙亞苄基": "isopropylbenzylidene"
+    },
+    {
+        "異丙苄基": "isopropylbenzyl"
+    },
+    {
+        "異丙苯甲醯基": "isopropylbenzoyl"
+    },
+    {
+        "異丙基": "isopropyl"
+    },
+    {
+        "異丙氧基": "isopropoxy"
+    },
+    {
+        "異丙烯基": "isopropenyl"
+    },
+    {
+        "異平基": "isoprenyl"
+    },
+    {
+        "亞異酞基 {間苯二亞甲基}": "isophthalylidene"
+    },
+    {
+        "異酞醯基 {間苯二甲醯基}": "isophthaloyl"
+    },
+    {
+        "異戊氧基": "isopentyloxy"
+    },
+    {
+        "次異戊基": "isopentylidyne"
+    },
+    {
+        "異戊基": "isopentyl"
+    },
+    {
+        "亞異戊基": "isopentylidene"
+    },
+    {
+        "異亞硝基 {羥亞胺基}": "isonitroso {oxyamino; oximino}"
+    },
+    {
+        "異亞硝基": "isonitroso"
+    },
+    {
+        "異硝基 {酸硝基}": "isonitro {aci-nitro}"
+    },
+    {
+        "異菸鹼醯基": "isonicotinoyl"
+    },
+    {
+        "異白胺醯基": "isoleucyl"
+    },
+    {
+        "異吲哚基": "isoindolyl"
+    },
+    {
+        "異二氫吲哚基；異吲哚啉基": "isoindolinyl"
+    },
+    {
+        "次異己基": "isohexylidyne"
+    },
+    {
+        "亞異己基": "isohexylidene"
+    },
+    {
+        "異氰基": "isocyano"
+    },
+    {
+        "異己基": "isohexyl"
+    },
+    {
+        "異氰酸基": "isocyanato"
+    },
+    {
+        "異香豆素基": "isocumarinyl"
+    },
+    {
+        "異巴豆醯基；順丁烯醯基": "isocrotonoyl"
+    },
+    {
+        "異香豆素基": "isocoumarinyl"
+    },
+    {
+        "異【口克】基": "isochromanyl"
+    },
+    {
+        "異卡肼基": "isocarbonohydrazido"
+    },
+    {
+        "異丁醯基": "isobutyryl"
+    },
+    {
+        "次異丁基": "isobutylidyne"
+    },
+    {
+        "亞異丁基": "isobutylidene"
+    },
+    {
+        "伸異丁基": "isobutylene"
+    },
+    {
+        "異丁基": "isobutyl"
+    },
+    {
+        "異丁氧基": "isobutoxy"
+    },
+    {
+        "異丁烯基": "isobutenyl"
+    },
+    {
+        "異【草伯】基 {異莰基}": "isobornyl"
+    },
+    {
+        "異苯并呋喃基": "isobenzofuranyl"
+    },
+    {
+        "亞異戊基": "isoamylidene"
+    },
+    {
+        "伸異戊基": "isoamylene"
+    },
+    {
+        "異戊基": "isoamyl"
+    },
+    {
+        "異戊氧基": "isoamoxy"
+    },
+    {
+        "異烯丙基 {1-丙烯基}": "isoallyl {1-propenyl}"
+    },
+    {
+        "二氧碘基": "iodyl"
+    },
+    {
+        "二氧碘基": "iodoxy"
+    },
+    {
+        "氧碘基": "iodosyl"
+    },
+    {
+        "氧碘基": "iodoso"
+    },
+    {
+        "氫碘基": "iodonio"
+    },
+    {
+        "碘甲醯基；碘羰基": "iodoformyl"
+    },
+    {
+        "碘基": "iodo"
+    },
+    {
+        "吲哚基": "indolyl"
+    },
+    {
+        "3-亞吲哚啉基": "3-indolinylidene"
+    },
+    {
+        "亞吲哚啉基；亞二氫吲哚基": "indolinylidene"
+    },
+    {
+        "吲哚啉基；二氫吲哚基": "indolinyl"
+    },
+    {
+        "茚基": "indenyl"
+    },
+    {
+        "吲唑基": "indazolyl"
+    },
+    {
+        "二氫茚基": "indanyl"
+    },
+    {
+        "二環戊二烯并苯基": "indacenyl"
+    },
+    {
+        "亞胺甲胺基": "iminomethylamino"
+    },
+    {
+        "亞胺基": "imino"
+    },
+    {
+        "亞胺基": "imido"
+    },
+    {
+        "咪唑基": "imidazolyl"
+    },
+    {
+        "咪唑啉基；二氫咪唑基": "imidazolinyl"
+    },
+    {
+        "咪唑啶基；四氫咪唑基": "imidazolidyl"
+    },
+    {
+        "四氫咪唑基；咪唑啶基": "imidazolidinyl"
+    },
+    {
+        "二十基": "icosyl"
+    },
+    {
+        "羥丙二醯基": "hydroxypropanedioyl; tartronoyl"
+    },
+    {
+        "羥甲基": "hydroxymethyl"
+    },
+    {
+        "羥基": "hydroxyl {hydroxyl}"
+    },
+    {
+        "羥乙醯基 ": "hydroxyethanoyl"
+    },
+    {
+        "羥丙醯基 {乳醯基}": "2-hydroxypropanoyl {lactoyl}"
+    },
+    {
+        "2-羥-3-甲氧苯甲醯基；2-羥-3-甲氧苄醯基 {香草醯基}": "2-hydroxy-3-methoxybenzoyl {vanilloyl}"
+    },
+    {
+        "羥丁二醯基 {蘋果醯基}": "hydroxybutanedioyl {maloyl}"
+    },
+    {
+        "2-羥亞苄基 {亞柳基}": "2-hydroxybenzylidene {salicylidene}"
+    },
+    {
+        "2-羥苄基 {柳基}": "2-hydroxybenzyl {salicyl}"
+    },
+    {
+        "對羥苯甲醯基；對羥苄醯基": "p-hydroxybenzoyl"
+    },
+    {
+        "鄰羥苯甲醯基；鄰羥苄醯基 {柳醯基}": "o-hydroxybenzoyl {salicyloyl}"
+    },
+    {
+        "間羥苯甲醯基；間羥苄醯基": "m-hydroxybenzoyl"
+    },
+    {
+        "羥胺基": "hydroxyamino"
+    },
+    {
+        "羥基": "hydroxy {hydroxyl}"
+    },
+    {
+        "羥亞胺基": "hydroximino"
+    },
+    {
+        "氫硒基": "hydroseleno"
+    },
+    {
+        "氫過氧基": "hydroperoxy"
+    },
+    {
+        "氫桂皮基 {3-苯丙基}": "hydrocinnamyl"
+    },
+    {
+        "氫桂皮醯基": "hydrocinnamoyl"
+    },
+    {
+        "亞肼基": "hydrazono"
+    },
+    {
+        "伸肼基；氫偶氮基": "hydrazo"
+    },
+    {
+        "肼基": "hydrazino"
+    },
+    {
+        "環肼基": "hydrazi"
+    },
+    {
+        "氫阿托醯基；氫龍葵醯基 {2-苯丙醯基}": "hydratropoyl"
+    },
+    {
+        "大風子基": "hydnocarpyl"
+    },
+    {
+        "大風子醯基": "hydnocarpoyl"
+    },
+    {
+        "脲乙醯基": "hydantoyl"
+    },
+    {
+        "升藜蘆基 {3,4-二甲氧苯乙基}": "homoveratryl {3,4-dimethoxyphenethyl}"
+    },
+    {
+        "升藜蘆醯基 {3,4-二甲氧苯乙醯基}": "homoveratroyl {3,4-dimethoxyphenylacetyl}"
+    },
+    {
+        "高絲胺醯基": "homoseryl"
+    },
+    {
+        "升胡椒基 {3,4-亞甲二氧苯乙基}": "homopiperonyl {3,4-methylenedioxyphenethyl}"
+    },
+    {
+        "高半胱胺醯基": "homocysteinyl"
+    },
+    {
+        "組胺醯基": "histidyl"
+    },
+    {
+        "馬尿醯基": "hippuryl {hippuroyl}"
+    },
+    {
+        "馬尿醯基": "hippuroyl {hippuryl}"
+    },
+    {
+        "己氧基": "hexyloxy"
+    },
+    {
+        "次己基": "hexylidyne"
+    },
+    {
+        "亞己基": "hexylidene"
+    },
+    {
+        "正己基": "n-hexyl"
+    },
+    {
+        "己基": "hexyl"
+    },
+    {
+        "己烯醯基": "hexenoyl"
+    },
+    {
+        "異稠六苯基": "hexaphenyl"
+    },
+    {
+        "己醯胺基": "hexanoylamino"
+    },
+    {
+        "己醯基": "hexanoyl"
+    },
+    {
+        "己二醯基": "hexanedioyl"
+    },
+    {
+        "己醯胺基": "hexanamido"
+    },
+    {
+        "六亞甲基 {1,6伸己基}": "hexamethylene"
+    },
+    {
+        "十六基": "hexadecyl"
+    },
+    {
+        "十六醯基 {軟脂醯基}": "hexadecanoyl {palmitoyl}"
+    },
+    {
+        "二十六基": "hexacosyl"
+    },
+    {
+        "六十基": "hexacontyl"
+    },
+    {
+        "稠六苯基": "hexacenyl"
+    },
+    {
+        "正庚基 {庚基}": "n-heptyl {heptyl}"
+    },
+    {
+        "庚基": "heptyl"
+    },
+    {
+        "異稠七苯基": "heptaphenyl"
+    },
+    {
+        "庚醯基": "heptanoyl {enanthyl}"
+    },
+    {
+        "庚二醯基": "heptanedioyl"
+    },
+    {
+        "庚醯胺基": "heptanamido"
+    },
+    {
+        "并環庚三烯基": "heptalenyl"
+    },
+    {
+        "十七基": "heptadecyl"
+    },
+    {
+        "十七醯基": "heptadecanoyl"
+    },
+    {
+        "二十七基": "heptacosyl"
+    },
+    {
+        "七十基": "heptacontyl"
+    },
+    {
+        "稠七苯基": "heptacenyl"
+    },
+    {
+        "三十一基": "hentriacontyl"
+    },
+    {
+        "二十一基": "heneicosyl"
+    },
+    {
+        "十一基": "hendecyl {undecyl}"
+    },
+    {
+        "一百基": "hectyl"
+    },
+    {
+        "甲脒基": "guanyl {amidino}"
+    },
+    {
+        "甲脒基": "guanyl"
+    },
+    {
+        "胍基": "guanido"
+    },
+    {
+        "胍基": "guanidino"
+    },
+    {
+        "癒創木基 {鄰甲氧苯基}": "guaiacyl {o-methoxyphenyl}"
+    },
+    {
+        "乙醛醯基": "glyoxylyl"
+    },
+    {
+        "乙醛醯基": "glyoxyloyl"
+    },
+    {
+        "乙醛醯基": "glyoxyl"
+    },
+    {
+        "甘胺醯胺基": "glycylamino"
+    },
+    {
+        "甘胺醯基 {胺乙醯基}": "glycyl {aminoacetyl}"
+    },
+    {
+        "羥乙醯基；乙醇醯基": "glycolyl {glycoloyl}"
+    },
+    {
+        "羥乙醯基；乙醇醯基": "glycoloyl"
+    },
+    {
+        "環氧丙基": "glycidyl"
+    },
+    {
+        "甘油醯基 {2,3-二羥丙醯基}": "glyceroyl {2,3-dihydroxypropanoyl}"
+    },
+    {
+        "戊二醯基": "glutaryl"
+    },
+    {
+        "γ-麩胺醯基": "γ-glutamyl"
+    },
+    {
+        "α-麩胺醯基": "α-glutamyl"
+    },
+    {
+        "麩胺醯基": "glutamoyl"
+    },
+    {
+        "麩醯胺醯基": "glutaminyl"
+    },
+    {
+        "葡[萄糖]苷基": "glucosyl"
+    },
+    {
+        "香葉[草]基": "geranyl"
+    },
+    {
+        "五倍子醯基；沒食子醯基": "galloyl "
+    },
+    {
+        "亞二氫呋喃基": "furylidene"
+    },
+    {
+        "3-呋喃甲基": "3-furylmethyl"
+    },
+    {
+        "呋喃基": "furyl"
+    },
+    {
+        "2-呋喃甲醯基；糠醯基 {焦黏醯基}": "2-furoyl {pyromucyl}"
+    },
+    {
+        "2-呋喃亞甲基；亞糠基": "furfurylidene"
+    },
+    {
+        "糠基；2-呋喃甲基": "furfuryl"
+    },
+    {
+        "呋呫基；呋吖基": "furazanyl"
+    },
+    {
+        "呋喃甲醯基": "furancarbonyl; furoyl"
+    },
+    {
+        "延胡索醯基；反丁烯二醯基": "fumaroyl {fumaryl}"
+    },
+    {
+        "延胡索醯基；反丁烯二醯基": "fumaryl {fumaroyl}"
+    },
+    {
+        "甲醯氧基": "formyloxy"
+    },
+    {
+        "甲醯亞胺基": "formylimino"
+    },
+    {
+        "甲醯胺基": "formylamino"
+    },
+    {
+        "甲醯基；醛基": "formyl"
+    },
+    {
+        "亞胺甲基": "formimino"
+    },
+    {
+        "亞胺甲醯基 {亞胺甲基}": "formimidoyl"
+    },
+    {
+        "二苯甲【月潛】基": "formazyl"
+    },
+    {
+        "甲醯胺基": "formamido"
+    },
+    {
+        "氟甲醯基 {氟羰基}": "fluoroformyl"
+    },
+    {
+        "氟基": "fluoro"
+    },
+    {
+        "亞茀基": "fluorenylidene"
+    },
+    {
+        "茀基": "fluorenyl"
+    },
+    {
+        "丙[二]烯合茀基": "fluoranthenyl"
+    },
+    {
+        "葑基": "fenchyl"
+    },
+    {
+        "伸乙炔基": "ethynylene"
+    },
+    {
+        "乙炔基": "ethynyl; ethinyl; acetenyl"
+    },
+    {
+        "乙硫基": "ethylthio"
+    },
+    {
+        "乙磺醯胺基": "ethylsulfonylamino"
+    },
+    {
+        "次乙基": "ethylidyne"
+    },
+    {
+        "亞乙基": "ethylidene"
+    },
+    {
+        "伸乙二氧基": "ethylenedioxy"
+    },
+    {
+        "伸乙基": "ethylene"
+    },
+    {
+        "乙胺基": "ethylamino"
+    },
+    {
+        "乙基": "ethyl"
+    },
+    {
+        "乙氧苯基": "ethoxyphenyl"
+    },
+    {
+        "乙氧基": "ethoxyl; ethoxy"
+    },
+    {
+        "乙氧羰基；乙氧甲醯基": "ethoxycarbonyl"
+    },
+    {
+        "乙氧羰甲醯基；乙氧草醯基": "ethoxalyl"
+    },
+    {
+        "乙烯基": "ethenyl; vinyl"
+    },
+    {
+        "乙醯基": "ethanoyl"
+    },
+    {
+        "乙磺醯胺基": "ethanesulfonamido"
+    },
+    {
+        "乙二亞基": "ethanediylidene"
+    },
+    {
+        "乙二醯基 {草醯基}": "ethanedioyl {oxalyl}"
+    },
+    {
+        "環氧基；【口咢】基": "epoxy"
+    },
+    {
+        "環硫基；噻基": "epithio"
+    },
+    {
+        "環硒基": "episeleno"
+    },
+    {
+        "環亞胺基 {橋亞胺基}": "epimino"
+    },
+    {
+        "環二硫基 {橋二硫基}": "epidithio"
+    },
+    {
+        "環二硒基 {橋二硒基}": "epidiseleno"
+    },
+    {
+        "環二氧基 {橋二氧基}": "epidioxy"
+    },
+    {
+        "庚醯基": "enanthyl; enanthoyl; heptanoyl"
+    },
+    {
+        "反油醯基": "elaidoyl "
+    },
+    {
+        "二十基": "eicosyl"
+    },
+    {
+        "伸荰基 {伸四甲苯基}": "durylene"
+    },
+    {
+        "荰基 {2,3,5,6-四甲苯基}": "duryl {2,3,5,6-tetramethylphenyl}"
+    },
+    {
+        "三十二基": "dotriacontyl"
+    },
+    {
+        "十二基 {月桂基}": "dodecyl {lauryl}"
+    },
+    {
+        "十二醯基": "dodecanoyl"
+    },
+    {
+        "二十二基": "docosyl"
+    },
+    {
+        "二硫代磺酸基": "dithiosulfo"
+    },
+    {
+        "二硫羧基": "dithiocarboxy"
+    },
+    {
+        "二硫基": "dithio"
+    },
+    {
+        "二噻萘基": "dithianaphthyl"
+    },
+    {
+        "二矽氧烷基": "disiloxanyl"
+    },
+    {
+        "二矽氧烷氧基": "disiloxanoxy"
+    },
+    {
+        "二矽氮烷胺基": "disilazanylamino"
+    },
+    {
+        "二矽氮烷氧基": "disilazanoxy"
+    },
+    {
+        "伸二矽烷基": "disilanylene"
+    },
+    {
+        "二矽烷胺基": "disilanylamino"
+    },
+    {
+        "二矽烷基": "disilanyl"
+    },
+    {
+        "二矽烷氧基": "disilanoxy"
+    },
+    {
+        "二苯亞甲基": "diphenylmethylene"
+    },
+    {
+        "二苯甲基": "diphenylmethyl"
+    },
+    {
+        "聯伸苯基": "diphenylene"
+    },
+    {
+        "二苯胺基": "diphenylamino"
+    },
+    {
+        "二氧基": "dioxy"
+    },
+    {
+        "二【口咢】環己基；二【口咢】烷基": "dioxacyclohexyl"
+    },
+    {
+        "二甲苯甲醯基": "dimethylbenzoyl"
+    },
+    {
+        "二甲胺基": "dimethylamino"
+    },
+    {
+        "3,4-二甲氧苯乙醯基": "3,4-dimethoxyphenylacetyl"
+    },
+    {
+        "3,4-二甲氧苯乙基": "3,4-dimethoxyphenethyl"
+    },
+    {
+        "3,4-二甲氧苯甲醯基；3,4-二甲氧苄醯基 {藜蘆醯基}": "3,4-dimethoxybenzoyl {veratroyl}"
+    },
+    {
+        "2,3-二羥丙醯基 {甘油醯基}": "2,3-dihydroxypropanoyl {glyceroyl}"
+    },
+    {
+        "二羥碘基": "dihydroxyiodo"
+    },
+    {
+        "2,3-二羥丁二醯基 {酒石醯基}": "2,3-dihydroxybutanedioyl {tartaroyl}"
+    },
+    {
+        "3,4-二羥苯甲醯基；3,4-二羥苄醯基 {兒茶酚甲醯基}": "3,4-dihydroxybenzoyl {protocatechuoyl}"
+    },
+    {
+        "二乙胺基": "diethylamino"
+    },
+    {
+        "二氯碘基": "dichloroiodo"
+    },
+    {
+        "二(苯甲醯)胺基；二苄醯胺基": "dibenzoylamino {dibenzamido}"
+    },
+    {
+        "二(苯甲醯)胺基；二苄醯胺基": "dibenzamido {dibenzoylamino}"
+    },
+    {
+        "重氮胺基": "diazoamino"
+    },
+    {
+        "重氮基": "diazo"
+    },
+    {
+        "二吖蒽基": "diazaanthryl"
+    },
+    {
+        "二胺亞甲胺基": "diaminomethyleneamino"
+    },
+    {
+        "二乙醯胺基": "diacetylamino"
+    },
+    {
+        "二(乙醯氧)碘基": "diacetoxyiodo"
+    },
+    {
+        "二乙醯胺基": "diacetamido {diacetylamino}"
+    },
+    {
+        "去氧安息香基": "desyl"
+    },
+    {
+        "癸基": "decyl"
+    },
+    {
+        "癸醯基": "decanoyl"
+    },
+    {
+        "癸二醯基": "decanedioyl"
+    },
+    {
+        "胱胺醯基": "cystyl"
+    },
+    {
+        "半胱胺醯基": "cysteinyl"
+    },
+    {
+        "單硫(亞甲)胱胺醯基": "cystathionyl"
+    },
+    {
+        "3-對蒔蘿基；3-對【草散】基{瑞香[草]基}": "3-p-cymyl {thymyl}"
+    },
+    {
+        "【草散】基": "cymyl"
+    },
+    {
+        "環丙基": "cyclopropyl"
+    },
+    {
+        "亞環戊基": "cyclopentylidene"
+    },
+    {
+        "伸環戊基": "cyclopentylene"
+    },
+    {
+        "環戊基": "cyclopentyl"
+    },
+    {
+        "2-亞環戊烯基": "2-cyclopentenylidene"
+    },
+    {
+        "環戊烯基": "cyclopentenyl"
+    },
+    {
+        "1,2-環戊烯菲基": "1,2-cyclopentenophenanthryl"
+    },
+    {
+        "環戊螺環丁基": "cyclopentanespirocyclobutyl"
+    },
+    {
+        "亞環戊二烯基": "cyclopentadienylidene"
+    },
+    {
+        "環戊二烯基": "cyclopentadienyl"
+    },
+    {
+        "環戊[α]菲基": "cyclopenta[α]phenanthryl"
+    },
+    {
+        "環己硫[代]羰基": "cyclohexylthiocarbonyl"
+    },
+    {
+        "亞環己基": "cyclohexylidene"
+    },
+    {
+        "伸環己基": "cyclohexylene"
+    },
+    {
+        "環己羰基 {環己基甲醯基}": "cyclohexylcarbonyl"
+    },
+    {
+        "環己基": "cyclohexyl"
+    },
+    {
+        "環己烯基": "cyclohexenyl"
+    },
+    {
+        "環己基甲醯胺基": "cyclohexanecarboxamido"
+    },
+    {
+        "環己硫[代]羰基": "cyclohexanecarbothionyl"
+    },
+    {
+        "環己羰基 {環己基甲醯基}": "cyclohexanecarbonyl"
+    },
+    {
+        "環己基甲肟醯基": "cyclohexanecarbohydroximoyl"
+    },
+    {
+        "環己基甲腙醯基": "cyclohexanecarbohydrazonoyl"
+    },
+    {
+        "亞環己二烯基": "cyclohexadienylidene"
+    },
+    {
+        "伸環己二烯基": "cyclohexadienylene"
+    },
+    {
+        "2,4-環己二烯基": "2,4-cyclohexadienyl"
+    },
+    {
+        "環己二烯基": "cyclohexadienyl"
+    },
+    {
+        "環庚基": "cycloheptyl"
+    },
+    {
+        "環丁基": "cyclobutyl"
+    },
+    {
+        "氰基": "cyano"
+    },
+    {
+        "氰氧基": "cyanato"
+    },
+    {
+        "【草久】基 {異丙苯基}": "cumyl; cumenyl {isopropylphenyl}"
+    },
+    {
+        "茴香醯基；對異丙苯甲醯基": "cumoyl"
+    },
+    {
+        "對異丙亞苄基；【草久】亞甲基": "p-cuminylidene"
+    },
+    {
+        "亞茴香基": "cuminylidene"
+    },
+    {
+        "對異丙苄基；茴香基": "cuminyl"
+    },
+    {
+        "【草久】胺基": "cumidino"
+    },
+    {
+        "亞茴香基 {對異丙亞苄基；【草久】亞甲基}": "cumal"
+    },
+    {
+        "巴豆基": "crotyl"
+    },
+    {
+        "亞巴豆基": "crotonylidene"
+    },
+    {
+        "巴豆醯基": "crotonyl {crotonoyl}"
+    },
+    {
+        "巴豆醯基": "crotonoyl {crotonyl}"
+    },
+    {
+        "伸苄基": "cresylene"
+    },
+    {
+        "甲苯酚基": "cresyl"
+    },
+    {
+        "甲苯氧基": "cresoxy"
+    },
+    {
+        "甲苯酚甲醯基": "cresotyl"
+    },
+    {
+        "香豆素基": "coumarinyl"
+    },
+    {
+        "松柏基": "coniferyl"
+    },
+    {
+        "香茅基": "citronellyl"
+    },
+    {
+        "檸康醯基": "citraconoyl"
+    },
+    {
+        "【口辛】啉基": "cinnolinyl "
+    },
+    {
+        "桂皮基；肉桂基；苯烯丙基": "cinnamyl"
+    },
+    {
+        "桂皮醯基": "cinnamoyl"
+    },
+    {
+        "苯亞烯丙基": "cinnamylidene"
+    },
+    {
+        "亞桂皮基": "cinnamal"
+    },
+    {
+        "【草快】基": "chrysenyl"
+    },
+    {
+        "【口克】烯基 {苯并哌喃基}": "chromenyl"
+    },
+    {
+        "【口克】基 {苯并二氫哌喃基}": "chromanyl"
+    },
+    {
+        "胆蒽基": "cholanthrenyl"
+    },
+    {
+        "氯醯基": "chloryl"
+    },
+    {
+        "氯硫基": "chlorothio"
+    },
+    {
+        "亞氯醯基": "chlorosyl"
+    },
+    {
+        "氫氯基": "chloronio"
+    },
+    {
+        "氯汞基": "chloromercuri"
+    },
+    {
+        "氯甲醯基": "chloroformyl"
+    },
+    {
+        "2-氯乙基": "2-chloroethyl"
+    },
+    {
+        "氯羰基 {氯甲醯基}": "chlorocarbonyl "
+    },
+    {
+        "氯基": "chloro"
+    },
+    {
+        "[印]大風子基": "chaulmoogryl"
+    },
+    {
+        "[印]大風子醯基": "chaulmoogroyl"
+    },
+    {
+        "鯨蠟基；十六基": "cetyl"
+    },
+    {
+        "[蟲]蠟基；二十六基": "ceryl"
+    },
+    {
+        "蒈基": "caryl"
+    },
+    {
+        "蒈烯基": "carenyl"
+    },
+    {
+        "香旱芹基": "carvacryl"
+    },
+    {
+        "羧甲基": "carboxymethyl"
+    },
+    {
+        "羧基": "carboxyl"
+    },
+    {
+        "羧根基": "carboxylato"
+    },
+    {
+        "羧基": "carboxy"
+    },
+    {
+        "羰二氧基": "carbonyldioxy"
+    },
+    {
+        "羰基": "carbonyl"
+    },
+    {
+        "卡肼基": "carbonohydrazido"
+    },
+    {
+        "伸亞胺醯基；亞胺亞甲基；亞胺羰基": "carbonimidoyl"
+    },
+    {
+        "甲氧甲醯基；甲氧羰基": "carbomethoxy"
+    },
+    {
+        "咔啉基": "carbolinyl"
+    },
+    {
+        "卡二腙基": "carbodiazono"
+    },
+    {
+        "苄氧甲醯基；苄氧羰基": "carbobenzoxy"
+    },
+    {
+        "乙氧羰基；乙氧甲醯基": "carbethoxy"
+    },
+    {
+        "肼甲醯基": "carbazoyl"
+    },
+    {
+        "卡腙基": "carbazono"
+    },
+    {
+        "咔唑基": "carbazolyl"
+    },
+    {
+        "苯胺甲醯基；苯胺羰基": "carbanilino"
+    },
+    {
+        "胺甲醯基": "carbamoyl; carbamyl"
+    },
+    {
+        "脲基": "carbamido {ureido}"
+    },
+    {
+        "辛醯基": "caprylyl {capryloyl}"
+    },
+    {
+        "辛醯基": "capryloyl{caprylyl}"
+    },
+    {
+        "癸醯基": "capryl"
+    },
+    {
+        "己醯基": "caproyl"
+    },
+    {
+        "癸醯基 {舊名：capryl}": "caprinoyl"
+    },
+    {
+        "亞樟腦基": "camphorylidene"
+    },
+    {
+        "樟腦基": "camphoryl"
+    },
+    {
+        "樟腦二醯基；莰二醯基": "camphoroyl"
+    },
+    {
+        "莰基": "camphanyl"
+    },
+    {
+        "卡可基；二甲胂基": "cacodyl"
+    },
+    {
+        "丁醯基": "butyryl"
+    },
+    {
+        "次丁基": "butylidyne"
+    },
+    {
+        "二級-亞丁基": "sec-butylidene"
+    },
+    {
+        "亞丁基": "butylidene"
+    },
+    {
+        "1,4-伸丁基": "1,4-butylene"
+    },
+    {
+        "三級-丁基": "tert-butyl"
+    },
+    {
+        "二級-丁基": "sec-butyl"
+    },
+    {
+        "丁基": "butyl"
+    },
+    {
+        "三級-丁氧基": "tert-butoxy"
+    },
+    {
+        "二級-丁氧基": "sec-butoxy"
+    },
+    {
+        "丁氧基": "butoxy"
+    },
+    {
+        "2-次丁烯基": "2-butenylidyne"
+    },
+    {
+        "2-亞丁烯基": "2-butenylidene"
+    },
+    {
+        "2-伸丁烯基": "2-butenylene"
+    },
+    {
+        "3-丁烯基": "3-butenyl"
+    },
+    {
+        "2-丁烯基": "2-butenyl "
+    },
+    {
+        "1-丁烯基": "1-butenyl"
+    },
+    {
+        "丁醯基": "butanoyl"
+    },
+    {
+        "1,4-丁二次基": "butanediylidyne"
+    },
+    {
+        "1,4-丁二亞基": "butanediylidene"
+    },
+    {
+        "丁二烯基": "butadienyl"
+    },
+    {
+        "1,3-丁二烯基": "1,3-butadienyl"
+    },
+    {
+        "氫溴基": "bromonio"
+    },
+    {
+        "溴甲醯基": "bromoformyl"
+    },
+    {
+        "溴基": "bromo"
+    },
+    {
+        "氧硼基": "boryl"
+    },
+    {
+        "【草伯】基": "bornyl"
+    },
+    {
+        "聯苯氧基": "biphenylyloxy"
+    },
+    {
+        "聯苯羰基": "biphenylylcarbonyl"
+    },
+    {
+        "聯苯基": "biphenylyl"
+    },
+    {
+        "伸聯苯基": "biphenylenyl"
+    },
+    {
+        "[伸]聯苯雙偶氮基": "biphenylenebisazo"
+    },
+    {
+        "聯萘基": "binaphthylyl"
+    },
+    {
+        "聯萘基": "binaphthalenyl"
+    },
+    {
+        "雙環[2.2.1]庚-5-烯-2-基": "bicyclo[2.2.1]hept-5-en-2-yl"
+    },
+    {
+        "雙環己基": "bi(cyclohexyl)yl"
+    },
+    {
+        "雙環己基": "bi(cyclohexan)yl"
+    },
+    {
+        "苄硫基；苯甲硫基": "benzylthio"
+    },
+    {
+        "苄氧羰基；苯甲氧羰基": "benzyloxycarbonyl"
+    },
+    {
+        "苄氧基；苯甲氧基": "benzyloxy"
+    },
+    {
+        "亞苄基；苯亞甲基": "benzylene {benzylidene; benzal}"
+    },
+    {
+        "亞苄基；苯亞甲基": "benzylidene {benzal; α-tolylene}"
+    },
+    {
+        "苄基；苯甲基 {α-【草叨】基}": "benzyl {α-tolyl}"
+    },
+    {
+        "苄醯氧基；苯甲醯氧基": "benzoyloxy {benzoxy}"
+    },
+    {
+        "苯甲醯肼基；苄醯肼基": "benzoylhydrazino "
+    },
+    {
+        "伸苯甲醯基": "benzoylene"
+    },
+    {
+        "苯甲醯亞胺基；苄醯亞胺基": "benzoylimino"
+    },
+    {
+        "苯甲醯胺基；苄醯胺基": "benzoylamino"
+    },
+    {
+        "苯甲醯基；苄醯基": "benzoyl"
+    },
+    {
+        "苯甲醯氧基；苄醯氧基": "benzoxy {benzoyloxy}"
+    },
+    {
+        "苯并【口咢】唑基": "benzoxazolyl"
+    },
+    {
+        "苯并【口咢】【口井】基": "benzoxazinyl"
+    },
+    {
+        "對苯醌基": "p-benzoquinonyl"
+    },
+    {
+        "4-鄰苯醌基": "4-o-benzoquinonyl"
+    },
+    {
+        "3-鄰苯醌基": "3-o-benzoquinonyl"
+    },
+    {
+        "苯并哌喃基": "benzopyranyl"
+    },
+    {
+        "苯并呋喃基": "benzofuryl"
+    },
+    {
+        "苯并呋喃基；氧茚基": "benzofuranyl"
+    },
+    {
+        "苯并[b]噻吩基": "benzo[b]thienyl"
+    },
+    {
+        "亞胺苄基": "benzimidoyl; benzimidoyle"
+    },
+    {
+        "苯甲醯亞胺基": "benzimido; benzoylimino"
+    },
+    {
+        "苯并咪唑基": "benzimidazolyl"
+    },
+    {
+        "二苯羥乙醯基": "benziloyl"
+    },
+    {
+        "亞苄基；苯亞甲基": "benzilidene"
+    },
+    {
+        "[胺]聯苯胺基": "benzidino"
+    },
+    {
+        "二苯亞甲基": "benzhydrylidene; diphenylmethylene"
+    },
+    {
+        "二苯甲基": "benzhydryl; diphenylmethyl"
+    },
+    {
+        "次苄基；苯次甲基": "benzylidyne {benzenyl}"
+    },
+    {
+        "次苄基；苯次甲基": "benzenyl"
+    },
+    {
+        "次苄基；苯次甲基": "benzenetriyl {benzenyl}"
+    },
+    {
+        "苯磺醯胺基": "benzenesulfonylamino"
+    },
+    {
+        "苯磺醯基": "benzenesulfonyl"
+    },
+    {
+        "苯磺醯胺基": "benzenesulfonamido"
+    },
+    {
+        "苯亞磺醯基": "benzenesulfinyl; phenylsulfinyl"
+    },
+    {
+        "苯甲醯基；苯羰基；苄醯基": "benzenecarbonyl"
+    },
+    {
+        "苯(氧偶氮)基": "benzeneazoxy"
+    },
+    {
+        "苯偶氮基": "benzeneazo"
+    },
+    {
+        "苯甲醯胺基；苄醯胺基": "benzamido"
+    },
+    {
+        "亞苄基；苯亞甲基": "benzal {benzylidene; α-tolylene}"
+    },
+    {
+        "苯亞甲基；亞苄基": "benzal"
+    },
+    {
+        "薁基": "azulenyl"
+    },
+    {
+        "氧偶氮基": "azoxy"
+    },
+    {
+        "偶氮基": "azo"
+    },
+    {
+        "次偶氮基": "azino"
+    },
+    {
+        "偶氮亞胺基": "azimino; azimido"
+    },
+    {
+        "疊氮基 {三氮基}": "azido {triazo}"
+    },
+    {
+        "壬二醯基": "azelaxyl"
+    },
+    {
+        "阿托醯基；顛茄醯基；2-苯丙烯醯基": "atropoyl"
+    },
+    {
+        "β-天冬胺醯基": "β-aspartyl"
+    },
+    {
+        "α-天冬胺醯基": "α-aspartyl"
+    },
+    {
+        "天[門]冬胺醯基": "aspartyl; aspartoyl"
+    },
+    {
+        "天[門]冬醯胺醯基": "asparaginyl; asparagyl"
+    },
+    {
+        "細辛基 {2,4,5-三甲氧苯基}": "asaryl {2,4,5-trimethoxyphenyl}"
+    },
+    {
+        "亞胂基": "arsylene"
+    },
+    {
+        "胂酸基": "arsono"
+    },
+    {
+        "二氧砷基": "arso"
+    },
+    {
+        "胂基": "arsino"
+    },
+    {
+        "亞胂酸基": "arsinico"
+    },
+    {
+        "砷氧基；亞砷醯基": "arsenoso"
+    },
+    {
+        "偶砷基": "arseno"
+    },
+    {
+        "精胺醯基": "arginyl"
+    },
+    {
+        "偶銻基": "antimono"
+    },
+    {
+        "伸蒽基；次蒽基": "anthrylene"
+    },
+    {
+        "蒽基": "anthryl {anthranyl}"
+    },
+    {
+        "蒽醌基": "anthraquinonyl"
+    },
+    {
+        "蒽基": "anthranyl {anthryl}"
+    },
+    {
+        "鄰胺【草卞】醯基；鄰胺苯甲醯基": "anthranoyl {anthraniloyl}"
+    },
+    {
+        "鄰胺苯甲醯基；鄰胺【草卞】醯基": "anthraniloyl {anthranoyl}"
+    },
+    {
+        "甲氧苯亞甲基 {大茴香亞甲基；甲氧亞【草卞】基}": "anisylidene {anisal; methoxybenzylidene}"
+    },
+    {
+        "甲氧苯亞甲基": "anisylidene"
+    },
+    {
+        "大茴香基 {甲氧苯基}": "anisyl {methoxyphenyl}"
+    },
+    {
+        "大茴香醯基 {甲氧苯甲醯基；甲氧【草卞】醯基}": "anisoyl"
+    },
+    {
+        "甲氧苯胺基": "anisidino"
+    },
+    {
+        "大茴香亞甲基 {甲氧苯亞甲基；甲氧亞【草卞】基}": "anisal {anisylidene; methoxybenzylidene}"
+    },
+    {
+        "苯胺基": "anilino"
+    },
+    {
+        "亞戊基": "amylidene"
+    },
+    {
+        "伸戊基": "amylene"
+    },
+    {
+        "二級-戊基": "sec-amyl"
+    },
+    {
+        "戊基": "amyl {pentyl}"
+    },
+    {
+        "銨基": "ammonio"
+    },
+    {
+        "胺氧基": "aminooxy"
+    },
+    {
+        "胺基亞甲胺基": "aminomethyleneamino"
+    },
+    {
+        "胺乙醯基 {甘胺醯基}": "aminoacetyl {glycyl}"
+    },
+    {
+        "胺基": "amino"
+    },
+    {
+        "醯胺草醯基 {草醯胺醯基}": "amidoxalyl {oxamoyl}"
+    },
+    {
+        "醯胺基": "amido"
+    },
+    {
+        "甲脒基": "amidino {guanyl}"
+    },
+    {
+        "烯丙氧基": "allyloxy"
+    },
+    {
+        "亞烯丙基": "allylidene"
+    },
+    {
+        "烯丙基": "allyl"
+    },
+    {
+        "脲[基]羰基；脲甲醯基": "allophanyl {allophanoyl}"
+    },
+    {
+        "脲甲醯基；脲[基]羰基": "allophanoyl {allophanyl}"
+    },
+    {
+        "丙胺醯基": "alanyl"
+    },
+    {
+        "己二醯基": "adipyl {adipoyl}"
+    },
+    {
+        "己二醯基": "adipoyl {adipyl}"
+    },
+    {
+        "丙烯醯基": "acrylyl {acryloyl}"
+    },
+    {
+        "丙烯醯基": "acryloyl {acrylyl}"
+    },
+    {
+        "吖啶基": "acridinyl"
+    },
+    {
+        "乙醯亞胺基；醋醯亞胺基": "acetylimino"
+    },
+    {
+        "乙醯肼基；醋醯肼基": "acetylhydrazino"
+    },
+    {
+        "乙醯基": "acetyl"
+    },
+    {
+        "乙醯氧基": "acetoxy"
+    },
+    {
+        "亞丙酮基": "acetonylidene"
+    },
+    {
+        "丙酮基": "acetonyl"
+    },
+    {
+        "乙醯乙醯基": "acetoacetyl"
+    },
+    {
+        "乙炔基": "acetenyl {ethynyl}"
+    },
+    {
+        "醋醯胺基；乙醯胺基": "acetamino {acetamido}"
+    },
+    {
+        "乙醯胺基；醋醯胺基": "acetamido {acetamino}"
+    },
+    {
+        "乙烯合菲基": "acephenanthrylenyl"
+    },
+    {
+        "乙烷合菲基": "acephenanthrenyl"
+    },
+    {
+        "苊基": "acenaphthylenyl"
+    },
+    {
+        "亞二氫苊基；亞乙烷合萘基": "acenaphthenylidene"
+    },
+    {
+        "伸二氫苊基；伸乙烷合萘基": "acenaphthenylene"
+    },
+    {
+        "二氫苊基；乙烷合萘基": "acenaphthenyl"
+    },
+    {
+        "乙烯合蒽基": "aceanthrylenyl"
+    },
+    {
+        "乙烷合蒽基": "aceanthrenyl"
+    },
+    {
+        "新戊基": "neopentyl"
+    },
+    {
+        "橙花基": "neryl"
+    },
+    {
+        "菸鹼醯基": "nicotinoyl"
+    },
+    {
+        "硝胺基": "nitramino"
+    },
+    {
+        "氮基": "nitrilo"
+    },
+    {
+        "硝基": "nitro"
+    },
+    {
+        "酸硝基": "aci-nitro"
+    },
+    {
+        "酸硝基 {異硝基}": "aci-nitro {isonitro}"
+    },
+    {
+        "亞硝胺基": "nitrosamino"
+    },
+    {
+        "亞硝亞胺基": "nitrosimino"
+    },
+    {
+        "亞硝基": "nitroso"
+    },
+    {
+        "九十基": "nonacontyl"
+    },
+    {
+        "二十九基": "nonacosyl"
+    },
+    {
+        "十九基": "nonadecyl "
+    },
+    {
+        "伸壬基": "nonamethylene"
+    },
+    {
+        "壬二醯基": "nonanedioyl"
+    },
+    {
+        "壬醯基": "nonanoyl"
+    },
+    {
+        "壬基": "nonyl"
+    },
+    {
+        "降【艹伯】烯基": "norbornenyl"
+    },
+    {
+        "降【草(之上)伯】基 {降莰基}": "norbornyl; norbornylyl {norcamphanyl}"
+    },
+    {
+        "降莰基 {降【草(之上)伯】基}": "norcamphanyl {norbornyl; norbornylyl}"
+    },
+    {
+        "降莰基": "norcamphyl; norcamphanyl"
+    },
+    {
+        "降蒈基 {降【草(之上)伯】基}": "norcaryl {norbornyl; norbornylyl}"
+    },
+    {
+        "正白胺醯基": "norleucyl"
+    },
+    {
+        "降蒎基": "norpinanyl"
+    },
+    {
+        "正纈胺醯基": "norvalyl"
+    },
+    {
+        "八十基": "octacontyl"
+    },
+    {
+        "順-9-十八烯醯基 {油醯基}": "cis-9-octadecenoyl {oleoyl}"
+    },
+    {
+        "二十八基": "octacosyl"
+    },
+    {
+        "十八醯基 {硬脂醯基}": "octadecanoyl {stearoyl}"
+    },
+    {
+        "十八基": "octadecosyl"
+    },
+    {
+        "十八基": "octadecyl"
+    },
+    {
+        "伸辛基": "octamethylene"
+    },
+    {
+        "辛二醯基": "octanedioyl"
+    },
+    {
+        "辛醯基": "octanoyl"
+    },
+    {
+        "正辛基": "n-octyl"
+    },
+    {
+        "伸辛基": "octylene"
+    },
+    {
+        "庚醯基": "oenanthyl; oenanthoyl; heptanoyl"
+    },
+    {
+        "油醯基 {順-9-十八烯醯基}": "oleoyl {cis-9-octadecenoyl}"
+    },
+    {
+        "鳥胺醯基": "ornithyl"
+    },
+    {
+        "莪基": "ovalenyl"
+    },
+    {
+        "二甘氧基": "oxadiethyl"
+    },
+    {
+        "草醯乙醯基": "oxalaceto"
+    },
+    {
+        "酸草醯乙醯基": "oxaloacetyl"
+    },
+    {
+        "草醯基": "oxalyl"
+    },
+    {
+        "草醯基 {乙二醯基} ": "oxalyl {ethanedioyl}"
+    },
+    {
+        "草醯胺基；乙二醯胺基": "oxamido"
+    },
+    {
+        "草醯胺醯基 {醯胺草醯基}": "oxamoyl {amidoxalyl}"
+    },
+    {
+        "草醯胺醯基": "oxamoyl; oxamyl"
+    },
+    {
+        "氧代芘基": "oxapyrenyl"
+    },
+    {
+        "【口咢】【口井】基": "oxazinyl"
+    },
+    {
+        "【口咢】唑啶基": "oxazolidinyl"
+    },
+    {
+        "【口咢】唑啉基": "oxazolinyl"
+    },
+    {
+        "【口咢】唑基": "oxazolyl"
+    },
+    {
+        "氧負離子基": "oxido"
+    },
+    {
+        "羥亞胺基 {異亞硝基}": "oximino {isonitroso}"
+    },
+    {
+        "側氧基": "oxo"
+    },
+    {
+        "氫羥基": "oxonio"
+    },
+    {
+        "[伸]氧基": "oxy"
+    },
+    {
+        "氧基": "oxy"
+    },
+    {
+        "羥亞胺基 {異亞硝基}": "oxyamino {isonitroso}"
+    },
+    {
+        "棕櫚醯基；軟脂醯基 {十六醯基}": "palmitoyl {hexadecanoyl}"
+    },
+    {
+        "棕櫚基；軟脂基 {十六基}": "palmityl"
+    },
+    {
+        "壬醯基": "pelargonyl"
+    },
+    {
+        "稠五苯基": "pentacenyl"
+    },
+    {
+        "五十基": "pentacontyl"
+    },
+    {
+        "二十五基": "pentacosyl"
+    },
+    {
+        "十五醯基": "pentadecanoyl"
+    },
+    {
+        "十五基": "pentadecyl"
+    },
+    {
+        "五氟硫基": "pentafluorothio"
+    },
+    {
+        "并環戊二烯基": "pentalenyl"
+    },
+    {
+        "五亞甲基；伸戊基": "pentamethylene"
+    },
+    {
+        "戊二醯基": "pentanedioyl; glutaryl"
+    },
+    {
+        "戊醯基": "pentanoyl; valeryl"
+    },
+    {
+        "五芬基": "pentapheneyl"
+    },
+    {
+        "2-戊烯-4-炔基": "2-penten-4-ynyl"
+    },
+    {
+        "正十五基": "n-pentadecyl"
+    },
+    {
+        "五唑基": "pentazolyl"
+    },
+    {
+        "戊烯基": "pentenyl"
+    },
+    {
+        "正戊基": "n-pentyl"
+    },
+    {
+        "二級-戊基": "sec-pentyl"
+    },
+    {
+        "戊基": "pentyl {amyl}"
+    },
+    {
+        "亞戊基": "pentylidene"
+    },
+    {
+        "次戊基": "pentylidyne"
+    },
+    {
+        "戊氧基": "pentyloxy"
+    },
+    {
+        "過氯醯基": "perchloryl"
+    },
+    {
+        "【口叵】啶基": "perimidinyl"
+    },
+    {
+        "苝基": "perylenyl"
+    },
+    {
+        "苯甲醯甲基": "phenacyl"
+    },
+    {
+        "苯甲醯亞甲基": "phenacylidene"
+    },
+    {
+        "丙烯合萘基；萉基": "phenalenyl"
+    },
+    {
+        "啡啶基；5-氮菲基": "phenanthridinyl"
+    },
+    {
+        "啡啉基": "phenanthrolinyl"
+    },
+    {
+        "菲基": "phenanthryl"
+    },
+    {
+        "伸菲基": "phenanthrylene"
+    },
+    {
+        "啡呻【口井】基": "phenarsazinyl"
+    },
+    {
+        "啡【口井】基": "phenazinyl"
+    },
+    {
+        "低苯基": "phenenyl"
+    },
+    {
+        "苯乙基": "phenethyl"
+    },
+    {
+        "乙氧苯胺基（鄰、間、對）": "phenetidino (o-, m-, or p-)"
+    },
+    {
+        "乙氧苯基": "phenetyl"
+    },
+    {
+        "啡噻【口井】基": "phenothiazinyl"
+    },
+    {
+        "啡【口咢】噻基": "phenoxathiinyl"
+    },
+    {
+        "啡【口咢】【口井】基": "phenoxazinyl"
+    },
+    {
+        "苯氧基": "phenoxy"
+    },
+    {
+        "苯基": "phenyl"
+    },
+    {
+        "苯乙醯基 {α-【草(之上)叨】甲醯基}": "phenylacetyl {α-toluoyl}"
+    },
+    {
+        "苯偶氮基": "phenylazo"
+    },
+    {
+        "苯(氧偶氮)基": "phenylazoxy"
+    },
+    {
+        "苯胺甲醯胺基；苯脲基": "phenylcarbamido"
+    },
+    {
+        "苯胺甲醯基": "phenylcarbamoyl"
+    },
+    {
+        "伸苯基": "phenylene"
+    },
+    {
+        "伸苯雙偶氮基": "phenylenebisazo"
+    },
+    {
+        "伸苯二甲基 {α,α’-伸茬基}": "phenylenedimethylene {α,α’-xylylene}"
+    },
+    {
+        "亞環己二烯基": "phenylidene"
+    },
+    {
+        "苯亞胺基": "phenylimino"
+    },
+    {
+        "α-苯基苯甲醯甲基": "α-phenylphenacyl"
+    },
+    {
+        "2-苯丙醯基": "2-phenylpropanoyl {hydratropoyl}"
+    },
+    {
+        "3-苯丙烯醯基 {桂皮醯基}": "3-phenylpropenoyl {cinnamoyl}"
+    },
+    {
+        "苯胺碸基；苯胺磺醯基": "phenylsulfamoyl {phenylsulfamyl}"
+    },
+    {
+        "苯胺碸基；苯胺磺醯基": "phenylsulfamyl {phenylsulfamoyl}"
+    },
+    {
+        "苯亞磺醯基": "phenylsulfinyl"
+    },
+    {
+        "苯磺醯基": "phenylsulfonyl"
+    },
+    {
+        "苯磺醯胺基": "phenylsulfonylamino"
+    },
+    {
+        "苯硫基": "phenylthio"
+    },
+    {
+        "苯脲基": "3-phenylureido"
+    },
+    {
+        "苯胺硫甲醯基": "phenylthiocarbamyl; phenylthiocarbamoyl"
+    },
+    {
+        "磷砷基；磷[代偶]砷基": "phospharseno"
+    },
+    {
+        "磷氮基；磷[代偶]氮基": "phosphazo"
+    },
+    {
+        "異次磷酸亞基": "phosphinico"
+    },
+    {
+        "膦基": "phosphino"
+    },
+    {
+        "二氧磷基": "phospho"
+    },
+    {
+        "異亞磷酸基": "phosphono"
+    },
+    {
+        "偶磷基": "phosphoro"
+    },
+    {
+        "[一]氧磷基": "phosphoroso"
+    },
+    {
+        "酞醯胺醯基": "phthalamoyl"
+    },
+    {
+        "呔【口井】基": "phthalazinyl"
+    },
+    {
+        "酞基": "phthalidyl"
+    },
+    {
+        "亞酞基": "phthalidylidene"
+    },
+    {
+        "酞醯亞胺基": "phthalimido"
+    },
+    {
+        "酞醯基；鄰苯二甲醯基": "phthaloyl"
+    },
+    {
+        "鄰苯二亞甲基": "phthalylidene"
+    },
+    {
+        "植基": "phytyl"
+    },
+    {
+        "苉基": "picenyl"
+    },
+    {
+        "苦味[酸]基；2,4,6-三硝苯基": "picryl"
+    },
+    {
+        "庚二醯基": "pimeloyl"
+    },
+    {
+        "蒎基": "pinanyl"
+    },
+    {
+        "伸蒎基": "pinanylene"
+    },
+    {
+        "亞蒎基": "pinanylidene"
+    },
+    {
+        "六氫吡【口井】基；哌【口井】基": "piperazinyl"
+    },
+    {
+        "N-六氫吡啶基": "piperidino"
+    },
+    {
+        "哌啶基": "piperidyl"
+    },
+    {
+        "亞六氫吡啶基": "piperidylidene"
+    },
+    {
+        "向日葵基；3,4-亞甲二氧苄基": "piperonyl"
+    },
+    {
+        "亞向日葵基；3,4-亞甲二氧苯亞甲基": "piperonylidene"
+    },
+    {
+        "向日葵醯基": "piperonyloyl"
+    },
+    {
+        "向日葵醯基 {3,4-亞甲二氧苯甲醯基}": "piperonyloyl; heliotropoyl {3,4-methylenedioxybenzoyl}"
+    },
+    {
+        "三甲基乙醯基": "pivaloyl"
+    },
+    {
+        "三甲基乙醯基": "pivaloyl {pivalyl}"
+    },
+    {
+        "三甲基乙醯基": "pivalyl {pivaloyl}"
+    },
+    {
+        "【艹卜】基": "pleiadenyl"
+    },
+    {
+        "多硫基": "polythio"
+    },
+    {
+        "脯胺醯基": "prolyl"
+    },
+    {
+        "丙-1-基-3-亞基": "propan-1-yl-3-ylidene"
+    },
+    {
+        "丙-1,2,3-三基": "propane-1,2,3-triyl"
+    },
+    {
+        "丙-1,3-二基-2-亞基": "propane-1,3-diyl-2-ylidene"
+    },
+    {
+        "丙二醯基": "propanedioyl {malonyl}"
+    },
+    {
+        "丙醯基": "propanoyl"
+    },
+    {
+        "炔丙基 {2-丙炔基}": "propargyl {2-propynyl}"
+    },
+    {
+        "丙烯-1,3-二基 {伸丙烯基}": "propene-1,3-diyl {propenylene}"
+    },
+    {
+        "1-丙烯基": "1-propenyl"
+    },
+    {
+        "伸丙烯基 {丙烯-1,3-二基}": "propenylene {propene-1,3-diyl}"
+    },
+    {
+        "亞丙烯基": "propenylidene"
+    },
+    {
+        "丙炔醯基；炔丙醯基": "propioloyl {propiolyl}"
+    },
+    {
+        "丙炔醯基；炔丙醯基": "propiolyl {propioloyl}"
+    },
+    {
+        "丙醯胺基": "propionamido"
+    },
+    {
+        "丙醯基": "propionyl"
+    },
+    {
+        "丙醯胺基": "propionylamino"
+    },
+    {
+        "丙醯氧基": "propionyloxy"
+    },
+    {
+        "丙氧基": "propoxy"
+    },
+    {
+        "丙基": "propyl"
+    },
+    {
+        "伸丙基": "propylene"
+    },
+    {
+        "1-亞丙基": "propylidene"
+    },
+    {
+        "次丙基": "propylidyne"
+    },
+    {
+        "1-丙炔基": "1-propynyl"
+    },
+    {
+        "2-丙炔基 {炔丙基}": "2-propynyl {propargyl}"
+    },
+    {
+        "[原]兒茶酚甲醯基": "protocatechuoyl"
+    },
+    {
+        "兒茶酚甲醯基 {3,4-二羥苯甲醯基；3,4-二羥苄醯基}": "protocatechuoyl {3,4-dihydroxybenzoyl}"
+    },
+    {
+        "假【草(之上)久】基{2,4,5-三甲苯基}": "pseudocumyl {2,3,5-trimethylphenyl}"
+    },
+    {
+        "假吲哚基": "pseudoindoyl"
+    },
+    {
+        "喋啶基": "pteridinyl"
+    },
+    {
+        "嘌呤基": "purinyl"
+    },
+    {
+        "吡唑啶基": "pyazolidyl; pyrazolidinyl"
+    },
+    {
+        "苒基；芘蒽基": "pyranthrenyl"
+    },
+    {
+        "哌喃基": "pyranyl"
+    },
+    {
+        "亞哌喃基": "pyranylidene"
+    },
+    {
+        "吡【口井】基": "pyrazinyl"
+    },
+    {
+        "吡唑啉基；二氫吡唑基": "pyrazolinyl"
+    },
+    {
+        "吡唑基": "pyrazolyl"
+    },
+    {
+        "芘基": "pyrenyl"
+    },
+    {
+        "嗒【口井】基": "pyridazinyl"
+    },
+    {
+        "2-吡啶羰基；2-吡啶甲醯基 {菸鹼醯基}": "2-pyridinecarbonyl {2-pyridylcarbonyl; nicotinoyl}"
+    },
+    {
+        "4-吡啶羰基；4-吡啶甲醯基 {異菸鹼醯基}": "4-pyridinecarbonyl {isonicotinoyl}"
+    },
+    {
+        "吡錠基": "pyridinio"
+    },
+    {
+        "2-吡啶羰基；2-吡啶甲醯基": "2-pyridylcarbonyl"
+    },
+    {
+        "吡啶基": "pyridyl"
+    },
+    {
+        "伸二氫吡啶基": "pyridylidene"
+    },
+    {
+        "吡啶氧基": "pyridyloxy"
+    },
+    {
+        "嘧啶基": "pyrimidinyl {pyrimidyl}"
+    },
+    {
+        "嘧啶基": "pyrimidyl {pyrimidinyl}"
+    },
+    {
+        "焦黏醯基；糠醯基{2-呋喃甲醯基}": "pyromucyl {2-furoyl}"
+    },
+    {
+        "吡咯啶基；四氫吡咯基": "pyrrolidinyl"
+    },
+    {
+        "吡咯啉基；二氫吡咯基": "pyrrolinyl"
+    },
+    {
+        "吡咯基": "pyrrolyl"
+    },
+    {
+        "丙酮醯基": "pyruvoyl"
+    },
+    {
+        "喹唑啉基": "quinazolinyl"
+    },
+    {
+        "喹啉二基": "quinolinediyl"
+    },
+    {
+        "喹【口井】基": "quinolizinyl"
+    },
+    {
+        "喹啉基": "quinolyl"
+    },
+    {
+        "苯醌基": "quinonyl; benzoquinonyl"
+    },
+    {
+        "喹【口咢】啉基": "quinoxalinyl"
+    },
+    {
+        "【口昆】啶基": "quinuclidinyl"
+    },
+    {
+        "間苯二酚基": "resorcyl"
+    },
+    {
+        "茹基": "rubicenyl"
+    },
+    {
+        "柳基": "salicyl"
+    },
+    {
+        "柳基 {鄰羥苄基；2-羥苄基}": "salicyl {o-hydroxybenzyl; 2-hydroxybenzyl}"
+    },
+    {
+        "亞柳基": "salicylidene"
+    },
+    {
+        "亞柳基 {2-羥亞苄基}": "salicylidene {2-hydroxybenzylidene }"
+    },
+    {
+        "柳醯基；鄰羥苯甲醯基": "salicyloyl"
+    },
+    {
+        "柳醯基 {鄰羥苯甲醯基；鄰羥苄醯基}": "salicyloyl {o-hydroxybenzoyl}"
+    },
+    {
+        "檀香基": "santalyl"
+    },
+    {
+        "皮脂醯基；癸二醯基": "sebacoyl"
+    },
+    {
+        "羥硒基": "seleneno"
+    },
+    {
+        "亞【酉西】酸基": "selenino"
+    },
+    {
+        "亞【酉西】醯基；硒亞碸基": "seleninyl"
+    },
+    {
+        "硒基": "seleno"
+    },
+    {
+        "氰硒基": "selenocyanato"
+    },
+    {
+        "硒代甲醯基；硒醛基": "selenoformyl"
+    },
+    {
+        "二氫硒基": "selenonio"
+    },
+    {
+        "【酉西】酸基": "selenono"
+    },
+    {
+        "【酉西】醯基；硒碸基": "selenonyl"
+    },
+    {
+        "硒脲基": "selenoureido"
+    },
+    {
+        "硒羰基": "selenoxo"
+    },
+    {
+        "半卡肼基": "semicarbazido"
+    },
+    {
+        "半卡腙基": "semicarbazono"
+    },
+    {
+        "異戊烯醯基；二甲烯丙醯基": "senecioyl"
+    },
+    {
+        "絲胺醯基": "seryl"
+    },
+    {
+        "【酉夕】酸基": "silicono"
+    },
+    {
+        "矽[烷]氧基": "siloxy"
+    },
+    {
+        "矽基": "silyl"
+    },
+    {
+        "矽胺基": "silylamino"
+    },
+    {
+        "1-矽二矽烷基；異三矽烷基": "1-silyldisilanyl"
+    },
+    {
+        "亞矽基": "silylene"
+    },
+    {
+        "次矽基": "silylidene"
+    },
+    {
+        "錫烷基": "stannyl"
+    },
+    {
+        "硬脂醯基 {十八醯基}": "stearoyl {octadecanoyl}"
+    },
+    {
+        "銻砷基": "stibarseno"
+    },
+    {
+        "一元【月弟】酸基": "stibinico"
+    },
+    {
+        "【月弟】基": "stibino {stibyl}"
+    },
+    {
+        "氧銻基": "stiboso"
+    },
+    {
+        "【月弟】基": "stibyl"
+    },
+    {
+        "亞【月弟】基；亞銻烷基": "stibylene"
+    },
+    {
+        "苯乙烯基 {蘇合香基}": "styryl {cinnamenyl}"
+    },
+    {
+        "1,8-辛二醯基": "suberoyl"
+    },
+    {
+        "環庚基": "suberyl"
+    },
+    {
+        "琥珀醯胺醯基": "succinamoyl {succinamyl}"
+    },
+    {
+        "琥珀醯胺醯基": "succinamyl {succinamoyl}"
+    },
+    {
+        "琥珀醯亞胺基；丁二醯亞胺基": "succinimido"
+    },
+    {
+        "琥珀醯亞胺基": "succinimidoyl"
+    },
+    {
+        "琥珀醯基；丁二醯基": "succinyl"
+    },
+    {
+        "磺酸胺基": "sulfamino"
+    },
+    {
+        "胺磺醯基": "sulfamoyl {sulfamyl}"
+    },
+    {
+        "胺磺醯基": "sulfamyl {sulfamoyl}"
+    },
+    {
+        "磺胺基；胺苯磺醯胺基": "sulfanilamido"
+    },
+    {
+        "對胺苯磺醯胺基": "sulfanilamido"
+    },
+    {
+        "[對]胺苯磺醯基": "sulfanilyl"
+    },
+    {
+        "胺硫基": "sulfenamoyl"
+    },
+    {
+        "次磺酸基": "sulfeno"
+    },
+    {
+        "氫硫基；硫醇基；巰基": "sulfhydryl"
+    },
+    {
+        "硫離子基": "sulfido"
+    },
+    {
+        "胺亞磺醯基": "sulfinamoyl"
+    },
+    {
+        "亞磺酸基": "sulfino"
+    },
+    {
+        "亞磺醯基；氧硫基": "sulfinyl"
+    },
+    {
+        "磺酸基": "sulfo"
+    },
+    {
+        "磺醯胺基": "sulfonamido"
+    },
+    {
+        "磺酸根基": "sulfonato"
+    },
+    {
+        "二氫硫基": "sulfonio"
+    },
+    {
+        "磺醯基；碸基": "sulfonyl"
+    },
+    {
+        "磺醯二氧基": "sulfonyldioxy"
+    },
+    {
+        "磺[酸基]苯基": "sulfophenyl"
+    },
+    {
+        "硫醯基": "sulfuryl"
+    },
+    {
+        "酒石醯基": "tartaroyl "
+    },
+    {
+        "酒石醯基 {2,3-二羥丁二醯基}": "tartaroyl {2,3-dihydroxybutanedioyl}"
+    },
+    {
+        "羥丙二醯基；丙醇二醯基": "tartronoyl {tartronyl}"
+    },
+    {
+        "羥丙二醯基；丙醇二醯基": "tartronyl {tartronoyl}"
+    },
+    {
+        "牛[膽]磺醯基；胺乙磺醯基": "tauryl"
+    },
+    {
+        "碲基": "telluro"
+    },
+    {
+        "聯三環己基": "(tercyclohexan)yl"
+    },
+    {
+        "對苯二亞甲基": "terephthalal; terephthalyidene"
+    },
+    {
+        "對酞醯基；對苯二甲醯基": "terephthaloyl"
+    },
+    {
+        "聯三苯基": "terphenylyl"
+    },
+    {
+        "聯三噻吩基": "(terthiophen)yl"
+    },
+    {
+        "【草(之上)孟】烯基": "terpinyl"
+    },
+    {
+        "三級-戊基": "tert-pentyl"
+    },
+    {
+        "四十基": "tetracontyl"
+    },
+    {
+        "二十四基": "tetracosyl"
+    },
+    {
+        "十四醯基 {肉豆蔻醯基}": "tetradecanoyl"
+    },
+    {
+        "十四基": "tetradecyl"
+    },
+    {
+        "四氫糠基；四氫呋喃甲基": "tetrahydrofurfuryl"
+    },
+    {
+        "四氫萘基": "tetralyl"
+    },
+    {
+        "伸丁基；四亞甲基": "tetramethylene"
+    },
+    {
+        "四甲伸苯基": "tetramethylphenylene"
+    },
+    {
+        "四甲對伸苯基": "tetramethyl-p-phenylene"
+    },
+    {
+        "2,3,5,6-四甲苯基 {荰基}": "2,3,5,6-tetramethylphenyl {duryl}"
+    },
+    {
+        "聯四苯基": "tetraphenylenyl"
+    },
+    {
+        "四唑基": "tetrazolyl"
+    },
+    {
+        "四唑基": "tetrazolyl; tetrazyl"
+    },
+    {
+        "噻吩甲醯基": "thenoyl"
+    },
+    {
+        "噻吩甲基": "thenyl"
+    },
+    {
+        "噻吩亞甲基": "thenylidene"
+    },
+    {
+        "噻嗯基": "thianthrenyl"
+    },
+    {
+        "噻【口井】基": "thiazinyl"
+    },
+    {
+        "四氫噻唑基": "thiazolidinyl {thiazolidyl}"
+    },
+    {
+        "4-四氫噻唑酮基": "4-thiazolidonyl"
+    },
+    {
+        "四氫噻唑基": "thiazolidyl {thiazolidinyl}"
+    },
+    {
+        "噻唑基": "thiazolyl"
+    },
+    {
+        "噻吩基": "thienyl"
+    },
+    {
+        "硫基": "thio"
+    },
+    {
+        "硫乙醯基": "thioacetyl"
+    },
+    {
+        "硫苄醯基": "thiobenzoyl"
+    },
+    {
+        "胺硫甲醯基": "thiocarbamoyl; thiocarbamyl"
+    },
+    {
+        "硫卡腙基": "thiocarbazono"
+    },
+    {
+        "硫卡二腙基": "thiocarbodiazono"
+    },
+    {
+        "硫卡肼基": "thiocarbonohydrazido"
+    },
+    {
+        "硫羰基": "thiocarbonyl"
+    },
+    {
+        "硫羧基": "thiocarboxy"
+    },
+    {
+        "氰硫基": "thiocyanato"
+    },
+    {
+        "硫甲醯基": "thioformyl"
+    },
+    {
+        "亞硫醯基": "thionyl"
+    },
+    {
+        "噻吩甲醯基": "thiophenecarbonyl {thenoyl}"
+    },
+    {
+        "苯硫基": "thiophenyl"
+    },
+    {
+        "硫半卡肼基": "thiosemicarbazido"
+    },
+    {
+        "硫代亞磺酸基": "thiosulfino"
+    },
+    {
+        "硫代磺酸基": "thiosulfo"
+    },
+    {
+        "硫脲基": "thioureido"
+    },
+    {
+        "硫[酮]基": "thioxo; thiono"
+    },
+    {
+        "蘇胺醯基": "threonyl"
+    },
+    {
+        "【草(之上)丟】基": "thujyl"
+    },
+    {
+        "瑞香[草]基 {3-對蒔蘿基；3-對【草(之上)散】基}": "thymyl {3-p-cymyl}"
+    },
+    {
+        "甲[狀]腺胺醯基": "thyronyl"
+    },
+    {
+        "【草(之上)叨】氧基；{甲苯氧基}": "toloxy; tolyloxy {cresoxy}"
+    },
+    {
+        "甲苯磺醯基；【草(之上)叨】磺醯基": "toluenesulfonyl"
+    },
+    {
+        "【草(之上)叨】胺基； 甲苯胺基": "toluidino; toluido; toluino"
+    },
+    {
+        "【草(之上)叨】甲醯基；甲苯甲醯基": "toluoyl"
+    },
+    {
+        "α-【草(之上)叨】甲醯基 {苯乙醯基}": "α-toluoyl {phenylacetyl}"
+    },
+    {
+        "【草(之上)叨】甲醯基；甲苯甲醯基": "toluyl"
+    },
+    {
+        "【草(之上)叨】基；甲苯基": "tolyl"
+    },
+    {
+        "α-【草(之上)叨】基 {苄基}": "α-tolyl {benzyl}"
+    },
+    {
+        "甲伸苯基": "tolylene"
+    },
+    {
+        "苯亞甲基 {亞苄基}": "α-tolylene {benzylidene; benzal}"
+    },
+    {
+        "【草(之上)叨】氧基；甲苯氧基": "tolyloxy"
+    },
+    {
+        "甲苯磺醯基；【草(之上)叨】磺醯基": "tolylsulfonyl"
+    },
+    {
+        "甲苯磺醯基；【草(之上)叨】磺醯基": "tosyl"
+    },
+    {
+        "三十基 {蜜蠟基}": "triacontyl"
+    },
+    {
+        "三吖菲基": "triazaphenanthryl"
+    },
+    {
+        "三氮烯基 {胺偶氮基}": "triazeno"
+    },
+    {
+        "三【口井】基": "triazinyl"
+    },
+    {
+        "三氮基 {疊氮基}": "triazo {azido}"
+    },
+    {
+        "三唑啶基": "triazolidinyl"
+    },
+    {
+        "三唑基": "triazolyl"
+    },
+    {
+        "二十三基": "tricosyl"
+    },
+    {
+        "十三醯基": "tridecanoyl"
+    },
+    {
+        "十三基": "tridecyl"
+    },
+    {
+        "三氟硫基": "trifluorothio"
+    },
+    {
+        "3,4,5-三羥苯甲醯基；3,4,5-三羥苄醯基": "3,4,5-trihydroxybenzoyl {galloyl}"
+    },
+    {
+        "三甲銨基": "trimethylammonio"
+    },
+    {
+        "三甲苯胺基": "trimethylanilino"
+    },
+    {
+        "伸丙基": "trimethylene"
+    },
+    {
+        "2,4,5-三甲氧苯基 {細辛基}": "2,4,5-trimethoxyphenyl {asaryl}"
+    },
+    {
+        "2,4,5-三甲苯基 {假【草(之上)久】基}": "2,3,5-trimethylphenyl {pseudocumyl}"
+    },
+    {
+        "聯伸三萘基": "trinaphthylenyl"
+    },
+    {
+        "三苯甲基": "triphenylmethyl {trityl}"
+    },
+    {
+        "三苯矽基": "triphenylsilyl"
+    },
+    {
+        "三矽烷基": "trisilanyl"
+    },
+    {
+        "伸三矽烷基": "trisilanylene"
+    },
+    {
+        "三噻二吖茚基": "trithiadiazaindenyl"
+    },
+    {
+        "三硫基": "trithio"
+    },
+    {
+        "三硫代磺酸基": "trithiosulfo"
+    },
+    {
+        "三十三基": "tritriacontyl"
+    },
+    {
+        "三苯甲基": "trityl"
+    },
+    {
+        "顛茄醇醯基": "tropoyl"
+    },
+    {
+        "【草(之上)卓】基": "tropyl"
+    },
+    {
+        "色胺醯基": "tryptophanyl"
+    },
+    {
+        "色胺醯基": "tryptophyl"
+    },
+    {
+        "酪胺醯基": "tyrosyl"
+    },
+    {
+        "十一醯基": "undecanoyl"
+    },
+    {
+        "十一基": "undecyl {hendecyl}"
+    },
+    {
+        "脲基": "uramino {carbamido; ureido}"
+    },
+    {
+        "脲基": "ureido {carbamido}"
+    },
+    {
+        "伸脲基": "ureylene"
+    },
+    {
+        "纈草醯基 {戊醯基}": "valeryl"
+    },
+    {
+        "纈胺醯基": "valyl"
+    },
+    {
+        "香草醯基 {2-羥-3-甲氧苯甲醯基；2-羥-3-甲氧苄醯基}": "vanilloyl {2-hydroxy-3-methoxybenzoyl}"
+    },
+    {
+        "香草基": "vanillyl"
+    },
+    {
+        "亞香草基": "vanillylidene"
+    },
+    {
+        "亞藜蘆基": "veraltrylidene {veratral}"
+    },
+    {
+        "亞藜蘆基": "veratral {veratrylidene}"
+    },
+    {
+        "藜蘆醯基 {3,4-二甲氧苯甲醯基；3,4-二甲氧苄醯基}": "veratroyl {3,4-dimethoxybenzoyl}"
+    },
+    {
+        "藜蘆基": "veratryl"
+    },
+    {
+        "乙烯基": "vinyl"
+    },
+    {
+        "伸乙烯基": "vinylene"
+    },
+    {
+        "亞乙烯基": "vinylidene"
+    },
+    {
+        "【艹法】基": "violanthrenyl"
+    },
+    {
+        "【口山】基": "xanthenyl"
+    },
+    {
+        "聯苯基": "xenyl; biphenylyl"
+    },
+    {
+        "茬胺基": "xylidino"
+    },
+    {
+        "茬甲醯基": "xyloyl"
+    },
+    {
+        "茬基；二甲苯基": "xylyl"
+    },
+    {
+        "α-茬基；甲苄基": "α-xylyl"
+    },
+    {
+        "α,α’-伸茬基 {伸苯二甲基}": "α,α’-xylylene {phenylenedimethylene}"
+    },
+    {
+        "癸醯基": "capryl"
+    },
+    {
+        "己醯基": "caproyl"
+    },
+    {
+        "氫硫基": "sulfanyl"
+    }
+]

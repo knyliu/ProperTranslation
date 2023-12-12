@@ -1,0 +1,602 @@
+[
+    {
+        "史密斯": "Smith"
+    },
+    {
+        "強生/詹森/強森": "Johnson"
+    },
+    {
+        "威廉斯": "Williams"
+    },
+    {
+        "布朗": "Brown"
+    },
+    {
+        "鍾斯": "Jones"
+    },
+    {
+        "米勒": "Miller"
+    },
+    {
+        "戴維斯": "Davis"
+    },
+    {
+        "威爾森": "Wilson"
+    },
+    {
+        "安德森": "Anderson"
+    },
+    {
+        "泰勒": "Taylor"
+    },
+    {
+        "穆爾": "Moore"
+    },
+    {
+        "湯瑪斯": "Thomas"
+    },
+    {
+        "馬丁": "Martin"
+    },
+    {
+        "湯普森": "Thompson"
+    },
+    {
+        "懷特": "White"
+    },
+    {
+        "哈里斯": "Harris"
+    },
+    {
+        "傑克森": "Jackson"
+    },
+    {
+        "克拉克": "Clark"
+    },
+    {
+        "路易斯": "Lewis"
+    },
+    {
+        "沃克": "Walker"
+    },
+    {
+        "霍爾": "Hall"
+    },
+    {
+        "羅賓森": "Robinson"
+    },
+    {
+        "艾倫": "Allen"
+    },
+    {
+        "楊＊": "Young"
+    },
+    {
+        "金＊": "King"
+    },
+    {
+        "尼爾森": "Nelson"
+    },
+    {
+        "萊特": "Wright"
+    },
+    {
+        "貝克": "Baker"
+    },
+    {
+        "希爾": "Hill"
+    },
+    {
+        "史考特": "Scott"
+    },
+    {
+        "亞當斯": "Adams"
+    },
+    {
+        "格林": "Green"
+    },
+    {
+        "李＊": "Lee"
+    },
+    {
+        "羅伯茲": "Roberts"
+    },
+    {
+        "密契爾": "Mitchell"
+    },
+    {
+        "坎柏/坎貝耳": "Campbell"
+    },
+    {
+        "菲利浦斯": "Phillips"
+    },
+    {
+        "卡特": "Carter"
+    },
+    {
+        "艾文思": "Evans"
+    },
+    {
+        "特納/透納": "Turner"
+    },
+    {
+        "柯林斯": "Collins"
+    },
+    {
+        "帕克": "Parker"
+    },
+    {
+        "莫菲": "Murphy"
+    },
+    {
+        "羅德里格斯/羅德里蓋斯": "Rodriguez"
+    },
+    {
+        "愛德華茲": "Edwards"
+    },
+    {
+        "莫里斯": "Morris"
+    },
+    {
+        "彼得森": "Peterson"
+    },
+    {
+        "庫克": "Cook"
+    },
+    {
+        "羅傑斯": "Rogers"
+    },
+    {
+        "司徒瓦特": "Stewart"
+    },
+    {
+        "摩根": "Morgan"
+    },
+    {
+        "庫柏": "Cooper"
+    },
+    {
+        "瑞德": "Reed"
+    },
+    {
+        "貝爾": "Bell"
+    },
+    {
+        "凱利": "Kelly"
+    },
+    {
+        "伍德": "Wood"
+    },
+    {
+        "貝里": "Bailey"
+    },
+    {
+        "賈西亞": "Garcia"
+    },
+    {
+        "瓦德": "Ward"
+    },
+    {
+        "考克斯": "Cox"
+    },
+    {
+        "格里芬": "Griffin"
+    },
+    {
+        "霍華德": "Howard"
+    },
+    {
+        "班內特": "Bennett"
+    },
+    {
+        "布魯克斯": "Brooks"
+    },
+    {
+        "華生/瓦森": "Watson"
+    },
+    {
+        "格瑞": "Gray"
+    },
+    {
+        "蘇利文": "Sullivan"
+    },
+    {
+        "休斯": "Hughes"
+    },
+    {
+        "麥爾斯": "Myers"
+    },
+    {
+        "羅斯": "Ross"
+    },
+    {
+        "龍＊": "Long"
+    },
+    {
+        "普萊斯": "Price"
+    },
+    {
+        "羅素": "Russell"
+    },
+    {
+        "理查森/瑞查森": "Richardson"
+    },
+    {
+        "費雪": "Fisher"
+    },
+    {
+        "佛斯特": "Foster"
+    },
+    {
+        "韓德森": "Henderson"
+    },
+    {
+        "桑德斯": "Sanders"
+    },
+    {
+        "鮑爾": "Powell"
+    },
+    {
+        "裴瑞": "Perry"
+    },
+    {
+        "巴特勒": "Butler"
+    },
+    {
+        "詹姆斯": "James"
+    },
+    {
+        "簡肯斯": "Jenkins"
+    },
+    {
+        "邦斯": "Barnes"
+    },
+    {
+        "岡薩里斯": "Gonzalez"
+    },
+    {
+        "雷諾茲": "Reynolds"
+    },
+    {
+        "帕特森": "Patterson"
+    },
+    {
+        "華勒斯": "Wallace"
+    },
+    {
+        "格雷姆": "Graham"
+    },
+    {
+        "西門斯": "Simmons"
+    },
+    {
+        "柯曼": "Coleman"
+    },
+    {
+        "漢米頓": "Hamilton"
+    },
+    {
+        "羅培茲": "Lopez"
+    },
+    {
+        "里維拉": "Rivera"
+    },
+    {
+        "莫瑞": "Murray"
+    },
+    {
+        "柯爾": "Cole"
+    },
+    {
+        "麥當納": "McDonald"
+    },
+    {
+        "亞力山大": "Alexander"
+    },
+    {
+        "衛斯特": "West"
+    },
+    {
+        "黑斯": "Hayes"
+    },
+    {
+        "艾利斯": "Ellis"
+    },
+    {
+        "馬歇爾": "Marshall"
+    },
+    {
+        "甘迺迪": "Kennedy"
+    },
+    {
+        "喬登": "Jordan"
+    },
+    {
+        "歐森": "Olson"
+    },
+    {
+        "史奈德": "Snyder"
+    },
+    {
+        "福特": "Ford"
+    },
+    {
+        "馬丁尼茲": "Martinez"
+    },
+    {
+        "吉布森": "Gibson"
+    },
+    {
+        "柏恩斯": "Burns"
+    },
+    {
+        "布萊恩特": "Bryant"
+    },
+    {
+        "赫南德斯": "Hernandez"
+    },
+    {
+        "威爾斯": "Wells"
+    },
+    {
+        "波特": "Porter"
+    },
+    {
+        "歐文斯": "Owens"
+    },
+    {
+        "華格納": "Wagner"
+    },
+    {
+        "高登": "Gordon"
+    },
+    {
+        "史賓塞": "Spencer"
+    },
+    {
+        "塔克": "Tucker"
+    },
+    {
+        "克勞福": "Crawford"
+    },
+    {
+        "韋伯": "Webb"
+    },
+    {
+        "史蒂文斯": "Stevens"
+    },
+    {
+        "麥爾": "Meyer"
+    },
+    {
+        "裴瑞斯": "Perez"
+    },
+    {
+        "伍茲": "Woods"
+    },
+    {
+        "梅森": "Mason"
+    },
+    {
+        "蕭＊": "Shaw"
+    },
+    {
+        "辛普森": "Simpson"
+    },
+    {
+        "史東": "Stone"
+    },
+    {
+        "弗里曼": "Freeman"
+    },
+    {
+        "帕摩": "Palmer"
+    },
+    {
+        "萊恩": "Ryan"
+    },
+    {
+        "萊斯": "Rice"
+    },
+    {
+        "強斯頓": "Johnston"
+    },
+    {
+        "福克斯": "Fox"
+    },
+    {
+        "漢特": "Hunter"
+    },
+    {
+        "亨利": "Henry"
+    },
+    {
+        "布萊克": "Black"
+    },
+    {
+        "韓特": "Hunt"
+    },
+    {
+        "赫姆斯": "Holmes"
+    },
+    {
+        "華倫": "Warren"
+    },
+    {
+        "凱立": "Kelley"
+    },
+    {
+        "波伊德": "Boyd"
+    },
+    {
+        "希克斯": "Hicks"
+    },
+    {
+        "艾略特": "Elliott"
+    },
+    {
+        "羅斯": "Rose"
+    },
+    {
+        "卡爾森": "Carlson"
+    },
+    {
+        "弗格森": "Ferguson"
+    },
+    {
+        "丹＊": "Dunn"
+    },
+    {
+        "密爾斯": "Mills"
+    },
+    {
+        "韓森": "Hansen"
+    },
+    {
+        "安德魯斯": "Andrews"
+    },
+    {
+        "阿諾": "Arnold"
+    },
+    {
+        "狄克森": "Dixson"
+    },
+    {
+        "許瓦茲": "Schwartz"
+    },
+    {
+        "皮爾斯": "Pierce"
+    },
+    {
+        "迦德納": "Gardner"
+    },
+    {
+        "立特": "Little"
+    },
+    {
+        "卡羅": "Carroll"
+    },
+    {
+        "康寧漢": "Cunningham"
+    },
+    {
+        "哈特": "Hart"
+    },
+    {
+        "霍金斯": "Hawkins"
+    },
+    {
+        "霍夫曼": "Hoffman"
+    },
+    {
+        "衛弗": "Weaver"
+    },
+    {
+        "史蒂文斯": "Stephens"
+    },
+    {
+        "奈特": "Knight"
+    },
+    {
+        "華盛頓": "Washington"
+    },
+    {
+        "裴恩": "Payne"
+    },
+    {
+        "貝瑞": "Berry"
+    },
+    {
+        "雷恩": "Lane"
+    },
+    {
+        "阿姆斯壯": "Armstrong"
+    },
+    {
+        "歐布萊恩": "O'brien"
+    },
+    {
+        "柏克": "Burke"
+    },
+    {
+        "羅伯森": "Robertson"
+    },
+    {
+        "鄧肯": "Duncan"
+    },
+    {
+        "桑切斯": "Sanchez"
+    },
+    {
+        "卡本特": "Carpenter"
+    },
+    {
+        "麥修斯": "Matthews"
+    },
+    {
+        "柯恩": "Cohen"
+    },
+    {
+        "布拉德雷": "Bradley"
+    },
+    {
+        "拉森": "Larson"
+    },
+    {
+        "丹尼爾斯": "Daniels"
+    },
+    {
+        "托瑞斯": "Torres"
+    },
+    {
+        "柏金斯": "Perkins"
+    },
+    {
+        "尼可斯": "Nichols"
+    },
+    {
+        "萊利": "Riley"
+    },
+    {
+        "瑞＊": "Ray"
+    },
+    {
+        "格林": "Greene"
+    },
+    {
+        "格蘭特": "Grant"
+    },
+    {
+        "哈德森": "Hudson"
+    },
+    {
+        "惠勒": "Wheeler"
+    },
+    {
+        "查普曼": "Chapman"
+    },
+    {
+        "威里斯": "Willis"
+    },
+    {
+        "奧利弗": "Oliver"
+    },
+    {
+        "林區": "Lynch"
+    },
+    {
+        "理查茲": "Richards"
+    },
+    {
+        "勞倫斯": "Lawrence"
+    },
+    {
+        "吉爾伯特": "Gilbert"
+    },
+    {
+        "瓦特金斯": "Watkins"
+    },
+    {
+        "哈里森": "Harrison"
+    }
+]

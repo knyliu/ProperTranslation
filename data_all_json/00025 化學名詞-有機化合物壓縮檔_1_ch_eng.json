@@ -1,0 +1,5759 @@
+[
+    {
+        "乙醯吡咯": "acetyl pyrrole"
+    },
+    {
+        "乙醯丙醯；甲基乙基乙二酮": "acetyl propionyl"
+    },
+    {
+        "乙醯哌啶": "acetyl piperidine"
+    },
+    {
+        "N-乙醯苯胺乙酸；N-乙醯-N-苯甘胺酸": "N-acetyl phenylglycine"
+    },
+    {
+        "過氧化乙醯基": "acetyl peroxide"
+    },
+    {
+        "氧化乙醯基；乙酐": "acetyl oxide; acetic anhydride"
+    },
+    {
+        "硝酸乙醯酯；硝乙酐": "acetyl nitrate; acetic nitric anhydride"
+    },
+    {
+        "乙醯碘；碘化乙醯基": "acetyl iodide"
+    },
+    {
+        "乙醯異戊醯；2,3-異庚二酮": "acetyl isovaleryl; 5-methylhexane-2,3-dione"
+    },
+    {
+        "乙醯氟": "acetyl fluoride"
+    },
+    {
+        "乙醯丁香酚；乙酸丁香酚酯": "acetyl eugenol; eugenol acetate"
+    },
+    {
+        "N-乙醯乙醇胺": "N-acetyl ethanolamine"
+    },
+    {
+        "乙醯二氯丙醇；乙酸二氯丙酯": "acetyl dichlorohydrin"
+    },
+    {
+        "乙醯氰": "acetyl cyanide"
+    },
+    {
+        "乙醯輔酶A；乙醯CoA": "acetyl CoA"
+    },
+    {
+        "乙醯溴": "acetyl bromide"
+    },
+    {
+        "乙醯氯": "acetyl chloride"
+    },
+    {
+        "假烏頭鹼": "acetyl benzoylpseudo-aconine; indaconitine"
+    },
+    {
+        "過氧化乙醯[基]苯甲醯[基]": "acetyl benzoyl peroxide"
+    },
+    {
+        "乙酸苯甲酸酐": "acetyl benzoate; acetic benzoic anhydride"
+    },
+    {
+        "對乙醯胺苯胂酸氫鈉": "acetyl atoxyl; sodium acetylarsanilate; acetylarsanilic acid sodium salt"
+    },
+    {
+        "醋尿酸；N-乙醯甘胺酸；乙醯胺乙酸": "aceturic acid; N-acetylglycine; acetylaminoacetic acid"
+    },
+    {
+        "乙醯氧琥珀酸；乙醯氧丁二酸；O-乙醯蘋果酸": "acetoxysuccinic acid; malic acid acetate; O-acetylmalic acid"
+    },
+    {
+        "乙醯氧孕烯醇酮": "acetoxypregnenolone"
+    },
+    {
+        "4-乙醯氧-3-甲氧苯甲醛；香草精乙酸酯": "4-acetoxy-3-methoxy-benzaldehyde; vanillin acetate"
+    },
+    {
+        "2,4-二甲-N-乙醯苯胺；2,4-二甲基乙醯胺苯": "2,4-acetoxylide"
+    },
+    {
+        "乙醯茬；乙醯二甲苯": "acetoxylene"
+    },
+    {
+        "溴化(β-乙醯氧乙)三甲銨；溴化-O-乙醯膽鹼": "(β-acetoxyethyl)trimethyl-ammonium bromide; O-acetylcholine bromide"
+    },
+    {
+        "2-α-乙醯氧膽甾烷-3-酮": "2-α-acetoxycholestane-3-one"
+    },
+    {
+        "鄰乙醯氧苯甲酸；阿司匹靈": "o-acetoxybenzoic acid; aspirin"
+    },
+    {
+        "乙醯氧乙醯苯；α-乙醯氧苯乙酮": "acetoxyacetophenone"
+    },
+    {
+        "乙醯氧乙酸": "acetoxyacetic acid"
+    },
+    {
+        "乙醯氧丙酮": "acetoxyacetone"
+    },
+    {
+        "丙酮肟乙酯": "acetoxime ethyl ester"
+    },
+    {
+        "丙酮肟": "acetoxime"
+    },
+    {
+        "N-乙醯鄰【草(之上)+叨】胺；N-乙醯鄰甲苯胺": "o-acetotoluidide; acetotoluide"
+    },
+    {
+        "N-乙醯鄰【草(之上)+叨】胺；N-乙醯鄰甲苯胺": "o-acetotoluide; acetotoluidide"
+    },
+    {
+        "N-2-噻吩基乙醯胺": "2-acetothiophenide; N-2-thienylacetamide"
+    },
+    {
+        "硫乙醯胺；乙硫羰醯胺": "acetothioamide; thioacetamide"
+    },
+    {
+        "α-噻吩乙酮；2-噻吩基甲基酮": "α-acetothienone; methyl 2-thienyl ketone"
+    },
+    {
+        "乙醯柳酸；阿司匹靈": "acetylsalicylic acid; aspirin"
+    },
+    {
+        "乙醯丙酸；果糖衍酸": "acetopropionic acid; levulinic acid"
+    },
+    {
+        "乙醯-2,4,6-苯三酚；2,4,6-三羥苯乙酮": "acetophloroglucinol; 2,4,6-trihydroxyaceto-phenone"
+    },
+    {
+        "苯乙酮-ω-二甲酸；苯甲醯丙二酸": "acetophenone-w-dicarboxylic acid benzoylmalonic acid"
+    },
+    {
+        "苯乙酮丙酮；ω-丙酮基苯乙酮": "acetophenoneacetone; ω-acetonylacetophenone"
+    },
+    {
+        "苯乙酮【酉+品】；苯乙酮品納可；2,3-二苯-2,3-丁二醇": "acetophenone pinacol; 2,3-diphenyl-2,3-butanediol"
+    },
+    {
+        "苯乙酮品納可林；3,3-二苯-2-丁酮；苯乙酮【酉+品】酮": "acetophenone pinacolin; 3,3-diphenyl-2-butanone; acetophenone pinacolone"
+    },
+    {
+        "苯乙酮肟": "acetophenone oxime"
+    },
+    {
+        "苯乙酮苯腙": "acetophenone phenylhydrazone"
+    },
+    {
+        "鄰苯乙酮甲酸；鄰乙醯苯甲酸": "o-acetophenone carboxylic acid; acetylbenzoic acid"
+    },
+    {
+        "乙醯苯；苯乙酮；甲基苯基酮": "acetophenone; methyl phenyl ketone"
+    },
+    {
+        "乙醯苯酚": "acetophenol"
+    },
+    {
+        "醋吩寧；2,4,6-三苯吡啶": "acetophenine"
+    },
+    {
+        "對-乙氧乙醯胺苯；非那西汀；對-乙氧-N-乙醯苯胺": "p-acetophenetide; phenacetin; aceto-p-phenetidin"
+    },
+    {
+        "乙醯菲": "acetophenanthrene"
+    },
+    {
+        "鄰丙酮【草(之上)+叨】；鄰丙酮甲苯": "o-acetonyltoluene"
+    },
+    {
+        "丙酮基甲基醚": "acetonyl methyl ether"
+    },
+    {
+        "丙酮丙二酸": "acetonylmalonic acid"
+    },
+    {
+        "丙酮乙醛酸；乙醯丙酮酸": "acetonylglyoxylic acid; acetopyruvic acid"
+    },
+    {
+        "2-丙酮呋喃": "2-acetonylfuran"
+    },
+    {
+        "丙酮基二甲基甲醇；二丙酮醇": "acetonyldimethylcarbinol; diacetone alcohol"
+    },
+    {
+        "丙酮[基]甲醇；3-酮-1-丁醇": "acetonylcarbinol; 3-keto-l-butanol"
+    },
+    {
+        "鄰丙酮苯甲酸；鄰丙酮苄酸": "o-acetonylbenzoic acid"
+    },
+    {
+        "丙酮苯；甲基苄基酮": "acetonylbenzene; methyl benzyl ketone"
+    },
+    {
+        "對丙酮大茴香醚；對甲氧苯丙酮": "p-acetonylanisole; p-methoxyphenylacetone"
+    },
+    {
+        "丙酮胺；1-胺-2-丙酮": "acetonylamine; l-amino-2-propanone"
+    },
+    {
+        "ω-丙酮[基]苯乙酮；苯乙酮丙酮；γ-氧苯戊酮": "ω-acetonylacetophenone; acetophenoneacetone; γ-oxovalerophenone"
+    },
+    {
+        "丙酮基丙酮；2,5-己二酮": "acetonylacetone; 2,5-hexanedione"
+    },
+    {
+        "丙酮脲": "acetonyl urea"
+    },
+    {
+        "亞硝乙醛肟": "acetonitroso oxime; nitrosoacetaldoxime"
+    },
+    {
+        "乙硝肟酸": "acetonitrilic acid; ethylnitrolic acid"
+    },
+    {
+        "乙腈 {氰甲烷}": "acetonitrile {cyanomethane} "
+    },
+    {
+        "α-羥異丁酸；醋酮酸": "acetonic acid"
+    },
+    {
+        "丙酮二草酸；二酸草醯丙酮": "acetonedioxalic acid; trioxoheptanedioic acid"
+    },
+    {
+        "丙酮二甲酸；β-酮戊二酸": "acetonedicarboxylic acid; β-ketoglutaric acid"
+    },
+    {
+        "丙酮合亞硫酸氫鈉；亞硫酸氫鈉丙酮": "acetone sodium bisulfite"
+    },
+    {
+        "丙酮半卡腙": "acetone semicarbazone"
+    },
+    {
+        "丙酮苯腙": "acetone phenylhydrazone"
+    },
+    {
+        "過氧化丙酮": "acetone peroxide"
+    },
+    {
+        "丙酮肟": "acetone oxime"
+    },
+    {
+        "2,2-二乙硫丙烷；二乙硫醇縮丙酮": "acetone mercaptol; acetone diethyl mercaptol"
+    },
+    {
+        "丙酮縮甘油；1,2-異亞丙甘油": "acetone glycerol; 1,2-isopropylidine glycerol"
+    },
+    {
+        "二氟化丙酮；2,2-二氟丙烷": "acetone fluoride; 2,2-difluoropopane"
+    },
+    {
+        "丙酮二乙碸；2,2-雙(乙磺醯)丙烷": "acetone diethylsulfone; 2,2-bis(ethylsulfonyl)-propane"
+    },
+    {
+        "二乙硫醇縮丙酮；2,2-二乙硫丙烷": "acetone diethyl mercaptol; acetone diethyl thioacetal"
+    },
+    {
+        "二乙醇縮丙酮；2,2-二乙氧丙烷": "acetone diethyl acetal"
+    },
+    {
+        "二氯化丙酮；2,2-二氯丙烷": "acetone dichloride"
+    },
+    {
+        "二溴化丙酮；2,2-二溴丙烷": "acetone dibromide"
+    },
+    {
+        "丙酮二乙酸": "acetone diacetic acid"
+    },
+    {
+        "丙酮氰醇；α-羥異丁腈": "acetone cyanohydrin; α-hydroxyisobutyronitrile"
+    },
+    {
+        "丙酮合氯仿；1,1,1-三氯三級丁醇": "acetone chloroform"
+    },
+    {
+        "氯化丙酮；2,2-二氯丙烷": "acetone chloride; 2,2-dichloropropane"
+    },
+    {
+        "二丙酮腙；二亞異丙腙": "acetone azine"
+    },
+    {
+        "丙酮胺": "acetone amine"
+    },
+    {
+        "丙酮醇": "acetone alcohol"
+    },
+    {
+        "丙酮": "acetone"
+    },
+    {
+        "丙酮甲酸；乙醯乙酸": "acetoncarboxylic acid; acetoacetic acid"
+    },
+    {
+        "1-萘乙酮；1-乙醯萘": "1-acetonaphthone"
+    },
+    {
+        "2-乙醯-1-萘酚；1-羥-2-乙醯萘": "2-aceto-1-naphthol; 1-hydroxy-2-acetonaph-thalene"
+    },
+    {
+        "α-乙醯胺萘；N-乙醯-α-萘胺；N-萘乙醯胺": "α-acetonaphthalide; N-acetyl-α-naphthylamine"
+    },
+    {
+        "α-乙醯萘": "α-acetonaphthalene"
+    },
+    {
+        "二乙醯甲萘氫醌；甲萘氫醌二乙酸酯；二乙酸-2-甲-1,4-萘二酚酯": "acetomenaphthone; menadiol diacetate; 2-methyl-1,4-naphthalene-diol diacetate"
+    },
+    {
+        "乙醯丙二酸": "acetomalonic acid"
+    },
+    {
+        "乙醯甲醇；羥丙酮": "acetol; hydroxypropanone"
+    },
+    {
+        "α-乙醯異丁酸": "α-acetoisobutyric acid"
+    },
+    {
+        "乙醯碘胺；N-碘乙醯胺": "acetoiodoamide; N-iodoacetamide"
+    },
+    {
+        "N-乙醯吲哚": "N-acetoindole; N-acetylindole"
+    },
+    {
+        "3-乙醯吲哚；β-乙醯吲哚": "3-acetoindole; β-acetoindole"
+    },
+    {
+        "乙醯基甲基甲醇；3-羥-2-丁酮": "acetoin; 3-hydroxybutan-2-one"
+    },
+    {
+        "2-乙醯對氫醌": "2-acetohydroquinone"
+    },
+    {
+        "α-乙醯氫桂皮酸；α-苄基乙醯乙酸": "α-acetohydrocinnamic acid; α-benzylacetoacetic acid"
+    },
+    {
+        "乙醯肼": "acetohydrazine"
+    },
+    {
+        "4-乙醯癒創木酚": "4-acetoguaiacol"
+    },
+    {
+        "鄰乙醯茴香醚；鄰乙醯苯基甲基醚": "o-acetoanisole"
+    },
+    {
+        "雙亞乙肼；雙乙醛腙": "acetoaldazine"
+    },
+    {
+        "4-乙醯胺-1-萘酚": "4-acetoamido-1-naphthol"
+    },
+    {
+        "β-乙醯丙烯酸": "β-acetoacrylic acid"
+    },
+    {
+        "鄰乙醯乙醯吡啶": "o-acetoacetylpyridine"
+    },
+    {
+        "乙醯乙炔": "acetoacetylene"
+    },
+    {
+        "乙醯乙酸甲酯": "acetoacetic acid methyl ester; mthyl acetoacetate"
+    },
+    {
+        "乙醯乙酸乙酯": "acetoacetic acid ethyl ester; ethyl acetoacetate"
+    },
+    {
+        "乙醯乙酸；3-丁酮酸；3-氧丁酸": "acetoacetic acid"
+    },
+    {
+        "乙醯乙醯胺苯；N-乙醯乙醯苯胺": "acetoacetanilide"
+    },
+    {
+        "2-乙醯呋喃": "2-acetofuran; 2-acetylfuran"
+    },
+    {
+        "乙醯乙烯": "acetoethylene"
+    },
+    {
+        "N-乙醯乙胺；N-乙基乙醯胺": "acetoethyl amide; N-ethylacetamide"
+    },
+    {
+        "乙醯乙醇": "acetoethyl alcohol"
+    },
+    {
+        "α-乙醯二苯甲烷": "α-acetodiphenylmethane"
+    },
+    {
+        "乙醯二溴胺": "acetodibromamide"
+    },
+    {
+        "對乙醯聯苯": "p-acetobiphenyl; p-acetodiphenyl"
+    },
+    {
+        "乙醯環戊烷": "acetocyclopentane"
+    },
+    {
+        "乙醯環丙烷": "acetocyclopropane"
+    },
+    {
+        "乙醯環己烷": "acetocyclohexane"
+    },
+    {
+        "乙醯桂皮酮；亞苄丙酮": "acetocinnamone; benzylideneacetone"
+    },
+    {
+        "乙醯環丁烷": "acetocyclobutane"
+    },
+    {
+        "乙醯氯胺苯；N-乙醯-N-氯苯胺": "acetochloroanilide; N-acetyl-N-chloroanilide"
+    },
+    {
+        "乙醯氯胺": "acetochloramide; N-chloroacetamide"
+    },
+    {
+        "乙醯丁酸": "acetobutyric acid"
+    },
+    {
+        "乙醯丁醇": "acetobutyl alcohol"
+    },
+    {
+        "乙醯溴胺；N-溴乙醯胺": "acetobromamide; N-bromoacetamide"
+    },
+    {
+        "N-乙醯苄胺；N-苄乙醯胺": "acetobenzyl amide; N-benzylacetamide"
+    },
+    {
+        "乙酸苯甲酸酐": "acetobenzoic anhydride"
+    },
+    {
+        "鄰乙醯苯甲酸；鄰乙醯苄酸": "o-acetobenzoic acid"
+    },
+    {
+        "乙酸苯甲酸酐": "acetic-benzoic anhydride; acetyl benzoate"
+    },
+    {
+        "乙醛": "acetic aldehyde; acetaldehyde"
+    },
+    {
+        "乙酐；氧化乙醯": "acetic anhydride; acetic oxide"
+    },
+    {
+        "乙酸丙酯": "acetic acid propyl ester; propyl acetate"
+    },
+    {
+        "1-乙醯六氫吡啶": "acetic acid piperidide; 1-acetylpiperidine"
+    },
+    {
+        "乙酸六氫吡【口+井】鹽": "acetic acid piperazinium salt; piperazinium acetate"
+    },
+    {
+        "β-乙醯苯肼；1-乙醯-2-苯肼": "acetic acid β-phenyl-hydrazide; 1-acetyl-2-phenyl-hydrazine"
+    },
+    {
+        "[二]乙酸亞甲酯": "acetic acid methylene diester; methylene diacetate"
+    },
+    {
+        "乙酸甲酯": "acetic acid methyl ester; methyl acetate"
+    },
+    {
+        "乙酸異丙酯": "acetic acid isopropyl ester; isopropyl acetate"
+    },
+    {
+        "乙酸異丁酯": "acetic acid isobutyl ester; isobutyl acetate"
+    },
+    {
+        "乙酸己酯": "acetic acid hexyl ester; hexyl acetate"
+    },
+    {
+        "乙酸庚酯": "acetic acid heptyl ester; heptyl acetate"
+    },
+    {
+        "乙酸呋喃甲酯；乙酸糠酯": "acetic acid furfuryl ester; furfuryl acetate"
+    },
+    {
+        "乙酸伸乙酯；乙二醇二乙酸酯": "acetic acid ethylene diester; glycol diacetate; ethylene diacetate; ethylene glycol diacetate"
+    },
+    {
+        "乙酸乙酯；醋酸乙酯": "acetic acid ethyl ester; ethyl acetate"
+    },
+    {
+        "乙酸環己酯": "acetic acid cyclohexyl ester"
+    },
+    {
+        "乙酸十六酯；乙酸鯨蠟酯": "acetic acid cetyl ester; cetyl acetate"
+    },
+    {
+        "乙酸二級-丁酯": "acetic acid sec-butyl ester; sec-butyl acetate"
+    },
+    {
+        "乙酸丁酯": "acetic acid butyl ester; butyl acetate"
+    },
+    {
+        "乙酸苄酯": "acetic acid benzyl ester; benzyl acetate"
+    },
+    {
+        "乙酸戊酯": "acetic acid amyl ester; amyl acetate"
+    },
+    {
+        "乙酸；醋酸": "acetic acid"
+    },
+    {
+        "乙酸烯丙酯": "acetic acid allyl ester; allyl acetate"
+    },
+    {
+        "乙羥肟酸": "acethydroximic acid"
+    },
+    {
+        "乙異羥肟酸": "acethydroxamic acid"
+    },
+    {
+        "3-乙醯胺-4-羥苯胂酸": "acetarsol; acetarson"
+    },
+    {
+        "鄰-甲氧-N-乙醯苯胺；鄰-甲氧乙醯胺苯；N-乙醯鄰-甲氧苯胺": "o-acetaniside; o-acetanisidine"
+    },
+    {
+        "乙醯胺苯；N-乙醯苯胺； N-苯乙醯胺": "acetanilide"
+    },
+    {
+        "4-乙醯胺[苯]酚": "4-acetaminophenol"
+    },
+    {
+        "乙醯胺基乙基柳酸；5-乙醯胺-2-乙氧苯甲酸": "acetaminoethyl salicylic acid; 5-acetamido-2-ethoxy-benzoic acid"
+    },
+    {
+        "鄰乙醯胺苯甲酸": "o-acetamidobenzoic acid; N-acetylanthranilic acid"
+    },
+    {
+        "對乙醯胺偶氮苯": "p-acetamidoazobenzene"
+    },
+    {
+        "對乙醯胺大茴香醚；N-乙醯對甲氧苯胺": "p-acetamidoanisole; N-acetyl-p-anisidine; p-acetaniside"
+    },
+    {
+        "對乙醯胺苯胺乙酸；N-(對乙醯胺苯)甘胺酸": "p-acetamidoanilinoacetic acid; N-(p-acetamidophenyl)-glycine"
+    },
+    {
+        "α-乙醯胺丙烯酸": "α-acetamidoacrylic acid"
+    },
+    {
+        "乙醯胺乙酸；醋尿酸；N-乙醯甘胺酸": "acetamidoacetic acid; aceturic acid"
+    },
+    {
+        "氫氯化乙脒": "acetamidine hydrochloride"
+    },
+    {
+        "乙脒": "acetamidine"
+    },
+    {
+        "乙醯胺": "acetamide"
+    },
+    {
+        "乙醛肟": "acetaldoxime; acetaldehyde oxime"
+    },
+    {
+        "乙醛亞硫酸氫鈉": "acetaldehyde sodium bisulfite"
+    },
+    {
+        "乙醛縮胺脲": "acetaldehyde semicarbazone"
+    },
+    {
+        "乙醛苯腙": "acetaldehyde phenylhydrazone"
+    },
+    {
+        "乙醛肟": "acetaldehyde oxime; acetaldoxime"
+    },
+    {
+        "乙醛2,4-二硝苯腙": "acetaldehyde 2,4-dinitro-phenylhydrazone"
+    },
+    {
+        "二甲醇縮乙醛；二甲縮醛；1,1-二甲氧乙烷": "acetaldehyde dimethyl acetal; dimethyl acetal; 1,1-dimethoxyethane"
+    },
+    {
+        "二乙醇縮乙醛；二乙縮醛；縮醛；1,1-二乙氧乙烷": "acetaldehyde diethyl acetal; acetal; 1,1-diethoxyethane"
+    },
+    {
+        "乙醛": "acetaldehyde"
+    },
+    {
+        "1-氰乙醇；乳腈；2-羥丙腈": "acetaldehyde cyanohydrin; lactonitrile; 2-hydroxypropylnitrile"
+    },
+    {
+        "二亞乙肼；二乙醛縮聯胺": "acetaldazine"
+    },
+    {
+        "乙烯合萘": "acenaphthylene"
+    },
+    {
+        "乙醛氨三聚體；六氫-2,4,6-三甲[基]-1,3,5-三【口+井】": "acetaldehyde ammonia trimer; hexahydro-2,4,6-trimethyl-1,3,5-triazine"
+    },
+    {
+        "1-乙烷合萘醇": "1-acenaphthenol"
+    },
+    {
+        "乙烷合萘": "acenaphthene"
+    },
+    {
+        "乙烷合萘酮": "acenaphthenone"
+    },
+    {
+        "乙烷合萘醌": "acenaphthaquinone; acenaphthenequinone"
+    },
+    {
+        "乙烷合萘并蒽": "acenaphthanthrancene; naphthacenaphthene"
+    },
+    {
+        "飛廉鹼": "acanthoidine"
+    },
+    {
+        "阿卡西汀；5,7-二羥-4'-甲氧黃酮": "acacetin"
+    },
+    {
+        "脫落酸": "abscisic acid"
+    },
+    {
+        "相思子鹼；紅豆鹼；N-甲基色胺酸": "abrine"
+    },
+    {
+        "松糖": "abietit; pinitol"
+    },
+    {
+        "松脂醇": "abietinol; abietinal"
+    },
+    {
+        "松脂酸": "abietic acid; abietinic acid"
+    },
+    {
+        "阿巴多；2-胺噻唑": "abadol; 2-thiazolamine"
+    },
+    {
+        "酒石酸鈉脎": "sodium dihydroxytartrate osazone"
+    },
+    {
+        "3,5-二碘柳酸鈉": "sodium 3,5-diiodosalicylate"
+    },
+    {
+        "二甲二硫胺甲酸鈉": "sodium dimethyl dithiocarbamate"
+    },
+    {
+        "N,N-二甲間胺苯磺酸鈉": "sodium N,N-dimethylmetanilate"
+    },
+    {
+        "十二基硫酸鈉": "sodium dodecyl sulfate"
+    },
+    {
+        "庚酸鈉": "sodium enanthate"
+    },
+    {
+        "乙鈉": "sodium ethide"
+    },
+    {
+        "乙氧[化]鈉": "sodium ethoxide"
+    },
+    {
+        "乙醇鈉": "sodium ethylate"
+    },
+    {
+        "乙黃[原]酸鈉": "sodium ethylanthogenate"
+    },
+    {
+        "乙硫酸鈉": "sodium ethylsulfate"
+    },
+    {
+        "氟乙酸鈉；氟醋酸鈉": "sodium fluoroacetate"
+    },
+    {
+        "甲酸鈉": "sodium formate"
+    },
+    {
+        "2-呋喃烯丙酸鈉": "sodium 2-furanacrylate"
+    },
+    {
+        "龍膽酸鈉；2,5-二羥苯甲酸鈉": "sodium gentisate"
+    },
+    {
+        "麩酸鈉": "sodium glutamate"
+    },
+    {
+        "甘油磷酸鈉": "sodium glycerophosphate"
+    },
+    {
+        "鳥苷酸鈉": "sodium guanylate"
+    },
+    {
+        "馬尿酸鈉；苯甲醯甘胺酸鈉": "sodium hippurate"
+    },
+    {
+        "β-羥丙酸鈉；β-乳酸鈉": "sodium hydracrylate"
+    },
+    {
+        "檸檬酸氫二鈉": "sodium hydrogen citrate"
+    },
+    {
+        "草酸氫鈉": "sodium hydrogen oxalate"
+    },
+    {
+        "尿酸氫鈉": "sodium hydrogen urate"
+    },
+    {
+        "羥甲亞磺酸鈉": "sodium hydroxymethane-sulfinate"
+    },
+    {
+        "羥甲磺酸鈉": "sodium hydroxymethane-sulfonate"
+    },
+    {
+        "肌苷酸鈉": "sodium inosinate"
+    },
+    {
+        "異丙醇鈉；異丙氧鈉": "sodium isopropoxide"
+    },
+    {
+        "異戊酸鈉": "sodium isovalerate"
+    },
+    {
+        "乳酸鈉": "sodium lactate"
+    },
+    {
+        "月桂酸鈉；十二酸鈉": "sodium laurate"
+    },
+    {
+        "硫酸月桂酯鈉；月桂硫酸鈉": "sodium lauryl sulfate"
+    },
+    {
+        "酒石酸鎂鈉": "sodium magnesium tartrate"
+    },
+    {
+        "蘋果酸鈉": "sodium malate"
+    },
+    {
+        "苯乙醇酸鈉": "sodium mandelate"
+    },
+    {
+        "丙炔鈉；甲基乙炔鈉": "sodium methylacetylide"
+    },
+    {
+        "甲醇鈉；甲氧鈉": "sodium methylate; sodium methoxide"
+    },
+    {
+        "[單]氟乙酸鈉": "sodium monofluoroacetate"
+    },
+    {
+        "萘磺酸鈉": "sodium naphthalene sulfonate"
+    },
+    {
+        "1-萘胺-4-磺酸鈉": "sodium naphthionate"
+    },
+    {
+        "β-萘酚鈉": "sodium β-naphtholate; sodium β-naphthoxide"
+    },
+    {
+        "β-萘酚-6-磺酸鈉": "sodium β-naphthol-6-sulfonate"
+    },
+    {
+        "1,2-萘醌-4-磺酸鈉": "sodium 1,2-naphtho-quinone-4-sulfonate"
+    },
+    {
+        "[原]矽酸鈉": "sodium orthosilicate"
+    },
+    {
+        "軟脂酸鈉；十六酸鈉": "sodium palmitate"
+    },
+    {
+        "泛酸鈉": "sodium pantothenate"
+    },
+    {
+        "苯酚磺酸鈉": "sodium phenolsulfonate"
+    },
+    {
+        "酚鈉；苯氧鈉": "sodium phenate; sodium phenolate; sodium phenylate; sodium phenoxide"
+    },
+    {
+        "苯胂酸鈉": "sodium phenylarsonate"
+    },
+    {
+        "酞酸鈉": "sodium phthalate"
+    },
+    {
+        "苯二醯亞胺鈉": "sodium phthalimide"
+    },
+    {
+        "苦味酸鈉": "sodium picrate"
+    },
+    {
+        "酒石酸鉀鈉": "sodium potassium tartrate"
+    },
+    {
+        "丙酸鈉": "sodium propionate"
+    },
+    {
+        "丙醇鈉": "sodium propoxide"
+    },
+    {
+        "玫酮酸鈉；玫棕酸鈉；5-環己烯-1,2,3,4-四酮-5,6-二醇鈉": "sodium rhodizonate"
+    },
+    {
+        "柳酸鈉": "sodium salicylate"
+    },
+    {
+        "柳羥肟酸鈉": "sodium salicylhydroximate"
+    },
+    {
+        "硬脂酸鈉；十八酸鈉": "sodium stearate"
+    },
+    {
+        "琥珀酸鈉；丁二酸鈉": "sodium succinate"
+    },
+    {
+        "四羥琥珀酸鈉": "sodium tetrahydroxy-succinate"
+    },
+    {
+        "對胺苯磺酸鈉；磺胺酸鈉{舊名}": "sodium sulfanilate"
+    },
+    {
+        "酒石酸鈉": "sodium tartrate"
+    },
+    {
+        "牛磺膽酸鈉": "sodium taurocholate"
+    },
+    {
+        "十四基硫酸鈉": "sodium tetradecylsulfate"
+    },
+    {
+        "四苯硼酸鈉；四苯硼鈉": "sodium tetraphenylborate; sodium tetraphenylboron"
+    },
+    {
+        "硫阿米妥鈉": "sodium thiamylal"
+    },
+    {
+        "乙硫醇鈉": "sodium thioethylate"
+    },
+    {
+        "巰乙酸鈉": "sodium thioglycolate"
+    },
+    {
+        "噻吩磺酸鈉": "sodium thiophenesulfonate"
+    },
+    {
+        "對【草(之上)+叨】亞磺酸鈉；對甲苯亞磺酸鈉": "sodium p-toluenesulfinate"
+    },
+    {
+        "對【草(之上)+叨】磺酸鈉；對甲苯磺酸鈉": "sodium p-toluenesulfonate"
+    },
+    {
+        "乙酸氧鈾鈉": "sodium uranyl acetate"
+    },
+    {
+        "尿酸鈉": "sodium urate"
+    },
+    {
+        "戊酸鈉": "sodium valerate"
+    },
+    {
+        "殺鼠靈鈉": "sodium warfarin"
+    },
+    {
+        "黃[原]酸鈉": "sodium xanthate; sodium xanthogenate"
+    },
+    {
+        "茄解鹼；茄解啶": "solancarpidine; solasodine"
+    },
+    {
+        "茄配質；茄啶": "solanidine"
+    },
+    {
+        "龍葵鹼；茄鹼": "solanine"
+    },
+    {
+        "毛葉冬珊瑚鹼；假椒茄素": "solanocapsine"
+    },
+    {
+        "澳洲茄鹼；羥基茄鹼": "solasonine"
+    },
+    {
+        "準噶爾烏頭鹼": "songorine"
+    },
+    {
+        "槐鹼": "sophorine"
+    },
+    {
+        "槐糖；2-葡糖-β-葡[萄糖]苷": "sophorose"
+    },
+    {
+        "山梨酸；花楸酸；2,4-己二烯酸": "sorbic acid; 2,4-hexadienoic acid"
+    },
+    {
+        "山梨醇；葡[萄糖]醇": "sorbite; sorbitol; sorbo; sorbol; glucitol"
+    },
+    {
+        "山梨醇六乙酸酯；葡[萄糖]醇六乙酸酯": "sorbitol hexaacetate; glucitol hexaacetate"
+    },
+    {
+        "山梨糖；花楸糖": "sorbose"
+    },
+    {
+        "山梨糖酮酸": "sorburonic acid"
+    },
+    {
+        "3,5-二碘-4-羥苯磺酸汞": "sozoiodole mercury"
+    },
+    {
+        "3,5-二碘-4-羥苯磺酸鈉": "sozoiodole sodium"
+    },
+    {
+        "3,5-二碘-4-羥苯磺酸鋅": "sozoiodole zinc"
+    },
+    {
+        "3,5-二碘-4-羥苯磺酸": "sozoiodolic acid"
+    },
+    {
+        "苯甲酸苯甲酯": "spasmodin; benzyl benzoate"
+    },
+    {
+        "鷹爪豆鹼": "sparteine"
+    },
+    {
+        "精三胺": "spermidine"
+    },
+    {
+        "鯨胺；精四胺": "spermine"
+    },
+    {
+        "神經胺醇": "sphingosine"
+    },
+    {
+        "花菊素；千日菊醯胺": "spilanthol; affinin"
+    },
+    {
+        "菠菜烯；三十碳六烯；[角]鯊烯": "spinacene; squalene"
+    },
+    {
+        "菠菜甾醇": "α-spinasterol"
+    },
+    {
+        "螺甘油": "spiroglycol"
+    },
+    {
+        "螺二環己烷": "spirobicyclohexane"
+    },
+    {
+        "螺[甾]內酯": "spirolactone"
+    },
+    {
+        "螺戊烷": "spiropentane"
+    },
+    {
+        "螺喃酮": "spizofurone"
+    },
+    {
+        "海綿胞嘧啶；胞嘧啶阿拉伯糖苷": "spongocytidine; arabinosylcytosine"
+    },
+    {
+        "鯊烷": "squalane"
+    },
+    {
+        "水蘇鹼": "stachydrine"
+    },
+    {
+        "草酸水蘇鹼": "stachydrine oxalate"
+    },
+    {
+        "水蘇糖": "stachyose"
+    },
+    {
+        "乙酸錫": "stannic acetate"
+    },
+    {
+        "乙酸亞錫；乙酸錫(II)": "stannous acetate; tin(II) acetate"
+    },
+    {
+        "酒石酸亞錫；酒石酸錫(II)": "stannous tartrate; tin(II) tartrate"
+    },
+    {
+        "硬脂醯胺；十八醯胺": "stearamide"
+    },
+    {
+        "硬脂酸；十八酸": "stearic acid"
+    },
+    {
+        "硬脂[酸]酐；十八[酸]酐": "stearic anhydride"
+    },
+    {
+        "硬脂；三硬脂酸甘油酯": "stearin; tristearin; tristearyl glycerol"
+    },
+    {
+        "硬炔酸；9-十八炔酸": "stearolic acid; 9-octadecynoic acid"
+    },
+    {
+        "硬脂酮；18-三十五酮": "stearone; 18-pentatriacontanone"
+    },
+    {
+        "硬脂腈；十八腈": "stearonitrile"
+    },
+    {
+        "硬脂苯酮；十八醯苯": "stearophenone"
+    },
+    {
+        "硬脂醯氯": "stearoyl chloride"
+    },
+    {
+        "丙烯酸十八酯": "stearyl acrylate"
+    },
+    {
+        "硬脂醇；十八醇": "stearyl alcohol"
+    },
+    {
+        "硬脂醯磺胺": "stearyl sulfamide"
+    },
+    {
+        "千金藤鹼": "stephanine; metaphanine"
+    },
+    {
+        "糞膽[色]素；尿膽素": "stercobilin; urobilin"
+    },
+    {
+        "糞膽素原；尿膽素原": "stercobilinogen; urobilinogen"
+    },
+    {
+        "甜菊苷": "stevioside"
+    },
+    {
+        "【月+弟】胺鈉；對胺苯【月+弟】酸鈉": "stibamine"
+    },
+    {
+        "【月+弟】胺鈉苷；對胺苯【月+弟】酸鈉葡[萄糖]苷": "stibamine glucoside"
+    },
+    {
+        "【月+弟】芬": "stibophen"
+    },
+    {
+        "豆甾烷醇": "stigmastanol"
+    },
+    {
+        "豆甾醇": "stigmasterol"
+    },
+    {
+        "茋唑；4-(2-苯乙烯)吡啶": "stilbazole"
+    },
+    {
+        "茋；二苯乙烯": "stilbene"
+    },
+    {
+        "茋雌酚；己烯雌酚": "stibestrol"
+    },
+    {
+        "3-乙醯胺-4-羥苯胂酸；醋醯胺胂": "stovarsol; acetarsone"
+    },
+    {
+        "草莓醛；甲基苯基環氧丙酸乙酯": "strawberry aldehyde; ethyl methylphenylglycidate"
+    },
+    {
+        "鏈黴胍": "streptidine"
+    },
+    {
+        "鏈菌胺二糖；鏈黴二糖胺": "streptobiosamine"
+    },
+    {
+        "鏈菌鹼；門黴素": "streptolydigin; portamycin"
+    },
+    {
+        "鏈黴素A": "streptomycin A"
+    },
+    {
+        "鏈黴糖": "streptose"
+    },
+    {
+        "鏈絲菌素F；鏈赤素F": "streptothricin F"
+    },
+    {
+        "乙酸鍶": "strontium acetate"
+    },
+    {
+        "乙醯丙酮鍶": "strontium acetylacetonate"
+    },
+    {
+        "檸檬酸鍶": "strontium citrate"
+    },
+    {
+        "乙醯乙酸乙酯鍶": "strontium ethyl acetoacetate"
+    },
+    {
+        "甘油磷酸鍶": "strontium glycerophosphate"
+    },
+    {
+        "檸檬酸氫鍶；酸式檸檬酸鍶": "strontium hydrogen citrate"
+    },
+    {
+        "乳酸鍶": "strontium lactate"
+    },
+    {
+        "草酸鍶": "strontium oxalate"
+    },
+    {
+        "柳酸鍶": "strontium salicylate"
+    },
+    {
+        "酒石酸鍶": "strontium tartrate"
+    },
+    {
+        "羊角拗甾醇；毒毛旋花苷配基": "strophanthidin"
+    },
+    {
+        "羊角拗二糖；毒毛旋花二糖": "strophanthobiose"
+    },
+    {
+        "番木虌鹼；馬錢子鹼": "strychnine"
+    },
+    {
+        "番木虌鹼鹽酸鹽": "strychnine hydrochloride"
+    },
+    {
+        "番木虌鹼硝酸鹽": "strychnine nitrate"
+    },
+    {
+        "番木虌鹼硫酸鹽": "strychine sulfate"
+    },
+    {
+        "人血草鹼；刺罌粟鹼": "stylopine"
+    },
+    {
+        "收斂酸；2,4,6-三硝間苯二酚": "styphnic acid"
+    },
+    {
+        "止血素；氯化可他寧": "stypticin; stypticine; cotarnine chloride"
+    },
+    {
+        "止血醇；苯二甲酸可他寧": "styptol; cotarnine phthalate"
+    },
+    {
+        "蘇合香素；癒創木素；桂皮酸桂皮酯": "styracin"
+    },
+    {
+        "桂皮酸癒創木酚酯；蘇合香腦": "styracol"
+    },
+    {
+        "乙酸2-苯乙酯；乙酸α-甲苄酯": "styralyl acetate"
+    },
+    {
+        "乙苯乙醇": "styralyl alcohol"
+    },
+    {
+        "苯乙烯；桂皮烯；蘇合香烯": "styrene; cinnamene"
+    },
+    {
+        "β-溴-α-苯乙醇": "styrene bromohydrin"
+    },
+    {
+        "二溴化苯乙烯": "styrene dibromide"
+    },
+    {
+        "鄰β-二羧苯乙烯；鄰羧基桂皮酸": "o,β-styrenedicarboxylic acid; o-carboxycinnamic acid"
+    },
+    {
+        "二氯化苯乙烯": "styrene dichloride"
+    },
+    {
+        "苯乙二醇": "styrene glycol"
+    },
+    {
+        "氧化苯乙烯；苯環氧乙烷": "styrene oxide"
+    },
+    {
+        "苯乙烯": "styrol; styrene"
+    },
+    {
+        "桂皮醇；苯乙烯甲醇": "stylone; styrone; cinnamic alcohol; styrylcarbinol"
+    },
+    {
+        "桂皮胺": "styrylmethylamine; cinnamylamine"
+    },
+    {
+        "軟木烷；環庚烷": "suberane; cycloheptane"
+    },
+    {
+        "環庚烯": "suberene; suberylene; cycloheptene"
+    },
+    {
+        "栓酸；1,8-辛二酸": "suberic acid"
+    },
+    {
+        "栓酸二乙酯；1,8-辛二酸二乙酯": "suberic acid diethyl ester"
+    },
+    {
+        "環庚胺": "suberylamine"
+    },
+    {
+        "軟木醇；環庚醇": "suberol; suberyl alcohol; cycloheptanol"
+    },
+    {
+        "軟木酮；環庚酮": "suberone; cycloheptanone"
+    },
+    {
+        "琥珀醛；丁二醛": "succinaldehyde"
+    },
+    {
+        "琥珀醯胺酸；丁醯胺酸": "succinamic acid"
+    },
+    {
+        "琥珀二醯胺；丁二醯胺": "succinamide"
+    },
+    {
+        "琥珀醯亞胺苯；琥珀醯苯胺；N-苯丁二醯亞胺": "succinanil; N-phenyl succimide"
+    },
+    {
+        "琥珀醯胺苯酸；琥珀酸[一]醯胺苯": "succinanilic acid"
+    },
+    {
+        "琥珀酸哌【金+井】鹽；丁二酸二哌【金+井】鹽": "succinate piperazinium"
+    },
+    {
+        "琥珀酸鈉；丁二酸鈉": "succinate sodium"
+    },
+    {
+        "琥珀醯亞胺氯；N-氯琥珀醯亞胺": "succinchlorimide; N-chlorosuccinimide"
+    },
+    {
+        "琥珀醛；丁二醛": "succindialdehyde; succinic aldehyde"
+    },
+    {
+        "琥珀酸；丁二酸": "succinic acid"
+    },
+    {
+        "過氧化雙琥珀醯酸": "succinic acid peroxide"
+    },
+    {
+        "琥珀[酸]酐；丁二[酸]酐": "succinic anhydride; succinyl oxide"
+    },
+    {
+        "琥珀醯亞胺；丁二醯亞胺": "succinimide"
+    },
+    {
+        "琥珀腈；丁二腈": "succinonitrile"
+    },
+    {
+        "琥珀醯琥珀酸": "succinosuccinic acid"
+    },
+    {
+        "琥珀醯氯；琥珀醯二氯": "succinyl chloride; succinyl dichloride"
+    },
+    {
+        "琥珀醯磺胺喹唑": "succinylsulfathiazole"
+    },
+    {
+        "蔗糖": "sucrose"
+    },
+    {
+        "八乙酸蔗糖酯": "sucrose octaacetate"
+    },
+    {
+        "蘇丹橙[G]；苯偶氮間苯二酚；2,4-二羥偶氮苯": "sudan G; Sudan red III (A); benzenenazoresorcinol; 2,4-dihydroxyazobenzene "
+    },
+    {
+        "硫可吖唑": "sulconazole"
+    },
+    {
+        "苯甲醯磺胺": "sulfabenzamide"
+    },
+    {
+        "乙醯磺胺": "sulfacetamide"
+    },
+    {
+        "乙醯磺胺鈉": "sulfacetamide sodium"
+    },
+    {
+        "磺胺二【口+井】；磺胺嘧啶": "sulfadiazine; 2-sulfapyrimidine"
+    },
+    {
+        "磺胺二【口+井】鈉；磺胺嘧啶鈉": "sulfadiazine sodium"
+    },
+    {
+        "磺胺二甲嘧啶": "sulfadimethylpyrimidine; sulfamethazine; sulfadimidine"
+    },
+    {
+        "磺胺二甲嘧啶鈉": "sulfadimidine sodium"
+    },
+    {
+        "磺胺胍": "sulfaguanidine"
+    },
+    {
+        "磺胺甲嘧啶": "sulfamerazine; sulfamethyldiazine"
+    },
+    {
+        "磺胺甲基嘧啶鈉": "sulfamerazine sodium"
+    },
+    {
+        "磺胺甲噻唑": "sulfamethylthiazole"
+    },
+    {
+        "胺磺酸": "sulfamic acid"
+    },
+    {
+        "間胺磺醯苯甲酸": "m-sulfamylbenzoic acid"
+    },
+    {
+        "磺胺；對胺苯磺醯胺": "sulfanilamide; sulfanilic amide"
+    },
+    {
+        "磺胺吡啶": "sulfapyridine"
+    },
+    {
+        "磺胺喹【口+咢】啉": "sulfaquinoxaline"
+    },
+    {
+        "磺胂酚鈉": "sulfarsphenamine"
+    },
+    {
+        "磺胺殺克定；琥珀醯磺胺噻唑": "sulfasuxidine; succinylsulfathiazole"
+    },
+    {
+        "磺胺噻唑": "sulfathiazole"
+    },
+    {
+        "磺胺噻唑鈉": "sulfathiazole sodium"
+    },
+    {
+        "鄰氫硫苯甲酸；鄰巰苯甲酸；硫柳酸": "o-sulfhydrylbenzoic acid; o-mercaptobenzoic acid; thiosalicylic acid"
+    },
+    {
+        "磺胺吡啶": "sulfidine; sulfapyridine"
+    },
+    {
+        "二甲亞碸": "sulfinyl bismethane; dimethyl sulfoxide"
+    },
+    {
+        "磺胺異【口+咢】唑": "sulfisoxazole"
+    },
+    {
+        "磺[酸基]乙酸": "sulfoacetic acid"
+    },
+    {
+        "磺醯二胺": "sulfoamide"
+    },
+    {
+        "磺酸基巴比妥酸": "sulfobarbituric acid"
+    },
+    {
+        "二苯碸": "sulfobenzide; diphenyl sulfone"
+    },
+    {
+        "鄰磺[酸基]苯甲酸": "o-sulfobenzoic acid"
+    },
+    {
+        "對稱二苯硫脲": "sulfocarbanilide; sym-diphenylthiourea"
+    },
+    {
+        "對苯酚磺酸": "sulfocarbolic acid; p-phenolsulfonic acid"
+    },
+    {
+        "環丁碸；1,1-二氧四氫噻吩": "sulfolane; tetrahydrothiophene-1,1-dioxide"
+    },
+    {
+        "甲磺酸": "sulfomethane; methanesulfonic acid"
+    },
+    {
+        "2,4-二胺-4'-磺醯偶氮苯；偶氮磺胺": "sulfonamidochrysoidine; prontosil"
+    },
+    {
+        "磺[酸基]萘酚；萘酚磺酸": "sulfonaphthol"
+    },
+    {
+        "2,2-雙(乙碸)丁烷": "sulfonethylmethane; trional"
+    },
+    {
+        "丙酮縮二乙碸；2,2-雙(乙碸)丙烷": "sulfonmethane; sulfonal; 2,2-bis(ethylsulfonyl)-propane"
+    },
+    {
+        "酚紅；磺酞": "sulfonphthal; phenolsulfonphthalein"
+    },
+    {
+        "磺柳酸；柳酸基磺酸": "sulfosalicylic acid; salicylsulfonic acid"
+    },
+    {
+        "硫脲": "sulfourea; thiourea"
+    },
+    {
+        "硫芥子氣": "sulfur mustard"
+    },
+    {
+        "碸胺米西林": "sultamicillin"
+    },
+    {
+        "蘇門答臘樟腦；【草(之上)+伯】醇": "Sumatra camphor; borneol"
+    },
+    {
+        "蘇門答臘酚": "sumatrol"
+    },
+    {
+        "白芷酸；α-甲異巴豆酸": "sumbulic acid; angelic acid"
+    },
+    {
+        "氯甲酸三氯甲酯；雙光氣": "superpalite; diphosgen"
+    },
+    {
+        "腎上腺素": "Supracapsulin; adrenalin; epinephrine; suprarenalin; suprarenin"
+    },
+    {
+        "舒洛芬；2-[對(2-噻吩甲醯)苯]丙酸": "suprofen; 2-[p-(2-thenoyl)phenyl]-propionic acid"
+    },
+    {
+        "蘇拉明鈉": "suramin sodium"
+    },
+    {
+        "二甲基苄基甲醇": "surolene; dimethylbenzylcarbinol"
+    },
+    {
+        "亞硝酸乙酯": "sweet spirit of niter; ethyl nitrite"
+    },
+    {
+        "糖精": "sykose; saccharin; benzoic sulfimide"
+    },
+    {
+        "2-甲呋喃": "sylvan"
+    },
+    {
+        "洋樅萜；1,8(9)-間【草(之上)+孟】二烯": "sylvestrene"
+    },
+    {
+        "交感醇；對羥-α-甲胺甲苄醇": "sympathol; synephrine"
+    },
+    {
+        "順卡因；普羅卡因鹽酸鹽": "syncaine; procaine hydrochloride"
+    },
+    {
+        "合成靈；1,10-癸二胍鹽酸鹽": "synthalin"
+    },
+    {
+        "順托派": "syntropan"
+    },
+    {
+        "丁香醛": "syringaldehyde; syringic aldehyde"
+    },
+    {
+        "丁香配質": "syringenin"
+    },
+    {
+        "丁香酸；4-羥-3,5-二甲氧苯甲酸": "syringic acid; 4-hydroxy-3,5-dimethoxy-benzoic acid"
+    },
+    {
+        "丁香素": "syringidin; malvidin chloride"
+    },
+    {
+        "紫丁香苷": "syringin"
+    },
+    {
+        "丁香醇": "syringyl alcohol"
+    },
+    {
+        "松脂酸": "sylvic acid; abietic acid"
+    },
+    {
+        "太奔；二甲胺氰磷酸乙酯": "tabun"
+    },
+    {
+        "速甾醇": "tachysterol"
+    },
+    {
+        "太洛黏酸；太洛糖二酸": "talomucic acid"
+    },
+    {
+        "太洛糖": "talose"
+    },
+    {
+        "單寧酸；單寧": "tannic acid; tannin"
+    },
+    {
+        "塔日酸；6-十八[碳]炔酸": "tariric acid"
+    },
+    {
+        "塔氧酸；6,7-二側氧十八酸": "taroxylic acid"
+    },
+    {
+        "酒石；酒石酸氫鉀": "tartar; potassium acid tartrate"
+    },
+    {
+        "吐酒石；酒石酸銻鉀": "tartar emetic; antimony potassium tartrate; tartrated antimony"
+    },
+    {
+        "酒石酸；2,3-二羥丁二酸": "tartaric acid"
+    },
+    {
+        "酒石黃": "tartrazine"
+    },
+    {
+        "羥丙二酸；丙醇二酸": "tartronic acid"
+    },
+    {
+        "羥丙二醯脲；丙醇二醯脲；5-羥巴比妥酸": "tartronylurea; dialuric acid; 5-hydroxybarbituric acid"
+    },
+    {
+        "四甲錫": "tatramethyl stannane; tetramethyltin"
+    },
+    {
+        "牛膽酸；胺乙磺膽酸": "taurocholic acid"
+    },
+    {
+        "牛磺酸；胺乙磺酸": "taurine; 2-aminoethanesulfonic acid"
+    },
+    {
+        "多花水仙鹼": "tazettine"
+    },
+    {
+        "五加酚": "tecomin; lapachol"
+    },
+    {
+        "紫葳鹼": "tecomine; tecomanine"
+    },
+    {
+        "甲金黃酮；柚金黃酮": "tectochrysin; methylchrysin"
+    },
+    {
+        "柚木醌；2-甲蒽醌": "tectoquinone; 2-methylanthraquinone"
+    },
+    {
+        "鳶尾苷": "tecoridin"
+    },
+    {
+        "鳶尾配質": "tectorigenin"
+    },
+    {
+        "7-乙醯-1,1,3,4,4,6-六甲四氫萘": "tentarome; 7-acetyl-1,1,3,4,4,6-hexamethyltetralin"
+    },
+    {
+        "團菊素": "tenulin"
+    },
+    {
+        "灰葉素": "tephrosin"
+    },
+    {
+        "托康酸；異亞丙基丁二酸": "teraconic acid"
+    },
+    {
+        "3,4-二甲-3-戊烯酸": "teracrylic acid"
+    },
+    {
+        "氧化松節油酸；4-甲-3-羧-1,4-內酯": "terebinic acid; terebic acid"
+    },
+    {
+        "對酞醛；對苯二甲醛": "terephthalaldehyde"
+    },
+    {
+        "對甲醛苯甲酸": "terephthalaldehydic acid"
+    },
+    {
+        "對苯二甲酸；對酞酸": "terephthalic acid; p-phthalic acid"
+    },
+    {
+        "對氰苯甲酸": "terephthalic acid mononitrile; p-cyanobenzoic acid"
+    },
+    {
+        "對酞醛；對苯二甲醛": "terephthalic aldehyde"
+    },
+    {
+        "對酞腈；對苯二[甲]腈": "terephthalonitrile"
+    },
+    {
+        "對酞醯氯": "terephthaloyl chloride"
+    },
+    {
+        "特羅地林": "terodiline"
+    },
+    {
+        "萜烷；對【草(之上)+孟】烷；薄荷烷": "terpane; p-menthane"
+    },
+    {
+        "萜烯基酸；4-甲-3-羧甲-1,4-戊內酯": "terpenylic acid"
+    },
+    {
+        "對聯三苯": "p-terphenyl"
+    },
+    {
+        "萜二醇；對【草(之上)+孟】-1,4-二醇": "1,4-terpin"
+    },
+    {
+        "萜品；對【草(之上)+孟】-1,8-二醇": "1,8-terpine; p-menthane-1,8-diol"
+    },
+    {
+        "水合對【草(之上)+孟】-1,8-二醇": "terpine hydrate; terpinol"
+    },
+    {
+        "α-萜品醇{1-對【草(之上)+孟】烯-8-醇}": "α-terpineol"
+    },
+    {
+        "1-對【草(之上)+孟】烯-8-醇 {α-萜品醇}": "p-menth-1-en-8-ol"
+    },
+    {
+        "β-萜品醇 {8(9)-對【草(之上)+孟】烯-1-醇} ": "β-terpineol "
+    },
+    {
+        "8(9)-對【草(之上)+孟】烯-1-醇 {β-萜品醇}": "8(9)-p-menthen-1-ol"
+    },
+    {
+        "γ-萜品醇 {4(8)-對【草(之上)+孟】烯-1-醇}": "γ-terpineol "
+    },
+    {
+        "4(8)-對【草(之上)+孟】烯-1-醇 {γ-萜品醇}": "4(8)-p-menthen-1-ol"
+    },
+    {
+        "萜品烯 {對【草(之上)+孟】二烯}": "terpinene"
+    },
+    {
+        "α-萜品烯 {1,3-對【草(之上)+孟】二烯}": "α-terpinene"
+    },
+    {
+        "1,3-對【草(之上)+孟】二烯 {α-萜品烯}": "1,3-p-menthadiene"
+    },
+    {
+        "β-萜品烯 {3,1(7)-對【草(之上)+孟】二烯}": "β-terpinene"
+    },
+    {
+        "3,1(7)-對【草(之上)+孟】二烯 {β-萜品烯}": "3,1(7)-p-menthadiene"
+    },
+    {
+        "γ-萜品烯 {1,4-對【草(之上)+孟】二烯}": "γ-terpinene"
+    },
+    {
+        "1,4-對【草(之上)+孟】二烯 {γ-萜品烯}": "1,4-p-menthadiene"
+    },
+    {
+        "萜品油烯 {1,4(8)-對【草(之上)+孟】二烯}": "terpinolene"
+    },
+    {
+        "1,4(8)-對【草(之上)+孟】二烯 {萜品油烯}": "1,4(8)-p-menthadiene"
+    },
+    {
+        "乙酸【草(之上)+孟】烯酯；乙酸松香酯": "terpinyl acetate"
+    },
+    {
+        "地靈黴素；氧四環素": "terramycin; oxytetracycline"
+    },
+    {
+        "睪甾醇；睪固酮": "testosterone"
+    },
+    {
+        "四乙醯葡萄糖": "tetracetylglucose"
+    },
+    {
+        "新戊四醇四乙酸酯；四乙酸異戊四醇": "tetra-O-acetyl pentaerythritol; pentaerythritol tetraacetate"
+    },
+    {
+        "四胺-3,3'-二甲二苯甲烷": "tetraamino-3,3'-dimethyl-diphenylmethane"
+    },
+    {
+        "四戊[單]矽烷；四戊矽": "tetraamylsilicane; tetraamylsilane"
+    },
+    {
+        "四苄錫": "tetrabenzyltin"
+    },
+    {
+        "四溴苯胺": "tetrabromoaniline"
+    },
+    {
+        "四溴苯": "tetrabromobenzene"
+    },
+    {
+        "1,2,3,5-四溴苯": "1,2,3,5-tetrabromobenzene"
+    },
+    {
+        "1,2,3,4-四溴丁烷": "1,2,3,4-tetrabromobutane"
+    },
+    {
+        "3,3',5,5'-四溴間甲磺酚酞；溴甲酚綠": "3,3',5,5'-tetrabromo-m-cresolsulfonphthalein; bromocresol green"
+    },
+    {
+        "2,2',4,4'-四溴二苯胺": "2,2',4,4'-tetrabromo-diphenylamine"
+    },
+    {
+        "對稱四溴乙烷": "sym-tetrabromoethane"
+    },
+    {
+        "1,1,1,2-四溴乙烷": "1,1,1,2-tetrabromoethane"
+    },
+    {
+        "1,1,2,2-四溴乙烷": "1,1,2,2-tetrabromoethane"
+    },
+    {
+        "四溴乙烯": "tetrabromoethylene"
+    },
+    {
+        "四溴螢光素；曙紅[Y]": "tetrabromofluorescein; eosin(e) (yellowish)"
+    },
+    {
+        "四溴甲烷；四溴化碳": "tetrabromomethane; carbon tetrabromide"
+    },
+    {
+        "四溴酚酞": "tetrabromophenolphthalein"
+    },
+    {
+        "3,3',5,5'-四溴磺酚酞；溴酚藍": "3,3',5,5'-tetrabromophenol-sulfonphthalein; bromophenol blue"
+    },
+    {
+        "四溴酞[酸]酐": "tetrabromophthalic anhydride"
+    },
+    {
+        "四溴吡咯": "tetrabromopyrrole"
+    },
+    {
+        "四溴醌": "tetrabromoquinone"
+    },
+    {
+        "9,10,12,13-四溴十八酸": "9,10,12,13-tetrabromo-stearic acid"
+    },
+    {
+        "四溴噻吩": "tetrabromothiophene"
+    },
+    {
+        "溴化四丁銨": "tetrabutylammonium bromide"
+    },
+    {
+        "硫酸氫四丁銨": "tetrabutylammonium hydrogen sulfate"
+    },
+    {
+        "四丁鉛": "tetrabutyllead"
+    },
+    {
+        "溴化四丁鏻": "tetrabutylphosphonium bromide"
+    },
+    {
+        "四丁[單]矽烷；四丁矽": "tetrabutylsilicane; tetrabutylsilane"
+    },
+    {
+        "四丁錫": "tetrabutyltin"
+    },
+    {
+        "四丁脲": "tetrabutylurea"
+    },
+    {
+        "四【草(之上)+申】": "tetracene"
+    },
+    {
+        "對稱四氯丙酮": "sym-tetrachloroacetone"
+    },
+    {
+        "2,3,4,5-四氯苯銨": "2,3,4,5-tetrachloroaniline"
+    },
+    {
+        "四氯蒽": "tetrachloroanthracene"
+    },
+    {
+        "四氯蒽醌": "tetrachloroanthraquinone"
+    },
+    {
+        "四氯-1,4-苯醌": "tetrachloro-1,4-benzoquinone"
+    },
+    {
+        "四氯苯": "tetrachlorobenzene"
+    },
+    {
+        "四氯二苯乙烷": "tetrachlorodiphenylethane {= TDE}"
+    },
+    {
+        "對稱四氯乙烷": "sym-tetrachloroethane"
+    },
+    {
+        "不對稱四氯乙烷": "unsym-tetrachloroethane"
+    },
+    {
+        "1,1,1,2-四氯乙烷": "1,1,1,2-tetrachloroethane"
+    },
+    {
+        "1,1,2,2-四氯乙烷": "1,1,2,2-tetrachloroethane"
+    },
+    {
+        "四氯乙烯": "tetrachloroethylene"
+    },
+    {
+        "四氯氫醌": "tetrachlorohydroquinone"
+    },
+    {
+        "四氯甲烷；四氯化碳": "tetrachloromethane; carbon tetrachloride"
+    },
+    {
+        "1,2,3,4-四氯萘": "1,2,3,4-tetrachloro-naphthalene"
+    },
+    {
+        "四氯酚酞": "tetrachlorophenolphthalein"
+    },
+    {
+        "四氯酞酸": "tetrachlorophthalic acid"
+    },
+    {
+        "1,1,3,3-四氯丙酮": "1,1,3,3-tetrachloro-2-propanone"
+    },
+    {
+        "四氯醌；氯醌": "tetrachloroquinone; chloranil"
+    },
+    {
+        "四氯化矽；四氯矽烷": "tetrachlorosilane"
+    },
+    {
+        "四氯噻吩": "tetrachlorothiophene"
+    },
+    {
+        "四十烷": "tetracontane"
+    },
+    {
+        "二十四碳二烯酸": "tetraconsandienoic acid"
+    },
+    {
+        "二十四烷二酸": "tetracosandioic acid; tetracosane diacid"
+    },
+    {
+        "正二十四烷": "n-tetracosane"
+    },
+    {
+        "二十六烷二酸；二十四烷二甲酸": "tetracosane dicarboxylic acid"
+    },
+    {
+        "二十四酸": "tetracosanoic acid"
+    },
+    {
+        "二十四醇": "tetracosanol"
+    },
+    {
+        "二十四烯二酸": "tetraconsendioic acid; tetracosene diacid"
+    },
+    {
+        "二十四烯酸": "tetracosenic acid; tetracosenoic acid"
+    },
+    {
+        "四對甲苯氧矽；四對【草(之上)+叨】氧矽": "tetra-p-cresoxysilicane"
+    },
+    {
+        "7,7,8,8-四氰對醌二甲烷": "7,7,8,8-tetracyanoquino-dimethane"
+    },
+    {
+        "四環素": "tetracycline"
+    },
+    {
+        "四環己錫": "tetracyclohexyltin"
+    },
+    {
+        "四環酮；四苯環戊二烯酮": "tetracyclone"
+    },
+    {
+        "十四碳二烯酸": "tetradecadienoic acid"
+    },
+    {
+        "十四醛肟；肉豆蔻醛肟": "tetradecanal oxime"
+    },
+    {
+        "十四醯胺；肉豆蔻醯胺": "tetradecanamide"
+    },
+    {
+        "十四烷二酸": "tetradecandioic acid; tetradecane diacid"
+    },
+    {
+        "正十四烷": "n-tetradecane"
+    },
+    {
+        "十四烷二甲酸；十六烷二酸": "tetradecane dicarboxylic acid"
+    },
+    {
+        "十四腈": "tetradecanenitrile"
+    },
+    {
+        "十四酸；肉豆蔻酸": "tetradecanoic acid; myristic acid"
+    },
+    {
+        "十四[酸]酐；肉豆蔻[酸]酐": "tetradecanoic anhydride"
+    },
+    {
+        "十四醇": "tetradecanol"
+    },
+    {
+        "十四醯氯；肉豆蔻醯氯": "tetradecanoyl chloride"
+    },
+    {
+        "十四烯二酸": "tetradecendioic acid; tetradecene diacid; tetradecylene diacid"
+    },
+    {
+        "2-十四烯": "2-tetradecene"
+    },
+    {
+        "十四烯二甲酸；十六烯二酸": "tetradecene dicarboxylic acid; tetradecylene dicarboxxylic acid"
+    },
+    {
+        "十四烯酸": "tetradecenoic acid; tetradecylenic acid"
+    },
+    {
+        "乙酸十四酯": "tetradecyl acetate"
+    },
+    {
+        "十四醇": "tetradecyl alcohol"
+    },
+    {
+        "十四胺": "tetradecylamine"
+    },
+    {
+        "己酸十四酯": "tetradecyl caproate"
+    },
+    {
+        "十四烯": "α-tetradecylene; tetradecene"
+    },
+    {
+        "十四烯酸": "tetradecylenic acid"
+    },
+    {
+        "十四硫醇": "tetradecyl marcaptan"
+    },
+    {
+        "硫酸十四酯": "tetradecyl sulfate"
+    },
+    {
+        "2-十四炔": "2-tetradecyne"
+    },
+    {
+        "十四炔酸": "tetradecynic acid"
+    },
+    {
+        "2,4,5,4'-四氯二苯碸": "tetradifon; 2,4,5,4'-tetrachlorodiphenyl sulphone"
+    },
+    {
+        "氫氧化四乙醇銨；氫氧化四(羥乙)銨": "tetraethanolammonium hydroxide"
+    },
+    {
+        "四乙氧矽；四乙氧矽烷": "tetraethoxysilicane"
+    },
+    {
+        "乙四甲酸四乙酯": "tetraethyl ethanetetra-carboxylate"
+    },
+    {
+        "原碳酸四乙酯": "tetraethyl orthocarbonate"
+    },
+    {
+        "丙四甲酸四乙酯": "tetraethyl propanetetra-carboxylate"
+    },
+    {
+        "焦磷酸四乙酯；特普": "tetraethyl pyrophosphate {= TEPP}"
+    },
+    {
+        "溴化四乙銨": "tetraethylammonium bromide"
+    },
+    {
+        "氫氧化四乙銨": "tetraethylammonium hydroxide"
+    },
+    {
+        "四乙苯": "tetraethylbenzene"
+    },
+    {
+        "四乙二胂；聯二乙胂": "tetraethylbiarsine; tetraethyldiarsine"
+    },
+    {
+        "四乙二胺二苯甲烷；貳(二乙胺苯)甲烷": "tetraethyldiaminodiphenyl-methane"
+    },
+    {
+        "四乙二胺三苯甲醇；貳(二乙胺苯)苯甲醇": "tetraethyldiamino-triphenylcarbinol"
+    },
+    {
+        "三縮四乙二醇；四甘醇": "tetraethylene glycol; tetraglycol"
+    },
+    {
+        "四甘醇二甲醚；三縮四乙二醇二甲醚": "tetraethylene glycol dimethyl ether"
+    },
+    {
+        "雙甲基丙烯酸四乙二醇酯": "tetraethylene glycol dimethyl acrylate"
+    },
+    {
+        "四伸乙五胺；四乙烯戊胺": "tetraethylenepentamine"
+    },
+    {
+        "四乙葡萄糖": "tetraethylglucose"
+    },
+    {
+        "四乙[基]鉛": "tetraethyllead; tetraethylplumbane"
+    },
+    {
+        "二硫化四乙胺甲硫醯基；秋蘭姆": "tetraethylthiuram disulfide"
+    },
+    {
+        "四乙矽；四乙矽烷": "tetraethylsilicane"
+    },
+    {
+        "四乙琥珀酸；四乙基丁二酸": "tetraethylsuccinic acid"
+    },
+    {
+        "四乙四氮烯": "tetraethyltetrazene; 1,1,4,4-tetraethyltetraz-2-ene"
+    },
+    {
+        "四乙錫": "tetraethyltin"
+    },
+    {
+        "四乙脲": "tetraethylurea"
+    },
+    {
+        "四氟乙烯": "tetrafluoroethylene"
+    },
+    {
+        "四氟甲烷；四氟化碳": "tetrafluoromethane; carbon tetrafluoride"
+    },
+    {
+        "四甘醇；三縮四乙二醇": "tetraglycol"
+    },
+    {
+        "四庚氧矽；四庚氧矽烷": "tetraheptoxysilicane"
+    },
+    {
+        "四氫氮唉；三亞甲亞胺；四氫吖唉": "tetrahydroazete; trimethyleneimine; azetidine"
+    },
+    {
+        "四氫苯；環己烯": "tetrahydrobenzene; cyclohexene"
+    },
+    {
+        "四氫苯甲酸": "tetrahydrobenzoic acid"
+    },
+    {
+        "半乳糖二酸；四氫-3,4-二羥呋喃-2,5-二甲酸": "tetrahydro-3,4-dihydroxy-dehydromucic acid"
+    },
+    {
+        "四氫對二噻【口+井】；二噻【口+山】": "tetrahydro-p-dithiin; dithiane"
+    },
+    {
+        "四氫葉酸": "tetrahydrofolic acid"
+    },
+    {
+        "四氫呋喃": "tetrahydrofuran"
+    },
+    {
+        "四氫糠醛；2-四氫呋喃甲醛": "tetrahydrofurfural"
+    },
+    {
+        "四氫-2-呋喃甲酸；四氫糠酸": "tetrahydro-2-furoic acid"
+    },
+    {
+        "乙酸四氫糠酯；乙酸四氫呋喃甲酯": "tetrahydrofurfuryl acetate"
+    },
+    {
+        "丙烯酸四氫糠酯；丙烯酸四氫呋喃甲酯": "tetrahydrofurfuryl acrylate"
+    },
+    {
+        "四氫糠醇；四氫呋喃甲醇": "tetrahydrofurfuryl alcohol"
+    },
+    {
+        "苯甲酸四氫糠酯；苯甲酸四氫呋喃甲酯": "tetrahydrofurfuryl benzoate"
+    },
+    {
+        "己酸四氫糠酯；己酸四氫呋喃甲酯": "tetrahydrofurfuryl caproate"
+    },
+    {
+        "乳酸四氫糠酯；乳酸四氫呋喃甲酯": "tetrahydrofurfuryl lactate"
+    },
+    {
+        "甲基丙烯酸四氫糠酯；甲基丙烯酸四氫呋喃甲酯": "tetrahydrofurfuryl methacrylate"
+    },
+    {
+        "棕櫚酸四氫糠酯；棕櫚酸四氫呋喃甲酯": "tetrahydrofurfuryl palmitate"
+    },
+    {
+        "柳酸四氫糠酯；柳酸四氫呋喃甲酯": "tetrahydrofurfuryl salicylate"
+    },
+    {
+        "四氫糠胺；2-四氫呋喃甲胺": "tetrahydrofurfurylamine"
+    },
+    {
+        "四氫香葉[草]醇；3,7-二甲基辛醇": "tetrahydrogeraniol; 3,7-dimethyl-1-octanol"
+    },
+    {
+        "四氫咪唑": "tetrahydroglyoxaline; tetrahydroimidazole"
+    },
+    {
+        "四氫沈香醇；四氫芳樟醇": "tetrahydrolinalool"
+    },
+    {
+        "雙環戊二烯": "3a,4,7,7a-tetrahydro-4,7-methano-1H-inden; dicyclopentadiene"
+    },
+    {
+        "1,2,3,4-四氫-6-甲氧喹啉；沙啉": "1,2,3,4-tetrahydro-6-methoxyquinoline; thalline"
+    },
+    {
+        "1,2,5,6-四氫-1-甲菸鹼酸；檳榔鹼酸": "1,2,5,6-tetrahydro-1-methylnicotinic acid; arecaidine"
+    },
+    {
+        "5,6,7,8-四氫-1-萘胺": "5,6,7,8-tetrahydro-1-naphthylamine"
+    },
+    {
+        "1,2,3,4-四氫萘；四氫萘": "1,2,3,4-tetrahydro-naphthalene; tetralin"
+    },
+    {
+        "四氫哌喃": "tetrahydropyran"
+    },
+    {
+        "四氫-1,4-【口咢】【口井】；【口末】啉；嗎福林": "tetrahydro-1,4-oxazine; morpholine"
+    },
+    {
+        "四氫5-側氧-3-呋喃甲酸；副分解烏頭酸": "tetrahydro-5-oxo-3-furancarboxylic acid; paraconic acid"
+    },
+    {
+        "四氫酞酸": "tetrahydrophthalic acid"
+    },
+    {
+        "四氫除蟲菊酮；二氫茉莉酮": "tetrahydropyrethrone; dihydrojasmone"
+    },
+    {
+        "四氫吡咯；吡咯啶": "tetrahydropyrrole; pyrrolidine"
+    },
+    {
+        "四氫-2H-哌喃-2-酮；四氫-α-哌喃酮；戊內酯": "tetrahydro-2H-pyran-2-one; tetrahydro-α-pyrone; tetrahydrocoumalin; δ-valerolactone"
+    },
+    {
+        "四氫苯醌；1,4-環己二酮": "tetrahydroquinone; 1,4-cyclohexanedione"
+    },
+    {
+        "1,2,3,4-四氫喹啉": "1,2,3,4-tetrahydroquinoline"
+    },
+    {
+        "四氫噻吩-1,1-二酮；環丁碸": "tetrahydrothiophene-1,1-dioxide; sulfolane; sulpholane"
+    },
+    {
+        "四氫【草(之上)+叨】；四氫甲苯；甲環己烯": "tetrahydrotoluene; methylcyclohexene"
+    },
+    {
+        "四羥己二酸": "tetrahydroxyadipic acid"
+    },
+    {
+        "1,2,5,6-四羥蒽醌；絳雅片素": "1,2,5,6-tetrahydroxy-anthraquinone; rufiopin"
+    },
+    {
+        "四羥苯；苯四酚": "tetrahydroxybenzene"
+    },
+    {
+        "2,3,4,5-四羥苯甲酸": "2,3,4,5-tetrahydroxybenzoic acid"
+    },
+    {
+        "四羥黃酮醇": "tetrahydroxyflavonol"
+    },
+    {
+        "3,7,3',4'-四羥黃酮；黃櫨素": "3,7,3',4'-tetrahydroxy-flavone; fisetin"
+    },
+    {
+        "四羥苯醌": "tetrahydroxyquinone"
+    },
+    {
+        "四羥硬脂酸": "tetrahydroxystearic acid"
+    },
+    {
+        "四碘苯": "tetraiodobenzene"
+    },
+    {
+        "四碘乙烯": "tetraiodoethylene"
+    },
+    {
+        "2',4',5',7'-四碘螢光黃；2',4',5',7'-四碘螢光素": "2',4',5',7'-tetraiodo-fluorescein"
+    },
+    {
+        "四碘甲烷；四碘化碳": "tetraiodomethane"
+    },
+    {
+        "四碘酚酞": "tetraiodophenolphthalein"
+    },
+    {
+        "四碘酚酞鈉": "tetraiodophenolphthalein sodium"
+    },
+    {
+        "四碘酞[酸]酐": "tetraiodophthalic anhydride"
+    },
+    {
+        "四碘吡咯": "tetraiodopyrrole; iodol; iodole"
+    },
+    {
+        "甲狀腺素": "tetaiodothyronine; thyroxine"
+    },
+    {
+        "四異戊鉛": "tetraisoamyllead"
+    },
+    {
+        "四異戊矽；四異戊[單]矽烷": "tetraisoamylsilicane; tetraisoamylsilane"
+    },
+    {
+        "四異戊錫": "tetraisoamyltin"
+    },
+    {
+        "四(羥甲基)甲烷；新戊四醇": "tetrakis(hydroxymethyl)-methane; pentaerythritol"
+    },
+    {
+        "四氫萘；1,2,3,4-四氫萘": "tetralin; 1,2,3,4-tetrahydro-naphthalene"
+    },
+    {
+        "氯化四(羥甲基)鏻": "tetrakis(hydroxymethyl)-phosphonium chloride"
+    },
+    {
+        "四氫萘醇": "tetralol"
+    },
+    {
+        "四氫萘酮": "tetralone"
+    },
+    {
+        "N,N,N',N'-肆(2-羥丙)乙二醇": "N,N,N',N'-tetrakis(2-hydroxypropyl)-ethylenediamine"
+    },
+    {
+        "3,3',5,5'-四甲氧聯對苯醌；木醋醌": "3,3',5,5'-tetramethoxy-diphenoquinone; cerulignone"
+    },
+    {
+        "四乙氧矽；四乙氧[單]矽烷": "tetraethoxysilicane; tetraethoxysilane"
+    },
+    {
+        "四甲雙四氧嘧啶；阿美酸；柔和酸": "tetramethylalloxantin; amalic acid; amalinic acid"
+    },
+    {
+        "溴化四甲銨": "tetramethylammonium bromide"
+    },
+    {
+        "氫氧化四甲銨": "tetramethylammonium hydroxide"
+    },
+    {
+        "2,3,4,5-四甲苯胺": "2,3,4,5-tetramethylaniline"
+    },
+    {
+        "氫氧化四甲鉮；氫氧化四甲胂": "tetramethylarsenium hydroxide; tetramethylarsonium hydroxide"
+    },
+    {
+        "四甲苯": "tetramethylbenzene"
+    },
+    {
+        "1,2,4,5-四甲苯；荰": "1,2,4,5-tetramethylbenzene; durene"
+    },
+    {
+        "四甲二胂；聯二甲胂": "tetramethylbiarsine"
+    },
+    {
+        "氫過氧化1,1,3,3-四甲基丁基": "1,1,3,3-tetramethylbutyl hydroperoxide"
+    },
+    {
+        "2,2,4,4-四甲-1,3-環丁二酮": "2,2,4,4-tetramethyl-1,3-cyclobutanedione"
+    },
+    {
+        "雙(對二甲胺苯)甲烷": "p,p'-tetramethyldiamino-diphenylmethane"
+    },
+    {
+        "N,N,N',N'-四甲-1,3-二胺丙烷": "N,N,N',N'-tetramethyl-1,3-diaminopropane"
+    },
+    {
+        "環丁烷": "tetramethylene; cyclobutane"
+    },
+    {
+        "伸丁二胺；四亞甲二胺": "tetramethylenediamine"
+    },
+    {
+        "N-(1,1,3,3-四甲基丁)丙烯醯胺；N-三級-辛基丙烯醯胺": "N-(1,1,3,3-tetramethyl-butyl)acrylamide; N-tert-octylacrylamide"
+    },
+    {
+        "四甲基乙烯；2,3-二甲-2-丁烯": "tetramethylethylene; 2,3-dimethyl-2-butene"
+    },
+    {
+        "氧化伸丁基；四氫呋喃": "tetramethylene oxide; tetrahydrofuran {= THF}"
+    },
+    {
+        "氯溴化伸丁基": "tetramethylene chlorobromide"
+    },
+    {
+        "二溴化伸丁基": "tetramethylene dibromide"
+    },
+    {
+        "伸丁二醇": "tetramethylene glycol"
+    },
+    {
+        "磷酸伸丁酯": "tetramethylene phosphate"
+    },
+    {
+        "硫化伸丁基；四氫噻吩": "tetramethylene sulfide; tetrahydrothiophene"
+    },
+    {
+        "四甲基乙烯": "tetramethylethylene"
+    },
+    {
+        "N,N,N',N'-四甲基乙二胺": "N,N,N',N'-tetramethyl-ethylenediamine"
+    },
+    {
+        "四甲-O-葡萄哌喃糖": "tetramethyl-O-glucopyranose"
+    },
+    {
+        "四甲-O-葡萄糖": "tetramethyl-O-glucose"
+    },
+    {
+        "四甲[基]鉛": "tetramethyllead; tetramethylplumbane"
+    },
+    {
+        "N,N,N',N'-四甲三(對胺苯)甲烷；N,N,N',N'-四甲[對]白苯胺": "N,N,N',N'-tetramethyl-p-leucaniline"
+    },
+    {
+        "四羥甲基甲烷；新戊四醇": "tetramethylolmethane; pentaerythritol"
+    },
+    {
+        "四甲基苯二胺": "tetramethylphenylene-diamine"
+    },
+    {
+        "四甲六氫吡啶酮": "tetramethylpiperidone"
+    },
+    {
+        "四甲矽；四甲[單]矽烷": "tetramethylsilicane; tetramethylsilane"
+    },
+    {
+        "四甲錫": "tetramethylstannane; tetramethyltin"
+    },
+    {
+        "四甲琥珀酸；四甲基丁二酸": "tetramethylsuccinic acid"
+    },
+    {
+        "二硫化四甲胺硫甲醯基；硫蘭": "tetramethylthiuram disulfide; thiram"
+    },
+    {
+        "四甲三胺三苯甲烷；胺苯雙(二甲胺苯)甲烷": "tetramethyltriamino-triphenylmethane"
+    },
+    {
+        "四甲脲": "tetramethylurea"
+    },
+    {
+        "四甲尿酸": "tetramethyluric acid"
+    },
+    {
+        "四咹": "tetramin"
+    },
+    {
+        "漢防己鹼": "tetrandrine"
+    },
+    {
+        "四硝苯胺": "tetranitroaniline"
+    },
+    {
+        "四硝苯基甲基醚": "tetranitroanisole"
+    },
+    {
+        "2,2',4,4'-四硝羰胺苯": "2,2',4,4'&#45;-tetranitro-carbanilide"
+    },
+    {
+        "四硝咔唑": "tetranitrocarbazole"
+    },
+    {
+        "四硝金黃異茜素；四硝-1,8-二羥蒽醌": "tetranitrochrysazin"
+    },
+    {
+        "四硝二甘油；一縮二甘油四硝酸酯": "tetranitrodiglycerol"
+    },
+    {
+        "四硝二羥聯苯": "tetranitrodihydroxydiphenyl"
+    },
+    {
+        "四硝二苯胺": "tetranitrodiphenylamine"
+    },
+    {
+        "二硫四硝二苯": "tetranitrodiphenyl disulfide"
+    },
+    {
+        "四硝二苯基醚": "tetranitrodiphenyl ether"
+    },
+    {
+        "四硝二苯甲烷": "tetranitrodiphenylmethane"
+    },
+    {
+        "四硝糖醇；赤藻糖醇四硝酸酯": "tetranitrol; erythritol tetranitrate"
+    },
+    {
+        "四硝甲烷": "tetranitromethane"
+    },
+    {
+        "四硝萘": "tetranitronaphthalene"
+    },
+    {
+        "四苯氧矽[烷]": "tetraphenoxysilicane"
+    },
+    {
+        "氯化四苯胂": "tetraphenylarsonium chloride"
+    },
+    {
+        "四伸苯": "tetraphenylene"
+    },
+    {
+        "對稱四苯乙烷": "sym-tetraphenylethane"
+    },
+    {
+        "四苯乙烯": "tetraphenylethylene"
+    },
+    {
+        "四苯呋喃": "tetraphenylfuran"
+    },
+    {
+        "四苯胍": "tetraphenylguanidine"
+    },
+    {
+        "四苯肼": "tetraphenylhydrazine"
+    },
+    {
+        "四苯鉛": "tetraphenyllead"
+    },
+    {
+        "四苯甲烷": "tetraphenylmethane"
+    },
+    {
+        "四苯吡【口+井】": "tetraphenylpyrazine"
+    },
+    {
+        "四苯矽[烷]": "tetraphenylsilicane; tetraphenylsilane"
+    },
+    {
+        "四苯錫": "tetraphenyltin"
+    },
+    {
+        "四苯脲": "tetraphenylurea"
+    },
+    {
+        "四丙氧矽[烷]": "tetrapropoxysilicane"
+    },
+    {
+        "原碳酸四丙酯": "tetrapropyl orthocarbonate"
+    },
+    {
+        "碘化四丙銨": "tetrapropylammonium iodide"
+    },
+    {
+        "四丙鉛": "tetrapropyllead"
+    },
+    {
+        "溴化四苯鏻": "tetraphenylphosphonium bromide"
+    },
+    {
+        "四丙錫": "tetrapropyltin"
+    },
+    {
+        "過錸酸四吡啶銅(II)": "tetrapyridinecopper(II) perrhenate"
+    },
+    {
+        "四【草(之上)+叨】鉛；四(甲苯)鉛": "tetratolyllead"
+    },
+    {
+        "四【草(之上)+叨】矽[烷]": "tetratolylsilicane"
+    },
+    {
+        "四【草(之上)+叨】錫；四(甲苯)錫": "tetratolyltin"
+    },
+    {
+        "四鄰【草(之上)+叨】錫；四(鄰甲苯)錫": "tetra-o-tolyltin"
+    },
+    {
+        "三十四烷": "tetratriacontane"
+    },
+    {
+        "三十四醇": "tetratriacontanol"
+    },
+    {
+        "四氮烷；雙肼": "tetrazane"
+    },
+    {
+        "四氮烯": "tetrazene"
+    },
+    {
+        "四【口+井】": "tetrazine"
+    },
+    {
+        "偏四【口+井】": "a-tetrazine"
+    },
+    {
+        "均四【口+井】": "s-tetrazine"
+    },
+    {
+        "毗四【口+井】": "v-tetrazine"
+    },
+    {
+        "四唑": "tetrazole"
+    },
+    {
+        "特春酸；α-甲特窗酸": "tetrinic acid; α-methyltetronic acid"
+    },
+    {
+        "丁醣醇；丁四醇": "tetritol"
+    },
+    {
+        "河豚毒素鹼": "tetrodotoxin"
+    },
+    {
+        "2-丁炔醛；甲基丙炔醛": "tetrolaldehyde; methylpropiolic aldehyde"
+    },
+    {
+        "2-丁炔酸；甲基丙炔酸": "tetrolic acid"
+    },
+    {
+        "太妥那；二乙碸戊烷": "tetronal"
+    },
+    {
+        "四羥苯醌": "tetroquinone; tetrahydroxy quinone"
+    },
+    {
+        "四聚乙醛": "1,3,5,7-tetroxocane; metaldehyde"
+    },
+    {
+        "特窗酸；2,4-二氧四氫呋喃": "tetronic acid"
+    },
+    {
+        "丁醣": "tetrose"
+    },
+    {
+        "特出兒；四硝基炸藥；N-甲-N,2,4,6-四硝苯胺": "tetryl; N-methyl-N,2,4,6-tetranitroaniline"
+    },
+    {
+        "沙利多邁；α-酞醯亞胺戊二醯亞胺": "thalidomide"
+    },
+    {
+        "沙啉；6-甲氧-1,2,3,4-四氫喹啉": "thalline; 6-methoxy-1,2,3,4-tetrahydroquinoline"
+    },
+    {
+        "甲酸鉈(III)": "thallic formate"
+    },
+    {
+        "草酸鉈(III)": "thallic oxalate"
+    },
+    {
+        "乙酸鉈(I)": "thallium(I) acetate"
+    },
+    {
+        "乙酸鉈(III)": "thallium(III) acetate"
+    },
+    {
+        "肉豆蔻酸鉈(I)；十四酸鉈(I)": "thallium(I) myristate"
+    },
+    {
+        "油酸鉈(I)": "thallium oleate"
+    },
+    {
+        "草酸鉈(I, III)": "thallium (I, III) oxalate"
+    },
+    {
+        "苦味酸鉈(I)": "thallium(I) picrate"
+    },
+    {
+        "軟脂酸鉈(I)；十六酸鉈(I)": "thallium(I) palmitate"
+    },
+    {
+        "硬脂酸鉈(I)；十八酸鉈(I)": "thallium(I) stearate"
+    },
+    {
+        "酒石酸鉈(I)": "thallium(I) tartrate"
+    },
+    {
+        "乙酸亞鉈": "thallous acetate"
+    },
+    {
+        "甲酸亞鉈": "thallous formate"
+    },
+    {
+        "草酸亞鉈": "thallous oxalate"
+    },
+    {
+        "硬脂酸亞鉈": "thallous stearate"
+    },
+    {
+        "塔普酸；十六烷二酸": "thapsic acid"
+    },
+    {
+        "茶胺酸；麩胺酸-γ-乙醯胺": "theanine; glutamic acid-γ-mono-ethylamide"
+    },
+    {
+        "茶胺；茶鹼乙醇胺": "theamin; theophylline ethanolamine"
+    },
+    {
+        "蒂巴因；副嗎啡": "thebaine; paramorphine"
+    },
+    {
+        "蒂巴因鹽酸鹽；副嗎啡鹽酸鹽": "thebaine hydrochloride; paramorphine hydrochloride"
+    },
+    {
+        "蒂巴因酮": "thebainone"
+    },
+    {
+        "雌酮": "theelin; estrone"
+    },
+    {
+        "雌三醇": "theelol; estriol"
+    },
+    {
+        "咖啡鹼；咖啡因": "theine; caffein; caffeine"
+    },
+    {
+        "噻吩甲醯三氟丙酮": "thenoyltrifuoroacetone"
+    },
+    {
+        "噻吩甲醇": "thenyl alcohol; 2-thiophene carbinol"
+    },
+    {
+        "可可[豆]鹼": "theobromine"
+    },
+    {
+        "茶鹼": "theophylline"
+    },
+    {
+        "涕必靈；4-(2-苯并咪唑)噻唑": "thiabendazole; 4-(2-benzimidazolyl)-thiazole"
+    },
+    {
+        "硫乙醯胺": "thiacetamide"
+    },
+    {
+        "2,5-二巰-1,3,4-噻二唑": "1,3,4-thiadiazolidine-2,5-dithione; 2,5-dimercapto-1,3,4-thiadiazole"
+    },
+    {
+        "硫乙O-酸": "thiacetic O-acid; thioacetic O-acid"
+    },
+    {
+        "硫乙S-酸": "thiacetic S-acid; thioacetic S-acid"
+    },
+    {
+        "噻啶；硫乙醛胺；二硫三聚乙醛胺": "thialdine"
+    },
+    {
+        "噻胺；維生素B1": "thiamin; thiamine; vitamin B1"
+    },
+    {
+        "噻胺二磷酸酯；噻胺焦磷酸酯": "thiamin diphosphate; thiamin pyrophosphate"
+    },
+    {
+        "噻胺鹽酸鹽": "thiamin hydrochloride"
+    },
+    {
+        "噻茚；苯并噻吩": "thianaphthene"
+    },
+    {
+        "噻蒽；二硫化二伸苯": "thianthrene; diphylene disulfide"
+    },
+    {
+        "噻哌喃": "thiapyran"
+    },
+    {
+        "噻三唑": "thiatriazole"
+    },
+    {
+        "噻䓬": "thiatropylidene"
+    },
+    {
+        "噻【口+山】【口+星】；二苯并噻哌喃": "thiaxanthene"
+    },
+    {
+        "四氫噻【口+井】": "thiazan"
+    },
+    {
+        "噻【口+井】": "thiazine"
+    },
+    {
+        "噻唑": "thiazole"
+    },
+    {
+        "四氫噻唑": "thiazolidine"
+    },
+    {
+        "二氫噻唑酮": "thiazolone"
+    },
+    {
+        "4-四氫噻唑酮；4-氧四氫噻唑": "4-thiazolidone"
+    },
+    {
+        "噻唑啉": "thiazoline"
+    },
+    {
+        "2-噻吩酚": "2-thienol"
+    },
+    {
+        "噻吩酮；2,2'-二噻吩[基]酮": "α,α-thienone; 2,2'-dithienyl ketone"
+    },
+    {
+        "2-噻吩乙酸": "2-thienylacetic acid; 2-thiophene acetic acid"
+    },
+    {
+        "N-2-噻吩乙醯胺；N-乙醯-2-噻吩胺": "N-2-thienylacetamide"
+    },
+    {
+        "2-噻吩硼酸": "2-thienylboric acid"
+    },
+    {
+        "2-噻吩甲醇": "2-thienylcarbinol; 2-thiophenecarbinol"
+    },
+    {
+        "2-噻吩甲醯甲酸；2-噻吩乙醛酸": "2-thienylglyoxylic acid"
+    },
+    {
+        "噻喃；環硫乙烷": "thiiran; ethylene sulfide"
+    },
+    {
+        "乙汞硫柳酸鈉": "thimerosal"
+    },
+    {
+        "硫乙醛；乙硫醛": "thioacetaldehyde"
+    },
+    {
+        "硫乙醯胺": "thioacetamide"
+    },
+    {
+        "硫乙醯胺苯": "thioacetanilide"
+    },
+    {
+        "硫乙酸": "thioacetic acid"
+    },
+    {
+        "硫丙酮；丙硫酮": "thioacetone"
+    },
+    {
+        "烯丙硫醚；二烯丙基硫醚": "thioallyl ether"
+    },
+    {
+        "二胺苯基硫醚": "thioaniline"
+    },
+    {
+        "大茴香硫醚；苯基甲基硫醚": "thioanisole"
+    },
+    {
+        "硫巴比妥酸；丙二醯硫脲": "thiobarbituric acid; malonylthiourea"
+    },
+    {
+        "苯甲硫醛；硫苯甲醛": "thiobenzaldehyde"
+    },
+    {
+        "硫苯甲醯胺苯": "thiobenzaniline; thiobenzanilide"
+    },
+    {
+        "二苯甲硫醇": "thiobenzhydrol"
+    },
+    {
+        "硫苯甲酸": "thiobenzoic acid"
+    },
+    {
+        "硫苯甲O-酸；苯硫甲O-酸": "thiobenzoic O-acid; benzene carbothioic O-acid"
+    },
+    {
+        "二苯基硫酮": "thiobenzophenone"
+    },
+    {
+        "苄硫醇；苯甲硫醇": "thiobenzyl alcohol"
+    },
+    {
+        "[二]苯硫醚": "1,1'-thiobisbenzene; diphenylsulfide"
+    },
+    {
+        "硫胺甲酸": "thiocarbamic acid"
+    },
+    {
+        "硫脲": "thiocarbamide; thiourea"
+    },
+    {
+        "N-(胺甲硫羰醯胺)乙醯胺；乙醯硫脲": "N-(thiocarbamyl)acetamide; acetylthiourea"
+    },
+    {
+        "二苯硫脲": "thiocarbanilide"
+    },
+    {
+        "硫卡肼": "thiocarbohydrazide"
+    },
+    {
+        "硫羰氯；硫光氣": "thiocarbonyl chloride; thiophosgene"
+    },
+    {
+        "四氯甲硫醇；全氯甲硫醇": "thiocarbonyl tetrachloride; perchloromethyl mercaptan"
+    },
+    {
+        "硫【口+克】唍；二氫苯并噻喃": "thiochroman; thiochromane"
+    },
+    {
+        "硫【口+克】唍酮": "thiochromanone"
+    },
+    {
+        "硫色素": "thiochrome"
+    },
+    {
+        "硫【口+克】烯": "thiochromene"
+    },
+    {
+        "硫【口+克】烯酮": "thiochromone"
+    },
+    {
+        "鄰甲苯硫酚": "o-thiocresol"
+    },
+    {
+        "類脂酸；硫辛酸": "thioctic acid; lipoic acid"
+    },
+    {
+        "三聚硫氰酸": "thiocyanuric acid; trithiocyanuric acid"
+    },
+    {
+        "p,p'-硫化二(苯胺)；硫化雙(4-胺苯)": "p,p'-thiodianiline"
+    },
+    {
+        "2,2'-硫二乙醇": "2,2'-thiodiethanol"
+    },
+    {
+        "二乙醇硫醚；硫二甘醇；2,2'-硫二乙醇": "thiodiglycol; thiodiethyleneglycol; 2,2'-thiodiethanol"
+    },
+    {
+        "二苯并噻【口+井】": "thiodiphenylamine; phenothiazine"
+    },
+    {
+        "3,3'-硫二丙酸": "3,3'-thiodipropionic acid"
+    },
+    {
+        "乙硫醚；二乙基硫醚": "thioether"
+    },
+    {
+        "硫乙醇": "thioethyl alcohol"
+    },
+    {
+        "[三聚]甲硫醛；硫甲醛": "thioformaldehyde"
+    },
+    {
+        "甲硫醛{三聚體}": "thioformaldehyde {trimer}"
+    },
+    {
+        "硫甲醯胺": "thioformamide"
+    },
+    {
+        "硫甲醯胺苯": "thioformanilide"
+    },
+    {
+        "硫呋喃；噻吩": "thiofuran; thiophene"
+    },
+    {
+        "硫甘油；3-巰-1,2-丙二醇": "thioglycerol; thioglycerin"
+    },
+    {
+        "1-硫甘油；1-硫丙三醇": "1-thioglycerol"
+    },
+    {
+        "硫甘醇；硫乙二醇；2-巰乙醇": "thioglycol"
+    },
+    {
+        "巰乙酸；硫乙醇酸": "thioglycolic acid"
+    },
+    {
+        "硫乙內醯脲；硫尿囊素": "thiohydantoin"
+    },
+    {
+        "巰丙酸；氫硫丙酸": "thiohydracrylic acid"
+    },
+    {
+        "對巰苯酚；硫氫醌": "thiohydroquinone"
+    },
+    {
+        "硫靛藍": "thioindigo"
+    },
+    {
+        "噻茚酚；3-羥噻茚": "thioindoxyl"
+    },
+    {
+        "噻茚甲酸": "thioindoxylic acid"
+    },
+    {
+        "硫靛紅；苯并噻吩醌": "thioisatin; thionaphthenequinone"
+    },
+    {
+        "硫乙酸；硫醋酸": "thiolacetic acid; thioacetic acid"
+    },
+    {
+        "α-巰丙酸；硫代乳酸": "thiolactic acid"
+    },
+    {
+        "巰甲酸；一硫代碳酸": "thiolcarbonic acid"
+    },
+    {
+        "巰組胺酸甲基內鹽；麥角硫鹼": "thiolhistidine betain; ergothioneine"
+    },
+    {
+        "巰丁二酸；硫代蘋果酸": "thiomalic acid"
+    },
+    {
+        "噻茚；苯并噻吩": "thionaphthene; benzothiophene"
+    },
+    {
+        "苯并噻吩醌": "thionaphthenequinone"
+    },
+    {
+        "麥角硫鹼": "thioneine; ergothioneine"
+    },
+    {
+        "噻嚀；勞氏紫": "thionin; thionine; Lauth's violet"
+    },
+    {
+        "二苯亞碸": "thionylbenzene; diphenyl sulfoxide"
+    },
+    {
+        "溴化硫醯基；亞硫醯溴": "thionyl bromide"
+    },
+    {
+        "溴氯化硫醯基；亞硫醯氯溴": "thionyl bromide chloride; thionyl bormochloride"
+    },
+    {
+        "氯化硫醯基；亞硫醯氯": "thionyl chloride"
+    },
+    {
+        "氟化硫醯基；亞硫醯氟": "thionyl fluoride"
+    },
+    {
+        "四氫噻吩": "thiophane"
+    },
+    {
+        "噻吩": "thiophene"
+    },
+    {
+        "噻吩甲醛": "thiophene aldehyde; thiophene carbinal; thiophenemethanal"
+    },
+    {
+        "2,5-噻吩二甲酸": "2,5-thiophene dicarboxylic acid"
+    },
+    {
+        "2,5-噻吩二甲酸[二]乙酯": "2,5-thiophene dicarboxylic acid diethyl ester"
+    },
+    {
+        "2-噻吩乙酸": "2-thiopheneacetic acid"
+    },
+    {
+        "噻吩甲醛肟": "2-thiophenecarbinal oxime; 2-thiophenemethanal oxime"
+    },
+    {
+        "噻吩甲醛苯腙": "2-thiophenecarbinal phenylhydrazone; 2-thiophenemethanal phenylhydrazone"
+    },
+    {
+        "噻吩甲醇": "thiophenecarbinol; 2-thiophenemethanol"
+    },
+    {
+        "2-噻吩甲酸": "2-thiophenecarboxylic acid; 2-thiophenic acid"
+    },
+    {
+        "2-噻吩磺醯胺": "2-thiophenesulfonamide"
+    },
+    {
+        "2-噻吩胺": "2-thiophenine"
+    },
+    {
+        "苯硫酚；硫酚": "thiophenol; phenylmercaptan"
+    },
+    {
+        "硫光氣；二氯化硫羰": "thiophosgene; thiocarbonyl chloride"
+    },
+    {
+        "硫苦味酸": "thiopicric acid"
+    },
+    {
+        "硫丙醯胺": "thiopropionamide"
+    },
+    {
+        "硫吡啉": "thiopyrine; thioantipyrine"
+    },
+    {
+        "硫柳酸；鄰巰苯甲酸": "thiosalicylic acid; o-mercaptobenzoic acid"
+    },
+    {
+        "硫半卡肼": "thiosemicarbazide"
+    },
+    {
+        "烯丙硫脲": "thiosinamine; allylthiourea"
+    },
+    {
+        "2-甲噻吩": "2-thiotolene; 2-methylthiophene"
+    },
+    {
+        "硫尿嘧啶": "2-thiouracil"
+    },
+    {
+        "硫脲": "thiourea"
+    },
+    {
+        "硫烏拉坦；硫胺甲酸乙酯": "thiourethane"
+    },
+    {
+        "二硫草酸": "thioxalic acid"
+    },
+    {
+        "1,4-氧硫【口+山】": "1,4-thioxane; 1,4-oxathiane"
+    },
+    {
+        "硫【口+山】【口+星】": "thioxanthene"
+    },
+    {
+        "9-氧硫【口+山】【口+星】": "thioxanthone"
+    },
+    {
+        "2,3-二甲噻吩": "thioxene; 2,3-dimethylthiophene"
+    },
+    {
+        "2-噻吩甲醯甲酸；α-側氧-2-噻吩乙酸": "2-thioylformic acid; α-oxo-2-thiophenacetic acid"
+    },
+    {
+        "苦味酸釷": "thorium picrate"
+    },
+    {
+        "蘇-1-胺-1,2-二苯丙烷": "threo-1-amino-1,2-diphenylpropane"
+    },
+    {
+        "蘇胺酸": "threonine"
+    },
+    {
+        "蘇糖": "D-threose"
+    },
+    {
+        "側柏【草(之上)+孟】醇": "thujamenthol"
+    },
+    {
+        "側柏【草(之上)+孟】酮": "thujamenthone"
+    },
+    {
+        "側柏烷": "thujane"
+    },
+    {
+        "檜酚酮": "thujaplicin"
+    },
+    {
+        "β-檜酚酮；β-異丙䓬酚酮": "β-thujaplicin; hinokitiol"
+    },
+    {
+        "側柏烯": "thujene"
+    },
+    {
+        "【草(之上)+仇】烯酸": "thujic acid"
+    },
+    {
+        "側柏酮": "thujone; 3-thujanone"
+    },
+    {
+        "側柏醇；【草(之上)+丟】醇": "thujyl alcohol"
+    },
+    {
+        "草酸銩": "thulium oxalate"
+    },
+    {
+        "百里[香]烯": "thymene"
+    },
+    {
+        "[去氧]胸苷": "thymidine"
+    },
+    {
+        "[去氧]胸苷-5'-單磷酸酯；[去氧]胸苷酸": "thymidine-5'-monophosphate; thymidylic acid"
+    },
+    {
+        "胸[腺]嘧啶": "thymine"
+    },
+    {
+        "D-2-去氧核糖": "thyminose; D-2-deoxyribose"
+    },
+    {
+        "瑞香[草]酚；2-甲-5-異丙[苯]酚": "thymol; thyme camphor; 2-methyl-5-isopropylphenol"
+    },
+    {
+        "乙酸瑞香[草]酯": "thymol acetate"
+    },
+    {
+        "瑞香[草]酚藍；瑞香[草]酚磺酞": "thymol blue; thymolsulfonephthalein"
+    },
+    {
+        "雙瑞香[草]碘酚": "thymol iodide; thymiodol; thymodin"
+    },
+    {
+        "瑞香[草]酚酞": "thymophthalein"
+    },
+    {
+        "瑞香[草]酚磺酸": "thymosulfonic acid"
+    },
+    {
+        "瑞香[草]氫醌": "thymoquinol; thymohydroquinone"
+    },
+    {
+        "瑞香[草]醌": "thymoquinone"
+    },
+    {
+        "瑞香[草]醌-2-肟": "thymoquinone-2-oxime"
+    },
+    {
+        "瑞香[草]酚甲酸": "thymotic acid; thymotinic acid; o-thymolcarboxylic acid"
+    },
+    {
+        "瑞香[草]甲[酸]酐": "thymotic anhydride"
+    },
+    {
+        "瑞香[草]甲醇": "thymotinic alcohol; thymotic alcohol"
+    },
+    {
+        "瑞香[草]甲醛": "thymotinic aldehyde"
+    },
+    {
+        "瑞香[草]胺": "thymylamine"
+    },
+    {
+        "甲[狀]腺胺酸": "thyronine"
+    },
+    {
+        "甲狀腺素；3,5,3',5'-四碘甲[狀]腺胺酸": "thyroxine; 3,5,3',5'-tetraiodothyronine"
+    },
+    {
+        "甘菊花醛": "tigaldehyde; tiglic aldehyde"
+    },
+    {
+        "甘菊花酸": "tiglic acid"
+    },
+    {
+        "乙酸錫(II)": "tin(II) acetate"
+    },
+    {
+        "乙酸錫(IV)": "tin(IV) acetate"
+    },
+    {
+        "試鈦靈；兒茶酚-3,5-二磺酸鈉": "tiron"
+    },
+    {
+        "草酸鈦；乙二酸鈦": "titanium oxalate"
+    },
+    {
+        "噻唑黃": "titan yellow; thiazol yellow"
+    },
+    {
+        "硫拉母；二硫化四甲胺硫甲醯": "thiram; tetramethylthiuramdisulfide {=TMTD}"
+    },
+    {
+        "2,4,6-三硝苯胺；苦味胺": "2,4,6-trinitroaniline {= TNA}"
+    },
+    {
+        "三硝苯": "trinitrobenzene {= TNB}"
+    },
+    {
+        "2,4,6-三硝甲苯": "2,4,6-trinitrotoluene {= TNT}"
+    },
+    {
+        "妥別亞酸；2-胺萘-1-磺酸": "tobias acid; 2-aminonaphthalene-1-sulfonic acid"
+    },
+    {
+        "α-生育酚；維生素E；維他命E": "α-tocopherol; vitamin E"
+    },
+    {
+        "α-生育醌": "tocoquinone; α-tocopherolquinone"
+    },
+    {
+        "二苯乙炔": "tolane; diphenylacetylene"
+    },
+    {
+        "二溴二苯乙烯": "tolane dibromide"
+    },
+    {
+        "2-苄-4,5-咪唑啉": "tolazoline; 2-benzyl-4,5-imidazoline"
+    },
+    {
+        "聯鄰甲苯胺；4,4'-二胺-3,3'-二甲聯苯": "o-tolidine"
+    },
+    {
+        "聯【草(之上)+叨】甲醯；聯甲苯甲醯": "tolil"
+    },
+    {
+        "【草(之上)+叨】利酸；二【草(之上)+叨】乙醇酸": "tolilic acid; ditolylglycylic acid"
+    },
+    {
+        "鄰【草(之上)+叨】甲醛；鄰甲苯甲醛": "o-tolualdehyde"
+    },
+    {
+        "苯乙醛": "α-tolualdehyde; phenylacetaldehyde"
+    },
+    {
+        "鄰【草(之上)+叨】甲醯胺；鄰甲苯甲醯胺": "o-toluamide"
+    },
+    {
+        "苯乙醯胺": "α-toluamide; phenylacetamide"
+    },
+    {
+        "甲苯": "toluene"
+    },
+    {
+        "2-【草(之上)+叨】胂酸；2-甲苯胂酸": "2-toluenearsonic acid"
+    },
+    {
+        "甲苯二異氰酸；2,4-二異氰酸甲苯酯": "toluene 2,4-diisocyanate {= TDI}"
+    },
+    {
+        "甲苯偶氮萘胺": "tolueneazonaphthylamine"
+    },
+    {
+        "鄰甲苯硼酸": "o-tolueneboronic acid; o-tolueneboric acid"
+    },
+    {
+        "苄硼酸": "α-tolueneboronic acid; benzylboric acid"
+    },
+    {
+        "α,2-甲苯二甲酸；升酞酸": "α,2-toluenedicarboxylic acid; homophthalic acid"
+    },
+    {
+        "鄰羥苄醇；柳醇": "α,2-toluenediol; saligenin"
+    },
+    {
+        "甲苯-2,4-二磺酸": "toluene-2,4-disulfonic acid"
+    },
+    {
+        "甲苯-3,4-二硫酚": "toluene-3,4-dithiol"
+    },
+    {
+        "鄰甲苯磺醯胺": "o-toluenesulfonamide"
+    },
+    {
+        "鄰甲苯磺醯苯胺": "o-toluenesulfonanilide"
+    },
+    {
+        "對甲苯磺酸": "p-toluenesulfonic acid"
+    },
+    {
+        "甲苯磺醯氯": "toluenesulfonyl chloride"
+    },
+    {
+        "對甲苯磺醯肼": "p-toluenesulfonylhydrazide"
+    },
+    {
+        "鄰甲苯硫酚": "o-toluenethiol"
+    },
+    {
+        "苄硫醇": "α-toluenethiol"
+    },
+    {
+        "甲苯二酚；甲氫醌": "toluihydroquinone; methylhydroquinone"
+    },
+    {
+        "鄰甲苯甲酸": "o-toluic acid"
+    },
+    {
+        "α-【草(之上)+叨】甲酸；苯乙酸": "α-toluic acid; phenylacetic acid"
+    },
+    {
+        "鄰【草(之上)+叨】甲醛；鄰甲苯甲醛": "o-toluic aldehyde"
+    },
+    {
+        "苯乙醛": "α-toluic aldehyde"
+    },
+    {
+        "苯乙[酸]酐": "α-toluic anhydride"
+    },
+    {
+        "鄰甲苯胺": "o-toluidine"
+    },
+    {
+        "2,4-二胺甲苯": "m-toluilene diamine; 2,4-diaminotoluene"
+    },
+    {
+        "胺基甲苯磺酸": "toluidinesulfonic acid"
+    },
+    {
+        "鄰【草(之上)+叨】甲腈；鄰甲苯甲腈": "o-tolunitrile"
+    },
+    {
+        "苯乙腈": "α-tolunitrile; benzylcyanide"
+    },
+    {
+        "甲苯": "toluol; toluene"
+    },
+    {
+        "2,6-二甲喹啉": "p-toluquinaldine; 2,6-dimethylquinoline"
+    },
+    {
+        "鄰甲喹啉": "o-toluquinoline"
+    },
+    {
+        "鄰甲對苯醌": "o-toluqinone"
+    },
+    {
+        "對(對甲苯甲醯)苯甲酸；對(對【草(之上)+叨】甲醯)苯甲酸": "p-(p-toluoyl)benzoic acid"
+    },
+    {
+        "苯乙醯氯": "α-toluyl chloride"
+    },
+    {
+        "1,2-二苯乙烯": "toluylene; stilbene"
+    },
+    {
+        "甲苯胺藍": "toluylene blue"
+    },
+    {
+        "甲苯二胺": "toluylenediamine; tolylenediamine"
+    },
+    {
+        "苯乙酸": "α-toluylic acid; phenylacetic acid"
+    },
+    {
+        "鄰甲苯甲酸": "o-toluylic acid"
+    },
+    {
+        "對【草(之上)+叨】乙醛": "p-tolyl acetaldehyde"
+    },
+    {
+        "α-【草(之上)+叨】甲醛；苯乙醛": "α-tolyl aldehyde; phenyl acetaldehyde"
+    },
+    {
+        "鄰溴【草(之上)+叨】；鄰溴甲苯": "o-tolyl bromide"
+    },
+    {
+        "【草(之上)+叨】基乙基醚": "tolyl ethyl ether"
+    },
+    {
+        "異硫氰酸鄰【草(之上)+叨】酯；異硫氰酸鄰甲苯酯": "o-tolyl isorhodanate; o-tolyl isothiocyanate; o-tolyl isorhodanide; o-sulfocyanate"
+    },
+    {
+        "鄰【草(之上)+叨】硫酚；鄰巰甲苯": "o-tolyl mercaptan"
+    },
+    {
+        "【草(之上)+叨】基甲基酮": "tolyl methyl ketone"
+    },
+    {
+        "鄰【草(之上)+叨】乙酸；鄰甲苯乙酸": "o-tolylacetic acid; o-methylphenylacetic acid"
+    },
+    {
+        "4-間【草(之上)+叨】偶氮間甲苯胺": "4-m-tolylazo-m-toluidine"
+    },
+    {
+        "α-鄰【草(之上)+叨】二胍": "α-o-tolylbiguanide"
+    },
+    {
+        "鄰【草(之上)+叨】硼酸；鄰甲苯硼酸": "o-tolylboric acid"
+    },
+    {
+        "三對【草(之上)+叨】硼[烷]": "tri-p-tolylborine"
+    },
+    {
+        "二氟化對【草(之上)+叨】硼": "p-tolylboron difluoride"
+    },
+    {
+        "鄰甲苯甲醇": "o-tolylcarbinol"
+    },
+    {
+        "2,3-甲苯二胺": "2,3-tolylenediamine"
+    },
+    {
+        "2,4-二異氰酸甲苯酯": "tolylene-2,4-diisocyanate {= TDI}"
+    },
+    {
+        "2-(對【草(之上)+叨】)乙醇；2-(對甲苯)乙醇": "2-(p-tolyl)ethanol"
+    },
+    {
+        "鄰【草(之上)+叨】肼；鄰甲苯肼": "o-tolylhydrazine"
+    },
+    {
+        "鄰【草(之上)+叨】胲": "o-tolylhydroxyamine"
+    },
+    {
+        "氯化鄰【草(之上)+叨】汞；氯化鄰甲苯汞": "o-tolylmercuric chloride"
+    },
+    {
+        "N-鄰【草(之上)+叨】-1-萘胺；N-鄰甲苯-1-萘胺": "N-o-tolyl-1-naphthylamine"
+    },
+    {
+        "鄰【草(之上)+叨】磷酸；鄰甲苯磷酸；磷酸單鄰【草(之上)+叨】酯；磷酸單鄰甲苯酯": "o-tolylphosphate"
+    },
+    {
+        "鄰【草(之上)+叨】錫酸；鄰甲苯錫酸": "o-tolylstannonic acid"
+    },
+    {
+        "【草(之上)+叨】磺醯腈": "tolylsulfonyl cyanide; tosyl cyanide S"
+    },
+    {
+        "【草(之上)+叨】硫脲；甲苯硫脲": "tolylthiourea"
+    },
+    {
+        "【草(之上)+叨】脲；甲苯脲": "tolylurea"
+    },
+    {
+        "蕃茄鹼": "tomatine"
+    },
+    {
+        "毒灰草酚": "toxicarol"
+    },
+    {
+        "繭糖": "trehalose; mycose"
+    },
+    {
+        "三乙醯胺": "triacetamide"
+    },
+    {
+        "三乙酸甘油酯": "triacetin; triacetylgycerol"
+    },
+    {
+        "甘油三乙酸酯；三乙醯甘油": "triacetin"
+    },
+    {
+        "三丙酮胺；2,2,6,6-四甲哌啶酮": "triacetonamine; 2,2,6,6-tetramethyl-piperidone"
+    },
+    {
+        "三丙酮二胺": "triacetonediamine"
+    },
+    {
+        "三乙醯葡萄糖": "triacetylglucose"
+    },
+    {
+        "三十烷；蜜蠟烷": "triacontane; melissane"
+    },
+    {
+        "三十酸；蜜蠟酸": "triacontanoic acid; melissic acid"
+    },
+    {
+        "三十醇；蜜蠟醇": "1-triacontanol"
+    },
+    {
+        "三十烯；蜜蠟烯": "triacontylene; melene"
+    },
+    {
+        "1,2,4-苯三甲酸烯丙酯": "triallyl 1,2,4-benzene-tricarboxylate"
+    },
+    {
+        "三烯丙胺": "triallylamine"
+    },
+    {
+        "2,4,3'-三胺偶氮苯": "2,4,3'-triaminoazobenzene"
+    },
+    {
+        "三胺苯；苯三胺": "triaminobenzene; benzenetriamine"
+    },
+    {
+        "2,3,5-三胺苯甲酸": "2,3,5-triaminobenzoic acid"
+    },
+    {
+        "2,4,4'-三胺聯苯；2-胺聯苯胺": "2,4,4'-triaminobiphenyl; 2-aminobenzidine"
+    },
+    {
+        "p,p',p''-參(對胺苯)甲醇；副玫瑰苯胺": "p,p',p''-triaminotriphenyl-carbinol; pararosaniline"
+    },
+    {
+        "2,4,6-三胺-1,3,5-三【口+井】；三聚氰胺": "2,4,6-triamino-1,3,5-triazine; melamine"
+    },
+    {
+        "p,p',p''-參(對胺苯)甲烷；白苯胺": "p,p',p''-triaminotriphenyl-methane; paraleucaniline; leucaniline"
+    },
+    {
+        "參(對胺苯)甲烷": "triaminotriphenylmethane; tris(p-aminophenyl)methane"
+    },
+    {
+        "硼酸三戊酯；三戊氧硼": "triamyl borate; triamyloxyboron"
+    },
+    {
+        "原甲酸三戊酯": "triamyl orthoformate"
+    },
+    {
+        "三戊胺": "triamylamine"
+    },
+    {
+        "三(對甲氧苯)硼[烷]": "tri-p-anisylborine"
+    },
+    {
+        "三氮烷": "triazane"
+    },
+    {
+        "三氮烯": "triazene"
+    },
+    {
+        "三氮𠯤": "triazine"
+    },
+    {
+        "對稱三[氮]【口+井】": "sym-triazine"
+    },
+    {
+        "1,2,4-三【口+井】-3,5-二酮；6-氮尿嘧啶": "1,2,4-triazine-3,5-dione; 6-azauracil"
+    },
+    {
+        "對稱三【口+井】三醇；三聚氰酸": "sym-triazinetriol"
+    },
+    {
+        "對稱三【口+井】三硫醇": "s-triazine-2,4,6-trithiol"
+    },
+    {
+        "疊氮乙酸": "triazidoacetic acid"
+    },
+    {
+        "疊氮苯": "triazobenzene; phenyl azide"
+    },
+    {
+        "三[氮]唑": "triazole"
+    },
+    {
+        "對稱三唑；1,2,4-三唑": "sym-triazole; 1,2,4-triazole"
+    },
+    {
+        "毗三唑；1,2,3-三唑": "vic-triazole; 1,2,3-triazole"
+    },
+    {
+        "三唑啶；四氫三唑": "triazolidine"
+    },
+    {
+        "三唑啉；二氫三唑": "triazoline"
+    },
+    {
+        "三唑-3-酮": "3-triazolone"
+    },
+    {
+        "疊氮甲烷": "triazomethane; methyl azide"
+    },
+    {
+        "二氫三【口+井】酮": "triazone"
+    },
+    {
+        "α-疊氮甲苯": "α-triazotoluene"
+    },
+    {
+        "三苯甲酸甘油酯": "tribenzoin"
+    },
+    {
+        "檸檬酸[三]苄酯": "tribenzyl citrate"
+    },
+    {
+        "三聚異氰酸三苄酯": "tribenzyl isocyanurate"
+    },
+    {
+        "三苄胺": "tribenzylamine"
+    },
+    {
+        "氧化三苄胂": "tribenzylarsine oxide"
+    },
+    {
+        "三苄苯": "tribenzylbenzene"
+    },
+    {
+        "三苄硼[烷]": "tribenzylborine"
+    },
+    {
+        "三苄氯矽烷": "tribenzylchlorosilicane; tribenzylchlorosilane"
+    },
+    {
+        "三苄基乙錫": "tribenzylethyltin"
+    },
+    {
+        "三苄苯酚": "tribenzylphenol"
+    },
+    {
+        "氯化三苄錫": "tribenzyltin chloride"
+    },
+    {
+        "氫氧化三苄錫": "tribenzyltin hydroxide"
+    },
+    {
+        "碘化三苄錫": "tribenzyltin iodide"
+    },
+    {
+        "磷酸[三]對聯苯酯": "tri-p-biphenyl phosphate"
+    },
+    {
+        "三溴乙醛": "tribromoacetaldehyde"
+    },
+    {
+        "三溴乙醯胺": "tribromoacetamide"
+    },
+    {
+        "三溴乙酸": "tribromoacetic acid"
+    },
+    {
+        "三溴乙醯氯": "tribromoacetyl chloride"
+    },
+    {
+        "2,4,6-三溴苯胺": "2,4,6-tribromoaniline"
+    },
+    {
+        "三溴苯": "tribromobenzene"
+    },
+    {
+        "3,4,5-三溴苯甲酸": "3,4,5-tribromobenzoic acid"
+    },
+    {
+        "三溴二氯乙烷": "tribromodichloroethane"
+    },
+    {
+        "1,1,2-三溴乙烷": "1,1,2-tribromoethane"
+    },
+    {
+        "2,2,2-三溴-1,1-乙二醇；水合三溴乙醛": "2,2,2-tribromo-1,1-ethanediol; bromal hydrate"
+    },
+    {
+        "三溴乙醇": "tribromoethyl alcohol"
+    },
+    {
+        "三溴乙烯": "tribromoethylene"
+    },
+    {
+        "三溴【草(之上)+米】": "tribromomesitylene"
+    },
+    {
+        "三溴甲基苯碸": "tribromomethyl phenyl sulfone"
+    },
+    {
+        "三溴硝甲烷；硝溴仿；溴化苦": "tribromonitromethane"
+    },
+    {
+        "2,3,5-三溴-4-硝噻吩": "2,3,5-tribromo-4-nitro-thiophene"
+    },
+    {
+        "乙酸三溴苯酯": "tribromophenyl acetate"
+    },
+    {
+        "柳酸三溴苯酯": "tribromophenyl salicylate"
+    },
+    {
+        "1,2,3-三溴丙烷": "1,2,3-tribromopropane"
+    },
+    {
+        "三溴-2-甲喹啉": "tribromoquinaldine"
+    },
+    {
+        "2,3,5-三溴噻吩": "2,3,5-tribromothiophene"
+    },
+    {
+        "2,5,6-三溴-3,4-茬酚；2,5,6-三溴-3,4-二甲苯酚": "2,5,6-tribromo-3,4-xylenol"
+    },
+    {
+        "三丁氧硼": "tributoxyboron"
+    },
+    {
+        "磷酸三丁氧乙酯": "tributoxyethylphosphate"
+    },
+    {
+        "磷酸三丁酯": "tributyl phosphate"
+    },
+    {
+        "三丁胺": "tributylamine"
+    },
+    {
+        "正三丁硼[烷]": "tri-n-butylborine"
+    },
+    {
+        "參三級-丁硼[烷]": "tri-tert-butylborine"
+    },
+    {
+        "三丁基甲醇": "tributylcarbinol"
+    },
+    {
+        "三正丁[基]膦": "tri-n-butylphosphine"
+    },
+    {
+        "溴化三正丁錫": "tri-n-butyltin bromide"
+    },
+    {
+        "三癸酸甘油酯": "tricaprin"
+    },
+    {
+        "三己酸甘油酯": "tricaproin"
+    },
+    {
+        "1,2,3-丙三甲酸": "tricarballylic acid"
+    },
+    {
+        "三碳醯亞胺；異三聚氰酸": "tricarbimide; isocyanuric acid"
+    },
+    {
+        "三氯縮醛；1,1,1-三氯-2,2-二乙氧乙烷": "trichloroacetal; 1,1,1-trichloro-2,2-diethoxyethane"
+    },
+    {
+        "三氯乙醛；氯醛": "trichloroacetaldehyde; chloral"
+    },
+    {
+        "三氯乙醯胺": "trichloroacetamide"
+    },
+    {
+        "三氯乙醯胺苯": "trichloroacetanilide"
+    },
+    {
+        "三氯乙酸": "trichloroacetic acid"
+    },
+    {
+        "三氯乙酸甲酯": "trichloroacetic acid methyl ester"
+    },
+    {
+        "三氯乙酸六氫吡【口+井】鹽": "trichloroacetic acid, piperazinium salt; piperazinium trichloroacetate"
+    },
+    {
+        "三氯丙酮": "trichloroacetone"
+    },
+    {
+        "三氯乙醯溴": "trichloroacetyl bromide"
+    },
+    {
+        "三氯乙醯氯": "trichloroacetyl chloride"
+    },
+    {
+        "三氯丙烯酸": "trichloroacrylic acid"
+    },
+    {
+        "2,3,4-三氯苯胺": "2,3,4-trichloroaniline"
+    },
+    {
+        "1,2,3-三氯苯": "1,2,3-trichlorobenzene"
+    },
+    {
+        "2,4,5-三氯苯甲酸": "2,4,5-trichlorobenzoic acid"
+    },
+    {
+        "1,1,1-三氯-2,2-雙(對氯苯)乙烷": "1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane {= DDT}"
+    },
+    {
+        "三甲胺合三氯硼[烷]": "trichloroborine trimethylamine"
+    },
+    {
+        "三氯溴甲烷": "trichlorobromomethane"
+    },
+    {
+        "1,1,1-三氯-3-溴壬烷": "1,1,1-trichloro-3-bromonane"
+    },
+    {
+        "三氯三級-丁醇；氯丁醇": "β,β,β-trichloro-tert-butyl alcohol; chloretone; chlorbutol"
+    },
+    {
+        "三氯丁醛": "trichlorobutyraldehyde"
+    },
+    {
+        "水合-α,α,β-三氯丁醛；α,α,β-三氯丁二醇": "α,α,β-trichlorobutyr-aldehyde hydrate"
+    },
+    {
+        "三氯丁酸": "trichlorobutyric acid"
+    },
+    {
+        "1,1,1-三氯-2,2-二溴乙烷": "1,1,1-trichloro-2,2-dibromoethane"
+    },
+    {
+        "三氯乙醛": "trichloroethanal; chloral"
+    },
+    {
+        "1,1,1-三氯乙烷": "1,1,1-trichloroethane"
+    },
+    {
+        "2,2,2-三氯-1,1-乙二醇；水合氯乙醛": "2,2,2-trichloro-1,1-ethanediol; chloral hydrate"
+    },
+    {
+        "2,2,2-三氯乙醇": "2,2,2-trichloroethanol"
+    },
+    {
+        "2,2,2-三氯-1-乙氧基乙醇；三氯乙醛合乙醇": "2,2,2-trichloro-1-ethoxy-ethanol; chloral alcoholate"
+    },
+    {
+        "氯甲酸2,2,2-三氯乙酯": "2,2,2-trichloroethyl chloroformate"
+    },
+    {
+        "三氯乙烯": "trichloroethylene"
+    },
+    {
+        "乙基三氯矽烷": "trichloroethylsilane"
+    },
+    {
+        "三氯氟甲烷": "trichlorofluoromethane"
+    },
+    {
+        "2,3,4-三氯呋喃": "2,3,4-trichlorofuran"
+    },
+    {
+        "三氯氫醌": "trichlorohydroquinone"
+    },
+    {
+        "三氯碘甲烷": "trichloroiodomethane"
+    },
+    {
+        "三氯乳酸": "trichlorolactic acid"
+    },
+    {
+        "三氯乳腈；三氯丙醇腈": "trichlorolactonitrile"
+    },
+    {
+        "三氯甲烷；氯仿": "trichloromethane; chloroform"
+    },
+    {
+        "氯甲酸三氯甲酯；雙光氣": "trichloromethyl chloroformate; diphosgene"
+    },
+    {
+        "乙酸α-(三氯甲)苄酯": "α-(trichloromethyl)benzyl acetate"
+    },
+    {
+        "1,1,1-三氯-2-甲-2-丙醇；丙酮合氯仿；氯丁醇": "1,1,1-trichloro-2-methyl-2-propanol; chloretone"
+    },
+    {
+        "三氯萘": "trichloronaphthalene"
+    },
+    {
+        "三氯硝苯": "trichloronitrobenzene"
+    },
+    {
+        "三氯硝甲烷；氯化苦；硝氯仿": "trichloronitromethane; chloropicrin; nitrochloroform"
+    },
+    {
+        "2,3,5-三氯-4-硝噻吩": "2,3,4-trichloro-4-nitrothio-phene"
+    },
+    {
+        "1,1,1-三氯壬烷": "1,1,1-trichlorononane"
+    },
+    {
+        "1,2,5-三氯戊烷": "1,2,5-trichloropentane"
+    },
+    {
+        "三氯[苯]酚": "trichlorophenol"
+    },
+    {
+        "三氯吡啶": "trichloropyridine"
+    },
+    {
+        "三氯醌": "trichloroquinone"
+    },
+    {
+        "三氯間苯二酚": "trichlororesorcinol"
+    },
+    {
+        "三氯矽烷": "trichlorosilane"
+    },
+    {
+        "2,3,5-三氯噻吩": "2,3,5-trichlorothiophene"
+    },
+    {
+        "三氯甲苯": "trichlorotoluene"
+    },
+    {
+        "2,4,6-三氯-1,3,5-三【口+井】": "2,4,6-trichloro-1,3,5-triazine"
+    },
+    {
+        "三溴三氯乙烷": "trichlorotribromoethane"
+    },
+    {
+        "二十三烷二酸": "tricosandioic acid; tricosane diacid"
+    },
+    {
+        "正二十三烷": "n-tricosane"
+    },
+    {
+        "12-二十三酮": "12-tricosanone"
+    },
+    {
+        "二十三烷二甲酸": "tricosane dicarboxylic acid"
+    },
+    {
+        "二十三酸": "tricosanic acid; tricosanoic acid"
+    },
+    {
+        "二十三烯二酸": "tricosenic diacid"
+    },
+    {
+        "二十三烯二甲酸；二十五烯二酸": "tricosenic dicarboxylic acid"
+    },
+    {
+        "二十三醇": "tricosyl alcohol"
+    },
+    {
+        "二十五酸": "tricosylacetic acid"
+    },
+    {
+        "磷酸三甲苯酯": "tricresyl phosphate"
+    },
+    {
+        "三聚氰酸": "tricyanic acid; cyanuric acid"
+    },
+    {
+        "三氰甲烷": "tricyanomethane"
+    },
+    {
+        "三聚氯化氰；對稱三氯三【口+井】": "tricyanogen chloride; cyanuric chloride"
+    },
+    {
+        "參環[5.2.1.02,7]癸-3,8-二烯": "tricyclo[5.2.1.02,7]deca-3,8-diene"
+    },
+    {
+        "三環己硼[烷]": "tricyclohexylborine"
+    },
+    {
+        "三環己[基]膦": "tricyclohexylphosphine"
+    },
+    {
+        "十三烷": "tridecane"
+    },
+    {
+        "十三烷二酸": "tridecane diacid"
+    },
+    {
+        "十三烷二甲酸": "tridecanedicarboxylic acid"
+    },
+    {
+        "十三酸": "tridecanoic acid"
+    },
+    {
+        "十三醇": "tridecanol; tridecyl alcohol"
+    },
+    {
+        "2-十三酮": "2-tridecanone"
+    },
+    {
+        "7-十三酮；十三碳-7-酮": "7-tridecanone"
+    },
+    {
+        "十三烯二酸": "tridecendioic acid; tridecene diacid"
+    },
+    {
+        "十三烯二甲酸": "tridecene dicarboxylic acid"
+    },
+    {
+        "十三醛肟": "tridecyl aldoxime; tridecanal oxime"
+    },
+    {
+        "己酸十三酯": "tridecyl caproate"
+    },
+    {
+        "十四腈": "tridecyl cyanide; myristonitrile"
+    },
+    {
+        "十三烯二酸": "tridecylendioic acid; tridecylene diacid"
+    },
+    {
+        "十三烯": "tridecylene"
+    },
+    {
+        "十三烯二甲酸": "tridecylene dicarboxylic acid"
+    },
+    {
+        "十三烯酸": "tridecylenic acid"
+    },
+    {
+        "十三酸": "tridecylic acid"
+    },
+    {
+        "十三醛": "tridecylic aldehyde"
+    },
+    {
+        "三乙醇胺": "triethanolamine"
+    },
+    {
+        "1,2,5-三乙氧苯；1,2,5-苯三酚三乙醚": "1,2,5-triethoxybenzene"
+    },
+    {
+        "三乙氧硼；硼酸乙酯": "triethoxyboron; ethyl borate"
+    },
+    {
+        "1,1,1-三乙氧乙烷；原乙酸三乙酯": "1,1,1-triethoxyethane; triethyl ester orthoacetic acid"
+    },
+    {
+        "三乙氧甲烷": "triethoxymethane"
+    },
+    {
+        "三乙氧矽烷": "triethoxysilane; triethoxysilicane"
+    },
+    {
+        "硼酸三乙酯": "triethyl borate"
+    },
+    {
+        "檸檬酸三乙酯": "triethyl citrate"
+    },
+    {
+        "三聚氰酸三乙酯": "triethyl cyanurate"
+    },
+    {
+        "原乙酸三乙酯": "triethyl orthoacetate"
+    },
+    {
+        "原甲酸三乙酯": "triethyl orthoformate"
+    },
+    {
+        "原丙酸三乙酯": "triethyl orthopropionate"
+    },
+    {
+        "磷酸三乙酯": "triethyl phosphate"
+    },
+    {
+        "三乙基乙酸": "triethylacetic acid"
+    },
+    {
+        "三乙鋁": "triethylaluminum"
+    },
+    {
+        "三乙胺": "triethylamine"
+    },
+    {
+        "三乙胺氫溴酸鹽": "triethylamine hydrobromide"
+    },
+    {
+        "三乙胺鹽酸鹽": "triethylamine hydrochloride"
+    },
+    {
+        "三乙胂": "triethylarsine"
+    },
+    {
+        "1,2,4-三乙苯": "1,2,4-triethylbenzene"
+    },
+    {
+        "氯化三乙基苄銨": "triethylbenzylammonium chloride"
+    },
+    {
+        "三乙鉍": "triethylbismuth"
+    },
+    {
+        "三乙硼[烷]": "triethylboron; triethylborane; triethylborine"
+    },
+    {
+        "三乙氯矽烷": "triethylchlorosilicane; triethylchlorosilane"
+    },
+    {
+        "三伸乙二胺": "triethylenediamine; Dabco"
+    },
+    {
+        "三[伸]甘醇": "triethylene glycol"
+    },
+    {
+        "二乙酸三[伸]甘醇酯": "triethylene glycol diacetate"
+    },
+    {
+        "三伸乙四胺": "triethylenetetramine"
+    },
+    {
+        "三乙醇胺": "triethylolamine"
+    },
+    {
+        "三乙膦": "triethylphosphine"
+    },
+    {
+        "氧化三乙膦": "triethylphosphine oxide"
+    },
+    {
+        "硫化三乙膦": "triethylphosphine sulfide"
+    },
+    {
+        "三乙【月+弟】": "triethylstibine"
+    },
+    {
+        "三氟乙酸": "trifluoroacetic acid"
+    },
+    {
+        "三氟乙醯氯": "trifluoroacetyl chloride"
+    },
+    {
+        "三氟苯": "trifluorobenzene"
+    },
+    {
+        "1,2,2-三氟-1-氯乙烷": "1,2,2-trifluoro-1-chloroethane"
+    },
+    {
+        "1,1,1-三氟乙烷": "1,1,1-trifluoroethane"
+    },
+    {
+        "三氟甲烷；氟仿": "trifluoromethane; fluoroform"
+    },
+    {
+        "三氟甲磺酸": "trifluoromethanesulfonic acid"
+    },
+    {
+        "2-三氟甲苯甲醛": "2-trifluoromethyl-benzladehyde"
+    },
+    {
+        "2-三氟甲苯甲醯氯": "2-trifluoromethylbenzoyl chloride"
+    },
+    {
+        "α,α,α-三氟鄰甲苯胺": "α,α,α-trifluoro-o-toluidine"
+    },
+    {
+        "三甲酸甘油酯": "triformin"
+    },
+    {
+        "三(呋喃甲)胺；三糠甲胺": "trifurfurylamine"
+    },
+    {
+        "二氯化三甘": "triglycol dichloride"
+    },
+    {
+        "四聚甘胺酸": "triglycylglycine"
+    },
+    {
+        "葫蘆巴鹼；N-甲菸鹼酸內鹽": "trigenolline; trigonelline"
+    },
+    {
+        "三(羧乙)胺": "triglycollamic acid"
+    },
+    {
+        "氯化葫蘆巴鹼醯胺": "trigonellinamide chloride"
+    },
+    {
+        "三己胺": "trihexylamine"
+    },
+    {
+        "三己萘": "trihexylnaphthalene"
+    },
+    {
+        "2,3,4-三羥苯乙酮；五倍子乙酮": "2,3,4-trihydroxyaceto-phenone; gallacetophenone"
+    },
+    {
+        "1,3,5-三羥胺苯；1,3,5-環己三酮三肟；間苯三酚三肟": "1,3,5-trihydroxyamino-benzene; 1,3,5-cyclohexanetrione trioxime; phloroglucinoltrioxime"
+    },
+    {
+        "1,2,3-三羥蒽醌；蒽五倍子酚": "1,2,3-trihydroxy-anthraqunone; anthragallol"
+    },
+    {
+        "3,4,5-三羥苯甲醯胺苯；五倍子甲醯胺苯": "3,4,5-trihydroxy-benzanilide; gallanilide"
+    },
+    {
+        "1,2,3-三羥苯；苯三酚；五倍子酚": "1,2,3-trihydroxybenzene; pyrogallol"
+    },
+    {
+        "3,4,5-三羥苯甲酸；五倍子酸；沒食子酸": "3,4,5-trihydroxybenzoic acid; gallic acid"
+    },
+    {
+        "2,4,5-三羥苯甲酸；4-羥龍膽酸": "2,4,5-trihydroxybenzoic acid; 4-hydroxygentisic acid"
+    },
+    {
+        "2,3,4-三羥苯甲酸": "2,3,4-trihydroxybenzoic acid"
+    },
+    {
+        "2,3,4-三羥二苯基酮；茜素黃A": "2,3,4-trihydroxybenzo-phenone; alizarin yellow A"
+    },
+    {
+        "2,6,2'-三羥二苯基酮": "2,6,2'-trihydroxybenzo-phenone"
+    },
+    {
+        "三羥苄醇": "trihydroxybenzyl alcohol"
+    },
+    {
+        "丁三醇": "trihydroxybutane"
+    },
+    {
+        "三羥丁醛": "trihydroxybutyraldehyde"
+    },
+    {
+        "三羥丁酸": "trihydroxybutyric acid"
+    },
+    {
+        "2,3,4-三羥苯丁酮；4-正丁醯五倍子酚": "2,3,4-trihydroxybutyro-phenone; 4-n-butyrylpyrogallol"
+    },
+    {
+        "三羥膽烷酸；膽酸": "trihydroxycholanic acid; cholic acid"
+    },
+    {
+        "5,6,7-三羥黃酮": "5,6,7-trihydroxyflavone"
+    },
+    {
+        "α,β,γ-三羥戊二酸；2,3,4-三羥戊二酸": "α,β,γ-trihydroxyglutaric acid; 2,3,4-trihydroxyglutaric acid"
+    },
+    {
+        "參(羥甲)胺甲烷；參(羥甲)甲胺": "tris(hydroxymethyl)amino-methane; tris(hydroxymethyl)-methylamine; Tris"
+    },
+    {
+        "1,3,8-三羥-6-甲蒽醌；大黃素": "1,3,8-trihydroxy-6-methylanthraquinone; emodin"
+    },
+    {
+        "1,3,6-三羥萘；1,3,6-萘三酚": "1,3,6-trihydroxynaphthalene"
+    },
+    {
+        "3,4,5-三羥菲；3,4,5-菲三酚": "3,4,5-trihydroxy-phenanthrene"
+    },
+    {
+        "2,3,4-三羥苯基苯基甲酮": "(2,3,4-trihydroxyphenyl)-phenylmethanone"
+    },
+    {
+        "三羥硬脂酸": "trihydroxystearic acid"
+    },
+    {
+        "2,4,6-三羥甲苯": "2,4,6-trihydroxytoluene"
+    },
+    {
+        "3,4,5-三羥甲苯；5-甲五倍子酚": "3,4,5-trihydroxytoluene; 5-methylpyrogallol"
+    },
+    {
+        "三碘乙酸": "triiodoacetic acid"
+    },
+    {
+        "三碘乙醯氯": "triiodoacetyl chloride"
+    },
+    {
+        "2,4,6-三碘苯胺": "2,4,6-triiodoaniline"
+    },
+    {
+        "1,2,3-三碘苯": "1,2,3-triiodobenzene"
+    },
+    {
+        "2,3,5-三碘苯甲酸": "2,3,5-triiodobenzoic acid"
+    },
+    {
+        "1,1,1-三碘乙烷": "1,1,1-triiodoethane"
+    },
+    {
+        "三碘甲烷；碘仿": "triiodomethane; iodoform"
+    },
+    {
+        "2,4,6-三碘[苯]酚": "2,4,6-triiodophenol"
+    },
+    {
+        "三碘甲腺胺酸": "triiodothyronine"
+    },
+    {
+        "硼酸三異戊酯": "triisoamyl borate; isoamyl borate"
+    },
+    {
+        "三異戊胺": "triisoamylamine"
+    },
+    {
+        "三異戊硼[烷]": "triisoamylborine; triisoamylboron"
+    },
+    {
+        "三聚異丁烯": "triisobutylene"
+    },
+    {
+        "三異丙硼[烷]": "triisopropylborine"
+    },
+    {
+        "[水合]茚三酮；寧海準": "triketohydrinden hydrate; ninhydrin"
+    },
+    {
+        "三月桂酸甘油酯": "trilaurin"
+    },
+    {
+        "三亞麻油酸甘油酯": "trilinolein; linolein"
+    },
+    {
+        "三次亞麻油酸甘油酯": "trilinolenin; linolenin"
+    },
+    {
+        "木防己鹼": "trilobine"
+    },
+    {
+        "1,2,4-苯三甲酸": "trimellitic acid; 1,2,4-benzenetricarboxylic acid"
+    },
+    {
+        "三聚氰胺": "trimeric cyanamide; melamine"
+    },
+    {
+        "三聚異氰酸甲基烯丙基酯": "trimethallylisocyanate"
+    },
+    {
+        "1,3,5-苯三甲酸": "trimesic acid; 1,3,5-benzenetricarboxylic acid"
+    },
+    {
+        "3,4,5-三甲氧苯甲醛": "3,4,5-trimethoxy benzaldehyde"
+    },
+    {
+        "1,2,3-三甲氧苯": "1,2,3-trimethoxybenzene"
+    },
+    {
+        "2,3,4-三甲氧苯甲酸": "2,3,4-trimethoxybenzoic acid"
+    },
+    {
+        "3,4,5-三甲氧苯甲酸；五倍子酸三甲醚": "3,4,5-trimethoxybenzoic acid"
+    },
+    {
+        "三甲氧硼；硼酸甲酯": "rimethoxyboron; methyl borate"
+    },
+    {
+        "三甲氧戊二酸": "trimethoxyglutaric acid"
+    },
+    {
+        "1,2,4-三甲氧-5-丙烯苯；細辛腦": "1,2,4-trimethoxy-5-propenylbenzene; asurone"
+    },
+    {
+        "檸檬酸三甲酯": "trimethyl citrate"
+    },
+    {
+        "三聚氰酸三甲酯": "trimethyl cyanurate"
+    },
+    {
+        "原甲酸三甲酯": "trimethyl orthoformate"
+    },
+    {
+        "磷酸三甲酯": "trimethyl phosphate"
+    },
+    {
+        "三甲基乙醛": "trimethylacetaldehyde; pivalic aldehyde"
+    },
+    {
+        "三甲基乙醛肟": "trimethylacetaldoxime"
+    },
+    {
+        "三甲基乙酸": "trimethylacetic acid; pivalic acid"
+    },
+    {
+        "三甲基乙腈": "trimethylacetonitrile"
+    },
+    {
+        "三甲基乙腈；α,α-二甲基丙腈": "trimethylacetonitrile; α,α-dimethylpropionitrile"
+    },
+    {
+        "2,4,6-三甲基苯乙酮": "2,4,6-trimethylaceto-phenone"
+    },
+    {
+        "三甲胺": "trimethylamine"
+    },
+    {
+        "三甲胺鹽酸鹽": "trimethylamine hydrochloride"
+    },
+    {
+        "氧化三甲胺": "trimethylamine oxide"
+    },
+    {
+        "硝酸三甲銨": "trimethylammonium nitrate"
+    },
+    {
+        "三甲胺合硼[烷]": "trimethylaminoborine"
+    },
+    {
+        "2,4,5-三甲苯胺": "2,4,5-trimethylaniline; pseudocumidine"
+    },
+    {
+        "2,4,6-三甲苯胺；【草(之上)+米】胺": "2,4,6-trimethylaniline; mesidine"
+    },
+    {
+        "三甲胂": "trimethylarsine"
+    },
+    {
+        "2,4,6-三甲苯甲醛": "2,4,6-trimethylbenz-aldehyde; mesitaldehyde"
+    },
+    {
+        "1,3,5-三甲苯；對稱三甲苯；【草(之上)+米】": "1,3,5-trimethylbenzene; sym-trimethylbenzene; mesitylene"
+    },
+    {
+        "1,2,3-三甲苯；半蜜臘質": "1,2,3-trimethylbenzene; hemimellitene"
+    },
+    {
+        "2,4,6-三甲苯甲酸": "2,4,6-trimethylbenzoic acid; mesitoic acid"
+    },
+    {
+        "2,6,6-三甲雙環[3.1.1]庚-2-烯；α-蒎烯；松油萜": "2,6,6-trimethylbicyclo-[3.1.1]hept-2-ene; α-pinene"
+    },
+    {
+        "三甲硼[烷]": "trimethylboron; trimethylborane; trimethylborine"
+    },
+    {
+        "2,3,3-三甲-1-丁烯": "2,3,3-trimethyl-1-butene"
+    },
+    {
+        "三甲氯矽烷": "trimethylchlorosilicane"
+    },
+    {
+        "3,5,5-三甲-2-環己烯-1-酮；異佛酮": "3,5,5-trimethyl-2-cyclohexen-1-one; isophorone"
+    },
+    {
+        "1,3-丙二醇縮乙醛": "trimethylene acetal"
+    },
+    {
+        "1,3-二溴丙烷": "trimethylene bromide"
+    },
+    {
+        "3-溴丙醇": "trimethylene bromohydrin"
+    },
+    {
+        "1,3-丙二硫醇": "trimethylene dimercaptan"
+    },
+    {
+        "1,3-丙二醇": "trimethylene glycol"
+    },
+    {
+        "二乙酸1,3-丙二酯": "trimethylene glycol diacetate"
+    },
+    {
+        "1,3-環氧丙烷": "trimethylene oxide"
+    },
+    {
+        "1,3-丙二胺": "trimethylenediamine"
+    },
+    {
+        "伸丙脲": "trimethyleneurea"
+    },
+    {
+        "三甲基乙烯；β-異戊烯": "trimethylethylene; β-isoamylene"
+    },
+    {
+        "2,3,5-三甲-3-己醇": "2,3,5-trimethyl-3-hexanol"
+    },
+    {
+        "三甲氫醌": "trimethylhydroquinone"
+    },
+    {
+        "異丁烷": "trimethylmethane"
+    },
+    {
+        "三(羥甲)乙烷": "trimethylolethane"
+    },
+    {
+        "2,2,4-三甲基戊烷": "2,2,4-trimethylpentane; isooctane"
+    },
+    {
+        "2,2,4-三甲-2-戊醇": "2,2,4-trimethyl-2-pentanol"
+    },
+    {
+        "2,3,3-三甲基戊烯": "2,3,3-trimethylpentene"
+    },
+    {
+        "2,4,6-三甲苯酚；【草(之上)+米】酚": "2,4,6-trimethylphenol; mesitol"
+    },
+    {
+        "三甲膦": "trimethylphosphine"
+    },
+    {
+        "2,4,6-三甲哌啶": "2,4,6-trimethylpiperidine"
+    },
+    {
+        "氫氧化三甲正丙銨": "trimethyl-n-propyl-ammonium hydroxide"
+    },
+    {
+        "2,4,6-三甲吡啶": "2,4,6-trimethylpyridine"
+    },
+    {
+        "2,3,4-三甲喹啉": "2,3,4-trimethylquinoline"
+    },
+    {
+        "三甲【月+弟】": "trimethylstibine"
+    },
+    {
+        "三甲琥珀酸": "trimethylsuccinic acid"
+    },
+    {
+        "2,3,5-三甲噻吩": "2,3,5-trimethylthiophene"
+    },
+    {
+        "α-生育酚；維生素E": "5,7,8-trimethyltocol; α-tocopherol; vitamin E"
+    },
+    {
+        "2,4,6-三甲對稱三【口+咢】【口+山】；三聚乙醛": "2,4,6-trimethyl-sym-trioxane; paraldehyde"
+    },
+    {
+        "2,4,6-三甲對稱三噻【口+山】；三聚乙硫醛": "2,4,6-trimethyl-sym-trithiane; trithioacetaldehyde"
+    },
+    {
+        "氫氧化三甲基乙烯基銨；神經鹼": "trimethylvinylammonium hydroxide; neurine"
+    },
+    {
+        "1,3,7-三甲黃嘌呤；咖啡鹼": "1,3,7-trimethylxanthine; caffeine"
+    },
+    {
+        "三肉豆蔻酸甘油酯": "trimyristin; Myristin"
+    },
+    {
+        "三-α-萘硼[烷]": "tri-α-naphthylborine"
+    },
+    {
+        "三硝酸甘油酯；硝化甘油": "trinitrin; nitroglycerin"
+    },
+    {
+        "1,2,3-三硝苊": "1,2,3-trinitroacenaphthylene"
+    },
+    {
+        "三硝乙腈": "trinitroacetonitrile"
+    },
+    {
+        "2,4,6-三硝基胺基[苯]酚": "2,4,6-trinitroaminophenol"
+    },
+    {
+        "2,4,6-三硝苯胺；苦味胺": "2,4,6-trinitroaniline"
+    },
+    {
+        "2,4,6-三硝苯基甲基醚；2,4,6-三硝大茴香醚": "2,4,6-trinitroanisole"
+    },
+    {
+        "2,4,6-三硝苯甲醛": "2,4,6-trinitrobenzaldehyde"
+    },
+    {
+        "1,3,5-三硝苯": "1,3,5-trinitrobenzene"
+    },
+    {
+        "2,4,6-三硝苯甲酸": "2,4,6-trinitrobenzoic acid"
+    },
+    {
+        "三硝基丁基甲苯": "trinitrobutyltoluene"
+    },
+    {
+        "三硝基三級-丁二甲苯；三硝基三級-丁茬": "trinitro-tert-butylxylene"
+    },
+    {
+        "三硝氯苯": "trinitrochlorobenzene"
+    },
+    {
+        "三硝間甲[苯]酚": "trinitro-m-cresol"
+    },
+    {
+        "1,1,1-三硝乙烷": "1,1,1-trinitroethane"
+    },
+    {
+        "4,5,6-三硝-1,2,3-三甲苯": "4,5,6-trinitrohemimellitene"
+    },
+    {
+        "三硝【草(之上)+米】": "trinitromesitylene"
+    },
+    {
+        "三硝甲烷；硝仿": "trinitromethane; nitroform"
+    },
+    {
+        "三硝甲胺": "trinitromethylamine"
+    },
+    {
+        "三硝萘": "trinitronaphthalene"
+    },
+    {
+        "三硝-α-萘酚": "trinitro-α-naphthol"
+    },
+    {
+        "三硝地衣酚": "trinitroorcinol"
+    },
+    {
+        "2,4,6-三硝[苯]酚；苦味酸": "2,4,6-trinitrophenol; picric acid"
+    },
+    {
+        "三硝苯肼": "trinitrophenylhydrazine"
+    },
+    {
+        "3,5,6-三硝【草(之上)+久】": "3,5,6-trinitropseudocumene"
+    },
+    {
+        "2,4,6-三硝間苯二酚；收斂酸": "2,4,6-trinitroresorcin; 2,4,6-trinitroresorcinol; syphnic acid"
+    },
+    {
+        "2,4,6-三硝甲苯；黃色炸藥{TNT}": "2,4,6-trinitrotoluene; TNT"
+    },
+    {
+        "三硝二甲苯；三硝茬": "trinitroxylene"
+    },
+    {
+        "2,3,6-三硝對茬": "2,3,6-trinitro-p-xylene"
+    },
+    {
+        "三油酸甘油酯": "triolein"
+    },
+    {
+        "2,3,6-三-O-甲-D-葡萄糖": "2,3,6-tri-O-methyl-D-glucose"
+    },
+    {
+        "2,2-二乙碸丁烷": "trional"
+    },
+    {
+        "三【口+咢】【口+山】": "trioxane"
+    },
+    {
+        "對稱三【口+咢】【口+山】；三聚甲醛": "sym-trioxane"
+    },
+    {
+        "對稱三【口+咢】【口+山】三亞胺": "sym-trioxanetriimine"
+    },
+    {
+        "2,6,8-三羥嘌呤；尿酸": "2,6,8-trioxypurine; purine-2,6,8-triol; uric acid"
+    },
+    {
+        "三苯氧甲烷": "triphenoxymethane"
+    },
+    {
+        "硼酸三苯酯": "triphenyl borate"
+    },
+    {
+        "三苯乙酸": "triphenylacetic acid"
+    },
+    {
+        "α,α,α-三苯基苯乙酮；α-苯【酉+品】酮；苯品納可林": "α,α,α-triphenylaceto-phenone; α-benzopinacolin"
+    },
+    {
+        "三苯【月+弟】": "triphenylantimony"
+    },
+    {
+        "三苯胂": "triphenylarsine"
+    },
+    {
+        "1,3,5-三苯基苯": "1,3,5-triphenylbenzene"
+    },
+    {
+        "三苯鉍": "triphenylbismuth"
+    },
+    {
+        "三苯硼[烷]": "triphenylborine; triphenylboron"
+    },
+    {
+        "氨合三苯硼[烷]": "triphenylborine ammine"
+    },
+    {
+        "1,1,1-三苯乙烷": "1,1,1-triphenylethane"
+    },
+    {
+        "三苯乙烯": "triphenylethylene"
+    },
+    {
+        "三苯肼": "triphenylhydrazine"
+    },
+    {
+        "2,4,5-三苯咪唑": "2,4,5-triphenylimidazole"
+    },
+    {
+        "三苯甲烷": "triphenylmethane"
+    },
+    {
+        "三苯【口咢】唑": "triphenyloxazole"
+    },
+    {
+        "三苯膦": "triphenylphosphine"
+    },
+    {
+        "氧化三苯膦": "triphenylphosphine oxide"
+    },
+    {
+        "1,1,1-三苯丙烷；乙基三苯基甲烷": "1,1,1-triphenylpropane"
+    },
+    {
+        "三苯對稱三噻【口+山】": "triphenyl-sym-trithiane"
+    },
+    {
+        "硼酸三丙酯；三(丙氧)硼": "tripropyl borate"
+    },
+    {
+        "三丙硼[烷]": "tripropylborine"
+    },
+    {
+        "三伸丙二醇": "tripropylene glycol"
+    },
+    {
+        "特利坦；2,2,3-三甲基丁烷": "triptane; 2,2,3-trimethylbutane"
+    },
+    {
+        "聯三吡咯": "tripyrrole"
+    },
+    {
+        "環己六酮": "triquinoyl"
+    },
+    {
+        "三聚硫代苯甲醛": "trithiobenzaldehyde"
+    },
+    {
+        "三硫碳酸": "trithiocarbonic acid"
+    },
+    {
+        "三聚硫乙醛": "trithiolacetaldehyde"
+    },
+    {
+        "參(對胺苯)甲醇；副玫瑰苯胺": "tris(p-aminophenyl)-carbinol; p,p',p''-triaminophenyl-carbinol; pararosaniline"
+    },
+    {
+        "參(羥甲)胺基甲烷": "tris(hydroxymethyl)amino-methane"
+    },
+    {
+        "參(對硝[基]苯)甲醇": "tris(nitrophenyl)carbinol"
+    },
+    {
+        "參(對硝苯)甲烷": "tris(p-nitrophenyl)methane"
+    },
+    {
+        "參(3-硝苯)甲醇": "tris(3-nitrophenyl)methanol"
+    },
+    {
+        "參(4-硝苯)甲烷": "tris(4-nitrophenyl)methane"
+    },
+    {
+        "三硬脂酸甘油酯": "tristearin"
+    },
+    {
+        "三苯甲烷": "tritan; triphenylmethane"
+    },
+    {
+        "三苯琥珀[酸]酐": "triphenylsuccinic anhydride"
+    },
+    {
+        "氯化三苯四銼": "triphenyltetrazolium chloride"
+    },
+    {
+        "三丙醇胺": "tripropanolamine"
+    },
+    {
+        "三丙胺": "tripropylamine"
+    },
+    {
+        "原甲酸三丙酯": "tripropyl orthoformate"
+    },
+    {
+        "三苯甲醇": "triphenylcarbinol; tirphenylmethanol"
+    },
+    {
+        "三苯氯甲烷": "triphenylchloromethane; trityl chloride"
+    },
+    {
+        "三苯氯矽烷": "triphenylchlorosilicane; triphenylchlorosilane"
+    },
+    {
+        "聯伸三苯": "triphenylene"
+    },
+    {
+        "1,1,2-三苯乙烷": "1,1,2-triphenylethane"
+    },
+    {
+        "α-三苯胍": "α-triphenylguanidine"
+    },
+    {
+        "三苯甲烷": "triphenylmethane; tritan"
+    },
+    {
+        "原甲酸三苯酯": "triphenyl orthoformate"
+    },
+    {
+        "二苯甲基苯甲酸": "tritancarboxylic acid"
+    },
+    {
+        "三苯甲醇": "tritanol; triphenylcarbinol"
+    },
+    {
+        "三噻唍": "trithiane"
+    },
+    {
+        "磷酸三苯硫酯": "trithiophenyl phosphate"
+    },
+    {
+        "三托品；勞丹尼定；ℓ-勞丹寧": "tritopine; laudanidine; ℓ-laudanine"
+    },
+    {
+        "三十三烷": "tritriacontane"
+    },
+    {
+        "三苯甲醇": "trityl alcohol"
+    },
+    {
+        "氯化三苯甲基": "trityl chloride"
+    },
+    {
+        "氯化三苯甲鎂": "tritylmagnesium chloride"
+    },
+    {
+        "三戊酸甘油酯": "trivalerin"
+    },
+    {
+        "三對茬硼[烷]": "tri-p-xylylborine"
+    },
+    {
+        "妥帕可卡因；苯甲醯假顛茄酚": "tropacocaine"
+    },
+    {
+        "金蓮橙D；甲基橙": "tropaeolin D; methyl orange; orange III"
+    },
+    {
+        "金蓮橙O；間苯二酚黃": "tropaeolin O; resorcinol yellow"
+    },
+    {
+        "金蓮橙OO；苯胺黃；二苯胺橙": "tropaeolin OO; orange Ⅳ; aniline yellow; diphenylamine orange"
+    },
+    {
+        "金蓮橙OOO一號；橙I；α-萘酚橙": "tropaeolin OOO No.1; orange I; α-naphthol orange"
+    },
+    {
+        "金蓮橙OOO二號；橙II；β-萘酚橙": "tropaeolin OOO No.2; orange II; β-naphthol orange"
+    },
+    {
+        "顛茄醇酸；2-苯-3-羥丙酸": "tropaic acid; tropic acid"
+    },
+    {
+        "莨菪烷；托[品]烷": "tropane"
+    },
+    {
+        "托品鹼；莨菪鹼": "tropine"
+    },
+    {
+        "阿托品": "tropine tropate; atropine"
+    },
+    {
+        "托烯-2-甲酸": "2-tropidinecarboxylic acid"
+    },
+    {
+        "環庚三烯；䓬": "tropilidene"
+    },
+    {
+        "氯化鋽": "tropylium chloride"
+    },
+    {
+        "六氯鉑(VI)酸雙(托品銨)": "tropine chloroplatinate"
+    },
+    {
+        "托[品]甲酸": "tropinecarboxylic acid"
+    },
+    {
+        "托[品]酸": "tropinic acid"
+    },
+    {
+        "托[品]酮；莨菪酮": "tropinone"
+    },
+    {
+        "䓬酚酮": "tropolone"
+    },
+    {
+        "䓬酮": "tropone"
+    },
+    {
+        "三硝甲苯；黃色炸藥{TNT}": "trotyl; TNT"
+    },
+    {
+        "雙茚": "truxane; bisindene"
+    },
+    {
+        "參茚并苯": "truxene"
+    },
+    {
+        "吐昔酸；2,4-二苯環丁-1,2-二甲酸": "truxillic acid"
+    },
+    {
+        "古柯命": "truxilline; cocamine"
+    },
+    {
+        "吐星酸": "truxinic acid"
+    },
+    {
+        "吐昔酮；雙茚酮": "truxone"
+    },
+    {
+        "色胺": "tryptamine"
+    },
+    {
+        "色胺鹽酸鹽": "tryptamine hydrochloride"
+    },
+    {
+        "色胺酸": "tryptophan"
+    },
+    {
+        "土杜拉寧": "Tsuduranine"
+    },
+    {
+        "水蘇鹼": "turicine"
+    },
+    {
+        "土透卡因鹽酸鹽；布他明": "tutocaine hydrochloride; butamine"
+    },
+    {
+        "娃兒藤鹼": "tylocrebrine"
+    },
+    {
+        "酪胺": "tyramine"
+    },
+    {
+        "酪胺酸": "tyrosine"
+    },
+    {
+        "野靛根毒鹼；金雀花鹼": "ulexin; cytisine"
+    },
+    {
+        "繖[形]酸；2,4-二羥桂皮酸": "umbellic acid"
+    },
+    {
+        "繖[形]酮；7-羥香豆素": "umbelliferone; 7-hydroxycoumarin"
+    },
+    {
+        "繖柳二酸": "umbellularic acid"
+    },
+    {
+        "繖柳酮": "umbellulone"
+    },
+    {
+        "繖柳酮酸": "umbellulonic acid"
+    },
+    {
+        "石茸酸": "umbilicaric acid"
+    },
+    {
+        "γ-十一酸內酯": "γ-undecalactone"
+    },
+    {
+        "十一醛": "undecanal; undecylic aldehyde"
+    },
+    {
+        "十一碳二烯酸": "undecandienoic acid"
+    },
+    {
+        "十一烷二酸": "undecandioic acid; undecane diacid"
+    },
+    {
+        "十一烷": "undecane; hendecane"
+    },
+    {
+        "十一烷二甲酸": "undecanedicarboxylic acid"
+    },
+    {
+        "十一酸": "undecanoic acid"
+    },
+    {
+        "十一醇": "undecanol"
+    },
+    {
+        "2-十一醇": "2-undecanol"
+    },
+    {
+        "2-十一酮": "2-undecanone"
+    },
+    {
+        "十一腈": "undecanonitrile"
+    },
+    {
+        "十一烯二酸": "undecendioic acid"
+    },
+    {
+        "十一烯": "undecene; undecylene"
+    },
+    {
+        "10-十一烯-1-醛": "10-undecen-1-al"
+    },
+    {
+        "10-十一烯-1-醇": "10-undecen-1-ol"
+    },
+    {
+        "十一烯二甲酸": "undecenedicarboxylic acid"
+    },
+    {
+        "十一烯酸": "undecenoic acid"
+    },
+    {
+        "十一酸": "undecoic acid; undecylic acid"
+    },
+    {
+        "十一醇；正十一醇": "undecyl alcohol; n-undecyl alcohol"
+    },
+    {
+        "正十一醛": "n-undecyl aldehyde"
+    },
+    {
+        "正十二腈": "n-undecyl cyanide; lauronitrile"
+    },
+    {
+        "γ-十一[碳]內酯": "γ-undecyl lactone"
+    },
+    {
+        "2-十一基咪唑": "2-undecyl imidazole"
+    },
+    {
+        "正十一胺": "n-undecylamine"
+    },
+    {
+        "十一烯二甲酸；十三烯二酸": "undecylenedicarboxylic acid"
+    },
+    {
+        "十一烯酸": "undecylenic acid"
+    },
+    {
+        "十一醛肟": "undecylic aldehyde oxime"
+    },
+    {
+        "1-十一炔": "1-undecyne"
+    },
+    {
+        "十一炔二甲酸": "undecynedicarboxylic acid"
+    },
+    {
+        "十一炔二酸": "undecynedioic acid"
+    },
+    {
+        "十一炔酸": "undecynic acid"
+    },
+    {
+        "尿嘧啶": "uracil"
+    },
+    {
+        "阿大靈": "uradal; adalin"
+    },
+    {
+        "5-胺巴比妥酸；胺丙二醯脲": "uramil"
+    },
+    {
+        "尿甾烷": "urane"
+    },
+    {
+        "尿甾烷二醇": "uranediol"
+    },
+    {
+        "尿甾烷三醇": "uranetriol"
+    },
+    {
+        "螢光素鈉": "uranine; fluorescein sodium"
+    },
+    {
+        "脲唑": "urazole"
+    },
+    {
+        "尿素；脲；胺甲醯胺": "urea; carbamide"
+    },
+    {
+        "異脲；假脲": "φ-urea; isourea; pseudourea"
+    },
+    {
+        "脲鹽酸鹽": "urea hydrochloride"
+    },
+    {
+        "脲草酸鹽": "urea oxalate"
+    },
+    {
+        "過氧化脲": "urea hydrogen peroxide"
+    },
+    {
+        "脲乙酸": "ureidoacetic acid; hydantoic acid"
+    },
+    {
+        "5-脲尿囊素": "5-ureidohydantoin"
+    },
+    {
+        "烏拉坦；胺甲酸乙酯": "urethane; ethyl carbamate"
+    },
+    {
+        "胺甲酸甲酯": "urethylan; methylurethane"
+    },
+    {
+        "6,6'-伸脲基二萘酚-3-磺酸": "6,6'-ureylene dinaphthol-3-sulfonic acid"
+    },
+    {
+        "尿酸": "uric acid"
+    },
+    {
+        "尿苷": "uridine"
+    },
+    {
+        "尿苷二磷酸半乳糖": "uridine diphosphate galactose {= UDP-galactose}"
+    },
+    {
+        "尿苷二磷酸葡萄糖": "uridine diphosphate glucose {= UDP-glucose}"
+    },
+    {
+        "尿苷5'-二磷酸酯": "uridine 5'-diphosphate"
+    },
+    {
+        "尿苷單磷酸；尿苷酸": "uridine monophosphate {= UMP}"
+    },
+    {
+        "尿苷5'-三磷酸酯": "uridine 5'-triphosphate"
+    },
+    {
+        "尿苷5'-磷酸酯": "uridine 5'-phosphate"
+    },
+    {
+        "胺甲醯脲；貳縮脲": "uridoformamide; biuret"
+    },
+    {
+        "5'-尿苷酸": "5'-uridylic acid"
+    },
+    {
+        "脲丙酮；丙酮脲": "1-uriodo-2-propanone; acetonylurea"
+    },
+    {
+        "4-咪唑丙烯酸": "urocanic acid; urocaninic acid"
+    },
+    {
+        "尿紫質(III)": "uroporphyrin(III)"
+    },
+    {
+        "尿紫元(III)": "uroporphyrinogen(III)"
+    },
+    {
+        "優洛托品；環六亞甲四胺": "urotropin; hexamethylenetetramine"
+    },
+    {
+        "熊果苷": "ursin; arbutin"
+    },
+    {
+        "對苯二胺": "ursol D; p-phenylenediamine"
+    },
+    {
+        "熊果酸": "ursolic acid; urson"
+    },
+    {
+        "地衣酸；松蘿酸": "usnic acid"
+    },
+    {
+        "膽綠素": "uteroverdine; biliverdine"
+    },
+    {
+        "dℓ-酒石酸": "uvic acid; dℓ-tartaric acid"
+    },
+    {
+        "2,4-二甲呋喃-3-甲酸": "uvinic acid"
+    },
+    {
+        "5-甲間苯二甲酸": "uvitic acid; uvitinic acid"
+    },
+    {
+        "6-甲-2,4-吡啶二甲酸": "uvitonic acid"
+    },
+    {
+        "反-11-十八烯酸": "trans-11-octadecenoic acid"
+    },
+    {
+        "正戊醛": "n-valeraldehyde; valeraldehyde; pentanal"
+    },
+    {
+        "戊醛肟": "valeraldehyde oxime"
+    },
+    {
+        "4-戊酮醛": "γ-oxovaleraldehyde; levulinaldehyde"
+    },
+    {
+        "戊醯胺": "valeramide"
+    },
+    {
+        "正戊酸；纈草酸；戊酸": "n-valeric acid; valeric acid; pentanoic acid"
+    },
+    {
+        "戊酸六氫吡【口+井】鹽": "valeric acid piperazinium salt"
+    },
+    {
+        "戊醛": "valeric aldehyde"
+    },
+    {
+        "戊[酸]酐": "valeric anhydride"
+    },
+    {
+        "戊醯氯": "valeric chloride; valeryl chloride"
+    },
+    {
+        "三戊酸甘油酯": "valerin"
+    },
+    {
+        "δ-戊內酯": "δ-valerolactone; δ-hydroxyvaleric acid lactone"
+    },
+    {
+        "戊腈": "valeronitrile; butyl cyanide"
+    },
+    {
+        "纈胺酸": "valine"
+    },
+    {
+        "2-甲-3-炔-1-丁烯": "valylene"
+    },
+    {
+        "乙香草醛；4-羥-3-乙氧苯甲醛": "vanillal; ethyl vanillin; vanirom"
+    },
+    {
+        "香草醛縮丙酮": "vanillalacetone"
+    },
+    {
+        "香草酸": "vanillic acid"
+    },
+    {
+        "香草醛；香草精": "vanillin; vanillic aldehyde"
+    },
+    {
+        "乙酸香草醛酯": "vanillin acetate"
+    },
+    {
+        "香草醛乙醚；4-乙氧-3-甲氧苯甲醛": "vanillin ethyl ether; 4-ethoxy-3-methoxy-benzaldehyde"
+    },
+    {
+        "香草醇": "vanillyl alcohol"
+    },
+    {
+        "肉葉芸鹼": "vasicine"
+    },
+    {
+        "維洛斯明鹼": "vellosimine"
+    },
+    {
+        "惟洗可1068；氯丹": "Velsicol 1068; chlordan; chlordane"
+    },
+    {
+        "藜蘆醛": "veratraldehyde"
+    },
+    {
+        "藜蘆胺": "veratramine"
+    },
+    {
+        "藜蘆酸": "veratric acid"
+    },
+    {
+        "藜蘆定鹼": "veratridine"
+    },
+    {
+        "藜蘆鹼；塞凡定": "veratrine; cevadine"
+    },
+    {
+        "藜蘆醚；鄰二甲氧苯": "veratrole"
+    },
+    {
+        "藜蘆醇": "veratryl alcohol"
+    },
+    {
+        "藜蘆胺": "veratrylamine"
+    },
+    {
+        "馬鞭醇": "verbanol"
+    },
+    {
+        "馬鞭酮": "verbanone"
+    },
+    {
+        "毛蕊花糖": "verbascose"
+    },
+    {
+        "馬鞭烯醇": "verbenol"
+    },
+    {
+        "馬鞭烯酮": "verbenone"
+    },
+    {
+        "鳥苷": "vernine; guanosine"
+    },
+    {
+        "佛蘿那；5,5-二乙巴比妥酸": "veronal; 5,5-diethylbarbituric acid"
+    },
+    {
+        "維耳新；EDTA四鈉": "Versene; EDTA tetrasodium"
+    },
+    {
+        "岩蘭薁；4,8-二甲-2-異丙薁": "vetivalene; vetivazulene"
+    },
+    {
+        "岩蘭烯": "vetivene"
+    },
+    {
+        "岩蘭烯醇": "vetivenol"
+    },
+    {
+        "岩蘭烯酮": "vetiverone; vetivone"
+    },
+    {
+        "蠶豆氰苷": "vicianin"
+    },
+    {
+        "蠶豆糖": "vicianose"
+    },
+    {
+        "蠶豆苷": "vicine"
+    },
+    {
+        "1,1-環丙二甲酸": "vinaconic acid"
+    },
+    {
+        "長春鹼": "vinblastine"
+    },
+    {
+        "長春胺": "vincamine; vincamidol"
+    },
+    {
+        "長春新鹼": "vincristine"
+    },
+    {
+        "文朵靈鹼": "vindoline"
+    },
+    {
+        "醋酸；乙酸": "vinegar acid"
+    },
+    {
+        "乙酸乙酯": "vinegar naphtha; ethyl acetate"
+    },
+    {
+        "乙酸乙烯酯": "vinyl acetate"
+    },
+    {
+        "乙烯醇": "vinyl alcohol"
+    },
+    {
+        "溴乙烯": "vinyl bromide"
+    },
+    {
+        "乙烯基丁基醚": "vinyl butyl ether"
+    },
+    {
+        "氯乙烯": "vinyl chloride"
+    },
+    {
+        "二乙烯基醚；乙烯醚": "vinyl ether"
+    },
+    {
+        "乙烯基乙基醚": "vinyl ethyl ether"
+    },
+    {
+        "二乙烯基硫醚；乙烯硫醚": "vinyl sulfide; vinyl thioether"
+    },
+    {
+        "1,1,2-三氯乙烷": "vinyl trichloride; 1,1,2-trichloroethane"
+    },
+    {
+        "乙烯乙酸；3-丁烯酸；β-丁烯酸": "vinylacetic acid; 3-butenoic acid"
+    },
+    {
+        "乙烯乙腈；氰化烯丙基": "vinylacetonitrile; allyl cyanide"
+    },
+    {
+        "乙烯[基]乙炔；3-丁烯-1-炔": "vinylacetylene; 3-buten-1-yne"
+    },
+    {
+        "β-乙烯丙烯酸；2,4-戊二烯酸": "β-vinylacrylic acid; 2,4-pentadienoic acid"
+    },
+    {
+        "乙烯胺": "vinylamine"
+    },
+    {
+        "鄰乙烯苯基甲基醚；鄰乙烯大茴香醚": "o-vinylanisole"
+    },
+    {
+        "苯乙烯": "vinylbenzene; styrene"
+    },
+    {
+        "1-乙烯[基]環己烯": "1-vinylcyclohexene"
+    },
+    {
+        "乙烯乙醇": "vinylethyl alcohol"
+    },
+    {
+        "乙烯基乙烯；1,3-丁二烯": "vinylethylene"
+    },
+    {
+        "乙烯乙醇酸；乙烯基羥乙酸": "vinylglycolic acid"
+    },
+    {
+        "5-乙烯癒創木酚；柑果酚；異阿魏酚": "5-vinylguaiacol"
+    },
+    {
+        "二氰亞乙烯": "vinylidene cyanide"
+    },
+    {
+        "間乙烯[苯]酚": "m-vinylphenol"
+    },
+    {
+        "乙烯磺酸": "vinylsulfonic acid"
+    },
+    {
+        "三色菫黃質": "violaxanthin; zeaxanthin diepoxide"
+    },
+    {
+        "5-異亞硝巴比妥酸；阿洛占5-肟": "violuric acid; 5-isonitrosobarbituric acid; alloxan 5-oxime"
+    },
+    {
+        "紫黴素": "viomycin"
+    },
+    {
+        "成骨醇；維生素D2": "viosterol; calciferol; vitamin D2"
+    },
+    {
+        "維生素A；維他命A；抗乾眼醇；視網醇": "vitamin A; axerophthol; retinol"
+    },
+    {
+        "維生素A2；去氫視網醇": "vitamin A2; dehydroretinol"
+    },
+    {
+        "維生素A酸；視網酸": "vitamin A acid; retinic acid"
+    },
+    {
+        "維生素A醛；視網醛": "vitamin A aldehyde; retinal"
+    },
+    {
+        "維生素B1": "vitamin B1; thiamine chloride"
+    },
+    {
+        "維生素B2；核黃素": "vitamin B2; riboflavin; riboflavine"
+    },
+    {
+        "維生素B13；乳清酸": "vitamin B13; orotic acid"
+    },
+    {
+        "維生素B12": "vitamin B12; cyanocobalamin"
+    },
+    {
+        "維生素B12單甲酸": "vitamin B12 monocarboxylic acid"
+    },
+    {
+        "維生素B12a": "vitamin B12a; hydroxocobalamin"
+    },
+    {
+        "維生素B12b": "vitamin B12b"
+    },
+    {
+        "維生素B12c": "vitamin B12c"
+    },
+    {
+        "維生素C；抗壞血酸": "vitamin C; ascorbic acid"
+    },
+    {
+        "維生素D2；麥角成骨醇": "vitamin D2; ergocalciferol"
+    },
+    {
+        "維生素D3；膽成骨醇": "vitamin D3; cholecalciferol"
+    },
+    {
+        "維生素D4": "vitamin D4"
+    },
+    {
+        "維生素E；生育酚": "vitamin E; α-tocopherol"
+    },
+    {
+        "維生素H；生物素": "vitamin H; biotin"
+    },
+    {
+        "維生素K1；葉醌": "vitamin K1; phylloquinone"
+    },
+    {
+        "維生素K2(30)": "vitamin K2(30); menaquinone 6"
+    },
+    {
+        "維生素K2(35)": "vitamin K2(35); menaquinone 7"
+    },
+    {
+        "維生素K2(40)": "vitamin K2(40); menaquinone 8"
+    },
+    {
+        "維生素K2(45)": "vitamin K2(45); menaquinone 9"
+    },
+    {
+        "維生素K2(50)": "vitamin K2(50); menaquinone 10"
+    },
+    {
+        "維生素K3": "vitamin K3"
+    },
+    {
+        "維生素K4": "vitamin K4"
+    },
+    {
+        "維生素K5": "vitamin K5"
+    },
+    {
+        "維生素K6": "vitamin K6"
+    },
+    {
+        "維生素K7": "vitamin K7"
+    },
+    {
+        "維生素K-S(II)": "vitamin K-S(II)"
+    },
+    {
+        "維生素L1；鄰胺苯甲酸": "vitamin L1; o-aminobenzoic acid"
+    },
+    {
+        "維生素L2": "vitamin L2"
+    },
+    {
+        "維生素M；葉酸": "vitamin M; folic acid"
+    },
+    {
+        "維生素U": "vitamin U"
+    },
+    {
+        "番木虌次鹼": "vomicine"
+    },
+    {
+        "1,3-二苯胍": "vulkazit; 1,3-diphenylguanidine"
+    },
+    {
+        "殺鼠靈": "warfarin"
+    },
+    {
+        "冬青油；柳酸甲酯": "wintergreen oil; methyl salicylate"
+    },
+    {
+        "黃芩素": "wogonin"
+    },
+    {
+        "甲醇": "wood alcohol; wood naphtha; methanol; wood spirit"
+    },
+    {
+        "木糖": "wood sugar; xylose"
+    },
+    {
+        "鴉片黃鹼": "xanthaline; papaveraldine"
+    },
+    {
+        "【口+山】【口+星】；二苯并哌喃": "xanthene"
+    },
+    {
+        "9-【口+山】醇": "9-xanthenol"
+    },
+    {
+        "【口+山】酮": "xanthenone; xanthone"
+    },
+    {
+        "黃原酸": "xanthic acid; xanthogenic acid"
+    },
+    {
+        "黃嘌呤；2,6-二羥嘌呤": "xanthine; 2,6-dihydroxypurine"
+    },
+    {
+        "【口+山】硫酮": "xanthione"
+    },
+    {
+        "青黴黃素X": "xanthocillin X"
+    },
+    {
+        "黃原醯胺": "xanthogenamide"
+    },
+    {
+        "[乙]黃原醯苯胺": "xanthogenanilide"
+    },
+    {
+        "黃黴素": "xanthomycin"
+    },
+    {
+        "葉黃素": "lutein"
+    },
+    {
+        "黃喋呤": "xanthopterin"
+    },
+    {
+        "1,3-二羥蒽醌": "xanthopurpurin; purpuroxanthin; 1,3-dihydroxyanthraquinone"
+    },
+    {
+        "黃苷": "xanthosine"
+    },
+    {
+        "黃苷-5'-單磷酸酯；黃苷酸": "xanthosine-5'-monophosphate; xanthylic acid"
+    },
+    {
+        "黃尿酸；4,8-二羥-2-喹啉甲酸": "xanthurenic acid; xanthuric acid"
+    },
+    {
+        "【口+山】醇；9-羥【口+山】【口+星】": "xanthydrol; 9-hydroxyxanthene"
+    },
+    {
+        "黃苷酸": "xanthylic acid"
+    },
+    {
+        "羥基聯苯": "xenol"
+    },
+    {
+        "胺基聯苯": "xenylamine"
+    },
+    {
+        "木糖二酸": "xylaric acid"
+    },
+    {
+        "鄰-茬；鄰-二甲苯": "o-xylene"
+    },
+    {
+        "間茬二胺": "m-xylenediamine"
+    },
+    {
+        "茬麝香；麝香二甲苯": "xylene musk; musk xylene"
+    },
+    {
+        "茬磺酸": "xylenesulfonic acid"
+    },
+    {
+        "茬磺醯氯": "xylenesulfonyl chloride"
+    },
+    {
+        "茬酚；二甲苯酚": "xylenol"
+    },
+    {
+        "茬酚甲酸": "xylenolcarboxylic acid"
+    },
+    {
+        "對茬酚磺酞；茬酚藍": "p-xylenolsulfonaphthalein; xylenol blue"
+    },
+    {
+        "茬甲酸": "xylic acid"
+    },
+    {
+        "毗茬甲酸；3,4-二甲苯甲酸": "vic-xylic acid; hemellitic acid"
+    },
+    {
+        "對稱間茬甲酸；3,5-二甲苯甲酸": "sym-m-xylic acid; mesitylenic acid"
+    },
+    {
+        "對茬甲酸；異茬甲酸；2,5-二甲苯甲酸": "p-xylic acid; isoxylic acid"
+    },
+    {
+        "茬胺；二甲苯胺": "xylidine"
+    },
+    {
+        "木糖醇": "xylitol"
+    },
+    {
+        "木卡因": "xylocaine; lidocaine"
+    },
+    {
+        "對茬氫醌": "p-xylohydroquinone"
+    },
+    {
+        "木酮糖": "xyloketose; xylulose"
+    },
+    {
+        "木糖醯胺": "xylonamide"
+    },
+    {
+        "木糖酸": "xylonic acid"
+    },
+    {
+        "木哌喃糖": "xylopyranose"
+    },
+    {
+        "對茬醌；根皮醌": "p-xyloquinone; phlorone"
+    },
+    {
+        "4,6-二甲間苯二酚；間二羥茬": "xylorcinol"
+    },
+    {
+        "木糖": "xylose"
+    },
+    {
+        "D-木糖苯脎": "D-xylose phenylosazone"
+    },
+    {
+        "木糖醛酸": "xyluronic acid"
+    },
+    {
+        "木酮糖-5-磷酸酯": "xylulose-5-phosphate"
+    },
+    {
+        "甲苄醇": "xylyl alcohol; methylbenzyl alcohol"
+    },
+    {
+        "溴化甲苄基": "xylyl bromide; methylbenzyl bromide"
+    },
+    {
+        "氯化甲苄基": "xylyl chloride; methylbenzyl chloride"
+    },
+    {
+        "甲苄胺": "xylylamine; methylbenzylamine"
+    },
+    {
+        "α,α'-二溴二甲苯": "xylylene bromide"
+    },
+    {
+        "苯二乙腈": "xylylene cyanide"
+    },
+    {
+        "α,α'-二氯二甲苯": "xylylene chloride"
+    },
+    {
+        "鄰伸茬二醇；鄰苯二甲醇": "o-xylylene glycol; o-xylylene alcohol"
+    },
+    {
+        "2,3-茬肼；2,3-二甲苯肼": "2,3-xylylhydrazine"
+    },
+    {
+        "2-甲氧萘": "Yara yara; 2-methoxynaphthalene"
+    },
+    {
+        "育亨賓": "yohimbine"
+    },
+    {
+        "育亨酸": "yohimbine acid"
+    },
+    {
+        "育亨賓硝酸鹽": "yohimbine nitrate"
+    },
+    {
+        "育亨賓鹽酸鹽": "yohimbine hydrochloride"
+    },
+    {
+        "芥子氣": "Yperite; mustard gas"
+    },
+    {
+        "玉米黃質": "zeaxanthin"
+    },
+    {
+        "花薑酮": "zerumbone"
+    },
+    {
+        "花薑醇": "zerumbol"
+    },
+    {
+        "桔利酮": "zierone"
+    },
+    {
+        "酵母甾醇": "zymosterol"
+    },
+    {
+        "薑酮": "zingerone"
+    },
+    {
+        "薑萜": "zingiberene"
+    },
+    {
+        "螺[甾]內酯": "spironolactone"
+    },
+    {
+        "苦艾素": "artemisin"
+    },
+    {
+        "青蒿素": "artemisinin"
+    },
+    {
+        "2,4-二甲基-1-乙基環辛烷": "1-ethyl-2,4-dimethyl-cyclooctane"
+    },
+    {
+        "1,6-二甲基環己烯": "1,6-dimethyl-cyclohex-1-ene"
+    },
+    {
+        "1,5-二甲基環戊烯": "1,5-dimethyl-cyclopent-1-ene"
+    },
+    {
+        "膽甾醇；膽固醇": "cholesterol"
+    },
+    {
+        "卵苯": "ovalene"
+    },
+    {
+        "2,3,7,8-四氯㗁嗯；2,3,7,8-四氯二苯并戴奧辛{俗名}": "2,3,7,8-tetrachlorooxanthrene; 2,3,7,8-tetrachlorodibenzodioxin"
+    },
+    {
+        "癸醯氯；氯化癸醯[基]": "capryl chloride"
+    },
+    {
+        "辛醇": "1-octanol"
+    },
+    {
+        "間胺苯磺酸；間磺胺酸{舊名}": "metanilic acid"
+    },
+    {
+        "鄰胺苯磺酸；鄰磺胺酸{舊名}": "orthanilic acid"
+    },
+    {
+        "對胺苯磺酸；對磺胺酸{舊名}": "sulfanilic acid"
+    },
+    {
+        "辛醯胺": "caprylic amide"
+    },
+    {
+        "己醯胺": "caproic amide"
+    },
+    {
+        "己醇": "caproic alcohol"
+    },
+    {
+        "癸醇": "capric alcohol"
+    },
+    {
+        "MDMA；3,4-亞甲二氧甲基安非他命；3,4-亞甲二氧甲基苯丙胺": "MDMA {3,4-methylenedioxymethamphetamine}"
+    },
+    {
+        "3,4-亞甲二氧甲基安非他命；3,4-亞甲二氧甲基苯丙胺；MDMA": "3,4-methylenedioxymethamphetamine{=MDMA}"
+    },
+    {
+        "鋁氫化鋰；[四]氫鋁化鋰": "lithium aluminum hydride"
+    },
+    {
+        "聚(對酞酸乙二酯)；聚對苯二甲酸乙二酯；PET": "polyethylene terephthalate {= PET}"
+    },
+    {
+        "PET；聚(對酞酸乙二酯)；聚對苯二甲酸乙二酯；聚對酞酸乙二酯": "PET {poly(ethylene terephthalate) ;  polyethylene terephthalate}"
+    },
+    {
+        "四甲基雙酚A": "tetramethyl bisphenol A"
+    },
+    {
+        "4,4'-亞異丙基雙(2,6-二甲基苯酚)": "4,4'-isopropylidenebis(2,6-dimethylphenol)"
+    },
+    {
+        "牛油酸{反-11-十八烯酸}": "vaccenic acid"
+    },
+    {
+        "苯硼酸": "phenylboronic acid"
+    },
+    {
+        "雷公藤[次]鹼": "wilforine"
+    },
+    {
+        "紫堇諾靈鹼": "corynoline"
+    },
+    {
+        "紫堇達明鹼": "corydamine"
+    },
+    {
+        "紫堇洛星鹼": "corynovoxine"
+    },
+    {
+        "菜油甾烷": "campestane"
+    },
+    {
+        "多孔甾烷": "poriferastane"
+    },
+    {
+        "珊瑚甾烷": "gorgostane"
+    },
+    {
+        "鄰苯二甲酸二(2-乙基己基)酯；DEHP": "di(2-ethylhexyl)phthalate {DEHP}"
+    },
+    {
+        "鄰苯二甲酸雙(2-乙基己基)酯；BEHP": "bis(2-ethylhexyl)phthalate {BEHP}"
+    },
+    {
+        "杜鵑花酸 {壬二酸}": "azelaic acid"
+    },
+    {
+        "乙次亞磷酸": "ethylphosphinous acid"
+    },
+    {
+        "4-異亞磷酸[基]苯甲酸": "4-phosphanobenzoic acid"
+    },
+    {
+        "4-羧基苯異亞磷酸": "4-carboxyphenylphosphonic acid"
+    },
+    {
+        "菸鹼[酸]醯肼": "nicotinic acid hydrazide"
+    },
+    {
+        "異菸鹼[酸]醯肼": "isonicotinic hydrazide"
+    },
+    {
+        "異菸鹼[酸]醯肼": "isonicotinic acid hydrazide"
+    },
+    {
+        "2,2’-硫二乙酸 {硫二甘醇酸}": "2,2’-thiodiacetic acid"
+    },
+    {
+        "硫二甘醇酸 {2,2’-硫二乙酸}": "thiodiglycolic acid"
+    },
+    {
+        "乙胍胺 {2,4-二胺-6-甲-1,3,5-三氮𠯤}": "acetoguanamine {2,4-diamino-6-methyl-1,3,5-triazine}"
+    },
+    {
+        "2,2’-硫二乙酸；硫代二乙醇酸；硫代二甘醇酸": "2,2’-thiodiacetic acid; thiodiglycolic acid"
+    },
+    {
+        "二苯[基]異次磷酸": "diphenylphosphinic acid"
+    },
+    {
+        "二甲[基]異次磷酸": "dimethylphosphinic acid"
+    }
+]

@@ -1,0 +1,7868 @@
+[
+    {
+        "硫化礦帶": "sulfide zone"
+    },
+    {
+        "硫複酸": "sulfo-acid"
+    },
+    {
+        "硫鐵鹽類": "sulfo-ferrite"
+    },
+    {
+        "複硫鹽類": "sulfo-salts"
+    },
+    {
+        "硫": "sulfur"
+    },
+    {
+        "硫黃細菌": "sulfur bacteria"
+    },
+    {
+        "黃鐵礦球": "sulfur ball"
+    },
+    {
+        "單斜硫礦": "sulfurite"
+    },
+    {
+        "硫磷灰石": "sulphatapatite"
+    },
+    {
+        "硫鈣霞石": "sulphatic cancrinite"
+    },
+    {
+        "硫硼鎂石": "sulphoborite"
+    },
+    {
+        "氟硫鹽": "sulphohalite"
+    },
+    {
+        "複硫鹽": "sulpho-salts"
+    },
+    {
+        "硫黃泉": "sulphur(sulphureted)spring"
+    },
+    {
+        "硫化作用": "sulphurization"
+    },
+    {
+        "硫泉": "sulphyr pool"
+    },
+    {
+        "磁鐵鹼玄岩": "sumacoite"
+    },
+    {
+        "蘇門答臘蟲": "Sumatrina"
+    },
+    {
+        "堅木": "summer wood"
+    },
+    {
+        "頂；山頂": "summit"
+    },
+    {
+        "峰頂平齊": "summit concordance"
+    },
+    {
+        "峰頂面；切峰面": "summit level"
+    },
+    {
+        "峰頂準平面": "summit peneplain"
+    },
+    {
+        "峰頂面": "summit plane"
+    },
+    {
+        "坑底潭": "sump"
+    },
+    {
+        "溶雪球": "sun ball"
+    },
+    {
+        "乾裂；曬裂泥塊": "sun crack"
+    },
+    {
+        "薄冰殼": "sun crust"
+    },
+    {
+        "日曬冰窪": "sun cup"
+    },
+    {
+        "火蛋白石": "sun opal"
+    },
+    {
+        "黑子": "sun spot"
+    },
+    {
+        "陷落火山石": "sunken caldera"
+    },
+    {
+        "沉溪；潛流；地下溪流": "sunken stream"
+    },
+    {
+        "孫氏鱷": "Sunosachus"
+    },
+    {
+        "日長石": "sun-stone"
+    },
+    {
+        "超大陸": "super continent"
+    },
+    {
+        "超無煙煤": "superanthracite"
+    },
+    {
+        "超毛細孔滲透": "supercapillary percolation"
+    },
+    {
+        "過冷": "super-cooling"
+    },
+    {
+        "超臨界溫度的": "supercritical"
+    },
+    {
+        "頂面": "superface"
+    },
+    {
+        "大岩相": "superfacies"
+    },
+    {
+        "表面的": "superficial"
+    },
+    {
+        "表生礦床；地面礦床": "superficial deposit"
+    },
+    {
+        "表面鮞石": "superficial oolith(or oolite)"
+    },
+    {
+        "頂岩流": "superfluent lava flow"
+    },
+    {
+        "次生的": "supergene"
+    },
+    {
+        "次生富化作用": "supergene enrichment"
+    },
+    {
+        "次生液": "supergene solution"
+    },
+    {
+        "次生富硫作用": "supergene sulphide enrichment"
+    },
+    {
+        "冰上的": "superglacial"
+    },
+    {
+        "過熱作用": "superheating"
+    },
+    {
+        "疊置水系；積載水系": "superimposed drainage"
+    },
+    {
+        "上置扇": "superimposed fan"
+    },
+    {
+        "上置冰川；積載冰川": "superimposed ice stream"
+    },
+    {
+        "上〔層〕遺〔留〕河；疊置河": "superimposed river(superposed river)"
+    },
+    {
+        "疊置河": "superimposed stream"
+    },
+    {
+        "遺傳谷；疊置谷": "superimposed valley"
+    },
+    {
+        "重接；遺留": "superimposition"
+    },
+    {
+        "覆層；疊層": "superincumbent bed"
+    },
+    {
+        "超單晶": "superindividual"
+    },
+    {
+        "疊置河": "superinduced stream"
+    },
+    {
+        "超晶格": "superlattice"
+    },
+    {
+        "重複褶皺": "superposed fold"
+    },
+    {
+        "複波痕": "superposed ripple mark"
+    },
+    {
+        "疊置河；積載河": "superposed stream"
+    },
+    {
+        "遺留": "superposition"
+    },
+    {
+        "強鹼水": "super-saline water"
+    },
+    {
+        "過飽和溶液": "supersaturant solution"
+    },
+    {
+        "過飽和": "supersaturation"
+    },
+    {
+        "岩漿過飽和": "supersaturation of magma"
+    },
+    {
+        "被覆層；上覆層": "superstratum"
+    },
+    {
+        "超系": "supersystem"
+    },
+    {
+        "上層構造": "supertructure(suprastructure)"
+    },
+    {
+        "超帶": "superzone"
+    },
+    {
+        "互補雙晶": "supplementary twin"
+    },
+    {
+        "副型；次型": "supplementary type"
+    },
+    {
+        "上隅骨": "supraangulare"
+    },
+    {
+        "地表的": "supracrustal"
+    },
+    {
+        "永凍土上的": "supragelisol"
+    },
+    {
+        "上濱海帶": "supralittoral zone"
+    },
+    {
+        "上枕骨": "supraoccipital bone"
+    },
+    {
+        "眉稜；眼骨上稜": "Supraorbitalnidge"
+    },
+    {
+        "鱗骨上缺口": "suprasquamosal indentation"
+    },
+    {
+        "薄頂褶皺": "supratenuous fold"
+    },
+    {
+        "衝浪振盪": "surf beat"
+    },
+    {
+        "衝浪波痕；破浪漣痕": "surf ripple"
+    },
+    {
+        "衝浪帶": "surf zone"
+    },
+    {
+        "衝浪": "surf(breaker)"
+    },
+    {
+        "面": "surface"
+    },
+    {
+        "地表異常": "surface anomaly"
+    },
+    {
+        "表流；逕流": "surface flow"
+    },
+    {
+        "地面地質學": "surface geology"
+    },
+    {
+        "白霜": "surface hoar"
+    },
+    {
+        "表磧": "surface moraine"
+    },
+    {
+        "不連續面": "surface of discontinuity"
+    },
+    {
+        "無應變面": "surface of no strain"
+    },
+    {
+        "地面相": "surface phase"
+    },
+    {
+        "地勢": "surface relief"
+    },
+    {
+        "地面逕流": "surface runoff"
+    },
+    {
+        "表土": "surface soil"
+    },
+    {
+        "表面張力": "surface tension"
+    },
+    {
+        "地面水": "surface water"
+    },
+    {
+        "地面波": "surface wave"
+    },
+    {
+        "地面波": "surface wave group"
+    },
+    {
+        "地面供應間歇河": "surface-fed intermittent stream"
+    },
+    {
+        "地表的": "surfical"
+    },
+    {
+        "湧浪": "surge"
+    },
+    {
+        "沖浪流道": "surge channel"
+    },
+    {
+        "湧浪帶": "surge zone"
+    },
+    {
+        "上湧破浪": "surging breaker"
+    },
+    {
+        "衝浪振盪": "Surt beat"
+    },
+    {
+        "調查；調查所": "survey"
+    },
+    {
+        "調查；測量": "survey(ing)"
+    },
+    {
+        "適者生存": "survival of the fittest"
+    },
+    {
+        "李氏野豬": "Sus lydekkeri"
+    },
+    {
+        "硫碳鉛礦": "susannite"
+    },
+    {
+        "懸流": "suspended current"
+    },
+    {
+        "懸浮荷重": "suspended load"
+    },
+    {
+        "懸谷": "suspended valley"
+    },
+    {
+        "懸浮水": "suspended water"
+    },
+    {
+        "濁流": "suspension current"
+    },
+    {
+        "懸浮荷重": "suspension load"
+    },
+    {
+        "霞霓斑岩": "sussexite"
+    },
+    {
+        "縫合": "suture"
+    },
+    {
+        "縫合節理": "suture joint"
+    },
+    {
+        "縫合線": "suture line"
+    },
+    {
+        "縫合帶": "suture zone"
+    },
+    {
+        "縫合結構": "sutured texture"
+    },
+    {
+        "蘇皖運動": "Suwuan movement"
+    },
+    {
+        "砷灰石": "svabit"
+    },
+    {
+        "硫磷鉛鍶礦": "svanbergite"
+    },
+    {
+        "黑榴正長岩": "sviatonossite(andradite sodasyenite)"
+    },
+    {
+        "灘槽；窪地": "swale(slash)"
+    },
+    {
+        "石灰坑；石灰井": "swallet hole"
+    },
+    {
+        "石灰坑": "swallow hole(sinkhole,doline,sotch,cloup)"
+    },
+    {
+        "燕尾雙晶": "swallow-tail twin"
+    },
+    {
+        "沼澤": "swamp"
+    },
+    {
+        "沼澤成煤學說": "swamp theory"
+    },
+    {
+        "岩脈群": "swarm"
+    },
+    {
+        "震群": "swarm earthquake"
+    },
+    {
+        "水碳鈣鎂鈾礦": "swartzite"
+    },
+    {
+        "沖流河道": "swash channel"
+    },
+    {
+        "掃浪痕": "swash mark"
+    },
+    {
+        "S波": "S-wave"
+    },
+    {
+        "S波": "S-wave"
+    },
+    {
+        "銻鈉鋁礦": "swedenborgite"
+    },
+    {
+        "曲流的下移": "sweeping(of meander)"
+    },
+    {
+        "隆起地": "swell(ground swell)"
+    },
+    {
+        "丘穴地形": "swell-and-swale topography"
+    },
+    {
+        "隆起地": "swelling"
+    },
+    {
+        "浮鰾": "swimming bladder"
+    },
+    {
+        "臭石灰": "swinestone(stinkstone)"
+    },
+    {
+        "擺痕": "swing marks"
+    },
+    {
+        "邊移": "swinging"
+    },
+    {
+        "曲流帶遷移": "swinging of meander belt"
+    },
+    {
+        "灰硫銅鈷礦": "sychnodymite"
+    },
+    {
+        "雙溝型海綿": "sycon"
+    },
+    {
+        "正長岩": "syenite"
+    },
+    {
+        "正長閃長岩": "syenite diorite"
+    },
+    {
+        "正長輝長岩": "syenite gabbro"
+    },
+    {
+        "正長細晶岩": "syenite-aplite"
+    },
+    {
+        "正長偉晶岩": "syenite-pegmatite"
+    },
+    {
+        "正長斑岩": "syenite-porphyry"
+    },
+    {
+        "正長閃長岩": "syenodiorite"
+    },
+    {
+        "正長輝長岩": "syenogabbro"
+    },
+    {
+        "針蹄金礦": "sylvanite"
+    },
+    {
+        "鉀鹽": "sylvine"
+    },
+    {
+        "鉀石鹽": "sylvinite"
+    },
+    {
+        "鉀鹽": "sylvite"
+    },
+    {
+        "符號": "symbol"
+    },
+    {
+        "對稱岩丘": "symmetric laccolith"
+    },
+    {
+        "對稱條紋": "symmetrical banding"
+    },
+    {
+        "對稱層理": "symmetrical bedding"
+    },
+    {
+        "對稱消光": "symmetrical extinction"
+    },
+    {
+        "對稱褶皺": "symmetrical fold"
+    },
+    {
+        "對稱振盪波痕": "symmetrical oscillation ripple mark"
+    },
+    {
+        "對稱波痕": "symmetrical ripple mark"
+    },
+    {
+        "對稱雙晶": "symmetrical twin"
+    },
+    {
+        "對稱脈": "symmetrical vein"
+    },
+    {
+        "對稱層脈": "symmetrically banded vein"
+    },
+    {
+        "對齒目": "Symmetrodonta"
+    },
+    {
+        "對稱": "symmetry"
+    },
+    {
+        "對稱圈": "symmetry circle"
+    },
+    {
+        "對稱公式": "symmetry formula"
+    },
+    {
+        "岩組對稱；組構對稱": "symmetry of fabric"
+    },
+    {
+        "對稱面": "symmetry plane"
+    },
+    {
+        "對稱軸；旋轉對稱軸": "rotation-axis"
+    },
+    {
+        "雜黏土；混雜季候泥": "symmict clay"
+    },
+    {
+        "混雜構造": "symmict structure"
+    },
+    {
+        "固泥礫岩": "symmictite"
+    },
+    {
+        "泥礫岩": "symmicton"
+    },
+    {
+        "同化岩漿的": "symmorphic"
+    },
+    {
+        "同地區的": "sympatric"
+    },
+    {
+        "同生礦床": "symphitic deposit"
+    },
+    {
+        "膠合板": "symphylium"
+    },
+    {
+        "粘縫蟲": "Symphysops"
+    },
+    {
+        "粘殼蟲": "Symphysurus"
+    },
+    {
+        "膠晶的": "symplectic"
+    },
+    {
+        "後成合晶": "symplektite(symplectite)"
+    },
+    {
+        "後成合晶的": "symplektitic"
+    },
+    {
+        "砷鐵礦": "symplesite"
+    },
+    {
+        "砷鋁錳礦": "synadelphite"
+    },
+    {
+        "聚合囊": "synangium"
+    },
+    {
+        "岩漿後期變化": "synantexis"
+    },
+    {
+        "單弓型顱": "synapsid type of skull"
+    },
+    {
+        "單弓目": "Synapsida"
+    },
+    {
+        "橫棒(珊瑚)": "synapticula"
+    },
+    {
+        "混龍亞綱": "Synaptosauria"
+    },
+    {
+        "同時性的": "synchronal"
+    },
+    {
+        "同時": "synchrone"
+    },
+    {
+        "同時性": "synchroneity"
+    },
+    {
+        "同生的": "synchronogenic"
+    },
+    {
+        "同時": "synchronous"
+    },
+    {
+        "同時沉積": "synchronous deposits"
+    },
+    {
+        "同期深成岩體": "synchronous pluton"
+    },
+    {
+        "順裂碎面": "synclastic"
+    },
+    {
+        "向斜的": "synclinal"
+    },
+    {
+        "向斜斷層": "synclinal fault"
+    },
+    {
+        "向斜翼": "synclinal limb"
+    },
+    {
+        "向斜山脈": "synclinal mountain"
+    },
+    {
+        "向斜山脊": "synclinal ridge"
+    },
+    {
+        "向斜泉": "synclinal spring"
+    },
+    {
+        "向斜層": "synclinal strata(synclinal stratum)"
+    },
+    {
+        "向斜谷": "synclinal valley"
+    },
+    {
+        "向斜軸": "synclinal(trough)axis"
+    },
+    {
+        "向斜層": "syncline"
+    },
+    {
+        "複向斜": "synclinorium"
+    },
+    {
+        "大陸構造盆地；地盆": "synclis"
+    },
+    {
+        "同結晶": "syncrystallization"
+    },
+    {
+        "脫水收縮": "synersis"
+    },
+    {
+        "似向型構造": "synform"
+    },
+    {
+        "同生作用": "syngenesis"
+    },
+    {
+        "同生〔的〕；共成的": "syngenetic"
+    },
+    {
+        "同生礦床": "syngenetic deposit"
+    },
+    {
+        "同生構造": "syngenetic structure"
+    },
+    {
+        "原生結核": "syngenetic(primary)corcretion"
+    },
+    {
+        "鉀石膏": "syngenite"
+    },
+    {
+        "同造山運動的": "synkinematic"
+    },
+    {
+        "造山期花岡岩化作用": "synkinematic granitization"
+    },
+    {
+        "同源結構包體": "synmorphes(synmorphous)"
+    },
+    {
+        "聚晶狀": "synneusis"
+    },
+    {
+        "同物異名": "synonym"
+    },
+    {
+        "同時氣候的": "synoptic"
+    },
+    {
+        "複岩組圖": "synoptic diagram"
+    },
+    {
+        "準造山運動": "synorogenesis"
+    },
+    {
+        "同造山的": "synorogenic"
+    },
+    {
+        "造山期深成作用": "synorogenic plutonism"
+    },
+    {
+        "同深成岩脈": "synplutonic disk"
+    },
+    {
+        "綜薦骨〔鳥〕": "synsacrum"
+    },
+    {
+        "同沉積的": "synsedimentary"
+    },
+    {
+        "山結": "syntaxis"
+    },
+    {
+        "同化岩漿的": "syntectic"
+    },
+    {
+        "同熔岩漿": "syntectic magma"
+    },
+    {
+        "熔成岩": "syntectite"
+    },
+    {
+        "同造山運動": "syntectonic"
+    },
+    {
+        "同生構造結晶": "syntectonic crystallization"
+    },
+    {
+        "同構造深成岩體；同造山運動深成岩體": "syntectonic pluton"
+    },
+    {
+        "復合頂枝": "syntelome"
+    },
+    {
+        "同熔作用": "syntexis"
+    },
+    {
+        "合成〔作用〕": "synthesis"
+    },
+    {
+        "平行附屬斷層": "synthetic faults"
+    },
+    {
+        "組合群": "synthetic group"
+    },
+    {
+        "奇角鹿": "Synthetoceras"
+    },
+    {
+        "同地生成的": "syntopogenic"
+    },
+    {
+        "共型": "syntypes"
+    },
+    {
+        "環珊瑚": "Syringaxon"
+    },
+    {
+        "笛珊瑚": "Syringopora"
+    },
+    {
+        "系": "system"
+    },
+    {
+        "交錯破裂系": "system of conjugated fracture"
+    },
+    {
+        "晶系": "system of crystallization"
+    },
+    {
+        "阿爾帕三疊系": "system triassique alpin"
+    },
+    {
+        "礦物系統學": "systematic mineralogy"
+    },
+    {
+        "系統古生物學": "systematic paleontology"
+    },
+    {
+        "系統分類學": "systematics"
+    },
+    {
+        "硼鎂石": "szaibelyite(szajbelyite)"
+    },
+    {
+        "四川蟲": "Szechuanella"
+    },
+    {
+        "四川龍": "Szechuanosaurus"
+    },
+    {
+        "錳礬": "szmikite"
+    },
+    {
+        "四稜砂岩": "Szuling sandstone"
+    },
+    {
+        "鈹鎂晶石": "taaffeite(tarfite,bemagalite,berinel)"
+    },
+    {
+        "乳白石": "tabasheer(tabaschir)"
+    },
+    {
+        "硬瀝青": "tabbgite"
+    },
+    {
+        "側板": "tabella"
+    },
+    {
+        "不凍土化作用": "tabetification"
+    },
+    {
+        "不凍土；冰原夾土": "tabetisol"
+    },
+    {
+        "桌台": "table"
+    },
+    {
+        "方山；桌狀山": "table mountain"
+    },
+    {
+        "桌礁": "table reef"
+    },
+    {
+        "高台地": "table-land"
+    },
+    {
+        "海桌山": "tablemount"
+    },
+    {
+        "板石": "tablite"
+    },
+    {
+        "橫板；床板": "tabula"
+    },
+    {
+        "板狀；橫骨": "tabular"
+    },
+    {
+        "板狀晶體": "tabular crystal"
+    },
+    {
+        "桌狀冰山": "tabular iceberg"
+    },
+    {
+        "矽灰石": "tabular spar(wollastonite)"
+    },
+    {
+        "板狀構造": "tabular structure"
+    },
+    {
+        "板骨": "tabulare"
+    },
+    {
+        "橫板帶；床板帶": "tabularium"
+    },
+    {
+        "板狀腹": "tabulate venter"
+    },
+    {
+        "溢晶石；苦石灰鹽；鎂鈣鹽": "tachhydrite"
+    },
+    {
+        "溢晶石": "tachydrite"
+    },
+    {
+        "加速性發生〔生物的個體發生形式之一〕": "tachygenesis acceleration"
+    },
+    {
+        "溢晶石": "tachyhydrite"
+    },
+    {
+        "厚壁珊瑚": "Tachylasma"
+    },
+    {
+        "玄武玻璃": "tachylite"
+    },
+    {
+        "玻璃玄武岩": "tachylyte basalt"
+    },
+    {
+        "速熔石": "tachylyte"
+    },
+    {
+        "塔康運動〔晚奧陶紀〕": "Taconic"
+    },
+    {
+        "塔康系": "Taconic system"
+    },
+    {
+        "鐵燧岩；矽鐵礦": "taconite(taconyte)"
+    },
+    {
+        "接觸碳酸岩；接觸變質岩": "tactite"
+    },
+    {
+        "干涉波浪": "tadpole nests"
+    },
+    {
+        "帶羊齒": "Taeniopteris"
+    },
+    {
+        "本內帶羽葉": "Taeniozamites(Nilssoniopteris)"
+    },
+    {
+        "鎳紋石": "taenite"
+    },
+    {
+        "侵蝕孔；風化穴(花岡岩上)": "tafoni"
+    },
+    {
+        "纖磷銅礦": "tagilite"
+    },
+    {
+        "藍方粗安岩": "tahitite"
+    },
+    {
+        "大湖層": "Tahu Formation"
+    },
+    {
+        "太洪山蟲(三葉蟲)": "Taihungshania"
+    },
+    {
+        "尾波；尾沙；爬痕": "tail"
+    },
+    {
+        "尾礦；槽屑": "tailings"
+    },
+    {
+        "黝方粗面岩": "taimyrite"
+    },
+    {
+        "泰山系": "Taishanian"
+    },
+    {
+        "台灣杉": "Taiwania cryptomerioides"
+    },
+    {
+        "台灣岩": "Taiwanite"
+    },
+    {
+        "太原統(晚石炭紀)": "Taiyuan series"
+    },
+    {
+        "大港口層": "Takangkou Formation"
+    },
+    {
+        "大姑冰期": "Taku glaciation"
+    },
+    {
+        "滑石": "talc"
+    },
+    {
+        "菱鎂礦": "talc spar(magnesite)"
+    },
+    {
+        "滑石綠泥片岩": "talc-chlorite schist"
+    },
+    {
+        "滑石雲母片岩": "talc-mica schist"
+    },
+    {
+        "滑石的": "talcose"
+    },
+    {
+        "滑石花岡石": "talcose granite"
+    },
+    {
+        "滑石片岩": "talc-schist(talcose schist)"
+    },
+    {
+        "滑石；皂石": "talcum"
+    },
+    {
+        "大理冰期": "Tali glaciation"
+    },
+    {
+        "冰原土": "talik"
+    },
+    {
+        "大寮層": "Talio Formation"
+    },
+    {
+        "藍氯銅礦": "tallingite"
+    },
+    {
+        "打鹿頁岩": "Talu shale"
+    },
+    {
+        "崖錐": "talus"
+    },
+    {
+        "崖錐": "talus cone"
+    },
+    {
+        "崖屑流": "talus glacier"
+    },
+    {
+        "崖屑坡": "talus slope"
+    },
+    {
+        "崖屑蠕動": "talus-creep"
+    },
+    {
+        "谷道(河谷；冰谷)": "talweg(thalweg)"
+    },
+    {
+        "輝閃霞煌岩": "tamaraite"
+    },
+    {
+        "雲母銅礦": "tamarite"
+    },
+    {
+        "三斜鈉明礬": "tamarugite"
+    },
+    {
+        "夯實；爆孔填塞": "tamping"
+    },
+    {
+        "大南澳群": "Tananao group"
+    },
+    {
+        "大南澳片岩類": "Tananao schists"
+    },
+    {
+        "大南灣層": "Tananwan Formation"
+    },
+    {
+        "譚氏介": "Tanella"
+    },
+    {
+        "鈣釩銅礦": "tangenite"
+    },
+    {
+        "微動螺旋": "tangent screw"
+    },
+    {
+        "剪應力": "tangential stress"
+    },
+    {
+        "剪切波": "tangential wave"
+    },
+    {
+        "唐縣期": "Tanghsien stage"
+    },
+    {
+        "湯耙溝砂岩": "Tangpakao sandstone"
+    },
+    {
+        "譚氏龍": "Tanius"
+    },
+    {
+        "灰紅鈣斜長石": "tankite"
+    },
+    {
+        "暗霞玄武岩": "tannbuschite"
+    },
+    {
+        "鉭酸鹽類": "tantalates"
+    },
+    {
+        "鉭鐵礦": "tantaline"
+    },
+    {
+        "鉭礦": "tantalum ore"
+    },
+    {
+        "軟碲銀鉍礦": "tapalpite"
+    },
+    {
+        "量尺手": "tapeman"
+    },
+    {
+        "生物埋葬群": "taphocoenose"
+    },
+    {
+        "埋葬學": "taphonomy"
+    },
+    {
+        "塊裂運動": "taphrogenesis"
+    },
+    {
+        "塊裂運動": "taphrogeny"
+    },
+    {
+        "塊裂地槽": "taphrogeosyncline"
+    },
+    {
+        "重鉭鐵礦": "tapiolite"
+    },
+    {
+        "貘形亞目": "Tapiromorpha"
+    },
+    {
+        "煤焦": "tar"
+    },
+    {
+        "焦褐煤": "tar coal"
+    },
+    {
+        "矽鋇鐵礦": "taramellite"
+    },
+    {
+        "英白崗石": "tarantulite"
+    },
+    {
+        "三斜磷鋅礦": "tarbuttite"
+    },
+    {
+        "觀標；目標": "target"
+    },
+    {
+        "冰成湖；冰斗湖": "tarn"
+    },
+    {
+        "銹色": "tarnish"
+    },
+    {
+        "鉛霰石": "tarnowitzite"
+    },
+    {
+        "大飛角石殼": "tarphyceracone"
+    },
+    {
+        "跗猴亞目": "Tarsioidea"
+    },
+    {
+        "眼鏡猴": "Tarsius"
+    },
+    {
+        "跗蹠骨": "tarsometatarsus"
+    },
+    {
+        "跗骨": "tarsus"
+    },
+    {
+        "韃靼期": "Tartarian stage"
+    },
+    {
+        "耐火黏土": "tasco;tasko"
+    },
+    {
+        "塔斯曼油岩": "Tasmanite"
+    },
+    {
+        "大屯火山群": "Tatun volcano group"
+    },
+    {
+        "大同統": "Tatung series"
+    },
+    {
+        "大桶山層": "Tatungshan Formation"
+    },
+    {
+        "霓流紋石": "taurite"
+    },
+    {
+        "霞石二長安山岩": "tautirite"
+    },
+    {
+        "同帶的": "tautozonal"
+    },
+    {
+        "同晶帶的": "tauto-zonal"
+    },
+    {
+        "同晶帶相": "tautozonal facies"
+    },
+    {
+        "碳磷灰石": "tavistockite"
+    },
+    {
+        "藍方榴輝白榴岩": "tavolatite"
+    },
+    {
+        "方鈉霓輝岩": "tawaite(tawite)"
+    },
+    {
+        "大汶口層": "Tawenkou Formation"
+    },
+    {
+        "方鈉霓輝斑岩": "tawite-porphyry"
+    },
+    {
+        "紫杉的": "taxinean"
+    },
+    {
+        "斑雜岩": "taxite"
+    },
+    {
+        "斑雜狀": "taxitic"
+    },
+    {
+        "杉形木；紫杉木": "Taxodioxylon"
+    },
+    {
+        "櫛齒系": "taxodont dentation"
+    },
+    {
+        "櫛牙目": "Taxodonta"
+    },
+    {
+        "區分": "taxon"
+    },
+    {
+        "分類單位": "taxonomic unit"
+    },
+    {
+        "分類學": "taxonomy"
+    },
+    {
+        "紫杉綱": "Taxopsida"
+    },
+    {
+        "大冶統(三疊紀)": "Tayeh series"
+    },
+    {
+        "硫銨鉀石": "taylorite"
+    },
+    {
+        "構造燧石": "T-chert"
+    },
+    {
+        "黑土": "tchornozem"
+    },
+    {
+        "T向": "T-direction"
+    },
+    {
+        "構造白雲岩": "T-dolostone"
+    },
+    {
+        "硫錫鉛礦": "teallite"
+    },
+    {
+        "淺層橫移斷層": "tear fault"
+    },
+    {
+        "淚珠形火山彈": "tear-shaped bomb"
+    },
+    {
+        "構造相": "tectofacies"
+    },
+    {
+        "構造根": "tectogene"
+    },
+    {
+        "構造運動": "tectogenesis"
+    },
+    {
+        "礦蝕變形": "tectomorphic"
+    },
+    {
+        "構造的": "tectonic"
+    },
+    {
+        "構造分析": "tectonic analysis"
+    },
+    {
+        "構造軸": "tectonic axis"
+    },
+    {
+        "構造角礫岩": "tectonic breccia"
+    },
+    {
+        "構造礫岩": "tectonic conglomerate"
+    },
+    {
+        "構造蠕動": "tectonic creep"
+    },
+    {
+        "構造升區": "tectonic culmination"
+    },
+    {
+        "造山旋迴": "tectonic cycle"
+    },
+    {
+        "構造剝蝕": "tectonic denudation"
+    },
+    {
+        "構造地震": "tectonic earthquake"
+    },
+    {
+        "構造單元": "tectonic element"
+    },
+    {
+        "構造孤塊": "tectonic enclave"
+    },
+    {
+        "構造岩組": "tectonic fabric"
+    },
+    {
+        "構造相": "tectonic facies"
+    },
+    {
+        "構造移動": "tectonic flow"
+    },
+    {
+        "構造骨架": "tectonic framework"
+    },
+    {
+        "大構造地質學": "tectonic geology"
+    },
+    {
+        "造山強度": "tectonic intensity"
+    },
+    {
+        "構造湖": "tectonic lake"
+    },
+    {
+        "構造陸塊": "tectonic land"
+    },
+    {
+        "構造凸鏡體": "tectonic lens"
+    },
+    {
+        "構造階層": "tectonic level"
+    },
+    {
+        "構造線": "tectonic line"
+    },
+    {
+        "構造圖": "tectonic map"
+    },
+    {
+        "構造變質作用": "tectonic metamorphism"
+    },
+    {
+        "構造磧": "tectonic moraine"
+    },
+    {
+        "構造運動": "tectonic movement"
+    },
+    {
+        "構造加壓": "tectonic overpressure"
+    },
+    {
+        "構造形式": "tectonic pattern"
+    },
+    {
+        "構造旋轉": "tectonic rotation"
+    },
+    {
+        "構造海震": "tectonic seaquake"
+    },
+    {
+        "構造河流": "tectonic stream"
+    },
+    {
+        "構造型式": "tectonic style"
+    },
+    {
+        "構造台地": "tectonic terrace"
+    },
+    {
+        "構造移動": "tectonic transport"
+    },
+    {
+        "構造性分離": "tectonic unmixing"
+    },
+    {
+        "構造谷": "tectonic valley"
+    },
+    {
+        "構造盆地": "tectonic basin"
+    },
+    {
+        "大地構造學；動力構造學": "tectonics"
+    },
+    {
+        "構造作用": "tectonism"
+    },
+    {
+        "構造岩": "tectonite(tektonite)"
+    },
+    {
+        "構造作用": "tectonization"
+    },
+    {
+        "構造物理學": "tectonophysics"
+    },
+    {
+        "構造圈": "tectonosphere"
+    },
+    {
+        "疏鬆層": "tectorium"
+    },
+    {
+        "網矽酸鹽類": "tectosilicates"
+    },
+    {
+        "構造岩體": "tectosome"
+    },
+    {
+        "構造圈": "tectosphere"
+    },
+    {
+        "構造地帶": "tectotope"
+    },
+    {
+        "緻密層": "tectum"
+    },
+    {
+        "氯硼鈉石": "teepleite"
+    },
+    {
+        "萼蓋〔海百合〕": "tegmen(Crinoids)"
+    },
+    {
+        "德氏獸": "Teilhardia"
+    },
+    {
+        "局地化石帶": "teilzone"
+    },
+    {
+        "碲銅礬": "teineite"
+    },
+    {
+        "似曜岩類": "tektite"
+    },
+    {
+        "胞煤": "telain"
+    },
+    {
+        "得藍人": "Telanthrupus"
+    },
+    {
+        "早結異質的": "telechemic"
+    },
+    {
+        "遠岩漿礦床": "telemagmatic deposit"
+    },
+    {
+        "完齒類": "teleodont"
+    },
+    {
+        "真骨魚目": "Teleostei"
+    },
+    {
+        "疊扇構造": "telescope structure"
+    },
+    {
+        "代表礦床": "telescoped ore deposits"
+    },
+    {
+        "復生礦脈": "telescoped vein"
+    },
+    {
+        "遙震": "teleseism"
+    },
+    {
+        "遙震學": "teleseismology"
+    },
+    {
+        "地表熱液礦床的": "telethermal"
+    },
+    {
+        "胞鏡煤素": "telinite"
+    },
+    {
+        "胞煤": "telite"
+    },
+    {
+        "鋼灰石": "tellite"
+    },
+    {
+        "碲酸鹽類": "tellurates"
+    },
+    {
+        "地球的": "telluric"
+    },
+    {
+        "地曳流": "telluric current"
+    },
+    {
+        "碲赭石": "telluric ocher"
+    },
+    {
+        "碲化物": "telluride"
+    },
+    {
+        "黃碲礦": "tellurite"
+    },
+    {
+        "碲礦物": "tellurium minerals"
+    },
+    {
+        "碲鎳礦": "tellurnickel"
+    },
+    {
+        "蘆葦泥煤": "telmatic peat"
+    },
+    {
+        "胞質亮煤": "teloclarain"
+    },
+    {
+        "胞質暗煤": "telodurain"
+    },
+    {
+        "胞質絲帶": "telofusain"
+    },
+    {
+        "頂枝": "telome"
+    },
+    {
+        "頂枝系統": "telome system"
+    },
+    {
+        "頂枝學說": "telome theory"
+    },
+    {
+        "頂枝葉": "telomic leaves"
+    },
+    {
+        "尾穴目": "Telotremata"
+    },
+    {
+        "胞質鏡煤": "telovitrain"
+    },
+    {
+        "切珊瑚": "Temeniophyltum"
+    },
+    {
+        "砷鎳礦": "temiskamite"
+    },
+    {
+        "切珊瑚": "Temnophyllum"
+    },
+    {
+        "溫體冰川": "temperate glacier"
+    },
+    {
+        "溫帶": "temperate zone"
+    },
+    {
+        "溫度": "temperature"
+    },
+    {
+        "溫度係數": "temperature coefficient"
+    },
+    {
+        "溫度梯度": "temperature gradient"
+    },
+    {
+        "溫度測井": "temperature well logging"
+    },
+    {
+        "溫度帶": "temperature zone"
+    },
+    {
+        "顳窩": "temporal fossa"
+    },
+    {
+        "臨時基準面": "temporary base level"
+    },
+    {
+        "暫時硬度": "temporary hardness"
+    },
+    {
+        "暫時浮游生物": "temporary plankton"
+    },
+    {
+        "韌性": "tenacity"
+    },
+    {
+        "脆頁岩": "tender"
+    },
+    {
+        "水菱釔礦": "tengerite"
+    },
+    {
+        "混成花岡岩": "tenidgranite"
+    },
+    {
+        "砷黝銅礦": "tennantite"
+    },
+    {
+        "田納西〔早石炭紀〕": "Tennesseean series"
+    },
+    {
+        "品位": "tenor"
+    },
+    {
+        "黑銅礦": "tenorite"
+    },
+    {
+        "抗張強度": "tensile strength"
+    },
+    {
+        "張應力": "tensile stress"
+    },
+    {
+        "張力裂縫": "tension crack"
+    },
+    {
+        "張力斷層": "tension fault"
+    },
+    {
+        "幕帳石燕": "Tenticospirfer"
+    },
+    {
+        "目穿孔貝": "Terebratuljda"
+    },
+    {
+        "冰川末緣": "terminus"
+    },
+    {
+        "三元的": "ternary"
+    },
+    {
+        "三相沉積": "ternary sediment"
+    },
+    {
+        "三元系": "ternary system"
+    },
+    {
+        "柱晶松脂石": "terpin hydrate"
+    },
+    {
+        "矽藻土": "terra cariosa"
+    },
+    {
+        "紅土；鈣質紅土": "terra rossa"
+    },
+    {
+        "封印土": "terra sigileta"
+    },
+    {
+        "台地；階地坪": "terrace"
+    },
+    {
+        "階地期": "terrace epoch"
+    },
+    {
+        "階地砂礦": "terrace placer"
+    },
+    {
+        "台地平原": "terrace plain"
+    },
+    {
+        "小土階": "terracette"
+    },
+    {
+        "硬陶土；赤陶土": "terra-cotta clay"
+    },
+    {
+        "地區": "terrain"
+    },
+    {
+        "地形分析；地形判斷": "terrain analysis"
+    },
+    {
+        "地形校正": "terrain correction"
+    },
+    {
+        "透水岩石圈": "terraqueous zone"
+    },
+    {
+        "陸地的": "terrestrial"
+    },
+    {
+        "陸上沉積物": "terrestrial deposit"
+    },
+    {
+        "陸地環境": "terrestrial environment"
+    },
+    {
+        "陸相": "terrestrial facies"
+    },
+    {
+        "地磁": "terrestrial magnetism"
+    },
+    {
+        "陸成泥煤": "terrestrial peat"
+    },
+    {
+        "陸源的；地殼沉積的": "terrigenous"
+    },
+    {
+        "陸源沉積物": "terrigenous deposit"
+    },
+    {
+        "第三〔紀〕〔系〕": "Tertiary"
+    },
+    {
+        "銨碳石": "teschemacherite"
+    },
+    {
+        "方沸煌綠石": "teschenite"
+    },
+    {
+        "鈦金紅石": "teshirogilite(ilmenorutile)"
+    },
+    {
+        "安定地塊": "tessera"
+    },
+    {
+        "殼": "test"
+    },
+    {
+        "試鉛": "test lead"
+    },
+    {
+        "試紙": "test paper"
+    },
+    {
+        "試坑；探坑": "test pit"
+    },
+    {
+        "試管": "test tube"
+    },
+    {
+        "試板": "test-plate"
+    },
+    {
+        "陸龜": "Testudo"
+    },
+    {
+        "四半面體的": "tetartohedral"
+    },
+    {
+        "四分半面形": "tetartohedral form"
+    },
+    {
+        "偏五角十二面體": "tetartohedral pentagonal dodecahedron"
+    },
+    {
+        "四半面像": "tetartohedrism"
+    },
+    {
+        "四半面體": "tetartohedron"
+    },
+    {
+        "四半面像": "tetartohedry"
+    },
+    {
+        "四半面體": "tetartoid"
+    },
+    {
+        "四半面體晶族": "tetartoidal class"
+    },
+    {
+        "四分半面錐": "tetarto-pyramid"
+    },
+    {
+        "四分對稱": "tetartosymmetry"
+    },
+    {
+        "古地中海": "Tethys"
+    },
+    {
+        "四扁齒象": "Tetrabelodon"
+    },
+    {
+        "四腮亞目": "Tetrabranchiata"
+    },
+    {
+        "四頭海膽": "Tetracidaris"
+    },
+    {
+        "四射珊瑚": "Tetracoralla"
+    },
+    {
+        "四射骨刺": "tetractinellid spicule"
+    },
+    {
+        "四次對稱軸": "tetrad-axis"
+    },
+    {
+        "輝碲鉍礦": "tetradymite"
+    },
+    {
+        "正方底面": "tetragonal base"
+    },
+    {
+        "第一正方柱": "tetragonal base of the first order"
+    },
+    {
+        "第二正方柱": "tetragonal base of the second order"
+    },
+    {
+        "第三正方柱": "tetragonal base of the third order"
+    },
+    {
+        "正方雙錐體晶族": "tetragonal dipyramidal class"
+    },
+    {
+        "正方雙楔體晶族": "tetragonal disphenoidal class"
+    },
+    {
+        "正方全面異極像晶族": "tetragonal holohedral hemimorphic class"
+    },
+    {
+        "正方全面像晶族": "tetragonal holohedral(ditetragnal bipyramidal)class"
+    },
+    {
+        "正方柱": "tetragonal prism"
+    },
+    {
+        "正方錐": "tetragonal pyramid"
+    },
+    {
+        "第一正方錐": "tetragonal pyramid of the first order"
+    },
+    {
+        "第二正方錐": "tetragonal pyramid of the second order"
+    },
+    {
+        "第三正方錐": "tetragonal pyramid of the thrid order"
+    },
+    {
+        "正方錐形半面晶族": "tetragonal pyramidal hemihedral class"
+    },
+    {
+        "正方錐形異極晶族": "tetragonal pyramidal hemimorphic class"
+    },
+    {
+        "正方偏三角面體": "tetragonal scalenohedron"
+    },
+    {
+        "正方楔": "tetragonal sphenoid"
+    },
+    {
+        "正方對稱": "tetragonal symmetry"
+    },
+    {
+        "正方晶系": "tetragonal system"
+    },
+    {
+        "正方四分面晶族": "tetragonal tetartohedral class"
+    },
+    {
+        "正方楔晶族": "tetragonal tetrahedral class"
+    },
+    {
+        "正方偏方面體；半面晶族": "tetragonal trapezohedral class"
+    },
+    {
+        "正方偏方面體晶族": "tetragonal trapezohedron class"
+    },
+    {
+        "正方三八面體": "tetragonal trisoctahedron"
+    },
+    {
+        "正方帶": "tetragonal zone"
+    },
+    {
+        "四筆石；四分筆石": "Tetragraptus"
+    },
+    {
+        "四面體半面像": "tetrahedral hemihedrism"
+    },
+    {
+        "四面體半面像": "tetrahedral hemihedry"
+    },
+    {
+        "四面體假說": "tetrahedral hypothesis"
+    },
+    {
+        "四鍵離子(原子)半徑": "tetrahedral radius"
+    },
+    {
+        "地球四面體說": "tetrahedral theory(of the earth)"
+    },
+    {
+        "黝銅礦": "tetrahedrite"
+    },
+    {
+        "四面體": "tetrahedron"
+    },
+    {
+        "四六面體": "tetrahexahedron"
+    },
+    {
+        "六八面體": "tetrakisdodecahedron"
+    },
+    {
+        "四六面體": "tetrakishexahedron"
+    },
+    {
+        "四稜齒象": "Tetralophodon"
+    },
+    {
+        "四射式": "tetrameral"
+    },
+    {
+        "四分稱面": "tetramtric face"
+    },
+    {
+        "四腳動物": "tetrapod"
+    },
+    {
+        "早阪氏蟲": "Tetrapora hayasakaia"
+    },
+    {
+        "四分孢子": "tetraspore"
+    },
+    {
+        "四對稱面": "tetrasymmetric face"
+    },
+    {
+        "四分面五角十二面體": "tetratohedral pentagonal dodecahedron"
+    },
+    {
+        "四分面像": "tetratohedrism"
+    },
+    {
+        "四分面體": "tetratohedron"
+    },
+    {
+        "密高嶺土": "tetratolite"
+    },
+    {
+        "四半面對稱的；四半面的": "tetratosymmetric"
+    },
+    {
+        "四(軸)骨針": "tetraxon(tetraxial spicule)"
+    },
+    {
+        "四極真空管": "tetrode"
+    },
+    {
+        "翠鎳礦": "texasite(zaratite)"
+    },
+    {
+        "串珠蟲": "Textularia"
+    },
+    {
+        "組織；岩理": "texture"
+    },
+    {
+        "坡度比": "texture ratio"
+    },
+    {
+        "泥丘": "tey"
+    },
+    {
+        "深海的": "thalassic"
+    },
+    {
+        "深海岩": "thalassic rocks"
+    },
+    {
+        "海洋化作用": "thalassiogenesis"
+    },
+    {
+        "深海植物": "Thalassiophyta"
+    },
+    {
+        "海底古陸的；海擴期的": "thalassocratic"
+    },
+    {
+        "海底古陸": "thalasso-craton"
+    },
+    {
+        "藻菌植物": "Thallophyta"
+    },
+    {
+        "藻菌植物": "thallophyte"
+    },
+    {
+        "互通珊瑚": "Thamnastraea"
+    },
+    {
+        "互通狀": "thamnastraeoid"
+    },
+    {
+        "生物屍體群": "thanatocoenose"
+    },
+    {
+        "鐵白雲石": "tharandite"
+    },
+    {
+        "矽灰石膏": "thaumassite"
+    },
+    {
+        "奇葉厥〔屬〕": "Thaumatopteris"
+    },
+    {
+        "奇凸貝": "Thaumatrophia"
+    },
+    {
+        "溶窪": "thaw depression"
+    },
+    {
+        "溶成湖": "thaw lake"
+    },
+    {
+        "晶體幾何性": "the geometrical chracteristics of a crystal"
+    },
+    {
+        "外殼": "theca"
+    },
+    {
+        "壁〔珊瑚〕；胞管〔筆石〕": "theca [in corals] [in graptolities]"
+    },
+    {
+        "壁腔": "thecal opening"
+    },
+    {
+        "壁胞": "thecal pore"
+    },
+    {
+        "壁部構造": "thecal structure"
+    },
+    {
+        "槽牙系；槽齒系": "thecodont dentition"
+    },
+    {
+        "槽齒目": "Thecodontia"
+    },
+    {
+        "海冠綱": "Thecoidea"
+    },
+    {
+        "厚壁珊瑚": "Thecosmilia"
+    },
+    {
+        "小瘤魚目": "Thelodonti"
+    },
+    {
+        "花鱗魚": "Thelodus"
+    },
+    {
+        "無水芒硝": "thenardite"
+    },
+    {
+        "水準儀": "theodolite"
+    },
+    {
+        "霞斜岩": "theralite"
+    },
+    {
+        "霞斜輝綠岩": "theralite diabase"
+    },
+    {
+        "霞斜玢岩": "theralite porphyrite"
+    },
+    {
+        "獸孔目": "Therapsida"
+    },
+    {
+        "真獸目": "Theria"
+    },
+    {
+        "獸齒亞目": "Theriodontia"
+    },
+    {
+        "熱分析": "thermal analysis"
+    },
+    {
+        "熱圈": "thermal aureole"
+    },
+    {
+        "熱軸": "thermal axis"
+    },
+    {
+        "導熱係數；導熱性": "thermal conductivity"
+    },
+    {
+        "熱對流": "thermal convection"
+    },
+    {
+        "熱擴散係數": "thermal diffusivity"
+    },
+    {
+        "熱赤道": "thermal equator"
+    },
+    {
+        "熱脹": "thermal expansion"
+    },
+    {
+        "溫度測井；熱測井": "thermal logging"
+    },
+    {
+        "熱變質作用": "thermal metamorphism"
+    },
+    {
+        "溫泉": "thermal spring"
+    },
+    {
+        "溫度層": "thermal stratification"
+    },
+    {
+        "熱量單位": "thermal unit"
+    },
+    {
+        "熱泉水": "thermal water"
+    },
+    {
+        "熱離子發射": "thermionic emission"
+    },
+    {
+        "熱變電阻器": "thermistor"
+    },
+    {
+        "化石燃料": "thermite"
+    },
+    {
+        "熱溫層": "thermocline"
+    },
+    {
+        "熱電偶": "thermocouple"
+    },
+    {
+        "熱擴散": "thermodiffusion"
+    },
+    {
+        "熱力變質作用": "thermodynamic metamorphism"
+    },
+    {
+        "熱力作用": "thermodynamic process"
+    },
+    {
+        "熱力學": "thermodynamics"
+    },
+    {
+        "熱曳偶": "thermoelectric couple"
+    },
+    {
+        "自動溫度記錄器": "thermograph"
+    },
+    {
+        "冰溶喀斯特；熱溶喀斯特": "thermokarst"
+    },
+    {
+        "冰溶殘崗": "thermokarst mound"
+    },
+    {
+        "冰溶地形": "thermokarst topography"
+    },
+    {
+        "感光的；熱分解的": "thermolabile"
+    },
+    {
+        "熱發光": "thermoluminescence"
+    },
+    {
+        "熱變質作用": "thermometamorphism"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "計溫術": "thermometry"
+    },
+    {
+        "水鹼": "thermonatrite"
+    },
+    {
+        "鱗蛇紋石": "thermophyllite"
+    },
+    {
+        "溫度控制器": "thermoregulator"
+    },
+    {
+        "熱存磁性": "thermo-remanent magnetization"
+    },
+    {
+        "獸形目": "Thermorpha"
+    },
+    {
+        "溫層": "thermosphere"
+    },
+    {
+        "恆溫器": "thermostat"
+    },
+    {
+        "獸頭附目": "Therocephalia"
+    },
+    {
+        "獸腳亞目": "Theropoda"
+    },
+    {
+        "厚層的": "thick-beded"
+    },
+    {
+        "厚度": "thickness"
+    },
+    {
+        "(地層的)尖滅": "thin out(of strata)"
+    },
+    {
+        "薄片": "thin section"
+    },
+    {
+        "薄層的": "thin-beded"
+    },
+    {
+        "丁菲蕨": "Thinnefeldia"
+    },
+    {
+        "變薄": "thinning"
+    },
+    {
+        "薄水石": "thinolite"
+    },
+    {
+        "鈣長石": "thiorsanite"
+    },
+    {
+        "三圓測角儀": "third circle gonimoneter"
+    },
+    {
+        "光軸法線": "third mean line"
+    },
+    {
+        "第三柱": "third order prism"
+    },
+    {
+        "脫膠化": "thixotropy"
+    },
+    {
+        "塗鴉獸": "Thoatherium"
+    },
+    {
+        "矽質玄武岩": "tholeiite"
+    },
+    {
+        "矽質玄武岩漿": "tholeiitic magma"
+    },
+    {
+        "鐘狀火山": "tholoid"
+    },
+    {
+        "珠光菱鐵礦": "thomaite"
+    },
+    {
+        "方霜晶石": "thomsenolite"
+    },
+    {
+        "桿沸石；鎂沸石": "thomsonite"
+    },
+    {
+        "胸部": "thorax"
+    },
+    {
+        "鉭錫礦": "thoreaulite"
+    },
+    {
+        "方釷石": "thorianite"
+    },
+    {
+        "釷石": "thorite"
+    },
+    {
+        "進潮水道": "thorofare"
+    },
+    {
+        "鈧釔石": "thortveitite"
+    },
+    {
+        "釷鉛測年法": "Thorum-Lead method"
+    },
+    {
+        "杜氏重液": "Thoulets solution"
+    },
+    {
+        "纖維火山渣": "thread-lace-scoriae"
+    },
+    {
+        "三層構造": "three-layer structure"
+    },
+    {
+        "三點法": "three-point method"
+    },
+    {
+        "三點題": "three-point problem"
+    },
+    {
+        "臨界": "threshold"
+    },
+    {
+        "臨界壓力": "threshold pressure"
+    },
+    {
+        "最低速度": "threshold velocity"
+    },
+    {
+        "銻銅礦": "thrombolite"
+    },
+    {
+        "背流冰川": "through glacier"
+    },
+    {
+        "通谷": "through valley"
+    },
+    {
+        "落差": "throw"
+    },
+    {
+        "垃圾黏土": "throwing clay"
+    },
+    {
+        "釷鉛法": "thrum-lead method"
+    },
+    {
+        "逆斷層": "thrust"
+    },
+    {
+        "逆衝斷塊": "thrust block"
+    },
+    {
+        "逆斷層": "thrust fault"
+    },
+    {
+        "逆衝冰磧": "thrust moraine"
+    },
+    {
+        "逆衝斷面": "thrust plane"
+    },
+    {
+        "逆衝斷崖": "thrust scarp"
+    },
+    {
+        "逆衝斷片": "thrust sheet"
+    },
+    {
+        "瀝青鈾釷礦": "thucholite"
+    },
+    {
+        "冰土丘": "thufur"
+    },
+    {
+        "錳黝簾石": "thulite"
+    },
+    {
+        "晶線": "thunder egg"
+    },
+    {
+        "鈉閃微斜正長石": "thuresite"
+    },
+    {
+        "徒林根〔上晚二疊紀〕": "Thuringian"
+    },
+    {
+        "鱗綠泥石": "thuringite"
+    },
+    {
+        "袋角石": "Thylcacoceras"
+    },
+    {
+        "櫻珊瑚": "Thysanophyllum"
+    },
+    {
+        "櫻翅目": "Thysanoptera"
+    },
+    {
+        "櫻尾目": "Thysanura"
+    },
+    {
+        "鈦礦物": "tianium minerals"
+    },
+    {
+        "髫髻山統": "Tiaochishan series"
+    },
+    {
+        "跳馬澗層〔下中泥盆紀早期〕": "Tiaomachien"
+    },
+    {
+        "西藏硬齒魚": "Tibetodus"
+    },
+    {
+        "脛骨": "tibia"
+    },
+    {
+        "石灰華": "tiburtine"
+    },
+    {
+        "峽水口": "tickle"
+    },
+    {
+        "怒潮": "tidal bore"
+    },
+    {
+        "進潮道": "tidal channel"
+    },
+    {
+        "進潮河段": "tidal compartment"
+    },
+    {
+        "潮流常數": "tidal constant"
+    },
+    {
+        "潮流": "tidal current"
+    },
+    {
+        "潮準線": "tidal datum"
+    },
+    {
+        "潮期": "tidal day"
+    },
+    {
+        "潮汐三角洲": "tidal delta"
+    },
+    {
+        "潮汐平原": "tidal flat"
+    },
+    {
+        "潮流阻力": "tidal friction"
+    },
+    {
+        "入海冰川": "tidal glacier"
+    },
+    {
+        "入潮口": "tidal inlet"
+    },
+    {
+        "潮痕": "tidal mark"
+    },
+    {
+        "潮沼": "tidal marsh"
+    },
+    {
+        "出潮口": "tidal outlet"
+    },
+    {
+        "潮遺地沼": "tidal pool"
+    },
+    {
+        "潮水量": "tidal prism"
+    },
+    {
+        "潮差": "tidal range"
+    },
+    {
+        "潮流切蝕": "tidal scour"
+    },
+    {
+        "潮澤": "tidal swamp"
+    },
+    {
+        "潮波": "tidal wave"
+    },
+    {
+        "潮；潮汐": "tide"
+    },
+    {
+        "潮標；驗潮儀": "tide gauge"
+    },
+    {
+        "潮激浪": "tide rip"
+    },
+    {
+        "入海冰川": "tidewater glacier"
+    },
+    {
+        "連結線": "tie line"
+    },
+    {
+        "連島沙洲": "tiebar"
+    },
+    {
+        "鋁板鈦礦": "tieillite"
+    },
+    {
+        "灰硒汞礦": "tiemannite"
+    },
+    {
+        "天山龍": "Tienshanosaurus"
+    },
+    {
+        "店子湖層": "Tientzhu Formation"
+    },
+    {
+        "白鈣層": "Tierra blana"
+    },
+    {
+        "虎眼石": "tiger-eye"
+    },
+    {
+        "緊密褶皺": "tight fold"
+    },
+    {
+        "透橄岩": "tilaite"
+    },
+    {
+        "氟砷鈣鎂石": "tilasite"
+    },
+    {
+        "瓦銅礦": "tile ore"
+    },
+    {
+        "田麻": "Tilia"
+    },
+    {
+        "冰磧物": "till"
+    },
+    {
+        "冰磧脊": "till billow"
+    },
+    {
+        "裂隙冰磧充填": "till crevasse filling"
+    },
+    {
+        "冰磧原": "till plain"
+    },
+    {
+        "冰磧層": "till sheet"
+    },
+    {
+        "冰磧脈": "till wall"
+    },
+    {
+        "碳矽鈣石": "tilleyite"
+    },
+    {
+        "冰磧岩": "tillite"
+    },
+    {
+        "裂齒目": "Tillodontia"
+    },
+    {
+        "傾斜": "tilt"
+    },
+    {
+        "偏斜斷塊": "tilt block"
+    },
+    {
+        "傾斜斷塊": "tilted fault block"
+    },
+    {
+        "測斜儀；地斜線": "tiltmeter"
+    },
+    {
+        "黝錫礦": "tim pyrite"
+    },
+    {
+        "青盤閃安岩": "timazite"
+    },
+    {
+        "森林線": "timber line"
+    },
+    {
+        "時記": "time break"
+    },
+    {
+        "時距曲線": "time distance curve"
+    },
+    {
+        "間斷；時距": "time interval"
+    },
+    {
+        "等時線": "time line"
+    },
+    {
+        "時記": "time mark"
+    },
+    {
+        "時間面；同時面": "time plane"
+    },
+    {
+        "時間地層相": "time stratigraphic facies"
+    },
+    {
+        "時間表": "time table"
+    },
+    {
+        "跨時代的": "time transgressive"
+    },
+    {
+        "越時代的": "time transitional"
+    },
+    {
+        "時間單位": "time unit"
+    },
+    {
+        "時值": "time value"
+    },
+    {
+        "時間對比": "time-correlation"
+    },
+    {
+        "時岩單位": "time-rock unit"
+    },
+    {
+        "時代地層學": "time-stratigraph"
+    },
+    {
+        "時代地層單位": "time-stratigraphic unit"
+    },
+    {
+        "帝汶珊瑚": "Timorphyllum"
+    },
+    {
+        "錫石": "tin stone"
+    },
+    {
+        "錫礦脈": "tin vein"
+    },
+    {
+        "天然池": "tinaja"
+    },
+    {
+        "溶蝕槽": "tinajita"
+    },
+    {
+        "硼砂": "tincal(tinkal)"
+    },
+    {
+        "鈉硼鈣石": "tincalcite"
+    },
+    {
+        "硼砂石": "tincalconite"
+    },
+    {
+        "基性磷鐵礦": "tincticite"
+    },
+    {
+        "羽毛礦": "tinder ore"
+    },
+    {
+        "錫礦": "tine ore"
+    },
+    {
+        "丁氏厥；丁氏貝": "Tingia"
+    },
+    {
+        "霓霞脈岩": "tinguaite"
+    },
+    {
+        "霓霞斑脈岩": "tinguaite porphyry"
+    },
+    {
+        "霓霞脈岩的": "tinguaitic"
+    },
+    {
+        "硼砂": "tinkalite(borax)"
+    },
+    {
+        "顏色": "tint"
+    },
+    {
+        "白磷鐵礦": "tintcite"
+    },
+    {
+        "錳斧石": "tinzenite"
+    },
+    {
+        "條紋花岡閃長岩": "tirilite"
+    },
+    {
+        "銅泡石": "tirolite"
+    },
+    {
+        "提羅菊石": "Tirolites"
+    },
+    {
+        "假菊面石": "Tissotia(Pseudoceratite)"
+    },
+    {
+        "鈦酸鹽類": "titanates"
+    },
+    {
+        "鈦輝石": "titanaugite"
+    },
+    {
+        "鈦斜矽鎂石": "titanclinohumite"
+    },
+    {
+        "鈦鐵礦": "titanic iron ore"
+    },
+    {
+        "鈦磁鐵礦": "titanic magnetite"
+    },
+    {
+        "含鈦的": "titaniferous"
+    },
+    {
+        "含鈦輝石": "titaniferous augite"
+    },
+    {
+        "榍石鈦鐵礦": "titanite"
+    },
+    {
+        "榍石鈦鐵霰輝岩": "titanite jacupirangite"
+    },
+    {
+        "鈦鈉鋯石": "titano-elpidite"
+    },
+    {
+        "榍石岩": "titanolite"
+    },
+    {
+        "鈦橄欖石": "titanolivine"
+    },
+    {
+        "鈦磁鐵礦": "titanomagnetite"
+    },
+    {
+        "白粒鈦礦": "titanomorphite"
+    },
+    {
+        "巨鱷龜；偉鱷獸": "Titanosuchus"
+    },
+    {
+        "巨雷獸": "Titanotherium"
+    },
+    {
+        "鈦尖晶石": "titan-spinel"
+    },
+    {
+        "凍土層": "tjaele"
+    },
+    {
+        "霞石煌斑岩": "tjosite"
+    },
+    {
+        "蟾蜍岩": "toad rock"
+    },
+    {
+        "蟾蜍岩": "toadstone"
+    },
+    {
+        "擬托弟": "Todites"
+    },
+    {
+        "趾部": "toe"
+    },
+    {
+        "英長雲閃玢璃岩": "toellite(tollite)"
+    },
+    {
+        "彎曲節理": "toenail"
+    },
+    {
+        "河曲氾原": "toe-tap flood plain"
+    },
+    {
+        "豆房石灰岩": "Tofan limestone"
+    },
+    {
+        "豆房溝角石": "Tofangoceras"
+    },
+    {
+        "拉橄玄武岩": "tokeite"
+    },
+    {
+        "英長雲閃玢岩": "tollite"
+    },
+    {
+        "連島沙洲群": "tombolo cluster"
+    },
+    {
+        "連島沙洲群": "tombolo series"
+    },
+    {
+        "陸連島；連島沙洲": "tombolo(land-tied island)"
+    },
+    {
+        "藻煤": "tomite"
+    },
+    {
+        "正英閃長岩": "tonalite"
+    },
+    {
+        "英雲閃長細晶岩": "tonalite-aplite"
+    },
+    {
+        "英雲閃長偉晶岩": "tonalite-pegmatite"
+    },
+    {
+        "英雲閃長玢岩": "tonalite-porphyrite"
+    },
+    {
+        "英雲閃長斑岩": "tonalite-porphyry"
+    },
+    {
+        "岩舌；岩股": "tongue"
+    },
+    {
+        "燈影石灰岩": "Tongyin limestone"
+    },
+    {
+        "二長鹼性正長岩": "tonsbergite"
+    },
+    {
+        "物痕": "tool mark"
+    },
+    {
+        "牙齒；鉸齒": "tooth"
+    },
+    {
+        "牙槽": "tooth socket"
+    },
+    {
+        "頂": "top [of fold]"
+    },
+    {
+        "頂礫岩": "top conglomerate"
+    },
+    {
+        "頂面": "top surface"
+    },
+    {
+        "上盤": "top wall"
+    },
+    {
+        "頂層水": "top water"
+    },
+    {
+        "黃玉；黃精": "topaz"
+    },
+    {
+        "黃水晶": "topaz quartz"
+    },
+    {
+        "黃英岩": "topaz rock"
+    },
+    {
+        "黃英岩": "topazfels"
+    },
+    {
+        "黃英岩": "topazite"
+    },
+    {
+        "黃玉化作用": "topazization"
+    },
+    {
+        "黃榴石": "topazolite"
+    },
+    {
+        "黃英岩": "topazoseme"
+    },
+    {
+        "地形順應": "topographic adjustment"
+    },
+    {
+        "地形青年期": "topographic adolescence"
+    },
+    {
+        "地形等高線": "topographic contour"
+    },
+    {
+        "地形稜線": "topographic crest"
+    },
+    {
+        "地形高區": "topographic high"
+    },
+    {
+        "嬰年地形": "topographic infancy"
+    },
+    {
+        "地形低區": "topographic low"
+    },
+    {
+        "地形圖": "topographic map"
+    },
+    {
+        "壯年地形": "topographic maturity"
+    },
+    {
+        "老年地形": "topographic old age"
+    },
+    {
+        "地形剖面": "topographic profile"
+    },
+    {
+        "地形尺度": "topographic scale"
+    },
+    {
+        "地形測量": "topographic surveying"
+    },
+    {
+        "地形結構": "topographic texture"
+    },
+    {
+        "地形壕": "topographic trench"
+    },
+    {
+        "地形不配合": "topographic unconformity"
+    },
+    {
+        "幼年期地形": "topographic youth"
+    },
+    {
+        "地形學；地形": "topography"
+    },
+    {
+        "小區域地形學": "topology"
+    },
+    {
+        "測地學": "topometry"
+    },
+    {
+        "同地標準型": "topotype"
+    },
+    {
+        "局部帶": "topozone"
+    },
+    {
+        "頂層": "topset"
+    },
+    {
+        "頂層": "topset bed"
+    },
+    {
+        "瘤狀地": "tor"
+    },
+    {
+        "圖板藻煤": "torbanite"
+    },
+    {
+        "銅鈾雲母\r": "torbernite(torberite)"
+    },
+    {
+        "花粉泥煤": "torch peat"
+    },
+    {
+        "淡流紋岩": "tordrillite"
+    },
+    {
+        "鎂鈉閃石": "torendrikite"
+    },
+    {
+        "矽稀土石": "tornebohmite"
+    },
+    {
+        "鈰黃玉": "tornebohnite"
+    },
+    {
+        "錳鎂鋅礬": "torneyite"
+    },
+    {
+        "轉力矩": "torque"
+    },
+    {
+        "急流": "torrent"
+    },
+    {
+        "急流區": "torrent gract"
+    },
+    {
+        "洪流交錯層": "torrential crossbedding"
+    },
+    {
+        "急流三角洲": "torrential delta"
+    },
+    {
+        "熱帶": "torrid zone"
+    },
+    {
+        "托里東〔前寒武紀〕": "Torridonian"
+    },
+    {
+        "扭；扭轉": "torsion"
+    },
+    {
+        "扭秤": "torsion balance"
+    },
+    {
+        "扭轉係數": "torsion coefficient"
+    },
+    {
+        "橫移斷層": "torsion fault"
+    },
+    {
+        "扭頭": "torsion head"
+    },
+    {
+        "扭轉節理；扭節": "torsion joint"
+    },
+    {
+        "扭轉週期": "torsion period"
+    },
+    {
+        "扭轉地震儀": "torsion seismometer"
+    },
+    {
+        "扭絲": "torsion wire"
+    },
+    {
+        "蝕餘山": "torso mountain"
+    },
+    {
+        "落盤": "tortoise"
+    },
+    {
+        "托爾頓〔晚中新統〕": "Tortonian"
+    },
+    {
+        "多霞鈉長正長岩": "toryhillite"
+    },
+    {
+        "流紋一英安岩": "toscanite"
+    },
+    {
+        "總移位；總滑距": "total displacement"
+    },
+    {
+        "全通過": "total passing"
+    },
+    {
+        "全反射": "total reflection"
+    },
+    {
+        "全反射儀": "total reflectometer"
+    },
+    {
+        "全岩": "total rock"
+    },
+    {
+        "總滑距": "total slip"
+    },
+    {
+        "總落差": "total throw"
+    },
+    {
+        "試金石；砥礪": "touchstone"
+    },
+    {
+        "韌的": "tough"
+    },
+    {
+        "韌度": "toughness"
+    },
+    {
+        "頭嵙山層": "Toukoshan Formation"
+    },
+    {
+        "電氣石；壁(王酉)；璧璽": "tourmaline"
+    },
+    {
+        "電氣石鋏": "tourmaline pincette"
+    },
+    {
+        "電氣石岩": "tourmaline rock"
+    },
+    {
+        "電氣石鉗": "tourmaline tong"
+    },
+    {
+        "電氣剛玉岩": "tourmaline-corundum rock"
+    },
+    {
+        "電氣花岡岩": "tourmaline-granite"
+    },
+    {
+        "電氣雲英岩": "tourmaline-greisen"
+    },
+    {
+        "電氣片岩": "tourmaline-schist"
+    },
+    {
+        "電氣石化〔作用〕": "tourmalinization"
+    },
+    {
+        "電英岩": "tourmalite"
+    },
+    {
+        "圖爾內昔〔早石炭紀〕": "Tournaician"
+    },
+    {
+        "塔峰": "tower"
+    },
+    {
+        "古噩": "Toxoden"
+    },
+    {
+        "台灣古噩": "Toxoden taiwaniensis"
+    },
+    {
+        "箭齒亞目": "Toxodontia"
+    },
+    {
+        "T面": "T-plane"
+    },
+    {
+        "羽榍(榍)；橫": "trabecula"
+    },
+    {
+        "接觸線；痕跡": "trace"
+    },
+    {
+        "微量元素": "trace element"
+    },
+    {
+        "層跡滑距": "trace slip"
+    },
+    {
+        "層跡滑距斷層": "trace-slip fault"
+    },
+    {
+        "氣管": "trachea"
+    },
+    {
+        "管胞": "tracheid"
+    },
+    {
+        "粗班龍": "Trachelosaurus"
+    },
+    {
+        "維管束植物": "Tracheophyta"
+    },
+    {
+        "鴨咀龍；粗龍": "Trachodon"
+    },
+    {
+        "粗安玄武岩": "trachy basalt"
+    },
+    {
+        "粗面英安岩": "trachy dacite"
+    },
+    {
+        "粗面流紋岩": "trachy liparite"
+    },
+    {
+        "粗面響岩": "trachy phonolite"
+    },
+    {
+        "粗面斑岩": "trachy porphyry"
+    },
+    {
+        "粗安玄武岩": "trachyandesite bassalt"
+    },
+    {
+        "粗面安山岩": "trachyandesite(trachyteandesite)"
+    },
+    {
+        "粗菊石": "Trachyceras"
+    },
+    {
+        "粗面徨綠岩": "trachydolerite"
+    },
+    {
+        "瘤蛻介": "Trachyleberis"
+    },
+    {
+        "原殼的": "trachyostracous"
+    },
+    {
+        "粗面松脂岩": "trachy-pitchstone"
+    },
+    {
+        "粗面岩": "trachyte"
+    },
+    {
+        "粗面安山岩": "trachyte andesite"
+    },
+    {
+        "粗面黑曜岩": "trachyte-obsidian"
+    },
+    {
+        "粗面狀": "trachytic"
+    },
+    {
+        "似粗面狀": "trachytoid"
+    },
+    {
+        "似粗面狀粗面煌綠岩": "trachytoid trachydolerite"
+    },
+    {
+        "似粗面響岩": "trachytoid-phonolite"
+    },
+    {
+        "拖引搬運": "traction"
+    },
+    {
+        "拖引負載": "tractional load"
+    },
+    {
+        "牽引流": "tractive current"
+    },
+    {
+        "信風；貿易風": "trade-wind"
+    },
+    {
+        "斷層跡": "trail of the fault"
+    },
+    {
+        "偏轉斷層": "trailed fault"
+    },
+    {
+        "尾隨邊緣": "trailing edge"
+    },
+    {
+        "主動線,長蹟": "train"
+    },
+    {
+        "主應力軸線": "trajectory"
+    },
+    {
+        "蒸散": "tranpiration"
+    },
+    {
+        "收發報機": "transceivier"
+    },
+    {
+        "橫移斷層": "transcurrent fault(transverse fault)"
+    },
+    {
+        "轉換器": "transducer"
+    },
+    {
+        "掩谷冰川": "transection glacier"
+    },
+    {
+        "移置作用": "transfer"
+    },
+    {
+        "轉移阻抗": "transfer impedance"
+    },
+    {
+        "移轉百分比": "transfer percentage"
+    },
+    {
+        "轉形斷層": "transform fault"
+    },
+    {
+        "轉形斷層式界線": "transform juncture"
+    },
+    {
+        "轉形片塊": "transform plate"
+    },
+    {
+        "變化學說": "transformant doctrine"
+    },
+    {
+        "轉化；轉變": "transformation"
+    },
+    {
+        "越層系角礫岩": "trans-formational breccia"
+    },
+    {
+        "變相波": "transformed wave"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "花岡岩化說": "transformism"
+    },
+    {
+        "過溶作用": "transfusion"
+    },
+    {
+        "海進；海侵": "transgression"
+    },
+    {
+        "海進相": "transgression phase"
+    },
+    {
+        "海侵超覆": "transgressive overlap"
+    },
+    {
+        "海進生物礁": "transgressive reef"
+    },
+    {
+        "壓縮之電晶體": "transistor"
+    },
+    {
+        "經緯儀": "transit"
+    },
+    {
+        "經緯儀": "transit theodolite"
+    },
+    {
+        "轉變點": "transition point"
+    },
+    {
+        "轉變溫度": "transition temperature"
+    },
+    {
+        "過渡岩系": "transitional series"
+    },
+    {
+        "移置；移位": "translation"
+    },
+    {
+        "直移斷層": "translational fault"
+    },
+    {
+        "直移運動": "translational movement"
+    },
+    {
+        "直斷層；直移斷層": "translatory fault"
+    },
+    {
+        "半透明": "translucent"
+    },
+    {
+        "半透明雜煤質": "translucent attritus"
+    },
+    {
+        "可透性係數": "transmissibility coefficient"
+    },
+    {
+        "輸送系數": "transmission coefficient"
+    },
+    {
+        "蛻變；嬗變": "transmutation"
+    },
+    {
+        "透明；透明的": "transparent"
+    },
+    {
+        "蒸散": "transpiration"
+    },
+    {
+        "移位": "transport"
+    },
+    {
+        "搬運": "transportation"
+    },
+    {
+        "受搬運的": "transported"
+    },
+    {
+        "運積土；移積土壤": "transported soil"
+    },
+    {
+        "反接": "transposition"
+    },
+    {
+        "橫脈": "transversal vein"
+    },
+    {
+        "橫波": "transversal wave"
+    },
+    {
+        "橫列沙洲": "transverse bar"
+    },
+    {
+        "橫切盆地": "transverse basin"
+    },
+    {
+        "橫海岸線": "transverse coastline"
+    },
+    {
+        "橫冰隙": "transverse crevasse"
+    },
+    {
+        "橫沙丘": "transverse dune"
+    },
+    {
+        "橫向斷層": "transverse fault"
+    },
+    {
+        "橫褶皺": "transverse fold"
+    },
+    {
+        "擴裂": "transverse fracture"
+    },
+    {
+        "橫溝": "transverse furrow"
+    },
+    {
+        "橫節理": "transverse joint"
+    },
+    {
+        "橫波痕": "transverse ripple mark"
+    },
+    {
+        "橫移斷層": "transverse thrust"
+    },
+    {
+        "橫列組織": "transverse tissue(horizontal)"
+    },
+    {
+        "横谷": "transverse valley(transversal valley,cluse)"
+    },
+    {
+        "橫波": "transverse wave"
+    },
+    {
+        "封閉": "trap"
+    },
+    {
+        "暗色岩脈": "trap dike"
+    },
+    {
+        "暗色岩脈": "trap dyke"
+    },
+    {
+        "暗色岩": "trap rock"
+    },
+    {
+        "菱角": "Trapa"
+    },
+    {
+        "陷窗斷層": "trapdoor fault"
+    },
+    {
+        "偏方半面像": "trapezohedral hemihedry"
+    },
+    {
+        "偏方四分面像": "trapezohedral tetartohedrism"
+    },
+    {
+        "偏方四分像": "trapezohedral tetartohedry"
+    },
+    {
+        "偏方三八面體": "trapezohedron"
+    },
+    {
+        "偏方半面像": "trapezonhedral hemihedrism"
+    },
+    {
+        "暗色粒變岩": "trapgranulite"
+    },
+    {
+        "暗色岩狀": "trappoid"
+    },
+    {
+        "暗色網狀片麻岩": "trap-shotten gneiss"
+    },
+    {
+        "浮石凝灰岩": "trass"
+    },
+    {
+        "創孔海百合": "Traumatocrinus"
+    },
+    {
+        "傳播時間": "travel time"
+    },
+    {
+        "時距曲線": "travel time cruve"
+    },
+    {
+        "受移動的": "traveled"
+    },
+    {
+        "運移沙灘": "traveling beach"
+    },
+    {
+        "移動沙丘": "travelling dune"
+    },
+    {
+        "導線": "traverse"
+    },
+    {
+        "導線測量": "traverse survey"
+    },
+    {
+        "假像水纖閃石": "traversellite"
+    },
+    {
+        "鈣華壩": "travertine dam"
+    },
+    {
+        "石灰華台地": "travertine terrace"
+    },
+    {
+        "石灰華；鈣華": "travertine(s)"
+    },
+    {
+        "階面": "tread"
+    },
+    {
+        "礦體": "treasure box"
+    },
+    {
+        "地下金屬探測器": "treasure finder"
+    },
+    {
+        "輕硫砷銀礦": "trechmannite"
+    },
+    {
+        "林線": "tree line"
+    },
+    {
+        "系統樹": "tree of phylogeny"
+    },
+    {
+        "格子狀水系": "trellis drainage(pattern)"
+    },
+    {
+        "特馬豆統〔早奧陶紀〕": "Tremadoc [ian]"
+    },
+    {
+        "穿孔球菌": "trematolith"
+    },
+    {
+        "透閃石": "tremolite"
+    },
+    {
+        "透閃片岩": "tremolite-schist"
+    },
+    {
+        "顫動；微震": "tremor"
+    },
+    {
+        "試槽；海溝": "trench"
+    },
+    {
+        "海溝帶": "trench zone"
+    },
+    {
+        "趨向；走向": "trend"
+    },
+    {
+        "春登〔統中奧陶紀〕": "Trentonian Series"
+    },
+    {
+        "偏口": "Trepostomata"
+    },
+    {
+        "河階觀念": "treppen concept"
+    },
+    {
+        "三次對稱軸": "triadaxis"
+    },
+    {
+        "三疊蛙": "Triado batrachus"
+    },
+    {
+        "三疊蛙": "Triadobatrachus"
+    },
+    {
+        "三八面體": "triakisoctahedron"
+    },
+    {
+        "三角三四面體": "triakistetrahedron"
+    },
+    {
+        "探坑": "trial pit"
+    },
+    {
+        "三角形圖解": "triangular diagram"
+    },
+    {
+        "三角面": "triangular facet"
+    },
+    {
+        "三角測量": "triangulate"
+    },
+    {
+        "三角網測量": "triangulation"
+    },
+    {
+        "三分節蟲": "Triarthus"
+    },
+    {
+        "三疊紀": "Triassic period"
+    },
+    {
+        "三疊系": "Triassic system"
+    },
+    {
+        "岩族": "tribe"
+    },
+    {
+        "支流": "tributary"
+    },
+    {
+        "支冰川": "tributary glacier"
+    },
+    {
+        "沁獸": "Tricentes"
+    },
+    {
+        "三角龍": "Triceratops"
+    },
+    {
+        "絲砷銅礦": "trichalcite"
+    },
+    {
+        "髮晶；毛晶；髮雛晶": "trichite"
+    },
+    {
+        "支葉銀杏": "Trichopitys"
+    },
+    {
+        "毛翅目": "Trichoptera"
+    },
+    {
+        "三色的": "trichroic"
+    },
+    {
+        "三色性": "trichroism"
+    },
+    {
+        "漏斗狀深成岩": "trichter pluton"
+    },
+    {
+        "毛晶": "trichyte"
+    },
+    {
+        "三斜的": "triclinic"
+    },
+    {
+        "三斜底面": "triclinic base"
+    },
+    {
+        "三斜短軸": "triclinic branchy-axis"
+    },
+    {
+        "三斜短柱": "triclinic branchy-prism"
+    },
+    {
+        "三斜長石": "triclinic feldspar"
+    },
+    {
+        "三斜半面像": "triclinic hemihedral(asymmetric)class"
+    },
+    {
+        "三斜全面短柱": "triclinic holohedral brachyprism"
+    },
+    {
+        "三斜全面短錐": "triclinic holohedral brachypyramid"
+    },
+    {
+        "三斜全面長錐": "triclinic holohedral macropyramid"
+    },
+    {
+        "三斜全面柱": "triclinic holohedral prism"
+    },
+    {
+        "三斜全面錐": "triclinic holohedral pyramid"
+    },
+    {
+        "三斜全面單位柱": "triclinic holohedral unit prism"
+    },
+    {
+        "三斜全面單位錐": "triclinic holohedral unit pyramid"
+    },
+    {
+        "三斜全面像": "triclinic holohedral(pinacoidal)class"
+    },
+    {
+        "三斜長軸": "triclinic macro-axis"
+    },
+    {
+        "三斜柱": "triclinic prism"
+    },
+    {
+        "三斜錐": "triclinic pyramid"
+    },
+    {
+        "三斜對稱": "triclinic symmetry"
+    },
+    {
+        "三斜對稱岩組": "triclinic symmetry of fabric"
+    },
+    {
+        "三斜晶系": "triclinic system"
+    },
+    {
+        "三錐齒獸": "Triconodon"
+    },
+    {
+        "三錐齒目": "Triconodonta"
+    },
+    {
+        "鱗矽石；鱗石英": "tridymite"
+    },
+    {
+        "鱗英蘚玄岩": "tridymite alboranite"
+    },
+    {
+        "鱗英二長安岩": "tridymite latite"
+    },
+    {
+        "鱗英淡蘇安玄岩": "tridymite peralboranite"
+    },
+    {
+        "鱗矽粗面岩": "tridymite-trachyte"
+    },
+    {
+        "三叉角石": "Trifarcatoceras"
+    },
+    {
+        "板機；引發": "trigger"
+    },
+    {
+        "三方的": "trigonal"
+    },
+    {
+        "三方雙錐": "trigonal bipyramid"
+    },
+    {
+        "三方複方晶體；三方雙晶體類": "trigonal dipyramidal class"
+    },
+    {
+        "三角三四面體；三角十二面體": "trigonal dodecahedron"
+    },
+    {
+        "三方半面像晶族": "trigonal hemihedral class"
+    },
+    {
+        "三方半面異極像": "trigonal hemihedral hemimorphism"
+    },
+    {
+        "三方半面像": "trigonal hemihedrism"
+    },
+    {
+        "三方全面像晶族": "trigonal holohedral-class"
+    },
+    {
+        "第二三方柱": "trigonal of the second order"
+    },
+    {
+        "三方柱": "trigonal prism"
+    },
+    {
+        "三方錐": "trigonal pyramid"
+    },
+    {
+        "第一三方錐；第一三方柱": "trigonal pyramid of the first order"
+    },
+    {
+        "第二三方錐": "trigonal pyramid of the second order"
+    },
+    {
+        "三方晶系": "trigonal system"
+    },
+    {
+        "三方四分面像": "trigonal tetartohed drism"
+    },
+    {
+        "三方四分面像晶族": "trigonal tetartohedral class"
+    },
+    {
+        "三方四分面異極像": "trigonal tetartohedral hemimorphism"
+    },
+    {
+        "三方偏形體類": "trigonal trapezohedral class"
+    },
+    {
+        "三方偏方八面體": "trigonal trapezohedron"
+    },
+    {
+        "三角三四面體": "trigonal trisoctahedron"
+    },
+    {
+        "三角三四面體": "trigonal tristetrahedron"
+    },
+    {
+        "三角蛤": "Trigonia"
+    },
+    {
+        "三角犀": "Trigonias"
+    },
+    {
+        "斜楔石": "trigonite"
+    },
+    {
+        "三角筆石": "Trigonograptus"
+    },
+    {
+        "大三角測量": "trigonometrical survey"
+    },
+    {
+        "三裂縫(孢粉)": "trilete suture"
+    },
+    {
+        "三連晶": "trilling"
+    },
+    {
+        "三葉蟲綱": "Trilobita"
+    },
+    {
+        "三葉蟲綱": "Trilobitae"
+    },
+    {
+        "三葉蟲": "trilobite"
+    },
+    {
+        "三葉蟲形綱": "Trilobitemorpha"
+    },
+    {
+        "三葉蟲相": "trilobitic facies"
+    },
+    {
+        "三房蟲": "Triloculina"
+    },
+    {
+        "三稜齒象": "Trilophodon"
+    },
+    {
+        "三合煤素質": "trimaceral"
+    },
+    {
+        "三斜石": "trimerite"
+    },
+    {
+        "三分稱面": "trimetric face"
+    },
+    {
+        "斜方晶系": "trimetric system"
+    },
+    {
+        "前緣線": "trimline"
+    },
+    {
+        "三像型": "trimorphism"
+    },
+    {
+        "三型的": "trimorphous"
+    },
+    {
+        "三瘤蟲": "Trinucleus"
+    },
+    {
+        "三八位層狀礦物": "trioctahedral"
+    },
+    {
+        "三八面體": "trioctahedron"
+    },
+    {
+        "三極真空管": "triode"
+    },
+    {
+        "鼈": "Trionyx"
+    },
+    {
+        "彎硬石膏": "tripestone"
+    },
+    {
+        "鋰輝石": "triphance"
+    },
+    {
+        "鋰藍鐵礦": "triphylite(triphyline)"
+    },
+    {
+        "三接點": "triple junction"
+    },
+    {
+        "三帶型珊瑚": "triple-zoned coral"
+    },
+    {
+        "氟磷酸鐵錳礦": "triplite"
+    },
+    {
+        "鹼性磷酸錳鐵礦": "triploidite"
+    },
+    {
+        "三腳架": "tripod"
+    },
+    {
+        "板狀矽藻土": "tripoli earth(tripolite)"
+    },
+    {
+        "風化矽石": "tripoli(tripolite)"
+    },
+    {
+        "矽藻石": "tripolit"
+    },
+    {
+        "軟砷銅礦": "trippkeite"
+    },
+    {
+        "黃銻鐵礦": "tripuhyite"
+    },
+    {
+        "三八面體": "trisoctahedron"
+    },
+    {
+        "三四面體": "tristetrahedron"
+    },
+    {
+        "稻米【虫+筵】": "Triticites"
+    },
+    {
+        "氚": "tritium"
+    },
+    {
+        "尖錐稀土壤": "tritomite"
+    },
+    {
+        "第三柱": "tritoprism"
+    },
+    {
+        "第三錐": "tritopyramid"
+    },
+    {
+        "三尖齒目；三尖類": "Trituberculata"
+    },
+    {
+        "三瘤齒龍；三瘤獸": "Tritylodon"
+    },
+    {
+        "三變的": "trivariant"
+    },
+    {
+        "塔角石；三角菊石": "Trochoceras"
+    },
+    {
+        "彎濶錐狀": "trochoid"
+    },
+    {
+        "圓錐螺旋": "trochoid spiral"
+    },
+    {
+        "複旋轉斷層": "trochoidal fault"
+    },
+    {
+        "輪角石": "Trocholites"
+    },
+    {
+        "班螺": "Trochus"
+    },
+    {
+        "橄長石": "troctolite"
+    },
+    {
+        "砷鈾礦": "troegerite"
+    },
+    {
+        "大河狸；巨河狸": "Trogontherium"
+    },
+    {
+        "隕硫鐵": "troilite"
+    },
+    {
+        "天然鹼": "trona"
+    },
+    {
+        "奧長花岡細晶岩": "trondhjemite aplite"
+    },
+    {
+        "奧長花岡偉晶岩": "trondhjemite pegmatite"
+    },
+    {
+        "奧長花岡璃岩": "trondhjemite porphyrite"
+    },
+    {
+        "奧長花岡岩": "trondhjemite(trondjemite)"
+    },
+    {
+        "天然鹼": "tronite"
+    },
+    {
+        "禿頂龍": "Troödon"
+    },
+    {
+        "錳矽鋅礦": "troostite"
+    },
+    {
+        "營養關係": "trophic relation"
+    },
+    {
+        "熱帶": "tropic"
+    },
+    {
+        "北回歸線": "tropic of cancer"
+    },
+    {
+        "南回歸線": "tropic of capricorn"
+    },
+    {
+        "熱帶無風帶": "tropical calm zone"
+    },
+    {
+        "熱帶旋風": "tropical cyclone"
+    },
+    {
+        "熱帶土壤": "tropical soil"
+    },
+    {
+        "熱帶": "tropical zone"
+    },
+    {
+        "熱帶": "tropics"
+    },
+    {
+        "槽；向斜底": "trough"
+    },
+    {
+        "地塹斷層": "trough fault"
+    },
+    {
+        "向斜底線": "trough line"
+    },
+    {
+        "向斜面底": "trough plane"
+    },
+    {
+        "槽谷": "trough valley"
+    },
+    {
+        "螢電花岡岩": "trowlesworthite"
+    },
+    {
+        "切蝕三角岬": "trucated cuspate foreland"
+    },
+    {
+        "易潮石": "trudellite"
+    },
+    {
+        "真傾斜": "true dip"
+    },
+    {
+        "真褶皺作用": "true folding"
+    },
+    {
+        "真地平": "true horizon"
+    },
+    {
+        "真肋": "true rib"
+    },
+    {
+        "真脈": "true vein"
+    },
+    {
+        "切蝕": "truncate"
+    },
+    {
+        "削斷山嘴；切蝕山嘴": "truncated apur"
+    },
+    {
+        "平切": "truncation"
+    },
+    {
+        "主冰川": "trunk glacier"
+    },
+    {
+        "刺隔壁珊瑚": "Tryplasma"
+    },
+    {
+        "草嶺山玄武岩": "Tsaolinshan basalt"
+    },
+    {
+        "矽鈦鈰釔礦": "tscheffkinite(tschewkinite)"
+    },
+    {
+        "鎂閃石": "tschermakite"
+    },
+    {
+        "銨明礬": "tschermigite"
+    },
+    {
+        "黑鈣土": "tschernosem"
+    },
+    {
+        "水磷高鐵石": "tschinwinskite"
+    },
+    {
+        "千佛崖統": "Tsienfuyen series"
+    },
+    {
+        "濟南石灰岩": "Tsinan limestone"
+    },
+    {
+        "濟南蟲": "Tsinania"
+    },
+    {
+        "條紋長石花岡岩(青島岩)": "tsingtauite"
+    },
+    {
+        "秦嶺地軸": "Tsinling axis"
+    },
+    {
+        "秦嶺地向斜": "Tsinling geosyncline"
+    },
+    {
+        "柞水統": "Tsoshui series"
+    },
+    {
+        "湊合層": "Tsouho Formation"
+    },
+    {
+        "綠磷鉛銅礦": "tsumebite"
+    },
+    {
+        "海嘯；津波": "tsunamis"
+    },
+    {
+        "管足": "tube foot"
+    },
+    {
+        "結；節結；突起": "tubercle"
+    },
+    {
+        "瘤切牙；結裂牙": "tuberculo-sectorial teeth"
+    },
+    {
+        "笙珊瑚": "Tubipora"
+    },
+    {
+        "管狀泉": "tubular spring"
+    },
+    {
+        "管齒目": "Tubulidentata"
+    },
+    {
+        "泉華": "tufa"
+    },
+    {
+        "石灰華質的": "tufaceous"
+    },
+    {
+        "凝灰岩": "tuff"
+    },
+    {
+        "凝灰球": "tuff ball"
+    },
+    {
+        "凝灰岩錐；凝灰錐": "tuff breccia"
+    },
+    {
+        "凝灰岩脈": "tuff dike"
+    },
+    {
+        "熔岩質；凝灰岩": "tuff lava"
+    },
+    {
+        "凝灰岩頸": "tuff neck"
+    },
+    {
+        "凝灰橙玄；玻琍": "tuff palagonite"
+    },
+    {
+        "凝灰火山錐": "tuff porphyroid"
+    },
+    {
+        "凝灰岩道": "tuff vent"
+    },
+    {
+        "凝灰火山": "tuff volcano"
+    },
+    {
+        "凝灰質": "tuffaceous"
+    },
+    {
+        "凝灰岩相": "tuffaceous facies"
+    },
+    {
+        "層凝灰岩": "tuffite"
+    },
+    {
+        "假凝灰岩": "tuffoid"
+    },
+    {
+        "凝灰岩": "tuffstone"
+    },
+    {
+        "熔岩腫": "tumefaction of lava"
+    },
+    {
+        "火山膨脹": "tumescence"
+    },
+    {
+        "熔岩鐘": "tumulus"
+    },
+    {
+        "苔原泥煤": "tundra peat"
+    },
+    {
+        "苔原；凍原": "tundra(cold desert)"
+    },
+    {
+        "東坑層": "Tungkeng Formation"
+    },
+    {
+        "鎢酸鹽類": "tungstates"
+    },
+    {
+        "鎢礦物": "tungsten minerals"
+    },
+    {
+        "鎢鉬鈣礦": "tungsten-powellite"
+    },
+    {
+        "鎢華": "tungstic ocher"
+    },
+    {
+        "鎢華": "tungstite"
+    },
+    {
+        "鎢礦": "tungstun ore"
+    },
+    {
+        "桐梓蟲": "Tungtzeella"
+    },
+    {
+        "東吳運動": "Tungwu movement"
+    },
+    {
+        "被囊類": "Tunicata"
+    },
+    {
+        "潛流洞": "tunnel cave"
+    },
+    {
+        "隧谷": "tunnel dale"
+    },
+    {
+        "隧湖": "tunnel lake"
+    },
+    {
+        "隧道谷": "tunnel valley"
+    },
+    {
+        "通道(有孔蟲)": "tunnel(Foraminifera)"
+    },
+    {
+        "熔岩隧道": "tunnel,lave"
+    },
+    {
+        "泥煤": "tur"
+    },
+    {
+        "濁流岩": "turbidite"
+    },
+    {
+        "濁流": "turbidity current"
+    },
+    {
+        "濶錐狀": "turbinate"
+    },
+    {
+        "蠑螺": "Turbo"
+    },
+    {
+        "渦旋；渦流": "turbulence"
+    },
+    {
+        "渦流擴散": "turbulence diffusion"
+    },
+    {
+        "渦旋系列": "turbulence spectrum"
+    },
+    {
+        "旋流；亂流": "turbulent flow"
+    },
+    {
+        "草泥煤": "turf peat"
+    },
+    {
+        "黃長霞石岩": "turjaite"
+    },
+    {
+        "綠松石；甸子；土耳其玉": "turkey stone"
+    },
+    {
+        "黃硫鎘礦": "turkey-far ore"
+    },
+    {
+        "轉換點": "turning point"
+    },
+    {
+        "土侖統〔白堊紀〕": "Turonian"
+    },
+    {
+        "(土耳其玉)": "turquoise[e] [-stone]"
+    },
+    {
+        "塔菊石": "Turrilites"
+    },
+    {
+        "錐螺": "Turritella"
+    },
+    {
+        "龜形石": "turtle stone"
+    },
+    {
+        "龜背地形": "turtleback"
+    },
+    {
+        "輝石黃長白榴岩": "tusculite"
+    },
+    {
+        "圍土蚌": "tutuella"
+    },
+    {
+        "鈉鹼正長似粗面岩": "tutvelite"
+    },
+    {
+        "平頂火山": "tuya"
+    },
+    {
+        "輝石正長混染岩": "tveitasite"
+    },
+    {
+        "雙晶軸": "twin axis"
+    },
+    {
+        "雙晶滑動": "twin gliding"
+    },
+    {
+        "雙晶頁；雙晶片": "twin lamella"
+    },
+    {
+        "雙晶片": "twin lamellae"
+    },
+    {
+        "雙晶定律": "twin law"
+    },
+    {
+        "雙晶面": "twin plane"
+    },
+    {
+        "孿生煤層": "twin seam"
+    },
+    {
+        "雙晶對稱": "twin symmetry"
+    },
+    {
+        "雙晶火山": "twin volcano"
+    },
+    {
+        "雙晶": "twin(twinning crystal)"
+    },
+    {
+        "雙晶": "twin-crystal"
+    },
+    {
+        "雙晶": "twinned crystal"
+    },
+    {
+        "雙晶作用": "twinning"
+    },
+    {
+        "雙晶軸": "twinning axis"
+    },
+    {
+        "雙晶位移": "twinning displacement"
+    },
+    {
+        "雙晶律": "twinning law"
+    },
+    {
+        "雙晶面": "twinning plane"
+    },
+    {
+        "雙晶條紋": "twin-striation"
+    },
+    {
+        "扭轉滑動": "twist gliding"
+    },
+    {
+        "測捩儀；對扭儀": "twisting apparatus"
+    },
+    {
+        "雙圓測角儀": "two circle goniometer"
+    },
+    {
+        "二輝安山岩": "two pyroxene andesite"
+    },
+    {
+        "雙循環海岸": "two-cycle coast"
+    },
+    {
+        "雙循環河谷": "two-cycle valley"
+    },
+    {
+        "雙層構造": "two-layer structure"
+    },
+    {
+        "雙重崖": "two-story cliff"
+    },
+    {
+        "雙重谷": "two-story valley"
+    },
+    {
+        "雜芒硝": "tychite"
+    },
+    {
+        "連島沙洲": "tying bar"
+    },
+    {
+        "駱駝附骨": "tylopoda"
+    },
+    {
+        "長喙龍": "Tylosaurus"
+    },
+    {
+        "鼓骨": "tympanic bone"
+    },
+    {
+        "鼓膜": "tympanic membrane"
+    },
+    {
+        "鳴腔；鼓室": "tympanum"
+    },
+    {
+        "典型觀念": "type concept"
+    },
+    {
+        "標準化石": "type fossil"
+    },
+    {
+        "模式屬；標準層": "type genus"
+    },
+    {
+        "標準地點": "type locality"
+    },
+    {
+        "標準材料": "type material"
+    },
+    {
+        "標準剖面": "type section"
+    },
+    {
+        "模式種": "type species"
+    },
+    {
+        "模式標本；標準標本": "type specimen"
+    },
+    {
+        "颱風": "typhoon"
+    },
+    {
+        "育砑頭蟲": "Typloproetus"
+    },
+    {
+        "微量化學元素": "typochemical element"
+    },
+    {
+        "標示礦物": "typomorphic minerals"
+    },
+    {
+        "霸王龍": "Tyrannosaurus"
+    },
+    {
+        "銅泡石": "tyrolite"
+    },
+    {
+        "氟鈰濶礦": "tysonite"
+    },
+    {
+        "釩鈣鈾礦": "tyuyamunite"
+    },
+    {
+        "自流井統": "Tzuliuching series"
+    },
+    {
+        "遍有礦物；普存礦物": "ubiquitous minerals"
+    },
+    {
+        "暗橄白榴岩": "ugandite"
+    },
+    {
+        "鈣榴石": "ugrandite"
+    },
+    {
+        "硬瀝青": "uintahite(uintaite)"
+    },
+    {
+        "伍塔獸": "Uintatherium"
+    },
+    {
+        "石英二長岩": "ukrainite"
+    },
+    {
+        "鈉硼解石": "ulexite"
+    },
+    {
+        "銻硫鎳礦": "ullmannite"
+    },
+    {
+        "膠質煤": "ulmain"
+    },
+    {
+        "腐植酸": "ulmic acid"
+    },
+    {
+        "泥煤化作用": "ulmification"
+    },
+    {
+        "膠煤素質": "ulminite"
+    },
+    {
+        "腐植質": "ulmins"
+    },
+    {
+        "榆": "Ulmus"
+    },
+    {
+        "尺骨": "ulna"
+    },
+    {
+        "疤木": "Ulodendron"
+    },
+    {
+        "尤氏介": "Ulrichia"
+    },
+    {
+        "方鈾礦；鹼長霞霓岩": "ulrichite"
+    },
+    {
+        "烏爾斯得〔中泥盆紀〕": "Ulsterian"
+    },
+    {
+        "元素分析": "ultimate analysis"
+    },
+    {
+        "永久基準面": "ultimate base level"
+    },
+    {
+        "終期地形": "ultimate landform"
+    },
+    {
+        "極限強度": "ultimate strength"
+    },
+    {
+        "超基性": "ultrabasic"
+    },
+    {
+        "超基岩性": "ultrabasic rocks"
+    },
+    {
+        "超鹼的": "ultrahaline"
+    },
+    {
+        "超鎂質；超基性": "ultramafic"
+    },
+    {
+        "超換質花岡石": "ultrametagranite"
+    },
+    {
+        "超變質脈混合岩": "ultrametamorphic venite"
+    },
+    {
+        "超變質": "ultrametamorphism"
+    },
+    {
+        "超糜陵岩": "ultramylonite"
+    },
+    {
+        "超矽鎂質": "ultrasima"
+    },
+    {
+        "紫外的；紫外線": "ultraviolet"
+    },
+    {
+        "特強火山作用": "ultravolcanian"
+    },
+    {
+        "鈦鐵尖晶石": "ulvospinel"
+    },
+    {
+        "紅硒銅礦": "umangite"
+    },
+    {
+        "棕土": "umber"
+    },
+    {
+        "臍緣": "umbilical edge"
+    },
+    {
+        "臍隙": "umbilical gap(in Gastropodods)"
+    },
+    {
+        "臍葉": "umbilical lobe"
+    },
+    {
+        "臍陵": "umbilical shoulder"
+    },
+    {
+        "臍壁": "umbilical wall"
+    },
+    {
+        "臍": "umbilicus"
+    },
+    {
+        "喙部腔": "umbonal cavity"
+    },
+    {
+        "鹼閃正長岩": "umotekite"
+    },
+    {
+        "鹼閃正長斑岩": "umptekite porphry"
+    },
+    {
+        "非適應演化": "unadaptative evolution"
+    },
+    {
+        "殘丘": "unaka"
+    },
+    {
+        "綠簾花岡岩": "unakite"
+    },
+    {
+        "單元素": "unary system"
+    },
+    {
+        "土留水份": "unavailable moisture"
+    },
+    {
+        "不平衡力": "unbalanced force"
+    },
+    {
+        "倒鉤貝": "Uncinulus"
+    },
+    {
+        "輝磁黃長岩": "uncompahgrite"
+    },
+    {
+        "片流沖蝕": "unconcentrated wash"
+    },
+    {
+        "非封閉地下水": "unconfined ground water"
+    },
+    {
+        "不整合現象": "unconformability"
+    },
+    {
+        "不整合的": "unconformable"
+    },
+    {
+        "不整合": "unconformity"
+    },
+    {
+        "不整合封閉": "unconformity trap"
+    },
+    {
+        "未固結物質": "unconsolidated material"
+    },
+    {
+        "巨波形地殼運動": "undation"
+    },
+    {
+        "地殼波動學說": "undation theory"
+    },
+    {
+        "過冷": "under cooling"
+    },
+    {
+        "底流": "under current"
+    },
+    {
+        "地下水流；潛流": "under flow"
+    },
+    {
+        "底土": "underclay"
+    },
+    {
+        "底黏土石灰岩；淡水石灰岩": "underclay limestone"
+    },
+    {
+        "次固結作用": "underconsolidation"
+    },
+    {
+        "過冷的": "undercooling"
+    },
+    {
+        "基蝕": "undercut(sapping,undercutting)"
+    },
+    {
+        "底土": "underearth"
+    },
+    {
+        "河下水道": "underflow conduit"
+    },
+    {
+        "地下豎井": "underground shaft"
+    },
+    {
+        "地下水；潛水": "underground water(ground water)"
+    },
+    {
+        "伏流": "underground(subterranean)stream"
+    },
+    {
+        "下伏": "underlie"
+    },
+    {
+        "下伏的": "underlying"
+    },
+    {
+        "底蝕": "undermine(undermining)"
+    },
+    {
+        "底蝕作用": "undermining"
+    },
+    {
+        "不飽和岩": "undersaturated rock"
+    },
+    {
+        "俯衝斷層": "underthrust"
+    },
+    {
+        "底流": "undertow"
+    },
+    {
+        "底流痕": "undertow mark"
+    },
+    {
+        "海底坡度": "underwater gradient"
+    },
+    {
+        "未分化脈岩": "undifferentiated dyke rock"
+    },
+    {
+        "未擾動的": "undisturbed"
+    },
+    {
+        "無分水嶺的": "undivided"
+    },
+    {
+        "波狀的；起伏的": "undulate"
+    },
+    {
+        "波動；波狀起伏": "undulation"
+    },
+    {
+        "波動消光": "undulatory extinction"
+    },
+    {
+        "波狀消光石英": "undulatory quartz"
+    },
+    {
+        "參差斷口": "uneven fracture"
+    },
+    {
+        "解除褶皺作用": "unfolding"
+    },
+    {
+        "奧長英安岩": "ungaite"
+    },
+    {
+        "單軸的": "uniaxial"
+    },
+    {
+        "單細胞的": "unicellular"
+    },
+    {
+        "順斜面移動": "uniclinal shifting"
+    },
+    {
+        "單斜層": "unicline"
+    },
+    {
+        "仿倒鉤貝": "Unicnunellina"
+    },
+    {
+        "一元岩漿": "unicomponent magma"
+    },
+    {
+        "單元系": "unicomponent system"
+    },
+    {
+        "均變說": "uniformitarianism"
+    },
+    {
+        "均勻係數": "uniformity coefficient"
+    },
+    {
+        "單屬科": "unigeneric"
+    },
+    {
+        "單邊河": "unilateral stream"
+    },
+    {
+        "單房的": "unilocular"
+    },
+    {
+        "單房有孔蟲": "unilocular foraminifera"
+    },
+    {
+        "河蚌": "Unio"
+    },
+    {
+        "單系列的": "uniserial"
+    },
+    {
+        "單矽酸鹽類": "unisillicates"
+    },
+    {
+        "單褶緣型；單槽緣型": "unisulcate"
+    },
+    {
+        "晶胞": "unit cell"
+    },
+    {
+        "單位煤": "unit coal"
+    },
+    {
+        "單位形": "unit form"
+    },
+    {
+        "單位柱": "unit prism"
+    },
+    {
+        "單位錐": "unit pyramid"
+    },
+    {
+        "單瓣殼": "univalve"
+    },
+    {
+        "單變均衡": "univariant equilibrium"
+    },
+    {
+        "旋轉台；弗氏旋轉台": "universal stage"
+    },
+    {
+        "不融合": "unmixing"
+    },
+    {
+        "不溶合結構；不混溶組織": "unmixing texture"
+    },
+    {
+        "無定向的": "unoriented"
+    },
+    {
+        "不成對骨": "unpaired bone"
+    },
+    {
+        "奇鰭": "unpaired fin"
+    },
+    {
+        "不成對台地": "unpaired terrace"
+    },
+    {
+        "順向運動； 縱向運動": "unrestricted movement"
+    },
+    {
+        "未成熟泥煤": "unripe peat"
+    },
+    {
+        "不飽和的": "unsaturated"
+    },
+    {
+        "不飽和礦物": "unsaturated minerals"
+    },
+    {
+        "不穩定均衡": "unstable equilibrium"
+    },
+    {
+        "不穩定同位素": "unstable isotope"
+    },
+    {
+        "不穩定殘餘礦物": "unstable relics"
+    },
+    {
+        "不穩殘餘礦物": "unstable relict minerals"
+    },
+    {
+        "不穩定型重力儀": "unstable-type gravimeter"
+    },
+    {
+        "不成層岩；非成層岩": "unstratlfied rock"
+    },
+    {
+        "上斷塊": "updip block"
+    },
+    {
+        "上移": "updrift"
+    },
+    {
+        "上斷塊": "upfaulted block"
+    },
+    {
+        "填積河": "upgrading stream"
+    },
+    {
+        "高地": "upland"
+    },
+    {
+        "高平原": "upland plain"
+    },
+    {
+        "高原沼澤": "upland swamp"
+    },
+    {
+        "上升；隆起": "uplift"
+    },
+    {
+        "上升地塊": "uplifted(elevated,raised)block"
+    },
+    {
+        "上洞人": "upper cave man"
+    },
+    {
+        "上部地函": "upper mantle"
+    },
+    {
+        "上偏光鏡": "upper nicol"
+    },
+    {
+        "上盤": "upper plate"
+    },
+    {
+        "直立褶皺": "upright fold"
+    },
+    {
+        "上沖流": "uprush"
+    },
+    {
+        "顛倒河道": "upside-down channel"
+    },
+    {
+        "凹向沙丘": "upsiloidal dune"
+    },
+    {
+        "升側": "upthrow"
+    },
+    {
+        "上升側": "upthrow side"
+    },
+    {
+        "上衝斷層": "upthrust"
+    },
+    {
+        "上曲；上撓": "upwarp"
+    },
+    {
+        "向上撓曲": "upwarping"
+    },
+    {
+        "上湧作用": "upwelling"
+    },
+    {
+        "烏拉統〔晚石炭紀〕": "Uralian"
+    },
+    {
+        "假像纖閃石": "uralite"
+    },
+    {
+        "次閃輝綠岩": "uralite-diabase"
+    },
+    {
+        "次閃閃長岩": "uralite-diorite"
+    },
+    {
+        "次閃輝長岩": "uralite-gabbro"
+    },
+    {
+        "次閃蘇長岩": "uralite-norite"
+    },
+    {
+        "次閃玢岩": "uralite-porphyrite"
+    },
+    {
+        "次閃輝綠岩": "uralitite"
+    },
+    {
+        "假像纖閃石化；次閃化〔作用〕": "uralitization"
+    },
+    {
+        "次閃黑玢岩": "uralitophyre"
+    },
+    {
+        "鈾雲母\r": "uran mica"
+    },
+    {
+        "鈾酸鹽類": "uranates"
+    },
+    {
+        "瀝青鈾礦": "uraninite"
+    },
+    {
+        "鈾礦類": "uranite"
+    },
+    {
+        "鈾礦物": "uranium minerals"
+    },
+    {
+        "鈾華\r": "uranium ocher"
+    },
+    {
+        "鈾鉛法": "uranium-lead method"
+    },
+    {
+        "晶鈾礦": "uranniobite"
+    },
+    {
+        "鈾鈣鈳礦": "uranochalcite"
+    },
+    {
+        "磷鋇鈾礦": "uranocircite"
+    },
+    {
+        "有機鈾礦": "urano-organic ore"
+    },
+    {
+        "矽鈣鈾礦": "uranophane"
+    },
+    {
+        "矽鈣鈾礦": "uranophanite"
+    },
+    {
+        "鈾鈣礦": "uranopilite"
+    },
+    {
+        "水磷鈾礦": "uranosphathite"
+    },
+    {
+        "纖鈾鉍礦": "uranospherite(uranosphaerite)"
+    },
+    {
+        "砷鈣鈾礦": "uranospinite"
+    },
+    {
+        "鈾鈣石": "uranothallite"
+    },
+    {
+        "鈾釷礦": "uranothorite"
+    },
+    {
+        "斜矽鈣鈾礦": "uranotile"
+    },
+    {
+        "斜矽鈣鈾礦": "uranotilite"
+    },
+    {
+        "鈾鉛測年法": "Uranum-head method"
+    },
+    {
+        "天王星": "Uranus"
+    },
+    {
+        "鈾綠礬": "uranvitriol"
+    },
+    {
+        "金紅鈦鐵岩": "urbainite"
+    },
+    {
+        "城市地質學": "urban geology"
+    },
+    {
+        "有尾螈": "Urcodylus"
+    },
+    {
+        "原古陸": "ur-continent"
+    },
+    {
+        "橄輝無球粒隕石": "urellite"
+    },
+    {
+        "古片麻岩": "urgneiss"
+    },
+    {
+        "有尾目〔兩棲綱〕": "Urodela(Amphibia)"
+    },
+    {
+        "冰緣槽": "urstormtal"
+    },
+    {
+        "磷霞岩": "urtite"
+    },
+    {
+        "烏魯木齊獸": "Urumchia"
+    },
+    {
+        "U形谷": "U-shaped valley"
+    },
+    {
+        "U形谷": "U-shaped valley(U-valley)"
+    },
+    {
+        "紫脆雲母": "ussingite"
+    },
+    {
+        "烏蘇里菊石": "Ussuria"
+    },
+    {
+        "鱗鐵礬": "utahite"
+    },
+    {
+        "烏曼杉": "Uumannia"
+    },
+    {
+        "長形溶蝕；灰岩盆": "uvala(ouvala)"
+    },
+    {
+        "乾寬谷": "U-vale"
+    },
+    {
+        "釩鈾礦": "uvanite"
+    },
+    {
+        "鈣鉻榴石": "uvarovite"
+    },
+    {
+        "葡萄蟲": "Uvigerina"
+    },
+    {
+        "鈣鎂電氣石": "uvite"
+    },
+    {
+        "綠榴鉻鐵岩": "uwarowite chromitite"
+    },
+    {
+        "V形定律": "v；s,rule of"
+    },
+    {
+        "真空管電壓計": "vacuum-tube voltmeter"
+    },
+    {
+        "滲流": "vadose"
+    },
+    {
+        "滲流水": "vadose water"
+    },
+    {
+        "滲流量": "vadose-water discharge"
+    },
+    {
+        "硫鎳礦": "vaesite"
+    },
+    {
+        "葉莖": "vagina"
+    },
+    {
+        "鞘角石": "Vaginoceras"
+    },
+    {
+        "遊移底棲生物": "vagrant benthos"
+    },
+    {
+        "凡蘭吟統〔早白堊紀〕": "Valanginian"
+    },
+    {
+        "角閃蘇橄岩": "valbellite"
+    },
+    {
+        "谷；山谷": "vale"
+    },
+    {
+        "冰長石": "valencianite"
+    },
+    {
+        "凡倫統〔早志留紀〕": "Valentian"
+    },
+    {
+        "銻華": "valentinite"
+    },
+    {
+        "墨銅礦": "valleriite"
+    },
+    {
+        "反條紋二長岩": "vallevarite"
+    },
+    {
+        "谷": "valley"
+    },
+    {
+        "谷底": "valley bottom(floor)"
+    },
+    {
+        "谷分枝": "valley braid"
+    },
+    {
+        "谷平地": "valley falt"
+    },
+    {
+        "谷內沉積物": "valley fill"
+    },
+    {
+        "谷底": "valley floor"
+    },
+    {
+        "谷底基盤": "valley floor basement"
+    },
+    {
+        "谷內分水嶺": "valley floor divide"
+    },
+    {
+        "山谷冰川": "valley glacier"
+    },
+    {
+        "谷源；谷頭": "valley head"
+    },
+    {
+        "谷中谷": "valley in valley"
+    },
+    {
+        "谷磧湖": "valley moraine lake"
+    },
+    {
+        "上升谷": "valley of elevation"
+    },
+    {
+        "下降谷": "valley of subsidence"
+    },
+    {
+        "谷頸": "valley plug"
+    },
+    {
+        "河谷縱剖面": "valley profile"
+    },
+    {
+        "谷中穴": "valley sink"
+    },
+    {
+        "谷泉": "valley spring"
+    },
+    {
+        "谷系": "valley system"
+    },
+    {
+        "谷區": "valley tract"
+    },
+    {
+        "谷磧": "valley train"
+    },
+    {
+        "谷壁": "valley wall"
+    },
+    {
+        "谷底堆積": "valley-floor increment"
+    },
+    {
+        "谷底台地": "valley-plain terrace"
+    },
+    {
+        "谷邊冰磧": "valley-side moraine"
+    },
+    {
+        "谷側坡": "valley-side slope"
+    },
+    {
+        "殼瓣；裂瓣": "valve"
+    },
+    {
+        "范艾倫輻射帶": "Van Allen radiation zone"
+    },
+    {
+        "釩酸鹽類": "vanadates"
+    },
+    {
+        "釩輝石": "vanadian augite"
+    },
+    {
+        "釩雲母": "vanadic mica"
+    },
+    {
+        "釩赫石": "vanadic ocher"
+    },
+    {
+        "釩鉛礦": "vanadinite"
+    },
+    {
+        "釩雲母": "vanadium mica"
+    },
+    {
+        "釩礦物": "vanadium minerals"
+    },
+    {
+        "綠鈾礦": "vandenbrandeite"
+    },
+    {
+        "水軸鉛礦": "vandendriesschreite"
+    },
+    {
+        "覘板": "vane"
+    },
+    {
+        "鈉鎂礬": "vanthoffite"
+    },
+    {
+        "蒸發作用": "vaporization"
+    },
+    {
+        "蜥代龍": "Varanosaurus"
+    },
+    {
+        "變異性": "variability"
+    },
+    {
+        "變數": "variable"
+    },
+    {
+        "變異；演變": "variation"
+    },
+    {
+        "成分變化圖〔火成岩的〕": "variation diagram(of igneous rocks)"
+    },
+    {
+        "多色的": "variegated"
+    },
+    {
+        "斑銅礦": "variegated copper ore"
+    },
+    {
+        "斑銅礦": "variegated pyrite"
+    },
+    {
+        "雜色砂岩": "variegated sandstone"
+    },
+    {
+        "特異性礦物": "varietal mineral"
+    },
+    {
+        "類變種；變種": "variety"
+    },
+    {
+        "變均夷作用": "varigradation"
+    },
+    {
+        "體粒": "varioles"
+    },
+    {
+        "球顆玄武岩": "variolite"
+    },
+    {
+        "玄武球顆構造": "variolitic structure"
+    },
+    {
+        "球顆化〔作用〕": "variolitization"
+    },
+    {
+        "瓦立西運動〔古生代後期〕": "Variscian"
+    },
+    {
+        "瓦立西造山運動": "Variscian orogeny"
+    },
+    {
+        "磷鋁石": "variscite"
+    },
+    {
+        "偏錫石": "varlamoffite"
+    },
+    {
+        "季候泥；水紋泥": "varve(varved clay)"
+    },
+    {
+        "水紋泥": "varve-clay"
+    },
+    {
+        "氾濫平原": "varzea"
+    },
+    {
+        "彎脈管": "vascular arcusta"
+    },
+    {
+        "維管束": "vascular bundle"
+    },
+    {
+        "體腔痕": "vascular marking"
+    },
+    {
+        "中脈管": "vascular media"
+    },
+    {
+        "維管植物": "vascular plant"
+    },
+    {
+        "纖磷鋁石": "vashegyite"
+    },
+    {
+        "洞泉": "vauclusian spring"
+    },
+    {
+        "細緻石灰岩": "vaughanite"
+    },
+    {
+        "磷灰黑雲二長岩": "vaugnerite"
+    },
+    {
+        "磷鉻銅鉛礦": "vauquelinite"
+    },
+    {
+        "藍磷鋁鐵礦": "vauxite"
+    },
+    {
+        "水硼鍶石": "veatchite"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "向量": "vector quantity"
+    },
+    {
+        "植物膠質": "vegetable jelly"
+    },
+    {
+        "葉面蒸發": "vegetal discharge"
+    },
+    {
+        "生長期": "vegetal period"
+    },
+    {
+        "植物海岸": "vegetation coast"
+    },
+    {
+        "植物土條": "vegetation stripes"
+    },
+    {
+        "岩脈；礦脈；脈": "vein"
+    },
+    {
+        "脈瀝青": "vein bitumen"
+    },
+    {
+        "礦脈區": "vein claim"
+    },
+    {
+        "脈礦床": "vein deposit"
+    },
+    {
+        "礦脈岩牆；岩牆礦脈": "vein dike(vein dyke)"
+    },
+    {
+        "脈質；礦脈充填": "vein filling"
+    },
+    {
+        "脈裂隙": "vein fissure"
+    },
+    {
+        "脈質": "vein material"
+    },
+    {
+        "脈質": "vein matter"
+    },
+    {
+        "脈石英": "vein quartz"
+    },
+    {
+        "脈岩": "vein rock"
+    },
+    {
+        "脈石": "vein stone"
+    },
+    {
+        "脈石": "vein stuff"
+    },
+    {
+        "脈系": "vein system"
+    },
+    {
+        "礦脈組織": "vein texture"
+    },
+    {
+        "脈壁": "vein walls"
+    },
+    {
+        "脈狀的": "veined"
+    },
+    {
+        "脈狀片麻岩": "veined gneiss"
+    },
+    {
+        "細脈": "veinlet"
+    },
+    {
+        "細脈": "veinule"
+    },
+    {
+        "速度剖面": "velocity profile"
+    },
+    {
+        "紫銅礦": "velvet copper ore"
+    },
+    {
+        "橄金斑岩": "venanzite"
+    },
+    {
+        "被覆薄層": "veneer"
+    },
+    {
+        "脈混合岩": "venite"
+    },
+    {
+        "靜脈竇": "venous sinus"
+    },
+    {
+        "裂口；火山口": "vent"
+    },
+    {
+        "腹部": "venter"
+    },
+    {
+        "風稜石；風磨石": "ventifact(ventbart)"
+    },
+    {
+        "胸側主動脈": "ventral aorta"
+    },
+    {
+        "腹鰭": "ventral fin"
+    },
+    {
+        "腹面": "ventral side"
+    },
+    {
+        "腹瓣〔腕足類〕": "ventral valve [of Brachiopod]"
+    },
+    {
+        "金星": "Venus"
+    },
+    {
+        "髮金紅石": "venus hair stone"
+    },
+    {
+        "絲狀金紅石": "venus half"
+    },
+    {
+        "韋氏蜓": "Verbeekina"
+    },
+    {
+        "古綠石": "verd antique"
+    },
+    {
+        "同向構造": "vergence"
+    },
+    {
+        "金雲橄黃松岩": "verite"
+    },
+    {
+        "蠕蟲超門": "Vermes"
+    },
+    {
+        "蛭石": "vermiculite"
+    },
+    {
+        "蟲形": "vermiform"
+    },
+    {
+        "辰砂；銀硃": "vermilion"
+    },
+    {
+        "遊標": "vernier"
+    },
+    {
+        "維魯卡諾礫岩": "Verrocano conglomerate"
+    },
+    {
+        "瘤狀的；結核狀的": "verrucate"
+    },
+    {
+        "山坡": "versant"
+    },
+    {
+        "椎骨": "vertebra"
+    },
+    {
+        "髓弓": "vertebral arc"
+    },
+    {
+        "脊柱": "vertebral column"
+    },
+    {
+        "脊椎動物門": "Vertebrata"
+    },
+    {
+        "脊椎動物": "vertebrate"
+    },
+    {
+        "脊柱": "vertebrate column"
+    },
+    {
+        "瓦提左路人": "Vertesszollos man"
+    },
+    {
+        "片原沉積物": "vertical accretion deposit"
+    },
+    {
+        "立軸": "vertical axis"
+    },
+    {
+        "垂直滑距": "vertical dip slip"
+    },
+    {
+        "向下侵蝕": "vertical erosion(downcutting)"
+    },
+    {
+        "垂直斷層": "vertical fault"
+    },
+    {
+        "垂直磁場天平": "vertical field balance"
+    },
+    {
+        "垂直褶皺；直立褶皺": "vertical fold"
+    },
+    {
+        "重力梯度計": "vertical gradiometer"
+    },
+    {
+        "垂直強度": "vertical intensity"
+    },
+    {
+        "垂直磁力強度": "vertical magnetic intensity"
+    },
+    {
+        "垂直航測照片": "vertical photograph"
+    },
+    {
+        "垂直地震儀": "vertical seismograph"
+    },
+    {
+        "垂直離距": "vertical separation"
+    },
+    {
+        "垂直變位": "vertical shift"
+    },
+    {
+        "垂直滑距": "vertical slip"
+    },
+    {
+        "垂直落差": "vertical throw"
+    },
+    {
+        "地層垂直變化圖": "vertical variability map"
+    },
+    {
+        "輝石黃長白榴岩": "vesbite"
+    },
+    {
+        "鈣鎂橄黃玄岩": "vesecite"
+    },
+    {
+        "氣泡": "vesicle"
+    },
+    {
+        "多孔狀；多孔〔的〕": "vesicular"
+    },
+    {
+        "多孔狀玄武岩": "vesicular basalt"
+    },
+    {
+        "多孔狀熔岩": "vesicular lava"
+    },
+    {
+        "泡沫組織": "vesicular tissue"
+    },
+    {
+        "導管": "vessal"
+    },
+    {
+        "維蘇威式〔火山〕": "Vesuvian type"
+    },
+    {
+        "符山石": "vesuvianite"
+    },
+    {
+        "白榴鹼玄岩": "vesuvite"
+    },
+    {
+        "磷砷銅礦": "veszelvite"
+    },
+    {
+        "鞭器": "vibraculum"
+    },
+    {
+        "震動": "vibration"
+    },
+    {
+        "震動重力儀": "vibration gravimeter"
+    },
+    {
+        "震動儀": "vibration meter"
+    },
+    {
+        "震動器": "vibrator"
+    },
+    {
+        "震動計": "vibrograph"
+    },
+    {
+        "替代成份": "vicareous component"
+    },
+    {
+        "微小晶面": "vicinal face"
+    },
+    {
+        "微小晶形": "vicinal forms"
+    },
+    {
+        "白榴等色岩": "vicoite"
+    },
+    {
+        "中軸(筆石)": "vigula"
+    },
+    {
+        "氟鹽": "villiaumite"
+    },
+    {
+        "基長閃斑輝綠岩；溫脫岩": "vintlite"
+    },
+    {
+        "青輝石": "violan"
+    },
+    {
+        "劇烈的": "violent"
+    },
+    {
+        "褶皺束": "virgation"
+    },
+    {
+        "維吉爾統〔上石炭紀〕": "Virgil(Pennylvanian)"
+    },
+    {
+        "原土": "virgin clay"
+    },
+    {
+        "未開發礦地": "virgin field"
+    },
+    {
+        "維格羅統〔三疊紀〕": "Virglorian"
+    },
+    {
+        "維格統〔晚侏羅紀〕": "Virgulian"
+    },
+    {
+        "錳紅柱石": "viridine"
+    },
+    {
+        "青綠泥石": "viridite"
+    },
+    {
+        "真磁極": "virtual geomagnetic pole"
+    },
+    {
+        "鏡像": "vis-a-vis"
+    },
+    {
+        "內臟腔；體腔": "visceral cavity(coelom)"
+    },
+    {
+        "體腔孔": "visceral foramen"
+    },
+    {
+        "內臟囊": "visceral sac"
+    },
+    {
+        "黏度計": "viscosimeter"
+    },
+    {
+        "黏度": "viscosity"
+    },
+    {
+        "黏度係數": "viscosity coefficient"
+    },
+    {
+        "黏的": "viscous"
+    },
+    {
+        "黏性流": "viscous flow"
+    },
+    {
+        "滯磁性": "viscous magnetization"
+    },
+    {
+        "韋先統〔早石炭紀〕": "Visean"
+    },
+    {
+        "視地平線": "visible horizon"
+    },
+    {
+        "生機說": "vitalism"
+    },
+    {
+        "拉榴粗面岩": "viterbite"
+    },
+    {
+        "鏡煤": "vitrain"
+    },
+    {
+        "玻璃狀；玻璃質的": "vitreous"
+    },
+    {
+        "輝銅礦": "vitreous copper"
+    },
+    {
+        "富玻璃質的": "vitric"
+    },
+    {
+        "玻璃凝灰岩": "vitric tuff"
+    },
+    {
+        "玻璃化〔作用〕": "vitrification(vitrifaction)"
+    },
+    {
+        "鏡絲煤": "vitrifusain"
+    },
+    {
+        "鏡惰煤岩": "vitrinertite"
+    },
+    {
+        "鏡煤素": "vitrinite"
+    },
+    {
+        "鏡煤化作用": "vitrinization"
+    },
+    {
+        "鏡煤質的": "vitrinoid"
+    },
+    {
+        "礬類": "vitriol"
+    },
+    {
+        "纖水綠礬": "vitriol ocher"
+    },
+    {
+        "硫酸鐵泥煤": "vitriol peat"
+    },
+    {
+        "鏡煤岩": "vitrite"
+    },
+    {
+        "鏡暗煤": "vitrodurain"
+    },
+    {
+        "鏡絲煤": "vitrofusain"
+    },
+    {
+        "玻璃質": "vitroo"
+    },
+    {
+        "鏡亮煤": "vitroolarain"
+    },
+    {
+        "斑基狀": "vitropatic"
+    },
+    {
+        "玻基斑岩": "vitrophyre"
+    },
+    {
+        "玻基斑狀": "vitrophyric"
+    },
+    {
+        "玻斑狀輝綠岩": "vitrophyric diabase"
+    },
+    {
+        "玻基斑狀": "vitroporphric"
+    },
+    {
+        "鏡胞煤": "vitrotelain"
+    },
+    {
+        "靈貓": "Viverra"
+    },
+    {
+        "藍鐵礦": "vivianite"
+    },
+    {
+        "胎生": "viviparity"
+    },
+    {
+        "田螺": "Viviparus"
+    },
+    {
+        "福克斯砂岩〔早三疊紀〕": "Vogesen-sandstone"
+    },
+    {
+        "閃輝正煌岩；正長煌斑岩": "vogesite"
+    },
+    {
+        "菱鈾礦": "voglite"
+    },
+    {
+        "空隙": "void"
+    },
+    {
+        "空隙比": "void ratio"
+    },
+    {
+        "揮發的": "volatile"
+    },
+    {
+        "可燃性揮發氣體": "volatile combustible"
+    },
+    {
+        "揮發份(岩漿)": "volatile components [of magmas]"
+    },
+    {
+        "揮發份": "volatile flux"
+    },
+    {
+        "揮發物質": "volatile matter"
+    },
+    {
+        "揮發性轉移": "volatile transfer"
+    },
+    {
+        "揮發成份": "volatiles"
+    },
+    {
+        "弗氏角石": "Volborthella"
+    },
+    {
+        "釩銅礦": "volborthite"
+    },
+    {
+        "寄生熔岩錐": "volcanello"
+    },
+    {
+        "火山的": "volcanic"
+    },
+    {
+        "火山突變": "volcanic accident"
+    },
+    {
+        "火山作用": "volcanic action"
+    },
+    {
+        "火山活動": "volcanic activity"
+    },
+    {
+        "火山塊集岩": "volcanic agglomerate"
+    },
+    {
+        "火山灰": "volcanic ash"
+    },
+    {
+        "火山灰土": "volcanic ash soil"
+    },
+    {
+        "火山帶": "volcanic belt"
+    },
+    {
+        "火山塊": "volcanic block"
+    },
+    {
+        "火山噴氣作用": "volcanic blowpiping"
+    },
+    {
+        "火山彈": "volcanic bomb"
+    },
+    {
+        "火山角礫岩": "volcanic breccia"
+    },
+    {
+        "火山中心": "volcanic center"
+    },
+    {
+        "火山山脈；火山脈": "volcanic chain"
+    },
+    {
+        "火山管": "volcanic chimney"
+    },
+    {
+        "火山渣；火山岩屑": "volcanic cinder"
+    },
+    {
+        "火山黏土": "volcanic clay"
+    },
+    {
+        "火山崖": "volcanic cliff"
+    },
+    {
+        "火山雲": "volcanic cloud"
+    },
+    {
+        "火山群": "volcanic cluster"
+    },
+    {
+        "火山岸": "volcanic coast"
+    },
+    {
+        "火山陷落": "volcanic collapse"
+    },
+    {
+        "火山崩塌海岸": "volcanic collapse coast"
+    },
+    {
+        "火山孔道": "volcanic conduit"
+    },
+    {
+        "火山錐": "volcanic cone"
+    },
+    {
+        "火山礫石": "volcanic conglomerate"
+    },
+    {
+        "火山口": "volcanic crater"
+    },
+    {
+        "火山輪迴；火山旋迴": "volcanic cycle"
+    },
+    {
+        "火山碎屑": "volcanic debris"
+    },
+    {
+        "火山堆積": "volcanic deposit"
+    },
+    {
+        "火山岩屑": "volcanic detritus"
+    },
+    {
+        "火山丘；火山穹丘": "volcanic dome"
+    },
+    {
+        "熔丘團": "volcanic dumplings"
+    },
+    {
+        "火山塵": "volcanic dust"
+    },
+    {
+        "火山地震": "volcanic earthquake"
+    },
+    {
+        "火山拋出物；火山噴出物": "volcanic ejecta"
+    },
+    {
+        "火山噴脊": "volcanic emanations"
+    },
+    {
+        "雛火山": "volcanic embryo"
+    },
+    {
+        "火山陷沒": "volcanic enqulfment"
+    },
+    {
+        "火山噴發": "volcanic eruption"
+    },
+    {
+        "火山爆發(爆裂)": "volcanic explosion"
+    },
+    {
+        "火山岩相": "volcanic facies"
+    },
+    {
+        "火山裂槽": "volcanic fissure trough"
+    },
+    {
+        "火山泡沫；浮石": "volcanic foam"
+    },
+    {
+        "火山中心": "volcanic focus"
+    },
+    {
+        "火山氣體": "volcanic gas"
+    },
+    {
+        "火山氣體": "volcanic gases"
+    },
+    {
+        "火山地質學": "volcanic geology"
+    },
+    {
+        "火山玻璃": "volcanic glass"
+    },
+    {
+        "火山塹": "volcanic graben"
+    },
+    {
+        "火山礫石": "volcanic gravel"
+    },
+    {
+        "火山群": "volcanic group(volcanic cluster)"
+    },
+    {
+        "火山港": "volcanic harbor"
+    },
+    {
+        "火山島": "volcanic island"
+    },
+    {
+        "火山嶽": "volcanic mountain"
+    },
+    {
+        "火山泥": "volcanic mud"
+    },
+    {
+        "火山泥流": "volcanic mudflow"
+    },
+    {
+        "火山頸": "volcanic neck"
+    },
+    {
+        "火山口": "volcanic orifice"
+    },
+    {
+        "火山堆積": "volcanic pile"
+    },
+    {
+        "火山管": "volcanic pipe"
+    },
+    {
+        "火山豆石": "volcanic pisolites"
+    },
+    {
+        "火山平原": "volcanic plain"
+    },
+    {
+        "火山栓": "volcanic plug"
+    },
+    {
+        "火山栓": "volcanic plunging"
+    },
+    {
+        "火山噴出物；火山產物": "volcanic product"
+    },
+    {
+        "火山噴出物": "volcanic projection"
+    },
+    {
+        "火山裂槽": "volcanic rent"
+    },
+    {
+        "火山裂縫帶": "volcanic rift zone"
+    },
+    {
+        "火山岩": "volcanic rock"
+    },
+    {
+        "火山碎石": "volcanic rubble"
+    },
+    {
+        "火山鳴": "volcanic rumbling"
+    },
+    {
+        "火山沙": "volcanic sand"
+    },
+    {
+        "火山砂石": "volcanic sandstone"
+    },
+    {
+        "火山海震": "volcanic seaquake"
+    },
+    {
+        "火山沉積物": "volcanic sediment"
+    },
+    {
+        "火山程序": "volcanic sequence"
+    },
+    {
+        "盾火山叢": "volcanic shield cluster"
+    },
+    {
+        "火山陷落": "volcanic sink"
+    },
+    {
+        "火山岩渣": "volcanic slag"
+    },
+    {
+        "火山刺": "volcanic spine"
+    },
+    {
+        "火山風暴；火山暴": "volcanic storm"
+    },
+    {
+        "火山硫黃": "volcanic sulphur"
+    },
+    {
+        "火山雷鳴": "volcanic thunder"
+    },
+    {
+        "火山雷雨": "volcanic thunderstorm"
+    },
+    {
+        "〔火山〕連島": "volcanic tied island"
+    },
+    {
+        "火山凝灰岩": "volcanic tuff"
+    },
+    {
+        "火山道；火山口": "volcanic vent"
+    },
+    {
+        "火山水份": "volcanic water"
+    },
+    {
+        "火山風": "volcanic wind"
+    },
+    {
+        "火山帶": "volcanic zone(volcanic belt)"
+    },
+    {
+        "火山性": "volcanicity"
+    },
+    {
+        "火山岩": "volcanics"
+    },
+    {
+        "火山現象；火山作用；火山活動": "volcanism(vulcanism)"
+    },
+    {
+        "火山學家": "volcanist;vulcanist"
+    },
+    {
+        "歪長輝熔岩；火山島岩": "volcanite"
+    },
+    {
+        "火山": "volcano"
+    },
+    {
+        "定期噴發火山": "volcano of periodical eruption"
+    },
+    {
+        "中間性火山": "volcano of the intermediate type"
+    },
+    {
+        "不定期噴發火山": "volcano of unperiodical eruption"
+    },
+    {
+        "火山海岸線": "volcano shoreline"
+    },
+    {
+        "火山學家": "volcanologist;vulcanologist"
+    },
+    {
+        "火山學": "volcanology(vulcanology)"
+    },
+    {
+        "火山構造性陷落地": "volcano-tectonic depression"
+    },
+    {
+        "火山構造線": "volcano-tectonic line"
+    },
+    {
+        "斜長閃英雲煌岩": "volhynite"
+    },
+    {
+        "鋅乳石": "voltzine(voltzite)"
+    },
+    {
+        "滑螺": "Voluta"
+    },
+    {
+        "旋圈": "volution"
+    },
+    {
+        "急傾圓錐褶曲": "vortex"
+    },
+    {
+        "V形谷": "V-shaped valley(V-valley)"
+    },
+    {
+        "V形台地": "v-terrace"
+    },
+    {
+        "晶孔": "vug(vugh)"
+    },
+    {
+        "溶蝕孔隙": "vuggy porosity"
+    },
+    {
+        "多洞岩；多孔岩": "vuggy rock"
+    },
+    {
+        "火山島式〔火山〕；火山性": "vulcanian type"
+    },
+    {
+        "火山作用": "vulcanicity"
+    },
+    {
+        "火山論": "vulcanism"
+    },
+    {
+        "火山家": "vulcanist"
+    },
+    {
+        "火山": "vulcano"
+    },
+    {
+        "火山學": "vulcanology"
+    },
+    {
+        "擬狐獸": "Vulpavus"
+    },
+    {
+        "鱗硬石膏": "vulpinite"
+    },
+    {
+        "長斑粗安岩": "vulsinite"
+    },
+    {
+        "長斑粗安白榴等色岩": "vulsinite vicoite"
+    },
+    {
+        "瓦氏角石": "Waagenoceras"
+    },
+    {
+        "瓦氏貝": "Waagenoconcha"
+    },
+    {
+        "瓦氏珊瑚": "Waagenophyllum"
+    },
+    {
+        "玄土；雜砂岩；混雜沉積": "wacke"
+    },
+    {
+        "錳土": "wad"
+    },
+    {
+        "鉀鈣板鋯石": "wadeite"
+    },
+    {
+        "瓦氏沉〔降〕速〔度定〕律": "Wadell's law of settling velocity"
+    },
+    {
+        "旱谷": "wadi(wady)"
+    },
+    {
+        "瓦牙克人": "Wadjak man"
+    },
+    {
+        "磷鎂石": "wagnerite"
+    },
+    {
+        "瓦氏杉": "Walchia"
+    },
+    {
+        "福利鎂石": "walkerite(walker's clay)"
+    },
+    {
+        "岩基壁": "wall of the batholith"
+    },
+    {
+        "圍岩": "wall rock"
+    },
+    {
+        "台垣；盤；壁": "wall(bar)"
+    },
+    {
+        "華勒士線": "Wallace's line"
+    },
+    {
+        "瓦拉赤〔上新世〕": "Wallachian"
+    },
+    {
+        "壁湖": "walled lake"
+    },
+    {
+        "泥穴": "wallow"
+    },
+    {
+        "砷鈾鉍礦": "walpurgite"
+    },
+    {
+        "遷移；蛇形": "wandering"
+    },
+    {
+        "低緩坡": "waning slope"
+    },
+    {
+        "灣灣角石": "Wanwanoceras"
+    },
+    {
+        "水磷鋁石": "wardite"
+    },
+    {
+        "暖鋒": "warm front"
+    },
+    {
+        "暖黃土": "warm loess"
+    },
+    {
+        "暖泉": "warm spring"
+    },
+    {
+        "撓曲斷層": "warped fault"
+    },
+    {
+        "撓曲": "warping"
+    },
+    {
+        "脆硫銻鉛礦": "warrenite"
+    },
+    {
+        "鈦硼鎂鐵石；硼鎂鈦礦": "warwickite"
+    },
+    {
+        "沖積表層；沖積砂礫": "wash"
+    },
+    {
+        "沖積錐": "wash cone"
+    },
+    {
+        "洗出平原": "wash plain"
+    },
+    {
+        "沖積負荷": "washload"
+    },
+    {
+        "溢浪三角洲": "washover fan"
+    },
+    {
+        "風暴沖積扇": "washover fan(or apron)"
+    },
+    {
+        "減耗作用；消融(冰河)": "wastage"
+    },
+    {
+        "蝕屑": "waste"
+    },
+    {
+        "麓積原": "waste plain"
+    },
+    {
+        "蝕屑流": "waste stream"
+    },
+    {
+        "水體": "water body"
+    },
+    {
+        "含水量": "water content"
+    },
+    {
+        "水道；河道": "water course"
+    },
+    {
+        "水文循環": "water cycle"
+    },
+    {
+        "分水嶺": "water divide"
+    },
+    {
+        "瀑布": "water fall"
+    },
+    {
+        "水口；水隙": "water gap"
+    },
+    {
+        "水位標尺": "water gauge(gage)"
+    },
+    {
+        "水穴": "water hole"
+    },
+    {
+        "水中腐植質": "water humus"
+    },
+    {
+        "水平面；水位": "water level"
+    },
+    {
+        "結晶水": "water of crystallization"
+    },
+    {
+        "滲透水；飽和水": "water of imbibition"
+    },
+    {
+        "原生水": "water of retention"
+    },
+    {
+        "分水嶺": "water parting"
+    },
+    {
+        "泡石英": "water quartz"
+    },
+    {
+        "藍堇青石〔水藍寶石〕": "water sapphire"
+    },
+    {
+        "分水界": "water shed(water divide)"
+    },
+    {
+        "供水系統": "water supply"
+    },
+    {
+        "油水介面": "water surface"
+    },
+    {
+        "地下水面": "water table"
+    },
+    {
+        "水管系；水脈系": "water vascular system"
+    },
+    {
+        "水脈": "water vein"
+    },
+    {
+        "含水的": "water-bearing"
+    },
+    {
+        "水道": "water-course"
+    },
+    {
+        "瀑布": "waterfall"
+    },
+    {
+        "水沖採油": "waterflood"
+    },
+    {
+        "分水嶺": "water-shed"
+    },
+    {
+        "潮灘": "watt"
+    },
+    {
+        "潮泥": "wattenschlick"
+    },
+    {
+        "芒硝": "wattevillite"
+    },
+    {
+        "波浪": "wave"
+    },
+    {
+        "波輻": "wave amplitude"
+    },
+    {
+        "波底": "wave base"
+    },
+    {
+        "波成(建)台地": "wave built terrace"
+    },
+    {
+        "波峯": "wave crest"
+    },
+    {
+        "波蝕": "wave cut"
+    },
+    {
+        "波蝕台地": "wave cut terrace"
+    },
+    {
+        "波蝕台": "wave cut(rock)bench"
+    },
+    {
+        "波浪三角洲": "wave delta"
+    },
+    {
+        "波蝕": "wave erosion(wave cuttling)"
+    },
+    {
+        "波浪預報": "wave forecasting"
+    },
+    {
+        "波前": "wave front"
+    },
+    {
+        "起浪": "wave generation"
+    },
+    {
+        "波高": "wave height"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "波線": "wave line"
+    },
+    {
+        "波痕": "wave mark"
+    },
+    {
+        "波法線": "wave normal"
+    },
+    {
+        "振盪波": "wave of oscillation"
+    },
+    {
+        "移動波": "wave of translation"
+    },
+    {
+        "波徑": "wave path"
+    },
+    {
+        "波折射": "wave refraction"
+    },
+    {
+        "波痕": "wave ripple mark"
+    },
+    {
+        "波度": "wave steepness"
+    },
+    {
+        "波面": "wave surface"
+    },
+    {
+        "波谷": "wave trough"
+    },
+    {
+        "波速": "wave velocity"
+    },
+    {
+        "波蝕台": "wave-cut bench(platform)"
+    },
+    {
+        "波蝕凹壁": "wave-cut notch"
+    },
+    {
+        "波蝕平原": "wave-cut plain"
+    },
+    {
+        "波蝕海濱線": "wave-etched shoreline"
+    },
+    {
+        "銀星石": "wavellite"
+    },
+    {
+        "瓦味利〔早石炭紀〕": "Waverlian"
+    },
+    {
+        "波狀消光": "wavy extinction"
+    },
+    {
+        "蠟蛋白石": "wax opal"
+    },
+    {
+        "凸坡": "waxing slope"
+    },
+    {
+        "蠟光澤": "waxy luster"
+    },
+    {
+        "瓦窯鋪統": "Wayaopo series"
+    },
+    {
+        "風化燧石": "W-chert"
+    },
+    {
+        "風化白雲石": "W-dolostone"
+    },
+    {
+        "韋爾登相〔早白堊紀〕": "Wealden face"
+    },
+    {
+        "風化煤": "weather coal"
+    },
+    {
+        "風化層": "weathered layer"
+    },
+    {
+        "風化作用": "weathering"
+    },
+    {
+        "風化層修正": "weathering correction"
+    },
+    {
+        "風化指數": "weathering index"
+    },
+    {
+        "風化層圖": "weathering map"
+    },
+    {
+        "風化感應度指數": "weathering potential index"
+    },
+    {
+        "風化外殼": "weathering rind"
+    },
+    {
+        "外化層炸測": "weathering shot"
+    },
+    {
+        "風化速度": "weathering velocity"
+    },
+    {
+        "二輝岩": "websterite"
+    },
+    {
+        "二輝斑岩": "websterite porphyry"
+    },
+    {
+        "草酸鈣石": "weddellite"
+    },
+    {
+        "魏氏(虫筳)": "Wedekindellina"
+    },
+    {
+        "魏氏珊瑚": "Wedekindophyllum"
+    },
+    {
+        "楔": "wedge"
+    },
+    {
+        "尖滅": "wedge out"
+    },
+    {
+        "楔狀體說": "wedge theory"
+    },
+    {
+        "魏氏大陸漂移說": "Wegener hypothesis"
+    },
+    {
+        "異剝橄欖岩；葉碲鉍石": "wehrlite"
+    },
+    {
+        "威寧統": "Weining series"
+    },
+    {
+        "針磷釔礦": "weinschenkite"
+    },
+    {
+        "拉輝玻玄岩": "weiselbergite"
+    },
+    {
+        "韋斯記法": "Weiss's notation"
+    },
+    {
+        "韋斯符號；威斯符符號": "Weiss's symbol"
+    },
+    {
+        "熔合接觸": "welded contact"
+    },
+    {
+        "熔結浮石": "welded pumice"
+    },
+    {
+        "熔結凝灰岩；熔灰岩": "welded tuff(or pumice)"
+    },
+    {
+        "壓結作用": "welding"
+    },
+    {
+        "井": "well"
+    },
+    {
+        "鑽井岩心": "well core"
+    },
+    {
+        "鑽井岩屑": "well cuttings"
+    },
+    {
+        "分級良好": "well graded"
+    },
+    {
+        "鑽井剖面": "well log"
+    },
+    {
+        "鑽井記錄": "well record"
+    },
+    {
+        "甚圓的": "well rounded"
+    },
+    {
+        "鑽井岩樣": "well sample"
+    },
+    {
+        "衛露氏貝": "Wellerella"
+    },
+    {
+        "鋇鈣十字石": "wellsite"
+    },
+    {
+        "上升地帶": "welt"
+    },
+    {
+        "維物目(綱)": "Welwitschiopsida"
+    },
+    {
+        "溫洛克統〔中志留紀〕": "Wenlockian"
+    },
+    {
+        "綠基正長雲英斑岩": "wennebergite"
+    },
+    {
+        "溫氏粒度表": "Wentworth grade scale"
+    },
+    {
+        "文氏珊瑚": "Wentzelella"
+    },
+    {
+        "味夫耐層〔早三疊紀〕": "Werfener beds"
+    },
+    {
+        "方柱石": "wernerite"
+    },
+    {
+        "透霞玄武岩": "westerwaldite"
+    },
+    {
+        "維斯發統〔晚石炭紀〕": "Westfalian"
+    },
+    {
+        "魏斯頓貝": "Westonia"
+    },
+    {
+        "濕氣": "wet gas"
+    },
+    {
+        "濕球溫度": "wet-bulb temperature"
+    },
+    {
+        "濕雪崩": "wet-snow avalanche"
+    },
+    {
+        "濕界": "wetted perimeter"
+    },
+    {
+        "鯨背狀沙丘": "whaleback"
+    },
+    {
+        "鯨背狀沙丘": "whaleback dune"
+    },
+    {
+        "車輪礦": "wheel-ore"
+    },
+    {
+        "碳硫氯鉛礦": "wherryite"
+    },
+    {
+        "砥石": "whet stone"
+    },
+    {
+        "草酸鈣石": "whewellite"
+    },
+    {
+        "白瑪瑙玉髓": "white agate"
+    },
+    {
+        "白柱岩": "white beryl"
+    },
+    {
+        "白浪頭": "white cap"
+    },
+    {
+        "皓礬": "white copperas"
+    },
+    {
+        "白濕氣": "white damp"
+    },
+    {
+        "白榴石": "white garnet"
+    },
+    {
+        "白侏羅〔晚侏羅紀〕": "White Jura"
+    },
+    {
+        "白鉛礦": "white lead"
+    },
+    {
+        "白鉛礦": "white lead ore"
+    },
+    {
+        "白鐵礦": "white pyrite"
+    },
+    {
+        "白砂": "white sand"
+    },
+    {
+        "皓礬": "white vitriol"
+    },
+    {
+        "白鋅礦": "white zinc ore"
+    },
+    {
+        "白粒岩": "whitestone"
+    },
+    {
+        "旋圈": "whorl"
+    },
+    {
+        "奧長環斑花岡岩": "wiborgite"
+    },
+    {
+        "玻基粗粒玄武岩": "wichtisite"
+    },
+    {
+        "交紋構造": "widmanstätten structure"
+    },
+    {
+        "魏蘭蘇鐵": "Wielandiella"
+    },
+    {
+        "探測杖": "wiggle stick"
+    },
+    {
+        "鮮雪": "wild snow"
+    },
+    {
+        "野貓井；探井": "wildcat"
+    },
+    {
+        "野貓井": "wildcat well"
+    },
+    {
+        "探井鑽鑿": "wildcatting"
+    },
+    {
+        "混雜複理層": "wildflysch"
+    },
+    {
+        "碳硫磷灰石": "wilkeite"
+    },
+    {
+        "矽鋅礦": "willemite"
+    },
+    {
+        "韋廉松蘇鐵": "Williamsonia"
+    },
+    {
+        "雪面風殼": "wind crust"
+    },
+    {
+        "風積海岸": "wind deposition coast"
+    },
+    {
+        "風蝕": "wind erosion"
+    },
+    {
+        "風結作用": "wind packing"
+    },
+    {
+        "風磨作用": "wind polish"
+    },
+    {
+        "風脊": "wind ridge"
+    },
+    {
+        "風成波痕": "wind ripple"
+    },
+    {
+        "風成波痕": "wind ripple mark"
+    },
+    {
+        "風級": "wind scale"
+    },
+    {
+        "風挖穴": "wind scoop"
+    },
+    {
+        "風潮": "wind setup"
+    },
+    {
+        "風幕": "wind shadow"
+    },
+    {
+        "硬風雪層": "wind slab"
+    },
+    {
+        "迎風坡": "wind sweep"
+    },
+    {
+        "風潮": "wind tide"
+    },
+    {
+        "風浪": "wind wave"
+    },
+    {
+        "風蝕礫石": "wind worn pebble"
+    },
+    {
+        "風口；旱峽；風坳": "wind(air)gap"
+    },
+    {
+        "飛沙": "wind-drift sand"
+    },
+    {
+        "風稜石": "windkanter"
+    },
+    {
+        "構造窗": "window"
+    },
+    {
+        "風磨石": "wind-polished rock"
+    },
+    {
+        "風積丘": "windrow"
+    },
+    {
+        "硬層雪崩": "wind-slab avalanche"
+    },
+    {
+        "淡英二長岩": "windsorite"
+    },
+    {
+        "迎風的": "windward"
+    },
+    {
+        "風蝕礫": "windworn pebble"
+    },
+    {
+        "風漏形谷": "wineglass valley"
+    },
+    {
+        "翼": "wing"
+    },
+    {
+        "翼岬": "winged headland"
+    },
+    {
+        "風選作用": "winnowing"
+    },
+    {
+        "冬磧": "winter moraine"
+    },
+    {
+        "冰錐脊": "winter-talus ridge"
+    },
+    {
+        "自然銀絲": "wire silver"
+    },
+    {
+        "偏鋯石": "wisaksonite"
+    },
+    {
+        "威斯康辛冰期": "Wisconsin glacial stage"
+    },
+    {
+        "水硼錳礦": "wiserite"
+    },
+    {
+        "錳紅簾石": "withamite"
+    },
+    {
+        "毒重石": "witherite"
+    },
+    {
+        "界椿": "witness corner"
+    },
+    {
+        "硫鉍銅礦": "wittichenite(wittichite)"
+    },
+    {
+        "鈮鋯鈉石": "woehlerite(wohlerite)"
+    },
+    {
+        "鉻嶺石": "wolchonskoite"
+    },
+    {
+        "單斜脊": "wold"
+    },
+    {
+        "伍夫坑統〔二疊紀〕": "Wolfcampian"
+    },
+    {
+        "基性磷鐵錳礦": "wolfeite"
+    },
+    {
+        "鎢華": "wolfram ocher"
+    },
+    {
+        "黑鎢礦；鐵錳鎢礦": "wolframite"
+    },
+    {
+        "硫銅銻礦": "wolfsbergite"
+    },
+    {
+        "輝橄白榴岩": "wolgidite"
+    },
+    {
+        "矽灰石": "wollastonite"
+    },
+    {
+        "矽灰偉晶岩": "wollastonite pegmatite"
+    },
+    {
+        "矽灰片麻岩": "wollastonite-gneiss"
+    },
+    {
+        "吳拉斯頓反射測角儀": "Wollaston's reflecting goniometer"
+    },
+    {
+        "瀝青頁岩": "wollongongite"
+    },
+    {
+        "褐炭": "wood coal"
+    },
+    {
+        "木銅礦": "wood copper"
+    },
+    {
+        "木蛋白石": "wood opal"
+    },
+    {
+        "纖錫礦；木錫礦": "wood tin"
+    },
+    {
+        "正橄玄武岩": "woodendite"
+    },
+    {
+        "木質泥煤": "woody peat"
+    },
+    {
+        "林木層": "woodyard"
+    },
+    {
+        "球石灰石": "woolpack"
+    },
+    {
+        "羊毛狀": "wooly"
+    },
+    {
+        "蠕蟲": "worm"
+    },
+    {
+        "沃氏螺": "Worthenia"
+    },
+    {
+        "水矽線石": "wörthite(woerthite)"
+    },
+    {
+        "五指山層": "Wuchishan Formation"
+    },
+    {
+        "鉬鉛礦": "wulfenite"
+    },
+    {
+        "玉木〔冰期〕": "Würm"
+    },
+    {
+        "玉木冰期": "Würm-glaciation"
+    },
+    {
+        "纖維鋅礦": "wurtzite"
+    },
+    {
+        "巫山石灰岩": "Wushan limestone"
+    },
+    {
+        "五台〔系〕〔紀〕〔前寒武紀〕": "Wutai"
+    },
+    {
+        "五頂角石": "Wutinoceras"
+    },
+    {
+        "烏桐石英岩〔下志留紀〕": "Wutung quartzite"
+    },
+    {
+        "金雲斑白榴岩；窩明岩": "wyomingite"
+    },
+    {
+        "褐符山石": "xanthite"
+    },
+    {
+        "扇蟹": "Xantho"
+    },
+    {
+        "黃砷硫銀礦": "xanthocon [ite]"
+    },
+    {
+        "十字礦": "xantholite"
+    },
+    {
+        "綠脆雲母": "xanthophyllite"
+    },
+    {
+        "黃褐簾石": "xanthorthite"
+    },
+    {
+        "針鐵礦": "xanthosiderite"
+    },
+    {
+        "磷鐵鈣石": "xanthoxenite"
+    },
+    {
+        "異關節類": "Xenarthra"
+    },
+    {
+        "膠合板": "xenidium"
+    },
+    {
+        "他形變晶": "xenoblasts"
+    },
+    {
+        "捕獲晶體": "xenocryst"
+    },
+    {
+        "奇異圓尾蟲": "Xenocyclopyge"
+    },
+    {
+        "後成礦床": "xenogenites"
+    },
+    {
+        "主客晶等嵌狀": "xenoikic"
+    },
+    {
+        "重矽線石": "xenolite"
+    },
+    {
+        "捕獲岩": "xenolith"
+    },
+    {
+        "他形的；他形": "xenomorphic"
+    },
+    {
+        "他形粒狀": "xenomorphicgranular"
+    },
+    {
+        "笠螺": "Xenophora"
+    },
+    {
+        "磷釳礦": "xenotime(xenotimite)"
+    },
+    {
+        "異木": "Xenoxylon"
+    },
+    {
+        "劍齒獸": "Xiphodon"
+    },
+    {
+        "劍尾目": "Xiphosura"
+    },
+    {
+        "光蛻介": "Xistoliberis"
+    },
+    {
+        "硬矽鈣石": "xonotlite(xonaltite)"
+    },
+    {
+        "X線繞射線譜": "X-ray diffraction pattern"
+    },
+    {
+        "X線粉末線譜": "X-ray powder pattern"
+    },
+    {
+        "X線光譜儀": "X-ray spectrometer"
+    },
+    {
+        "木鏡煤": "xylain"
+    },
+    {
+        "木質部": "xylem"
+    },
+    {
+        "木煤素質": "xylinite"
+    },
+    {
+        "純木褐煤": "xylith"
+    },
+    {
+        "木煤": "xyloid coal"
+    },
+    {
+        "木褐煤": "xyloid lignite"
+    },
+    {
+        "木蛋白石": "xylopal"
+    },
+    {
+        "針脂石": "xyloretinite"
+    },
+    {
+        "高鐵蛇紋石": "xylotile"
+    },
+    {
+        "換質石綿": "xylotilite"
+    },
+    {
+        "木鏡煤": "xylovitrain"
+    },
+    {
+        "矢部【虫+筵】；矢部紡錘蟲": "Yabeina"
+    },
+    {
+        "矢部龍": "Yabeinosaurus"
+    },
+    {
+        "小高原": "yailas"
+    },
+    {
+        "溶蝕井": "yamas"
+    },
+    {
+        "角閃鈦輝玄武岩": "yamaskite"
+    },
+    {
+        "角閃鈦輝碳酸岩": "yamaskite carbonatite"
+    },
+    {
+        "角玄閃鈦輝斑岩": "Yamaskite porhyry"
+    },
+    {
+        "楊家屯統〔石炭二疊紀〕": "Yanchia-tung series"
+    },
+    {
+        "楊銓氏蟲": "Yangchienia"
+    },
+    {
+        "陽新統〔二疊紀〕": "Yangsinian"
+    },
+    {
+        "楊子期": "Yangtze stage"
+    },
+    {
+        "楊子貝": "Yangtzeella"
+    },
+    {
+        "風蝕嶺；白龍堆": "yardang"
+    },
+    {
+        "雅木斯間冰期": "Yarmouth interglacial stage"
+    },
+    {
+        "陽起偉晶岩": "yatalite"
+    },
+    {
+        "平行河流": "yazoo river"
+    },
+    {
+        "銻矽錳鋅石": "yeatmanite"
+    },
+    {
+        "冶里高地": "Yehli uplift"
+    },
+    {
+        "冶里〔層〕〔下奧陶紀〕": "Yehli(Formation)"
+    },
+    {
+        "冶里角石": "Yehlioceras"
+    },
+    {
+        "黃銅礦": "yellow copper ore"
+    },
+    {
+        "黃土": "yellow earth"
+    },
+    {
+        "黃地；黃砂；黃泥帶": "yellow ground"
+    },
+    {
+        "黃鐵華": "yellow iron ore"
+    },
+    {
+        "鉬鉛礦": "yellow lead ore"
+    },
+    {
+        "黃金": "yellow metal"
+    },
+    {
+        "黃鐵華": "yellow ocher"
+    },
+    {
+        "黃水晶": "yellow quartz"
+    },
+    {
+        "黃砂": "yellow sand"
+    },
+    {
+        "延長統〔早侏羅紀〕": "Yenchang"
+    },
+    {
+        "延安〔系〕": "Yengan [series]"
+    },
+    {
+        "黑柱石": "yenite [jenite]"
+    },
+    {
+        "燕山運動": "Yenshan orogeny"
+    },
+    {
+        "軟化；產量": "yield"
+    },
+    {
+        "軟化點": "yield point"
+    },
+    {
+        "軟化強度": "yield strength"
+    },
+    {
+        "軟化應力": "yield stress"
+    },
+    {
+        "尹石筆石": "Yinograptus"
+    },
+    {
+        "等正輝正長岩": "yogoite"
+    },
+    {
+        "岳麓石英岩〔上泥盆紀〕": "Yohlu quartzite"
+    },
+    {
+        "樂氏珊瑚": "Yohophyllum"
+    },
+    {
+        "共生盆地": "yoked basin"
+    },
+    {
+        "刀蛤": "Yoldia"
+    },
+    {
+        "深冰谷": "yosemite"
+    },
+    {
+        "幼年山": "young mountain"
+    },
+    {
+        "幼年河": "young river(stream)"
+    },
+    {
+        "幼年的；頂向的": "young；youthful"
+    },
+    {
+        "楊氏噩": "Younyina"
+    },
+    {
+        "幼年期": "youth"
+    },
+    {
+        "幼年期的": "youthful"
+    },
+    {
+        "青年地形〔幼年地形〕": "youthful topography"
+    },
+    {
+        "Y形谷": "Y-shaped valley"
+    },
+    {
+        "Y型連島沙洲": "Y-tombolo"
+    },
+    {
+        "釷釔礦": "yttrialite"
+    },
+    {
+        "釔褐簾石": "yttrium orthite"
+    },
+    {
+        "釔鋁礬": "yttroalumite"
+    },
+    {
+        "釔磷灰石": "yttrocalcite"
+    },
+    {
+        "鈰釔礦": "yttrocerite(yettrocererite)"
+    },
+    {
+        "鈦釔釷礦": "yttrocrasite"
+    },
+    {
+        "釔氟石": "yttrofluorite"
+    },
+    {
+        "釔榴石": "yttrogarnet"
+    },
+    {
+        "釔鉛鈾礦": "yttrogummite"
+    },
+    {
+        "釔鈦礦": "yttroilmenite"
+    },
+    {
+        "釔鉭礦": "yttrotantalite"
+    },
+    {
+        "釔榍石": "yttrotitanite"
+    },
+    {
+        "釔鎢華": "yttrotungstite"
+    },
+    {
+        "玉；玉石": "yu(yu-shih)"
+    },
+    {
+        "袁氏珊瑚": "Yuanophyllum"
+    },
+    {
+        "越南運動": "Yuehnan movement"
+    },
+    {
+        "雨花台層": "Yuhuatai beds"
+    },
+    {
+        "英閃細晶岩": "yukonite"
+    },
+    {
+        "邕寧層〔上新世〕": "Yungning Formation"
+    },
+    {
+        "雲南貝": "Yunnanella"
+    },
+    {
+        "小雲南貝": "Yunnanellina"
+    },
+    {
+        "雲南頭蟲": "Yunnanocephalus"
+    },
+    {
+        "雲南龍": "Yunnanosaurus"
+    },
+    {
+        "魚籐坪砂岩": "Yuteng ping sandstone"
+    },
+    {
+        "古蝟獸": "Zalambdalestes"
+    },
+    {
+        "重褶齒亞目；古刺蝟類": "Zalambdonta"
+    },
+    {
+        "腹羽葉": "Zamites"
+    },
+    {
+        "內溝珊瑚亞目(原隔壁亞目)": "Zaphrehtoidea"
+    },
+    {
+        "內溝珊瑚": "Zaphrentis"
+    },
+    {
+        "擬內溝珊瑚": "Zaphrentoides"
+    },
+    {
+        "翠鎳礦": "zaratite"
+    },
+    {
+        "崎嶇雪面": "zastrugi"
+    },
+    {
+        "水鈣沸石": "zeagonite"
+    },
+    {
+        "鎂十字石": "zebedassite"
+    },
+    {
+        "斑馬紋白雲岩": "zebra dolomite"
+    },
+    {
+        "鎂灰岩〔上二疊紀〕結石統": "Zechstein(series)"
+    },
+    {
+        "鐵鎂尖晶石": "zeilanite"
+    },
+    {
+        "偏珊瑚": "Zeliophyllum"
+    },
+    {
+        "櫸樹": "Zelkova"
+    },
+    {
+        "正方向地圖投影": "zenithal map projection"
+    },
+    {
+        "矽線石": "zenolite"
+    },
+    {
+        "沸石": "zeolite"
+    },
+    {
+        "沸石銅礦床": "zeolitic copper deposit"
+    },
+    {
+        "沸石礦床": "zeolitic deposits"
+    },
+    {
+        "沸石化〔作用〕": "zeolitization"
+    },
+    {
+        "葉沸石": "zeophyllite"
+    },
+    {
+        "隱晶磷鋁石": "zepharovichite"
+    },
+    {
+        "零溫層": "zero curtain"
+    },
+    {
+        "殘留的": "zeugen"
+    },
+    {
+        "殘留崗": "zeugenberg(outlier butte temoin)"
+    },
+    {
+        "共生地槽": "zeugogesynclines(yoked basin)"
+    },
+    {
+        "翠砷銅鈾礦": "zeunerite"
+    },
+    {
+        "針電氣石": "zeuxite"
+    },
+    {
+        "鐵鎂尖晶石": "zeylanite"
+    },
+    {
+        "藍晶石": "zianite"
+    },
+    {
+        "高溫地蠟": "zietrisikite"
+    },
+    {
+        "曲折的；鋸齒狀的": "zigzag"
+    },
+    {
+        "鋸齒狀斷層": "zig-zag fault"
+    },
+    {
+        "鋸齒狀褶皺": "zig-zag fold"
+    },
+    {
+        "閃鋅礦": "zinc blende"
+    },
+    {
+        "水鋅礦": "zinc bloom"
+    },
+    {
+        "鐵鋅尖晶石": "zinc gahnite"
+    },
+    {
+        "氧化鋅": "zinc oxide"
+    },
+    {
+        "菱鋅礦": "zinc spar"
+    },
+    {
+        "鋅白": "zinc white"
+    },
+    {
+        "鋅明礬": "zinc-alummite"
+    },
+    {
+        "鋅霰石；閃鋅礦": "zinc-aragonite(zicholsonite)"
+    },
+    {
+        "鋅銅綠礬": "zinc-copper melanterite"
+    },
+    {
+        "鋅黝銅礦": "zinc-fahlerz"
+    },
+    {
+        "鋅錳瀉鹽": "zinc-fauserite"
+    },
+    {
+        "紅鋅礦": "zincite"
+    },
+    {
+        "輝銻鉛礦": "zinckenite"
+    },
+    {
+        "鋅方解石": "Zincocalcite"
+    },
+    {
+        "鋅皂石": "zinc-saponite"
+    },
+    {
+        "鋅尖晶石": "zinc-spinel"
+    },
+    {
+        "皓礬": "zinc-vitriol"
+    },
+    {
+        "東非猿人(曾建古猿)": "Zinjanthropus"
+    },
+    {
+        "輝銻鉛礦": "zinkenite"
+    },
+    {
+        "鋅礬": "zinkosite"
+    },
+    {
+        "辰砂": "zinnober"
+    },
+    {
+        "鐵鋰雲母": "zinnwaldite"
+    },
+    {
+        "水鈾礬": "zippeite"
+    },
+    {
+        "鋯石": "zircon"
+    },
+    {
+        "鋯石正長岩": "zircon syenite"
+    },
+    {
+        "鋯酸鹽類": "zirconate"
+    },
+    {
+        "鈦鋯釷礦": "zirkelite"
+    },
+    {
+        "亮褐煤": "zittavite"
+    },
+    {
+        "珊瑚亞綱": "Zoantharia"
+    },
+    {
+        "苔鮮蟲硬體群": "zoarium"
+    },
+    {
+        "異剝輝長片麻岩": "zobtenfels(zobtenite)"
+    },
+    {
+        "異剝輝長片麻岩": "zobtenite"
+    },
+    {
+        "黝簾石": "zoisite"
+    },
+    {
+        "黝簾奧長偉晶岩": "zoisite-oligoclase-pegmatite"
+    },
+    {
+        "黝簾石化〔作用〕": "zoistization"
+    },
+    {
+        "晶帶軸": "zonal axis"
+    },
+    {
+        "礦石帶狀沉積": "zonal deposition of ore"
+    },
+    {
+        "環帶生長": "zonal growth"
+    },
+    {
+        "分帶標準化石": "zonal guide fossil"
+    },
+    {
+        "分帶礦物": "zonal minerals"
+    },
+    {
+        "分帶土壤": "zonal soil"
+    },
+    {
+        "帶狀構造": "zonal structure"
+    },
+    {
+        "礦床分帶學說": "zonaltheory"
+    },
+    {
+        "分帶現象": "zonation"
+    },
+    {
+        "晶帶；階；化石帶": "zone"
+    },
+    {
+        "晶帶軸": "zone axis"
+    },
+    {
+        "晶帶束": "zone bundle"
+    },
+    {
+        "晶帶圈": "zone circle"
+    },
+    {
+        "晶帶方程式": "zone equation"
+    },
+    {
+        "晶帶面": "zone face"
+    },
+    {
+        "分帶化石": "zone fossil"
+    },
+    {
+        "晶帶指數": "zone indices"
+    },
+    {
+        "深成侵入帶": "zone of abyssal intrusion"
+    },
+    {
+        "充氣帶": "zone of aeration"
+    },
+    {
+        "毛細管帶": "zone of capillarity"
+    },
+    {
+        "膠結帶": "zone of cementation"
+    },
+    {
+        "排水帶": "zone of discharge"
+    },
+    {
+        "淋瀘帶": "zone of eluviation"
+    },
+    {
+        "富集帶": "zone of enrichment"
+    },
+    {
+        "均衡帶": "zone of equilibrium"
+    },
+    {
+        "流動帶": "zone of flow"
+    },
+    {
+        "褶皺帶": "zone of fold"
+    },
+    {
+        "裂流帶": "zone of fracture and flowage"
+    },
+    {
+        "岩漿帶": "zone of magma"
+    },
+    {
+        "變質帶": "zone of metamorphism"
+    },
+    {
+        "氧化帶": "zone of oxidation"
+    },
+    {
+        "原生沉積帶": "zone of primary deposits"
+    },
+    {
+        "原生礦帶": "zone of primary ore"
+    },
+    {
+        "原生硫化帶": "zone of primary sulphide"
+    },
+    {
+        "還原帶": "zone of reduction"
+    },
+    {
+        "岩流帶": "zone of rock-flowage"
+    },
+    {
+        "飽和帶": "zone of saturation"
+    },
+    {
+        "風化帶": "zone of weathering"
+    },
+    {
+        "破裂帶": "zone of(rock)fracture"
+    },
+    {
+        "晶帶面": "zone plane"
+    },
+    {
+        "晶帶點": "zone point"
+    },
+    {
+        "晶帶法則": "zone rule"
+    },
+    {
+        "晶帶符號": "zone symbol"
+    },
+    {
+        "帶時": "zone time"
+    },
+    {
+        "晶帶束": "zone-bundle"
+    },
+    {
+        "環帶；分帶": "zoning"
+    },
+    {
+        "分帶晶體": "zoning of crystals"
+    },
+    {
+        "綠纖石": "zonochlorite"
+    },
+    {
+        "苔蘚蟲室(單)(複)": "zooecium(zooecia)"
+    },
+    {
+        "動物的": "zoogene"
+    },
+    {
+        "動物生成的": "zoogenic"
+    },
+    {
+        "動物岩": "zoogenic rock"
+    },
+    {
+        "動物地理學": "zoogeography"
+    },
+    {
+        "苔蘚蟲": "zooid"
+    },
+    {
+        "動物岩": "Zooliths"
+    },
+    {
+        "植蟲": "zoophyte"
+    },
+    {
+        "漂浮動物": "zooplankton"
+    },
+    {
+        "硒銅鉛礦": "zorgite"
+    },
+    {
+        "氯黃晶": "zunyite"
+    },
+    {
+        "綠黃長石": "zurite"
+    },
+    {
+        "鐵磷灰石": "zwieselite"
+    },
+    {
+        "中間地塊": "zwischengebirge"
+    },
+    {
+        "軛螺貝": "Zygospira"
+    },
+    {
+        "接合子": "zygote"
+    }
+]

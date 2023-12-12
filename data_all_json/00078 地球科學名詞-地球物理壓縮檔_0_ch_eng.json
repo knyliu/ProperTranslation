@@ -1,0 +1,3026 @@
+[
+    {
+        "類比數位轉換器": "A/D convertor"
+    },
+    {
+        "絕對年齡": "absolute age"
+    },
+    {
+        "絕對編年": "absolute chronology"
+    },
+    {
+        "吸收": "absorption"
+    },
+    {
+        "加速度": "acceleration"
+    },
+    {
+        "加速度感應器": "acceleration sensor"
+    },
+    {
+        "加速度儀；加速度計": "accelerometer"
+    },
+    {
+        "準確度": "accuracy"
+    },
+    {
+        "磁赤道": "aclinic line"
+    },
+    {
+        "聲測方位": "acoustic bearing"
+    },
+    {
+        "聲測": "acoustic sounding"
+    },
+    {
+        "聲速井測": "acoustic velocity logging"
+    },
+    {
+        "聲波": "acoustic wave"
+    },
+    {
+        "聲學": "acoustics"
+    },
+    {
+        "接收範圍": "acquisition range"
+    },
+    {
+        "活動斷層": "active fault"
+    },
+    {
+        "黏著性；附著性": "adherence"
+    },
+    {
+        "黏著力；附著力": "adhesion"
+    },
+    {
+        "黏性": "adhesiveness"
+    },
+    {
+        "絕熱線": "adiabat"
+    },
+    {
+        "絕熱的": "adiabatic"
+    },
+    {
+        "餘震": "aftershock"
+    },
+    {
+        "期；時代；年齡": "age"
+    },
+    {
+        "零磁偏角線": "agonic line"
+    },
+    {
+        "空氣波": "air wave"
+    },
+    {
+        "空載磁力儀": "airborne magnetometer"
+    },
+    {
+        "校直；列綫": "alignment"
+    },
+    {
+        "測高儀；高度計": "altimeter"
+    },
+    {
+        "高度；海拔": "altitude"
+    },
+    {
+        "放大倍率": "amplification"
+    },
+    {
+        "振幅": "amplitude"
+    },
+    {
+        "類比": "analog"
+    },
+    {
+        "類比數位轉換器": "analog/digital convertor"
+    },
+    {
+        "類比端": "analogous end"
+    },
+    {
+        "出射角": "angle of emergence"
+    },
+    {
+        "入射角": "angle of incidence"
+    },
+    {
+        "傾[斜]角": "angle of inclination"
+    },
+    {
+        "偏極角": "angle of polarization"
+    },
+    {
+        "反射角": "angle of reflection"
+    },
+    {
+        "折射角": "angle of refraction"
+    },
+    {
+        "安息角": "angle of repose"
+    },
+    {
+        "旋轉角": "angle of rotation"
+    },
+    {
+        "角加速度": "angular acceleration"
+    },
+    {
+        "角距": "angular distance"
+    },
+    {
+        "角頻率": "angular frequency"
+    },
+    {
+        "角動量": "angular momentum"
+    },
+    {
+        "角速度": "angular velocity"
+    },
+    {
+        "各向異性的": "anisotropic body"
+    },
+    {
+        "各向異性；非均向性": "anisotropy"
+    },
+    {
+        "對極點": "antipodal"
+    },
+    {
+        "視傾斜": "apparent dip"
+    },
+    {
+        "視厚度": "apparent thickness"
+    },
+    {
+        "視速度": "apparent velocity"
+    },
+    {
+        "微[透]水層": "aquiclude"
+    },
+    {
+        "含水層": "aquifer"
+    },
+    {
+        "不透水層": "aquifuge"
+    },
+    {
+        "考古地磁學；地磁定年術": "archaeomagnetism"
+    },
+    {
+        "無震的": "aseismic region"
+    },
+    {
+        "軟流圈": "asthenosphere"
+    },
+    {
+        "衰減": "attenuation"
+    },
+    {
+        "衰減係數": "attenuation coefficient"
+    },
+    {
+        "衰減常數": "attenuation constant"
+    },
+    {
+        "輔助斷層": "auxiliary fault"
+    },
+    {
+        "方位角": "azimuth"
+    },
+    {
+        "反向散射": "backward scattering"
+    },
+    {
+        "深地顫": "basisseism"
+    },
+    {
+        "等深線圖": "bathymetric chart"
+    },
+    {
+        "等深線": "bathymetric line"
+    },
+    {
+        "測深法": "bathymetry"
+    },
+    {
+        "固體潮": "bodily tide"
+    },
+    {
+        "固體潮[地球]": "body tide"
+    },
+    {
+        "體波": "body wave"
+    },
+    {
+        "井孔；鑽孔": "borehole"
+    },
+    {
+        "井下地震儀": "borehole seismometer"
+    },
+    {
+        "鑽探": "boring"
+    },
+    {
+        "布蓋異常": "Bouguer anomaly"
+    },
+    {
+        "布蓋重力異常": "Bouguer gravity anomaly"
+    },
+    {
+        "緩地顫": "bradyseism"
+    },
+    {
+        "地聲": "brontides"
+    },
+    {
+        "體彈性模數": "bulk modulus"
+    },
+    {
+        "浮力": "buoyancy"
+    },
+    {
+        "加勒比板塊": "Caribbean Plate"
+    },
+    {
+        "科克斯板塊": "Cocos Plate"
+    },
+    {
+        "井徑": "caliper"
+    },
+    {
+        "致震斷層": "causative fault"
+    },
+    {
+        "離心力": "centrifugal force"
+    },
+    {
+        "碰撞帶": "collision zone"
+    },
+    {
+        "壓縮波": "compressional wave"
+    },
+    {
+        "同[到時]震線": "coseismal line"
+    },
+    {
+        "同震的": "coseismic"
+    },
+    {
+        "同震變形": "coseismic deformation"
+    },
+    {
+        "互相關；交相關": "cross-correlation"
+    },
+    {
+        "地殼構造": "crustal structure"
+    },
+    {
+        "截斷頻率": "cut-off frequency"
+    },
+    {
+        "井徑記錄": "caliper log"
+    },
+    {
+        "坎氏震度階": "Cancani's seismic intensity scale"
+    },
+    {
+        "載波": "carrier wave"
+    },
+    {
+        "套管": "casing"
+    },
+    {
+        "環狀對流": "cellular convection"
+    },
+    {
+        "灌漿": "cement grouting"
+    },
+    {
+        "膠結物": "cement; cementing material"
+    },
+    {
+        "膠結〔作用〕": "cementation"
+    },
+    {
+        "膠結區": "cementation zone"
+    },
+    {
+        "向心力": "centripetal force"
+    },
+    {
+        "尾波": "coda"
+    },
+    {
+        "同調性": "coherence"
+    },
+    {
+        "補償電流": "compensation current"
+    },
+    {
+        "補償深度": "compensation depth"
+    },
+    {
+        "壓縮係數；壓縮性": "compressibility"
+    },
+    {
+        "擠壓斷層": "compressional fault"
+    },
+    {
+        "疏密波": "compressional-dilatational wave"
+    },
+    {
+        "抗壓強度": "compressive strength"
+    },
+    {
+        "壓應力": "compressive stress"
+    },
+    {
+        "傳導電磁法": "conductive electromagnetic method"
+    },
+    {
+        "傳導性；傳導係數": "conductivity"
+    },
+    {
+        "圍壓": "confining pressure"
+    },
+    {
+        "大陸地殼": "continental crust"
+    },
+    {
+        "大陸漂移": "continental drift"
+    },
+    {
+        "大陸邊緣": "continental margin"
+    },
+    {
+        "大陸隆起": "continental rise"
+    },
+    {
+        "收縮破裂": "contraction crack"
+    },
+    {
+        "收縮斷層": "contraction fault"
+    },
+    {
+        "收縮裂縫": "contraction fissure"
+    },
+    {
+        "對流": "convection"
+    },
+    {
+        "對流胞": "convection cell"
+    },
+    {
+        "對流學說": "convection current theory"
+    },
+    {
+        "岩芯；岩心；地核；地心": "core"
+    },
+    {
+        "相關性": "correlation"
+    },
+    {
+        "對比炸測": "correlation shooting"
+    },
+    {
+        "耦波；耦合波": "coupled wave"
+    },
+    {
+        "潛移；蠕動": "creep"
+    },
+    {
+        "臨界角": "critical angle"
+    },
+    {
+        "臨界狀態": "critical condition"
+    },
+    {
+        "臨界距離": "critical distance"
+    },
+    {
+        "臨界點": "critical point"
+    },
+    {
+        "正交極化": "cross polarization"
+    },
+    {
+        "橫剖面": "cross profile"
+    },
+    {
+        "橫斷面": "cross section"
+    },
+    {
+        "地殼": "crust"
+    },
+    {
+        "地殼荷重": "crustal loading"
+    },
+    {
+        "地殼回彈": "crustal rebound"
+    },
+    {
+        "截斷；切斷": "cut off"
+    },
+    {
+        "鑽井岩屑": "cuttings"
+    },
+    {
+        "頻散曲線": "dispersion curve"
+    },
+    {
+        "頻散波": "dispersion wave"
+    },
+    {
+        "持續時間；歷時": "duration time"
+    },
+    {
+        "深度偏移修正": "depth migration"
+    },
+    {
+        "滑脫斷層；脫卸斷層": "detachment fault"
+    },
+    {
+        "膨脹；擴容現象": "dilatancy"
+    },
+    {
+        "全日潮": "diurnal tide"
+    },
+    {
+        "日變化": "diurnal variation"
+    },
+    {
+        "全日波": "diurnal wave"
+    },
+    {
+        "核幔過渡帶{等同於D\" zone}": "D double prime zone"
+    },
+    {
+        "核幔過渡帶": "D\" zone"
+    },
+    {
+        "數位類比轉換器": "D/A convertor"
+    },
+    {
+        "阻尼；制振": "damping"
+    },
+    {
+        "阻尼係數": "damping coefficient"
+    },
+    {
+        "阻尼常數": "damping constant"
+    },
+    {
+        "資料採礦": "data mining"
+    },
+    {
+        "資料共享": "data sharing"
+    },
+    {
+        "決策樹": "decision tree"
+    },
+    {
+        "反摺積；解迴旋": "deconvolution"
+    },
+    {
+        "深部盆地油氣": "deep basin gas"
+    },
+    {
+        "深層地熱": "deep geothermal"
+    },
+    {
+        "深部地熱儲集層": "deep geothermal reservoir"
+    },
+    {
+        "深層震測；深層震測測深法": "deep seismic sounding [method] (DSS)"
+    },
+    {
+        "深部盆地油藏": "deep-basin oil pool"
+    },
+    {
+        "底拖式": "deep-tow"
+    },
+    {
+        "垂線偏差": "deflection of the vertical"
+    },
+    {
+        "脫水作用": "dehydration"
+    },
+    {
+        "拆沉作用": "delamination"
+    },
+    {
+        "延遲破壞": "delayed failure"
+    },
+    {
+        "延遲破裂": "delayed fracture"
+    },
+    {
+        "解編": "demultiplex"
+    },
+    {
+        "密度基盤": "density basement"
+    },
+    {
+        "密度對比": "density contrast"
+    },
+    {
+        "密度分異": "density differentiation"
+    },
+    {
+        "密度流": "density flow"
+    },
+    {
+        "密度井測": "density log"
+    },
+    {
+        "密度井測": "density logging"
+    },
+    {
+        "水深圖": "depth chart"
+    },
+    {
+        "設計地動": "design ground motion"
+    },
+    {
+        "設計地震係數": "design seismic coefficient"
+    },
+    {
+        "設計譜": "design spectrum"
+    },
+    {
+        "破壞性板塊邊界": "destructive margin"
+    },
+    {
+        "偏差分析": "deviation analysis"
+    },
+    {
+        "成岩作用": "diagenesis"
+    },
+    {
+        "鑽石鉆": "diamond-anvil cell"
+    },
+    {
+        "差應力": "differential stress"
+    },
+    {
+        "擴散": "diffusion"
+    },
+    {
+        "數位端": "digital end"
+    },
+    {
+        "全球數位地震觀測網": "Digital World Wide Standard[ized] Seismograph Network (DWWSSN)"
+    },
+    {
+        "數位類比轉換器": "digital/analog convertor"
+    },
+    {
+        "數位採集器": "digitizer"
+    },
+    {
+        "膨脹擴散模式": "dilatancy-diffusion model"
+    },
+    {
+        "膨脹失穩模式": "dilatancy-instability model"
+    },
+    {
+        "膨脹；拉張": "dilatation"
+    },
+    {
+        "拉張波": "dilatational wave"
+    },
+    {
+        "膨脹；拉張": "dilation"
+    },
+    {
+        "膨脹儀": "dilatometer"
+    },
+    {
+        "傾角": "dip [angle]"
+    },
+    {
+        "傾角隔距時差校正": "dip move-out (DMO)"
+    },
+    {
+        "傾向滑移": "dip slip"
+    },
+    {
+        "偶極陣列": "dipole array"
+    },
+    {
+        "電偶極測深": "dipole electrode sounding"
+    },
+    {
+        "雙偶極陣列": "dipole-dipole array"
+    },
+    {
+        "直流電導率": "direct conductivity"
+    },
+    {
+        "直達波": "direct wave"
+    },
+    {
+        "方向性{地震學}": "directivity"
+    },
+    {
+        "不連續面；界面": "discontinuity"
+    },
+    {
+        "離散傅立葉轉換": "discrete Fourier transform (DFT)"
+    },
+    {
+        "離散波數有限元素法": "discrete wavenumber finite element method (DWFE  method)"
+    },
+    {
+        "離散波數法": "discrete wavenumber method (DW method)"
+    },
+    {
+        "錯動模式；錯位模式": "dislocation model"
+    },
+    {
+        "錯動理論；錯位理論": "dislocation theory"
+    },
+    {
+        "位移反應譜": "displacement response spectrum"
+    },
+    {
+        "擾動日變化": "disturbance daily variation"
+    },
+    {
+        "分離型[板塊]邊界": "divergence boundary"
+    },
+    {
+        "分集重合；分集疊加": "diversity stack"
+    },
+    {
+        "潛地波": "diving wave"
+    },
+    {
+        "狄克斯方程": "Dix equation"
+    },
+    {
+        "杜德森編碼{潮汐}": "Doodson number"
+    },
+    {
+        "都卜勒效應": "Doppler effect"
+    },
+    {
+        "都卜勒導航系統": "Doppler navigation system"
+    },
+    {
+        "都卜勒頻移": "Doppler shift"
+    },
+    {
+        "雙力偶": "double couple"
+    },
+    {
+        "雙力偶震源模式": "double-couple [source] model"
+    },
+    {
+        "下行波": "downgoing wave"
+    },
+    {
+        "向下延伸": "downward continuation"
+    },
+    {
+        "偏移{儀器}": "drift"
+    },
+    {
+        "鑽井紀錄": "drill log"
+    },
+    {
+        "鑽井紀錄": "drill records"
+    },
+    {
+        "動態修正": "dynamic correction"
+    },
+    {
+        "動摩擦": "dynamic friction"
+    },
+    {
+        "動態範圍{儀器}": "dynamic range"
+    },
+    {
+        "動態應力降": "dynamic stress drop"
+    },
+    {
+        "動力橢率": "dynamical ellipticity"
+    },
+    {
+        "動力學": "dynamics"
+    },
+    {
+        "岩屑流；土石流": "debris flow"
+    },
+    {
+        "衰減常數；衰變常數": "decay constant"
+    },
+    {
+        "去極化": "depolarization"
+    },
+    {
+        "扭曲波": "distortional wave"
+    },
+    {
+        "磁偏儀；磁偏角儀": "declinometer"
+    },
+    {
+        "去磁化；消磁化": "demagnetization"
+    },
+    {
+        "滑脫[構造]；滑脫面；脫卸": "detachment"
+    },
+    {
+        "頻散；色散": "dispersion"
+    },
+    {
+        "D\"層；核幔過渡帶": "D\" layer"
+    },
+    {
+        "阻尼振盪": "damped oscillation"
+    },
+    {
+        "阻尼擺": "damped pendulum"
+    },
+    {
+        "制振器；阻尼器": "damper"
+    },
+    {
+        "阻尼因子": "damping factor"
+    },
+    {
+        "阻尼磁鐵": "damping magnet"
+    },
+    {
+        "資料處理": "data processing"
+    },
+    {
+        "資料處理系統": "data processing system"
+    },
+    {
+        "定年": "dating"
+    },
+    {
+        "基準面；基準": "datum"
+    },
+    {
+        "殘油": "dead oil"
+    },
+    {
+        "[磁]偏角": "declination"
+    },
+    {
+        "深源地震": "deep earthquake"
+    },
+    {
+        "深源地震": "deep focus earthquake"
+    },
+    {
+        "深海散聲層": "deep scattering layer"
+    },
+    {
+        "深海鑽探計畫": "Deep Sea Drilling Project (DSDP)"
+    },
+    {
+        "深源地震帶": "deep seismic zone"
+    },
+    {
+        "深井": "deep well"
+    },
+    {
+        "消磁": "demagnetize"
+    },
+    {
+        "密度": "density"
+    },
+    {
+        "密度流": "density current"
+    },
+    {
+        "沉積殘磁": "depositional remanent magnetization (DRM)"
+    },
+    {
+        "陷落地震；塌陷地震": "depression earthquake"
+    },
+    {
+        "偵測器；探測器": "detector"
+    },
+    {
+        "碎屑殘磁": "detrital remanent magnetization"
+    },
+    {
+        "電介質": "dielectric"
+    },
+    {
+        "介電常數；電介質常數": "dielectric constant"
+    },
+    {
+        "電介質": "dielectrics"
+    },
+    {
+        "繞射": "diffraction"
+    },
+    {
+        "磁傾角儀": "dip compass"
+    },
+    {
+        "傾角炸測法": "dip shooting"
+    },
+    {
+        "偶極；雙極": "dipole"
+    },
+    {
+        "偶極矩；雙極矩": "dipole moment"
+    },
+    {
+        "直流電法": "direct current method"
+    },
+    {
+        "錯位；錯動": "dislocation"
+    },
+    {
+        "位移": "displacement"
+    },
+    {
+        "位移型地震儀": "displacement seismograph"
+    },
+    {
+        "雙折射": "double refraction"
+    },
+    {
+        "鑽井；鑽孔": "drill hole"
+    },
+    {
+        "鑽井": "drilling"
+    },
+    {
+        "鑽串試油氣": "drilling-stem test (DST)"
+    },
+    {
+        "鑽進時間記錄": "drilling-time log"
+    },
+    {
+        "發電機學說{磁場}": "dynamo theory"
+    },
+    {
+        "等面積投影": "equal-area projection"
+    },
+    {
+        "厄特弗效應": "Eötvös effect"
+    },
+    {
+        "厄特弗校正": "Eötvös correction"
+    },
+    {
+        "環境磁學": "environmental magnetism"
+    },
+    {
+        "環境地球物理探勘": "environmental geophysics exploration"
+    },
+    {
+        "環境地球物理": "environmental geophysics"
+    },
+    {
+        "熵": "entropy"
+    },
+    {
+        "加強型地熱系統": "enhanced geothermal system (EGS)"
+    },
+    {
+        "工程地震學": "engineering seismology"
+    },
+    {
+        "工程地球物理[學]": "engineering geophysics"
+    },
+    {
+        "地球重力模型": "Earth Gravitational Model (EGM)"
+    },
+    {
+        "能量規模": "energy magnitude (Me)"
+    },
+    {
+        "經驗模態分解": "empirical mode decomposition (EMD)"
+    },
+    {
+        "緩啟〔地震波相〕": "emersio ( e)"
+    },
+    {
+        "嵌入式系統": "embeded system"
+    },
+    {
+        "橢球體": "ellipsoid"
+    },
+    {
+        "電磁學；電磁性": "electromagnetism"
+    },
+    {
+        "電磁前兆": "electromagnetic precursor"
+    },
+    {
+        "電磁干涉； 電磁干擾": "electromagnetic interference"
+    },
+    {
+        "電磁感應法": "electromagnetic induction method"
+    },
+    {
+        "電磁陣列剖面法": "electromagnetic array profile (EMAP)"
+    },
+    {
+        "地球自由振盪": "Earth free oscillation"
+    },
+    {
+        "電極極化": "electrode polarization"
+    },
+    {
+        "電極陣列": "electrode array"
+    },
+    {
+        "電性探測；垂直電探": "electrical sounding"
+    },
+    {
+        "電阻率各向異性": "electric resistivity ansiotropy"
+    },
+    {
+        "電性岩石圈": "electric lithosphere"
+    },
+    {
+        "電偶極矩": "electric dipole moment"
+    },
+    {
+        "電偶極場": "electric dipole field"
+    },
+    {
+        "電容": "electric capacitance"
+    },
+    {
+        "彈性動力學": "elastodynamics"
+    },
+    {
+        "彈性動力學方程式": "elastodynamic equation"
+    },
+    {
+        "預警": "early warning"
+    },
+    {
+        "彈性波場模擬": "elastic waveﬁeld modeling"
+    },
+    {
+        "彈性波方程式": "elastic wave equation"
+    },
+    {
+        "彈性岩石圈": "elastic lithosphere"
+    },
+    {
+        "彈性阻抗": "elastic impedance"
+    },
+    {
+        "彈性半空間": "elastic half-space"
+    },
+    {
+        "有效應力": "effective stress"
+    },
+    {
+        "有效油層厚度": "effective pay thickness"
+    },
+    {
+        "有效油層含量": "effective pay"
+    },
+    {
+        "有效彈性厚度": "effective elastic thickness (EET)"
+    },
+    {
+        "渦漩；渦流": "eddy"
+    },
+    {
+        "同符方程式；鏡像方程式": "eikonal equation"
+    },
+    {
+        "偏心偶極": "eccentric dipole"
+    },
+    {
+        "東太平洋隆起": "East Pacific Rise"
+    },
+    {
+        "地震分區；震區劃分": "earthquake zoning"
+    },
+    {
+        "地震警報": "earthquake warning"
+    },
+    {
+        "地震觸發": "earthquake triggering"
+    },
+    {
+        "地震統計": "earthquake statistics"
+    },
+    {
+        "震源參數": "earthquake source parameter"
+    },
+    {
+        "震源模型": "earthquake source model"
+    },
+    {
+        "震源效應": "earthquake source effect"
+    },
+    {
+        "震源": "earthquake source"
+    },
+    {
+        "歐亞板塊": "Eurasian Plate"
+    },
+    {
+        "地震序列": "earthquake sequence"
+    },
+    {
+        "天然地震學": "earthquake seismology"
+    },
+    {
+        "地震反應譜": "earthquake response spectrum"
+    },
+    {
+        "耐震設計規範": "earthquake resistant design code"
+    },
+    {
+        "耐震設計": "earthquake resistant design"
+    },
+    {
+        "地震復發率": "earthquake recurrence rate"
+    },
+    {
+        "地震過程": "earthquake process"
+    },
+    {
+        "地震預測": "earthquake prediction"
+    },
+    {
+        "地震前兆": "earthquake precursor"
+    },
+    {
+        "地震物理": "earthquake physics"
+    },
+    {
+        "Ｅ域 {電離層}": "E region"
+    },
+    {
+        "地震周期": "earthquake period"
+    },
+    {
+        "地震初始": "earthquake nucleation"
+    },
+    {
+        "地震監測": "earthquake monitoring"
+    },
+    {
+        "地震遷移": "earthquake migration"
+    },
+    {
+        "地震定位": "earthquake location"
+    },
+    {
+        "地震負荷": "earthquake loading"
+    },
+    {
+        "地震光": "earthquake light"
+    },
+    {
+        "地震湖": "earthquake lake"
+    },
+    {
+        "地震保險": "earthquake insurance"
+    },
+    {
+        "地震預報": "earthquake forecasting"
+    },
+    {
+        "尤拉[軸]極": "Euler pole"
+    },
+    {
+        "地震工程": "earthquake engineering"
+    },
+    {
+        "地震緊急應對": "earthquake emergency response"
+    },
+    {
+        "地震預警": "earthquake early warning (EEW)"
+    },
+    {
+        "地震防災": "earthquake disaster prevention"
+    },
+    {
+        "震害評估": "earthquake disaster assessment"
+    },
+    {
+        "重力；引力": "gravitational force"
+    },
+    {
+        "地轉狀態": "geostrophy"
+    },
+    {
+        "近地太空": "geospace"
+    },
+    {
+        "古騰堡-芮克特關係": "Gutenberg-Richter relation"
+    },
+    {
+        "古氏不連續面；古騰堡不連續面": "Gutenberg discontinuity"
+    },
+    {
+        "地理坐標系": "geographic coordinate"
+    },
+    {
+        "導波": "guide wave"
+    },
+    {
+        "地滾波": "ground roll"
+    },
+    {
+        "震災指數": "earthquake damage index"
+    },
+    {
+        "透地雷達": "ground penetrating radar (GPR)"
+    },
+    {
+        "地噪聲；地雜訊": "ground noise"
+    },
+    {
+        "格里菲斯破裂準則": "Griffith criterion"
+    },
+    {
+        "格林威治平均時": "Greenwich mean time (GMT)"
+    },
+    {
+        "溫室氣體": "greenhouse gas"
+    },
+    {
+        "溫室效應": "greenhouse effect"
+    },
+    {
+        "格林張量": "Green’s tensor"
+    },
+    {
+        "格林函數": "Green’s function"
+    },
+    {
+        "格雷-米恩地震儀": "Gray-Milne seismograph"
+    },
+    {
+        "重力單位": "gravity uint (g.u.)"
+    },
+    {
+        "地震災害": "earthquake damage"
+    },
+    {
+        "重力儀": "gravity meter"
+    },
+    {
+        "重力場": "gravity field"
+    },
+    {
+        "重力-彈性方程式": "gravito-elastic equation"
+    },
+    {
+        "萬有引力": "gravitational attraction"
+    },
+    {
+        "重力法": "gravimetry"
+    },
+    {
+        "[德國]格拉芬堡地震網": "Gräfenberg Array (GRF Array)"
+    },
+    {
+        "重力梯度法": "gradiometry"
+    },
+    {
+        "梯度儀": "gradiometer"
+    },
+    {
+        "全球地震學": "global seismology"
+    },
+    {
+        "全球地震網": "Global Seismograph Network (GSN)"
+    },
+    {
+        "地震循環": "earthquake cycle"
+    },
+    {
+        "全球定位系統": "Global Positioning System (GPS)"
+    },
+    {
+        "全球導航衛星系統": "Global Navigation Satellite System (GNSS)"
+    },
+    {
+        "全球數位地震網": "Global Digital Seismograph Network (GDSN)"
+    },
+    {
+        "全球變遷": "global change"
+    },
+    {
+        "冰河；冰川": "glacier"
+    },
+    {
+        "冰河均衡調整": "glacial isostatic adjustment (GIA)"
+    },
+    {
+        "吉布斯現象": "Gibbs phenomenon"
+    },
+    {
+        "虛反射；假反射": "ghost reflection"
+    },
+    {
+        "間歇泉": "geyser"
+    },
+    {
+        "地熱庫；地熱儲集層": "geothermal reservoir"
+    },
+    {
+        "地震群": "earthquake cluster"
+    },
+    {
+        "地熱流體": "geothermal fluid"
+    },
+    {
+        "地熱異常": "geothermal anomaly"
+    },
+    {
+        "地熱": "geothermal"
+    },
+    {
+        "等地溫面": "geotherm"
+    },
+    {
+        "地轉平衡": "geostrophic balance"
+    },
+    {
+        "[法國]地球透鏡計畫地震網": "GEOSCOPE"
+    },
+    {
+        "地球物理探勘": "geophysical prospecting"
+    },
+    {
+        "地球物理探勘": "geophysical exploration"
+    },
+    {
+        "幾何擴散": "geometric spreading"
+    },
+    {
+        "地磁反轉": "geomagnetic reversal"
+    },
+    {
+        "地震目錄": "earthquake catalogue"
+    },
+    {
+        "星曆表": "ephemeris"
+    },
+    {
+        "地磁向西漂移": "geomagnetic westward drift"
+    },
+    {
+        "地磁長期變化": "geomagnetic secular variaton"
+    },
+    {
+        "地磁脈動": "geomagnetic pulsation"
+    },
+    {
+        "地磁漂移": "geomagnetic drift"
+    },
+    {
+        "地磁圖": "geomagnetic chart"
+    },
+    {
+        "地磁活動": "geomagnetic activity"
+    },
+    {
+        "地層剖面": "geological section"
+    },
+    {
+        "地層剖面": "geological profile"
+    },
+    {
+        "地質災害；地質危害": "geological hazard"
+    },
+    {
+        "地質基盤": "geological basement"
+    },
+    {
+        "地震通報": "earthquake bulletin"
+    },
+    {
+        "大地水準面高度": "geoidal height"
+    },
+    {
+        "大地水準面起伏；大地基準面起伏": "geoid undulation"
+    },
+    {
+        "大地水準面；大地基準面": "geoid"
+    },
+    {
+        "地理經度": "geographical longitude"
+    },
+    {
+        "地理緯度": "geographical latitude"
+    },
+    {
+        "地理資訊系統": "Geographic Information System (GIS)"
+    },
+    {
+        "地球發電機理論｛地磁起源學說｝": "geodynamo theory"
+    },
+    {
+        "地球發電機": "geodynamo"
+    },
+    {
+        "大地三角測量": "geodetic triangulation"
+    },
+    {
+        "大地測量": "geodetic survey"
+    },
+    {
+        "地震警報": "earthquake alarm"
+    },
+    {
+        "大地參考系統": "Geodetic Reference System (GRS)"
+    },
+    {
+        "大地測量參考模型": "geodetic reference model"
+    },
+    {
+        "大地高程": "geodetic height"
+    },
+    {
+        "大地測量基準面": "geodetic datum"
+    },
+    {
+        "大地測量學；測地學": "geodesy"
+    },
+    {
+        "地球年代學": "geochronology"
+    },
+    {
+        "地心緯度": "geocentric latitude"
+    },
+    {
+        "基因演算法": "genetic algorithm (GA)"
+    },
+    {
+        "泛化波線理論": "generalized ray theory (GRT)"
+    },
+    {
+        "泛化波線": "generalized ray"
+    },
+    {
+        "地球熱史": "Earth thermal history"
+    },
+    {
+        "高斯波束": "Gaussian beam"
+    },
+    {
+        "高斯散度定理": "Gauss’s divergence theorem"
+    },
+    {
+        "天然氣水合物": "gas hydrate"
+    },
+    {
+        "伽瑪射線": "Gamma ray"
+    },
+    {
+        "伽": "Gal"
+    },
+    {
+        "頁岩油": "gabianol"
+    },
+    {
+        "基本模態": "fundamental mode"
+    },
+    {
+        "噴氣孔": "fumarole"
+    },
+    {
+        "摩擦強度": "frictional strength"
+    },
+    {
+        "夫瑞奈環帶": "Fresnel zone"
+    },
+    {
+        "地球構造": "Earth structure"
+    },
+    {
+        "夫瑞奈公式": "Fresnel formula"
+    },
+    {
+        "頻率波數域": "frequency-wavenumber domain"
+    },
+    {
+        "頻率時間分析方法": "frequency-time analysis method (FTAN method)"
+    },
+    {
+        "頻率空間域": "frequency-space domain (f-x domain)"
+    },
+    {
+        "[地震]頻率規模關係": "frequency-magnitude relationship"
+    },
+    {
+        "頻率域": "frequency domain"
+    },
+    {
+        "頻寬": "frenqucy band"
+    },
+    {
+        "自由場": "free-field"
+    },
+    {
+        "自由空間重力異常": "free-air gravity anomaly"
+    },
+    {
+        "破裂帶": "fracture zone"
+    },
+    {
+        "地球分層": "Earth stratification"
+    },
+    {
+        "破裂力學": "fracture mechanics"
+    },
+    {
+        "破裂": "fracture"
+    },
+    {
+        "碎形": "fractal"
+    },
+    {
+        "破裂法": "fracking"
+    },
+    {
+        "傅立葉轉換": "Fourier transform"
+    },
+    {
+        "傅立葉頻譜": "Fourier spectrum"
+    },
+    {
+        "順推問題": "forward problem"
+    },
+    {
+        "順推模擬": "forward modeling"
+    },
+    {
+        "半月潮": "fortnightly tide"
+    },
+    {
+        "鑑識地震學": "forensic seismology"
+    },
+    {
+        "地球模擬器〔超級電腦〕": "Earth simulator"
+    },
+    {
+        "鑑識地球物理[學]": "forensic geophysics"
+    },
+    {
+        "[斷層]下盤": "footwall"
+    },
+    {
+        "震源": "focus"
+    },
+    {
+        "震源機制": "focal mechanism"
+    },
+    {
+        "撓曲": "flexure"
+    },
+    {
+        "扁平率": "flattening"
+    },
+    {
+        "平點｛地球物理探勘｝": "flat spot"
+    },
+    {
+        "頻率-波數譜": "f-k spectrum"
+    },
+    {
+        "頻率-波數域": "f-k domain"
+    },
+    {
+        "初動解｛地震學｝": "first motion solution"
+    },
+    {
+        "地球形状": "Earth shape"
+    },
+    {
+        "有限差分法": "finite difference method (FDM)"
+    },
+    {
+        "有限差分": "finite difference"
+    },
+    {
+        "濾波器": "filter"
+    },
+    {
+        "斷層帶": "fault zone"
+    },
+    {
+        "斷層滑移[量]": "fault slip"
+    },
+    {
+        "斷層崖": "fault scarp"
+    },
+    {
+        "斷層面解": "fault plane solution"
+    },
+    {
+        "斷層參數": "fault parameter"
+    },
+    {
+        "斷層力學": "fault mechanics"
+    },
+    {
+        "斷層癒合": "fault healing"
+    },
+    {
+        "地球模型": "Earth model"
+    },
+    {
+        "斷層泥": "fault gouge"
+    },
+    {
+        "斷層": "fault"
+    },
+    {
+        "快速傅立葉轉換": "fast Fourier transform (FFT)"
+    },
+    {
+        "遠場項": "far-ﬁeld term"
+    },
+    {
+        "破壞強度": "failure strength"
+    },
+    {
+        "破壞準則": "failure criterion"
+    },
+    {
+        "有限元[素]法": "finite element method (FEM)"
+    },
+    {
+        "有限元[素]": "finite element"
+    },
+    {
+        "外磁場": "external magnitic field"
+    },
+    {
+        "外場": "external field"
+    },
+    {
+        "地函；地幔": "Earth mantle"
+    },
+    {
+        "伸張儀": "extensometer"
+    },
+    {
+        "伸張應變": "extensional strain"
+    },
+    {
+        "爆炸震源": "explosive source"
+    },
+    {
+        "探勘地球物理[學]": "exploration geophysics"
+    },
+    {
+        "超越機率": "exceedance probability"
+    },
+    {
+        "尤英型地震儀": "Ewing seismograph"
+    },
+    {
+        "歐亞地震帶": "Eurasian seismic belt"
+    },
+    {
+        "尤拉向量": "Euler vector"
+    },
+    {
+        "等位面": "equipotential surface"
+    },
+    {
+        "平衡潮": "equilibrium tide"
+    },
+    {
+        "地球内部": "Earth interior"
+    },
+    {
+        "橢圓率": "ellipticity"
+    },
+    {
+        "地球": "Earth"
+    },
+    {
+        "地核": "Earth core"
+    },
+    {
+        "地殼": "Earth crust"
+    },
+    {
+        "大地電流": "earth current"
+    },
+    {
+        "地球自轉": "Earth rotation"
+    },
+    {
+        "地球科學": "Earth sciences"
+    },
+    {
+        "地球反照；地照": "Earth shine"
+    },
+    {
+        "地聲；地鳴": "earth sound"
+    },
+    {
+        "地潮；固體潮〔地球〕": "Earth tide"
+    },
+    {
+        "地光〔地震〕": "earthlight"
+    },
+    {
+        "地震": "earthquake"
+    },
+    {
+        "地震能量": "earthquake energy"
+    },
+    {
+        "地震斷層": "earthquake fault"
+    },
+    {
+        "地裂；地震地表裂隙": "earthquake fissure"
+    },
+    {
+        "震源": "earthquake focus"
+    },
+    {
+        "震度": "earthquake intensity"
+    },
+    {
+        "地震規模": "earthquake magnitude"
+    },
+    {
+        "地震隱影區": "earthquake shadow zone"
+    },
+    {
+        "地鳴": "earthquake sound"
+    },
+    {
+        "地震群": "earthquake swarm"
+    },
+    {
+        "發震應力": "earthquake-generating stress"
+    },
+    {
+        "回聲；回波": "echo"
+    },
+    {
+        "回波〔聲〕測深儀": "echo sounder"
+    },
+    {
+        "回波測深": "echo sounding"
+    },
+    {
+        "回波紀錄": "echogram"
+    },
+    {
+        "回波儀": "echograph"
+    },
+    {
+        "彈性體": "elastic body"
+    },
+    {
+        "彈性常數": "elastic constant"
+    },
+    {
+        "彈性變形": "elastic deformation"
+    },
+    {
+        "彈性介質": "elastic medium"
+    },
+    {
+        "彈性模數；彈性係數": "elastic modulus"
+    },
+    {
+        "彈性回跳": "elastic rebound"
+    },
+    {
+        "彈性回跳理論；彈性回跳學說": "elastic rebound theory"
+    },
+    {
+        "彈性波": "elastic wave"
+    },
+    {
+        "彈性": "elasticity"
+    },
+    {
+        "導電率；電導率": "electric conductivity"
+    },
+    {
+        "電導法": "electric conductivity method"
+    },
+    {
+        "電流": "electric current"
+    },
+    {
+        "電場": "electric field"
+    },
+    {
+        "電測紀錄": "electric log (E log)"
+    },
+    {
+        "電偏極化": "electric polarization"
+    },
+    {
+        "電位；電動勢": "electric potential"
+    },
+    {
+        "電探；電測": "electric prospecting"
+    },
+    {
+        "電阻法": "electric resistivity method"
+    },
+    {
+        "電極": "electrode"
+    },
+    {
+        "電極效應": "electrode effect"
+    },
+    {
+        "電磁耦合": "electromagnetic coupling"
+    },
+    {
+        "電磁阻尼器": "electromagnetic damper"
+    },
+    {
+        "電磁阻尼": "electromagnetic damping"
+    },
+    {
+        "電磁場": "electromagnetic field"
+    },
+    {
+        "電磁法": "electromagnetic method"
+    },
+    {
+        "電磁噪訊；電磁雜訊": "electromagnetic noise"
+    },
+    {
+        "電磁輻射": "electromagnetic radiation"
+    },
+    {
+        "電磁式地震儀": "electromagnetic seismometer"
+    },
+    {
+        "電磁波": "electromagnetic wave"
+    },
+    {
+        "電子探針": "electron probe"
+    },
+    {
+        "電子探針微析儀": "electron probe microanalyser"
+    },
+    {
+        "高度修正；高程修正": "elevation correction"
+    },
+    {
+        "橢圓": "ellipse"
+    },
+    {
+        "出射角": "emergence angle"
+    },
+    {
+        "震央": "epicenter"
+    },
+    {
+        "震央距": "epicentral distance"
+    },
+    {
+        "運動方程式": "equation of motion"
+    },
+    {
+        "探勘": "exploration"
+    },
+    {
+        "爆炸地震學": "explosion seismology"
+    },
+    {
+        "陷落地震": "fallen earthquake"
+    },
+    {
+        "測深計": "fathometer"
+    },
+    {
+        "斷層作用": "faulting"
+    },
+    {
+        "弱磁性": "ferrimagnetism"
+    },
+    {
+        "強磁性": "ferromagnetism"
+    },
+    {
+        "基準點": "fiducial point"
+    },
+    {
+        "初達[波；時間]": "first arrival"
+    },
+    {
+        "通量": "flux"
+    },
+    {
+        "磁通量磁力儀": "fluxgate magnetometer"
+    },
+    {
+        "震源深度": "focal depth"
+    },
+    {
+        "前震": "foreshock"
+    },
+    {
+        "地層密度井測": "formation density log"
+    },
+    {
+        "自由振盪": "free oscillation"
+    },
+    {
+        "自由空間異常": "free-air anomaly"
+    },
+    {
+        "自由空間修正": "free-air correction"
+    },
+    {
+        "頻率": "frequency"
+    },
+    {
+        "頻率調節器": "frequency regulator"
+    },
+    {
+        "頻率響應": "frequency response"
+    },
+    {
+        "摩擦；摩擦力": "friction"
+    },
+    {
+        "摩擦角": "frictional angle"
+    },
+    {
+        "摩擦係數": "frictional coefficient"
+    },
+    {
+        "摩擦力矩": "frictional torque"
+    },
+    {
+        "檢流計；電流計": "galvanometer"
+    },
+    {
+        "最大空餘夾角｛地震定位｝；空白帶｛地震活動｝": "gap"
+    },
+    {
+        "儲氣層": "gas reservoir"
+    },
+    {
+        "氣油比": "gas-oil ratio"
+    },
+    {
+        "高斯（磁力單位）": "Gauss"
+    },
+    {
+        "高斯正向期｛古地磁｝": "Gauss normal epoch"
+    },
+    {
+        "地心": "geocenter"
+    },
+    {
+        "地質年代": "geochron"
+    },
+    {
+        "定年學": "geochronometry"
+    },
+    {
+        "地球動力學": "geodynamics"
+    },
+    {
+        "地電基盤": "geoelectrical basement"
+    },
+    {
+        "地球成因〔論〕": "geogenesis"
+    },
+    {
+        "地球成因學；地因學": "geogeny"
+    },
+    {
+        "地球成因學；地因學": "geogony"
+    },
+    {
+        "地磁異常": "geomagnetic anomaly"
+    },
+    {
+        "地磁軸": "geomagnetic axis"
+    },
+    {
+        "[古]地磁定年學": "geomagnetic chronology"
+    },
+    {
+        "地磁坐標": "geomagnetic coordinate"
+    },
+    {
+        "地磁偶極": "geomagnetic dipole"
+    },
+    {
+        "地磁赤道": "geomagnetic equator"
+    },
+    {
+        "磁緯": "geomagnetic latitude"
+    },
+    {
+        "磁經": "geomagnetic meridian"
+    },
+    {
+        "地磁極": "geomagnetic pole"
+    },
+    {
+        "地磁；地磁學；地磁現象": "geomagnetism"
+    },
+    {
+        "受波器": "geophone"
+    },
+    {
+        "地球物理學": "geophysics"
+    },
+    {
+        "重力位；地球位勢": "geopotential"
+    },
+    {
+        "重力位數": "geopotential number"
+    },
+    {
+        "地學；地球科學": "geosciences"
+    },
+    {
+        "地熱能": "geothermal energy"
+    },
+    {
+        "地熱田": "geothermal field"
+    },
+    {
+        "地温梯度": "geothermal gradient"
+    },
+    {
+        "地温探測器；地熱探針": "geothermal probes"
+    },
+    {
+        "地熱探勘": "geothermal prospecting"
+    },
+    {
+        "地熱井": "geothermal well"
+    },
+    {
+        "地熱學": "geothermics"
+    },
+    {
+        "重力儀": "gravimeter"
+    },
+    {
+        "重力加速度": "gravitational acceleration"
+    },
+    {
+        "重力常數": "gravitational constant"
+    },
+    {
+        "重力分異作用": "gravitational differentiation"
+    },
+    {
+        "重力場；〔萬有〕引力場": "gravitational field"
+    },
+    {
+        "重力位場；重力位勢": "gravitational potential"
+    },
+    {
+        "重力波〔物理〕": "gravitational wave"
+    },
+    {
+        "重力": "gravity"
+    },
+    {
+        "重力異常": "gravity anomaly"
+    },
+    {
+        "重力修正": "gravity correction"
+    },
+    {
+        "重力梯度": "gravity gradient"
+    },
+    {
+        "重力擺": "gravity pendulum"
+    },
+    {
+        "重力勘探；重力探勘": "gravity prospecting"
+    },
+    {
+        "重力波": "gravity wave"
+    },
+    {
+        "地動": "ground motion"
+    },
+    {
+        "群速": "group velocity"
+    },
+    {
+        "半衰期": "half-life"
+    },
+    {
+        "半無限空間": "half-space"
+    },
+    {
+        "[斷層]上盤": "hanging wall"
+    },
+    {
+        "諧和分析；調和分析": "harmonic analysis"
+    },
+    {
+        "諧和函數": "harmonic function"
+    },
+    {
+        "哈斯克爾[矩陣]法": "Haskell's [matrix] method"
+    },
+    {
+        "哈斯克爾模式": "Haskell's model"
+    },
+    {
+        "災害": "hazard"
+    },
+    {
+        "災害評估": "hazard assessment"
+    },
+    {
+        "首波": "head wave"
+    },
+    {
+        "熱量收支": "heat budget"
+    },
+    {
+        "熱容量": "heat capacity"
+    },
+    {
+        "熱導率；熱導係數": "heat conductivity"
+    },
+    {
+        "熱流": "heat flow"
+    },
+    {
+        "熱流誖論；熱流詭論": "heat flow paradox"
+    },
+    {
+        "熱流區": "heat flow province"
+    },
+    {
+        "熱流單位": "heat flow unit (HFU)"
+    },
+    {
+        "產熱率": "heat production rate"
+    },
+    {
+        "熱傳輸": "heat transfer"
+    },
+    {
+        "日震學": "helioseismology"
+    },
+    {
+        "赫格洛茲-維歇特法": "Herglotz-Wiechert method"
+    },
+    {
+        "赫格洛茲-維歇特-貝特曼法": "Herglotz-Wiechert-Bateman method"
+    },
+    {
+        "赫斯-迪茲假說": "Hess-Dietz proposal"
+    },
+    {
+        "非均勻性；異質性": "heterogeneity"
+    },
+    {
+        "高切濾波": "high-cut filter"
+    },
+    {
+        "高通濾波[器]": "high-pass filter"
+    },
+    {
+        "希爾伯特轉換": "Hilbert transform"
+    },
+    {
+        "希爾伯特-黃轉換": "Hilbert-Huang Transform (HHT)"
+    },
+    {
+        "高感度地震網｛日｝": "Hi-Net"
+    },
+    {
+        "全像術": "holography"
+    },
+    {
+        "均質性；均勻性": "homogeneity"
+    },
+    {
+        "均勻介質": "homogeneous medium"
+    },
+    {
+        "虎克定律": "Hooke's law"
+    },
+    {
+        "球面展平": "horizon flattening"
+    },
+    {
+        "水平迴圈電磁法": "horizontal loop electromagnetic method (HLEM)"
+    },
+    {
+        "熱鹵水": "hot brine"
+    },
+    {
+        "熱點": "hot spot"
+    },
+    {
+        "溫泉": "hot spring"
+    },
+    {
+        "熱點": "hotspot"
+    },
+    {
+        "抑噪受波器；減噪受波器": "humbucking geophone"
+    },
+    {
+        "惠更斯原理": "Huygens principle"
+    },
+    {
+        "水力壓裂；液裂": "hydraulic fracturing"
+    },
+    {
+        "碳氫化合物；烴": "hydrocarbon"
+    },
+    {
+        "水壓破裂法": "hydrofracking"
+    },
+    {
+        "水力壓裂；液裂": "hydrofracturing"
+    },
+    {
+        "水文地球物理學": "hydrogeophysics"
+    },
+    {
+        "水中受波器": "hydrophone"
+    },
+    {
+        "水圈": "hydrosphere"
+    },
+    {
+        "[流體]靜力平衡；準靜平衡": "hydrostatic equilibrium"
+    },
+    {
+        "靜水壓力；流體靜壓力": "hydrostatic pressure"
+    },
+    {
+        "流體靜力學": "hydrostatics"
+    },
+    {
+        "熱液通道": "hydrothermal channel"
+    },
+    {
+        "熱液循環": "hydrothermal circulation"
+    },
+    {
+        "熱液對流": "hydrothermal convection"
+    },
+    {
+        "熱液礦床": "hydrothermal deposit"
+    },
+    {
+        "熱液噴發〔火山〕": "hydrothermal eruption"
+    },
+    {
+        "水熱田": "hydrothermal field"
+    },
+    {
+        "熱液礦化": "hydrothermal mineralization"
+    },
+    {
+        "熱液作用": "hydrothermal process"
+    },
+    {
+        "熱液作用": "hydrothermalism"
+    },
+    {
+        "雙曲線移位修正": "hyperbolic moveout"
+    },
+    {
+        "高光譜；高頻譜": "hyperspectrum"
+    },
+    {
+        "震源": "hypocenter"
+    },
+    {
+        "傾角；磁傾角": "inclination"
+    },
+    {
+        "克希何夫累加；克希何夫求和": "Kirchhoff summation"
+    },
+    {
+        "入射角": "incident angle"
+    },
+    {
+        "克希何夫移位": "Kirchhoff migration"
+    },
+    {
+        "現場；現地": "in situ"
+    },
+    {
+        "克希何夫法": "Kirchhoff method"
+    },
+    {
+        "脈衝響應": "impulse response"
+    },
+    {
+        "JB走時表": "Jeffreys-Bullen travel time table （JB table）"
+    },
+    {
+        "克希何夫積分": "Kirchhoff integral"
+    },
+    {
+        "脈衝": "impulse"
+    },
+    {
+        "侏儸紀靜磁帶": "Jurassic Quiet Zone （JQZ）"
+    },
+    {
+        "動摩擦": "kinetic friction"
+    },
+    {
+        "銳啟{地震波相}": "impetus (i)"
+    },
+    {
+        "璜帝富加板塊": "Juan de Fuca Plate"
+    },
+    {
+        "運動學模式": "kinematic model"
+    },
+    {
+        "不透水性": "impermeability"
+    },
+    {
+        "深海鑽探計畫": "Joint Oceanographic Institutions Deep Earth Sampling （JOIDES）"
+    },
+    {
+        "油頁岩": "kerogen shale"
+    },
+    {
+        "島弧": "island arc"
+    },
+    {
+        "逆推問題": "inverse problem"
+    },
+    {
+        "逆推模擬": "inverse modeling"
+    },
+    {
+        "國際地球參考框架": "International Terrestrial Reference Frame (ITRF)"
+    },
+    {
+        "國際地震中心": "International Seismological Centre (ISC)"
+    },
+    {
+        "國際地球物理年": "International Geophysical Year (I.G.Y., 1957-1958)"
+    },
+    {
+        "國際地磁參考場": "International Geomagnetic Reference Field (IGRF)"
+    },
+    {
+        "國際天球參考框架": "International Celetial Reference Frame (ICRF)"
+    },
+    {
+        "阻抗": "impedance"
+    },
+    {
+        "聯合逆推": "joint inversion"
+    },
+    {
+        "油母質": "kerogen"
+    },
+    {
+        "內部磁場": "internal magnetic field"
+    },
+    {
+        "中源地震": "intermediate earthquake"
+    },
+    {
+        "內核{地球構造}": "inner core"
+    },
+    {
+        "滲透電場": "infiltration electrial field"
+    },
+    {
+        "滲透": "infiltration"
+    },
+    {
+        "印澳板塊": "Indo-Australian Plate"
+    },
+    {
+        "κ-ω濾波": "κ-ω filtering"
+    },
+    {
+        "印度洋板塊": "Indian Plate"
+    },
+    {
+        "KTB陸殼深鑽計畫": "KTB borehole project"
+    },
+    {
+        "地震學研究機構聯合會": "Incorporated Research Institutions for Seismology (IRIS)"
+    },
+    {
+        "Kp指數；Kp指標{地磁}": "Kp index"
+    },
+    {
+        "非同調性": "incoherence"
+    },
+    {
+        "柯斯卓夫公式": "Kostrov's formula"
+    },
+    {
+        "磁傾儀": "inclinometer"
+    },
+    {
+        "柯尼許柏格比值{地磁}": "Koenigsberger ratio"
+    },
+    {
+        "影像處理": "image processing"
+    },
+    {
+        "聯合震源定位": "Joint Hypocentral Determination （JHD）"
+    },
+    {
+        "核函數；核心函數": "kernel function"
+    },
+    {
+        "等時線": "isochron"
+    },
+    {
+        "等傾角線": "isocline"
+    },
+    {
+        "等磁傾角線": "isoclinic line"
+    },
+    {
+        "等磁強線": "isodynamic line"
+    },
+    {
+        "等磁力分離器": "isodynamic magnetic separator"
+    },
+    {
+        "等重力線": "isogal"
+    },
+    {
+        "等地溫線": "isogeotherm"
+    },
+    {
+        "等磁力線": "isomagnetic line"
+    },
+    {
+        "等震度線": "isoseismal line"
+    },
+    {
+        "大地均衡[說]｛原稱「地殼均衡說」｝": "isostasy"
+    },
+    {
+        "均衡異常": "isostatic anomaly"
+    },
+    {
+        "均衡補償": "isostatic compensation"
+    },
+    {
+        "均衡修正": "isostatic correction"
+    },
+    {
+        "均衡補償深度": "isostatic depth of compensation"
+    },
+    {
+        "均衡平衡": "isostatic equilibrium"
+    },
+    {
+        "均衡重力異常": "isostatic gravity anomaly"
+    },
+    {
+        "各向同性；均向性": "isotropic"
+    },
+    {
+        "各向同性；均向性": "isotropy"
+    },
+    {
+        "誘發地震": "induced earthquake"
+    },
+    {
+        "激發極化法": "induced polarization  (IP) method"
+    },
+    {
+        "合成孔徑雷達干涉術": "interferometric synthetic aperture radar (InSAR)"
+    },
+    {
+        "日本氣象廳": "Japan Meteorological Agency （JMA）"
+    },
+    {
+        "K指數；K指標{水平磁場擾動指標}": "K index"
+    },
+    {
+        "卡爾曼濾波器": "Kalman filter"
+    },
+    {
+        "核函數；核心函數": "kernel"
+    },
+    {
+        "流體動力學": "hydrodynamics"
+    },
+    {
+        "固有頻率；自然頻率": "natural frequency"
+    },
+    {
+        "自然伽瑪能譜井測": "natural gamma spectral logging"
+    },
+    {
+        "天然氣": "natural gas"
+    },
+    {
+        "天然災害": "natural hazard"
+    },
+    {
+        "固有振盪": "natural oscillation"
+    },
+    {
+        "固有週期": "natural period"
+    },
+    {
+        "自然殘磁": "natural remanent magnetism (NRM)"
+    },
+    {
+        "導航": "navigation"
+    },
+    {
+        "那茲卡板塊 ; 納斯卡板塊": "Nazca Plate"
+    },
+    {
+        "近地表地球物理學": "near-surface geophysics"
+    },
+    {
+        "新期地體構造學": "neotectonics"
+    },
+    {
+        "海王星": "Neptune"
+    },
+    {
+        "中立軸": "neutral axis (N-axis)"
+    },
+    {
+        "中子": "neutron"
+    },
+    {
+        "牛頓流體": "Newtonian fluid"
+    },
+    {
+        "夜輝": "nightglow"
+    },
+    {
+        "節面": "nodal plane"
+    },
+    {
+        "雜訊；噪音": "noise"
+    },
+    {
+        "非線性度": "nonlinearity"
+    },
+    {
+        "非極化電極": "non-polarizing electrode"
+    },
+    {
+        "非火山型地顫": "non-volcanic tremor (NVT)"
+    },
+    {
+        "正斷層": "normal fault"
+    },
+    {
+        "正向[磁]場；正常[磁]場": "normal field"
+    },
+    {
+        "標準重力；正常重力": "normal gravity"
+    },
+    {
+        "正常重力公式；標準重力公式": "normal gravity formula"
+    },
+    {
+        "正常高；法線高": "normal height"
+    },
+    {
+        "正向振態；簡正振態": "normal mode"
+    },
+    {
+        "正向振態疊加；簡正振態疊加": "normal mode summation"
+    },
+    {
+        "正向振態理論；簡正振態理論": "normal mode theory"
+    },
+    {
+        "垂直移位修正": "normal moveout (NMO)"
+    },
+    {
+        "正[向]應力；法向應力": "normal stress"
+    },
+    {
+        "北美板塊": "North American Plate"
+    },
+    {
+        "帶陷濾波": "notch filter"
+    },
+    {
+        "核爆地震學": "nuclear explosion seismology"
+    },
+    {
+        "放射性井測": "nuclear logging"
+    },
+    {
+        "核磁共振井測": "Nuclear Magnetic Resonance (NMR) logging"
+    },
+    {
+        "章動": "nutation"
+    },
+    {
+        "奈奎斯特頻率": "Nyquist frequency"
+    },
+    {
+        "[板塊]仰衝作用；[板塊]上衝作用": "obduction"
+    },
+    {
+        "扁率": "oblateness"
+    },
+    {
+        "斜滑斷層": "oblique fault"
+    },
+    {
+        "觀測地震學": "observational seismology"
+    },
+    {
+        "海洋鑽探計畫": "Ocean Drilling Program (ODP)"
+    },
+    {
+        "海脊；洋脊": "ocean ridge"
+    },
+    {
+        "海潮": "ocean tide"
+    },
+    {
+        "海潮負荷": "ocean tide loading"
+    },
+    {
+        "海底地震儀": "ocean-bottom seismograph (OBS)"
+    },
+    {
+        "海底地震儀": "ocean-bottom seismometer (OBS)"
+    },
+    {
+        "海洋地殼": "oceanic crust"
+    },
+    {
+        "海洋板塊": "oceanic plate"
+    },
+    {
+        "倍頻程、倍頻帶": "octave"
+    },
+    {
+        "偏移；展距{震測}": "offset"
+    },
+    {
+        "油頁岩": "oil shale"
+    },
+    {
+        "大森法則{地震}": "Omori law"
+    },
+    {
+        "光泵磁力儀": "optical pumping magnetometer"
+    },
+    {
+        "發震時間{震源參數}": "origin time"
+    },
+    {
+        "造山帶": "orogen"
+    },
+    {
+        "造山作用": "orogenesis"
+    },
+    {
+        "造山帶": "orogenic belt"
+    },
+    {
+        "造山運動": "orogeny"
+    },
+    {
+        "正高": "orthometric height"
+    },
+    {
+        "露頭": "outcrop"
+    },
+    {
+        "外核{地球構造}; 外地核": "outer core"
+    },
+    {
+        "離群值；離群點": "outlier"
+    },
+    {
+        "上覆岩層": "overburden"
+    },
+    {
+        "奧佛豪瑟磁力儀": "Overhauser magnetometer"
+    },
+    {
+        "逆掩斷層": "overthrust"
+    },
+    {
+        "P波{地震}；縱波；疏密波": "P wave"
+    },
+    {
+        "P*波{地震}": "P* wave"
+    },
+    {
+        "太平洋板塊": "Pacific Plate"
+    },
+    {
+        "古地震": "palaeoearthquake"
+    },
+    {
+        "古地磁學": "palaeomagnetism"
+    },
+    {
+        "古地震學": "palaeoseismology"
+    },
+    {
+        "古地震": "paleoearthquake"
+    },
+    {
+        "古地磁；古地磁學": "paleomagnetism"
+    },
+    {
+        "古地震學": "paleoseismology"
+    },
+    {
+        "古地體構造學": "paleotectonics"
+    },
+    {
+        "盤古大陸": "Pangea"
+    },
+    {
+        "平行處理": "parallel processing"
+    },
+    {
+        "順磁性": "paramagnetism"
+    },
+    {
+        "帕什瓦定理": "Parseval's theorem"
+    },
+    {
+        "部分融熔": "partial melting"
+    },
+    {
+        "被動大陸邊緣": "passive continental margin"
+    },
+    {
+        "被動源": "passive source"
+    },
+    {
+        "路徑效應": "path effect"
+    },
+    {
+        "組合施測{震測}": "pattern shooting"
+    },
+    {
+        "地表加速度峰值": "peak ground acceleration (PGA)"
+    },
+    {
+        "地表速度峰值": "peak ground velocity (PGV)"
+    },
+    {
+        "擺錘式地震儀": "pendulum seismograph"
+    },
+    {
+        "近地點": "perigee "
+    },
+    {
+        "永久磁場{地磁}": "permanent magnetic field"
+    },
+    {
+        "永久潮": "permanent tide"
+    },
+    {
+        "滲透率；導磁率": "permeability"
+    },
+    {
+        "電容率；介電常數": "permittivity"
+    },
+    {
+        "擾動": "perturbation"
+    },
+    {
+        "彼得森噪訊曲線": "Peterson noise curves"
+    },
+    {
+        "原油；石油": "petroleum"
+    },
+    {
+        "石油探勘工程": "petroleum exploration engineering"
+    },
+    {
+        "石油地質學": "petroleum geology"
+    },
+    {
+        "石油系統": "petroleum system"
+    },
+    {
+        "相位": "phase"
+    },
+    {
+        "相位延遲": "phase delay"
+    },
+    {
+        "相位逆推；相位反演": "phase inversion"
+    },
+    {
+        "相位偏移": "phase shift"
+    },
+    {
+        "相位譜": "phase spectrum"
+    },
+    {
+        "相變": "phase transition"
+    },
+    {
+        "相速度": "phase velocity"
+    },
+    {
+        "菲律賓海板塊": "Philippine Sea Plate"
+    },
+    {
+        "光彈性": "photoelasticity"
+    },
+    {
+        "光彈實驗": "photoelasticity experiment"
+    },
+    {
+        "光電性": "photoelectricity"
+    },
+    {
+        "攝影測量學": "photogrammetry"
+    },
+    {
+        "物理大地測量學": "physical geodesy"
+    },
+    {
+        "壓電模數": "piezoelectric modulus"
+    },
+    {
+        "壓電性": "piezoelectricity"
+    },
+    {
+        "壓力計": "piezometer"
+    },
+    {
+        "尖滅": "pinch out"
+    },
+    {
+        "平面波": "plane wave"
+    },
+    {
+        "行星": "planetary"
+    },
+    {
+        "行星地震學": "planetary seismology"
+    },
+    {
+        "塑性變形": "plastic deformation "
+    },
+    {
+        "板塊邊界": "plate boundary"
+    },
+    {
+        "板塊邊緣": "plate margin"
+    },
+    {
+        "板塊運動": "plate motion"
+    },
+    {
+        "板塊構造學": "plate tectonics"
+    },
+    {
+        "鉛垂線": "plumb line"
+    },
+    {
+        "熱柱": "plume"
+    },
+    {
+        "Pn波": "Pn wave"
+    },
+    {
+        "點源": "point source"
+    },
+    {
+        "帕松比": "Poisson's ratio"
+    },
+    {
+        "帕松關係{重磁}": "Poisson's relation"
+    },
+    {
+        "極移": "polar motion"
+    },
+    {
+        "磁極漂移 ": "polar wander"
+    },
+    {
+        "偏極化；極化": "polarization"
+    },
+    {
+        "偏振波": "polarized wave"
+    },
+    {
+        "極-偶極陣列{地電}": "pole-dipole array"
+    },
+    {
+        "極型振盪": "poloidal oscillation "
+    },
+    {
+        "孔隙[流體]壓力": "pore [fluid] pressure"
+    },
+    {
+        "孔彈性": "poroelastic"
+    },
+    {
+        "孔隙率": "porosity"
+    },
+    {
+        "多孔介質; 孔隙介質": "porous medium"
+    },
+    {
+        "冰期後回彈": "post-glacial rebound (PGR)"
+    },
+    {
+        "震後的": "post-seismic"
+    },
+    {
+        "震後的": "postseismic "
+    },
+    {
+        "震後變形": "postseismic deformation"
+    },
+    {
+        "重合後；疊後": "poststack"
+    },
+    {
+        "電位電極": "potential electrode"
+    },
+    {
+        "功率頻譜；能量譜": "power spectrum"
+    },
+    {
+        "普蘭德數": "Prandtl number"
+    },
+    {
+        "普拉特假說{大地均衡}": "Pratt's hypothesis {isostasy}"
+    },
+    {
+        "進動；攝動": "precession "
+    },
+    {
+        "前兆": "precursor"
+    },
+    {
+        "顯著週期{地震}": "predominant period"
+    },
+    {
+        "優勢流徑{地下水}": "preferential path"
+    },
+    {
+        "初始[體]波": "preliminary [body] wave"
+    },
+    {
+        "地震定位初報{地震目錄}[美國地質調查所]初步地震定位目錄": "Preliminary Determination of Epicenter (PDE)"
+    },
+    {
+        "初步參考地球模型": "Preliminary Reference Earth Model (PREM)"
+    },
+    {
+        "震前的": "preseismic"
+    },
+    {
+        "震前的": "pre-seismic"
+    },
+    {
+        "壓力軸": "pressure axis (P-axis)"
+    },
+    {
+        "壓力計": "pressure gauge"
+    },
+    {
+        "壓力波": "pressure wave"
+    },
+    {
+        "溫壓曲線": "pressure-temperature path (P-T path)"
+    },
+    {
+        "溫壓時曲線": "pressure-temperature-time path (P-T-t path)"
+    },
+    {
+        "重合前；疊前": "prestack"
+    },
+    {
+        "預白噪化": "pre-whitening"
+    },
+    {
+        "初反射": "primary reflection"
+    },
+    {
+        "初達波；初波；P波": "Primary wave (P wave) "
+    },
+    {
+        "主軸": "principal axis"
+    },
+    {
+        "主分量分析": "principal component analysis (PCA)"
+    },
+    {
+        "主應變": "principal strain"
+    },
+    {
+        "主應力": "principal stress"
+    },
+    {
+        "疊加原理": "principle of superposition"
+    },
+    {
+        "機率式地震危害度分析": "probabilistic seismic hazard analysis (PSHA)"
+    },
+    {
+        "剖面": "profile"
+    },
+    {
+        "剖面探測": "profiling"
+    },
+    {
+        "正向": "prograde"
+    },
+    {
+        "[美國海軍]全球空中磁測計畫": "Project Magnet"
+    },
+    {
+        "行進波": "propagating wave"
+    },
+    {
+        "傳播矩陣": "propagator matrix"
+    },
+    {
+        "測勘；探勘": "prospecting"
+    },
+    {
+        "願景資源量": "prospective resource"
+    },
+    {
+        "質子進動磁力儀": "proton precession magnetometer"
+    },
+    {
+        "探明儲量": "proven reserve"
+    },
+    {
+        "虛擬重力異常": "pseudogravimetric anomaly"
+    },
+    {
+        "虛擬重力": "pseudo-gravity"
+    },
+    {
+        "虛擬距離": "pseudorange"
+    },
+    {
+        "虛擬頻譜": "pseudospectrum"
+    },
+    {
+        "縱橫波轉換": "P-to-S conversion"
+    },
+    {
+        "Q值{地震}": "Q value"
+    },
+    {
+        "Q 波；洛夫波": "Q wave  "
+    },
+    {
+        "衰減因子{地震}": "quality factor"
+    },
+    {
+        "定量地震學": "quantitative seismology"
+    },
+    {
+        "第四纪": "Quaternary"
+    },
+    {
+        "寧靜日變化": "quiet daily variation "
+    },
+    {
+        "寧靜日{地磁}": "quiet day"
+    },
+    {
+        "靜日[地磁場]變化": "quiet day [geomagnetic] variations"
+    }
+]

@@ -1,0 +1,3185 @@
+[
+    {
+        "非生物帶": "abiotic"
+    },
+    {
+        "剝蝕": "ablation"
+    },
+    {
+        "磨蝕": "abrasion"
+    },
+    {
+        "猝發波": "abrupt wave"
+    },
+    {
+        "絕對溼度": "absolute humidity"
+    },
+    {
+        "絕對黏滯度": "absolute viscosity"
+    },
+    {
+        "吸收帶": "absorption band"
+    },
+    {
+        "吸收損失；入滲損失": "absorption loss"
+    },
+    {
+        "抽汲": "abstraction"
+    },
+    {
+        "鑄管井": "abyssinian well"
+    },
+    {
+        "加速流": "accelerated flow"
+    },
+    {
+        "涵容能力": "acceptance capacity"
+    },
+    {
+        "地下水補注": "accretion"
+    },
+    {
+        "累積；堆積": "accumulation"
+    },
+    {
+        "累積降水量計": "accumulative precipitation gauge"
+    },
+    {
+        "正確度": "accuracy"
+    },
+    {
+        "酸雨": "acid rain"
+    },
+    {
+        "水的酸度": "acidity of water"
+    },
+    {
+        "酸化": "acidizing"
+    },
+    {
+        "有效流域面積": "active basin area"
+    },
+    {
+        "主動感測系統": "active sensing system"
+    },
+    {
+        "土壤實際密度": "actual density of soil"
+    },
+    {
+        "實際蒸發量": "actual evaporation"
+    },
+    {
+        "實際蒸發散量": "actual evapotranspiration"
+    },
+    {
+        "吸附水": "adhesive water"
+    },
+    {
+        "最大容許濃度；容許濃度限值": "admissible concentration limit"
+    },
+    {
+        "溼潤鋒": "advancing front"
+    },
+    {
+        "平流": "advection"
+    },
+    {
+        "曝氣": "aeration"
+    },
+    {
+        "好氧狀態": "aerobic condition"
+    },
+    {
+        "支流": "affluent"
+    },
+    {
+        "壅水": "afflux"
+    },
+    {
+        "淤積": "aggradation"
+    },
+    {
+        "溶蝕水": "aggressive water"
+    },
+    {
+        "空氣溼度": "air humidity"
+    },
+    {
+        "空氣水分": "air moisture"
+    },
+    {
+        "臨界毛細管水頭": "air-entry value"
+    },
+    {
+        "測繩水上部分偏移校正": "air-line correction"
+    },
+    {
+        "警戒水位": "alarm level"
+    },
+    {
+        "反照率；反射率": "albedo"
+    },
+    {
+        "藻華": "algal bloom"
+    },
+    {
+        "鹼性水": "alkaline water"
+    },
+    {
+        "鹼度": "alkalinity of water"
+    },
+    {
+        "沖積": "alluvial"
+    },
+    {
+        "沖積河槽": "alluvial channel"
+    },
+    {
+        "沖積層": "alluvial deposit"
+    },
+    {
+        "沖積扇": "alluvial fan"
+    },
+    {
+        "沖積平原": "alluvial plain"
+    },
+    {
+        "沖積層": "alluvium"
+    },
+    {
+        "高程；海拔": "altitude"
+    },
+    {
+        "厭氧狀態": "anaerobic condition"
+    },
+    {
+        "類比": "analogue"
+    },
+    {
+        "類比模式": "analogue model, analog model (A)"
+    },
+    {
+        "分析水文學": "analytical hydrology"
+    },
+    {
+        "底冰": "anchor ice"
+    },
+    {
+        "風速計": "anemometer"
+    },
+    {
+        "角度校正": "angularity correction"
+    },
+    {
+        "年超越值序列": "annual exceedence series"
+    },
+    {
+        "年洪水": "annual flood"
+    },
+    {
+        "年流量": "annual flow"
+    },
+    {
+        "年最大值序列": "annual maximum series"
+    },
+    {
+        "年最小值序列": "annual minimum series"
+    },
+    {
+        "年逕流量": "annual runoff"
+    },
+    {
+        "年序列": "annual series"
+    },
+    {
+        "年蓄水量": "annual storage"
+    },
+    {
+        "年蓄水容量": "annual storage capacity"
+    },
+    {
+        "無氧的": "anoxic"
+    },
+    {
+        "臨前降水指數": "antecedent precipitation index"
+    },
+    {
+        "臨前土壤水分": "antecedent soil moisture"
+    },
+    {
+        "對風沙丘；逆丘": "antidunes"
+    },
+    {
+        "視流速": "apparent velocity"
+    },
+    {
+        "應用水文學": "applied hydrology"
+    },
+    {
+        "行近河段": "approach channel"
+    },
+    {
+        "微水層": "aquiclude"
+    },
+    {
+        "含水層": "aquifer"
+    },
+    {
+        "含水層試驗": "aquifer test"
+    },
+    {
+        "絕水層": "aquifuge"
+    },
+    {
+        "滯水層；阻水層": "aquitard"
+    },
+    {
+        "影響範圍": "area of influence"
+    },
+    {
+        "面積-高程曲線": "area-elevation curve"
+    },
+    {
+        "面降水量": "areal precipitation"
+    },
+    {
+        "面[雨量]折減係數": "areal reduction factor (of rainfall)"
+    },
+    {
+        "無流區": "arheic"
+    },
+    {
+        "乾旱地區": "arid zone"
+    },
+    {
+        "乾旱區水文學": "arid-zone hydrology"
+    },
+    {
+        "乾旱度": "aridity"
+    },
+    {
+        "算術平均": "arithmetic mean"
+    },
+    {
+        "護甲": "armouring; armoring (A)"
+    },
+    {
+        "自流含水層": "artesian aquifer"
+    },
+    {
+        "自流泉盆地；自流井盆地": "artesian basin"
+    },
+    {
+        "自流泉水頭": "artesian head"
+    },
+    {
+        "自流泉": "artesian spring"
+    },
+    {
+        "自流井": "artesian well"
+    },
+    {
+        "人工降水；人造雨": "artificial precipitation"
+    },
+    {
+        "人工補注": "artificial recharge"
+    },
+    {
+        "人工補注": "artificial replenishment"
+    },
+    {
+        "方位": "aspect"
+    },
+    {
+        "蒸發儀": "atmometer"
+    },
+    {
+        "大氣溼度": "atmospheric humidity"
+    },
+    {
+        "吸附地下水": "attached groundwater"
+    },
+    {
+        "氾濫冰層": "aufeis"
+    },
+    {
+        "螺旋鑽取樣器": "auger sampler"
+    },
+    {
+        "自相關": "autocorrelation"
+    },
+    {
+        "自相關係數": "autocorrelation coefficient"
+    },
+    {
+        "自動測站": "automatic station"
+    },
+    {
+        "自迴歸過程": "autoregressive process"
+    },
+    {
+        "自迴歸序列": "autoregressive series"
+    },
+    {
+        "有效水頭": "available head"
+    },
+    {
+        "有效土壤含水量": "available soil moisture"
+    },
+    {
+        "有效庫容": "available storage capacity"
+    },
+    {
+        " 雪崩": "avalanche"
+    },
+    {
+        "平均": "average"
+    },
+    {
+        "平均間隙流速": "average interstitial velocity"
+    },
+    {
+        "平均流速": "average velocity"
+    },
+    {
+        "平均年": "average year"
+    },
+    {
+        "冲決改道": "avulsion"
+    },
+    {
+        "軸對稱流": "axisymmetric flow"
+    },
+    {
+        "反[向]沖洗": "backblowing"
+    },
+    {
+        "反[向]沖洗": "backwashing"
+    },
+    {
+        "迴水曲線": "backwater curve"
+    },
+    {
+        "檔板": "baffle"
+    },
+    {
+        "調節池": "balancing reservoir"
+    },
+    {
+        "河岸": "bank (left, right)"
+    },
+    {
+        "河岸蓄水量": "bank storage"
+    },
+    {
+        "滿岸流量": "bankfull discharge"
+    },
+    {
+        "平岸水位": "bankfull stage"
+    },
+    {
+        "丁壩": "bankhead"
+    },
+    {
+        "沙灘": "bar"
+    },
+    {
+        "堰；壩": "barrage"
+    },
+    {
+        "障礙": "barrier"
+    },
+    {
+        "基流": "base flow"
+    },
+    {
+        "侵蝕基準面": "base level of erosion"
+    },
+    {
+        "基逕流量": "base runoff"
+    },
+    {
+        "基本測站": "base station"
+    },
+    {
+        "基期": "base-width (of a flood hydrograph)"
+    },
+    {
+        "流域": "basin"
+    },
+    {
+        "流域反應": "basin response"
+    },
+    {
+        "海灘": "beach"
+    },
+    {
+        "[波]束角": "beam angle"
+    },
+    {
+        "[波]束寬": "beam width"
+    },
+    {
+        "蒲福氏風級": "Beaufort scale"
+    },
+    {
+        "推移載；河床載": "bed load"
+    },
+    {
+        "河床質": "bed material"
+    },
+    {
+        "河床縱剖面": "bed profile"
+    },
+    {
+        "推移質": "bed sediment"
+    },
+    {
+        "推移載輸砂量": "bed-load discharge"
+    },
+    {
+        "推移載採樣器": "bed-load trap"
+    },
+    {
+        "河床質載": "bed-material load"
+    },
+    {
+        "漲落帶": "belt of fluctuation"
+    },
+    {
+        "水準點": "bench-mark"
+    },
+    {
+        "基準水文站": "bench-mark station"
+    },
+    {
+        "河彎": "bend"
+    },
+    {
+        "底棲生物": "benthon"
+    },
+    {
+        "底棲生物": "benthos"
+    },
+    {
+        "河道分叉": "bifurcation"
+    },
+    {
+        "河道分叉率": "bifurcation ratio"
+    },
+    {
+        "生物檢測": "bio-assay"
+    },
+    {
+        "生化需氧量": "biochemical oxygen demand (BOD)"
+    },
+    {
+        "生物量": "biomass"
+    },
+    {
+        "閉塞排水區": "blind drainage"
+    },
+    {
+        "生化需氧量": "BOD"
+    },
+    {
+        "泥炭沼澤": "bog"
+    },
+    {
+        "泉湧": "boil"
+    },
+    {
+        "岸冰": "border ice"
+    },
+    {
+        "邊界泉": "border spring"
+    },
+    {
+        "鑽井": "bored well"
+    },
+    {
+        "底流": "bottom current"
+    },
+    {
+        "底冰": "bottom ice"
+    },
+    {
+        "洪水平原": "bottom land"
+    },
+    {
+        "邊界條件": "boundary conditions"
+    },
+    {
+        "飽和邊界": "boundary of saturation"
+    },
+    {
+        "布辛內斯克近似法": "Boussinesq's approximation"
+    },
+    {
+        "包文比": "Bowen ratio"
+    },
+    {
+        "半鹹水": "brackish water"
+    },
+    {
+        "辮狀河道": "braided channel"
+    },
+    {
+        "辮狀河川": "braided river"
+    },
+    {
+        "辮狀河川": "braided stream"
+    },
+    {
+        "貫穿曲線": "breakthrough curve"
+    },
+    {
+        "亮度": "brightness"
+    },
+    {
+        "滷水": "brine"
+    },
+    {
+        "寬頂堰": "broad-crested weir"
+    },
+    {
+        "小溪": "brook"
+    },
+    {
+        "氣泡水位計": "bubble gauge; bubble gage (A)"
+    },
+    {
+        "臨界毛管水頭": "bubbling pressure head"
+    },
+    {
+        "土壤容積密度": "bulk density of soil"
+    },
+    {
+        "堤岸": "bund"
+    },
+    {
+        "浮力": "buoyancy"
+    },
+    {
+        "地下河床": "buried streambed"
+    },
+    {
+        "疏洪道": "bypass channel"
+    },
+    {
+        "索道": "cableway"
+    },
+    {
+        "率定": "calibration"
+    },
+    {
+        "率定池": "calibration tank"
+    },
+    {
+        "冰裂[作用]": "calving"
+    },
+    {
+        "渠道": "canal"
+    },
+    {
+        "峽谷": "canyon"
+    },
+    {
+        "容量": "capacity"
+    },
+    {
+        "毛細管現象": "capillarity"
+    },
+    {
+        "毛細管作用": "capillary action"
+    },
+    {
+        "毛細管傳導度": "capillary conductivity"
+    },
+    {
+        "毛管水擴散": "capillary diffusion (of water)"
+    },
+    {
+        "毛細管邊緣": "capillary fringe"
+    },
+    {
+        "毛管水遲滯效應": "capillary hysteresis"
+    },
+    {
+        "毛細管間隙": "capillary interstice"
+    },
+    {
+        "毛管水移動": "capillary migration"
+    },
+    {
+        "毛細管孔隙": "capillary pore"
+    },
+    {
+        "毛管水勢能": "capillary potential"
+    },
+    {
+        "毛管水壓力": "capillary pressure"
+    },
+    {
+        "毛管水上升": "capillary rise"
+    },
+    {
+        "毛細管吸附力": "capillary suction"
+    },
+    {
+        "毛管水": "capillary water"
+    },
+    {
+        "毛細管模型": "capillary-tube model"
+    },
+    {
+        "[河流]襲奪": "capture"
+    },
+    {
+        "碳酸鹽硬度": "carbonate hardness"
+    },
+    {
+        "年際調節蓄水": "carryover storage"
+    },
+    {
+        "瀑布；跌水": "cascade"
+    },
+    {
+        "分解代謝": "catabolism"
+    },
+    {
+        "大瀑布": "cataract"
+    },
+    {
+        "集水區": "catchment"
+    },
+    {
+        "集水區；集水面積": "catchment area"
+    },
+    {
+        "集水區反應": "catchment response"
+    },
+    {
+        "泉水導出": "catchwork"
+    },
+    {
+        "波速": "celerity"
+    },
+    {
+        "渠道": "channel"
+    },
+    {
+        "渠道滯洪量": "channel detention"
+    },
+    {
+        "渠流": "channel flow"
+    },
+    {
+        "河流頻率；河道密度": "channel frequency"
+    },
+    {
+        "河川網路": "channel network"
+    },
+    {
+        "河道降水": "channel precipitation"
+    },
+    {
+        "河道沖刷": "channel scour"
+    },
+    {
+        "河道蓄水量": "channel storage"
+    },
+    {
+        "化學測流量法": "chemical gauging"
+    },
+    {
+        "化學需氧量(COD)": "chemical oxygen demand (COD)"
+    },
+    {
+        "自由溢流堰": "clear overflow weir"
+    },
+    {
+        "氣候": "climate"
+    },
+    {
+        "氣候變遷": "climatic change"
+    },
+    {
+        "氣候區": "climatic region"
+    },
+    {
+        "氣候年": "climatic year"
+    },
+    {
+        "氣象站": "climatological station"
+    },
+    {
+        "水文專用氣象站": "climatological station for hydrological purposes"
+    },
+    {
+        "堵塞": "clogging"
+    },
+    {
+        "封閉湖泊": "closed lake"
+    },
+    {
+        "種雲": "cloud seeding"
+    },
+    {
+        "雲頂溫度": "cloud top temperature"
+    },
+    {
+        "暴雨": "cloudburst"
+    },
+    {
+        "凝結；膠凝": "coagulation"
+    },
+    {
+        "沿海河流": "coastal river"
+    },
+    {
+        "沿海河流": "coastal stream"
+    },
+    {
+        "壓縮係數": "coefficient of compressibility (of water)"
+    },
+    {
+        "壓密係數；固結係數": "coefficient of consolidation"
+    },
+    {
+        "決定係數": "coefficient of determination"
+    },
+    {
+        "地下水出流係數": "coefficient of groundwater discharge"
+    },
+    {
+        "水力傳導係數": "coefficient of hydraulic conductivity"
+    },
+    {
+        "內滲透性係數": "coefficient of intrinsic permeability"
+    },
+    {
+        "糙度係數": "coefficient of roughness"
+    },
+    {
+        "皺度係數": "coefficient of rugosity"
+    },
+    {
+        "導水係數": "coefficient of transmissivity"
+    },
+    {
+        "變異係數": "coefficient of variation"
+    },
+    {
+        "大腸桿菌數": "coliform count"
+    },
+    {
+        "輻流井": "collector well"
+    },
+    {
+        "膠體懸浮": "colloidal suspension"
+    },
+    {
+        "彩色合成": "colour composite; color composite (A)"
+    },
+    {
+        "調節水庫 ;調節池": "compensating reservoir"
+    },
+    {
+        "完全控制": "complete control"
+    },
+    {
+        "完全凍結": "complete freeze-up"
+    },
+    {
+        "組合單位歷線": "composite unit hydrograph"
+    },
+    {
+        "組合水樣": "composite water sample"
+    },
+    {
+        "複式斷面": "compound cross section"
+    },
+    {
+        "複合歷線": "compound hydrograph"
+    },
+    {
+        "複式堰": "compound weir"
+    },
+    {
+        "概念水文模型": "conceptual hydrological model"
+    },
+    {
+        "凝聚；凝結": "condensation"
+    },
+    {
+        "條件機率": "conditional probability"
+    },
+    {
+        "洩降圓錐面": "cone of depression"
+    },
+    {
+        "可信區間": "confidence band"
+    },
+    {
+        "信賴帶": "confidence belt"
+    },
+    {
+        "可信區間": "confidence interval"
+    },
+    {
+        "信賴水準": "confidence level"
+    },
+    {
+        "信賴界限": "confidence limits"
+    },
+    {
+        "受壓含水層": "confined aquifer"
+    },
+    {
+        "侷限層": "confining bed"
+    },
+    {
+        "拘限層": "confining layer"
+    },
+    {
+        "拘限層": "confining stratum"
+    },
+    {
+        "合流點；滙流": "confluence"
+    },
+    {
+        "共軛影像": "conjugate image"
+    },
+    {
+        "聯合運用": "conjunctive use"
+    },
+    {
+        "原生水；同生水": "connate water"
+    },
+    {
+        "守恆性汙染物": "conservative pollutants"
+    },
+    {
+        "固結作用": "consolidation"
+    },
+    {
+        "定速溶液法測流": "constant-rate dilution gauging"
+    },
+    {
+        "作物需水量": "consumptive use"
+    },
+    {
+        "接觸角": "contact angle"
+    },
+    {
+        "接觸泉": "contact spring"
+    },
+    {
+        "汙染": "contamination"
+    },
+    {
+        "陸地水文學": "continental hydrology"
+    },
+    {
+        "連續方程": "continuity equation"
+    },
+    {
+        "連續河流": "continuous stream"
+    },
+    {
+        "等高線；等值線": "contour (-line)"
+    },
+    {
+        "束口堰": "contracted weir"
+    },
+    {
+        "收縮係數": "contraction coefficient"
+    },
+    {
+        "控制": "control"
+    },
+    {
+        "控制斷面": "control section"
+    },
+    {
+        "控制井": "control well"
+    },
+    {
+        "對流降水": "convective precipitation"
+    },
+    {
+        "輸水能力": "conveyance"
+    },
+    {
+        "校正": "correction"
+    },
+    {
+        "相關": "correlation"
+    },
+    {
+        "相關係數": "correlation coefficient"
+    },
+    {
+        "相關圖": "correlogram"
+    },
+    {
+        "乾河谷": "coulee"
+    },
+    {
+        "共變異數": "covariance"
+    },
+    {
+        "溪流": "creek"
+    },
+    {
+        "頂，峰": "crest"
+    },
+    {
+        "最高水位尺": "crest gauge"
+    },
+    {
+        "最高水位尺": "crest gage"
+    },
+    {
+        "冰川裂隙": "crevasse"
+    },
+    {
+        "冰川裂隙": "crevass"
+    },
+    {
+        "臨界毛管水頭": "critical capillary head"
+    },
+    {
+        "臨界水深": "critical depth"
+    },
+    {
+        "臨界流量": "critical discharge"
+    },
+    {
+        "臨界流": "critical flow"
+    },
+    {
+        "臨界梯度": "critical gradient"
+    },
+    {
+        "臨界拖曳力": "critical tractive force"
+    },
+    {
+        "臨界流速": "critical velocity"
+    },
+    {
+        "橫斷面｛河流｝": "cross section (of a stream)"
+    },
+    {
+        "互相關": "cross-correlation"
+    },
+    {
+        "淺灘": "crossover"
+    },
+    {
+        "冰雪學": "cryology"
+    },
+    {
+        "冰雪圈": "cryosphere"
+    },
+    {
+        "涵洞": "culvert"
+    },
+    {
+        "累積雨量計": "cumulative precipitation gage"
+    },
+    {
+        "旋杯式流速儀": "cup-type current meter"
+    },
+    {
+        "流速儀": "current meter"
+    },
+    {
+        "截彎取直": "cut-off"
+    },
+    {
+        "截水牆": "cutoff"
+    },
+    {
+        "氣旋降水": "cyclonic precipitation"
+    },
+    {
+        "日蓄水量": "daily storage"
+    },
+    {
+        "壩": "dam"
+    },
+    {
+        "達西｛單位｝": "Darcy"
+    },
+    {
+        "達西係數": "Darcy coefficient"
+    },
+    {
+        "達西公式": "Darcy's formula"
+    },
+    {
+        "達西定律": "Darcy's law"
+    },
+    {
+        "資料存檔": "data archiving"
+    },
+    {
+        "資料庫": "data bank"
+    },
+    {
+        "資料庫": "data base"
+    },
+    {
+        "資料收集平台": "data collection platform (DCP)"
+    },
+    {
+        "資料收集系統": "data collection system"
+    },
+    {
+        "資料處理": "data processing"
+    },
+    {
+        "基準面": "datum level"
+    },
+    {
+        "呆庫容": "dead storage"
+    },
+    {
+        "死水": "dead water"
+    },
+    {
+        "岩屑； 漂流物": "debris"
+    },
+    {
+        "岩屑錐": "debris cone"
+    },
+    {
+        "衰減": "decay"
+    },
+    {
+        "衰減率": "decay rate"
+    },
+    {
+        "深層滲漏": "deep percolation"
+    },
+    {
+        "深層滲流": "deep seepage"
+    },
+    {
+        "沖刷": "degradation"
+    },
+    {
+        "度-日": "degree-day"
+    },
+    {
+        "三角洲": "delta"
+    },
+    {
+        "年輪水文學": "dendrohydrology"
+    },
+    {
+        "密度": "density"
+    },
+    {
+        "密度流；異重流": "density current"
+    },
+    {
+        "剝蝕": "denudation"
+    },
+    {
+        "耗竭": "depletion"
+    },
+    {
+        "耗竭曲線": "depletion curve"
+    },
+    {
+        "耗竭率": "depletion rate"
+    },
+    {
+        "窪地泉": "depression spring"
+    },
+    {
+        "窪蓄": "depression storage"
+    },
+    {
+        "(總)逕流深度": "depth (total) of runoff"
+    },
+    {
+        "水深-面積曲線": "depth-area curve"
+    },
+    {
+        "水深-面積-延時分析": "depth-area-duration analysis"
+    },
+    {
+        "水深-延時曲線": "depth-duration curve"
+    },
+    {
+        "積深式泥沙取樣": "depth-integration sediment sampling"
+    },
+    {
+        "水深-流速積分法": "depth-velocity integration method"
+    },
+    {
+        "海水淡化": "desalination"
+    },
+    {
+        "脫鹽": "desalting"
+    },
+    {
+        "設計洪水": "design flood"
+    },
+    {
+        "設計暴雨": "design storm"
+    },
+    {
+        "滯洪區": "detention basin"
+    },
+    {
+        "滯洪水庫": "detention reservoir"
+    },
+    {
+        "滯洪量": "detention storage"
+    },
+    {
+        "定率水文學": "deterministic hydrology"
+    },
+    {
+        "定率系統": "deterministic system"
+    },
+    {
+        "沖積扇": "detrital fan"
+    },
+    {
+        "岩屑 ; 漂流物": "detritus"
+    },
+    {
+        "露": "dew"
+    },
+    {
+        "脱水": "dewatering"
+    },
+    {
+        "脱水係數": "dewatering coefficient"
+    },
+    {
+        "露點": "dewpoint"
+    },
+    {
+        "擴散": "diffusion"
+    },
+    {
+        "擴散係數{孔隙介質}": "diffusion coefficient (in porous media)"
+    },
+    {
+        "下滲井": "diffusion well"
+    },
+    {
+        "擴散率{含水層}": "diffusivity (of an aquifer)"
+    },
+    {
+        "堤防": "dike"
+    },
+    {
+        "稀釋測流法": "dilution gauging"
+    },
+    {
+        "稀釋測流法": "dilution gaging"
+    },
+    {
+        "因次分析": "dimensional analysis"
+    },
+    {
+        "無因次變量": "dimensionless variable"
+    },
+    {
+        "探測杖": "dipping rod"
+    },
+    {
+        "直接流量": "direct flow"
+    },
+    {
+        "直接逕流": "direct runoff"
+    },
+    {
+        "定向水力傳導係數": "directional hydraulic conductivity"
+    },
+    {
+        "流量": "discharge"
+    },
+    {
+        "流量係數": "discharge coefficient"
+    },
+    {
+        "流量力線": "discharge hydrograph"
+    },
+    {
+        "延散係數": "dispersion coefficient"
+    },
+    {
+        "延散通量": "dispersive flux"
+    },
+    {
+        "延散度": "dispersivity"
+    },
+    {
+        "廢液處理井": "disposal well"
+    },
+    {
+        "不等比模型": "distorted model"
+    },
+    {
+        "分配歷線": "distribution graph"
+    },
+    {
+        "擾動土樣": "disturbed soil sample"
+    },
+    {
+        "溝渠": "ditch"
+    },
+    {
+        "分水； 引水": "diversion of water"
+    },
+    {
+        "分界線； 分水嶺": "divide"
+    },
+    {
+        "探水": "divining"
+    },
+    {
+        "探測杖": "divining rod"
+    },
+    {
+        "滲穴；石灰阱；陷穴": "doline"
+    },
+    {
+        "雙浮點": "double float"
+    },
+    {
+        "雙累積曲線": "double mass curve"
+    },
+    {
+        "下游": "downstream"
+    },
+    {
+        "探水": "dowsing"
+    },
+    {
+        "探測杖": "dowsing rod"
+    },
+    {
+        "拖曳": "drag"
+    },
+    {
+        "排水溝": "drain"
+    },
+    {
+        "排水": "drainage"
+    },
+    {
+        "流域；排水集水區": "drainage area"
+    },
+    {
+        "流域；排水集水區": "drainage basin"
+    },
+    {
+        "排水係數": "drainage coefficient"
+    },
+    {
+        "排水密度": "drainage density"
+    },
+    {
+        "排水分界線； 排水分水嶺": "drainage divide"
+    },
+    {
+        "內澇": "drainage flood"
+    },
+    {
+        "排水型態": "drainage pattern"
+    },
+    {
+        "取水": "draw-off"
+    },
+    {
+        "取水": "drawoff"
+    },
+    {
+        "洩降": "drawdown"
+    },
+    {
+        "洩降曲線": "drawdown curve"
+    },
+    {
+        "漂流物； 漂沙": "drift"
+    },
+    {
+        "撞擊井": "driven well"
+    },
+    {
+        "驅動水頭": "driving head"
+    },
+    {
+        "毛毛雨": "drizzle"
+    },
+    {
+        "乾旱": "drought"
+    },
+    {
+        "乾旱指數": "drought index"
+    },
+    {
+        "乾旱年": "dry year"
+    },
+    {
+        "砂丘": "dunes"
+    },
+    {
+        "杜布依特近似法": "Dupuit's approximation"
+    },
+    {
+        "延時曲線": "duration curve"
+    },
+    {
+        "動力水文學": "dynamic hydrology"
+    },
+    {
+        "動態壓力": "dynamic pressure"
+    },
+    {
+        "動力黏滯度": "dynamic viscosity"
+    },
+    {
+        "動態水位": "dynamic water level"
+    },
+    {
+        "腐植貧養水": "dystrophic water"
+    },
+    {
+        "地震洪水；海嘯": "earthquake flood"
+    },
+    {
+        "退潮": "ebb"
+    },
+    {
+        "回聲測深儀": "echo sounder"
+    },
+    {
+        "（含水層的）經濟出水量": "economic yield (of aquifer)"
+    },
+    {
+        "生態系統": "ecosystem"
+    },
+    {
+        "渦流": "eddy"
+    },
+    {
+        "渦流相關法{[同]渦流通量法，渦流傳輸法}": "eddy-correlation method"
+    },
+    {
+        "渦流通量法{[同]渦流相關法，渦流傳輸法}": "eddy-flux method"
+    },
+    {
+        "渦流傳輸法{[同]渦流相關法，渦流通量法}": "eddy-transfer method"
+    },
+    {
+        "有效容水量": "effective capacity"
+    },
+    {
+        "實際蒸發量": "effective evaporation"
+    },
+    {
+        "實際蒸發散量": "effective evapotranspiration"
+    },
+    {
+        "有效滲透率": "effective permeability"
+    },
+    {
+        "有效孔隙率": "effective porosity"
+    },
+    {
+        "有效降雨；超滲降雨": "effective rainfall"
+    },
+    {
+        "有效流速；平均孔隙流速": "effective velocity"
+    },
+    {
+        "有效井半徑": "effective well radius"
+    },
+    {
+        "出流": "effluent"
+    },
+    {
+        "出滲": "effluent seepage"
+    },
+    {
+        "出流河": "effluent stream"
+    },
+    {
+        "電流類比模型": "electric analog model"
+    },
+    {
+        "電流類比模型": "electric analogue model"
+    },
+    {
+        "水的導電度": "electrical conductivity of water"
+    },
+    {
+        "電化學測流": "electro-chemical gauging"
+    },
+    {
+        "電滲": "electro-osmosis"
+    },
+    {
+        "電解質": "electrolyte"
+    },
+    {
+        "高程；海拔": "elevation"
+    },
+    {
+        "堤": "embankment"
+    },
+    {
+        "緊急溢洪道": "emergency spillway"
+    },
+    {
+        "洪水經驗公式": "empirical flood formula"
+    },
+    {
+        "內流河": "endorheic"
+    },
+    {
+        "內流湖": "endorheic lake"
+    },
+    {
+        "能量平衡": "energy balance"
+    },
+    {
+        "能量收支": "energy budget"
+    },
+    {
+        "能量梯度": "energy gradient"
+    },
+    {
+        "能量水頭；總水頭": "energy head"
+    },
+    {
+        "能量坡度": "energy slope"
+    },
+    {
+        "工程水文學": "engineering hydrology"
+    },
+    {
+        "富營養化": "enrichment"
+    },
+    {
+        "挾帶": "entrainment"
+    },
+    {
+        "包絡線": "envelope curve"
+    },
+    {
+        "包絡線": "enveloping curve"
+    },
+    {
+        "環境示蹤劑": "environmental tracer"
+    },
+    {
+        "間歇湖": "ephemeral lake"
+    },
+    {
+        "間歇河": "ephemeral stream"
+    },
+    {
+        "變溫上水層": "epilimnion"
+    },
+    {
+        "爾泊效應": "Epper effect"
+    },
+    {
+        "平衡洩降": "equilibrium drawdown"
+    },
+    {
+        "冰川平衡線": "equilibrium line of glacier"
+    },
+    {
+        "等勢線(面)": "equipotential line (or surface)"
+    },
+    {
+        "沖蝕": "erosion"
+    },
+    {
+        "誤差": "error"
+    },
+    {
+        "地下河": "estavel"
+    },
+    {
+        "河口": "estuary"
+    },
+    {
+        "透光層": "euphotic zone"
+    },
+    {
+        "優養化湖泊": "eutrophic lake"
+    },
+    {
+        "優養化": "eutrophication"
+    },
+    {
+        "蒸發": "evaporation"
+    },
+    {
+        "相對蒸發量": "evaporation opportunity"
+    },
+    {
+        "蒸發皿": "evaporation pan"
+    },
+    {
+        "蒸發率": "evaporation rate"
+    },
+    {
+        "潛能蒸發量": "evaporative capacity"
+    },
+    {
+        "蒸發計": "evaporimeter"
+    },
+    {
+        "蒸發散量": "evapotranspiration"
+    },
+    {
+        "蒸發散計": "evapotranspirometer"
+    },
+    {
+        "入海河口": "exorheic"
+    },
+    {
+        "期望值": "expected value"
+    },
+    {
+        "實驗流域": "experimental basin"
+    },
+    {
+        "實驗集水區": "experimental watershed (AU)"
+    },
+    {
+        "溶洞泉 ；喀斯特泉": "exsurgence"
+    },
+    {
+        "極端降雨": "extreme rainfall"
+    },
+    {
+        "極端值分布": "extreme value distribution"
+    },
+    {
+        "極端值序列": "extreme value series"
+    },
+    {
+        "沉降；瀑布": "fall"
+    },
+    {
+        "沉降粒徑": "fall diameter"
+    },
+    {
+        "沉降速度": "fall velocity"
+    },
+    {
+        "落差-水位-流量關係": "fall-stage-discharge relation"
+    },
+    {
+        "退水段": "falling limb"
+    },
+    {
+        "沉降物；落塵": "fallout"
+    },
+    {
+        "假色圖": "false color picture"
+    },
+    {
+        "假色圖": "false colour picture"
+    },
+    {
+        "岸冰；堅冰": "fast ice"
+    },
+    {
+        "測深儀": "fathometer"
+    },
+    {
+        "斷層泉": "fault spring"
+    },
+    {
+        "風浪區": "fetch"
+    },
+    {
+        "場": "field"
+    },
+    {
+        "土壤容水量；田間容水量": "field capacity"
+    },
+    {
+        "濾料層": "filter pack"
+    },
+    {
+        "過濾": "filtration"
+    },
+    {
+        "滲出泉": "filtration spring"
+    },
+    {
+        "細土；細顆粒": "fines"
+    },
+    {
+        "指狀流": "fingering"
+    },
+    {
+        "可靠出水量": "firm yield"
+    },
+    {
+        "永久積雪": "firn (snow)"
+    },
+    {
+        "永久積雪限": "firn-limit"
+    },
+    {
+        "永久積雪線": "firn-line"
+    },
+    {
+        "裂隙泉": "fissure spring"
+    },
+    {
+        "裂隙岩模型": "fissured rock model"
+    },
+    {
+        "五點法": "five-point method"
+    },
+    {
+        "暴洪": "flash flood"
+    },
+    {
+        "湍急河川": "flashy stream"
+    },
+    {
+        "薄壁V形堰": "flat-V weir"
+    },
+    {
+        "浮標": "float"
+    },
+    {
+        "浮式計": "float gage"
+    },
+    {
+        "浮式計": "float gauge"
+    },
+    {
+        "浮式蒸發皿": "floating pan"
+    },
+    {
+        "洪水": "flood"
+    },
+    {
+        "洪水河槽": "flood channel"
+    },
+    {
+        "防洪工程": "flood control"
+    },
+    {
+        "洪峰": "flood crest"
+    },
+    {
+        "洪水預報": "flood forecasting"
+    },
+    {
+        "洪水頻率": "flood frequency"
+    },
+    {
+        "洪水歷線": "flood hydrograph"
+    },
+    {
+        "洪水痕跡": "flood marks"
+    },
+    {
+        "洪水平原": "flood plain"
+    },
+    {
+        "洪水機率": "flood probability"
+    },
+    {
+        "防洪措施": "flood proofing"
+    },
+    {
+        "防洪": "flood protection"
+    },
+    {
+        "洪水演算": "flood routing"
+    },
+    {
+        "洪水警報": "flood warning"
+    },
+    {
+        "洪水波": "flood wave"
+    },
+    {
+        "防洪水庫": "flood-control reservoir"
+    },
+    {
+        "防洪工程": "flood-control works"
+    },
+    {
+        "洪泛區": "flooded area"
+    },
+    {
+        "洪泛": "flooding"
+    },
+    {
+        "防洪牆": "floodwall"
+    },
+    {
+        "疏洪道": "floodway"
+    },
+    {
+        "流線": "flow line"
+    },
+    {
+        "流網": "flow net"
+    },
+    {
+        "流態": "flow pattern"
+    },
+    {
+        "流速": "flow velocity"
+    },
+    {
+        "流量延時曲線": "flow-duration curve"
+    },
+    {
+        "流量計": "flowmeter"
+    },
+    {
+        "測井流量計": "flowmeter logging"
+    },
+    {
+        "流線": "fluid line"
+    },
+    {
+        "流態化": "fluidization"
+    },
+    {
+        "水槽": "flume"
+    },
+    {
+        "沖洗": "flushing"
+    },
+    {
+        "河流動力學": "fluvial dynamics"
+    },
+    {
+        "河相學": "fluvial morphology"
+    },
+    {
+        "焚風": "foehn"
+    },
+    {
+        "集水廊道": "foggara"
+    },
+    {
+        "淺灘": "ford"
+    },
+    {
+        "前池": "forebay"
+    },
+    {
+        "預報": "forecast"
+    },
+    {
+        "預報領先時間": "forecast (warning) lead time"
+    },
+    {
+        "預報更新": "forecast updating"
+    },
+    {
+        "預報校驗 ；預報驗證": "forecast verification"
+    },
+    {
+        "預測誤差": "forecasting error"
+    },
+    {
+        "分支": "fork"
+    },
+    {
+        "化石水": "fossil water"
+    },
+    {
+        "裂隙孔隙率": "fracture porosity"
+    },
+    {
+        "裂隙泉": "fracture spring"
+    },
+    {
+        "懸冰；屑冰": "frazil ice"
+    },
+    {
+        "自由酸度": "free acidity"
+    },
+    {
+        "非受壓含水層；自由含水層": "free aquifer"
+    },
+    {
+        "自由地下水": "free groundwater"
+    },
+    {
+        "自由水舌": "free nappe"
+    },
+    {
+        "最大自由空間範圍方程式": "free space maximum range equation"
+    },
+    {
+        "明渠水流": "free surface flow"
+    },
+    {
+        "雪中自由含水量": "free water content of snow"
+    },
+    {
+        "自由堰；不淹沒堰": "free weir"
+    },
+    {
+        "出水高": "freeboard"
+    },
+    {
+        "封凍": "freeze-up"
+    },
+    {
+        "冰點": "freezing point"
+    },
+    {
+        "頻率分析": "frequency analysis"
+    },
+    {
+        "頻率曲線": "frequency curve"
+    },
+    {
+        "頻率分布": "frequency distribution"
+    },
+    {
+        "淡鹹水交界面": "fresh/salt-water interface"
+    },
+    {
+        "春汛": "freshet"
+    },
+    {
+        "淡水": "freshwater"
+    },
+    {
+        "淡水阻隔體": "freshwater barrier"
+    },
+    {
+        "淡水水頭": "freshwater head"
+    },
+    {
+        "淡水透鏡體": "freshwater lens"
+    },
+    {
+        "摩擦損失": "friction losses"
+    },
+    {
+        "鋒面": "front"
+    },
+    {
+        "鋒面降水": "frontal precipitation"
+    },
+    {
+        "霜": "frost"
+    },
+    {
+        "福祿數": "Froude number"
+    },
+    {
+        "最大自由空間範圍方程式": "FSMR equation"
+    },
+    {
+        "河曲；曲流": "full meander"
+    },
+    {
+        "全穿透井": "fully penetrating well"
+    },
+    {
+        "毛細管水": "funicular water"
+    },
+    {
+        "地下水補給河": "gaining stream"
+    },
+    {
+        "對數常態分布；高爾頓分布": "Galton distribution"
+    },
+    {
+        "水位基點": "gauge datum"
+    },
+    {
+        "水位基點": "gage datum"
+    },
+    {
+        "水位高度": "gauge height"
+    },
+    {
+        "水位高度": "gage height"
+    },
+    {
+        "水位零點": "gauge zero"
+    },
+    {
+        "水位零點": "gage zero"
+    },
+    {
+        "測流斷面": "gauging section"
+    },
+    {
+        "測流斷面": "gaging section"
+    },
+    {
+        "測流站址": "gauging site"
+    },
+    {
+        "測流站址": "gaging site"
+    },
+    {
+        "常態分佈；高斯分布": "Gaussian distribution"
+    },
+    {
+        "地質水文學": "geohydrology"
+    },
+    {
+        "同步衛星": "geostationary satellite"
+    },
+    {
+        "地溫梯度": "geothermal gradient"
+    },
+    {
+        "間歇泉": "geyser"
+    },
+    {
+        "淡水透鏡體": "Ghyben-Herzberg lens"
+    },
+    {
+        "冰川；冰河": "glacier"
+    },
+    {
+        "冰川洪水；冰河洪水": "glacier flood"
+    },
+    {
+        "冰川冰；冰河冰": "glacier ice"
+    },
+    {
+        "冰川學；冰河學": "glaciology"
+    },
+    {
+        "全球環流": "global circulation"
+    },
+    {
+        "全球水平衡": "global water balance"
+    },
+    {
+        "均夷河[流]": "graded stream"
+    },
+    {
+        "雨洪同頻法": "gradex method"
+    },
+    {
+        "級配": "grading"
+    },
+    {
+        "粒徑": "grain size"
+    },
+    {
+        "冰粒": "grains of ice"
+    },
+    {
+        "粒狀冰；粒冰": "granular ice"
+    },
+    {
+        "礫石填料層": "gravel pack"
+    },
+    {
+        "重力水": "gravitational water"
+    },
+    {
+        "重力流": "gravity flow"
+    },
+    {
+        "重力泉": "gravity spring"
+    },
+    {
+        "脂狀冰": "grease ice"
+    },
+    {
+        "丁壩": "groin"
+    },
+    {
+        "總截留損失": "gross interception loss"
+    },
+    {
+        "地面資料": "ground data"
+    },
+    {
+        "底冰": "ground ice"
+    },
+    {
+        "地面軌跡": "ground track"
+    },
+    {
+        "地面真像": "ground truth"
+    },
+    {
+        "地下水": "groundwater"
+    },
+    {
+        "地下水流域": "groundwater basin"
+    },
+    {
+        "地下水壩": "groundwater dam"
+    },
+    {
+        "地下水定年": "groundwater dating"
+    },
+    {
+        "地下水退水曲線": "groundwater depletion curve"
+    },
+    {
+        "地下水分水嶺": "groundwater divide"
+    },
+    {
+        "地下水流": "groundwater flow"
+    },
+    {
+        "地下水水文學": "groundwater hydrology"
+    },
+    {
+        "地下水位": "groundwater level"
+    },
+    {
+        "地下水開採": "groundwater mining"
+    },
+    {
+        "地下水壅高": "groundwater mound"
+    },
+    {
+        "地下水超抽": "groundwater overexploitation"
+    },
+    {
+        "地下水退水": "groundwater recession"
+    },
+    {
+        "地下水補注": "groundwater recharge"
+    },
+    {
+        "地下水庫": "groundwater reservoir"
+    },
+    {
+        "地下水逕流": "groundwater runoff"
+    },
+    {
+        "地下水觀測站": "groundwater station"
+    },
+    {
+        "地下水儲水量": "groundwater storage"
+    },
+    {
+        "地下水水面": "groundwater surface"
+    },
+    {
+        "地下水位": "groundwater table"
+    },
+    {
+        "護岸": "groyne"
+    },
+    {
+        "細谷；沖蝕溝": "gulch"
+    },
+    {
+        "雨溝": "gully"
+    },
+    {
+        "泌溢[現象]": "guttation"
+    },
+    {
+        "邊溝": "gutter"
+    },
+    {
+        "冰雹": "hail"
+    },
+    {
+        "鹽度躍層": "halocline"
+    },
+    {
+        "冰壩": "hanging dam"
+    },
+    {
+        "硬盤層": "hard pan"
+    },
+    {
+        "硬水": "hard water"
+    },
+    {
+        "硬度": "hardness (of water)"
+    },
+    {
+        "水頭": "head"
+    },
+    {
+        "水頭損失": "head loss"
+    },
+    {
+        "引水路": "headrace"
+    },
+    {
+        "水源": "headwaters"
+    },
+    {
+        "熱平衡": "heat balance"
+    },
+    {
+        "熱收支": "heat budget"
+    },
+    {
+        "熱容量": "heat capacity"
+    },
+    {
+        "熱容量法": "heat-capacity method"
+    },
+    {
+        "重水": "heavy water"
+    },
+    {
+        "海爾-蕭類比模型": "Hele-Shaw analogue"
+    },
+    {
+        "海爾-蕭類比模型": "Hele-Shaw analog"
+    },
+    {
+        "海爾-蕭模型": "Hele-Shaw model"
+    },
+    {
+        "高水位；洪水位": "high water"
+    },
+    {
+        "直方圖": "histogram"
+    },
+    {
+        "歷史資料": "historical data"
+    },
+    {
+        "白霜": "hoarfrost"
+    },
+    {
+        "速度圖解法": "hodograph method"
+    },
+    {
+        "同温": "homothermy"
+    },
+    {
+        "鉤形度量尺 {=hook gauge}": "hook gage"
+    },
+    {
+        "鉤形度量尺 {=hook gage}": "hook gauge"
+    },
+    {
+        "溼潤帶": "humid zone"
+    },
+    {
+        "颶風": "hurricane"
+    },
+    {
+        "水力傳導係數": "hydraulic conductivity"
+    },
+    {
+        "水力坡降線": "hydraulic grade line"
+    },
+    {
+        "水力梯度": "hydraulic gradient"
+    },
+    {
+        "水頭；水落差": "hydraulic head"
+    },
+    {
+        "水躍": "hydraulic jump"
+    },
+    {
+        "水力半徑": "hydraulic mean depth"
+    },
+    {
+        "水力半徑": "hydraulic radius"
+    },
+    {
+        "水力半徑模式": "hydraulic radius model"
+    },
+    {
+        "水力阻抗率；水力阻抗性": "hydraulic resistivity"
+    },
+    {
+        "水工構造物": "hydraulic structures"
+    },
+    {
+        "水力學": "hydraulics"
+    },
+    {
+        "水動力延散": "hydrodynamic dispersion"
+    },
+    {
+        "氫離子濃度": "hydrogen-ion concentration"
+    },
+    {
+        "水文地球化學": "hydrogeochemistry"
+    },
+    {
+        "水文地質邊界": "hydrogeological boundary"
+    },
+    {
+        "水文地質學": "hydrogeology"
+    },
+    {
+        "水文歷線": "hydrograph"
+    },
+    {
+        "水系退化": "hydrographical degradation"
+    },
+    {
+        "水系": "hydrographical network"
+    },
+    {
+        "水形學": "hydrography"
+    },
+    {
+        "水文預警": "hydrological advisory"
+    },
+    {
+        "水文循環": "hydrological cycle"
+    },
+    {
+        "水文乾旱": "hydrological drought"
+    },
+    {
+        "水文要素": "hydrological element"
+    },
+    {
+        "水文預報": "hydrological forecast"
+    },
+    {
+        "水文預報；水文預測": "hydrological forecasting"
+    },
+    {
+        "水文站網": "hydrological network"
+    },
+    {
+        "水文觀測": "hydrological observation"
+    },
+    {
+        "水文測站": "hydrological observing station"
+    },
+    {
+        "水文情勢": "hydrological regime"
+    },
+    {
+        "專用水文站": "hydrological station for specific purposes"
+    },
+    {
+        "水文警報": "hydrological warning"
+    },
+    {
+        "水文年": "hydrological year"
+    },
+    {
+        "水文學": "hydrology"
+    },
+    {
+        "水解作用": "hydrolysis"
+    },
+    {
+        "水象；水氣凝結體": "hydrometeor"
+    },
+    {
+        "水文氣象學": "hydrometeorology"
+    },
+    {
+        "水文站網": "hydrometric network"
+    },
+    {
+        "水文測站": "hydrometric station"
+    },
+    {
+        "水文測量學": "hydrometry"
+    },
+    {
+        "水生植物": "hydrophyte"
+    },
+    {
+        "水圈": "hydrosphere"
+    },
+    {
+        "靜水壓力": "hydrostatic pressure"
+    },
+    {
+        "雨量組體圖": "hyetograph"
+    },
+    {
+        "溼度計": "hygrometer"
+    },
+    {
+        "吸溼係數": "hygroscopic coefficient"
+    },
+    {
+        "吸溼水分": "hygroscopic moisture"
+    },
+    {
+        "吸溼水": "hygroscopic water"
+    },
+    {
+        "吸溼性": "hygroscopicity"
+    },
+    {
+        "深水層": "hypolimnion"
+    },
+    {
+        "高程面積分布曲線": "hypsometric curve"
+    },
+    {
+        "遲滯現象": "hysteresis (in stage-discharge relation)"
+    },
+    {
+        "冰": "ice"
+    },
+    {
+        "冰河時期": "ice age"
+    },
+    {
+        "冰裂": "ice break-up"
+    },
+    {
+        "冰冠；冰帽": "ice cap"
+    },
+    {
+        "冰蓋； 覆冰": "ice cover"
+    },
+    {
+        "冰晶": "ice crystals"
+    },
+    {
+        "冰壩": "ice dam"
+    },
+    {
+        "流冰 ；漂冰": "ice drift"
+    },
+    {
+        "冰情預報": "ice forecast"
+    },
+    {
+        "冰壅；冰谷": "ice gorge"
+    },
+    {
+        "冰壅": "ice jam"
+    },
+    {
+        "封凍期": "ice laying"
+    },
+    {
+        "冰珠": "ice pellets"
+    },
+    {
+        "冰礁": "ice reef"
+    },
+    {
+        "冰情階段": "ice regime phase"
+    },
+    {
+        "冰潰": "ice run"
+    },
+    {
+        "冰山": "iceberg"
+    },
+    {
+        "結冰；積冰": "icing"
+    },
+    {
+        "影像": "image"
+    },
+    {
+        "影像強化": "image enhancement"
+    },
+    {
+        "浸潤": "imbibition"
+    },
+    {
+        "不透水": "impermeable"
+    },
+    {
+        "不透水": "impervious"
+    },
+    {
+        "不透水邊界": "impervious boundary"
+    },
+    {
+        "蓄水水體": "impoundment"
+    },
+    {
+        "河槽泄水能力": "inbank capacity"
+    },
+    {
+        "河道內用水": "inchannel use"
+    },
+    {
+        "下切河": "incised river"
+    },
+    {
+        "斜水尺": "inclined gage"
+    },
+    {
+        "確定指數": "index of determination"
+    },
+    {
+        "誘導補注": "induced recharge"
+    },
+    {
+        "入滲": "infiltration"
+    },
+    {
+        "入滲容量": "infiltration capacity"
+    },
+    {
+        "入滲係數": "infiltration coefficient"
+    },
+    {
+        "集水廊道": "infiltration gallery"
+    },
+    {
+        "入滲指數": "infiltration index"
+    },
+    {
+        "入滲演算": "infiltration routing"
+    },
+    {
+        "入滲井": "infiltration well"
+    },
+    {
+        "入滲計": "infiltrometer"
+    },
+    {
+        "入流": "inflow"
+    },
+    {
+        "入滲水": "influent seepage"
+    },
+    {
+        "入滲河川": "influent stream"
+    },
+    {
+        "初始梯度": "initial gradient"
+    },
+    {
+        "初始降雨": "initial rainfall"
+    },
+    {
+        "注入槽": "injection tank"
+    },
+    {
+        "注入井": "injection well"
+    },
+    {
+        "內陸冰原": "inland ice sheet"
+    },
+    {
+        "內陸冰原": "inlandsis"
+    },
+    {
+        "入水口": "inlet"
+    },
+    {
+        "日照量": "insolation"
+    },
+    {
+        "瞬時單位歷線": "instantaneous unit hydrograph"
+    },
+    {
+        "河道內用水": "instream use"
+    },
+    {
+        "隔絕河": "insulated stream"
+    },
+    {
+        "進水口": "intake"
+    },
+    {
+        "[含水層]進水面積": "intake area"
+    },
+    {
+        "積分曲線": "integral curve"
+    },
+    {
+        "脈衝溶液法測流": "integration dilution gauging"
+    },
+    {
+        "積分法": "integration method"
+    },
+    {
+        "強度-延時曲線": "intensity-duration curve"
+    },
+    {
+        "強度-延時-頻率曲線": "intensity-duration-frequency curve"
+    },
+    {
+        "截留": "interception"
+    },
+    {
+        "界面張力": "interfacial tension"
+    },
+    {
+        "中間流": "interflow"
+    },
+    {
+        "顆粒薄膜水": "intergranular water film"
+    },
+    {
+        "土壤水過度帶": "intermediate belt of soil moisture"
+    },
+    {
+        "間歇泉": "intermittent spring"
+    },
+    {
+        "間歇河": "intermittent stream"
+    },
+    {
+        "國際水文十年": "International Hydrological Decade (IHD)"
+    },
+    {
+        "間斷河流": "interrupted stream"
+    },
+    {
+        "孔隙流速": "interstitial velocity"
+    },
+    {
+        "孔隙水": "interstitial water"
+    },
+    {
+        "間熱帶輻合帶": "intertropical convergence zone (ITCZ)"
+    },
+    {
+        "內在滲透率": "intrinsic permeability"
+    },
+    {
+        "發泡；膨脹": "intumescence"
+    },
+    {
+        "淹水": "inundation"
+    },
+    {
+        "反轉": "invert"
+    },
+    {
+        "補注容量": "inverted capacity"
+    },
+    {
+        "灌溉": "irrigation"
+    },
+    {
+        "灌溉需水量": "irrigation requirement"
+    },
+    {
+        "等深線": "isobath"
+    },
+    {
+        "等雪深線": "isochion"
+    },
+    {
+        "等時線圖": "isochrone map"
+    },
+    {
+        "等值圖；等值線": "isogram"
+    },
+    {
+        "等鹽度線": "isohaline"
+    },
+    {
+        "等雨量線": "isohyet"
+    },
+    {
+        "封閉孔隙率；無效孔隙率": "isolated porosity"
+    },
+    {
+        "等雪線": "isonival"
+    },
+    {
+        "等厚線": "isopach"
+    },
+    {
+        "等壓線": "isopiestic line (or surface)"
+    },
+    {
+        "等值線": "isopleth"
+    },
+    {
+        "等雨量線": "isopluvial"
+    },
+    {
+        "等溫線": "isotherm"
+    },
+    {
+        "同位素示蹤劑": "isotopic tracer"
+    },
+    {
+        "等向性": "isotropy"
+    },
+    {
+        "等速線": "isovel"
+    },
+    {
+        "突堤": "jetty"
+    },
+    {
+        "岩縫泉": "joint spring"
+    },
+    {
+        "岩漿水；初生水": "juvenile water"
+    },
+    {
+        "地下暗渠；坎兒井": "kanat"
+    },
+    {
+        "地下暗渠；坎兒井": "karez"
+    },
+    {
+        "喀斯特地形；石灰岩地形": "karst"
+    },
+    {
+        "喀斯特區水文學；石灰岩區水文學": "karst hydrology"
+    },
+    {
+        "岩溶河流": "karstic river"
+    },
+    {
+        "運動黏滯性": "kinematic viscosity"
+    },
+    {
+        "峰度": "kurtosis"
+    },
+    {
+        "N年一遇事件": "N-year event"
+    },
+    {
+        "天底點 ;最低點": "nadir"
+    },
+    {
+        "水舌": "nappe"
+    },
+    {
+        "自然控制": "natural control"
+    },
+    {
+        "天然流量": "natural flow"
+    },
+    {
+        "自然堤": "natural levee"
+    },
+    {
+        "自然調節": "natural regulation"
+    },
+    {
+        "小潮": "neap tide"
+    },
+    {
+        "近紅外線": "near infrared"
+    },
+    {
+        "[冰川]淨平衡": "net balance (of glacier)"
+    },
+    {
+        "[冰川]淨收支": "net budget (of glacier)"
+    },
+    {
+        "淨輻射": "net radiation"
+    },
+    {
+        "淨暴雨量": "net storm rain"
+    },
+    {
+        "中子測井法; 中子井測": "neutron logging"
+    },
+    {
+        "中子散射法": "neutron-scattering method"
+    },
+    {
+        "新雪": "new snow"
+    },
+    {
+        "標稱粒徑": "nominal particle diameter"
+    },
+    {
+        "非碳酸鹽硬度": "non-carbonate hardness"
+    },
+    {
+        "非自由出流": "non-modular flow"
+    },
+    {
+        "非恆流": "non-permanent flow"
+    },
+    {
+        "非定常流": "non-stationary flow"
+    },
+    {
+        "非穩態流": "non-steady flow"
+    },
+    {
+        "非工程性減洪": "non-structural flood mitigation"
+    },
+    {
+        "非均勻流": "non-uniform flow"
+    },
+    {
+        "不潤濕液体": "non-wetting liquid"
+    },
+    {
+        "河道内用水": "non-withdrawal use"
+    },
+    {
+        "常態分布": "normal distribution"
+    },
+    {
+        "水文常態值": "normal hydrological value"
+    },
+    {
+        "常態值": "normals"
+    },
+    {
+        "凝結核；結晶核": "nucleus condensation"
+    },
+    {
+        "凝結核；結晶核": "nucleus crystallization"
+    },
+    {
+        "營養物": "nutrient"
+    },
+    {
+        "觀測井": "observation well"
+    },
+    {
+        "離線": "off-line"
+    },
+    {
+        "陳雪": "old snow"
+    },
+    {
+        "永久雪線": "old snow-line"
+    },
+    {
+        "貧養性腐生的": "oligosaprobic"
+    },
+    {
+        "貧養的": "oligotrophic"
+    },
+    {
+        "貧養湖泊": "oligotrophic lake"
+    },
+    {
+        "線上": "on-line"
+    },
+    {
+        "線上水文預報": "on-line hydrological forecasting"
+    },
+    {
+        "明渠水流": "open channel flow"
+    },
+    {
+        "最佳化設計 ;優化設計": "optimal design"
+    },
+    {
+        "最佳出水量": "optimal yield"
+    },
+    {
+        "地形降水": "orographic precipitation"
+    },
+    {
+        "振盪波": "oscillatory wave"
+    },
+    {
+        "滲透": "osmosis"
+    },
+    {
+        "滲透壓": "osmotic pressure"
+    },
+    {
+        "旱谷；乾溪": "ouedd"
+    },
+    {
+        "出口": "outfall"
+    },
+    {
+        "流出量": "outflow"
+    },
+    {
+        "出水口": "outlet"
+    },
+    {
+        "離群值": "outliers"
+    },
+    {
+        "溢岸河道": "overbank flow channel"
+    },
+    {
+        "超抽水量": "overdraft"
+    },
+    {
+        "過度抽水；退水": "overexploitation"
+    },
+    {
+        "溢洪道": "overfall"
+    },
+    {
+        "溢流": "overflow"
+    },
+    {
+        "溢流泉": "overflow spring"
+    },
+    {
+        "地面逕流": "overland flow"
+    },
+    {
+        "翻轉": "overturn"
+    },
+    {
+        "牛軛湖；弓形湖": "ox-bow"
+    },
+    {
+        "氧化[作用]": "oxidation"
+    },
+    {
+        "蒸發皿係數": "pan coefficient"
+    },
+    {
+        "餅狀冰；荷葉冰": "pancake ice"
+    },
+    {
+        "平行板模型 (=海爾-蕭模型)": "parallel-plate model"
+    },
+    {
+        "參數": "parameter"
+    },
+    {
+        "定率水文學；參數水文學": "parametric hydrology"
+    },
+    {
+        "部分收縮": "partial contraction"
+    },
+    {
+        "部分延時序列": "partial duration series"
+    },
+    {
+        "部分容積": "partial volume"
+    },
+    {
+        "部分透水井": "partially penetrating well"
+    },
+    {
+        "粒徑；粒度": "particle size"
+    },
+    {
+        "被動感應系統": "passive sensing system"
+    },
+    {
+        "徑線；流線": "path line"
+    },
+    {
+        "巴甫洛夫斯基近似法": "Pavlovsky's approximation"
+    },
+    {
+        "洪峰流量": "peak discharge"
+    },
+    {
+        "洪峰流量": "peak flow"
+    },
+    {
+        "峰值均值比；峰均比": "peak-to-mean flow ratio"
+    },
+    {
+        "峰值超量序列": "peaks-over-threshold series"
+    },
+    {
+        "皮爾遜分布": "Pearson distribution"
+    },
+    {
+        "薄膜水； 附著水": "pellicular water"
+    },
+    {
+        "離環水": "pendular water"
+    },
+    {
+        "棲留地下水": "perched groundwater"
+    },
+    {
+        "棲留河": "perched stream"
+    },
+    {
+        "滲漏": "percolation"
+    },
+    {
+        "常流河": "perennial stream"
+    },
+    {
+        "多孔套管": "perforated casing"
+    },
+    {
+        "多孔套管": "perforated screen"
+    },
+    {
+        "間歇泉； 週期泉": "periodic spring"
+    },
+    {
+        "水生附著生物": "periphyton"
+    },
+    {
+        "永凍層": "permafrost"
+    },
+    {
+        "永久硬度": "permanent hardness"
+    },
+    {
+        "永久測站": "permanent station"
+    },
+    {
+        "永久凋萎點": "permanent wilting percentage"
+    },
+    {
+        "永久凋萎點": "permanent wilting point"
+    },
+    {
+        "滲透係數": "permeability coefficient"
+    },
+    {
+        "滲透儀": "permeameter"
+    },
+    {
+        "持續性": "persistence"
+    },
+    {
+        "功率因數": "pF"
+    },
+    {
+        "酸鹼值": "pH"
+    },
+    {
+        "地下水週期": "phreatic cycle"
+    },
+    {
+        "地下水面": "phreatic surface"
+    },
+    {
+        "自由地下水": "phreatic water"
+    },
+    {
+        "水井植物": "phreatophytes"
+    },
+    {
+        "壓力計": "piezometer"
+    },
+    {
+        "壓力水頭": "piezometric head"
+    },
+    {
+        "水壓面": "piezometric surface"
+    },
+    {
+        "皮托管": "Pitot tube"
+    },
+    {
+        "像素；像元": "pixel"
+    },
+    {
+        "平面流": "plane flow"
+    },
+    {
+        "乾鹽湖": "playa"
+    },
+    {
+        "雨量計": "pluviometer"
+    },
+    {
+        "可能最大降水": "PMP"
+    },
+    {
+        "點資料": "point data"
+    },
+    {
+        "點尺；針頭水尺": "point gauge (= point gage) "
+    },
+    {
+        "點降水量": "point precipitation"
+    },
+    {
+        "極軌道": "polar orbit"
+    },
+    {
+        "圍堤區；圩田": "polder"
+    },
+    {
+        "灰岩盆地": "polje"
+    },
+    {
+        "汙染物": "pollutant"
+    },
+    {
+        "汙染": "pollution"
+    },
+    {
+        "灰岩盆地": "polye"
+    },
+    {
+        "冰中湖": "polynia"
+    },
+    {
+        "冰中湖": "polynya"
+    },
+    {
+        "多相流": "polyphase flow"
+    },
+    {
+        "池塘": "pond"
+    },
+    {
+        "蓄水量": "pondage"
+    },
+    {
+        "積水": "ponding"
+    },
+    {
+        "落水洞": "ponor"
+    },
+    {
+        "孔隙體積": "pore volume"
+    },
+    {
+        "孔隙率": "porosity"
+    },
+    {
+        "多孔介質": "porous material"
+    },
+    {
+        "多孔介質": "porous matrix"
+    },
+    {
+        "多孔介質 ； 孔隙介質": "porous medium"
+    },
+    {
+        "河川學；河流學": "potamology"
+    },
+    {
+        "潛勢蒸發量；潛能蒸發量": "potential evaporation"
+    },
+    {
+        "潛勢蒸發散量；潛能蒸發散量": "potential evapotranspiration"
+    },
+    {
+        "勢能出水量": "potential yield"
+    },
+    {
+        "靜水壓面": "potentiometric surface"
+    },
+    {
+        "粉雪": "powder snow"
+    },
+    {
+        "可降水量": "precipitable water"
+    },
+    {
+        "降水": "precipitation"
+    },
+    {
+        "雨量計": "precipitation gauge; precipitation gage (A)"
+    },
+    {
+        "降水強度": "precipitation intensity"
+    },
+    {
+        "雨量站": "precipitation station"
+    },
+    {
+        "精度": "precision"
+    },
+    {
+        "土壤水壓力差；土壤水負壓": "pressure deficiency"
+    },
+    {
+        "壓力水頭": "pressure head"
+    },
+    {
+        "壓力冰": "pressure ice"
+    },
+    {
+        "主數據處理": "primary data processing"
+    },
+    {
+        "主測站": "primary station"
+    },
+    {
+        "原生水": "primitive water"
+    },
+    {
+        "主氣象站": "principal climatological station"
+    },
+    {
+        "主水文站": "principal hydrometric station"
+    },
+    {
+        "機率過程": "probabilistic process"
+    },
+    {
+        "機率": "probability"
+    },
+    {
+        "機率分布": "probability distribution"
+    },
+    {
+        "預報機率": "probability of forecast"
+    },
+    {
+        "機率紙": "probability paper"
+    },
+    {
+        "可能最大降水": "probable (possible) maximum precipitation (PMP)"
+    },
+    {
+        "可能誤差": "probable error"
+    },
+    {
+        "間歇地下水流": "prompt subsurface flow"
+    },
+    {
+        "旋槳式流速儀": "propeller-type current meter"
+    },
+    {
+        "[乾溼球]溼度計": "psychrometer"
+    },
+    {
+        "[冰上]水坑": "puddle"
+    },
+    {
+        "脈沖稀釋量測法": "pulse dilution gauging"
+    },
+    {
+        "抽蓄容量": "pumped storage"
+    },
+    {
+        "抽水試驗": "pumping test"
+    },
+    {
+        "抽水水位": "pumping water level"
+    },
+    {
+        "淨化": "purification"
+    },
+    {
+        "灌溉暗渠": "qanat"
+    },
+    {
+        "分位數": "quantile"
+    },
+    {
+        "定量降水預報": "quantitative precipitation forecast (QPF)"
+    },
+    {
+        "流沙": "quicksand "
+    }
+]

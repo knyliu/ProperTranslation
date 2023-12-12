@@ -1,0 +1,11285 @@
+[
+    {
+        "無線電高度計": "radio altimeter"
+    },
+    {
+        "無線電放大器": "radio amplifier"
+    },
+    {
+        "無線電羅盤": "radio compass"
+    },
+    {
+        "射頻應接器": "radio frequency adapter {= rf adapter; RF adapter}"
+    },
+    {
+        "射頻變壓器": "radio frequency transformer"
+    },
+    {
+        "無線電測角計；無線電方位計": "radio goniometer"
+    },
+    {
+        "射頻調變器；無線電調變器": "radio modulator"
+    },
+    {
+        "無線電接收機": "radio receiver"
+    },
+    {
+        "無線電望遠鏡": "radio telescope"
+    },
+    {
+        "無線電發射機": "radio transmitter"
+    },
+    {
+        "無線電電子管；無線電真空管": "radio tube"
+    },
+    {
+        "無線電真空管；無線電電子管": "radio valve"
+    },
+    {
+        "放射性測井儀": "radioactive logger"
+    },
+    {
+        "放射性測微計": "radioactive micrometer"
+    },
+    {
+        "放射性測厚計": "radioactive thickness gage"
+    },
+    {
+        "放射性測厚計": "radioactive thickness gauge"
+    },
+    {
+        "放射分析偵檢器；放射化驗偵檢器": "radioassay detector"
+    },
+    {
+        "熱輻射測量計": "radio-balance"
+    },
+    {
+        "放射層析譜掃描器": "radiochromatogram scanner"
+    },
+    {
+        "放射層析儀": "radiochromatograph"
+    },
+    {
+        "輻射劑量計": "radiodosimeter"
+    },
+    {
+        "射頻放大器": "radio-frequency amplifier"
+    },
+    {
+        "射頻濾波器": "radio-frequency filter"
+    },
+    {
+        "射頻產生器": "radio-frequency generator"
+    },
+    {
+        "射頻加熱器": "radio-frequency heater"
+    },
+    {
+        "射頻質譜儀": "radio-frequency mass spectrometer"
+    },
+    {
+        "射頻振盪器": "radio-frequency oscillator"
+    },
+    {
+        "射頻磁導計": "radio-frequency permeameter"
+    },
+    {
+        "射頻探針": "radio-frequency probe"
+    },
+    {
+        "射頻源": "radio-frequency source"
+    },
+    {
+        "射頻譜儀": "radio-frequency spectrometer"
+    },
+    {
+        "射頻超導量子干涉儀；射頻磁規": "radio-frequency SQUID"
+    },
+    {
+        "放射線測厚計": "radiographic thickness gage"
+    },
+    {
+        "放射線測厚計": "radiographic thickness gauge"
+    },
+    {
+        "放射性同位素測量計": "radioisotope gage"
+    },
+    {
+        "放射性同位素測量計": "radioisotope gauge"
+    },
+    {
+        "放射性同位素穿透測量計": "radioisotope transmission gage"
+    },
+    {
+        "放射性同位素穿透測量計": "radioisotope transmission gauge"
+    },
+    {
+        "[熱]輻射計；放射計": "radiometer"
+    },
+    {
+        "放射測壓計": "radiometer gage"
+    },
+    {
+        "放射測壓計": "radiometer gauge"
+    },
+    {
+        "微輻射計": "radiomicrometer"
+    },
+    {
+        "無線電話": "radiophone"
+    },
+    {
+        "放射鏡": "radioscope"
+    },
+    {
+        "射頻能譜儀；射頻分光鏡": "radio-spectroscope"
+    },
+    {
+        "無線電話": "radiotelephone"
+    },
+    {
+        "無線電電傳打字機": "radioteletype"
+    },
+    {
+        "鐳驗電器": "radium electroscope"
+    },
+    {
+        "數基轉換器": "radix converter"
+    },
+    {
+        "軌道剎車[器]": "rail brake"
+    },
+    {
+        "雨量計": "rain gage"
+    },
+    {
+        "雨量計": "rain gauge"
+    },
+    {
+        "提升器；上升管": "raiser"
+    },
+    {
+        "耙式類析器": "rake classifier"
+    },
+    {
+        "耙式混合器": "rake mixer"
+    },
+    {
+        "衝撃壓縮機": "ram compressor"
+    },
+    {
+        "衝壓機": "ram press"
+    },
+    {
+        "衝撃泵": "ram pump"
+    },
+    {
+        "衝撃試驗機": "ram tester"
+    },
+    {
+        "衝壓噴射發動機": "ramjet"
+    },
+    {
+        "衝壓噴射發動機": "ramjet engine"
+    },
+    {
+        "衝撃壓緊機": "rammer compactor"
+    },
+    {
+        "斜坡函數發生器；斜坡函數產生器": "ramp function generator"
+    },
+    {
+        "隨機存取控制器": "random access controller"
+    },
+    {
+        "隨機計數器": "random counter"
+    },
+    {
+        "隨機數產生器；亂數產生器": "random number generator"
+    },
+    {
+        "隨機存取裝置": "random-access device"
+    },
+    {
+        "隨機存取記憶體": "random-access memory {= RAM}"
+    },
+    {
+        "隨機存取儲存器": "random-access storage"
+    },
+    {
+        "距離指示器": "range indicator"
+    },
+    {
+        "定距指示器": "range setting indicator"
+    },
+    {
+        "測距器": "rangefinder"
+    },
+    {
+        "距離高度指示器": "range-height indicator"
+    },
+    {
+        "測距儀": "ranger"
+    },
+    {
+        "速動閥": "rapid action valve"
+    },
+    {
+        "快冷結晶器": "rapid cooling crystallizer"
+    },
+    {
+        "快速過濾器": "rapid filter"
+    },
+    {
+        "快速加熱器": "rapid heater"
+    },
+    {
+        "快速存取儲存器": "rapid-access storage"
+    },
+    {
+        "光柵顯微鏡": "raster microscope"
+    },
+    {
+        "小圓銼": "rat tail file"
+    },
+    {
+        "棘輪起重器": "ratchet jack"
+    },
+    {
+        "棘輪": "ratchet wheel"
+    },
+    {
+        "調速器": "rate governor"
+    },
+    {
+        "[角]速率迴轉儀；[角]速率陀螺儀": "rate gyro"
+    },
+    {
+        "變率指示器；速率指示器": "rate indicator"
+    },
+    {
+        "變率計；速率計": "rate meter"
+    },
+    {
+        "速率調節器；變率調節器": "rate regulator"
+    },
+    {
+        "比率調整器": "ratio adjuster"
+    },
+    {
+        "比率控制計": "ratio control meter"
+    },
+    {
+        "比率控制器": "ratio controller"
+    },
+    {
+        "比率檢頻器": "ratio detector"
+    },
+    {
+        "比率計": "ratio meter"
+    },
+    {
+        "比率記錄器；比例記錄器": "ratio recorder"
+    },
+    {
+        "比率記錄控制器": "ratio recording controller"
+    },
+    {
+        "濾光器；射線過濾器": "ray filter"
+    },
+    {
+        "光線繪圖器；射線繪圖器": "ray plotter"
+    },
+    {
+        "RC[電壓]分配器": "RC divider"
+    },
+    {
+        "電抗放大器": "reactance amplifier"
+    },
+    {
+        "電抗頻率倍增器": "reactance frequency multiplier"
+    },
+    {
+        "電抗計": "reactance meter"
+    },
+    {
+        "電抗調制器": "reactance modulator"
+    },
+    {
+        "電抗繼電器": "reactance relay"
+    },
+    {
+        "電抗共振指示器": "reactance resonance indicator"
+    },
+    {
+        "電抗管": "reactance tube"
+    },
+    {
+        "電抗管；電抗閥": "reactance valve"
+    },
+    {
+        "反應室；反應腔": "reaction chamber"
+    },
+    {
+        "反動式功率計；反動式測力計": "reaction dynamometer"
+    },
+    {
+        "反應式發動機；反動式發動機": "reaction engine"
+    },
+    {
+        "反應塔": "reaction tower"
+    },
+    {
+        "反動式阱；反應式阱": "reaction trap"
+    },
+    {
+        "反動式渦輪機": "reaction turbine"
+    },
+    {
+        "反動式水輪機": "reaction water turbine"
+    },
+    {
+        "再活化器": "reactivator"
+    },
+    {
+        "無功功率補償器": "reactive power compensator"
+    },
+    {
+        "無功功率計": "reactive power meter"
+    },
+    {
+        "反應器；電抗器": "reactor"
+    },
+    {
+        "反應器槽": "reactor tank"
+    },
+    {
+        "反應器轉換器": "reactor-converter"
+    },
+    {
+        "閱讀機": "reader"
+    },
+    {
+        "閱讀解譯器": "reader-interpreter"
+    },
+    {
+        "讀數透鏡": "reading lens"
+    },
+    {
+        "讀數測微計": "reading micrometer"
+    },
+    {
+        "讀數顯微鏡": "reading microscope"
+    },
+    {
+        "主讀記憶器": "read-mostly memory"
+    },
+    {
+        "唯讀記憶體；唯讀記憶器": "read-only memory {= ROM}"
+    },
+    {
+        "唯讀儲存器": "read-only storage"
+    },
+    {
+        "讀出裝置；資料輸出裝置": "readout device"
+    },
+    {
+        "讀卡打卡機": "read-punch unit"
+    },
+    {
+        "讀寫核對指示器": "read-write check indicator"
+    },
+    {
+        "讀寫驅動器": "read-write drive"
+    },
+    {
+        "試劑瓶": "reagent bottle"
+    },
+    {
+        "即時監測器": "real time monitor"
+    },
+    {
+        "即時鐘": "real-time clock"
+    },
+    {
+        "即時裝置": "real-time device"
+    },
+    {
+        "即時監測器": "real-time monitor"
+    },
+    {
+        "即時示波器；實時示波器": "real-time oscilloscope"
+    },
+    {
+        "鉸刀": "reamer"
+    },
+    {
+        "列氏溫度計": "Reaumur thermometer"
+    },
+    {
+        "再沸器": "reboiler"
+    },
+    {
+        "接收機；接受器；收音機": "receiver"
+    },
+    {
+        "接收天線": "receiving antenna"
+    },
+    {
+        "自動同步接收器": "receiving selsyn"
+    },
+    {
+        "接收狹縫": "receiving slit"
+    },
+    {
+        "集液槽": "receiving tank"
+    },
+    {
+        "接收[真空]管": "receiving tube"
+    },
+    {
+        "收容器；插座": "receptacle"
+    },
+    {
+        "帶框濾板": "recessed plate"
+    },
+    {
+        "倒易換能器；可逆換能器": "reciprocal transducer"
+    },
+    {
+        "往復式壓縮機": "reciprocating compressor"
+    },
+    {
+        "往復式隔膜泵": "reciprocating diaphragm pump"
+    },
+    {
+        "往復式發動機": "reciprocating engine"
+    },
+    {
+        "往復式飼機；往復式進料機": "reciprocating feeder"
+    },
+    {
+        "往復泵": "reciprocating pump"
+    },
+    {
+        "往復篩": "reciprocating screen"
+    },
+    {
+        "往復式動力機；倒數器": "reciprocator"
+    },
+    {
+        "循環加熱器": "recirculating heater"
+    },
+    {
+        "循環泵": "recirculating pump"
+    },
+    {
+        "循環冷卻器": "recirculation cooler"
+    },
+    {
+        "循環泵": "recirculation pump"
+    },
+    {
+        "循環反應器": "recirculation reactor"
+    },
+    {
+        "復閉器": "recloser"
+    },
+    {
+        "復閉繼電器": "reclosing relay"
+    },
+    {
+        "反衝[粒子]計數器；回跳計數器": "recoil counter"
+    },
+    {
+        "反衝[粒子]游離室；反衝[粒子]游離腔": "recoil ionization chamber"
+    },
+    {
+        "再冷器": "recooler"
+    },
+    {
+        "記錄器；錄音機": "recorder"
+    },
+    {
+        "記錄氣壓計": "recording air gage"
+    },
+    {
+        "記錄氣壓計": "recording air gauge"
+    },
+    {
+        "記錄電流計；記錄安培計": "recording ammeter"
+    },
+    {
+        "記錄天平": "recording balance"
+    },
+    {
+        "記錄氣球": "recording balloon"
+    },
+    {
+        "記錄[式]氣壓計": "recording barometer"
+    },
+    {
+        "記錄照相機": "recording camera"
+    },
+    {
+        "記錄控制器": "recording controller"
+    },
+    {
+        "記錄需要量計": "recording demand meter"
+    },
+    {
+        "記錄膨脹計": "recording dilatometer"
+    },
+    {
+        "記錄轉筒": "recording drum"
+    },
+    {
+        "記錄故障指示器": "recording fault indicator"
+    },
+    {
+        "記錄壓力計": "recording manometer"
+    },
+    {
+        "錄訊帶": "recording tape"
+    },
+    {
+        "記錄溫度計": "recording thermometer"
+    },
+    {
+        "記錄電壓計": "recording voltmeter"
+    },
+    {
+        "記錄瓦特計": "recording wattmeter"
+    },
+    {
+        "回收爐": "recovery furnace"
+    },
+    {
+        "回收塔": "recovery tower"
+    },
+    {
+        "直角稜鏡": "rectangular prism"
+    },
+    {
+        "矩形波發生器": "rectangular wave generator"
+    },
+    {
+        "矩形導波管": "rectangular wave guide"
+    },
+    {
+        "精餾器": "rectification still"
+    },
+    {
+        "精餾器；整流器": "rectifier"
+    },
+    {
+        "整流電池": "rectifier cell"
+    },
+    {
+        "精餾塔；精餾管柱": "rectifier column"
+    },
+    {
+        "整流光電管": "rectifier photocell"
+    },
+    {
+        "精餾塔；精餾管柱": "rectifying column"
+    },
+    {
+        "整流檢波器": "rectifying detector"
+    },
+    {
+        "精餾塔": "rectifying tower"
+    },
+    {
+        "整流[真空]管": "rectifying tube"
+    },
+    {
+        "整流器；整流閥": "rectifying valve"
+    },
+    {
+        "復熱爐": "recuperative furnace"
+    },
+    {
+        "復熱器": "recuperator"
+    },
+    {
+        "循環反應器": "recycle reactor"
+    },
+    {
+        "燃料再循環反應器": "recycling reactor"
+    },
+    {
+        "紅敏光電管": "red sensitive cell"
+    },
+    {
+        "氧[化]還[原]電位偵檢器": "redox potential detector"
+    },
+    {
+        "漸縮管；還原器": "reducer"
+    },
+    {
+        "縮小應接器": "reducing adapter"
+    },
+    {
+        "還原浴": "reducing bath"
+    },
+    {
+        "漸縮接頭": "reducing coupling"
+    },
+    {
+        "漸縮彎頭": "reducing elbow"
+    },
+    {
+        "還原爐": "reducing furnace"
+    },
+    {
+        "漸縮T形管；漸縮三通管": "reducing Tee"
+    },
+    {
+        "減壓閥": "reducing valve"
+    },
+    {
+        "還原槽": "reduction cell"
+    },
+    {
+        "減速齒輪": "reduction gear"
+    },
+    {
+        "還原管": "reduction tube"
+    },
+    {
+        "還原器；縮小儀": "reductor"
+    },
+    {
+        "參考電池": "reference cell"
+    },
+    {
+        "參考二極體": "reference diode"
+    },
+    {
+        "參考電極": "reference electrode"
+    },
+    {
+        "參考規": "reference gage"
+    },
+    {
+        "參考規": "reference gauge"
+    },
+    {
+        "參考[標準]燈": "reference lamp"
+    },
+    {
+        "參考功率計": "reference power meter"
+    },
+    {
+        "參考電源": "reference power supply"
+    },
+    {
+        "精製機；精煉機": "refiner"
+    },
+    {
+        "精煉爐": "refinery furnace"
+    },
+    {
+        "反射聚光器": "reflecting condenser"
+    },
+    {
+        "反射[鏡]電流計": "reflecting galvanometer"
+    },
+    {
+        "反射測角計": "reflecting goniometer"
+    },
+    {
+        "反光水準儀": "reflecting level"
+    },
+    {
+        "反射顯微鏡": "reflecting microscope"
+    },
+    {
+        "反射鏡": "reflecting mirror"
+    },
+    {
+        "反射稜鏡": "reflecting prism"
+    },
+    {
+        "反射高溫計": "reflecting pyrometer"
+    },
+    {
+        "反光直角器": "reflecting square"
+    },
+    {
+        "反射望遠鏡": "reflecting telescope"
+    },
+    {
+        "反射繞射計": "reflection diffractometer"
+    },
+    {
+        "反射測角計": "reflection goniometer"
+    },
+    {
+        "反射光柵": "reflection grating"
+    },
+    {
+        "反射式高能電子繞射儀": "reflection high energy electron diffractometer {= RHEED}"
+    },
+    {
+        "反射振盪器": "reflection oscillator"
+    },
+    {
+        "反射分光光度計": "reflection spectrophotometer"
+    },
+    {
+        "反光鏡": "reflective mirror"
+    },
+    {
+        "反射計；反光計": "reflectometer"
+    },
+    {
+        "反射器；反射鏡": "reflector"
+    },
+    {
+        "反射儀": "reflectoscope"
+    },
+    {
+        "反射望遠鏡": "reflectotelescope"
+    },
+    {
+        "反射電場質譜儀": "reflectron"
+    },
+    {
+        "回復放大器": "reflex amplifier"
+    },
+    {
+        "反射攝影機": "reflex camera"
+    },
+    {
+        "回復接收機": "reflex receiver"
+    },
+    {
+        "回流冷凝器": "reflux condenser"
+    },
+    {
+        "回流泵": "reflux pump"
+    },
+    {
+        "回流管": "refluxing tube"
+    },
+    {
+        "折射稜鏡": "refracting prism"
+    },
+    {
+        "折射望遠鏡": "refracting telescope"
+    },
+    {
+        "折射率偵檢器": "refractive index detector"
+    },
+    {
+        "折射計": "refractometer"
+    },
+    {
+        "折射鏡": "refractor"
+    },
+    {
+        "耐火坯": "refractory body"
+    },
+    {
+        "耐火坩堝": "refractory crucible"
+    },
+    {
+        "耐火管": "refractory tube"
+    },
+    {
+        "冰箱；冷凍機": "refrigerator"
+    },
+    {
+        "再生爐": "regenerative furnace"
+    },
+    {
+        "再生泵": "regenerative pump"
+    },
+    {
+        "再生反應器": "regenerative reactor"
+    },
+    {
+        "再生接收機": "regenerative receiver"
+    },
+    {
+        "再生反射器": "regenerative reflector"
+    },
+    {
+        "再生轉發器": "regenerative repeater"
+    },
+    {
+        "再生儲存器": "regenerative storage"
+    },
+    {
+        "再生器；蓄熱器": "regenerator"
+    },
+    {
+        "暫存器；註錄器；記錄器": "register"
+    },
+    {
+        "暫存器選擇多工器": "register-select multiplexer"
+    },
+    {
+        "調節放大器": "regulating amplifier"
+    },
+    {
+        "調節組合": "regulating block"
+    },
+    {
+        "調節箱": "regulating box"
+    },
+    {
+        "調節電容器": "regulating capacitor"
+    },
+    {
+        "調節電池 {末端電池}": "regulating cell"
+    },
+    {
+        "調節電磁鐵": "regulating magnet"
+    },
+    {
+        "調節變阻器": "regulating rheostat"
+    },
+    {
+        "調節棒": "regulating rod"
+    },
+    {
+        "調節變壓器": "regulating transformer"
+    },
+    {
+        "調節閥": "regulating valve"
+    },
+    {
+        "調節電池": "regulation cell"
+    },
+    {
+        "調節栓": "regulation cock"
+    },
+    {
+        "調節器": "regulator"
+    },
+    {
+        "再熱器": "reheater"
+    },
+    {
+        "再熱爐": "reheating furnace"
+    },
+    {
+        "斥拒濾波器": "rejection filter"
+    },
+    {
+        "弛緩換流器": "relaxation inverter"
+    },
+    {
+        "弛緩振盪器": "relaxation oscillator"
+    },
+    {
+        "弛緩計": "relaxometer"
+    },
+    {
+        "繼電器；替續器；電驛": "relay"
+    },
+    {
+        "繼電器箱": "relay box"
+    },
+    {
+        "繼電式計數器": "relay counter"
+    },
+    {
+        "繼動調速器": "relay governor"
+    },
+    {
+        "繼電選擇器": "relay selector"
+    },
+    {
+        "繼電[操作]控制器": "relay-operated controller"
+    },
+    {
+        "繼電式記錄器": "relay-type recorder"
+    },
+    {
+        "釋放閥": "release valve"
+    },
+    {
+        "體視望遠鏡": "relief telescope"
+    },
+    {
+        "釋放閥": "relief valve"
+    },
+    {
+        "磁阻傳聲器；磁阻麥克風": "reluctance microphone"
+    },
+    {
+        "磁阻電動機；磁阻馬達": "reluctance motor"
+    },
+    {
+        "磁阻調節器": "reluctance regulator"
+    },
+    {
+        "遠距資料集訊機": "remote data concentrator"
+    },
+    {
+        "遠距資料指示器": "remote data indicator"
+    },
+    {
+        "遙控操作工具": "remote handling tool"
+    },
+    {
+        "遙示浮子流量計": "remote indicating rotameter"
+    },
+    {
+        "遠距指示器；遙控指示器": "remote indicator"
+    },
+    {
+        "遠距監測器": "remote monitor"
+    },
+    {
+        "遠距感測器": "remote sensor"
+    },
+    {
+        "遠距溫度計": "remote thermometer"
+    },
+    {
+        "遠傳量測計": "remote transmitting gage"
+    },
+    {
+        "遠傳量測計": "remote transmitting gauge"
+    },
+    {
+        "遙控照相機": "remote-control camera"
+    },
+    {
+        "遙控操縱器": "remote-control manipulator"
+    },
+    {
+        "遙示浮子流量計": "remote-indicating rotameter"
+    },
+    {
+        "遙示溫度計": "remote-indicating thermometer"
+    },
+    {
+        "遙示浮子流量計": "remote-indicator rotameter"
+    },
+    {
+        "遙示溫度計": "remote-reading thermometer"
+    },
+    {
+        "可移式磁碟機": "removable disk unit"
+    },
+    {
+        "重複計數器": "repeat counter"
+    },
+    {
+        "轉發器；增音器": "repeater"
+    },
+    {
+        "轉發線圈": "repeating coil"
+    },
+    {
+        "轉發繼電器": "repeating relay"
+    },
+    {
+        "複測經緯儀": "repeating theodolite"
+    },
+    {
+        "複穿孔機": "reperforator"
+    },
+    {
+        "複穿孔傳送機": "reperforator transmitter"
+    },
+    {
+        "再壓機": "repress"
+    },
+    {
+        "複製機": "reproducer"
+    },
+    {
+        "複製打孔機": "reproducing punch"
+    },
+    {
+        "推斥感應電動機": "repulsion induction motor"
+    },
+    {
+        "推斥電動機": "repulsion motor"
+    },
+    {
+        "再純化器": "repurifier"
+    },
+    {
+        "重餾塔；重餾管柱": "rerun column"
+    },
+    {
+        "重餾塔；重蒸塔": "rerunning tower"
+    },
+    {
+        "研究反應器": "research reactor"
+    },
+    {
+        "預留儲存器": "reserving storage"
+    },
+    {
+        "電阻箱": "resistance box"
+    },
+    {
+        "電阻電橋": "resistance bridge"
+    },
+    {
+        "電阻電容濾波器": "resistance capacitance filter{= RC filter}"
+    },
+    {
+        "電阻電容振盪器": "resistance capacitance oscillator"
+    },
+    {
+        "電阻線圈": "resistance coil"
+    },
+    {
+        "電阻測功計": "resistance dynamometer"
+    },
+    {
+        "電阻爐": "resistance furnace"
+    },
+    {
+        "電阻流體壓力計": "resistance gage"
+    },
+    {
+        "電阻流體壓力計": "resistance gauge"
+    },
+    {
+        "電阻磁強計": "resistance magnetometer"
+    },
+    {
+        "電阻計": "resistance meter"
+    },
+    {
+        "電阻高溫計": "resistance pyrometer"
+    },
+    {
+        "電阻調節器": "resistance regulator"
+    },
+    {
+        "電阻應變計": "resistance strain gage"
+    },
+    {
+        "電阻應變計": "resistance strain gauge"
+    },
+    {
+        "電阻溫度計": "resistance thermometer"
+    },
+    {
+        "電阻型分位器": "resistance type potential divider"
+    },
+    {
+        "電阻耦合放大器；電阻偶合放大器": "resistance-coupled amplifier"
+    },
+    {
+        "電熱除冰器": "resistive deicer"
+    },
+    {
+        "電阻流量計": "resistive flowmeter"
+    },
+    {
+        "電阻式熱偵檢器": "resistive thermal detector"
+    },
+    {
+        "電阻器": "resistor"
+    },
+    {
+        "電阻元件": "resistor element"
+    },
+    {
+        "電阻爐": "resistor furnace"
+    },
+    {
+        "分解儀；解析器": "resolver"
+    },
+    {
+        "共振放大器": "resonance amplifier"
+    },
+    {
+        "共振箱；共鳴箱": "resonance box"
+    },
+    {
+        "共振電橋": "resonance bridge"
+    },
+    {
+        "共振電暈偵檢器": "resonance corona detector"
+    },
+    {
+        "共振偵檢器": "resonance detector"
+    },
+    {
+        "共振濾波器": "resonance filter"
+    },
+    {
+        "共振示頻器": "resonance frequency indicator"
+    },
+    {
+        "共振頻率計": "resonance frequency meter"
+    },
+    {
+        "共振蜂鳴器": "resonance hummer"
+    },
+    {
+        "共振指示器": "resonance indicator"
+    },
+    {
+        "共振增強器": "resonance intensifier"
+    },
+    {
+        "共振燈": "resonance lamp"
+    },
+    {
+        "共振擺": "resonance pendulum"
+    },
+    {
+        "共振轉速計": "resonance tachometer"
+    },
+    {
+        "共振變壓器": "resonance transformer"
+    },
+    {
+        "共振管；共鳴管": "resonance tube"
+    },
+    {
+        "共振波長計": "resonance wavemeter"
+    },
+    {
+        "共振天線": "resonant antenna"
+    },
+    {
+        "共振光束測定器": "resonant beam tester"
+    },
+    {
+        "共振電容器": "resonant capacitor"
+    },
+    {
+        "共振腔": "resonant cavity"
+    },
+    {
+        "共振腔邁射": "resonant cavity maser"
+    },
+    {
+        "共振室；共振腔": "resonant chamber"
+    },
+    {
+        "共振偵檢器": "resonant detector"
+    },
+    {
+        "共振柵電晶體": "resonant gate transistor"
+    },
+    {
+        "共振線振盪器": "resonant line oscillator"
+    },
+    {
+        "共振線調諧器": "resonant line tuner"
+    },
+    {
+        "共振簧片繼電器": "resonant-reed relay"
+    },
+    {
+        "共振簧片轉速計": "resonant-reed tachometer"
+    },
+    {
+        "共振管；共鳴管": "resonating tube"
+    },
+    {
+        "共振器；共鳴器": "resonator"
+    },
+    {
+        "共振[器]波長計": "resonator wavemeter"
+    },
+    {
+        "腔振管": "resonatron"
+    },
+    {
+        "共振示波器": "resonoscope"
+    },
+    {
+        "呼吸卡計": "respiration calorimeter"
+    },
+    {
+        "防毒面具；呼吸器；口罩": "respirator"
+    },
+    {
+        "呼吸瓶": "respirator bottle"
+    },
+    {
+        "呼吸計": "respirometer"
+    },
+    {
+        "響應器；應答機": "responsor"
+    },
+    {
+        "回復器；復原器": "restorer"
+    },
+    {
+        "節流放大器": "restriction amplifier"
+    },
+    {
+        "限制器；限流器": "restrictor"
+    },
+    {
+        "抗流線圈": "retardation coil"
+    },
+    {
+        "減速控制器；阻滯控制器": "retardation controller"
+    },
+    {
+        "減速板": "retardation plate"
+    },
+    {
+        "減速光楔；減速光劈": "retardation wedge"
+    },
+    {
+        "減速器；阻尼器": "retarder"
+    },
+    {
+        "減速輔助器": "retarder booster"
+    },
+    {
+        "甑；曲頸蒸餾瓶": "retort"
+    },
+    {
+        "甑式爐": "retort furnace"
+    },
+    {
+        "轉回碼暫存器": "return code register"
+    },
+    {
+        "再汽化器": "revaporizer"
+    },
+    {
+        "返焰爐；反射爐": "reverbarator"
+    },
+    {
+        "返焰爐；反射爐": "reverbaratory"
+    },
+    {
+        "返焰爐；反射爐": "reverbatory"
+    },
+    {
+        "混響室": "reverberant room"
+    },
+    {
+        "混響腔；混響室": "reverberation chamber"
+    },
+    {
+        "混響時間計": "reverberation timemeter"
+    },
+    {
+        "返焰爐；反射爐": "reverberatory"
+    },
+    {
+        "返焰爐": "reverberatory furnace"
+    },
+    {
+        "逆流斷路器；電流反向斷路器": "reverse current circuit breaker"
+    },
+    {
+        "逆[電]流繼電器": "reverse current relay"
+    },
+    {
+        "反流冷凝器": "reverse flow condenser"
+    },
+    {
+        "反流渦輪機": "reverse flow turbine"
+    },
+    {
+        "反流黏度計": "reverse flow viscometer"
+    },
+    {
+        "反流黏度計": "reverse flow viscosimeter"
+    },
+    {
+        "反相繼電器": "reverse phase relay"
+    },
+    {
+        "反向繼電器": "reverse relay"
+    },
+    {
+        "逆[電]流繼電器": "reversed current relay"
+    },
+    {
+        "反流冷凝器": "reversed-flow condenser"
+    },
+    {
+        "反流渦輪機": "reversed-flow turbine"
+    },
+    {
+        "反相繼電器": "reverse-phase relay"
+    },
+    {
+        "反向器": "reverser"
+    },
+    {
+        "可逆放大器": "reversible amplifier"
+    },
+    {
+        "可逆二進位計數器": "reversible binary counter"
+    },
+    {
+        "可逆升壓器": "reversible booster"
+    },
+    {
+        "可逆電池": "reversible cell"
+    },
+    {
+        "可逆計數器": "reversible counter"
+    },
+    {
+        "可逆引擎；可逆發動機": "reversible engine"
+    },
+    {
+        "迴轉[式]水準儀；可逆水準儀": "reversible level"
+    },
+    {
+        "可逆電動機；可逆馬達": "reversible motor"
+    },
+    {
+        "可倒擺": "reversible pendulum"
+    },
+    {
+        "可逆換能器；可逆轉換器": "reversible transducer"
+    },
+    {
+        "反向放大器": "reversing amplifier"
+    },
+    {
+        "反向控制器": "reversing controller"
+    },
+    {
+        "反向指示器": "reversing indicator"
+    },
+    {
+        "換向[電]鍵": "reversing key"
+    },
+    {
+        "反像稜鏡": "reversing prism"
+    },
+    {
+        "雙向起動器": "reversing starter"
+    },
+    {
+        "換向開關": "reversing switch"
+    },
+    {
+        "可倒溫度計": "reversing thermometer"
+    },
+    {
+        "換向閥": "reversing valve"
+    },
+    {
+        "轉數計": "revolution counter"
+    },
+    {
+        "迴轉爐；旋轉器": "revolver"
+    },
+    {
+        "迴轉陰極": "revolving cathode"
+    },
+    {
+        "迴轉爐": "revolving furnace"
+    },
+    {
+        "迴轉研磨機": "revolving mill"
+    },
+    {
+        "換鏡轉盤": "revolving nosepiece"
+    },
+    {
+        "迴轉變阻器": "revolving rheostat"
+    },
+    {
+        "迴轉篩": "revolving screen"
+    },
+    {
+        "流變儀；流變計": "rheometer"
+    },
+    {
+        "驗電器": "rheoscope"
+    },
+    {
+        "變阻器": "rheostat"
+    },
+    {
+        "電子[感應]加速器 {貝他加速器；β加速器}": "rheotron {betatron}"
+    },
+    {
+        "菱形天線": "rhombic antenna"
+    },
+    {
+        "空腔諧振器": "rhumbatron"
+    },
+    {
+        "線溝漏斗": "ribbed funnel"
+    },
+    {
+        "肋條鏡": "ribbed mirror"
+    },
+    {
+        "肋式散熱器": "ribbed radiator"
+    },
+    {
+        "帶式雙凸透鏡": "ribbon lenticular"
+    },
+    {
+        "帶式傳聲器；帶式麥克風": "ribbon microphone"
+    },
+    {
+        "螺條混合器": "ribbon mixer"
+    },
+    {
+        "帶狀電阻器": "ribbon resistor"
+    },
+    {
+        "螺帶運送機": "ribbon spiral conveyer"
+    },
+    {
+        "螺條攪拌器": "ribbon stirrer"
+    },
+    {
+        "篩": "riddle"
+    },
+    {
+        "游碼": "rider"
+    },
+    {
+        "游碼鉤": "rider carrier"
+    },
+    {
+        "游碼鉤": "rider hook"
+    },
+    {
+        "直交夾": "right angle clamp"
+    },
+    {
+        "直交夾": "right-angle clamp"
+    },
+    {
+        "直角稜鏡": "right-angle prism"
+    },
+    {
+        "直角觀察器": "right-angle viewer"
+    },
+    {
+        "圈；環": "ring"
+    },
+    {
+        "環形電樞": "ring armature"
+    },
+    {
+        "環均衡流量計": "ring balance flowmeter"
+    },
+    {
+        "環形燈；環形燃燒器": "ring burner"
+    },
+    {
+        "環鉗": "ring clamp"
+    },
+    {
+        "環式計數器": "ring counter"
+    },
+    {
+        "環形截管器": "ring cutter"
+    },
+    {
+        "環形解調器": "ring demodulator"
+    },
+    {
+        "環形雷射": "ring laser"
+    },
+    {
+        "環形雷射陀螺儀": "ring laser gyroscope"
+    },
+    {
+        "環形磁鐵": "ring magnet"
+    },
+    {
+        "環形測微計": "ring micrometer"
+    },
+    {
+        "環形調變器": "ring modulator"
+    },
+    {
+        "環形填充管柱": "ring packed column"
+    },
+    {
+        "環形測壓計": "ring piezometer"
+    },
+    {
+        "環形電位計": "ring potentiometer"
+    },
+    {
+        "環式暫存器": "ring register"
+    },
+    {
+        "環輥磨": "ring roll mill"
+    },
+    {
+        "環輥粉碎機": "ring roll pulverizer"
+    },
+    {
+        "圓鋸": "ring saw"
+    },
+    {
+        "環狀定標器；環狀示數器": "ring scaler"
+    },
+    {
+        "環段式給水泵": "ring section feed pump"
+    },
+    {
+        "環狀噴霧器": "ring sprayer"
+    },
+    {
+        "環簧緩衝器": "ring spring draft gear"
+    },
+    {
+        "標準環規；校對環規": "ring standard gage"
+    },
+    {
+        "標準環規；校對環規": "ring standard gauge"
+    },
+    {
+        "環形變壓器": "ring transformer"
+    },
+    {
+        "環三腳架": "ring tripod"
+    },
+    {
+        "環形研磨機": "ring type grinder"
+    },
+    {
+        "環形壓力計": "ring type manometer"
+    },
+    {
+        "環紋導管": "ring vessel"
+    },
+    {
+        "環形墊圈": "ring washer"
+    },
+    {
+        "環形感應爐": "ring-shaped induction furnace"
+    },
+    {
+        "沖洗槽": "rinse bath"
+    },
+    {
+        "沖洗器": "rinser"
+    },
+    {
+        "沖洗缸；漂洗甕": "rinsing vat"
+    },
+    {
+        "游離層輻射吸收計": "riometer"
+    },
+    {
+        "漣波放大器": "ripple amplifier"
+    },
+    {
+        "漣波計數器": "ripple counter"
+    },
+    {
+        "漣波阻尼器": "ripple damper"
+    },
+    {
+        "漣波濾[波]器": "ripple filter"
+    },
+    {
+        "上升管；豎管": "riser"
+    },
+    {
+        "上升管；升液管": "riser tube"
+    },
+    {
+        "鉚釘爐": "rivet forge"
+    },
+    {
+        "鉚釘爐": "rivet hearth"
+    },
+    {
+        "鉚釘加熱爐": "rivet heater"
+    },
+    {
+        "侖琴計；X射線計": "R-meter"
+    },
+    {
+        "焙燒爐；煅爐": "roaster"
+    },
+    {
+        "焙燒鼓風爐": "roasting blast furnace"
+    },
+    {
+        "焙燒窯": "roasting kiln"
+    },
+    {
+        "羅婆片{降低電流容度之額外陰極}": "Robber"
+    },
+    {
+        "機器人；自動機": "robot"
+    },
+    {
+        "碎石機": "rock crusher"
+    },
+    {
+        "切石機": "rock cutter"
+    },
+    {
+        "鑽岩機": "rock drill"
+    },
+    {
+        "盪動機；搖擺器；搖移器": "rocker"
+    },
+    {
+        "盪動閥": "rocker valve"
+    },
+    {
+        "盪動槽": "rocker vat"
+    },
+    {
+        "搖桿爐": "rocker-bar furnace"
+    },
+    {
+        "火箭發動機；火箭馬達": "rocket motor"
+    },
+    {
+        "搖擺電弧爐": "rocking arc furnace"
+    },
+    {
+        "搖擺電解槽": "rocking cell"
+    },
+    {
+        "搖擺爐": "rocking furnace"
+    },
+    {
+        "擺動篩": "rocking sieve"
+    },
+    {
+        "搖擺式熱鋸": "rocking-type hot saw"
+    },
+    {
+        "桿；棒": "rod"
+    },
+    {
+        "桿落鎚": "rod drop hammer"
+    },
+    {
+        "塞規；內徑規": "rod gage"
+    },
+    {
+        "棒狀放電器": "rod gap"
+    },
+    {
+        "塞規；內徑規": "rod gauge"
+    },
+    {
+        "桿導": "rod guide"
+    },
+    {
+        "磁棒記憶器；磁桿記憶器": "rod memory"
+    },
+    {
+        "棒撃粉碎機；棒磨機；軋條機": "rod mill"
+    },
+    {
+        "鑽桿提取器": "rod puller"
+    },
+    {
+        "桿式泵": "rod pump"
+    },
+    {
+        "棒屏沈澱器；靜電沈澱器": "rod-curtain precipitator"
+    },
+    {
+        "侖琴機；X光機": "roentgen machine"
+    },
+    {
+        "侖琴計；X射線計": "roentgen meter"
+    },
+    {
+        "侖琴套管": "roentgen thimble{= R-thimble}"
+    },
+    {
+        "侖琴計；X射線計": "roentgenometer"
+    },
+    {
+        "侖琴射線透視機；X射線透視機": "roentgenoscope"
+    },
+    {
+        "角色指示器": "role indicator"
+    },
+    {
+        "輥子；輥機；滾筒": "roll"
+    },
+    {
+        "輥子軸承": "roll bearing"
+    },
+    {
+        "軋輥彎曲機": "roll bender"
+    },
+    {
+        "軋輥箱": "roll box"
+    },
+    {
+        "輥碎機": "roll breaker"
+    },
+    {
+        "捲式電容器": "roll capacitor"
+    },
+    {
+        "輥碎機": "roll crusher"
+    },
+    {
+        "斜底式爐；滾式爐": "roll down furnace"
+    },
+    {
+        "輥開槽機": "roll fluting machine"
+    },
+    {
+        "輥縫指示器": "roll gap indicator"
+    },
+    {
+        "傾斜陀螺儀；滾動陀螺儀": "roll gyroscope"
+    },
+    {
+        "軋輥車床": "roll lathe"
+    },
+    {
+        "輥磨機": "roll mill"
+    },
+    {
+        "捲筒電容器": "rolled capacitor"
+    },
+    {
+        "捲筒電容器": "rolled condenser"
+    },
+    {
+        "輥；滾筒；滾柱": "roller"
+    },
+    {
+        "輥軸承": "roller bearing"
+    },
+    {
+        "輥打漿機": "roller beater"
+    },
+    {
+        "砑光機；壓延機": "roller calender"
+    },
+    {
+        "輥運機；滾柱式輸送器": "roller conveyer"
+    },
+    {
+        "輥運機；滾柱式輸送器": "roller conveyor"
+    },
+    {
+        "滾柱集電器": "roller current collector"
+    },
+    {
+        "輥筒分級機": "roller grader"
+    },
+    {
+        "滾柱導軌；輥式導板": "roller guide"
+    },
+    {
+        "輥磨機": "roller mill"
+    },
+    {
+        "輥壓機": "roller mill press"
+    },
+    {
+        "滾柱篩": "roller picker"
+    },
+    {
+        "輥壓機": "roller press"
+    },
+    {
+        "輥子泵": "roller pump"
+    },
+    {
+        "輥軸篩": "roller screen"
+    },
+    {
+        "輥式分級機": "roller sizer"
+    },
+    {
+        "輥式分級機": "roller sorter"
+    },
+    {
+        "轉盤面積計": "rolling disc planimeter"
+    },
+    {
+        "旋轉鍵離合器": "rolling key clutch"
+    },
+    {
+        "滾輾厚度計；鋼板厚度計": "rolling mill gage"
+    },
+    {
+        "滾輾厚度計；鋼板厚度計": "rolling mill gauge"
+    },
+    {
+        "旋轉活塞徑向泵": "rolling piston radial pump"
+    },
+    {
+        "捲式電容器": "roll-type capacitor"
+    },
+    {
+        "複寫機": "roneo"
+    },
+    {
+        "脊角稜鏡": "roof-angle prism"
+    },
+    {
+        "繩帶式運送機": "rope and belt conveyor"
+    },
+    {
+        "繩制動器；繩剎車": "rope brake"
+    },
+    {
+        "繩索測功計": "rope dynamometer"
+    },
+    {
+        "[磁心]線儲存器": "rope storage"
+    },
+    {
+        "浮子流量計；轉子流量計": "rotameter"
+    },
+    {
+        "旋轉給酸器": "rotary acid feeder"
+    },
+    {
+        "旋轉引動器": "rotary actuator"
+    },
+    {
+        "旋轉式攪拌器": "rotary agitator"
+    },
+    {
+        "旋轉空氣泵": "rotary air pump"
+    },
+    {
+        "旋轉天線": "rotary antenna"
+    },
+    {
+        "旋轉噴霧器": "rotary atomizer"
+    },
+    {
+        "旋轉摻合器": "rotary blender"
+    },
+    {
+        "旋轉鼓風機": "rotary blower"
+    },
+    {
+        "旋轉碎裂機": "rotary breaker"
+    },
+    {
+        "旋轉煅燒窯": "rotary calciner"
+    },
+    {
+        "旋轉煅燒窯": "rotary calcining kiln"
+    },
+    {
+        "旋轉切碎機；旋轉斬波器": "rotary chopper"
+    },
+    {
+        "旋轉壓縮機": "rotary compressor"
+    },
+    {
+        "旋轉濃縮器": "rotary concentrator"
+    },
+    {
+        "旋轉電容器；旋轉式冷凝器": "rotary condenser"
+    },
+    {
+        "旋轉續濾機": "rotary continuous filter"
+    },
+    {
+        "旋轉變流機": "rotary converter"
+    },
+    {
+        "旋轉冷卻器": "rotary cooler"
+    },
+    {
+        "旋轉壓碎機": "rotary crusher"
+    },
+    {
+        "旋轉結晶器": "rotary crystallizer"
+    },
+    {
+        "旋轉杯油燃燒器": "rotary cup oil burner"
+    },
+    {
+        "旋切機": "rotary cutter"
+    },
+    {
+        "旋轉蒸煮器": "rotary digester"
+    },
+    {
+        "旋轉放電器": "rotary discharger"
+    },
+    {
+        "旋轉盤": "rotary disk"
+    },
+    {
+        "旋轉排量泵": "rotary displacement pump"
+    },
+    {
+        "旋轉分配器": "rotary distributor"
+    },
+    {
+        "旋轉乾燥器": "rotary drier"
+    },
+    {
+        "轉桶": "rotary drum"
+    },
+    {
+        "轉桶濾機": "rotary drum filter"
+    },
+    {
+        "轉桶混合機": "rotary drum mixer"
+    },
+    {
+        "旋轉噴粉器": "rotary duster"
+    },
+    {
+        "旋轉蒸發器": "rotary evaporator"
+    },
+    {
+        "旋轉加料器": "rotary feeder"
+    },
+    {
+        "旋濾器": "rotary filter"
+    },
+    {
+        "旋轉流量計；轉子流量計": "rotary flowmeter"
+    },
+    {
+        "旋轉爐": "rotary furnace"
+    },
+    {
+        "旋轉齒輪泵": "rotary gear pump"
+    },
+    {
+        "旋轉接合器": "rotary joint"
+    },
+    {
+        "旋轉窯": "rotary kiln"
+    },
+    {
+        "旋轉電磁體": "rotary magnet"
+    },
+    {
+        "旋轉機械泵": "rotary mechanical pump"
+    },
+    {
+        "旋轉換相機；旋轉式相位變換器": "rotary phase converter"
+    },
+    {
+        "旋轉電鍍桶": "rotary plating barrel"
+    },
+    {
+        "旋轉泵": "rotary pump"
+    },
+    {
+        "旋轉整流器": "rotary rectifier"
+    },
+    {
+        "旋轉篩": "rotary screen"
+    },
+    {
+        "旋轉篩": "rotary sieve"
+    },
+    {
+        "轉筒閥": "rotary sleeve valve"
+    },
+    {
+        "旋轉火花放電路": "rotary spark gap"
+    },
+    {
+        "旋轉噴灑器": "rotary sprinkler"
+    },
+    {
+        "旋轉開關；旋轉交換鍵": "rotary switch"
+    },
+    {
+        "旋轉壓錠機": "rotary tableting machine"
+    },
+    {
+        "旋轉變壓器": "rotary transformer"
+    },
+    {
+        "旋管運送機": "rotary tubular conveyer"
+    },
+    {
+        "真空轉桶濾機": "rotary vacuum drum filter"
+    },
+    {
+        "旋轉真空乾燥器": "rotary vacuum dryer"
+    },
+    {
+        "旋轉真空蒸發器": "rotary vacuum evaporator"
+    },
+    {
+        "旋轉真空泵": "rotary vacuum pump"
+    },
+    {
+        "旋轉閥": "rotary valve"
+    },
+    {
+        "轉葉輪流量計": "rotary vane meter"
+    },
+    {
+        "旋轉黏度計": "rotary viscometer"
+    },
+    {
+        "旋轉黏度計": "rotary viscosimeter"
+    },
+    {
+        "旋轉伏特計": "rotary voltmeter"
+    },
+    {
+        "旋轉放大器": "rotating amplifier"
+    },
+    {
+        "旋轉生物接觸器": "rotating biological contactor"
+    },
+    {
+        "旋轉冷凝器": "rotating condenser"
+    },
+    {
+        "旋轉鏡": "rotating mirror"
+    },
+    {
+        "旋轉鏡照相機": "rotating mirror camera"
+    },
+    {
+        "旋轉單色器": "rotating monochromator"
+    },
+    {
+        "旋轉活塞泵": "rotating piston pump"
+    },
+    {
+        "旋轉篩；旋轉屏": "rotating screen"
+    },
+    {
+        "旋轉光閘": "rotating shutter"
+    },
+    {
+        "旋轉篩": "rotating sieve"
+    },
+    {
+        "轉動定時器": "rotating timer"
+    },
+    {
+        "旋轉風速計": "rotation anemometer"
+    },
+    {
+        "旋轉[晶體]照相機": "rotation camera"
+    },
+    {
+        "旋轉測功計": "rotation dynamometer"
+    },
+    {
+        "轉動黏度計；旋轉黏度計": "rotation viscometer"
+    },
+    {
+        "轉動黏度計；旋轉黏度計": "rotation viscosimeter"
+    },
+    {
+        "旋轉[式]流變儀": "rotational rheometer"
+    },
+    {
+        "轉動黏度計；旋轉黏度計": "rotational viscometer"
+    },
+    {
+        "轉動黏度計；旋轉黏度計": "rotational viscosimeter"
+    },
+    {
+        "旋轉泵": "rotatory pump"
+    },
+    {
+        "浮子流量計；轉子流量計": "rotermeter"
+    },
+    {
+        "轉子": "rotor"
+    },
+    {
+        "圓底安瓿": "round bottom ampul"
+    },
+    {
+        "圓銼": "round file"
+    },
+    {
+        "圓頭螺栓": "round head bolt"
+    },
+    {
+        "圓鉗": "round pliers"
+    },
+    {
+        "圓形波導管": "round waveguide"
+    },
+    {
+        "圓底瓶": "round-bottom flask"
+    },
+    {
+        "圓度量測儀": "roundness measuring system"
+    },
+    {
+        "常式分析器": "routine analyzer"
+    },
+    {
+        "橡膠緩衝器；橡膠緩衝裝置": "rubber buffer"
+    },
+    {
+        "橡皮[吸]球": "rubber bulb"
+    },
+    {
+        "橡皮緩衝墊": "rubber cushion"
+    },
+    {
+        "橡膠隔膜泵": "rubber diaphragm pump"
+    },
+    {
+        "橡皮手套": "rubber glove"
+    },
+    {
+        "橡皮[軟]管；橡膠管": "rubber hose"
+    },
+    {
+        "橡皮塞": "rubber plug"
+    },
+    {
+        "橡皮塞": "rubber stopper"
+    },
+    {
+        "橡皮管": "rubber tube"
+    },
+    {
+        "橡皮管": "rubber tubing"
+    },
+    {
+        "紅寶石雷射": "ruby laser"
+    },
+    {
+        "尺": "ruler"
+    },
+    {
+        "半成品槽；餾出液接受器": "rundown tank"
+    },
+    {
+        "拉塞福回向散射分析儀": "Rutherford backscattering spectrometer {= RBS}"
+    },
+    {
+        "金紅石共振器": "rutile resonator"
+    },
+    {
+        "糖化槽": "saccharifying tank"
+    },
+    {
+        "糖量計": "saccharimeter"
+    },
+    {
+        "鞍形場透鏡": "saddle-field lens"
+    },
+    {
+        "安全警報器": "safety alarm"
+    },
+    {
+        "安全帶": "safety belt"
+    },
+    {
+        "安全剎車[器]": "safety brake"
+    },
+    {
+        "安全球吸管": "safety bulb pipet"
+    },
+    {
+        "安全球吸管": "safety bulb pipette"
+    },
+    {
+        "安全帽": "safety cap"
+    },
+    {
+        "安全栓": "safety cock"
+    },
+    {
+        "安全塞": "safety cork"
+    },
+    {
+        "安全斷流器": "safety cutout"
+    },
+    {
+        "安全斷流器": "safety cut-out"
+    },
+    {
+        "安全偵檢器": "safety detector"
+    },
+    {
+        "安全裝置": "safety device"
+    },
+    {
+        "安全漏斗": "safety funnel"
+    },
+    {
+        "保險絲": "safety fuse"
+    },
+    {
+        "安全玻璃": "safety glass"
+    },
+    {
+        "安全眼鏡；護目鏡": "safety glasses"
+    },
+    {
+        "安全護目鏡": "safety goggles"
+    },
+    {
+        "安全夾": "safety gripper"
+    },
+    {
+        "安全燈": "safety lamp"
+    },
+    {
+        "安全汞吸管": "safety mercury pipet"
+    },
+    {
+        "安全汞吸管": "safety mercury pipette"
+    },
+    {
+        "安全墊": "safety pad"
+    },
+    {
+        "安全吸管吸液器": "safety pipet filler"
+    },
+    {
+        "安全吸管吸液器": "safety pipette filler"
+    },
+    {
+        "安全插頭": "safety plug"
+    },
+    {
+        "安全繼電器": "safety relay"
+    },
+    {
+        "安全開關": "safety switch"
+    },
+    {
+        "安全虹吸管": "safety syphon"
+    },
+    {
+        "安全閥": "safety valve"
+    },
+    {
+        "匣缽坯": "sagger body"
+    },
+    {
+        "氯化銨電池[組]": "sal ammoniac battery"
+    },
+    {
+        "鹽水浴": "saline bath"
+    },
+    {
+        "鹽度計": "salinometer"
+    },
+    {
+        "鹽度計": "salometer"
+    },
+    {
+        "鹽浴": "salt bath"
+    },
+    {
+        "鹽浴爐": "salt bath furnace"
+    },
+    {
+        "鹽接受器": "salt catch"
+    },
+    {
+        "鹽接受器": "salt catcher"
+    },
+    {
+        "鹽浮計；鹽水比重計": "salt gage"
+    },
+    {
+        "鹽浮計；鹽水比重計": "salt gauge"
+    },
+    {
+        "鹽結晶器": "salt grainer"
+    },
+    {
+        "岩鹽稜鏡": "salt prism"
+    },
+    {
+        "鹽析蒸發器": "salting-out evaporator"
+    },
+    {
+        "試樣瓶": "sample bottle"
+    },
+    {
+        "試樣管": "sample cell"
+    },
+    {
+        "試樣收集器": "sample collector"
+    },
+    {
+        "試樣研磨機": "sample grinder"
+    },
+    {
+        "試樣架": "sample holder"
+    },
+    {
+        "試樣注射器": "sample injector"
+    },
+    {
+        "試樣旋轉器": "sample spinner"
+    },
+    {
+        "取樣器": "sampler"
+    },
+    {
+        "取樣器": "sampling apparatus"
+    },
+    {
+        "取樣袋": "sampling bag"
+    },
+    {
+        "取樣瓶": "sampling bottle"
+    },
+    {
+        "取樣探針": "sampling probe"
+    },
+    {
+        "取樣勺": "sampling spoon"
+    },
+    {
+        "取樣管": "sampling tube"
+    },
+    {
+        "取樣伏特計": "sampling voltmeter"
+    },
+    {
+        "砂浴": "sand bath"
+    },
+    {
+        "砂濾器": "sand filter"
+    },
+    {
+        "砂透鏡": "sand lens"
+    },
+    {
+        "砂篩": "sand screen"
+    },
+    {
+        "砂篩": "sand sieve"
+    },
+    {
+        "沙阱": "sand trap"
+    },
+    {
+        "噴砂室；噴砂腔": "sand-blasting chamber"
+    },
+    {
+        "噴砂槍": "sand-blasting gun"
+    },
+    {
+        "噴砂嘴": "sand-blasting nozzle"
+    },
+    {
+        "皂化燒瓶": "saponification flask"
+    },
+    {
+        "飽和電抗器": "saturable reactor"
+    },
+    {
+        "飽和變壓器": "saturation transformer"
+    },
+    {
+        "飽和器": "saturator"
+    },
+    {
+        "鋸": "saw"
+    },
+    {
+        "鋸齒壓碎機": "sawtooth crusher"
+    },
+    {
+        "鋸齒[波]產生器": "sawtooth generator"
+    },
+    {
+        "鋸齒波產生器": "sawtooth wave generator"
+    },
+    {
+        "煮沸器；煮沸消毒器": "scalder"
+    },
+    {
+        "秤；刻度尺": "scale"
+    },
+    {
+        "刻度指示器": "scale indicator"
+    },
+    {
+        "標識器；[刻度]標示器": "scale marker"
+    },
+    {
+        "刻度顯微鏡": "scale microscope"
+    },
+    {
+        "砝碼盤；秤盤；天平盤": "scale pan"
+    },
+    {
+        "刻度投影機": "scale projector"
+    },
+    {
+        "二進多諧振動器": "scale-of-two multivibrator"
+    },
+    {
+        "定標器；刮垢器；計數器；秤": "scaler"
+    },
+    {
+        "定標器印刷機": "scaler-printer"
+    },
+    {
+        "掃描轉換器": "scan converter"
+    },
+    {
+        "掃描器": "scanistor"
+    },
+    {
+        "掃描器": "scanner"
+    },
+    {
+        "掃描控制器": "scanner controller"
+    },
+    {
+        "掃描偵檢器": "scanner detector"
+    },
+    {
+        "掃描放大器": "scanning amplifier"
+    },
+    {
+        "掃描[式]電容顯微鏡": "scanning capacitance microscope {= SCM}"
+    },
+    {
+        "掃描化學電位顯微鏡": "scanning chemical-potential microscope {= SCPM}"
+    },
+    {
+        "掃描密度計；掃描光密度計": "scanning densitometer"
+    },
+    {
+        "掃描器": "scanning device"
+    },
+    {
+        "掃描電化學顯微鏡": "Scanning electrochemical microscope {= SECM}"
+    },
+    {
+        "掃描[式]電子顯微鏡": "scanning electron microscope {= SEM}"
+    },
+    {
+        "掃描發生器": "scanning generator"
+    },
+    {
+        "掃描霍爾探針顯微鏡": "scanning Hall probe microscope {= SHPM}"
+    },
+    {
+        "掃描望遠鏡；掃描潛望鏡": "scanning helioscope"
+    },
+    {
+        "掃描干涉計": "scanning interferometer"
+    },
+    {
+        "掃描離子導電顯微鏡": "scanning ion conductance microscope {= SICM}"
+    },
+    {
+        "掃描透鏡": "scanning lens"
+    },
+    {
+        "掃描磁阻顯微鏡": "scanning magnetoresistance microscope {= SMRM}"
+    },
+    {
+        "掃描馬克士威應力顯微鏡": "scanning Maxwell stress microscope {= SMSM}"
+    },
+    {
+        "掃描顯微鏡": "scanning microscope"
+    },
+    {
+        "掃描監測器": "scanning monitor"
+    },
+    {
+        "掃描單色器": "scanning monochromator"
+    },
+    {
+        "掃描[式]近場光學顯微鏡": "scanning near-field optical microscope {= SNOM}"
+    },
+    {
+        "掃描近場熱型顯微鏡": "scanning near-field thermal microscope {= SNTM}"
+    },
+    {
+        "掃描非線性介電顯微鏡": "scanning non-linear dielectric microscope {= SNDM}"
+    },
+    {
+        "掃描潛望鏡": "scanning periscope"
+    },
+    {
+        "掃描[式]發射光能譜顯微儀": "scanning photoemission spectromicroscope {= SPEM}"
+    },
+    {
+        "掃描稜鏡": "scanning prism"
+    },
+    {
+        "掃描探針顯微鏡": "scanning probe microscope {= SPM}"
+    },
+    {
+        "掃描輻射計": "scanning radiometer"
+    },
+    {
+        "掃描記錄器": "scanning recorder"
+    },
+    {
+        "掃描光譜儀": "scanning spectrometer"
+    },
+    {
+        "掃描展延電阻顯微鏡": "scanning spreading resistance microscope {= SSRM}"
+    },
+    {
+        "掃描立體觀察鏡": "scanning stereoviewer"
+    },
+    {
+        "掃描表面電位顯微鏡": "scanning surface potential microscope {= SSPM}"
+    },
+    {
+        "掃描熱顯微鏡": "scanning thermal microscope {= SThM}"
+    },
+    {
+        "掃描穿透[式]電子顯微鏡": "scanning transmission electron microscope {= STEM}"
+    },
+    {
+        "掃描穿隧顯微鏡": "scanning tunneling microscope {= STM}"
+    },
+    {
+        "掃描穿隧顯微鏡": "scanning tunnelling microscope {= STM}"
+    },
+    {
+        "掃描穿隧光譜儀": "scanning tunnelling spectroscope {= STS}"
+    },
+    {
+        "散射式近場掃描光學顯微鏡 {同 s-SNOM}": "scattering near-field scanning optical microscope {= s-NSOM}"
+    },
+    {
+        "電檢瑕器": "schisiophone"
+    },
+    {
+        "紋影儀": "schlieren"
+    },
+    {
+        "紋影干涉計": "schlieren interferometer"
+    },
+    {
+        "閃爍轉化器": "scintillation converter"
+    },
+    {
+        "閃爍計數器": "scintillation counter"
+    },
+    {
+        "閃爍偵檢器": "scintillation detector"
+    },
+    {
+        "閃爍探針": "scintillation probe"
+    },
+    {
+        "閃爍掃描器": "scintillation scanner"
+    },
+    {
+        "閃爍屏": "scintillation screen"
+    },
+    {
+        "閃爍光譜儀": "scintillation spectrometer"
+    },
+    {
+        "閃爍器": "scintillator"
+    },
+    {
+        "閃爍器槽": "scintillator tank"
+    },
+    {
+        "閃爍計數器": "scintillometer"
+    },
+    {
+        "閃爍鏡；閃爍儀": "scintilloscope"
+    },
+    {
+        "閃爍掃描器": "scintiscanner"
+    },
+    {
+        "硬度計": "sclerometer"
+    },
+    {
+        "硬度計；硬度[顯示]器": "scleroscope"
+    },
+    {
+        "顯示器": "scope"
+    },
+    {
+        "目場計；視野計": "scotometer"
+    },
+    {
+        "攪頻器": "scrambler"
+    },
+    {
+        "刮板運送機；刮運機": "scraper conveyer"
+    },
+    {
+        "劃痕硬度計": "scratch hardness tester"
+    },
+    {
+        "篩；屏": "screen"
+    },
+    {
+        "篩式離心機": "screen centrifuge"
+    },
+    {
+        "篩運機": "screen conveyor"
+    },
+    {
+        "屏柵": "screen grid"
+    },
+    {
+        "屏柵管": "screen grid tube"
+    },
+    {
+        "屏反射器": "screen reflector"
+    },
+    {
+        "屏蔽五極管": "screened pentode"
+    },
+    {
+        "篩選器；分級機": "screener"
+    },
+    {
+        "屏蔽電抗器": "screening reactor"
+    },
+    {
+        "屏蔽管": "screening tube"
+    },
+    {
+        "螺旋夾": "screw clamp"
+    },
+    {
+        "螺旋壓縮機；螺桿壓縮機": "screw compressor"
+    },
+    {
+        "螺旋運送機": "screw conveyer"
+    },
+    {
+        "螺旋運送機": "screw conveyor"
+    },
+    {
+        "螺旋飼機；螺桿進料機": "screw feeder"
+    },
+    {
+        "螺旋規": "screw gage"
+    },
+    {
+        "螺旋規": "screw gauge"
+    },
+    {
+        "螺旋流量計": "screw meter"
+    },
+    {
+        "螺桿測微計": "screw micrometer"
+    },
+    {
+        "螺旋壓機": "screw press"
+    },
+    {
+        "螺旋泵": "screw pump"
+    },
+    {
+        "檢驗螺旋干涉計": "screw testing interferometer"
+    },
+    {
+        "螺距規": "screw-thread pitch gage"
+    },
+    {
+        "螺距規": "screw-thread pitch gauge"
+    },
+    {
+        "螺旋式變阻器": "screw-type rheostat"
+    },
+    {
+        "洗滌器；洗氣器": "scrubber"
+    },
+    {
+        "洗氣塔；洗滌塔": "scrubbing tower"
+    },
+    {
+        "浮渣泵": "scum pump"
+    },
+    {
+        "密封罐": "seal pot"
+    },
+    {
+        "封環": "seal ring"
+    },
+    {
+        "密封空腔{諧振器}": "sealed cavity"
+    },
+    {
+        "密封泵": "sealed pump"
+    },
+    {
+        "密封整流器": "sealed rectifier"
+    },
+    {
+        "密封管": "sealed tube"
+    },
+    {
+        "密封計數器": "sealed-off counter"
+    },
+    {
+        "密封管": "sealed-off tube"
+    },
+    {
+        "封口機": "seamer"
+    },
+    {
+        "無縫管": "seamless pipe"
+    },
+    {
+        "探測線圈": "search coil"
+    },
+    {
+        "海水採樣器": "seawater sampler"
+    },
+    {
+        "正割檢流計": "secant galvanometer"
+    },
+    {
+        "電感計": "secohmmeter"
+    },
+    {
+        "秒擺": "second pendulum"
+    },
+    {
+        "二次電池[組]；蓄電池[組]": "secondary battery"
+    },
+    {
+        "蓄電池": "secondary cell"
+    },
+    {
+        "副線圈；二次線圈": "secondary coil"
+    },
+    {
+        "二次電子計數管": "secondary electron counter"
+    },
+    {
+        "二次發射光電管": "secondary emission cell"
+    },
+    {
+        "二次發射倍增器": "secondary emission multiplier"
+    },
+    {
+        "二次發射光電管": "secondary emission photocell"
+    },
+    {
+        "二級濾器；精濾器": "secondary filter"
+    },
+    {
+        "二次離子質譜儀": "secondary ion mass spectrometer {= SIMS}"
+    },
+    {
+        "二次沈降槽": "secondary settler"
+    },
+    {
+        "次級變壓器": "secondary transformer"
+    },
+    {
+        "第二級射出器": "secondary-stage ejector"
+    },
+    {
+        "秒擺": "seconds pendulum"
+    },
+    {
+        "沈積物捕集器": "sediment trap"
+    },
+    {
+        "沈積離心機": "sedimentation centrifuge"
+    },
+    {
+        "沈積槽": "sedimentation tank"
+    },
+    {
+        "晶種槽": "seed tank"
+    },
+    {
+        "反相放大器；蹺板放大器": "seesaw amplifier"
+    },
+    {
+        "反相緩衝器；蹺板緩衝器": "seesaw buffer"
+    },
+    {
+        "色格[示溫]熔錐": "Seger cone"
+    },
+    {
+        "分節鏡": "segmented mirror"
+    },
+    {
+        "分節鏡望遠鏡": "segmented mirror telescope"
+    },
+    {
+        "分節棒雷射": "segmented rod laser"
+    },
+    {
+        "隔熱器": "segregator"
+    },
+    {
+        "地震儀": "seismograph"
+    },
+    {
+        "地震計": "seismometer"
+    },
+    {
+        "驗[地]震器": "seismoscope"
+    },
+    {
+        "選擇吸收器": "selective absorber"
+    },
+    {
+        "選擇放大器": "selective amplifier"
+    },
+    {
+        "選擇偵檢器": "selective detector"
+    },
+    {
+        "選位發射器": "selective digit emitter"
+    },
+    {
+        "選擇過濾器": "selective filter"
+    },
+    {
+        "選擇性離子偵檢器": "selective ion detector"
+    },
+    {
+        "選擇性游離[真空度]計": "selective ionization gage"
+    },
+    {
+        "選擇性游離[真空度]計": "selective ionization gauge"
+    },
+    {
+        "選擇器": "selector"
+    },
+    {
+        "硒光電管": "selenic photoelectric cell"
+    },
+    {
+        "硒[光]電池；硒[光]電管": "selenium cell"
+    },
+    {
+        "硒光電[導]管；硒光[導]電池": "selenium conductive cell"
+    },
+    {
+        "硒光電管；硒光電池": "selenium photocell"
+    },
+    {
+        "硒光度計": "selenium photometer"
+    },
+    {
+        "硒整流器": "selenium rectifier"
+    },
+    {
+        "自給器": "self feeder"
+    },
+    {
+        "自動潤滑器": "self-acting lubricator"
+    },
+    {
+        "自動恆溫器": "self-acting thermostat"
+    },
+    {
+        "自動閥": "self-acting valve"
+    },
+    {
+        "自引動調節器": "self-actuated regulator"
+    },
+    {
+        "自調注射器": "self-adjusting injector"
+    },
+    {
+        "自[均]衡電橋": "self-balancing bridge"
+    },
+    {
+        "自[均]衡儀": "self-balancing instrument"
+    },
+    {
+        "自[均]衡倒相器": "self-balancing phase inverter"
+    },
+    {
+        "自[均]衡電位計": "self-balancing potentiometer"
+    },
+    {
+        "自[均]衡應變計": "self-balancing strain gage"
+    },
+    {
+        "自[均]衡應變計": "self-balancing strain gauge"
+    },
+    {
+        "自淨[粗]濾器": "self-cleaning strainer"
+    },
+    {
+        "自持電池[組]": "self-contained battery"
+    },
+    {
+        "自冷變壓器": "self-cooled transformer"
+    },
+    {
+        "自排離心機": "self-discharge centrifuge"
+    },
+    {
+        "自激振盪器": "self-excited oscillator"
+    },
+    {
+        "自給器": "self-feeder"
+    },
+    {
+        "自感線圈；自感器": "self-inductor"
+    },
+    {
+        "自動水準儀": "self-leveling level"
+    },
+    {
+        "自動水準儀": "self-levelling level"
+    },
+    {
+        "自調振盪器": "self-modulating oscillator"
+    },
+    {
+        "自操作控制器": "self-operated controller"
+    },
+    {
+        "自振盪管；自振盪閥": "self-oscillating valve"
+    },
+    {
+        "自振盪器": "self-oscillator"
+    },
+    {
+        "自起動泵": "self-priming pump"
+    },
+    {
+        "自動噴霧器；自[推]動霧化器": "self-propelled atomizer"
+    },
+    {
+        "自動記錄器": "self-recorder"
+    },
+    {
+        "自記溼度計": "self-recording hygrometer"
+    },
+    {
+        "自記壓力計": "self-recording manometer"
+    },
+    {
+        "自記溫度計": "self-recording thermometer"
+    },
+    {
+        "自調節泵": "self-regulating pump"
+    },
+    {
+        "自調節反應器": "self-regulating reactor"
+    },
+    {
+        "自復繼電器": "self-restoring relay"
+    },
+    {
+        "自發多諧振動器": "self-running multivibrator"
+    },
+    {
+        "自吸泵": "self-sucking pump"
+    },
+    {
+        "自動定時器": "self-timer"
+    },
+    {
+        "[自動]同步儀": "selsyn"
+    },
+    {
+        "半複消色差透鏡": "semi-apochromat"
+    },
+    {
+        "半自動整流器": "semi-automatic rectifier"
+    },
+    {
+        "半批式反應器": "semibatch reactor"
+    },
+    {
+        "半圓β譜儀": "semicircular β spectrograph"
+    },
+    {
+        "半導體": "semiconductor"
+    },
+    {
+        "半導體放大器": "semiconductor amplifier"
+    },
+    {
+        "半導體輻射熱計": "semiconductor bolometer"
+    },
+    {
+        "半導體控制整流器": "semiconductor controlled rectifier {= SCR}"
+    },
+    {
+        "半導體二極管；半導體二極體": "semiconductor diode"
+    },
+    {
+        "半導體雷射": "semiconductor laser"
+    },
+    {
+        "半導體熱電偶": "semiconductor thermocouple"
+    },
+    {
+        "半連續爐": "semi-continuous furnace"
+    },
+    {
+        "半微量卡計": "semimicro calorimeter"
+    },
+    {
+        "半透膜": "semipermeable membrane"
+    },
+    {
+        "半透射鏡": "semitransmitting mirror"
+    },
+    {
+        "半透明鏡": "semitransparent mirror"
+    },
+    {
+        "半透明[式]分光鏡": "semitransparent mirror splitter"
+    },
+    {
+        "半透明光電陰極": "semitransparent photocathode"
+    },
+    {
+        "傳送器；發報機": "sender"
+    },
+    {
+        "發報[電]鑰": "sender key"
+    },
+    {
+        "感測放大器": "sense amplifier"
+    },
+    {
+        "探向器": "sense finder"
+    },
+    {
+        "[方向]感測指示器": "sense indicator"
+    },
+    {
+        "感測暫存器": "sense register"
+    },
+    {
+        "感測開關": "sense switch"
+    },
+    {
+        "感測線圈": "sensing coil"
+    },
+    {
+        "感測元件": "sensing element"
+    },
+    {
+        "熱[變電]阻器；[熱]敏阻計": "sensistor"
+    },
+    {
+        "靈敏高度計": "sensitive altimeter"
+    },
+    {
+        "靈敏度補償器": "sensitivity compensator"
+    },
+    {
+        "感光計": "sensitometer"
+    },
+    {
+        "感測器": "sensor"
+    },
+    {
+        "分激[發]電機": "separately excited dynamo"
+    },
+    {
+        "分激振盪器": "separately excited oscillator"
+    },
+    {
+        "分離式卡計": "separating calorimeter"
+    },
+    {
+        "分液漏斗": "separating funnel"
+    },
+    {
+        "分束稜鏡": "separating prism"
+    },
+    {
+        "分離管柱；分離塔": "separation column"
+    },
+    {
+        "分離盤": "separation disk"
+    },
+    {
+        "分離塔": "separation tower"
+    },
+    {
+        "分離管": "separation tube"
+    },
+    {
+        "分離器；分離機": "separator"
+    },
+    {
+        "分離過濾器": "separator-filter"
+    },
+    {
+        "分離洗滌器；分離滌氣機": "separator-scrubber"
+    },
+    {
+        "分液漏斗": "separatory funnel"
+    },
+    {
+        "隔膜；隔片": "septum"
+    },
+    {
+        "隔片注射器": "septum injector"
+    },
+    {
+        "無隔片注射器": "septumless injector"
+    },
+    {
+        "無隔片注射器": "septumless syringe"
+    },
+    {
+        "定序儀；序列分析儀": "sequenator"
+    },
+    {
+        "順序控制暫存器": "sequence control register"
+    },
+    {
+        "順序計數器": "sequence counter"
+    },
+    {
+        "序列器；定序儀；序列分析儀": "sequencer"
+    },
+    {
+        "順序計算機": "sequential computer"
+    },
+    {
+        "串[列]加器": "serial adder"
+    },
+    {
+        "串列計算機": "serial computer"
+    },
+    {
+        "串化器{並串列轉換器}": "serializer"
+    },
+    {
+        "串聯升壓器": "series booster"
+    },
+    {
+        "串聯線圈": "series coil"
+    },
+    {
+        "串激發電機；串流發電機": "series generator"
+    },
+    {
+        "串激電動機": "series motor"
+    },
+    {
+        "串聯電阻器": "series resistor"
+    },
+    {
+        "串聯變壓器；串聯變換器": "series transformer"
+    },
+    {
+        "蛇管冷卻器": "serpentine cooler"
+    },
+    {
+        "調相轉發器；線性調頻轉發器": "serrodyne"
+    },
+    {
+        "[血清]橡皮帽；橡膠蓋": "serum cap"
+    },
+    {
+        "輔助泵": "service pump"
+    },
+    {
+        "伺服器": "servo"
+    },
+    {
+        "伺服加速度計": "servo accelerometer"
+    },
+    {
+        "伺服放大器": "servo amplifier"
+    },
+    {
+        "伺服機械手": "servo manipulator"
+    },
+    {
+        "伺服繪圖器": "servo plotter"
+    },
+    {
+        "伺服積分器": "servointegrator"
+    },
+    {
+        "伺服馬達；伺服電動機": "servomotor"
+    },
+    {
+        "伺服電位計": "servopotentiometer"
+    },
+    {
+        "伺服泵": "servopump"
+    },
+    {
+        "伺服閥": "servovalve"
+    },
+    {
+        "訂妥裝置；放置器": "set-down device"
+    },
+    {
+        "托架；裝定器；調節器": "setter"
+    },
+    {
+        "沈降器；沈降槽": "settler"
+    },
+    {
+        "沈降池；沈澱池": "settling basin"
+    },
+    {
+        "沈降離心機": "settling centrifuge"
+    },
+    {
+        "沈降室": "settling chamber"
+    },
+    {
+        "沈降槽": "settling tank"
+    },
+    {
+        "污水泵": "sewage pump"
+    },
+    {
+        "六分儀": "sextant"
+    },
+    {
+        "蔽極[式]馬達": "shaded-pole motor"
+    },
+    {
+        "陰影顯微鏡": "shadow microscope"
+    },
+    {
+        "比影光度計；陰影光度計": "shadow photometer"
+    },
+    {
+        "豎[式]爐": "shaft furnace"
+    },
+    {
+        "搖動器；振盪器": "shaker"
+    },
+    {
+        "搖動運送機；搖運機": "shaking conveyer"
+    },
+    {
+        "搖動篩": "shaking screen"
+    },
+    {
+        "搖動篩": "shaking sieve"
+    },
+    {
+        "搖動台": "shaking table"
+    },
+    {
+        "淺水槽": "shallow-water tank"
+    },
+    {
+        "測形儀": "shapometer"
+    },
+    {
+        "銳截止濾波器": "sharp cut-off filter"
+    },
+    {
+        "銳截止五極管": "sharp cut-off pentode"
+    },
+    {
+        "急速冷凍器": "sharp freezer"
+    },
+    {
+        "剪力顯微鏡": "shear force microscope {= ShFM}"
+    },
+    {
+        "錯位干涉儀；剪切干涉儀": "shearing interferometer"
+    },
+    {
+        "護套；鞘": "sheath"
+    },
+    {
+        "製板輥機；薄板軋輥": "sheeting roll"
+    },
+    {
+        "架": "shelf"
+    },
+    {
+        "鍋餾器": "shell still"
+    },
+    {
+        "殼式變壓器": "shell type transformer"
+    },
+    {
+        "殼管冷凝器": "shell-and-tube condenser"
+    },
+    {
+        "殼管熱交換器": "shell-and-tube heat exchanger"
+    },
+    {
+        "罩；擋板；屏": "shield"
+    },
+    {
+        "屏蔽電流計": "shield galvanometer"
+    },
+    {
+        "屏蔽槽": "shield tank"
+    },
+    {
+        "屏柵管": "shield-grid tube"
+    },
+    {
+        "屏蔽槽": "shielding tank"
+    },
+    {
+        "移位暫存器": "shift register"
+    },
+    {
+        "移相器；移位器；移頻器": "shifter"
+    },
+    {
+        "墊板；填隙片": "shim plate"
+    },
+    {
+        "粗控桿；粗控棒": "shim rod"
+    },
+    {
+        "減擺器；擺振阻尼器": "shimmy damper"
+    },
+    {
+        "減震器；避震器": "shock absorber"
+    },
+    {
+        "減震器；避震器": "shock damper"
+    },
+    {
+        "消震器": "shock eliminator"
+    },
+    {
+        "減震器；隔震器": "shock isolator"
+    },
+    {
+        "減震架": "shock mount"
+    },
+    {
+        "減震墊": "shock pad"
+    },
+    {
+        "減震器": "shock reducer"
+    },
+    {
+        "減震器": "shock suppressor"
+    },
+    {
+        "衝撃波管": "shock tube"
+    },
+    {
+        "衝撃波管": "shock wave tube"
+    },
+    {
+        "電震器": "shocker"
+    },
+    {
+        "鞋計數器": "shoe counter"
+    },
+    {
+        "短路開關": "short circuit switch"
+    },
+    {
+        "短磁透鏡": "short magnetic lens"
+    },
+    {
+        "短記憶偵檢器": "short memory detector"
+    },
+    {
+        "短頸漏斗": "short stemmed funnel"
+    },
+    {
+        "截短波濾[波]器": "short wave cut-off filter"
+    },
+    {
+        "短波振盪器": "short wave oscillator"
+    },
+    {
+        "短波接收機；短波收音機": "short wave receiver"
+    },
+    {
+        "短波發送機": "short wave transmitter"
+    },
+    {
+        "短焦距透鏡": "short-focus lens"
+    },
+    {
+        "短脈衝雷射": "short-pulse laser"
+    },
+    {
+        "短頸漏斗": "short-stem funnel"
+    },
+    {
+        "短頸漏斗": "short-stemmed funnel"
+    },
+    {
+        "截短波濾波器": "shortwave cutoff filter"
+    },
+    {
+        "陳列瓶": "show bottle"
+    },
+    {
+        "噴水器": "shower"
+    },
+    {
+        "撕碎機；碎紙機": "shredder"
+    },
+    {
+        "收縮管": "shrinkage pipe"
+    },
+    {
+        "收縮試桿": "shrinkage rod"
+    },
+    {
+        "分流器": "shunt"
+    },
+    {
+        "分流器箱": "shunt box"
+    },
+    {
+        "並聯電容器；分流電容器": "shunt capacitor"
+    },
+    {
+        "分流線圈；並聯線圈": "shunt coil"
+    },
+    {
+        "分激發電機": "shunt dynamo"
+    },
+    {
+        "分激發電機；並激發電機": "shunt generator"
+    },
+    {
+        "分激電動機；分激馬達": "shunt motor"
+    },
+    {
+        "分路電抗器；並聯電抗器": "shunt reactor"
+    },
+    {
+        "分路調節器；並聯調整器": "shunt regulator"
+    },
+    {
+        "分路電阻器；並聯電阻器": "shunt resistor"
+    },
+    {
+        "分路變阻器": "shunt rheostat"
+    },
+    {
+        "停機裝置；止動裝置": "shutdown device"
+    },
+    {
+        "斷路繼電器": "shutdown relay"
+    },
+    {
+        "光閘；快門；斷續器；閘門": "shutter"
+    },
+    {
+        "梭形電樞": "shuttle armature"
+    },
+    {
+        "支管燒瓶": "side arm flask"
+    },
+    {
+        "側鏡": "side mirror"
+    },
+    {
+        "支管燒瓶": "side neck flask"
+    },
+    {
+        "支流三通管": "side outlet tee"
+    },
+    {
+        "側流汽提塔": "side stripper"
+    },
+    {
+        "支管": "side tube"
+    },
+    {
+        "支管燒瓶": "side tube flask"
+    },
+    {
+        "旁帶放大器": "sideband amplifier"
+    },
+    {
+        "側流汽提塔": "side-stream stripper"
+    },
+    {
+        "側窗計數器": "side-window counter"
+    },
+    {
+        "篩；濾網": "sieve"
+    },
+    {
+        "篩板": "sieve plate"
+    },
+    {
+        "篩板塔；篩板管柱": "sieve plate column"
+    },
+    {
+        "篩板塔": "sieve plate tower"
+    },
+    {
+        "搖篩器": "sieve shaker"
+    },
+    {
+        "篩選機": "sieve sorter"
+    },
+    {
+        "篩板；篩盤": "sieve tray"
+    },
+    {
+        "篩管": "sieve tube"
+    },
+    {
+        "篩分機；篩選機": "sieving machine"
+    },
+    {
+        "篩[子]": "sifter"
+    },
+    {
+        "篩分機；篩選機": "sifting machine"
+    },
+    {
+        "瞄準器；觀測器": "sight"
+    },
+    {
+        "窺箱": "sight box"
+    },
+    {
+        "目視液流指示器": "sight flow indicator"
+    },
+    {
+        "觀測計；液面計": "sight gage"
+    },
+    {
+        "觀測計；液面計": "sight gauge"
+    },
+    {
+        "窺鏡；玻璃液面計；視鏡": "sight glass"
+    },
+    {
+        "視孔": "sight hole"
+    },
+    {
+        "顴測指示器": "sight indicator"
+    },
+    {
+        "窺管；觀測管": "sighting tube"
+    },
+    {
+        "高能X射線儀；西格馬加速器": "sigmatron"
+    },
+    {
+        "正負號正反器": "sign flip-flop"
+    },
+    {
+        "信號放大器": "signal amplifier"
+    },
+    {
+        "信號分析器": "signal analyzer"
+    },
+    {
+        "信號平均器": "signal averager"
+    },
+    {
+        "信號調節器": "signal conditioner"
+    },
+    {
+        "信號發生器；信號產生器": "signal generator"
+    },
+    {
+        "訊柵": "signal grid"
+    },
+    {
+        "信號調制器": "signal modulator"
+    },
+    {
+        "信號倍增器": "signal multiplier"
+    },
+    {
+        "信號倍增光電攝像管": "signal multiplier iconoscope"
+    },
+    {
+        "信號板": "signal plate"
+    },
+    {
+        "信號追蹤器": "signal tracer"
+    },
+    {
+        "變號放大器": "sign-changing amplifier"
+    },
+    {
+        "正負號核對指示器": "sign-check indicator"
+    },
+    {
+        "正負號控制正反器": "sign-control flip-flop"
+    },
+    {
+        "反號放大器；反向放大器": "sign-reversing amplifier"
+    },
+    {
+        "消音器": "silencer"
+    },
+    {
+        "矽石坩堝": "silica crucible"
+    },
+    {
+        "矽石微量天平": "silica microbalance"
+    },
+    {
+        "矽石鍋": "silica pot"
+    },
+    {
+        "矽電容器": "silicon capacitor"
+    },
+    {
+        "矽控整流器": "silicon controlled rectifier {= SCR}"
+    },
+    {
+        "矽偵檢器": "silicon detector"
+    },
+    {
+        "矽二極體": "silicon diode"
+    },
+    {
+        "矽光電池；矽光電管": "silicon photocell"
+    },
+    {
+        "矽光偵檢器": "silicon photodetector"
+    },
+    {
+        "矽光電發生器；矽光電池": "silicon photoelectric generator"
+    },
+    {
+        "矽光電晶體": "silicon phototransistor"
+    },
+    {
+        "矽整流器": "silicon rectifier"
+    },
+    {
+        "矽電阻器": "silicon resistor"
+    },
+    {
+        "矽太陽[能]電池": "silicon solar cell"
+    },
+    {
+        "矽電晶體": "silicon transistor"
+    },
+    {
+        "[聚]矽氧薄膜分離器": "silicone membrane separator"
+    },
+    {
+        "[聚]矽氧靶光導攝像管": "silicone target vidicon tube"
+    },
+    {
+        "[聚]矽氧選擇性偵檢器": "silicone-selective detector"
+    },
+    {
+        "正溫度係數電阻器": "silistor"
+    },
+    {
+        "碳化矽電阻器": "silit resistor"
+    },
+    {
+        "矽線石坩堝": "sillimanite crucible"
+    },
+    {
+        "銀電量計": "silver coulometer"
+    },
+    {
+        "銀箔靜電計": "silver leaf electrometer"
+    },
+    {
+        "銀滴定電量計": "silver titration coulometer"
+    },
+    {
+        "銀電量計": "silver voltameter"
+    },
+    {
+        "鍍銀反射器": "silver-coated reflector"
+    },
+    {
+        "[銀]接觸式調節器；銀觸頭電壓調整器": "silverstat regulator"
+    },
+    {
+        "簡諧振盪器": "simple harmonic oscillator"
+    },
+    {
+        "單透鏡": "simple lens"
+    },
+    {
+        "單顯微鏡；簡單顯微鏡": "simple microscope"
+    },
+    {
+        "單物鏡": "simple objective"
+    },
+    {
+        "單目鏡；簡單目鏡": "simple ocular"
+    },
+    {
+        "單擺": "simple pendulum"
+    },
+    {
+        "單反射測角計": "simple reflection goniometer"
+    },
+    {
+        "單缸泵": "simplex pump"
+    },
+    {
+        "單缸往復泵": "simplex reciprocating pump"
+    },
+    {
+        "單工轉發器": "simplex repeater"
+    },
+    {
+        "模擬器": "simulator"
+    },
+    {
+        "並行計算機": "simultaneous computer"
+    },
+    {
+        "並行作業計算機": "simultaneous operation computer"
+    },
+    {
+        "正弦靜電計": "sine electrometer"
+    },
+    {
+        "正弦電流計": "sine galvanometer"
+    },
+    {
+        "正弦電位計": "sine potentiometer"
+    },
+    {
+        "正弦波削波器": "sine wave clipper"
+    },
+    {
+        "正弦波發生器": "sine wave generator"
+    },
+    {
+        "振嗚抑制器": "singing suppressor"
+    },
+    {
+        "單動泵": "single acting pump"
+    },
+    {
+        "單弧爐": "single arc furnace"
+    },
+    {
+        "單梁天平；單樑天平": "single beam balance"
+    },
+    {
+        "單頻道分析儀": "single channel analyzer"
+    },
+    {
+        "單頻道示波器": "single channel oscilloscope"
+    },
+    {
+        "單晶加馬譜儀": "single crystal gamma spectrometer"
+    },
+    {
+        "單效蒸發器": "single effect evaporator"
+    },
+    {
+        "單聚焦質譜儀": "single focusing mass spectrometer"
+    },
+    {
+        "單透鏡": "single lens"
+    },
+    {
+        "單凹凸透鏡": "single meniscus"
+    },
+    {
+        "單盤天平": "single pan balance"
+    },
+    {
+        "單向冷凝器；單向電容器": "single pass condenser"
+    },
+    {
+        "單相交流發電機": "single phase alternator"
+    },
+    {
+        "單相整流器": "single phase rectifier"
+    },
+    {
+        "單相變壓器": "single phase transformer"
+    },
+    {
+        "單光子發射電腦斷層掃描儀": "single photon emission computed tomography {= SPECT}"
+    },
+    {
+        "單光子射出電腦加馬閃爍攝影機": "single photon emission computerized gamma scintillation camera"
+    },
+    {
+        "單目標反應器": "single purpose reactor"
+    },
+    {
+        "單環三腳架": "single ring tripod"
+    },
+    {
+        "單邊帶接收機": "single side band receiver"
+    },
+    {
+        "單狹縫": "single slit"
+    },
+    {
+        "單級離心泵": "single stage centrifugal pump"
+    },
+    {
+        "單級壓縮機": "single stage compressor"
+    },
+    {
+        "單級反應器": "single stage reactor"
+    },
+    {
+        "單衝多諧振動器": "single stroke multivibrator"
+    },
+    {
+        "單擺振盪器": "single swing oscillator"
+    },
+    {
+        "單投開關；單向開關": "single throw switch"
+    },
+    {
+        "單軌錄音機；單軌記錄器": "single track recorder"
+    },
+    {
+        "單管注射器": "single tube injector"
+    },
+    {
+        "單調[諧]放大器": "single tuned amplifier"
+    },
+    {
+        "單片衰減器": "single vane attenuator"
+    },
+    {
+        "單波長選擇器": "single wavelength selector"
+    },
+    {
+        "單向栓": "single way stopcock"
+    },
+    {
+        "單頻道[熱]輻射計；單波道[熱]輻射計": "single-channel radiometer"
+    },
+    {
+        "單管壓力計": "single-column manometer"
+    },
+    {
+        "單晶光電導體；單晶光敏電阻": "single-crystal photoconductor"
+    },
+    {
+        "單液電池": "single-fluid voltaic cell"
+    },
+    {
+        "單頻信號發生器": "single-frequency signal generator"
+    },
+    {
+        "單接頭真空熱電堆": "single-junction vacuum thermopile"
+    },
+    {
+        "單相管式加熱器": "single-phase tubular heater"
+    },
+    {
+        "單點記錄器": "single-point recorder"
+    },
+    {
+        "單極接觸器": "single-pole contactor"
+    },
+    {
+        "單極接受器": "single-pole receiver"
+    },
+    {
+        "單極開關": "single-pole switch"
+    },
+    {
+        "單壓冷凝器": "single-pressure condenser"
+    },
+    {
+        "單脈衝伏特計": "single-pulse voltmeter"
+    },
+    {
+        "單輥壓碎機": "single-roll crusher"
+    },
+    {
+        "單螺桿擠壓機": "single-screw extruder"
+    },
+    {
+        "單發多諧振動器": "single-shot multivibrator"
+    },
+    {
+        "單吸渦卷泵": "single-suction volute pump"
+    },
+    {
+        "單槽斷路器": "single-tank breaker"
+    },
+    {
+        "水槽": "sink"
+    },
+    {
+        "沈水泵；沈式泵": "sinking pump"
+    },
+    {
+        "燒結鋁氧坩堝": "sintered alumina crucible"
+    },
+    {
+        "燒結鈹氧坩堝": "sintered beryllia crucible"
+    },
+    {
+        "燒結過濾器": "sintered filter"
+    },
+    {
+        "燒結爐": "sintered furnace"
+    },
+    {
+        "燒結玻璃濾器": "sintered glass filter"
+    },
+    {
+        "燒結板": "sintered plate"
+    },
+    {
+        "燒結爐": "sintering furnace"
+    },
+    {
+        "正弦波振盪器": "sinusoidal oscillator"
+    },
+    {
+        "虹吸管": "siphon"
+    },
+    {
+        "虹吸氣壓儀": "siphon barograph"
+    },
+    {
+        "虹吸氣壓計": "siphon barometer"
+    },
+    {
+        "虹吸壓力計": "siphon gage"
+    },
+    {
+        "虹吸壓力計": "siphon gauge"
+    },
+    {
+        "虹吸管": "siphon pipe"
+    },
+    {
+        "虹吸泵": "siphon pump"
+    },
+    {
+        "虹吸記錄器": "siphon recorder"
+    },
+    {
+        "虹吸阱": "siphon trap"
+    },
+    {
+        "虹吸管": "siphon tube"
+    },
+    {
+        "虹吸管氣壓儀": "siphone barograph"
+    },
+    {
+        "虹吸管氣壓計": "siphone barometer"
+    },
+    {
+        "驗音盤": "siren disk"
+    },
+    {
+        "粒徑篩析層析儀": "size-exclusion chromatograph {= SEC}"
+    },
+    {
+        "分粒器；篩子；篩分機": "sizer"
+    },
+    {
+        "粒子研磨機": "sizer reduction machine"
+    },
+    {
+        "分級篩；分粒篩": "sizing screen"
+    },
+    {
+        "歪斜齒輪": "skew bevel gear"
+    },
+    {
+        "X射線強度計；X線量儀": "skiameter"
+    },
+    {
+        "X射線透視鏡；眼膜曲率器": "skiascope"
+    },
+    {
+        "投映管 {暗跡示波管}": "skiatron"
+    },
+    {
+        "防滑電位計": "skid potentiometer"
+    },
+    {
+        "分離器；除沫器；撇乳器": "skimmer"
+    },
+    {
+        "乳油分離機": "skimming machine"
+    },
+    {
+        "表面溫度計": "skin temperature meter"
+    },
+    {
+        "有外殼計數器": "skirt counter"
+    },
+    {
+        "削皮機": "skiving machine"
+    },
+    {
+        "平板凝膠電泳儀": "slab gel electrophoresis"
+    },
+    {
+        "切片機；切塊機": "slabber"
+    },
+    {
+        "撇渣器": "slag separator"
+    },
+    {
+        "消石灰器": "slaker"
+    },
+    {
+        "漿紗機；切碎器；斷木機": "slasher"
+    },
+    {
+        "填板塔": "slate-packed tower"
+    },
+    {
+        "填板塔": "slate-packing tower"
+    },
+    {
+        "從屬電腦；從屬計算機": "slave computer"
+    },
+    {
+        "副控制器；從屬控制器": "slave controller"
+    },
+    {
+        "從屬振盪器": "slave oscillator"
+    },
+    {
+        "大鎚": "sledge hammer"
+    },
+    {
+        "拋光鎚": "sleeking hammer"
+    },
+    {
+        "磨光盆": "sleeking tub"
+    },
+    {
+        "套[管]": "sleeve"
+    },
+    {
+        "套筒連結器": "sleeve coupling"
+    },
+    {
+        "套筒接頭": "sleeve joint"
+    },
+    {
+        "套筒活塞泵": "sleeve pump"
+    },
+    {
+        "套閥；滑動閥": "sleeving valve"
+    },
+    {
+        "切片機": "slicer"
+    },
+    {
+        "滑動偶合器；滑動耦合器": "slide coupler"
+    },
+    {
+        "幻燈機": "slide projector"
+    },
+    {
+        "滑觸變阻器；滑動變阻器": "slide rheostat"
+    },
+    {
+        "計算尺": "slide rule"
+    },
+    {
+        "滑閥泵": "slide valve pump"
+    },
+    {
+        "滑線電橋": "slide wire bridge"
+    },
+    {
+        "滑線電橋": "slidewire bridge"
+    },
+    {
+        "滑線電橋": "slide-wire bridge"
+    },
+    {
+        "滑線電位計": "slide-wire potentiometer"
+    },
+    {
+        "滑動電容器": "sliding condenser"
+    },
+    {
+        "滑動微操縱器": "sliding micromanipulator"
+    },
+    {
+        "滑片壓縮機": "sliding-vane compressor"
+    },
+    {
+        "滑片旋轉泵": "sliding-vane rotary pump"
+    },
+    {
+        "滑片真空泵": "sliding-vane vacuum pump"
+    },
+    {
+        "搖轉濕度計": "sling hygrometer"
+    },
+    {
+        "搖轉濕度計": "sling psychrometer"
+    },
+    {
+        "搖轉溫度計": "sling thermometer"
+    },
+    {
+        "轉差計": "slip counter"
+    },
+    {
+        "滑規": "slip gage"
+    },
+    {
+        "滑規": "slip gauge"
+    },
+    {
+        "匯電環；滑環": "slip ring"
+    },
+    {
+        "狹縫規": "slit gage"
+    },
+    {
+        "狹縫規": "slit gauge"
+    },
+    {
+        "狹縫燈": "slit lamp"
+    },
+    {
+        "狹縫透鏡": "slit lens"
+    },
+    {
+        "狹縫分光鏡": "slit spectroscope"
+    },
+    {
+        "狹縫超顯微鏡": "slit ultramicroscope"
+    },
+    {
+        "無狹縫攝譜儀": "slitless spectrograph"
+    },
+    {
+        "切割器；縱斷器": "slitter"
+    },
+    {
+        "斜率偵檢器": "slope detector"
+    },
+    {
+        "測斜儀；測斜器": "slope level"
+    },
+    {
+        "測斜計": "slope meter"
+    },
+    {
+        "槽": "slot"
+    },
+    {
+        "槽孔天線": "slot antenna"
+    },
+    {
+        "扁焰燃燒器": "slot burner"
+    },
+    {
+        "槽磨機": "slot grinder"
+    },
+    {
+        "[有]槽磁控管": "slot magnetron"
+    },
+    {
+        "槽孔輻射器": "slot radiator"
+    },
+    {
+        "無槽磁控管": "slotless magnetron"
+    },
+    {
+        "槽心電樞": "slotted-core armature"
+    },
+    {
+        "槽型共振器": "slot-type resonator"
+    },
+    {
+        "慢[中子]反應器": "slow reactor"
+    },
+    {
+        "長餘輝螢光幕；長餘輝螢光屏": "slow screen"
+    },
+    {
+        "慢速儲存器；慢速記憶體": "slow-access memory"
+    },
+    {
+        "慢中子反應器": "slow-neutron reactor"
+    },
+    {
+        "排泥泵；污泥泵": "sludge pump"
+    },
+    {
+        "殘渣槽": "sludge tank"
+    },
+    {
+        "污泥增濃器": "sludge thickener"
+    },
+    {
+        "濾漿器": "slurry filter"
+    },
+    {
+        "漿體反應器；漿料反應器": "slurry reactor"
+    },
+    {
+        "漿體增濃器": "slurry thickener"
+    },
+    {
+        "小角度X光散射儀": "small angle X-ray scattering spectrometer {= SAXS}"
+    },
+    {
+        "小信號電晶體": "small signal transistor"
+    },
+    {
+        "小體積劑量計": "small volume dosimeter"
+    },
+    {
+        "熔煉爐": "smelter"
+    },
+    {
+        "熔煉爐": "smelting furnace"
+    },
+    {
+        "熔煉坩堝": "smelting pot"
+    },
+    {
+        "發煙罐": "smoke candle"
+    },
+    {
+        "探煙器；煙感器": "smoke detector"
+    },
+    {
+        "除煙器": "smoke eliminator"
+    },
+    {
+        "濾煙器": "smoke filter"
+    },
+    {
+        "發煙器": "smoke generator"
+    },
+    {
+        "煙[濃度]指示器": "smoke indicator"
+    },
+    {
+        "發煙罐": "smoke pot"
+    },
+    {
+        "洗煙器": "smoke washer"
+    },
+    {
+        "發煙燈": "smoking burner"
+    },
+    {
+        "平流器；平化濾波器": "smoother"
+    },
+    {
+        "平流電容器": "smoothing condenser"
+    },
+    {
+        "平化濾波器；平流濾器": "smoothing filter"
+    },
+    {
+        "快動開關": "snap action switch"
+    },
+    {
+        "卡規": "snap gage"
+    },
+    {
+        "卡規": "snap gauge"
+    },
+    {
+        "彈簧開關；快動開關": "snap switch"
+    },
+    {
+        "快動閥": "snap valve"
+    },
+    {
+        "取樣器；[真空]檢漏器": "sniffer"
+    },
+    {
+        "噴氣閥；通氣閥": "snifter valve"
+    },
+    {
+        "噴氣閥；通氣閥": "snifting valve"
+    },
+    {
+        "夜視鏡": "snooperscope"
+    },
+    {
+        "減震器": "snubber"
+    },
+    {
+        "浸捲機；浸糖桶": "soaked bobbin"
+    },
+    {
+        "均熱爐": "soaking furnace"
+    },
+    {
+        "皂泡流量計": "soap bubble flowmeter"
+    },
+    {
+        "皂膜流量計": "soap film flowmeter"
+    },
+    {
+        "皂膜氣量計": "soap film gas meter"
+    },
+    {
+        "插座": "socket"
+    },
+    {
+        "插座插頭；插座轉接器": "socket adapter"
+    },
+    {
+        "插座連接器": "socket connector"
+    },
+    {
+        "鈉弧燈": "sodium arc lamp"
+    },
+    {
+        "鈉石墨反應器": "sodium graphite reactor"
+    },
+    {
+        "鈉[汽]燈": "sodium lamp"
+    },
+    {
+        "鈉光子計數器": "sodium photon counter"
+    },
+    {
+        "壓鈉器；壓鈉機": "sodium press"
+    },
+    {
+        "鈉熱離子偵檢器": "sodium thermionic detector"
+    },
+    {
+        "鈉汽燈": "sodium vapor lamp"
+    },
+    {
+        "鈉冷[卻]反應器": "sodium-cooled reactor"
+    },
+    {
+        "鈉敏化熱離子偵檢器": "sodium-sensitized thermoionic detector"
+    },
+    {
+        "軟加器": "soft adder"
+    },
+    {
+        "軟性X射線機": "soft X-ray machine"
+    },
+    {
+        "軟X射線管": "soft X-ray tube"
+    },
+    {
+        "軟化器": "softener"
+    },
+    {
+        "軟化槽": "softening tank"
+    },
+    {
+        "土壤採樣鑽；土鑽": "soil auger"
+    },
+    {
+        "土壤粒徑分析儀": "soil particle size analyzer"
+    },
+    {
+        "太陽[能]電池[組]": "solar battery"
+    },
+    {
+        "太陽[能]電池": "solar cell"
+    },
+    {
+        "太陽能收集器": "solar collector"
+    },
+    {
+        "太陽能轉換器": "solar energy converter"
+    },
+    {
+        "太陽能爐": "solar furnace"
+    },
+    {
+        "太陽[能]發電機": "solar generator"
+    },
+    {
+        "太陽能[電池]板": "solar panel"
+    },
+    {
+        "太陽望遠鏡": "solar telescope"
+    },
+    {
+        "天空輻射計；日射計": "solarimeter"
+    },
+    {
+        "焊接器": "soldering apparatus"
+    },
+    {
+        "螺[線]管引動器；電磁引動器": "solenoid actuator"
+    },
+    {
+        "螺[線]管安培計；電磁安培計": "solenoid ammeter"
+    },
+    {
+        "電磁剎車；螺線管制動器": "solenoid brake"
+    },
+    {
+        "螺[線]管閥；電磁閥": "solenoid valve"
+    },
+    {
+        "螺[線]管感應器": "solenoidal inductor"
+    },
+    {
+        "固體電介質雷射": "solid dielectric laser"
+    },
+    {
+        "實體影像顯影鏡；實體影像顯微鏡": "solid image microscope"
+    },
+    {
+        "固體游離室；固體游離腔": "solid ionization chamber"
+    },
+    {
+        "固體雷射": "solid laser"
+    },
+    {
+        "固態電池[組]": "solid state battery"
+    },
+    {
+        "固態電容器": "solid state capacitor"
+    },
+    {
+        "固態計算機；[電]晶體計算機": "solid state computer"
+    },
+    {
+        "固態偵檢器": "solid state detector"
+    },
+    {
+        "固態顯像管": "solid state image converter"
+    },
+    {
+        "固態燈": "solid state lamp"
+    },
+    {
+        "固態雷射": "solid state laser"
+    },
+    {
+        "固態核磁共振儀": "solid state NMR {solid state nuclear magnetic resonance spectrometer}"
+    },
+    {
+        "固態核磁共振儀": "solid state nuclear magnetic resonance spectrometer {= NMR}"
+    },
+    {
+        "固態閘流管": "solid state thyratron"
+    },
+    {
+        "固體床反應器": "solid-bed reactor"
+    },
+    {
+        "固液旋液分離器；固液旋流器": "solid-liquid cyclone"
+    },
+    {
+        "溶液天平": "solution balance"
+    },
+    {
+        "溶液閃爍計數器": "solution scintillation counter"
+    },
+    {
+        "溶劑收集槽": "solvent catch tank"
+    },
+    {
+        "聲納": "sonar"
+    },
+    {
+        "聲測高度計": "sonic altimeter"
+    },
+    {
+        "聲波探傷儀；聲波分析器": "sonic analyzer"
+    },
+    {
+        "聲波風速計": "sonic anemometer"
+    },
+    {
+        "音波收集器；音波集塵器": "sonic collector"
+    },
+    {
+        "聲波偵檢器": "sonic detector"
+    },
+    {
+        "聲波干涉計": "sonic interferometer"
+    },
+    {
+        "聲波液位計": "sonic liquid level meter"
+    },
+    {
+        "噪音分析器": "sonic noise analyzer"
+    },
+    {
+        "音速噴嘴": "sonic nozzle"
+    },
+    {
+        "聲泵": "sonic pump"
+    },
+    {
+        "聲管": "sonic tube"
+    },
+    {
+        "超音波振盪器；超音波發生器": "sonicator"
+    },
+    {
+        "聲波探測(器)": "soniscope"
+    },
+    {
+        "聲震儀；聲譜儀": "sonograph"
+    },
+    {
+        "聲譜顯示儀": "sonolator"
+    },
+    {
+        "弦音計": "sonometer"
+    },
+    {
+        "吹灰器": "soot blower"
+    },
+    {
+        "集灰器": "soot collector"
+    },
+    {
+        "吸著偵檢器": "sorption detector"
+    },
+    {
+        "吸附泵；吸著泵": "sorption pump"
+    },
+    {
+        "吸著熱偵檢器": "sorptiothermal detector"
+    },
+    {
+        "分類器；排序器；選擇器": "sorter"
+    },
+    {
+        "分類機；排序機": "sorting machine"
+    },
+    {
+        "分類篩": "sorting screen"
+    },
+    {
+        "共鳴板": "sound board"
+    },
+    {
+        "減聲器": "sound damper"
+    },
+    {
+        "檢聲器": "sound detector"
+    },
+    {
+        "聲級測量儀；噪音計": "sound level meter"
+    },
+    {
+        "聲波定位器": "sound locator"
+    },
+    {
+        "聲級計；噪音計": "sound meter"
+    },
+    {
+        "聲[波]輻射器": "sound radiator"
+    },
+    {
+        "聲[波]測距儀": "sound ranger"
+    },
+    {
+        "聲譜儀": "sound spectrograph"
+    },
+    {
+        "抑音器": "sound suppressor"
+    },
+    {
+        "聲波示振儀": "sound vibrograph"
+    },
+    {
+        "發聲器": "sounder"
+    },
+    {
+        "探測氣球": "sounding balloon"
+    },
+    {
+        "聲壓計": "sound-pressure meter"
+    },
+    {
+        "間隙規": "space gage"
+    },
+    {
+        "間隙規": "space gauge"
+    },
+    {
+        "太空探測船；太空探測器": "space probe"
+    },
+    {
+        "空間模擬器": "space simulator"
+    },
+    {
+        "太空太陽[能]電池": "space solar cell"
+    },
+    {
+        "太空載具；太空船": "space vehicle"
+    },
+    {
+        "扳手": "spanner"
+    },
+    {
+        "噴粉器；噴液器；噴氣器": "sparger"
+    },
+    {
+        "電花抑制器；火花抑制器": "spark arrester"
+    },
+    {
+        "電花電容器": "spark capacitor"
+    },
+    {
+        "電花室": "spark chamber"
+    },
+    {
+        "電花線圈；火花線圈": "spark coil"
+    },
+    {
+        "火花計數器；電花計數器": "spark counter"
+    },
+    {
+        "火花偵檢器；電花偵檢器": "spark detector"
+    },
+    {
+        "電花偵檢器；火花放電偵檢器": "spark discharge detector"
+    },
+    {
+        "火花發生器；火花產生器": "spark generator"
+    },
+    {
+        "火花消滅器": "spark killer"
+    },
+    {
+        "電花測微計；火花測微計": "spark micrometer"
+    },
+    {
+        "火花塞；火星塞": "spark plug"
+    },
+    {
+        "電花計時器；火花計時器": "spark timer"
+    },
+    {
+        "電花發送機": "spark transmitter"
+    },
+    {
+        "刮勺": "spatula"
+    },
+    {
+        "擴音器；喇叭": "speaker"
+    },
+    {
+        "特殊氣體環境爐": "special atmosphere furnace"
+    },
+    {
+        "專用計算機": "special purpose computer"
+    },
+    {
+        "比重秤；比重天平": "specific gravity balance"
+    },
+    {
+        "比重瓶": "specific gravity bottle"
+    },
+    {
+        "比重電池": "specific gravity cell"
+    },
+    {
+        "比重管": "specific gravity tube"
+    },
+    {
+        "標本瓶": "specimen bottle"
+    },
+    {
+        "光譜濾器；[光譜]濾光片": "spectral filter"
+    },
+    {
+        "光譜溼度計": "spectral hygrometer"
+    },
+    {
+        "光譜光度計": "spectral photometer"
+    },
+    {
+        "光譜折射計": "spectral refractometer"
+    },
+    {
+        "光譜靈敏高溫計": "spectral-sensitive pyrometer"
+    },
+    {
+        "分光變阻測熱計；光譜熱[測定]計": "spectrobolometer"
+    },
+    {
+        "光譜比較器；光譜比較儀": "spectrocomparator"
+    },
+    {
+        "分光光密度計": "spectrodensitometer"
+    },
+    {
+        "分光螢光計": "spectrofluorometer"
+    },
+    {
+        "螢光分光光度計": "spectrofluorophotometer"
+    },
+    {
+        "攝譜儀；光譜儀": "spectrograph"
+    },
+    {
+        "譜移反應器": "spectrograph shift reactor"
+    },
+    {
+        "譜儀管": "spectrograph tube"
+    },
+    {
+        "光譜照相機": "spectrographic camera"
+    },
+    {
+        "太陽表面[活動]攝影機": "spectroheliocinematograph"
+    },
+    {
+        "太陽光譜儀，太陽分光計": "spectroheliometer"
+    },
+    {
+        "分光計；[光]譜儀": "spectrometer"
+    },
+    {
+        "譜儀偵檢器": "spectrometer detector"
+    },
+    {
+        "分光計管": "spectrometer tube"
+    },
+    {
+        "分光光度計；光譜儀": "spectrophotometer"
+    },
+    {
+        "分光偏振計；分光偏光計；分光旋光計": "spectropolarimeter"
+    },
+    {
+        "分光日光計": "spectropyrheliometer"
+    },
+    {
+        "分光高溫計；光譜高溫計": "spectropyrometer"
+    },
+    {
+        "分光輻射計": "spectroradiometer"
+    },
+    {
+        "分光鏡；光譜儀": "spectroscope"
+    },
+    {
+        "光譜分析器": "spectroscopic analyzer"
+    },
+    {
+        "光譜分析器；能譜分析器；頻譜分析器；析譜器": "spectrum analyzer"
+    },
+    {
+        "選譜器；頻譜選擇器": "spectrum selector"
+    },
+    {
+        "金屬鏡；反射鏡": "speculum"
+    },
+    {
+        "語音放大器": "speech amplifier"
+    },
+    {
+        "調速變阻器": "speed adjusting rheostat"
+    },
+    {
+        "變速器": "speed changer"
+    },
+    {
+        "計速器": "speed counter"
+    },
+    {
+        "調速器": "speed governor"
+    },
+    {
+        "增速器": "speed increaser"
+    },
+    {
+        "速率指示器": "speed indicator"
+    },
+    {
+        "擴速器；倍速器": "speed multiplier"
+    },
+    {
+        "調速變阻器": "speed regulating rheostat"
+    },
+    {
+        "調速器": "speed regulator"
+    },
+    {
+        "速率同步器": "speed synchronizer"
+    },
+    {
+        "遙示速率器": "speed teleindicator"
+    },
+    {
+        "遙記速率器": "speed telerecorder"
+    },
+    {
+        "速率計": "speedometer"
+    },
+    {
+        "積分球光度計": "sphere photometer"
+    },
+    {
+        "球閥": "sphere valve"
+    },
+    {
+        "球擺": "spheric pendulum"
+    },
+    {
+        "球形電樞": "spherical armature"
+    },
+    {
+        "球面透鏡": "spherical lens"
+    },
+    {
+        "球面凹凸透鏡；球面彎月形透鏡": "spherical meniscus"
+    },
+    {
+        "球面鏡": "spherical mirror"
+    },
+    {
+        "球面鏡干涉儀": "spherical mirror interferometer"
+    },
+    {
+        "球擺": "spherical pendulum"
+    },
+    {
+        "球面磨光器": "spherical polisher"
+    },
+    {
+        "球形反應器": "spherical reactor"
+    },
+    {
+        "球面反射器": "spherical reflector"
+    },
+    {
+        "球向量分解儀；球面分解器": "spherical resolver"
+    },
+    {
+        "球柱面透鏡": "sphero-cylindrical lens"
+    },
+    {
+        "球徑計": "spherometer"
+    },
+    {
+        "腳架": "spider"
+    },
+    {
+        "鏡面聚光器": "spiegel condenser"
+    },
+    {
+        "遮光柵": "spill shield"
+    },
+    {
+        "轉速計": "spin counter"
+    },
+    {
+        "旋轉式脫水機；離心式脫水機": "spin drier"
+    },
+    {
+        "旋轉式集塵器": "spin dust collector"
+    },
+    {
+        "旋轉分布機": "spinner distributor"
+    },
+    {
+        "紡絲浴": "spinning bath"
+    },
+    {
+        "角速計": "spin-rate meter"
+    },
+    {
+        "閃爍鏡": "spinthariscope"
+    },
+    {
+        "螺旋管": "spiral"
+    },
+    {
+        "螺旋攪拌器": "spiral agitator"
+    },
+    {
+        "簧秤": "spiral balance"
+    },
+    {
+        "螺旋斜齒輪": "spiral bevel gear"
+    },
+    {
+        "螺旋鑽": "spiral bit"
+    },
+    {
+        "旋管燈；螺管燈": "spiral burner"
+    },
+    {
+        "螺紋鑿紋器": "spiral burr"
+    },
+    {
+        "螺旋斜槽；螺旋滑槽": "spiral chute"
+    },
+    {
+        "螺旋冷凝器": "spiral condenser"
+    },
+    {
+        "螺旋銑刀": "spiral cutter"
+    },
+    {
+        "螺旋導管": "spiral duct"
+    },
+    {
+        "螺線電極；螺形電極": "spiral electrode"
+    },
+    {
+        "旋流式清洗機": "spiral flow washer"
+    },
+    {
+        "螺齒輪泵": "spiral gear pump"
+    },
+    {
+        "螺旋重力分離器": "spiral gravity separator"
+    },
+    {
+        "螺旋熱交換器": "spiral heat exchanger"
+    },
+    {
+        "螺管[加]熱器": "spiral heater"
+    },
+    {
+        "螺旋混合器": "spiral mixer"
+    },
+    {
+        "蛇管；螺旋盤管": "spiral pipe"
+    },
+    {
+        "螺旋板熱交換器": "spiral plate heat-exchanger"
+    },
+    {
+        "螺旋泵": "spiral pump"
+    },
+    {
+        "螺旋環": "spiral ring"
+    },
+    {
+        "螺旋分離器": "spiral separator"
+    },
+    {
+        "螺旋分光計；螺旋[形]譜儀": "spiral spectrometer"
+    },
+    {
+        "螺簧": "spiral spring"
+    },
+    {
+        "螺旋線波導管": "spiral-coil waveguide"
+    },
+    {
+        "酒精比重計": "spirit gage"
+    },
+    {
+        "酒精比重計": "spirit gauge"
+    },
+    {
+        "酒精燈": "spirit lamp"
+    },
+    {
+        "氣泡水準儀；酒精水平儀": "spirit level"
+    },
+    {
+        "編接器；接續器；鑲接器": "splicer"
+    },
+    {
+        "雙瓣陽極": "split anode"
+    },
+    {
+        "分裂式水聽器": "split hydrophone"
+    },
+    {
+        "對切透鏡；剖開透鏡": "split lens"
+    },
+    {
+        "分極變流器": "split pole converter"
+    },
+    {
+        "分裂式投射器": "split projector"
+    },
+    {
+        "裂環整流器": "split ring commutator"
+    },
+    {
+        "分定片電容器": "split stator condenser"
+    },
+    {
+        "雙瓣陽極磁控管；雙腔磁控管": "split-anode magnetron"
+    },
+    {
+        "分流反應器": "split-flow reactor"
+    },
+    {
+        "分相電動機；分相馬達": "split-phase motor"
+    },
+    {
+        "分流器；分離器": "splitter"
+    },
+    {
+        "分線箱": "splitter box"
+    },
+    {
+        "海綿濾器": "sponge filter"
+    },
+    {
+        "線軸；卷軸；卷線筒；管": "spool"
+    },
+    {
+        "蝴蝶絕緣器": "spool insulator"
+    },
+    {
+        "匙；勺": "spoon"
+    },
+    {
+        "聚點束射天線": "spot beam antenna"
+    },
+    {
+        "斑點收集器": "spot collector"
+    },
+    {
+        "光點電流計": "spot galvanometer"
+    },
+    {
+        "聚光燈": "spot light"
+    },
+    {
+        "點放大器": "spot magnifier"
+    },
+    {
+        "點熔接器": "spot welder"
+    },
+    {
+        "測位儀": "spotter"
+    },
+    {
+        "噴霧器": "spray atomizer"
+    },
+    {
+        "噴[霧]台": "spray booth"
+    },
+    {
+        "噴霧燃燒器": "spray burner"
+    },
+    {
+        "噴霧罐": "spray can"
+    },
+    {
+        "噴霧室": "spray chamber"
+    },
+    {
+        "噴霧塔；噴霧柱": "spray column"
+    },
+    {
+        "噴霧冷凝器": "spray condenser"
+    },
+    {
+        "噴霧冷卻結晶器": "spray cooled crystallizer"
+    },
+    {
+        "噴霧冷卻器": "spray cooler"
+    },
+    {
+        "噴霧乾燥器": "spray drier"
+    },
+    {
+        "噴霧冷凍機": "spray freezing unit"
+    },
+    {
+        "噴槍": "spray gun"
+    },
+    {
+        "噴撞偵檢器": "spray impact detector"
+    },
+    {
+        "噴霧注射器": "spray injector"
+    },
+    {
+        "噴針": "spray needle"
+    },
+    {
+        "[噴霧]噴嘴": "spray nozzle"
+    },
+    {
+        "噴霧洗氣器；噴霧洗滌器": "spray scrubber"
+    },
+    {
+        "噴霧分離器": "spray separator"
+    },
+    {
+        "噴霧塔": "spray tower"
+    },
+    {
+        "噴霧式除氣器": "spray type deaerator"
+    },
+    {
+        "噴洗器": "spray washer"
+    },
+    {
+        "噴霧器；噴漆器": "sprayer"
+    },
+    {
+        "噴洗器": "spraying cleaner"
+    },
+    {
+        "發散透鏡": "spread lens"
+    },
+    {
+        "伸展輥": "spread roll"
+    },
+    {
+        "展波形產生器": "spread waveform generator"
+    },
+    {
+        "塗布機": "spreader"
+    },
+    {
+        "發散透鏡": "spreading lens"
+    },
+    {
+        "展波形產生器": "spreading waveform generator"
+    },
+    {
+        "彈簧": "spring"
+    },
+    {
+        "簧式引動器": "spring actuator"
+    },
+    {
+        "彈簧秤": "spring balance"
+    },
+    {
+        "彈簧帶": "spring belt"
+    },
+    {
+        "彈簧圓規": "spring bow compass"
+    },
+    {
+        "彈簧圓規": "spring bows"
+    },
+    {
+        "彈簧緩衝器": "spring buffer"
+    },
+    {
+        "彈簧緩衝器；彈簧減震器": "spring bumper"
+    },
+    {
+        "彈簧夾": "spring clamp"
+    },
+    {
+        "彈簧墊": "spring cushion"
+    },
+    {
+        "彈簧調速器": "spring governor"
+    },
+    {
+        "彈簧壓力計": "spring manometer"
+    },
+    {
+        "彈簧壓力計": "spring pressure gage"
+    },
+    {
+        "彈簧壓力計": "spring pressure gauge"
+    },
+    {
+        "彈簧秤": "spring scale"
+    },
+    {
+        "彈簧減震器；彈簧緩衝器": "spring shock absorber"
+    },
+    {
+        "彈簧插座": "spring socket"
+    },
+    {
+        "彈簧試驗機": "spring tester"
+    },
+    {
+        "彈簧閥": "spring valve"
+    },
+    {
+        "彈簧墊圈": "spring washer"
+    },
+    {
+        "無簧引動器": "springless actuator"
+    },
+    {
+        "噴洒器；洒水器": "sprinkler"
+    },
+    {
+        "離子濺射泵": "sputter-ion pump"
+    },
+    {
+        "方頭螺栓": "square head bolt"
+    },
+    {
+        "平方律電容器": "square law condenser"
+    },
+    {
+        "平方律檢波器；平方律解調器": "square law demodulator"
+    },
+    {
+        "平方律檢波器；平方律解調器": "square law detector"
+    },
+    {
+        "直角稜鏡": "square prism"
+    },
+    {
+        "方形波導管": "square waveguide"
+    },
+    {
+        "平方根轉換器": "square-root converter"
+    },
+    {
+        "方波發生器；方波產生器": "square-wave generator"
+    },
+    {
+        "方波振盪器": "square-wave oscillator"
+    },
+    {
+        "擠壓泵": "squeeze pump"
+    },
+    {
+        "擠壓機": "squeezer"
+    },
+    {
+        "擠水輥": "squeezing roller"
+    },
+    {
+        "鼠籠電動機": "squirrel cage motor"
+    },
+    {
+        "鼠籠轉子；籠狀轉動體": "squirrel cage rotor"
+    },
+    {
+        "籠式散解機": "squirrel-cage disintegrator"
+    },
+    {
+        "噴槍": "squirt gun"
+    },
+    {
+        "減震器": "stabilator"
+    },
+    {
+        "穩定化槽": "stabilization tank"
+    },
+    {
+        "安全器；平衡器": "stabilizator"
+    },
+    {
+        "穩定器；穩定塔；安定器": "stabilizer"
+    },
+    {
+        "穩定振盪器": "stable oscillator"
+    },
+    {
+        "堆層壓機": "stack press"
+    },
+    {
+        "堆疊天線": "stacked antenna"
+    },
+    {
+        "滴數表面張力計；滴重表面張力計": "stactometer"
+    },
+    {
+        "視距儀": "stadia"
+    },
+    {
+        "視距標尺；視距竿": "stadia rod"
+    },
+    {
+        "準距計": "stadimeter"
+    },
+    {
+        "標尺": "staff gage"
+    },
+    {
+        "標尺": "staff gauge"
+    },
+    {
+        "分級過濾器": "stage filter"
+    },
+    {
+        "階式測微計；台式測微計": "stage micrometer"
+    },
+    {
+        "分級泵": "stage pump"
+    },
+    {
+        "差調放大器": "stagger tuned amplifier"
+    },
+    {
+        "交錯空氣加熱器": "staggered air heater"
+    },
+    {
+        "交錯管散熱器": "staggered-tube radiator"
+    },
+    {
+        "階波產生器": "staircase generator"
+    },
+    {
+        "滴數表面張力計；滴重表面張力計": "stalagmometer"
+    },
+    {
+        "滴徑表面張力計": "stalogometer"
+    },
+    {
+        "打印機": "stamp"
+    },
+    {
+        "架；台；支架": "stand"
+    },
+    {
+        "標準電容器": "standard capacitor"
+    },
+    {
+        "標準電池": "standard cell"
+    },
+    {
+        "標準電容器": "standard condenser"
+    },
+    {
+        "標準計數器": "standard counter"
+    },
+    {
+        "標準圓盤規": "standard disk gage"
+    },
+    {
+        "標準圓盤規": "standard disk gauge"
+    },
+    {
+        "標準電極": "standard electrode"
+    },
+    {
+        "標準規": "standard gage"
+    },
+    {
+        "標準規": "standard gauge"
+    },
+    {
+        "標準氫電極": "standard hydrogen electrode {= SHE}"
+    },
+    {
+        "標準燈": "standard lamp"
+    },
+    {
+        "標準傳聲器；標準麥克風": "standard microphone"
+    },
+    {
+        "標準塞規": "standard plug gage"
+    },
+    {
+        "標準塞規": "standard plug gauge"
+    },
+    {
+        "標準電阻": "standard resistance"
+    },
+    {
+        "標準電阻器": "standard resistor"
+    },
+    {
+        "標準篩": "standard screen"
+    },
+    {
+        "標準篩": "standard sieve"
+    },
+    {
+        "標準錐度規": "standard taper gage"
+    },
+    {
+        "標準錐度規": "standard taper gauge"
+    },
+    {
+        "標準試驗篩": "standard testing sieve"
+    },
+    {
+        "標準溫度計": "standard thermometer"
+    },
+    {
+        "標準瓦時計": "standard watt-hour meter"
+    },
+    {
+        "標準砝碼": "standard weights"
+    },
+    {
+        "標準線規": "standard wire gage"
+    },
+    {
+        "標準線規": "standard wire gauge"
+    },
+    {
+        "備用泵": "standby pump"
+    },
+    {
+        "備用暫存器": "standby register"
+    },
+    {
+        "備用鍋": "standing kettle"
+    },
+    {
+        "固定[老]虎鉗": "standing vice"
+    },
+    {
+        "固定[老]虎鉗": "standing vise"
+    },
+    {
+        "駐波偵檢器": "standing-wave detector"
+    },
+    {
+        "駐波指示器": "standing-wave indicator"
+    },
+    {
+        "駐波計": "standing-wave meter"
+    },
+    {
+        "駐波發生器；駐波產生器": "standing-wave producer"
+    },
+    {
+        "星燈": "star lamp"
+    },
+    {
+        "星型電阻器": "star resistor"
+    },
+    {
+        "起動器": "starter"
+    },
+    {
+        "起動馬達": "starting motor"
+    },
+    {
+        "起動電抗器": "starting reactor"
+    },
+    {
+        "起動變壓器": "starting transformer"
+    },
+    {
+        "起止複振器": "start-stop multivibrator"
+    },
+    {
+        "間歇振盪器": "start-stop oscillator"
+    },
+    {
+        "起動泵": "start-up pump"
+    },
+    {
+        "起動變壓器": "start-up transformer"
+    },
+    {
+        "靜力平衡器": "static balancer"
+    },
+    {
+        "靜電電容器": "static condenser"
+    },
+    {
+        "靜電換流器": "static converter"
+    },
+    {
+        "靜電放電器": "static discharger"
+    },
+    {
+        "靜電起電機": "static electric machine"
+    },
+    {
+        "靜電消除器": "static eliminator"
+    },
+    {
+        "定位調速器": "static governor"
+    },
+    {
+        "靜像光電管；靜態影像管": "static image tube"
+    },
+    {
+        "靜電起電機": "static machine"
+    },
+    {
+        "靜電集塵器": "static precipitator"
+    },
+    {
+        "靜壓管": "static pressure tube"
+    },
+    {
+        "定位調節器": "static regulator"
+    },
+    {
+        "靜電分離器": "static separator"
+    },
+    {
+        "靜壓管": "static tube"
+    },
+    {
+        "靜電檢[電]壓器": "static voltage detector"
+    },
+    {
+        "靜電伏特計": "static voltmeter"
+    },
+    {
+        "靜態計時儲存器": "staticizer"
+    },
+    {
+        "固定篩": "stationary screen"
+    },
+    {
+        "靜電加速器": "statitron"
+    },
+    {
+        "蒸汽蓄[電]池": "steam accumulator"
+    },
+    {
+        "蒸汽浴": "steam bath"
+    },
+    {
+        "蒸汽鍋爐": "steam boiler"
+    },
+    {
+        "蒸汽箱": "steam box"
+    },
+    {
+        "蒸汽卡計": "steam calorimeter"
+    },
+    {
+        "蒸汽櫃；蒸汽室": "steam chest"
+    },
+    {
+        "蒸汽旋管；蒸汽盤管": "steam coil"
+    },
+    {
+        "蒸汽收集器": "steam collector"
+    },
+    {
+        "蒸汽冷凝器": "steam condenser"
+    },
+    {
+        "蒸汽蒸煮器；蒸汽消化器": "steam digester"
+    },
+    {
+        "蒸汽消毒器": "steam disinfector"
+    },
+    {
+        "蒸汽乾燥器": "steam drier"
+    },
+    {
+        "蒸汽鼓": "steam drum"
+    },
+    {
+        "蒸汽射出器": "steam ejector"
+    },
+    {
+        "蒸汽機": "steam engine"
+    },
+    {
+        "蒸汽發生器；蒸汽鍋爐": "steam generator"
+    },
+    {
+        "蒸汽加熱器": "steam heater"
+    },
+    {
+        "蒸汽軟管": "steam hose"
+    },
+    {
+        "蒸汽套": "steam jacket"
+    },
+    {
+        "噴汽攪拌器": "steam jet agitator"
+    },
+    {
+        "噴汽霧化器": "steam jet atomizer"
+    },
+    {
+        "噴汽抽氣機；蒸汽噴射器": "steam jet ejector"
+    },
+    {
+        "噴汽抽氣泵": "steam jet pump"
+    },
+    {
+        "蒸汽烘箱": "steam oven"
+    },
+    {
+        "蒸汽泵": "steam pump"
+    },
+    {
+        "蒸汽淨化器": "steam purifier"
+    },
+    {
+        "蒸汽散熱器": "steam radiator"
+    },
+    {
+        "蒸汽分離器": "steam separator"
+    },
+    {
+        "蒸汽滅菌器": "steam sterilizer"
+    },
+    {
+        "蒸汽蒸餾器": "steam still"
+    },
+    {
+        "濾汽器": "steam strainer"
+    },
+    {
+        "蒸汽過熱器": "steam superheater"
+    },
+    {
+        "蒸汽阱": "steam trap"
+    },
+    {
+        "蒸汽管": "steam tube"
+    },
+    {
+        "蒸汽渦輪機": "steam turbine"
+    },
+    {
+        "蒸汽汽化器；蒸汽蒸發器": "steam vaporizer"
+    },
+    {
+        "蒸汽汽化器；蒸汽蒸發器": "steam vapourizer"
+    },
+    {
+        "蒸汽水分離器": "steam-water separator"
+    },
+    {
+        "鋼瓶；鋼筒": "steel cylinder"
+    },
+    {
+        "鋼筒整流器": "steel cylinder rectifier"
+    },
+    {
+        "桿秤": "steelyard"
+    },
+    {
+        "桿秤；秤": "steelyard balance"
+    },
+    {
+        "浸漬器": "steeper"
+    },
+    {
+        "浸漬碗": "steeping bowl"
+    },
+    {
+        "星體干涉計；星光干涉儀": "stellar interferometer"
+    },
+    {
+        "無頸漏斗": "stemless funnel"
+    },
+    {
+        "[生物]染色皿": "stender dish"
+    },
+    {
+        "端軸承；階級軸承": "step bearing"
+    },
+    {
+        "步進控制器": "step controller"
+    },
+    {
+        "步驟計數器": "step counter"
+    },
+    {
+        "階梯函數發生器；階梯函數產生器": "step function generator"
+    },
+    {
+        "分步透鏡": "step lens"
+    },
+    {
+        "突返二極體": "step recovery diode"
+    },
+    {
+        "步級調節器": "step regulator"
+    },
+    {
+        "階梯波發生器；階梯波產生器": "step wave generator"
+    },
+    {
+        "步降計數器": "step-down counter"
+    },
+    {
+        "降壓變壓器": "step-down transformer"
+    },
+    {
+        "步進馬達": "stepper motor"
+    },
+    {
+        "步進馬達": "stepping motor"
+    },
+    {
+        "步進暫存器": "stepping register"
+    },
+    {
+        "升壓變壓器": "step-up transformer"
+    },
+    {
+        "立體照相機；立體攝影機": "stereo camera"
+    },
+    {
+        "立體螢光鏡": "stereofluoroscope"
+    },
+    {
+        "立體測角計；立體量角儀": "stereogoniometer"
+    },
+    {
+        "體積計": "stereometer"
+    },
+    {
+        "立體測微計": "stereomicrometer"
+    },
+    {
+        "立體顯微鏡": "stereomicroscope"
+    },
+    {
+        "立體鏡": "stereoscope"
+    },
+    {
+        "立體測距儀": "stereoscopic rangefinder"
+    },
+    {
+        "立體望遠鏡": "stereotelescope"
+    },
+    {
+        "滅菌器": "sterilizer"
+    },
+    {
+        "蒸餾器": "still"
+    },
+    {
+        "蒸餾塔；蒸餾管柱": "still column"
+    },
+    {
+        "攪拌槽": "stirred tank"
+    },
+    {
+        "攪拌器": "stirrer"
+    },
+    {
+        "攪拌裝置": "stirring apparatus"
+    },
+    {
+        "攪拌子": "stirring bar"
+    },
+    {
+        "攪拌棒": "stirring rod"
+    },
+    {
+        "切料機": "stock cutter"
+    },
+    {
+        "原料泵": "stock pump"
+    },
+    {
+        "石輥打漿機": "stone roll beater"
+    },
+    {
+        "活栓；活塞": "stopcock"
+    },
+    {
+        "馬錶": "stopwatch"
+    },
+    {
+        "儲存器": "storage"
+    },
+    {
+        "蓄電池[組]": "storage battery"
+    },
+    {
+        "儲倉": "storage bin"
+    },
+    {
+        "儲存緩衝器": "storage buffer"
+    },
+    {
+        "貯藏櫥": "storage cabinet"
+    },
+    {
+        "儲存陰極射線管": "storage cathode ray tube {= storage CRT}"
+    },
+    {
+        "儲存磁心；儲存核心": "storage core"
+    },
+    {
+        "儲存正析像管": "storage orthicon"
+    },
+    {
+        "儲存示波器": "storage oscilloscope"
+    },
+    {
+        "儲存暫存器": "storage register"
+    },
+    {
+        "儲存環": "storage ring"
+    },
+    {
+        "儲存槽": "storage tank"
+    },
+    {
+        "儲存管": "storage tube"
+    },
+    {
+        "儲存容器": "storage vessel"
+    },
+    {
+        "內儲程式計算機": "stored-program computer"
+    },
+    {
+        "直形應接器": "straight adapter"
+    },
+    {
+        "直形安瓿": "straight ampul"
+    },
+    {
+        "直式離心泵": "straight centrifugal pump"
+    },
+    {
+        "[電]容標[度]正比電容器": "straight line capacity condenser {= SLC condenser}"
+    },
+    {
+        "頻[率]標[度]正比電容器": "straight line frequency condenser {=SLF condenser}"
+    },
+    {
+        "波長標度正比電容器": "straight line wavelength condenser {=SLW condenser}"
+    },
+    {
+        "應變計；應變規": "strain gage"
+    },
+    {
+        "應變電流計": "strain galvanometer"
+    },
+    {
+        "應變計；應變規": "strain gauge"
+    },
+    {
+        "應變計": "strain meter"
+    },
+    {
+        "應變觀察器": "strain viewer"
+    },
+    {
+        "[粗]濾器": "strainer"
+    },
+    {
+        "[粗]濾筒": "strainer cartridge"
+    },
+    {
+        "應變式加速度計": "strain-gage accelerometer"
+    },
+    {
+        "應變式放大器": "strain-gage amplifier"
+    },
+    {
+        "應變式加速度計": "strain-gauge accelerometer"
+    },
+    {
+        "應變式放大器": "strain-gauge amplifier"
+    },
+    {
+        "粗濾籃": "straining basket"
+    },
+    {
+        "雜散電容器": "stray capacitor"
+    },
+    {
+        "雜散光濾光器": "stray light filter"
+    },
+    {
+        "高速掃描攝影機": "streak camera"
+    },
+    {
+        "流線式濾器": "streamlined filter"
+    },
+    {
+        "流線形閥": "streamlined valve"
+    },
+    {
+        "應力集中器": "stress concentrator"
+    },
+    {
+        "壓力偵檢器": "stress detector"
+    },
+    {
+        "應力計": "stress gage"
+    },
+    {
+        "壓力電流計": "stress galvanometer"
+    },
+    {
+        "應力計": "stress gauge"
+    },
+    {
+        "伸展器；擔架": "stretcher"
+    },
+    {
+        "跨[騎]水準儀": "striding level"
+    },
+    {
+        "懸絲靜電計；弦線靜電計": "string electrometer"
+    },
+    {
+        "弦線電流計": "string galvanometer"
+    },
+    {
+        "弦線式示波器": "string oscilloscope"
+    },
+    {
+        "掛線滑車": "stringing block"
+    },
+    {
+        "條狀膠片攝影機；無快門照相機": "strip camera"
+    },
+    {
+        "紙帶記錄器": "strip chart recorder"
+    },
+    {
+        "無快門照相機；條狀膠片攝影機": "strip film camera"
+    },
+    {
+        "[電熱]帶加熱器": "strip heater"
+    },
+    {
+        "帶狀燈": "strip lamp"
+    },
+    {
+        "紙帶印表機": "strip printer"
+    },
+    {
+        "無快門照相機；條狀膠片攝影機": "stripfilm camera"
+    },
+    {
+        "汽提塔；剝片機；分離機": "stripper"
+    },
+    {
+        "剝除管柱；脫除塔；汽提塔": "stripping column"
+    },
+    {
+        "汽提[蒸餾]器": "stripping still"
+    },
+    {
+        "汽提塔；脫除塔": "stripping tower"
+    },
+    {
+        "閃光測頻器；頻閃觀測器": "stroboscope"
+    },
+    {
+        "頻閃燈": "stroboscopic lamp"
+    },
+    {
+        "頻閃轉速計": "stroboscopic tachometer"
+    },
+    {
+        "頻閃管；閃光測頻器": "strobotron"
+    },
+    {
+        "強聚焦加速器": "strong focusing accelerator"
+    },
+    {
+        "強聚焦同步加速器": "strong focusing synchrotron"
+    },
+    {
+        "密氣匣；填塞匣；填料匣": "stuffing box"
+    },
+    {
+        "阻變匣": "stunt box"
+    },
+    {
+        "記錄針；唱針": "stylus"
+    },
+    {
+        "過冷卻器；再冷卻器": "subcooler"
+    },
+    {
+        "過冷冷凝器；再冷冷凝器": "subcooling condenser"
+    },
+    {
+        "昇華泵": "sublimation pump"
+    },
+    {
+        "昇華器": "sublimator"
+    },
+    {
+        "昇華裝置": "subliming apparatus"
+    },
+    {
+        "沈式陰極電池": "submerged cathode cell"
+    },
+    {
+        "潛弧電爐": "submerged-arc furnace"
+    },
+    {
+        "沈水泵": "submersible pump"
+    },
+    {
+        "次毫米光子計數器": "submillimeter photon counter"
+    },
+    {
+        "次毫米波雷射": "submillimeter wave laser"
+    },
+    {
+        "超小型照相機": "subminiature camera"
+    },
+    {
+        "次常式分析器": "subroutine analyzer"
+    },
+    {
+        "次順序計數器": "subsequence counter"
+    },
+    {
+        "沈降槽": "subsider"
+    },
+    {
+        "次音速逸散器": "subsonic effuser"
+    },
+    {
+        "次音速噴嘴": "subsonic nozzle"
+    },
+    {
+        "加減器；減加器": "subtracter adder"
+    },
+    {
+        "吸桿泵": "sucker-rod pump"
+    },
+    {
+        "陰極升壓器": "sucking booster"
+    },
+    {
+        "吸取式流速計": "suction anemometer"
+    },
+    {
+        "吸取式鼓風機": "suction blower"
+    },
+    {
+        "吸濾瓶；抽濾瓶": "suction bottle"
+    },
+    {
+        "吸入箱": "suction box"
+    },
+    {
+        "吸濾器": "suction filter"
+    },
+    {
+        "吸濾瓶；抽濾瓶": "suction flask"
+    },
+    {
+        "吸濾漏斗": "suction funnel"
+    },
+    {
+        "吸力計": "suction gage"
+    },
+    {
+        "吸力計": "suction gauge"
+    },
+    {
+        "吸取噴嘴": "suction nozzle"
+    },
+    {
+        "吸取泵；抽氣泵；抽水泵": "suction pump"
+    },
+    {
+        "吸取分離器": "suction separator"
+    },
+    {
+        "[壓縮機]吸入槽": "suction tank"
+    },
+    {
+        "吸取閥": "suction valve"
+    },
+    {
+        "硫分析儀": "sulfur analyzer"
+    },
+    {
+        "定硫彈": "sulfur bomb"
+    },
+    {
+        "硫燃燒器": "sulfur burner"
+    },
+    {
+        "二氧化硫分析儀": "sulfur dioxide analyzer"
+    },
+    {
+        "總硫氧化合物採樣組裝": "sulfur oxides sampling train"
+    },
+    {
+        "燒硫爐": "sulfur stove"
+    },
+    {
+        "硫燃燒器": "sulphur burner"
+    },
+    {
+        "累積光量計": "summation actinometer"
+    },
+    {
+        "和放大器": "summing amplifier"
+    },
+    {
+        "取火鏡；太陽鏡": "sun glass"
+    },
+    {
+        "太陽燈": "sun lamp"
+    },
+    {
+        "日光激生雷射": "sun-pumped laser"
+    },
+    {
+        "日光追尋器": "sunseeker"
+    },
+    {
+        "日照累積計": "sunshine integrator"
+    },
+    {
+        "日照記錄器": "sunshine recorder"
+    },
+    {
+        "超級光電顯像管": "super emitron camera"
+    },
+    {
+        "超速離心機": "supercentrifuge"
+    },
+    {
+        "增壓器": "supercharger"
+    },
+    {
+        "增壓泵": "supercharging pump"
+    },
+    {
+        "超級斬波器": "superchopper"
+    },
+    {
+        "超級計算機": "supercomputer"
+    },
+    {
+        "超導輻射熱計": "superconducting bolometer"
+    },
+    {
+        "超導陀螺儀": "superconducting gyroscope"
+    },
+    {
+        "超導核磁共振儀": "superconducting nuclear resonance spectrometer"
+    },
+    {
+        "超導量子干涉儀；磁規": "superconducting quantum interference device {= SQUID}"
+    },
+    {
+        "超臨界流體層析儀": "supercritical fluid chromatograph {= SFC}"
+    },
+    {
+        "超臨界流體萃取儀": "supercritical fluid extractor {= SFE}"
+    },
+    {
+        "淺部X光遠隔治療機": "superficial X-ray teletherapy machine"
+    },
+    {
+        "超細類析器": "superfine classifier"
+    },
+    {
+        "精磨機": "supergrinder"
+    },
+    {
+        "過熱器": "superheater"
+    },
+    {
+        "過熱卡計": "superheating calorimeter"
+    },
+    {
+        "超外差接收機": "superheterodyne receiver"
+    },
+    {
+        "超晶格太陽[能]電池": "superlattice solar cell"
+    },
+    {
+        "超[級]測微計": "supermicrometer"
+    },
+    {
+        "超[級]顯微鏡": "supermicroscope"
+    },
+    {
+        "超級小型計算機": "superminicomputer"
+    },
+    {
+        "超模雷射": "supermode laser"
+    },
+    {
+        "超功率雷射": "superpower laser"
+    },
+    {
+        "超再生接收機": "superregenerative receiver"
+    },
+    {
+        "超音波清潔器": "supersonic cleaner"
+    },
+    {
+        "超音速壓縮機": "supersonic compressor"
+    },
+    {
+        "超音波探傷器；超音波裂縫探測器": "supersonic crack detector"
+    },
+    {
+        "超音速擴散器": "supersonic diffuser"
+    },
+    {
+        "超音波發生器": "supersonic generator"
+    },
+    {
+        "超音速噴嘴": "supersonic nozzle"
+    },
+    {
+        "超音波反射[探傷]儀": "supersonic reflectoscope"
+    },
+    {
+        "監視燈": "supervisory lamp"
+    },
+    {
+        "監視替續器": "supervisory relay"
+    },
+    {
+        "輔助泵": "supplementary pump"
+    },
+    {
+        "供給泵": "supply pump"
+    },
+    {
+        "供給槽": "supply tank"
+    },
+    {
+        "支架夾": "support clamp"
+    },
+    {
+        "抑制器": "suppressor"
+    },
+    {
+        "抑制柵": "suppressor grid"
+    },
+    {
+        "表面吸收器": "surface absorber"
+    },
+    {
+        "表面位障偵檢器": "surface barrier detector"
+    },
+    {
+        "表面位障電晶體；面障電晶體": "surface barrier transistor"
+    },
+    {
+        "表面冷凝器": "surface condenser"
+    },
+    {
+        "表面冷卻反應器": "surface cooled reactor"
+    },
+    {
+        "表面冷卻器": "surface cooler"
+    },
+    {
+        "表面測功計": "surface dynamometer"
+    },
+    {
+        "平面規": "surface gage"
+    },
+    {
+        "平面規": "surface gauge"
+    },
+    {
+        "平面磨機": "surface grinder"
+    },
+    {
+        "表面磁光克爾效應測量儀": "surface magneto-optical Kerr effect measurement system {= SMOKE}"
+    },
+    {
+        "平台": "surface plate"
+    },
+    {
+        "表面電位偵檢器": "surface potential detector"
+    },
+    {
+        "表面形狀測量儀": "surface profile measuring system"
+    },
+    {
+        "表面高溫計": "surface pyrometer"
+    },
+    {
+        "表面張力計": "surface tensiometer"
+    },
+    {
+        "表面張力測定器": "surface tension apparatus"
+    },
+    {
+        "表面張力天平": "surface tension balance"
+    },
+    {
+        "表面張力計": "surface tension meter"
+    },
+    {
+        "表面溫度計": "surface thermometer"
+    },
+    {
+        "表面黏度計": "surface viscometer"
+    },
+    {
+        "表面黏度計": "surface viscosimeter"
+    },
+    {
+        "光面器": "surfacer"
+    },
+    {
+        "湧波吸收器": "surge absorber"
+    },
+    {
+        "避雷器": "surge arrester"
+    },
+    {
+        "緩衝室": "surge chamber"
+    },
+    {
+        "湧波計數器": "surge counter"
+    },
+    {
+        "湧波面記錄器": "surge front recorder"
+    },
+    {
+        "湧波[電流]發生器；突波產生器": "surge generator"
+    },
+    {
+        "防波環": "surge ring"
+    },
+    {
+        "湧波抑制器": "surge suppressor"
+    },
+    {
+        "緩衝槽": "surge tank"
+    },
+    {
+        "湧波峰值安培計": "surge-crest ammeter"
+    },
+    {
+        "測量水平儀": "surveyor's level"
+    },
+    {
+        "測量經緯儀": "surveyor's transit"
+    },
+    {
+        "磁導率計": "susceptometer"
+    },
+    {
+        "弔桶離心機": "suspended bucket centrifuge"
+    },
+    {
+        "懸式離心機": "suspended centrifuge"
+    },
+    {
+        "懸圈電流計": "suspended coil galvanometer"
+    },
+    {
+        "懸面黏度計": "suspended-level viscometer"
+    },
+    {
+        "懸面黏度計": "suspended-level viscosimeter"
+    },
+    {
+        "懸樑秤": "suspending beam scale"
+    },
+    {
+        "懸式絕緣體": "suspension insulator"
+    },
+    {
+        "懸式比例畫圖器": "suspension pantograph"
+    },
+    {
+        "懸浮式反應器": "suspension reactor"
+    },
+    {
+        "接頭套管": "swagelok"
+    },
+    {
+        "曲頸接頭": "swan-neck union"
+    },
+    {
+        "發汗室": "sweat chamber"
+    },
+    {
+        "掃掠二極體": "sweep diode"
+    },
+    {
+        "掃掠發生器；掃描發生器 {時基發生器}": "sweep generator"
+    },
+    {
+        "掃掠混合器": "sweep mixer"
+    },
+    {
+        "掃掠振盪器": "sweep oscillator"
+    },
+    {
+        "掃掠三極體": "sweep triode"
+    },
+    {
+        "掃掠電極": "sweeping electrode"
+    },
+    {
+        "水池[核]反應器": "swimming pool reactor"
+    },
+    {
+        "搖篩": "swing sieve"
+    },
+    {
+        "漩渦流量計": "swirl flowmeter"
+    },
+    {
+        "開關；接線器": "switch"
+    },
+    {
+        "開關刀片": "switch blade"
+    },
+    {
+        "控制板；開關板；配電板": "switch board"
+    },
+    {
+        "開關箱": "switch box"
+    },
+    {
+        "交換室": "switch room"
+    },
+    {
+        "開關二極體": "switching diode"
+    },
+    {
+        "開關閘": "switching gate"
+    },
+    {
+        "交換繼電器": "switching relay"
+    },
+    {
+        "開關起動器": "switching starter"
+    },
+    {
+        "開關電晶體": "switching transistor"
+    },
+    {
+        "交換管": "switching tube"
+    },
+    {
+        "膜盆；波紋管": "sylphon"
+    },
+    {
+        "薄壁伸縮囊": "sylphon bellows"
+    },
+    {
+        "樣式伏特計": "symbol voltmeter"
+    },
+    {
+        "同步分隔器": "sync separator"
+    },
+    {
+        "同步儀": "synchro"
+    },
+    {
+        "同步電容器": "synchro capacitor"
+    },
+    {
+        "同步控制變壓器": "synchro control transformer"
+    },
+    {
+        "同步差繞發電機": "synchro differential generator"
+    },
+    {
+        "同步指示器": "synchro indicator"
+    },
+    {
+        "同步馬達": "synchro motor"
+    },
+    {
+        "同步分解儀": "synchro resolver"
+    },
+    {
+        "同步傳送器": "synchro transmitter"
+    },
+    {
+        "同步迴旋加速器": "synchrocyclotron"
+    },
+    {
+        "同步時鐘": "synchronization clock"
+    },
+    {
+        "同步多諧振動器": "synchronized multivibrator"
+    },
+    {
+        "同步器": "synchronizer"
+    },
+    {
+        "同步指示器": "synchronizing indicator"
+    },
+    {
+        "同步計": "synchronometer"
+    },
+    {
+        "同步交流發電機": "synchronous alternator"
+    },
+    {
+        "同步升壓器": "synchronous booster"
+    },
+    {
+        "同步計算機": "synchronous computer"
+    },
+    {
+        "同步電容器；同步調相機": "synchronous condenser"
+    },
+    {
+        "同步換流器": "synchronous converter"
+    },
+    {
+        "同步偵檢器": "synchronous detector"
+    },
+    {
+        "同步變頻機": "synchronous frequency changer"
+    },
+    {
+        "同步發電機": "synchronous generator"
+    },
+    {
+        "同步感應馬達；同步感應電動機": "synchronous induction motor"
+    },
+    {
+        "同步感應器": "synchronous inductor"
+    },
+    {
+        "同步機": "synchronous machine"
+    },
+    {
+        "同步馬達": "synchronous motor"
+    },
+    {
+        "同步整流器": "synchronous rectifier"
+    },
+    {
+        "同步定時器": "synchronous timer"
+    },
+    {
+        "同步收發機": "synchronous transmitter receiver {= STR}"
+    },
+    {
+        "同步指示器": "synchroscope"
+    },
+    {
+        "同步加速器": "synchrotron"
+    },
+    {
+        "同步加速器": "synchrotron accelerator"
+    },
+    {
+        "諧振器": "syntonizer"
+    },
+    {
+        "虹吸管": "syphon"
+    },
+    {
+        "虹吸管": "syphon pipe"
+    },
+    {
+        "虹吸記錄器": "syphon recorder"
+    },
+    {
+        "虹吸管": "syphon tube"
+    },
+    {
+        "注射器；洗滌器": "syringe"
+    },
+    {
+        "注射筒應接器": "syringe adapter"
+    },
+    {
+        "注射器導引器": "syringe guide"
+    },
+    {
+        "吸入比重計": "syringe hydrometer"
+    },
+    {
+        "注射器噴嘴": "syringe nozzle"
+    },
+    {
+        "注射[器]吸量管": "syringe pipet"
+    },
+    {
+        "注射[器]吸量管": "syringe pipette"
+    },
+    {
+        "注射泵": "syringe pump"
+    },
+    {
+        "T形衰減器": "T attenuator"
+    },
+    {
+        "T形夾": "T clamp"
+    },
+    {
+        "T形管；三通管": "T tube"
+    },
+    {
+        "T扳手": "T wrench"
+    },
+    {
+        "檯；桌；座": "table"
+    },
+    {
+        "托盤天平": "table balance"
+    },
+    {
+        "錠衣機": "tablet coating machine"
+    },
+    {
+        "壓錠機": "tablet compressing machine"
+    },
+    {
+        "壓錠機": "tablet machine"
+    },
+    {
+        "錠模": "tablet mold"
+    },
+    {
+        "壓錠機": "tablet press"
+    },
+    {
+        "壓錠機": "tableting press"
+    },
+    {
+        "列表記錄器": "tabulating recorder"
+    },
+    {
+        "準距計": "tacheometer"
+    },
+    {
+        "轉速儀": "tachograph"
+    },
+    {
+        "轉速計": "tachometer"
+    },
+    {
+        "準距計": "tachymeter"
+    },
+    {
+        "快速顯示器": "tachystoscope"
+    },
+    {
+        "閘流管": "tacitron"
+    },
+    {
+        "滑輪組": "tackle and block"
+    },
+    {
+        "觸覺計": "tactometer"
+    },
+    {
+        "尾氣分析器": "tail gas analyzer"
+    },
+    {
+        "尾滑輪": "tail pulley"
+    },
+    {
+        "殘液泵": "tail pump"
+    },
+    {
+        "尾池": "tail vat"
+    },
+    {
+        "取出應接器": "take-off adapter"
+    },
+    {
+        "收緊器": "take-up"
+    },
+    {
+        "留聲機": "talking machine"
+    },
+    {
+        "計數器": "tally register"
+    },
+    {
+        "打印機；打壓機": "tamping machine"
+    },
+    {
+        "串聯加速器": "tandem accelerator"
+    },
+    {
+        "串聯電位計": "tandem potentiometer"
+    },
+    {
+        "串聯選擇器": "tandem selector"
+    },
+    {
+        "串聯電晶體": "tandem transistor"
+    },
+    {
+        "正切電流計": "tangent galvanometer"
+    },
+    {
+        "槽；桶": "tank"
+    },
+    {
+        "槽電池": "tank cell"
+    },
+    {
+        "槽式結晶器": "tank crystallizer"
+    },
+    {
+        "容器液位計": "tank gage"
+    },
+    {
+        "容器液位計": "tank gauge"
+    },
+    {
+        "槽式反應器": "tank reactor"
+    },
+    {
+        "鞣液比重計；單寧濃度計": "tannometer barkometer"
+    },
+    {
+        "鉭輻射熱計": "tantalum bolometer"
+    },
+    {
+        "分接頭；水龍頭": "tap"
+    },
+    {
+        "攻牙組": "tap and die"
+    },
+    {
+        "自攻螺栓；帶頭螺栓": "tap bolt"
+    },
+    {
+        "分接頭變換器": "tap changer"
+    },
+    {
+        "捲尺；磁帶": "tape"
+    },
+    {
+        "磁帶箱": "tape bin"
+    },
+    {
+        "帶形電纜": "tape cable"
+    },
+    {
+        "帶比較器": "tape comparator"
+    },
+    {
+        "磁帶推動器": "tape drive"
+    },
+    {
+        "[紙]帶穿孔機": "tape perforator"
+    },
+    {
+        "打帶機": "tape punch"
+    },
+    {
+        "讀帶機": "tape reader"
+    },
+    {
+        "錄訊機；錄音機；錄影機": "tape recorder"
+    },
+    {
+        "磁帶儲存器": "tape storage"
+    },
+    {
+        "磁帶同步器": "tape synchronizer"
+    },
+    {
+        "帶傳送器": "tape transmitter"
+    },
+    {
+        "帶傳送分配器": "tape transmitter-distributor"
+    },
+    {
+        "紙帶驗孔機": "tape verifier"
+    },
+    {
+        "錐形管": "taper pipe"
+    },
+    {
+        "內徑規": "taper plug gage"
+    },
+    {
+        "內徑規": "taper plug gauge"
+    },
+    {
+        "錐形滾子軸承": "taper roller bearing"
+    },
+    {
+        "錐形管": "tapered pipe"
+    },
+    {
+        "帶至卡轉換器": "tape-to-card converter"
+    },
+    {
+        "帶至帶轉換器": "tape-to-tape converter"
+    },
+    {
+        "多接頭線圈": "tapped coil"
+    },
+    {
+        "多接頭變壓器": "tapped transformer"
+    },
+    {
+        "遞變電位計": "tapper potentiometer"
+    },
+    {
+        "遞變電位計": "tappered potentiometer"
+    },
+    {
+        "遞變波導器": "tappered waveguide"
+    },
+    {
+        "溚萃取器；焦油萃取器": "tar extractor"
+    },
+    {
+        "溚分離器；焦油分離器": "tar separator"
+    },
+    {
+        "靶室": "target chamber"
+    },
+    {
+        "靶標計算機": "target computer"
+    },
+    {
+        "靶電極": "target electrode"
+    },
+    {
+        "靶指示器": "target indicator"
+    },
+    {
+        "靶管": "target tube"
+    },
+    {
+        "靶式流量計": "target-type flowmeter"
+    },
+    {
+        "橫向激發大氣壓二氧化碳雷射": "TEA CO2 laser"
+    },
+    {
+        "撕裂試驗器": "tear tester"
+    },
+    {
+        "場調電晶體": "technetron"
+    },
+    {
+        "三通管；T形管": "tee"
+    },
+    {
+        "T形接頭；三通接頭": "tee fitting"
+    },
+    {
+        "T形吊桿": "tee hanger"
+    },
+    {
+        "T形接頭；三通接頭": "tee joint"
+    },
+    {
+        "T形管": "tee pipe"
+    },
+    {
+        "三通閥": "tee valve"
+    },
+    {
+        "齒輥壓碎機": "teeth-roll crusher"
+    },
+    {
+        "電寫器": "telautograph"
+    },
+    {
+        "望遠照相機": "telecamera"
+    },
+    {
+        "影片電視攝影機": "telecine camera"
+    },
+    {
+        "傳真機": "telefax"
+    },
+    {
+        "傳真機": "telefax facsimile"
+    },
+    {
+        "電報機": "telegraph"
+    },
+    {
+        "收報機": "telegraph receiver"
+    },
+    {
+        "電報繼電器": "telegraph relay"
+    },
+    {
+        "電報轉發機": "telegraph repeater"
+    },
+    {
+        "遙測計": "telemeter"
+    },
+    {
+        "遙測天線": "telemetering antenna"
+    },
+    {
+        "遙測拾波器": "telemetering pick-up"
+    },
+    {
+        "遙測接收器": "telemetering receiver"
+    },
+    {
+        "遙測模擬器": "telemetering simulator"
+    },
+    {
+        "遙測傳送器": "telemetering transmitter"
+    },
+    {
+        "遠距顯微鏡": "telemicroscope"
+    },
+    {
+        "遙控馬達": "telemotor"
+    },
+    {
+        "送話器": "telephone transmitter"
+    },
+    {
+        "遠距照相鏡；長[焦]鏡頭": "telephoto lens"
+    },
+    {
+        "遠距照相鏡；長[焦]鏡頭": "telephotographic lens"
+    },
+    {
+        "遠距光度計": "telephotometer"
+    },
+    {
+        "電傳繪圖器": "teleplotter"
+    },
+    {
+        "電傳印表機": "teleprinter"
+    },
+    {
+        "遙測高溫計": "telepyrometer"
+    },
+    {
+        "遙測記錄器": "telerecorder"
+    },
+    {
+        "望遠鏡": "telescope"
+    },
+    {
+        "套管接頭": "telescope joint"
+    },
+    {
+        "望遠[鏡]物鏡": "telescope objective"
+    },
+    {
+        "探測望遠鏡": "telescopic finder"
+    },
+    {
+        "望遠反光鏡": "telescopic heliotrope"
+    },
+    {
+        "望遠[鏡]物鏡": "telescopic objective"
+    },
+    {
+        "望遠目鏡": "telescopic ocular"
+    },
+    {
+        "望遠眼鏡": "telescopic spectacles"
+    },
+    {
+        "伸縮套管": "telescopic tube"
+    },
+    {
+        "電視機": "teleset"
+    },
+    {
+        "立體望遠鏡": "telestereoscope"
+    },
+    {
+        "遙測開關": "teleswitch"
+    },
+    {
+        "遠距轉速計": "teletachometer"
+    },
+    {
+        "遙測溫度計": "telethermometer"
+    },
+    {
+        "遙測溫度儀": "telethermoscope"
+    },
+    {
+        "電傳打字機": "teletype"
+    },
+    {
+        "電傳打字機": "teletypewriter"
+    },
+    {
+        "電視攝影機": "television camera"
+    },
+    {
+        "電視顯微鏡": "television microscope"
+    },
+    {
+        "電視機": "television receiver"
+    },
+    {
+        "電視機": "television set {= TV set}"
+    },
+    {
+        "遙測電壓計": "televoltmeter"
+    },
+    {
+        "顯示器": "telltale"
+    },
+    {
+        "通信衛星": "telstar"
+    },
+    {
+        "過熱警報器": "temperature alarm"
+    },
+    {
+        "溫度控制器": "temperature controller"
+    },
+    {
+        "溫度計": "temperature gage"
+    },
+    {
+        "溫度計": "temperature gauge"
+    },
+    {
+        "溫度指示器": "temperature indicator"
+    },
+    {
+        "溫度規畫器；溫度程控器": "temperature programmer"
+    },
+    {
+        "溫度記錄器": "temperature recorder"
+    },
+    {
+        "溫度調節器": "temperature regulator"
+    },
+    {
+        "溫[度]控[制]繼電器；溫[度]控[制]替續器": "temperature relay"
+    },
+    {
+        "溫度感測器": "temperature sensor"
+    },
+    {
+        "溫度傳送器": "temperature transmitter"
+    },
+    {
+        "樣板規": "template gage"
+    },
+    {
+        "樣板規": "template gauge"
+    },
+    {
+        "吸附管/加熱脫附儀器": "tenax tube-thermal desorption equipment"
+    },
+    {
+        "拉力[測驗]機": "tensile machine"
+    },
+    {
+        "抗拉試驗機；拉伸試驗機": "tensile test machine"
+    },
+    {
+        "蒸氣壓力計": "tensimeter"
+    },
+    {
+        "表面張力計": "tensiometer"
+    },
+    {
+        "張力分析器": "tension analyzer"
+    },
+    {
+        "拉力測功計": "tension dynamometer"
+    },
+    {
+        "張力計": "tension gage"
+    },
+    {
+        "張力計": "tension gauge"
+    },
+    {
+        "張力指示器；張力計": "tension indicator"
+    },
+    {
+        "耐拉絕緣體": "tension insulator"
+    },
+    {
+        "張力計": "tension meter"
+    },
+    {
+        "張力計": "tensometer"
+    },
+    {
+        "終端機": "terminal"
+    },
+    {
+        "插頭盤；接線盤": "terminal board"
+    },
+    {
+        "終端盒；端線盒": "terminal box"
+    },
+    {
+        "終端控制器": "terminal controller"
+    },
+    {
+        "終端裝置": "terminal device"
+    },
+    {
+        "終端設備": "terminal equipment"
+    },
+    {
+        "地球儀": "terrestrial globe"
+    },
+    {
+        "地面太陽[能]電池": "terrestrial solar cell"
+    },
+    {
+        "大地望遠鏡；正像望遠鏡；地上望遠鏡": "terrestrial telescope"
+    },
+    {
+        "試驗檯": "test bench"
+    },
+    {
+        "驗光透鏡": "test lens"
+    },
+    {
+        "測試[用]振盪器": "test oscillator"
+    },
+    {
+        "試管": "test tube"
+    },
+    {
+        "試管刷": "test tube brush"
+    },
+    {
+        "試管離心機": "test tube centrifuge"
+    },
+    {
+        "試管夾": "test tube holder"
+    },
+    {
+        "試管架": "test tube rack"
+    },
+    {
+        "檢驗器；試驗器": "tester"
+    },
+    {
+        "四極管": "tetrode"
+    },
+    {
+        "四極電晶體": "tetrode transistor"
+    },
+    {
+        "鉈氧硫光電管": "thalofide cell"
+    },
+    {
+        "經緯儀": "theodolite"
+    },
+    {
+        "經緯測角計": "theodolite goniometer"
+    },
+    {
+        "蓄熱器": "thermal accumulator"
+    },
+    {
+        "熱線安培計": "thermal ammeter"
+    },
+    {
+        "熱分析儀": "thermal analyzer"
+    },
+    {
+        "隔熱板": "thermal baffle"
+    },
+    {
+        "熱[中子]滋生反應器": "thermal breeder"
+    },
+    {
+        "熱電偶": "thermal couple"
+    },
+    {
+        "熱脹安培計": "thermal expansion ammeter"
+    },
+    {
+        "熱效閃光器": "thermal flasher"
+    },
+    {
+        "熱[中子]反應器": "thermal reactor"
+    },
+    {
+        "熱分流器": "thermal shunt"
+    },
+    {
+        "熱效開關；熱控開關": "thermal switch"
+    },
+    {
+        "熱阱": "thermal trap"
+    },
+    {
+        "熱中子反應器": "thermal-neutron reactor"
+    },
+    {
+        "熱離子發生器": "thermionic generator"
+    },
+    {
+        "熱離子振盪器": "thermionic oscillator"
+    },
+    {
+        "熱離子整流器": "thermionic rectifier"
+    },
+    {
+        "熱離子繼電器": "thermionic relay"
+    },
+    {
+        "熱離子管；熱陰極電子管": "thermionic tube"
+    },
+    {
+        "熱離子管伏特計": "thermionic tube voltmeter"
+    },
+    {
+        "熱離子[管]電壓計；熱離子[管]伏特計": "thermionic voltmeter"
+    },
+    {
+        "熱[敏電]阻器；熱阻體": "thermistor"
+    },
+    {
+        "熱阻電橋；熱敏電阻電橋": "thermistor bridge"
+    },
+    {
+        "熱阻控制器": "thermistor controller"
+    },
+    {
+        "熱阻偵檢器": "thermistor detector"
+    },
+    {
+        "熱敏電阻計": "thermistor gage"
+    },
+    {
+        "熱敏電阻計": "thermistor gauge"
+    },
+    {
+        "熱阻振盪器": "thermistor oscillator"
+    },
+    {
+        "熱阻感測器": "thermistor sensor"
+    },
+    {
+        "熱敏電阻真空計": "thermistor vacuum gage"
+    },
+    {
+        "熱敏電阻真空計": "thermistor vacuum gauge"
+    },
+    {
+        "熱[電]偶安培計": "thermoammeter"
+    },
+    {
+        "熱天平": "thermobalance"
+    },
+    {
+        "溫度氣壓儀": "thermobarograph"
+    },
+    {
+        "溫度氣壓計": "thermobarometer"
+    },
+    {
+        "保溫瓶": "thermobottle"
+    },
+    {
+        "熱電偶": "thermocouple"
+    },
+    {
+        "熱[電]偶安培計": "thermocouple ammeter"
+    },
+    {
+        "熱電偶偵檢器": "thermocouple detector"
+    },
+    {
+        "熱電偶高溫計": "thermocouple pyrometer"
+    },
+    {
+        "熱電偶溫度計": "thermocouple thermometer"
+    },
+    {
+        "熱電偶真空計": "thermocouple vacuum gage"
+    },
+    {
+        "熱電偶真空計": "thermocouple vacuum gauge"
+    },
+    {
+        "熱電偶瓦特計": "thermocouple wattmeter"
+    },
+    {
+        "熱檢波器；熱偵測器": "thermodetector"
+    },
+    {
+        "熱電轉換器；熱電變換器": "thermoelectric converter"
+    },
+    {
+        "熱電冷卻器": "thermoelectric cooler"
+    },
+    {
+        "熱電偶": "thermoelectric couple"
+    },
+    {
+        "熱電二極體": "thermoelectric diode"
+    },
+    {
+        "熱電電流計": "thermoelectric galvanometer"
+    },
+    {
+        "熱電發電機": "thermoelectric generator"
+    },
+    {
+        "熱電堆": "thermoelectric pile"
+    },
+    {
+        "熱電電位計": "thermoelectric potentiometer"
+    },
+    {
+        "熱電高溫計": "thermoelectric pyrometer"
+    },
+    {
+        "熱電溫度計": "thermoelectric thermometer"
+    },
+    {
+        "熱靜電計": "thermoelectrometer"
+    },
+    {
+        "熱電子整流器": "thermoelectron rectifier"
+    },
+    {
+        "熱電子管": "thermoelectron tube"
+    },
+    {
+        "熱電流計": "thermogalvanometer"
+    },
+    {
+        "溫度記錄器": "thermograph"
+    },
+    {
+        "熱重[量]分析儀": "thermogravimetric analyzer {= TGA}"
+    },
+    {
+        "熱比重計": "thermohydrometer"
+    },
+    {
+        "溫度溼度計；溫溼計": "thermohygrometer"
+    },
+    {
+        "恆溫恆溼器": "thermohygrostat"
+    },
+    {
+        "熱發光偵檢器": "thermoluminescent detector"
+    },
+    {
+        "熱發光劑量計": "thermoluminescent dosimeter {= TLD}"
+    },
+    {
+        "熱機械分析儀": "thermomechanical analyzer {= TMA}"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "溫度計應接器": "thermometer adapter"
+    },
+    {
+        "溫度計應接器": "thermometer adaptor"
+    },
+    {
+        "溫度計護鞘": "thermometer armor case"
+    },
+    {
+        "測溫比重計": "thermometric hydrometer"
+    },
+    {
+        "熱核反應器": "thermonuclear reactor"
+    },
+    {
+        "熱[感]發聲器": "thermophone"
+    },
+    {
+        "熱電堆": "thermopile"
+    },
+    {
+        "調溫器；溫度調節器": "thermoregulator"
+    },
+    {
+        "熱電繼電器": "thermorelay"
+    },
+    {
+        "驗溫器；檢溫器": "thermoscope"
+    },
+    {
+        "熱虹吸管": "thermosiphon"
+    },
+    {
+        "恆溫器": "thermostat"
+    },
+    {
+        "恆溫器繼電器": "thermostat relay"
+    },
+    {
+        "熱效開關；熱控開關": "thermoswitch"
+    },
+    {
+        "熱虹吸管": "thermosyphon"
+    },
+    {
+        "熱黏度計": "thermoviscosimeter"
+    },
+    {
+        "熱伏特計": "thermovoltmeter"
+    },
+    {
+        "厚透鏡": "thick lens"
+    },
+    {
+        "增稠器；增濃器": "thickener"
+    },
+    {
+        "厚薄規；厚度規": "thickness gage"
+    },
+    {
+        "厚薄規；厚度規": "thickness gauge"
+    },
+    {
+        "厚度計": "thickness meter"
+    },
+    {
+        "厚壁容器": "thick-walled vessel"
+    },
+    {
+        "套筒；套管": "thimble"
+    },
+    {
+        "套管濾器": "thimble filter"
+    },
+    {
+        "套管游離室；套管游離腔": "thimble ionization chamber"
+    },
+    {
+        "套管游離探針": "thimble-ionization probe"
+    },
+    {
+        "套管鍋爐": "thimble-tube boiler"
+    },
+    {
+        "薄透鏡": "thin lens"
+    },
+    {
+        "薄膜電容器": "thin-film capacitor"
+    },
+    {
+        "薄膜管柱": "thin-film column"
+    },
+    {
+        "薄膜低溫[電子]管；薄膜冷子管": "thin-film cryotron"
+    },
+    {
+        "薄膜光導管": "thin-film light guide"
+    },
+    {
+        "薄膜整流器": "thin-film rectifier"
+    },
+    {
+        "薄膜電阻器": "thin-film resistor"
+    },
+    {
+        "薄膜掃描器": "thin-film scanner"
+    },
+    {
+        "薄膜式應變計": "thin-film strain gage"
+    },
+    {
+        "薄膜式應變計": "thin-film strain gauge"
+    },
+    {
+        "薄膜電晶體": "thin-film transistor {= TFT}"
+    },
+    {
+        "薄層偵檢器": "thin-layer detector"
+    },
+    {
+        "薄層掃描器": "thin-layer scanner"
+    },
+    {
+        "薄壁計數器": "thin-wall counter"
+    },
+    {
+        "薄壁容器": "thin-walled vessel"
+    },
+    {
+        "薄窗計數器": "thin-window counter"
+    },
+    {
+        "薊頭漏斗": "thistle funnel"
+    },
+    {
+        "薊頭管": "thistle tube"
+    },
+    {
+        "釷反應器": "thorium reactor"
+    },
+    {
+        "脫粒機": "thrasher"
+    },
+    {
+        "螺紋卡鉗": "thread caliper"
+    },
+    {
+        "螺紋卡鉗": "thread calliper"
+    },
+    {
+        "螺紋規": "thread gage"
+    },
+    {
+        "螺紋規": "thread gauge"
+    },
+    {
+        "螺紋測微計": "thread micrometer"
+    },
+    {
+        "攻螺絲器": "thread tapper"
+    },
+    {
+        "三頸燒瓶": "three neck flask"
+    },
+    {
+        "三相變壓器": "three phase transformer"
+    },
+    {
+        "三路活栓；三通閥；三方活栓": "three way stopcock"
+    },
+    {
+        "三[通]道比色計": "three-channel colorimeter"
+    },
+    {
+        "三電極極譜儀": "three-electrode polarograph"
+    },
+    {
+        "三極管": "three-electrode tube"
+    },
+    {
+        "三輸入加器": "three-input adder"
+    },
+    {
+        "三接面電晶體": "three-junction transistor"
+    },
+    {
+        "三腳規": "three-legged divider"
+    },
+    {
+        "三透鏡聚光器": "three-lens condenser"
+    },
+    {
+        "三透鏡物鏡": "three-lens objective"
+    },
+    {
+        "三能階雷射": "three-level laser"
+    },
+    {
+        "三能階邁射": "three-level maser"
+    },
+    {
+        "三頸燒瓶": "three-neck flask"
+    },
+    {
+        "三相電弧爐": "three-phase arc furnace"
+    },
+    {
+        "三相反應器": "three-phase reactor"
+    },
+    {
+        "三相整流器": "three-phase rectifier"
+    },
+    {
+        "三相變壓器": "three-phase transformer"
+    },
+    {
+        "三極斷路器": "three-pole circuit breaker"
+    },
+    {
+        "三極開關": "three-pole switch"
+    },
+    {
+        "三點控制器": "three-position controller"
+    },
+    {
+        "三稜鏡攝譜儀": "three-prism spectrograph"
+    },
+    {
+        "三階鼓風機": "three-stage blower"
+    },
+    {
+        "三通活栓；三方活栓": "three-way cock"
+    },
+    {
+        "三通管": "three-way connector"
+    },
+    {
+        "三通開關": "three-way switch"
+    },
+    {
+        "三繞組變壓器": "three-winding transformer"
+    },
+    {
+        "三線發電機": "three-wire generator"
+    },
+    {
+        "三線插頭": "three-wire plug"
+    },
+    {
+        "脫粒機": "thresher"
+    },
+    {
+        "脫粒機": "threshing machine"
+    },
+    {
+        "底限偵檢器；低限偵檢器": "threshold detector"
+    },
+    {
+        "三聯管": "thribble"
+    },
+    {
+        "節流調速器": "throttle governor"
+    },
+    {
+        "節流調節器": "throttle regulator"
+    },
+    {
+        "節流閥": "throttle valve"
+    },
+    {
+        "節流式蒸氣乾度計；節流卡計": "throttling calorimeter"
+    },
+    {
+        "節流調速器": "throttling governor"
+    },
+    {
+        "貫穿螺栓": "through bolt"
+    },
+    {
+        "直通群濾波器": "through group filter"
+    },
+    {
+        "貫穿式比流器": "through type current transformer"
+    },
+    {
+        "推力增效器；推力增益器": "thrust augmenter"
+    },
+    {
+        "止推軸承": "thrust bearing"
+    },
+    {
+        "推力均衡器": "thrust equalizer"
+    },
+    {
+        "推力計": "thrust meter"
+    },
+    {
+        "反推力器": "thrust reverser"
+    },
+    {
+        "閘流管": "thyratron"
+    },
+    {
+        "閘流管記錄器": "thyratron recorder"
+    },
+    {
+        "閘流器": "thyrector"
+    },
+    {
+        "閘流電晶體": "thyristor"
+    },
+    {
+        "回饋線圈": "tickler coil"
+    },
+    {
+        "回饋線圈振盪器": "tickler-coil oscillator"
+    },
+    {
+        "測潮計": "tide gage"
+    },
+    {
+        "測潮計": "tide gauge"
+    },
+    {
+        "傾斜調節器": "tilt adjuster"
+    },
+    {
+        "傾斜補償探頭": "tilt compensated probe"
+    },
+    {
+        "傾斜校正器": "tilt corrector"
+    },
+    {
+        "傾斜測定器": "tilt finder"
+    },
+    {
+        "傾斜指示器": "tilt indicator"
+    },
+    {
+        "傾斜電子透鏡": "tilted electron lens"
+    },
+    {
+        "傾斜驗電器": "tilted electroscope"
+    },
+    {
+        "傾斜水準儀": "tilting level"
+    },
+    {
+        "傾斜壓力計": "tilting manometer"
+    },
+    {
+        "傾斜鏡": "tilting mirror"
+    },
+    {
+        "傾斜U管壓力計": "tilting U-tube manometer"
+    },
+    {
+        "傾斜計": "tiltmeter"
+    },
+    {
+        "延時繼電器；時延繼電器": "time delay relay"
+    },
+    {
+        "時間鑑別器": "time discriminator"
+    },
+    {
+        "限時熔線；定時引信": "time fuse"
+    },
+    {
+        "時間間隔指示器": "time interval indicator"
+    },
+    {
+        "時滯繼電器": "time lag relay"
+    },
+    {
+        "定時槓桿": "time lever"
+    },
+    {
+        "限時繼電器": "time limit relay"
+    },
+    {
+        "時間投射[游離]室": "time projection chamber"
+    },
+    {
+        "時程控制器": "time schedule controller"
+    },
+    {
+        "定時開關": "time switch"
+    },
+    {
+        "時變電阻": "time varying resistor"
+    },
+    {
+        "時間振幅轉換器": "time-amplitude converter"
+    },
+    {
+        "時基發生器 {掃描發生器}": "time-base generator"
+    },
+    {
+        "延時裝置；時延裝置": "time-delay"
+    },
+    {
+        "時標發生器": "time-mark generator"
+    },
+    {
+        "飛行時間[式]質譜儀": "time-of-flight mass spectrometer {= TOF-MS}"
+    },
+    {
+        "飛行時間速度選擇器": "time-of-flight velocity selector"
+    },
+    {
+        "時間脈衝分配器": "time-pulse distributor"
+    },
+    {
+        "時間脈波發生器": "time-pulse generator"
+    },
+    {
+        "計時器；定時器": "timer"
+    },
+    {
+        "計時規畫器": "timer programmer"
+    },
+    {
+        "分時計算機": "time-share computer"
+    },
+    {
+        "分時放大器": "time-shared amplifier"
+    },
+    {
+        "分時計算機": "time-sharing computer"
+    },
+    {
+        "分時雷射": "time-sharing laser"
+    },
+    {
+        "時間-脈波振幅轉換器": "time-to-pulse-height converter"
+    },
+    {
+        "時軸振盪器": "timing axis oscillator"
+    },
+    {
+        "定時裝置": "timing device"
+    },
+    {
+        "定時[信號]發生器": "timing generator"
+    },
+    {
+        "定時振盪器": "timing oscillator"
+    },
+    {
+        "錫箔電容器": "tinfoil capacitor"
+    },
+    {
+        "色調計；色輝計": "tintometer"
+    },
+    {
+        "滴定電量計": "titration coulometer"
+    },
+    {
+        "滴定器": "titrator"
+    },
+    {
+        "滴定計": "titrimeter"
+    },
+    {
+        "撥鈕開關": "toggle switch"
+    },
+    {
+        "撥鈕閥": "toggle valve"
+    },
+    {
+        "托卡馬[流磁機]；托卡馬[環磁機]": "Tokamak"
+    },
+    {
+        "工具箱": "toll case"
+    },
+    {
+        "音頻控制器": "tone controller"
+    },
+    {
+        "發音器；音頻發生器": "tone generator"
+    },
+    {
+        "音頻振動器": "tone vibrator"
+    },
+    {
+        "夾子；鉗": "tongs"
+    },
+    {
+        "音調計": "tonometer"
+    },
+    {
+        "工具袋": "tool bag"
+    },
+    {
+        "工具帶": "tool belt"
+    },
+    {
+        "工具箱": "tool box"
+    },
+    {
+        "工具顯微鏡": "toolmaker microscope"
+    },
+    {
+        "齒夾": "tooth clamp"
+    },
+    {
+        "齒規": "tooth gage"
+    },
+    {
+        "齒規": "tooth gauge"
+    },
+    {
+        "有齒電樞": "toothed armature"
+    },
+    {
+        "陀螺": "top spinning"
+    },
+    {
+        "上皿天平": "top-loading balance"
+    },
+    {
+        "測角器": "topoangulator"
+    },
+    {
+        "炬；吹管": "torch"
+    },
+    {
+        "氣炬點火器": "torch ignitor"
+    },
+    {
+        "噴燈": "torch lamp"
+    },
+    {
+        "噴射管；噴燈": "torch pipe"
+    },
+    {
+        "複曲面透鏡": "toric lens"
+    },
+    {
+        "複曲面雙凸透鏡": "toric lenticular"
+    },
+    {
+        "環形螺管；螺形管": "toroid"
+    },
+    {
+        "環形腔共振器": "toroidal cavity resonator"
+    },
+    {
+        "環形線圈": "toroidal coil"
+    },
+    {
+        "環形計數器": "toroidal counter"
+    },
+    {
+        "環形面光柵": "toroidal grating"
+    },
+    {
+        "環形感應器；環形電感器": "toroidal inductor"
+    },
+    {
+        "環形噴嘴": "toroidal nozzle"
+    },
+    {
+        "轉矩放大器": "torque amplifier"
+    },
+    {
+        "轉矩補償器": "torque compensator"
+    },
+    {
+        "轉矩控制器": "torque controller"
+    },
+    {
+        "轉矩變換器；轉矩轉換器": "torque converter"
+    },
+    {
+        "轉矩計": "torque meter"
+    },
+    {
+        "轉矩馬達": "torque motor"
+    },
+    {
+        "轉矩流變儀；轉矩流變計": "torque rheometer"
+    },
+    {
+        "轉矩感測器": "torque sensor"
+    },
+    {
+        "轉矩轉換器；轉矩換能器": "torque transducer"
+    },
+    {
+        "轉矩式黏度計": "torque type viscometer"
+    },
+    {
+        "轉矩式黏度計": "torque type viscosimeter"
+    },
+    {
+        "轉矩扳手": "torque wrench"
+    },
+    {
+        "轉矩均衡換流器": "torque-balance converter"
+    },
+    {
+        "轉矩均衡遙測計；轉矩均衡測遠計": "torque-balance telemeter"
+    },
+    {
+        "轉矩均衡傳送器": "torque-balance transmitter"
+    },
+    {
+        "轉矩管流量計": "torque-tube flowmeter"
+    },
+    {
+        "轉矩振動阻尼器": "torque-vibration damper"
+    },
+    {
+        "扭力計": "torsiometer"
+    },
+    {
+        "扭力天平；扭[力]秤": "torsion balance"
+    },
+    {
+        "扭力阻尼器": "torsion damper"
+    },
+    {
+        "扭力測功計；扭力測力計": "torsion dynamometer"
+    },
+    {
+        "扭力靜電計": "torsion electrometer"
+    },
+    {
+        "扭力電流計": "torsion galvanometer"
+    },
+    {
+        "扭力濕度計": "torsion hygrometer"
+    },
+    {
+        "示扭器；扭力指示器": "torsion indicator"
+    },
+    {
+        "測扭[力]干涉計": "torsion interferometer"
+    },
+    {
+        "微扭計": "torsion micrometer"
+    },
+    {
+        "扭擺": "torsion pendulum"
+    },
+    {
+        "扭力桿穩定器": "torsion rod stabilizer"
+    },
+    {
+        "扭力彈簧": "torsion spring"
+    },
+    {
+        "扭力試驗器": "torsion tester"
+    },
+    {
+        "扭力試驗機": "torsion testing machine"
+    },
+    {
+        "扭力黏度計": "torsion viscometer"
+    },
+    {
+        "扭力黏度計": "torsion viscosimeter"
+    },
+    {
+        "扭力圓錐稠度計": "torsion-cone consistometer"
+    },
+    {
+        "扭力計": "torsionmeter"
+    },
+    {
+        "全身計數器": "total body counter"
+    },
+    {
+        "全冷凝器": "total condenser"
+    },
+    {
+        "總濾器": "total filter"
+    },
+    {
+        "全浸溫度計": "total immersion thermometer"
+    },
+    {
+        "總有機碳分析儀": "total organic carbon analyzer {= TOC analyzer}"
+    },
+    {
+        "全輻射高溫計": "total radiation pyrometer"
+    },
+    {
+        "全反射稜鏡": "total reflection prism"
+    },
+    {
+        "X射線全反射螢光光譜儀；X光全反射螢光光譜儀": "total reflection X-ray fluorescence spectrometer {= TXRF}"
+    },
+    {
+        "塔式起重機": "tower crane"
+    },
+    {
+        "毒性特性溶出裝置": "toxicity characteristic leaching apparatus"
+    },
+    {
+        "微量氣體分析儀": "trace gas analyzer"
+    },
+    {
+        "微量金屬分析儀": "trace metal analyzer"
+    },
+    {
+        "示蹤器；描繪器": "tracer"
+    },
+    {
+        "追蹤解調器": "tracking demodulator"
+    },
+    {
+        "追蹤裝置": "tracking device"
+    },
+    {
+        "追蹤降頻器": "tracking down converter"
+    },
+    {
+        "追蹤濾波器": "tracking filter"
+    },
+    {
+        "追蹤指示器": "tracking indicator"
+    },
+    {
+        "追蹤接收機": "tracking receiver"
+    },
+    {
+        "牽引力計": "traction meter"
+    },
+    {
+        "訓練模擬器": "training simulator"
+    },
+    {
+        "收發機；收發器": "transceiver"
+    },
+    {
+        "資訊轉換器；轉錄器": "transcriber"
+    },
+    {
+        "轉換器；換能器": "transducer"
+    },
+    {
+        "飽和電抗器；磁放大器": "transductor"
+    },
+    {
+        "移測卡鉗": "transfer caliper"
+    },
+    {
+        "移測卡鉗": "transfer calliper"
+    },
+    {
+        "移液吸管": "transfer pipet"
+    },
+    {
+        "移液吸管": "transfer pipette"
+    },
+    {
+        "輸送泵": "transfer pump"
+    },
+    {
+        "[離子]遷移器；[離子]遷移裝置": "transference apparatus"
+    },
+    {
+        "遷移電池；遷移數測定槽": "transference cell"
+    },
+    {
+        "[離子]遷移管": "transference tube"
+    },
+    {
+        "磁通量轉移器": "transfluxor"
+    },
+    {
+        "變壓器；變量器": "transformer"
+    },
+    {
+        "變壓器電橋": "transformer bridge"
+    },
+    {
+        "變壓[器]繼電器": "transformer relay"
+    },
+    {
+        "變壓器偶合放大器": "transformer-coupled amplifier"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "電晶體特性描繪器": "transistor characteristic tracer"
+    },
+    {
+        "電晶體放大係數測定計；電晶體α係數測定計": "transistor-alpha meter"
+    },
+    {
+        "經緯儀": "transit"
+    },
+    {
+        "子午儀": "transit telescope"
+    },
+    {
+        "經緯儀": "transit theodolite"
+    },
+    {
+        "穿透照相機": "transmission camera"
+    },
+    {
+        "傳動測功計": "transmission dynamometer"
+    },
+    {
+        "穿透[式]電子顯微鏡": "transmission electron microscope {= TEM}"
+    },
+    {
+        "透射光柵": "transmission grating"
+    },
+    {
+        "透射旋光計；透射偏光儀": "transmission polariscope"
+    },
+    {
+        "傳輸線放大器": "transmission-line amplifier"
+    },
+    {
+        "能見度計；透射計": "transmissometer"
+    },
+    {
+        "發送同步器": "transmit synchronizer"
+    },
+    {
+        "能見度計；透射計": "transmittance meter"
+    },
+    {
+        "發送機；傳送器；發話機；發射機": "transmitter"
+    },
+    {
+        "發送分配器": "transmitter-distributor {= TD}"
+    },
+    {
+        "發送偶合器；發射振盪變壓器": "transmitting jigger"
+    },
+    {
+        "發送繼電器": "transmitting relay"
+    },
+    {
+        "發送管；發射管": "transmitting tube"
+    },
+    {
+        "穿音速壓縮機": "transonic compressor"
+    },
+    {
+        "穿音速噴嘴": "transonic nozzle"
+    },
+    {
+        "透明度計": "transparency meter"
+    },
+    {
+        "相變傳送器": "transphasor"
+    },
+    {
+        "[離子]遷移器": "transport apparatus"
+    },
+    {
+        "移動式反應器": "transportable reactor"
+    },
+    {
+        "屏極檢流器；跨整流器": "transrectifier"
+    },
+    {
+        "橫向傾斜計": "transverse inclinometer"
+    },
+    {
+        "橫向激發大氣[壓]雷射": "transversely excited atmospheric laser {= TEA laser}"
+    },
+    {
+        "橫向激發大氣壓雷射": "transversely excited atmospheric pressure laser {= TEAP laser}"
+    },
+    {
+        "高壓換流器": "transverter"
+    },
+    {
+        "收集器；阱；閘；分離器": "trap"
+    },
+    {
+        "梯形波發生器": "trapezoidal generator"
+    },
+    {
+        "梯形堰": "trapezoidal weir"
+    },
+    {
+        "關閉式彎曲[模]機": "trapped-stock bender"
+    },
+    {
+        "雜屑分離器": "trash separator"
+    },
+    {
+        "移動式起重機": "traveling crane"
+    },
+    {
+        "移動式偵檢器": "traveling detector"
+    },
+    {
+        "移動式顯微鏡": "traveling microscope"
+    },
+    {
+        "移動式探針": "traveling probe"
+    },
+    {
+        "移動篩": "traveling screen"
+    },
+    {
+        "行波邁射": "traveling wave maser"
+    },
+    {
+        "行波放大器": "traveling-wave amplifier"
+    },
+    {
+        "行波調速電子管": "traveling-wave klystron"
+    },
+    {
+        "行波線性加速器": "traveling-wave linear accelerator"
+    },
+    {
+        "行波磁控管": "traveling-wave magnetron"
+    },
+    {
+        "行波邁射": "traveling-wave maser"
+    },
+    {
+        "行波示波器": "traveling-wave oscillograph"
+    },
+    {
+        "行波光電倍增器": "traveling-wave photomultiplier"
+    },
+    {
+        "行波共振器": "traveling-wave resonator"
+    },
+    {
+        "移動式起重機": "travelling crane"
+    },
+    {
+        "移動式偵檢器": "travelling detector"
+    },
+    {
+        "移動式顯微鏡": "travelling microscope"
+    },
+    {
+        "移動式探針": "travelling probe"
+    },
+    {
+        "移動篩": "travelling screen"
+    },
+    {
+        "行波邁射": "travelling wave maser"
+    },
+    {
+        "行波放大器": "travelling-wave amplifier"
+    },
+    {
+        "行波調速電子管": "travelling-wave klystron"
+    },
+    {
+        "行波線性加速器": "travelling-wave linear accelerator"
+    },
+    {
+        "行波磁控管": "travelling-wave magnetron"
+    },
+    {
+        "行波邁射": "travelling-wave maser"
+    },
+    {
+        "行波示波器": "travelling-wave oscillograph"
+    },
+    {
+        "行波光電倍增器": "travelling-wave photomultiplier"
+    },
+    {
+        "行波共振器": "travelling-wave resonator"
+    },
+    {
+        "橫向運送機": "traversing conveyor"
+    },
+    {
+        "盤；板": "tray"
+    },
+    {
+        "盤乾燥器": "tray drier"
+    },
+    {
+        "板塔": "tray tower"
+    },
+    {
+        "處理器": "treater"
+    },
+    {
+        "振動電鈴": "trembling bell"
+    },
+    {
+        "調諧射頻式接收器": "TRF receiver {tuned radio frequency receiver}"
+    },
+    {
+        "三角波發生器": "triangle generator"
+    },
+    {
+        "三角規": "triangular compass"
+    },
+    {
+        "三角銼": "triangular file"
+    },
+    {
+        "三角形雷射": "triangular laser"
+    },
+    {
+        "三稜柱；三面體稜鏡": "triangular prism"
+    },
+    {
+        "三角波振盪器": "triangular-wave oscillator"
+    },
+    {
+        "摩擦計": "tribometer"
+    },
+    {
+        "三[原]色比色計": "trichromatic colorimeter"
+    },
+    {
+        "滴流床": "trickle bed"
+    },
+    {
+        "滴流床反應器": "trickle bed reactor"
+    },
+    {
+        "滴流冷卻器": "trickle cooler"
+    },
+    {
+        "滴流床反應器": "trickle-bed reactor"
+    },
+    {
+        "滴濾池；滴濾器": "trickling filter"
+    },
+    {
+        "三斜稜鏡": "triclinic prism"
+    },
+    {
+        "彩色映像管；三色電子管": "tricolor tube"
+    },
+    {
+        "三槍色像管": "trielectron gun scope"
+    },
+    {
+        "觸發放電管": "trigatron"
+    },
+    {
+        "觸發器": "trigger"
+    },
+    {
+        "觸發放大器": "trigger amplifier"
+    },
+    {
+        "觸發二極體": "trigger diode"
+    },
+    {
+        "觸發電極": "trigger electrode"
+    },
+    {
+        "觸發脈衝發生器": "trigger generator"
+    },
+    {
+        "觸發反應器": "trigger reactor"
+    },
+    {
+        "觸發管；激發管": "trigger tube"
+    },
+    {
+        "微調電位計": "trimmer potentiometer"
+    },
+    {
+        "三槍色像管": "trinoscope"
+    },
+    {
+        "三極管；三極體": "triode"
+    },
+    {
+        "三極管氣體雷射": "triode gas laser"
+    },
+    {
+        "三極六極聯管": "triode-hexode"
+    },
+    {
+        "跳脫放大器": "trip amplifier"
+    },
+    {
+        "配盤天平": "trip balance"
+    },
+    {
+        "跳脫線圈": "trip coil"
+    },
+    {
+        "跳脫磁鐵": "trip magnet"
+    },
+    {
+        "跳脫替續器；跳脫繼電器": "trip relay"
+    },
+    {
+        "跳脫螺絲管；跳脫電磁閥": "trip solenoid"
+    },
+    {
+        "三梁天平；三梁秤；三臂天平；三樑天平": "triple beam balance"
+    },
+    {
+        "三透鏡聚光器": "triple condenser"
+    },
+    {
+        "三效蒸發器": "triple effect evaporator"
+    },
+    {
+        "三通閥": "triple valve"
+    },
+    {
+        "三軸中子散射儀": "triple-axis neutron scattering spectrometer"
+    },
+    {
+        "三柵極放大器": "triple-grid amplifier"
+    },
+    {
+        "三阻片變量器": "triple-stub transformer"
+    },
+    {
+        "三缸泵": "triplex pump"
+    },
+    {
+        "三缸往復泵": "triplex reciprocating pump"
+    },
+    {
+        "三工器": "triplexer"
+    },
+    {
+        "三腳架": "tripod"
+    },
+    {
+        "三激比色計": "tristimulus colorimeter"
+    },
+    {
+        "多諧振盪器；三極四極管振盪器": "tri-tet oscillator"
+    },
+    {
+        "次擺線分析儀": "trochoidal analyzer"
+    },
+    {
+        "次擺線質量分析儀": "trochoidal mass analyzer"
+    },
+    {
+        "次擺線質譜儀": "trochoidal mass spectrometer"
+    },
+    {
+        "次擺線電子管；多極電子管；多級電子計數器": "trochotron"
+    },
+    {
+        "懸弔運送機；弔運機": "trolley conveyer"
+    },
+    {
+        "轉筒篩；礦石篩": "trommel"
+    },
+    {
+        "轉筒篩": "trommel screen"
+    },
+    {
+        "槽式反射器": "trough reflector"
+    },
+    {
+        "抽屜式斷路器": "truck type circuit breaker"
+    },
+    {
+        "抽屜式開關盤": "truck-type switch board"
+    },
+    {
+        "斜截稜鏡": "truncated prism"
+    },
+    {
+        "[離心]管套座": "trunnion carrier"
+    },
+    {
+        "試管；管": "tube"
+    },
+    {
+        "電子管接合器": "tube adapter"
+    },
+    {
+        "洗管器": "tube cleaner"
+    },
+    {
+        "管式運送機": "tube conveyer"
+    },
+    {
+        "管式計數器": "tube counter"
+    },
+    {
+        "切管器": "tube cutter"
+    },
+    {
+        "管式乾燥器": "tube drier"
+    },
+    {
+        "擴管器": "tube expander"
+    },
+    {
+        "管式爐": "tube furnace"
+    },
+    {
+        "管磨機": "tube mill"
+    },
+    {
+        "電子管振盪器": "tube oscillator"
+    },
+    {
+        "管式反應器": "tube reactor"
+    },
+    {
+        "擴管器；管口擴大器": "tube reamer"
+    },
+    {
+        "管式共鳴器": "tube resonator"
+    },
+    {
+        "管餾器": "tube still"
+    },
+    {
+        "電子管電壓計": "tube voltmeter"
+    },
+    {
+        "管束熱交換器": "tube-bundle heat exchanger"
+    },
+    {
+        "管；小管": "tubing"
+    },
+    {
+        "製管機": "tubing machine"
+    },
+    {
+        "管式冷凝器；管式電容器": "tubular condenser"
+    },
+    {
+        "管式冷卻器": "tubular cooler"
+    },
+    {
+        "管式電測功計": "tubular electrodynamometer"
+    },
+    {
+        "管式蒸發器": "tubular evaporator"
+    },
+    {
+        "管式熱交換器": "tubular heat exchanger"
+    },
+    {
+        "管式加熱器": "tubular heater"
+    },
+    {
+        "管式散熱器": "tubular radiator"
+    },
+    {
+        "管式反應器；管狀反應器": "tubular reactor"
+    },
+    {
+        "條道式電池[組]": "tudor type battery"
+    },
+    {
+        "轉筒式乾燥機": "tumble dryer"
+    },
+    {
+        "滾磨機": "tumbling mill"
+    },
+    {
+        "可變頻雷射；可調雷射": "tunable laser"
+    },
+    {
+        "調諧放大器": "tuned amplifier"
+    },
+    {
+        "調諧射頻式接收器": "tuned radio frequency receiver {=tuned RF receiver; TRF receiver }"
+    },
+    {
+        "調諧射頻式接收器": "tuned RF receiver {tuned radio frequency receiver}"
+    },
+    {
+        "調諧器": "tuner"
+    },
+    {
+        "鎢氬管充電器": "tungar charger"
+    },
+    {
+        "鎢氬管振盪器": "tungar oscillator"
+    },
+    {
+        "鎢氬管整流器": "tungar rectifier"
+    },
+    {
+        "鎢氬[整流]管": "tungar tube"
+    },
+    {
+        "鎢絲燈": "tungsten filament lamp"
+    },
+    {
+        "鎢絲燈": "tungsten lamp"
+    },
+    {
+        "音叉": "tuning fork"
+    },
+    {
+        "音叉振盪器": "tuning fork oscillator"
+    },
+    {
+        "暗槽電樞": "tunnel armature"
+    },
+    {
+        "穿隧導體": "tunnel conductor"
+    },
+    {
+        "隧式脫水器": "tunnel dehydrator"
+    },
+    {
+        "穿隧二極體": "tunnel diode"
+    },
+    {
+        "隧式乾燥器": "tunnel drier"
+    },
+    {
+        "穿隧光電二極體": "tunnel photodiode"
+    },
+    {
+        "穿隧式低溫開關": "tunneling cryotron"
+    },
+    {
+        "穿隧式顯微鏡": "tunneling microscope"
+    },
+    {
+        "穿隧電子顯微鏡": "tunnelling electron microscope"
+    },
+    {
+        "濁度計": "turbidimeter"
+    },
+    {
+        "濁度指示器": "turbidity indicator"
+    },
+    {
+        "渦輪機": "turbine"
+    },
+    {
+        "渦輪攪拌器": "turbine agitator"
+    },
+    {
+        "渦輪機葉片": "turbine blade"
+    },
+    {
+        "渦輪流量計": "turbine flowmeter"
+    },
+    {
+        "渦輪泵": "turbine pump"
+    },
+    {
+        "渦輪分子泵": "turbo molecular pump"
+    },
+    {
+        "渦輪發電機": "turboalternater"
+    },
+    {
+        "渦輪鼓風機": "turboblower"
+    },
+    {
+        "渦輪壓縮機": "turbocompressor"
+    },
+    {
+        "渦輪發電機": "turbo-dynamo"
+    },
+    {
+        "渦輪發電機": "turbogenerator"
+    },
+    {
+        "渦輪噴射引擎": "turbojet"
+    },
+    {
+        "渦輪噴射引擎": "turbojet engine"
+    },
+    {
+        "渦輪研磨機": "turbomill"
+    },
+    {
+        "渦輪混合器": "turbomixer"
+    },
+    {
+        "渦輪泵": "turbopump"
+    },
+    {
+        "渦輪增壓器": "turbosupercharger"
+    },
+    {
+        "紊流式燃燒器": "turbulent burner"
+    },
+    {
+        "螺旋扣": "turn buckle"
+    },
+    {
+        "轉動台": "turning table"
+    },
+    {
+        "轉盤；唱盤": "turntable"
+    },
+    {
+        "鑷子": "tweezers"
+    },
+    {
+        "孿三極管": "twin triode"
+    },
+    {
+        "雙射束管": "two-beam tube"
+    },
+    {
+        "雙頻道記錄器": "two-channel recorder"
+    },
+    {
+        "雙晶譜儀": "two-crystal spectrometer"
+    },
+    {
+        "二衝程引擎": "two-cycle engine"
+    },
+    {
+        "雙電極極譜儀": "two-electrode polarograph"
+    },
+    {
+        "雙絲靜電計": "two-filar electrometer"
+    },
+    {
+        "雙液電池": "two-fluid cell"
+    },
+    {
+        "二輸入加器": "two-input adder"
+    },
+    {
+        "雙透鏡目鏡": "two-lens ocular"
+    },
+    {
+        "二能階雷射": "two-level laser"
+    },
+    {
+        "雙頸瓶": "two-neck bottle"
+    },
+    {
+        "雙頸燒瓶": "two-neck flask"
+    },
+    {
+        "雙程冷凝器": "two-pass condenser"
+    },
+    {
+        "雙筆記錄器": "two-pen recorder"
+    },
+    {
+        "兩相離子交換管柱": "two-phase ion-exchange column"
+    },
+    {
+        "2π計數器": "two-pi counter"
+    },
+    {
+        "雙位引動器": "two-position actuator"
+    },
+    {
+        "雙位控制器": "two-position controller"
+    },
+    {
+        "雙腔速調管": "two-resonator klystron"
+    },
+    {
+        "二段控制器": "two-stage controller"
+    },
+    {
+        "雙通旋塞": "two-way cock"
+    },
+    {
+        "二通開關": "two-way switch"
+    },
+    {
+        "雙向同步加速器": "two-way synchrotron"
+    },
+    {
+        "雙通閥": "two-way valve"
+    },
+    {
+        "雙繞組變壓器": "two-winding transformer"
+    },
+    {
+        "兩線插頭": "two-wire plug"
+    },
+    {
+        "高功率微波管；行波速調管": "twystron"
+    },
+    {
+        "廷得耳計": "Tyndall meter"
+    },
+    {
+        "廷得耳計": "Tyndallmeter"
+    },
+    {
+        "打字終端機": "typewriter terminal"
+    },
+    {
+        "顯字[電子]管": "typotron"
+    },
+    {
+        "U型管；U形管": "U tube"
+    },
+    {
+        "U形管": "U-bend"
+    },
+    {
+        "U形夾": "U-clamp"
+    },
+    {
+        "雨量計": "udometer"
+    },
+    {
+        "超高頻變頻器": "UHF converter"
+    },
+    {
+        "超三極管": "ultra-audion"
+    },
+    {
+        "超三極管振盪器": "ultra-audion oscillator"
+    },
+    {
+        "超離心機": "ultracentrifuge"
+    },
+    {
+        "超過濾器": "ultrafilter"
+    },
+    {
+        "超過濾坩堝": "ultrafiltering crucible"
+    },
+    {
+        "超細研磨機": "ultragrinder"
+    },
+    {
+        "超高頻陰極射線管": "ultra-high frequency cathode ray tube"
+    },
+    {
+        "超微量吸管": "ultramicro pipet"
+    },
+    {
+        "超微量吸管": "ultramicro pipette"
+    },
+    {
+        "超微量天平": "ultramicrobalance"
+    },
+    {
+        "超微計": "ultramicrometer"
+    },
+    {
+        "超微量吸管": "ultramicropipet"
+    },
+    {
+        "超微量吸管": "ultramicropipette"
+    },
+    {
+        "超顯微鏡": "ultramicroscope"
+    },
+    {
+        "超薄切片機": "ultramicrotome"
+    },
+    {
+        "超光度計": "ultraphotometer"
+    },
+    {
+        "超音振盪器；超音波發生器": "ultrasonator"
+    },
+    {
+        "超音波照相機；超聲波照相機": "ultrasonic camera"
+    },
+    {
+        "超音波清洗器": "ultrasonic cleaner"
+    },
+    {
+        "超音波探傷儀": "ultrasonic defectoscope"
+    },
+    {
+        "超音波偵檢器": "ultrasonic detector"
+    },
+    {
+        "超音波分解器": "ultrasonic disintegrator"
+    },
+    {
+        "超音波探傷器": "ultrasonic flaw detector"
+    },
+    {
+        "超音波[原子]力學顯微鏡": "ultrasonic force microscope {= UFM}"
+    },
+    {
+        "超音波發生器": "ultrasonic generator"
+    },
+    {
+        "超音波干涉計": "ultrasonic interferometer"
+    },
+    {
+        "超音波偵漏器": "ultrasonic leak detector"
+    },
+    {
+        "超音波透鏡": "ultrasonic lens"
+    },
+    {
+        "超音波顯微鏡": "ultrasonic microscope"
+    },
+    {
+        "超音波反射儀": "ultrasonic reflectoscope"
+    },
+    {
+        "超音波感測器": "ultrasonic sensor"
+    },
+    {
+        "超音波分離器": "ultrasonic separator"
+    },
+    {
+        "超音波頻閃觀測器": "ultrasonic stroboscope"
+    },
+    {
+        "超音波試驗器": "ultrasonic tester"
+    },
+    {
+        "超音波測厚計": "ultrasonic thickness gage"
+    },
+    {
+        "超音波測厚計": "ultrasonic thickness gauge"
+    },
+    {
+        "超音波厚度指示器": "ultrasonic thickness indicator"
+    },
+    {
+        "超音波換能器": "ultrasonic transducer"
+    },
+    {
+        "超音波振動器": "ultrasonic vibrator"
+    },
+    {
+        "超音波振盪器；超音波發生器": "ultrasonicator"
+    },
+    {
+        "紫外線吸收偵檢器": "ultraviolet absorption detector"
+    },
+    {
+        "紫外線加速度計": "ultraviolet accelerometer"
+    },
+    {
+        "紫外線比色計": "ultraviolet colorimeter"
+    },
+    {
+        "紫外線偵檢器": "ultraviolet detector"
+    },
+    {
+        "紫外線劑量計": "ultraviolet dosimeter"
+    },
+    {
+        "紫外線發生器": "ultraviolet generator"
+    },
+    {
+        "紫外線強度計": "ultraviolet intensiometer"
+    },
+    {
+        "紫外[線]燈": "ultraviolet lamp"
+    },
+    {
+        "紫外線顯微鏡": "ultraviolet microscope"
+    },
+    {
+        "紫外線攝譜儀": "ultraviolet spectrograph"
+    },
+    {
+        "紫外[線]光譜儀": "ultraviolet spectrometer"
+    },
+    {
+        "紫外線分光光度計；紫外[線]光譜儀": "ultraviolet spectrophotometer"
+    },
+    {
+        "紫外線望遠鏡": "ultraviolet telescope"
+    },
+    {
+        "紫外/可見光吸收光譜儀": "ultraviolet-visible absorption spectrometer"
+    },
+    {
+        "紫外/可見光比色計": "ultraviolet-visible colorimeter"
+    },
+    {
+        "紫外/可見光偵檢器": "ultraviolet-visible detector"
+    },
+    {
+        "紫外/可見光分光光度計": "ultraviolet-visible spectrophotometer"
+    },
+    {
+        "煙塵濁度計": "umbrascope"
+    },
+    {
+        "無約束應變計": "unbonded strain gage"
+    },
+    {
+        "無約束應變計": "unbonded strain gauge"
+    },
+    {
+        "非調制輻射計": "unchopped radiometer"
+    },
+    {
+        "未塗膜雷射": "uncoated laser"
+    },
+    {
+        "未塗膜透鏡": "uncoated lens"
+    },
+    {
+        "無阻尼分析天平": "undamped analytical balance"
+    },
+    {
+        "欠[電]流繼電器": "undercurrent relay"
+    },
+    {
+        "欠[電]流釋放器": "undercurrent release"
+    },
+    {
+        "欠[電]流釋放器": "under-current release"
+    },
+    {
+        "底動離心機": "under-driven centrifuge"
+    },
+    {
+        "底流泵": "underflow pump"
+    },
+    {
+        "地下天線": "underground antenna"
+    },
+    {
+        "欠載繼電器": "underload relay"
+    },
+    {
+        "欠功繼電器": "underpower relay"
+    },
+    {
+        "欠[電]壓繼電器": "undervoltage relay"
+    },
+    {
+        "欠[電]壓釋放器": "undervoltage release"
+    },
+    {
+        "欠[電]壓釋放器": "under-voltage release"
+    },
+    {
+        "水下照相機": "underwater camera"
+    },
+    {
+        "水下傳聲器": "underwater microphone"
+    },
+    {
+        "水下發聲器": "underwater sound projector"
+    },
+    {
+        "未聚焦雷射": "unfocused laser"
+    },
+    {
+        "素燒坩堝": "unglazed crucible"
+    },
+    {
+        "單向天線": "unidirectional antenna"
+    },
+    {
+        "單向傳聲器": "unidirectional microphone"
+    },
+    {
+        "單向電晶體": "unidirectional transistor"
+    },
+    {
+        "單絲靜電計": "unifilar electrometer"
+    },
+    {
+        "單接面電晶體": "unijunction transistor"
+    },
+    {
+        "單側面厚度計": "unilateral thickness gage"
+    },
+    {
+        "單側面厚度計": "unilateral thickness gauge"
+    },
+    {
+        "單向換能器": "unilateral transducer"
+    },
+    {
+        "單模雷射": "unimodal laser"
+    },
+    {
+        "管套節": "union"
+    },
+    {
+        "單場向電樞；單極電樞": "unipolar armature"
+    },
+    {
+        "單極電晶體": "unipolar transistor"
+    },
+    {
+        "單電位[差]靜電透鏡": "unipotential electrostatic lens"
+    },
+    {
+        "通用異步收發器": "universal asynchronous receiver transmitter {= UART}"
+    },
+    {
+        "通用自準直儀": "universal autocollimator"
+    },
+    {
+        "萬能活動量角器": "universal bevel protractor"
+    },
+    {
+        "廣用夾；通用夾": "universal clamp"
+    },
+    {
+        "通用檢流計": "universal galvanometer"
+    },
+    {
+        "萬向接頭": "universal joint"
+    },
+    {
+        "通用操作器": "universal manipulator"
+    },
+    {
+        "萬能量測儀": "universal measuring machine"
+    },
+    {
+        "萬用電表": "universal meter"
+    },
+    {
+        "萬能銑床": "universal milling machine"
+    },
+    {
+        "交直流兩用電動機；通用電動機": "universal motor"
+    },
+    {
+        "通用分流器": "universal shunt"
+    },
+    {
+        "廣用架": "universal stand"
+    },
+    {
+        "廣用試驗器": "universal tester"
+    },
+    {
+        "通用試驗機": "universal testing machine"
+    },
+    {
+        "單電壓透鏡": "univoltage lens"
+    },
+    {
+        "無載放大器": "unloading amplifier"
+    },
+    {
+        "不極化電極": "unpolarizable electrode"
+    },
+    {
+        "不穩定共振器": "unstable resonator"
+    },
+    {
+        "未調諧放大器": "untuned amplifier"
+    },
+    {
+        "未調諧天線": "untuned antenna"
+    },
+    {
+        "向上通風爐": "up-draft furnace"
+    },
+    {
+        "垂直式檢流計": "upright galvanometer"
+    },
+    {
+        "鈾反應器；鈾堆": "uranium pile"
+    },
+    {
+        "鈾反應器": "uranium reactor"
+    },
+    {
+        "尿素計": "ureameter"
+    },
+    {
+        "尿素計": "ureometer"
+    },
+    {
+        "尿比重計": "urinometer"
+    },
+    {
+        "U形乾燥管": "U-shape drying tube"
+    },
+    {
+        "U形應接器": "U-shaped adapter"
+    },
+    {
+        "U形管壓力計": "U-tube gage"
+    },
+    {
+        "U形管壓力計": "U-tube gauge"
+    },
+    {
+        "U形管熱交換器": "U-tube heat exchanger"
+    },
+    {
+        "U形管比重計": "U-tube hydrometer"
+    },
+    {
+        "U形管壓力計": "U-tube manometer"
+    },
+    {
+        "U形管壓力計": "U-tube pressure gage"
+    },
+    {
+        "U形管壓力計": "U-tube pressure gauge"
+    },
+    {
+        "紫外線偵檢器": "UV detector"
+    },
+    {
+        "紫外[線]燈": "UV lamp"
+    },
+    {
+        "紫外線雷射": "UV laser"
+    },
+    {
+        "紫外線掃描器": "UV scanner"
+    },
+    {
+        "紫外[線]光譜儀": "UV spectrometer"
+    },
+    {
+        "V形皮帶": "V belt"
+    },
+    {
+        "真空計；低壓計": "vacuometer"
+    },
+    {
+        "真空應接器": "vacuum adapter"
+    },
+    {
+        "真空天平": "vacuum balance"
+    },
+    {
+        "真空輻射熱計": "vacuum bolometer"
+    },
+    {
+        "真空增壓器": "vacuum booster"
+    },
+    {
+        "真空瓶": "vacuum bottle"
+    },
+    {
+        "真空剎車[器]": "vacuum brake"
+    },
+    {
+        "真空斷路器": "vacuum breaker"
+    },
+    {
+        "真空卡計": "vacuum calorimeter"
+    },
+    {
+        "真空電容器": "vacuum capacitor"
+    },
+    {
+        "真空室": "vacuum chamber"
+    },
+    {
+        "真空吸塵器；真空清淨器": "vacuum cleaner"
+    },
+    {
+        "真空冷阱": "vacuum cold trap"
+    },
+    {
+        "真空蒸餾塔；真空蒸餾管柱": "vacuum column"
+    },
+    {
+        "真空冷凝器": "vacuum condenser"
+    },
+    {
+        "真空結晶器": "vacuum crystallizer"
+    },
+    {
+        "真空脫水器": "vacuum dehydrator"
+    },
+    {
+        "真空乾燥器": "vacuum desiccator"
+    },
+    {
+        "真空膨脹計": "vacuum dilatometer"
+    },
+    {
+        "環形真空器": "vacuum doughnut"
+    },
+    {
+        "真空乾燥器": "vacuum drier"
+    },
+    {
+        "真空濾桶": "vacuum drum filter"
+    },
+    {
+        "真空乾燥器": "vacuum drying apparatus"
+    },
+    {
+        "真空乾燥烘箱": "vacuum drying oven"
+    },
+    {
+        "真空均衡器": "vacuum equalizer"
+    },
+    {
+        "真空蒸發器": "vacuum evaporator"
+    },
+    {
+        "真空膨脹器": "vacuum expander"
+    },
+    {
+        "真空濾器；減壓濾器": "vacuum filter"
+    },
+    {
+        "保溫瓶；真空瓶": "vacuum flask"
+    },
+    {
+        "真空前置泵": "vacuum forepump"
+    },
+    {
+        "真空冷凍乾燥器": "vacuum freeze drier"
+    },
+    {
+        "真空爐": "vacuum furnace"
+    },
+    {
+        "真空計": "vacuum gage"
+    },
+    {
+        "真空計": "vacuum gauge"
+    },
+    {
+        "真空發生器": "vacuum generator"
+    },
+    {
+        "真空干涉計": "vacuum interferometer"
+    },
+    {
+        "真空斷續器": "vacuum interrupter"
+    },
+    {
+        "真空游離偵檢器": "vacuum ionization detector"
+    },
+    {
+        "真空游離計": "vacuum ionization gage"
+    },
+    {
+        "真空游離計": "vacuum ionization gauge"
+    },
+    {
+        "真空偵漏器": "vacuum leak detector"
+    },
+    {
+        "真空壓力計": "vacuum manometer"
+    },
+    {
+        "真空混合器": "vacuum mixer"
+    },
+    {
+        "真空烘箱": "vacuum oven"
+    },
+    {
+        "真空罐": "vacuum pan"
+    },
+    {
+        "真空筆": "vacuum pencil"
+    },
+    {
+        "真空光電管": "vacuum phototube"
+    },
+    {
+        "真空壓製機": "vacuum press"
+    },
+    {
+        "真空壓力計": "vacuum pressure gage"
+    },
+    {
+        "真空壓力計": "vacuum pressure gauge"
+    },
+    {
+        "真空泵": "vacuum pump"
+    },
+    {
+        "真空接受器": "vacuum receiver"
+    },
+    {
+        "真空釋放閥": "vacuum relief valve"
+    },
+    {
+        "真空甑": "vacuum retort"
+    },
+    {
+        "真空廂[式]乾燥器": "vacuum shelf drier"
+    },
+    {
+        "真空攝譜儀；真空光譜儀": "vacuum spectrograph"
+    },
+    {
+        "真空滅菌烘箱": "vacuum sterilizing oven"
+    },
+    {
+        "真空蒸餾器": "vacuum still"
+    },
+    {
+        "真空蒸餾塔": "vacuum tower"
+    },
+    {
+        "真空盤乾燥器": "vacuum tray drier"
+    },
+    {
+        "真空管": "vacuum tube"
+    },
+    {
+        "真空管振盪器": "vacuum tube oscillator"
+    },
+    {
+        "真空管整流器": "vacuum tube rectifier"
+    },
+    {
+        "真空管伏特計": "vacuum tube voltmeter"
+    },
+    {
+        "真空閥": "vacuum valve"
+    },
+    {
+        "真空容器": "vacuum vessel"
+    },
+    {
+        "真空洗機": "vacuum washer"
+    },
+    {
+        "真空電弧離心機": "vacuum-arc centrifuge"
+    },
+    {
+        "真空管放大器": "vacuum-tube amplifier"
+    },
+    {
+        "真空管偵檢器": "vacuum-tube detector"
+    },
+    {
+        "真空管靜電計": "vacuum-tube electrometer"
+    },
+    {
+        "真空管調制器": "vacuum-tube modulator"
+    },
+    {
+        "真空管振盪器": "vacuum-tube oscillator"
+    },
+    {
+        "真空管整流器": "vacuum-tube rectifier"
+    },
+    {
+        "真空管繼電器": "vacuum-tube relay"
+    },
+    {
+        "閥": "valve"
+    },
+    {
+        "自封袋；閥袋": "valve bag"
+    },
+    {
+        "閥栓": "valve cock"
+    },
+    {
+        "電子管振盪器；真空管振盪器": "valve generator"
+    },
+    {
+        "電子管定壓器": "valve stabilizer"
+    },
+    {
+        "電子管伏特計；閥式伏特計": "valve voltmeter"
+    },
+    {
+        "葉輪風速計；葉片式風速計": "vane anemometer"
+    },
+    {
+        "葉輪衰減器": "vane attenuator"
+    },
+    {
+        "葉輪壓縮機": "vane compressor"
+    },
+    {
+        "葉輪擴散器": "vane diffuser"
+    },
+    {
+        "葉輪泵": "vane pump"
+    },
+    {
+        "葉輪輻射計": "vane radiometer"
+    },
+    {
+        "葉片陽極磁控管": "vane-anode magnetron"
+    },
+    {
+        "無葉輪擴散器": "vaneless diffuser"
+    },
+    {
+        "蒸氣清潔器": "vapor cleaner"
+    },
+    {
+        "蒸氣壓縮冷凍機": "vapor compression refrigerator"
+    },
+    {
+        "汽密度泡；蒸汽密度球管": "vapor density bulb"
+    },
+    {
+        "蒸氣擴散泵": "vapor diffusion pump"
+    },
+    {
+        "汽燈；汽弧燈": "vapor lamp"
+    },
+    {
+        "蒸氣壓計": "vapor tension meter"
+    },
+    {
+        "充汽溫度計": "vapor-filled thermometer"
+    },
+    {
+        "蒸氣壓計": "vaporimeter"
+    },
+    {
+        "汽化器": "vaporizer"
+    },
+    {
+        "汽相反應器": "vapor-phase reactor"
+    },
+    {
+        "蒸氣壓滲壓計": "vapor-pressure osmometer"
+    },
+    {
+        "蒸汽壓溫度計": "vapor-pressure thermometer"
+    },
+    {
+        "蒸氣壓計": "vapourimeter"
+    },
+    {
+        "角調式橢圓光譜偏光儀": "variable angle of incidence spectroscopic ellipsometer"
+    },
+    {
+        "可變截面流量計": "variable area flowmeter"
+    },
+    {
+        "可變電容器": "variable capacitor"
+    },
+    {
+        "可變電容器": "variable condenser"
+    },
+    {
+        "可變連接器": "variable connector"
+    },
+    {
+        "可變偶合器": "variable coupler"
+    },
+    {
+        "可變晶體濾波器": "variable crystal filter"
+    },
+    {
+        "可變焦距透鏡": "variable focus lens"
+    },
+    {
+        "可變增益放大器": "variable gain amplifier"
+    },
+    {
+        "可變光衰減器": "variable optical attenuator"
+    },
+    {
+        "可變孔口計": "variable orifice meter"
+    },
+    {
+        "可變放大率目鏡": "variable power eyepiece"
+    },
+    {
+        "變量泵": "variable pump"
+    },
+    {
+        "可變電阻器": "variable resistor"
+    },
+    {
+        "變速馬達": "variable-speed motor"
+    },
+    {
+        "變速泵": "variable-speed pump"
+    },
+    {
+        "可變焦距透鏡": "vari-focus lens"
+    },
+    {
+        "可變偶合器": "variocoupler"
+    },
+    {
+        "可變電感記錄器；變量儀": "variograph"
+    },
+    {
+        "可變損耗器": "variolosser"
+    },
+    {
+        "可變電感器；地磁量測計；變量計": "variometer"
+    },
+    {
+        "蜿動泵": "varistaltic pump"
+    },
+    {
+        "變阻器": "varistor"
+    },
+    {
+        "槽；缸": "vat"
+    },
+    {
+        "雨向計": "vectopluriometer"
+    },
+    {
+        "向量分解儀": "vector resolver"
+    },
+    {
+        "向量式信號分析儀": "vector signal analyzer"
+    },
+    {
+        "向量伏特計": "vector voltmeter"
+    },
+    {
+        "向量示波器": "vectorscope"
+    },
+    {
+        "速度計；聲速計": "velocimeter"
+    },
+    {
+        "濾速器": "velocity filter"
+    },
+    {
+        "速度計": "velocity meter"
+    },
+    {
+        "振速傳聲器；振速麥克風": "velocity microphone"
+    },
+    {
+        "調速管": "velocity modulated tube"
+    },
+    {
+        "速度式地震計": "velocity seismometer"
+    },
+    {
+        "速度選擇器；選速器": "velocity selector"
+    },
+    {
+        "速度式地震計": "velocity-type seismometer"
+    },
+    {
+        "轉數計傳感器；伺服積分器": "velodyne"
+    },
+    {
+        "通風管": "vent pipe"
+    },
+    {
+        "通風機": "ventilating blower"
+    },
+    {
+        "通風乾燥器": "ventilation drier"
+    },
+    {
+        "通風器；通風機": "ventilator"
+    },
+    {
+        "風速計": "ventometer"
+    },
+    {
+        "文氏管；細腰管": "Venturi"
+    },
+    {
+        "文氏流量計；細腰流量計": "Venturi flowmeter"
+    },
+    {
+        "細腰[流量]計；細腰[流速]計；文氏[流量]計": "Venturi meter"
+    },
+    {
+        "文氏噴嘴；細腰噴嘴": "Venturi nozzle"
+    },
+    {
+        "文氏管；細腰管": "Venturi tube"
+    },
+    {
+        "驗孔機；驗證器": "verifier"
+    },
+    {
+        "游標；游標尺": "vernier"
+    },
+    {
+        "游標卡尺": "vernier caliper"
+    },
+    {
+        "游標卡尺": "vernier calliper"
+    },
+    {
+        "游標羅盤儀": "vernier compass"
+    },
+    {
+        "微調電容器": "vernier condenser"
+    },
+    {
+        "游標深度計": "vernier depth gage"
+    },
+    {
+        "游標深度計": "vernier depth gauge"
+    },
+    {
+        "游標刻度盤": "vernier dial"
+    },
+    {
+        "游標規": "vernier gage"
+    },
+    {
+        "游標規": "vernier gauge"
+    },
+    {
+        "游標水平儀": "vernier level"
+    },
+    {
+        "游標測微計": "vernier micrometer"
+    },
+    {
+        "游標顯微鏡": "vernier microscope"
+    },
+    {
+        "游標分度器": "vernier protractor"
+    },
+    {
+        "游標解析器": "vernier resolver"
+    },
+    {
+        "游標尺": "vernier scale"
+    },
+    {
+        "垂直準直儀": "vertical collimator"
+    },
+    {
+        "垂直分量地震儀": "vertical component seismograph"
+    },
+    {
+        "垂直磁場天平": "vertical field balance"
+    },
+    {
+        "直立陀螺儀": "vertical gyroscope"
+    },
+    {
+        "豎直擺": "vertical pendulum"
+    },
+    {
+        "立式泵": "vertical pump"
+    },
+    {
+        "豎甑": "vertical retort"
+    },
+    {
+        "垂直[分量]地震儀": "vertical seismograph"
+    },
+    {
+        "豎管冷凝器": "vertical tube condenser"
+    },
+    {
+        "豎管蒸發器": "vertical tube evaporator"
+    },
+    {
+        "屈度計；焦度計": "vertometer"
+    },
+    {
+        "容器；槽": "vessel"
+    },
+    {
+        "減振器": "vibrating absorber"
+    },
+    {
+        "振動分析器": "vibrating analyzer"
+    },
+    {
+        "振動電容放大器": "vibrating capacitance amplifier"
+    },
+    {
+        "振動電容器": "vibrating capacitor"
+    },
+    {
+        "振動運送機；振運機": "vibrating conveyer"
+    },
+    {
+        "減振器": "vibrating damper"
+    },
+    {
+        "振動分配器": "vibrating distributor"
+    },
+    {
+        "振動電流計": "vibrating galvanometer"
+    },
+    {
+        "振簧電容器": "vibrating reed capacitor"
+    },
+    {
+        "振簧電容器": "vibrating reed condenser"
+    },
+    {
+        "振簧靜電計": "vibrating reed electrometer"
+    },
+    {
+        "振簧頻率計": "vibrating reed frequency meter"
+    },
+    {
+        "振簧指示器": "vibrating reed indicator"
+    },
+    {
+        "振動篩": "vibrating riddle"
+    },
+    {
+        "振動樣品磁強計；振動試樣磁力計": "vibrating sample magnetometer"
+    },
+    {
+        "振動篩": "vibrating screen"
+    },
+    {
+        "振動篩": "vibrating sieve"
+    },
+    {
+        "振動粗濾器": "vibrating strainer"
+    },
+    {
+        "振動盤": "vibration disk"
+    },
+    {
+        "振動頻率計": "vibration frequency meter"
+    },
+    {
+        "振動規": "vibration gage"
+    },
+    {
+        "振動電流計": "vibration galvanometer"
+    },
+    {
+        "振動規": "vibration gauge"
+    },
+    {
+        "振動重力計": "vibration gravimeter"
+    },
+    {
+        "隔振器": "vibration insulator"
+    },
+    {
+        "隔振器": "vibration isolator"
+    },
+    {
+        "振動磁強計": "vibration magnetometer"
+    },
+    {
+        "振動計": "vibration meter"
+    },
+    {
+        "振動記錄器": "vibration recorder"
+    },
+    {
+        "振動轉速計": "vibration tachometer"
+    },
+    {
+        "振動器；振子": "vibrator"
+    },
+    {
+        "振動飼機": "vibratory feeder"
+    },
+    {
+        "振動圖示儀": "vibrograph"
+    },
+    {
+        "振動計": "vibrometer"
+    },
+    {
+        "示振器；振動計": "vibroscope"
+    },
+    {
+        "虎頭夾鉗": "vice"
+    },
+    {
+        "視頻放大器": "video amplifier"
+    },
+    {
+        "視頻偵檢器": "video detector"
+    },
+    {
+        "視頻成像儀": "video mapper"
+    },
+    {
+        "視頻前置放大器": "video preamplifier"
+    },
+    {
+        "視頻記錄器": "video recorder"
+    },
+    {
+        "錄影機": "video tape recorder"
+    },
+    {
+        "視頻管": "video tube"
+    },
+    {
+        "光導攝影管；視像管": "vidicon"
+    },
+    {
+        "光導照相機；視像照相機": "vidicon camera"
+    },
+    {
+        "光導攝影管；視像管": "vidicon tube"
+    },
+    {
+        "探視器": "view finder"
+    },
+    {
+        "酒精比重計": "vinometer"
+    },
+    {
+        "減黏[裂化]爐": "visbreaker"
+    },
+    {
+        "黏度計": "viscometer"
+    },
+    {
+        "黏度計": "viscosimeter"
+    },
+    {
+        "黏度天平": "viscosity balance"
+    },
+    {
+        "黏滯係數計；黏度計": "viscosity gage"
+    },
+    {
+        "黏滯係數計；黏度計": "viscosity gauge"
+    },
+    {
+        "黏度計管": "viscosity tube"
+    },
+    {
+        "黏滯阻尼器": "viscous damper"
+    },
+    {
+        "虎頭夾鉗": "vise"
+    },
+    {
+        "能見度計": "visibility meter"
+    },
+    {
+        "可見光束雷射": "visible beam laser"
+    },
+    {
+        "觀流應接器": "visual flow adapter"
+    },
+    {
+        "目視指示器": "visual indicator"
+    },
+    {
+        "目視光度計": "visual photometer"
+    },
+    {
+        "目視高溫計": "visual pyrometer"
+    },
+    {
+        "目視折射望遠鏡": "visual refractor"
+    },
+    {
+        "顯像掃描器": "visual scanner"
+    },
+    {
+        "目視感光計": "visual sensitometer"
+    },
+    {
+        "目視望遠鏡": "visual telescope"
+    },
+    {
+        "擴音器": "voice amplifier"
+    },
+    {
+        "揮發性有機物採樣組裝[設備]": "volatile organic sampling train {= VOST}"
+    },
+    {
+        "揮發器": "volatilizer"
+    },
+    {
+        "分[電]壓箱": "volt box"
+    },
+    {
+        "調壓器": "voltage adjuster"
+    },
+    {
+        "電壓放大器": "voltage amplifier"
+    },
+    {
+        "均壓器": "voltage balancer"
+    },
+    {
+        "電壓線圈": "voltage coil"
+    },
+    {
+        "變壓電阻器": "voltage dependent resistor"
+    },
+    {
+        "檢壓器": "voltage detector"
+    },
+    {
+        "分壓器": "voltage divider"
+    },
+    {
+        "電壓發生器": "voltage generator"
+    },
+    {
+        "電壓限制器": "voltage limitater"
+    },
+    {
+        "電壓限制器": "voltage limitator"
+    },
+    {
+        "電壓倍增器": "voltage multiplier"
+    },
+    {
+        "伏打電堆": "voltage pile"
+    },
+    {
+        "電壓調節器；調壓器": "voltage regulator"
+    },
+    {
+        "穩壓器": "voltage stabilizer"
+    },
+    {
+        "電壓互感器": "voltage transformer"
+    },
+    {
+        "電壓式遙測計": "voltage type telemeter"
+    },
+    {
+        "電壓饋電天線": "voltage-feed antenna"
+    },
+    {
+        "伏打電池[組]": "voltaic battery"
+    },
+    {
+        "伏打電池": "voltaic cell"
+    },
+    {
+        "[伏打]電堆；電池": "voltaic pile"
+    },
+    {
+        "電量計": "voltameter"
+    },
+    {
+        "電壓電流計；伏安計": "voltammeter"
+    },
+    {
+        "伏安計": "voltamperometer"
+    },
+    {
+        "電壓計；伏特計": "voltmeter"
+    },
+    {
+        "伏特計轉換器": "voltmeter commutator"
+    },
+    {
+        "伏特計擴程器": "voltmeter multiplier"
+    },
+    {
+        "伏特毫安計": "volt-milliamperemeter"
+    },
+    {
+        "伏特歐姆計": "volt-ohmmeter"
+    },
+    {
+        "體積電量計": "volume coulometer"
+    },
+    {
+        "強度指示器；響度指示器": "volume indicator"
+    },
+    {
+        "體積電量計": "volume voltameter"
+    },
+    {
+        "量瓶": "volumetric flask"
+    },
+    {
+        "定量吸管": "volumetric pipet"
+    },
+    {
+        "定量吸管": "volumetric pipette"
+    },
+    {
+        "渦卷離心泵": "volute centrifugal pump"
+    },
+    {
+        "渦卷泵": "volute pump"
+    },
+    {
+        "漩渦攪拌器": "vortex agitator"
+    },
+    {
+        "V形摻合機": "V-type blender"
+    },
+    {
+        "硫化室": "vulcanizing chamber"
+    },
+    {
+        "加壓硫化機": "vulcanizing press"
+    },
+    {
+        "晶片探針": "wafer probe"
+    },
+    {
+        "晶片插座；餅形插座": "wafer socket"
+    },
+    {
+        "暗線箱；穿牆軸承箱": "wall box"
+    },
+    {
+        "微型電容器": "wallnut capacitor"
+    },
+    {
+        "調波示波器": "wamoscope"
+    },
+    {
+        "攪拌摻合機": "waring blender"
+    },
+    {
+        "預熱輥機": "warming roll"
+    },
+    {
+        "洗滌器；墊圈": "washer"
+    },
+    {
+        "洗瓶": "washing bottle"
+    },
+    {
+        "洗滌機": "washing machine"
+    },
+    {
+        "洗滌塔": "washing tower"
+    },
+    {
+        "洗槽": "washing trough"
+    },
+    {
+        "廢料煅燒爐": "waste calciner"
+    },
+    {
+        "廢料收集桶；廢料收集槽": "waste collecting tank"
+    },
+    {
+        "廢料收集器": "waste collector"
+    },
+    {
+        "廢料濃縮器": "waste concentrator"
+    },
+    {
+        "廢料處理機": "waste disposer"
+    },
+    {
+        "廢液濾器": "waste filter"
+    },
+    {
+        "廢熱鍋爐": "waste heat boiler"
+    },
+    {
+        "廢熱乾燥器": "waste heat drier"
+    },
+    {
+        "廢熱引擎": "waste heat engine"
+    },
+    {
+        "廢熱交換器": "waste heat exchanger"
+    },
+    {
+        "廢漿槽": "waste sludge tank"
+    },
+    {
+        "廢汽鍋爐": "waste steam boiler"
+    },
+    {
+        "廢汽緩衝泵": "waste surge pump"
+    },
+    {
+        "廢液緩衝槽": "waste surge tank"
+    },
+    {
+        "廢料槽": "waste tank"
+    },
+    {
+        "錶": "watch"
+    },
+    {
+        "錶玻璃": "watch crystal"
+    },
+    {
+        "錶玻璃": "watch glass"
+    },
+    {
+        "監視器": "watch-dog"
+    },
+    {
+        "水柱氣壓計": "water barometer"
+    },
+    {
+        "水浴": "water bath"
+    },
+    {
+        "水浴振動器": "water bath shaker"
+    },
+    {
+        "水流鼓風器": "water blast"
+    },
+    {
+        "沸水式反應器": "water boiler"
+    },
+    {
+        "沸水式反應器": "water boiler reactor"
+    },
+    {
+        "水泡器": "water bubbler"
+    },
+    {
+        "水卡計": "water calorimeter"
+    },
+    {
+        "化水器": "water carburetor"
+    },
+    {
+        "水冷卻器": "water chiller"
+    },
+    {
+        "水斷路器": "water circuit breaker"
+    },
+    {
+        "淨水器": "water clarifier"
+    },
+    {
+        "淨水器": "water cleaner"
+    },
+    {
+        "水鐘": "water clock"
+    },
+    {
+        "水冷凝器": "water condenser"
+    },
+    {
+        "水冷冷凝器": "water cooled condenser"
+    },
+    {
+        "水冷結晶器": "water cooled crystallizer"
+    },
+    {
+        "水冷爐": "water cooled furnace"
+    },
+    {
+        "水冷式反應器": "water cooled reactor"
+    },
+    {
+        "水冷式閃爍計數器": "water cooled scintillation counter"
+    },
+    {
+        "水冷變壓器": "water cooled transformer"
+    },
+    {
+        "水冷真空管": "water cooled tube"
+    },
+    {
+        "水冷卻器": "water cooler"
+    },
+    {
+        "水[量]電量計": "water coulometer"
+    },
+    {
+        "水旋流器": "water cyclone"
+    },
+    {
+        "水蒸餾器": "water distilling apparatus"
+    },
+    {
+        "水力測功計": "water dynamometer"
+    },
+    {
+        "水噴射器": "water ejector"
+    },
+    {
+        "濾水器": "water filter"
+    },
+    {
+        "水錶；水量計": "water flowmeter"
+    },
+    {
+        "水位計；水[位]標尺": "water gage"
+    },
+    {
+        "水煤氣電池": "water gas cell"
+    },
+    {
+        "水煤氣發生器": "water gas generator"
+    },
+    {
+        "水煤氣發生爐": "water gas producer"
+    },
+    {
+        "水位計；水[位]標尺": "water gauge"
+    },
+    {
+        "水加熱器": "water heater"
+    },
+    {
+        "水套": "water jacket"
+    },
+    {
+        "水套冷凝器": "water jacketed condenser"
+    },
+    {
+        "水套烘箱": "water jacketed oven"
+    },
+    {
+        "噴水器；水刀": "water jet"
+    },
+    {
+        "噴水抽氣器": "water jet aspirator"
+    },
+    {
+        "噴水器": "water jet ejector"
+    },
+    {
+        "噴水注入器": "water jet injector"
+    },
+    {
+        "噴水抽氣器": "water jet suction apparatus"
+    },
+    {
+        "水平儀": "water level"
+    },
+    {
+        "水位[指示]計": "water level indicator"
+    },
+    {
+        "水壓力計": "water manometer"
+    },
+    {
+        "水磨": "water mill"
+    },
+    {
+        "水監測器": "water monitor"
+    },
+    {
+        "水電動機；水動機": "water motor"
+    },
+    {
+        "水烘箱": "water oven"
+    },
+    {
+        "水高純化器": "water polisher"
+    },
+    {
+        "水泵；抽水機": "water pump"
+    },
+    {
+        "淨水器": "water purifier"
+    },
+    {
+        "水變阻器": "water rheostat"
+    },
+    {
+        "分水器": "water segregator"
+    },
+    {
+        "水分離器": "water separator"
+    },
+    {
+        "水篩": "water sieve"
+    },
+    {
+        "水軟化器": "water softener"
+    },
+    {
+        "噴水器": "water sprayer"
+    },
+    {
+        "灑水器": "water sprinkler"
+    },
+    {
+        "水蒸餾器": "water still"
+    },
+    {
+        "水粗濾器": "water strainer"
+    },
+    {
+        "水抽氣泵": "water suction pump"
+    },
+    {
+        "水箱；水槽": "water tank"
+    },
+    {
+        "水龍頭": "water tap"
+    },
+    {
+        "水阱": "water trap"
+    },
+    {
+        "水渦輪機": "water turbine"
+    },
+    {
+        "水閥": "water valve"
+    },
+    {
+        "水電量計": "water voltameter"
+    },
+    {
+        "水滴器": "water-dropper"
+    },
+    {
+        "水汽雷射": "water-vapor laser"
+    },
+    {
+        "瓦特調速器": "watt governor"
+    },
+    {
+        "瓦特繼電器": "watt relay"
+    },
+    {
+        "瓦時計": "watthour meter"
+    },
+    {
+        "瓦特計": "wattmeter"
+    },
+    {
+        "消波器": "wave absorber"
+    },
+    {
+        "波分析器": "wave analyzer"
+    },
+    {
+        "行波天線": "wave antenna"
+    },
+    {
+        "波帶調換器": "wave band changing switch"
+    },
+    {
+        "斬波器": "wave chopper"
+    },
+    {
+        "削波器": "wave clipper"
+    },
+    {
+        "波形轉換機": "wave converter"
+    },
+    {
+        "檢波器": "wave detector"
+    },
+    {
+        "濾波器": "wave filter"
+    },
+    {
+        "波導": "wave guide"
+    },
+    {
+        "波形記錄器": "wave recorder"
+    },
+    {
+        "波成形器": "wave shaper"
+    },
+    {
+        "波阱；陷波器": "wave trap"
+    },
+    {
+        "波形分析器": "waveform analyzer"
+    },
+    {
+        "波形轉換機": "waveform converter"
+    },
+    {
+        "波形發生器": "waveform generator"
+    },
+    {
+        "波形監視器": "waveform monitor"
+    },
+    {
+        "波形合成器": "waveform synthesizer"
+    },
+    {
+        "波導管": "waveguide"
+    },
+    {
+        "波導衰減器": "waveguide attenuator"
+    },
+    {
+        "波導二極體": "waveguide diode"
+    },
+    {
+        "波導薄膜輻射熱計": "waveguide film bolometer"
+    },
+    {
+        "波導濾波器": "waveguide filter"
+    },
+    {
+        "導波式雷射": "waveguide laser"
+    },
+    {
+        "波導栓": "waveguide plunger"
+    },
+    {
+        "波導功率分配器": "waveguide power divider"
+    },
+    {
+        "波導輻射器": "waveguide radiator"
+    },
+    {
+        "波導反射器": "waveguide reflector"
+    },
+    {
+        "波導共振器": "waveguide resonator"
+    },
+    {
+        "波導管轉換器": "waveguide switch"
+    },
+    {
+        "X射線波長分散分析儀": "wavelength dispersive X-ray spectrometer {= WDXS}"
+    },
+    {
+        "波長變換器": "wavelength shifter"
+    },
+    {
+        "波長分光計": "wavelength spectrometer"
+    },
+    {
+        "波長掃描光度計": "wavelength-scanning photometer"
+    },
+    {
+        "波長計；波頻計": "wavemeter"
+    },
+    {
+        "波形選擇器": "waveshape selector"
+    },
+    {
+        "蠟塊光度計": "wax block photometer"
+    },
+    {
+        "弱聚焦同步加速器": "weak-focusing synchrotron"
+    },
+    {
+        "耐磨環；耐磨圈": "wearing ring"
+    },
+    {
+        "老化計；耐候計": "weatherometer"
+    },
+    {
+        "楔形吸收器": "wedge absorber"
+    },
+    {
+        "楔形夾": "wedge clamp"
+    },
+    {
+        "楔形比色計": "wedge colorimeter"
+    },
+    {
+        "楔形濾器": "wedge filter"
+    },
+    {
+        "楔形規": "wedge gage"
+    },
+    {
+        "楔形規": "wedge gauge"
+    },
+    {
+        "楔形測微計": "wedge micrometer"
+    },
+    {
+        "楔形光度計；光楔光度計；劈片光度計": "wedge photometer"
+    },
+    {
+        "楔形探針": "wedge probe"
+    },
+    {
+        "楔形高溫計": "wedge pyrometer"
+    },
+    {
+        "光楔攝譜儀；楔形攝譜儀": "wedge spectrograph"
+    },
+    {
+        "楔形閥": "wedge valve"
+    },
+    {
+        "桿枰": "weighbeam"
+    },
+    {
+        "稱[量]舟": "weighing boat"
+    },
+    {
+        "稱[量]瓶": "weighing bottle"
+    },
+    {
+        "稱量滴定管": "weighing buret"
+    },
+    {
+        "稱量滴定管": "weighing burette"
+    },
+    {
+        "稱[量]皿": "weighing dish"
+    },
+    {
+        "稱量飼機": "weighing feeder"
+    },
+    {
+        "稱量漏斗": "weighing funnel"
+    },
+    {
+        "稱量吸管": "weighing pipet"
+    },
+    {
+        "稱量吸管": "weighing pipette"
+    },
+    {
+        "稱": "weighing scale"
+    },
+    {
+        "稱[量]勺": "weighing scoop"
+    },
+    {
+        "稱量管": "weighing tube"
+    },
+    {
+        "砝碼": "weight"
+    },
+    {
+        "測重[式]氣壓計": "weight barometer"
+    },
+    {
+        "重量電量計": "weight coulometer"
+    },
+    {
+        "重量環": "weight ring"
+    },
+    {
+        "重量溫度計": "weight thermometer"
+    },
+    {
+        "重量電量計": "weight voltameter"
+    },
+    {
+        "稱重計": "weightometer"
+    },
+    {
+        "砝碼": "weights"
+    },
+    {
+        "堰": "weir"
+    },
+    {
+        "熔接器": "welder"
+    },
+    {
+        "濕式空氣過濾器": "wet air filter"
+    },
+    {
+        "濕電池": "wet cell"
+    },
+    {
+        "濕式冷凝器": "wet condenser"
+    },
+    {
+        "濕氣計": "wet gas meter"
+    },
+    {
+        "濕式氣體淨化器": "wet gas purifier"
+    },
+    {
+        "濕式氣體洗滌器": "wet gas scrubber"
+    },
+    {
+        "濕盤磨機": "wet pan mill"
+    },
+    {
+        "濕式洗滌器": "wet scrubber"
+    },
+    {
+        "濕套筒": "wet sleeve"
+    },
+    {
+        "濕真空泵": "wet vacuum pump"
+    },
+    {
+        "乾濕球濕度計": "wet-and-dry bulb psychrometer"
+    },
+    {
+        "濕球溫度計": "wet-bulb thermometer"
+    },
+    {
+        "濕壁塔；濕壁柱": "wetted wall column"
+    },
+    {
+        "濕壁塔": "wetted wall tower"
+    },
+    {
+        "濕壁塔；濕壁柱": "wetted-wall column"
+    },
+    {
+        "濕壁塔": "wetted-wall tower"
+    },
+    {
+        "濕氣計": "wet-test meter"
+    },
+    {
+        "濕式集塵器": "wet-type dust collector"
+    },
+    {
+        "濕式光電池": "wet-type photocell"
+    },
+    {
+        "惠司同[電]橋": "Wheatstone bridge"
+    },
+    {
+        "輪": "wheel"
+    },
+    {
+        "轆轤": "wheel and axle"
+    },
+    {
+        "輪架": "wheel carrier"
+    },
+    {
+        "濾色輪": "wheel filter"
+    },
+    {
+        "輪規": "wheel gage"
+    },
+    {
+        "輪規": "wheel gauge"
+    },
+    {
+        "輪磨機": "wheel mill"
+    },
+    {
+        "輪式印表機": "wheel printer"
+    },
+    {
+        "卸輪器": "wheel puller"
+    },
+    {
+        "複衍開關": "whiffletree switch"
+    },
+    {
+        "複衍開關": "whippletree switch"
+    },
+    {
+        "旋轉式灑水器": "whirling sprinkler"
+    },
+    {
+        "白化濾波器": "whitening filter"
+    },
+    {
+        "全身計數器": "whole body counter"
+    },
+    {
+        "全身監測器": "whole body monitor"
+    },
+    {
+        "廣角透鏡": "wide angle lens"
+    },
+    {
+        "寬閘發生器": "wide gate generator"
+    },
+    {
+        "廣角照相機": "wide-angle camera"
+    },
+    {
+        "廣角透鏡": "wide-angle lens"
+    },
+    {
+        "廣角照明器": "wide-angle luminary"
+    },
+    {
+        "廣角輻射高溫計": "wide-angle radiation pyrometer"
+    },
+    {
+        "大孔徑放大鏡": "wide-aperture optical magnifier"
+    },
+    {
+        "寬頻帶放大器": "wide-band amplifier"
+    },
+    {
+        "寬頻帶鑑別器": "wide-band discriminator"
+    },
+    {
+        "寬頻帶濾波器": "wide-band filter"
+    },
+    {
+        "寬頻帶示波器": "wide-band oscilloscope"
+    },
+    {
+        "寬頻[帶]變壓器": "wide-band transformer"
+    },
+    {
+        "廣視野目鏡": "wide-field eyepiece"
+    },
+    {
+        "寬緣樑": "wide-flange beam"
+    },
+    {
+        "粗篩網": "wide-meshed screen"
+    },
+    {
+        "廣口瓶": "wide-mouth bottle"
+    },
+    {
+        "寬範圍監測器": "wide-range monitor"
+    },
+    {
+        "寬頻[帶]振盪器": "wide-range oscillator"
+    },
+    {
+        "寬頻[帶]可調共振器": "wide-range tunable resonator"
+    },
+    {
+        "風速計": "wind gage"
+    },
+    {
+        "風速計": "wind gauge"
+    },
+    {
+        "風向指示器": "wind indicator"
+    },
+    {
+        "風速計": "wind meter"
+    },
+    {
+        "風管": "wind pipe"
+    },
+    {
+        "風洞": "wind tunnel"
+    },
+    {
+        "捲線機": "winder"
+    },
+    {
+        "絞盤": "windlass"
+    },
+    {
+        "風車[式]風速計": "windmill anemometer"
+    },
+    {
+        "窗形放大器": "window amplifier"
+    },
+    {
+        "窗形分析器": "window analyzer"
+    },
+    {
+        "窗形計數管": "window counter tube"
+    },
+    {
+        "窗口水箱": "window tank"
+    },
+    {
+        "無窗計數器": "windowless counter"
+    },
+    {
+        "鉉骨撐輪圈": "wire bead"
+    },
+    {
+        "線卡計": "wire calorimeter"
+    },
+    {
+        "剪線鉗": "wire clippers"
+    },
+    {
+        "接線夾": "wire connection clamp"
+    },
+    {
+        "接線器": "wire connector"
+    },
+    {
+        "剪線器": "wire cutter"
+    },
+    {
+        "線規": "wire gage"
+    },
+    {
+        "線規": "wire gauge"
+    },
+    {
+        "鐵絲網；線網": "wire gauze"
+    },
+    {
+        "網式濾器": "wire gauze filter"
+    },
+    {
+        "緊線器": "wire grip"
+    },
+    {
+        "線穿透計": "wire penetrometer"
+    },
+    {
+        "剪線鉗": "wire pliers"
+    },
+    {
+        "線錄音機": "wire recorder"
+    },
+    {
+        "鋼索運送機；索運機": "wire rope conveyer"
+    },
+    {
+        "鋼索伸長計": "wire rope extensometer"
+    },
+    {
+        "線掃描器": "wire scanner"
+    },
+    {
+        "線應變計": "wire strain gage"
+    },
+    {
+        "線應變計": "wire strain gauge"
+    },
+    {
+        "剝線器": "wire stripper"
+    },
+    {
+        "[金屬]線三角": "wire triangle"
+    },
+    {
+        "線繞變阻器": "wire wound rheostat"
+    },
+    {
+        "接線程式計算機": "wired-program computer"
+    },
+    {
+        "線網除霧器": "wire-mesh demister"
+    },
+    {
+        "線網濾器": "wire-mesh filter"
+    },
+    {
+        "線繞爐": "wire-wound furnace"
+    },
+    {
+        "線繞電位計": "wire-wound potentiometer"
+    },
+    {
+        "線器": "wire-wound resistor"
+    },
+    {
+        "線繞變阻器": "wire-wound rheostat"
+    },
+    {
+        "接線板；配線板": "wiring board"
+    },
+    {
+        "擺頻信號發生器；擺頻振盪器": "wobbulator"
+    },
+    {
+        "低頻揚聲器；低音揚聲器": "woofer"
+    },
+    {
+        "工作站": "work station"
+    },
+    {
+        "工作電極": "working electrode"
+    },
+    {
+        "蝸桿": "worm"
+    },
+    {
+        "蝸桿冷凝器": "worm condenser"
+    },
+    {
+        "蝸管": "worm pipe"
+    },
+    {
+        "蝸輪": "worm wheel"
+    },
+    {
+        "扳鉗": "wrench"
+    },
+    {
+        "氙弧燈": "xenon arc lamp"
+    },
+    {
+        "氙游離偵檢器": "xenon ionization detector"
+    },
+    {
+        "氙燈": "xenon lamp"
+    },
+    {
+        "氙閃爍計數器": "xenon scintillation counter"
+    },
+    {
+        "氙-氪雷射": "xenon-krypton laser"
+    },
+    {
+        "[靜電]影印機": "xerographic printer"
+    },
+    {
+        "X光刀立體定位放射手術系統": "X-knife stereotactic radiosurgery system"
+    },
+    {
+        "X射線吸收光譜儀": "X-ray absorption spectroscope {= XAS}"
+    },
+    {
+        "X射線照相機": "X-ray camera"
+    },
+    {
+        "X射線計數器": "X-ray counter"
+    },
+    {
+        "X射線晶體分析儀；X射線檢晶儀": "x-ray crystallograph"
+    },
+    {
+        "X射線偵檢器": "X-ray detector"
+    },
+    {
+        "X射線繞射照相機": "X-ray diffraction camera"
+    },
+    {
+        "X射線粉末繞射照相機": "X-ray diffraction powder camera"
+    },
+    {
+        "X光位像儀；X射線位像儀": "X-ray diffraction topographic camera"
+    },
+    {
+        "X射線繞射儀": "X-ray diffractometer"
+    },
+    {
+        "X射線劑量計": "X-ray dosimeter"
+    },
+    {
+        "X射線激發螢光計": "X-ray excitation fluorimeter"
+    },
+    {
+        "X射線探傷儀": "X-ray fault detector"
+    },
+    {
+        "X射線螢光分析儀；X光螢光分析儀": "X-ray fluorescence analyzer"
+    },
+    {
+        "X射線螢光光譜儀；X光螢光光譜儀": "X-ray fluorescence spectrometer"
+    },
+    {
+        "X射線螢光測厚計；X光螢光測厚計": "X-ray fluoresence thickness meter"
+    },
+    {
+        "X射線發生器": "X-ray generator"
+    },
+    {
+        "X射線測角計": "X-ray goniometer"
+    },
+    {
+        "X射線影像增強器；X光影像增強器": "X-ray image intensifier"
+    },
+    {
+        "X射線強度計": "X-ray intensity meter"
+    },
+    {
+        "X射線干涉計": "X-ray interferometer"
+    },
+    {
+        "X射線微分析器": "X-ray microanalyzer"
+    },
+    {
+        "X射線微探針": "X-ray microprobe"
+    },
+    {
+        "X射線顯微鏡": "X-ray microscope"
+    },
+    {
+        "X射線單能器；X射線單光器": "X-ray monochromator"
+    },
+    {
+        "X射線光電子能譜儀；X光光電子能譜儀": "X-ray photoelectron spectrometer {= XPS}"
+    },
+    {
+        "X射線光度計": "X-ray photometer"
+    },
+    {
+        "X射線粉末繞射儀": "X-ray powder diffractometer"
+    },
+    {
+        "X射線感測器": "X-ray sensor"
+    },
+    {
+        "X射線單晶繞射儀；X光單晶繞射儀": "X-ray single crystal diffractometer"
+    },
+    {
+        "X射線攝譜儀；X射線[光]譜儀": "X-ray spectrograph"
+    },
+    {
+        "X射線分光計；X射線[光]譜儀": "X-ray spectrometer"
+    },
+    {
+        "X射線望遠鏡": "X-ray telescope"
+    },
+    {
+        "X射線測厚計": "X-ray thickness gage"
+    },
+    {
+        "X射線測厚計": "X-ray thickness gauge"
+    },
+    {
+        "X射線管": "X-ray tube"
+    },
+    {
+        "XY繪圖機": "X-Y plotter"
+    },
+    {
+        "XY記錄器": "X-Y recorder"
+    },
+    {
+        "XY交換系統": "X-Y switching system"
+    },
+    {
+        "XY同步示波器": "X-Y synchroscope"
+    },
+    {
+        "木材比重計": "xylometer"
+    },
+    {
+        "Y形接頭": "Y junction"
+    },
+    {
+        "Y形管": "Y tube"
+    },
+    {
+        "碼尺": "yardstick"
+    },
+    {
+        "Y形水準儀": "Y-level"
+    },
+    {
+        "Y形管": "Y-pipe"
+    },
+    {
+        "Y形管": "Y-tube"
+    },
+    {
+        "沸石軟水器": "zeolite water softener"
+    },
+    {
+        "零點調整器": "zero adjuster"
+    },
+    {
+        "零拍指示器": "zero beat indicator"
+    },
+    {
+        "自滿滴定管": "zero buret"
+    },
+    {
+        "零值電流計": "zero galvanometer"
+    },
+    {
+        "零點指示器": "zero indicator"
+    },
+    {
+        "零相比流器": "zero phase current transformer"
+    },
+    {
+        "零相比壓器": "zero phase potential transformer"
+    },
+    {
+        "零相序繼電器": "zero phase sequence relay"
+    },
+    {
+        "零相移放大器": "zero phase shift amplifier"
+    },
+    {
+        "調零電位計": "zero potentiometer"
+    },
+    {
+        "零功率反應器": "zero power reactor"
+    },
+    {
+        "零電阻安培計": "zero resistance ammeter"
+    },
+    {
+        "零能反應器": "zero-energy reactor"
+    },
+    {
+        "零功率反應器": "zero-power reactor"
+    },
+    {
+        "歸零式測力計；歸零式功率計": "zero-type dynamometer"
+    },
+    {
+        "鋅蓄電池[組]": "zinc storage battery"
+    },
+    {
+        "鋯氧管形爐": "zirconia tube furnace"
+    },
+    {
+        "區帶透鏡": "zone lens"
+    },
+    {
+        "波帶片": "zone plate"
+    },
+    {
+        "波帶片望遠鏡；波域片望遠鏡": "zone plate telescope"
+    },
+    {
+        "分區位置指示器": "zone position indicator"
+    },
+    {
+        "波帶片干涉計": "zone-plate interferometer"
+    },
+    {
+        "變焦取景器": "zoom finder"
+    },
+    {
+        "變焦透鏡": "zoom lens"
+    },
+    {
+        "α閃爍計數器；阿伐閃爍計數器": "α scintillation scaler"
+    }
+]

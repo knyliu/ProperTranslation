@@ -1,0 +1,4181 @@
+[
+    {
+        "疑義": "(Policy) Ambiguity"
+    },
+    {
+        "(第三人)直接請求權": "(Third party) Direct action"
+    },
+    {
+        "委棄 ； 委付": "Abandon"
+    },
+    {
+        "拋棄商標權": "Abandoning trademark right"
+    },
+    {
+        "絕對新穎性": "Absolute novelty"
+    },
+    {
+        "摘要": "Abstract"
+    },
+    {
+        "優先審查": "Accelerated examination"
+    },
+    {
+        "附屬費": "Accessory"
+    },
+    {
+        "意外事故": "Accident"
+    },
+    {
+        "合格投資人": "Accredited investor"
+    },
+    {
+        "收購": "Acquisition"
+    },
+    {
+        "天災": "Act of god"
+    },
+    {
+        "精算公平": "Actuarial fairness"
+    },
+    {
+        "補正": "Additions and corrections"
+    },
+    {
+        "理算": "Adjustment"
+    },
+    {
+        "專利核駁理由先行通知書": "Advance notice of patent rejection"
+    },
+    {
+        "關係企業": "Affiliate"
+    },
+    {
+        "代理成本": "Agency costs"
+    },
+    {
+        "代理問題": "Agency problems"
+    },
+    {
+        "農業發明": "Agricultural invention"
+    },
+    {
+        "全要件原則": "All elements rule"
+    },
+    {
+        "（股東之）變裝": "Alter ego"
+    },
+    {
+        "字號": "Alternative name"
+    },
+    {
+        "疑義不利於擬文者": "Ambiguity is construed against the drafter / Doctrine of contra preferentem"
+    },
+    {
+        "修正": "Amendment"
+    },
+    {
+        "變更章程": "Amendment of article"
+    },
+    {
+        "商標圖樣之非實質變更": "Amendment to the reproduction of a trademark which does not substantially change such trademark"
+    },
+    {
+        "美國存託憑證": "American Depositary Receipt / ADR"
+    },
+    {
+        "營業報告書": "Annual business report"
+    },
+    {
+        "年度財務報告": "Annual financial report"
+    },
+    {
+        "股東常會": "Annual general meeting / AGM"
+    },
+    {
+        "年報": "Annual report"
+    },
+    {
+        "年金保險": "Annuity insurance"
+    },
+    {
+        "反詐欺條款": "Anti-fraud provision"
+    },
+    {
+        "聲請宣告破產": "Application for declaration of bankruptcy"
+    },
+    {
+        "準用": "Apply / Mutatis mutandis"
+    },
+    {
+        "委任": "Appointment"
+    },
+    {
+        "股份收買請求權": "Appraisal right"
+    },
+    {
+        "屬具": "Appurtenance"
+    },
+    {
+        "仲裁條款": "Arbitration clause"
+    },
+    {
+        "章程": "Article of incorporation/ Certificate of incorporation/ Article of association/ Charter"
+    },
+    {
+        "姓名表示權": "Attribution right"
+    },
+    {
+        "審計委員會": "Audit committee"
+    },
+    {
+        "授權資本": "Authorized share capital"
+    },
+    {
+        "破產": "Bankruptcy"
+    },
+    {
+        "光船傭船": "Bareboat charterparty / Demise charterparty"
+    },
+    {
+        "無記名股票": "Bearer share"
+    },
+    {
+        "受益所有人": "Beneficial owner"
+    },
+    {
+        "受益人": "Beneficiary"
+    },
+    {
+        "股東最大利益": "Best interest of the shareholders"
+    },
+    {
+        "代銷": "Best-efforts underwriting"
+    },
+    {
+        "載貨證券": "Bills of lading"
+    },
+    {
+        "暫保單": "Binder / Cover note"
+    },
+    {
+        "總括保險": "Blanket policy / Open policy"
+    },
+    {
+        "董事會": "Board of directors"
+    },
+    {
+        "善意取得人": "Bona fide purchaser"
+    },
+    {
+        "善意第三人": "Bona fide third person"
+    },
+    {
+        "保證保險": "Bonding insurance"
+    },
+    {
+        "登錄股票": "Book-entry share / Book-entry stock share / Share of stock in book-entry form"
+    },
+    {
+        "分公司": "Branch office"
+    },
+    {
+        "經紀商": "Broker"
+    },
+    {
+        "佣金": "Brokerage / Commission"
+    },
+    {
+        "燃料 ； 燃油": "Bunker"
+    },
+    {
+        "經營判斷原則 ； 經營判斷法則 ； 商業判斷法則 ； 商業判斷原則": "Business judgment rule / BJR"
+    },
+    {
+        "企業併購法": "Business Mergers and Acquisitions Act"
+    },
+    {
+        "業務經營": "Business operation"
+    },
+    {
+        "辦事細則": "Bylaw"
+    },
+    {
+        "解約": "Cancellation"
+    },
+    {
+        "資本市場": "Capital market"
+    },
+    {
+        "捕獲": "Capture"
+    },
+    {
+        "貨物運送": "Carriage of cargo"
+    },
+    {
+        "旅客運送": "Carriage of passenger"
+    },
+    {
+        "運送人": "Carrier"
+    },
+    {
+        "現金逐出合併": "Cash out merger / Squeeze out merger"
+    },
+    {
+        "現金價值": "Cash value"
+    },
+    {
+        "意外保險": "Casualty insurance"
+    },
+    {
+        "巨災保險": "Catastrophe insurace"
+    },
+    {
+        "巨災損失": "Catastrophic loss"
+    },
+    {
+        "分出": "Cede"
+    },
+    {
+        "分出公司": "Cedent / Ceding company"
+    },
+    {
+        "集中交易市場": "Centralized securities exchange market"
+    },
+    {
+        "新股權利證書": "Certificate of entitlement to new shares"
+    },
+    {
+        "實體股票": "Certificated share / Physical share certificate"
+    },
+    {
+        "證明標章": "Certification mark"
+    },
+    {
+        "簽證會計師": "Certified Public Accountant"
+    },
+    {
+        "商標權異動": "Change to trademark right"
+    },
+    {
+        "傭船契約": "Charter party / c/p"
+    },
+    {
+        "執行長": "Chief executive officer / CEO"
+    },
+    {
+        "財務長": "Chief financial officer / CFO"
+    },
+    {
+        "營運長": "Chief operating officer / COO"
+    },
+    {
+        "民事責任": "Civil liabilities"
+    },
+    {
+        "解釋申請專利範圍": "Claim construction"
+    },
+    {
+        "團體訴訟": "Class action"
+    },
+    {
+        "商品之分類": "Classification of goods"
+    },
+    {
+        "服務之分類": "Classification of services"
+    },
+    {
+        "共保": "Co-insurance"
+    },
+    {
+        "團體商標": "Collective mark"
+    },
+    {
+        "團體標章": "Collective membership mark"
+    },
+    {
+        "碰撞": "Collision"
+    },
+    {
+        "顏色": "Color"
+    },
+    {
+        "聯合式": "Combination"
+    },
+    {
+        "綜合責任保險": "Commercial liability insurance / CGL"
+    },
+    {
+        "共同海上航程 ； 冒險": "Common adventure"
+    },
+    {
+        "普通股": "Common share"
+    },
+    {
+        "公司法": "Company act/ Corporation act/ Corporation law"
+    },
+    {
+        "股份有限公司": "Company Limited by Shares"
+    },
+    {
+        "薪資報酬委員會 ； 薪酬委員會 ； 報酬委員會": "Compensation committee / Remuneration committee"
+    },
+    {
+        "報酬": "Compensation / Remuneration"
+    },
+    {
+        "強制授權": "Compulsory license"
+    },
+    {
+        "電腦圖像": "Computer generated icon"
+    },
+    {
+        "利益衝突": "Conflicts of interest"
+    },
+    {
+        "混淆誤認": "Confusion"
+    },
+    {
+        "受貨人": "Consignee"
+    },
+    {
+        "合併審查": "Consolidated examination"
+    },
+    {
+        "併裝貨物": "Consolidated goods"
+    },
+    {
+        "貨櫃": "Container"
+    },
+    {
+        "同時期交易人": "Contemporaneous trader"
+    },
+    {
+        "追加專利": "Continuations of application"
+    },
+    {
+        "違禁物 ； 違禁品": "Contraband"
+    },
+    {
+        "射倖性契約": "Contractus aleatoria"
+    },
+    {
+        "輔助侵害": "Contributory infringement"
+    },
+    {
+        "分擔價值": "Contributory value"
+    },
+    {
+        "控制權溢價": "Control premium"
+    },
+    {
+        "控制公司": "Controlling company"
+    },
+    {
+        "控制性股東": "Controlling shareholder"
+    },
+    {
+        "可轉換公司債": "Convertible bond"
+    },
+    {
+        "公司債": "Corporate bond"
+    },
+    {
+        "附認股權公司債": "Corporate bond with warrant"
+    },
+    {
+        "公司債存根簿": "Corporate bondholders' list"
+    },
+    {
+        "公司治理": "Corporate governance"
+    },
+    {
+        "企業社會責任 ； 公司社會責任": "Corporate social responsibility"
+    },
+    {
+        "誤記訂正": "Correction of error"
+    },
+    {
+        "誤譯訂正": "Correction of translation error"
+    },
+    {
+        "聯絡人": "Correspondent"
+    },
+    {
+        "承保[範圍]": "Coverage"
+    },
+    {
+        "累積投票制": "Cumulative voting"
+    },
+    {
+        "海關廢止查扣": "Customs revoke detention"
+    },
+    {
+        "損害": "Damage"
+    },
+    {
+        "損害賠償": "Damages"
+    },
+    {
+        "損害賠償": "Damages"
+    },
+    {
+        "危險物品": "Dangerous cargo / DG cargo"
+    },
+    {
+        "事實上董事": "De facto director"
+    },
+    {
+        "事實合併": "De Facto Merger"
+    },
+    {
+        "法律上董事": "De jure director"
+    },
+    {
+        "自營商": "Dealer"
+    },
+    {
+        "公眾誤認誤信": "Deception"
+    },
+    {
+        "報明價值": "Declarations of value"
+    },
+    {
+        "自負額": "Deductible"
+    },
+    {
+        "深石原則": "Deep Rock Doctrine"
+    },
+    {
+        "明確": "Definiteness"
+    },
+    {
+        "遲到": "Delay"
+    },
+    {
+        "交清": "Delivery"
+    },
+    {
+        "小提單": "Delivery order"
+    },
+    {
+        "無實體股票": "Dematerialized share / Paperless share"
+    },
+    {
+        "延滯費": "Demurrage"
+    },
+    {
+        "生物材料寄存": "Deposit of biological material"
+    },
+    {
+        "存託憑證": "Depositary receipt / DR"
+    },
+    {
+        "衍生設計專利": "Derivative design patent"
+    },
+    {
+        "代位訴訟 ； 代表訴訟": "Derivative suit / Derivative litigation"
+    },
+    {
+        "衍生性商品": "Derivatives"
+    },
+    {
+        "迴避設計": "Design around"
+    },
+    {
+        "設計專利": "Design patent"
+    },
+    {
+        "指定使用之商品": "Designated goods"
+    },
+    {
+        "指定使用之服務": "Designated services"
+    },
+    {
+        "設計人": "Designer"
+    },
+    {
+        "銷毀侵害商標權之物品": "Destruction of infringing articles"
+    },
+    {
+        "偏航": "Deviation"
+    },
+    {
+        "診斷、治療或外科手術方法": "Diagnostic, therapeutic and surgical methods"
+    },
+    {
+        "直接控制": "Direct control"
+    },
+    {
+        "直接侵害": "Direct infringement"
+    },
+    {
+        "董事": "Director"
+    },
+    {
+        "災難": "Disaster"
+    },
+    {
+        "解任": "Discharge"
+    },
+    {
+        "卸載": "Discharging"
+    },
+    {
+        "不專用之聲明": "Disclaimer"
+    },
+    {
+        "公開消息否則戒絕交易法則": "Disclose or abstain rule"
+    },
+    {
+        "告知 {保險法學} ； 公開 {證券交易法條文}": "Disclosure"
+    },
+    {
+        "起岸": "Disembarkation"
+    },
+    {
+        "歸入權": "Disgorgement"
+    },
+    {
+        "陳列": "Display"
+    },
+    {
+        "處分": "Disposition"
+    },
+    {
+        "散布": "Dissemination"
+    },
+    {
+        "解散": "Dissolution"
+    },
+    {
+        "消滅公司": "Dissolved company"
+    },
+    {
+        "具有識別性之標識": "Distinctive sign"
+    },
+    {
+        "識別性": "Distinctiveness / Distinctive character"
+    },
+    {
+        "註冊申請案之分割": "Division of an application for registration"
+    },
+    {
+        "分割申請": "Divisional application"
+    },
+    {
+        "均等論": "Doctrine of equivalents"
+    },
+    {
+        "權利耗盡原則": "Doctrine of exhaustion"
+    },
+    {
+        "國內耗盡": "Domestic exhaustion"
+    },
+    {
+        "國內優先權": "Domestic priority for patent filing"
+    },
+    {
+        "複保險": "Double insurance"
+    },
+    {
+        "重複專利": "Double patenting"
+    },
+    {
+        "圖示 {專利法條} ； 圖形 {商標法}": "Drawing"
+    },
+    {
+        "善良管理人之注意": "Due care of a good administrator"
+    },
+    {
+        "墊艙": "Dunnage"
+    },
+    {
+        "誠實揭露義務": "Duty of candor"
+    },
+    {
+        "注意義務": "Duty of care"
+    },
+    {
+        "善意義務": "Duty of good faith"
+    },
+    {
+        "誠信善意與公平交易義務": "Duty of good faith and fair dealing"
+    },
+    {
+        "忠實義務": "Duty of loyalty"
+    },
+    {
+        "抗辯義務": "Duty to defend"
+    },
+    {
+        "減少損失之義務": "Duty to mitigate"
+    },
+    {
+        "和解義務": "Duty to settle"
+    },
+    {
+        "早期公開": "Early publication"
+    },
+    {
+        "據以實現": "Enablement"
+    },
+    {
+        "批單": "Endorsement"
+    },
+    {
+        "滿期": "Endowment"
+    },
+    {
+        "保險法施行細則": "Enforcement Rules For"
+    },
+    {
+        "商標法施行細則": "Enforcement Rules of the Trademark Law"
+    },
+    {
+        "資訊平等理論": "Equal access theory"
+    },
+    {
+        "設備": "Equipment"
+    },
+    {
+        "衡平居次原則": "Equitable subordination"
+    },
+    {
+        "權益證券": "Equity securities"
+    },
+    {
+        "主要生物學方法": "Essentially biological processes"
+    },
+    {
+        "禁反言": "Estoppel"
+    },
+    {
+        "可保證明": "Evidence of insurability"
+    },
+    {
+        "優惠賠款": "Ex gratia payment"
+    },
+    {
+        "審查": "Examination"
+    },
+    {
+        "審查人員": "Examiner"
+    },
+    {
+        "專利權不及事項": "Exceptions of patent right"
+    },
+    {
+        "除外條款": "Exclusion clause"
+    },
+    {
+        "專屬授權": "Exclusive license"
+    },
+    {
+        "專屬授權": "Exclusive license"
+    },
+    {
+        "排他權": "Exclusive right"
+    },
+    {
+        "執行業務股東": "Executive shareholder"
+    },
+    {
+        "豁免證券": "Exempted securities"
+    },
+    {
+        "豁免交易": "Exempted transaction"
+    },
+    {
+        "專屬被授權人": "Exlusive licensee"
+    },
+    {
+        "試驗免責": "Experimental exemption"
+    },
+    {
+        "輸出": "Export"
+    },
+    {
+        "專利權延長": "Extension of patent term"
+    },
+    {
+        "股東臨時會": "Extraordinary general meeting / EGM"
+    },
+    {
+        "公平價格": "Fair price"
+    },
+    {
+        "公平交易法": "Fair Trade Act"
+    },
+    {
+        "公平合理不歧視授權": "Fair, reasonable, and non-discriminatory licensing"
+    },
+    {
+        "誠實保證保險": "Fidelity insurance"
+    },
+    {
+        "受任人義務": "Fiduciary duty"
+    },
+    {
+        "信賴關係理論 ； 受任人義務理論": "Fiduciary duty theory"
+    },
+    {
+        "申請日": "Filing date"
+    },
+    {
+        "申請日": "Filing date"
+    },
+    {
+        "最後通知": "Final notice"
+    },
+    {
+        "財務": "Financial"
+    },
+    {
+        "金融控股公司法": "Financial Holding Company Act"
+    },
+    {
+        "金融機構合併法": "Financial Institutions Merger Act"
+    },
+    {
+        "財務報表": "Financial statements"
+    },
+    {
+        "金融監督管理委員會": "Financial Supervisory Commission"
+    },
+    {
+        "火災保險": "Fire insurance"
+    },
+    {
+        "確定包銷": "Firm-commitment underwriting"
+    },
+    {
+        "先申請主義": "First to file principle"
+    },
+    {
+        "會計年度": "Fiscal year"
+    },
+    {
+        "不可抗力": "Force majeure"
+    },
+    {
+        "預測": "Forecast"
+    },
+    {
+        "外國公司": "Foreign company"
+    },
+    {
+        "形式審查": "Formality examination"
+    },
+    {
+        "正三角合併": "Forward triangular merger"
+    },
+    {
+        "起款額": "Franchise"
+    },
+    {
+        "詐欺": "Fraud"
+    },
+    {
+        "對市場詐欺理論 ； 詐欺市場理論": "Fraud on the market theory"
+    },
+    {
+        "運費": "Freight"
+    },
+    {
+        "前衛保險公司": "Fronting company"
+    },
+    {
+        "充分揭露": "Full disclosure"
+    },
+    {
+        "共同海損": "General average"
+    },
+    {
+        "共同海損分擔額": "General average contribution"
+    },
+    {
+        "法務長": "General counsel"
+    },
+    {
+        "地理標示": "Geographical indication"
+    },
+    {
+        "海外存託憑證": "Global Depositary Receipt / GDR"
+    },
+    {
+        "誠信原則": "Good faith / Uberrime fidei"
+    },
+    {
+        "商譽": "Good will"
+    },
+    {
+        "政府債券": "Government bond"
+    },
+    {
+        "國營": "Government-owned"
+    },
+    {
+        "寬限期間 {保險法條} ； 優惠期 {專利法學}": "Grace period"
+    },
+    {
+        "圖形化使用者介面": "Graphical user interface"
+    },
+    {
+        "專利舉發理由書": "Grounds for patent invalidation"
+    },
+    {
+        "漢堡規則": "Hamburg Rules"
+    },
+    {
+        "港埠費": "Harbor charges"
+    },
+    {
+        "海牙規則": "Hauge rules"
+    },
+    {
+        "海牙-威士比規則": "Hauge-Visty Rules"
+    },
+    {
+        "本公司": "Head office"
+    },
+    {
+        "健康保險": "Health insurance"
+    },
+    {
+        "喜馬拉雅條款": "Himalaya clause"
+    },
+    {
+        "控股公司": "Holding company"
+    },
+    {
+        "全像圖": "Hologram"
+    },
+    {
+        "敵意併購": "Hostile takeover"
+    },
+    {
+        "相同商品": "Identical goods"
+    },
+    {
+        "相同商標": "Identical mark"
+    },
+    {
+        "相同服務": "Identical services"
+    },
+    {
+        "輸入": "Import"
+    },
+    {
+        "進口": "Importing"
+    },
+    {
+        "標誌不符": "Inadequacy of marks"
+    },
+    {
+        "生效日": "Inception of insurance"
+    },
+    {
+        "不可抗辯條款": "Incontestability clause"
+    },
+    {
+        "設立": "Incorporation"
+    },
+    {
+        "發起設立": "Incorporation by promoters"
+    },
+    {
+        "募集設立": "Incorporation by solicitation"
+    },
+    {
+        "引置條款": "Incorporation clause"
+    },
+    {
+        "獨立專家": "Independent advisor"
+    },
+    {
+        "獨立董事": "Independent director"
+    },
+    {
+        "指示": "Indication / Indicate"
+    },
+    {
+        "間接控制": "Indirect control"
+    },
+    {
+        "間接侵害": "Indirect infringement"
+    },
+    {
+        "引致侵害": "Inducing infringement"
+    },
+    {
+        "過失侵害商標權": "Infringe trademark with reasonable grounds to know"
+    },
+    {
+        "侵害行為所得利益": "Infringer's profit"
+    },
+    {
+        "侵權商品": "Infringing goods"
+    },
+    {
+        "固有原則": "Inherency"
+    },
+    {
+        "固有瑕疵": "Inherent defect"
+    },
+    {
+        "首次公開發行": "Initial public offering / IPO"
+    },
+    {
+        "內線消息": "Inside information"
+    },
+    {
+        "內部人": "Insider"
+    },
+    {
+        "內線交易": "Insider trading / Insider dealing"
+    },
+    {
+        "檢查人": "Inspector"
+    },
+    {
+        "機構投資人": "Institutional investor"
+    },
+    {
+        "標誌不足": "Insufficiency of marks"
+    },
+    {
+        "包裝不固": "Insufficiency of packing"
+    },
+    {
+        "保險利益": "Insurable interest"
+    },
+    {
+        "保險": "Insurance"
+    },
+    {
+        "保險代理人": "Insurance agent"
+    },
+    {
+        "保險經紀人": "Insurance broker"
+    },
+    {
+        "保險業": "Insurance enterprise"
+    },
+    {
+        "保險安定基金": "Insurance guaranty fund"
+    },
+    {
+        "保險法": "Insurance Law / Insurance Act"
+    },
+    {
+        "保險單": "Insurance policy"
+    },
+    {
+        "保險業務員": "Insurance solicitor"
+    },
+    {
+        "被保險人": "Insured / Assured"
+    },
+    {
+        "保險人": "Insurer / Underwriter"
+    },
+    {
+        "用途": "Intended purpose"
+    },
+    {
+        "利害關係人": "Interested party/ Stakeholder"
+    },
+    {
+        "內部稽核主管": "Internal auditing officer"
+    },
+    {
+        "內部控制": "Internal control"
+    },
+    {
+        "國際耗盡": "International exhaustion"
+    },
+    {
+        "國際展覽會": "International exhibition"
+    },
+    {
+        "國際跨政府組織": "International intergovernmental organization"
+    },
+    {
+        "國際優先權": "International priority for patent filing"
+    },
+    {
+        "舉發 {專利法條} ； 評定 {商標法}": "Invalidation"
+    },
+    {
+        "受聘發明": "Invention made for commission"
+    },
+    {
+        "職務發明": "Invention made for employment"
+    },
+    {
+        "發明專利": "Invention patent / Utility patent"
+    },
+    {
+        "進步性": "Inventive step / Non-obviousness"
+    },
+    {
+        "發明人": "Inventor"
+    },
+    {
+        "發明歸屬": "Inventorship"
+    },
+    {
+        "投資顧問": "Investment adviser"
+    },
+    {
+        "投資人保護": "Investor protection"
+    },
+    {
+        "發行": "Issuance"
+    },
+    {
+        "投棄": "Jettison"
+    },
+    {
+        "共有專利權": "Joint ownership of patent"
+    },
+    {
+        "共同檢定": "Joint survey"
+    },
+    {
+        "共有商標": "Jointly owned trademark"
+    },
+    {
+        "管轄權條款": "Jurisdiction clause"
+    },
+    {
+        "故意侵害商標權": "Knowingly to infringe trademark right"
+    },
+    {
+        "停效": "Lapse for nonpayment of premium"
+    },
+    {
+        "穩固": "Lashing"
+    },
+    {
+        "隱有瑕疵": "Latent defect"
+    },
+    {
+        "大數法則": "Law of large numbers"
+    },
+    {
+        "擔保書": "Letter of undertaking"
+    },
+    {
+        "平準保費": "Level premium"
+    },
+    {
+        "責任保險": "Liability insurance"
+    },
+    {
+        "甲板裝載自由條款": "Liberty clause"
+    },
+    {
+        "被授權人": "Licensee"
+    },
+    {
+        "被授權人": "Licensee"
+    },
+    {
+        "授權人": "Licensor"
+    },
+    {
+        "終身年金保險": "Life income policy"
+    },
+    {
+        "人身保險；人壽保險": "Life insurance"
+    },
+    {
+        "混淆誤認之虞": "Likelihood of confusion"
+    },
+    {
+        "公眾誤認誤信之虞": "Likelihood of deception"
+    },
+    {
+        "減損著名商標之識別性或信譽之虞": "Likelihood of dilution of the distinctiveness of a well-known trademark or mark"
+    },
+    {
+        "減損著名商標或標章之信譽之虞": "Likelihood of dilution of the reputation of a well-known trademark or mark"
+    },
+    {
+        "責任限制": "Limitation of liability"
+    },
+    {
+        "有限公司": "Limited company"
+    },
+    {
+        "有限責任": "Limited liability"
+    },
+    {
+        "清算": "Liquidation"
+    },
+    {
+        "清算人": "Liquidator"
+    },
+    {
+        "上市（櫃）公司": "Listed company"
+    },
+    {
+        "上市": "Listing"
+    },
+    {
+        "文義侵害": "Literal infringement"
+    },
+    {
+        "勞依茲 ； 勞合社": "Lloyd's"
+    },
+    {
+        "裝載": "Loading"
+    },
+    {
+        "損失因果關係": "Loss causation"
+    },
+    {
+        "虧損撥補議案": "Loss make-up proposal"
+    },
+    {
+        "利益差損": "Lost profit"
+    },
+    {
+        "申請前已為公眾所知悉": "Made availbale to the public before patent filing"
+    },
+    {
+        "普通決議（多數決）": "Majority vote"
+    },
+    {
+        "製造": "Making"
+    },
+    {
+        "經理人": "Managerial officer"
+    },
+    {
+        "保證金": "Margin"
+    },
+    {
+        "融資": "Margin purchases"
+    },
+    {
+        "信用交易": "Margin trading"
+    },
+    {
+        "海上保險": "Marine insurance"
+    },
+    {
+        "海上保險": "Marine insurance"
+    },
+    {
+        "海商法": "Maritime act / Maritime law"
+    },
+    {
+        "海事優先權": "Maritime liens"
+    },
+    {
+        "市場消息": "Market information"
+    },
+    {
+        "造市者": "Market maker"
+    },
+    {
+        "市場操縱": "Market manipulation"
+    },
+    {
+        "行銷目的": "Marketing purpose"
+    },
+    {
+        "相對委託": "Matched order"
+    },
+    {
+        "重要性": "Materiality"
+    },
+    {
+        "原料": "Materials"
+    },
+    {
+        "大副收據": "Mates receipt / MR"
+    },
+    {
+        "關係人會議": "Meeting of the interested party"
+    },
+    {
+        "合併": "Merger"
+    },
+    {
+        "併購": "Merger and acquisition"
+    },
+    {
+        "合併契約": "Merger contract"
+    },
+    {
+        "微生物學之生產方法": "Microbiological processes"
+    },
+    {
+        "少數股東": "Minority shareholders"
+    },
+    {
+        "議事錄": "Minute"
+    },
+    {
+        "私取理論": "Misappropriation theory"
+    },
+    {
+        "不實說明 {保險法條} ； 不實陳述 {證券交易法條}": "Misrepresentation"
+    },
+    {
+        "洗錢": "Money laundry"
+    },
+    {
+        "道德危險": "Moral hazard"
+    },
+    {
+        "善良風俗": "Morality"
+    },
+    {
+        "動態": "Motions"
+    },
+    {
+        "多式聯運 ； 複式運送": "Multimodal carriage"
+    },
+    {
+        "相互投資公司": "Mutual investment companies"
+    },
+    {
+        "國民待遇原則": "National treatment principle"
+    },
+    {
+        "航行": "Navigation"
+    },
+    {
+        "新穎性": "New / Novelty"
+    },
+    {
+        "新設公司": "Newly incorporated company"
+    },
+    {
+        "非專屬授權": "Non-exclusive license"
+    },
+    {
+        "非專屬授權": "Non-exclusive license"
+    },
+    {
+        "非專屬被授權人": "Non-exclusive licensee"
+    },
+    {
+        "財產保險": "Non-Life insurance / General insurance"
+    },
+    {
+        "準備完成通知書": "Notice of readiness"
+    },
+    {
+        "受通知人": "Notify party"
+    },
+    {
+        "通知義務": "Notifying obligation"
+    },
+    {
+        "異議股東": "Objecting shareholder"
+    },
+    {
+        "客觀合理期待原則": "Objectively reasonable respectation"
+    },
+    {
+        "事故": "Occurrence"
+    },
+    {
+        "販賣之要約": "Offering to sell"
+    },
+    {
+        "收購人": "Offeror"
+    },
+    {
+        "油污染": "Oil pollution"
+    },
+    {
+        "隱匿": "Omission"
+    },
+    {
+        "甲板上": "On deck"
+    },
+    {
+        "營業": "Operation"
+    },
+    {
+        "異議": "Opposition"
+    },
+    {
+        "選擇權": "Option"
+    },
+    {
+        "公共秩序": "Ordre public"
+    },
+    {
+        "創立會": "Organizational meeting"
+    },
+    {
+        "其他保險條款": "Other insurance clause"
+    },
+    {
+        "已發行股份": "Outstanding shares"
+    },
+    {
+        "店頭市場": "Over-the-counter market / OTC"
+    },
+    {
+        "相互保險組織": "P&I Clubs"
+    },
+    {
+        "包裝": "Package"
+    },
+    {
+        "單位責任限制": "Package/Piece limitation"
+    },
+    {
+        "實收股本": "Paid-up capital"
+    },
+    {
+        "墊板": "Pallet"
+    },
+    {
+        "面額": "Par value"
+    },
+    {
+        "至上條款": "Paramount clause"
+    },
+    {
+        "母公司": "Parent company"
+    },
+    {
+        "分紅保險": "Participating insurance"
+    },
+    {
+        "合夥": "Partnership"
+    },
+    {
+        "專利法": "Patent act"
+    },
+    {
+        "專利代理人": "Patent agent"
+    },
+    {
+        "專利年費": "Patent annual fee"
+    },
+    {
+        "申請人": "Patent applicant"
+    },
+    {
+        "專利申請書": "Patent application"
+    },
+    {
+        "專利權讓與": "Patent assignment"
+    },
+    {
+        "專利師": "Patent attorney"
+    },
+    {
+        "專利專責機關": "Patent authority / Specific patent agency"
+    },
+    {
+        "專利證書": "Patent certificate"
+    },
+    {
+        "申請專利範圍": "Patent claims"
+    },
+    {
+        "專利審查人員": "Patent examiner"
+    },
+    {
+        "專利公報": "Patent gazette"
+    },
+    {
+        "專利權侵害": "Patent infringement"
+    },
+    {
+        "專利侵害鑑定": "Patent infringement assessment"
+    },
+    {
+        "專利授權": "Patent licensing"
+    },
+    {
+        "專利標示": "Patent marking"
+    },
+    {
+        "專利濫用": "Patent misuse / Patent abuse"
+    },
+    {
+        "專利審查": "Patent prosecution"
+    },
+    {
+        "專利撤銷": "Patent revocation"
+    },
+    {
+        "專利權": "Patent right"
+    },
+    {
+        "專利說明書": "Patent specification"
+    },
+    {
+        "專利權期間": "Patent term"
+    },
+    {
+        "專利要件": "Patentability"
+    },
+    {
+        "專利適格標的": "Patentable subject matter"
+    },
+    {
+        "專利權人": "Patentee"
+    },
+    {
+        "先付後償": "Pay to be paid"
+    },
+    {
+        "勞工退休準備金": "Pension"
+    },
+    {
+        "所屬技術領域具有通常知識者": "Person having ordinary skill in the art / PHOSITA"
+    },
+    {
+        "私人物品": "Personal belongings"
+    },
+    {
+        "傷害保險": "Personal injury insurance"
+    },
+    {
+        "人事": "Personnel"
+    },
+    {
+        "醫藥專利": "Pharmaceutical patent"
+    },
+    {
+        "揭開公司面紗 ； 揭穿公司面紗": "Piercing the corporate veil / Lifting the veil"
+    },
+    {
+        "引水人": "Pilot"
+    },
+    {
+        "引水": "Pilotage"
+    },
+    {
+        "產地": "Place of origin"
+    },
+    {
+        "動植物品種": "Plant or animal varierties"
+    },
+    {
+        "保單紅利": "Policy dividend"
+    },
+    {
+        "保險金額": "Policy limit"
+    },
+    {
+        "保單質借 ； 保單借款": "Policy loan"
+    },
+    {
+        "保險權利人": "Policyholder"
+    },
+    {
+        "目的港": "Port of destination"
+    },
+    {
+        "肖像": "Portrait"
+    },
+    {
+        "持有": "Possess"
+    },
+    {
+        "更正": "Post-grant amendment"
+    },
+    {
+        "實施": "Practice / Exercise"
+    },
+    {
+        "保全程序": "Precautionary proceedings"
+    },
+    {
+        "既往症": "Preexiting condition"
+    },
+    {
+        "特別股": "Preferred share / Preferred stock / Special share"
+    },
+    {
+        "權利金": "Premium"
+    },
+    {
+        "保險費率": "Premium rate"
+    },
+    {
+        "原始內部人": "Primary insiders"
+    },
+    {
+        "初級市場 ； 發行市場": "Primary market"
+    },
+    {
+        "初次發行": "Primary offer"
+    },
+    {
+        "委付主義": "Principle of Abadonment"
+    },
+    {
+        "對價平衡原則": "Principle of consideration"
+    },
+    {
+        "職權主義": "Principle of ex officio"
+    },
+    {
+        "損失填補原則 ； 損害填補原則": "Principle of indemnity"
+    },
+    {
+        "連續日原則": "Principle of running days"
+    },
+    {
+        "金額主義": "Principle of Tonnage"
+    },
+    {
+        "船價主義": "Principle of Vessel's value"
+    },
+    {
+        "先前技術": "Prior art"
+    },
+    {
+        "先使用者權": "Prior user rights"
+    },
+    {
+        "優先購買權": "Priority purchasing right"
+    },
+    {
+        "未公開發行公司 ； 非公開發行公司": "Private company"
+    },
+    {
+        "私募": "Private placement"
+    },
+    {
+        "方法專利": "Process patent"
+    },
+    {
+        "專業責任保險": "Professional liability insurance / Profession indemnity insurance"
+    },
+    {
+        "專利權延展": "Prolongation of patent term"
+    },
+    {
+        "發起人": "Promoter / Incorporator"
+    },
+    {
+        "要保人": "Proposer / Applicant"
+    },
+    {
+        "專利審查禁反言": "Prosecution history estoppels"
+    },
+    {
+        "公開說明書": "Prospectus"
+    },
+    {
+        "專利暫時保護": "Provisional patent right"
+    },
+    {
+        "主力近因": "Proximate cause"
+    },
+    {
+        "委託書": "Proxy"
+    },
+    {
+        "委託書徵求": "Proxy solicitation"
+    },
+    {
+        "代理投票": "Proxy voting"
+    },
+    {
+        "筆名": "Pseudonym"
+    },
+    {
+        "公開發行公司 ； 公開發行股票公司": "Public company"
+    },
+    {
+        "公共敵人": "Public enermies"
+    },
+    {
+        "募集": "Public offering"
+    },
+    {
+        "申請前已公開實施": "Public use before patent filing"
+    },
+    {
+        "申請前已見於刊物": "Publication before patent filing"
+    },
+    {
+        "懲罰性損害賠償": "Punitive damages"
+    },
+    {
+        "品質": "Quality"
+    },
+    {
+        "品質管制": "Quality control"
+    },
+    {
+        "檢疫": "Quarantine"
+    },
+    {
+        "合理權利金": "Reasonable royalty"
+    },
+    {
+        "互惠原則": "Reciprocality principle"
+    },
+    {
+        "認許": "Recognition"
+    },
+    {
+        "登記總噸數": "Registered gross tonnage"
+    },
+    {
+        "記名股票": "Registered share"
+    },
+    {
+        "註冊商標": "Registered trademark"
+    },
+    {
+        "設立登記": "Registration of incorporation / Incorporation registration"
+    },
+    {
+        "登記對抗主義": "Registration priority"
+    },
+    {
+        "變更組織": "Reincorporation"
+    },
+    {
+        "復效": "Reinstatement"
+    },
+    {
+        "再保險": "Reinsurance"
+    },
+    {
+        "(商標)核駁審定": "Rejecting a trademark registration"
+    },
+    {
+        "關係報告書": "Relationship report"
+    },
+    {
+        "相關消費者": "Relevant consumer"
+    },
+    {
+        "重整": "Reorganization"
+    },
+    {
+        "重整計劃": "Reorganization plan"
+    },
+    {
+        "重整監督人": "Reorganization supervisor"
+    },
+    {
+        "重整人": "Reorganizer"
+    },
+    {
+        "代表人辦事處": "Representative's office"
+    },
+    {
+        "商標圖樣": "Reproduction of trademark"
+    },
+    {
+        "準備金": "Reserve (fund)"
+    },
+    {
+        "住宅地震保險": "Residential earthquake insurance"
+    },
+    {
+        "賸餘財產": "Residual assets"
+    },
+    {
+        "決議": "Resolution"
+    },
+    {
+        "負責人": "Responsible person"
+    },
+    {
+        "限制性股票": "Restricted stock"
+    },
+    {
+        "商品或服務之減縮": "Restriction of the designated goods or services"
+    },
+    {
+        "追溯保險": "Retrospective insurance"
+    },
+    {
+        "逆均等論": "Reverse doctrine of equivalent"
+    },
+    {
+        "反向揭開公司面紗 ； 反向揭穿公司面紗": "Reverse piercing the corporate veil"
+    },
+    {
+        "反三角合併": "Reverse triangular merger"
+    },
+    {
+        "廢止": "Revocation"
+    },
+    {
+        "商標權消滅": "Right of a registered trademark becomes extinguished"
+    },
+    {
+        "處分權": "Right of changing the beneficiary"
+    },
+    {
+        "優先權": "Right of priority"
+    },
+    {
+        "留置權": "Right of retention"
+    },
+    {
+        "專利申請權": "Right to apply for patent"
+    },
+    {
+        "危險 ； 風險": "Risk"
+    },
+    {
+        "風險資本": "Risk-based capital / RBC"
+    },
+    {
+        "鹿特丹規則": "Rotterdam Rules"
+    },
+    {
+        "船段": "Route segment"
+    },
+    {
+        "犧牲": "Sacrifice (of goods)"
+    },
+    {
+        "海難救助": "Salvage"
+    },
+    {
+        "救助報酬": "Salvage remuneration"
+    },
+    {
+        "堪航能力 ； 適航性": "Seaworthiness"
+    },
+    {
+        "再審查": "Second examination"
+    },
+    {
+        "次級內部人": "Secondary insiders"
+    },
+    {
+        "次級市場 ； 交易市場 ； 流通市場": "Secondary market"
+    },
+    {
+        "再次發行": "Secondary offer / Secondary distribution"
+    },
+    {
+        "擔保公司債": "Secured bond"
+    },
+    {
+        "有價證券": "Securities"
+    },
+    {
+        "證券交易法": "Securities and Exchange Act"
+    },
+    {
+        "證券集中保管事業": "Securities central depository enterprise"
+    },
+    {
+        "證券金融事業": "Securities finance enterprise"
+    },
+    {
+        "證券商": "Securities firm"
+    },
+    {
+        "有價證券之借貸 ； 借券": "Securities lending and borrowing"
+    },
+    {
+        "證券市場": "Securities market"
+    },
+    {
+        "證券化": "Securitization"
+    },
+    {
+        "扣押": "Seizure"
+    },
+    {
+        "自己交易": "Self-dealing"
+    },
+    {
+        "販賣": "Selling"
+    },
+    {
+        "販賣": "Selling"
+    },
+    {
+        "半年度財務報告": "Semi-annual financial report"
+    },
+    {
+        "交割": "Settlement"
+    },
+    {
+        "影子董事": "Shadow director"
+    },
+    {
+        "股份": "Share"
+    },
+    {
+        "股份轉換": "Share exchange / Share swap"
+    },
+    {
+        "股東行動主義": "Shareholder activism"
+    },
+    {
+        "執行業務股東": "Shareholder conducting the business"
+    },
+    {
+        "零股股東": "Shareholder holding less than 1,000 shares of registered stock"
+    },
+    {
+        "股東優先": "Shareholder primacy"
+    },
+    {
+        "股東提案（權）": "Shareholder proposal"
+    },
+    {
+        "代表公司之股東": "Shareholder representing the company"
+    },
+    {
+        "股東": "Shareholder / Stockholder / Member"
+    },
+    {
+        "股東同意 ； 股東承認": "Shareholders' approval"
+    },
+    {
+        "股東名簿": "Shareholders' list"
+    },
+    {
+        "股東會": "Shareholders' meeting"
+    },
+    {
+        "股東權": "Shareholders' right"
+    },
+    {
+        "船舶": "Ship / Vessel / Boat"
+    },
+    {
+        "船舶所有人": "Shipowner"
+    },
+    {
+        "事業法定授權": "Shop right"
+    },
+    {
+        "融券": "Short sales"
+    },
+    {
+        "簡易合併 ； 簡式合併": "Short-form merger"
+    },
+    {
+        "短線交易": "Short-swing trading"
+    },
+    {
+        "標識": "Sign"
+    },
+    {
+        "類似商品": "Similar goods"
+    },
+    {
+        "近似商標": "Similar mark"
+    },
+    {
+        "類似服務": "Similar services"
+    },
+    {
+        "聲音": "Sound"
+    },
+    {
+        "商品來源": "Source of goods"
+    },
+    {
+        "服務來源": "Source of services"
+    },
+    {
+        "特別提款權": "Special Drawing Rights / SDR"
+    },
+    {
+        "被分割公司": "Split company"
+    },
+    {
+        "分割投票": "Split voting"
+    },
+    {
+        "分割": "Split-up"
+    },
+    {
+        "藝名": "Stage name"
+    },
+    {
+        "利害關係人": "Stakeholder"
+    },
+    {
+        "餘額包銷": "Stand-by underwriting"
+    },
+    {
+        "技術水平": "State of the art"
+    },
+    {
+        "外國人投資條例": "Statute for Investment by Foreign Nationals"
+    },
+    {
+        "法定合併 ； 制式合併": "Statutory merger"
+    },
+    {
+        "擬制新穎性": "Statutory prior art"
+    },
+    {
+        "股票": "Stock"
+    },
+    {
+        "證券交易所": "Stock exchange"
+    },
+    {
+        "新股認購權利證書": "Stock warrant certificate"
+    },
+    {
+        "股份交換": "Stock-for-stock exchange / Share swap"
+    },
+    {
+        "儲存": "Stowage"
+    },
+    {
+        "全額連記法 ； 連選連記法 ； 聯選投票 ； 直接投票": "Straight voting"
+    },
+    {
+        "罷工": "Strike"
+    },
+    {
+        "再授權": "Sub-license"
+    },
+    {
+        "再授權": "Sub-license"
+    },
+    {
+        "陳述意見": "Submitting opinion"
+    },
+    {
+        "從屬公司": "Subordinate company"
+    },
+    {
+        "次順位公司債": "Subordinated bond"
+    },
+    {
+        "保險代位": "Subrogation"
+    },
+    {
+        "應募人": "Subscribers"
+    },
+    {
+        "子公司": "Subsidiary"
+    },
+    {
+        "實體審查": "Substantive examination"
+    },
+    {
+        "相繼運送": "Successive carriage"
+    },
+    {
+        "自殺條款": "Suicide clause"
+    },
+    {
+        "特別決議": "Supermajority vote"
+    },
+    {
+        "監察人": "Supervisor"
+    },
+    {
+        "盈餘分派議案": "Surplus earnings distribution proposal"
+    },
+    {
+        "繳回": "Surrender"
+    },
+    {
+        "解約金": "Surrender value"
+    },
+    {
+        "公證報告": "Survey report"
+    },
+    {
+        "公證人": "Surveyor"
+    },
+    {
+        "存續公司": "Surviving company"
+    },
+    {
+        "記號": "Symbol"
+    },
+    {
+        "台灣存託憑證": "Taiwan Depositary Receipt / TDR"
+    },
+    {
+        "理貨": "Tally"
+    },
+    {
+        "目標公司": "Target company"
+    },
+    {
+        "新型專利技術報告": "Technical evaluation report for utility model patent"
+    },
+    {
+        "臨時管理人": "Temporary manager"
+    },
+    {
+        "公開收購": "Tender offer / Takeover bid"
+    },
+    {
+        "假決議": "Tentative resolution"
+    },
+    {
+        "區域耗盡": "Territorial exhaustion"
+    },
+    {
+        "利益限度": "The limit of the profit"
+    },
+    {
+        "賠償義務人": "The person liable for damages"
+    },
+    {
+        "商標專責機關": "The Registrar Office"
+    },
+    {
+        "保險標的物": "The subject matter insured"
+    },
+    {
+        "商標公報": "The Trademark Gazette"
+    },
+    {
+        "商標註冊簿": "The Trademark Register"
+    },
+    {
+        "立體形狀": "Three-dimensional shape"
+    },
+    {
+        "連續運送": "Through carriage"
+    },
+    {
+        "票價": "Ticket fare"
+    },
+    {
+        "論時傭船": "Time charterparty"
+    },
+    {
+        "消息受領人": "Tippee"
+    },
+    {
+        "消息傳遞者": "Tipper"
+    },
+    {
+        "防止侵害": "To prevent infringment"
+    },
+    {
+        "延展": "To renew / Renewal"
+    },
+    {
+        "除去侵害": "To stop infringment"
+    },
+    {
+        "資本總額": "Total amount of the capital"
+    },
+    {
+        "全部損失 ； 全損": "Total loss"
+    },
+    {
+        "被拖船": "Tow"
+    },
+    {
+        "船舶拖帶": "Towage"
+    },
+    {
+        "商號": "Trade name"
+    },
+    {
+        "商標": "Trademark"
+    },
+    {
+        "商標法": "Trademark Act"
+    },
+    {
+        "商標業務": "Trademark affairs"
+    },
+    {
+        "商標代理人": "Trademark agent"
+    },
+    {
+        "商標申請": "Trademark application"
+    },
+    {
+        "商標權侵害": "Trademark infringment"
+    },
+    {
+        "商標註冊": "Trademark registration"
+    },
+    {
+        "商標註冊": "Trademark registration"
+    },
+    {
+        "商標使用": "Trademark use"
+    },
+    {
+        "交易因果關係": "Transaction causation"
+    },
+    {
+        "商標權之移轉": "Transfer of trademark right"
+    },
+    {
+        "庫藏股；公司買回自己股票": "Treasury share / Treasury stock"
+    },
+    {
+        "三角合併": "Triangular merger"
+    },
+    {
+        "信託公司": "Trust company"
+    },
+    {
+        "拖船": "Tug"
+    },
+    {
+        "越權 ； 越權原則": "Ultra Vires (doctrine)"
+    },
+    {
+        "全體之同意": "Unanimous agreement"
+    },
+    {
+        "承銷商": "Underwriter"
+    },
+    {
+        "核保 {保險法法條} ； 承銷 {證券交易法條文}": "Underwriting"
+    },
+    {
+        "無限公司": "Unlimited company"
+    },
+    {
+        "兩合公司": "Unlimited Company with Limited Liability Shareholders"
+    },
+    {
+        "無限責任股東": "Unlimited liability shareholder / Shareholder with unlimited liability"
+    },
+    {
+        "無擔保公司債": "Unsecured bond"
+    },
+    {
+        "使用": "Using"
+    },
+    {
+        "侵吞公司機會": "Usurping corporate opportunity / Corporate opportunity doctrine"
+    },
+    {
+        "新型創作人": "Utility model creator"
+    },
+    {
+        "新型專利": "Utility model patent"
+    },
+    {
+        "產業利用性": "Utility / Industrial applicability"
+    },
+    {
+        "定值保險": "Valued insurace"
+    },
+    {
+        "批量契約": "Volume contract"
+    },
+    {
+        "表決權拘束契約": "Voting agreement"
+    },
+    {
+        "表決權": "Voting right / Right to vote / Voting power"
+    },
+    {
+        "表決權信託": "Voting trust"
+    },
+    {
+        "船程": "Voyage"
+    },
+    {
+        "論航傭船": "Voyage charterparty"
+    },
+    {
+        "失權": "Waiver"
+    },
+    {
+        "權證": "Warrant"
+    },
+    {
+        "特約條款 ； 擔保": "Warranty"
+    },
+    {
+        "沖洗買賣": "Wash sale"
+    },
+    {
+        "等待期間": "Wating period"
+    },
+    {
+        "耗損": "Wear and tear"
+    },
+    {
+        "國內外著名且具公益性機構": "Well-known domestic or foreign public interest organization"
+    },
+    {
+        "著名標章": "Well-known mark"
+    },
+    {
+        "著名之姓名": "Well-known name"
+    },
+    {
+        "著名商標": "Well-known trademark / Famous mark"
+    },
+    {
+        "非對稱合併": "Whale-minnow merger"
+    },
+    {
+        "退股": "Withdrawal of shares"
+    },
+    {
+        "文字": "Word"
+    },
+    {
+        "殘骸移除": "Wreck removal"
+    },
+    {
+        "書面契約": "Written contract / Written agreement"
+    },
+    {
+        "專利審定書": "Written decision of patent examination"
+    },
+    {
+        "書面處分": "Written disposition"
+    },
+    {
+        "銀行": "Bank"
+    },
+    {
+        "存管": "Deposit"
+    },
+    {
+        "放款": "Loan extension"
+    },
+    {
+        "貼現": "Discounting bills and notes"
+    },
+    {
+        "匯兌": "Remittance"
+    },
+    {
+        "信用狀": "Letter of credit"
+    },
+    {
+        "授信": "Extending credit"
+    },
+    {
+        "收受存款": "Accepting deposit"
+    },
+    {
+        "透支": "overdraft"
+    },
+    {
+        "定期存款": "Time deposit/certificate deposit"
+    },
+    {
+        "活期存款": "Demand deposit"
+    },
+    {
+        "信託資金": "Trust fund"
+    },
+    {
+        "擔保授信": "Secured credit"
+    },
+    {
+        "應收票據": "Notes receivable"
+    },
+    {
+        "商業票據": "Commercial Paper"
+    },
+    {
+        "商業銀行": "Commercial bank"
+    },
+    {
+        "消費者貸款": "Consumer loan"
+    },
+    {
+        "津貼": "Allowance"
+    },
+    {
+        "中央銀行": "Central bank"
+    },
+    {
+        "自有資本": "Equity capital"
+    },
+    {
+        "資本適足": "Capital adequacy"
+    },
+    {
+        "風險性資產": "Risk asset"
+    },
+    {
+        "資本重建": "Capital restructuring"
+    },
+    {
+        "監管": "Conservatorship"
+    },
+    {
+        "內部控制": "Internal control"
+    },
+    {
+        "逾期放款": "Non-performing loan"
+    },
+    {
+        "呆帳": "Bad debt"
+    },
+    {
+        "自動櫃員機": "Automated teller machine"
+    },
+    {
+        "保管箱": "Safe deposit box"
+    },
+    {
+        "金庫": "Vault"
+    },
+    {
+        "貨幣": "Currency"
+    },
+    {
+        "信用卡": "Credit card"
+    },
+    {
+        "徵信": "Extending credit"
+    },
+    {
+        "催收款": "Non-accrual loan"
+    },
+    {
+        "清理": "Winding-up"
+    },
+    {
+        "接管": "Receivership"
+    },
+    {
+        "中央存款保險公司": "Central Depository Insurance Company"
+    },
+    {
+        "存款保險": "Deposit insurance"
+    },
+    {
+        "清理人": "Rehabilitator"
+    },
+    {
+        "支票存款": "Checking deposit"
+    },
+    {
+        "金融債券": "Bank debenture"
+    },
+    {
+        "融資性租賃": "Financial leasing"
+    },
+    {
+        "工業銀行": "Industrial bank"
+    },
+    {
+        "農業銀行": "Agricultural bank"
+    },
+    {
+        "輸出入銀行": "Export-import bank"
+    },
+    {
+        "中小企業銀行": "Small and Medium-sized enterprise bank"
+    },
+    {
+        "不動產信用銀行": "Real estate credit bank"
+    },
+    {
+        "國民銀行": "Citizens' bank"
+    },
+    {
+        "專業銀行": "Bank for a special business purpose"
+    },
+    {
+        "公債": "Government bond"
+    },
+    {
+        "有限合夥法": "Limited Partnership Act"
+    },
+    {
+        "有限合夥": "Limited partnership"
+    },
+    {
+        "營利法人": "For-profit juridical person"
+    },
+    {
+        "普通合夥人": "General partner"
+    },
+    {
+        "有限合夥人": "Limited partner"
+    },
+    {
+        "有限合夥負責人": "Responsible person of the limited partnership"
+    },
+    {
+        "有限合夥經理人": "Managerial officer of the limited partnership"
+    },
+    {
+        "有限合夥清算人": "Liquidator of the limited partnership"
+    },
+    {
+        "有限合夥代表人": "Representative of the limited partnership"
+    },
+    {
+        "外國有限合夥": "Foreign limited partnership"
+    },
+    {
+        "有限合夥契約": "Limited partnership agreement"
+    },
+    {
+        "外國有限合夥分支機構": "Branch office of the foreign limited partnership"
+    },
+    {
+        "出資額": "Capital contribution amount"
+    },
+    {
+        "責任類型": "Liability type"
+    },
+    {
+        "分次出資": "Installment of capital contribution"
+    },
+    {
+        "現金出資": "Cash as capital contribution/capital contribution by cash"
+    },
+    {
+        "非現金出資": "Non-cash contribution"
+    },
+    {
+        "勞務出資": "Services as capital contribution"
+    },
+    {
+        "信用出資": "Goodwill as capital contribution"
+    },
+    {
+        "其他利益出資": "Other interests as capital contribution"
+    },
+    {
+        "會計師查核簽證": "Audit by an independent certified public accountant"
+    },
+    {
+        "有限合夥存續期間": "Duration of the limited partnership"
+    },
+    {
+        "廢止有限合夥登記": "Nullification of the limited partnership registration"
+    },
+    {
+        "裁定解散有限合夥": "Judicial dissolution of the limited partnership"
+    },
+    {
+        "約定解散事由": "Agreed causes of dissolution"
+    },
+    {
+        "取回出資額": "Retrieval of the capital contribution"
+    },
+    {
+        "其他合夥人全體同意": "Unanimous consent of other partners"
+    },
+    {
+        "全體普通合夥人過半數之同意": "Majority vote of all general partners"
+    },
+    {
+        "依各合夥人出資額比例分配": "Allocation in proportion to the contribution of each partner"
+    },
+    {
+        "合夥人退夥": "Withdrawal of the partner"
+    },
+    {
+        "票據法": "Negotiable Instruments Act"
+    },
+    {
+        "票據": "Negotiable instrument"
+    },
+    {
+        "匯票": "Bill of exchange"
+    },
+    {
+        "本票": "Promissory note"
+    },
+    {
+        "支票": "Check/Cheque (UK)"
+    },
+    {
+        "發票人": "Drawer"
+    },
+    {
+        "付款人": "Drawee"
+    },
+    {
+        "背書人": "Endorser"
+    },
+    {
+        "無條件支付": "Unconditional payment"
+    },
+    {
+        "承兌": "Acceptance"
+    },
+    {
+        "參加承兌": "Acceptance for honor"
+    },
+    {
+        "參加付款": "Payment for honor"
+    },
+    {
+        "收款方": "Payee"
+    },
+    {
+        "執票人": "Holder"
+    },
+    {
+        "承兌人": "Acceptor"
+    },
+    {
+        "受讓人": "Transferee"
+    },
+    {
+        "指定之到期日": "Fixed future date/Due date (UCC)"
+    },
+    {
+        "見票": "On demand"
+    },
+    {
+        "委託": "Authorization"
+    },
+    {
+        "金融業者": "Financial institution"
+    },
+    {
+        "簽發": "Signing and issuing"
+    },
+    {
+        "文義性": "Tenor"
+    },
+    {
+        "票據權利人": "Obligee"
+    },
+    {
+        "票據債務人": "Person liable on the negotiable instrument"
+    },
+    {
+        "票據之偽造": "Forgery of  instrument"
+    },
+    {
+        "票上簽名之偽造": "Forgery of  instrument signature"
+    },
+    {
+        "變造": "Alteration"
+    },
+    {
+        "善意": "In good faith"
+    },
+    {
+        "惡意": "In bad faith"
+    },
+    {
+        "塗銷": "Be canceled or struck out"
+    },
+    {
+        "票據喪失": "Loss of a negotiable instrument"
+    },
+    {
+        "止付通知": "Stop-payment notice"
+    },
+    {
+        "公示催告": "Petition filed for public summons"
+    },
+    {
+        "行使票據上權利": "Any acts required to be done by a party to a negotiable instrument for the exercise"
+    },
+    {
+        "保全票據上權利": "Any acts required to be done by a party to a negotiable instrument for the preservation of rights"
+    },
+    {
+        "拒絕證書": "Protest of bill"
+    },
+    {
+        "匯票承兌人": "Acceptor of a bill of exchange"
+    },
+    {
+        "本票發票人": "Maker of a promissory note"
+    },
+    {
+        "支票發票人": "Drawer of the check"
+    },
+    {
+        "追索權": "Right of recourse"
+    },
+    {
+        "利益償還請求權": "Right of repaying the bills interest"
+    },
+    {
+        "空白背書": "Bill endorsed in blank"
+    },
+    {
+        "交付轉讓": "Negotiation by delivery"
+    },
+    {
+        "背書轉讓": "Negotiation by endorsement"
+    },
+    {
+        "到期日": "Date of maturity"
+    },
+    {
+        "預備付款人": "Referee"
+    },
+    {
+        "票據背書連續之證明": "Bill by evidence of consecutive endorsements"
+    },
+    {
+        "票據保證": "Guaranty"
+    },
+    {
+        "複本": "Bills in a set"
+    },
+    {
+        "謄本": "Duplicates of bills"
+    },
+    {
+        "提示": "Presentment"
+    },
+    {
+        "照付": "Payment certified"
+    },
+    {
+        "保付": "Payment guaranteed"
+    },
+    {
+        "著作": "Work"
+    },
+    {
+        "原件": "Original copy"
+    },
+    {
+        "重製物": "Copies"
+    },
+    {
+        "表達": "Expression"
+    },
+    {
+        "思想": "Idea"
+    },
+    {
+        "思想表達合併原則": "Idea-expression merger doctrine"
+    },
+    {
+        "場景原則": "Scénes á Faire"
+    },
+    {
+        "原創性": "Originality"
+    },
+    {
+        "著作人": "Author"
+    },
+    {
+        "著作權": "Authorship"
+    },
+    {
+        "著作財產權": "Copyright"
+    },
+    {
+        "著作人格權": "Moral right"
+    },
+    {
+        "語文著作": "Literal work"
+    },
+    {
+        "音樂著作": "Musical work"
+    },
+    {
+        "戲劇著作": "Dramatic work"
+    },
+    {
+        "舞蹈著作": "Choreographic work"
+    },
+    {
+        "美術著作": "Artistic work"
+    },
+    {
+        "攝影著作": "Photographic work"
+    },
+    {
+        "圖形著作": "Pictorial or graphic work"
+    },
+    {
+        "視聽著作": "Audiovisual work"
+    },
+    {
+        "錄音著作": "Sound recording"
+    },
+    {
+        "建築著作": "Architectural work"
+    },
+    {
+        "電腦程式著作": "Computer program"
+    },
+    {
+        "衍生著作": "Derivative work"
+    },
+    {
+        "編輯著作": "Compilation work"
+    },
+    {
+        "公開發表權": "Right of publication"
+    },
+    {
+        "姓名表示權": "Right of attribution"
+    },
+    {
+        "同一性保持權": "Right of integrity"
+    },
+    {
+        "重製權": "Right of reproduction"
+    },
+    {
+        "暫時性重製": "Temporary reproduction"
+    },
+    {
+        "公開口述權": "Right of public recitation"
+    },
+    {
+        "公開上映權": "Right of public presentation"
+    },
+    {
+        "公開演出權": "Right of public performance"
+    },
+    {
+        "公開傳輸權": "Right of communication to the public"
+    },
+    {
+        "公開展示權": "Right of public display"
+    },
+    {
+        "散布權": "Distribution right"
+    },
+    {
+        "出租權": "Rental right"
+    },
+    {
+        "改作權": "Adaptation right"
+    },
+    {
+        "編輯權": "Right to compile"
+    },
+    {
+        "權利管理電子資訊": "Electronic rights-management information"
+    },
+    {
+        "防盜拷措施": "Anti-circumvention technological measure"
+    },
+    {
+        "網路服務提供者": "Internet service provider"
+    },
+    {
+        "連線服務提供者": "Service provider of transitory digital network communications"
+    },
+    {
+        "快速存取服務提供者": "Service provider of system caching"
+    },
+    {
+        "資訊儲存服務提供者": "Service provider of information residing on systems or networks"
+    },
+    {
+        "搜尋服務提供者": "Service provider of information location tools"
+    },
+    {
+        "合理使用": "Fair use"
+    },
+    {
+        "轉換性使用": "Transformative use"
+    },
+    {
+        "著作權集體管理團體": "Collective management organization of copyright"
+    },
+    {
+        "第一次銷售原則": "First sale doctrine"
+    },
+    {
+        "伯恩公約": "Berne Convention/Berne Convention for the Protection of Literary and Artistic Works"
+    },
+    {
+        "受雇著作": "Work made for hire"
+    },
+    {
+        "受聘著作": "Work made for commission"
+    },
+    {
+        "共同著作": "Joint work"
+    },
+    {
+        "著作財產權存續期間": "Copyright duration"
+    },
+    {
+        "孤兒著作": "Orphan work"
+    },
+    {
+        "著作財產權授權": "Copyright licensing"
+    },
+    {
+        "著作財產權讓與": "Copyright assignment"
+    },
+    {
+        "特許實施權": "Compulsory licensing"
+    },
+    {
+        "著作財產權之限制": "Statutory limitations and exceptions of copyright"
+    },
+    {
+        "著作權審議及調解委員會": "Copyright Review and Mediation Committee"
+    },
+    {
+        "合理範圍": "Reasonable scope"
+    },
+    {
+        "視覺障礙": "Visual impairment"
+    },
+    {
+        "聽覺障礙": "Perceptual impairment"
+    },
+    {
+        "學習障礙": "Reading impairment"
+    },
+    {
+        "著作財產權侵害": "Infringement of copyright"
+    },
+    {
+        "著作人格權侵害": "Infringement of moral right"
+    },
+    {
+        "接觸": "Access"
+    },
+    {
+        "實質近似/實質相似": "Substantial similarity"
+    },
+    {
+        "通常觀察者測試": "Ordinary observer test"
+    },
+    {
+        "著作權間接侵害": "Indirect infringment of copyright"
+    },
+    {
+        "著作權輔助侵害": "Contributory infringement of copyright"
+    },
+    {
+        "著作權誘引侵害": "Inducing infringement of copyright"
+    },
+    {
+        "著作權侵害之替代責任": "Vicarious liability of copyright infringement"
+    },
+    {
+        "公平交易": "Fair trade"
+    },
+    {
+        "反托拉斯": "Antitrust"
+    },
+    {
+        "不公平競爭": "Unfair competition"
+    },
+    {
+        "公平交易法": "Fair Trade Act"
+    },
+    {
+        "公平交易法施行細則": "Enforcement Rules of Fair Trade Act"
+    },
+    {
+        "交易秩序": "Trading order"
+    },
+    {
+        "消費者利益": "Consumers' interests"
+    },
+    {
+        "公平競爭": "Fair competition"
+    },
+    {
+        "事業": "Enterprise"
+    },
+    {
+        "獨資": "Sole proprietorship"
+    },
+    {
+        "合夥": "Partnership"
+    },
+    {
+        "提供商品或服務": "Provision of goods or services"
+    },
+    {
+        "從事交易之人或團體": "Person or organization engaging in transactions"
+    },
+    {
+        "事業所組成之同業公會": "Trade association organized by businesses"
+    },
+    {
+        "交易相對人": "Trading counterpart"
+    },
+    {
+        "供給者": "Supplier"
+    },
+    {
+        "需求者": "Purchaser"
+    },
+    {
+        "交易機會": "Trading opportunity"
+    },
+    {
+        "相關市場": "Relevant market"
+    },
+    {
+        "事業從事競爭之區域或範圍": "Geographic area or coverage wherein enterprises compete"
+    },
+    {
+        "公平交易委員會": "Fair Trade Commission"
+    },
+    {
+        "獨占事業": "Monopolistic enterprise"
+    },
+    {
+        "無競爭狀態": "No competition"
+    },
+    {
+        "壓倒性地位": "Dominant position"
+    },
+    {
+        "可排除競爭之能力": "Ability to exclude competition"
+    },
+    {
+        "實際上不為價格之競爭": "Not in fact engaging in price competition"
+    },
+    {
+        "市場占有率": "Market share"
+    },
+    {
+        "上一會計年度事業總銷售金額": "Total sales in the preceding fiscal year"
+    },
+    {
+        "不公平之方法": "Unfair means"
+    },
+    {
+        "直接或間接阻礙他事業參與競爭": "Direct or indirect prevention of other enterprises from competing"
+    },
+    {
+        "不當之決定、維持或變更": "Improper setting, maintaining or changing"
+    },
+    {
+        "濫用市場地位": "Abuses of dominant positions"
+    },
+    {
+        "結合": "Merger"
+    },
+    {
+        "與他事業合併": "Enterprise and another enterprise are merged into one"
+    },
+    {
+        "控制性持股": "Controlling interest"
+    },
+    {
+        "有表決權之股份": "Voting shares"
+    },
+    {
+        "參與結合之事業": "Enterprises in the merger"
+    },
+    {
+        "事業結合之申報": "Filed merger"
+    },
+    {
+        "整體經濟利益": "Overall economic benefit"
+    },
+    {
+        "限制競爭之不利益": "Disadvantages resulted from competition restraint"
+    },
+    {
+        "附加條件": "Imposition of condition"
+    },
+    {
+        "附加負擔": "Imposition of undertaking"
+    },
+    {
+        "聯合行為": "Concerted action"
+    },
+    {
+        "具競爭關係之同一產銷階段事業": "Competing enterprises at the same production and/or marketing stage"
+    },
+    {
+        "協議": "Agreement"
+    },
+    {
+        "其他方式之合意": "Other form of mutual understanding"
+    },
+    {
+        "其他相互約束事業活動之行為": "Other behavior that restricts each other's business activities"
+    },
+    {
+        "意思聯絡": "Meeting of minds"
+    },
+    {
+        "有法律拘束力": "Legally binding"
+    },
+    {
+        "共同行為": "Joint action"
+    },
+    {
+        "轉售價格": "Resale prices"
+    },
+    {
+        "正當理由": "Justifiable reasons"
+    },
+    {
+        "限制競爭": "Restriction of compeition"
+    },
+    {
+        "損害特定事業": "Damage of a particular enterprise"
+    },
+    {
+        "斷絕供給": "Discontinuation of supplying"
+    },
+    {
+        "斷絕購買": "Discontinuation of purchasing"
+    },
+    {
+        "對他事業給予差別待遇": "Discriminatory treatment for another enterprise"
+    },
+    {
+        "低價利誘": "Inducement with low price"
+    },
+    {
+        "威脅": "Coercion"
+    },
+    {
+        "利誘": "Inducement with interest"
+    },
+    {
+        "垂直限制競爭": "Vertical restriction"
+    },
+    {
+        "足以影響交易決定之事項": "Mater sufficient to affect trading decisions"
+    },
+    {
+        "虛偽不實": "False"
+    },
+    {
+        "引人錯誤": "Misleading"
+    },
+    {
+        "表示": "Representation"
+    },
+    {
+        "表徵": "Symbol"
+    },
+    {
+        "廣告代理業": "Advertising agency"
+    },
+    {
+        "廣告主": "Principal of advertisement"
+    },
+    {
+        "廣告媒體業": "Advertising medium"
+    },
+    {
+        "引人錯誤廣告": "Misleading advertisement"
+    },
+    {
+        "廣告薦證者": "Endorser"
+    },
+    {
+        "贈品": "Gift"
+    },
+    {
+        "贈獎": "Prize"
+    },
+    {
+        "營業信譽": "Business reputation"
+    },
+    {
+        "欺罔之行為": "Deceptive conduct"
+    },
+    {
+        "顯失公平之行為": "Obviously unfair conduct"
+    },
+    {
+        "足以影響交易秩序": "Likelihood of affecting trading order"
+    },
+    {
+        "寬恕條款": "Leniency rules"
+    },
+    {
+        "提出書面檢舉": "Filing of a complaint"
+    },
+    {
+        "向主管機關提出書面檢舉": "Informing the competent authority in writing"
+    },
+    {
+        "檢附事證": "Submission of evidence"
+    },
+    {
+        "協助調查": "Assisting of investigation"
+    },
+    {
+        "解散": "Dissolution"
+    },
+    {
+        "歇業": "Suspension of business operation"
+    },
+    {
+        "停止營業": "Termination of business operation"
+    },
+    {
+        "行使權利之正當行為": "proper conduct in connection with the exercise of rights"
+    },
+    {
+        "反托拉斯基金": "Antitrust fund"
+    },
+    {
+        "國際競爭法執法機關": "International competition law enforcement agency"
+    },
+    {
+        "指定使用商品之縮減": "Restriction of the designated goods"
+    },
+    {
+        "指定使用商品之分割": "Division of the designated goods"
+    },
+    {
+        "指定使用服務之縮減": "Restriction of the designated services"
+    },
+    {
+        "指定使用服務之分割": "Division of the designated services"
+    },
+    {
+        "通用標章": "Generic mark"
+    },
+    {
+        "通用名稱": "Generic term"
+    },
+    {
+        "欠缺識別性": "Devoid of distinctiveness / Lack of distinctiveness"
+    },
+    {
+        "妨害公共秩序": "Contrary to public policy"
+    },
+    {
+        "妨害善良風俗": "Contrary to good morals"
+    },
+    {
+        "葡萄酒地理標示": "Geographical indication for wines"
+    },
+    {
+        "蒸餾酒地理標示": "Geographical indication for spirits"
+    },
+    {
+        "商標核准審定": "Acceptance of trademark registration"
+    },
+    {
+        "商標註冊公告日": "Date of publication for registration"
+    },
+    {
+        "商標權期間": "Period of trademark right"
+    },
+    {
+        "屆滿": "Expiration"
+    },
+    {
+        "國際通用註冊符號": "Internationally used symbol for registration"
+    },
+    {
+        "商業交易習慣": "Industrial or commercial usage"
+    },
+    {
+        "誠實信用方法(商標)": "Honest practices"
+    },
+    {
+        "廢止商標授權登記": "Removal of a trademark license from the Register"
+    },
+    {
+        "重建更生之可能": "Possibility to reconstruct or rehabilitate"
+    },
+    {
+        "工會": "Labor union"
+    },
+    {
+        "企業工會": "Corporate union"
+    },
+    {
+        "產業工會": "Industrial union"
+    },
+    {
+        "職業工會": "Professional union"
+    },
+    {
+        "受僱員工": "Employee"
+    },
+    {
+        "勞工保險投保名冊": "Roster of labor insurance"
+    },
+    {
+        "重整方案": "Reorganization proposal"
+    },
+    {
+        "准許重整之聲請": "Approval of reorganization application"
+    },
+    {
+        "駁回重整之聲請": "Dismissal of reorganization application"
+    },
+    {
+        "取回權": "Right of retrieval"
+    },
+    {
+        "解除權": "Right of rescission"
+    },
+    {
+        "抵銷權": "Right of set-off"
+    },
+    {
+        "關係人": "Interested party / Concerned person"
+    },
+    {
+        "關係人會議": "Meeting of interested parties / Meeting of concerned persons"
+    },
+    {
+        "重整債權": "Rights of creditors in reorganization"
+    },
+    {
+        "優先重整債權": "Preferred rights of creditors in reorganization"
+    },
+    {
+        "有擔保重整債權": "Secured rights of creditors in reorganization"
+    },
+    {
+        "無擔保重整債權": "Unsecured rights of creditors in reorganization"
+    },
+    {
+        "重整程序": "Reorganization procedures"
+    },
+    {
+        "股份設質": "Security in pledge"
+    },
+    {
+        "已發行有表決權之股份": "Outstanding voting share"
+    },
+    {
+        "票面金額股": "Par value share / Par value stock"
+    },
+    {
+        "無票面金額股": "No-par (value) share / No-par (value) stock"
+    },
+    {
+        "低票面金額股": "Low-par (value) share / Low-par (value) stock"
+    },
+    {
+        "行使表決權之限制": "Restriction on the exercise of voting power"
+    },
+    {
+        "無表決權股": "Non-voting share / Non-voting stock"
+    },
+    {
+        "複數表決權股": "Multiple voting right share / Multiple-voting share"
+    },
+    {
+        "複數表決權": "Multiple voting right"
+    },
+    {
+        "黃金股": "Golden share"
+    },
+    {
+        "否決權": "Veto / Veto right / Veto power"
+    },
+    {
+        "保護性條款": "Protective provision"
+    },
+    {
+        "得轉換成複數普通股之特別股": "Share to be converted into multiple common shares"
+    },
+    {
+        "雙層股權股": "Dual-class share / Dual-class stock"
+    },
+    {
+        "雙層股權結構": "Dual-class share structure / Dual-class stock structure / Dual-class structure"
+    },
+    {
+        "新創企業": "Startup / Emerging business"
+    },
+    {
+        "家族企業": "Family business / Family-owned business"
+    },
+    {
+        "限制型股票": "Restricted stock / Restricted securities"
+    },
+    {
+        "限制員工權利新股": "Restricted stock for employees"
+    },
+    {
+        "召集事由": "Cause for convening the meeting"
+    },
+    {
+        "電子通知": "Notice given by means of electronic transmission / Electronic notice / E-notice"
+    },
+    {
+        "減資": "Reduction of capital"
+    },
+    {
+        "停止公開發行": "Cease the status as a public company"
+    },
+    {
+        "董事競業許可": "Approval for directors to compete (with the company)"
+    },
+    {
+        "盈餘轉增資": "Surplus profit distributed in the form of new shares"
+    },
+    {
+        "公積轉增資/公積撥充資本": "Reserve distributed in the form of new shares"
+    },
+    {
+        "主要內容": "Essential contents"
+    },
+    {
+        "臨時動議": "Extemporary motion"
+    },
+    {
+        "原議案之修正": "Amendment to the contents of the original proposal"
+    },
+    {
+        "已發行股份總數": "Total number of outstanding shares"
+    },
+    {
+        "除息日": "Ex-dividend date"
+    },
+    {
+        "除權日": "Ex-rights date"
+    },
+    {
+        "停止股票過戶日/停止過戶日": "Book closure date"
+    },
+    {
+        "增進公共利益": "Promote public interests"
+    },
+    {
+        "善盡社會責任": "Fulfill social responsibilities"
+    },
+    {
+        "視訊會議": "Electronic meeting / E-meeting / Virtual conference"
+    },
+    {
+        "視訊股東會": "Virtual shareholders' meeting"
+    },
+    {
+        "視訊輔助股東會": "Hybrid shareholders' meeting"
+    },
+    {
+        "電子支付機構管理條例": "The Act Governing Electronic Payment Institutions"
+    },
+    {
+        "電子支付平臺": "Electronic payment platform"
+    },
+    {
+        "特約機構": "Contracted institution"
+    },
+    {
+        "使用者": "User"
+    },
+    {
+        "儲值卡": "Stored-value card"
+    },
+    {
+        "電子支付帳戶": "Electronic payment account"
+    },
+    {
+        "非實體形式之支付工具": "Non-physical payment instrument"
+    },
+    {
+        "代理收付實質交易款項": "Collecting and making payments for real transactions as an agent"
+    },
+    {
+        "收受儲值款項": "Accepting deposits as stored-value funds"
+    },
+    {
+        "辦理國內外小額匯兌": "Domestic and foreign small-amount remittance"
+    },
+    {
+        "多用途支付使用": "Payments for multiple purposes"
+    },
+    {
+        "電子、磁力或光學等技術儲存金錢價值": "Electronic, magnetic, or optical technology to store monetary value"
+    },
+    {
+        "端末設備共用": "Shared terminal devices for contracted institution"
+    },
+    {
+        "紅利積點整合及折抵": "Reward points integration and redemption"
+    },
+    {
+        "代理收付款項": "Collecting and making payments as an agent"
+    },
+    {
+        "儲值款項": "Stored-value funds"
+    },
+    {
+        "電子支付機構 ": "Electronic payment institution"
+    },
+    {
+        "付款方": "Payer"
+    },
+    {
+        "非銀行電子票證發行機構": "Non-bank electronic stored-value cards issuer"
+    },
+    {
+        "營業執照": "Business license"
+    },
+    {
+        "移轉": "Transfer"
+    },
+    {
+        "動用及運用": "Drawing and utilization"
+    },
+    {
+        "專用存款戶": "Dedicated deposit account"
+    },
+    {
+        "支付指示": "Payment instruction"
+    },
+    {
+        "交付信託": "Declare trust"
+    },
+    {
+        "銀行十足之履約保證": "Full bank guarantee"
+    },
+    {
+        "信託契約": "Trust agreement"
+    },
+    {
+        "信託專戶": "Dedicated deposit account as a trust account"
+    },
+    {
+        "必要交易紀錄": "Necessary transaction record"
+    },
+    {
+        "企業對消費者": "Business to Consumer"
+    },
+    {
+        "電子現金": "E-cash"
+    },
+    {
+        "電子支票": "E-check"
+    },
+    {
+        "行動錢包": "Mobile cash"
+    },
+    {
+        "資金傳輸服務": "Money transmitting service"
+    },
+    {
+        "支票兌現": "Check cashing"
+    },
+    {
+        "貨幣匯兌": "Currency exchange"
+    },
+    {
+        "資金服務業": "Money-services businesses"
+    },
+    {
+        "期貨": "Futures "
+    },
+    {
+        "期貨交易": "Futures trading"
+    },
+    {
+        "期貨契約": "Futures contract "
+    },
+    {
+        "選擇權契約": "Option contract "
+    },
+    {
+        "槓桿保證金契約": "Leverage contract "
+    },
+    {
+        "交換契約": "Swap contract "
+    },
+    {
+        "期貨商": "Futures commission merchant"
+    },
+    {
+        "期貨交易所": "Futures exchange "
+    },
+    {
+        "期貨結算機構": "Futures clearing house"
+    },
+    {
+        "場外沖銷": "Off market offsetting"
+    },
+    {
+        "交易保證金": "Trading margin"
+    },
+    {
+        "期貨交易人": "Futures trader"
+    },
+    {
+        "期貨服務事業": "Futures services enterprise"
+    },
+    {
+        "期貨信託事業": "Futures trust enterprise"
+    },
+    {
+        "期貨經理事業": "Managed futures enterprise"
+    },
+    {
+        "期貨顧問事業": "Futures advisory enterprise"
+    },
+    {
+        "期貨信託基金": "Futures trust fund"
+    },
+    {
+        "市場監視": "Market surveillance"
+    },
+    {
+        "期貨市場": "Futures market"
+    },
+    {
+        "交叉交易": "Cross-trading"
+    },
+    {
+        "配合交易": "Accommodation trading"
+    },
+    {
+        "對作": "Bucketing"
+    },
+    {
+        "現貨商品": "Spot commodity"
+    },
+    {
+        "金融科技": "Financial technology"
+    },
+    {
+        "創新實驗": "Innovative experimentation"
+    },
+    {
+        "結算制度": "Clearing and settlement system"
+    },
+    {
+        "持有部位": "Open position"
+    },
+    {
+        "股票選擇權契約": "Stock option contract"
+    },
+    {
+        "股票期貨契約": "Stock futures contract"
+    },
+    {
+        "金融服務業": "Financial services enterprise"
+    },
+    {
+        "金融消費者": "Financial consumer"
+    },
+    {
+        "金融消費爭議": "Financial consumer dispute"
+    },
+    {
+        "爭議處理機構": "Ombudsman body"
+    },
+    {
+        "適合度": "Suitability"
+    },
+    {
+        "金融推介": "Financial promotion"
+    },
+    {
+        "高風險商品": "High risk product "
+    },
+    {
+        "評議委員": "Ombudsman committee member"
+    },
+    {
+        "評議委員會": "Ombudsman committee"
+    },
+    {
+        "公平合理原則": "Principle of fairness and reasonableness"
+    },
+    {
+        "調處": "Mediation"
+    },
+    {
+        "業務招攬": "Business solicitation "
+    },
+    {
+        "自動化通路交易": "Automatic channel transaction"
+    },
+    {
+        "評議書": "Ombudsman statement"
+    },
+    {
+        "申訴": "Complaint"
+    },
+    {
+        "調解": "Conciliation"
+    },
+    {
+        "和解": "Compromise"
+    },
+    {
+        "專業投資機構": "Qualified institutional investor"
+    },
+    {
+        "金融消費評議中心": "Financial Ombudsman Institution"
+    },
+    {
+        "金融消費者保護法": "Financial Consumer Protection Act"
+    },
+    {
+        "營業秘密": "Trade secret"
+    },
+    {
+        "營業秘密法": "Trade Secrets Act"
+    },
+    {
+        "秘密性": "Secretive nature"
+    },
+    {
+        "實際之經濟價值": "Actual economic value"
+    },
+    {
+        "潛在之經濟價值": "Potential economic value"
+    },
+    {
+        "合理之保密措施": "Reasonable measures to protect secrecy"
+    },
+    {
+        "合理報酬": "Reasonable compensation"
+    },
+    {
+        "營業秘密之歸屬": "Ownership of trade secret"
+    },
+    {
+        "共同研究": "Joint research"
+    },
+    {
+        "共同開發": "Joint development"
+    },
+    {
+        "共有之營業秘密": "Jointly-owned trade secret"
+    },
+    {
+        "營業秘密之處分": "Disposition of trade secret"
+    },
+    {
+        "共有人之全體同意": "Unanimous approval by all co-owners"
+    },
+    {
+        "正當理由": "Justification"
+    },
+    {
+        "拒絕同意": "Refuse to consent"
+    },
+    {
+        "質權之標的": "Subject matter of pledge"
+    },
+    {
+        "強制執行之標的": "Subject matter of compulsory enforcement"
+    },
+    {
+        "辯護人": "Advocate"
+    },
+    {
+        "鑑定人": "Expert witness"
+    },
+    {
+        "無故洩漏": "Disclosure without due cause"
+    },
+    {
+        "侵害營業秘密": "Misappropriation of trade secret"
+    },
+    {
+        "取得營業秘密": "Acquisition of a trade secret"
+    },
+    {
+        "洩漏營業秘密": "Disclosure of a trade secret"
+    },
+    {
+        "因重大過失而不知": "Not knowing due to gross negligence"
+    },
+    {
+        "依法有守營業秘密之義務": "Legal duty to keep confidential a trade secret"
+    },
+    {
+        "不正當方法": "Improper means"
+    },
+    {
+        "擅自重製": "Unauthorized reproduction"
+    },
+    {
+        "違反保密義務": "Breach of obligation to maintain secrecy "
+    },
+    {
+        "刪除持有之營業秘密": "Deleting a possessed trade secret"
+    },
+    {
+        "銷毀持有之營業秘密": "Destroying a possessed trade secret"
+    },
+    {
+        "隱匿持有之營業秘密": "Concealing a possessed trade secret"
+    },
+    {
+        "偵查保密令": "Investigation confidentiality order"
+    },
+    {
+        "偵查內容": "Investigation content"
+    },
+    {
+        "受偵查保密令之人": "Person subject to an investigation confidentiality order"
+    },
+    {
+        "秘密保持命令": "Confidentiality preservation order"
+    },
+    {
+        "營業秘密所有人": "Trade secret owner"
+    },
+    {
+        "保護營業秘密之國際條約": "International treaty for trade secret protection"
+    },
+    {
+        "相互保護營業秘密之協定": "Agreement on reciprocal trade secret protection"
+    },
+    {
+        "積體電路": "Integrated circuits"
+    },
+    {
+        "電路布局": "Layout-design/Topography"
+    },
+    {
+        "電路布局權": "Circuit layout right"
+    },
+    {
+        "電子電路功能": "Electronic circuitry function "
+    },
+    {
+        "電晶體": "Transistor"
+    },
+    {
+        "電容器": "Capacitor"
+    },
+    {
+        "電阻器": "Resistor"
+    },
+    {
+        "連接線路/導線": "Interconnection"
+    },
+    {
+        "半導體材料": "Semiconducting material"
+    },
+    {
+        "電子元件": "Electronic component"
+    },
+    {
+        "電子電路圖": "Electronic circuit diagram"
+    },
+    {
+        "還原工程": "Reverse engineering"
+    },
+    {
+        "立體設計": "Three-dimensional disposition "
+    },
+    {
+        "平面設計": "Two-dimensional disposition "
+    },
+    {
+        "創作人": "Creator "
+    },
+    {
+        "繼受人": "Successor/Assignee"
+    },
+    {
+        "積體電路成品": "Integrated circuit product"
+    },
+    {
+        "積體電路製造方法": "Manufacturing process of an integrated circuit"
+    },
+    {
+        "登記證書": "Registration certificate"
+    },
+    {
+        "抄襲": "Plagiarism"
+    },
+    {
+        "鑑定書": "Assessment report"
+    },
+    {
+        "文化創意產業": "Cultural and creative industries"
+    },
+    {
+        "藝術創作": "Artistic creation "
+    },
+    {
+        "文化保存": "Cultural preservation "
+    },
+    {
+        "國民文化素養": "Citizens' cultural literacy"
+    },
+    {
+        "智慧財產": "Intellectual properties"
+    },
+    {
+        "美學素養": "Aesthetic literacy"
+    },
+    {
+        "視覺藝術產業": "Visual art industry"
+    },
+    {
+        "音樂及表演藝術產業": "Music and performance art industry"
+    },
+    {
+        "文化資產應用及展演設施產業": "Industry of cultural assets application and exhibition and performance facility"
+    },
+    {
+        "工藝產業": "Handicrafts industry"
+    },
+    {
+        "電影產業": "Film industry"
+    },
+    {
+        "廣播電視產業": "Radio and television broadcast industry"
+    },
+    {
+        "出版產業": "Publication industry"
+    },
+    {
+        "廣告產業": "Advertisement industry"
+    },
+    {
+        "產品設計產業": "Product design industry"
+    },
+    {
+        "視覺傳達設計產業": "Visual communication design industry"
+    },
+    {
+        "設計品牌時尚產業": "Designer fashion industry"
+    },
+    {
+        "建築設計產業": "Architecture design industry"
+    },
+    {
+        "數位內容產業": "Digital content industry"
+    },
+    {
+        "創意生活產業": "Creativity living industry"
+    },
+    {
+        "流行音樂及文化內容產業": "Popular music and cultural content industry"
+    },
+    {
+        "文化創意事業": "Cultural and creative enterprise"
+    },
+    {
+        "文化部": "Ministry of Culture"
+    },
+    {
+        "國家發展基金": "National Development Fund"
+    },
+    {
+        "文化創意資產": "Cultural and creative assets"
+    },
+    {
+        "資本門": "Capital items"
+    },
+    {
+        "獎勵": "Reward"
+    },
+    {
+        "補助": "Subsidy"
+    },
+    {
+        "法人化": "Formation of legal entity"
+    },
+    {
+        "稅籍登記": "Tax statement registration"
+    },
+    {
+        "創業育成": "Business incubation"
+    },
+    {
+        "藝文消費習慣": "Consumption habits relating to arts"
+    },
+    {
+        "藝文體驗券": "Voucher for artistic and cultural experiencing"
+    },
+    {
+        "原創產品或服務": "Original product or service "
+    },
+    {
+        "創作": "Creation"
+    },
+    {
+        "育成": "Incubation"
+    },
+    {
+        "展演": "Exhibition and performance"
+    },
+    {
+        "採購": "Procurement"
+    },
+    {
+        "公開評選": "Public selection "
+    },
+    {
+        "公有公共運輸系統": "Government-owned public transportation systems"
+    },
+    {
+        "場站": "Station"
+    },
+    {
+        "信用保證機構": "Credit guarantee institution"
+    },
+    {
+        "信用保證": "Credit guarantee"
+    },
+    {
+        "自有品牌": "Self-owned brand"
+    },
+    {
+        "國際品牌形象": "International brand image"
+    },
+    {
+        "國際展演": "International exhibition and performance"
+    },
+    {
+        "競賽": "Competition"
+    },
+    {
+        "博覽會": "Exposition"
+    },
+    {
+        "文化藝術節慶": "Cultural arts festival"
+    },
+    {
+        "史料": "Historical material"
+    },
+    {
+        "典藏文物": "Preserved cultural and historical relics"
+    },
+    {
+        "影音資料": "Video and audio material"
+    },
+    {
+        "公有文化創意資產": "Government-owned cultural and creative assets"
+    },
+    {
+        "收益保留": "Benefit preservation "
+    },
+    {
+        "公有非公用不動產": "Government-owned real estate not for public use"
+    },
+    {
+        "著作權專責機關": "Copyright authority"
+    },
+    {
+        "文化創意產品": "Cultural and creative product"
+    },
+    {
+        "著作財產權人不明": "Unidentifiable copyright owner  "
+    },
+    {
+        "著作財產權人所在不明": "Unlocatable copyright owner"
+    },
+    {
+        "許可範圍": "Scope of permission"
+    },
+    {
+        "報酬": "Remuneration / Compensation"
+    },
+    {
+        "孤兒著作": "Orphan works "
+    },
+    {
+        "減免稅捐": "Tax deduction and exemption"
+    },
+    {
+        "進口稅捐": "Import duties"
+    },
+    {
+        "授權許可": "Decision of authorization"
+    },
+    {
+        "金融科技發展與創新實驗條例": "Financial Technology Development and Innovative Experimentation Act"
+    },
+    {
+        "創新實驗者": "Innovative experimentation participant"
+    },
+    {
+        "普惠金融": "Inclusive financing"
+    },
+    {
+        "科技創新": "Technological innovation"
+    },
+    {
+        "創新實驗計畫": "Innovation experimentation plan"
+    },
+    {
+        "資訊蒐集、處理、利用及傳輸安全": "Security on collecting, processing, using and transmitting information"
+    },
+    {
+        "金融科技專利": "Financial technology patent"
+    },
+    {
+        "人工智慧": "Artificial intelligence / AI"
+    },
+    {
+        "機器學習": "Machine learning / ML"
+    },
+    {
+        "區塊鏈技術": "Blockchain technology"
+    },
+    {
+        "分散式帳本": "Distributed ledger technology / DLT"
+    },
+    {
+        "雲端運算": "Cloud computing"
+    },
+    {
+        "大數據": "Big data"
+    },
+    {
+        "數位銀行": "Digital banking"
+    },
+    {
+        "保險科技": "Insurance technology / InsurTech"
+    },
+    {
+        "法遵科技": "Regulatory technology / RegTech"
+    },
+    {
+        "監理科技": "Supervisory technology / SupTech"
+    },
+    {
+        "智慧監理": "Smart regulation"
+    },
+    {
+        "金融監理沙盒": "Financial regulatory sandbox"
+    },
+    {
+        "金融科技活動 ": "Fintech activity"
+    },
+    {
+        "賦能技術": "Enabling technology"
+    },
+    {
+        "開放銀行": "Open banking"
+    },
+    {
+        "開放應用程式介面": "Application programming interface / API"
+    },
+    {
+        "數位金融服務": "Digital financial service"
+    },
+    {
+        "純網路銀行(純網銀)": "Internet-only bank / Online-only bank / Digital-only bank / Virtual bank"
+    },
+    {
+        "植物品種及種苗法": "The Plant Variety and Plant Seed Act"
+    },
+    {
+        "新品種保護國際公約": "International Convention for the Proctection of New Varieties of Plants"
+    },
+    {
+        "植物品種": "Plant variety"
+    },
+    {
+        "最低植物分類群": "Single botanical taxon of the lowest known rank"
+    },
+    {
+        "植物群體": "Plant grouping "
+    },
+    {
+        "性狀": "Characteristic"
+    },
+    {
+        "基因型": "Genotype"
+    },
+    {
+        "種苗": "Plant seed"
+    },
+    {
+        "育種者": "Breeder"
+    },
+    {
+        "基因轉殖": "Transgenic technology"
+    },
+    {
+        "基因轉殖植物": "Transgenic plant"
+    },
+    {
+        "品種申請權": "Right to apply for plant variety protection"
+    },
+    {
+        "新穎性": "Novelty"
+    },
+    {
+        "可區別性": "Distinctness"
+    },
+    {
+        "一致性": "Uniformity"
+    },
+    {
+        "穩定性": "Stability"
+    },
+    {
+        "適當品種名稱": "Denomination of new varieties of plants"
+    },
+    {
+        "品種權": "Right of plant variety protection /  Breeder's right "
+    },
+    {
+        "起始品種": "Initial variety"
+    },
+    {
+        "實質衍生品種": "Essentially derived variety"
+    },
+    {
+        "從屬品種": "Dependent variety"
+    },
+    {
+        "繁殖": "Propagation"
+    },
+    {
+        "繁殖材料": "Propagating material "
+    },
+    {
+        "收穫物": "Harvested material "
+    },
+    {
+        "調製": "Conditioning "
+    },
+    {
+        "農民免責/留種自用": "Farmers' exemption "
+    },
+    {
+        "育種家免責": "Breeders' exemption"
+    },
+    {
+        "指定之繁殖方法": "Designated method of propagation"
+    },
+    {
+        "特定繁殖週期": "Particular cycle of propagation"
+    },
+    {
+        "品種種類": "Botanical taxon of the plant variety"
+    },
+    {
+        "品種來源": "Source of the plant variety"
+    },
+    {
+        "品種特性": "Characteristic of the plant variety"
+    },
+    {
+        "栽培試驗報告": "Test report on the cultivation of the plant variety"
+    },
+    {
+        "品種權申請案": "Application for plant variety right"
+    },
+    {
+        "品種權申請案公開": "Publication of application for plant variety right"
+    },
+    {
+        "品種權申請案核准公告": "Publication of a plant variety right"
+    },
+    {
+        "品種審議委員會": "Committee for plant variety evaluation"
+    }
+]

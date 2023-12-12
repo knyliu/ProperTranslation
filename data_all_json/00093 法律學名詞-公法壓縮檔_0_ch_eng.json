@@ -1,0 +1,896 @@
+[
+    {
+        "憲法": "Constitution"
+    },
+    {
+        "憲政主義／立憲主義": "Constitutionalism"
+    },
+    {
+        "不成文憲法": "Unwritten constitution"
+    },
+    {
+        "成文憲法": "Written constitution"
+    },
+    {
+        "形式憲法": "Formal constitution"
+    },
+    {
+        "實質憲法": "Substantive constitution"
+    },
+    {
+        "柔性憲法": "Flexible constitution"
+    },
+    {
+        "剛性憲法": "Rigid constitution"
+    },
+    {
+        "三民主義": "Three Peoples’ Principles"
+    },
+    {
+        "中華民國": "Republic of China"
+    },
+    {
+        "民有民治民享": "Government of the people, by the people, for the people"
+    },
+    {
+        "民主；民主國原則": "Democracy"
+    },
+    {
+        "直接民主": "Direct democracy"
+    },
+    {
+        "代議民主／間接民主": "Representative democracy"
+    },
+    {
+        "議會民主": "Parliamentary democracy"
+    },
+    {
+        "審議民主": "Deliberative democracy"
+    },
+    {
+        "自由民主憲政秩序": "Constitutional order of liberal democracy"
+    },
+    {
+        "共和主義": "Republicanism"
+    },
+    {
+        "自由主義": "Liberalism"
+    },
+    {
+        "君主立憲": "Constitutional monarchy"
+    },
+    {
+        "聯邦": "Federation"
+    },
+    {
+        "邦／州": "State"
+    },
+    {
+        "聯邦制": "Federalism"
+    },
+    {
+        "邦聯": "Confederation"
+    },
+    {
+        "單一國": "Unitary state"
+    },
+    {
+        "國家": "State／Nation"
+    },
+    {
+        "國家權力": "State power"
+    },
+    {
+        "法治": "Rule of law"
+    },
+    {
+        "權力分立": "Seperation of powers"
+    },
+    {
+        "水平權力分立": "Horizontal seperation of powers"
+    },
+    {
+        "垂直權力分立": "Vertical seperation of powers"
+    },
+    {
+        "主權": "Sovereignty"
+    },
+    {
+        "國民主權": "Popular sovereignty"
+    },
+    {
+        "議會主權": "Parliamentary sovereignty／Parliamentary supremacy"
+    },
+    {
+        "民主正當性": "Democratic legitimacy"
+    },
+    {
+        "國籍": "Nationality"
+    },
+    {
+        "國民": "National"
+    },
+    {
+        "領土": "Territory"
+    },
+    {
+        "少數民族保護": "Protection of ethnic minority"
+    },
+    {
+        "國旗": "National flag"
+    },
+    {
+        "平等原則": "Principle of equality"
+    },
+    {
+        "平等權": "Equal protection"
+    },
+    {
+        "形式平等": "Formal equality"
+    },
+    {
+        "實質平等": "Substantive equality"
+    },
+    {
+        "性別平等": "Gender equality"
+    },
+    {
+        "男女平等": "Sexual equality／Equality of men and women"
+    },
+    {
+        "人身自由": "Personal freedom／Right to security of the person"
+    },
+    {
+        "人身保護令": "Habeas corpus"
+    },
+    {
+        "正當法律程序": "Due process of law"
+    },
+    {
+        "法官保留": "Access to the court"
+    },
+    {
+        "法定法官": null
+    },
+    {
+        "居住自由": "Freedom of residence"
+    },
+    {
+        "住居不受侵害": null
+    },
+    {
+        "遷徙自由": "Freedom of movement"
+    },
+    {
+        "大學自治": "Autonomy of university"
+    },
+    {
+        "言論自由": "Freedom of speech"
+    },
+    {
+        "真實惡意／真正惡意／實質惡意": "Actual malice"
+    },
+    {
+        "研究自由": "Freedom of research"
+    },
+    {
+        "著作與出版自由": "Freedom of the publication"
+    },
+    {
+        "新聞自由": "Freedom of the press"
+    },
+    {
+        "學術自由": "Academic freedom"
+    },
+    {
+        "講學自由": "Freedom of teaching"
+    },
+    {
+        "秘密通訊自由": "Freedom of correspondence"
+    },
+    {
+        "宗教自由": "Freedom of religion／Freedom of belief"
+    },
+    {
+        "信仰自由": "Freedom of conscience"
+    },
+    {
+        "政教分離": "Separation of church and the state"
+    },
+    {
+        "結社自由": "Freedom of association"
+    },
+    {
+        "集會自由": "Freedom of assembly"
+    },
+    {
+        "職業自由": "Freedom to choose career"
+    },
+    {
+        "工作權": "Right to work"
+    },
+    {
+        "生存權": "Right to minimum livelihood"
+    },
+    {
+        "生命權": "Right to life"
+    },
+    {
+        "財產權": "Property rights"
+    },
+    {
+        "訴訟；訴訟權": "Right of access to the courts"
+    },
+    {
+        "訴願；訴願權": "Right to administrative complaints"
+    },
+    {
+        "請願；請願權": "Right to petition"
+    },
+    {
+        "選舉；選舉權": "Voting right"
+    },
+    {
+        "罷免；罷免權": "Right of recall"
+    },
+    {
+        "創制；創制權": "Right of initiative"
+    },
+    {
+        "複決；複決權": "Right of referendum"
+    },
+    {
+        "直接選舉": "Direct election"
+    },
+    {
+        "間接選舉": "Indirect election"
+    },
+    {
+        "選舉平等": "one person, one vote／one person, one vote, one value"
+    },
+    {
+        "票票等值": "one person, one vote／one person, one vote, one value"
+    },
+    {
+        "普通選舉；普選權": "Universal suffrage"
+    },
+    {
+        "無記名投票": "Secret ballot"
+    },
+    {
+        "被選舉權": "Right to be candidates"
+    },
+    {
+        "公民投票": "Referendum"
+    },
+    {
+        "服公職權": "Right of holding public offices"
+    },
+    {
+        "應考試權": "Right of taking public examinations"
+    },
+    {
+        "納稅義務": "Duty of paying taxes"
+    },
+    {
+        "服兵役義務": "Duty of military service"
+    },
+    {
+        "受國民教育之權利及義務": "Right and duty to mandatory education"
+    },
+    {
+        "公共利益／公益": "Public interests"
+    },
+    {
+        "隱私；隱私權": "Privacy"
+    },
+    {
+        "制度性保障": "Institutional guarantee"
+    },
+    {
+        "法律明確性原則": "Intelligible principle"
+    },
+    {
+        "授權明確性": null
+    },
+    {
+        "法律優位原則": "Supremacy of the law"
+    },
+    {
+        "法律保留原則": "Statutory reservation／Nondelegation doctrine"
+    },
+    {
+        "比例原則": "Principle of proportionality"
+    },
+    {
+        "適當性原則": "Suitability／Rationality test"
+    },
+    {
+        "最小侵害原則／必要性原則": "Least intrusive means／Necessity test"
+    },
+    {
+        "狹義比例原則／相當性原則": "Proportionality stricto sensu／Proportionality as such／Balancing test"
+    },
+    {
+        "國家賠償": "State compensation"
+    },
+    {
+        "國民大會；國民大會代表": "National Assembly"
+    },
+    {
+        "國家元首": "Head of state"
+    },
+    {
+        "國體": null
+    },
+    {
+        "政體": "Political regime"
+    },
+    {
+        "總統": "President"
+    },
+    {
+        "總統制": "Presidentialism"
+    },
+    {
+        "雙首長制／半總統制": "Semi-presidentialism"
+    },
+    {
+        "議會內閣制／內閣制": "Parliamentarism"
+    },
+    {
+        "內閣": "Cabinet"
+    },
+    {
+        "副署": "Co-sign／Countersign"
+    },
+    {
+        "宣戰；宣戰權": "War power；Power to declare war"
+    },
+    {
+        "締結條約權": "Treaty power"
+    },
+    {
+        "解嚴": "Lifting of martial law"
+    },
+    {
+        "大赦": "Amnesty"
+    },
+    {
+        "特赦": "Pardon"
+    },
+    {
+        "減刑": "Reduction of sentencing"
+    },
+    {
+        "任命；任命權": "Appointment power"
+    },
+    {
+        "免職；免職權": "Removal power"
+    },
+    {
+        "緊急命令": "Emergency decree"
+    },
+    {
+        "刑事豁免權": "Immunity from criminal prosecution"
+    },
+    {
+        "言論免責權": "Legislative immunity"
+    },
+    {
+        "不逮捕特權": "Immunity from arrest"
+    },
+    {
+        "立法裁量": "Legislative discretion／Margin of appreciation"
+    },
+    {
+        "不信任投票／不信任案": "Vote of no confidence／Motion of no confidence"
+    },
+    {
+        "立法院委員會": "Legislative committee"
+    },
+    {
+        "立法院會期": "Term of Legislative Yuan"
+    },
+    {
+        "立法院臨時會": "Extraordinary session of Legislative Yuan"
+    },
+    {
+        "立法院休會": "Recess of Legislative Yuan"
+    },
+    {
+        "司法": "Judiciary"
+    },
+    {
+        "司法權": "Judicial power"
+    },
+    {
+        "司法院": "Judicial Yuan"
+    },
+    {
+        "司法行政；司法行政機關": "Judicial administration；Judicial administration organ"
+    },
+    {
+        "司法審判；司法審判機關": "Judicial adjudication；Judicial adjudicative organ"
+    },
+    {
+        "公務員懲戒": "Civil service discipline"
+    },
+    {
+        "特別法院": "Special court"
+    },
+    {
+        "審判權": "Judicial power"
+    },
+    {
+        "大法官": "Grand Justice of the Constitutional Court"
+    },
+    {
+        "憲法法庭": "Constitutional Court"
+    },
+    {
+        "憲法訴訟": "Constitutional litigation"
+    },
+    {
+        "憲法解釋": "Constitutional interpretation"
+    },
+    {
+        "政治問題／統治行為": "Political question"
+    },
+    {
+        "審判獨立": "Judicial independence"
+    },
+    {
+        "法官終身職": "Judicial tenure"
+    },
+    {
+        "考試": "Examination"
+    },
+    {
+        "考試權": "Examination power"
+    },
+    {
+        "考試院": "Examination Yuan"
+    },
+    {
+        "考試委員": "Council member of the Examination Yuan"
+    },
+    {
+        "公務員制度": "Civil service"
+    },
+    {
+        "監察": "Control"
+    },
+    {
+        "監察權": "Control power"
+    },
+    {
+        "監察院": "Control Yuan／Ombudsman Yuan"
+    },
+    {
+        "監察委員": "Member of the Control  Yuan／Control Yuan commissioner"
+    },
+    {
+        "審計": "Audit"
+    },
+    {
+        "彈劾": "Impeachment"
+    },
+    {
+        "審計部": "National Audit Office"
+    },
+    {
+        "審計長": "Auditor General"
+    },
+    {
+        "國家銀行；中央銀行": "National bank；Central bank"
+    },
+    {
+        "幣制": "Currency system"
+    },
+    {
+        "獨立機關": "Independent regulatory agency"
+    },
+    {
+        "中央／中央政府": "Central government"
+    },
+    {
+        "地方／地方政府": "Municipal government"
+    },
+    {
+        "地方自治": "Local self-governance"
+    },
+    {
+        "地方自治團體": "Local self-governing body"
+    },
+    {
+        "省": "Province"
+    },
+    {
+        "直轄市": "Special municipality／Direct-controlled municipality"
+    },
+    {
+        "縣（市）": "County"
+    },
+    {
+        "市": "Provincial municipality"
+    },
+    {
+        "鄉、鎮、市": "Township；Township；City"
+    },
+    {
+        "婦女保障名額": "Reserved seats for women／Quota for women "
+    },
+    {
+        "聯合國": "United Nations"
+    },
+    {
+        "條約": "Treaty"
+    },
+    {
+        "僑民": "Citizens residing abroad"
+    },
+    {
+        "民生主義": "Principle of peoples' welfare"
+    },
+    {
+        "法規範憲法審查(案件)": "Constitutionality of Laws"
+    },
+    {
+        "裁判憲法審查(案件)": "Constitutional Complaints"
+    },
+    {
+        "機關爭議(案件)": "Disputes between constitutional organs"
+    },
+    {
+        "總統、副總統彈劾(案件)": "Impeachment of President or Vice President/ Presidential impeachment"
+    },
+    {
+        "政黨違憲解散(案件)": "Dissolution of unconstitutional political parties"
+    },
+    {
+        "地方自治保障(案件)": "Local government/Local self-government"
+    },
+    {
+        "統一解釋法律及命令(案件)": "Uniform interpretation of statutes and regulations"
+    },
+    {
+        "審查庭": "Chamber"
+    },
+    {
+        "憲法法庭審理規則": "Rules of the Constitutional Court"
+    },
+    {
+        "當事人": "Parties"
+    },
+    {
+        "聲請人": "Petitioner"
+    },
+    {
+        "申請之相對人": "Respondent"
+    },
+    {
+        "共同聲請人": "Multiple petitioners"
+    },
+    {
+        "訴訟代理人": "Advocates/ Counsels"
+    },
+    {
+        "一致決": "Unanimity"
+    },
+    {
+        "聲請書": "Petition/Pleading"
+    },
+    {
+        "答辯書": "Reply briefs/ Briefs in opposition"
+    },
+    {
+        "言詞辯論": "Oral argument"
+    },
+    {
+        "法庭之友意見": "amicus curiae brief"
+    },
+    {
+        "鑑定意見": "Expert opinion"
+    },
+    {
+        "自行迴避": "Recusal sua sponte"
+    },
+    {
+        "聲請迴避": "Recusal by motion/Motion to recusal"
+    },
+    {
+        "諭知": "Implementation declaration"
+    },
+    {
+        "協同意見書": "Concurring opinion"
+    },
+    {
+        "不同意見書": "Dissenting opinion"
+    },
+    {
+        "判決": "Judgment"
+    },
+    {
+        "裁定": "Ruling/ Order of the Court"
+    },
+    {
+        "裁判": "Court decisions"
+    },
+    {
+        "實體裁定": "Ruling on the merits"
+    },
+    {
+        "合憲": "Constitutional"
+    },
+    {
+        "違憲": "Unconstitutional"
+    },
+    {
+        "合憲宣告": "Declaration of constitutionality"
+    },
+    {
+        "違憲宣告": "Declaration of unconstitutionality"
+    },
+    {
+        "單純違憲宣告": "Declaration of unconstitutionality without nullity"
+    },
+    {
+        "警告性裁判": "Admonitory decision"
+    },
+    {
+        "立即失效": "Void immediately/ Void ex nunc"
+    },
+    {
+        "定期失效": "Void after a period of time"
+    },
+    {
+        "溯及失效": "Void retrospectively/ Void ex tunc"
+    },
+    {
+        "暫時處分": "Preliminary injunction/Temporary injunction/Provisional remedies"
+    },
+    {
+        "行政程序法": "Administrative Procedure Act"
+    },
+    {
+        "行政程序": "Administrative procedure"
+    },
+    {
+        "行政機關": "Administrative agency/ Executive agency/Agency/Authority"
+    },
+    {
+        "行政處分": "Administrative act/ Administrative decision"
+    },
+    {
+        "行政契約": "Administrative contract"
+    },
+    {
+        "法規命令": "Agency rules/ Agency regulations"
+    },
+    {
+        "行政規則": "Directives/ Guidance / Memorandums of understanding (MOUs)"
+    },
+    {
+        "行政計畫": "Plan"
+    },
+    {
+        "公權力之受託人": "Beliehener (German)"
+    },
+    {
+        "公權力授與；行政委託": "Beleihung (German)"
+    },
+    {
+        "行政助手": "Vicarious agent of the government"
+    },
+    {
+        "一般法律原則": "General principles of law"
+    },
+    {
+        "行政行為": "Administrative action"
+    },
+    {
+        "依法行政原則": "Principle of administrative legality/ Principle of legality in administrative law"
+    },
+    {
+        "法律保留原則": "Gesetzesvorbehalt principle (Statutory reservation)/cf. non-delegation doctrine"
+    },
+    {
+        "法律優先原則": "Principle of statutory primacy/Gesetzesvorrang principle"
+    },
+    {
+        "明確性原則": "Vagueness doctrine/ Void for vaguness"
+    },
+    {
+        "平等原則": "Principle of equality/ Equal protection of law"
+    },
+    {
+        "差別待遇": "Disparate treatment/ Differential treatment/ Discrimination"
+    },
+    {
+        "適當性原則": "Principle of suitability / Principle of adequacy"
+    },
+    {
+        "必要性原則": "Principle of necessity"
+    },
+    {
+        "狹義比例原則": "Principle of proportionality stricto sensu"
+    },
+    {
+        "信賴保護原則": "Doctrine/ Principle of legitimate expectation"
+    },
+    {
+        "誠實信用原則": "Principle of good faith"
+    },
+    {
+        "禁止溯及既往": "Ex post facto prohibition"
+    },
+    {
+        "真正溯及": "Retroactive effect"
+    },
+    {
+        "不真正溯及": "Indirectly retroactive effect/Pseudo-retroactive effect"
+    },
+    {
+        "過渡條款": "Transitional arrangements / Transitional provisions"
+    },
+    {
+        "裁量": "Discretion"
+    },
+    {
+        "裁量餘地": "Leeway/ Room for discretion"
+    },
+    {
+        "決定裁量": "Discretion to take no action"
+    },
+    {
+        "選擇裁量": "Discretionary selection"
+    },
+    {
+        "裁量拘束": "Bounded discretion"
+    },
+    {
+        "裁量基準": "Discretion guidelines"
+    },
+    {
+        "合義務裁量": "Duty-bound discretion/ Due discretion"
+    },
+    {
+        "裁量瑕疵": "Abuse of discretion/Arbitrary and capricious use of discretion/Defective exercise of discretion"
+    },
+    {
+        "裁量逾越": "Abuse of discretion/Excess of discretion"
+    },
+    {
+        "裁量濫用": "Abuse of discretion"
+    },
+    {
+        "裁量收縮": "Diminished discretion"
+    },
+    {
+        "裁量縮減至零": "No discretion"
+    },
+    {
+        "選擇裁量怠惰/ 決定裁量怠惰": "Failure to exercise discretion"
+    },
+    {
+        "不確定法律概念": "Indeterminate legal term"
+    },
+    {
+        "判斷餘地": "Margin of judgment/Chevron deference"
+    },
+    {
+        "規範授權理論": "Statutory delegation"
+    },
+    {
+        "管轄權": "Jurisdiction"
+    },
+    {
+        "土地管轄": "Territorial jurisdiction"
+    },
+    {
+        "事物管轄": "Subject-matter jurisdiction"
+    },
+    {
+        "層級管轄": "Hierarchical jurisdiction"
+    },
+    {
+        "功能管轄": "Functional jurisdiction"
+    },
+    {
+        "管轄競合": "Overlapping jurisdictions/Competing jurisdictions/Concurrent jurisdictions"
+    },
+    {
+        "管轄爭議": "Jurisdictional dispute"
+    },
+    {
+        "指定管轄(機關)": "Designated jurisdiction"
+    },
+    {
+        "緊急管轄權": "Emergency jurisdiction"
+    },
+    {
+        "職務協助": "Interagency collaboration"
+    },
+    {
+        "當事人": "Party"
+    },
+    {
+        "行政處分之相對人": "Party subject to an administrative act / Respondent"
+    },
+    {
+        "申請人": "Applicant"
+    },
+    {
+        "行政程序之當事人能力": "Capacity to participate in administrative proceedings"
+    },
+    {
+        "行為能力": "Capacity/Capacity to act"
+    },
+    {
+        "代表人": "Representative"
+    },
+    {
+        "代理人": "Agent"
+    },
+    {
+        "輔佐人": "Assistant / Adviser"
+    },
+    {
+        "迴避": "Recusal"
+    },
+    {
+        "偏頗之虞": "Appearance of bias /Apparent bias"
+    },
+    {
+        "行政罰": "Administrative penalty/ Administrative sanction"
+    },
+    {
+        "秩序違反": "Adminstrative offense/Contravention"
+    },
+    {
+        "裁罰性不利處分": "Punitive administrative action"
+    },
+    {
+        "罰鍰": "Administrative fine/ Administrative (monetary) penalty"
+    },
+    {
+        "沒入": "Civil forfeiture/Administrative forfeiture/Administrative confiscation"
+    },
+    {
+        "責任": "Liability"
+    },
+    {
+        "追徵": "Substitute asset"
+    },
+    {
+        "追繳": "Restitution/Disgorgement"
+    },
+    {
+        "扣留": "Seizure"
+    },
+    {
+        "單一行為": "Single offense"
+    },
+    {
+        "數行為": "Multiple offenses"
+    },
+    {
+        "拘留": "Detention"
+    },
+    {
+        "裁處權時效": "Statute of limitations for sanctions"
+    },
+    {
+        "裁處程序": "Procedure for sanctions"
+    },
+    {
+        "異議": "Objection/ Complaint /Challenge"
+    },
+    {
+        "處罰法定原則": "Nulla poena sine lege / No sanction without law"
+    },
+    {
+        "禁止重複處罰/一事不二罰/一行為不二罰": "Non bis in idem/The doctrine of double jeopardy"
+    }
+]

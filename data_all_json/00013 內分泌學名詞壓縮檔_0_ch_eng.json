@@ -1,0 +1,7712 @@
+[
+    {
+        "腎結石": "nephrolithiasis"
+    },
+    {
+        "腎性尿崩症": "nephrogenic diabetes insipidus"
+    },
+    {
+        "腎鈣沉積病": "nephrocalcinosis"
+    },
+    {
+        "尼爾森氏症": "Nelson's syndrome"
+    },
+    {
+        "負回饋": "negative feedback"
+    },
+    {
+        "糖尿病脂性漸進壞死": "necrobiosis lipoidica diabeticorum"
+    },
+    {
+        "利尿鈉激素": "natriuretic hormone"
+    },
+    {
+        "鈉尿；尿鈉排泄": "natriuresis"
+    },
+    {
+        "鈉血症": "nartremia"
+    },
+    {
+        "黏液水腫昏迷": "myxedema coma"
+    },
+    {
+        "黏液水腫": "myxedema"
+    },
+    {
+        "失養性肌強直病": "myotonia dystrophica"
+    },
+    {
+        "進行性骨化肌炎": "myositis ossificans progressiva"
+    },
+    {
+        "肌病變": "myopathy"
+    },
+    {
+        "肌激酶": "myokinase"
+    },
+    {
+        "重症肌無力": "myasthenia gravis"
+    },
+    {
+        "突變": "mutation"
+    },
+    {
+        "變位酶；歧化酶": "mutase"
+    },
+    {
+        "肌": "muscle"
+    },
+    {
+        "多發性內分泌瘤病": "multiple endocrine neoplasia (MEN)"
+    },
+    {
+        "多發性內分泌腺瘤病 (MEAⅠ； Ⅱ型)": "multiple endorcrine adenomatosis (MEAⅠ; Ⅱ)"
+    },
+    {
+        "穆勒氏管抑制因子": "Müllerian inhibitory factor (MIF)"
+    },
+    {
+        "黏多糖病": "mucopolysaccharidosis"
+    },
+    {
+        "黑素細胞促素；促黑細胞素": "MSH (melanocyte-stimulating hormone)"
+    },
+    {
+        "增殖刺激活性": "MSA (multiplication-stimulating activity)"
+    },
+    {
+        "腸動素": "motilin"
+    },
+    {
+        "鑲嵌現象": "mosaicism"
+    },
+    {
+        "單神經病變": "mononeuropathy"
+    },
+    {
+        "單分子": "monomer"
+    },
+    {
+        "3-單碘-L-酪胺酸": "3-monoiodo-L-tyrosine"
+    },
+    {
+        "5'-去單碘酶": "5'-monodeiodinase"
+    },
+    {
+        "單胺氧化酶": "monoamine oxidase (MAO)"
+    },
+    {
+        "分子選殖": "molecular cloning"
+    },
+    {
+        "致有絲分裂": "mitogenesis"
+    },
+    {
+        "鹽皮質素；礦皮質素": "mineralocorticoid"
+    },
+    {
+        "礦質化": "mineralization"
+    },
+    {
+        "溢乳反射": "milk let-down reflex"
+    },
+    {
+        "牛奶－鹼劑症": "milk-alkali syndrome"
+    },
+    {
+        "中年發福": "middle-age spread"
+    },
+    {
+        "微量白蛋白尿(症)": "microalbuminuria"
+    },
+    {
+        "微腺瘤": "microadenoma"
+    },
+    {
+        "微": "micro-"
+    },
+    {
+        "主要組織相容複合體": "MHC (major histocompatibility complex)"
+    },
+    {
+        "甲[口比]丙酮試驗；甲基二[口比]啶基丙酮試驗": "methyrapone test"
+    },
+    {
+        "甲基睪固酮": "methyltestosterone"
+    },
+    {
+        "甲基去甲腎上腺素": "methylnorepinephrine"
+    },
+    {
+        "甲基偏酪胺酸": "methylmetatyrosine"
+    },
+    {
+        "甲基多巴": "methyldopa"
+    },
+    {
+        "甲硫腦素": "met-enkephalin"
+    },
+    {
+        "異染性白質失養症": "metachromatic leukodystrophy"
+    },
+    {
+        "代謝不全": "metabolic insufficiency"
+    },
+    {
+        "代謝性鹼中毒": "metabolic alkalosis"
+    },
+    {
+        "代謝性酸中毒": "metabolic acidosis"
+    },
+    {
+        "轉移": "metastasis"
+    },
+    {
+        "間質上皮": "mesenchymal epithelium"
+    },
+    {
+        "月經": "menstruation"
+    },
+    {
+        "月經週期": "menstrual cycle"
+    },
+    {
+        "停經；閉經": "menopause"
+    },
+    {
+        "初經": "menarche"
+    },
+    {
+        "多發性內分泌瘤": "MEN (multiple endocrine neoplasia)"
+    },
+    {
+        "糖尿(症)": "mellituria"
+    },
+    {
+        "抑黑素；褪黑激素": "melatonin"
+    },
+    {
+        "黑皮病": "melasma"
+    },
+    {
+        "黑促素；促黑素": "melanotropin (MSH)"
+    },
+    {
+        "黑促素細胞；促黑素細胞": "melanotropic cell"
+    },
+    {
+        "黑色素細胞促素；促黑素細胞素": "melanocyte-stimulating hormone (MSH)"
+    },
+    {
+        "黑色素細胞": "melanocyte"
+    },
+    {
+        "黑色素": "melanin"
+    },
+    {
+        "巨核細胞": "megakaryocyte"
+    },
+    {
+        "甲狀腺髓質癌；髓質性甲狀腺癌": "medullary thyroid carcinoma (MCT)"
+    },
+    {
+        "髓質 ( 性 )": "medullary"
+    },
+    {
+        "甲羥助孕酮": "medroxyprogesterone"
+    },
+    {
+        "媒": "mediate"
+    },
+    {
+        "中突": "median eminence"
+    },
+    {
+        "機制": "mechanism"
+    },
+    {
+        "馬－亞二氏症": "McCune-Albright syndrome"
+    },
+    {
+        "麥克阿德爾氏病": "McArdle's disease"
+    },
+    {
+        "年輕人成年型糖尿病": "maturity-onset diabetes of the young (MODY)"
+    },
+    {
+        "失母症": "maternal deprivation syndrome"
+    },
+    {
+        "肥胖細胞": "mast cell"
+    },
+    {
+        "雄性化": "masculinization"
+    },
+    {
+        "馬－拉二氏症": "Maroteaux-Lamy syndrome"
+    },
+    {
+        "馬麗氏病": "Marie's disease"
+    },
+    {
+        "馬方氏症": "Marfan's syndrome"
+    },
+    {
+        "消瘦": "marasmus"
+    },
+    {
+        "楓糖漿尿病": "maple syrup urine disease"
+    },
+    {
+        "甘露糖-6-磷酸受器": "mannose-6-phosphate receptor"
+    },
+    {
+        "促乳素；乳促素；泌乳素": "mammotropin"
+    },
+    {
+        "青春期乳腺發育": "adolescent mammoplasia"
+    },
+    {
+        "乳房發育": "mammoplasia"
+    },
+    {
+        "促乳腺素；乳腺促素": "mammogenic hormone"
+    },
+    {
+        "促乳腺素；乳腺促素": "mammogen"
+    },
+    {
+        "營養不良": "malnutrition"
+    },
+    {
+        "吸收不良症": "malabsorption syndrome"
+    },
+    {
+        "主要組織相容複合體": "major histocompatibility complex(MHC)"
+    },
+    {
+        "磁振造影": "magnetic resonance imaging (MRI)"
+    },
+    {
+        "巨體": "macrosomia"
+    },
+    {
+        "巨陰莖": "macrophallus"
+    },
+    {
+        "巨噬細胞生長因子": "macrophage growth factor"
+    },
+    {
+        "巨乳症": "macromastia"
+    },
+    {
+        "巨舌": "macroglossia"
+    },
+    {
+        "早熟性巨生殖器巨體": "praecox macrogenitosomia"
+    },
+    {
+        "巨生殖器巨體": "macrogenitosomia"
+    },
+    {
+        "巨腺瘤": "macroadenoma"
+    },
+    {
+        "巨": "macro-"
+    },
+    {
+        "溶酶體": "lysosome"
+    },
+    {
+        "淋巴介質": "lymphokine"
+    },
+    {
+        "黃體瘤": "luteoma"
+    },
+    {
+        "低三碘甲狀腺素症": "low T3 syndrome"
+    },
+    {
+        "低密度脂蛋白": "low-density lipoprotein (LDL)"
+    },
+    {
+        "脊柱腹凸 (交配姿勢)": "lordosis"
+    },
+    {
+        "長效甲狀腺刺激物": "long-acting thyroid stimulator (LATS)"
+    },
+    {
+        "肝": "liver"
+    },
+    {
+        "鋰": "lithium"
+    },
+    {
+        "親脂性": "lipotropism"
+    },
+    {
+        "脂促素；促脂素": "lipotropin (LPH)"
+    },
+    {
+        "脂蛋白": "lipoprotein"
+    },
+    {
+        "脂蛋白脂酶": "lipoprotein lipase (LPL)"
+    },
+    {
+        "脂肪分解": "lipolysis"
+    },
+    {
+        "類脂質": "lipoid"
+    },
+    {
+        "脂肥大": "lipohypertrophy"
+    },
+    {
+        "脂失養": "lipodystrophy"
+    },
+    {
+        "脂萎縮": "lipoatrophy"
+    },
+    {
+        "脂血症": "lipidemia"
+    },
+    {
+        "脂質": "lipid"
+    },
+    {
+        "脂血性視網膜": "lipemia retinalis"
+    },
+    {
+        "脂血症": "lipemia"
+    },
+    {
+        "脂酶": "lipase"
+    },
+    {
+        "脂酸尿": "lipaciduria"
+    },
+    {
+        "脂酸血症": "lipacidemia"
+    },
+    {
+        "似": " -like"
+    },
+    {
+        "三碘甲狀腺胺酸": "liothyronine (T3)"
+    },
+    {
+        "配位體；配合基": "ligand"
+    },
+    {
+        "黃體釋素；釋黃體素": "LHRH (luteinizing hormone releasing hormone)"
+    },
+    {
+        "黃體促素；促黃體素": "LH (luteinizing hormone)"
+    },
+    {
+        "萊迪希氏細胞；萊氏細胞": "Leydig cell"
+    },
+    {
+        "左旋甲狀腺素": "levothyroxine"
+    },
+    {
+        "白三烯": "leukotriene"
+    },
+    {
+        "白胺腦素": "leu-enkephalin"
+    },
+    {
+        "勒－奈二氏症": "Lesch-Nyhan syndrome"
+    },
+    {
+        "瘦素": "leptin"
+    },
+    {
+        "矮妖症": "leprachaunism"
+    },
+    {
+        "卵磷脂 : 膽固醇轉醯酶": "lecithin : cholesterol acyltransferase (LCAT)"
+    },
+    {
+        "勞－穆－巴－比氏症": "Laurence-Moon-Bardet-Biedl syndrome"
+    },
+    {
+        "下視丘側核": "lateral hypothalamic nuclei"
+    },
+    {
+        "拉隆氏侏儒症": "Laron dwarfism"
+    },
+    {
+        "乳促素；促乳素；泌乳素": "lactotropin"
+    },
+    {
+        "乳促素細胞；促乳素細胞；泌乳素細胞": "lactotroph"
+    },
+    {
+        "乳糖尿(症)": "lactosuria"
+    },
+    {
+        "乳酸中毒": "lactic acidosis"
+    },
+    {
+        "乳酸鹽": "lactate"
+    },
+    {
+        "泌乳；哺乳": "lactation"
+    },
+    {
+        "乳酸尿": "lactaciduria"
+    },
+    {
+        "乳酸血症": "lactacidemia"
+    },
+    {
+        "紅嬰症；惡性營養不良病": "kwashiorkor"
+    },
+    {
+        "庫斯毛耳氏呼吸": "Kussmaul respiration"
+    },
+    {
+        "克雷伯氏環路": "Kreb's cycle"
+    },
+    {
+        "克萊恩費特氏症": "Klinefelter's syndrome"
+    },
+    {
+        "克－雷二氏症": "Klein-Levin syndrome"
+    },
+    {
+        "激肽；基寧": "kinin"
+    },
+    {
+        "激肽原酶": "kininogenase"
+    },
+    {
+        "激肽原": "kininogen"
+    },
+    {
+        "基－威二氏症": "Kimmelstiel-Wilson syndrome"
+    },
+    {
+        "基－威二氏結": "Kimmelstiel-Wilson nodule"
+    },
+    {
+        "腎": "kidney"
+    },
+    {
+        "酮性低血糖症": "ketotic hypoglycemia"
+    },
+    {
+        "17-酮類固醇": "17-ketosteroid"
+    },
+    {
+        "酮類固醇": "ketosteroid"
+    },
+    {
+        "易酮病型糖尿病": "ketosis-prone diabetes"
+    },
+    {
+        "酮病": "ketosis"
+    },
+    {
+        "17-酮還原酶": "17-ketoreductase"
+    },
+    {
+        "酮尿(症)": "ketonuria"
+    },
+    {
+        "酮血症": "ketonemia"
+    },
+    {
+        "酮體": "ketone body"
+    },
+    {
+        "酮生成": "ketogenesis"
+    },
+    {
+        "17-生酮類固醇": "17-ketogenic steroid"
+    },
+    {
+        "11-酮本膽固烷酮": "11-ketoetiocholanolone"
+    },
+    {
+        "酮酸中毒": "ketoacidosis"
+    },
+    {
+        "酮酸脫氫酶缺乏": "ketoacid dehydrogenase deficiency"
+    },
+    {
+        "酮酸": "ketoacid"
+    },
+    {
+        "核型": "karyotype"
+    },
+    {
+        "角膜炎": "keratitis"
+    },
+    {
+        "卡爾門氏症": "kallmann's syndrome"
+    },
+    {
+        "血管舒緩素激肽系統": "kallikrein-kinin system"
+    },
+    {
+        "胰激肽": "kallidin"
+    },
+    {
+        "尿鉀排泄": "kaliuresis"
+    },
+    {
+        "鉀血症": "kalemia"
+    },
+    {
+        "近腎小球器": "juxtaglomerular apparatus"
+    },
+    {
+        "幼年型泛垂體低能症；垂體侏儒": "juvenile panhypopituitarism (pituitary dwarfism)"
+    },
+    {
+        "幼發型糖尿病": "juvenile-onset diabetes"
+    },
+    {
+        "碘性巴塞多氏病": "jod-Basedow's disease"
+    },
+    {
+        "碘性巴塞多氏現象": "jod-Basedow phenomenon"
+    },
+    {
+        "時差": "jet lag"
+    },
+    {
+        "噴槍": "jet injector"
+    },
+    {
+        "牙買加嘔吐病": "Jamaican vomiting sickness"
+    },
+    {
+        "J (牙買加 ) 型糖尿病": "J-type diabetes"
+    },
+    {
+        "痛痛病": "itai-itai disease"
+    },
+    {
+        "甲狀腺峽": "isthmus of thyroid gland"
+    },
+    {
+        "異戊醯輔酶A脫氫酶缺乏": "isovaleryl CoA dehydrogenase deficiency"
+    },
+    {
+        "異戊酸血症": "isovaleric acidemia"
+    },
+    {
+        "異亮胺酸催產素": "isotocin"
+    },
+    {
+        "同功激素": "isosexual precocity"
+    },
+    {
+        "同功酶": "isorenin"
+    },
+    {
+        "異妊二烯二酮": "isopregnenone"
+    },
+    {
+        "等項胰島素懸浮液": "isophane insulin suspension (NPH)"
+    },
+    {
+        "功激素": "isohormone"
+    },
+    {
+        "同酶": "isohenzyme"
+    },
+    {
+        "等臂染色體": "isochromosome"
+    },
+    {
+        "症": " -ism"
+    },
+    {
+        "胰島外套": "islet mantle"
+    },
+    {
+        "蘭格罕氏島；蘭氏小島；胰島": "islet of Langerhans"
+    },
+    {
+        "胰島細胞": "islet cell"
+    },
+    {
+        "胰島活化蛋白": "islet-activating protein"
+    },
+    {
+        "糖尿病虹膜炎": "diabetic iritis"
+    },
+    {
+        "虹膜炎": "iritis"
+    },
+    {
+        "離子載體": "ionophore"
+    },
+    {
+        "離子管道": "ion channel"
+    },
+    {
+        "離子交換層析 (色譜) 法": "ion-exchange chromatography"
+    },
+    {
+        "碘酪胺酸去鹵酶缺陷": "iodotyrosine dehalogenase defect"
+    },
+    {
+        "碘酪胺酸去鹵酶": "iodotyrosine dehalogenase"
+    },
+    {
+        "碘酪胺酸聯結": "iodotyrosine coupling"
+    },
+    {
+        "碘酪胺酸": "iodotyrosine"
+    },
+    {
+        "碘甲狀腺胺酸5'-脫碘酶": "iodothyronine 5'-deiodinase"
+    },
+    {
+        "碘甲狀腺胺酸": "iodothyronine"
+    },
+    {
+        "碘蛋白": "iodoprotein"
+    },
+    {
+        "碘球蛋白": "iodoglobulin"
+    },
+    {
+        "碘膽固醇掃描": "iodocholesterol scan"
+    },
+    {
+        "碘膽固醇": "iodocholesterol"
+    },
+    {
+        "碘中毒": "iodism"
+    },
+    {
+        "碘誘發甲狀腺腫": "iodine-induced goiter"
+    },
+    {
+        "含碘化合物": "iodine-containing compound"
+    },
+    {
+        "碘131體掃描": "iodine-131 body scan"
+    },
+    {
+        "碘腮腺炎": "iodine mumps"
+    },
+    {
+        "碘逃脫": "iodine escape"
+    },
+    {
+        "碘": "iodine"
+    },
+    {
+        "碘化": "iodination"
+    },
+    {
+        "碘化對比試劑": "iodinated contrast reagent"
+    },
+    {
+        "碘化物": "iodide"
+    },
+    {
+        "退化": "involution"
+    },
+    {
+        "無脊椎動物激素": "invertebrate hormone"
+    },
+    {
+        "轉化酶": "invertase (invertin)"
+    },
+    {
+        "介入子": "intron"
+    },
+    {
+        "靜注耐糖試驗": "intravenous glucose tolerance test (IVGTT)"
+    },
+    {
+        "蝶鞍內鈣化": "intrasellar calcification"
+    },
+    {
+        "視網膜內微血管異常": "intraretinal microvascular abnormality"
+    },
+    {
+        "細胞內液": "intracellular fluid"
+    },
+    {
+        "維生素D中毒": "intoxication by vitamin D"
+    },
+    {
+        "腸雙糖酶抑制物": "intestinal disaccharidase inhibitor"
+    },
+    {
+        "促間質細胞素；黃體促素": "interstitial cell stimulating hormone (ICSH;LH)"
+    },
+    {
+        "萊迪希氏間質細胞": "interstitial cell of Leydig"
+    },
+    {
+        "間質細胞": "interstitial cell"
+    },
+    {
+        "間歇性跛行": "intermittent claudication"
+    },
+    {
+        "中葉素；黑素細胞促素；促黑素細胞素": "intermedin"
+    },
+    {
+        "垂體中葉": "intermediate lobe of pituitary gland"
+    },
+    {
+        "中間絲蛋白": "intermediate filament protein"
+    },
+    {
+        "中密度脂蛋白": "intermediate-density lipoprotein"
+    },
+    {
+        "介白素-6": "interleukin-6 (IL-6)"
+    },
+    {
+        "介白素-5": "interleukin-5 (IL-5)"
+    },
+    {
+        "介白素-4": "interleukin-4 (IL-4)"
+    },
+    {
+        "介白素-3": "interleukin-3 (IL-3)"
+    },
+    {
+        "介白素-2": "interleukin-2 (IL-2)"
+    },
+    {
+        "介白素-1": "interleukin-1 (IL-1)"
+    },
+    {
+        "介白素": "interleukin"
+    },
+    {
+        "干擾素": "interferon"
+    },
+    {
+        "妨害物": "interceptive"
+    },
+    {
+        "智商": "intelligence quotient"
+    },
+    {
+        "胰島炎": "insulitis"
+    },
+    {
+        "胰島素瘤": "insulinoma"
+    },
+    {
+        "胰島素生成": "insulinogenesis"
+    },
+    {
+        "胰島素血症": "insulinemia"
+    },
+    {
+        "胰島素酶": "insulinase"
+    },
+    {
+        "胰島素抑制劑": "insulin-suppressing agent"
+    },
+    {
+        "胰島素分泌細胞": "insulin-secreting cell"
+    },
+    {
+        "似胰島素蛋白": "insulin-like protein"
+    },
+    {
+        "似胰島素生長肽": "insulin-like growth peptide"
+    },
+    {
+        "似胰島素生長因子結合蛋白": "insulin-like growth factor binding protein"
+    },
+    {
+        "似胰島素生長因子Ⅱ": "insulin-like growth factor Ⅱ(IGF-Ⅱ)"
+    },
+    {
+        "似胰島素生長因子Ⅰ": "insulin-like growth factor Ⅰ(IGF-Ⅰ)"
+    },
+    {
+        "胰島素-升糖型系統": "insulin-glucagon system"
+    },
+    {
+        "胰島素依賴型糖尿病": "insulin-dependent diabetes mellitus (IDDM)"
+    },
+    {
+        "胰島素耐性試驗": "insulin tolerance test"
+    },
+    {
+        "胰島素療法": "insulin therapy"
+    },
+    {
+        "胰島素刺激試驗": "insulin stimulation test"
+    },
+    {
+        "胰島素分泌顆粒": "insulin secretion granule"
+    },
+    {
+        "胰島素分泌": "insulin secretion"
+    },
+    {
+        "胰島素抗性": "insulin resistance"
+    },
+    {
+        "胰島素受器結合": "insulin receptor binding"
+    },
+    {
+        "胰島素受器": "insulin receptor"
+    },
+    {
+        "胰島素反應": "insulin reaction"
+    },
+    {
+        "胰島素泵": "insulin pump"
+    },
+    {
+        "胰島素蛋白酶": "insulin protease"
+    },
+    {
+        "胰島素性脂肪失養": "insulin lipodystrophy"
+    },
+    {
+        "胰島素筆針": "insulin pen"
+    },
+    {
+        "胰島素輸注泵": "insulin infusion pump"
+    },
+    {
+        "胰島素基因": "insulin gene"
+    },
+    {
+        "胰島素性水腫": "insulin edema"
+    },
+    {
+        "胰島素依賴": "insulin dependence"
+    },
+    {
+        "胰島素自體抗體": "insulin autoantibody"
+    },
+    {
+        "胰島素抗體": "insulin antibody"
+    },
+    {
+        "胰島素過敏": "insulin allergy"
+    },
+    {
+        "胰島素": "insulin"
+    },
+    {
+        "親胰島的": "insular-pancreatotropic"
+    },
+    {
+        "機能不全": "insufficiency"
+    },
+    {
+        "三磷酸肌醇": "inositol triphosphate"
+    },
+    {
+        "肌醇": "inositol"
+    },
+    {
+        "無機磷酸鹽": "inorganic phosphate"
+    },
+    {
+        "抑制作用": "inhibition"
+    },
+    {
+        "抑制素-F": "inhibin-F"
+    },
+    {
+        "抑制素-βB": "inhibin-βB"
+    },
+    {
+        "抑制素-βA": "inhibin-βA"
+    },
+    {
+        "抑制素-α": "inhibin-α"
+    },
+    {
+        "抑制素": "inhibin"
+    },
+    {
+        "遺傳": "inheritance"
+    },
+    {
+        "漏斗": "infundibulum"
+    },
+    {
+        "漏斗隆凸": "infundibular eminence"
+    },
+    {
+        "浸潤性眼病變": "infiltrative ophthalmopathy"
+    },
+    {
+        "浸潤性皮膚病變": "infiltrative dermopathy"
+    },
+    {
+        "不孕": "infertility"
+    },
+    {
+        "下垂體動脈": "inferior hypophysial artery"
+    },
+    {
+        "幼稚型症": "infantilism"
+    },
+    {
+        "被誘導排卵動物": "induced ovulator"
+    },
+    {
+        "誘導排卵": "induced ovulation"
+    },
+    {
+        "腸促胰液素": "incretin"
+    },
+    {
+        "失禁": "incontinence"
+    },
+    {
+        "包涵物": "inclusion"
+    },
+    {
+        "偶見瘤": "incidentaloma"
+    },
+    {
+        "先天性代謝異常": "inborn errors of metabolism"
+    },
+    {
+        "抗利尿素分泌失當": "inappropriate secretion of antidiuretic hormone"
+    },
+    {
+        "活體內": "in vivo"
+    },
+    {
+        "試管內": "in vitro"
+    },
+    {
+        "原位雜交組織化學": "in situ hybridization histochemistry"
+    },
+    {
+        "性無能；陽萎": "impotence"
+    },
+    {
+        "植入": "implantation"
+    },
+    {
+        "免疫介質": "immunotransmitter"
+    },
+    {
+        "免疫療法": "immunotherapy"
+    },
+    {
+        "免疫抑制劑": "immunosuppressive agent"
+    },
+    {
+        "免疫抑制": "immunosuppression"
+    },
+    {
+        "免疫調節": "immunoregulation"
+    },
+    {
+        "免疫反應性": "immunoreactivity"
+    },
+    {
+        "免疫組織": "immunologic tissue"
+    },
+    {
+        "免疫放射量測定": "immunoradiometric assay (IRMA)"
+    },
+    {
+        "免疫法": "immunologic method"
+    },
+    {
+        "免疫組織學": "immunohistology"
+    },
+    {
+        "免疫交叉反應": "immunologic cross-reactivity"
+    },
+    {
+        "免疫組織化學": "immunohistochemistry"
+    },
+    {
+        "免疫組織化學法": "immunohistochemical method"
+    },
+    {
+        "免疫球蛋白M": "immunoglobulin M"
+    },
+    {
+        "免疫球蛋白G": "immunoglobulin G"
+    },
+    {
+        "免疫球蛋白E": "immunoglobulin E"
+    },
+    {
+        "免疫球蛋白D": "immunoglobulin D"
+    },
+    {
+        "免疫球蛋白A": "immunoglobulin A"
+    },
+    {
+        "免疫球蛋白": "immunoglobulin"
+    },
+    {
+        "免疫螢光法": "immunofluorescence"
+    },
+    {
+        "免疫內分泌病症": "immunoendocrinopathy syndrome"
+    },
+    {
+        "免疫細胞化學技術": "immunocytochemical techinque"
+    },
+    {
+        "免疫避孕": "immunocontraception"
+    },
+    {
+        "免疫測定": "immunoassay"
+    },
+    {
+        "免疫吸附型層析 (色譜) 法": "immunoadsorbent chromatography"
+    },
+    {
+        "免疫法": "immunization"
+    },
+    {
+        "免疫": "immunity"
+    },
+    {
+        "免疫性甲狀腺炎": "immune thyroiditis"
+    },
+    {
+        "免疫系統": "immune system"
+    },
+    {
+        "免疫抑制因子": "immune suppressor"
+    },
+    {
+        "第二次免疫": "secondary immune"
+    },
+    {
+        "免疫反應分子": "immune response (IR) molecule"
+    },
+    {
+        "免疫反應": "immune response"
+    },
+    {
+        "免疫識別": "immune recognition"
+    },
+    {
+        "初次免疫": "primary immune"
+    },
+    {
+        "免疫調理素": "immune opsonin"
+    },
+    {
+        "免疫調節物": "immune modulator"
+    },
+    {
+        "免疫記憶": "immune memory"
+    },
+    {
+        "免疫溶素": "immune lysin"
+    },
+    {
+        "免疫干擾素": "immune interferon"
+    },
+    {
+        "免疫溶血素": "immune hemolysin"
+    },
+    {
+        "免疫功能": "immune function"
+    },
+    {
+        "免疫消除": "immune elimination"
+    },
+    {
+        "免疫缺乏": "immune deficiency"
+    },
+    {
+        "免疫複合體": "immune complex"
+    },
+    {
+        "免疫抗體": "immune antibody"
+    },
+    {
+        "免疫": "immune"
+    },
+    {
+        "免疫系肽": "immune-related peptide"
+    },
+    {
+        "免疫關連分子": "immune-associated (la) molecule"
+    },
+    {
+        "免疫關連抗原": "immune-associated (la) antigen"
+    },
+    {
+        "纖毛不動症": "immotile cilia syndrome"
+    },
+    {
+        "固定 (術)": "immobilization"
+    },
+    {
+        "影像異常": "imaging abnormality"
+    },
+    {
+        "患病率": "illness rate"
+    },
+    {
+        "病": "illness"
+    },
+    {
+        "骼[山脊]生檢": "iliac crest biopsy"
+    },
+    {
+        "骼 (骨)[山脊]": "iliac crest"
+    },
+    {
+        "迴腸切除術": "ileal resection or bypass"
+    },
+    {
+        "迴腸類癌瘤症": "ileal carcinoid syndrome"
+    },
+    {
+        "迴腸分路": "ileal bypass"
+    },
+    {
+        "似胰島素活性": "ILA (insulin-like activity)"
+    },
+    {
+        "似胰島素": "IL (insulin-like)"
+    },
+    {
+        "似胰島素生長因子Ⅱ": "IGF Ⅱ(insulin-like growth factor Ⅱ)"
+    },
+    {
+        "似胰島素生長因子Ⅰ": "IGF Ⅰ(insulin-like growth factor Ⅰ)"
+    },
+    {
+        "免疫球蛋白細胞": "Ig cell"
+    },
+    {
+        "胰島素依賴型糖尿病": "IDDM (insulin-dependent diabetes mellitus)"
+    },
+    {
+        "碘131-間碘苄胍掃描": "131 I-metaiodobenzylgualudine scan"
+    },
+    {
+        "碘131-間碘苄胍": "131 I-metaiodobenzylguanidine (MIBG)"
+    },
+    {
+        "艾杜糖醛酸硫酯酶缺乏症": "iduronidate sulfatase deficiency"
+    },
+    {
+        "艾杜糖醛酸酶": "α-L- iduronidase"
+    },
+    {
+        "遺傳型－抗遺傳型網狀結構論": "idiotypic-anti-idiotypic network theory"
+    },
+    {
+        "遺傳決定因素": "idiotypic determinant"
+    },
+    {
+        "特發病": "idiopathy"
+    },
+    {
+        "特發性血小板減少性紫癲": "idiopathic thrombocytopenic purpura"
+    },
+    {
+        "特發性滑膜性骨軟骨瘤症": "idiopathic synovial osteochondromatosis"
+    },
+    {
+        "特發性骨質溶解": "idiopathic osteolysis"
+    },
+    {
+        "特發性腎病症": "idiopathic nephrotic syndrome"
+    },
+    {
+        "特發性幼年骨質疏鬆症": "idiopathic juvenile osteoporosis"
+    },
+    {
+        "特發性嬰兒期高鈣血症": "idiopathic hypercalcemia of infancy"
+    },
+    {
+        "特發性水腫": "idiopathic edema"
+    },
+    {
+        "I-細胞病": "I-cell disease"
+    },
+    {
+        "I (激膽素) 細胞": "I (cck) cell"
+    },
+    {
+        "I 細胞": "I cell"
+    },
+    {
+        "醫原性肢端肥大症": "iatrogenic acromegaly"
+    },
+    {
+        "低氧": "hypoxia"
+    },
+    {
+        "低氧血症": "hypoxemia"
+    },
+    {
+        "低血容量症": "hypovolemia"
+    },
+    {
+        "換氧不足": "hypoventilation"
+    },
+    {
+        "退化": "hypotrophy"
+    },
+    {
+        "低滲壓症": "hypotonic syndrome"
+    },
+    {
+        "低張症": "hypotonia"
+    },
+    {
+        "低甲狀腺素血症": "hypothyroxinemia"
+    },
+    {
+        "缺促甲狀腺素甲狀腺低能症；缺甲狀腺促素甲狀腺低能症": "trophoprivic hypothyroidism"
+    },
+    {
+        "去除後甲狀腺低能症": "postablative hypothyroidism"
+    },
+    {
+        "幼年型甲狀腺低能症": "juvenile hypothyroidism"
+    },
+    {
+        "嬰兒型甲狀腺低能症": "infantile hypothyroidism"
+    },
+    {
+        "甲狀腺低能症": "hypothyroidism"
+    },
+    {
+        "下視丘": "hypothalamus"
+    },
+    {
+        "下視丘激素試驗": "hypothalamic hormone test"
+    },
+    {
+        "下視丘激素": "hypothalamic hormone"
+    },
+    {
+        "下視丘錯構芽瘤": "hypothalamic hamartoblastoma"
+    },
+    {
+        "下視丘巨人症": "hypothalamic gigantism"
+    },
+    {
+        "下視丘因子": "hypothalamic factor"
+    },
+    {
+        "下視丘病": "hypothalamic disease"
+    },
+    {
+        "低血壓": "hypotension"
+    },
+    {
+        "低蛋白血症": "hypoproteinemia"
+    },
+    {
+        "低助孕素症": "hypoprogestinism"
+    },
+    {
+        "發育不全": "hypoplasia"
+    },
+    {
+        "垂體低能症": "hypopituitarism"
+    },
+    {
+        "松果腺低能症": "hypopinealism"
+    },
+    {
+        "色素過少": "hypopigmentation"
+    },
+    {
+        "垂體瘤": "hypophysoma"
+    },
+    {
+        "垂體炎": "hypophysitis"
+    },
+    {
+        "垂體": "hypophysis"
+    },
+    {
+        "促垂體素；垂體促素": "hypophysiotropic hormone"
+    },
+    {
+        "垂體性腺軸": "hypophysial-gonadal axis"
+    },
+    {
+        "垂體門脈系統": "hypophysial portal system"
+    },
+    {
+        "垂體素": "hypophysial hormone"
+    },
+    {
+        "垂體切除術": "hypophysectomy"
+    },
+    {
+        "低磷酸鹽血性軟骨病": "hypophosphatemic osteomalacia"
+    },
+    {
+        "低磷酸鹽血症": "hypophosphatemia"
+    },
+    {
+        "低磷酸酶症": "hypophosphatasia"
+    },
+    {
+        "副甲狀腺低能症": "hypoparathyroidism"
+    },
+    {
+        "卵巢低能症": "hypo-ovarianism"
+    },
+    {
+        "低滲壓": "hypo-osmolality"
+    },
+    {
+        "睪丸低能": "hypo-orchidia"
+    },
+    {
+        "低鈉血症": "hyponatremia"
+    },
+    {
+        "低甲硫胺酸血症": "hypomethioninemia"
+    },
+    {
+        "低代謝": "hypometabolism"
+    },
+    {
+        "月經過少": "hypomenorrhea"
+    },
+    {
+        "低鎂血症": "hypomagnesemia"
+    },
+    {
+        "低黃體素血症": "hypolutemia"
+    },
+    {
+        "低脂蛋白血症": "hypolipoproteinemia"
+    },
+    {
+        "低脂血症": "hypolipidemia"
+    },
+    {
+        "低酮血症": "hypoketonemia"
+    },
+    {
+        "低鉀血周期性麻痺": "hypokalemic periodic paralysis"
+    },
+    {
+        "低鉀血麻痺": "hypokalemic paralysis"
+    },
+    {
+        "低鉀血鹼中毒": "hypokalemic alkalosis"
+    },
+    {
+        "低鉀血症": "hypokalemia"
+    },
+    {
+        "低胰島素症": "hypoinsulinism"
+    },
+    {
+        "低胰島素血症": "hypoinsulinemia"
+    },
+    {
+        "垂體低能症": "hypohypophysism"
+    },
+    {
+        "低性腺促素症；低促性腺素症": "hypogonadotropism"
+    },
+    {
+        "低性腺促素症；低促性腺素症": "hypogonadotropic syndrome"
+    },
+    {
+        "低性腺促素類閹症；低促性腺素類閹症": "hypogonadotropic eunuchoidism"
+    },
+    {
+        "性腺低能症": "hypogonadism"
+    },
+    {
+        "性腺低能症": "hypogonadal syndrome"
+    },
+    {
+        "似低血糖症狀": "hypoglycemic-like symptom"
+    },
+    {
+        "低血糖因子": "hypoglycemic factor"
+    },
+    {
+        "低血糖劑": "hypoglycemic agent"
+    },
+    {
+        "反應性 ( 吸收後 ) 低血糖症": "reactive (postabsorptive) hypoglycemia"
+    },
+    {
+        "後期反應性低血糖症": "late-phase reactive hypoglycemia"
+    },
+    {
+        "半乳糖誘導性低血糖症": "galactose-induced hypoglycemia"
+    },
+    {
+        "功能性( 迷走神經性 ) 低血糖症": "functional (vagotonic) hypoglycemia"
+    },
+    {
+        "果糖誘導性低血糖症": "fructose-induced hypoglycemia"
+    },
+    {
+        "胺酸誘導性低血糖症": "amino acid-induced hypoglycemia"
+    },
+    {
+        "消化道性低血糖症": "alimentary hypoglycemia"
+    },
+    {
+        "低糖血症；低血糖症": "hypoglycemia"
+    },
+    {
+        "低升糖素血症": "hypoglucagonemia"
+    },
+    {
+        "味覺減退": "hypogeusia"
+    },
+    {
+        "低能": "hypofunction"
+    },
+    {
+        "低雌性素血症": "hypoestrogenemia"
+    },
+    {
+        "渴感減退": "hypodipsia"
+    },
+    {
+        "內分泌低能": "hypocrinism"
+    },
+    {
+        "低皮質醇症": "hypocortisolism"
+    },
+    {
+        "低補體血性血管炎": "hypocomplementemic vasculitis"
+    },
+    {
+        "低檸檬酸尿症": "hypocitricuria"
+    },
+    {
+        "低檸檬酸鹽尿症": "hypocitraturia"
+    },
+    {
+        "軟骨生成減退": "hypochondroplasia"
+    },
+    {
+        "低膽固醇血症": "hypocholesterolemia"
+    },
+    {
+        "低氯血症": "hypochloremia"
+    },
+    {
+        "低鈣尿高鈣血症": "hypocalciuric hypercalcemia"
+    },
+    {
+        "低鈣尿症": "hypocalciuria"
+    },
+    {
+        "低鈣血症": "hypocalcemia"
+    },
+    {
+        "低β-脂蛋白血症": "hypobetalipoproteinemia"
+    },
+    {
+        "低雄性素症": "hypoandrogenism"
+    },
+    {
+        "低α-脂蛋白血症": "hypoalphalipoproteinemia"
+    },
+    {
+        "低醛固酮尿症": "hypoaldosteronuria"
+    },
+    {
+        "醛固酮過少症；低醛固酮症": "hypoaldosteronism"
+    },
+    {
+        "低白蛋白血症": "hypoalbuminemia"
+    },
+    {
+        "低腎上腺原症": "hypoadrenogenism"
+    },
+    {
+        "低丙胺酸血症": "hypoalaninemia"
+    },
+    {
+        "腎上腺皮質低能症": "hypoadrenocorticism"
+    },
+    {
+        "腎上腺低能症": "hypoadrenalism"
+    },
+    {
+        "感覺遲鈍": "hypesthesia;hyposthesia"
+    },
+    {
+        "高血容量症": "hypervolemia"
+    },
+    {
+        "換氣過度": "hyperventilation"
+    },
+    {
+        "高纈胺酸血症": "hypervalinemia"
+    },
+    {
+        "高尿酸尿症": "hyperuricosuria"
+    },
+    {
+        "高尿酸血症": "hyperuricemia"
+    },
+    {
+        "肥大": "hypertrophy"
+    },
+    {
+        "肥大性肺性骨關節病變": "hypertrophic pulmonary osteoarthropathy"
+    },
+    {
+        "肥大性骨關節病變": "hypertrophic osteoarthropathy"
+    },
+    {
+        "高三酸甘油酯血症": "hypertriglyceridemia"
+    },
+    {
+        "胎毛過多": "hypertrichosis lanuginosa"
+    },
+    {
+        "多毛症": "hypertrichosis"
+    },
+    {
+        "高張症；高滲壓症": "hypertonic syndrome"
+    },
+    {
+        "高甲狀腺素血症": "hyperthyroxinemia"
+    },
+    {
+        "高促甲狀腺素症；高甲狀腺促素症": "hyperthyrotropinism"
+    },
+    {
+        "高甲狀腺促素血症；高促甲狀腺素血症": "hyperthyrotropinemia"
+    },
+    {
+        "甲狀腺高能症": "hyperthyroidism"
+    },
+    {
+        "胸腺高能症": "hyperthymism"
+    },
+    {
+        "高溫": "hyperthermia"
+    },
+    {
+        "濾泡膜細胞增殖": "hyperthecosis"
+    },
+    {
+        "高血壓性視網膜病變": "hypertensive retinopathy"
+    },
+    {
+        "器官過距": "hypertelorism"
+    },
+    {
+        "高血壓": "hypertension"
+    },
+    {
+        "睡眠過度": "hypersomnia"
+    },
+    {
+        "高體促素症；高促體素症": "hypersomatotropism"
+    },
+    {
+        "性慾亢進": "hypersexuality"
+    },
+    {
+        "過敏": "hypersensitivity"
+    },
+    {
+        "過敏反應": "hypersensitivity reaction"
+    },
+    {
+        "高肌胺酸血症": "hypersarcosinemia"
+    },
+    {
+        "高腎素症": "hyperreninism"
+    },
+    {
+        "高腎素低醛固酮症": "hyperreninemic hypoaldosteronism"
+    },
+    {
+        "高腎素血症": "hyperreninemia"
+    },
+    {
+        "高反射": "hyperreflexia"
+    },
+    {
+        "高蛋白血症": "hyperproteinemia"
+    },
+    {
+        "高乳促素血症；高促乳素血症；高泌乳素血症": "hyperprolactinemia"
+    },
+    {
+        "高前胰島素血症": "hyperproinsulinemia"
+    },
+    {
+        "高前升糖素血症": "hyperproglucagonemia"
+    },
+    {
+        "增生": "hyperplasia"
+    },
+    {
+        "垂體高能症": "hyperpituitarism"
+    },
+    {
+        "松果腺高能症": "hyperpinealism"
+    },
+    {
+        "色素過多": "hyperpigmentation"
+    },
+    {
+        "高磷血症": "hyperphosphoremia"
+    },
+    {
+        "高磷酸鹽尿症": "hyperphosphaturia"
+    },
+    {
+        "高磷酸鹽血症": "hyperphosphatemia"
+    },
+    {
+        "高磷酸酶症": "hyperphosphatasia"
+    },
+    {
+        "高苯丙胺酸血症": "hyperphenylalaninemia"
+    },
+    {
+        "過食症": "hyperphagia"
+    },
+    {
+        "正常血鈣性副甲狀腺高能症": "normocalcemic hyperparathyroidism"
+    },
+    {
+        "副甲狀腺高能症": "hyperparathyroidism"
+    },
+    {
+        "高副甲狀腺肌病變": "hyperparathyroid myopathy"
+    },
+    {
+        "高氧": "hyperoxia"
+    },
+    {
+        "高草酸鹽尿症": "hyperoxaluria"
+    },
+    {
+        "卵巢高能": "hyperovarianism"
+    },
+    {
+        "幼年畸型骨外層肥厚": "hyperostosis corticalis deformans juvenilis"
+    },
+    {
+        "骨肥厚": "hyperostosis"
+    },
+    {
+        "高滲壓症": "hyperosmolar syndrome"
+    },
+    {
+        "高滲壓高血糖非酮性昏迷": "hyperosmolar hyperglycemic nonketotic coma"
+    },
+    {
+        "高滲壓(非酮性)昏迷": "hyperosmolar ( nonketotic) coma"
+    },
+    {
+        "高滲壓濃度": "hyperosmolality"
+    },
+    {
+        "高鳥胺酸血症": "hyperornithinemia"
+    },
+    {
+        "睪丸高能": "hyperorchidism"
+    },
+    {
+        "高氮血症": "hyperitremia"
+    },
+    {
+        "腎上腺樣瘤": "hypernephroma"
+    },
+    {
+        "高鈉血症": "hypernatremia"
+    },
+    {
+        "高甲硫胺酸血症": "hypermethioninemia"
+    },
+    {
+        "高代謝": "hypermetabolism"
+    },
+    {
+        "月經過多": "hypermenorrhea"
+    },
+    {
+        "高鎂尿症": "hypermagnesuria"
+    },
+    {
+        "高鎂血症": "hypermagnesemia"
+    },
+    {
+        "高離胺酸血症": "hyperlysinemia"
+    },
+    {
+        "高黃體素血症": "hyperlutemia"
+    },
+    {
+        "黃體高能": "hyperluteinization"
+    },
+    {
+        "高脂蛋白血症": "hyperlipoproteinemia"
+    },
+    {
+        "高脂血症": "hyperlipidemia"
+    },
+    {
+        "高白胺酸－異白胺酸血症": "hyperleucine-isoleucinemia"
+    },
+    {
+        "高乳酸血症": "hyperlactacidemia"
+    },
+    {
+        "高酮尿症": "hyperketonuria"
+    },
+    {
+        "高酮血症；高血酮症": "hyperketonemia"
+    },
+    {
+        "高血鉀酸中毒": "hyperkalemic acidosis"
+    },
+    {
+        "高鉀血症": "hyperkalemia"
+    },
+    {
+        "高應激性": "hyperirritability"
+    },
+    {
+        "高胰島素症": "hyperinsulinism"
+    },
+    {
+        "高胰島素血症": "hyperinsulinemia"
+    },
+    {
+        "高亞胺二肽尿症": "hyperimidodipeptiduria"
+    },
+    {
+        "高羥脯胺酸血症": "hyperhydroxyprolinemia"
+    },
+    {
+        "多汗症": "hyperhidrosis"
+    },
+    {
+        "高性腺促素症；高促性腺素症": "hypergonadotropism"
+    },
+    {
+        "高性腺促素症；高促性腺素症": "hypergonadotropic syndrome"
+    },
+    {
+        "性腺高能症": "hypergonadism"
+    },
+    {
+        "高糖血症；高血糖症": "hyperglycemia"
+    },
+    {
+        "高升糖素血症": "hyperglucagonemia"
+    },
+    {
+        "高胃泌素血症": "hypergastrinemia"
+    },
+    {
+        "高γ-球蛋白血症": "hypergammaglobulinemia"
+    },
+    {
+        "高能": "hyperfunction"
+    },
+    {
+        "高能狀態": "hyperfunctional state"
+    },
+    {
+        "高雌性素化": "hyperestrogenization"
+    },
+    {
+        "高雌性素症": "hyperestrogenism"
+    },
+    {
+        "高雌性素血症": "hyperestrogenemia"
+    },
+    {
+        "高腎上腺素血症": "hyperepinephrinemia"
+    },
+    {
+        "內分泌高能": "hyperendocrinism"
+    },
+    {
+        "妊娠劇吐": "hyperemesis gravidarum"
+    },
+    {
+        "高二元胺酸尿症": "hyperdibasicaminoaciduria"
+    },
+    {
+        "內分泌高能": "hypercrinism"
+    },
+    {
+        "高皮質醇症": "hypercortisolism"
+    },
+    {
+        "高腎上腺皮質素症": "hypercortisonism"
+    },
+    {
+        "高皮質促素症；高促皮質素症": "hypercorticotropism"
+    },
+    {
+        "腎上腺皮質高能症": "hypercorticism"
+    },
+    {
+        "高乳縻微粒血症": "hyperchylomicronemia"
+    },
+    {
+        "高膽固醇血症": "hypercholesterolemia"
+    },
+    {
+        "高氯血酸中毒": "hyperchloremic acidosis"
+    },
+    {
+        "高氯血症": "hyperchloremia"
+    },
+    {
+        "牙骨質增生": "hypercementosis"
+    },
+    {
+        "高肌肽尿症": "hypercarnosinuria"
+    },
+    {
+        "高碳酸血症": "hypercapnia"
+    },
+    {
+        "高鈣尿症；高尿鈣症": "hypercalciuria"
+    },
+    {
+        "高抑鈣素血症": "hypercalcitoninemia"
+    },
+    {
+        "高鈣血症；高血鈣症": "hypercalcemia"
+    },
+    {
+        "高緩激肽症": "hyperbradykininism"
+    },
+    {
+        "高膽紅素血症": "hyperbilirubinemia"
+    },
+    {
+        "高β-脂蛋白血症": "hyperbetalipoproteinemia"
+    },
+    {
+        "高精胺酸血症": "hyperargininemia"
+    },
+    {
+        "高脫輔基β-脂蛋白血症": "hyperapobetalipoproteinemia"
+    },
+    {
+        "雄性素過多症": "hyperandrogenism"
+    },
+    {
+        "高雄性素血症": "hyperandrogenemia"
+    },
+    {
+        "高澱粉酶血症": "hyperamylasemia"
+    },
+    {
+        "高氨血症": "hyperammonemia"
+    },
+    {
+        "高α-脂蛋白血症": "hyperalphalipoproteinemia"
+    },
+    {
+        "高醛固酮尿症": "hyperaldosteronuria"
+    },
+    {
+        "醛固酮過多症；高醛固酮症": "hyperaldosteronism"
+    },
+    {
+        "高醛固酮血症": "hyperaldosteronemia"
+    },
+    {
+        "高白蛋白血症": "hyperalbuminemia"
+    },
+    {
+        "高β-丙胺酸血症": "hyper-β-alaninemia"
+    },
+    {
+        "高丙胺酸血症": "hyperalaninemia"
+    },
+    {
+        "腎上腺皮質機能亢進症": "hyperadrenocorticism"
+    },
+    {
+        "腎上腺機能亢進": "hyperadrenalism"
+    },
+    {
+        "高活性": "hyperactivity"
+    },
+    {
+        "25-羥維生素D-1α-羥化酶": "25-hydroxyvitamin D-1α-hydroxylase"
+    },
+    {
+        "25-羥維生素D": "25-hydroxyvitamin D"
+    },
+    {
+        "1α-羥維生素D3": "1α-hydroxyvitamin D3"
+    },
+    {
+        "5-羥色胺酸": "5-hydroxytryptophan"
+    },
+    {
+        "5-羥色胺合成抑制劑": "5-hydroxytryptamine synthesis inhibitor"
+    },
+    {
+        "5-羥色胺受體拮抗劑": "5-hydroxytryptamine receptor antagonist"
+    },
+    {
+        "5-羥色胺": "5-hydroxytryptamine"
+    },
+    {
+        "18-羥四氫醛固酮": "18-hydroxytetrahydroaldosterone"
+    },
+    {
+        "3β-羥類固醇轉磺酶": "3β-hydroxysteroid sulfotransferase"
+    },
+    {
+        "20α-羥類固醇氧化還原酶": "20α-hydroxysteroid oxidoreductase"
+    },
+    {
+        "17β-羥類固醇氧化還原酶": "17β-hydroxysteroid oxidoreductase"
+    },
+    {
+        "羥類固醇氧化還原酶": "hydroxysteroid oxidoreductase"
+    },
+    {
+        "20α-羥類固醇去氫酶": "20α-hydroxysteroid dehydrogenase"
+    },
+    {
+        "17-羥類固醇去氧酶": "17-hydroxysteroid dehydrogenase"
+    },
+    {
+        "17-羥類固醇": "17-hydroxysteroid"
+    },
+    {
+        "15-羥前列腺素去氫酶": "15-hydroxyprostaglandin dehydrogenase"
+    },
+    {
+        "羥補胺酸氧化酶": "hydroxyproline oxidase"
+    },
+    {
+        "羥補胺酸": "hydroxyproline"
+    },
+    {
+        "17α-羥助孕酮己酯": "17α-hydroxyprogesterone caproate"
+    },
+    {
+        "17-羥助孕酮己酯": "17-hydroxyprogesterone caproate"
+    },
+    {
+        "羥助孕酮己酯": "hydroxyprogesterone caproate"
+    },
+    {
+        "17α-羥助孕酮": "17α-hydroxyprogesterone"
+    },
+    {
+        "17-羥助孕酮": "17-hydroxyprogesterone"
+    },
+    {
+        "11β-羥助孕酮": "11β-hydroxyprogesterone"
+    },
+    {
+        "11α-羥助孕酮": "11α-hydroxyprogesterone"
+    },
+    {
+        "C21-羥化酶缺陷": "C21-hydroxylase defect"
+    },
+    {
+        "C11-羥化酶缺陷": "C11-hydroxylase defect"
+    },
+    {
+        "21-羥化酶": "21-hydroxylase"
+    },
+    {
+        "20α-羥化酶": "20α-hydroxylase"
+    },
+    {
+        "20-羥化酶": "20-hydroxylase"
+    },
+    {
+        "17α-羥化酶": "17α-hydroxylase"
+    },
+    {
+        "11β-羥化酶": "11β-hydroxylase"
+    },
+    {
+        "16-羥雌固酮": "16-hydroxyestrone"
+    },
+    {
+        "6-羥多巴胺": "6-hydroxydopamine"
+    },
+    {
+        "18-羥去氫酶": "18-hydroxydehydrogenase"
+    },
+    {
+        "17-羥皮質酮": "17-hydroxycorticosterone"
+    },
+    {
+        "17-羥皮質類固醇": "17-hydroxycorticosteroids (17-OHCS)"
+    },
+    {
+        "3-羥皮質類固醇去氫酶": "3-hydroxycorticosteroid dehydrogenase"
+    },
+    {
+        "25-羥膽促鈣醇": "25-hydroxycholecalciferol"
+    },
+    {
+        "4-羥雄固烯二酮": "4-hydroxyandrostenedione"
+    },
+    {
+        "羥磷灰石": "hydroxyapatite"
+    },
+    {
+        "水解酶": "hydrolase"
+    },
+    {
+        "氫皮質酮": "hydrocortisone"
+    },
+    {
+        "水腦": "hydrocephalus"
+    },
+    {
+        "雜交": "hybridization"
+    },
+    {
+        "H-Y抗原": "H-Y antigen"
+    },
+    {
+        "玻糖醛酸酶": "hyaluronidase"
+    },
+    {
+        "透明質酸；玻糖醛酸": "hyaluronic acid"
+    },
+    {
+        "何氏細胞腺瘤": "Hürthle cell adenoma"
+    },
+    {
+        "體液性腦啡": "humoral endorphin"
+    },
+    {
+        "人胰生長釋因": "human pancreas GRF"
+    },
+    {
+        "人停經性腺促素；人停經促性腺素": "human menopause gonadotropin (HMG)"
+    },
+    {
+        "人白血球抗原": "human leukocyte antigen (HLA)"
+    },
+    {
+        "人絨毛膜甲狀腺促素；人絨毛膜促甲狀腺素": "human chorionic thyrotropin (HCT)"
+    },
+    {
+        "人絨毛膜體乳促素；人絨毛膜促體乳素": "human chorionic somato-mammotropin"
+    },
+    {
+        "人絨毛膜性腺促素；人絨毛膜促性腺素": "human chorionic gonadotropin"
+    },
+    {
+        "熱潮紅": "hot flushes"
+    },
+    {
+        "激素療法": "hormonotherapy"
+    },
+    {
+        "激素減少": "hormonoprivia"
+    },
+    {
+        "激素生成": "hormonopoiesis"
+    },
+    {
+        "激素原": "hormonogen"
+    },
+    {
+        "激素敏感脂酶": "hormone-sensitive lipase"
+    },
+    {
+        "激素媒介酶誘導": "hormone-mediated enzyme induction"
+    },
+    {
+        "促素": "tropic hormone "
+    },
+    {
+        "甲狀腺促素釋素；促甲狀腺素釋素": "thyrotropin releasing hormone  (TRF;TRH)"
+    },
+    {
+        "促甲狀腺素；甲狀腺促素": "thyrotropic hormone "
+    },
+    {
+        "甲狀腺促素；促甲狀腺素；甲促素": "thyroid stimulating hormone "
+    },
+    {
+        "甲狀腺激素": "thyroid hormone "
+    },
+    {
+        "類固醇激素": "steroid hormone "
+    },
+    {
+        "體乳促素；促體乳素": "somatomammotropic hormone "
+    },
+    {
+        "性激素": "sex hormone "
+    },
+    {
+        "釋素": "releasing hormone "
+    },
+    {
+        "助孕素": "progestational hormone "
+    },
+    {
+        "垂體後葉素": "posterior pituitary hormone "
+    },
+    {
+        "多肽激素": "polypeptide hormone "
+    },
+    {
+        "胎盤素": "placental hormone "
+    },
+    {
+        "肽激素": "peptide hormone "
+    },
+    {
+        "副甲狀腺素": "parathyroid hormone "
+    },
+    {
+        "神經垂體素": "neurohypophysial"
+    },
+    {
+        "黑素細胞促素；促黑素細胞素": "melanocyte stimulating hormone "
+    },
+    {
+        "促乳腺素；乳腺促素": "mammogenic hormone"
+    },
+    {
+        "泛黃體促素；泛促黃體素": "luteotropic hormone(LTH)"
+    },
+    {
+        "黃體促素；促黃體素": "luteinizing hormone(LH)"
+    },
+    {
+        "似激素因子": "hormone like factors"
+    },
+    {
+        "生乳素": "lactogenic hormone "
+    },
+    {
+        "促間質細胞素；間質細胞促素": "interstial cell-stimulating hormone "
+    },
+    {
+        "抑制性激素": "inhibitory hormone "
+    },
+    {
+        "性腺激素": "gonadal hormone "
+    },
+    {
+        "胃腸激素": "gastrointestinal hormone "
+    },
+    {
+        "致糖尿素": "diabetogenic hormone "
+    },
+    {
+        "黃體素": "corpus luteum hormone "
+    },
+    {
+        "絨毛膜促性腺素；絨毛膜性腺促素": "chorionic gonadotropic hormone "
+    },
+    {
+        "腦垂體中葉素": "chromatophorotropic hormone "
+    },
+    {
+        "類腦垂體前葉素": "anterior pituitary-like hormone "
+    },
+    {
+        "腦垂體前葉素": "anterior pituitary hormone "
+    },
+    {
+        "雄性素": "androgenic hormone "
+    },
+    {
+        "激素": "hormone"
+    },
+    {
+        "同性戀": "homosexuality"
+    },
+    {
+        "同質性": "homogeneity"
+    },
+    {
+        "衡定": "homeostasis"
+    },
+    {
+        "促組織的": "histotropic"
+    },
+    {
+        "組織球病": "histiocytosis"
+    },
+    {
+        "組織球": "histocyte"
+    },
+    {
+        "組織胺": "histamine"
+    },
+    {
+        "組織胺酶": "histaminase"
+    },
+    {
+        "多毛症": "hirsutism"
+    },
+    {
+        "海馬區": "hippocampus"
+    },
+    {
+        "羥[口引][口朶]-O- 甲基轉移酶": "HIOMT (hydroxyindole-O-methyltransferase)"
+    },
+    {
+        "門細胞": "hilar cell"
+    },
+    {
+        "高密度脂蛋白": "high-density lipoprotein (HDL)"
+    },
+    {
+        "異性戀": "heterosexuality"
+    },
+    {
+        "異質性": "heterogeneity"
+    },
+    {
+        "異染色質化": "heterochromatinization"
+    },
+    {
+        "半陰陽": "hermaphroditism"
+    },
+    {
+        "肝細胞刺激因子": "hepatocyte stimulating factor"
+    },
+    {
+        "溶血素": "hemolysin"
+    },
+    {
+        "血調理素": "hemopsonin"
+    },
+    {
+        "造血內分泌病": "hemo-endocrinopathy"
+    },
+    {
+        "造血素": "hematopoietin"
+    },
+    {
+        "造血系統": "hematopoietic system"
+    },
+    {
+        "造血": "hematopoiesis"
+    },
+    {
+        "生血；造血": "hematogenesis"
+    },
+    {
+        "輔助T細胞": "helper T cell"
+    },
+    {
+        "熱休克蛋白": "heat shock protein"
+    },
+    {
+        "橋本氏病": "Hashimoto's disease"
+    },
+    {
+        "韓－舒－克三氏病": "Hand-Schüller-Christian disease"
+    },
+    {
+        "錯構瘤": "hamartoma"
+    },
+    {
+        "男子女乳症": "gynecomastia"
+    },
+    {
+        "女子男性症；兩性畸形": "gynandrism"
+    },
+    {
+        "女子男性化；陰陽人": "gynander"
+    },
+    {
+        "腸升糖素": "gut glucagon"
+    },
+    {
+        "鳥苷酸激酶": "guanylate kinase"
+    },
+    {
+        "鳥苷酸環化酶": "guanylate cyclase"
+    },
+    {
+        "單磷酸鳥苷": "guanosine monophosphate (GMP)"
+    },
+    {
+        "三磷酸鳥苷": "GTP"
+    },
+    {
+        "生長啟動；生長催化": "growth promotant"
+    },
+    {
+        "生長素抑素": "growth hormone inhibiting hormone"
+    },
+    {
+        "生長素釋素": "growth hormone releasing hormone"
+    },
+    {
+        "生長素": "growth hormone (GH)"
+    },
+    {
+        "生長因子": "growth factor"
+    },
+    {
+        "生長": "growth"
+    },
+    {
+        "生長素釋素": "GRH;GRF"
+    },
+    {
+        "葛瑞夫茲氏病": "Graves' disease"
+    },
+    {
+        "顆粒狀莢膜細胞瘤": "granulosa-theca cell tumor"
+    },
+    {
+        "顆粒球巨噬細胞株刺激因子": "granulocyte-macrophage colony stimuluting factor (GM-CSF)"
+    },
+    {
+        "格雷夫氏濾泡": "Graafian follicle"
+    },
+    {
+        "棉子酚": "gossypol"
+    },
+    {
+        "生殖母細胞；配子母細胞": "gonocyte"
+    },
+    {
+        "生殖細胞瘤": "gonioma"
+    },
+    {
+        "性脂烷": "gonane"
+    },
+    {
+        "性腺體質": "gonadotropism"
+    },
+    {
+        "性腺釋素脈生器": "gonadotropin releasing hormone pulse generator"
+    },
+    {
+        "性腺釋素": "gonadotropin releasing hormone (GnRH)"
+    },
+    {
+        "性腺促素關連肽；促性腺素關連肽": "gonadotropin-associated peptide"
+    },
+    {
+        "絨毛膜促性腺素；絨毛膜性腺促素": "chorionic gonadotropic"
+    },
+    {
+        "促性腺素；性腺促素": "gonadotropin (gonadotrophin)"
+    },
+    {
+        "性腺促素；促性腺素": "gonadotropic hormone"
+    },
+    {
+        "促性腺細胞": "gonadotropic cell"
+    },
+    {
+        "促性腺的": "gonadotropic"
+    },
+    {
+        "性腺抑素": "gonadostatin"
+    },
+    {
+        "性腺釋素": "gonadorelin"
+    },
+    {
+        "激性腺的": "gonadokinetic"
+    },
+    {
+        "性腺發生；性腺發育": "gonadogenesis"
+    },
+    {
+        "性腺胚瘤": "gonadoblastoma"
+    },
+    {
+        "性腺": "gonad"
+    },
+    {
+        "腦下腺毛細門脈網": "gomitoli"
+    },
+    {
+        "甲狀腺腫性甲狀腺低能症": "goitrous hypothyroidism"
+    },
+    {
+        "致甲狀腺腫植物": "goitrogenic plant"
+    },
+    {
+        "致甲狀腺腫物": "goitrogen"
+    },
+    {
+        "甲狀腺腫素": "goitrin"
+    },
+    {
+        "毒性多結節性甲狀腺腫": "toxic multinodular goiter"
+    },
+    {
+        "單純性甲狀腺腫": "simple goiter"
+    },
+    {
+        "實質性甲狀腺腫": "parenchymatous goiter"
+    },
+    {
+        "非毒性甲狀腺腫": "nontoxic goiter"
+    },
+    {
+        "含羞草胺酸中毒性甲狀腺腫": "mimosine toxicosis goiter"
+    },
+    {
+        "碘性甲狀腺腫": "iodide goiter"
+    },
+    {
+        "遺傳性激素生成異常甲狀腺腫": "inherited dyshormonogenetic goiter"
+    },
+    {
+        "凸眼性甲狀腺腫": "exophthalmic goiter"
+    },
+    {
+        "地域性甲狀腺腫": "endemic goiter"
+    },
+    {
+        "瀰漫增生性甲狀腺腫": "diffuse hyperplastic goiter"
+    },
+    {
+        "瀰漫性甲狀腺腫": "diffuse goiter"
+    },
+    {
+        "先天增生性(增殖性)甲狀腺腫": "congenital hyperplastic goiter"
+    },
+    {
+        "先天性激素生成異常甲狀腺腫": "congenital dyshormonogenetic goiter"
+    },
+    {
+        "先天性甲狀腺腫": "congenital goiter"
+    },
+    {
+        "膠性甲狀腺腫": "colloid goiter"
+    },
+    {
+        "腺瘤性甲狀腺腫": "adenomatous goiter"
+    },
+    {
+        "甲狀腺腫": "goiter"
+    },
+    {
+        "性腺釋素關連肽": "GnRH-associated peptide"
+    },
+    {
+        "親糖的": "glycotropic"
+    },
+    {
+        "糖尿(症)": "glycosuria"
+    },
+    {
+        "糖化作用": "glycosylation"
+    },
+    {
+        "糖胺聚多糖": "glycosaminoglycan"
+    },
+    {
+        "糖蛋白": "glycoprotein"
+    },
+    {
+        "糖分解": "glycolysis"
+    },
+    {
+        "肝糖貯積症": "glycogenosis"
+    },
+    {
+        "肝糖分解": "glycogenolysis"
+    },
+    {
+        "肝糖生成": "glycogenesis"
+    },
+    {
+        "肝糖貯積症": "glycogen storage disease"
+    },
+    {
+        "肝糖；糖原": "glycogen"
+    },
+    {
+        "甘油；丁三醇": "glycerol"
+    },
+    {
+        "肝抗胰島素物質": "glycemin"
+    },
+    {
+        "糖血症": "glycemia"
+    },
+    {
+        "糖化作用": "glycation"
+    },
+    {
+        "糖化蛋白": "glycated protein"
+    },
+    {
+        "糖化血紅素": "glycated hemoglobin"
+    },
+    {
+        "麩胱甘肽血症": "glutathionemia"
+    },
+    {
+        "麩胱甘肽": "glutathione (GSH)"
+    },
+    {
+        "葡萄糖醛酸徑路": "glucuronic acid pathway"
+    },
+    {
+        "糖尿(症)": "glucosuria"
+    },
+    {
+        "葡萄糖苷酶": "glucosidase"
+    },
+    {
+        "葡萄糖－脂肪酸環路": "glucose-fathy acid cycle"
+    },
+    {
+        "葡萄糖失耐": "glucose intolerance"
+    },
+    {
+        "葡萄糖依賴性促胰島素肽": "glucose-dependent insulinotropic peptide"
+    },
+    {
+        "葡萄糖": "glucose"
+    },
+    {
+        "葡萄糖新生": "gluconeogenesis"
+    },
+    {
+        "激糖素": "glucokinin"
+    },
+    {
+        "葡萄糖激酶": "glucokinase"
+    },
+    {
+        "葡萄糖生成": "glucogenesis"
+    },
+    {
+        "糖皮質素反應元": "glucocorticoid response elements (GRES)"
+    },
+    {
+        "糖皮質素": "glucocorticoid"
+    },
+    {
+        "升糖素瘤": "glucagonoma"
+    },
+    {
+        "類升糖素免疫反應性": "glucagon-like immunoreactivity(GLI)"
+    },
+    {
+        "升糖素": "glucagon"
+    },
+    {
+        "舌痛": "glossodynia"
+    },
+    {
+        "舌炎": "glossitis"
+    },
+    {
+        "腎小球硬化": "glomerulosclerosis (GS)"
+    },
+    {
+        "膠細胞": "glial cell"
+    },
+    {
+        "腺": "gland"
+    },
+    {
+        "巨人症": "gigantism"
+    },
+    {
+        "巨細胞甲狀腺炎": "giant cell thyroiditis"
+    },
+    {
+        "生長素釋素": "GHRH (growth hormone releasing hormone)"
+    },
+    {
+        "生長素抑素": "GH inhibitory hormone"
+    },
+    {
+        "生長素": "GH (growth hormone)"
+    },
+    {
+        "妊娠性糖尿病": "gestational diabetes"
+    },
+    {
+        "妊娠期": "gestation period"
+    },
+    {
+        "妊娠": "gestation"
+    },
+    {
+        "助孕素": "gestagen"
+    },
+    {
+        "老人醫學；老人病學；老人學": "gerontology"
+    },
+    {
+        "老人": "gero-; geronto-"
+    },
+    {
+        "胚細胞瘤": "germinoma"
+    },
+    {
+        "胚細胞未發育": "germinal cell aplasia"
+    },
+    {
+        "胚細胞": "germinal cell"
+    },
+    {
+        "生殖細胞": "germ cell"
+    },
+    {
+        "基因型": "genotype"
+    },
+    {
+        "基因印記": "genomic imprint"
+    },
+    {
+        "基因組": "genome"
+    },
+    {
+        "生殖器": "genitalia"
+    },
+    {
+        "生殖系統∕道": "genital system/tract"
+    },
+    {
+        "生殖管": "genital duct"
+    },
+    {
+        "生殖脊": "genital ridge"
+    },
+    {
+        "基因座": "genetic locus"
+    },
+    {
+        "基因鏈結": "genetic linkage"
+    },
+    {
+        "基因密碼": "genetic code"
+    },
+    {
+        "發生；起源": "genesis"
+    },
+    {
+        "基因轉植": "gene transfer"
+    },
+    {
+        "基因轉錄": "gene transcription"
+    },
+    {
+        "基因轉譯": "gene translation"
+    },
+    {
+        "基因表現": "gene expression"
+    },
+    {
+        "基因": "gene"
+    },
+    {
+        "性別認同": "gender identity"
+    },
+    {
+        "糖尿病性胃輕癱": "gastroparesis diabeticorum"
+    },
+    {
+        "胃腸激素": "gastrointestinal hormone"
+    },
+    {
+        "胃腸類升糖素免疫反應性": "gastrointestinal glucagon-like immunoreactivity"
+    },
+    {
+        "胃腸胰軸": "gastroenteropancreatic axis"
+    },
+    {
+        "胃泌素瘤": "gastrinoma"
+    },
+    {
+        "胃泌素": "gastrin"
+    },
+    {
+        "胃滯留": "gastric stasis"
+    },
+    {
+        "胃抑肽": "gastric inhibitory peptide (GIP)"
+    },
+    {
+        "怪面症": "gargoylism"
+    },
+    {
+        "裂隙接點": "gap junction"
+    },
+    {
+        "性釋素關連肽": "GAP see GnRH-associated peptide"
+    },
+    {
+        "糖尿病性壞疽": "gangrene diabetic"
+    },
+    {
+        "壞疽": "gangrene"
+    },
+    {
+        "神經節苷脂貯積病": "gangliosidosis"
+    },
+    {
+        "神經節苷脂": "ganglioside"
+    },
+    {
+        "神經節細胞瘤": "ganglioneuroma"
+    },
+    {
+        "神經節；髓鞘囊腫": "ganglion"
+    },
+    {
+        "神經節瘤": "ganglioma"
+    },
+    {
+        "配子形成；配子發生": "gametogenesis"
+    },
+    {
+        "配子": "gamete"
+    },
+    {
+        "甘丙胺素": "galanin"
+    },
+    {
+        "泌乳停止；乳液鬱滯": "galactostasis"
+    },
+    {
+        "半乳糖血症": "galactosemia"
+    },
+    {
+        "半乳糖": "galactose"
+    },
+    {
+        "乳溢": "galactorrhea"
+    },
+    {
+        "催乳藥；輸乳管": "galactophore"
+    },
+    {
+        "半乳糖激酶": "galactokinase"
+    },
+    {
+        "半乳糖腦苷酶": "galactocerebrosidase"
+    },
+    {
+        "乳囊腫": "galactocele"
+    },
+    {
+        "促乳素": "galactin(同  prolactin)"
+    },
+    {
+        "乳血症": "galactemia"
+    },
+    {
+        "γ-胺基丁酸": "GABA( γ-aminobutyric acid)"
+    },
+    {
+        "G 蛋白": "G protein"
+    },
+    {
+        "融合基因": "fusion gene"
+    },
+    {
+        "功能性青春期前去勢症": "functional prepubertal castrate syndrome"
+    },
+    {
+        "機能病": "functional disease"
+    },
+    {
+        "機能；功能；官能": "function"
+    },
+    {
+        "熱能恆定": "fuel homeostasis"
+    },
+    {
+        "濾泡促素釋素；促濾泡素釋素": "FSH releasing hormone"
+    },
+    {
+        "果糖失耐": "fructose intolerance"
+    },
+    {
+        "果糖": "fructose"
+    },
+    {
+        "佛洛里氏症": "Fröhlich's syndrome"
+    },
+    {
+        "自由基；游離基": "free radical"
+    },
+    {
+        "部分廓清率": "fractional clearance rate"
+    },
+    {
+        "幅－阿二氏症": "Forbes-Albright syndrome"
+    },
+    {
+        "濾泡抑素；抑濾泡素": "follistatin"
+    },
+    {
+        "濾泡抑素；抑濾泡素": "folliculostatin"
+    },
+    {
+        "卵泡瘤": "folliculoma"
+    },
+    {
+        "濾泡生成": "folliculogenesis"
+    },
+    {
+        "濾泡液": "follicular fluid"
+    },
+    {
+        "濾泡停止發育": "follicular arrest"
+    },
+    {
+        "濾泡促素；促濾泡素": "follicle-stimulating hormone (FSH);follitropin"
+    },
+    {
+        "濾泡調節蛋白": "follicle regulatory protein"
+    },
+    {
+        "濾泡": "follicle"
+    },
+    {
+        "潮紅": "flushing"
+    },
+    {
+        "氟化物": "fluoride"
+    },
+    {
+        "螢光免疫測定": "fluorescence immunoassay"
+    },
+    {
+        "禁水試驗": "fluid deprivation testing"
+    },
+    {
+        "黃素腺鹼二核苷酸": "flavin adenine dinucleotide (FAD)"
+    },
+    {
+        "細針吸引": "fine-needle aspiration"
+    },
+    {
+        "打或逃反應": "fight-or-flight response"
+    },
+    {
+        "纖維性發育不良": "fibrous dysplasia"
+    },
+    {
+        "骨纖維生成不良": "fibrogenesis imperfecta ossium"
+    },
+    {
+        "纖維母細胞生長因子": "fibroblast growth factor"
+    },
+    {
+        "胎兒": "fetus"
+    },
+    {
+        "纖維母細胞": "fibroblast"
+    },
+    {
+        "胎兒-母體循環": "feto-maternal circulation"
+    },
+    {
+        "胎兒－胎盤單元": "fetal-placental unit"
+    },
+    {
+        "胎兒下視丘－腺垂體－腎上腺皮質系統": "fetal hypothalamic-adenohypophyseal-adrenocortical system"
+    },
+    {
+        "胎兒激素": "fetal hormone"
+    },
+    {
+        "胎兒內分泌功能": "fetal endocrine function"
+    },
+    {
+        "受孕；受精": "fertilization"
+    },
+    {
+        "生育力": "fertility"
+    },
+    {
+        "女 (雌) 性化症": "feminizing syndrome"
+    },
+    {
+        "女 (雌) 性化": "feminization"
+    },
+    {
+        "女 (雌) 性假陰陽症": "pseudohermaphroditism female"
+    },
+    {
+        "女 (雌) 性": "female"
+    },
+    {
+        "攝食行為": "feeding behavior"
+    },
+    {
+        "回饋": "feedback"
+    },
+    {
+        "前饋環": "feed-forward loop"
+    },
+    {
+        "脂紋": "fatty streak"
+    },
+    {
+        "肥胖鼠": "fatty (fa/fa) rat"
+    },
+    {
+        "脂肪肝": "fatty liver"
+    },
+    {
+        "脂肪酸": "fatty acid"
+    },
+    {
+        "棕色脂肪": "brown fat"
+    },
+    {
+        "空腹低血糖": "fasting hypoglycemia"
+    },
+    {
+        "空腹": "fasting"
+    },
+    {
+        "范可尼氏症": "Fanconi's syndrome"
+    },
+    {
+        "家族性抗維生素D佝僂症": "familial vitamin D-resistant rickets"
+    },
+    {
+        "家族性": "familial"
+    },
+    {
+        "輸卵管切開術": "fallotomy"
+    },
+    {
+        "輸卵管": "Fallopian tube"
+    },
+    {
+        "生糖因子；抗胰島素因子": "glycotropic factor"
+    },
+    {
+        "產乳因子": "galactopoietic factor"
+    },
+    {
+        "致糖尿病因子": "diabetogenic factor"
+    },
+    {
+        "抗胰島素因子": "anti-insulin factor"
+    },
+    {
+        "因子": "factor"
+    },
+    {
+        "促進合成代謝": "facilitated anabolism"
+    },
+    {
+        "外生殖器": "external genitalia"
+    },
+    {
+        "致突眼物": "exophthalmos producing substance"
+    },
+    {
+        "突眼": "exophthalmos"
+    },
+    {
+        "突眼性眼肌麻痺": "exophthalmic ophthalmoplegia"
+    },
+    {
+        "外介子；顯譯子": "exon"
+    },
+    {
+        "外釋作用": "exocytosis"
+    },
+    {
+        "外泌腺": "exocrine gland"
+    },
+    {
+        "外分泌": "exocrine"
+    },
+    {
+        "進化；演化": "evolution"
+    },
+    {
+        "正位分泌": "eutopic secretion"
+    },
+    {
+        "甲狀腺正能病症": "euthyroid sick syndrome"
+    },
+    {
+        "甲狀腺正能": "euthyroidism"
+    },
+    {
+        "胸腺正能": "euthymism"
+    },
+    {
+        "溢樂；欣快": "euphoria"
+    },
+    {
+        "類閹症": "eunuchoidism"
+    },
+    {
+        "類無睪者；類閹者": "eunuchoid"
+    },
+    {
+        "無睪症；去睪症；去勢現象": "eunuchism"
+    },
+    {
+        "去睪者；閹者": "eunuch"
+    },
+    {
+        "月經正常": "eumenorrhea"
+    },
+    {
+        "真核細胞": "eukaryotic cell"
+    },
+    {
+        "促性腺素正能": "eugonadotropism"
+    },
+    {
+        "正常促性腺素症": "eugonadotropic syndrome"
+    },
+    {
+        "正常血糖胰島素f鉗制術": "euglycemic insulin clamp technique"
+    },
+    {
+        "本膽烷醇酮": "etiocholanolone"
+    },
+    {
+        "羥脫水孕酮": "ethisterone"
+    },
+    {
+        "乙烯雌二醇": "ethinyl estradiol"
+    },
+    {
+        "動情週期": "estrous cycle"
+    },
+    {
+        "雌固酮": "estrone"
+    },
+    {
+        "動情素性植物": "estrogenic plant"
+    },
+    {
+        "動情素性黴菌毒素": "estrogenic mycotoxin"
+    },
+    {
+        "雌性素；動情素": "estrogen"
+    },
+    {
+        "雌三醇": "estriol"
+    },
+    {
+        "雌烯三醇": "estrenol"
+    },
+    {
+        "雌二醇": "estradiol"
+    },
+    {
+        "酯酶": "esterase"
+    },
+    {
+        "雌四醇": "estetrol"
+    },
+    {
+        "酯": "ester"
+    },
+    {
+        "食道括約肌": "esophageal sphincter"
+    },
+    {
+        "逃脫": "escape"
+    },
+    {
+        "紅血球生成素；生血素": "erythropoietin"
+    },
+    {
+        "紅血球生成": "erythropoiesis"
+    },
+    {
+        "紅血球族群形成單位": "erythroid colony forming unit"
+    },
+    {
+        "紅血球增多症": "erythrocytosis"
+    },
+    {
+        "紅血球調理素": "erythrocyte-opsonin"
+    },
+    {
+        "紅血球母細胞": "erythroblast"
+    },
+    {
+        "紅血球": "erythrocyte"
+    },
+    {
+        "麥角固醇": "ergosterol"
+    },
+    {
+        "麥角衍化物": "ergot derivative"
+    },
+    {
+        "麥角沉鈣醇": "ergocalciferol"
+    },
+    {
+        "腸蛋白酶": "erepsin"
+    },
+    {
+        "勃起困難": "erectile dysfunction"
+    },
+    {
+        "平衡透析": "equilibrium dialysis"
+    },
+    {
+        "齦瘤": "epulis"
+    },
+    {
+        "表位": "epitope"
+    },
+    {
+        "上皮": "epithelium"
+    },
+    {
+        "上皮瘤": "epithelioma"
+    },
+    {
+        "上皮絨毛膜胎盤": "epitheliochorial placenta"
+    },
+    {
+        "尿道上裂": "epispadias"
+    },
+    {
+        "松果腺": "epiphysis"
+    },
+    {
+        "[骨后]發生不全": "epiphyseal dysgenesis"
+    },
+    {
+        "[骨后]；閉合": "epiphyseal closure"
+    },
+    {
+        "去氧腎上腺素": "epinine"
+    },
+    {
+        "腎上腺素": "epinephrine"
+    },
+    {
+        "副睪子宮內膜異位症": "adenomyosis of epididymis"
+    },
+    {
+        "副睪": "epididymis"
+    },
+    {
+        "表皮": "epidermis"
+    },
+    {
+        "表皮胸腺細胞活化因子": "epidermal thymocyte activating factor"
+    },
+    {
+        "表皮生長因子": "epidermal growth factor"
+    },
+    {
+        "室管膜細胞": "ependymal cell"
+    },
+    {
+        "嗜伊紅球族群刺激分化因子": "eosinophil colony-stimulating differentiation factor"
+    },
+    {
+        "嗜伊紅球趨化因子": "eosinophil chemotactic factor"
+    },
+    {
+        "酵素引發": "enzyme induction"
+    },
+    {
+        "酵素；酶": "enzyme"
+    },
+    {
+        "環境照明": "enviromental lighting"
+    },
+    {
+        "遺尿症": "enuresis"
+    },
+    {
+        "向腸的": "enterotropic"
+    },
+    {
+        "腸病變": "enteropathy"
+    },
+    {
+        "腸激酶": "enterokinase"
+    },
+    {
+        "腸胰島軸": "enteroinsular axis"
+    },
+    {
+        "腸肝循環": "enterohepatic circulation"
+    },
+    {
+        "腸升糖素": "enteroglucagon"
+    },
+    {
+        "腸抑胃素": "enterogastrone"
+    },
+    {
+        "腸嗜鉻細胞": "enterochromaffin (EC) cell"
+    },
+    {
+        "眼球凹陷": "enophthalmos"
+    },
+    {
+        "烯醇酶": "enolase"
+    },
+    {
+        "腦素": "enkephalin"
+    },
+    {
+        "增強要素": "enhancer element"
+    },
+    {
+        "增強物": "enhancer"
+    },
+    {
+        "內毒素休克": "endotoxic shock"
+    },
+    {
+        "內皮鬆弛素": "endothelium-derived relaxing factor (EDRF)"
+    },
+    {
+        "內皮": "endothelium"
+    },
+    {
+        "內皮瘤": "endothelioma"
+    },
+    {
+        "內皮素": "endothelin"
+    },
+    {
+        "內皮細胞生長素": "endothelial cell growth factor"
+    },
+    {
+        "骨內膜骨質增生": "endosteal hyperostosis"
+    },
+    {
+        "骨內膜骨質吸收": "endosteal bone resorption"
+    },
+    {
+        "內啡": "endorphin"
+    },
+    {
+        "內質網泡": "endoplasmic reticulum vesicle"
+    },
+    {
+        "肽鏈內切酶": "endopeptidase"
+    },
+    {
+        "核酸內切酶": "endonuclease"
+    },
+    {
+        "子宮內膜": "endometrium"
+    },
+    {
+        "子宮內膜炎": "endometritis"
+    },
+    {
+        "子宮內膜異位": "endometriosis"
+    },
+    {
+        "子宮內膜瘤": "endometrioma"
+    },
+    {
+        "子宮內膜癌": "endometrial cancer"
+    },
+    {
+        "內源性時鐘": "endogenous clock"
+    },
+    {
+        "內胚層": "endoderm"
+    },
+    {
+        "內攝作用": "endocytosis"
+    },
+    {
+        "內分泌病變": "endocrinopathy"
+    },
+    {
+        "內分泌學": "endocrinology"
+    },
+    {
+        "內分泌系統": "endocrine system"
+    },
+    {
+        "內分泌反應癌": "endocrine-responsive cancer"
+    },
+    {
+        "內分泌節律": "endocrine rhythm"
+    },
+    {
+        "內分泌高血壓": "endocrine hypertension"
+    },
+    {
+        "內分泌素": "endocrine hormone"
+    },
+    {
+        "內分泌腺": "endocrine gland"
+    },
+    {
+        "內分泌功能異常": "endocrine dysfunction"
+    },
+    {
+        "內分泌細胞": "endocrine cell"
+    },
+    {
+        "內分泌腺瘤病": "endocrine adenomatosis"
+    },
+    {
+        "內分泌異常": "endocrine abnormality"
+    },
+    {
+        "內分泌": "endocrine"
+    },
+    {
+        "子宮頸內腺": "endocervical gland"
+    },
+    {
+        "地域性甲狀腺腫": "endemic goiter"
+    },
+    {
+        "地域性呆小症": "endemic cretinism"
+    },
+    {
+        "給碼": "encode"
+    },
+    {
+        "腦病變": "encephalopathy"
+    },
+    {
+        "空蝶鞍症": "empty sella syndrome"
+    },
+    {
+        "精神失依症": "emotional deprivation syndrome"
+    },
+    {
+        "血症": "emesis emia"
+    },
+    {
+        "嘔吐": "emesis"
+    },
+    {
+        "通經藥；通經法": "emmenagogue"
+    },
+    {
+        "通經的": "emmenagogic"
+    },
+    {
+        "胚癌": "embryonal carcinoma"
+    },
+    {
+        "流產": "embryotocia"
+    },
+    {
+        "胚腺瘤": "embryonal adenoma"
+    },
+    {
+        "胚組織瘤；胚胎瘤；胚瘤": "embryoma"
+    },
+    {
+        "胚發生": "embryogenesis"
+    },
+    {
+        "胚": "embryo"
+    },
+    {
+        "恩－麥二氏徑": "Embden-Meyerhof pathway"
+    },
+    {
+        "象皮病": "elephantiasis"
+    },
+    {
+        "電化學": "electrochemistry"
+    },
+    {
+        "射精": "ejaculation"
+    },
+    {
+        "類花生酸；類廿烷酸": "eicosanoid"
+    },
+    {
+        "效應器": "effector"
+    },
+    {
+        "作用；效果；反應": "effect"
+    },
+    {
+        "水腫狀態": "edematous state"
+    },
+    {
+        "水腫": "edema"
+    },
+    {
+        "葡萄膜外翻": "ectropion uveae"
+    },
+    {
+        "甲狀腺內胸腺異位": "ectopic thymus in thyroid"
+    },
+    {
+        "胸腺異位": "ectopic thymus"
+    },
+    {
+        "睪丸異位": "ectopic  testis"
+    },
+    {
+        "胸腺內副甲狀腺異位": "ectopic parathyroid in thymus"
+    },
+    {
+        "副睪內腎上腺異位": "ectopic adrenal cortex in epididymis"
+    },
+    {
+        "異位ACTH症": "ectopic ACTH syndrome"
+    },
+    {
+        "異位": "ectopic"
+    },
+    {
+        "異位": "ectopia"
+    },
+    {
+        "外胚層切除術": "ectoderm ectomy"
+    },
+    {
+        "外胚層": "ectoderm"
+    },
+    {
+        "子癇；孕婦痙攣": "eclampsia"
+    },
+    {
+        "催生；催產藥": "ecbolic"
+    },
+    {
+        "飲食異常": "eating disorder"
+    },
+    {
+        "失養": "dystrophy"
+    },
+    {
+        "甲狀腺機能障礙": "dysthyroidism"
+    },
+    {
+        "胸腺機能障礙": "dysthymia"
+    },
+    {
+        "精液異常；射精障礙": "dysspermia"
+    },
+    {
+        "異常蛋白血症": "dysproteinemia"
+    },
+    {
+        "發育不良": "dysplasia"
+    },
+    {
+        "垂體機能障礙": "dyspituitarism"
+    },
+    {
+        "松果腺機能障礙": "dyspinealism"
+    },
+    {
+        "消化不良": "dyspepsia"
+    },
+    {
+        "性交困難": "dyspareunia"
+    },
+    {
+        "胰機能障礙": "dyspancreatism"
+    },
+    {
+        "副甲狀腺機能障礙": "dysparathyroidism"
+    },
+    {
+        "多發性成骨異常": "dysostosis multiplex"
+    },
+    {
+        "骨發育障礙": "dysostosis"
+    },
+    {
+        "異常骨硬化": "dysosteosclerosis"
+    },
+    {
+        "骨發育障礙；骨發育不全": "dysosteogenesis"
+    },
+    {
+        "嗅覺異常": "dysosmia"
+    },
+    {
+        "畸形侏儒症": "dysmorphic dwarfism"
+    },
+    {
+        "痛經": "dysmenorrhea"
+    },
+    {
+        "異常脂蛋白血症": "dyslipoproteinemia"
+    },
+    {
+        "脂質代謝不全": "dyslipidosis"
+    },
+    {
+        "異常血脂症": "dyslipidemia"
+    },
+    {
+        "胰島素分泌異常": "dysinsulinism"
+    },
+    {
+        "異常免疫球蛋白血症": "dysimmunoglobulinemia"
+    },
+    {
+        "免疫障礙；免疫異常": "dysimmunity"
+    },
+    {
+        "垂體機能障礙；垂體官能不良": "dyshypophysism"
+    },
+    {
+        "內分泌障礙": "dyshormonism"
+    },
+    {
+        "流汗異常": "dyshidrosis"
+    },
+    {
+        "造血不良；造血機能不全": "dyshematopoiesis"
+    },
+    {
+        "無性胚胎瘤": "dysgerminoma"
+    },
+    {
+        "劣生的；劣種的": "dysgenic"
+    },
+    {
+        "遺傳異常": "dysgenetic"
+    },
+    {
+        "發生不全": "dysgenesis"
+    },
+    {
+        "性腺發育不良": "gonadal dysgenesia"
+    },
+    {
+        "發育不良": "dysgenesia"
+    },
+    {
+        "異常γ-球蛋白血症": "dysgammaglobulinemia"
+    },
+    {
+        "功能異常": "dysfunction"
+    },
+    {
+        "感覺異常": "dysesthesia"
+    },
+    {
+        "內分泌障礙": "dysendocrinism"
+    },
+    {
+        "腺體分泌障礙": "dyscrinism"
+    },
+    {
+        "代謝障礙": "dysbolism"
+    },
+    {
+        "異常β-脂蛋白血症": "dysbetalipoproteinemia"
+    },
+    {
+        "自主神經障礙": "dysautonomia"
+    },
+    {
+        "異常白蛋白血症": "dysalbuminemia"
+    },
+    {
+        "腎上腺皮質機能障礙": "dysadrenocorticism"
+    },
+    {
+        "腎上腺機能障礙": "dysadrenia"
+    },
+    {
+        "異常；困難；障礙": "dys-"
+    },
+    {
+        "強啡肽": "dynorphin"
+    },
+    {
+        "動力試驗": "dynamic test"
+    },
+    {
+        "腦垂體侏儒症": "pitiutary dwarfism"
+    },
+    {
+        "侏儒症": "dwarfism"
+    },
+    {
+        "侏儒": "dwarf"
+    },
+    {
+        "杜普宜特朗氏攣縮": "Dupuytren's contracture"
+    },
+    {
+        "胃傾倒症": "dumping syndrome"
+    },
+    {
+        "杜興氏肌肉失養症": "Duchenne muscular dystrophy"
+    },
+    {
+        "雙光子吸收測定法": "dual-photon absorptiometry"
+    },
+    {
+        "唐氏症": "Down's syndrome"
+    },
+    {
+        "調降": "down-regulation"
+    },
+    {
+        "多巴胺β-羥化酶": "dopamine beta-hydroxylase"
+    },
+    {
+        "多巴胺": "dopamine"
+    },
+    {
+        "L─多巴": "L-dopa"
+    },
+    {
+        "優勢卵巢濾泡": "dominant ovarian follicle"
+    },
+    {
+        "領域；部位": "domain"
+    },
+    {
+        "細長指": "dolichostenomelia"
+    },
+    {
+        "晝間節率": "diurnal rhythm"
+    },
+    {
+        "二硫鏈聯": "disulfide linkage"
+    },
+    {
+        "障礙": "disturbance"
+    },
+    {
+        "清除速度": "disposal rate"
+    },
+    {
+        "異常；障礙": "disorder"
+    },
+    {
+        "病": "disease"
+    },
+    {
+        "雙醣": "disaccharide"
+    },
+    {
+        "致飲行為": "dipsogenic behavior"
+    },
+    {
+        "複視": "diplopia"
+    },
+    {
+        "二磷酸鹽": "diphosphonate"
+    },
+    {
+        "二形性；二態現象": "dimorphism"
+    },
+    {
+        "二聚物": "dimer"
+    },
+    {
+        "二碘酪胺酸": "diiodotyrosine"
+    },
+    {
+        "二碘甲狀腺胺酸": "diiodothyronine"
+    },
+    {
+        "3；5-二碘-4-羥苯丙酮酸": "3;5-diiodo-4-hydroxyphenylpyruvic acid (DIHPPA)"
+    },
+    {
+        "二羥維生素D": "dihydroxyvitamin D"
+    },
+    {
+        "二羥苯丙胺酸去羧酶": "dihydroxyphenylalanine decarboxylase"
+    },
+    {
+        "二氫睪固酮": "dihydrotestosterone (DHT)"
+    },
+    {
+        "二氫速固醇": "dihydrotachysterol"
+    },
+    {
+        "二氫生喋啶還原酶": "dihydrobiopteridine reductase"
+    },
+    {
+        "狄喬治氏症": "Di George syndrome"
+    },
+    {
+        "瀰漫非毒性甲狀腺腫": "diffuse nontoxic goiter"
+    },
+    {
+        "分化": "differentiation"
+    },
+    {
+        "間腦症": "diencephalic syndrome"
+    },
+    {
+        "己烯雌酚": "diethylstilbesterol"
+    },
+    {
+        "二羧酸環路": "dicarboxylic acid cycle"
+    },
+    {
+        "二羧酸": "dicarboxylic acid"
+    },
+    {
+        "二丁醯環單磷酸腺苷": "dibutyryl cyclic adenosine monophosphate"
+    },
+    {
+        "畸型發育不良": "diastrophic dysplasia"
+    },
+    {
+        "蝶鞍膈": "diaphragma sella"
+    },
+    {
+        "狄－布二氏症": "Diamond-Blackfan syndrome"
+    },
+    {
+        "二醯基甘油": "diacylglycerol"
+    },
+    {
+        "致糖尿病因子": "diabetogenic factor"
+    },
+    {
+        "增生性糖尿病視網膜病變": "proliferative diabetic retinopathy"
+    },
+    {
+        "增生前糖尿病視網膜病變": "preproliferative diabetic retinopathy"
+    },
+    {
+        "背景性糖尿病視網膜病變": "background diabetic retinopathy"
+    },
+    {
+        "糖尿病視網膜病變": "diabetic retinopathy"
+    },
+    {
+        "糖尿病多發性神經病變": "diabetic polyneuropathy"
+    },
+    {
+        "糖尿病眼病變": "diabetic oculopathy"
+    },
+    {
+        "糖尿病神經病變": "diabetic neuropathy"
+    },
+    {
+        "糖尿病腎病變": "diabetic nephropathy"
+    },
+    {
+        "糖尿病肌病變": "diabetic myopathy"
+    },
+    {
+        "糖尿病脊髓病變": "diabetic myelopathy"
+    },
+    {
+        "糖尿病微血管病變": "diabetic microangiopathy"
+    },
+    {
+        "糖尿病脂血症": "diabetic lipemia"
+    },
+    {
+        "糖尿病酮酸症": "diabetic ketoacidosis"
+    },
+    {
+        "糖尿病昏迷": "diabetic coma"
+    },
+    {
+        "糖尿病肌萎縮": "diabetic amyotrophy"
+    },
+    {
+        "糖尿病": "diabetic"
+    },
+    {
+        "尿崩症": "diabetes insipidus"
+    },
+    {
+        "糖尿病": "diabetes mellitus"
+    },
+    {
+        "11-去氧皮質固酮": "11-desoxycorticosterone (DOC)"
+    },
+    {
+        "17；20-碳鏈裂解酶缺乏": "17;20-desmolase deficiency"
+    },
+    {
+        "碳鏈裂解酶": "desmolase"
+    },
+    {
+        "乾燥甲狀腺劑": "desiccated thyroid"
+    },
+    {
+        "減敏作用": "desensitization"
+    },
+    {
+        "皮膚病變": "dermopathy"
+    },
+    {
+        "皮樣囊腫": "dermoid cyst"
+    },
+    {
+        "真皮": "dermis"
+    },
+    {
+        "皮膚病": "dermatosis"
+    },
+    {
+        "皮肌炎": "dermatomyositis"
+    },
+    {
+        "皮膚劃紋症": "dermatographism"
+    },
+    {
+        "泡疹樣皮炎": "dermatitis herpetiformis"
+    },
+    {
+        "硫酸皮膚素": "dermatan sulfate"
+    },
+    {
+        "失依症；剝奪症": "deprivation syndrome"
+    },
+    {
+        "抑鬱症": "depression"
+    },
+    {
+        "奎汶氏甲狀腺炎": "De Quervain's thyroiditis"
+    },
+    {
+        "脫色": "depigmentation"
+    },
+    {
+        "去氧核糖核酸": "deoxyribonuclic acid (DNA)"
+    },
+    {
+        "去氧核糖核酸酶": "deoxyribonuclease"
+    },
+    {
+        "11-去氧皮質醇": "11-deoxycortisol"
+    },
+    {
+        "去氧皮質固酮過多症": "deoxycorticosterone excess syndrome"
+    },
+    {
+        "醋酸去氧皮質固酮": "deoxycorticosterone acetate (DOCA)"
+    },
+    {
+        "11-去氧皮質固酮": "11-deoxycorticosterone"
+    },
+    {
+        "去氧皮質固酮": "deoxycorticosterone"
+    },
+    {
+        "牙質生成": "dentinogenesis"
+    },
+    {
+        "脫髓鞘": "demyelination"
+    },
+    {
+        "失智症": "dementia"
+    },
+    {
+        "脫失；刪除": "deletion"
+    },
+    {
+        "卡斯蒂尤氏症": "Del Castillo's syndrome"
+    },
+    {
+        "青春期遲延": "delayed puberty"
+    },
+    {
+        "去碘": "deiodination"
+    },
+    {
+        "去碘酶": "deiodinase"
+    },
+    {
+        "硫酸去氫表雄固酮": "dehydroepiandrosterone sulfate (DHEAS)"
+    },
+    {
+        "去氫表雄固酮": "dehydroepiandrosterone (DHEA)"
+    },
+    {
+        "脫水": "dehydration"
+    },
+    {
+        "變性；退化": "degeneration"
+    },
+    {
+        "子宮底切除術": "defundectomy"
+    },
+    {
+        "畸形": "deformity;deformation"
+    },
+    {
+        "不足；缺乏": "deficiency"
+    },
+    {
+        "輸精管切除術": "deferentectomy"
+    },
+    {
+        "女性性徵消失": "defeminization"
+    },
+    {
+        "缺陷": "defect"
+    },
+    {
+        "聾啞症": "deaf-mutism"
+    },
+    {
+        "晨曉現象": "dawn phenomenon"
+    },
+    {
+        "道耳吞(質量單位)": "Dalton"
+    },
+    {
+        "D 細胞": "D cell"
+    },
+    {
+        "細胞溶質受器": "cytosolic receptor"
+    },
+    {
+        "細胞支架": "cytoskeletal"
+    },
+    {
+        "細胞溶質": "cytosol"
+    },
+    {
+        "細胞介素": "cytokine"
+    },
+    {
+        "細胞色素P-450 (酵素系統)": "cytochrome P-450 (enzyme system)"
+    },
+    {
+        "細胞色素": "cytochrome"
+    },
+    {
+        "細胞遲緩素": "cytochalasin"
+    },
+    {
+        "胱胺酸病": "cystinosis"
+    },
+    {
+        "胱胺酸": "cystine"
+    },
+    {
+        "囊腫纖維化": "cystic fibrosis"
+    },
+    {
+        "半胱胺酸；硫胱胺酸": "cysteine"
+    },
+    {
+        "胱硫醚尿症；半胱胺甲硫胺酸尿症": "cystathioninuria"
+    },
+    {
+        "囊腫": "cyst"
+    },
+    {
+        "醋酸環妊酮": "cyproterone acetate"
+    },
+    {
+        "獨眼畸形": "cyclopin"
+    },
+    {
+        "環磷酸醯胺": "cyclophosphamide"
+    },
+    {
+        "環核苷酸": "cyclic nucleotide"
+    },
+    {
+        "環單磷酸鳥苷": "cyclic guanosine monophosphate (cGMP)"
+    },
+    {
+        "環單磷酸腺苷": "cyclic adenosine monophosphate (cAMP)"
+    },
+    {
+        "皮附器": "cutaneous appendage"
+    },
+    {
+        "類庫欣氏症表徵": "Cushingoid feature"
+    },
+    {
+        "庫欣氏症": "Cushing's syndrome"
+    },
+    {
+        "庫欣氏病": "Cushing's disease"
+    },
+    {
+        "載卵丘": "cumulus öophorus"
+    },
+    {
+        "卵丘細胞": "cumulus cell"
+    },
+    {
+        "肘外翻": "cubitus valgus"
+    },
+    {
+        "晶鋅胰島素": "crystalline zinc insulin (CZI)"
+    },
+    {
+        "隱睪症": "cryptorchidism"
+    },
+    {
+        "隱睪的": "cryptorchid"
+    },
+    {
+        "粉碎性骨折": "crush fracture"
+    },
+    {
+        "頭頂至恥骨∕恥骨至地面比": "crown to pubis/pubis to floor ratio"
+    },
+    {
+        "克魯克氏細胞": "Crook's cell"
+    },
+    {
+        "克隆氏病": "Crohn's disease"
+    },
+    {
+        "危症": "crisis"
+    },
+    {
+        "環狀軟骨": "cricoid cartilage"
+    },
+    {
+        "克－亞二氏症": "Creutzfeldt - Jakob disease"
+    },
+    {
+        "呆小症": "cretinism"
+    },
+    {
+        "肌酐激酶": "creatinine kinase (CK)"
+    },
+    {
+        "顱咽管瘤": "craniopharyngioma"
+    },
+    {
+        "偶合": "coupling"
+    },
+    {
+        "C-肽": "C-peptide"
+    },
+    {
+        "皮固醇四醇": "cortolone"
+    },
+    {
+        "皮固五醇": "cortol"
+    },
+    {
+        "皮質酮結合球蛋白": "cortisone binding globulin"
+    },
+    {
+        "醋酸皮質酮": "cortisone acetate"
+    },
+    {
+        "皮質酮": "cortisone"
+    },
+    {
+        "皮質醇結合球蛋白": "cortisol binding globulin"
+    },
+    {
+        "皮質醇": "cortisol"
+    },
+    {
+        "皮質釋素；釋皮質促素": "corticotropin-releasing hormone (CRH)"
+    },
+    {
+        "似皮質促素中葉肽；似促皮質素中葉肽": "corticotropin-like intermediate lobe peptide (CLIP)"
+    },
+    {
+        "皮質促素；促皮質素": "corticotropin (corticotrophin)"
+    },
+    {
+        "促皮質素細胞": "corticotropic cell"
+    },
+    {
+        "皮質固醇": "corticosterone"
+    },
+    {
+        "皮質類固醇斷藥症": "corticosteroid withdrawal syndrome"
+    },
+    {
+        "皮質類固醇肌病變": "corticosteroid myopathy"
+    },
+    {
+        "皮質類固醇結合球蛋白": "corticosteroid-binding globulin (CBG)"
+    },
+    {
+        "皮質類固醇": "corticosteroid"
+    },
+    {
+        "類皮質素": "corticoid"
+    },
+    {
+        "真黃體": "corpus luteum verum"
+    },
+    {
+        "假黃體": "corpus luteum spurium"
+    },
+    {
+        "妊娠黃體；真黃體": "corpus luteum graviditatis"
+    },
+    {
+        "黃體": "corpus luteum"
+    },
+    {
+        "紅體": "corpus haemorrhagicum"
+    },
+    {
+        "心測體": "corpus cardiacum"
+    },
+    {
+        "白體": "corpus albicans; corpus albicantia"
+    },
+    {
+        "放射冠": "corona radiata"
+    },
+    {
+        "轉化酶": "converting enzyme"
+    },
+    {
+        "轉換率": "conversion ratio"
+    },
+    {
+        "傳統單位": "conventional unit"
+    },
+    {
+        "對比劑": "contrast agent"
+    },
+    {
+        "避孕": "contraception"
+    },
+    {
+        "體質性生長與青春期遲延": "constitutional delay in growth and adolescence"
+    },
+    {
+        "血親": "consanguinity"
+    },
+    {
+        "康氏症": "Conn's syndrome"
+    },
+    {
+        "先天性腎上腺增生": "congenital adrenal hyperplasia (CAH)"
+    },
+    {
+        "胚體": "conceptus"
+    },
+    {
+        "受孕": "conception"
+    },
+    {
+        "電腦斷層攝影": "computed tomography (CT)"
+    },
+    {
+        "壓迫性骨折": "compression fractrue"
+    },
+    {
+        "補體": "complement"
+    },
+    {
+        "競爭性蛋白質結合": "competitive protein binding"
+    },
+    {
+        "競爭性拮抗劑": "competitive antagonist"
+    },
+    {
+        "昏迷": "coma"
+    },
+    {
+        "初乳": "colostrum"
+    },
+    {
+        "群落刺激因子": "colony-stimulating factor"
+    },
+    {
+        "膠質腺瘤": "colloid adenoma"
+    },
+    {
+        "射線調準器": "collimator"
+    },
+    {
+        "膠原": "collagen"
+    },
+    {
+        "認知機能": "cognitive function"
+    },
+    {
+        "刀豆球蛋白A": "concanavalin A (Con A)"
+    },
+    {
+        "胚腔；體腔": "coelom"
+    },
+    {
+        "密碼": "codon"
+    },
+    {
+        "閉路系統": "closed loop system"
+    },
+    {
+        "選殖": "cloning"
+    },
+    {
+        "株": "clone"
+    },
+    {
+        "陰蒂肥大": "clitoromegaly"
+    },
+    {
+        "陰蒂": "clitoris"
+    },
+    {
+        "陰蒂肥大": "clitoral hypertrophy"
+    },
+    {
+        "指(趾)彎曲": "clinodactly"
+    },
+    {
+        "更年期": "climacterium"
+    },
+    {
+        "更年期；更年期的": "climacteric"
+    },
+    {
+        "亮細胞": "clear cell"
+    },
+    {
+        "爪形手": "claw-hand"
+    },
+    {
+        "瓜胺酸血症": "citrullinemia"
+    },
+    {
+        "腦室周圍器官": "circumventricular organ"
+    },
+    {
+        "口周圍的": "circumoral"
+    },
+    {
+        "晝夜節律": "circadian rhythm"
+    },
+    {
+        "胰凝乳酶": "chymotrypsin"
+    },
+    {
+        "乳糜": "chylomicron"
+    },
+    {
+        "柯沃氏徵": "Chvostek's sign"
+    },
+    {
+        "染色體移位": "chromosome translocation"
+    },
+    {
+        "環染色體": "chromosome ring"
+    },
+    {
+        "染色體缺損": "chromosome deletion"
+    },
+    {
+        "染色體": "chromosome"
+    },
+    {
+        "色基": "chromophore"
+    },
+    {
+        "難染細胞": "chromophobe cell"
+    },
+    {
+        "染色顆粒素": "chromogranin"
+    },
+    {
+        "色層分析": "chromatography"
+    },
+    {
+        "染色質": "chromatin"
+    },
+    {
+        "染色半體；染色單體": "chromatid"
+    },
+    {
+        "嗜鉻組織": "chromaffin tissue"
+    },
+    {
+        "嗜鉻細胞": "chromaffin cell"
+    },
+    {
+        "迷行瘤；迷芽瘤": "choristoma"
+    },
+    {
+        "絨毛取樣": "chorionic villi sampling"
+    },
+    {
+        "絨毛膜促甲狀腺素；絨毛膜甲狀腺促素": "chorionic thyrotropin"
+    },
+    {
+        "絨毛膜促體乳素；絨毛膜體乳促素": "chorionic somatomammotropin"
+    },
+    {
+        "絨毛膜促性腺素；絨毛膜性腺促素": "chorionic gonadotropin"
+    },
+    {
+        "葉狀絨毛膜": "chorion frondosum"
+    },
+    {
+        "絨毛膜": "chorion"
+    },
+    {
+        "絨毛膜癌": "choriocarcinoma"
+    },
+    {
+        "絨毛膜腺瘤": "chorioadenoma"
+    },
+    {
+        "舞蹈指痙病": "choreoathetosis"
+    },
+    {
+        "硫酸軟骨膠": "chondroitin sulfate"
+    },
+    {
+        "軟骨鈣質沉著病": "chondrocalcinosis"
+    },
+    {
+        "膽鹼乙醯轉移酶": "choline acetyltransferase"
+    },
+    {
+        "膽固醇α-羥化酶缺乏": "cholesterol-20α-hydroxylase deficiency"
+    },
+    {
+        "膽固醇碳鏈裂解酶複合體缺乏": "cholesterol desmolase complex deficiency"
+    },
+    {
+        "膽固醇碳鏈裂解酶複合體缺陷": "cholesterol desmolase complex defect"
+    },
+    {
+        "膽固醇": "cholesterol"
+    },
+    {
+        "霍亂": "cholera"
+    },
+    {
+        "膽石病": "cholelithiasis"
+    },
+    {
+        "縮膽激肽": "cholecystokinin (CCK)"
+    },
+    {
+        "膽促鈣醇；維生素D3": "cholecalciferol"
+    },
+    {
+        "氯磺丙脲": "chlorpropamide"
+    },
+    {
+        "氯丙[口泰]": "chlorpromazine"
+    },
+    {
+        "黃褐斑": "chloasma"
+    },
+    {
+        "嵌合現象": "chimerism"
+    },
+    {
+        "嵌合體": "chimera"
+    },
+    {
+        "主細胞": "chief cell"
+    },
+    {
+        "視束交叉腦池": "chiasmatic (suprasellar) cistern"
+    },
+    {
+        "吉－佛二氏症": "Chiari-Frommel syndrome"
+    },
+    {
+        "趨化性因子": "chemotactic factor"
+    },
+    {
+        "手關節病變": "cheiroarthropathy"
+    },
+    {
+        "徑路阻斷劑": "channel blocker"
+    },
+    {
+        "抑素": "chalone"
+    },
+    {
+        "剖腹產": "Cesarean section"
+    },
+    {
+        "子宮頸": "cervix"
+    },
+    {
+        "頸背脂肪墊 (水牛峰)": "cervicodorsal fat pad"
+    },
+    {
+        "子宮頸糜爛": "cervical erosion"
+    },
+    {
+        "子宮頸發育不良": "cervical dysplasia"
+    },
+    {
+        "子宮頸癌": "cervical cancer"
+    },
+    {
+        "血漿銅藍蛋白": "ceruloplasmin"
+    },
+    {
+        "藍皮素": "cerulein"
+    },
+    {
+        "頭孢菌素": "cepharosporin"
+    },
+    {
+        "細胞媒介免疫": "cell-mediated immunity (CMI)"
+    },
+    {
+        "腹的": "celiac"
+    },
+    {
+        "CD4+T-輔助細胞": "CD4+ T-helper cell"
+    },
+    {
+        "海綿竇": "cavernous sinus"
+    },
+    {
+        "細胞溶解": "cathepsin"
+    },
+    {
+        "兒茶酚-O-甲基轉移酶": "catechol-O-methyl transferase (COMT)"
+    },
+    {
+        "兒茶酚胺": "catecholamine"
+    },
+    {
+        "兒茶酚": "catechol"
+    },
+    {
+        "白內障": "cataract"
+    },
+    {
+        "催化劑；催化作用": "catalyst"
+    },
+    {
+        "僵住症；強直性昏厥": "catalepsy"
+    },
+    {
+        "退化": "catagenesis"
+    },
+    {
+        "退化期": "catagen"
+    },
+    {
+        "異化代謝": "catabolism"
+    },
+    {
+        "異化的": "catabolic"
+    },
+    {
+        "閹；去勢": "castration"
+    },
+    {
+        "木薯": "cassava"
+    },
+    {
+        "軟骨促長肽": "cartilage growth-promoting peptide"
+    },
+    {
+        "軟骨": "cartilage"
+    },
+    {
+        "帶體傳送": "carrier- mediated transport"
+    },
+    {
+        "婉足痙攣": "carpopedal spasm"
+    },
+    {
+        "帶體；載體": "carrier"
+    },
+    {
+        "腕隧道症": "carpotunnel syndrome"
+    },
+    {
+        "頸動脈海綿竇血管瘤": "carotid cavernous aneurysm"
+    },
+    {
+        "胡蘿蔔素黃皮症": "carotenoderma"
+    },
+    {
+        "胡蘿蔔素血症": "carotenemia"
+    },
+    {
+        "肉鹼缺乏": "carnitine deficiency"
+    },
+    {
+        "心磷脂": "cardiolipin"
+    },
+    {
+        "實質癌": "solid carcinoma"
+    },
+    {
+        "泡旁癌": "parafollicular carcinoma"
+    },
+    {
+        "乳突癌": "papillary carcinoma"
+    },
+    {
+        "髓質癌": "medullary carcinoma"
+    },
+    {
+        "濾泡癌": "follicular carcinoma"
+    },
+    {
+        "未分化癌": "anaplastic carcinoma"
+    },
+    {
+        "癌": "carcinoma"
+    },
+    {
+        "類癌瘤": "carcinoid tumor"
+    },
+    {
+        "類癌症": "carcinoid syndrome"
+    },
+    {
+        "癌胚抗原": "carcinoembryonic antigen (CEA)"
+    },
+    {
+        "醣耐力": "carbohydrate tolerance"
+    },
+    {
+        "醣": "carbohydrate"
+    },
+    {
+        "癌": "cancer"
+    },
+    {
+        "疏鬆骨": "cancellous bone"
+    },
+    {
+        "熱生成": "calorigenesis"
+    },
+    {
+        "攜鈣蛋白": "calmodulin"
+    },
+    {
+        "鈣五胃泌素試驗": "calcium-pentagastrin test"
+    },
+    {
+        "鈣徑": "calcium channel"
+    },
+    {
+        "鈣": "calcium"
+    },
+    {
+        "促鈣三醇；維生素D3": "calcitriol"
+    },
+    {
+        "抑鈣素基因系肽": "calcitonin gene-related peptide (CGRP)"
+    },
+    {
+        "抑鈣素基因肽": "calcitonin gene peptide"
+    },
+    {
+        "抑鈣素": "calcitonin (CT)"
+    },
+    {
+        "鈣質沉著": "calcinosis"
+    },
+    {
+        "鈣質沉著性植物": "calcinogenic plant"
+    },
+    {
+        "鈣化": "calcification"
+    },
+    {
+        "促鈣醇；維生素D2": "calciferol"
+    },
+    {
+        "乳咖啡色斑": "cafte-au-lait spot"
+    },
+    {
+        "C 細胞": "C cell"
+    },
+    {
+        "藍皮素": "caerulein"
+    },
+    {
+        "旁路": "bypass"
+    },
+    {
+        "滑囊炎；黏液囊炎": "bursitis"
+    },
+    {
+        "貪食症": "bulimia"
+    },
+    {
+        "蟾蜍素": "bufonin"
+    },
+    {
+        "球抑胃素": "bulbogastrone"
+    },
+    {
+        "水牛峰": "buffalo hump"
+    },
+    {
+        "頰抹片分析": "buccal smear analysis"
+    },
+    {
+        "挫傷": "bruise"
+    },
+    {
+        "易瘀血": "bruisability"
+    },
+    {
+        "雜音": "bruit"
+    },
+    {
+        "布魯思效應": "Bruce effect"
+    },
+    {
+        "棕色瘤": "brown tumor"
+    },
+    {
+        "棕色脂肪": "brown fat"
+    },
+    {
+        "支氣管哮喘": "bronchial asthma"
+    },
+    {
+        "寬β病": "broad-beta disease"
+    },
+    {
+        "哺乳": "breast-feeding"
+    },
+    {
+        "胸；前胸；乳房": "breast"
+    },
+    {
+        "芥屬植物": "brassica plant"
+    },
+    {
+        "鰓弓": "branchial arches"
+    },
+    {
+        "支鏈": "branch chain"
+    },
+    {
+        "腦": "brain"
+    },
+    {
+        "腦腸軸": "brain-gut axis"
+    },
+    {
+        "緩激肽": "bradykinin"
+    },
+    {
+        "發育徐緩": "bradygenesis"
+    },
+    {
+        "徐脈": "bradycardia"
+    },
+    {
+        "短指 (趾) 畸形": "brachydactyly"
+    },
+    {
+        "短頭畸形": "brachycephaly"
+    },
+    {
+        "布爾納維氏病；腦結節狀硬化": "Bourneville's disease"
+    },
+    {
+        "硼": "boron"
+    },
+    {
+        "外生骨疣": "bony exostosis"
+    },
+    {
+        "骨更新": "bone turnover"
+    },
+    {
+        "骨吸收；骨蝕": "bone resorption"
+    },
+    {
+        "骨再成型單位": "bone remodeling unit"
+    },
+    {
+        "骨成型": "bone modeling"
+    },
+    {
+        "骨礦化": "bone mineralization"
+    },
+    {
+        "骨密度": "bone mineral density"
+    },
+    {
+        "骨礦質接合 (聚合) 速率": "bone mineral apposition rate"
+    },
+    {
+        "骨礦質": "bone mineral"
+    },
+    {
+        "骨基質": "bone matrix"
+    },
+    {
+        "骨鈣蛋白": "bone GLA ( γ-carboxyglutamate) protein (see osteocalcin)"
+    },
+    {
+        "骨形成": "bone formation"
+    },
+    {
+        "骨病": "bone disease"
+    },
+    {
+        "骨密度": "bone density"
+    },
+    {
+        "骨密度測定": "bone densitometry"
+    },
+    {
+        "骨細胞": "bone cell"
+    },
+    {
+        "骨齡": "bone age"
+    },
+    {
+        "骨生檢": "bone biopsy"
+    },
+    {
+        "鈴蟾素": "bombesin"
+    },
+    {
+        "身體質量指數": "body mass index"
+    },
+    {
+        "血睪障": "blood-testis barrier"
+    },
+    {
+        "血壓調節": "blood pressure regulation"
+    },
+    {
+        "血壓恆定": "blood pressure homeostasis"
+    },
+    {
+        "血糖": "blood glucose"
+    },
+    {
+        "血腦障": "blood-brain barrier"
+    },
+    {
+        "眨眼": "blinking"
+    },
+    {
+        "囊胚": "blastula"
+    },
+    {
+        "胚孔": "blastopore"
+    },
+    {
+        "胚球": "blastomere"
+    },
+    {
+        "胚基": "blastophore"
+    },
+    {
+        "胚細胞瘤": "blastoma"
+    },
+    {
+        "胚盤": "blastodisc;blastodisk;blastoderm"
+    },
+    {
+        "胚泡激肽；子宮球蛋白": "blastokinin"
+    },
+    {
+        "胚盤；胚層": "blastoderm"
+    },
+    {
+        "胚細胞瘤": "blastocytoma"
+    },
+    {
+        "囊胚；胚細胞": "blastocyst"
+    },
+    {
+        "生檢": "biopsy"
+    },
+    {
+        "生物活性": "biological activity (bioactivity)"
+    },
+    {
+        "生物測定": "bioassay"
+    },
+    {
+        "生物活性肽": "bioactive peptide"
+    },
+    {
+        "結合蛋白": "binding protein"
+    },
+    {
+        "膽紅素": "bilirubin"
+    },
+    {
+        "膽酸": "bile acid"
+    },
+    {
+        "雙胍": "biguanide"
+    },
+    {
+        "β鏈": "beta chain"
+    },
+    {
+        "β-細胞腫瘤": "beta-cell tumor"
+    },
+    {
+        "β-阻斷劑": "beta-blocker"
+    },
+    {
+        "β-腎上腺素受器": "beta adrenergic receptor"
+    },
+    {
+        "良性顱內高壓": "benign intracranial hypertension (BIH)"
+    },
+    {
+        "巴特氏症": "Batter's syndrome"
+    },
+    {
+        "巴塞多氏病": "Basedow's disease"
+    },
+    {
+        "基礎代謝率": "basal metabolic rate"
+    },
+    {
+        "基礎體溫": "basal body temperature (BBT)"
+    },
+    {
+        "巴氏體": "Barr body"
+    },
+    {
+        "壓力受器": "baroreceptor"
+    },
+    {
+        "帶狀角膜病變": "band keratopathy"
+    },
+    {
+        "禿": "baldness"
+    },
+    {
+        "B細胞": "B cell"
+    },
+    {
+        "無精子症": "azoospermia"
+    },
+    {
+        "體染色體隱性遺傳": "autosomal recessive inheritance"
+    },
+    {
+        "體染色體顯性遺傳": "autosomal dominant inheritance"
+    },
+    {
+        "自律神經病變": "autonomic neuropathy"
+    },
+    {
+        "自體免疫甲狀腺炎": "autoimmune thyroiditis"
+    },
+    {
+        "自體免疫多腺症": "autoimmune polyglandular syndrome"
+    },
+    {
+        "自體免疫多內分泌病變念珠菌症": "autoimmune polyendocrinopathy candidiasis syndrome (APECS)"
+    },
+    {
+        "自體免疫多內分泌症": "autoimmune polyendocrine syndrome"
+    },
+    {
+        "自體免疫疾病": "autoimmune disorder"
+    },
+    {
+        "自迴分泌": "autocrine secretion"
+    },
+    {
+        "自迴分泌": "autocrine"
+    },
+    {
+        "自體抗體": "autoantibody"
+    },
+    {
+        "萎縮": "atrophy"
+    },
+    {
+        "心房利尿鈉肽": "atrial natriuretic peptide"
+    },
+    {
+        "心房利尿鈉激素": "atrial natriuretic hormone (ANH)"
+    },
+    {
+        "心房利尿鈉因子": "atrial natriuretic factor (ANF)"
+    },
+    {
+        "閉鎖；萎縮": "atresia"
+    },
+    {
+        "三磷酸腺苷酶系": "ATPase system"
+    },
+    {
+        "無甲狀腺呆小症": "athyreotic cretinism"
+    },
+    {
+        "無甲狀腺症": "athyreosis"
+    },
+    {
+        "動脈粥樣硬化": "atherosclerosis"
+    },
+    {
+        "運動失調": "ataxia"
+    },
+    {
+        "測定": "assay"
+    },
+    {
+        "無精子症": "aspermia"
+    },
+    {
+        "天門冬醯胺酶": "asparaginase"
+    },
+    {
+        "艾思肯納齊氏細胞": "Askanazy cell"
+    },
+    {
+        "抗壞血酸；維生素C": "ascorbic acid"
+    },
+    {
+        "人工胰臟": "artificial pancreas"
+    },
+    {
+        "人工授精": "artificial insemination"
+    },
+    {
+        "小動脈硬化": "arteriolosclerosis"
+    },
+    {
+        "雄胚瘤": "arrhenoblastoma"
+    },
+    {
+        "芳香酶": "aromatase"
+    },
+    {
+        "臂距": "arm span"
+    },
+    {
+        "精胺酸增壓素": "arginine vasopressin"
+    },
+    {
+        "精胺酸": "arginine"
+    },
+    {
+        "弧形核": "arcuate nucleus"
+    },
+    {
+        "凋亡；細胞死亡": "apoptosis"
+    },
+    {
+        "脂蛋白元": "apolipoprotein"
+    },
+    {
+        "頂泌腺": "apocrine gland"
+    },
+    {
+        "無表情；淡漠": "apathy"
+    },
+    {
+        "抗甲狀腺素自體抗體": "antithyroxine autoantibody"
+    },
+    {
+        "抗甲狀腺微粒體": "antithyroid microsome"
+    },
+    {
+        "抗甲狀腺劑": "antithyroid agent"
+    },
+    {
+        "抗甲狀腺球蛋白抗體": "antithyroglobulin antibody"
+    },
+    {
+        "抗炎劑": "anti-inflammatory agent"
+    },
+    {
+        "抗組織胺": "antihistamine"
+    },
+    {
+        "抗利尿素": "antidiuretic hormone (ADH)"
+    },
+    {
+        "抗原": "antigen"
+    },
+    {
+        "抗利尿": "antidiuresis"
+    },
+    {
+        "抗糖尿劑": "antidiabetic agent"
+    },
+    {
+        "抗體": "antibody"
+    },
+    {
+        "抗雄性素": "antiandrogen"
+    },
+    {
+        "制慾的": "anterotic"
+    },
+    {
+        "前垂體": "anterior pituitary"
+    },
+    {
+        "制慾藥": "antaphrodisiac"
+    },
+    {
+        "拮抗劑": "antagonist"
+    },
+    {
+        "拮抗作用": "antagonism"
+    },
+    {
+        "無排卵": "anovulation"
+    },
+    {
+        "嗅覺缺失；無嗅覺症": "anosmia"
+    },
+    {
+        "神經性厭食症": "anorexia nervosa"
+    },
+    {
+        "無睪": "anorchia"
+    },
+    {
+        "原基": "anlage"
+    },
+    {
+        "無汗症": "anhidrosis"
+    },
+    {
+        "血管緊縮素轉化酶": "angiotensin converting enzyme (ACE)"
+    },
+    {
+        "血管緊縮素原": "angiotensinogen"
+    },
+    {
+        "血管緊縮素Ⅰ、Ⅱ": "angiotensinⅠ&Ⅱ"
+    },
+    {
+        "血管緊縮素": "angiotensin"
+    },
+    {
+        "血管形成": "angiopoiesis"
+    },
+    {
+        "血管生長": "angiogenesis"
+    },
+    {
+        "非等倍性": "aneuploidy"
+    },
+    {
+        "非發情期": "anestrus"
+    },
+    {
+        "貧血": "anemia"
+    },
+    {
+        "無性慾": "anerotism"
+    },
+    {
+        "雄固醇": "androsterone"
+    },
+    {
+        "雄固烯二酮": "androstenedione"
+    },
+    {
+        "雄固烷二酮": "androstanedione"
+    },
+    {
+        "雄固烯": "androstene"
+    },
+    {
+        "雄固烷醇酮": "androstanolone"
+    },
+    {
+        "雄固烷二醇": "androstanediol"
+    },
+    {
+        "女性男性化": "androphany"
+    },
+    {
+        "男科學": "andrology"
+    },
+    {
+        "兩性畸形": "androgyny"
+    },
+    {
+        "雄性徵症": "androgenital syndrome"
+    },
+    {
+        "生雄性徵性能": "androgenicity"
+    },
+    {
+        "雄性素生產腫瘤": "androgen-producing tumor"
+    },
+    {
+        "雄性素補療": "androgen replacement therapy"
+    },
+    {
+        "雄性素結合蛋白": "androgen binding protein (ABP)"
+    },
+    {
+        "雄性素": "androgen"
+    },
+    {
+        "男性酶": "andrase"
+    },
+    {
+        "瀰漫性雄胚瘤": "androblastoma diffusum"
+    },
+    {
+        "重度過敏": "anaphylaxis"
+    },
+    {
+        "後期遲延": "anaphase lag"
+    },
+    {
+        "後期": "anaphase"
+    },
+    {
+        "同功異構物": "analogue"
+    },
+    {
+        "止痛": "analgesia"
+    },
+    {
+        "再生": "anagenesis"
+    },
+    {
+        "生長期": "anagen"
+    },
+    {
+        "合成代謝；合成作用；同化作用": "anabolism"
+    },
+    {
+        "同化類固醇": "anabolic steroid"
+    },
+    {
+        "合成代謝的": "anabolic"
+    },
+    {
+        "肌萎縮": "amyotrophy"
+    },
+    {
+        "類澱粉變性症": "amyloidosis"
+    },
+    {
+        "澱粉素": "amylin"
+    },
+    {
+        "扁桃狀核": "amygdaloid nucleus"
+    },
+    {
+        "雙染細胞": "amphophil cell"
+    },
+    {
+        "安非他命": "amphetamine"
+    },
+    {
+        "羊水": "amnionic fluid"
+    },
+    {
+        "羊膜": "amnion"
+    },
+    {
+        "羊水穿刺術": "amniocentesis"
+    },
+    {
+        "胺基雜環化合物": "aminoheterocyclic compound"
+    },
+    {
+        "γ-胺基丁酸": "γ-aminobutyric acid (GABA)"
+    },
+    {
+        "L-胺酸脫羧酶": "L-aminoacid decarboxylase"
+    },
+    {
+        "胺先質攝取及脫羧作用": "amine precursor uptake and decarboxylation (APUD)"
+    },
+    {
+        "胺激素": "amine hormone"
+    },
+    {
+        "胺": "amine"
+    },
+    {
+        "胺化": "amination"
+    },
+    {
+        "無月經乳溢症": "amenorrhea-galactorrhea syndrome"
+    },
+    {
+        "次發性無月經": "secondary amenorrhea"
+    },
+    {
+        "精神性無月經": "psychogenic amenorrhea"
+    },
+    {
+        "原發性無月經": "primary amenorrhea"
+    },
+    {
+        "無月經": "amenorrhea"
+    },
+    {
+        "雙性發育": "ambisexual development"
+    },
+    {
+        "性器官不明": "ambiguous genitalia"
+    },
+    {
+        "α鏈": "alpha chain"
+    },
+    {
+        "α細胞": "alpha cell"
+    },
+    {
+        "α-腎上腺素反應": "alpha adrenergic response"
+    },
+    {
+        "過敏": "allergy"
+    },
+    {
+        "禿；禿髮": "alopecia"
+    },
+    {
+        "生物鹼": "alkaloid"
+    },
+    {
+        "消化系統": "alimentary system"
+    },
+    {
+        "醛固酮腺瘤": "aldosteronoma"
+    },
+    {
+        "多醛固酮症": "aldosteronism"
+    },
+    {
+        "醛固酮不足": "aldosterone deficiency"
+    },
+    {
+        "醛固酮": "aldosterone"
+    },
+    {
+        "奧耳布賴特氏遺傳性骨失養症": "Albright's hereditary osteodystrophy"
+    },
+    {
+        "白化症": "albinism"
+    },
+    {
+        "艾－蕭二氏病": "Albers-Schöberg disease"
+    },
+    {
+        "無顆粒性白血球症": "agranulocytosis"
+    },
+    {
+        "促效劑": "agonist"
+    },
+    {
+        "無性腺症": "agonadism"
+    },
+    {
+        "無生殖腺；無性腺": "agonadia"
+    },
+    {
+        "向腎上腺性": "adrenotropism"
+    },
+    {
+        "老化": "aging;ageing"
+    },
+    {
+        "解腎上腺素的": "adrenolytic"
+    },
+    {
+        "腎上腺髓素": "adrenomedullin"
+    },
+    {
+        "腎上腺腦啡": "adrenophin"
+    },
+    {
+        "腎上腺腦白質失養症": "adrenoleukodystrophy"
+    },
+    {
+        "腎上腺生殖症": "adrenogenital syndrome"
+    },
+    {
+        "腎上腺皮質促素；促腎上腺皮質素": "adrenocorticotropic hormone (ACTH)"
+    },
+    {
+        "腎上腺皮質素": "adrenocorticoid"
+    },
+    {
+        "腎上腺皮質機能不足": "adrenocortical insufficiency"
+    },
+    {
+        "腎上腺皮質低能": "adrenocortical hypofunction"
+    },
+    {
+        "腎上腺皮質素": "adrenocortical hormone"
+    },
+    {
+        "腎上腺皮質異常": "adrenocortical disorder"
+    },
+    {
+        "腎上腺皮質癌": "adrenocortical carcinoma"
+    },
+    {
+        "腎上腺皮質萎縮": "adrenocortical atrophy"
+    },
+    {
+        "腎上腺皮質腺瘤": "adrenocortical adenoma"
+    },
+    {
+        "腎上腺皮質的": "adrenocortical"
+    },
+    {
+        "腎上腺素受器": "adrenergic receptor (adrenoceptor)"
+    },
+    {
+        "腎上腺素阻斷劑": "adrenergic blocker"
+    },
+    {
+        "腎上腺素拮抗劑": "adrenergic antagonist"
+    },
+    {
+        "腎上腺素促效劑": "adrenergic agonist"
+    },
+    {
+        "腎上腺素劑": "adrenergic agent"
+    },
+    {
+        "腎上腺素性的；腎上腺素能的": "adrenergic"
+    },
+    {
+        "腎上腺類固醇": "adrenal steroid"
+    },
+    {
+        "腎上腺初徵": "adrenarche"
+    },
+    {
+        "附屬腎上腺": "adrenal rest"
+    },
+    {
+        "腎上腺儲備": "adrenal reserve"
+    },
+    {
+        "腎上腺病變": "adrenalopathy"
+    },
+    {
+        "腎上腺腫瘤": "adrenal neoplasm"
+    },
+    {
+        "腎上腺髓質": "adrenal medulla"
+    },
+    {
+        "腎上腺炎": "adrenalitis"
+    },
+    {
+        "腎上腺素尿": "adrenalinuria"
+    },
+    {
+        "腎上腺素生成": "adrenalinogenesis"
+    },
+    {
+        "腎上腺素血症": "adrenalinemia"
+    },
+    {
+        "腎上腺素": "adrenaline"
+    },
+    {
+        "似腎上腺瘤": "adrenal-like tumor"
+    },
+    {
+        "腎上腺機能不足": "adrenal insufficiency"
+    },
+    {
+        "X染色體連結性腎上腺發育不全": "X-linked adrenal hypoplasia"
+    },
+    {
+        "腎上腺發育不全": "adrenal hypoplasia"
+    },
+    {
+        "腎上腺增生": "adrenal hyperplasia"
+    },
+    {
+        "腎上腺糖皮質素": "adrenal glucocorticoid"
+    },
+    {
+        "腎上腺": "adrenal gland"
+    },
+    {
+        "腎上腺切除術": "adrenalectomy"
+    },
+    {
+        "腎上腺危症": "adrenal crisis"
+    },
+    {
+        "腎上腺皮質": "adrenal cortex"
+    },
+    {
+        "青春期": "adolescence"
+    },
+    {
+        "附屬器": "adnexa"
+    },
+    {
+        "不渴症": "adipsia"
+    },
+    {
+        "肥胖性生殖器失養症": "adiposogenital dystrophy"
+    },
+    {
+        "脂肪組織": "adipose tissue"
+    },
+    {
+        "脂肪生成": "adipogenesis"
+    },
+    {
+        "脂肪細胞肥大": "adipocyte hypertrophy"
+    },
+    {
+        "腺苷酸環化酶": "adenylate cyclase"
+    },
+    {
+        "腺性肌症；子宮內膜異位症": "adenomyosis"
+    },
+    {
+        "小梁腺瘤": "trabecular adenoma"
+    },
+    {
+        "微濾泡腺瘤": "microfollicular adenoma"
+    },
+    {
+        "多內分泌腺瘤": "polyendocrine adenoma"
+    },
+    {
+        "巨濾泡腺瘤": "macrofollicular adenoma"
+    },
+    {
+        "胎腺瘤": "fetal adenoma"
+    },
+    {
+        "嗜伊紅線瘤": "eosinophilic adenoma"
+    },
+    {
+        "難染腺瘤": "chromophobe adenoma"
+    },
+    {
+        "嗜鹼腺瘤": "basophilic adenoma"
+    },
+    {
+        "嗜酸腺瘤": "acidophilic adenoma"
+    },
+    {
+        "腺樣增殖": "adenoid"
+    },
+    {
+        "腺瘤": "adenoma"
+    },
+    {
+        "腺垂體": "adenohypophysis"
+    },
+    {
+        "腺棘皮瘤": "adenoacanthoma"
+    },
+    {
+        "艾迪森氏危症": "Addisonian crisis"
+    },
+    {
+        "艾迪森氏病": "Addison's disease"
+    },
+    {
+        "適應": "adaptation"
+    },
+    {
+        "活化素": "activin"
+    },
+    {
+        "ACTH系肽激素": "ACTH-related peptide hormone"
+    },
+    {
+        "ACTH儲備": "ACTH reserve"
+    },
+    {
+        "異位生產腎上腺皮質促素；異位生產促腎上腺皮質素": "ACTH production;ectopic"
+    },
+    {
+        "精冒反應": "acrosome reaction"
+    },
+    {
+        "精冒": "acrosome"
+    },
+    {
+        "精帽粒蛋白": "acrosin"
+    },
+    {
+        "肢端病變": "acropathy"
+    },
+    {
+        "杵狀指": "acropachy"
+    },
+    {
+        "肢端肥大症": "acromegaly"
+    },
+    {
+        "肢端骨質溶解症": "acro-osteolysis syndrome"
+    },
+    {
+        "後天性免疫缺乏症 (愛滋病)": "immune deficiency syndrome (AIDS)"
+    },
+    {
+        "痤瘡；粉刺": "acne"
+    },
+    {
+        "酸中毒": "acidosis"
+    },
+    {
+        "酸血症": "acidemia"
+    },
+    {
+        "酸鹼平衡": "acid-base balance"
+    },
+    {
+        "軟骨發育不全": "achondroplasia"
+    },
+    {
+        "無胃酸症": "achlorhydria"
+    },
+    {
+        "跟腱反射時間": "Achilles reflex time"
+    },
+    {
+        "乙醯膽鹼脂酶": "acetylcholinesterase"
+    },
+    {
+        "乙醯膽鹼": "acetylcholine"
+    },
+    {
+        "乙醯輔酶A": "acetyl-Co A"
+    },
+    {
+        "丙酮": "acetone"
+    },
+    {
+        "乙醯苯磺醯環己脲": "acetohexamide"
+    },
+    {
+        "水土適應；氣候適應": "acclimatization"
+    },
+    {
+        "附屬腎上腺皮質組織": "accessory adrenal cortical tissue"
+    },
+    {
+        "附屬腎上腺": "accessory adrenal"
+    },
+    {
+        "附屬": "accessory"
+    },
+    {
+        "黑棘皮症": "acanthosis nigricans"
+    },
+    {
+        "節慾；禁戒": "abstinence"
+    },
+    {
+        "吸收性細胞內攝作用": "absorptive endocytosis"
+    },
+    {
+        "絕對攝碘率": "absolute iodine uptake (AIU)"
+    },
+    {
+        "膿腫": "abscess"
+    },
+    {
+        "胎盤早期剝離": "abruptio placenta"
+    },
+    {
+        "墮胎藥": "abortient;aborticide;abortifacient"
+    },
+    {
+        "流產胎": "abortus"
+    },
+    {
+        "自然流產": "spontaneous abortion"
+    },
+    {
+        "流產": "abortion"
+    },
+    {
+        "摘除": "ablation"
+    },
+    {
+        "抑殖素": "ablastin"
+    },
+    {
+        "無β脂蛋白血症": "abetalipoproteinemia"
+    },
+    {
+        "腹紋": "abdominal striae"
+    },
+    {
+        "左－艾二氏症": "Zollinger-Ellison syndrome"
+    },
+    {
+        "卵黃囊": "yolk sac"
+    },
+    {
+        "XY無性腺症": "XY agonadism"
+    },
+    {
+        "XX真陰陽症": "XX true hermaphroditism"
+    },
+    {
+        "X - X位移": "X-X translocation"
+    },
+    {
+        "XO∕XX鑲嵌症": "XO/XX mosaicism"
+    },
+    {
+        "XX異常 (性逆轉)": "XX disorder (sex reversal)"
+    },
+    {
+        "XX性腺發生不全": "XX gonadal dysgenesis"
+    },
+    {
+        "XX男 ( 雄 ) 性": "XX male"
+    },
+    {
+        "糖尿病性黃皮病": "xanthosis diabetica"
+    },
+    {
+        "X - 體染色體位移": "X-autosome translocation"
+    },
+    {
+        "X體": "X body"
+    },
+    {
+        "X - 染色質": "X-chromatin"
+    },
+    {
+        "X - 染色體": "X-chromosome"
+    },
+    {
+        "異體移植": "xenograft"
+    },
+    {
+        "口乾症": "xerostomia"
+    },
+    {
+        "X - 性聯遺傳": "X-linked inheritance"
+    },
+    {
+        "XO性腺發生不全": "XO gonadal dysgenesis"
+    },
+    {
+        "XO核型": "XO karyotype"
+    },
+    {
+        "糖尿病黃瘤": "xanthoma diabeticorum"
+    },
+    {
+        "黃斑瘤": "xanthelasma"
+    },
+    {
+        "伍爾曼氏病": "Wolman's disease"
+    },
+    {
+        "伍－柴二氏效應": "Wolff-Chaikoff effect"
+    },
+    {
+        "停藥性出血": "withdrawal bleeding"
+    },
+    {
+        "威爾森氏病": "Wilson's disease"
+    },
+    {
+        "惠登氏效應": "Whitten effect"
+    },
+    {
+        "維爾納氏症": "Werner's syndrome"
+    },
+    {
+        "維爾莫氏症": "Wermer's syndrome"
+    },
+    {
+        "維生素D3": "vitamin D3"
+    },
+    {
+        "白斑症": "vitiligo"
+    },
+    {
+        "蹼狀頸": "webbed neck"
+    },
+    {
+        "極低密度脂蛋白": "very low density lipoprotein (VLDL)"
+    },
+    {
+        "VIP瘤": "VIPoma"
+    },
+    {
+        "女子男性化": "virilescence"
+    },
+    {
+        "男性化症": "virillism"
+    },
+    {
+        "男性化": "virilization"
+    },
+    {
+        "激脈腸多肽": "vasoactive intestinal polypeptide (VIP)"
+    },
+    {
+        "維生素D2": "vitamin D2"
+    },
+    {
+        "維生素D": "vitamin D"
+    },
+    {
+        "維生素": "vitamin"
+    },
+    {
+        "瓦－馬二氏症": "Verner-Morrison syndrome"
+    },
+    {
+        "脈張素": "vasotonin"
+    },
+    {
+        "升壓素": "vasopressin"
+    },
+    {
+        "血管舒張潮紅": "vasomotor flush"
+    },
+    {
+        "輸精管切除術": "vasectomy"
+    },
+    {
+        "輸精管": "vas deferens"
+    },
+    {
+        "香草基苦杏仁酸": "vanillylmandelic acid (VMA)"
+    },
+    {
+        "陰道": "vagina"
+    },
+    {
+        "迷走神經": "vagus nerve"
+    },
+    {
+        "尿石症": "urolithiasis"
+    },
+    {
+        "尿殖系統": "urogenital system"
+    },
+    {
+        "尿殖竇": "urogenital sinus"
+    },
+    {
+        "尿抑胃素": "urogastrone"
+    },
+    {
+        "尿路": "urinary tract"
+    },
+    {
+        "尿道": "urethra"
+    },
+    {
+        "輸尿管": "ureter"
+    },
+    {
+        "尿素代謝環": "urea cycle"
+    },
+    {
+        "調升": "up-regulation"
+    },
+    {
+        "超音波檢查術": "ultrasonography"
+    },
+    {
+        "色胺酸羥化酶": "tryptophan hydroxylase"
+    },
+    {
+        "甲狀腺刺激免疫球蛋白": "TSI (thyroid stimulating immunoglobulin)"
+    },
+    {
+        "超晝夜節律": "ultradian rhythm"
+    },
+    {
+        "渥里克氏症": "Ullrich syndrome"
+    },
+    {
+        "酪胺酸羥化酶": "tyrosine hydroxylase"
+    },
+    {
+        "酪胺酸": "tyrosine"
+    },
+    {
+        "特納氏症": "Turner's syndrome"
+    },
+    {
+        "腫瘤壞死因子": "tumor necrosis factor"
+    },
+    {
+        "三酸甘油酯": "triglyceride (triacylglycerol)"
+    },
+    {
+        "三碘甲狀腺胺酸；三碘甲狀腺素": "triiodothyronine (T3)"
+    },
+    {
+        "色胺酸": "tryptophan"
+    },
+    {
+        "特羅索氏徵": "Trousseau's sign"
+    },
+    {
+        "三染色體症": "trisomy"
+    },
+    {
+        "甲狀腺促素釋素刺激試驗；促甲狀腺素釋素刺激試驗": "TRH stimulation test"
+    },
+    {
+        "甲狀腺促素釋素；促甲狀腺素釋素；甲釋素": "TRH (TSH-releasing hormone)"
+    },
+    {
+        "透照法": "transillumination"
+    },
+    {
+        "轉譯": "translation"
+    },
+    {
+        "經蝶骨方法": "transsphenoidal approach"
+    },
+    {
+        "經蝶骨顯微手術": "transsphenoidal microsurgery"
+    },
+    {
+        "創傷": "trauma"
+    },
+    {
+        "皮質素載運蛋白": "transcortin"
+    },
+    {
+        "轉錄": "transcription"
+    },
+    {
+        "轉導": "transduction"
+    },
+    {
+        "轉染": "transfection"
+    },
+    {
+        "甲狀腺促素受器抗體；促甲狀腺素受器抗體": "TRAb (TSH receptor antibody)"
+    },
+    {
+        "轉殖動物": "transgenic animal"
+    },
+    {
+        "轉變生長因子": "transforming growth factor"
+    },
+    {
+        "甲狀腺素": "thyroxine"
+    },
+    {
+        "甲狀腺素血症": "thyroxinemia"
+    },
+    {
+        "甲苯磺丁脲": "tolbutamide"
+    },
+    {
+        "野丫頭症": "tomboyism"
+    },
+    {
+        "毒性腺瘤": "toxic adenoma"
+    },
+    {
+        "甲狀腺缺乏性甲狀腺低能症": "thyroprivic hypothyroidism"
+    },
+    {
+        "甲狀腺促素受器抗體；促甲狀腺素受器抗體": "thyrotropin receptor antibody (TRAb)"
+    },
+    {
+        "甲狀腺促素；促甲狀腺素": "thyrotropin"
+    },
+    {
+        "甲狀腺促素細胞；促甲狀腺素細胞": "thyrotroph cell"
+    },
+    {
+        "人為甲狀腺毒症": "thyrotoxicosis factitia"
+    },
+    {
+        "甲狀腺危症": "thyrotoxic crisis"
+    },
+    {
+        "甲狀腺胺酸": "thyronine"
+    },
+    {
+        "甲狀腺瘤": "thyroma"
+    },
+    {
+        "甲狀腺炎": "thyroiditis"
+    },
+    {
+        "甲狀腺掃描": "thyroid scan"
+    },
+    {
+        "甲狀腺壓抑測驗": "thyroid suppression test"
+    },
+    {
+        "甲狀腺瘤": "thyroid tumor"
+    },
+    {
+        "甲狀腺促素；促甲狀腺素；甲促素": "thyroid stimulating hormone (TSH)"
+    },
+    {
+        "甲狀腺切除術": "thyroidectomy"
+    },
+    {
+        "甲狀腺峽": "thyroid isthmus"
+    },
+    {
+        "甲狀腺淋巴瘤": "thyroid lymphoma"
+    },
+    {
+        "甲狀腺微粒體抗體": "thyroid microsomal antibody"
+    },
+    {
+        "甲狀腺過氧化酶": "thyroid peroxidase (TPO)"
+    },
+    {
+        "甲狀腺放射碘攝取": "thyroid radioiodine uptake"
+    },
+    {
+        "甲狀腺放射碘轉換": "thyroid radioiodine turnover"
+    },
+    {
+        "甲狀腺錐體葉": "thyroid pyramidal lobe"
+    },
+    {
+        "甲狀腺舌管": "thyroglossal duct"
+    },
+    {
+        "甲狀腺": "thyroid"
+    },
+    {
+        "甲狀腺杵狀指": "thyroid acropachy"
+    },
+    {
+        "甲狀腺阻斷抗體": "thyroid blocking antibody"
+    },
+    {
+        "甲狀腺病": "thyroid disease"
+    },
+    {
+        "甲狀腺生長抗體": "thyroid growth antibody"
+    },
+    {
+        "甲狀腺生長刺激免疫球蛋白": "thyroid growth stimulating immunoglobulin"
+    },
+    {
+        "甲狀腺激素": "thyroid hormone"
+    },
+    {
+        "甲狀腺細胞": "thyrocyte"
+    },
+    {
+        "甲狀腺球蛋白": "thyroglobulin"
+    },
+    {
+        "甲狀腺抑鈣素": "thyrocalcitonin"
+    },
+    {
+        "胸腺瘤": "thymoma"
+    },
+    {
+        "胸腺病": "thymopathy"
+    },
+    {
+        "胸腺素": "thymosin"
+    },
+    {
+        "胸腺": "thymus"
+    },
+    {
+        "睪固酮": "testosterone"
+    },
+    {
+        "手足強直": "tetany"
+    },
+    {
+        "四碘甲狀腺胺酸；甲狀腺素": "tetraiodothyronine"
+    },
+    {
+        "乳房初長": "thelarche"
+    },
+    {
+        "硫氰酸鹽": "thiocyanate"
+    },
+    {
+        "硫脲": "thiourea"
+    },
+    {
+        "渴": "thirst"
+    },
+    {
+        "凝血激酶": "thrombokinase"
+    },
+    {
+        "凝血酶": "thromboplastin"
+    },
+    {
+        "凝血脂素": "thromboxane"
+    },
+    {
+        "睪丸炎": "testitis"
+    },
+    {
+        "異位睪丸": "etopic testis"
+    },
+    {
+        "睪丸": "testis"
+    },
+    {
+        "睪固酮 - 雌二醇─結合球蛋白": "TEBG (testosterone-estradiol-binding globulin)"
+    },
+    {
+        "睪丸瘤": "testicular tumor"
+    },
+    {
+        "睪丸女性化症": "testicular feminization syndrome"
+    },
+    {
+        "睪丸不發育": "testicular agenesis"
+    },
+    {
+        "靜止期": "telogen"
+    },
+    {
+        "鎝 - 99m": "technetium-99m"
+    },
+    {
+        "四碘甲狀腺素結合球蛋白 (T4 結合球蛋白)": "TBG (T4-binding globulin)"
+    },
+    {
+        "T4結合前白蛋白": "TBPA (T4-binding prealbumin)"
+    },
+    {
+        "甲促素受器結合抑制免疫球蛋白；甲狀腺促素受器結合抑制免疫球蛋白；促甲狀腺素受器結合抑制免疫球蛋白": "TBII (thyrotropin receptor binding inhibitory immunoglobulin)"
+    },
+    {
+        "T4甲狀腺毒症；四碘甲狀腺素毒症": "T4-toxicosis"
+    },
+    {
+        "泰－沙二氏病": "Tay-Sacks disease"
+    },
+    {
+        "牛膽酸": "taurocholic acid"
+    },
+    {
+        "靶細胞": "target cell"
+    },
+    {
+        "坦納氏期": "Tanner stage"
+    },
+    {
+        "鞣酸化紅血球凝集": "tanned red cell hemagglutination"
+    },
+    {
+        "糖尿病性脊髓癆": "diabetic tabes"
+    },
+    {
+        "消瘦；癆": "tabes"
+    },
+    {
+        "T3甲狀腺正能": "T3-euthyroidism"
+    },
+    {
+        "T3新生": "T3--neogenesis"
+    },
+    {
+        "T3甲狀腺毒症": "T3-toxicosis"
+    },
+    {
+        "甲狀腺素；四碘甲狀腺素；四碘甲狀腺胺酸": "T4 (thyroxine)"
+    },
+    {
+        "T4結合α間球蛋白": "T4-binding interα- globulin"
+    },
+    {
+        "T4結合前白蛋白": "T4-binding prealbumin"
+    },
+    {
+        "抗利尿素分泌異常症": "syndrome of inappropriate secretion of antidiuretic hormone (SIADH)"
+    },
+    {
+        "三碘甲狀腺素；三碘甲狀腺胺酸": "T3 (triiodothyronine)"
+    },
+    {
+        "T 細胞": "T cell"
+    },
+    {
+        "系統": "system"
+    },
+    {
+        "協同作用": "synergism"
+    },
+    {
+        "賴威氏症；陣發性甲狀腺高能症": "Levi's syndrome"
+    },
+    {
+        "馬瑞氏症；垂體性肢端肥大症": "Marie's syndrome"
+    },
+    {
+        "瑟－柯二氏症": "Silverstrini-Corda syndrome"
+    },
+    {
+        "斯－李二氏症": "Stein-Leventhal syndrome"
+    },
+    {
+        "睪丸女性化症": "testicular feminization syndrome"
+    },
+    {
+        "提姆氏症": "Timme's syndrome"
+    },
+    {
+        "松果腺症": "epiphysial syndrome"
+    },
+    {
+        "哈瑞斯氏症；自發性胰島素過多症": "Harris' syndrome"
+    },
+    {
+        "勞－羅二氏症；腦垂體及甲狀腺障礙性侏儒症": "Läwen-Roth syndrome"
+    },
+    {
+        "蒙－必二氏症；肥胖性生殖器失養症": "Moon-Biedl syndrome"
+    },
+    {
+        "勞努易氏症；巨人症": "Launois' syndrome"
+    },
+    {
+        "高血鈣症": "hypercalcemia syndrome"
+    },
+    {
+        "庫欣氏症": "Cushing's syndrome"
+    },
+    {
+        "肥胖性生殖器症": "adiposogenital syndrome"
+    },
+    {
+        "症": "syndrome"
+    },
+    {
+        "胸骨下腫塊": "substernal mass"
+    },
+    {
+        "吸吮": "suckling"
+    },
+    {
+        "糖": "sugar"
+    },
+    {
+        "磺醯脲": "sulfonylurea"
+    },
+    {
+        "壓抑T細胞": "suppressor T-cell"
+    },
+    {
+        "蝶鞍上鈣化": "suprasellar calcification"
+    },
+    {
+        "潮放": "surge"
+    },
+    {
+        "汗腺": "sweat gland"
+    },
+    {
+        "交感神經系統": "sympathetic nervous system"
+    },
+    {
+        "P  物質": "substance P"
+    },
+    {
+        "下穹隆體": "subfornical organ (SFO)"
+    },
+    {
+        "下聯合體": "subcommissural organ (SCO)"
+    },
+    {
+        "亞急性甲狀腺炎": "subacute thyroiditis"
+    },
+    {
+        "樹蟾皮素；雨蛙皮素": "suavagine"
+    },
+    {
+        "甲狀腺腫樣卵巢瘤": "struma ovarii"
+    },
+    {
+        "淋巴瘤性甲狀腺腫": "struma lymphomatosa"
+    },
+    {
+        "肉芽腫性甲狀腺腫": "struma granulomatosa"
+    },
+    {
+        "鏈佐黴素": "streptozotocin"
+    },
+    {
+        "固醇": "sterol"
+    },
+    {
+        "類固醇生成": "steroidogenesis"
+    },
+    {
+        "類固醇激素": "steroid hormone"
+    },
+    {
+        "絕育": "sterilization"
+    },
+    {
+        "不孕": "sterility"
+    },
+    {
+        "星狀細胞": "stellate cell"
+    },
+    {
+        "斯－李二氏症": "Stein-Leventhal syndrome"
+    },
+    {
+        "高身材": "tall stature"
+    },
+    {
+        "身材矮小": "short stature"
+    },
+    {
+        "期": "stage"
+    },
+    {
+        "經前期": "premenstrual stage"
+    },
+    {
+        "孕前期": "progestational stage"
+    },
+    {
+        "增生期": "proliferative stage"
+    },
+    {
+        "靜止期": "rest stage"
+    },
+    {
+        "鹿角石": "staghorn stone"
+    },
+    {
+        "柄切斷效果": "stalk section effect"
+    },
+    {
+        "飢餓": "starvation"
+    },
+    {
+        "身材": "stature"
+    },
+    {
+        "體促素釋放抑素；促體素釋放抑素": "SRIH (somatotropin release - inhibiting hormone)"
+    },
+    {
+        "體促素釋放抑因；促體素釋放抑因": "SRIF (somatotropin release - inhibiting factor)"
+    },
+    {
+        "剪接": "splice"
+    },
+    {
+        "脊隨液鼻漏": "spinal fluid rhinorrhea"
+    },
+    {
+        "脊髓": "spinal cord"
+    },
+    {
+        "蜘蛛血管瘤": "spider angioma"
+    },
+    {
+        "神經脂質病": "sphingolipidosis"
+    },
+    {
+        "索托氏症": "Sotos' syndrome"
+    },
+    {
+        "月經減少": "sparromenorrhea"
+    },
+    {
+        "精子": "sperm"
+    },
+    {
+        "精細胞": "spermatid"
+    },
+    {
+        "精液生成；射精": "spermatism"
+    },
+    {
+        "精母細胞": "spermatocyte"
+    },
+    {
+        "精子生成；精子形成": "spermatogenesis"
+    },
+    {
+        "精原細胞": "spermatogonia"
+    },
+    {
+        "精子": "spermatozoa"
+    },
+    {
+        "蝶骨竇": "sphenoid sinus"
+    },
+    {
+        "神經脂質": "sphingolipid"
+    },
+    {
+        "體促素細胞；促體素細胞": "somatotropic cell"
+    },
+    {
+        "體促素；促體素": "somatotropin; somatotrophin"
+    },
+    {
+        "超音波掃描": "sonography"
+    },
+    {
+        "體介素": "somatomedin"
+    },
+    {
+        "體介素 - C": "somatomedin-C"
+    },
+    {
+        "體與性的": "somatosexual"
+    },
+    {
+        "體抑素；抑體素": "somatostatin"
+    },
+    {
+        "體抑素類似物；抑體素類似物": "somatostatin analog"
+    },
+    {
+        "體抑素瘤；抑體素瘤": "somatostatinoma"
+    },
+    {
+        "體促素細胞；促體素細胞": "somatotrop;somatotrope;somatotroph"
+    },
+    {
+        "體乳促素；促體乳素": "somatomammotropic hormone"
+    },
+    {
+        "固態": "solid-phase"
+    },
+    {
+        "體乳促素細胞；促體乳素細胞": "somatomammotropic cell"
+    },
+    {
+        "鈉逃脫": "sodium escape"
+    },
+    {
+        "碘化鈉": "sodium iodide"
+    },
+    {
+        "鈉鉀泵；鈉鉀幫浦": "sodium potassium pump"
+    },
+    {
+        "限鈉": "sodium restriction"
+    },
+    {
+        "軟組織鈣化": "soft-tissue calcification"
+    },
+    {
+        "實質": "solid"
+    },
+    {
+        "病": " -sis"
+    },
+    {
+        "休格倫氏症": "Sjögren's syndrome"
+    },
+    {
+        "骨齡": "skeletal age"
+    },
+    {
+        "骨骼發育不良": "skeletal dysplasia"
+    },
+    {
+        "骨系統": "skeletal system"
+    },
+    {
+        "骨骼": "skeleton"
+    },
+    {
+        "皮膚": "skin"
+    },
+    {
+        "皮膚襞厚度": "skinfold thickness"
+    },
+    {
+        "鈉利尿": "sodium diuresis"
+    },
+    {
+        "西波爾氏症": "Sipple's syndrome"
+    },
+    {
+        "單光子吸收測定": "single-photon absorptiometry"
+    },
+    {
+        "訊息傳遞": "signal transduction"
+    },
+    {
+        "訊息序列": "signal sequence"
+    },
+    {
+        "訊息處理者": "signal processor"
+    },
+    {
+        "訊息肽": "signal peptide"
+    },
+    {
+        "訊息": "signal"
+    },
+    {
+        "疾病甲狀腺正能症": "sick euthyroid syndrome"
+    },
+    {
+        "乾症": "sicca syndrome"
+    },
+    {
+        "唾液腺病": "sialidosis"
+    },
+    {
+        "性功能障礙": "sex dysfunction"
+    },
+    {
+        "性幼稚症": "sex infantilism"
+    },
+    {
+        "性成熟": "sex maturation"
+    },
+    {
+        "性早熟": "sex precocity"
+    },
+    {
+        "席漢氏症": "Sheehan's syndrome"
+    },
+    {
+        "抗利尿素分泌異常症": "SIADH (syndrome of inappropriate antidiuretic hormone secretion)"
+    },
+    {
+        "性類固醇": "sex steroid"
+    },
+    {
+        "性的": "sexual"
+    },
+    {
+        "性活動": "sex activity"
+    },
+    {
+        "性行為": "sex behavior"
+    },
+    {
+        "性": "sex"
+    },
+    {
+        "性染色體": "sex chromosome"
+    },
+    {
+        "性決定": "sex determination"
+    },
+    {
+        "性分化": "sex differentiation"
+    },
+    {
+        "性激素": "sex hormone"
+    },
+    {
+        "性激素結合球蛋白": "sex hormone-binding globulin (SHBG)"
+    },
+    {
+        "蝶鞍": "sella turcica"
+    },
+    {
+        "精液": "semen"
+    },
+    {
+        "精液": "seminal fluid"
+    },
+    {
+        "曲精小管": "seminiferous tubule"
+    },
+    {
+        "精原細胞瘤": "seminoma"
+    },
+    {
+        "老年失智": "senile dementia"
+    },
+    {
+        "血清滲透壓": "serum osmolarity"
+    },
+    {
+        "僅塞特利氏細胞症": "Sertoli-cell only syndrome"
+    },
+    {
+        "塞特利氏細胞": "Sertoli cell"
+    },
+    {
+        "羥色胺": "serotonin"
+    },
+    {
+        "思覺失調症": "schizophrenia"
+    },
+    {
+        "施密特氏症": "Schmidt's syndrome"
+    },
+    {
+        "分泌粒": "secretion granule"
+    },
+    {
+        "胰液催素": "secretin"
+    },
+    {
+        "促分泌物": "secretagogue"
+    },
+    {
+        "次發性無月經": "secondary amenorrhea"
+    },
+    {
+        "塞克爾氏症": "Seckel syndrome"
+    },
+    {
+        "皮脂腺": "sebaceous gland"
+    },
+    {
+        "閃爍掃描": "scintiscanning"
+    },
+    {
+        "羅－席二氏症": "Russel-Silver syndrome"
+    },
+    {
+        "夾心式測定": "sandwich assay"
+    },
+    {
+        "沙伊氏症": "Scheie syndrome"
+    },
+    {
+        "掃描": "scanning"
+    },
+    {
+        "薩瓦奇氏病": "Savage syndrome"
+    },
+    {
+        "飽食引發肽": "satiety-inducing peptide"
+    },
+    {
+        "立得氏甲狀腺炎": "Riedel's thyroiditis"
+    },
+    {
+        "殘遺睪丸症": "rudimentary testis syndrome"
+    },
+    {
+        "類肉瘤病": "sarcoidosis"
+    },
+    {
+        "肌丙胺素": "saralasin"
+    },
+    {
+        "聖菲利波氏病": "Sanfillippo syndrome"
+    },
+    {
+        "呼吸系統": "respiratory system"
+    },
+    {
+        "視網膜炎": "retinitis"
+    },
+    {
+        "糖尿病性視網膜炎": "diabetic retinitis"
+    },
+    {
+        "類視色素": "retinoid"
+    },
+    {
+        "視黃醇；維生素A1": "retinol"
+    },
+    {
+        "視網膜病變": "retinopathy"
+    },
+    {
+        "逆三碘甲狀腺素；逆三碘甲狀腺胺酸": "reverse T3"
+    },
+    {
+        "節律": "rhythm"
+    },
+    {
+        "核糖核酸酶": "ribonuclease"
+    },
+    {
+        "佝僂病": "rickets"
+    },
+    {
+        "生殖": "reproduction"
+    },
+    {
+        "生殖系統": "reproductive system"
+    },
+    {
+        "蛇根鹼": "reserpine"
+    },
+    {
+        "儲備": "reserve"
+    },
+    {
+        "腎素": "renin"
+    },
+    {
+        "腎素－血管緊縮素－醛固酮系統": "renin-angiotensin-aldosterone system"
+    },
+    {
+        "阻力；抗性": "resistance"
+    },
+    {
+        "鬆弛素": "relaxin"
+    },
+    {
+        "腎－腎上腺軸": "renal-adrenal axis"
+    },
+    {
+        "腎絞痛": "renal colic"
+    },
+    {
+        "腎近絲球細胞": "renal juxtaglomerular cell"
+    },
+    {
+        "腎素－血管緊縮素系統": "renin-angiotensin system (RAS)"
+    },
+    {
+        "接受性": "receptivity"
+    },
+    {
+        "受器": "receptor"
+    },
+    {
+        "重組": "recombinant"
+    },
+    {
+        "5α-還原&酶": "5α-reductase"
+    },
+    {
+        "反射": "reflex"
+    },
+    {
+        "芮芬斯坦氏症": "Reifenstein's syndrome"
+    },
+    {
+        "芮斯那氏纖維": "Reissner's fiber"
+    },
+    {
+        "雷克氏囊": "Rathke's pouch"
+    },
+    {
+        "放射受器測定": "radioreceptor assay (RRA)"
+    },
+    {
+        "放射碘攝取率": "radioiodin uptake (RAIU)"
+    },
+    {
+        "心因性飲水": "psychogenic water drinking"
+    },
+    {
+        "陰毛初生": "pubarche"
+    },
+    {
+        "青春期": "puberty"
+    },
+    {
+        "陰毛": "pubic hair"
+    },
+    {
+        "緻密成骨不全症": "pycnodysostosis"
+    },
+    {
+        "非洲型侏儒": "pygmy"
+    },
+    {
+        "放射治療": "radiation therapy"
+    },
+    {
+        "神經根病變": "radiculopathy"
+    },
+    {
+        "放射免疫測定": "radioimmunoassay (RIA)"
+    },
+    {
+        "放射碘": "radioiodine"
+    },
+    {
+        "精神內分泌學": "psychoendocrinology"
+    },
+    {
+        "精神異常": "psychiatric disorder"
+    },
+    {
+        "假青春期": "pseudopuberty"
+    },
+    {
+        "假黃體": "pseudo-corpus luteum"
+    },
+    {
+        "假陰陽症": "pseudohermaphroditism"
+    },
+    {
+        "假妊娠；假懷孕": "pseudopregnancy"
+    },
+    {
+        "假副甲狀腺低能症": "pseudohypoparathyroidism"
+    },
+    {
+        "蛋白質激酶": "protein kinase"
+    },
+    {
+        "原致癌基因": "proto-oncogene"
+    },
+    {
+        "假多醛固酮症": "pseudoaldosteronism"
+    },
+    {
+        "前列腺；攝護腺": "prostate"
+    },
+    {
+        "前列腺癌；攝護腺癌": "prostate cancer"
+    },
+    {
+        "前列腺炎；攝護腺炎": "prostatitis"
+    },
+    {
+        "蛋白酶": "protease"
+    },
+    {
+        "啟動子": "promoter"
+    },
+    {
+        "前腦啡－黑細胞促素－皮質促素；前腦啡－促黑細胞素－促皮質素": "proopiomelanocortin (POMC)"
+    },
+    {
+        "前激素": "prohormone"
+    },
+    {
+        "前胰島素": "proinsulin"
+    },
+    {
+        "促乳素；泌乳素；乳促素": "prolactin (PRL)"
+    },
+    {
+        "前列腺素；攝護腺素": "prostaglandin (PG)"
+    },
+    {
+        "促乳素瘤；泌乳素瘤；乳促素瘤": "prolactinoma"
+    },
+    {
+        "促乳素釋因；泌乳素釋因；乳促素釋因": "prolactin releasing factor"
+    },
+    {
+        "促乳素抑因；泌乳素抑因；乳促素抑因": "prolactin inhibiting factor"
+    },
+    {
+        "凸頜": "prognathism"
+    },
+    {
+        "助孕素": "progestin (progestogen)"
+    },
+    {
+        "助孕酮；黃體固酮": "progesterone"
+    },
+    {
+        "早老症": "progeria"
+    },
+    {
+        "原胚生殖細胞": "primordial germ cell"
+    },
+    {
+        "原胚濾泡；初級濾泡": "primordial follicle"
+    },
+    {
+        "原基性侏儒症": "primordial dwarfism"
+    },
+    {
+        "引子": "primer"
+    },
+    {
+        "啟始": "prime"
+    },
+    {
+        "原發性無月經": "primary amenorrhea"
+    },
+    {
+        "原發性腎上腺機能不全": "primary adrenal insufficiency"
+    },
+    {
+        "初前": "pre-pro"
+    },
+    {
+        "早熟症": "precocious puberty"
+    },
+    {
+        "出生前激素": "prenatal hormone"
+    },
+    {
+        "經前緊張症": "premenstrual tension syndrome"
+    },
+    {
+        "經前期": "premenstrua"
+    },
+    {
+        "妊烯醇酮": "pregnenolone"
+    },
+    {
+        "妊娠；懷孕": "pregnancy"
+    },
+    {
+        "去氫皮質醇": "prednisolone"
+    },
+    {
+        "早熟": "precocity"
+    },
+    {
+        "假早熟症": "precocious pseudopuberty"
+    },
+    {
+        "普－威二氏症": "Prader-Willi syndrome"
+    },
+    {
+        "鉀血症": "postassemia"
+    },
+    {
+        "經後期": "postmenstrua"
+    },
+    {
+        "初經後": "postmenarche"
+    },
+    {
+        "停經後": "postmenopausal"
+    },
+    {
+        "正回饋": "positive feedback"
+    },
+    {
+        "月經多次少量": "polyhypomenorrhea"
+    },
+    {
+        "門脈": "portal vessel"
+    },
+    {
+        "龐培氏病": "Pompe's disease"
+    },
+    {
+        "多尿(症)": "polyuria"
+    },
+    {
+        "多食症": "polyphagia"
+    },
+    {
+        "多發性神經病變": "polyneuropathy"
+    },
+    {
+        "聚合酶鏈反應": "polymerase chain reaction (PCR)"
+    },
+    {
+        "月經頻繁；月經次數過多": "polymenorrhea"
+    },
+    {
+        "月經多次多量": "polyhypermenorrhea"
+    },
+    {
+        "泌乳過多": "polygalactia"
+    },
+    {
+        "多發性內分泌腺瘤病": "polyendocrine adenomatosis"
+    },
+    {
+        "煩渴；劇渴": "polydipsia"
+    },
+    {
+        "多囊性卵巢症": "polycystic ovary syndrome"
+    },
+    {
+        "多": "poly-"
+    },
+    {
+        "多種內分泌障礙": "pluridyscrinia"
+    },
+    {
+        "纖維蛋白溶酶原": "plasminogen"
+    },
+    {
+        "纖維蛋白溶酶原活化物": "plasminogen activator"
+    },
+    {
+        "普魯麥氏指甲": "Plummer's nail"
+    },
+    {
+        "血小板衍生生長因子": "platelet-derived growth factor"
+    },
+    {
+        "血小板": "platelet"
+    },
+    {
+        "纖維蛋白溶酶；胞漿素": "plasmin"
+    },
+    {
+        "血漿腎素活性": "plasma renin activity (PRA)"
+    },
+    {
+        "血漿清除術": "plasmapheresis"
+    },
+    {
+        "細胞膜；原生質膜": "plasma membrane"
+    },
+    {
+        "垂腺腫瘤；垂體腫瘤": "pituitary neoplasm"
+    },
+    {
+        "垂腺柄；垂體柄": "pituitary stalk"
+    },
+    {
+        "垂腺抑制；垂體抑制": "pituitary suppression"
+    },
+    {
+        "胎盤硫酸酯酶缺乏": "placental sulfatase deficiency"
+    },
+    {
+        "胎盤生乳素": "placental lactogen"
+    },
+    {
+        "胎盤": "placenta"
+    },
+    {
+        "寬心丸；安慰劑": "placebo"
+    },
+    {
+        "垂體後葉素": "pituitrin"
+    },
+    {
+        "垂腺；垂體": "pituitary gland"
+    },
+    {
+        "垂腺－性腺軸；垂體－性腺軸": "pituitary gland gonadal axis"
+    },
+    {
+        "垂線性腺低能症；垂體性腺低能症": "pituitary hypogonadism"
+    },
+    {
+        "垂腺腺瘤；垂體腺瘤": "pituitary adenoma"
+    },
+    {
+        "垂腺中風；垂體中風": "pituitary apoplexy"
+    },
+    {
+        "垂腺壞死；垂體壞死": "pituitary necrosis"
+    },
+    {
+        "垂腺孤立症；垂體孤立症": "pituitary isolation syndrome"
+    },
+    {
+        "垂腺甲狀腺低能症；垂體甲狀腺低能症": "pituitary hypothyroidism"
+    },
+    {
+        "垂腺尿崩症；垂體尿崩症": "pituitary diabetes insipidus"
+    },
+    {
+        "垂腺危症；垂體危症": "pituitary crisis"
+    },
+    {
+        "垂腺昏迷；垂體昏迷": "pituitary coma"
+    },
+    {
+        "垂腺；垂體": "pituitary"
+    },
+    {
+        "垂體機能障礙": "pituitarism"
+    },
+    {
+        "磷脂": "phospholipid"
+    },
+    {
+        "磷素": "phosphorin"
+    },
+    {
+        "磷": "phosphorus"
+    },
+    {
+        "磷酸酶激酶": "phosphorylase kinase"
+    },
+    {
+        "磷酸化": "phosphorylation"
+    },
+    {
+        "色素沉著": "pigmentation"
+    },
+    {
+        "避孕丸": "pill contraceptive"
+    },
+    {
+        "松果腺": "pineal gland"
+    },
+    {
+        "松果腺機能障礙": "pinealism"
+    },
+    {
+        "加壓素": "pitressin"
+    },
+    {
+        "垂腺細胞；垂體細胞": "pituicyte"
+    },
+    {
+        "磷酸肌醇": "phosphoinositide"
+    },
+    {
+        "磷酸二酯酶": "phosphodiesterase"
+    },
+    {
+        "磷酸鹽": "phosphate"
+    },
+    {
+        "磷酸酶": "phosphatase"
+    },
+    {
+        "巴豆酯；佛波酯": "phorbol ester"
+    },
+    {
+        "費洛蒙；信息素；傳訊素": "pheromone"
+    },
+    {
+        "嗜鉻細胞瘤": "pheochromocytoma"
+    },
+    {
+        "苯妥英；二苯乙內醯脲": "phenytoin"
+    },
+    {
+        "表現型": "phenotype"
+    },
+    {
+        "苯酮尿(症)": "phenylketonuria (PKU)"
+    },
+    {
+        "酚": "phenol"
+    },
+    {
+        "苯乙雙胍": "phenformin"
+    },
+    {
+        "陰莖": "phallus"
+    },
+    {
+        "百日咳": "pertussis"
+    },
+    {
+        "過氧化酶": "peroxidase"
+    },
+    {
+        "末梢多發性神經病變": "peripheral polyneuropathy"
+    },
+    {
+        "會陰陰囊尿道下裂": "perineoscrotal hypospadias"
+    },
+    {
+        "肽性神經元": "peptidergic neuron"
+    },
+    {
+        "YY肽": "peptide YY (PYY)"
+    },
+    {
+        "肽生長因子": "peptide growth factor"
+    },
+    {
+        "分娩；生產": "parturition"
+    },
+    {
+        "人工陰莖": "penile prosthesis"
+    },
+    {
+        "5-X症": "penta-X- syndrome"
+    },
+    {
+        "肽酶": "peptidase"
+    },
+    {
+        "肽": "peptide"
+    },
+    {
+        "不經腸營養": "parenteral nutrition"
+    },
+    {
+        "睪丸異位": "parorchidium"
+    },
+    {
+        "副甲狀腺素片斷": "parathyroid fragment (PTH fragment)"
+    },
+    {
+        "局部促效劑": "partial agonist"
+    },
+    {
+        "室旁核": "paraventricular nucleus"
+    },
+    {
+        "副甲狀腺素系肽": "parayhyroid hormone-related peptide"
+    },
+    {
+        "似副甲狀腺素肽": "parathyroid hormone-like peptide (PTH-like peptide)"
+    },
+    {
+        "似副甲狀腺素因子": "parathyroid hormone-like factor (PTH-like factor)"
+    },
+    {
+        "副垂體": "parahypophysis"
+    },
+    {
+        "月經障礙": "paramenia"
+    },
+    {
+        "性慾倒錯症": "paraphiliac syndrome"
+    },
+    {
+        "蝶鞍旁": "parasella"
+    },
+    {
+        "副交感神經系統": "parasympathetic nervous system"
+    },
+    {
+        "副甲狀腺切除術": "parathyroidectomy"
+    },
+    {
+        "副甲狀腺": "parathyroid gland"
+    },
+    {
+        "副甲狀腺素": "parathyroid hormone (PTH)"
+    },
+    {
+        "副神經節瘤": "paraganglioma"
+    },
+    {
+        "濾泡旁細胞": "parafollicular cell"
+    },
+    {
+        "旁內分泌腫瘤": "paraendocrine tumor"
+    },
+    {
+        "旁睪": "paradidymis"
+    },
+    {
+        "例；模範": "paradigm"
+    },
+    {
+        "泛垂體低能症": "panhypopituitarism"
+    },
+    {
+        "類糖尿病": "paradiabetes"
+    },
+    {
+        "旁分泌": "paracrine"
+    },
+    {
+        "乳突囊腺瘤": "papillary cystadenoma"
+    },
+    {
+        "乳突癌": "papillary carcinoma"
+    },
+    {
+        "佩吉特氏病": "Paget's disease"
+    },
+    {
+        "棕櫚油的": "palmitic"
+    },
+    {
+        "胰臟": "pancreas"
+    },
+    {
+        "胰多肽": "pancreatic polypeptide (PPP)"
+    },
+    {
+        "胰臟炎": "pancreatitis"
+    },
+    {
+        "氧": "oxygen"
+    },
+    {
+        "調酸催素；調酸素": "oxyntomodulin"
+    },
+    {
+        "催產素；催乳素": "oxytocin"
+    },
+    {
+        "厚皮性骨膜病": "pachydermoperiostosis"
+    },
+    {
+        "卵巢": "ovary"
+    },
+    {
+        "輸卵管": "oviduct"
+    },
+    {
+        "卵睪體；卵巢睪丸並存": "ovotestes"
+    },
+    {
+        "排卵": "ovulation"
+    },
+    {
+        "卵子": "ovum"
+    },
+    {
+        "草酸鹽": "oxalate"
+    },
+    {
+        "氧化劑": "oxidant"
+    },
+    {
+        "氧化酶": "oxidase"
+    },
+    {
+        "氧化作用": "oxidation"
+    },
+    {
+        "氧化還原酶": "oxidoreductase"
+    },
+    {
+        "卵巢": "ovarium"
+    },
+    {
+        "卵巢素": "ovarin"
+    },
+    {
+        "卵巢濾泡膜細胞增殖": "ovarian hyperthecosis"
+    },
+    {
+        "卵巢功能衰竭": "ovarian failure"
+    },
+    {
+        "卵巢囊腫": "ovarian cyst"
+    },
+    {
+        "卵巢發育不全；卵巢發育不良": "ovarian dysgenesis"
+    },
+    {
+        "卵巢未發生": "ovarian agenesis"
+    },
+    {
+        "卵白蛋白": "ovalbumin"
+    },
+    {
+        "骨硬化病": "osteosclerosis"
+    },
+    {
+        "骨結合素；黏骨素；骨鈣化素": "osteonectin"
+    },
+    {
+        "局限性骨質疏鬆症": "osteoporosis  circumscripta"
+    },
+    {
+        "骨質疏鬆症": "osteoporosis"
+    },
+    {
+        "脆弱性骨硬化症": "osteopoikilosis"
+    },
+    {
+        "骨石化病": "osteopetrosis"
+    },
+    {
+        "骨量稀少；骨量減少": "osteopenia"
+    },
+    {
+        "軟骨病": "osteomalacia"
+    },
+    {
+        "骨生成細胞": "osteogenitor cell"
+    },
+    {
+        "晚發性成骨不全": "osteogenesis imperfecta tarda"
+    },
+    {
+        "成骨不全": "osteogenesis imperfecta"
+    },
+    {
+        "骨異常擴張症": "osteoectasia"
+    },
+    {
+        "骨營養不良；骨發育不全": "osteodystrophy"
+    },
+    {
+        "骨細胞": "osteocyte"
+    },
+    {
+        "蝕骨細胞活化因子": "ostroclast activating factor"
+    },
+    {
+        "蝕骨細胞": "osteoclast"
+    },
+    {
+        "骨化中心": "ossification center"
+    },
+    {
+        "畸形性骨炎": "osteitis deformans"
+    },
+    {
+        "骨鈣化素": "osteocalcin"
+    },
+    {
+        "造骨細胞瘤": "osteoblastoma"
+    },
+    {
+        "造骨細胞": "osteoblast"
+    },
+    {
+        "骨關節炎": "osteoarthritis"
+    },
+    {
+        "囊性纖維性骨炎": "osteitis fibrosa cystica"
+    },
+    {
+        "起立性低血壓": "orthostatic hypotension"
+    },
+    {
+        "滲透壓度": "osmolality"
+    },
+    {
+        "滲透壓感受器": "osmoreceptor"
+    },
+    {
+        "滲透壓調節": "osmoregulation"
+    },
+    {
+        "睪丸固定術": "orchiopexy"
+    },
+    {
+        "睪丸炎": "orchitis"
+    },
+    {
+        "終板血管器": "organum vasculosum of lamina terminalis"
+    },
+    {
+        "性高潮": "orgasm"
+    },
+    {
+        "鳥胺酸胺基六甲醯轉移酶": "ornithine carbamyl transferase"
+    },
+    {
+        "口服耐糖試驗": "oral glucose tolerance test (OGTT)"
+    },
+    {
+        "正磷酸鹽": "orthophosphate (for hypercalciuria)"
+    },
+    {
+        "睪丸瘤": "orchioncus"
+    },
+    {
+        "睪丸切除術": "orchiectomy"
+    },
+    {
+        "口服降血糖藥": "oral hypoglycemic agent (OHA)"
+    },
+    {
+        "口服避孕藥": "oral contraceptive"
+    },
+    {
+        "調理素": "opsonin"
+    },
+    {
+        "類鴉片受器": "opioid receptor"
+    },
+    {
+        "腫瘤基因": "oncogene"
+    },
+    {
+        "腫瘤基因譯碼生長因子": "oncogene-coded growth factor"
+    },
+    {
+        "卵巢妊娠": "oocyesis"
+    },
+    {
+        "卵母細胞": "oocyte"
+    },
+    {
+        "卵子生成；卵子發生": "oogenesis"
+    },
+    {
+        "卵巢切除術": "oophorectomy"
+    },
+    {
+        "卵巢瘤": "oophoroma"
+    },
+    {
+        "濾泡性卵巢瘤": "folliculare oophoroma"
+    },
+    {
+        "卵巢炎": "oophoritis"
+    },
+    {
+        "卵巢出血": "oophorrhagia"
+    },
+    {
+        "受精卵": "oosperm"
+    },
+    {
+        "眼病變": "opthalmopathy"
+    },
+    {
+        "類鴉片": "opioid"
+    },
+    {
+        "內源性類鴉片": "endogenous opioid"
+    },
+    {
+        "少尿(症)": "oligouria"
+    },
+    {
+        "精子減少": "oligospermia"
+    },
+    {
+        "寡糖症": "oligosaccharidosis"
+    },
+    {
+        "排卵過少": "oligo-ovulation"
+    },
+    {
+        "牙生成": "odontogenesis"
+    },
+    {
+        "油酸": "oleic acid"
+    },
+    {
+        "嗅生殖發育不良": "olfactogenital dysplasia"
+    },
+    {
+        "月經過少": "oligomenorrhea"
+    },
+    {
+        "月經次少量少": "oligohypomenorrhea"
+    },
+    {
+        "月經次少量多": "oligohypermenorrhea"
+    },
+    {
+        "營養": "nutrition"
+    },
+    {
+        "情慾增盛": "nympholepsy"
+    },
+    {
+        "女子淫狂": "nymphomania"
+    },
+    {
+        "肥胖 (症)": "obesity"
+    },
+    {
+        "高胰島素血性肥胖": "hyperinsulinemic obesity"
+    },
+    {
+        "腎上腺高能性肥胖": "hyperinterrenal obesity"
+    },
+    {
+        "性腺低能性肥胖": "hypogonad obesity"
+    },
+    {
+        "下視丘性肥胖": "hypothalamic obesity"
+    },
+    {
+        "甲狀腺低能性肥胖": "hypothyroid obesity"
+    },
+    {
+        "褐黃病": "ochronosis"
+    },
+    {
+        "營養需求量": "nutrient requirement"
+    },
+    {
+        "核苷酸調節蛋白": "nucleotide regulatory protein"
+    },
+    {
+        "核苷酸": "nucleotide"
+    },
+    {
+        "核苷酸酶": "nucleotidase"
+    },
+    {
+        "去甲腎上腺素": "norepinephrine"
+    },
+    {
+        "乙基睪固酮": "norethandrolone"
+    },
+    {
+        "炔諾酮": "norethindrone"
+    },
+    {
+        "羥炔諾酮": "norethynodrel"
+    },
+    {
+        "甲基去甲腎上腺素": "normetanephrine"
+    },
+    {
+        "染色體未分離": "nondisjunction"
+    },
+    {
+        "核苷": "nucleoside"
+    },
+    {
+        "核苷酶": "nucleosidase"
+    },
+    {
+        "核酸酶": "nuclease"
+    },
+    {
+        "血糖濃度正常": "normoglycemia"
+    },
+    {
+        "去甲腎上腺素": "noradrenaline"
+    },
+    {
+        "努南氏症": "Noonan's syndrome"
+    },
+    {
+        "非毒性甲狀腺腫": "nontoxic goiter"
+    },
+    {
+        "非類固醇避孕藥": "nonsteroidal contraceptive"
+    },
+    {
+        "非酮性高滲壓昏迷": "nonketotic hyperosomolar coma"
+    },
+    {
+        "中子活化分析": "neutron activation analysis"
+    },
+    {
+        "氧化氮": "nitric oxide"
+    },
+    {
+        "氮血症": "nitremia"
+    },
+    {
+        "尼－皮二氏病": "Niemann-Pick disease"
+    },
+    {
+        "非胰島素依賴型糖尿病": "NIDDM (non-insulin dependent diabetes mellitus)"
+    },
+    {
+        "子宮著床": "nidation"
+    },
+    {
+        "菸鹼酸": "nicotinic acid"
+    },
+    {
+        "神經病變": "neuropathy"
+    },
+    {
+        "神經肽": "neuropeptide"
+    },
+    {
+        "神經垂體素": "neurophysin"
+    },
+    {
+        "神經分泌": "neurosecretion"
+    },
+    {
+        "神經調壓素": "neurotensin"
+    },
+    {
+        "神經調壓素瘤": "neurotensinoma"
+    },
+    {
+        "神經傳遞質": "neurotransmitter"
+    },
+    {
+        "中性肽鏈內切酶": "neutral endopeptidase"
+    },
+    {
+        "神經元特異烯醇酶": "neuron-specific enolase"
+    },
+    {
+        "神經原": "neuron"
+    },
+    {
+        "神經調節物質": "neuromodulator"
+    },
+    {
+        "精神抑制劑；鎮神劑": "neuroleptic"
+    },
+    {
+        "神經垂體": "neurohypophysis"
+    },
+    {
+        "神經激素腺": "neurohormonal gland"
+    },
+    {
+        "神經纖維瘤病": "neurofibromatosis"
+    },
+    {
+        "神經激素；神經分泌的": "neurocrine"
+    },
+    {
+        "神經分泌作用": "neurocrinia"
+    },
+    {
+        "神經內分泌": "neuroendocrine"
+    },
+    {
+        "神經內分泌病": "neuroendocrine disease"
+    },
+    {
+        "神經內分泌統合": "neuroendocrine integration"
+    },
+    {
+        "神經內分泌學": "neuroendocrinology"
+    },
+    {
+        "神經胚細胞瘤": "neuroblastoma"
+    },
+    {
+        "胰島胚細胞病": "nesidioblastosis"
+    },
+    {
+        "神經系統": "nervous system"
+    },
+    {
+        "神經生長因子": "nerve growth factor (NGF)"
+    },
+    {
+        "神經傳導速度": "nerve conduction velocity"
+    },
+    {
+        "腎病症": "nephrotic syndrome"
+    },
+    {
+        "腎病變；腎病": "nephropathy"
+    }
+]

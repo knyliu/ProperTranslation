@@ -1,0 +1,2261 @@
+[
+    {
+        "安培(安培爾)": "Ampère, André-Maire"
+    },
+    {
+        "阿哈戈": "Arago, François Jean Dominique"
+    },
+    {
+        "阿岡，弗杭絲瓦": "Argand, François Pierre Ami"
+    },
+    {
+        "阿岡，冉-洛貝爾": "Argand, Jean-Robert"
+    },
+    {
+        "歐傑": "Auger, Pierre Victor"
+    },
+    {
+        "巴比內": "Babinet, Jacques"
+    },
+    {
+        "巴拉爾": "Balard, Antoine Jérôme"
+    },
+    {
+        "巴亞": "Bayard, Hippolyte"
+    },
+    {
+        "貝克雷勒": "Becquerel, Henri"
+    },
+    {
+        "貝拿爾": "Bénard, Henri"
+    },
+    {
+        "貝特羅": "Berthelot, Marcellin Pierre Eugène"
+    },
+    {
+        "貝特杭": "Bertrand, Joseph Louis François"
+    },
+    {
+        "比歐": "Biot, Jean-Baptiste"
+    },
+    {
+        "博曼": "Borrmann, Gerhard"
+    },
+    {
+        "布給": "Bouguer, Pierre"
+    },
+    {
+        "布東": "Bourdon, Eugene"
+    },
+    {
+        "布西內斯克": "Boussinesq, Joseph Valentin"
+    },
+    {
+        "博伏里": "Boveri, Theodor Heinrich"
+    },
+    {
+        "布哈維": "Bravais, Auguste"
+    },
+    {
+        "布里萬": "Brillouin, Léon Nicolas"
+    },
+    {
+        "布洛賽勒": "Brossel, Jean"
+    },
+    {
+        "卡諾": "Carnot, Nicolas Léonard Sadi"
+    },
+    {
+        "卡當": "Cartan, Élie Joseph"
+    },
+    {
+        "卡瑟格翰": "Cassegrain, Laurent"
+    },
+    {
+        "柯希": "Cauchy, Augustin-Louis"
+    },
+    {
+        "卡旺地什": "Cavendish, Henry"
+    },
+    {
+        "夏勒": "Charles, Jacques Alexandre César"
+    },
+    {
+        "夏勒": "Charles, Jacques Alexandre César"
+    },
+    {
+        "夏皮": "Charpy, Georges Augustin Albert"
+    },
+    {
+        "德‧克列洛": "De Clairaut, Alexis Claude"
+    },
+    {
+        "克拉培隆": "Clapeyron, Benoît Paul Émile"
+    },
+    {
+        "德‧柯里歐利": "De Coriolis, Gaspard-Gustave"
+    },
+    {
+        "柯釹": "Cornu, Marie Alfred"
+    },
+    {
+        "柯棟": "Cotton, Aimé Aususte"
+    },
+    {
+        "庫埃特": "Couette, Maurice Marie Alfred"
+    },
+    {
+        "庫隆": "Coulomb, Charles-Augustin"
+    },
+    {
+        "克哈梅": "Cramer,Gabriel"
+    },
+    {
+        "居里": "Curie, Pierre"
+    },
+    {
+        "若利歐-居里": "Joliot-Curie, Irène"
+    },
+    {
+        "達朗貝爾": "D'Alembert, Jean-Baptiste le Rond"
+    },
+    {
+        "達頌瓦勒": "D'Arsonval, Jacques-Arsène"
+    },
+    {
+        "德‧布洛格利": "De Broglie, Louis-Victor-Pierre-Raymond"
+    },
+    {
+        "德‧傑納": "De Gennes, Pierre-Gilles"
+    },
+    {
+        "德‧穆瓦弗赫": "De Moivre, Abraham"
+    },
+    {
+        "笛卡兒(德卡特)": "Descartes, René"
+    },
+    {
+        "德朗德赫": "Deslandres, Henri Alexandre"
+    },
+    {
+        "德普雷，凱薩-曼敘埃特(德普雷，賽札-曼敘埃特)": "Despretz, César-Mansuète"
+    },
+    {
+        "德特里歐": "Destriau, Georges"
+    },
+    {
+        "狄里什列": "Dirichlet, Johann Peter Gustav Lejeune"
+    },
+    {
+        "迪顯納": "Duchenne, Guillaume Benjamin Amand"
+    },
+    {
+        "迪艾姆": "Duhem, Pierre Maurice Marie"
+    },
+    {
+        "迪隆": "Dulong, Pierre Louis"
+    },
+    {
+        "迪斑": "Dupin, Pierre Charles François"
+    },
+    {
+        "法布里": "Fabry, Maurice Paul Auguste Charles"
+    },
+    {
+        "佛赫": "Faure, Camille Alphonse"
+    },
+    {
+        "德‧費馬": "De Fermat, Pierre"
+    },
+    {
+        "菲佐": "Fizeau, Armand Hippolyte Louis"
+    },
+    {
+        "弗雷勒": "Forel, François-Alphonse"
+    },
+    {
+        "傅柯": "Foucault, Jean Bernard Léon"
+    },
+    {
+        "傅里耶": "Fourier, Jean Baptiste Joseph"
+    },
+    {
+        "弗赫內": "Frenet, Jean Frédéric"
+    },
+    {
+        "弗雷內勒": "Fresnel, Augustin-Jean"
+    },
+    {
+        "弗里德勒": "Friedel, Charles"
+    },
+    {
+        "給-呂薩克": "Gay-Lussac, Joseph Louis"
+    },
+    {
+        "給-呂薩克": "Gay-Lussac, Joseph Louis"
+    },
+    {
+        "古伊": "Gouy, Louis Georges"
+    },
+    {
+        "葛哈姆": "Gramme, Zénobe"
+    },
+    {
+        "紀尼耶": "Guinier, André"
+    },
+    {
+        "古伊": "Gouy, Louis Georges"
+    },
+    {
+        "葉農": "Hénon, Michel"
+    },
+    {
+        "艾斑": "Herpin, Théodore"
+    },
+    {
+        "于戈尼歐": "Hugoniot, Pierre-Henri"
+    },
+    {
+        "若布羅": "Joblot, Louis"
+    },
+    {
+        "若丹": "Jordan, Marie Ennemond Camille"
+    },
+    {
+        "柯普": "Kopp, Emil"
+    },
+    {
+        "拉格杭熱": "Lagrange, Joseph-Louis"
+    },
+    {
+        "拉給赫": "Laguerre, Edmond Nicolas"
+    },
+    {
+        "德‧拉朗德，若澤夫": "De Lalande, Joseph Jérôme Lefrançois"
+    },
+    {
+        "德‧拉馬克": "De Lamarck, Jean-Baptiste"
+    },
+    {
+        "拉梅": "Lamé, Gabriel"
+    },
+    {
+        "拉密": "Lamy, Bernard"
+    },
+    {
+        "朗熱萬": "Langevin, Paul"
+    },
+    {
+        "德‧拉普拉斯": "De Laplace, Pierre-Simon"
+    },
+    {
+        "羅杭": "Laurent, Auguste"
+    },
+    {
+        "德‧拉瓦吉耶": "De Lavoisier, Antoine-Laurent"
+    },
+    {
+        "勒夏特利耶": "Le Châtelier, Henry Louis"
+    },
+    {
+        "勒梅特": "Lemaître, Monsignor Georges Henri Joseph Édouard"
+    },
+    {
+        "勒貝格": "Lebesgue, Henri Léon"
+    },
+    {
+        "勒克朗歇": "Leclanché, Georges"
+    },
+    {
+        "勒讓德赫": "Legendre, Adrien-Marie"
+    },
+    {
+        "勒梅特": "Lemaître, Monsignor Georges Henri Joseph Édouard"
+    },
+    {
+        "利耶拿爾": "Liénard, Alfred-Marie"
+    },
+    {
+        "利巫維勒": "Liouville, Joseph"
+    },
+    {
+        "利普曼": "Lippmann, Jonas Ferdinand Gabriel"
+    },
+    {
+        "馬呂斯": "Malus, Etienne-Louis"
+    },
+    {
+        "馬里歐特": "Mariotte, Edme"
+    },
+    {
+        "莫甘": "Mauguin, Charles-Victor"
+    },
+    {
+        "德‧莫培鉅": "De Maupertuis, Pierre-Louis Moreau"
+    },
+    {
+        "梅森納": "Mersenne, Marin"
+    },
+    {
+        "穆棟": "Mouton, Gabriel"
+    },
+    {
+        "尼格利": "Niggli, Paul"
+    },
+    {
+        "葉胡": "Héroult, Paul-Louis-Toussaint"
+    },
+    {
+        "巴斯德(帕斯德)": "Pasteur, Louis"
+    },
+    {
+        "貝勒提耶": "Peltier, Jean Charles Athanase"
+    },
+    {
+        "貝洛": "Perot, Jean-Baptiste Alfred"
+    },
+    {
+        "培翰": "Perrin, Jean Baptiste"
+    },
+    {
+        "珀蒂": "Petit, Alexis Thérèse"
+    },
+    {
+        "普朗泰": "Planté, Gaston"
+    },
+    {
+        "普拉托": "Plateau, Joseph Antoine Ferdinand"
+    },
+    {
+        "潘卡雷": "Poincaré, Jules Henri"
+    },
+    {
+        "潘索": "Poinsot, Louis"
+    },
+    {
+        "普瓦澤伊": "Poiseuille, Jean Louis Marie"
+    },
+    {
+        "普瓦頌": "Poisson, Eric"
+    },
+    {
+        "蒲歇": "Pouchet, Félix-Archimède"
+    },
+    {
+        "普雷沃斯特": "Prévost, Pierre"
+    },
+    {
+        "普魯斯特(普胡斯特)": "Proust, Dominique"
+    },
+    {
+        "德‧雷歐繆": "De Réaumur, René Antoine Ferchault"
+    },
+    {
+        "洛舍": "Roche, Édouard Albert"
+    },
+    {
+        "德‧洛雄": "De Rochon, Alexis-Marie"
+    },
+    {
+        "律埃勒": "Ruelle, David Pierre"
+    },
+    {
+        "薩瓦爾": "Savart, Félix"
+    },
+    {
+        "斯鉅姆": "Sturm, Jacques Charles François"
+    },
+    {
+        "律埃勒": "Ruelle, David Pierre"
+    },
+    {
+        "戴伏南": "Thévenin, Léon Charles"
+    },
+    {
+        "旺‧歐伏": "Van Hove, Léon"
+    },
+    {
+        "瓦里尼翁": "Varignon, Pierre"
+    },
+    {
+        "維德": "Verdet, Émile"
+    },
+    {
+        "維納伊": "Verneuil, Auguste Victor Louis"
+    },
+    {
+        "維亞爾": "Villars, Félix"
+    },
+    {
+        "維斯": "Weiss, Pierre-Ernest"
+    },
+    {
+        "阿布給": "Aboulker, Isabelle"
+    },
+    {
+        "阿布西勒": "Absil, Jean"
+    },
+    {
+        "德‧拉阿勒": "Adam de la Halle"
+    },
+    {
+        "阿丹姆": "Adam, Adolphe-Charles"
+    },
+    {
+        "阿丹": "Adan, Marie-Claire"
+    },
+    {
+        "阿涅吉": "Agnesi, Luigi"
+    },
+    {
+        "阿格里科拉": "Agricola, Alexander"
+    },
+    {
+        "阿拉尼亞": "Alagna, Roberto"
+    },
+    {
+        "阿蘭，熱昂": "Alain, Jehan"
+    },
+    {
+        "阿蘭，馬里-克列赫": "Alain, Marie-Claire"
+    },
+    {
+        "阿拉爾": "Alard, Delphin"
+    },
+    {
+        "阿勒貝爾，卡雷勒": "Albert, Karel"
+    },
+    {
+        "阿勒康": "Alkan, Charles-Valentin Morhange"
+    },
+    {
+        "阿勒特": "Alt, Bernhard"
+    },
+    {
+        "阿勒瓦雷茲": "Alvarez, Albert Gourron"
+    },
+    {
+        "阿穆瓦亞勒": "Amoyal, Pierre"
+    },
+    {
+        "阿密": "Amy, Gilbert"
+    },
+    {
+        "安德烈，弗杭茲(安德雷，弗杭茲)": "André, Franz"
+    },
+    {
+        "安德烈，莫里斯(安德雷，莫里斯)": "André, Maurice"
+    },
+    {
+        "阿博": "Arbeau, Thoinot (Jehan)"
+    },
+    {
+        "達尚博": "D'Archambeau, Jwan"
+    },
+    {
+        "阿努": "Arnould, Sophie"
+    },
+    {
+        "阿托，德吉雷": "Artôt, Désirée"
+    },
+    {
+        "阿托，亞歷山大-若澤夫(阿托，阿列克桑德赫-若澤夫)": "Artôt, Alexandre-Joseph Montagney"
+    },
+    {
+        "歐貝爾，達尼耶勒": "Auber, Daniel François Esprit"
+    },
+    {
+        "歐貝爾，賈克": "Aubert, Jacques"
+    },
+    {
+        "歐貝爾，路易(歐貝爾，盧伊)": "Aubert, Louis"
+    },
+    {
+        "歐班": "Aubin, Tony Alexandre"
+    },
+    {
+        "歐德杭": "Audran, Edmond"
+    },
+    {
+        "歐里克": "Auric, Georges"
+    },
+    {
+        "巴舍列": "Bachelet, Alfred"
+    },
+    {
+        "巴基耶": "Bacquier, Gabriel"
+    },
+    {
+        "巴伊歐": "Baillot, Pierre"
+    },
+    {
+        "巴伊": "Bailly, Louis"
+    },
+    {
+        "巴勒巴斯特": "Balbastre, Claude-Benigne"
+    },
+    {
+        "巴利夫": "Ballif, Claude"
+    },
+    {
+        "巴博德": "Barboteu, Georges"
+    },
+    {
+        "巴里": "Barie, Augustin"
+    },
+    {
+        "巴羅": "Barlow, Fred"
+    },
+    {
+        "巴雷納": "Barraine, Elsa"
+    },
+    {
+        "巴哈給": "Barraqué, Jean"
+    },
+    {
+        "巴洛": "Barraud, Henry"
+    },
+    {
+        "巴特勒蒙": "Barthelemon, Francois-Hippolyte"
+    },
+    {
+        "巴第斯特": "Batiste, Antoine"
+    },
+    {
+        "巴棟": "Batton, Desire-Alexandre"
+    },
+    {
+        "博多": "Baudo, Serge"
+    },
+    {
+        "博德里耶": "Baudrier, Yves"
+    },
+    {
+        "貝勒": "Bayle, François"
+    },
+    {
+        "伯羅布赫": "Belaubre, Louis-Noël"
+    },
+    {
+        "貝列格": "Bellaigue, Camille"
+    },
+    {
+        "班貝格": "Bemberg, Hemann-Emmanuel"
+    },
+    {
+        "伯諾瓦，弗杭絲瓦": "Benoist, François"
+    },
+    {
+        "伯諾瓦，培泰": "Benoît, Peter"
+    },
+    {
+        "德‧貝里歐": "De Bériot, Charles-Auguste"
+    },
+    {
+        "貝里歐": "Beriot, Charles-Wilfrid"
+    },
+    {
+        "白遼士(貝利歐茲)": "Berlioz, Hector"
+    },
+    {
+        "貝拿克": "Bernac, Pierre"
+    },
+    {
+        "貝尼耶": "Bernier,René"
+    },
+    {
+        "貝洛夫": "Beroff, Michel"
+    },
+    {
+        "貝泰勒": "Bertel, Jean-Luc"
+    },
+    {
+        "貝丹": "Bertin, Louise Angelique"
+    },
+    {
+        "貝第尼": "Bertini, Henri Jérôme"
+    },
+    {
+        "貝棟": "Berton, Henri-Montan"
+    },
+    {
+        "貝頌": "Besson, Gustave Auguste"
+    },
+    {
+        "貝慈": "Beydts, Louis"
+    },
+    {
+        "比亞杭": "Biarent, Adolphe"
+    },
+    {
+        "比戈": "Bigot, Eugène"
+    },
+    {
+        "德‧班舒瓦": "de Binchois, Gilles"
+    },
+    {
+        "畢內": "Binet, Jean"
+    },
+    {
+        "比才(比澤)": "Bizet, Georges"
+    },
+    {
+        "布拉維": "Blavet, Michel"
+    },
+    {
+        "布羅克": "Bloch, André"
+    },
+    {
+        "博克薩": "Bochsa, Nicolas-Charles"
+    },
+    {
+        "博耶勒曼": "Boëllmann, Léon"
+    },
+    {
+        "博耶利": "Boëly, Alexandre Pierre François"
+    },
+    {
+        "博勒迪厄": "Boieldieu, François-Adrien"
+    },
+    {
+        "德‧布瓦德夫赫": "de Boisdeffre, Charles Henri"
+    },
+    {
+        "德‧布瓦莫提耶": "de Boismortier, Joseph Bodin"
+    },
+    {
+        "博林": "Bolling, Claude"
+    },
+    {
+        "芃東": "Bondon, Jacques"
+    },
+    {
+        "芃迪": "Bondue, Yves"
+    },
+    {
+        "博農姆": "Bonhomme, Jean"
+    },
+    {
+        "博尼": "Bonis, Mélanie"
+    },
+    {
+        "博內": "Bonnet, Joseph"
+    },
+    {
+        "博德": "Bordes, Charles"
+    },
+    {
+        "博納": "Borne, François Fernand"
+    },
+    {
+        "博雷勒": "Borrel, Eugène"
+    },
+    {
+        "布庫雷什利耶夫": "Boucourechliev, André"
+    },
+    {
+        "布菲勒": "Bouffil, JacquesŜn"
+    },
+    {
+        "布伊": "Bouhy, Jacques"
+    },
+    {
+        "布朗傑，利利": "Boulanger, Lili"
+    },
+    {
+        "布朗傑，拿地阿": "Boulanger, Nadia"
+    },
+    {
+        "布列茲": "Boulez, Pierre"
+    },
+    {
+        "布羅涅": "Boulogne, Joseph"
+    },
+    {
+        "布丹": "Bourdin, Roger"
+    },
+    {
+        "布戈-迪庫德雷": "Bourgault-Ducoudray, Louis Albert"
+    },
+    {
+        "布格": "Bourgue, Maurice"
+    },
+    {
+        "德‧布吉尼翁": "De Bourguignon, Francis"
+    },
+    {
+        "博札": "Bozza, Eugène"
+    },
+    {
+        "布杭": "Brandt, Michel"
+    },
+    {
+        "布赫內": "Brenet, Michel"
+    },
+    {
+        "布杭塔": "Brenta, Gaston"
+    },
+    {
+        "布雷瓦勒，冉-巴第斯特": "Bréval, Jean-Baptiste Sebastien"
+    },
+    {
+        "布雷瓦勒，呂西安納": "Bréval, Lucienne"
+    },
+    {
+        "德‧布赫維勒": "de Breville, Pierre"
+    },
+    {
+        "布洛納": "Brone, François"
+    },
+    {
+        "布洛特": "Brott, Boris"
+    },
+    {
+        "布律梅勒": "Brumel, Antoine"
+    },
+    {
+        "布律諾": "Bruneau, Alfred"
+    },
+    {
+        "畢諾瓦": "Busnois, Antoine"
+    },
+    {
+        "畢賽": "Busser, Henri Paul"
+    },
+    {
+        "卡迪夫": "Caduff, Sylvia"
+    },
+    {
+        "德‧凱德伏洛瓦": "De Caix d'Hervelois, Louis"
+    },
+    {
+        "卡勒維": "Calvé, Emma"
+    },
+    {
+        "卡勒維爾": "Calvert, Morley"
+    },
+    {
+        "卡沃柯雷西": "Calvocoressi, Michel Dimitri"
+    },
+    {
+        "康普哈": "Campra, André"
+    },
+    {
+        "康特盧伯": "Canteloube, Joseph"
+    },
+    {
+        "卡培": "Capet, Lucien"
+    },
+    {
+        "卡普列": "Caplet, Andre"
+    },
+    {
+        "卡宏": "Caron, Rose Lucille"
+    },
+    {
+        "卡薩德敘，加比": "Casadesus, Gaby"
+    },
+    {
+        "卡薩德敘，冉-克羅德": "Casadesus, Jean-Claude"
+    },
+    {
+        "卡薩德敘，洛貝爾": "Casadesus, Robert"
+    },
+    {
+        "夏布里耶": "Chabrier, Emmanuel Alexis"
+    },
+    {
+        "德‧尚博尼耶赫": "de Chambonnières, Jacques Champion"
+    },
+    {
+        "夏密拿德": "Chaminade, Cécile"
+    },
+    {
+        "夏邦提耶，駒斯塔伏": "Charpentier, Gustave"
+    },
+    {
+        "夏邦提耶，馬克-安東尼(夏邦提耶，馬克-安圖萬)": "Charpentier, Marc-Antoine"
+    },
+    {
+        "夏提永": "Chatillon, Jean"
+    },
+    {
+        "蕭頌": "Chausson, Ernest"
+    },
+    {
+        "蕭維": "Chauvet, Charles-Alexis"
+    },
+    {
+        "謝德維勒，埃斯普里": "Chédeville, Esprit Philippe"
+    },
+    {
+        "謝德維勒，尼古拉(謝德維勒，尼科拉)": "Chédeville, Nicholas"
+    },
+    {
+        "謝德維勒，皮耶赫": "Chédeville, Pierre"
+    },
+    {
+        "薛拉爾": "Chelard, Hippolyte André Baptiste"
+    },
+    {
+        "薛曼-珀蒂": "Chemin-Petit, Hans"
+    },
+    {
+        "薛赫普南": "Cherepnin, Ivan"
+    },
+    {
+        "薛維亞爾": "Chevillard, Camille"
+    },
+    {
+        "薛夫赫伊": "Chevreuille, Raymond"
+    },
+    {
+        "齊可利尼": "Ciccolini, Aldo"
+    },
+    {
+        "辛第-達莫洛": "Cinti-Damoreau, Laura"
+    },
+    {
+        "西里": "Ciry, Michel"
+    },
+    {
+        "克拉皮頌": "Clapisson, Louis"
+    },
+    {
+        "克雷杭博": "Clérambault, Louis-Nicolas"
+    },
+    {
+        "克利達": "Clidat, France"
+    },
+    {
+        "柯拉爾": "Collard, Jean-Philippe"
+    },
+    {
+        "柯隆納": "Colonne, Edouard"
+    },
+    {
+        "孔斯當": "Constant, Marius"
+    },
+    {
+        "柯哈勒": "Coral, Cathrine"
+    },
+    {
+        "柯貝伊": "Corbeil, Claude"
+    },
+    {
+        "柯雷特，加斯帕爾": "Corrette, Gaspard"
+    },
+    {
+        "柯雷特，米歇勒": "Corrette, Michel"
+    },
+    {
+        "柯托": "Cortot, Alfred"
+    },
+    {
+        "柯賽": "Cosset, François"
+    },
+    {
+        "柯特": "Cotte, Roger"
+    },
+    {
+        "庫珀翰，弗杭絲瓦": "Couperin, François"
+    },
+    {
+        "庫珀翰，路易(庫珀翰，盧伊)": "Couperin, Louis"
+    },
+    {
+        "庫瓦吉耶": "Courvoisier, Walter"
+    },
+    {
+        "克哈": "Cras, Jean"
+    },
+    {
+        "克雷斯斑": "Crespin, Régine"
+    },
+    {
+        "給諾": "Cuénod, Hugues"
+    },
+    {
+        "達列哈克": "Dalayrac, Nicolas(-Marie)"
+    },
+    {
+        "達勒巴維": "Dalbavie, Marc-André"
+    },
+    {
+        "達勒貝托": "Dalberto, Michel"
+    },
+    {
+        "達拉伏": "Dalle Ave, Michel"
+    },
+    {
+        "達勒莫雷斯": "Dalmorès, Charles"
+    },
+    {
+        "達馬茲": "Damase, Jean-Michel"
+    },
+    {
+        "丹克拉": "Dancla, Charles"
+    },
+    {
+        "丹科": "Danco, Suzanne"
+    },
+    {
+        "丹德羅": "Dandelot, Georges"
+    },
+    {
+        "丹格勒貝爾": "d'Anglebert, Jean Henri"
+    },
+    {
+        "達尼耶-勒巨爾": "Daniel-Lesur, Jean Yves"
+    },
+    {
+        "達尼耶-勒巨爾": "Daniel-Lesur, Jean Yves"
+    },
+    {
+        "達干": "Daquin, Louis-Claude"
+    },
+    {
+        "達貝雷": "Darbellay, Jean-Luc"
+    },
+    {
+        "大衛，費利西安（達維德，費利西安）": "David, Félicien César"
+    },
+    {
+        "大衛，薩繆耶勒（達維德，薩繆耶勒）": "David, Samuel"
+    },
+    {
+        "德‧貝里歐": "De Bériot, Charles-Auguste"
+    },
+    {
+        "德‧布瓦莫提耶": "de Boismortier, Joseph Bodin"
+    },
+    {
+        "德‧葛里尼": "de Grigny, Nicolas"
+    },
+    {
+        "德‧拉阿勒": "Adam de la Halle"
+    },
+    {
+        "德‧拉律": "De la Rue, Pierre"
+    },
+    {
+        "德‧拉朗德，米歇勒": "De Lalande, Michel Richard"
+    },
+    {
+        "德‧列卡茲": "de Lescazes, Emmanuel"
+    },
+    {
+        "德‧列伊": "De Ley, Alain"
+    },
+    {
+        "德‧呂森": "de Lussan, Zélie"
+    },
+    {
+        "德‧利昂": "de Lyon, Gaultier le Vieux"
+    },
+    {
+        "德‧馬修": "de Machaut, Guillaume"
+    },
+    {
+        "德‧蒙東維勒": "de Mondonville, Jean-Joseph Cassanéa"
+    },
+    {
+        "德‧蒙特": "De Monte, Philip"
+    },
+    {
+        "德‧洛赫": "De Rore, Cipriano"
+    },
+    {
+        "德布西(德比西)": "Debussy, Claude"
+    },
+    {
+        "德柯": "Decaux, Abel-Marie"
+    },
+    {
+        "德拉熱": "Delage, Maurice"
+    },
+    {
+        "德‧拉朗德，米歇勒": "De Lalande, Michel Richard"
+    },
+    {
+        "德拉諾瓦": "Delannoy, Marcel"
+    },
+    {
+        "德利伯": "Delibes, Leo"
+    },
+    {
+        "德勒薩特": "Delsarte, Francois Alexandre Nicolas"
+    },
+    {
+        "德勒萬庫": "Delvincourt, Claude"
+    },
+    {
+        "德梅西厄": "Demessieux, Jeanne"
+    },
+    {
+        "德馬雷": "Desmarest, Henri"
+    },
+    {
+        "德佐米耶赫": "Désormière, Roger"
+    },
+    {
+        "德普雷，若斯坎": "Des Prez, Josquin"
+    },
+    {
+        "德圖什": "Destouches, André-Cardinal"
+    },
+    {
+        "德維安納": "Devienne, François"
+    },
+    {
+        "戴納": "Dhaine, Jean-Louis"
+    },
+    {
+        "達德羅": "D'Hardelot, Guy"
+    },
+    {
+        "迪‧拉索": "di Lasso(Lassus), Orlando"
+    },
+    {
+        "迪厄帕": "Dieupart, Charles"
+    },
+    {
+        "丹地": "D'Indy, Vincent"
+    },
+    {
+        "東皮耶赫": "Dompierre, François"
+    },
+    {
+        "東容": "Donjon, Johennès"
+    },
+    {
+        "多雷": "Doret, Gustave"
+    },
+    {
+        "多內勒": "Dornel, Louis-Antoine"
+    },
+    {
+        "德胡埃": "Drouet, Louis"
+    },
+    {
+        "迪柯華": "Du Caurroy, Eustache"
+    },
+    {
+        "迪普伊": "Du Puy, (Jean Baptiste) Edouard"
+    },
+    {
+        "迪布瓦，弗杭絲瓦": "Dubois, François Clément Théodore"
+    },
+    {
+        "迪布瓦，皮耶赫": "Dubois, Pierre Max"
+    },
+    {
+        "迪費": "Dufay, Guillaume"
+    },
+    {
+        "迪卡": "Dukas, Paul"
+    },
+    {
+        "迪帕克": "Duparc, Henri"
+    },
+    {
+        "迪夫利": "Duphly, Jacques"
+    },
+    {
+        "迪斑": "Dupin, Paul"
+    },
+    {
+        "迪朋，歐駒斯特": "Dupont, Auguste"
+    },
+    {
+        "迪朋，加布利耶勒": "Dupont, Gabriel"
+    },
+    {
+        "迪波爾": "Duport, Jean-Pierre"
+    },
+    {
+        "迪普雷，馬賽勒": "Dupré, Marcel"
+    },
+    {
+        "迪普雷，吉貝爾": "Duprez, Gibert"
+    },
+    {
+        "迪杭，若艾勒-弗杭絲瓦": "Durand, Joël-François"
+    },
+    {
+        "迪杭，馬里": "Durand, Marie Auguste"
+    },
+    {
+        "迪雷": "Durey, Louis"
+    },
+    {
+        "迪律夫列": "Duruflé, Maurice"
+    },
+    {
+        "迪第厄": "Dutilleux, Henri"
+    },
+    {
+        "迪托瓦": "Dutoit, Charles"
+    },
+    {
+        "迪瓦勒": "Duval, Denise"
+    },
+    {
+        "埃德勒曼": "Edelmann, Jean-Frédéric"
+    },
+    {
+        "埃洛瓦": "Eloy, Jean-Claude"
+    },
+    {
+        "埃馬釹耶勒": "Emmanuel, Maurice"
+    },
+    {
+        "昂傑勒": "Engel, Claude"
+    },
+    {
+        "艾納蒙": "Ennemond, Gaultier le Vieux"
+    },
+    {
+        "昂特蒙": "Entremont, Philippe"
+    },
+    {
+        "艾朗傑": "Erlanger, Camille"
+    },
+    {
+        "艾利": "Erlih, Devy"
+    },
+    {
+        "艾克斯培": "Expert, Henry"
+    },
+    {
+        "法農": "Farnon, Robert"
+    },
+    {
+        "法杭-迪蒙": "Farrenc-Dumont, Jeanne-Louise"
+    },
+    {
+        "佛雷": "Fauré, Gabriel"
+    },
+    {
+        "佛赫": "Faure, Jean-Baptiste"
+    },
+    {
+        "費哈里，駒斯塔伏": "Ferrari, Gustave"
+    },
+    {
+        "費哈里，呂克": "Ferrari, Luc"
+    },
+    {
+        "費哈": "Ferras, Christian"
+    },
+    {
+        "費胡": "Ferroud, Pierre-Octave"
+    },
+    {
+        "費第斯": "Fétis, Francçois-Joseph"
+    },
+    {
+        "費弗里耶": "Février, Henri"
+    },
+    {
+        "夫勒里，安德烈(夫勒里，安德雷)": "Fleury, André"
+    },
+    {
+        "夫勒里，路易(夫勒里，盧伊)": "Fleury, Louis"
+    },
+    {
+        "馮丹": "Fontyn, Jacqueline"
+    },
+    {
+        "弗雷斯提耶": "Forestier, Mathurin"
+    },
+    {
+        "弗克雷": "Forqueray, Antoine"
+    },
+    {
+        "傅雷斯提耶": "Fourestier, Louis"
+    },
+    {
+        "傅內": "Fournet, Jean"
+    },
+    {
+        "傅尼耶": "Fournier, Pierre"
+    },
+    {
+        "弗杭凱": "Francaix, Jean"
+    },
+    {
+        "弗杭科姆": "Franchomme, Auguste"
+    },
+    {
+        "弗杭克": "Franck, César"
+    },
+    {
+        "弗杭科爾": "Francoeur, François"
+    },
+    {
+        "弗杭絲瓦": "François, Samson"
+    },
+    {
+        "弗雷莫": "Frémaux, Louis"
+    },
+    {
+        "傅克斯": "Fuchs, Georg Friedrich"
+    },
+    {
+        "傅雷": "Furer, Arthur"
+    },
+    {
+        "加布里耶勒-馬里": "Gabriel-Marie, (Gabriel Prosper Marie)"
+    },
+    {
+        "加利-馬里": "Galli-Mari , Celestine Laurence"
+    },
+    {
+        "加納班": "Ganebin, Henri"
+    },
+    {
+        "加西亞-維亞多": "Garcia-Viardot, Pauline"
+    },
+    {
+        "加斯圖埃": "Gastoué, Amédée"
+    },
+    {
+        "戈貝爾": "Gaubert, Philippe"
+    },
+    {
+        "加沃": "Gaveaux, Pierre"
+    },
+    {
+        "加維尼埃斯": "Gaviniès, Pierre"
+    },
+    {
+        "加澤勒": "Gazelle, Marcel"
+    },
+    {
+        "傑達勒熱": "Gédalge, André"
+    },
+    {
+        "冉德宏": "Gendron, Maurice"
+    },
+    {
+        "熱南": "Genin, Paul Agricole"
+    },
+    {
+        "傑歐弗雷": "Geoffray, César"
+    },
+    {
+        "傑維茲": "Gervaise, Claude"
+    },
+    {
+        "加地米": "Ghadimi, Vincent"
+    },
+    {
+        "紀固": "Gigout, Eugène"
+    },
+    {
+        "紀勒": "Gilles, Jean"
+    },
+    {
+        "紀利": "Gilly, Dinh"
+    },
+    {
+        "紀勒頌": "Gilson, Paul"
+    },
+    {
+        "葛羅博卡": "Globokar, Vinko"
+    },
+    {
+        "戈達爾，班傑明(戈達爾，班賈曼)": "Godard, Benjamin"
+    },
+    {
+        "戈達埃": "Goddaer, Norbert"
+    },
+    {
+        "戈達爾，阿哈貝拉": "Goddard, Arabella"
+    },
+    {
+        "戈德華": "Godefroid, Pélix"
+    },
+    {
+        "龔貝爾": "Gombert, Nicolas"
+    },
+    {
+        "戈爾": "Gorr, Rita"
+    },
+    {
+        "戈賽克": "Gossec, François-Joseph"
+    },
+    {
+        "戈特柯弗斯基": "Gotkovsky, Ida"
+    },
+    {
+        "古諾": "Gounod, Charles"
+    },
+    {
+        "葛雷特利": "Grétry, André Ernest Modeste"
+    },
+    {
+        "葛雷": "Grey, Madeleine"
+    },
+    {
+        "德‧葛里尼": "de Grigny, Nicolas"
+    },
+    {
+        "葛洛弗列茲": "Grovlez, Gabriel"
+    },
+    {
+        "葛律密歐": "Grumiaux, Arthur"
+    },
+    {
+        "給德宏": "Guédron, Pierre"
+    },
+    {
+        "紀蘭": "Guilain, Jean Adam (Guillaume)"
+    },
+    {
+        "紀勒曼，路易(紀勒曼，盧伊)": "Guillemain, Louis Gabriel"
+    },
+    {
+        "紀勒芒，費利克斯": "Guilmant, Félix Alexandre"
+    },
+    {
+        "紀洛": "Guiraud, Ernest"
+    },
+    {
+        "阿斯": "Haas, Monique"
+    },
+    {
+        "阿伯內克": "Habeneck, François Antoine"
+    },
+    {
+        "阿卡爾": "Hacquart, Carel"
+    },
+    {
+        "阿恩": "Hahn, Raynald"
+    },
+    {
+        "哈金": "Hakim, Naji"
+    },
+    {
+        "阿列維": "Halévy, Jacques-François"
+    },
+    {
+        "德‧拉阿勒": "Adam de la Halle"
+    },
+    {
+        "阿農": "Hanon, Charles Louis"
+    },
+    {
+        "阿杜安": "Hardouin, Henri"
+    },
+    {
+        "阿賽勒曼斯，阿勒豐斯": "Hasselmans, Alphonse"
+    },
+    {
+        "阿賽勒曼斯，路易(阿賽勒曼斯，盧伊)": "Hasselmans, Louis"
+    },
+    {
+        "埃勒菲": "Helffer, Claude"
+    },
+    {
+        "亨利(昂里)": "Henry, Pierre"
+    },
+    {
+        "葉洛勒德": "Hérold, Ferdinand"
+    },
+    {
+        "埃維": "Hervé, (Florimond Ronger)"
+    },
+    {
+        "葉鉅": "Hétu, Jaques"
+    },
+    {
+        "歐夫曼，若埃勒": "Hoffman, Joël"
+    },
+    {
+        "歐勒梅斯": "Holmès, Augusta"
+    },
+    {
+        "歐內格爾": "Honegger, Arthur"
+    },
+    {
+        "歐特泰赫": "Hotteterre, Jacques-Martin"
+    },
+    {
+        "于埃": "Hüe, Georges"
+    },
+    {
+        "伊貝爾": "Ibert, Jacques"
+    },
+    {
+        "伊祖阿爾": "Isouard, Nicolò"
+    },
+    {
+        "賈給‧德‧拉給赫": "Jacquet de la Guerre, Elisabeth"
+    },
+    {
+        "賈丹，亞桑特": "Jadin, Hyacinthe"
+    },
+    {
+        "賈丹，路易-埃馬釹耶勒(賈丹，盧伊-埃馬釹耶勒)": "Jadin, Louis-Emmanuel"
+    },
+    {
+        "賈埃勒，阿勒弗雷": "Jaëll, Alfred"
+    },
+    {
+        "賈埃勒，馬里": "Jaëll, Marie"
+    },
+    {
+        "賈納坎": "Janequin, Clément"
+    },
+    {
+        "冉森": "Jansen, Jacques"
+    },
+    {
+        "賈克-達勒克洛茲": "Jacques-Dalcroze, Emile"
+    },
+    {
+        "賈赫": "Jarre, Maurice"
+    },
+    {
+        "若貝爾": "Jaubert, Maurice"
+    },
+    {
+        "若利維": "Jolivet, André"
+    },
+    {
+        "德普雷，若斯坎": "Des Prez, Josquin"
+    },
+    {
+        "朱諾": "Journeau, Maurice"
+    },
+    {
+        "朱內": "Journet, Marcel"
+    },
+    {
+        "于利安": "Jullien, Louis Antoine"
+    },
+    {
+        "卡勒克布雷內爾": "Kalkbrenner, Frederich"
+    },
+    {
+        "卡斯特內爾": "Kastner, Jean George"
+    },
+    {
+        "克雷伯": "Kleeberg, Clotilde"
+    },
+    {
+        "克羅茲": "Klose, Hyacinthe"
+    },
+    {
+        "克什蘭": "Koechlin, Charles"
+    },
+    {
+        "克赫澤爾": "Kreutzer, Rodolphe"
+    },
+    {
+        "克翰弗勒茲": "Krumpholz, Johann Baptist"
+    },
+    {
+        "拉卡茲": "Lacaze, Sophie"
+    },
+    {
+        "拉孔伯，路易(拉孔伯，盧伊)": "Lacombe, Louis Trouillon"
+    },
+    {
+        "拉孔伯，保羅(拉孔伯，波勒)": "Lacombe, Paul"
+    },
+    {
+        "拉德密洛": "Ladmirault, Paul"
+    },
+    {
+        "拉豐": "Lafont, Charles Philippe"
+    },
+    {
+        "德‧拉朗德，米歇勒": "De Lalande, Michel Richard"
+    },
+    {
+        "拉羅": "Lalo, Édouard"
+    },
+    {
+        "朗貝爾": "Lambert, Raymond Édouard"
+    },
+    {
+        "拉穆赫，夏勒": "Lamoureux, Charles"
+    },
+    {
+        "拉穆赫，冉": "Lamoureux, Jean Jacques"
+    },
+    {
+        "朗桑": "Lancen, Serge"
+    },
+    {
+        "朗西諾": "Lancino, Thierry"
+    },
+    {
+        "朗多弗斯基": "Landowski, Marcel"
+    },
+    {
+        "朗格列": "Langlais, Jean"
+    },
+    {
+        "拉帕哈": "Laparra, Raoul"
+    },
+    {
+        "拉波特": "Laporte, André"
+    },
+    {
+        "拉薩勒": "Lasalle, Jean Louis"
+    },
+    {
+        "德‧拉敘斯": "De Lassus, Roland (Lasso, Orlando di)"
+    },
+    {
+        "羅貝爾": "Lauber, Joseph"
+    },
+    {
+        "拉瓦列": "Lavallée, Calixa"
+    },
+    {
+        "拉札里": "Lazzari, Sylvio"
+    },
+    {
+        "勒庫培": "Le Couppey, Félix"
+    },
+    {
+        "勒夫雷姆": "Le Flem, Paul"
+    },
+    {
+        "勒熱內": "Le Jeune, Claude"
+    },
+    {
+        "勒敘厄爾": "Lesueur, Jean-François"
+    },
+    {
+        "勒布翰": "Lebrun, Parl Henri Joseph"
+    },
+    {
+        "勒克列爾": "Leclair, Jean-Marie"
+    },
+    {
+        "勒科克": "Lecocq, Charles"
+    },
+    {
+        "勒菲比赫-維利": "Lefébure-Wély, Louis James Alfred"
+    },
+    {
+        "勒菲比赫": "Lefébure, Yvonne"
+    },
+    {
+        "勒菲弗赫": "Lefebvre, Charles Édouard"
+    },
+    {
+        "勒格列": "Legley, Victor"
+    },
+    {
+        "勒格杭": "Legrand, Michel"
+    },
+    {
+        "列博維茲": "Leibowitz, René"
+    },
+    {
+        "勒克": "Lekeu, Guillaume"
+    },
+    {
+        "勒密赫": "Lemire, Jean-Baptiste"
+    },
+    {
+        "列歐拿爾": "Léonard,Hubert"
+    },
+    {
+        "列歐南": "Léonin(Leoninus)"
+    },
+    {
+        "勒里什": "Lerich, Pierre"
+    },
+    {
+        "勒胡": "Leroux, Xavier"
+    },
+    {
+        "德‧列卡茲": "de Lescazes, Emmanuel"
+    },
+    {
+        "勒敘厄爾": "Lesueur, Jean-François"
+    },
+    {
+        "勒巨赫": "Lesure, François"
+    },
+    {
+        "德‧列": "De Ley, Alain"
+    },
+    {
+        "利阿德": "Liardet, Jean-Paul"
+    },
+    {
+        "利泰茲": "Litaize, Gaston"
+    },
+    {
+        "利托勒夫": "Litolff, Henry Charles"
+    },
+    {
+        "勒耶，賈克": "Loeillet, Jacques"
+    },
+    {
+        "勒耶，冉-巴第斯特": "Loeillet, Jean-Baptiste"
+    },
+    {
+        "隆，馬格里特": "Long, Marguerite"
+    },
+    {
+        "羅雷": "Loret, Clément"
+    },
+    {
+        "羅里歐": "Loriod, Yvonne"
+    },
+    {
+        "盧埃勒": "Louël, Jean"
+    },
+    {
+        "呂卡": "Lucas, Clarence"
+    },
+    {
+        "呂吉尼": "Luigini, Alexandre"
+    },
+    {
+        "德‧呂利": "De Lully, Jean-Baptiste"
+    },
+    {
+        "德‧利翁": "De Lyon, Gaultier le Vieux"
+    },
+    {
+        "德‧馬修": "De Machaut, Guillaume"
+    },
+    {
+        "馬尼亞爾": "Magnard, Albéric"
+    },
+    {
+        "馬涅": "Magne, Michel"
+    },
+    {
+        "馬伊永": "Mahillon, Victor-Charles"
+    },
+    {
+        "馬亞爾": "Maillart, Aimé"
+    },
+    {
+        "馬伊": "Mailly, Alphonse Jean Ernest"
+    },
+    {
+        "德‧馬蘭格洛": "De Maleingreau, Paul"
+    },
+    {
+        "馬努里": "Manoury, Philippe"
+    },
+    {
+        "馬釹耶勒": "Manuel, Roland"
+    },
+    {
+        "馬雷，亨利(馬雷，昂里)": "Marais, Henri"
+    },
+    {
+        "馬雷，馬翰": "Marais, Marin"
+    },
+    {
+        "馬夏勒": "Marchal, André"
+    },
+    {
+        "馬尚": "Marchand, Louis"
+    },
+    {
+        "馬給吉": "Marchesi, Blanche"
+    },
+    {
+        "馬克朗": "Marcland, Patrick"
+    },
+    {
+        "馬雷夏勒": "Maréchal, Henri"
+    },
+    {
+        "馬里": "Marie, Gabriel Prosper"
+    },
+    {
+        "馬里歐特": "Mariotte, Antoine"
+    },
+    {
+        "馬西克": "Marsick, Martin"
+    },
+    {
+        "馬托": "Marteau, Henri"
+    },
+    {
+        "馬丹": "Martin, Frank"
+    },
+    {
+        "馬第內": "Martiner, Jean-Louis"
+    },
+    {
+        "馬第農": "Martinon, Jean"
+    },
+    {
+        "馬第": "Marty, Eugene Georges"
+    },
+    {
+        "馬頌": "Mason, Paul Marie"
+    },
+    {
+        "馬薩爾": "Massart, Lambert"
+    },
+    {
+        "馬瑟": "Masse, Victor"
+    },
+    {
+        "馬瑟內": "Massenet, Jules"
+    },
+    {
+        "馬第厄，安德烈(馬第厄，安德雷)": "Mathieu, André"
+    },
+    {
+        "馬第厄，洛多勒夫": "Mathieu, Rodolphe"
+    },
+    {
+        "馬第斯，埃地特": "Mathis, Edith"
+    },
+    {
+        "馬第斯，馬克": "Matthys, Marc Achille"
+    },
+    {
+        "馬棟": "Matton, Roger"
+    },
+    {
+        "莫雷勒": "Maurel, Victor"
+    },
+    {
+        "馬札斯": "Mazas, Jacques-Féréol"
+    },
+    {
+        "梅于勒": "Méhul, Étienne-Nicolas"
+    },
+    {
+        "梅利": "Meili, Max"
+    },
+    {
+        "梅居赫": "Mercure, Pierre"
+    },
+    {
+        "梅森納": "Mersenne, Marin"
+    },
+    {
+        "梅薩傑爾": "Messager, André"
+    },
+    {
+        "梅湘(梅西昂)": "Messiaen, Olivier"
+    },
+    {
+        "梅諾": "Meynaud, Michel"
+    },
+    {
+        "米修": "Micheau, Janine"
+    },
+    {
+        "米戈": "Migot, Georges"
+    },
+    {
+        "米哈羅維奇(米阿羅維西)": "Mihalovici, Marcel"
+    },
+    {
+        "米羅": "Milhaud, Darius"
+    },
+    {
+        "米耶，埃勒馬": "Miller, Elma"
+    },
+    {
+        "莫克雷阿爾": "Mocquerear, Dom André"
+    },
+    {
+        "德‧蒙東維勒": "de Mondonville, Jean-Joseph Cassanéa"
+    },
+    {
+        "蒙西尼": "Monsigny, Pierre-Alexandre"
+    },
+    {
+        "德‧蒙特": "De Monte, Philip"
+    },
+    {
+        "德‧蒙泰克列爾": "de Montéclair, Michel Pegnolet"
+    },
+    {
+        "蒙德": "Monteux, Pierre"
+    },
+    {
+        "莫洛": "Moreau, Jean-Baptiste"
+    },
+    {
+        "莫雷勒": "Morel, François"
+    },
+    {
+        "莫雷": "Moret, Norbert"
+    },
+    {
+        "穆給": "Mouquet, Jules"
+    },
+    {
+        "穆雷": "Mouret, Jean-Joseph"
+    },
+    {
+        "繆列": "Mulet, Henri"
+    },
+    {
+        "孟什": "Munch, Charles"
+    },
+    {
+        "繆札爾": "Musard, Philippe"
+    },
+    {
+        "拿德曼": "Naderman, François"
+    },
+    {
+        "諾丹": "Naudin, Emilio"
+    },
+    {
+        "諾多": "Naudot, Jacques-Christophe"
+    },
+    {
+        "拿瓦哈": "Navarra, André"
+    },
+    {
+        "納沃": "Neveu, Ginette"
+    },
+    {
+        "尼科拉": "Nicolas, Ernest"
+    },
+    {
+        "尼科列": "Nicolet, Aurèle"
+    },
+    {
+        "尼格": "Nigg, Serge"
+    },
+    {
+        "努里": "Nourrit, Adolphe"
+    },
+    {
+        "歐布席耶": "Oboussier, Robert"
+    },
+    {
+        "德‧克呂尼": "De Cluny, Odon"
+    },
+    {
+        "奧芬巴哈(歐芬巴克)": "Offenbach, Jacques"
+    },
+    {
+        "歐阿拿": "Ohana, Maurice"
+    },
+    {
+        "歐勒頌": "Olsson, Otto"
+    },
+    {
+        "翁斯羅": "Onslow, Georges"
+    },
+    {
+        "帕拉地勒": "Paladilhe, Emile"
+    },
+    {
+        "帕列斯科": "Pallesco, Thierry"
+    },
+    {
+        "邦茲哈": "Panzera, Charles"
+    },
+    {
+        "帕皮諾-庫鉅赫": "Papineau-Couture, Jean"
+    },
+    {
+        "帕可": "Pâque, Désiré"
+    },
+    {
+        "帕雷": "Paray, Paul Charles"
+    },
+    {
+        "帕里斯": "Pâris, Alain"
+    },
+    {
+        "帕德盧": "Pasdeloup, Jules Etienne"
+    },
+    {
+        "培勒提耶": "Pelletier, Wilfrid"
+    },
+    {
+        "培斑": "Pépin, Clermont"
+    },
+    {
+        "培勒繆泰": "Perlemuter, Vlado"
+    },
+    {
+        "培洛丹": "Pérotin (Perotinus Magnus)"
+    },
+    {
+        "培薩爾": "Pessard, Emile"
+    },
+    {
+        "菲利多爾": "Philidor, François-André"
+    },
+    {
+        "菲利普": "Philipp, Isidor"
+    },
+    {
+        "菲利波": "Philippot, Michel"
+    },
+    {
+        "皮耶勒坦": "Pieltain, Dieudonné-Pascal"
+    },
+    {
+        "皮耶內，亨利(皮耶內，昂里)": "Pierné, Henri Constant Gabriel"
+    },
+    {
+        "皮耶內，保羅 (皮耶內，波樂)": "Pierné, Paul"
+    },
+    {
+        "皮洪科夫": "Pironkoff, Simeon"
+    },
+    {
+        "皮華": "Piroye, Charles"
+    },
+    {
+        "皮洛": "Pirro, André"
+    },
+    {
+        "普朗頌": "Plançon, Pol"
+    },
+    {
+        "普朗給特": "Planquette, Robert"
+    },
+    {
+        "普朗泰": "Planté, Francis"
+    },
+    {
+        "普列耶勒": "Pleyel, Ignaz Josef"
+    },
+    {
+        "波特": "Poot, Marcel"
+    },
+    {
+        "蒲朗克": "Poulenc, Francis"
+    },
+    {
+        "蒲薩爾": "Poussard, Horace"
+    },
+    {
+        "蒲瑟爾": "Pousseur, Henri"
+    },
+    {
+        "普哈德勒": "Pradel, Alain Pierre"
+    },
+    {
+        "普尼歐": "Pugno, Raoul"
+    },
+    {
+        "給夫": "Quef, Charles Paul Florimond"
+    },
+    {
+        "給夫列克": "Queffelec, Anne"
+    },
+    {
+        "基諾": "Quinault, Jean Baptiste Maurice"
+    },
+    {
+        "基內": "Quinet, Marcel"
+    },
+    {
+        "哈博": "Rabaud, Henri"
+    },
+    {
+        "哈夫": "Raff, Joseph Joachim"
+    },
+    {
+        "哈莫": "Rameau, Jean-Philippe"
+    },
+    {
+        "杭帕勒": "Rampal, Jean-Pierre"
+    },
+    {
+        "哈維勒，路易(哈維勒，盧伊)": "Ravel, Louis"
+    },
+    {
+        "拉威爾（哈維勒，莫里斯）": "Ravel, Maurice"
+    },
+    {
+        "雷伊耶": "Rayer, Ernest"
+    },
+    {
+        "雷拿勒": "Raynal, Gilles"
+    },
+    {
+        "何貝勒，弗杭絲瓦": "Rebel, François"
+    },
+    {
+        "何貝勒，冉-費里": "Rebel, Jean-Fery"
+    },
+    {
+        "雷夏": "Reicha, Antonin"
+    },
+    {
+        "何諾": "Renaud, Maurice"
+    },
+    {
+        "何內-巴棟": "Rhené-Baton"
+    },
+    {
+        "德‧李博皮耶赫": "De Ribaupierre, André"
+    },
+    {
+        "李夏佛": "Richafort, Jean"
+    },
+    {
+        "李維耶": "Rivier, Jean"
+    },
+    {
+        "洛德": "Rode, Jacques Pierre Joseph"
+    },
+    {
+        "洛傑": "Rogé, Pascal"
+    },
+    {
+        "洛傑-迪卡斯": "Roger-Ducasse, Jean Jules Amable"
+    },
+    {
+        "洛朗-馬釹耶勒": "Roland-Manuel, Alexis"
+    },
+    {
+        "羅曼羅蘭（洛朗，羅蘭）": "Rolland, Romain"
+    },
+    {
+        "洛帕茲": "Ropartz, Joseph Guy"
+    },
+    {
+        "洛森塔勒": "Rosenthal, Manuel"
+    },
+    {
+        "洛特": "Roth, Daniel"
+    },
+    {
+        "胡羅": "Rouleau, Joseph Alfred"
+    },
+    {
+        "盧梭（胡索，冉-賈克）": "Rousseau, Jean-Jacques"
+    },
+    {
+        "胡索，薩繆耶勒-亞歷山大(胡索，薩繆耶勒-阿列克桑德赫)": "Rousseau, Samuel-Alexandre"
+    },
+    {
+        "胡賽勒": "Roussel, Albert"
+    },
+    {
+        "華，斯泰法納": "Roy, Stéphane"
+    },
+    {
+        "洛澤": "Rozé, Nicolas"
+    },
+    {
+        "桑第斯": "Saintis, Armand"
+    },
+    {
+        "桑棟": "Sainton, Prosper"
+    },
+    {
+        "聖桑斯": "Saint-Saëns, Camille"
+    },
+    {
+        "薩列札": "Saléza, Albert"
+    },
+    {
+        "薩利尼亞克": "Salignac, Thomas"
+    },
+    {
+        "薩馬澤伊": "Samazeuilh, Gustave"
+    },
+    {
+        "森德翰": "Sandrin, Pierre"
+    },
+    {
+        "薩第": "Satie, Erik"
+    },
+    {
+        "索給": "Sauguet, Henri"
+    },
+    {
+        "索雷": "Sauret, Emile"
+    },
+    {
+        "薩克斯": "Sax, Adolphe"
+    },
+    {
+        "薛費爾": "Schaeffer, Pierre"
+    },
+    {
+        "蕭桐(謝爾慎-蕭)": "Scherchen-Hsiao, Tona"
+    },
+    {
+        "施密特": "Schmitt, Florent"
+    },
+    {
+        "施密茲": "Schmitz, Élie"
+    },
+    {
+        "史懷哲（施維澤）": "Schweitzer, Albert"
+    },
+    {
+        "瑟拿耶": "Senaillé, Jean-Baptiste"
+    },
+    {
+        "賽維": "Servais, (Adrien-) François"
+    },
+    {
+        "德‧賽伏哈克": "de Séverac, Déodat"
+    },
+    {
+        "西莫諾": "Simoneau, Léopold"
+    },
+    {
+        "蘇里": "Souris,André"
+    },
+    {
+        "蘇澤": "Souzay, Gérard"
+    },
+    {
+        "塔布洛": "Tabourot, Thoinot (Jehan)"
+    },
+    {
+        "塔伊費赫": "Tailleferre, Germaine"
+    },
+    {
+        "塔勒馬": "Talma, Louise"
+    },
+    {
+        "唐斯曼": "Tansman, Alexender"
+    },
+    {
+        "塔普雷": "Tapray, Jean-François"
+    },
+    {
+        "塔斯坎": "Taskin, Henri Joseph"
+    },
+    {
+        "戴西耶": "Tessier, Roger"
+    },
+    {
+        "狄博": "Thibaud, Jacques"
+    },
+    {
+        "多馬": "Thomas, Ambroise"
+    },
+    {
+        "多姆": "Thome, Francis"
+    },
+    {
+        "多姆頌": "Thomson, César"
+    },
+    {
+        "提耶索": "Tiersot, Julien"
+    },
+    {
+        "狄內赫": "Tinayre, Yves"
+    },
+    {
+        "狄內勒": "Tinel, Edgar"
+    },
+    {
+        "狄特盧茲": "Titelouze, Jehan"
+    },
+    {
+        "多馬吉": "Tomasi, Henri"
+    },
+    {
+        "多特利耶": "Tortelier, Paul"
+    },
+    {
+        "杜內密赫": "Tournemire, Charles"
+    },
+    {
+        "杜尼耶": "Tournier, Marcel"
+    },
+    {
+        "杜特": "Tourte, François"
+    },
+    {
+        "特貝利": "Trebelli, Zélia"
+    },
+    {
+        "特杭布列": "Tremblay, Gilles"
+    },
+    {
+        "于杭": "Urhan, Chrétien"
+    },
+    {
+        "瓦拉斯": "Vallas, Léon"
+    },
+    {
+        "維格": "Végh, Sándor"
+    },
+    {
+        "維莫特": "Vermote, Petra"
+    },
+    {
+        "維斯特里": "Vestries, Lucia Elizabeth"
+    },
+    {
+        "維亞多": "Viardot, Pauline"
+    },
+    {
+        "維克多爾": "Victors, Karel"
+    },
+    {
+        "維耶納": "Vierne, Louis"
+    },
+    {
+        "維厄唐": "Vieuxtemps, Henri"
+    },
+    {
+        "德‧維特利": "De Vitry, Philippe"
+    },
+    {
+        "維維耶": "Vivier, Claude"
+    },
+    {
+        "瓦翰": "Voirin, François Nicolas"
+    },
+    {
+        "維耶莫茲": "Vuillermoz, Emile"
+    },
+    {
+        "瓦勒德菲勒": "Waldteufel, Émile"
+    },
+    {
+        "維克蘭": "Weckerlin, Jean-Baptiste"
+    },
+    {
+        "維森貝格": "Weissenberg, Alexis"
+    },
+    {
+        "維斯特林克": "Westerlinck, Wilfried"
+    },
+    {
+        "維多": "Widor, Charles-Marie"
+    },
+    {
+        "維耶內": "Wiéner, Jean"
+    },
+    {
+        "維廉姆": "Wilhem, Guillaume-Louis"
+    },
+    {
+        "維特柯費斯基": "Witkowski, Georges"
+    },
+    {
+        "沃爾夫，阿勒貝爾": "Wolff, Albert"
+    },
+    {
+        "沃爾夫，克里斯第安": "Wolff, Christian"
+    },
+    {
+        "格澤拿基斯": "Xenakis, Iannis"
+    }
+]

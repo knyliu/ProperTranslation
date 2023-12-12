@@ -1,0 +1,7562 @@
+[
+    {
+        "數位化誤差": "quantization error"
+    },
+    {
+        "數位化": "quantization"
+    },
+    {
+        "象限": "quadrant"
+    },
+    {
+        "Q因素": "Q factor"
+    },
+    {
+        "高溫計": "pyrometer"
+    },
+    {
+        "按鈕操作閥": "push button operated valve"
+    },
+    {
+        "清洗": "purging"
+    },
+    {
+        "純二進位數字系統": "pure binary numeration system"
+    },
+    {
+        "採購前置時間": "purchasing lead time"
+    },
+    {
+        "申購單": "purchase requisition"
+    },
+    {
+        "採購單": "purchase order"
+    },
+    {
+        "採購承諾": "purchase commitment report"
+    },
+    {
+        "確實排量式泵": "pump"
+    },
+    {
+        "脈波寬度顫動": "pulse width jitter"
+    },
+    {
+        "脈波寬度失真": "pulse width distortion"
+    },
+    {
+        "脈波波形失真": "pulse waveform distortion"
+    },
+    {
+        "脈波列": "pulse train"
+    },
+    {
+        "脈波頂值": "pulse top magnitude"
+    },
+    {
+        "脈波頂部失真": "pulse top distortion"
+    },
+    {
+        "脈波頂部中央點": "pulse top center point"
+    },
+    {
+        "脈波頂部": "pulse top"
+    },
+    {
+        "脈波整形電路，脈波整形器": "pulse shaping circuit，pulse shaper"
+    },
+    {
+        "脈波整形": "pulse shaping"
+    },
+    {
+        "脈波間隔顫動": "pulse separation jitter"
+    },
+    {
+        "脈波間隔顫動": "pulse separation fluctuation"
+    },
+    {
+        "脈波間隔失真": "pulse separation distortion"
+    },
+    {
+        "脈波間隔": "pulse separation"
+    },
+    {
+        "脈波上昇時間": "pulse risetime"
+    },
+    {
+        "脈波重複率": "pulse repetition rate"
+    },
+    {
+        "脈波重複週期顫動": "pulse repetition period jitter"
+    },
+    {
+        "脈波重複週期": "pulse repetition period"
+    },
+    {
+        "脈波重複頻率顫動": "pulse repetition frequency jitter"
+    },
+    {
+        "脈波重複頻率": "pulse repetition frequency"
+    },
+    {
+        "脈波再生電路": "pulse regeneration circuit，pulse regenerator"
+    },
+    {
+        "脈波再生": "pulse regeneration"
+    },
+    {
+        "脈波位置": "pulse position"
+    },
+    {
+        "脈波振幅顫動": "pulse magnitude jitter"
+    },
+    {
+        "脈波振幅顫動": "pulse magnitude fluctuation"
+    },
+    {
+        "脈波振幅": "pulse magnitude"
+    },
+    {
+        "脈波寬度顫動": "pulse length jitter"
+    },
+    {
+        "脈波寬度失真": "pulse length distortion"
+    },
+    {
+        "脈波 (位置) 顫動": "pulse jitter，pulse position jitter"
+    },
+    {
+        "脈波形成電路": "pulse forming circuit"
+    },
+    {
+        "脈波形成": "pulse forming"
+    },
+    {
+        "脈波下降時間": "pulse falltime"
+    },
+    {
+        "脈波任務因數": "pulse duty factor"
+    },
+    {
+        "脈波期間，脈波長度，脈波寬度": "pulse duration，pulse length，pulse width"
+    },
+    {
+        "脈波寬度顫動": "pulse duration jitter"
+    },
+    {
+        "脈波寬度失真": "pulse duration distortion"
+    },
+    {
+        "脈波中央點": "pulse center point"
+    },
+    {
+        "脈波底值": "pulse base magnitude"
+    },
+    {
+        "脈波基底失真": "pulse base distortion"
+    },
+    {
+        "脈波基底中央點": "pulse base center point"
+    },
+    {
+        "脈波基底": "pulse base"
+    },
+    {
+        "脈波振幅": "pulse amplitude"
+    },
+    {
+        "脈波前進，脈波延遲": "pulse advance，pulse delay"
+    },
+    {
+        "脈波": "pulse"
+    },
+    {
+        "虛擬隨機脈波列": "pseudo-random pulse train"
+    },
+    {
+        "虛碼": "pseudo-code"
+    },
+    {
+        "近接感測器": "proximity sensor"
+    },
+    {
+        "接近覺": "proximity sense"
+    },
+    {
+        "通約，議定": "protocol"
+    },
+    {
+        "定比溢流（放洩）閥": "proportional pressure relief valve"
+    },
+    {
+        "定比減壓閥": "proportional pressure reducing valve"
+    },
+    {
+        "比例增益": "proportional gain"
+    },
+    {
+        "比例元件": "proportional device"
+    },
+    {
+        "比例控制": "proportional control"
+    },
+    {
+        "比例帶": "proportional band"
+    },
+    {
+        "傳播延遲時間": "propagation delay time"
+    },
+    {
+        "耐壓試驗壓力": "proof test pressure"
+    },
+    {
+        "保證耐壓力": "proof pressure (pneumatic)"
+    },
+    {
+        "保證耐壓力": "proof pressure (hydraulic)"
+    },
+    {
+        "預計現金流量": "projected cash flow"
+    },
+    {
+        "程式語言": "programming language"
+    },
+    {
+        "規劃式控制": "programming control"
+    },
+    {
+        "程式": "programming"
+    },
+    {
+        "程式設計師": "programmer"
+    },
+    {
+        "程式停止": "programmed stop"
+    },
+    {
+        "選擇性程式停止": "programmed optional stop"
+    },
+    {
+        "規劃作業範圍": "programmed operating range"
+    },
+    {
+        "可程式控制器": "programmable controller"
+    },
+    {
+        "可程式控制": "programmable control (PC)"
+    },
+    {
+        "不含機械動作之程式 (基本符號)": "program without machine function (basic symbol)"
+    },
+    {
+        "含有機械功能之程式 (基本符號)": "program with machine function (basic symbol)"
+    },
+    {
+        "程式測試": "program testing"
+    },
+    {
+        "程式停止": "program stop"
+    },
+    {
+        "程式開始": "program start"
+    },
+    {
+        "計畫評核術": "program evaluation and review technique (PERT)"
+    },
+    {
+        "程式文獻作業": "program documentation"
+    },
+    {
+        "程式發展周期": "program development cycle"
+    },
+    {
+        "程式數據錯誤": "program data error"
+    },
+    {
+        "編寫程式": "program coding"
+    },
+    {
+        "程式": "program"
+    },
+    {
+        "生產計劃": "production plan"
+    },
+    {
+        "生產導向編號系統": "production oriented coding system"
+    },
+    {
+        "生產流程分析": "production flow analysis (PFA)"
+    },
+    {
+        "生產週期": "production cycle"
+    },
+    {
+        "生產管制": "production control"
+    },
+    {
+        "產品結構": "product structure"
+    },
+    {
+        "產品組合": "product mix"
+    },
+    {
+        "產品群預測": "product group forecast"
+    },
+    {
+        "產品族": "product group"
+    },
+    {
+        "獲取": "procurement"
+    },
+    {
+        "處理器單元": "processor unit"
+    },
+    {
+        "處理程式": "processing program"
+    },
+    {
+        "製程表": "process sheet"
+    },
+    {
+        "程序控制": "process control"
+    },
+    {
+        "優先法則": "priority rules"
+    },
+    {
+        "順序規劃": "priority planning"
+    },
+    {
+        "列印規劃表": "printer spacing chart"
+    },
+    {
+        "列印機": "printer"
+    },
+    {
+        "工件搬運主系統": "primary work handling system"
+    },
+    {
+        "初級感測元件": "primary sensing element"
+    },
+    {
+        "（減壓閥之）一次壓": "primary pressure of reducing valve"
+    },
+    {
+        "主故障": "primary failure"
+    },
+    {
+        "初步分類": "primary classification"
+    },
+    {
+        "預防維護時間": "preventive maintenance time"
+    },
+    {
+        "預防維護": "preventive maintenance"
+    },
+    {
+        "受壓流量": "pressurized flow (rate)"
+    },
+    {
+        "壓力-溫度補償流量控制閥": "pressure-temperature compensated flow control valve"
+    },
+    {
+        "壓力-彈簧溫度計": "pressure-spring thermometer"
+    },
+    {
+        "壓力轉換器": "pressure transducer"
+    },
+    {
+        "壓力開關": "pressure switch (pneumatic)"
+    },
+    {
+        "壓力開關": "pressure switch (hydraulic)"
+    },
+    {
+        "壓力開關": "pressure switch"
+    },
+    {
+        "壓力電驛": "pressure relay"
+    },
+    {
+        "減壓閥": "pressure reducing valve (pneumatic)"
+    },
+    {
+        "減壓閥": "pressure reducing valve (hydraulic)"
+    },
+    {
+        "溢流（放洩）減壓閥": "pressure reducing and relieving valve (pneumatic)"
+    },
+    {
+        "溢流（放洩）減壓閥": "pressure reducing and relieving valve (hydraulic)"
+    },
+    {
+        "壓力脈動": "pressure pulsation (pneumatic)"
+    },
+    {
+        "壓力脈動": "pressure pulsation (hydraulic)"
+    },
+    {
+        "壓力板": "pressure plate"
+    },
+    {
+        "壓力變換器": "pressure intensifier"
+    },
+    {
+        "壓力計": "pressure gauge"
+    },
+    {
+        "壓力計": "pressure gage"
+    },
+    {
+        "壓力變動": "pressure fluctuation"
+    },
+    {
+        "壓力降": "pressure drop (pneumatic)"
+    },
+    {
+        "壓力降": "pressure drop (hydraulic)"
+    },
+    {
+        "壓力控制閥": "pressure control valve (pneumatic)"
+    },
+    {
+        "壓力控制閥": "pressure control valve (hydraulic)"
+    },
+    {
+        "壓力控制回路": "pressure control circuit"
+    },
+    {
+        "壓力補償流量控制閥": "pressure compensated flow control valve"
+    },
+    {
+        "預擊量": "preshoot"
+    },
+    {
+        "前處理器": "preprocessor"
+    },
+    {
+        "準備機能（G機能）": "preparatory function"
+    },
+    {
+        "初步調查": "preliminary investigation"
+    },
+    {
+        "暫定預撥量": "preliminary allocation"
+    },
+    {
+        "預充閥": "prefill valve"
+    },
+    {
+        "預估": "prediction"
+    },
+    {
+        "功率因數計": "power-factor meter"
+    },
+    {
+        "電力電驛": "power relay"
+    },
+    {
+        "電力熔線": "power fuse"
+    },
+    {
+        "功率密度頻譜": "power density spectrum"
+    },
+    {
+        "電功率；乘冪": "power"
+    },
+    {
+        "電位計": "potentiometer"
+    },
+    {
+        "比壓器": "potential transformer，voltage transformer"
+    },
+    {
+        "比壓比流器": "potential current transformer"
+    },
+    {
+        "後處理器": "postprocessor"
+    },
+    {
+        "正重疊": "positive lap"
+    },
+    {
+        "確實排量式泵": "positive displacement pump"
+    },
+    {
+        "排量式馬達": "positive displacement motor"
+    },
+    {
+        "定位控制": "positioning control，point to point control"
+    },
+    {
+        "定位控制": "positioning control"
+    },
+    {
+        "位置精度-普通": "positioning accuracy-normal"
+    },
+    {
+        "位置精度-精": "positioning accuracy-fine"
+    },
+    {
+        "位置精度-粗": "positioning accuracy-coarse"
+    },
+    {
+        "定位精度": "positioning accuracy"
+    },
+    {
+        "定位器": "positioner"
+    },
+    {
+        "位置電驛": "position relay"
+    },
+    {
+        "位置記憶": "position memory"
+    },
+    {
+        "位置指示計": "position indicator"
+    },
+    {
+        "通口": "port (pneumatic)"
+    },
+    {
+        "接口": "port (hydraulic)"
+    },
+    {
+        "流通度": "popularity"
+    },
+    {
+        "提動閥": "poppet valve"
+    },
+    {
+        "複晶隔離": "poly-crystal isolation"
+    },
+    {
+        "複碼編號結構系統": "Polycode structure system"
+    },
+    {
+        "多態指數": "politropic exponent，politropic index"
+    },
+    {
+        "多態變化": "politropic change"
+    },
+    {
+        "極性電驛": "polarity relay"
+    },
+    {
+        "極性": "polarity"
+    },
+    {
+        "極座標型機器人": "polar coordinated robot"
+    },
+    {
+        "銷售點終端機": "point-of-sale terminal(POS)"
+    },
+    {
+        "點對點控制": "point to point control(PTP)"
+    },
+    {
+        "氣壓": "pneumatics"
+    },
+    {
+        "氣-液變換器": "pneumatic-hydraulic convertor"
+    },
+    {
+        "氣壓-液壓控制": "pneumatic-hydraulic control"
+    },
+    {
+        "氣力虎鉗": "pneumatic vice"
+    },
+    {
+        "氣力振動器": "pneumatic vibrator"
+    },
+    {
+        "氣力工具": "pneumatic tool"
+    },
+    {
+        "氣壓系統": "pneumatic system"
+    },
+    {
+        "氣力擠壓機": "pneumatic squeezer"
+    },
+    {
+        "氣壓伺服機構": "pneumatic servo mechanism"
+    },
+    {
+        "氣壓感測器": "pneumatic sensor"
+    },
+    {
+        "氣力起子": "pneumatic screw driver"
+    },
+    {
+        "氣力鑿岩機": "pneumatic rock drill"
+    },
+    {
+        "氣鉚機": "pneumatic rivetter"
+    },
+    {
+        "氣力壓機": "pneumatic prers"
+    },
+    {
+        "氣壓定位機構": "pneumatic positioning mechanism"
+    },
+    {
+        "氣壓式運算": "pneumatic methods"
+    },
+    {
+        "氣力升降機": "pneumatic lift"
+    },
+    {
+        "氣壓指示器": "pneumatic indicator"
+    },
+    {
+        "氣力扳手": "pneumatic impact wrench"
+    },
+    {
+        "氣力起重機": "pneumatic hoist"
+    },
+    {
+        "氣鎚": "pneumatic hammer"
+    },
+    {
+        "氣力磨輪": "pneumatic grinder"
+    },
+    {
+        "氣壓過濾器": "pneumatic filter"
+    },
+    {
+        "氣力引擎": "pneumatic engine"
+    },
+    {
+        "氣力噴射器": "pneumatic ejector"
+    },
+    {
+        "氣鑽": "pneumatic drill"
+    },
+    {
+        "氣力式關門機": "pneumatic door engine"
+    },
+    {
+        "氣力模墊": "pneumatic die-cushion"
+    },
+    {
+        "氣壓裝置": "pneumatic device"
+    },
+    {
+        "氣壓缸": "pneumatic cylinder"
+    },
+    {
+        "氣壓計數器": "pneumatic counter"
+    },
+    {
+        "氣力輸送機": "pneumatic conveyor"
+    },
+    {
+        "氣壓式控制閥": "pneumatic control valve"
+    },
+    {
+        "氣力離合器": "pneumatic clutch"
+    },
+    {
+        "氣壓回路": "pneumatic circuit"
+    },
+    {
+        "氣力夾頭": "pneumatic chuck"
+    },
+    {
+        "氣力鑿平機": "pneumatic chipper"
+    },
+    {
+        "氣壓蜂鳴器": "pneumatic buzzer"
+    },
+    {
+        "氣力剎車": "pneumatic brake"
+    },
+    {
+        "氣力軸承": "pneumatic bearing"
+    },
+    {
+        "氣力平衡器": "pneumatic balancer"
+    },
+    {
+        "柱塞": "plunger"
+    },
+    {
+        "防止反轉電驛": "plugging relay"
+    },
+    {
+        "反轉制動": "plugging"
+    },
+    {
+        "繪圖機": "plotter"
+    },
+    {
+        "重現系統": "playback system"
+    },
+    {
+        "重現型機器人": "playback robot"
+    },
+    {
+        "重現準確度": "playback accuracy"
+    },
+    {
+        "計畫期": "planning horizon，horizon"
+    },
+    {
+        "規劃物料表": "planning bill of material"
+    },
+    {
+        "計畫訂單": "planned order"
+    },
+    {
+        "平面技術": "planar technique"
+    },
+    {
+        "皮氏（Pittler) 編號系統": "Pittler coding system"
+    },
+    {
+        "活塞閥": "piston valve"
+    },
+    {
+        "活塞形蓄壓器": "piston type hydropneumatic accumulator"
+    },
+    {
+        "活塞桿": "piston rod"
+    },
+    {
+        "活塞泵": "piston pump"
+    },
+    {
+        "活塞馬達": "piston motor，plunger motor"
+    },
+    {
+        "活塞式液壓缸": "piston cylinder"
+    },
+    {
+        "活葉馬達": "piston air motor"
+    },
+    {
+        "活塞式氣壓缸": "piston (pneumatic) cylinder"
+    },
+    {
+        "活塞": "piston (pneumatic) "
+    },
+    {
+        "活塞": "piston (hydraulic)"
+    },
+    {
+        "比羅尼計": "pirani gage"
+    },
+    {
+        "引導閥": "pilot valve (pneumatic)"
+    },
+    {
+        "引導閥": "pilot valve (hydraulic)"
+    },
+    {
+        "引導壓力": "pilot pressure"
+    },
+    {
+        "電磁引導換向閥": "pilot operated valve"
+    },
+    {
+        "引導方式": "pilot operated system"
+    },
+    {
+        "引導形電磁閥": "pilot operated solenoid valve"
+    },
+    {
+        "引導換向閥": "pilot operated directional control valve (pneumatic)"
+    },
+    {
+        "引導換向閥": "pilot operated directional control valve (hydraulic)"
+    },
+    {
+        "引導操作止回閥": "pilot operated check valve"
+    },
+    {
+        "先導機製（生產）單元": "pilot machining cell"
+    },
+    {
+        "引導管路": "pilot line"
+    },
+    {
+        "引導控制": "pilot control"
+    },
+    {
+        "引導通口": "pilot (control) port"
+    },
+    {
+        "鴿洞": "pigeon holes"
+    },
+    {
+        "壓電式轉換器": "piezoelectric transducer"
+    },
+    {
+        "單一零件": "piece parts"
+    },
+    {
+        "檢存站": "pick-up/discharge station，P-D station"
+    },
+    {
+        "撿取順序": "picking sequence"
+    },
+    {
+        "撿料單": "picking list"
+    },
+    {
+        "撿料": "picking"
+    },
+    {
+        "檢存站": "pick-up/deposit station"
+    },
+    {
+        "取放機器人": "pick and place robot，Bang-Bang robot"
+    },
+    {
+        "實體記錄": "physical record"
+    },
+    {
+        "實際盤存": "physical inventory"
+    },
+    {
+        "光伏打電池": "photovoltaic cell"
+    },
+    {
+        "光電晶體": "phototransistor"
+    },
+    {
+        "光電轉換元件": "photoelectric transducering element"
+    },
+    {
+        "光二極體": "photodiode"
+    },
+    {
+        "光電導元件": "photoconductive element"
+    },
+    {
+        "相敏整流器": "phase-sensitive detector"
+    },
+    {
+        "移相器": "phase shifter"
+    },
+    {
+        "相位": "phase"
+    },
+    {
+        "PGM編號系統": "PGM coding system"
+    },
+    {
+        "週邊設備": "peripheral device"
+    },
+    {
+        "週期性脈波列": "periodic pulse train"
+    },
+    {
+        "定期維護": "periodic maintenance"
+    },
+    {
+        "耐用期間": "period of endurance"
+    },
+    {
+        "打孔紙帶輸出": "perforated tape output"
+    },
+    {
+        "理想氣體": "perfect gas"
+    },
+    {
+        "百分率基準線": "percent reference line"
+    },
+    {
+        "百分率點": "percent point"
+    },
+    {
+        "PERA編號系統": "PERA（Production Eng. Research Asso.) coding system"
+    },
+    {
+        "擺錘式角位移感測器": "pendulous angulardisplacement sensor"
+    },
+    {
+        "柏爾提效應": "Peltier effect"
+    },
+    {
+        "需求追蹤": "pegging"
+    },
+    {
+        "踏板操作閥": "pedal operated valve (pneumatic)"
+    },
+    {
+        "踏板操作閥": "pedal operated valve (hydraulic)"
+    },
+    {
+        "峰至峰半值點": "peak to peak mesial point"
+    },
+    {
+        "峰至峰半值振幅": "peak to peak mesial magnitude"
+    },
+    {
+        "峰值感測": "peak sensing"
+    },
+    {
+        "尖峰半值點": "peak mesial point"
+    },
+    {
+        "尖峰半值振幅": "peak mesial magnitude"
+    },
+    {
+        "有用負載": "payload"
+    },
+    {
+        "圖形識別": "pattern recognition"
+    },
+    {
+        "型樣匹配": "pattern matching"
+    },
+    {
+        "路徑控制": "path control"
+    },
+    {
+        "逾期": "past due"
+    },
+    {
+        "被動感測器": "passive sensor (sensor)"
+    },
+    {
+        "被動式濾波器": "passive filter"
+    },
+    {
+        "被動元件": "passive device"
+    },
+    {
+        "通路": "passage (pneumatic)"
+    },
+    {
+        "通路": "passage (hydraulic)"
+    },
+    {
+        "零件表（單）": "parts list"
+    },
+    {
+        "部分故障": "partial failure"
+    },
+    {
+        "工件程式": "part program"
+    },
+    {
+        "料號": "part number"
+    },
+    {
+        "工件族": "part family，part group"
+    },
+    {
+        "零件": "part"
+    },
+    {
+        "同位核對": "parity check"
+    },
+    {
+        "同位核對": "parity check"
+    },
+    {
+        "同位位元": "parity bit"
+    },
+    {
+        "並行轉換": "parallel-conversion"
+    },
+    {
+        "並聯系統": "parallel system"
+    },
+    {
+        "並聯複聯": "parallel redundancy"
+    },
+    {
+        "拋物線插值": "parabolic interpolation"
+    },
+    {
+        "托板布置": "pallet layout"
+    },
+    {
+        "托板指派": "pallet assignment"
+    },
+    {
+        "托板": "pallet"
+    },
+    {
+        "成對回波": "paired echo"
+    },
+    {
+        "光電導引": "painted-line or optoelectronic guidance"
+    },
+    {
+        "襯墊": "packing (pneumatic)"
+    },
+    {
+        "襯墊": "packing (hydraulic)"
+    },
+    {
+        "包裝密度": "packaging density"
+    },
+    {
+        "包裝": "package (v.)"
+    },
+    {
+        "包裝": "package (n.)"
+    },
+    {
+        "PAB連接": "PAB connection"
+    },
+    {
+        "過電壓電驛": "overvoltage relay"
+    },
+    {
+        "超應力故障": "over-stress failure"
+    },
+    {
+        "過速開關": "over-speed switch"
+    },
+    {
+        "過速電驛": "over-speed relay"
+    },
+    {
+        "超越量": "overshoot"
+    },
+    {
+        "重疊": "overlapping"
+    },
+    {
+        "複合式高架輸送機": "overhead power & free conveyor"
+    },
+    {
+        "製造費用": "overhead"
+    },
+    {
+        "過流跳脫線圈": "overcurrent trip coil"
+    },
+    {
+        "過流電驛": "overcurrent relay"
+    },
+    {
+        "等溫總效率": "overall isothermal efficiency"
+    },
+    {
+        "絕熱總效率": "overall adiabatic efficiency"
+    },
+    {
+        "正重疊": "over lap，positive lap (hydraulic)"
+    },
+    {
+        "正重疊": "over lap (pneumatic)"
+    },
+    {
+        "超阻尼": "over damping"
+    },
+    {
+        "輸出單元": "output unit"
+    },
+    {
+        "失步電驛": "out-of-step relay，step out relay"
+    },
+    {
+        "出口": "outlet port，service port"
+    },
+    {
+        "臂之伸縮": "out-in of the arm"
+    },
+    {
+        "振盪器": "oscillator"
+    },
+    {
+        "擺動式驅動器": "oscillating rotary actuator"
+    },
+    {
+        "擺動式驅動器": "oscillating motor"
+    },
+    {
+        "原點/基準點（基本符號）": "origin/datum (basic symbol)"
+    },
+    {
+        "孔口": "orifice (pneumatic)"
+    },
+    {
+        "孔口": "orifice (hydraulic)"
+    },
+    {
+        "訂購成本，訂貨成本": "ordering cost"
+    },
+    {
+        "訂購量": "order quantity"
+    },
+    {
+        "訂購點": "order point"
+    },
+    {
+        "撿料問題": "order picking problem"
+    },
+    {
+        "訂單登錄系統": "order entry system"
+    },
+    {
+        "積欠訂單": "order backlog"
+    },
+    {
+        "訂（料）單累計": "order accumulation"
+    },
+    {
+        "或回路": "OR circuit"
+    },
+    {
+        "或": "or"
+    },
+    {
+        "選擇性停止": "optional stop，planned stop"
+    },
+    {
+        "段之選擇性刪除": "optional block skip，block delete"
+    },
+    {
+        "選擇性跳節": "optional block skip"
+    },
+    {
+        "最佳控制": "optimum control"
+    },
+    {
+        "最佳化": "optimization"
+    },
+    {
+        "光學式數字顯示": "optical digits-display"
+    },
+    {
+        "光纖": "optic fiber"
+    },
+    {
+        "歐式（Opitz)編號系統": "Opitz coding system"
+    },
+    {
+        "作業順序（操作順序）": "operations sequence"
+    },
+    {
+        "作業排程": "operations scheduling"
+    },
+    {
+        "作業研究": "operations research(OR)"
+    },
+    {
+        "作業部門": "operations department"
+    },
+    {
+        "操作可靠度": "operational reliability"
+    },
+    {
+        "操作可用度": "operational availability"
+    },
+    {
+        "運算放大器": "operational amplifier"
+    },
+    {
+        "作業碼": "operation code"
+    },
+    {
+        "操作時間": "operating time"
+    },
+    {
+        "作業系統": "operating system"
+    },
+    {
+        "操作需求時間": "operating required time"
+    },
+    {
+        "非操作需求時間": "operating non-required time"
+    },
+    {
+        "操作用電動機": "operating motor"
+    },
+    {
+        "動作線圈": "operating coil"
+    },
+    {
+        "運算元": "operand"
+    },
+    {
+        "開相電驛": "open-phase relay"
+    },
+    {
+        "開路式轉換": "open-loop transducing (deflection method)"
+    },
+    {
+        "開環系統": "open-loop system"
+    },
+    {
+        "容位": "opening"
+    },
+    {
+        "斷路": "open，off"
+    },
+    {
+        "開閥位": "open position"
+    },
+    {
+        "開路式控制機器人": "open loop robot"
+    },
+    {
+        "開迴路式物料需求規劃": "open loop MRP"
+    },
+    {
+        "中位開路": "open center"
+    },
+    {
+        "斷": "open"
+    },
+    {
+        "上料搬運梭": "on-shuttle"
+    },
+    {
+        "開閉伺服系統": "on-off servo system"
+    },
+    {
+        "開關式控制": "on-off control"
+    },
+    {
+        "有載電壓調整器": "on-load voltage regulator"
+    },
+    {
+        "有載變換分接頭變壓器": "on-load tap-changing transformer"
+    },
+    {
+        "即時速度量測": "on-line speed measurement"
+    },
+    {
+        "即時位置量測": "on-line position measurement"
+    },
+    {
+        "即時加速度量測": "on-line acceleration measurement"
+    },
+    {
+        "單程運動時間": "one-way travel time"
+    },
+    {
+        "無給油氣壓元件": "oilless enclosed pneumatic device"
+    },
+    {
+        "油箱": "oil tand"
+    },
+    {
+        "除油器": "oil mist separator"
+    },
+    {
+        "油霧": "oil mist"
+    },
+    {
+        "油壓泵": "oil hydraulic pump"
+    },
+    {
+        "油壓馬達": "oil hydraulic motor"
+    },
+    {
+        "油壓回路": "oil hydraulic circuit"
+    },
+    {
+        "油斷路器": "oil circuit breaker"
+    },
+    {
+        "電阻（歐姆）計": "ohmmeter"
+    },
+    {
+        "下料搬運梭": "off-shuttle"
+    },
+    {
+        "偏閥位": "offset valve position (pneumatic)"
+    },
+    {
+        "偏閥位": "offset valve position (hydraulic)"
+    },
+    {
+        "偏置": "offset"
+    },
+    {
+        "辦公室自動化": "office automation (OA)"
+    },
+    {
+        "回復記憶": "off return memory"
+    },
+    {
+        "目標程式": "Object program，target program"
+    },
+    {
+        "尼奎士頻率": "Nyquist frequency"
+    },
+    {
+        "數值控制帶（NC帶)": "numerical control tap"
+    },
+    {
+        "數值控制": "numerical control"
+    },
+    {
+        "數值控制": "numerical control"
+    },
+    {
+        "通口數": "number of ports"
+    },
+    {
+        "歸零法": "null method"
+    },
+    {
+        "噴嘴": "nozzle"
+    },
+    {
+        "反": "not，negation"
+    },
+    {
+        "否回路": "NOT circuit"
+    },
+    {
+        "常開": "normally open (pneumatic)"
+    },
+    {
+        "常開": "normally open (hydraulic)"
+    },
+    {
+        "常閉": "normally closed (pneumatic)"
+    },
+    {
+        "常閉": "normally closed (hydraulic)"
+    },
+    {
+        "正常閥位": "normal valve position (pneumatic)"
+    },
+    {
+        "正常閥位": "normal valve position (hydraulic)"
+    },
+    {
+        "正常停止": "normal stop"
+    },
+    {
+        "常態流量": "normal flow (rate)"
+    },
+    {
+        "常態": "normal condition"
+    },
+    {
+        "反或回路": "NOR circuit"
+    },
+    {
+        "反或": "nor"
+    },
+    {
+        "非伺服控制機器人": "nonservo-controlled robot"
+    },
+    {
+        "直接形蓄壓器": "nonseparator type hydropneumatic accumulator"
+    },
+    {
+        "非關聯故障": "non-relevant failure"
+    },
+    {
+        "無潤滑氣壓元件": "non-lubricant pneumatic device"
+    },
+    {
+        "非線性感測器": "nonlinear sensor"
+    },
+    {
+        "非線性等化": "nonlinear equalization"
+    },
+    {
+        "非衝擊列印機": "non-impact printer"
+    },
+    {
+        "非電量": "nonelectrical quantity"
+    },
+    {
+        "中性點接地電阻器": "neutral grounding resistor"
+    },
+    {
+        "網路規劃": "net work planning"
+    },
+    {
+        "可搬淨重量": "net weight capacity"
+    },
+    {
+        "淨需求": "net requirements"
+    },
+    {
+        "淨變動式物料需求規劃": "net change MRP"
+    },
+    {
+        "數值控制型機器人": "NC robot"
+    },
+    {
+        "非及（NAND) 邏輯": "NAND-logic"
+    },
+    {
+        "反及": "nand"
+    },
+    {
+        "圖釘形結著（球形結著）": "Nail head bonding，ball bonding"
+    },
+    {
+        "人力方式": "muscular operated system"
+    },
+    {
+        "複振器": "multi-vibrator"
+    },
+    {
+        "多諧振動器": "multivibrator"
+    },
+    {
+        "多重規劃": "multiprogramming"
+    },
+    {
+        "多樣反覆型機器人": "multi-programmed repeatable robot"
+    },
+    {
+        "多位置式氣壓缸": "multiposition cylinder"
+    },
+    {
+        "多點記錄計": "multi-point recorder"
+    },
+    {
+        "乘": "multiplication"
+    },
+    {
+        "多工器": "multiplexer"
+    },
+    {
+        "多元迴歸模式": "multiple regression model"
+    },
+    {
+        "多徑物料搬運": "multipath material handling"
+    },
+    {
+        "複式機器群": "multi-machine group"
+    },
+    {
+        "多層連接": "multilayer interconnection"
+    },
+    {
+        "分歧式線路": "multidrop line"
+    },
+    {
+        "多晶粒": "multichipUSER:"
+    },
+    {
+        "消音器": "muffler，silencer"
+    },
+    {
+        "可動形元件": "moving part device"
+    },
+    {
+        "動作功能": "moving function"
+    },
+    {
+        "動作控制功能": "moving control function"
+    },
+    {
+        "n中取m系統": "M-out-of-n system"
+    },
+    {
+        "電動閥": "motor-operated valve"
+    },
+    {
+        "電動發電機": "motor generator"
+    },
+    {
+        "電動機": "motor"
+    },
+    {
+        "運動控制功能": "motion control function"
+    },
+    {
+        "金氧半電晶體": "MOS transistor (MOS TOR MOS FET)"
+    },
+    {
+        "單穩多諧振動器": "monostable multivibrator，one-shot multivibrator"
+    },
+    {
+        "單安定元件": "monostable device"
+    },
+    {
+        "單石積體電路": "monolithic integrated circuit"
+    },
+    {
+        "單石": "monolithic"
+    },
+    {
+        "單碼編號結構系統": "Monocode structure system"
+    },
+    {
+        "監視器，監督程式": "monitor，monitoring program"
+    },
+    {
+        "監視器": "monitor"
+    },
+    {
+        "模殼斷路器": "molded case circuit breaker"
+    },
+    {
+        "模組化機器人": "modular robot"
+    },
+    {
+        "模組式物料表": "modular bill of material"
+    },
+    {
+        "放縮": "zoom"
+    },
+    {
+        "零點同步(重定)": "zero-synchronization"
+    },
+    {
+        "零相比流器": "zero-phase-sequence current transformer"
+    },
+    {
+        "零階儀器": "zero-order instrument"
+    },
+    {
+        "零重疊": "zero lap (pneumatic)"
+    },
+    {
+        "零偏位，原點差距": "zero offset"
+    },
+    {
+        "零重疊": "Zero lap (hydraulic)"
+    },
+    {
+        "X-Y繪圖機": "X-Y plotter"
+    },
+    {
+        "X-Y記錄器": "X-Y recorder"
+    },
+    {
+        "手腕": "wrist"
+    },
+    {
+        "置(填)入記憶裝": "write data into store"
+    },
+    {
+        "作業空間": "working space (operating space)"
+    },
+    {
+        "使用壓力": "working pressure range"
+    },
+    {
+        "作業功能\r": "working function"
+    },
+    {
+        "動作流體": "working fluid (pneumatic)"
+    },
+    {
+        "動作液": "working fluid (hydraulic)"
+    },
+    {
+        "作業距離": "working distance (operating distance)"
+    },
+    {
+        "動作壓力差": "working differential pressure"
+    },
+    {
+        "作業角度": "working angle (operating angle)"
+    },
+    {
+        "工件": "work piece"
+    },
+    {
+        "作業原點": "work origin"
+    },
+    {
+        "文字處理": "word processing"
+    },
+    {
+        "字語位址格式": "word address format"
+    },
+    {
+        "視窗": "window"
+    },
+    {
+        "字語": "word"
+    },
+    {
+        "用處報表": "where-used report"
+    },
+    {
+        "惠斯頓電橋": "Wheatstone bridge"
+    },
+    {
+        "井型液柱壓力計": "well-type manometer"
+    },
+    {
+        "重力形蓄壓器": "weighted type mechanical accumulator"
+    },
+    {
+        "量重法液位測定": "weighting method of  liquid measurement"
+    },
+    {
+        "重量流量": "weight flow (rate)"
+    },
+    {
+        "損耗故障期": "wear-out failure period"
+    },
+    {
+        "可搬重量": "weight capacity，load capacity"
+    },
+    {
+        "損耗故障": "wear-out failure"
+    },
+    {
+        "波形整形電路，波形整形器": "waveform shaping circuit，waveform shaper"
+    },
+    {
+        "波形整形": "waveform shaping"
+    },
+    {
+        "波形再生電路": "waveform regeneration circuit，waveform regenerator"
+    },
+    {
+        "波形再生": "waveform regeneration"
+    },
+    {
+        "波形等化電路": "waveform equalization circuit，waveform equalizer"
+    },
+    {
+        "波": "wave"
+    },
+    {
+        "波形": "waveform"
+    },
+    {
+        "波形等化": "waveform equalization"
+    },
+    {
+        "瓦時計": "wattmeter"
+    },
+    {
+        "瓦時計": "watt-hour meter"
+    },
+    {
+        "待機": "waiting"
+    },
+    {
+        "水位計": "water level indicator"
+    },
+    {
+        "(半導體之)晶片": "Wafer (of a semiconductor)"
+    },
+    {
+        "容量補助器": "volume booster"
+    },
+    {
+        "容積效率": "volumetric efficiency"
+    },
+    {
+        "流量": "volumetric flow (rate)"
+    },
+    {
+        "電壓計切換開關": "voltmeter changeover switch"
+    },
+    {
+        "電壓計": "voltmeter"
+    },
+    {
+        "電壓/頻率/(V/F)轉換器": "voltage-frequency converter"
+    },
+    {
+        "電壓源": "voltage source"
+    },
+    {
+        "電壓頻率轉換器": "voltage to frequency converter"
+    },
+    {
+        "語音輸入": "voice input"
+    },
+    {
+        "語音輸出": "voice output"
+    },
+    {
+        "電壓電驛": "voltage relay"
+    },
+    {
+        "視覺": "visual sense"
+    },
+    {
+        "視檢法": "visual inspection method"
+    },
+    {
+        "粘度": "viscosity"
+    },
+    {
+        "視覺回饋": "visual feedback"
+    },
+    {
+        "虛(擬)儲存體": "virtual storage"
+    },
+    {
+        "垂直迴轉料架": "vertical carousel"
+    },
+    {
+        "通氣用過濾器": "vent type filter"
+    },
+    {
+        "導壓外引通口": "vent-port"
+    },
+    {
+        "文氏管": "venturitube"
+    },
+    {
+        "供應商前置時間": "vender lead time"
+    },
+    {
+        "導壓外引管路": "vent line"
+    },
+    {
+        "向量再生": "vector refresh"
+    },
+    {
+        "VDW編號系統": "VDW coding system"
+    },
+    {
+        "可變磁阻轉換器": "variable-reluctance transducer"
+    },
+    {
+        "可變順序型機器人": "variable sequence robot"
+    },
+    {
+        "變頻式轉換": "variable-frequency transducing"
+    },
+    {
+        "可變排量馬達": "variable displacement motor"
+    },
+    {
+        "可變字長": "variable word length"
+    },
+    {
+        "可變排量泵": "variable displacement pump"
+    },
+    {
+        "輪葉泵": "vane pump"
+    },
+    {
+        "可變段格式": "variable block format"
+    },
+    {
+        "乏計": "Var meter，reactive power meter"
+    },
+    {
+        "輪葉馬達": "vane motor"
+    },
+    {
+        "閥台": "valve stand"
+    },
+    {
+        "輪葉馬達": "vane air motor"
+    },
+    {
+        "閥位": "valve position (pneumatic)"
+    },
+    {
+        "閥座": "valve seat"
+    },
+    {
+        "閥": "valve (pneumatic)"
+    },
+    {
+        "閥板": "valve plate"
+    },
+    {
+        "閥位": "valve position (hydraulic)"
+    },
+    {
+        "Kv值": "value of Kv"
+    },
+    {
+        "閥體": "valve"
+    },
+    {
+        "閥": "valve (hydraulic)"
+    },
+    {
+        "Cv值": "value of Cv"
+    },
+    {
+        "真空開關": "vacuum switch"
+    },
+    {
+        "Av值": "value of Av"
+    },
+    {
+        "附加價值": "value added"
+    },
+    {
+        "真空蒸鍍": "vacuum evaporation"
+    },
+    {
+        "真空計": "vacuum gauge"
+    },
+    {
+        "真空電驛": "vacuum relay"
+    },
+    {
+        "真空氣壓缸": "vacuum cylinder"
+    },
+    {
+        "真空斷路器": "Vacuum circuit breaker"
+    },
+    {
+        "可用壽命": "useful life"
+    },
+    {
+        "公用程式": "utilities system"
+    },
+    {
+        "U字管型液柱壓力計": "U-tube type manometer"
+    },
+    {
+        "上臂": "upperarm"
+    },
+    {
+        "臂之上下轉動": "up-down turning of the arm"
+    },
+    {
+        "臂之上下移動": "up-down of the arm"
+    },
+    {
+        "更新": "updating"
+    },
+    {
+        "可操作時間": "up time"
+    },
+    {
+        "卸載閥": "unloading valve"
+    },
+    {
+        "卸載": "unloading"
+    },
+    {
+        "卸載引導閥": "unloader (pilot) valve"
+    },
+    {
+        "步級響應": "unit step response"
+    },
+    {
+        "單位步級": "unit step"
+    },
+    {
+        "脈衝響應": "unit impulse response"
+    },
+    {
+        "單位脈衝，δ函數，衝擊函數": "unit impulse"
+    },
+    {
+        "單極脈波列": "unipolar pulse train"
+    },
+    {
+        "單極脈波": "unipolar pulse"
+    },
+    {
+        "欠壓釋放線圈": "under-voltage release coil，under-voltage trip coil"
+    },
+    {
+        "欠壓電驛": "under-voltage relay"
+    },
+    {
+        "負重疊": "under lap，negative lap (hydraulic)"
+    },
+    {
+        "負重疊": "under lap (pneumatic)"
+    },
+    {
+        "欠阻尼": "under damping"
+    },
+    {
+        "超音波感測器": "ultrasonic sensor"
+    },
+    {
+        "超音波法液位測定": "ultra-sonic method of liquid measurement"
+    },
+    {
+        "超音波結著": "ultrasonic bonding"
+    },
+    {
+        "類型加工技術": "type technology"
+    },
+    {
+        "二口閥": "two-port connection valve"
+    },
+    {
+        "二位閥": "two position valve (pneumatic)"
+    },
+    {
+        "二位閥": "two position valve (hydraulic)"
+    },
+    {
+        "二口閥": "two ports connection valve"
+    },
+    {
+        "存取率": "turnover rate"
+    },
+    {
+        "開啟時間": "turn on time"
+    },
+    {
+        "關閉": "turn off"
+    },
+    {
+        "開啟": "turn on"
+    },
+    {
+        "關閉時間": "turn off time"
+    },
+    {
+        "擾流": "turbulent flow"
+    },
+    {
+        "倒扳開關": "tumbler switch"
+    },
+    {
+        "輪機式泵": "turbo-pump"
+    },
+    {
+        "耳軸型壓缸": "trunnion mounting cylinder"
+    },
+    {
+        "TTL技術": "TTL technology"
+    },
+    {
+        "真值": "true value"
+    },
+    {
+        "真平均法": "true averaging"
+    },
+    {
+        "自由跳脫電驛": "trip-free relay"
+    },
+    {
+        "跳脫線圈": "trip coil"
+    },
+    {
+        "觸發脈波": "trigger pulse"
+    },
+    {
+        "觸發（器）": "trigger"
+    },
+    {
+        "三角脈波": "triangular pulse"
+    },
+    {
+        "行走": "travelling (performance traverse)"
+    },
+    {
+        "梯形脈波": "trapezoidal pulse"
+    },
+    {
+        "傳送轉換器": "transmitting transducer"
+    },
+    {
+        "傳送器": "transmitter"
+    },
+    {
+        "變遷時間": "transition duration"
+    },
+    {
+        "變遷區間": "transition segment"
+    },
+    {
+        "變遷振幅": "transition amplitude"
+    },
+    {
+        "變遷": "transition"
+    },
+    {
+        "暫態響應": "transient response"
+    },
+    {
+        "移轉車": "transfer car"
+    },
+    {
+        "聯製線": "transfer line"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "轉運點": "transfer point"
+    },
+    {
+        "轉換": "transducing"
+    },
+    {
+        "轉換器": "transducer"
+    },
+    {
+        "交易導向處理系統": "transaction-oriented processing system"
+    },
+    {
+        "下降百分率點": "trailing edge percent point"
+    },
+    {
+        "交易導向輸出": "transaction-oriented output"
+    },
+    {
+        "後緣（區間）峰至峰半值點": "trailing edge peak to peak mesial point"
+    },
+    {
+        "後緣峰半值點": "trailing edge peak mesial point"
+    },
+    {
+        "下降半值點，下降區間半值點": "trailing edge mesial"
+    },
+    {
+        "後緣(下降區間)": "trailing edge"
+    },
+    {
+        "交通管制": "traffic control"
+    },
+    {
+        "軌道": "track"
+    },
+    {
+        "互償": "trade-off"
+    },
+    {
+        "觸摸感應板": "touch sensitive panels"
+    },
+    {
+        "全壓": "total pressure"
+    },
+    {
+        "頂線": "top line"
+    },
+    {
+        "鋸齒式轉子轉速計": "toothed-rotor tachometer"
+    },
+    {
+        "刀具路徑": "toolpath"
+    },
+    {
+        "刀具先端半徑補償": "tool tip radius compensation"
+    },
+    {
+        "刀具半徑補償": "tool radius compensation or offset"
+    },
+    {
+        "刀具長度補償或差距": "tool length compensation or offset"
+    },
+    {
+        "刀具位置差距；刀具位置偏位": "tool offset"
+    },
+    {
+        "刀具機能（T機能）": "tool function"
+    },
+    {
+        "鼓式刀架": "tool drum"
+    },
+    {
+        "刀具直徑補償": "tool diameter compensation or offset"
+    },
+    {
+        "時滯電驛": "time-lag relay"
+    },
+    {
+        "定時": "timing"
+    },
+    {
+        "定時脈波": "timing pulse"
+    },
+    {
+        "故障壽命": "time to failure"
+    },
+    {
+        "時間序列分析": "time series analysis"
+    },
+    {
+        "時間序列": "time series"
+    },
+    {
+        "時限程式控制法": "time program control method"
+    },
+    {
+        "時段化": "time phasing"
+    },
+    {
+        "時段訂購點": "time phased order point (TPOP)"
+    },
+    {
+        "時延加勢": "time delay energizing"
+    },
+    {
+        "延時電驛": "time delay relay"
+    },
+    {
+        "時段": "time period"
+    },
+    {
+        "（雙向）時延": "time delay (both)"
+    },
+    {
+        "時延去勢": "time delay de-energizing"
+    },
+    {
+        "時段": "time bucket，time period"
+    },
+    {
+        "傾斜": "tilt"
+    },
+    {
+        "故障間隔": "time between failures"
+    },
+    {
+        "總處理量": "through-put"
+    },
+    {
+        "撥輪": "thumb wheel"
+    },
+    {
+        "節流閥": "throttling valve (pneumatic)"
+    },
+    {
+        "節流閥": "throttling valve，flow metering valve"
+    },
+    {
+        "節流換向閥": "throttling valve (hydraulic)"
+    },
+    {
+        "節流器": "throttle (hydraulic)"
+    },
+    {
+        "節流器": "throttle (pneumatic)"
+    },
+    {
+        "臨限": "threshold"
+    },
+    {
+        "臨限值": "threshold level， threshole"
+    },
+    {
+        "三口閥": "three-port connection valve"
+    },
+    {
+        "三極電容器": "three-pole capacitor"
+    },
+    {
+        "三位閥": "three position valve (hydraulic)"
+    },
+    {
+        "三位閥": "three position valve (pneumatic)"
+    },
+    {
+        "三口閥": "three ports connection valve"
+    },
+    {
+        "薄膜積體電路": "thin film integrated circuit"
+    },
+    {
+        "薄膜": "thin film"
+    },
+    {
+        "厚度轉換器": "thickness transducer"
+    },
+    {
+        "厚膜積體電路": "thick film integrated circuit"
+    },
+    {
+        "電阻性溫度檢測器": "thermoresistive detector"
+    },
+    {
+        "厚膜": "thick film"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "熱電堆": "thermopile"
+    },
+    {
+        "熱電偶套管": "thermocouple well"
+    },
+    {
+        "熱電偶": "thermocouple"
+    },
+    {
+        "熱敏電阻混合網路": "thermistor composite network"
+    },
+    {
+        "熱敏電阻": "thermistor"
+    },
+    {
+        "熱動電驛": "thermal relay"
+    },
+    {
+        "壓缸力": "theoretical cylinder force"
+    },
+    {
+        "測試資料": "test bata"
+    },
+    {
+        "試驗端子": "testing terminal"
+    },
+    {
+        "接線板": "terminal block，termiail board"
+    },
+    {
+        "端子（接頭）": "terminal"
+    },
+    {
+        "溫度電驛": "temperature relay"
+    },
+    {
+        "套筒式氣壓缸": "telescoping (pneumatic) cylinder"
+    },
+    {
+        "套筒式液壓缸": "telescoping cylinder，telescopic cylinder"
+    },
+    {
+        "教導": "teaching"
+    },
+    {
+        "遙控操作機": "teleoperator"
+    },
+    {
+        "磁帶庫": "tape library"
+    },
+    {
+        "帶之格式": "tape format"
+    },
+    {
+        "串列形氣壓缸": "tandem (pneumatic) cylinder"
+    },
+    {
+        "觸覺": "tactile sense，touch sense"
+    },
+    {
+        "轉速計發電機": "tachometer generator"
+    },
+    {
+        "轉速計": "tachometer"
+    },
+    {
+        "列表順序格式": "Tab sequential format"
+    },
+    {
+        "系統分析師": "systems analyst"
+    },
+    {
+        "系統專案": "system project"
+    },
+    {
+        "系統維護": "system maintenance"
+    },
+    {
+        "系統調查": "system investigation"
+    },
+    {
+        "系統製造及評估": "system implementation and evaluation"
+    },
+    {
+        "系統分析": "system analysis"
+    },
+    {
+        "系統設計": "system design"
+    },
+    {
+        "系統流程圖": "system flowchart"
+    },
+    {
+        "系統發展": "system development"
+    },
+    {
+        "系統有效度": "system effectiveness"
+    },
+    {
+        "系統": "system"
+    },
+    {
+        "同步電動機": "synchronous motor"
+    },
+    {
+        "同步脈波": "synchronizing pulse"
+    },
+    {
+        "同步電驛": "synchronizing relay"
+    },
+    {
+        "同步儀": "synchronoscope，synchronism indicator"
+    },
+    {
+        "同步": "synchronizing"
+    },
+    {
+        "同步": "synchronism"
+    },
+    {
+        "同步": "synchronization"
+    },
+    {
+        "同步器": "synchro"
+    },
+    {
+        "傾轉軛": "swivel yoke"
+    },
+    {
+        "擺動活節": "swivel joint (pneumatic)"
+    },
+    {
+        "擺動活節": "swivel joint (hydraulic)"
+    },
+    {
+        "轉動接頭": "swivel fitting"
+    },
+    {
+        "轉接時間": "switching time"
+    },
+    {
+        "轉動接頭": "swivel connectional fitting"
+    },
+    {
+        "斜盤": "swash plate"
+    },
+    {
+        "斜盤活塞泵": "swash plate type axial piston pump"
+    },
+    {
+        "開關": "switch"
+    },
+    {
+        "轉接": "switching"
+    },
+    {
+        "湧激壓力": "surge pressure (pneumatic)"
+    },
+    {
+        "湧激衰減閥": "surge damping valve"
+    },
+    {
+        "湧激壓力": "surge pressure (hydraulic)"
+    },
+    {
+        "湧激": "surge"
+    },
+    {
+        "旋轉曲面": "surface of revolution"
+    },
+    {
+        "表面加工": "surface machining"
+    },
+    {
+        "入口": "supply port"
+    },
+    {
+        "待料時間": "supply delay time"
+    },
+    {
+        "輔助碼": "supplementary code"
+    },
+    {
+        "超音波感測器": "supersonic sensor"
+    },
+    {
+        "彙總報表": "summary report"
+    },
+    {
+        "彙總": "summarizing"
+    },
+    {
+        "突發故障": "sudden failure"
+    },
+    {
+        "彙總物料表": "summarized bill of material"
+    },
+    {
+        "(積體電路之)基板": "substrate (of an integrated circuit)"
+    },
+    {
+        "子系統": "subsystem"
+    },
+    {
+        "減": "subtraction"
+    },
+    {
+        "吸氣音": "suction noise"
+    },
+    {
+        "次音速": "subsonic velocity"
+    },
+    {
+        "副板": "subplate (pneumatic)"
+    },
+    {
+        "副板": "subplate (hydraulic)"
+    },
+    {
+        "電筆": "stylus"
+    },
+    {
+        "外包": "subcontracting"
+    },
+    {
+        "副激磁機": "sub-exciter"
+    },
+    {
+        "結構化程式設計": "structured design"
+    },
+    {
+        "行程": "stroke"
+    },
+    {
+        "閃控": "strobing"
+    },
+    {
+        "閃控電路": "strobing circuit"
+    },
+    {
+        "閃控脈波": "strobe pulse"
+    },
+    {
+        "線圖記錄器": "strip-chart recorder"
+    },
+    {
+        "展延電路": "stretching circuit，stretcher"
+    },
+    {
+        "展延": "stretching"
+    },
+    {
+        "應變計": "strain gage"
+    },
+    {
+        "應力": "stress"
+    },
+    {
+        "直線切削控制": "straight cut control"
+    },
+    {
+        "儲存命令": "store command"
+    },
+    {
+        "內儲程式概念": "stored program concept"
+    },
+    {
+        "記憶裝置(基本符號)": "store (basic symbol)"
+    },
+    {
+        "存取機": "storage/retrieve machine (S/R machine)"
+    },
+    {
+        "儲存結構": "storage structure"
+    },
+    {
+        "儲存區": "storage zone"
+    },
+    {
+        "儲存式映像管": "storage tube"
+    },
+    {
+        "儲存槽": "storage slot"
+    },
+    {
+        "儲存容位": "storage opening"
+    },
+    {
+        "缺料表": "storage list"
+    },
+    {
+        "儲存櫃": "storage bin"
+    },
+    {
+        "停止": "stopping"
+    },
+    {
+        "儲存指派": "storage assignment"
+    },
+    {
+        "停止": "stop"
+    },
+    {
+        "停止脈波": "stop pulse"
+    },
+    {
+        "訂合式結著": "stitch bonding"
+    },
+    {
+        "滯著滑動": "stick slip"
+    },
+    {
+        "步進": "stepping"
+    },
+    {
+        "步級響應": "step response"
+    },
+    {
+        "逐步應力試驗": "step stress test"
+    },
+    {
+        "步級": "step"
+    },
+    {
+        "穩態誤差": "steady-state error"
+    },
+    {
+        "穩態響應": "steady-state response"
+    },
+    {
+        "穩態": "stationary"
+    },
+    {
+        "統計之存貨管制": "statistical inventory control"
+    },
+    {
+        "靜壓": "static pressure"
+    },
+    {
+        "靜態誤差": "static error"
+    },
+    {
+        "靜態特性": "static characteristic"
+    },
+    {
+        "靜態校準": "static calibration"
+    },
+    {
+        "起動電阻器": "starting resistor"
+    },
+    {
+        "起動脈波": "start pulse"
+    },
+    {
+        "起動器": "starter"
+    },
+    {
+        "起動": "starting"
+    },
+    {
+        "起動電驛": "starting relay"
+    },
+    {
+        "起動": "start"
+    },
+    {
+        "Y-△起動器": "star-delta starter"
+    },
+    {
+        "待機複聯": "stand-by redundancy"
+    },
+    {
+        "待機時間": "stand-by time"
+    },
+    {
+        "標準成本": "standard costs"
+    },
+    {
+        "標準狀態": "standard condition"
+    },
+    {
+        "標準大氣": "standard atmosphere"
+    },
+    {
+        "梯形波": "staircase wave"
+    },
+    {
+        "標準空氣": "standard air"
+    },
+    {
+        "堆高式起重機": "stacker crane"
+    },
+    {
+        "堆高系統": "stacker system"
+    },
+    {
+        "平方": "squaring"
+    },
+    {
+        "方形線": "square line"
+    },
+    {
+        "方形波": "square wave"
+    },
+    {
+        "開平方": "square-rooting"
+    },
+    {
+        "濺鍍": "sputtering"
+    },
+    {
+        "反彈": "springback"
+    },
+    {
+        "彈簧形蓄壓器": "spring type mechanical accumulator"
+    },
+    {
+        "彈簧回位閥": "spring return valve"
+    },
+    {
+        "彈簧中位閥": "spring centered valve"
+    },
+    {
+        "彈簧回位": "spring return"
+    },
+    {
+        "彈簧偏位閥": "spring offset valve"
+    },
+    {
+        "滑軸閥": "spool valve (pneumatic)"
+    },
+    {
+        "滑軸": "spool (hydraulic)"
+    },
+    {
+        "滑軸": "spool (pneumatic)"
+    },
+    {
+        "滑軸閥": "spool valve (hydraulic)"
+    },
+    {
+        "平滑曲線": "spline"
+    },
+    {
+        "波尖": "spike"
+    },
+    {
+        "主心軸機能 (S機能)": "spindle speed function"
+    },
+    {
+        "球面座標型機器人": "spherical coordinate robot"
+    },
+    {
+        "蛛網型結著": "spider bonding"
+    },
+    {
+        "速度開關": "speed switch"
+    },
+    {
+        "速度電驛": "speed relay"
+    },
+    {
+        "速度控制閥": "speed control valve"
+    },
+    {
+        "跨距": "span"
+    },
+    {
+        "速度控制回路": "speed control circuit"
+    },
+    {
+        "排序": "sorting"
+    },
+    {
+        "音位計": "sound-level meter"
+    },
+    {
+        "電磁閥": "solenoid valve(pneumatic)"
+    },
+    {
+        "實體模型法": "solid modeling"
+    },
+    {
+        "音速": "sonic velocity"
+    },
+    {
+        "電磁閥": "solenoid valve"
+    },
+    {
+        "電磁閥": "solenoid valve(hydraulic)"
+    },
+    {
+        "電磁操作閥": "solenoid operated valve"
+    },
+    {
+        "電磁引導換向閥": "solenoid controlled pilot operated valve"
+    },
+    {
+        "電磁方式": "solenoid operated system"
+    },
+    {
+        "平滑係數": "smoothing constant"
+    },
+    {
+        "軟體工業": "software industry"
+    },
+    {
+        "平滑": "smoothing"
+    },
+    {
+        "小型積體化": "small scale integration (SSI)"
+    },
+    {
+        "小型積體電路": "small scale integrated circuit (SSI)"
+    },
+    {
+        "儲存槽": "slot"
+    },
+    {
+        "滑閥": "slide valve"
+    },
+    {
+        "截剪電路": "slicer，slicing circuit"
+    },
+    {
+        "滑件": "slide"
+    },
+    {
+        "截剪位準": "slice level"
+    },
+    {
+        "套筒(軸套)": "sleeve (pneumatic)"
+    },
+    {
+        "套筒(軸套)": "sleeve (hydraulic)"
+    },
+    {
+        "單點記錄計": "single-point recorder"
+    },
+    {
+        "寬裕時間": "slack time"
+    },
+    {
+        "單階追蹤": "single-level pegging"
+    },
+    {
+        "單深托板料架": "single-deep pallet rack"
+    },
+    {
+        "單址系統": "single-address system"
+    },
+    {
+        "單發複振器": "single shot multivibrator"
+    },
+    {
+        "單能機器人": "single purpose robot"
+    },
+    {
+        "單桿氣壓缸": "single rod (pneumatic) cylinder"
+    },
+    {
+        "單桿液壓缸": "single rod cylinder"
+    },
+    {
+        "單脈波": "single pulse"
+    },
+    {
+        "單桅式存取機": "single masted S/R machine"
+    },
+    {
+        "單純反覆型機器人": "single programmed robot"
+    },
+    {
+        "單動液壓缸": "single acting cylinder"
+    },
+    {
+        "單動氣壓缸": "single acting (pneumatic) cylinder"
+    },
+    {
+        "模擬": "simulation"
+    },
+    {
+        "金屬帽包裝": "similar to TO-5 package"
+    },
+    {
+        "絲網": "silk screening"
+    },
+    {
+        "顯示性料號": "significant part number"
+    },
+    {
+        "信號負載效應": "signal loading effect"
+    },
+    {
+        "信號復原": "signal recovery"
+    },
+    {
+        "信號分析": "signal analysis"
+    },
+    {
+        "信號匹配": "signal conditioning"
+    },
+    {
+        "信號燈": "signal lamp，pilot lamp"
+    },
+    {
+        "信號分析": "signal analysis"
+    },
+    {
+        "信號放大": "signal amplificaton， signal conditioning"
+    },
+    {
+        "梭動閥": "shuttle valve (hydraulic)"
+    },
+    {
+        "梭動閥": "shuttle valve (pneumatic)"
+    },
+    {
+        "搬運梭": "shuttle"
+    },
+    {
+        "梭動控制": "shuttle control"
+    },
+    {
+        "短期重現性": "short-term repeatability"
+    },
+    {
+        "肩部": "shoulder"
+    },
+    {
+        "分流器": "shunt"
+    },
+    {
+        "缺料表": "shortage list"
+    },
+    {
+        "短路電驛": "short-circuit relay"
+    },
+    {
+        "移位暫存器": "shift register"
+    },
+    {
+        "出貨站台": "shipping bay，shipping dock"
+    },
+    {
+        "位移脈波": "shift pulse"
+    },
+    {
+        "位移": "shift"
+    },
+    {
+        "形狀要素": "shape element"
+    },
+    {
+        "填色": "shape fill"
+    },
+    {
+        "保管壽命": "shelf life"
+    },
+    {
+        "整備時間，設置時間": "setup time"
+    },
+    {
+        "設置": "set"
+    },
+    {
+        "設定壓力": "set pressure"
+    },
+    {
+        "安置脈波": "set pulse"
+    },
+    {
+        "伺服系統": "servo system"
+    },
+    {
+        "伺服閥": "servo valve"
+    },
+    {
+        "伺服氣壓缸": "servo cylinder (pneumatic)"
+    },
+    {
+        "伺服驅動器": "servo actuator"
+    },
+    {
+        "伺服控制機器人": "servo controlled robot"
+    },
+    {
+        "伺服液壓缸": "servo cylinder (hydraulic)"
+    },
+    {
+        "串連系統": "series system"
+    },
+    {
+        "服務水準": "service level"
+    },
+    {
+        "點對點控制": "sequential positioning control"
+    },
+    {
+        "順序存取": "sequential，access"
+    },
+    {
+        "順序式控制": "sequential mode control"
+    },
+    {
+        "順序式記憶": "sequential mode memory"
+    },
+    {
+        "順序控制結構": "sequential control structure"
+    },
+    {
+        "順序檔": "sequential file"
+    },
+    {
+        "順序閥": "sequence valve (pneumatic)"
+    },
+    {
+        "順序控制": "sequential control"
+    },
+    {
+        "順序控制": "sequential control (sequence control)"
+    },
+    {
+        "順序閥": "sequence valve (hydraulic)"
+    },
+    {
+        "順序型機器人": "sequence robot"
+    },
+    {
+        "順序號數": "sequence number"
+    },
+    {
+        "順序程式控制法": "sequence program control method"
+    },
+    {
+        "感測控制機器人": "sensory-controlled robot"
+    },
+    {
+        "順序回路": "sequence circuit"
+    },
+    {
+        "靈敏度": "sensitivity"
+    },
+    {
+        "感測器": "sensor，primary sensing element"
+    },
+    {
+        "感測控制": "sensory control"
+    },
+    {
+        "感測階層": "sensory hierarchy"
+    },
+    {
+        "感測": "sensing"
+    },
+    {
+        "感測元件": "sensing element"
+    },
+    {
+        "壓覺": "sense of contact force"
+    },
+    {
+        "半成品存貨": "semi-finished inventory"
+    },
+    {
+        "半導體積體電路": "semiconductor integrated circuit (SIC，SCIC)"
+    },
+    {
+        "選擇": "selecting"
+    },
+    {
+        "換向閥": "selector"
+    },
+    {
+        "自封式接頭": "self-sealing coupling (hydraulic)"
+    },
+    {
+        "自封式接頭": "self-sealing coupling (pneumatic)"
+    },
+    {
+        "席貝克效應": "seebeck effect"
+    },
+    {
+        "工件搬運次系統": "secondary work handling system"
+    },
+    {
+        "扇區": "sector"
+    },
+    {
+        "次故障": "secondary failure"
+    },
+    {
+        "(減壓閥之)二次壓": "secondary pressure of reducing valve"
+    },
+    {
+        "卷軸": "scrolling"
+    },
+    {
+        "搜尋": "search"
+    },
+    {
+        "副碼": "secondary code"
+    },
+    {
+        "螺旋泵": "screw pump"
+    },
+    {
+        "篩選": "screening"
+    },
+    {
+        "科學之存貨管制": "scientific inventory control"
+    },
+    {
+        "廢料寬容量": "scrap allowance，manufacturing allowance"
+    },
+    {
+        "排程法則": "scheduling rules"
+    },
+    {
+        "斯密特電路": "schmitt circuit，schmitt trigger circuit"
+    },
+    {
+        "斯密特觸發器": "schmitt trigger"
+    },
+    {
+        "排程": "scheduling"
+    },
+    {
+        "預定接收量": "scheduled receipt"
+    },
+    {
+        "掃瞄器": "scanner"
+    },
+    {
+        "生產時程": "schedule"
+    },
+    {
+        "抽樣定理": "sampling theorem"
+    },
+    {
+        "鋸齒形脈波": "saw tooth pulse"
+    },
+    {
+        "抽樣脈波": "sampling pulse"
+    },
+    {
+        "抽樣電路": "sampling circuit"
+    },
+    {
+        "取樣控制": "sampling control"
+    },
+    {
+        "抽樣值": "sampled value"
+    },
+    {
+        "抽樣電路": "sampler"
+    },
+    {
+        "抽樣": "sampling"
+    },
+    {
+        "抽樣/保持器": "sample/holder"
+    },
+    {
+        "安全閥": "safety valve (pneumatic)"
+    },
+    {
+        "弛度": "sag"
+    },
+    {
+        "安全閥": "safety valve (hydraulic)"
+    },
+    {
+        "安全期": "safety time"
+    },
+    {
+        "安全性": "safety"
+    },
+    {
+        "安全界線": "safety barrier"
+    },
+    {
+        "安全回路": "safety circuit"
+    },
+    {
+        "安全存量": "safety stock"
+    },
+    {
+        "信號雜音比": "S/N ratio"
+    },
+    {
+        "走道": "runway"
+    },
+    {
+        "演進平均法": "running averaging"
+    },
+    {
+        "運轉": "run"
+    },
+    {
+        "運轉": "running"
+    },
+    {
+        "途程": "routing"
+    },
+    {
+        "往復時間": "round-trip time"
+    },
+    {
+        "進位處理誤差": "rounding error"
+    },
+    {
+        "概略產能計畫": "rough cut capacity plan"
+    },
+    {
+        "圓化": "rounding"
+    },
+    {
+        "圓化脈波": "round pulse"
+    },
+    {
+        "旋轉閥": "rotary valve"
+    },
+    {
+        "回轉液壓缸": "rotating cylinder (hydraulic)"
+    },
+    {
+        "回轉壓缸": "rotating cylinder (pneumatic)"
+    },
+    {
+        "旋轉節": "rotary joint (pneumatic)"
+    },
+    {
+        "旋轉開關": "rotary switch"
+    },
+    {
+        "旋轉活節": "rotary joint (hydraulic)"
+    },
+    {
+        "旋轉換流機": "rotary converter"
+    },
+    {
+        "開方": "root-extraction"
+    },
+    {
+        "擺動式驅動器": "rotary actuator，oscillating rotary actuator"
+    },
+    {
+        "滾輪式輸送機": "roller conveyor"
+    },
+    {
+        "機器人": "robot"
+    },
+    {
+        "機器人語言": "robot language，language for robot control"
+    },
+    {
+        "振鈴效應": "ringing"
+    },
+    {
+        "均方根值感測": "rms-sensing"
+    },
+    {
+        "上升時間": "rise time"
+    },
+    {
+        "臂之左右轉動": "right-left turning of the arm， rotation of the arm"
+    },
+    {
+        "環狀網路": "ring network"
+    },
+    {
+        "臂之左右移動": "right-left traverse of the arm"
+    },
+    {
+        "變阻器": "rheostat"
+    },
+    {
+        "融磊成長": "rheotaxial growth"
+    },
+    {
+        "跨式堆高機": "rider type stacker"
+    },
+    {
+        "右": "right"
+    },
+    {
+        "手之旋轉": "revolution of the hand，swivel of the hand"
+    },
+    {
+        "雷諾數": "Reynolds number"
+    },
+    {
+        "逆向": "reverse"
+    },
+    {
+        "臂之旋轉": "revolution of the arm"
+    },
+    {
+        "提取命令": "retrieve command"
+    },
+    {
+        "功能塊間之交互作用": "retroactions between function blocks"
+    },
+    {
+        "檢索式製程規劃": "retrieval-type process planning"
+    },
+    {
+        "永久記憶": "retentive memory"
+    },
+    {
+        "節流器": "restriction，restrictor (hydraulic)"
+    },
+    {
+        "基準波形，參照波形": "reterence waveform"
+    },
+    {
+        "節流器": "restriction，restrictor (pneumatic)"
+    },
+    {
+        "靜止": "rest"
+    },
+    {
+        "反應時間": "response time"
+    },
+    {
+        "閥之反應時間": "response time of valve"
+    },
+    {
+        "響應": "response"
+    },
+    {
+        "資源需求規劃": "resource requirements planning"
+    },
+    {
+        "解析度，解像度": "resolution"
+    },
+    {
+        "電阻器": "resistor"
+    },
+    {
+        "電阻式轉換器": "resistive transducer"
+    },
+    {
+        "復置脈波": "reset pulse"
+    },
+    {
+        "記憶裝置歸零": "reset store contents"
+    },
+    {
+        "殘壓": "residual pressure"
+    },
+    {
+        "電阻溫度計": "resistance thermometer"
+    },
+    {
+        "復置線圈": "reset coil"
+    },
+    {
+        "復置": "reset"
+    },
+    {
+        "復閉壓力": "reseat pressure (pneumatic)"
+    },
+    {
+        "箱用過濾器": "reservoir type filter"
+    },
+    {
+        "油箱": "reservoir"
+    },
+    {
+        "復閉壓力": "reseat pressure (hydraulic)"
+    },
+    {
+        "重現性": "reproducibility"
+    },
+    {
+        "代表性": "representativeness"
+    },
+    {
+        "反覆型機器人": "repeatable robot"
+    },
+    {
+        "修理時間": "repair time"
+    },
+    {
+        "可修復產品": "repairable item"
+    },
+    {
+        "反復精度": "repeatability"
+    },
+    {
+        "重複定位精度": "repeatability (positioning precision)"
+    },
+    {
+        "維護率函數": "repair rate function"
+    },
+    {
+        "再訂購量": "reorder point"
+    },
+    {
+        "再訂購量": "reorder quantity"
+    },
+    {
+        "再繪製": "repaint"
+    },
+    {
+        "修復率": "repair rate"
+    },
+    {
+        "遙測": "remote-sensing"
+    },
+    {
+        "溢流（放洩）閥": "relief valve (pneumatic)"
+    },
+    {
+        "遙控操作閥": "remote operated valve"
+    },
+    {
+        "遠程工件登錄": "remote job entry (RJE)"
+    },
+    {
+        "溢流（放洩）閥": "relief pressure control valve (pneumatic)"
+    },
+    {
+        "溢流（放洩）閥": "relief valve (hydraulic)"
+    },
+    {
+        "溢流（放洩）閥": "relief pressure control valve (hydraulic)"
+    },
+    {
+        "可靠度試驗": "reliability test"
+    },
+    {
+        "可靠度逐次試驗法": "reliability sequential test plan"
+    },
+    {
+        "可靠度方案": "reliability program"
+    },
+    {
+        "可靠度預測": "reliability prediction"
+    },
+    {
+        "可靠度比較指數": "reliability index"
+    },
+    {
+        "可靠度管理": "reliability management"
+    },
+    {
+        "可靠度函數": "reliability function"
+    },
+    {
+        "可靠度工程": "reliability engineering"
+    },
+    {
+        "可靠度決定試驗": "reliability determination test"
+    },
+    {
+        "可靠度適合試驗": "reliability compliance test"
+    },
+    {
+        "可靠度方塊圖": "reliability block diagram"
+    },
+    {
+        "可靠度特性值": "reliability characteristics"
+    },
+    {
+        "可靠度配置": "reliability allocation"
+    },
+    {
+        "釋放": "release"
+    },
+    {
+        "關聯故障": "relevant failure"
+    },
+    {
+        "可靠度": "reliability "
+    },
+    {
+        "電驛": "relay"
+    },
+    {
+        "電驛": "relay"
+    },
+    {
+        "繼動閥": "relay valve"
+    },
+    {
+        "調整": "regulating"
+    },
+    {
+        "弛緩振盪器": "relaxation oscillator"
+    },
+    {
+        "迴歸分析": "regression analysis"
+    },
+    {
+        "暫存回路": "register circuit"
+    },
+    {
+        "再生制動": "regenerative braking"
+    },
+    {
+        "再生式，物料需求規劃": "regeneration MRP"
+    },
+    {
+        "再生": "refresh"
+    },
+    {
+        "基準波形，參照波形": "reference waveform"
+    },
+    {
+        "參考位準": "reference level"
+    },
+    {
+        "參考位置": "reference position"
+    },
+    {
+        "複聯": "redundancy"
+    },
+    {
+        "參考接合點": "reference junction"
+    },
+    {
+        "整流器": "rectifier"
+    },
+    {
+        "矩形脈波列": "rectangular pulse train"
+    },
+    {
+        "記錄": "recording"
+    },
+    {
+        "矩形脈波": "rectangular pulse"
+    },
+    {
+        "識別能力": "recognizing ability"
+    },
+    {
+        "收料站台": "receiving bay"
+    },
+    {
+        "復閉電驛": "reclosing relay"
+    },
+    {
+        "接收器": "receiver"
+    },
+    {
+        "反應濺鍍": "reactive sputtering"
+    },
+    {
+        "由記憶裝置讀出": "read data from store"
+    },
+    {
+        "比熱比": "ratio of specific heat"
+    },
+    {
+        "比率控制": "ratio control"
+    },
+    {
+        "額定可搬重量": "rated weight capacity"
+    },
+    {
+        "額定轉速": "rated speed of revolution"
+    },
+    {
+        "額定速度": "rated speed"
+    },
+    {
+        "額定壓力": "rated pressure"
+    },
+    {
+        "額定可搬淨重量": "rated net weight capacity"
+    },
+    {
+        "逐線掃描": "raster scan"
+    },
+    {
+        "過濾度": "rated filtration"
+    },
+    {
+        "額定流量": "rated flow"
+    },
+    {
+        "隨機脈波列": "random pulse train"
+    },
+    {
+        "隨機儲存": "randomized storage"
+    },
+    {
+        "逐線顯示": "raster display"
+    },
+    {
+        "隨機存取": "random access"
+    },
+    {
+        "隨機故障": "random failure"
+    },
+    {
+        "隨機故障期": "random failure period"
+    },
+    {
+        "斜坡非線性失真": "ramp nonlinerity distortion"
+    },
+    {
+        "斜坡響應": "ramp response"
+    },
+    {
+        "斜坡": "ramp"
+    },
+    {
+        "衝柱式氣壓缸": "ram (pneumatic) cylinder"
+    },
+    {
+        "衝柱式液壓缸": "ram cylinder"
+    },
+    {
+        "衝柱": "ram"
+    },
+    {
+        "平方餘弦脈波": "raised cosine pulse"
+    },
+    {
+        "上昇，上": "raise，up"
+    },
+    {
+        "徑向活塞泵": "radial piston pump"
+    },
+    {
+        "放射性法液位測定": "radio-octivity method of liquid measurement"
+    },
+    {
+        "料架系統": "rack system"
+    },
+    {
+        "料架支撐式自動倉庫": "rack-supported automated warehouse"
+    },
+    {
+        "料架結構": "Rack structure"
+    },
+    {
+        "快速排氣閥，快速釋放閥": "quick exhaust valve，quick release valve"
+    },
+    {
+        "快速接頭": "quick coupling (pneumatic)"
+    },
+    {
+        "等候線": "queue"
+    },
+    {
+        "快速接頭": "quick coupling (hydraulic)"
+    },
+    {
+        "查詢語言": "query language"
+    },
+    {
+        "變式輸入": "modifying input"
+    },
+    {
+        "數據機": "modem"
+    },
+    {
+        "眾數": "mode"
+    },
+    {
+        "模式；模型": "model"
+    },
+    {
+        "可移動機器人": "mobile robot"
+    },
+    {
+        "米氏（Mitrofanov）編號系統": "Mitrofanov coding system"
+    },
+    {
+        "誤用故障": "misuse failure"
+    },
+    {
+        "輔助機能（M機能）": "miscellaneous function"
+    },
+    {
+        "金絕半電晶體": "MIS transistor (MIS TOR MIS FET)"
+    },
+    {
+        "鏡像開關": "mirrorimage switch"
+    },
+    {
+        "輕微故障": "minor failure"
+    },
+    {
+        "最少耗時法則": "minimum-wasted-time rule"
+    },
+    {
+        "最低使用壓力": "minimum working pressure"
+    },
+    {
+        "最低動作壓力": "minimum operating pressure (pneumatic)"
+    },
+    {
+        "最小操作壓力": "minimum operating pressure (hydraulic)"
+    },
+    {
+        "滴油最小空氣流量": "minimum flow rate for charging"
+    },
+    {
+        "迷你電腦": "minicomputer"
+    },
+    {
+        "米勒積分器": "Miller integrator"
+    },
+    {
+        "微音器": "microphone"
+    },
+    {
+        "微元件": "microelement"
+    },
+    {
+        "微電子技術": "microelectronics technology"
+    },
+    {
+        "微電子學": "microelectronics"
+    },
+    {
+        "微電子系統": "microelectronic system"
+    },
+    {
+        "微電子電路": "microelectronic circuit"
+    },
+    {
+        "微電腦": "microcomputer"
+    },
+    {
+        "微組件": "microcomponent"
+    },
+    {
+        "微電子裝配電路": "microassembly circuit"
+    },
+    {
+        "麥克拉士 (MICLASS) 編號系統": "MICLASS coding system"
+    },
+    {
+        "出口制流回路": "meter-out circuit"
+    },
+    {
+        "出口制流": "meter-out"
+    },
+    {
+        "入口制流回路": "meter-in circuit"
+    },
+    {
+        "入口制流": "meter-in"
+    },
+    {
+        "制量流": "metered flow (pneumatic)"
+    },
+    {
+        "制量流": "metered flow (hydraulic)"
+    },
+    {
+        "金屬帶導引": "metal tape guidance"
+    },
+    {
+        "金氧半積體電路": "metal oxide semiconductor integrated circuit (MOS IC)"
+    },
+    {
+        "金絕半積體電路": "metal insulator semiconductor integrated circuit (MIS IC)"
+    },
+    {
+        "半值點": "mesial point"
+    },
+    {
+        "半值振幅": "mesial magnitude"
+    },
+    {
+        "記憶": "memory"
+    },
+    {
+        "水銀溫度計": "mercury thermometer"
+    },
+    {
+        "中型積體化": "medium scale integration (MSI)"
+    },
+    {
+        "中型積體電路": "medium scale integrated circuit (MSI)"
+    },
+    {
+        "中數": "median"
+    },
+    {
+        "機械操作閥": "mechanically operated valve (pneumatic)"
+    },
+    {
+        "機械操作閥": "mechanically operated valve (hydraulic)"
+    },
+    {
+        "機械原點": "mechanical origin"
+    },
+    {
+        "機械式極限閥": "mechanical limit valve"
+    },
+    {
+        "機器手": "mechanical hand"
+    },
+    {
+        "機械式數字顯示": "mechanical digitsdisplay"
+    },
+    {
+        "機械制動": "mechanical braking"
+    },
+    {
+        "水分含量的測定": "measuring moisture content"
+    },
+    {
+        "量測量轉換器": "measurement quantity converter"
+    },
+    {
+        "量測資料傳輸": "measurement data transmission"
+    },
+    {
+        "量測資料處理": "measurement data processing"
+    },
+    {
+        "量測資料顯示": "measurement data presentation"
+    },
+    {
+        "量測值轉換器": "measurement data converter"
+    },
+    {
+        "平均可操作時間": "mean up time"
+    },
+    {
+        "平均修理時間": "mean time to repair (MTTR)"
+    },
+    {
+        "平均首次故障時間": "mean time to first failure"
+    },
+    {
+        "平均故障壽命": "mean time to failure（MTTF）"
+    },
+    {
+        "平均故障間距；平均故障間隔 ": "mean time between failures (MTBF)"
+    },
+    {
+        "平均活塞速度": "mean piston velocity"
+    },
+    {
+        "平均操作時間": "mean operating time"
+    },
+    {
+        "平均不可操作時間": "mean down time (MDT)"
+    },
+    {
+        "平均絕對差": "mean absolute deviation (MAD)"
+    },
+    {
+        "最高使用壓力": "maximum working pressure"
+    },
+    {
+        "最高使用壓力": "maximum working pressure"
+    },
+    {
+        "最大速度": "maximum speed，maximum velocity"
+    },
+    {
+        "最大超越量": "maximum overshoot"
+    },
+    {
+        "全流量最大壓力": "maximum full flow pressure"
+    },
+    {
+        "最大需量瓦特計": "maximum demand Wattmeter"
+    },
+    {
+        "最大需量電流計": "maximum demand Ammeter"
+    },
+    {
+        "最大容許可搬重量": "maximum allowable weight capacity"
+    },
+    {
+        "點式列印機": "matrix printer"
+    },
+    {
+        "物料管理": "materials management"
+    },
+    {
+        "物料需求規劃": "Material Requirements Planning (MRP)"
+    },
+    {
+        "物料搬運系統": "material handling system (MHS)"
+    },
+    {
+        "主從式操作機": "master-slave manipulator"
+    },
+    {
+        "主閥": "master valve"
+    },
+    {
+        "主生產日程表，總生產排程表": "master production schedule (MPS)"
+    },
+    {
+        "主檔": "master file，main file"
+    },
+    {
+        "主控制器": "master controller"
+    },
+    {
+        "大量儲存裝置": "mass storage device"
+    },
+    {
+        "質量流量測定": "mass flow measurement"
+    },
+    {
+        "質量流量": "mass flow (rate)"
+    },
+    {
+        "光罩對準": "mask alignment"
+    },
+    {
+        "邊際試驗": "marginal test"
+    },
+    {
+        "製造資源規劃": "Manufacturing Resource Planning (MRP-Ⅱ)"
+    },
+    {
+        "工作令，製造工令，工令": "manufacturing order，job order，shop order"
+    },
+    {
+        "製造前置時間": "manufacturing lead time"
+    },
+    {
+        "製造單元": "manufacturing cell"
+    },
+    {
+        "製造自動化": "manufacturing automation"
+    },
+    {
+        "廢料寬容量": "manufacturing allowance"
+    },
+    {
+        "製造屬性編號系統": "manufacture attribute coding system"
+    },
+    {
+        "人力操作閥": "manually operated valve"
+    },
+    {
+        "人工工作站": "manual work station"
+    },
+    {
+        "人工程式製作": "manual programming"
+    },
+    {
+        "人工操作機": "manual manipulator"
+    },
+    {
+        "手動數據輸入": "manual data input"
+    },
+    {
+        "手動控制": "manual control"
+    },
+    {
+        "手動": "manual"
+    },
+    {
+        "液柱壓力計": "manometer"
+    },
+    {
+        "人機系統": "man-machine system"
+    },
+    {
+        "操作機": "manipulator，mechanical arm"
+    },
+    {
+        "操作": "manipulation"
+    },
+    {
+        "操縱變量": "manipulating variable"
+    },
+    {
+        "回路板": "manifold block"
+    },
+    {
+        "回路板": "manifold"
+    },
+    {
+        "管理科學": "management science"
+    },
+    {
+        "管理資訊系統": "management information system (MIS)"
+    },
+    {
+        "存貨生產": "make-to-stock"
+    },
+    {
+        "訂單生產": "make-to-order"
+    },
+    {
+        "嚴重故障": "major failure"
+    },
+    {
+        "維護時間": "maintenance time"
+    },
+    {
+        "維護係數": "maintenance factor"
+    },
+    {
+        "維護": "maintenance"
+    },
+    {
+        "維護度函數": "maintainability function"
+    },
+    {
+        "維護度": "maintainability"
+    },
+    {
+        "主機": "mainframe"
+    },
+    {
+        "主管路": "main line (pneumatic)"
+    },
+    {
+        "主管路": "main line (hydraulic)"
+    },
+    {
+        "電腦主機": "main frame"
+    },
+    {
+        "主碼": "main code，primary code"
+    },
+    {
+        "大小變遷": "magnitude transition"
+    },
+    {
+        "振幅比較": "magnitude comparison"
+    },
+    {
+        "磁電阻元件": "magnetoresistive element"
+    },
+    {
+        "磁彈性轉換器": "magnetoelastic transducer"
+    },
+    {
+        "磁碟致動器": "magnetic disk actuator"
+    },
+    {
+        "磁碟存取臂": "magnetic disk access arm"
+    },
+    {
+        "電磁計數器": "magnetic counter"
+    },
+    {
+        "磁吹斷路器": "magnetic blow out circuit breaker"
+    },
+    {
+        "機器利用率": "machine utilization"
+    },
+    {
+        "機器負載": "machine loading"
+    },
+    {
+        "機器語言": "machine language"
+    },
+    {
+        "機器群": "machine group"
+    },
+    {
+        "加工中心": "machine center"
+    },
+    {
+        "機器單元": "machine cell"
+    },
+    {
+        "潤滑器": "lubricator，oiler"
+    },
+    {
+        "L形區": "L-shaped region"
+    },
+    {
+        "低階語言": "low-level language"
+    },
+    {
+        "低通": "low pass"
+    },
+    {
+        "低": "low"
+    },
+    {
+        "批拒收可靠度水準": "lot tolerance reliability level"
+    },
+    {
+        "批拒收故障率": "lot tolerance failure rate (LTFR)"
+    },
+    {
+        "批量": "lot size"
+    },
+    {
+        "運動失誤": "lost motion"
+    },
+    {
+        "失磁電驛": "loss of field relay，field loss relay"
+    },
+    {
+        "長期趨勢": "long-term trend，secular trend"
+    },
+    {
+        "長期重現性": "long-term repeatability"
+    },
+    {
+        "邏輯組合": "logical combination"
+    },
+    {
+        "邏輯元件": "logic device"
+    },
+    {
+        "邏輯回路": "logic circuit"
+    },
+    {
+        "記載器": "logger"
+    },
+    {
+        "行走功能": "locomotive function"
+    },
+    {
+        "閉鎖": "lock-out"
+    },
+    {
+        "儲位碼": "location code"
+    },
+    {
+        "局部儲存區": "local storage"
+    },
+    {
+        "裝卸站": "loading/unloading station"
+    },
+    {
+        "負載電阻器": "loading resistor"
+    },
+    {
+        "裝載": "loading"
+    },
+    {
+        "負載偏移量": "load deflection"
+    },
+    {
+        "負載胞": "load cell"
+    },
+    {
+        "負載樑式料架": "load beam rack"
+    },
+    {
+        "負載": "load"
+    },
+    {
+        "氯化鋰濕度感測器": "lithium-chloride humidity sensor"
+    },
+    {
+        "液位測定裝置": "liquid-level measuring device"
+    },
+    {
+        "鏈結編輯器": "linkage editor"
+    },
+    {
+        "長軸驅動搬運車": "line-shaft driven vehicle"
+    },
+    {
+        "線性誤差": "linearity error"
+    },
+    {
+        "線性感測器": "linear sensor"
+    },
+    {
+        "直線斜坡": "linear ramp"
+    },
+    {
+        "線性規劃": "linear programming"
+    },
+    {
+        "直線插值": "linear interpolation"
+    },
+    {
+        "線性等化": "linear equalization"
+    },
+    {
+        "管路用過濾器": "line type filter"
+    },
+    {
+        "生產線平衡": "line balancing"
+    },
+    {
+        "管路": "line (pneumatic)"
+    },
+    {
+        "管路": "line (hydraulic)"
+    },
+    {
+        "臨界頻率": "limiting frequency，cutoff frequency"
+    },
+    {
+        "限制電路": "limiting circuit"
+    },
+    {
+        "限制自由度機器人": "limited-degree of freedom robot"
+    },
+    {
+        "極限開關": "limit switch"
+    },
+    {
+        "光筆": "light pen"
+    },
+    {
+        "後進先出法": "LIFO(last in-first out)"
+    },
+    {
+        "壽命試驗": "life test"
+    },
+    {
+        "壽命分布": "life distribution"
+    },
+    {
+        "壽命週期成本": "life cycle cost"
+    },
+    {
+        "壽命週期": "life cycle"
+    },
+    {
+        "壽命": "life"
+    },
+    {
+        "常式庫": "library routine"
+    },
+    {
+        "階層": "levels"
+    },
+    {
+        "位準開關": "level switch"
+    },
+    {
+        "位準偏移器": "level shifter"
+    },
+    {
+        "位準偏移": "level shift"
+    },
+    {
+        "平準負載": "level loading"
+    },
+    {
+        "左": "left"
+    },
+    {
+        "發光二極體顯示": "LED display"
+    },
+    {
+        "最小平方準則": "least-square criterion"
+    },
+    {
+        "最小設定單位": "least input increment"
+    },
+    {
+        "最小移動單位": "least command increment"
+    },
+    {
+        "租用專線": "leased line"
+    },
+    {
+        "學習曲線": "learning curve"
+    },
+    {
+        "洩漏": "leakage (pneumatic)"
+    },
+    {
+        "洩漏": "leakage (hydraulic)"
+    },
+    {
+        "領先指標": "leading indicator"
+    },
+    {
+        "上昇百分率點": "leading edge percent point"
+    },
+    {
+        "前緣（區間）峰至峰半值點": "leading edge peak to peak mesial point"
+    },
+    {
+        "前緣峰半值點": "leading edge peak mesial point"
+    },
+    {
+        "上昇半值點，上昇區間半值點": "leading edge mesial point"
+    },
+    {
+        "前緣（上升區間）": "leading edge"
+    },
+    {
+        "前置時間沖銷": "lead time off set"
+    },
+    {
+        "前置時間": "lead time"
+    },
+    {
+        "液晶顯示": "LCD display"
+    },
+    {
+        "布置": "layout"
+    },
+    {
+        "下降百分率點": "last transition percent point"
+    },
+    {
+        "後緣峰半值點": "last transition peak mesial point"
+    },
+    {
+        "下降半值點，下降區間半值點": "last transition mesial point"
+    },
+    {
+        "後緣（下降區間）": "last transition"
+    },
+    {
+        "雷射印表機": "laser printer"
+    },
+    {
+        "大型積體化": "large scale integration(LSI)"
+    },
+    {
+        "大型積體電路": "large scale integrated circuit(LSI)"
+    },
+    {
+        "重疊": "lap(pneumatic)"
+    },
+    {
+        "重疊": "lap(hydraulic)"
+    },
+    {
+        "閥面": "land"
+    },
+    {
+        "層流": "laminar flow"
+    },
+    {
+        "實驗室可靠度試驗": "laboratory reliability test"
+    },
+    {
+        "閘刀開關": "knife switch"
+    },
+    {
+        "鍵盤至磁帶資料登錄機": "key-to-tape data recorder"
+    },
+    {
+        "鍵盤至磁片": "key-to-diskette"
+    },
+    {
+        "鍵盤至磁碟共用式處理系統": "key-to-disk shared processor system"
+    },
+    {
+        "按鍵打孔（機）": "keypunch"
+    },
+    {
+        "克耳文溫度": "Kelvin temperature"
+    },
+    {
+        "保持電驛": "Keep relay"
+    },
+    {
+        "突跳": "jumping (pneumatic)"
+    },
+    {
+        "突跳": "jumping (hydraulic)"
+    },
+    {
+        "操縱桿，手搖桿": "joystick"
+    },
+    {
+        "接頭（活節）": "joint，fitting，pipe connector"
+    },
+    {
+        "關節空間": "joint space"
+    },
+    {
+        "接頭（活節）": "joint"
+    },
+    {
+        "微動": "jogging"
+    },
+    {
+        "工場": "job shop"
+    },
+    {
+        "工作族": "job groups"
+    },
+    {
+        "顫動": "Jitter"
+    },
+    {
+        "物料主檔": "item master file"
+    },
+    {
+        "產品；項目": "item"
+    },
+    {
+        "等溫效率": "isothermal efficiency"
+    },
+    {
+        "等溫變化": "isothermal change"
+    },
+    {
+        "積體電路之隔離": "isolation \"in an integrated circuit\""
+    },
+    {
+        "孤立脈波": "isolated pulse"
+    },
+    {
+        "島": "island"
+    },
+    {
+        "輸入處理輸出表": "IPO chart"
+    },
+    {
+        "反向器": "inverter"
+    },
+    {
+        "極性反向": "inversion"
+    },
+    {
+        "存貨週轉 (率)": "inventory turnover (rate)"
+    },
+    {
+        "存貨管理": "inventory management"
+    },
+    {
+        "存貨管制": "inventory control"
+    },
+    {
+        "存貨會計": "inventory accounting"
+    },
+    {
+        "存貨": "inventory"
+    },
+    {
+        "內在預測": "intrinsic forecast"
+    },
+    {
+        "噴流感測器": "interruptible jet sensor"
+    },
+    {
+        "岔斷": "interrupt，interruption"
+    },
+    {
+        "錄間隙": "interrecord gap"
+    },
+    {
+        "解譯器": "interpreter，interpretive program"
+    },
+    {
+        "內插電路": "interpolator"
+    },
+    {
+        "內插電路": "interpolation circuit"
+    },
+    {
+        "內插法": "interpolation"
+    },
+    {
+        "內部量測能力": "internal measuring ability"
+    },
+    {
+        "內接齒輪泵": "internal gear pump"
+    },
+    {
+        "間歇故障": "intermittent failure"
+    },
+    {
+        "過渡閥位": "intermediate position"
+    },
+    {
+        "互鎖": "inter-locking"
+    },
+    {
+        "互鎖回路": "interlock circuit"
+    },
+    {
+        "互鎖": "interlock"
+    },
+    {
+        "轉運": "interleave"
+    },
+    {
+        "實驗室標準": "interlaboratory standard"
+    },
+    {
+        "中間流": "interflow (pneumatic)"
+    },
+    {
+        "中間流": "interflow (hydraulic)"
+    },
+    {
+        "干擾輸入": "interfering input"
+    },
+    {
+        "低干擾傳輸": "interference-free transmission"
+    },
+    {
+        "界面元件": "interface device"
+    },
+    {
+        "介面": "interface"
+    },
+    {
+        "交換（基本符號）": "interchange (basic symbol)"
+    },
+    {
+        "群際搬運車轉換站": "inter-bank cart switching station"
+    },
+    {
+        "群際搬運車路徑": "inter-bank cart path"
+    },
+    {
+        "交談式繪圖": "interactive graphics"
+    },
+    {
+        "增壓器": "intensifier，booster (pneumatic)"
+    },
+    {
+        "增壓器": "intensifier，booster (hydraulic)"
+    },
+    {
+        "智慧型機器人": "intelligent robot"
+    },
+    {
+        "智慧功能": "intelligent function"
+    },
+    {
+        "智慧終端機": "intelligent (computer) terminal"
+    },
+    {
+        "積分電路": "integration circuit，integrator"
+    },
+    {
+        "積分；積體化": "integration"
+    },
+    {
+        "整合製造系統": "integrated manufacturing system (IMS)"
+    },
+    {
+        "積體電路": "integrated circuit"
+    },
+    {
+        "積分時間": "integral time，reset time"
+    },
+    {
+        "積分控制": "integral control"
+    },
+    {
+        "儀器規劃，儀裝": "instrumentation"
+    },
+    {
+        "儀器伺服機構": "instrument servo mechanism"
+    },
+    {
+        "指令暫存器": "instruction register"
+    },
+    {
+        "瞬時": "instant"
+    },
+    {
+        "詢問": "inquiry"
+    },
+    {
+        "入出管制": "input/output control"
+    },
+    {
+        "輸入單元": "input unit"
+    },
+    {
+        "脈衝": "inpulse"
+    },
+    {
+        "輸入錯誤": "input error"
+    },
+    {
+        "入口": "inlet port"
+    },
+    {
+        "射出給油器": "injection type lubricator"
+    },
+    {
+        "初期閥位": "initial position"
+    },
+    {
+        "早期故障": "initial failure"
+    },
+    {
+        "固有缺陷故障": "inherent weakness failure"
+    },
+    {
+        "固有可靠度": "inherent reliability，inherent system"
+    },
+    {
+        "早期故障": "inherent failure"
+    },
+    {
+        "固有可用度": "inherent availability"
+    },
+    {
+        "資訊中心": "information center"
+    },
+    {
+        "地面牽引式托車": "in-floor tow line trolley"
+    },
+    {
+        "無限負載": "infinite loading"
+    },
+    {
+        "工業機器人": "industrial robot"
+    },
+    {
+        "電感式轉換器": "inductive transducer"
+    },
+    {
+        "感應線導引": "induction wire guidance"
+    },
+    {
+        "感應式電壓調整器": "induction voltage regulator"
+    },
+    {
+        "感應電動機": "induction motor"
+    },
+    {
+        "選擇式潤滑器": "indirect type lubricator"
+    },
+    {
+        "間接材料": "indirect material"
+    },
+    {
+        "間接液位測定": "indirect liquid level measurement"
+    },
+    {
+        "間接人工": "indirect labor"
+    },
+    {
+        "指針式儀表": "indicating instrument"
+    },
+    {
+        "索引式資料檔": "indexed file"
+    },
+    {
+        "獨立性需求": "independent demand"
+    },
+    {
+        "縮行式物料表": "indented bill of material"
+    },
+    {
+        "增量值程式製作": "incremental programming"
+    },
+    {
+        "增值程式": "incremental program(incremental dimension words)"
+    },
+    {
+        "增量位置轉換器": "incremental position transducer"
+    },
+    {
+        "遞增故障率（IFR）分布": "increasing failure rate distribution"
+    },
+    {
+        "增加": "increase"
+    },
+    {
+        "不相關性": "incoherence"
+    },
+    {
+        "斜管型液柱壓力計": "inclined-tube type manometer"
+    },
+    {
+        "寸動": "inching"
+    },
+    {
+        "位置決定完成": "in position"
+    },
+    {
+        "脈衝響應": "impulse response"
+    },
+    {
+        "脈衝響應": "impulse response"
+    },
+    {
+        "脈衝": "impulse"
+    },
+    {
+        "反展開": "implosion"
+    },
+    {
+        "衝擊列印機": "impact printer"
+    },
+    {
+        "影像處理": "image processing"
+    },
+    {
+        "影像導引": "image guidance"
+    },
+    {
+        "照明燈": "illuminating lamp"
+    },
+    {
+        "閒置時間": "idle time"
+    },
+    {
+        "輸出入口": "I/O location"
+    },
+    {
+        "輸出入暫存處": "I/O buffer"
+    },
+    {
+        "遲滯": "hysteresis"
+    },
+    {
+        "濕度計": "hygrometer"
+    },
+    {
+        "液體靜壓傳動裝置": "hydrostatic power transmission"
+    },
+    {
+        "液體動力傳動裝置": "hydrodynamic power transmission"
+    },
+    {
+        "液壓（動力）單元": "hydraulic(power)unit"
+    },
+    {
+        "液體傳動裝置": "hydraulic power transmission"
+    },
+    {
+        "液鎖": "hydraulic lock"
+    },
+    {
+        "液壓液": "hydraulic fluid"
+    },
+    {
+        "液壓缸": "hydraulic cylinder"
+    },
+    {
+        "液壓式控速器": "hydraulic check unit"
+    },
+    {
+        "油壓平衡": "hydraulic balance"
+    },
+    {
+        "拼合積體電路": "hybrid integrated circuit"
+    },
+    {
+        "追逐": "hunting"
+    },
+    {
+        "人因工程": "human-factors engineering"
+    },
+    {
+        "人體工程": "human engineering"
+    },
+    {
+        "時間計": "hour meter"
+    },
+    {
+        "軟管組": "hose-assembly"
+    },
+    {
+        "喇叭，號角": "horn"
+    },
+    {
+        "水平迴轉料架": "horizontal carousel"
+    },
+    {
+        "計畫期": "horizon"
+    },
+    {
+        "吸持磁鐵": "holding magnet"
+    },
+    {
+        "握持功能": "holding function"
+    },
+    {
+        "保持電路": "holding circuit"
+    },
+    {
+        "吸持線圈": "holding coil"
+    },
+    {
+        "吸持；保持": "holding"
+    },
+    {
+        "握持": "hold，grip"
+    },
+    {
+        "持定": "hold"
+    },
+    {
+        "高速斷路器": "high-speed circuit breaker"
+    },
+    {
+        "高層存取系統": "high-rise storage/retrieval system"
+    },
+    {
+        "自動高層倉庫": "high-rise automatic warehouse"
+    },
+    {
+        "高階語言": "high-level language"
+    },
+    {
+        "高速": "high speed"
+    },
+    {
+        "高通": "high pass"
+    },
+    {
+        "高密度自動倉庫": "high density automated warehouse"
+    },
+    {
+        "高": "high"
+    },
+    {
+        "階層圖": "hierarchy chart"
+    },
+    {
+        "階層式結構系統": "hierarchical structure system"
+    },
+    {
+        "階層控制": "hierarchical control"
+    },
+    {
+        "隱線": "hidden lines"
+    },
+    {
+        "十六進數系": "hexadecimal number system"
+    },
+    {
+        "加熱器，發熱器": "heater"
+    },
+    {
+        "調和平滑法": "harmonic smoothing"
+    },
+    {
+        "硬拷貝": "hardcopy"
+    },
+    {
+        "手-眼系統": "hand-eye system"
+    },
+    {
+        "手": "hand，mechanical hand"
+    },
+    {
+        "手動操作閥": "hand operated valve (pneumatic)"
+    },
+    {
+        "手動操作閥": "hand operated valve (hydraulic)"
+    },
+    {
+        "手動控制": "hand control"
+    },
+    {
+        "暫停": "halt"
+    },
+    {
+        "霍爾生產器": "Hall generator"
+    },
+    {
+        "半雙工線路": "Half-duplex line"
+    },
+    {
+        "護衛": "guarding"
+    },
+    {
+        "保證壽命": "guaranteed time"
+    },
+    {
+        "保證壽命": "guaranteed cycle"
+    },
+    {
+        "群（族）": "groups"
+    },
+    {
+        "歸族": "grouping"
+    },
+    {
+        "群控制系統": "group-control system"
+    },
+    {
+        "群組刀具配置": "group tooling"
+    },
+    {
+        "群組技術碼": "group technology code"
+    },
+    {
+        "群組技術": "group technology"
+    },
+    {
+        "群組採購": "group purchasing"
+    },
+    {
+        "群組生產規劃": "group production planning"
+    },
+    {
+        "群組生產作業": "group production operation"
+    },
+    {
+        "群組生產管制": "group production control"
+    },
+    {
+        "群組生產": "group production"
+    },
+    {
+        "群組產品設計": "group product design"
+    },
+    {
+        "群組製程分析": "group process analysis"
+    },
+    {
+        "群組工件": "group parts"
+    },
+    {
+        "群組托板": "group pallet"
+    },
+    {
+        "群組製造組織": "group organization for manufacture"
+    },
+    {
+        "群組方法": "group method"
+    },
+    {
+        "群組物料流程布置": "group material-flow layout"
+    },
+    {
+        "群組物料流程分析": "group material-flow analysis"
+    },
+    {
+        "群組物料規劃": "group material planning"
+    },
+    {
+        "群組物料搬運": "group material handling"
+    },
+    {
+        "群組製造": "group manufacturing"
+    },
+    {
+        "群組機製": "group machining"
+    },
+    {
+        "群組機器": "group machines"
+    },
+    {
+        "群組布置": "group layout"
+    },
+    {
+        "群組鑽模 (工模)": "group jigs"
+    },
+    {
+        "群組檢驗": "group inspection"
+    },
+    {
+        "群組夾具": "group fixture"
+    },
+    {
+        "群組設計": "group design"
+    },
+    {
+        "群組夾頭": "group chuck"
+    },
+    {
+        "群組裝配": "group assembly"
+    },
+    {
+        "群組分析": "group analysis"
+    },
+    {
+        "群組圖法": "group (engineering) drawing"
+    },
+    {
+        "接地變壓器": "grounding transformer"
+    },
+    {
+        "接地電阻器": "grounding resistor"
+    },
+    {
+        "檢漏器": "grounded detector"
+    },
+    {
+        "接地電驛": "ground relay"
+    },
+    {
+        "毛需求": "gross requirements"
+    },
+    {
+        "握爪": "gripper"
+    },
+    {
+        "握抓": "grip，grasp"
+    },
+    {
+        "手指開閉": "grip，clamp"
+    },
+    {
+        "柵狀體": "grid (tebler)"
+    },
+    {
+        "力格點": "grid (CRT)"
+    },
+    {
+        "回路圖": "graphical diagram，schematic diagram"
+    },
+    {
+        "圖形終端機": "graphic terminal"
+    },
+    {
+        "繪圖平板，圖板": "graphic tablet，tablet"
+    },
+    {
+        "繪圖顯示面": "graphic panel"
+    },
+    {
+        "劣化故障": "gradual failure"
+    },
+    {
+        "吉氏（Gildemeister）編號系統": "Gildemeister coding system"
+    },
+    {
+        "幾何模型法": "geometric modeling"
+    },
+    {
+        "基準故障率": "generic failure rate"
+    },
+    {
+        "發電機": "generator"
+    },
+    {
+        "演生式製程規劃": "generative process planning(GPP)"
+    },
+    {
+        "汎用機器人": "general purpose robot"
+    },
+    {
+        "通用電腦": "general purpose computer"
+    },
+    {
+        "齒輪泵": "gear pump"
+    },
+    {
+        "齒輪馬達": "gear motor"
+    },
+    {
+        "高士脈波": "Gaussian pulse"
+    },
+    {
+        "計示（錶）壓力": "gauge pressure"
+    },
+    {
+        "閘": "gating"
+    },
+    {
+        "閘脈波": "gate pulse"
+    },
+    {
+        "閘": "gate"
+    },
+    {
+        "密合墊": "gasket(pneumatic)"
+    },
+    {
+        "密合墊": "gasket(hydraulic)"
+    },
+    {
+        "密合墊連接": "gasket mounting"
+    },
+    {
+        "氣體斷路器": "gas circuit breaker"
+    },
+    {
+        "檢流計": "galvanometer"
+    },
+    {
+        "規矩塊，塊規": "Gage block"
+    },
+    {
+        "熔線": "fuse"
+    },
+    {
+        "功能塊": "functional block"
+    },
+    {
+        "函數產生器": "function generator"
+    },
+    {
+        "功能裝置": "function device"
+    },
+    {
+        "全存取率儲存": "full-turnover rate storage"
+    },
+    {
+        "停供": "full cut-off"
+    },
+    {
+        "全加器": "full adder"
+    },
+    {
+        "頻率/電壓（F/V）轉換器": "frequency-voltage converter"
+    },
+    {
+        "頻率響應": "frequency response"
+    },
+    {
+        "頻率電驛": "frequency relay"
+    },
+    {
+        "頻率計": "frequency meter"
+    },
+    {
+        "變頻機": "frequency changer，frequency converter"
+    },
+    {
+        "獨立式自動倉庫": "free-standing automated warehouse"
+    },
+    {
+        "自由時間": "free time"
+    },
+    {
+        "自由流": "free flow(pneumatic)"
+    },
+    {
+        "自由流": "free flow(hydraulic)"
+    },
+    {
+        "四位閥": "four position valve"
+    },
+    {
+        "四口閥": "four ports connection valve(pneumatic)"
+    },
+    {
+        "四口閥": "four ports connection valve(hydraulic)"
+    },
+    {
+        "帶順捲": "forward tape wind without data read (WO)"
+    },
+    {
+        "順向搜尋程式對準機能": "forward search for program alignment function"
+    },
+    {
+        "順向搜尋特定數據": "forward search for particular data"
+    },
+    {
+        "順向搜尋節（序）號": "forward search for block (sequence) number"
+    },
+    {
+        "連續讀取數據無機械動作": "forward continuous read all data (WO)"
+    },
+    {
+        "連續讀取數據有機械動作": "forward continuous read all data (W)"
+    },
+    {
+        "逐節讀取數據無機械動作": "forward block by block read all data (WO)"
+    },
+    {
+        "逐節讀取數據有機械動作": "forward block by block read all data (W)"
+    },
+    {
+        "順向": "forward"
+    },
+    {
+        "格式分類之詳細內容簡寫法": "format classification detailed shorthand"
+    },
+    {
+        "形狀碼": "form code"
+    },
+    {
+        "預測期": "forecast period"
+    },
+    {
+        "預測界限": "forecast horizon"
+    },
+    {
+        "預測誤差": "forecast error"
+    },
+    {
+        "前臂": "forearm"
+    },
+    {
+        "力覺": "force sence"
+    },
+    {
+        "力回饋": "force feedback"
+    },
+    {
+        "力量比較": "force comparison"
+    },
+    {
+        "腳踏開關": "foot switch"
+    },
+    {
+        "腳座型壓缸": "foot mounting cylinder"
+    },
+    {
+        "防愚設計": "fool-proof design"
+    },
+    {
+        "跟隨控制": "follow-up control (tracking control)"
+    },
+    {
+        "流體元件": "fluidics"
+    },
+    {
+        "射流元件": "fluidic device"
+    },
+    {
+        "流體動力": "fluid power，hydraulic power，hydraulic horse power"
+    },
+    {
+        "流體元件": "fluid device"
+    },
+    {
+        "顫動": "fluctuation"
+    },
+    {
+        "流量計": "flowmeter"
+    },
+    {
+        "流程圖製作": "flowcharting"
+    },
+    {
+        "流程圖符號": "flowchart symbol"
+    },
+    {
+        "流量": "flow，flow rate"
+    },
+    {
+        "流量電驛": "flow relay"
+    },
+    {
+        "流型": "flow pattern，valve function (hydraulic)"
+    },
+    {
+        "流型": "flow pattern (pneumatic)"
+    },
+    {
+        "流嘴": "flow nozzle"
+    },
+    {
+        "節流閥": "flow metering valve"
+    },
+    {
+        "流量計": "flow meter"
+    },
+    {
+        "分流閥": "flow dividing vlave"
+    },
+    {
+        "流程圖，流向圖": "flow diagram，flowchart"
+    },
+    {
+        "流量控制閥": "flow control valve"
+    },
+    {
+        "磁片閱讀機": "floppy disk reader"
+    },
+    {
+        "可變位置儲存": "floating-slot storage"
+    },
+    {
+        "浮動零點": "floating zero"
+    },
+    {
+        "浮控開關": "float switch"
+    },
+    {
+        "浮動閥位": "float position"
+    },
+    {
+        "雙安定元件": "flip-flop device"
+    },
+    {
+        "跳擺回路": "flip-flop circuit"
+    },
+    {
+        "正反器": "flip flop"
+    },
+    {
+        "晶粒反蓋形結著": "flip chip bonding"
+    },
+    {
+        "閃爍電驛": "flicker relay"
+    },
+    {
+        "彈性製造系統": "flexible manufacturing system(FMS)"
+    },
+    {
+        "彈性加工模組": "flexible machining module (FMM)"
+    },
+    {
+        "彈性加工單元": "flexible machining cell(FMC)"
+    },
+    {
+        "軟管": "flexible line"
+    },
+    {
+        "軟性磁碟，磁片": "flexible disk，diskette"
+    },
+    {
+        "平台式繪圖機": "flatbed plotter"
+    },
+    {
+        "平板型包裝": "flat package"
+    },
+    {
+        "平面檔": "flat file"
+    },
+    {
+        "直口接頭": "flareless fitting"
+    },
+    {
+        "擴口接頭": "flared fitting (pneumatic)"
+    },
+    {
+        "擴口接頭": "flared fitting (hydraulic)"
+    },
+    {
+        "凸緣型壓缸": "flange mounting cylinder"
+    },
+    {
+        "凸緣接頭": "flange fitting"
+    },
+    {
+        "凸緣接頭": "flange connector"
+    },
+    {
+        "固定位置儲存": "fixed-slot storage"
+    },
+    {
+        "定時中止試驗法": "fixed time test plan"
+    },
+    {
+        "端止機器人": "fixed stop robot"
+    },
+    {
+        "固定順序型機器人": "fixed sequence robot"
+    },
+    {
+        "定數中止試驗法": "fixed number test plan"
+    },
+    {
+        "固定排量泵": "fixed displacement pump"
+    },
+    {
+        "固定排量馬達": "fixed displacement motor"
+    },
+    {
+        "固定循環": "fixed cycle，canned cycle"
+    },
+    {
+        "定值控制": "fixed command control (regulator control)"
+    },
+    {
+        "固定段格式": "fixed block format"
+    },
+    {
+        "固定光源式導引": "fixed beacon guidance"
+    },
+    {
+        "五口閥": "five ports connection vlave"
+    },
+    {
+        "接頭（活節）": "fitting"
+    },
+    {
+        "一階儀器": "first-order instrument"
+    },
+    {
+        "上昇百分率點": "first transition percent point"
+    },
+    {
+        "前緣（區間）峰至峰半值點": "first transition peak to peak mesial point"
+    },
+    {
+        "前緣峰半值點": "first transition peak mesial point"
+    },
+    {
+        "上昇半值點，上昇區間半值點": "first transition mesial point"
+    },
+    {
+        "前緣（上升區間）": "first transition"
+    },
+    {
+        "確定計量訂單": "firm planned order"
+    },
+    {
+        "確定預撥量": "firm allocation"
+    },
+    {
+        "防火性液": "fire-resistant fluid"
+    },
+    {
+        "有限負載": "finite loading"
+    },
+    {
+        "製成品存貨": "finished goods inventory"
+    },
+    {
+        "手指": "finger"
+    },
+    {
+        "最後控制元件": "final control element"
+    },
+    {
+        "最終裝配日程表": "Final Assembly Schedule(FAS)"
+    },
+    {
+        "過濾": "filtration"
+    },
+    {
+        "過濾器": "filter，strainer"
+    },
+    {
+        "濾芯": "filter element"
+    },
+    {
+        "濾波器，過濾器": "filter"
+    },
+    {
+        "膜積體電路": "film integrated circuit (FIC)"
+    },
+    {
+        "檔案更新": "file updating"
+    },
+    {
+        "檔案組織": "file organization"
+    },
+    {
+        "檔合併": "file merging"
+    },
+    {
+        "磁場開關": "field switch"
+    },
+    {
+        "實地可靠度試驗": "field reliability test"
+    },
+    {
+        "磁場調整器": "field regulator，field rheostat"
+    },
+    {
+        "場效電晶體": "field effect transistor (FET)"
+    },
+    {
+        "現場數據": "field data"
+    },
+    {
+        "欄": "field"
+    },
+    {
+        "磁場斷路器": "field circuit breaker"
+    },
+    {
+        "逼真度": "fidelity"
+    },
+    {
+        "快速富氏轉換": "FFT"
+    },
+    {
+        "前饋控制": "feedforward control"
+    },
+    {
+        "回饋控制": "feedback control"
+    },
+    {
+        "進給速率超越": "feed rate override"
+    },
+    {
+        "進給機能（F機能）": "feed function"
+    },
+    {
+        "故障樹分析": "fault tree analysis (FTA)"
+    },
+    {
+        "故障指示器": "fault indicator"
+    },
+    {
+        "故障壽命": "failure time"
+    },
+    {
+        "故障率函數": "failure rate function"
+    },
+    {
+        "故障率加速係數": "failure rate acceleration factor"
+    },
+    {
+        "故障率": "failure rate"
+    },
+    {
+        "故障模式效應分析": "failure mode and effects analysis (FMEA)"
+    },
+    {
+        "故障模式": "failure mode"
+    },
+    {
+        "故障機制": "failure mechanism"
+    },
+    {
+        "故障分布函數": "failure distribution function"
+    },
+    {
+        "故障判定準則": "failure criterion"
+    },
+    {
+        "故障": "failure"
+    },
+    {
+        "故障安全設計": "fail-safe design"
+    },
+    {
+        "華氏溫度": "Fahrenheit temperature"
+    },
+    {
+        "工廠資訊管理": "factory information management"
+    },
+    {
+        "表面結著": "Face down bonding，face bonding"
+    },
+    {
+        "環首型壓缸": "eye mounting cylinder"
+    },
+    {
+        "外在預測": "extrinsic forecast"
+    },
+    {
+        "外插法": "extrapolation"
+    },
+    {
+        "抽存器": "extractor"
+    },
+    {
+        "外界同步信號": "external synchronizing signal"
+    },
+    {
+        "外界量測能力": "external measuring ability"
+    },
+    {
+        "外接齒輪泵": "external gear pump"
+    },
+    {
+        "指數平滑法": "exponential smoothing"
+    },
+    {
+        "指數形脈波": "exponential Pulse"
+    },
+    {
+        "指數平均法": "exponential averaging"
+    },
+    {
+        "展開": "explosion"
+    },
+    {
+        "催查": "expediting"
+    },
+    {
+        "排氣用淨化器": "exhaust purifier，exhaust filter"
+    },
+    {
+        "排氣口": "exhaust port"
+    },
+    {
+        "排氣音": "exhaust noise"
+    },
+    {
+        "標準方法": "exemplar method"
+    },
+    {
+        "執行指令": "executing instructions"
+    },
+    {
+        "激磁機": "exciter"
+    },
+    {
+        "例外報表": "exception report"
+    },
+    {
+        "錯誤改正碼": "error-correcting codes"
+    },
+    {
+        "磊平面技術": "epitaxial planar technique"
+    },
+    {
+        "磊晶成長": "epitaxial growth"
+    },
+    {
+        "環境試驗": "environmental test"
+    },
+    {
+        "環境係數": "environmental application factor"
+    },
+    {
+        "混入空氣": "entrained air，areation"
+    },
+    {
+        "實體": "entity"
+    },
+    {
+        "工程自動化": "engineering automation"
+    },
+    {
+        "耐久性試驗": "endurance test"
+    },
+    {
+        "末端剛性": "end point rigidity"
+    },
+    {
+        "帶之終止": "end of tape"
+    },
+    {
+        "自程式終端自動捲回至程式始端": "end of program with automatic rewind to beginning of program"
+    },
+    {
+        "程式終止": "end of program"
+    },
+    {
+        "段之終止（EOB）": "end of block"
+    },
+    {
+        "手端": "end effector"
+    },
+    {
+        "封裝": "encapsulation"
+    },
+    {
+        "緊急開關": "emergency switch"
+    },
+    {
+        "緊急停止回路": "emergency stop circuit"
+    },
+    {
+        "緊急停止": "emergency stop"
+    },
+    {
+        "緊急": "emergency"
+    },
+    {
+        "元件": "element"
+    },
+    {
+        "電氣-氣壓閥": "electro-pneumatic operated valve"
+    },
+    {
+        "電-氣壓控制": "electro-pneumatic control"
+    },
+    {
+        "電子式運算": "electronic methods"
+    },
+    {
+        "電子式濕度計": "electronic hygrometer"
+    },
+    {
+        "電子轉帳": "electronic funds transfer"
+    },
+    {
+        "電子式數字顯示": "electronic digitsdisplay"
+    },
+    {
+        "電磁接觸器": "electromagnetic contactor"
+    },
+    {
+        "電磁離合器": "electromagnetic clutch"
+    },
+    {
+        "電磁制動器": "electromagnetic brake"
+    },
+    {
+        "電液系統": "electro-hydraulic system"
+    },
+    {
+        "電圖列印機": "electrographic printer"
+    },
+    {
+        "電動式轉換器": "electrodynamic transducer"
+    },
+    {
+        "電極": "electrode"
+    },
+    {
+        "電力制動": "electric braking"
+    },
+    {
+        "肘": "elbow"
+    },
+    {
+        "彈性力轉換器": "elastic force transducer"
+    },
+    {
+        "彈性變形壓力元件": "elastic deformation pressure elements"
+    },
+    {
+        "閥之有效截面積": "effective area of valve"
+    },
+    {
+        "編輯輸入資料": "editing input data"
+    },
+    {
+        "邊緣": "edge"
+    },
+    {
+        "渦流式轉換器": "eddy-current transducer"
+    },
+    {
+        "經濟生產量": "economic production quantity"
+    },
+    {
+        "經濟訂購量": "Economic Order Quantity (EOQ)"
+    },
+    {
+        "經濟批量": "economic lot size，economic lot quantity"
+    },
+    {
+        "計量經濟模式": "Econometric Models"
+    },
+    {
+        "回波": "echo"
+    },
+    {
+        "接地端子": "earth terminal"
+    },
+    {
+        "接地表示燈": "earth lamp"
+    },
+    {
+        "早期故障期": "early failure period"
+    },
+    {
+        "早期故障": "Early failure"
+    },
+    {
+        "動態範圍": "dynamic range"
+    },
+    {
+        "動壓": "dynamic pressure"
+    },
+    {
+        "動態特性": "dynamic characteristic"
+    },
+    {
+        "動力制動電阻器": "dynamic braking resistor"
+    },
+    {
+        "動力制動": "dynamic braking"
+    },
+    {
+        "動態精度": "dynamic accuracy"
+    },
+    {
+        "暫停": "dwell"
+    },
+    {
+        "傾印": "dump"
+    },
+    {
+        "假負載": "dummy load"
+    },
+    {
+        "雙行程氣壓缸": "dual stroke (pneumatic) cylinder"
+    },
+    {
+        "雙桅式存取機": "dual masted S/R machine"
+    },
+    {
+        "雙排型包裝": "dual in-line package"
+    },
+    {
+        "雙命令循環": "dual command cycle"
+    },
+    {
+        "鼓型列印機": "drum printer"
+    },
+    {
+        "滾筒式繪圖機": "drum plotter"
+    },
+    {
+        "驅入式料架": "drive-in rack"
+    },
+    {
+        "漂移；飄移 ": "drift"
+    },
+    {
+        "除水器": "drain separator"
+    },
+    {
+        "排洩管路": "drain line"
+    },
+    {
+        "排洩物": "drain (pneumatic)"
+    },
+    {
+        "排洩": "drain (hydraulic)"
+    },
+    {
+        "下降，下": "down，lower"
+    },
+    {
+        "阻力杯轉速計": "drag cup tachometer"
+    },
+    {
+        "不可操作時間": "down time"
+    },
+    {
+        "雙深托板料架": "double-deep pallet rack"
+    },
+    {
+        "雙桿液壓缸": "double rod cylinder"
+    },
+    {
+        "雙桿氣壓缸": "double rod (pneumatic) cylinder"
+    },
+    {
+        "雙運泵": "double pump"
+    },
+    {
+        "雙（重）脈波列": "double pulse train"
+    },
+    {
+        "雙脈波": "double pulse"
+    },
+    {
+        "雙動氣壓缸": "double acting (pneumatic) cylinder"
+    },
+    {
+        "雙動液壓缸": "double acing cylinder"
+    },
+    {
+        "除": "division"
+    },
+    {
+        "分除": "dividing"
+    },
+    {
+        "除法器": "divider"
+    },
+    {
+        "激振": "dither"
+    },
+    {
+        "干擾": "disturbance"
+    },
+    {
+        "分配軸": "distributor shaft"
+    },
+    {
+        "配銷資源規劃": "Distribution Resoucrces Planning (DRP-Ⅱ)"
+    },
+    {
+        "配銷中心": "distribution center"
+    },
+    {
+        "價值分配法": "distribution by value"
+    },
+    {
+        "分散式處理機": "distributed processors"
+    },
+    {
+        "分散式資料處理": "distributed data processing"
+    },
+    {
+        "分散式資料庫": "distributed data base"
+    },
+    {
+        "失真率": "distortion rate"
+    },
+    {
+        "失真": "distortion"
+    },
+    {
+        "排量": "displacement volume"
+    },
+    {
+        "位移比較": "displacement comparison"
+    },
+    {
+        "排量": "displacement"
+    },
+    {
+        "派工": "dispatching"
+    },
+    {
+        "派工單": "dispatch list"
+    },
+    {
+        "磁碟包": "disk pack"
+    },
+    {
+        "磁碟機": "disk driver"
+    },
+    {
+        "卡式磁碟": "disk cartridge"
+    },
+    {
+        "鑑別": "discrimination，decision"
+    },
+    {
+        "判別比": "discrimination ratio"
+    },
+    {
+        "鑑別位準": "discrimination level"
+    },
+    {
+        "鑑別器": "discrimination decision circuit"
+    },
+    {
+        "鑑別器": "discrimination circuit，discriminator"
+    },
+    {
+        "間歇性批量": "discrete lot size"
+    },
+    {
+        "切離開關": "disconnecting switch"
+    },
+    {
+        "放電電阻器": "discharging resistor"
+    },
+    {
+        "換向閥": "directional control valve，selector"
+    },
+    {
+        "方向控制閥": "directional control valve (pneumatic)"
+    },
+    {
+        "方向控制閥": "directional control valve (hydraulic)"
+    },
+    {
+        "方向控制回路": "directional control circuit"
+    },
+    {
+        "全量式潤滑器": "direct type lubricator"
+    },
+    {
+        "直接式或相對性檔案組織": "direct or relative file organization"
+    },
+    {
+        "直動形電磁閥": "direct operated solenoid valve"
+    },
+    {
+        "直接數值控制": "direct numerical control"
+    },
+    {
+        "直接液位測定": "direct liquid level measurement"
+    },
+    {
+        "直接存取儲存裝置": "direct access storage device(DASD)"
+    },
+    {
+        "尺度字語": "dimension  word"
+    },
+    {
+        "座標讀取裝置；數位轉化器": "digitizer"
+    },
+    {
+        "數位化": "digitize"
+    },
+    {
+        "數位式電壓計": "digital voltmeter"
+    },
+    {
+        "數位式轉換": "digital transducing"
+    },
+    {
+        "數位伺服系統": "digital servo system"
+    },
+    {
+        "數位伺服系統": "digital servo control system"
+    },
+    {
+        "數位式濾波": "digital filtering"
+    },
+    {
+        "擴散電阻": "diffused resistor"
+    },
+    {
+        "數位運算": "digital computing methods"
+    },
+    {
+        "微分": "differentiation"
+    },
+    {
+        "微分電路": "differentiation circuit，differentiator"
+    },
+    {
+        "微分": "differentiation"
+    },
+    {
+        "差壓測量": "differential-pressure measurement"
+    },
+    {
+        "差動變壓器": "differential transformer (LVDT，RVDT)"
+    },
+    {
+        "差動電驛": "differential relay"
+    },
+    {
+        "定差減壓閥": "differential pressure reducing valve"
+    },
+    {
+        "差壓法液位測定": "differential method of liquid level measurement"
+    },
+    {
+        "差動氣壓缸": "differential cylinder(pneumatic)"
+    },
+    {
+        "差動液壓缸": "differential cylinder(hydraulic)"
+    },
+    {
+        "差動方式": "differential arrangement"
+    },
+    {
+        "介質隔離": "dielectric isolation"
+    },
+    {
+        "晶粒分割": "die separation"
+    },
+    {
+        "晶粒結著": "die bonding"
+    },
+    {
+        "晶粒黏著": "die attachment"
+    },
+    {
+        "隔膜形蓄壓器": "diaphragm type hydropneumatic accumulator"
+    },
+    {
+        "隔膜式操作閥": "diaphragm operate valve"
+    },
+    {
+        "膜片式氣壓缸": "diaphragm (pneumatic) cylinder"
+    },
+    {
+        "隔膜": "diaphragm"
+    },
+    {
+        "斜向運動": "diagonal travel"
+    },
+    {
+        "偵錯": "diagnostic"
+    },
+    {
+        "露點": "dew point"
+    },
+    {
+        "裝置": "device"
+    },
+    {
+        "誤差": "deviation，error"
+    },
+    {
+        "掣止閥位": "detent valve position"
+    },
+    {
+        "掣止": "detent"
+    },
+    {
+        "檢波器": "detector"
+    },
+    {
+        "檢波器": "detection circuit"
+    },
+    {
+        "檢波": "detection"
+    },
+    {
+        "設定值": "desired value，set point"
+    },
+    {
+        "設計審查": "design review"
+    },
+    {
+        "設計導向編號系統": "design oriented coding system"
+    },
+    {
+        "設計屬性編號系統": "design attribute coding system"
+    },
+    {
+        "設計與生產導向編號系統": "design and production oriented coding system"
+    },
+    {
+        "設計與製造屬性編號系統": "design and manufacture attribute coding system"
+    },
+    {
+        "微分時間": "derivative time，rate time"
+    },
+    {
+        "微分控制": "derivative control"
+    },
+    {
+        "減載": "derating"
+    },
+    {
+        "相依性需求": "dependent demand"
+    },
+    {
+        "需求過濾法": "demand filter"
+    },
+    {
+        "德爾菲法": "Delphi Method"
+    },
+    {
+        "排出量": "delivery；discharge"
+    },
+    {
+        "記憶裝置洗除": "delete store contents"
+    },
+    {
+        "延遲電路": "delaying circuit"
+    },
+    {
+        "延遲": "delaying"
+    },
+    {
+        "延遲閥": "delay valve"
+    },
+    {
+        "延遲時間": "delay time"
+    },
+    {
+        "運動自由度": "degree of freedom of motion"
+    },
+    {
+        "劣化故障": "degradation failure"
+    },
+    {
+        "劣化": "degradation ，deterioration"
+    },
+    {
+        "偏移法": "deflection method"
+    },
+    {
+        "專用彈性製造系統": "dedicated FMS"
+    },
+    {
+        "遞減故障率（DFR）分布": "decreasing failure rate distribution"
+    },
+    {
+        "減少": "decrease"
+    },
+    {
+        "洩壓閥": "decompression valve"
+    },
+    {
+        "洩壓": "decompression"
+    },
+    {
+        "決策法則": "decision rule"
+    },
+    {
+        "決策表": "decision table"
+    },
+    {
+        "決策點": "decision point"
+    },
+    {
+        "鑑別位準": "decision level"
+    },
+    {
+        "分貝": "decibel"
+    },
+    {
+        "減速閥": "deceleration valve"
+    },
+    {
+        "減速": "decelerating"
+    },
+    {
+        "呆區": "dead zone"
+    },
+    {
+        "空檔時間": "dead time"
+    },
+    {
+        "直流轉速計": "DC tachometer"
+    },
+    {
+        "資料存取": "data storage and retrieval"
+    },
+    {
+        "資料縮減": "data reduction"
+    },
+    {
+        "資料處理系統，計算機系統，計算系統": "data processing system"
+    },
+    {
+        "資料處理": "data processing"
+    },
+    {
+        "資料登錄": "data entry"
+    },
+    {
+        "資料壓縮": "data compression"
+    },
+    {
+        "數據通信，資料通信": "data communication"
+    },
+    {
+        "資料收集": "data collection"
+    },
+    {
+        "數據媒體故障": "data carrier fault"
+    },
+    {
+        "數據媒體（基本符號）": "data carrier (basic symbol)"
+    },
+    {
+        "資料庫管理師": "data base administrator"
+    },
+    {
+        "資料庫": "data base"
+    },
+    {
+        "資料銀行": "data bank"
+    },
+    {
+        "資料": "data"
+    },
+    {
+        "危險防止功能": "danger protecting function"
+    },
+    {
+        "阻尼時間": "damping time，decay time"
+    },
+    {
+        "阻尼振盪": "damping oscillation"
+    },
+    {
+        "阻尼": "damping"
+    },
+    {
+        "圓柱座標型機器人": "cylindrical coordinates robot"
+    },
+    {
+        "圓柱座標系統": "cylindrical coordinate system"
+    },
+    {
+        "壓缸管": "cylinder tube，cylinder barrel（pneumatic）"
+    },
+    {
+        "壓缸管": "cylinder tube，cylinder barrel（hydraulic）"
+    },
+    {
+        "壓缸行程": "cylinder stroke"
+    },
+    {
+        "壓缸出力": "cylinder output force"
+    },
+    {
+        "壓缸出": "cylinder force"
+    },
+    {
+        "氣壓缸緩衝": "cylinder cushioning"
+    },
+    {
+        "缸體": "cylinder block"
+    },
+    {
+        "磁柱": "cylinder"
+    },
+    {
+        "氣壓程序控制器": "cyclic pneumatic programer"
+    },
+    {
+        "週期時間": "cycle time"
+    },
+    {
+        "循環盤點": "cycle counting"
+    },
+    {
+        "循環": "cycle"
+    },
+    {
+        "刀具徑補償": "cutter compensation"
+    },
+    {
+        "卸載壓力": "cut-out pressure"
+    },
+    {
+        "減供": "cut-off"
+    },
+    {
+        "復載壓力": "cut-in pressure"
+    },
+    {
+        "割面": "cut plane"
+    },
+    {
+        "緩衝氣壓缸": "cushioned cylinder（pneumatic）"
+    },
+    {
+        "緩衝液壓缸": "cushioned cylinder（hydraulic）"
+    },
+    {
+        "游標": "cursor"
+    },
+    {
+        "限流電阻器": "current-limiting resistor"
+    },
+    {
+        "限流電驛": "current-limiting relay"
+    },
+    {
+        "限流電抗器": "current-limiting reactor"
+    },
+    {
+        "比流器": "current transformer"
+    },
+    {
+        "電流源": "current source"
+    },
+    {
+        "電流電驛": "current relay"
+    },
+    {
+        "每類體積指標": "cube per order index（COI）"
+    },
+    {
+        "螢光幕顯示器": "CRT monitor"
+    },
+    {
+        "互相關函數": "crosscorrelation function"
+    },
+    {
+        "十字指標": "cross hairs"
+    },
+    {
+        "關鍵比": "critical ratio"
+    },
+    {
+        "臨界壓力比": "critical pressure ratio"
+    },
+    {
+        "臨界點": "critical point"
+    },
+    {
+        "要徑法": "critical path method（CPM）"
+    },
+    {
+        "致命故障": "critical failure"
+    },
+    {
+        "臨界阻尼": "critical damping"
+    },
+    {
+        "蠕動": "crawling"
+    },
+    {
+        "啟流壓力": "cracking pressure（pneumatic）"
+    },
+    {
+        "啟流壓力": "cracking pressure（hydraulic）"
+    },
+    {
+        "計數方法": "counting method"
+    },
+    {
+        "計數": "counting"
+    },
+    {
+        "配衡閥": "counterbalance valve"
+    },
+    {
+        "計數回路": "counter circuit"
+    },
+    {
+        "計數器": "counter"
+    },
+    {
+        "成本有效度": "cost effectiveness"
+    },
+    {
+        "餘弦脈波": "cosine pulse"
+    },
+    {
+        "相關函數器": "correlator"
+    },
+    {
+        "修復維護時間": "corrective maintenance time"
+    },
+    {
+        "修復維護": "corrective maintenance"
+    },
+    {
+        "角失真": "corner distortion"
+    },
+    {
+        "角": "corner"
+    },
+    {
+        "機械原點": "co-ordinate basic origin"
+    },
+    {
+        "協調控制": "cooperative control"
+    },
+    {
+        "輸送系統": "conveyor system"
+    },
+    {
+        "輸送裝置": "conveyor device"
+    },
+    {
+        "非電量轉換": "conversion"
+    },
+    {
+        "控制器": "controller"
+    },
+    {
+        "受控變數": "controlled variable"
+    },
+    {
+        "受控對象": "controlled system，plant，process"
+    },
+    {
+        "控制流": "controlled flow（pneumatic）"
+    },
+    {
+        "控制流": "controlled flow（hydraulic）"
+    },
+    {
+        "控制閥": "control valve（hydraulic）"
+    },
+    {
+        "（指令）控制單元": "control unit（instruction）control unit"
+    },
+    {
+        "控制系統": "control system"
+    },
+    {
+        "控制開關": "control switch"
+    },
+    {
+        "控制程式": "control program"
+    },
+    {
+        "操縱變量": "control input，actuating signal，control variable"
+    },
+    {
+        "控制功能": "control function"
+    },
+    {
+        "控制器": "control device，controller，control element"
+    },
+    {
+        "控制台": "control console"
+    },
+    {
+        "控制電腦": "control computer"
+    },
+    {
+        "控制": "control"
+    },
+    {
+        "縮流": "contraction"
+    },
+    {
+        "輪廓控制": "contouring control，continuous tool path control"
+    },
+    {
+        "連續路徑控制": "continuous path control（CP）"
+    },
+    {
+        "污染管理": "contamination control"
+    },
+    {
+        "污染": "contamination"
+    },
+    {
+        "構面圖": "construction plane"
+    },
+    {
+        "常數故障率（CFR）分布": "constant failure rate distribution"
+    },
+    {
+        "控制台終端機": "console teminal"
+    },
+    {
+        "接頭（活節）": "connector"
+    },
+    {
+        "管連接口": "connecting port"
+    },
+    {
+        "電容器，冷凝器": "condenser，capacitor"
+    },
+    {
+        "集訊機": "concentrator"
+    },
+    {
+        "電腦化倉庫": "computerized warehouse"
+    },
+    {
+        "電腦化相關性布置程式": "Computerized Relationship Layout Program（CORELAP）"
+    },
+    {
+        "電腦數值控制": "computerized numerical control（CNC）"
+    },
+    {
+        "電腦化切削數據系統": "computerized machinability data system"
+    },
+    {
+        "電腦化設施相對安排技術程式": "Computerized Allocation of Facilities Tech（CRAFT）"
+    },
+    {
+        "電腦輔助倉儲系統": "computer-aided warehousing system"
+    },
+    {
+        "電腦輔助存取系統": "computer-aided storage/retrieval system"
+    },
+    {
+        "電腦用戶": "computer user"
+    },
+    {
+        "資料處理系統，計算機系統，計算系統": "computer system，computing system"
+    },
+    {
+        "（計算機）程式": "computer programming"
+    },
+    {
+        "電腦製程監督": "computer process monitoring"
+    },
+    {
+        "電腦操作員": "computer operator"
+    },
+    {
+        "電腦整合製造系統": "computer integrated manufacturing system（CIMS）"
+    },
+    {
+        "電腦整合製造": "computer integrated manufacturing （CIM）"
+    },
+    {
+        "電腦圖形處理": "computer graphic"
+    },
+    {
+        "電腦演生標準時間": "computer generated time standard"
+    },
+    {
+        "計算機犯罪": "computer crime"
+    },
+    {
+        "電腦控制": "computer control"
+    },
+    {
+        "電腦中心": "computer center"
+    },
+    {
+        "電腦協助數控程式製作": "computer assisted NC programming"
+    },
+    {
+        "電腦輔助測試": "computer aided testing（CAT）"
+    },
+    {
+        "電腦輔助現場管制": "computer aided shop floor control"
+    },
+    {
+        "電腦輔助排程": "computer aided scheduling"
+    },
+    {
+        "電腦輔助生產流程分析": "computer aided production flow analysis"
+    },
+    {
+        "電腦輔助產品設計": "computer aided product design"
+    },
+    {
+        "電腦輔助製程規劃": "computer aided process planning（CAPP）"
+    },
+    {
+        "電腦輔助工廠布置": "computer aided plant layout"
+    },
+    {
+        "電腦輔助零件設計": "computer aided part design"
+    },
+    {
+        "電腦輔助製造": "computer aided manufacturing（CAM）"
+    },
+    {
+        "電腦輔助檢驗": "computer aided inspection"
+    },
+    {
+        "電腦輔助工程": "computer aided engineering（CAE）"
+    },
+    {
+        "電腦輔助繪圖": "computer aided drafting"
+    },
+    {
+        "電腦輔助設計技術": "computer aided design technology"
+    },
+    {
+        "電腦輔助裝配": "computer aided assembly"
+    },
+    {
+        "計算機": "computer"
+    },
+    {
+        "運算": "computations，measurement data manipulations"
+    },
+    {
+        "直口接頭": "compression fitting"
+    },
+    {
+        "混合脈波": "composite pulse"
+    },
+    {
+        "複合零件": "composite part"
+    },
+    {
+        "元件存貨": "component inventory"
+    },
+    {
+        "部品族": "component groups"
+    },
+    {
+        "組件；元件": "component"
+    },
+    {
+        "順應性": "compliance"
+    },
+    {
+        "完全故障": "complete failure"
+    },
+    {
+        "互補": "complementary"
+    },
+    {
+        "編譯器": "compiler，compiling program"
+    },
+    {
+        "補償或偏位（基本符號）": "compensation or offset（basic symbol）"
+    },
+    {
+        "補償式記錄器": "compensating recorder"
+    },
+    {
+        "相容性": "compatibility"
+    },
+    {
+        "比較器": "comparator"
+    },
+    {
+        "共同儲存區": "common storage"
+    },
+    {
+        "指令脈衝": "command pulse"
+    },
+    {
+        "複合故障": "combined failure"
+    },
+    {
+        "複合泵": "combination pump"
+    },
+    {
+        "巧合間隔": "coincidence interval，coincidence duration"
+    },
+    {
+        "巧合性": "coincidence"
+    },
+    {
+        "相關性": "coherence"
+    },
+    {
+        "體膨脹係數": "coefficient of volumetric expansion"
+    },
+    {
+        "線膨脹係數": "coefficient of linear expansion"
+    },
+    {
+        "編碼系統": "coding system"
+    },
+    {
+        "編碼": "code"
+    },
+    {
+        "滑動": "coating"
+    },
+    {
+        "CMOS技術": "CMOS-technology"
+    },
+    {
+        "閉合線圈": "closing coil"
+    },
+    {
+        "最近空位法則": "closest-open-location（COL） rule"
+    },
+    {
+        "閉路式轉換": "closed-loop transducing（null method）"
+    },
+    {
+        "閉環系統": "closed-loop system"
+    },
+    {
+        "閉閥位": "closed position"
+    },
+    {
+        "閉路式物料需求計畫": "closed loop MRP"
+    },
+    {
+        "閉環": "closed loop"
+    },
+    {
+        "中位閉路": "closed center"
+    },
+    {
+        "通路": "close，on"
+    },
+    {
+        "接通": "close"
+    },
+    {
+        "時鐘脈波": "clock pulse"
+    },
+    {
+        "時鐘": "clock"
+    },
+    {
+        "截割電路": "clipping circuit clipper"
+    },
+    {
+        "框除": "clipping"
+    },
+    {
+        "截割位準": "clip level"
+    },
+    {
+        "U型鉤壓缸": "clevis mounting cylinder"
+    },
+    {
+        "分類系統": "classification system"
+    },
+    {
+        "分類": "classification"
+    },
+    {
+        "分級式儲存指派": "class-based storage assignment"
+    },
+    {
+        "定位電路": "clamping circuit，clamper"
+    },
+    {
+        "定位": "clamping"
+    },
+    {
+        "定位位準": "clamp level"
+    },
+    {
+        "刀具位置檔": "CL File（cutter location file）"
+    },
+    {
+        "圓弧插值": "circular interpolation"
+    },
+    {
+        "斷路器": "circuit breaker"
+    },
+    {
+        "開-閉控制回路": "circuit ，ON-OFF control"
+    },
+    {
+        "電路": "circuit"
+    },
+    {
+        "截斷式幅射計": "chopped radiometer"
+    },
+    {
+        "阻流管": "choke（pneumatic）"
+    },
+    {
+        "阻流管": "choke（hydraulic）"
+    },
+    {
+        "晶粒": "chip"
+    },
+    {
+        "止回閥": "check valve（pneumatic）"
+    },
+    {
+        "止回閥": "check valve（hydraulic）"
+    },
+    {
+        "核對位元": "check digit"
+    },
+    {
+        "顫動": "chattering（hydraulic）"
+    },
+    {
+        "顫動": "chattering，chatter，singing（pneumatic）"
+    },
+    {
+        "特性方程式": "characteristic equation"
+    },
+    {
+        "文字（字元）": "character"
+    },
+    {
+        "切換開關": "change-over switch"
+    },
+    {
+        "通道": "channel"
+    },
+    {
+        "切換": "change-over"
+    },
+    {
+        "鏈式結構系統": "chain-type structure system"
+    },
+    {
+        "鏈型列印機": "chain printer"
+    },
+    {
+        "鏈條式輸送機": "chain conveyor"
+    },
+    {
+        "中央處理單元": "central processing unit（CPU）"
+    },
+    {
+        "攝氏溫度": "Centigrade temperature"
+    },
+    {
+        "中立閥位": "center valve position（pneumatic）"
+    },
+    {
+        "中立閥位": "center valve position（hydraulic）"
+    },
+    {
+        "時間中點": "center time point"
+    },
+    {
+        "中央點": "center point"
+    },
+    {
+        "生產單元系統": "cell system"
+    },
+    {
+        "生產單元設計": "cell design"
+    },
+    {
+        "生產單元": "cell"
+    },
+    {
+        "空蝕現象": "cavitation"
+    },
+    {
+        "陰極射線管終端機": "cathode ray tube terminal（CRT）"
+    },
+    {
+        "突發故障": "catastrophic failure"
+    },
+    {
+        "現金流量": "cash flow"
+    },
+    {
+        "串級控制": "cascade control"
+    },
+    {
+        "直角座標型機器人": "cartesian coordinates robot"
+    },
+    {
+        "搬運車站": "cart station"
+    },
+    {
+        "搬運車路徑": "cart path"
+    },
+    {
+        "搬運車": "cart"
+    },
+    {
+        "讀卡機": "card reader"
+    },
+    {
+        "產能需求規劃": "capacity requirements planning（CRP）"
+    },
+    {
+        "產能管制": "capacity control"
+    },
+    {
+        "容量": "capacity"
+    },
+    {
+        "電容式轉換器": "capacitive transducer"
+    },
+    {
+        "電容，熱容": "capacitance"
+    },
+    {
+        "取消，刪除": "cancel，delete"
+    },
+    {
+        "凸輪環": "cam ring"
+    },
+    {
+        "凸輪操作閥": "cam operated value（pneumatic）"
+    },
+    {
+        "凸輪操作閥": "cam operated value（hydraulic）"
+    },
+    {
+        "校正": "calibration"
+    },
+    {
+        "有效值求法": "calculation of effective value"
+    },
+    {
+        "電腦輔助設計": "CAD（computer-aided design）"
+    },
+    {
+        "電纜頭": "Cable head"
+    },
+    {
+        "位元組": "byte"
+    },
+    {
+        "旁路": "by-path，by pass line（pneumatic）"
+    },
+    {
+        "旁路": "by-path（hydraulic）"
+    },
+    {
+        "蜂音器": "buzzer"
+    },
+    {
+        "按鈕開關": "buttom switch"
+    },
+    {
+        "套管比流器": "bushing current transformer"
+    },
+    {
+        "破壞試驗壓力": "burst test pressure"
+    },
+    {
+        "破壞試驗壓力": "burst pressure"
+    },
+    {
+        "預燒": "burn-in"
+    },
+    {
+        "埋層": "buried layer"
+    },
+    {
+        "巴登管": "Burdon tube"
+    },
+    {
+        "緩衝儲存器": "buffer resistor"
+    },
+    {
+        "吹氣法液位測定": "bubbler method of liquid level measurement"
+    },
+    {
+        "磁泡記憶體": "bubble memory"
+    },
+    {
+        "B-平滑曲面": "B-spline surface"
+    },
+    {
+        "B-平滑曲線": "B-spline"
+    },
+    {
+        "布式（Brisch）編號系統": "Brisch coding system"
+    },
+    {
+        "橋式堆高機": "bridge stacker"
+    },
+    {
+        "斷點": "breakpoint"
+    },
+    {
+        "始動壓力": "breakaway pressure（breakout pressure）"
+    },
+    {
+        "麵包板設計": "bread board design"
+    },
+    {
+        "叉站": "branch station"
+    },
+    {
+        "制動": "braking"
+    },
+    {
+        "BR連接": "BR port connection"
+    },
+    {
+        "巴克斯-金肯模式": "Box-Jenkins models"
+    },
+    {
+        "承杯防護罩": "bowlguard"
+    },
+    {
+        "靴帶電路": "bootstrap circuit"
+    },
+    {
+        "增壓閥": "booster valve"
+    },
+    {
+        "增壓回路": "booster circuit"
+    },
+    {
+        "升壓器": "booster"
+    },
+    {
+        "結著片": "bonding pad"
+    },
+    {
+        "波德圖": "Bode diagram"
+    },
+    {
+        "吹風器": "blower"
+    },
+    {
+        "間遏振盪器": "blocking oscillator"
+    },
+    {
+        "編塊": "blocking"
+    },
+    {
+        "段（基本符號）": "block（basic symbol）"
+    },
+    {
+        "區段管制": "block control"
+    },
+    {
+        "段": "block"
+    },
+    {
+        "分洩制流回路": "bleed-off circuit"
+    },
+    {
+        "分洩制流": "bleed-off"
+    },
+    {
+        "通氣口": "bleeder，breather，vent-port（hydraulic）"
+    },
+    {
+        "通氣口": "bleeder，breather（pneumatic）"
+    },
+    {
+        "總括訂貨": "blanket order"
+    },
+    {
+        "袋形蓄壓器": "bladder type hydropneumatic accumulator"
+    },
+    {
+        "位元，比": "bit"
+    },
+    {
+        "雙穩多諧振動器": "bistable multivibrator，flip flop"
+    },
+    {
+        "雙安定元件": "bistable device"
+    },
+    {
+        "雙極脈波列": "bipolar pulse train"
+    },
+    {
+        "雙極脈波": "bipolar pulse"
+    },
+    {
+        "二進位元": "binary digit，bit"
+    },
+    {
+        "二進計數器": "binary counter"
+    },
+    {
+        "雙金屬溫度計": "bimetallic thermometer"
+    },
+    {
+        "物料表": "bill of material"
+    },
+    {
+        "雙向脈波列": "bidirectional pulse train"
+    },
+    {
+        "斜軸活塞泵": "bent axis type axial piston pump"
+    },
+    {
+        "手之擺動": "bending of the hand，swing of the hand"
+    },
+    {
+        "定標（評效）": "benchmark"
+    },
+    {
+        "伸縮囊型差壓": "bellow-type differential pressure meter"
+    },
+    {
+        "摺袋式氣壓缸": "bellows（pneumatic）cylinder"
+    },
+    {
+        "摺疊袋": "bellows"
+    },
+    {
+        "伸縮囊": "bellow"
+    },
+    {
+        "電鈴": "bell"
+    },
+    {
+        "程式開始": "beginning of program，program start"
+    },
+    {
+        "貝克門溫度計": "Beckman thermometer"
+    },
+    {
+        "拍": "beats"
+    },
+    {
+        "樑形引線": "beam lead"
+    },
+    {
+        "電池充電器": "battery charger"
+    },
+    {
+        "電池": "battery"
+    },
+    {
+        "批量": "batch quantity"
+    },
+    {
+        "整批處理": "batch processing"
+    },
+    {
+        "基本碼": "basic code"
+    },
+    {
+        "脈波基底延續時間": "base line dwell time"
+    },
+    {
+        "基底線": "base line"
+    },
+    {
+        "頻帶寬": "bandwidth"
+    },
+    {
+        "底座": "base"
+    },
+    {
+        "頻帶壓抑": "band stop"
+    },
+    {
+        "帶型列印機": "band printer"
+    },
+    {
+        "頻帶通": "band pass"
+    },
+    {
+        "球閥": "ball valve"
+    },
+    {
+        "平衡電驛": "balance relay"
+    },
+    {
+        "帶逆捲": "backward type wind without data read（WO）"
+    },
+    {
+        "逆向搜尋程式對準機能": "backward search for program alignment function"
+    },
+    {
+        "逆向搜尋特定數據": "backward search for particular data"
+    },
+    {
+        "逆向搜尋節（序）號": "backward search for block（sequence）number"
+    },
+    {
+        "逆向搜尋程式端始": "backward search for beginning of program"
+    },
+    {
+        "反向": "backward"
+    },
+    {
+        "備用檔": "backup file"
+    },
+    {
+        "備份": "backup "
+    },
+    {
+        "背隙，空檔": "backlash"
+    },
+    {
+        "背壓": "back pressure（pneumatic）"
+    },
+    {
+        "背壓": "back pressure（hydraulic）"
+    },
+    {
+        "背壓感測器": "back pressure sensor"
+    },
+    {
+        "欠撥": "back order"
+    },
+    {
+        "反向演譯": "back annotation"
+    },
+    {
+        "軸之正常控制": "axis control normal（machine follow program）"
+    },
+    {
+        "軸之鏡像控制": "axis control in mirror image made"
+    },
+    {
+        "軸向活塞泵": "axial piston pump"
+    },
+    {
+        "平均值": "average value"
+    },
+    {
+        "平均預測誤差": "average forecast error"
+    },
+    {
+        "平均絕對值": "average absolute value"
+    },
+    {
+        "可用度": "availability"
+    },
+    {
+        "輔助儲存裝置": "auxiliary storage device"
+    },
+    {
+        "輔助": "auxiliary"
+    },
+    {
+        "自動化": "automation"
+    },
+    {
+        "自動工作站": "automatic work station"
+    },
+    {
+        "自動換刀機構（臂）": "automatic tool changer（ATC）"
+    },
+    {
+        "自動測試": "automatic testing"
+    },
+    {
+        "自動儲存": "automatic storing"
+    },
+    {
+        "自動存取系統": "automatic storage/retrieval systems（AS/RS）"
+    },
+    {
+        "自動堆高儲存系統": "automatic stacker storage systems"
+    },
+    {
+        "自動分類": "automatic sorting"
+    },
+    {
+        "自動出貨": "automatic shipping"
+    },
+    {
+        "自動提取": "automatic retrieving"
+    },
+    {
+        "自動程式製作": "automatic programming"
+    },
+    {
+        "自動撿料": "automatic picking"
+    },
+    {
+        "自動托板車": "automatic pallet truck"
+    },
+    {
+        "自動包裝": "automatic packing"
+    },
+    {
+        "自動訂（料）單處理": "automatic order processing"
+    },
+    {
+        "自動訂（料）單分派": "automatic order dispatching"
+    },
+    {
+        "自動訂（料）單累計": "automatic order accumulation"
+    },
+    {
+        "自動物料搬運系統": "automatic material handling system（AMHS）"
+    },
+    {
+        "自動化製造系統": "automatic manufacturing system"
+    },
+    {
+        "自動存貨（量）管制": "automatic inventory control"
+    },
+    {
+        "自動識別": "automatic identification"
+    },
+    {
+        "自動倉庫管理": "automatic housekeeping"
+    },
+    {
+        "自動換手；備份": "automatic hand change"
+    },
+    {
+        "無人搬運車": "Automatic Guided Vehicle（AGV）"
+    },
+    {
+        "自動化工廠": "automatic factory（AF）"
+    },
+    {
+        "自動設施布置": "automatic facility layout"
+    },
+    {
+        "自動排洩閥": "automatic drain valve"
+    },
+    {
+        "自動分派": "automatic dispatching"
+    },
+    {
+        "自動尺度標示": "automatic dimensioning"
+    },
+    {
+        "自動減速": "automatic deceleration"
+    },
+    {
+        "自動控制系統": "automatic control system"
+    },
+    {
+        "自動控制": "automatic control"
+    },
+    {
+        "自動裝配": "automatic assembly"
+    },
+    {
+        "自動加速": "automatic acceleration"
+    },
+    {
+        "自動": "automatic"
+    },
+    {
+        "自動倉庫": "automated warehouse"
+    },
+    {
+        "自動製程規劃": "automated process planning"
+    },
+    {
+        "自動布置設計程式": "Automated Layout Design Program（ALDEP）"
+    },
+    {
+        "自動檢驗": "automated inspection"
+    },
+    {
+        "自動高層儲存系統": "automated high rise storage systems"
+    },
+    {
+        "無人搬運車系統": "Automated Guided Vehicle System（AGVS）"
+    },
+    {
+        "自動生產線": "automated flow line"
+    },
+    {
+        "自相關函數": "autocorrelation function"
+    },
+    {
+        "稽查證跡": "audit trail"
+    },
+    {
+        "衰減": "attenuation"
+    },
+    {
+        "非同步傳輸": "asynchronous transmission in data communications"
+    },
+    {
+        "不穩多諧振動器": "astable multivibrator，free running multivibrator"
+    },
+    {
+        "自動尺度更換系統": "associative dimensioning system"
+    },
+    {
+        "計算機協會": "Association for Computing Machinery（ACM）"
+    },
+    {
+        "指派問題": "assignment problem"
+    },
+    {
+        "組合圖": "assembly drawing"
+    },
+    {
+        "人工智慧": "artificial intelligence"
+    },
+    {
+        "關節型機器人": "articulated robot"
+    },
+    {
+        "臂": "arm"
+    },
+    {
+        "算術邏輯單元": "arithmetic logic unit（ALU）"
+    },
+    {
+        "面積安排": "area allocation"
+    },
+    {
+        "應用軟體": "application software"
+    },
+    {
+        "應用程式": "application program"
+    },
+    {
+        "應用套裝程式": "application pockages"
+    },
+    {
+        "轉換時間": "aperture time，conversion time"
+    },
+    {
+        "非週期性脈波列": "aperiodic pulse train"
+    },
+    {
+        "預期延誤報告": "anticipated  delay  report"
+    },
+    {
+        "反重疊濾波器": "antialiasing  filter"
+    },
+    {
+        "動作表示器": "annunciator"
+    },
+    {
+        "註解": "annotation"
+    },
+    {
+        "角度塊規": "angle  block"
+    },
+    {
+        "及": "and"
+    },
+    {
+        "積回路": "AND  circuit"
+    },
+    {
+        "類比數位轉換器": "analog-digital  converter"
+    },
+    {
+        "類比式轉換": "analog  transducing"
+    },
+    {
+        "類比伺服系統": "analog  servo  system"
+    },
+    {
+        "類比伺服系統": "analog  servo  control  system"
+    },
+    {
+        "類比運算": "analog  computing  methods"
+    },
+    {
+        "振幅": "amplitude，magnitude"
+    },
+    {
+        "振幅比": "amplitude ratio"
+    },
+    {
+        "振幅限制": "amplitude  limiting"
+    },
+    {
+        "振幅失真（非線性失真）": "amplitude  distortion（nonlinear  distortion）"
+    },
+    {
+        "放大器": "amplifier"
+    },
+    {
+        "放大": "amplification"
+    },
+    {
+        "電流計切換開關": "ammeter  changeover  switch"
+    },
+    {
+        "電流計": "ammeter"
+    },
+    {
+        "阿爾發值": "alpha  factor"
+    },
+    {
+        "預撥": "allocate"
+    },
+    {
+        "對準機能": "alignment  function"
+    },
+    {
+        "重疊效應": "aliasing  effect"
+    },
+    {
+        "通道": "aisle，corridor"
+    },
+    {
+        "除氣裝置": "air-bleeder"
+    },
+    {
+        "氣衝斷路器": "airblast  circuit  breaker"
+    },
+    {
+        "氣力輪機": "air  turbine"
+    },
+    {
+        "氣力滑送機": "air  slide"
+    },
+    {
+        "氣壓回位": "air  return"
+    },
+    {
+        "蓄壓桶": "air  receiver"
+    },
+    {
+        "氣容量": "air  quantity"
+    },
+    {
+        "氣壓馬達式操作閥": "air  motor  operated valve"
+    },
+    {
+        "空氣乾燥器": "air  dryer"
+    },
+    {
+        "氣壓缸操作閥": "air  cylinder  operated  valve"
+    },
+    {
+        "氣墊": "air  cushion"
+    },
+    {
+        "空氣消耗量": "air  consumption"
+    },
+    {
+        "三點組合": "air  conditioning  unit"
+    },
+    {
+        "空氣斷路器": "air  circuit  breaker"
+    },
+    {
+        "氣容量": "air  capacity"
+    },
+    {
+        "噴吹": "air  blast"
+    },
+    {
+        "流體壓交換器": "ail-oil  actuator"
+    },
+    {
+        "集體型在庫管理": "aggregate  inventory  management"
+    },
+    {
+        "集體存貨": "aggregate  inventory"
+    },
+    {
+        "集體預測": "aggregate  forecast"
+    },
+    {
+        "定時維護": "age-based  maintenance"
+    },
+    {
+        "後部冷卻器": "after-cooler"
+    },
+    {
+        "空氣混入": "aeration"
+    },
+    {
+        "管理時間": "administrative  time"
+    },
+    {
+        "調整係數": "adjustment  factor"
+    },
+    {
+        "可變行程氣壓缸": "adjustable  stroke（pneumatic）cylinder"
+    },
+    {
+        "可變行程液壓缸": "adjustable  stroke  cylinder"
+    },
+    {
+        "絕熱效率": "adiabatic  efficiency"
+    },
+    {
+        "絕熱變化": "adiabatic  change"
+    },
+    {
+        "數據通信定址法": "addressing，data  communication"
+    },
+    {
+        "可定址儲存": "addressable  storage"
+    },
+    {
+        "預址搬運車": "addressable  delivery  carts"
+    },
+    {
+        "位址": "address"
+    },
+    {
+        "位址": "address"
+    },
+    {
+        "附加碼": "additional  code"
+    },
+    {
+        "脈波列之加減": "addition  or  subtraction  of  two  pulse  trains"
+    },
+    {
+        "加": "addition"
+    },
+    {
+        "適應平滑法": "adaptive  smoothing"
+    },
+    {
+        "適應控制系統": "adaptive  control  system"
+    },
+    {
+        "適應控制系統": "adaptive  control  system"
+    },
+    {
+        "驅動器": "actuator（pneumatic）"
+    },
+    {
+        "驅動器": "actuator（hydraulic）"
+    },
+    {
+        "動作閥位": "actuated  position"
+    },
+    {
+        "實際值": "actual  value"
+    },
+    {
+        "實際破壞壓力": "actual  burst  pressure（pneumatic）"
+    },
+    {
+        "實際破壞壓力": "actual  burst  pressure（hydraulic）"
+    },
+    {
+        "主動感測器": "active  sensor"
+    },
+    {
+        "主動複聯": "active  redundancy"
+    },
+    {
+        "主動式濾波器": "active  filter"
+    },
+    {
+        "主動元件": "active  device"
+    },
+    {
+        "行動檔": "action  file"
+    },
+    {
+        "動作時間": "acting   time"
+    },
+    {
+        "音速": "acoustic  velocity"
+    },
+    {
+        "聽覺": "acoustic  sense，sense  of  hearing"
+    },
+    {
+        "聲音之量測": "acoustic  measurement"
+    },
+    {
+        "聲耦器": "acoustic  coupler"
+    },
+    {
+        "額定精度": "accuracy  rating"
+    },
+    {
+        "準確度": "accuracy"
+    },
+    {
+        "蓄壓器": "accumulator"
+    },
+    {
+        "最後累積總數": "accumulation  final  total"
+    },
+    {
+        "接近性": "accessibility"
+    },
+    {
+        "允收可靠度水準": "acceptable  reliability  level（ARL）"
+    },
+    {
+        "慣性航行用之加速計": "accelerometer  for  inertial  navigation"
+    },
+    {
+        "加速計": "accelerometer"
+    },
+    {
+        "加速": "accelerating"
+    },
+    {
+        "加速試驗": "accelerated  test"
+    },
+    {
+        "加速係數": "accelerated  factor"
+    },
+    {
+        "絕對值程式製作": "absolute  programming"
+    },
+    {
+        "絕對程式": "absolute  program（co-ordinate  dimension  words）"
+    },
+    {
+        "絕對壓力": "absolute  pressure"
+    },
+    {
+        "絕對位置轉換器": "absolute  position  transducer"
+    },
+    {
+        "ABR連接": "ABR  connection"
+    },
+    {
+        "異常停止": "abnormal  stop"
+    },
+    {
+        "ABC分類法": "ABC  classification"
+    },
+    {
+        "(輸出輸入)操作": "(input-output) operation"
+    },
+    {
+        "氣壓馬達": "(rotary) air motor"
+    },
+    {
+        "（磁）碟；（磁）盤": "(magnetic) disk"
+    },
+    {
+        "阻尼時間常數": "(damping) time constant，(decay) time constant"
+    }
+]
