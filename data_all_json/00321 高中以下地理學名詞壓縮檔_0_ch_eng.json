@@ -1,0 +1,3749 @@
+[
+    {
+        "震源": "[earthquake] focus"
+    },
+    {
+        "河階面": "[fluvial] terrace surface"
+    },
+    {
+        "槽湖": "[glacial] trough lake"
+    },
+    {
+        "陸連島 ": "[land-]tied island"
+    },
+    {
+        "三維": "3D｛three dimension｝"
+    },
+    {
+        "原住民": "aborigines"
+    },
+    {
+        "磨蝕": "abrasion"
+    },
+    {
+        "海蝕平台": "abrasion platform"
+    },
+    {
+        "易達性": "accessibility"
+    },
+    {
+        "共伴效應　": "accompanied effect"
+    },
+    {
+        "酸雨": "acid rain"
+    },
+    {
+        "酸性土": "acid soil"
+    },
+    {
+        "活火山": "active volcano"
+    },
+    {
+        "亞洲開發銀行": "ADB"
+    },
+    {
+        "絕熱冷卻": "adiabatic cooling"
+    },
+    {
+        "已開發經濟體　": "advanced economies"
+    },
+    {
+        "航空照片；像片基本圖": "aerial photographs"
+    },
+    {
+        "[荒地]造林": "afforestation"
+    },
+    {
+        "亞非語系　": "Afro-Asiatic languages"
+    },
+    {
+        "東協自由貿易協定": "AFTA｛ASEAN Free Trade Agreement｝"
+    },
+    {
+        "聚集經濟　": "agglomeration economy"
+    },
+    {
+        "高齡化社會　": "aging society"
+    },
+    {
+        "技術性貿易障礙協定": "Agreement on Technical Barrier to Trade"
+    },
+    {
+        "農企業": "agribusiness"
+    },
+    {
+        "農業區位　": "agricultural location"
+    },
+    {
+        "農業系統 ": "agricultural systems"
+    },
+    {
+        "農業轉型": "agricultural transformation"
+    },
+    {
+        "農業": "agriculture"
+    },
+    {
+        "農業企業化": "agriculture enterprization"
+    },
+    {
+        "農業專業化": "agriculture specialization"
+    },
+    {
+        "農業科技產業": "agri-technologies industry"
+    },
+    {
+        "國際特赦組織": "AI｛Amnesty International｝"
+    },
+    {
+        "愛奴人　": "Ainu"
+    },
+    {
+        "氣團": "air mass"
+    },
+    {
+        "氣壓　": "air pressure"
+    },
+    {
+        "大氣溫度　": "air temperature"
+    },
+    {
+        "淋餘土": "alfisol"
+    },
+    {
+        "鹼性土": "alkaline soil"
+    },
+    {
+        "沖積扇": "alluvial fan"
+    },
+    {
+        "沖積土": "alluvial soil"
+    },
+    {
+        "高山冰河": "alpine glacier"
+    },
+    {
+        "高山苔原": "alpine tundra"
+    },
+    {
+        "阿爾泰語系　": "Altaic languages"
+    },
+    {
+        "國際特赦組織": "Amnesty International｛=AI｝"
+    },
+    {
+        "安地諾集團　": "Andean Group"
+    },
+    {
+        "灰燼土": "andisol"
+    },
+    {
+        "坡角": "angle of gradient"
+    },
+    {
+        "年雨量　": "annual precipitation"
+    },
+    {
+        "年溫差　": "annual range of temperature"
+    },
+    {
+        "背斜[構造]　": "anticline"
+    },
+    {
+        "反氣旋": "anticyclone"
+    },
+    {
+        "反傾銷稅　": "antidumping duties"
+    },
+    {
+        "反全球化　": "anti-globalization"
+    },
+    {
+        "亞太經濟合作": "APEC｛Asia-Pacific Economic Cooperation｝"
+    },
+    {
+        "水產養殖業": "aquaculture fishery"
+    },
+    {
+        "水生生態系": "aquatic ecosystem"
+    },
+    {
+        "含水層": "aquifer"
+    },
+    {
+        "極地苔原": "arctic tundra"
+    },
+    {
+        "刃嶺": "arete"
+    },
+    {
+        "乾燥氣候　": "arid climate"
+    },
+    {
+        "旱境土": "aridisol"
+    },
+    {
+        "亞美尼亞人　": "Armenian"
+    },
+    {
+        "乾谷": "arroyo"
+    },
+    {
+        "自流井": "artesian well"
+    },
+    {
+        "人工灌溉　": "artificial irrigation"
+    },
+    {
+        "東協自由貿易協定": "ASEAN Free Trade Agreement｛=AFTA｝"
+    },
+    {
+        "東南亞國家協會": "ASEAN｛Association of Southeast Asian Nations｝"
+    },
+    {
+        "亞洲開發銀行": "Asian Development Bank｛Asian Development Bank｝"
+    },
+    {
+        "亞洲金融風暴　": "Asian Financial Crisis"
+    },
+    {
+        "亞太經濟合作": "Asia-Pacific Economic Cooperation｛=APEC｝"
+    },
+    {
+        "東南亞國家協會": "Association of Southeast Asian Nations｛=ASEAN｝"
+    },
+    {
+        "世界公民總會": "Association of World Citizens｛=AWC｝"
+    },
+    {
+        "地圖集": "atlas"
+    },
+    {
+        "大氣圈　": "atmosphere"
+    },
+    {
+        "大氣環流": "atmospheric circulation"
+    },
+    {
+        "[大]氣壓[力]": "atmospheric pressure"
+    },
+    {
+        "環礁": "atoll"
+    },
+    {
+        "屬性資料": "attribute data"
+    },
+    {
+        "南亞語系　": "Austro-Asiatic languages"
+    },
+    {
+        "南島語系　": "Austronesian languages"
+    },
+    {
+        "世界公民總會": "AWC｛Association of World Citizens｝"
+    },
+    {
+        "方位[角]投影；[正]方位投影": "azimuthal projection"
+    },
+    {
+        "泛域土": "azonal soil"
+    },
+    {
+        "峇峇　": "Baba"
+    },
+    {
+        "嬰兒潮": "Baby boom"
+    },
+    {
+        "後濱區": "backshore zone"
+    },
+    {
+        "長條圖": "bar chart"
+    },
+    {
+        "乾谷": "barranca"
+    },
+    {
+        "堡礁": "barrier reef"
+    },
+    {
+        "侵蝕基準面": "base level"
+    },
+    {
+        "底圖": "base map"
+    },
+    {
+        "侵蝕基準面": "base-levelled surface"
+    },
+    {
+        "盆地": "basin"
+    },
+    {
+        "海灘": "beach"
+    },
+    {
+        "方位[角法]": "bearing"
+    },
+    {
+        "貝都因人": "Bedouin"
+    },
+    {
+        "底岩": "bedrock"
+    },
+    {
+        "斷頭河　": "beheaded river"
+    },
+    {
+        "本吉拉洋流": "Benguela Current"
+    },
+    {
+        "生物多樣性　": "biodiversity"
+    },
+    {
+        "生物地理學": "biogeography"
+    },
+    {
+        "生質能　": "biomass energy"
+    },
+    {
+        "生物群落": "biome"
+    },
+    {
+        "生物圈　": "biosphere"
+    },
+    {
+        "生物科技": "biotechnology"
+    },
+    {
+        "出生率": "birth rate"
+    },
+    {
+        "黑死病": "Black Plague"
+    },
+    {
+        "黑土": "black soil"
+    },
+    {
+        "盲谷": "blind valley"
+    },
+    {
+        "風蝕窪地　": "blowouts"
+    },
+    {
+        "寒帶針葉林　": "boreal forest"
+    },
+    {
+        "邊界合作區": "boundary cooperation area"
+    },
+    {
+        "婆羅門": "Brahmans"
+    },
+    {
+        "浪裂線　": "breaking line"
+    },
+    {
+        "碎浪　": "breaking wave"
+    },
+    {
+        "金磚四國": "BRICs (Brazil、Russia、India、China)"
+    },
+    {
+        "大英國協": "British Commonwealth"
+    },
+    {
+        "闊葉林": "broadleafed forest"
+    },
+    {
+        "折線圖": "broken line graph"
+    },
+    {
+        "環域": "brown earth"
+    },
+    {
+        "公車捷運系統": "BRT｛Bus Rapid Transit｝"
+    },
+    {
+        "泡沫經濟　": "Bubble economy"
+    },
+    {
+        "環域": "buffer"
+    },
+    {
+        "環域　": "buffer zone"
+    },
+    {
+        "環域分析": "buffering"
+    },
+    {
+        "建蔽率　": "building coverage ratio"
+    },
+    {
+        "公車捷運系統": "Bus Rapid Transit｛=BRT｝"
+    },
+    {
+        "布希曼人": "Bushman"
+    },
+    {
+        "中美洲共同市場": "CACM｛Central American Common Market｝"
+    },
+    {
+        "地籍圖　": "cadastral map"
+    },
+    {
+        "鈣化[作用]　": "calcification"
+    },
+    {
+        "劍橋現象": "Cambridge Phenomenon"
+    },
+    {
+        "峽谷": "canyon"
+    },
+    {
+        "共同農業政策": "CAP｛Common Agricultural Policy｝"
+    },
+    {
+        "岬角": "cape"
+    },
+    {
+        "資本密集": "capital intensive"
+    },
+    {
+        "資本主義　": "Capitalism"
+    },
+    {
+        "被搶河": "captured stream"
+    },
+    {
+        "碳循環　": "carbon cycle"
+    },
+    {
+        "碳稅　": "carbon tax"
+    },
+    {
+        "加勒比海共同體": "Caribbean Community｛=CARICOM｝"
+    },
+    {
+        "加勒比海共同體": "CARICOM｛Caribbean Community｝"
+    },
+    {
+        "負載力": "carrying capacity"
+    },
+    {
+        "地圖學": "cartography"
+    },
+    {
+        "優良農產品標準": "CAS｛Certified Agriculture Standards｝"
+    },
+    {
+        "種姓制度　": "Caste System"
+    },
+    {
+        "集水區": "catchment"
+    },
+    {
+        "高加索語系　": "Caucasian languages"
+    },
+    {
+        "[地下]洞穴": "cave"
+    },
+    {
+        "中心商業區": "CBD｛central business district｝"
+    },
+    {
+        "凱爾特之虎": "Celtic Tiger"
+    },
+    {
+        "中美洲共同市場": "Central American Common Market｛=CACM｝"
+    },
+    {
+        "中心商業區": "central business district｛=CBD｝"
+    },
+    {
+        "中央經線 ": "central meridian"
+    },
+    {
+        "中地　": "central place"
+    },
+    {
+        "中地體系": "central place system"
+    },
+    {
+        "中地理論": "central place theory"
+    },
+    {
+        "優良農產品標準": "Certified Agriculture Standards｛=CAS｝"
+    },
+    {
+        "化學風化": "chemical weathering"
+    },
+    {
+        "黑鈣土": "chernozem"
+    },
+    {
+        "豆腐岩": "chessboard rock"
+    },
+    {
+        "栗鈣土": "chestnut soil"
+    },
+    {
+        "欽諾克風　": "Chinook"
+    },
+    {
+        "面量圖": "cholopleth map"
+    },
+    {
+        "基督教　": "Christianity"
+    },
+    {
+        "冰斗": "cirque"
+    },
+    {
+        "都市": "city"
+    },
+    {
+        "文明都市": "civilized city"
+    },
+    {
+        "海埔地": "claimed tidal flat"
+    },
+    {
+        "黏土；黏粒": "clay"
+    },
+    {
+        "氣候": "climate"
+    },
+    {
+        "氣候變遷": "climate change"
+    },
+    {
+        "氣候分類　": "climate classification"
+    },
+    {
+        "氣候學": "climatology"
+    },
+    {
+        "封閉系統": "close system"
+    },
+    {
+        "封閉式問卷": "closed questionnaire"
+    },
+    {
+        "經濟互助委員會": "CMEA｛Council for Mutual Economic Assistance｝"
+    },
+    {
+        "海岸": "coast"
+    },
+    {
+        "海岸線": "coast line"
+    },
+    {
+        "海岸沙丘": "coastal dune"
+    },
+    {
+        "海岸山脈": "Coastal Range"
+    },
+    {
+        "錐丘": "cockpit"
+    },
+    {
+        "寒流；冷洋流": "cold current"
+    },
+    {
+        "冷鋒　": "cold front"
+    },
+    {
+        "寒潮": "cold wave"
+    },
+    {
+        "集體農場": "collective farm"
+    },
+    {
+        "顏色革命": "Color revolutions"
+    },
+    {
+        "石柱　": "column"
+    },
+    {
+        "共管": "co-management"
+    },
+    {
+        "拉丁美洲暨加勒比海經濟委員會": "Comisión Econémica para América Latina y el Caribe｛=ECLAC｝"
+    },
+    {
+        "商業性農業　": "commercial agriculture"
+    },
+    {
+        "商圈　": "commercial area"
+    },
+    {
+        "商業區　": "commercial district"
+    },
+    {
+        "商業性農業": "commercial farming"
+    },
+    {
+        "商業性穀物農業　": "commercial grain farming"
+    },
+    {
+        "區域貿易協定委員會": "Committee on Regional Trade Agreements"
+    },
+    {
+        "共同農業政策": "Common Agricultural Policy｛=CAP｝"
+    },
+    {
+        "共同市場　": "Common Market"
+    },
+    {
+        "大英國協　": "Commonwealth of Nations"
+    },
+    {
+        "社區　": "community"
+    },
+    {
+        "社區建築": "Community Architecture"
+    },
+    {
+        "社區營造　": "Community Construction"
+    },
+    {
+        "社區發展": "community development"
+    },
+    {
+        "社區發展協會　": "Community Development Association"
+    },
+    {
+        "比較利益": "comparative advantage"
+    },
+    {
+        "凹岸　": "concave bank"
+    },
+    {
+        "同心圓模式": "concentric zone model"
+    },
+    {
+        "凝結[作用]": "condensation"
+    },
+    {
+        "受壓地下水": "confined groundwater"
+    },
+    {
+        "等角投影；正形投影": "conformal projection"
+    },
+    {
+        "圓錐投影": "conic projection"
+    },
+    {
+        "錐狀火山　": "conical volcano"
+    },
+    {
+        "針葉林": "coniferous forest"
+    },
+    {
+        "保育": "conservation"
+    },
+    {
+        "消費者": "consumer"
+    },
+    {
+        "消費性電子產品": "consumer electronics"
+    },
+    {
+        "消費性服務　": "consumer services"
+    },
+    {
+        "大陸冰河　": "continental glacier"
+    },
+    {
+        "大陸棚　": "continental shelf"
+    },
+    {
+        "等高線": "contour line"
+    },
+    {
+        "等高線圖　": "contour map"
+    },
+    {
+        "對流雨": "convective rain"
+    },
+    {
+        "凸岸　": "convex bank"
+    },
+    {
+        "波斯灣合作會議": "Cooperation Council for the Arab States of the Gulf｛=GCC｝"
+    },
+    {
+        "座標系統": "coordinate system"
+    },
+    {
+        "珊瑚白化 ": "coral leaching"
+    },
+    {
+        "珊瑚礁海岸": "coral-reef coast"
+    },
+    {
+        "柯氏效應": "Coriolis effect"
+    },
+    {
+        "柯氏力": "Coriolis force"
+    },
+    {
+        "溶蝕[作用]": "corrosion"
+    },
+    {
+        "經濟互助委員會": "Council for Mutual Economic Assistance｛=CMEA｝"
+    },
+    {
+        "亞太安全合作理事會": "Council for Security Cooperation in the Asia Pacific｛=CSCAP｝"
+    },
+    {
+        "鄉鎮計畫": "country and town plan"
+    },
+    {
+        "火山口": "crater"
+    },
+    {
+        "火口湖": "crater lake"
+    },
+    {
+        "潛移": "creep"
+    },
+    {
+        "新月丘": "crescent dune"
+    },
+    {
+        "跨境合作": "Cross-Border Cooperation"
+    },
+    {
+        "亞太安全合作理事會": "CSCAP｛Council for Security Cooperation in the Asia Pacific｝"
+    },
+    {
+        "單面山": "cuesta"
+    },
+    {
+        "文化景觀": "cultural landscape"
+    },
+    {
+        "文化熔爐": "cultural pot"
+    },
+    {
+        "文化區": "Culture Area"
+    },
+    {
+        "貨幣區　": "currency area"
+    },
+    {
+        "關稅同盟": "Customs Union"
+    },
+    {
+        "侵蝕輪迴": "cycle of erosion"
+    },
+    {
+        "氣旋": "cyclone"
+    },
+    {
+        "氣旋雨": "cyclonic rain"
+    },
+    {
+        "圓柱投影　": "cylindrical projection"
+    },
+    {
+        "堰塞湖 ": "dammed lake"
+    },
+    {
+        "死亡率": "death rate"
+    },
+    {
+        "土石流": "debris flow"
+    },
+    {
+        "分解者": "decomposer"
+    },
+    {
+        "加深作用": "deepening process"
+    },
+    {
+        "去工業化": "deindustrialization"
+    },
+    {
+        "三角洲　": "delta"
+    },
+    {
+        "三角洲海岸": "delta coast"
+    },
+    {
+        "數值高程模型": "DEM｛digital elevation model｝"
+    },
+    {
+        "人口轉型　": "demographic transition"
+    },
+    {
+        "去國家化": "denationalization"
+    },
+    {
+        "登革熱": "dengue fever"
+    },
+    {
+        "依賴人口　": "dependent population"
+    },
+    {
+        "堆積[作用]": "deposition"
+    },
+    {
+        "沙漠": "desert"
+    },
+    {
+        "沙漠氣候": "desert climate"
+    },
+    {
+        "荒漠土　": "desert soil"
+    },
+    {
+        "沙漠化": "desertification"
+    },
+    {
+        "去領域化　": "deterritorialization"
+    },
+    {
+        "去都市化": "deurbanization"
+    },
+    {
+        "已發展國家": "Developed Country"
+    },
+    {
+        "發展中國家": "Developing Country"
+    },
+    {
+        "酪農業　": "dairy farming"
+    },
+    {
+        "差異侵蝕　": "differential erosion"
+    },
+    {
+        "數位都市　": "digital city"
+    },
+    {
+        "數位落差　": "digital divide"
+    },
+    {
+        "數位地球": "digital earth"
+    },
+    {
+        "數值高程模型": "digital elevation model｛=DEM｝"
+    },
+    {
+        "數值地圖": "digital map"
+    },
+    {
+        "數值地形模型": "digital terrain model｛=DEM｝"
+    },
+    {
+        "戴奧辛　": "dioxin"
+    },
+    {
+        "流量歷線": "discharge hydrograph"
+    },
+    {
+        "廉價商店　": "discount store"
+    },
+    {
+        "崩解": "disintegration"
+    },
+    {
+        "改向河": "diverted stream"
+    },
+    {
+        "分工": "division of labor"
+    },
+    {
+        "赤道無風帶　": "doldrums"
+    },
+    {
+        "滲穴": "doline"
+    },
+    {
+        "休火山": "dormant volcano"
+    },
+    {
+        "點子圖": "dot map"
+    },
+    {
+        "水系": "drainage system"
+    },
+    {
+        "達羅毗荼語系　": "Dravidian languages"
+    },
+    {
+        "滴灌[法]": "drip irrigation"
+    },
+    {
+        "溺谷": "drowned valley"
+    },
+    {
+        "鼓丘 ": "drumlin"
+    },
+    {
+        "乾耕；旱作農業": "dryland farming"
+    },
+    {
+        "數值地形模型": "DTM｛digital terrain model｝"
+    },
+    {
+        "沙丘": "dune"
+    },
+    {
+        "沙塵暴": "dust storm"
+    },
+    {
+        "動態平衡": "dynamic equilibrium"
+    },
+    {
+        "地軸": "earth axis"
+    },
+    {
+        "地表": "earth surface"
+    },
+    {
+        "東正教": "Eastern church"
+    },
+    {
+        "歐洲共同體": "EC"
+    },
+    {
+        "拉丁美洲暨加勒比海經濟委員會": "ECLAC｛Comisión Econémica para América Latina y el Caribe｝"
+    },
+    {
+        "生態都市　": "Eco-city"
+    },
+    {
+        "生態農業": "ecological agriculture"
+    },
+    {
+        "生態分析　": "ecological analysis"
+    },
+    {
+        "生態平衡": "ecological balance"
+    },
+    {
+        "生態社區　": "Ecological Community"
+    },
+    {
+        "生態赤字": "ecological deficit"
+    },
+    {
+        "生態足跡": "ecological footprint"
+    },
+    {
+        "大湄公河次區域經濟合作": "Economic Cooperation Greater Mekong Sub-region｛=GMS｝"
+    },
+    {
+        "經濟地理學": "economic goegraphy"
+    },
+    {
+        "經濟夥伴關係協定": "Economic Partnership Agreement｛=EPA｝"
+    },
+    {
+        "經濟同盟　": "Economic Union"
+    },
+    {
+        "規模經濟": "economies of scale"
+    },
+    {
+        "生態系統": "ecosystem"
+    },
+    {
+        "生態旅遊　": "ecotourism"
+    },
+    {
+        "歐洲煤鋼共同體": "ECSC｛European Coal and Steel Community｝"
+    },
+    {
+        "歐洲經濟共同體": "EEC｛European Economic Community｝"
+    },
+    {
+        "歐洲自由貿易協會": "EFTA｛European Free Trade Association｝"
+    },
+    {
+        "環境影響評估": "EIA｛Environmental Impact Assessment ｝"
+    },
+    {
+        "聖嬰現象　": "El Niño"
+    },
+    {
+        "襲奪灣；搶水灣": "elbow of capture"
+    },
+    {
+        "電導度": "electrical conductivity"
+    },
+    {
+        "遷出": "emigration"
+    },
+    {
+        "賦權　": "empowerment"
+    },
+    {
+        "歐洲貨幣聯盟": "EMU｛European Coal and Steel Community｝"
+    },
+    {
+        "圈地運動　": "enclosure movement"
+    },
+    {
+        "端磧": "end moraine"
+    },
+    {
+        "地方病": "endemic"
+    },
+    {
+        "內營力": "endogenetic process"
+    },
+    {
+        "能量": "energy"
+    },
+    {
+        "新成土": "entisol"
+    },
+    {
+        "環境影響說明書　": "Environment Impact Statement"
+    },
+    {
+        "環境負載力": "environmental carrying capacit"
+    },
+    {
+        "環境影響評估": "Environmental Impact Assessment｛=EIA｝"
+    },
+    {
+        "出口導向產業": "EOIs｛export-oriented industries｝"
+    },
+    {
+        "經濟夥伴關係協定": "EPA｛Economic Partnership Agreement｝"
+    },
+    {
+        "震央": "epicenter"
+    },
+    {
+        "時差　": "equation of time"
+    },
+    {
+        "赤道": "equator"
+    },
+    {
+        "赤道低壓帶　": "equatorial trough"
+    },
+    {
+        "等距投影": "equidistant projection"
+    },
+    {
+        "等積投影　　": "equivalent projection"
+    },
+    {
+        "侵蝕　": "erosion"
+    },
+    {
+        "侵蝕輪迴": "erosion cycle"
+    },
+    {
+        "噴發": "eruption"
+    },
+    {
+        "蛇丘": "esker"
+    },
+    {
+        "歐洲聯盟": "EU｛European Union｝"
+    },
+    {
+        "歐洲原子能共同體": "EURATOM｛European Atomic Energy Community｝"
+    },
+    {
+        "歐元": "Euro"
+    },
+    {
+        "歐洲原子能共同體": "European Atomic Energy Community｛=EURATOM｝"
+    },
+    {
+        "歐洲中央銀行": "European Central Bank"
+    },
+    {
+        "歐洲煤鋼共同體": "European Coal and Steel Community｛=ECSC｝"
+    },
+    {
+        "歐洲執行委員會": "European Commission"
+    },
+    {
+        "歐洲共同體": "European Community｛=EC｝"
+    },
+    {
+        "歐洲經濟共同體": "European Economic Community｛=EEC｝"
+    },
+    {
+        "歐洲自由貿易協會": "European Free Trade Association｛=EFTA｝"
+    },
+    {
+        "歐洲貨幣聯盟": "European Monetary Union｛=EMU｝"
+    },
+    {
+        "歐洲議會　": "European Parliament"
+    },
+    {
+        "歐洲聯盟": "European Union｛=EU｝"
+    },
+    {
+        "優養化": "eutrophication"
+    },
+    {
+        "蒸發[作用]　": "evaporation"
+    },
+    {
+        "蒸發散[作用]　": "evapotranspiration"
+    },
+    {
+        "鱗剝[作用]": "exfoliation"
+    },
+    {
+        "鱗剝巨礫": "exfoliation boulder"
+    },
+    {
+        "鱗剝穹丘": "exfoliation dome"
+    },
+    {
+        "外營力": "exogenetic process"
+    },
+    {
+        "加工出口區": "export processing zone"
+    },
+    {
+        "出口導向產業": "export-oriented industries｛=EOIs｝"
+    },
+    {
+        "粗放農業": "extensive agriculture"
+    },
+    {
+        "死火山": "extinct volcano"
+    },
+    {
+        "極端溫度": "extreme temperature"
+    },
+    {
+        "噴出[作用]": "extrusion"
+    },
+    {
+        "墜落；落石": "fall"
+    },
+    {
+        "休耕": "fallowing"
+    },
+    {
+        "聯合國糧食暨農業組織": "FAO｛Food and Agriculture Organization of the United Nations｝"
+    },
+    {
+        "斷層": "fault"
+    },
+    {
+        "斷層海岸": "fault coast"
+    },
+    {
+        "斷層崖": "fault scarp"
+    },
+    {
+        "氣候變化綱要公約": "FCCC｛Framework Convention on Climate Change｝"
+    },
+    {
+        "外國直接投資": "FDI｛foreign direct investent｝"
+    },
+    {
+        "回饋": "feedback"
+    },
+    {
+        "鐵鋁化作用": "ferrallitisation"
+    },
+    {
+        "金融中心　": "financial center"
+    },
+    {
+        "漁場　": "fishing ground"
+    },
+    {
+        "峽灣　": "fjord"
+    },
+    {
+        "峽灣海岸": "fjord coast"
+    },
+    {
+        "彈性生產　": "flexible production"
+    },
+    {
+        "洪峰": "flood peak"
+    },
+    {
+        "氾濫平原": "flood plain"
+    },
+    {
+        "容積率　": "floor area ratio"
+    },
+    {
+        "流線圖": "flow map"
+    },
+    {
+        "河階": "fluvial terrace"
+    },
+    {
+        "焚風": "foehn"
+    },
+    {
+        "褶曲；褶皺": "fold"
+    },
+    {
+        "聯合國糧食暨農業組織　": "Food and Agriculture Organization of the United Nations｛=FAO｝"
+    },
+    {
+        "強迫遷移": "forced migration"
+    },
+    {
+        "福特主義　": "Fordism"
+    },
+    {
+        "福特主義生產方式": "Fordism production"
+    },
+    {
+        "外國直接投資": "foreign direct investent｛=FDI｝"
+    },
+    {
+        "外籍勞工　": "Foreign worker"
+    },
+    {
+        "前濱區": "foreshore zone"
+    },
+    {
+        "氣候變化綱要公約　": "Framework Convention on Climate Change｛=FCCC｝"
+    },
+    {
+        "自由地下水": "free groundwater"
+    },
+    {
+        "自由遷移": "free migration"
+    },
+    {
+        "自由貿易協定": "Free Trade Agreement｛=FTA｝"
+    },
+    {
+        "美洲自由貿易區": "Free Trade Area of the Americas｛=FTAA｝"
+    },
+    {
+        "自由貿易區": "Free Trade Area｛=FTA｝"
+    },
+    {
+        "寒帶氣候": "frigid zone climate"
+    },
+    {
+        "裙礁": "fringing reef"
+    },
+    {
+        "鋒面　": "front"
+    },
+    {
+        "鋒面雨": "frontal rain"
+    },
+    {
+        "凍土　": "frozen soil"
+    },
+    {
+        "自由貿易協定": "FTA｛=Free Trade Agreement｝"
+    },
+    {
+        "自由貿易區": "FTA｛=Free Trade Area｝"
+    },
+    {
+        "美洲自由貿易區": "FTAA｛Free Trade Area of the Americas｝"
+    },
+    {
+        "八大工業國家組織": "G8｛Group of Eight｝"
+    },
+    {
+        "花園都市": "garden city"
+    },
+    {
+        "採集業": "gathering industries"
+    },
+    {
+        "關稅暨貿易總協定": "GATT｛General Agreement on Tariffs and Trade｝"
+    },
+    {
+        "高卓人　": "Gaucho"
+    },
+    {
+        "波斯灣合作會議": "GCC｛Cooperation Council for the Arab States of the Gulf ｝"
+    },
+    {
+        "海灣合作理事會": "GCC｛Gulf Cooperation Council｝"
+    },
+    {
+        "國內生產毛額": "GDP｛gross domestic product｝"
+    },
+    {
+        "冰凍土": "gelisols"
+    },
+    {
+        "關稅暨貿易總協定": "General Agreement on Tariffs and Trade｛GATT｝"
+    },
+    {
+        "大氣環流": "general circulation"
+    },
+    {
+        "地學通論": "general geography"
+    },
+    {
+        "普通地圖": "general map"
+    },
+    {
+        "地理網線": "geographic grid"
+    },
+    {
+        "地理資訊系統": "geographic information system｛GIS｝"
+    },
+    {
+        "地理學": "geography"
+    },
+    {
+        "亞洲地理": "Geography of Asia"
+    },
+    {
+        "中國地理": "geography of China"
+    },
+    {
+        "拉丁美洲地理": "Geography of Latin America"
+    },
+    {
+        "地形變遷　": "geomorphic change"
+    },
+    {
+        "地形學": "geomorphology"
+    },
+    {
+        "少數族群區": "ghetto"
+    },
+    {
+        "地理資訊系統": "GIS｛geographic information system｝"
+    },
+    {
+        "冰蝕湖": "glacial lake"
+    },
+    {
+        "冰河槽": "glacial trough"
+    },
+    {
+        "冰河[作用]": "glaciation"
+    },
+    {
+        "冰河": "glacier"
+    },
+    {
+        "潛育化作用": "glation"
+    },
+    {
+        "全球都市": "global city"
+    },
+    {
+        "全球分工": "global division of labor"
+    },
+    {
+        "全球衛星定位系統": "Global Positioning System｛=GPS｝"
+    },
+    {
+        "地球村": "global village"
+    },
+    {
+        "全球暖化": "global warming"
+    },
+    {
+        "全球化": "globalization"
+    },
+    {
+        "全球在地化": "glocalization"
+    },
+    {
+        "大湄公河次區域經濟合作": "GMS｛Economic Cooperation Greater Mekong Sub-region｝"
+    },
+    {
+        "日昝投影": "gnomonic projection"
+    },
+    {
+        "國民生產毛額": "GNP｛gross national product｝"
+    },
+    {
+        "峽谷　": "gorge"
+    },
+    {
+        "全球衛星定位系統": "GPS｛Global Positioning System｝"
+    },
+    {
+        "地塹": "graben"
+    },
+    {
+        "均夷作用　": "gradation"
+    },
+    {
+        "均夷剖面": "graded profile"
+    },
+    {
+        "均夷河": "graded river"
+    },
+    {
+        "坡降": "gradient"
+    },
+    {
+        "格萊閩銀行": "Grameen Bank"
+    },
+    {
+        "經緯網格": "graticule"
+    },
+    {
+        "礫灘": "gravel beach"
+    },
+    {
+        "礫漠": "gravel desert"
+    },
+    {
+        "大圓": "great circle"
+    },
+    {
+        "綠帶　": "green belt"
+    },
+    {
+        "綠建築": "green building"
+    },
+    {
+        "綠色革命": "green revolution"
+    },
+    {
+        "溫室效應": "greenhouse effect"
+    },
+    {
+        "溫室氣體 ": "greenhouse gas"
+    },
+    {
+        "綠色和平組織": "Greenpeace"
+    },
+    {
+        "網格資料": "grid data"
+    },
+    {
+        "國內生產毛額": "gross domestic product｛=GDP｝"
+    },
+    {
+        "國民生產毛額": "gross national product｛=GNP｝"
+    },
+    {
+        "地下水面": "ground watertable"
+    },
+    {
+        "地下水": "groundwater"
+    },
+    {
+        "地下水壩": "groundwater dam"
+    },
+    {
+        "地下水庫": "groundwater reservoir"
+    },
+    {
+        "八大工業國家組織": "Group of Eight｛=G8｝"
+    },
+    {
+        "成長三角": "Growth Triangle"
+    },
+    {
+        "外籍勞工": "guest workers"
+    },
+    {
+        "海灣合作理事會": "Gulf Cooperation Council｛=GCC｝"
+    },
+    {
+        "懸谷": "hanging valley"
+    },
+    {
+        "硬木　": "hardwood"
+    },
+    {
+        "霾": "haze"
+    },
+    {
+        "人類發展程度指標": "HDI｛Human Development Index｝"
+    },
+    {
+        "岬角": "headland"
+    },
+    {
+        "向源侵蝕": "headward erosion"
+    },
+    {
+        "重工業": "heavy industry"
+    },
+    {
+        "避險基金": "hedge funds"
+    },
+    {
+        "階層擴散": "hierarchical diffusion"
+    },
+    {
+        "高氣壓　": "high pressure"
+    },
+    {
+        "高穩定階段": "high stationary stage"
+    },
+    {
+        "高地氣候": "highland climate"
+    },
+    {
+        "丘陵": "hill"
+    },
+    {
+        "腹地": "hinterland"
+    },
+    {
+        "有機質土": "histosol"
+    },
+    {
+        "蜂窩岩　": "honeycomb rock"
+    },
+    {
+        "水平整合": "horizontal integration"
+    },
+    {
+        "水平分工　": "horizontal separation"
+    },
+    {
+        "角峰": "horn"
+    },
+    {
+        "馬緯度無風帶": "horse latitudes"
+    },
+    {
+        "地壘": "horst"
+    },
+    {
+        "殘丘　": "hum"
+    },
+    {
+        "人類發展程度指標": "Human Development Index｛=HDI｝"
+    },
+    {
+        "人文地理學　": "human geography"
+    },
+    {
+        "人文投入": "human input"
+    },
+    {
+        "溼度　": "humidity"
+    },
+    {
+        "腐植化作用　": "humification"
+    },
+    {
+        "腐植質": "humus"
+    },
+    {
+        "颶風": "hurricane"
+    },
+    {
+        "水文歷線": "hydrograph"
+    },
+    {
+        "水平衡　": "hydrologic balance"
+    },
+    {
+        "水循環": "hydrologic cycle"
+    },
+    {
+        "水文學": "hydrology"
+    },
+    {
+        "水圈　": "hydrosphere"
+    },
+    {
+        "溼地植物": "hygrophyte"
+    },
+    {
+        "大賣場": "hypermarket"
+    },
+    {
+        "分層設色圖 ": "hypsometric map"
+    },
+    {
+        "世界銀行": "IBRD｛World Bank｝"
+    },
+    {
+        "冰積[作用]": "ice accretion"
+    },
+    {
+        "冰帽；冰冠": "ice cap"
+    },
+    {
+        "冰原": "ice field"
+    },
+    {
+        "冰被": "ice sheet"
+    },
+    {
+        "冰冠氣候": "ice-cap climate"
+    },
+    {
+        "冰原": "icefield"
+    },
+    {
+        "冰蝕窪地湖": "ice-scoured basin lake"
+    },
+    {
+        "冰蝕平原": "ice­scoured plain"
+    },
+    {
+        "政府組織": "IGOs｛Inter-Governmental Organizations｝"
+    },
+    {
+        "非法遷移": "illegal migration"
+    },
+    {
+        "洗入層；澱積層": "illuvial horizon"
+    },
+    {
+        "洗入[作用]；澱積[作用]": "illuviation"
+    },
+    {
+        "澱積層": "illuvium"
+    },
+    {
+        "國際勞工組織": "ILO｛International Labor Organization｝"
+    },
+    {
+        "國際貨幣基金會": "IMF｛International Monetary Fund｝"
+    },
+    {
+        "遷入": "immigration"
+    },
+    {
+        "不透水層　": "impermeable layer"
+    },
+    {
+        "進口替代產業": "import substitution industries｛=ISIs｝"
+    },
+    {
+        "弱育土": "inceptisol"
+    },
+    {
+        "計曲線": "index contour"
+    },
+    {
+        "印歐語系　": "Indo-Europen languages"
+    },
+    {
+        "產業群聚　": "industrial cluster"
+    },
+    {
+        "產業空洞化": "industrial hollowing-out"
+    },
+    {
+        "工業慣性": "industrial inertia"
+    },
+    {
+        "產業連鎖　": "industrial linkages"
+    },
+    {
+        "工業區位": "industrial location"
+    },
+    {
+        "工業革命": "industrial revolution"
+    },
+    {
+        "產業系統": "industrial system"
+    },
+    {
+        "工業化": "industrialization"
+    },
+    {
+        "入滲　": "infiltration"
+    },
+    {
+        "通貨膨脹　": "Inflation"
+    },
+    {
+        "資訊流": "information flow"
+    },
+    {
+        "資訊化社會": "information society"
+    },
+    {
+        "資訊科技": "information technology｛=IT｝"
+    },
+    {
+        "遷入率": "in-migration rate"
+    },
+    {
+        "日射": "insolation"
+    },
+    {
+        "集約農業": "intensive agriculture"
+    },
+    {
+        "政府組織": "Inter-Governmental Organizations｛=IGOs｝"
+    },
+    {
+        "政府間氣候變遷委員會": "Intergovernmental Panel on Climate Change｛=IPCC｝"
+    },
+    {
+        "中型都市": "Intermediate city"
+    },
+    {
+        "首曲線 ": "intermediate contour"
+    },
+    {
+        "間歇河　": "intermittent stream"
+    },
+    {
+        "境內遷移": "internal migration"
+    },
+    {
+        "國際換日線　": "international date line"
+    },
+    {
+        "國際勞工組織": "International Labor Organization｛=ILO｝"
+    },
+    {
+        "國際遷移": "international migration"
+    },
+    {
+        "國際貨幣基金會": "International Monetary Fund｛=IMF｝"
+    },
+    {
+        "網際網路 ": "internet"
+    },
+    {
+        "潮間帶": "intertidal zone"
+    },
+    {
+        "間熱帶輻合區": "intertropical convergence zone｛=ITCZ｝"
+    },
+    {
+        "中間障礙因素　": "intervening obstacles"
+    },
+    {
+        "侵入[作用]": "intrusion"
+    },
+    {
+        "因紐特語": "Inuit"
+    },
+    {
+        "進口替代產業": "ISIs｛import substitution industries｝"
+    },
+    {
+        "伊斯蘭教　": "Islam"
+    },
+    {
+        "穆斯林　": "Islamite"
+    },
+    {
+        "島弧": "island arc"
+    },
+    {
+        "等壓線": "isobar"
+    },
+    {
+        "等值線圖　": "isoline map"
+    },
+    {
+        "等溫線": "isotherm"
+    },
+    {
+        "資訊科技": "IT｛information technology｝"
+    },
+    {
+        "痛痛病　": "itai-itai disease"
+    },
+    {
+        "間熱帶輻合區": "ITCZ｛intertropical convergence zone｝"
+    },
+    {
+        "耆那教　": "Jainism"
+    },
+    {
+        "日本離岸市場　": "Japanese Offshore Market｛=JOM｝"
+    },
+    {
+        "爪哇化": "Javanization"
+    },
+    {
+        "日本離岸市場": "JOM｛Japanese Offshore Market｝"
+    },
+    {
+        "猶太教": "Judaism"
+    },
+    {
+        "即時生產": "just­in­time production"
+    },
+    {
+        "喀倫族　": "Karen"
+    },
+    {
+        "喀斯特地形　": "Karst landform"
+    },
+    {
+        "吉蔑人；吉蔑語": "Khmer"
+    },
+    {
+        "知識經濟": "knowledge­based economy"
+    },
+    {
+        "庫德族": "Kurd"
+    },
+    {
+        "黑潮　": "Kuroshio"
+    },
+    {
+        "京都議定書　": "Kyoto Protocol"
+    },
+    {
+        "勞動人口　": "labor force population"
+    },
+    {
+        "勞力密集　": "labour intensive"
+    },
+    {
+        "潟湖": "lagoon"
+    },
+    {
+        "蘭伯特正形投影": "Lambert Conformal projection"
+    },
+    {
+        "蘭伯特圓錐投影　": "Lambert conic projection"
+    },
+    {
+        "陸風": "land breeze"
+    },
+    {
+        "土地改革": "Land reform"
+    },
+    {
+        "地盤下陷；地層下陷": "land subsidence"
+    },
+    {
+        "土地適宜性分析": "land suitability analysis"
+    },
+    {
+        "土地利用分區": "land use districts"
+    },
+    {
+        "地景": "landscape"
+    },
+    {
+        "地景評估": "landscape evaluation"
+    },
+    {
+        "山崩；地滑": "landslide"
+    },
+    {
+        "岩溝": "lapies"
+    },
+    {
+        "晚期擴張階段": "late expanding stage"
+    },
+    {
+        "潛熱　": "latent heat"
+    },
+    {
+        "側蝕；加寬作用": "lateral erosion"
+    },
+    {
+        "側磧": "lateral moraine"
+    },
+    {
+        "緯度": "latitude"
+    },
+    {
+        "磚紅壤　": "latosol"
+    },
+    {
+        "熔岩平原": "lava plain"
+    },
+    {
+        "熔岩高原": "lava plateau"
+    },
+    {
+        "位置導向服務": "LBS｛location­based service｝"
+    },
+    {
+        "淋溶[作用]　": "leaching"
+    },
+    {
+        "阿拉伯國家聯盟": "League of Arab States"
+    },
+    {
+        "精實生產": "Lean Production"
+    },
+    {
+        "圖例": "legend"
+    },
+    {
+        "洲潟海岸": "liman coast"
+    },
+    {
+        "石灰岩地形": "limestone landform"
+    },
+    {
+        "岩石圈　": "lithosphere"
+    },
+    {
+        "放牧業　": "livestock ranching"
+    },
+    {
+        "壤土　": "loam"
+    },
+    {
+        "地方文化　": "local culture"
+    },
+    {
+        "地方產業": "local industry"
+    },
+    {
+        "在地參與": "local participation"
+    },
+    {
+        "地方風系　": "local wind system"
+    },
+    {
+        "在地化": "localization"
+    },
+    {
+        "地方化經濟": "localization economy"
+    },
+    {
+        "區位　": "location"
+    },
+    {
+        "區位擴散": "location diffusion"
+    },
+    {
+        "區位聚集": "location gathering"
+    },
+    {
+        "區位混合": "location mixing"
+    },
+    {
+        "農業區位": "location of agriculture"
+    },
+    {
+        "市場區位　": "location of markets"
+    },
+    {
+        "區位商數 ": "location quotient"
+    },
+    {
+        "區位租": "locational rent"
+    },
+    {
+        "位置導向服務": "location­based service｛=LBS｝"
+    },
+    {
+        "黃土": "loess"
+    },
+    {
+        "物流": "logistics"
+    },
+    {
+        "洛梅協定　": "Lome Convention"
+    },
+    {
+        "長波幅射　": "long wave radiation"
+    },
+    {
+        "經度": "longitude"
+    },
+    {
+        "縱沙丘": "longitudinal dune"
+    },
+    {
+        "沿岸流": "longshore current"
+    },
+    {
+        "低氣壓　": "low pressure"
+    },
+    {
+        "低穩定階段": "low stationary stage"
+    },
+    {
+        "馬賽族　": "Maasai"
+    },
+    {
+        "馬斯垂克條約　": "Maastricht Treaty"
+    },
+    {
+        "[地震]規模": "magnitude"
+    },
+    {
+        "大乘佛教": "Mahayana Buddhism"
+    },
+    {
+        "馬來人；馬來語": "Malay"
+    },
+    {
+        "紅樹林": "mangrove"
+    },
+    {
+        "毛利人；毛利語": "Maori"
+    },
+    {
+        "地圖投影": "map projection"
+    },
+    {
+        "美墨邊境加工出口區　": "maquiadoras"
+    },
+    {
+        "海積[作用]": "marine deposition"
+    },
+    {
+        "海蝕平台": "marine platform"
+    },
+    {
+        "海階": "marine terrace"
+    },
+    {
+        "市場經濟　": "market economy"
+    },
+    {
+        "市場導向　": "market orientation"
+    },
+    {
+        "塊體崩移": "mass movement"
+    },
+    {
+        "大量生產": "mass production"
+    },
+    {
+        "塊體崩壞": "mass wasting"
+    },
+    {
+        "原料導向　": "material orientation"
+    },
+    {
+        "馬雅文明": "Maya civilization"
+    },
+    {
+        "曲流": "meander"
+    },
+    {
+        "曲流頸": "meander neck"
+    },
+    {
+        "地中海型農業": "Mediterranean agriculture"
+    },
+    {
+        "溫帶地中海型氣候": "Mediterranean climate"
+    },
+    {
+        "地中海灌木林　": "mediterranean sclerophyllous forest"
+    },
+    {
+        "巨大都市　": "megacity"
+    },
+    {
+        "大都會帶　": "megalopolis"
+    },
+    {
+        "梅雨": "Mei-yu"
+    },
+    {
+        "大湄公河次區域經濟合作　": "Mekong Subregion Cooperation｛=GMS｝"
+    },
+    {
+        "美拉尼西亞人": "Melanesian"
+    },
+    {
+        "麥卡托圓柱投影　": "Mercator cylindrical projection"
+    },
+    {
+        "麥卡托投影　": "Mercator projection"
+    },
+    {
+        "經線": "meridian"
+    },
+    {
+        "魚尾獅　": "Merlion"
+    },
+    {
+        "麥士蒂索人　": "Mestizo"
+    },
+    {
+        "氣象學": "meteorology"
+    },
+    {
+        "都會": "metropolis"
+    },
+    {
+        "都會區": "metropolitan areas"
+    },
+    {
+        "溫帶氣旋　": "mid-latitude cyclone"
+    },
+    {
+        "年中人口　": "mid-year population"
+    },
+    {
+        "遷移勞工": "migrant workers"
+    },
+    {
+        "水俣病　": "Minamata disease"
+    },
+    {
+        "礦物質": "mineral material"
+    },
+    {
+        "混合農業": "mixed farming"
+    },
+    {
+        "混合林": "mixed forest"
+    },
+    {
+        "夏雨型暖溫帶氣候　": "Moist subtropical climate"
+    },
+    {
+        "黑沃土": "mollisol"
+    },
+    {
+        "莫爾威等積投影": "Mollweide homolographic projection"
+    },
+    {
+        "莫爾威投影　": "Mollweide Projection"
+    },
+    {
+        "監測　": "monitoring"
+    },
+    {
+        "季風　": "monsoon"
+    },
+    {
+        "季風亞洲": "Monsoon Asia"
+    },
+    {
+        "季風氣候": "monsoon climate"
+    },
+    {
+        "蒙特婁議定書　": "Montreal Protocol"
+    },
+    {
+        "季風雨林　": "moonsoon rainforest"
+    },
+    {
+        "冰磧；冰磧石；冰磧丘": "moraine"
+    },
+    {
+        "苔蘚　": "moss"
+    },
+    {
+        "山風": "mountain breeze"
+    },
+    {
+        "山岳冰河": "mountain glacier"
+    },
+    {
+        "移動　": "movement"
+    },
+    {
+        "穆拉托人　": "Mulatto"
+    },
+    {
+        "多國企業": "multinational cooperations"
+    },
+    {
+        "多核心模式": "multi-nuclei model"
+    },
+    {
+        "北美自由貿易協定": "NAFTA｛North American Free Trade Agreement｝"
+    },
+    {
+        "國土綜合發展計畫　": "National Comprehensive Development Plan"
+    },
+    {
+        "國土資訊系統": "National Geographic Information System｛=NGIS｝"
+    },
+    {
+        "北大西洋公約組織": "NATO｛North Atlantic Treaty Organization｝"
+    },
+    {
+        "自然成長率": "natural growth rate"
+    },
+    {
+        "自然增加": "natural increase"
+    },
+    {
+        "自然增減　": "natural increase and decrease"
+    },
+    {
+        "自然景觀帶　": "natural landscape zone"
+    },
+    {
+        "自然堤": "natural levee"
+    },
+    {
+        "天然補注量": "natural recharge volume"
+    },
+    {
+        "自然保護區": "natural reserve"
+    },
+    {
+        "針葉林　": "needle-leaf forest"
+    },
+    {
+        "網絡社會": "network society"
+    },
+    {
+        "新經濟　": "new economy"
+    },
+    {
+        "新國際分工": "new international division of labor"
+    },
+    {
+        "新市鎮　": "new town"
+    },
+    {
+        "新興工業化國家": "Newly Industrialized Countries｛=NICs｝"
+    },
+    {
+        "國土資訊系統": "NGIS｛National Geographic Information System｝"
+    },
+    {
+        "非政府組織": "NGO｛non-governmental organization｝"
+    },
+    {
+        "小眾市場": "niche market"
+    },
+    {
+        "新興工業化國家": "NICs｛Newly Industrialized Countries｝"
+    },
+    {
+        "鄰避效應": "NIMBY｛=NIMBY｝"
+    },
+    {
+        "節點": "node"
+    },
+    {
+        "游牧": "nomadic herding"
+    },
+    {
+        "非政府組織": "non-governmental organization｛=NGO｝"
+    },
+    {
+        "游牧　": "normadic herding"
+    },
+    {
+        "正斷層": "normal fault"
+    },
+    {
+        "規格化": "normalization"
+    },
+    {
+        "產品規格化": "normalization of production"
+    },
+    {
+        "北美自由貿易協定": "North American Free Trade Agreement｛=NAFTA｝"
+    },
+    {
+        "北大西洋公約組織": "North Atlantic Treaty Organization｛=NATO｝"
+    },
+    {
+        "東北信風　": "northeast trades"
+    },
+    {
+        "西北航道": "Northwest Passage"
+    },
+    {
+        "鄰避效應": "not in my back yard｛=NIMBY｝"
+    },
+    {
+        "海蝕凹壁": "notch"
+    },
+    {
+        "娘惹　": "Nyonya"
+    },
+    {
+        "原廠品牌製造": "OBM｛original brand manufacturing｝"
+    },
+    {
+        "囚錮鋒　": "occluded front"
+    },
+    {
+        "洋流": "ocean current"
+    },
+    {
+        "原廠設計製造": "ODM｛original design manufacturing｝"
+    },
+    {
+        "經濟合作與發展組織": "OECD｛Organization for Economic Cooperation and Development｝"
+    },
+    {
+        "原廠委託製造": "OEM｛original equipment manufacturing｝"
+    },
+    {
+        "濱外沙洲　": "offshore bar"
+    },
+    {
+        "境外金融中心": "offshore financial centers"
+    },
+    {
+        "濱外區": "offshore zone"
+    },
+    {
+        "石油輸出國家組織": "OPEC｛Organization of Petroleum Exporting Countries｝"
+    },
+    {
+        "開放空間　": "open space"
+    },
+    {
+        "開放系統　": "open system"
+    },
+    {
+        "開放式問卷": "open-ended questionnaire"
+    },
+    {
+        "曲線計": "opisometer"
+    },
+    {
+        "機會成本": "opportunity cost"
+    },
+    {
+        "有機農業　": "organic agriculture"
+    },
+    {
+        "有機耕作": "organic farming"
+    },
+    {
+        "有機質層": "organic horizon"
+    },
+    {
+        "經濟合作與發展組織": "Organization for Economic Cooperation and Development｛=OECD｝"
+    },
+    {
+        "石油輸出國家組織": "Organization of Petroleum Exporting Countries｛=OPEC｝"
+    },
+    {
+        "方位": "orientation"
+    },
+    {
+        "原廠品牌製造": "original brand manufacturing｛=OBM｝"
+    },
+    {
+        "原廠設計製造": "original design manufacturing｛=ODM｝"
+    },
+    {
+        "原廠委託製造": "original equipment manufacturing｛=OEM｝"
+    },
+    {
+        "造山運動　": "orogeny"
+    },
+    {
+        "地形效應　": "orographic effect"
+    },
+    {
+        "地形雨": "orographic rain"
+    },
+    {
+        "正射投影": "orthographic projection"
+    },
+    {
+        "遷出": "out­migration"
+    },
+    {
+        "遷出率": "out-migration rate"
+    },
+    {
+        "產出": "output"
+    },
+    {
+        "外包　": "outsourcing"
+    },
+    {
+        "外洗扇": "outwash fan"
+    },
+    {
+        "外洗平原": "outwash plain"
+    },
+    {
+        "疊合分析": "overlay analysis"
+    },
+    {
+        "牛軛湖": "oxbow lake"
+    },
+    {
+        "氧化土": "oxisol"
+    },
+    {
+        "親潮　": "Oyashio"
+    },
+    {
+        "巴東人": "Padong"
+    },
+    {
+        "巴勒斯坦解放組織": "Palestine Liberation Organization｛=PLO｝"
+    },
+    {
+        "緯線 ": "parallel of latitude"
+    },
+    {
+        "緯線　": "parallels"
+    },
+    {
+        "寄生火山　": "parasite cone"
+    },
+    {
+        "母質層": "parent material"
+    },
+    {
+        "母岩　": "parent rock"
+    },
+    {
+        "參與觀察法　": "Participant Observation"
+    },
+    {
+        "畜牧業": "pastoral farming"
+    },
+    {
+        "個人數位助理": "PDA｛Personal Digital Assistant｝"
+    },
+    {
+        "泥炭": "peat"
+    },
+    {
+        "泥炭土": "peat soil"
+    },
+    {
+        "蕈狀岩　": "pedestal rock"
+    },
+    {
+        "台狀火山": "pedionite"
+    },
+    {
+        "成土[作用]": "pedogenic process"
+    },
+    {
+        "退休基金": "pension fund"
+    },
+    {
+        "常流河　": "perennial stream"
+    },
+    {
+        "永凍層　": "permafrost layer"
+    },
+    {
+        "永久性遷移": "permanent migration"
+    },
+    {
+        "透水層　": "permeable layer"
+    },
+    {
+        "永凍氣候": "perpetual frost climate"
+    },
+    {
+        "個人數位助理　": "Personal Digital Assistant｛=PDA｝"
+    },
+    {
+        "自然地理學　": "physical geography"
+    },
+    {
+        "物理風化": "physical weathering"
+    },
+    {
+        "圓餅圖": "pie chart"
+    },
+    {
+        "山麓冰河": "piedmont glacier"
+    },
+    {
+        "襲奪河　": "pirate river"
+    },
+    {
+        "搶水河": "pirate stream"
+    },
+    {
+        "像素": "pixel"
+    },
+    {
+        "地方": "place"
+    },
+    {
+        "平原": "plain"
+    },
+    {
+        "行星風系　　": "Planetary wind system"
+    },
+    {
+        "求積儀": "planimeter"
+    },
+    {
+        "計畫經濟　": "planned economy"
+    },
+    {
+        "高原": "plateau"
+    },
+    {
+        "地臺": "platform"
+    },
+    {
+        "巴勒斯坦解放組織": "PLO｛Palestine Liberation Organization｝"
+    },
+    {
+        "冰拔[作用]　": "plucking"
+    },
+    {
+        "梅雨": "plum rain"
+    },
+    {
+        "灰化[作用]": "podzolisation"
+    },
+    {
+        "銷售時點情報系統": "point of sale｛=POS｝"
+    },
+    {
+        "極地氣候　": "polar climate"
+    },
+    {
+        "極圈氣旋帶　": "polar cyclonic belt"
+    },
+    {
+        "極地東風": "polar easterlies"
+    },
+    {
+        "極地高壓帶": "polar high pressure belt"
+    },
+    {
+        "極地冰原　": "polar ice field"
+    },
+    {
+        "政治地理學": "political geography"
+    },
+    {
+        "人口組成": "population composition"
+    },
+    {
+        "人口密度": "population density"
+    },
+    {
+        "人口分布　": "population distribution"
+    },
+    {
+        "人口倍時": "population doubling time"
+    },
+    {
+        "人口地理學": "population geography"
+    },
+    {
+        "人口成長": "population growth"
+    },
+    {
+        "人口成長率": "population growth rate"
+    },
+    {
+        "人口遷移": "population migration"
+    },
+    {
+        "人口金字塔": "population pyramid"
+    },
+    {
+        "人口替代率　": "population replacement rate"
+    },
+    {
+        "人口轉型": "Population transition"
+    },
+    {
+        "銷售時點情報系統": "POS｛point of sale｝"
+    },
+    {
+        "潛勢溪流　": "potential debris flow torrent"
+    },
+    {
+        "可能蒸發散量": "potential evapotranspiration"
+    },
+    {
+        "購買力平價": "PPP｛purchasing power parity｝"
+    },
+    {
+        "草原": "prairie"
+    },
+    {
+        "草原土": "prairie soils"
+    },
+    {
+        "降水": "precipitation"
+    },
+    {
+        "降水強度": "precipitation intensity"
+    },
+    {
+        "降水量變率　": "precipitation variation"
+    },
+    {
+        "優惠性貿易協定": "Preferential Trade Agreement｛=PTA｝"
+    },
+    {
+        "氣壓梯度": "pressure gradient"
+    },
+    {
+        "盛行西風　": "prevailing westerlies"
+    },
+    {
+        "初級資料": "Primary data"
+    },
+    {
+        "第一級產業　": "primary industry"
+    },
+    {
+        "初級資料": "Primary source"
+    },
+    {
+        "首要型都市": "primate city"
+    },
+    {
+        "本初子午線": "prime meridian"
+    },
+    {
+        "私募股權基金": "private equity fund"
+    },
+    {
+        "營力": "process"
+    },
+    {
+        "生產者服務業": "producer services"
+    },
+    {
+        "產品生命週期": "product life cycle"
+    },
+    {
+        "生產鏈": "production chain"
+    },
+    {
+        "生產成本": "production cost"
+    },
+    {
+        "生產網絡": "production networks"
+    },
+    {
+        "假性都市化": "pseudo­urbanization"
+    },
+    {
+        "優惠性貿易協定": "PTA｛Preferential Trade Agreement｝"
+    },
+    {
+        "公共設施　": "public facility"
+    },
+    {
+        "國民住宅": "public housing"
+    },
+    {
+        "拉力": "pull force"
+    },
+    {
+        "購買力平價": "purchasing power parity｛=PPP｝"
+    },
+    {
+        "推力 ": "push force"
+    },
+    {
+        "推拉理論": "push-pull theory"
+    },
+    {
+        "坎兒井　": "qanat"
+    },
+    {
+        "精緻農業　": "quality agriculture"
+    },
+    {
+        "計量地理學": "quantitative geography"
+    },
+    {
+        "第四級產業部門": "quarterly sector"
+    },
+    {
+        "第四級產業　": "quaternary industry"
+    },
+    {
+        "雨量計": "rain gauge"
+    },
+    {
+        "商品圈": "range of goods"
+    },
+    {
+        "補注　": "recharge"
+    },
+    {
+        "遊憩 ": "recreation"
+    },
+    {
+        "紅壤": "red soil"
+    },
+    {
+        "再發展": "redevelopment"
+    },
+    {
+        "減量　": "reduce"
+    },
+    {
+        "珊瑚礁": "reef"
+    },
+    {
+        "林地復育": "reforestation"
+    },
+    {
+        "區域": "region"
+    },
+    {
+        "區域優勢": "regional advantage"
+    },
+    {
+        "區域複合體分析　": "regional complex analysis"
+    },
+    {
+        "區域差異": "regional difference"
+    },
+    {
+        "區域地理學　": "regional geography"
+    },
+    {
+        "區域計畫": "regional plan"
+    },
+    {
+        "區域專業化": "regional specialization"
+    },
+    {
+        "區域貿易協定": "Regional Trade Agreement｛=RTA｝"
+    },
+    {
+        "區域主義": "regionalism"
+    },
+    {
+        "風化層": "regolith"
+    },
+    {
+        "回春[作用]": "rejuventation"
+    },
+    {
+        "關聯式資料庫": "relational database"
+    },
+    {
+        "相對位置": "relative location"
+    },
+    {
+        "遙感探測影像": "remote sensing image"
+    },
+    {
+        "遙感探測": "Remote Sensing｛=RS｝"
+    },
+    {
+        "再生能源": "renewable energy"
+    },
+    {
+        "研究、科技與創新　": "Research,Technology, Innovation｛=RTI｝"
+    },
+    {
+        "零售業　": "retail business"
+    },
+    {
+        "零售體系": "retail system"
+    },
+    {
+        "向源侵蝕；頭蝕": "retrogressive erosion"
+    },
+    {
+        "再利用　": "reuse"
+    },
+    {
+        "逆斷層": "reverse fault"
+    },
+    {
+        "谷灣": "ria"
+    },
+    {
+        "谷灣海岸": "ria coast"
+    },
+    {
+        "稻作農業": "rice agriculture"
+    },
+    {
+        "稜線": "ridge"
+    },
+    {
+        "緣石": "rim stone"
+    },
+    {
+        "火環": "ring of fire"
+    },
+    {
+        "河流襲奪": "river capture"
+    },
+    {
+        "河流襲奪": "river piracy"
+    },
+    {
+        "河階": "river terrace"
+    },
+    {
+        "河階崖": "river terrace scarp"
+    },
+    {
+        "羅賓森投影　": "Robinson Projection"
+    },
+    {
+        "羊背石": "roches moutonnee"
+    },
+    {
+        "岩漠": "rock desert"
+    },
+    {
+        "落石": "rock fall"
+    },
+    {
+        "岩岸　": "rocky coast"
+    },
+    {
+        "格林威治天文臺": "Royal Greenwich Observatory"
+    },
+    {
+        "遙感探測": "RS｛Remote Sensing｝"
+    },
+    {
+        "區域貿易協定": "RTA｛Regional Trade Agreement｝"
+    },
+    {
+        "研究、科技與創新": "RTI｛Research,Technology, Innovation｝"
+    },
+    {
+        "逕流": "runoff"
+    },
+    {
+        "逕流率 ": "runoff ratio"
+    },
+    {
+        "城鄉關係": "rural-urban relations"
+    },
+    {
+        "鏽帶": "rust belt"
+    },
+    {
+        "安全出水量": "safe yield"
+    },
+    {
+        "土壤鹽化": "salinization"
+    },
+    {
+        "沙洲": "sand bar"
+    },
+    {
+        "沙灘": "sandy beach"
+    },
+    {
+        "沙岸": "sandy coast"
+    },
+    {
+        "沙質沙漠": "sandy desert"
+    },
+    {
+        "嚴重急性呼吸道症候群": "SARS｛Severe Acute Respiratory Syndrome｝"
+    },
+    {
+        "衛星影像": "satellite image"
+    },
+    {
+        "衛星市鎮　": "satellite town"
+    },
+    {
+        "飽和地下水　": "saturated groundwater"
+    },
+    {
+        "飽和帶": "saturated zone"
+    },
+    {
+        "莽原；熱帶疏林高草原": "savanna"
+    },
+    {
+        "比例尺（地圖）；尺度": "scale"
+    },
+    {
+        "申根公約": "Schengen Agreement"
+    },
+    {
+        "海蝕門": "sea arch"
+    },
+    {
+        "海風": "sea breeze"
+    },
+    {
+        "海蝕洞": "sea cave"
+    },
+    {
+        "海蝕崖": "sea cliff"
+    },
+    {
+        "海蝕凹壁": "sea notch"
+    },
+    {
+        "海蝕柱": "sea stack"
+    },
+    {
+        "東南亞公約組織": "SEATO｛Southeast Asia Treaty Organization｝"
+    },
+    {
+        "次級資料": "secondary dat"
+    },
+    {
+        "第二級產業 ": "secondary industry"
+    },
+    {
+        "扇形模式": "sector model"
+    },
+    {
+        "部門理論": "sector theory"
+    },
+    {
+        "原積土": "sedentary soil"
+    },
+    {
+        "堆積性海岸": "sedimentary coast"
+    },
+    {
+        "地方感　": "sense of place"
+    },
+    {
+        "服務業": "service industry"
+    },
+    {
+        "聚落": "settlement"
+    },
+    {
+        "嚴重急性呼吸道症候群": "Severe Acute Respiratory Syndrome｛=SARS｝"
+    },
+    {
+        "性別比": "sex ratio"
+    },
+    {
+        "游耕　": "shifting agriculture"
+    },
+    {
+        "游耕": "shifting cultivation"
+    },
+    {
+        "什葉派　": "Shiite"
+    },
+    {
+        "購物中心": "shopping center"
+    },
+    {
+        "購物中心": "shopping mall"
+    },
+    {
+        "海濱": "shore"
+    },
+    {
+        "濱台": "shore platform"
+    },
+    {
+        "濱線　": "shoreline"
+    },
+    {
+        "錫克教　": "Sikhism"
+    },
+    {
+        "岩床": "sill"
+    },
+    {
+        "粉沙；坋粒": "silt"
+    },
+    {
+        "新加坡式英語　": "Singlish"
+    },
+    {
+        "地點": "site"
+    },
+    {
+        "十六方位": "sixteen bearings"
+    },
+    {
+        "天際線　": "skyline"
+    },
+    {
+        "滑動": "sliding"
+    },
+    {
+        "滑動面": "sliding surface"
+    },
+    {
+        "滑走坡": "slip-off slope"
+    },
+    {
+        "貧民窟 ": "slum"
+    },
+    {
+        "小圓": "small circle"
+    },
+    {
+        "蘇活族": "Small Office Home Office｛=SOHO｝"
+    },
+    {
+        "煙霧": "smog"
+    },
+    {
+        "雪帶": "snow belt"
+    },
+    {
+        "雪線": "snow line"
+    },
+    {
+        "雪山水利計畫　": "Snowy Mountains Scheme"
+    },
+    {
+        "社會梯度": "social gradient"
+    },
+    {
+        "軟木 ": "softwood"
+    },
+    {
+        "蘇活族": "SOHO｛Small Office Home Office｝"
+    },
+    {
+        "土壤": "soil"
+    },
+    {
+        "土壤鹽鹼化": "soil alkalization"
+    },
+    {
+        "水土保持": "soil and water conservation"
+    },
+    {
+        "[土壤]增添作用": "soil enrichment"
+    },
+    {
+        "土壤侵蝕　": "soil erosion"
+    },
+    {
+        "土壤地理學": "soil geography"
+    },
+    {
+        "土綱": "soil order"
+    },
+    {
+        "土壤剖面": "soil profile"
+    },
+    {
+        "土壤水": "soil water"
+    },
+    {
+        "太陽輻射": "solar radiation"
+    },
+    {
+        "立體地圖": "solid map"
+    },
+    {
+        "溶解": "solution"
+    },
+    {
+        "源頭　": "source"
+    },
+    {
+        "東南亞公約組織　": "Southeast Asia Treaty Organization｛=SEATO｝"
+    },
+    {
+        "東南信風　": "southeast trades"
+    },
+    {
+        "主權財富基金": "sovereign- wealth funds"
+    },
+    {
+        "時空收斂": "space­time convergence"
+    },
+    {
+        "空間分析　": "spatial analysis"
+    },
+    {
+        "空間資料": "spatial data"
+    },
+    {
+        "空間解析度": "spatial resolution"
+    },
+    {
+        "空間移轉 ": "spatial shift"
+    },
+    {
+        "特定區計畫　": "special district plan"
+    },
+    {
+        "專業化農業　": "specialization agriculture"
+    },
+    {
+        "專業化農業區": "specialized agricultural region"
+    },
+    {
+        "農作專業區": "specialized producing zone"
+    },
+    {
+        "物種滅絕": "species extinction"
+    },
+    {
+        "比熱　": "specific heat"
+    },
+    {
+        "球狀風化": "spheroidal weathering"
+    },
+    {
+        "沙嘴": "spits"
+    },
+    {
+        "淋澱土": "spodosol"
+    },
+    {
+        "泉": "spring"
+    },
+    {
+        "湧泉帶": "spring belt"
+    },
+    {
+        "噴灌　": "sprinkler irrigation"
+    },
+    {
+        "違章建築　": "squatter"
+    },
+    {
+        "棚戶區　": "squatter settlement"
+    },
+    {
+        "鐘乳石": "stalactite"
+    },
+    {
+        "石筍": "stalagmite"
+    },
+    {
+        "標準化": "standardization"
+    },
+    {
+        "國營農場": "State farm"
+    },
+    {
+        "滯留鋒": "stationary front"
+    },
+    {
+        "統計地圖　": "statistical map"
+    },
+    {
+        "貧草原": "steppe"
+    },
+    {
+        "草原氣候": "steppe climate"
+    },
+    {
+        "平射投影": "stereographic projection"
+    },
+    {
+        "巨石陣": "Stonehenge"
+    },
+    {
+        "策略聯盟": "strategic alliance"
+    },
+    {
+        "河川襲奪": "stream capture"
+    },
+    {
+        "河川級序": "stream order"
+    },
+    {
+        "河川襲奪；搶水": "stream piracy"
+    },
+    {
+        "街道家具": "street furniture"
+    },
+    {
+        "擦痕　": "striation"
+    },
+    {
+        "平移斷層": "strike­slip fault"
+    },
+    {
+        "帶狀種植 ": "strip cropping"
+    },
+    {
+        "沈水海岸": "submergence coast"
+    },
+    {
+        "副極地低壓帶　": "subpolar low­pressure belt"
+    },
+    {
+        "自給性農業": "subsistance agriculture"
+    },
+    {
+        "伏流": "subsurface stream"
+    },
+    {
+        "伏流水": "subsurface water"
+    },
+    {
+        "副熱帶無風帶": "subtropical calms"
+    },
+    {
+        "副熱帶高壓": "subtropical high pressure"
+    },
+    {
+        "副熱帶季風氣候　": "subtropical monsoon climate"
+    },
+    {
+        "郊區化": "suburbanization"
+    },
+    {
+        "陽光帶": "sun belt"
+    },
+    {
+        "遜尼派": "Sunnite"
+    },
+    {
+        "供應鏈": "supply chain"
+    },
+    {
+        "地面灌溉　": "surface irrigation"
+    },
+    {
+        "地表逕流": "surface runoff"
+    },
+    {
+        "表土層": "surface soil"
+    },
+    {
+        "懸浮": "suspension"
+    },
+    {
+        "永續發展": "sustainable development"
+    },
+    {
+        "吞口": "swallow hole"
+    },
+    {
+        "向斜[構造]": "syncline"
+    },
+    {
+        "系統地理學": "systematic geography"
+    },
+    {
+        "臺灣農產品安全追溯資訊網": "TAFT｛Taiwan Agriculture and Food Traceability System｝"
+    },
+    {
+        "泰卡　": "taiga"
+    },
+    {
+        "臺灣農產品安全追溯資訊網": "Taiwan Agriculture and Food Traceability System｛=TAFT｝"
+    },
+    {
+        "落石堆": "talus"
+    },
+    {
+        "坦米爾語　": "Tamil"
+    },
+    {
+        "冰斗湖": "tarn"
+    },
+    {
+        "泰勒主義": "Taylorism"
+    },
+    {
+        "泰勒化": "Taylorization"
+    },
+    {
+        "技術擴散": "technology diffusion"
+    },
+    {
+        "技術密集": "technology intensive"
+    },
+    {
+        "技術轉移": "technology transfer"
+    },
+    {
+        "溫帶大陸性氣候": "temperate continental climate"
+    },
+    {
+        "溫帶落葉林　": "temperate deciduous forest"
+    },
+    {
+        "溫帶沙漠氣候": "temperate desert climate"
+    },
+    {
+        "溫帶常綠闊葉林　": "temperate evergreen forest"
+    },
+    {
+        "溫帶草原": "temperate grassland"
+    },
+    {
+        "溫帶海洋性氣候": "temperate marine climate"
+    },
+    {
+        "溫帶溼潤氣候　": "temperate moist climate"
+    },
+    {
+        "溫帶季風氣候": "temperate monsoon climate"
+    },
+    {
+        "溫帶雨林": "temperate rainforest"
+    },
+    {
+        "臨時基準面": "temporary base level"
+    },
+    {
+        "田納西河流域管理局": "Tennessee Valley Authority｛=TVA｝"
+    },
+    {
+        "脫鈣紅土": "terra rossa"
+    },
+    {
+        "梯田": "terrace field"
+    },
+    {
+        "地形分析 ": "terrain analysis"
+    },
+    {
+        "陸生生態系": "terrestrial ecosystem"
+    },
+    {
+        "第三級產業": "tertiary industry"
+    },
+    {
+        "大西洋三角貿易": "the trans­Atlantic trade triangle"
+    },
+    {
+        "聯合國貿易暨發展會議": "The United Nations Conference on Trade and Development｛=UNCTAD｝"
+    },
+    {
+        "主題地圖": "thematic map"
+    },
+    {
+        "小乘佛教": "Theravada Buddhism"
+    },
+    {
+        "逆溫": "thermal inversion"
+    },
+    {
+        "三維": "three dimension｛=3D｝"
+    },
+    {
+        "商閾": "threshold"
+    },
+    {
+        "雷陣雨　": "thundershower"
+    },
+    {
+        "潮埔；潮汐灘地": "tidal flat"
+    },
+    {
+        "潮流口": "tidal inlet"
+    },
+    {
+        "冰磧土": "till"
+    },
+    {
+        "冰磧土平原": "till plain"
+    },
+    {
+        "時區": "time zone"
+    },
+    {
+        "連島沙洲；沙頸岬": "tombolo"
+    },
+    {
+        "地形圖；等高線圖": "topographic map"
+    },
+    {
+        "位相關係": "topology"
+    },
+    {
+        "觀光": "tourism"
+    },
+    {
+        "市鎮": "town"
+    },
+    {
+        "貿易障礙　": "trade barrier"
+    },
+    {
+        "信風；貿易風": "trade wind"
+    },
+    {
+        "信風帶　": "trade-wind zone"
+    },
+    {
+        "傳統社會 ": "traditional society"
+    },
+    {
+        "山牧季移": "transhumance"
+    },
+    {
+        "暫時性遷移": "transit migration"
+    },
+    {
+        "跨國企業": "transnational cooperations"
+    },
+    {
+        "蒸散[作用]　": "transpiration"
+    },
+    {
+        "搬運[作用]": "transportation"
+    },
+    {
+        "運輸創新　": "transportation innovation"
+    },
+    {
+        "運積土": "transported soil"
+    },
+    {
+        "橫沙丘": "transverse dune"
+    },
+    {
+        "橫麥卡托投影": "Transverse Mercator projection"
+    },
+    {
+        "石灰華階地": "travertine terrace"
+    },
+    {
+        "滴灌": "trickle irrigation"
+    },
+    {
+        "熱帶栽培業": "tropical commercial plantation agriculture"
+    },
+    {
+        "熱帶氣旋": "tropical cyclone"
+    },
+    {
+        "熱帶沙漠氣候": "tropical desert climate"
+    },
+    {
+        "熱帶溼潤氣候　": "tropical moist climate"
+    },
+    {
+        "熱帶季風氣候": "tropical monsoon climate"
+    },
+    {
+        "熱帶季風林　": "tropical monsoon rainforest"
+    },
+    {
+        "熱帶雨林": "tropical rainforest"
+    },
+    {
+        "熱帶雨林氣候": "tropical rainforest climate"
+    },
+    {
+        "熱帶莽原氣候": "tropical savanna climate"
+    },
+    {
+        "熱帶氣旋雨　": "tropical-cyclone rain"
+    },
+    {
+        "海嘯": "tsunami"
+    },
+    {
+        "圖阿雷格人　": "Tuareg"
+    },
+    {
+        "苔原；凍原": "tundra"
+    },
+    {
+        "苔原氣候": "tundra climate"
+    },
+    {
+        "冰沼土；凍原土　": "tundra soils"
+    },
+    {
+        "田納西河流域管理局": "TVA｛Tennessee Valley Authority｝"
+    },
+    {
+        "颱風": "typhoon"
+    },
+    {
+        "颱風雨": "typhoon rain"
+    },
+    {
+        "終極基準面": "ultimate base level"
+    },
+    {
+        "極育土": "ultisol"
+    },
+    {
+        "聯合國": "UN｛United Nations｝"
+    },
+    {
+        "聯合國貿易暨發展會議": "UNCTAD｛The United Nations Conference on Trade and Development｝"
+    },
+    {
+        "基蝕坡　": "undercut slope"
+    },
+    {
+        "聯合國開發計畫署": "UNDP｛United Nations Development Programme｝"
+    },
+    {
+        "聯合國環境規劃署": "UNEP｛United Nations Enviroment｝"
+    },
+    {
+        "聯合國氣候變遷綱要公約": "UNFCCC｛United Nations Framework Convention on Climate Change｝"
+    },
+    {
+        "聯合國開發計畫署": "United Nations Development Programme｛=UNDP｝"
+    },
+    {
+        "聯合國環境規劃署": "United Nations Environment Programme｛=UNEP｝"
+    },
+    {
+        "聯合國氣候變遷綱要公約": "United Nations Framework Convention on Climate Change｛=UNFCCC｝"
+    },
+    {
+        "聯合國世界旅遊組織": "United Nations World Tourism Organization｛=（UNWTO）｝"
+    },
+    {
+        "聯合國": "United Nations｛=UN｝"
+    },
+    {
+        "世界橫麥卡托投影": "Universal Transverse Mercator projection｛=UTM｝"
+    },
+    {
+        "不飽和帶": "unsaturated zone"
+    },
+    {
+        "聯合國世界旅遊組織": "UNWTO｛United Nations World Tourism Organization｝"
+    },
+    {
+        "湧升流　": "upwelling"
+    },
+    {
+        "烏拉爾語系　": "Uralic languages"
+    },
+    {
+        "都市設計": "urban design"
+    },
+    {
+        "都市擴張　": "urban diffusion"
+    },
+    {
+        "都市機能": "urban function"
+    },
+    {
+        "都市地理學": "urban geography"
+    },
+    {
+        "都市成長": "urban growth"
+    },
+    {
+        "都市熱島　": "urban heat island"
+    },
+    {
+        "都市階層": "urban hierarchy"
+    },
+    {
+        "都市計畫": "urban planning"
+    },
+    {
+        "都市更新": "urban renewal"
+    },
+    {
+        "都市聚落　": "urban settlement"
+    },
+    {
+        "都市蔓延": "urban sprawl"
+    },
+    {
+        "都市結構 ": "urban structure"
+    },
+    {
+        "都市體系": "urban system"
+    },
+    {
+        "都市化": "urbanization"
+    },
+    {
+        "都市化程度": "urbanization degree"
+    },
+    {
+        "都市化經濟": "urbanization economy"
+    },
+    {
+        "都市化歷程": "urbanizing process"
+    },
+    {
+        "U 型谷　": "U-shaped valley"
+    },
+    {
+        "世界橫麥卡托投影": "UTM｛Universal Transverse Mercator projection｝"
+    },
+    {
+        "灰岩窪盆": "uvala"
+    },
+    {
+        "谷風": "valley breeze"
+    },
+    {
+        "谷冰河": "valley glacier"
+    },
+    {
+        "谷線": "valley line"
+    },
+    {
+        "價值鏈": "value chain"
+    },
+    {
+        "向量式資料": "vector data"
+    },
+    {
+        "向量模式": "vector mode"
+    },
+    {
+        "植被": "vegetation cover"
+    },
+    {
+        "風稜石": "ventifact"
+    },
+    {
+        "創業資金": "venture capital"
+    },
+    {
+        "垂直整合": "vertical integration"
+    },
+    {
+        "膨轉土": "vertisol"
+    },
+    {
+        "火山海岸": "volcanic coast"
+    },
+    {
+        "火山錐": "volcanic cone"
+    },
+    {
+        "火山作用": "volcanism"
+    },
+    {
+        "乾谷": "wadi"
+    },
+    {
+        "暖流": "warm current"
+    },
+    {
+        "暖鋒": "warm front"
+    },
+    {
+        "華沙公約組織　": "Warsaw Treaty Organization"
+    },
+    {
+        "水平衡": "water balance"
+    },
+    {
+        "缺水": "water deficit"
+    },
+    {
+        "水質　": "water quality"
+    },
+    {
+        "水資源": "water resources"
+    },
+    {
+        "水資源缺乏　": "water scarcity"
+    },
+    {
+        "剩水": "water surplus"
+    },
+    {
+        "地下水面": "water table"
+    },
+    {
+        "瀑布": "waterfall"
+    },
+    {
+        "波浪": "wave"
+    },
+    {
+        "波蝕棚": "wave-cut bench"
+    },
+    {
+        "波蝕棚": "wave­cut platform"
+    },
+    {
+        "世界發展指標": "WDI｛World Development Indicators｝"
+    },
+    {
+        "世界發展報告": "WDR｛World Development Report｝"
+    },
+    {
+        "天氣　": "weather"
+    },
+    {
+        "天氣系統": "weather system"
+    },
+    {
+        "風化[作用]": "weathering"
+    },
+    {
+        "西風帶": "westerlies"
+    },
+    {
+        "世界糧食計畫署": "WFP｛World Food Programme｝"
+    },
+    {
+        "世界衛生組織": "WHO｛World Health Organization｝"
+    },
+    {
+        "風": "wind"
+    },
+    {
+        "風花圖": "wind rose chart"
+    },
+    {
+        "風系　": "wind system"
+    },
+    {
+        "風稜石": "windkanter"
+    },
+    {
+        "風蝕窪地": "wind-scoured basin"
+    },
+    {
+        "世界智慧財產權組織": "WIPO｛World Intellectual Property Organization｝"
+    },
+    {
+        "世界銀行": "World Bank｛=IBRD｝"
+    },
+    {
+        "世界都市": "world cities"
+    },
+    {
+        "世界發展指標": "World Development Indicators｛=WDI｝"
+    },
+    {
+        "世界發展報告": "World Development Report｛=WDR｝"
+    },
+    {
+        "世界經濟與財政調查報告　": "World Economic and Financial Surveys"
+    },
+    {
+        "世界糧食計畫署": "World Food Programme｛=WFP｝"
+    },
+    {
+        "世界衛生組織": "World Health Organization｛=WHO｝"
+    },
+    {
+        "世界遺產": "world heritage"
+    },
+    {
+        "世界智慧財產權組織": "World Intellectual Property Organization｛=WIPO｝"
+    },
+    {
+        "世界體系": "world system"
+    },
+    {
+        "世界貿易組織": "World Trade Organization｛=WTO｝"
+    },
+    {
+        "世界展望會　": "World Vision"
+    },
+    {
+        "世界貿易組織": "WTO｛World Trade Organization｝"
+    },
+    {
+        "等級大小法則": "Zipf's rank-size rule"
+    },
+    {
+        "顯域土": "zonal soil"
+    },
+    {
+        "土地使用分區管制": "zoning ordinance"
+    },
+    {
+        "祖魯人": "Zulu"
+    }
+]

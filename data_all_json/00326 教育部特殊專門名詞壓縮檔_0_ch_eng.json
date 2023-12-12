@@ -1,0 +1,308 @@
+[
+    {
+        "綜合規劃司": "Department of Overall Planning"
+    },
+    {
+        "綜合企劃科": "Planning Section"
+    },
+    {
+        "研究發展科": "Research and Development Section"
+    },
+    {
+        "管制考核科": "Regulation and Evaluation Section"
+    },
+    {
+        "新聞及國會聯絡科": "Media & Congressional Liaison Section"
+    },
+    {
+        "學校衛生科": "Campus Health & Hygiene Section"
+    },
+    {
+        "原住民族及少數族群教育科": "Indigenous and Minority Peoples’ Education Section"
+    },
+    {
+        "十二年國民基本教育": "12-year Basic Education"
+    },
+    {
+        "新儲金制": "New Pension Scheme(for Private Schools)"
+    },
+    {
+        "退撫儲金、基金": "Retirement & Compensation Fund(for Private Schools)"
+    },
+    {
+        "監理會": "Supervisory Committee"
+    },
+    {
+        "收支": "Incomes and Expenditures"
+    },
+    {
+        "運用": "management"
+    },
+    {
+        "保管": "safe-keeping"
+    },
+    {
+        "年度預算": "annual budget"
+    },
+    {
+        "決算": "final accounts"
+    },
+    {
+        "信託金融機構": "fiduciary organization"
+    },
+    {
+        "招生中": "student recruitment in progress"
+    },
+    {
+        "暫停招生": "student recruitment suspended"
+    },
+    {
+        "核定但尚未招生": "student recruitment approved but not yet begun"
+    },
+    {
+        "（幼兒園）本園": "(preschool) main campus"
+    },
+    {
+        "（幼兒園）分班": "(preschool) branch campus"
+    },
+    {
+        "教保人員": "(preschool) teachers and caregivers"
+    },
+    {
+        "幼兒園": "preschool"
+    },
+    {
+        "教育部組織法": "Ministry of Education Organization Act"
+    },
+    {
+        "藝術教育法": "Arts Education Act"
+    },
+    {
+        "普通高級中學": "general high school"
+    },
+    {
+        "綜合高級中學": "comprehensive high school"
+    },
+    {
+        "單類科高級中學": "specialized high school"
+    },
+    {
+        "實驗高級中學": "experimental high school"
+    },
+    {
+        "補習及進修教育": "supplementary & continuing education"
+    },
+    {
+        "補習及進修學校": "supplementary & continuing education academy"
+    },
+    {
+        "國民補習教育": "supplementary education"
+    },
+    {
+        "進修教育": "continuing education"
+    },
+    {
+        "短期補習教育": "short-term supplementary education"
+    },
+    {
+        "免試入學": "exam-free admission"
+    },
+    {
+        "申請抽籤入學": "lottery-based admission"
+    },
+    {
+        "登記分發入學": "application-based admission"
+    },
+    {
+        "技優入學": "special achievement-based admission"
+    },
+    {
+        "甄選入學": "recommendation and screening-based admission"
+    },
+    {
+        "技優保甄": "special achievement and screening-based admission"
+    },
+    {
+        "僑生": "overseas Chinese students"
+    },
+    {
+        "海外臺灣學校": "overseas Taiwan schools"
+    },
+    {
+        "品德教育": "character education"
+    },
+    {
+        "人權教育": "human rights education"
+    },
+    {
+        "受教權、就學權、教育權(國家人權報告用語)": "right to education"
+    },
+    {
+        "禁止體罰(國家人權報告用語)": "ban on corporal punishment"
+    },
+    {
+        "性別平等教育(性別平等教育用語)": "gender equality education"
+    },
+    {
+        "性侵害、性騷擾、性霸凌(性別平等教育用語)": "sexual harassment, assault and abuse"
+    },
+    {
+        "生命教育(生命教育用語)": "life education"
+    },
+    {
+        "技職教育": "technological and vocational education"
+    },
+    {
+        "科技大學": "university of science and technology"
+    },
+    {
+        "技術學院": "technical college"
+    },
+    {
+        "專科學校": "junior college"
+    },
+    {
+        "日間部": "day school"
+    },
+    {
+        "夜間部": "night school"
+    },
+    {
+        "進修部": "division of continuing education"
+    },
+    {
+        "專科進修學校": "junior college of continuing education"
+    },
+    {
+        "進修學院": "college of continuing education"
+    },
+    {
+        "碩士在職專班": "in-service master’s program"
+    },
+    {
+        "博士": "doctor (人)/doctorate (學位)"
+    },
+    {
+        "碩士": "master’s (學位)"
+    },
+    {
+        "四技": "four-year technical program"
+    },
+    {
+        "二技": "two-year technical program"
+    },
+    {
+        "五專": "five-year junior college program"
+    },
+    {
+        "二專": "two-year junior college program"
+    },
+    {
+        "綜合評鑑": "comprehensive evaluation/accreditation"
+    },
+    {
+        "專案評鑑": "ad hoc evaluation/accreditation"
+    },
+    {
+        "自我評鑑": "self-evaluation"
+    },
+    {
+        "海事教育": "maritime education"
+    },
+    {
+        "雙聯學制": "joint degree program"
+    },
+    {
+        "境外專班": "overseas program"
+    },
+    {
+        "外國學生專班": "special program for international students"
+    },
+    {
+        "國際合作": "international cooperation"
+    },
+    {
+        "產學合作": "industry-academia cooperation/collaboration"
+    },
+    {
+        "典範科技大學": "exemplary university of science and technology"
+    },
+    {
+        "技職之光": "outstanding technical and vocational education award"
+    },
+    {
+        "國際級技藝能競賽": "International competition of arts and technical skills"
+    },
+    {
+        "產學攜手合作計畫": "industry-academia cooperation/collaboration project"
+    },
+    {
+        "秘書處": "secretariat"
+    },
+    {
+        "軍訓教官": "Military education instructor"
+    },
+    {
+        "護理教師": "teacher of nursing"
+    },
+    {
+        "校安中心": "campus security office"
+    },
+    {
+        "紫錐花運動": "“Echinacea” anti-drug campaign"
+    },
+    {
+        "全民國防教育": "national defense education"
+    },
+    {
+        "春暉專案": "Chun-Hui (Youth-Support) Project"
+    },
+    {
+        "教育服務役": "Alternative Enlistee Service for Education"
+    },
+    {
+        "教育部國民及學前教育署人事室": "Personnel Office, K-12 Education Administration"
+    },
+    {
+        "人事室主任": "Director (簡任); Chief Personnel Officer (薦任)"
+    },
+    {
+        "人事室專門委員": "Senior Executive Officer"
+    },
+    {
+        "人事室科長": "Section Chief"
+    },
+    {
+        "人事室視察": "Inspector"
+    },
+    {
+        "人事室專員": "簡任：1.Senior Specialist (具專業技術); 2.Senior Executive Officer (一般行政)。薦任：1.Specialist (具專業技術); 2.Executive Officer (一般行政)"
+    },
+    {
+        "人事室科員": "Officer"
+    },
+    {
+        "人事室助理員": "Junior Officer"
+    },
+    {
+        "高中職優質精進": "high school quality enhancement"
+    },
+    {
+        "樂齡大學": "senior citizens learning camp"
+    },
+    {
+        "樂齡學習中心": "senior citizens learning center"
+    },
+    {
+        "短期補習班業": "supplementary education services industry"
+    },
+    {
+        "兒童課後照顧服務業": "after-school child care services industry"
+    },
+    {
+        "兒童課後照顧服務班與中心設立及管理辦法": "Regulations for the Establishment and Supervision ofAfter-school Child Care Services"
+    },
+    {
+        "社區大學": "community learning center"
+    }
+]

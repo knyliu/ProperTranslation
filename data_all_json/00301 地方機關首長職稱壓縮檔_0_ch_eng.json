@@ -1,0 +1,386 @@
+[
+    {
+        "市長": "Mayor"
+    },
+    {
+        "副市長": "Deputy Mayor"
+    },
+    {
+        "秘書長": "Secretary-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "場長": "Director"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "園長": "Head"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "大隊長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "局長(警監一階)": "Director-general"
+    },
+    {
+        "分局長(警正一階)": "Director"
+    },
+    {
+        "大隊長(警正一階)": "Commander"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "中隊長(警正)": "Chief"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "院長 (師級)": "Superintendent"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "廠長": "Director"
+    },
+    {
+        "廠長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "館長": "Director"
+    },
+    {
+        "館長": "Curator"
+    },
+    {
+        "館長": "Director"
+    },
+    {
+        "主任委員": "Chairperson"
+    },
+    {
+        "館長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "主任委員": "Chairperson"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "處長": "Director-general"
+    },
+    {
+        "處長": "Director-general"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "處長": "Director-general"
+    },
+    {
+        "台長": "Director"
+    },
+    {
+        "館長": "Director"
+    },
+    {
+        "處長": "Director-general"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "處長": "Director-general"
+    },
+    {
+        "兼主任委員": "Chairperson"
+    },
+    {
+        "總幹事": "Executive Secretary"
+    },
+    {
+        "處長": "Director-general"
+    },
+    {
+        "主任委員": "Chairperson"
+    },
+    {
+        "主任委員": "Chairperson"
+    },
+    {
+        "主任委員": "Chairperson"
+    },
+    {
+        "校長": "President"
+    },
+    {
+        "區長": "District Executive"
+    },
+    {
+        "縣長": "County Executive (建議優先採用)"
+    },
+    {
+        "副縣長": "Deputy County Executive"
+    },
+    {
+        "市長": "Mayor"
+    },
+    {
+        "副市長": "Deputy Mayor"
+    },
+    {
+        "秘書長": "Secretary-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "所長": "Superintendent"
+    },
+    {
+        "院長": "Superintendent"
+    },
+    {
+        "院長": "Superintendent"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "局長": "Director-general"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "場長": "Director"
+    },
+    {
+        "館長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "所長": "Director"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "校長": "Principal"
+    },
+    {
+        "園長": "Head"
+    },
+    {
+        "所長": "Head"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "區長": "District Executive"
+    },
+    {
+        "鄉長": "Township Mayor"
+    },
+    {
+        "鎮長": "Town Mayor"
+    },
+    {
+        "市長": "Borough Mayor"
+    },
+    {
+        "縣長": "County Mayor"
+    },
+    {
+        "副縣長": "Deputy County Mayor"
+    },
+    {
+        "秘書室主任": "Chief, Secretariat"
+    },
+    {
+        "主計室主任": "Chief, Accounting and Statistics Office"
+    },
+    {
+        "議長": "Speaker"
+    },
+    {
+        "副議長": "Deputy Speaker"
+    },
+    {
+        "鄉民代表會主席": "Chairman of Township Council"
+    },
+    {
+        "鎮民代表會主席": "Chairman of Town Council"
+    },
+    {
+        "市民代表會主席": "Chairman of Borough Council "
+    },
+    {
+        "鎮民代表會副主席": "Vice Chairman of Town Council"
+    },
+    {
+        "市民代表會副主席": "Vice Chairman of Borough Council"
+    },
+    {
+        "鄉民代表會副主席": "Vice Chairman of Township Council"
+    }
+]

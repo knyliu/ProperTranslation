@@ -1,0 +1,2645 @@
+[
+    {
+        "絕對路徑": "absolute path"
+    },
+    {
+        "接取器；（無線）存取點；（無線）分享器": "access point{=AP}"
+    },
+    {
+        "可接取性；可存取性；取用權；無障礙性": "accessibility"
+    },
+    {
+        "準確度；正確性；精確度": "accuracy"
+    },
+    {
+        "主動伺服器網頁；ASP 軟體技術": "active server pages{=ASP}"
+    },
+    {
+        "加法器": "adder"
+    },
+    {
+        "成癮；沉迷": "addiction"
+    },
+    {
+        "位址": "address"
+    },
+    {
+        "位址匯流排": "address bus"
+    },
+    {
+        "定址": "addressing"
+    },
+    {
+        "（美國國防部）先進研究計畫局": "Advanced Research Project Agency{=ARPA}"
+    },
+    {
+        "演算法": "algorithm"
+    },
+    {
+        "一機成型主機板": "all in one motherboard"
+    },
+    {
+        "文數字資料": "alphanumeric data"
+    },
+    {
+        "美國記憶（公司）": "American Memory"
+    },
+    {
+        "美國國家標準協會": "American National Standards Institute{=ANSI}"
+    },
+    {
+        "美國資訊交換標準碼": "American Standard Code for Information Interchange{=ASCII}"
+    },
+    {
+        "類比": "analog"
+    },
+    {
+        "類比信號": "analog signal"
+    },
+    {
+        "類比數位轉換器": "analog to digital converter{=ADC}"
+    },
+    {
+        "類比電視": "analog TV"
+    },
+    {
+        "及；與": "AND"
+    },
+    {
+        "及閘；與閘": "AND gate"
+    },
+    {
+        "Android 作業系統；安卓作業系統": "Android OS"
+    },
+    {
+        "防毒軟體": "antivirus software"
+    },
+    {
+        "Apache 伺服器": "Apache"
+    },
+    {
+        "APPLE Ⅱ電腦": "APPLE Ⅱ"
+    },
+    {
+        "應用(軟體)；應用(系統)": "application"
+    },
+    {
+        "應用層": "application layer"
+    },
+    {
+        "應用服務提供者": "application service provider{=ASP}"
+    },
+    {
+        "應用軟體": "application software"
+    },
+    {
+        "算術與邏輯單元": "arithmetic and logic unit{=ALU}"
+    },
+    {
+        "ARPANET 網路": "ARPANet"
+    },
+    {
+        "陣列": "array"
+    },
+    {
+        "人工智慧": "artificial intelligence{=AI}"
+    },
+    {
+        "ASP.NET 網頁開發模型": "ASP.NET"
+    },
+    {
+        "組譯器；組合程式": "assembler"
+    },
+    {
+        "組合語言": "assembly language"
+    },
+    {
+        "指定敘述": "assignment statement"
+    },
+    {
+        "輔助全球定位系統": "assisted global position system{=AGPS}"
+    },
+    {
+        "輔助全球定位系統": "assisted global positioning system{=AGPS}"
+    },
+    {
+        "（美國）計算機協會": "Association for Computing Machinery{=ACM}"
+    },
+    {
+        "非對稱數位用戶線": "asymmetric digital subscriber line{=ADSL}"
+    },
+    {
+        "非對稱數位用戶迴路": "asymmetric digital subscriber loop{=ADSL}"
+    },
+    {
+        "非同步傳輸模式": "asynchronous transfer mode{=ATM}"
+    },
+    {
+        "攻擊者": "attacker"
+    },
+    {
+        "歸因": "attribution"
+    },
+    {
+        "音軌；聲頻磁軌": "audio track"
+    },
+    {
+        "鑑別；鑑定；鑑認": "authentication"
+    },
+    {
+        "自動提款機；自動櫃員機；自動取款機": "automated teller machine{=ATM}"
+    },
+    {
+        "輔助記憶體": "auxiliary memory"
+    },
+    {
+        "可用率；可用性": "availability"
+    },
+    {
+        "骨幹；基幹": "backbone"
+    },
+    {
+        "回溯；回溯法": "backtracking"
+    },
+    {
+        "頻寬；帶寬": "bandwidth"
+    },
+    {
+        "條碼": "barcode"
+    },
+    {
+        "條碼讀取器": "barcode reader{=BCR}"
+    },
+    {
+        "準系統；陽春系統": "barebone"
+    },
+    {
+        "基；基數；基底": "base"
+    },
+    {
+        "基本輸出入系統": "basic input/output system{=BIOS}"
+    },
+    {
+        "大五碼；Big-5 碼": "Big-5 code{=BIG-5}"
+    },
+    {
+        "二進位元；位元": "binary digit{=bit}"
+    },
+    {
+        "二進位數字系統": "binary number system"
+    },
+    {
+        "二元搜尋": "binary search"
+    },
+    {
+        "每秒位元數": "bit per second{=bps}"
+    },
+    {
+        "點陣圖；點陣影像": "bitmap image"
+    },
+    {
+        "點陣圖；位元映像": "bitmap{=BMP}"
+    },
+    {
+        "區塊調色盤": "blocks palette"
+    },
+    {
+        "部落格、網誌、博客": "Blog"
+    },
+    {
+        "藍牙": "bluetooth"
+    },
+    {
+        "藍光": "Blu-ray"
+    },
+    {
+        "藍光光碟": "Blu-ray disc{=BD}"
+    },
+    {
+        "藍光 DVD": "Blu-ray DVD"
+    },
+    {
+        "布林；布耳的": "Boolean"
+    },
+    {
+        "開機型病毒": "Boot-type Virus"
+    },
+    {
+        "殭屍網路": "BotNet"
+    },
+    {
+        "底端": "bottom"
+    },
+    {
+        "由下而上": "bottom Up"
+    },
+    {
+        "邊界條件": "boundary condition"
+    },
+    {
+        "分支": "branch"
+    },
+    {
+        "橋接器": "bridge"
+    },
+    {
+        "亮度": "brightness"
+    },
+    {
+        "廣播無線電": "broadcast radio"
+    },
+    {
+        "瀏覽器": "browser"
+    },
+    {
+        "蠻力": "brute force"
+    },
+    {
+        "緩衝器": "buffer"
+    },
+    {
+        "緩衝器溢位": "buffer overflow"
+    },
+    {
+        "錯誤": "bug"
+    },
+    {
+        "電子佈告欄系統": "Bulletin Board System{=BBS}"
+    },
+    {
+        "匯流排": "bus"
+    },
+    {
+        "匯流排寬度": "bus width"
+    },
+    {
+        "企業對企業": "business to business{=B2B}"
+    },
+    {
+        "企業對消費者": "business to consumer{=B2C}"
+    },
+    {
+        "位元組": "byte{=B}"
+    },
+    {
+        "纜線數據機": "cable modem"
+    },
+    {
+        "快取（記憶體）": "cache"
+    },
+    {
+        "快取記憶體": "cache memory"
+    },
+    {
+        "腕隧道症候群": "carpal tunnel syndrome{=CTS}"
+    },
+    {
+        "載波偵測多重存取/碰撞偵測": "carrier sense multiple access / collision detection{=CSMA/CD}"
+    },
+    {
+        "陰極射線管": "cathode ray tube{=CRT}"
+    },
+    {
+        "可讀式光碟": "CD-Recordable{=CD-R}"
+    },
+    {
+        "可覆寫光碟": "CD-Rewriteable{=CD-RW}"
+    },
+    {
+        "CD-ROM驅動機": "CD-ROM Drive"
+    },
+    {
+        "可抹寫式CD光碟機": "CD-RW Drive"
+    },
+    {
+        "中央處理單元": "Central Processing Unit{=CPU}"
+    },
+    {
+        "認證中心": "certification authority{=CA}"
+    },
+    {
+        "冠軍晶片": "Champion Chip"
+    },
+    {
+        "字元；字符": "character"
+    },
+    {
+        "電荷耦合元件": "charge coupled device{=CCD}"
+    },
+    {
+        "查爾斯‧巴貝奇": "Charles Babbage"
+    },
+    {
+        "字元集；字符集": "charset"
+    },
+    {
+        "下代；子節點；孩節點": "child"
+    },
+    {
+        "中文資訊交換碼": "Chinese Character Code for Information Interchange{=CCCII}"
+    },
+    {
+        "中文標準交換碼": "Chinese standard interchange code{=CSIC}"
+    },
+    {
+        "晶片": "chip"
+    },
+    {
+        "晶片組": "chipset"
+    },
+    {
+        "密文": "ciphertext"
+    },
+    {
+        "電路交換；線路交換": "circuit switching"
+    },
+    {
+        "B 類 IP 位址": "class B IP address"
+    },
+    {
+        "C 類 IP 位址": "class C IP address"
+    },
+    {
+        "D 類 IP 位址": "class D IP address"
+    },
+    {
+        "E 類 IP 位址": "class E IP address"
+    },
+    {
+        "用戶端": "client"
+    },
+    {
+        "主從式架構": "client server"
+    },
+    {
+        "主從式網路": "client server network"
+    },
+    {
+        "時脈": "clock"
+    },
+    {
+        "時脈週期": "clock cycle"
+    },
+    {
+        "倍頻係數": "clock multiplier factor"
+    },
+    {
+        "時脈週期": "clock period"
+    },
+    {
+        "時脈；時鐘脈波；時鐘脈衝": "clock pulse"
+    },
+    {
+        "時脈頻率；時鐘頻率": "clock rate"
+    },
+    {
+        "雲端運算": "cloud computing"
+    },
+    {
+        "雲端服務": "cloud service"
+    },
+    {
+        "叢集；群集": "cluster"
+    },
+    {
+        "印刷三原色模式": "CMY color mode"
+    },
+    {
+        "同軸電纜": "coaxial cable"
+    },
+    {
+        "編碼；撰寫程式": "coding"
+    },
+    {
+        "碰撞": "collision"
+    },
+    {
+        "指令": "command"
+    },
+    {
+        "商用軟體": "commercial software"
+    },
+    {
+        "通訊協定": "communication protocol"
+    },
+    {
+        "唯獨光碟": "compact disc read only memory{=CD-ROM}"
+    },
+    {
+        "光碟": "compact disk{=CD}"
+    },
+    {
+        "編譯程式；編譯器": "compiler"
+    },
+    {
+        "補數": "complement"
+    },
+    {
+        "互補性金屬氧化半導體": "complementary metal-oxide semiconductor{=CMOS}"
+    },
+    {
+        "複雜指令集電腦": "complex instruction set computer{=CISC}"
+    },
+    {
+        "運算": "computation"
+    },
+    {
+        "計算複雜性": "computational complexity"
+    },
+    {
+        "計算式知識引擎": "computational knowledge engine"
+    },
+    {
+        "電腦；計算機": "computer"
+    },
+    {
+        "電腦濫用；電腦誤用": "computer abuse"
+    },
+    {
+        "電腦輔助設計": "computer aided design{=CAD}"
+    },
+    {
+        "電腦架構": "computer architecture"
+    },
+    {
+        "電腦輔助教學": "computer assisted instruction{=CAI}"
+    },
+    {
+        "電腦輔具": "computer assistive devices"
+    },
+    {
+        "電腦倫理協會": "computer ethics institute"
+    },
+    {
+        "電腦圖形；計算機圖學": "computer graphics"
+    },
+    {
+        "電腦網路；計算機網路": "computer network"
+    },
+    {
+        "電腦病毒": "computer virus"
+    },
+    {
+        "3C 產品；資通消費性電子產品": "computer, communications and consumer electronics{=3C}"
+    },
+    {
+        "電腦輔助製造": "computer-adide manufacturing{=CAM}"
+    },
+    {
+        "電腦輔助設計": "computer-aided design{=CAD}"
+    },
+    {
+        "電腦輔助軟體工程": "computer-aided software engineering{=CASE}"
+    },
+    {
+        "電腦輔助教學": "computer-assisted instruction{=CAI}"
+    },
+    {
+        "機密性": "confidentiality"
+    },
+    {
+        "連線劫持": "connection hijacking"
+    },
+    {
+        "連接導向服務": "connection oriented service"
+    },
+    {
+        "非連接式服務": "connectionless service"
+    },
+    {
+        "常數": "constant"
+    },
+    {
+        "消費者對企業": "consumer to business{=C2B}"
+    },
+    {
+        "消費者對消費者": "consumer to consumer{=C2C}"
+    },
+    {
+        "對比": "contrast"
+    },
+    {
+        "控制匯流排": "control bus"
+    },
+    {
+        "控制單元": "control unit{=CU}"
+    },
+    {
+        "訊錄；網路餅乾": "cookie"
+    },
+    {
+        "反著作權；著作權左派；公共著作權": "copyleft"
+    },
+    {
+        "核心": "core"
+    },
+    {
+        "劊客": "cracker"
+    },
+    {
+        "版權宣告": "creative commons{=CC}"
+    },
+    {
+        "跨網站指令碼": "cross-site scripting"
+    },
+    {
+        "串音": "crosstalk"
+    },
+    {
+        "貨幣；流通": "currency"
+    },
+    {
+        "青、洋紅、黃、黑（印刷）四原色；印刷四原色": "cyan, magenta, yellow, and black{=CMYK}"
+    },
+    {
+        "磁柱；圓柱": "cylinder"
+    },
+    {
+        "資料備份": "data backup"
+    },
+    {
+        "資料匯流排": "data bus"
+    },
+    {
+        "資料鏈路層": "data link layer"
+    },
+    {
+        "資料探勘": "data mining"
+    },
+    {
+        "資料結構": "data structure"
+    },
+    {
+        "資料傳輸時間": "data transfer time"
+    },
+    {
+        "資料型態": "data type"
+    },
+    {
+        "資料庫": "database"
+    },
+    {
+        "除錯": "debug"
+    },
+    {
+        "十進位；十進制": "decimal"
+    },
+    {
+        "十進位數字系統": "decimal number system"
+    },
+    {
+        "解碼": "decode"
+    },
+    {
+        "解碼器": "decoder"
+    },
+    {
+        "解密": "decryption"
+    },
+    {
+        "深藍電腦": "deep blue"
+    },
+    {
+        "明確性": "definiteness"
+    },
+    {
+        "延遲": "delay"
+    },
+    {
+        "阻絕服務；阻斷服務": "denial of service{=DoS}"
+    },
+    {
+        "丹尼斯‧里奇": "Dennis Ritchie"
+    },
+    {
+        "（美國）國防部": "Department of Defense{=DoD}"
+    },
+    {
+        "桌面": "desktop"
+    },
+    {
+        "字典式攻擊": "dictionary attack"
+    },
+    {
+        "數位": "digital"
+    },
+    {
+        "數位典藏": "digital archive"
+    },
+    {
+        "數位音訊編碼": "digital audio coding"
+    },
+    {
+        "數位相機": "digital camera{=DC}"
+    },
+    {
+        "數位憑證": "digital certificate"
+    },
+    {
+        "數位落差": "digital divide"
+    },
+    {
+        "數位家庭": "digital home"
+    },
+    {
+        "數位學習": "digital learning"
+    },
+    {
+        "數位邏輯電路": "digital logic circuit"
+    },
+    {
+        "數位著作權管理": "digital rights management{=DRM}"
+    },
+    {
+        "數位訊號；數位信號": "digital signal"
+    },
+    {
+        "數位訊號處理；數位信號處理": "digital signal processing{=DSP}"
+    },
+    {
+        "單眼數位相機；數位單眼相機": "digital single-lens reflex{=DSLR}"
+    },
+    {
+        "數位類比轉換器": "digital to analog converter{=DAC}"
+    },
+    {
+        "唯讀式DVD光碟；唯讀式數位多功能影音光碟": "digital versatile disc ROM{=DVD-ROM}"
+    },
+    {
+        "多用途數位光碟；多樣化數位光碟": "digital versatile disc{=DVD}"
+    },
+    {
+        "數位浮水印": "digital watermarking"
+    },
+    {
+        "數位化": "digitize"
+    },
+    {
+        "直接記憶體存取": "direct memory access{=DMA}"
+    },
+    {
+        "目錄；檔案夾": "directory"
+    },
+    {
+        "磁碟存取時間": "disk access time"
+    },
+    {
+        "磁碟重組": "disk defrag"
+    },
+    {
+        "磁碟作業系統": "disk operating system{=DOS}"
+    },
+    {
+        "顯示卡": "display card"
+    },
+    {
+        "遠距教學": "distance learning"
+    },
+    {
+        "遠距學習": "distant learning"
+    },
+    {
+        "分散式阻絕服務；分散式阻斷服務": "distributed denial of service{=DDoS}"
+    },
+    {
+        "發行套件": "distributions"
+    },
+    {
+        "發散性思考、擴散性思考": "divergent thinking"
+    },
+    {
+        "分治法；各個擊破法": "divide and conquer"
+    },
+    {
+        "網域名稱": "domain name"
+    },
+    {
+        "網域名稱伺服器": "domain name server{=DNS}"
+    },
+    {
+        "網域名稱系統": "domain name system{=DNS}"
+    },
+    {
+        "每英寸點數；每吋點數": "dot per inch{=dpi}"
+    },
+    {
+        "點距；點節距": "dot pitch"
+    },
+    {
+        "點矩陣式印表機": "dot-matrix printer"
+    },
+    {
+        "倍精準度浮點數": "double-precision floating-point"
+    },
+    {
+        "下載": "download"
+    },
+    {
+        "雙核心": "dual core"
+    },
+    {
+        "雙核心處理器": "dual core processor"
+    },
+    {
+        "動態主機配置協定": "dynamic host configuration protocol{=DHCP}"
+    },
+    {
+        "動態隨機存取記憶體": "dynamic random access memory{=DRAM}"
+    },
+    {
+        "執行週期": "E-cycle"
+    },
+    {
+        "柯德（關聯式資料庫發明者）": "Edgar F. Codd"
+    },
+    {
+        "有效性": "effectiveness"
+    },
+    {
+        "可電氣抹除可程式唯讀記憶體": "electrically EPROM{=EEPROM}"
+    },
+    {
+        "電子商務": "electronic commerce{=EC}"
+    },
+    {
+        "EDVAC 電腦": "electronic discrete variable automatic computer{=EDVAC}"
+    },
+    {
+        "電子郵件": "Electronic mail{=E-mail}"
+    },
+    {
+        "ENIAC 電腦": "electronic numerical integrator and computer{=ENIAC}"
+    },
+    {
+        "電子收費系統；電子化道路收費系統": "electronic toll collection{=ETC}"
+    },
+    {
+        "嵌入式電腦": "embedded computer"
+    },
+    {
+        "嵌入式系統": "embedded system"
+    },
+    {
+        "編碼": "encoding"
+    },
+    {
+        "編碼系統": "encoding system"
+    },
+    {
+        "增強型平行埠": "enhanced parallel port{=EPP}"
+    },
+    {
+        "美國環境保護署": "environmental protection agency{=EPA}"
+    },
+    {
+        "可抹除可程式唯讀記憶體": "erasable PROM{=EPROM}"
+    },
+    {
+        "乙太網路": "ethernet"
+    },
+    {
+        "歐洲核子研究組織": "European Organisation for Nuclesr Research{=CERN}"
+    },
+    {
+        "艾位元組": "exabyte{=EB}"
+    },
+    {
+        "互斥或": "exclusive OR{=XOR}"
+    },
+    {
+        "執行": "execute"
+    },
+    {
+        "執行週期": "execution cycle"
+    },
+    {
+        "專家系統": "expert system"
+    },
+    {
+        "指數": "exponent"
+    },
+    {
+        "運算式": "expression"
+    },
+    {
+        "擴充 ASCII 碼": "extended ASCII code"
+    },
+    {
+        "延伸二進制編碼十進交換碼": "extended binary coded decimal interchange code{=EBCDIC}"
+    },
+    {
+        "外部匯流排": "external bus"
+    },
+    {
+        "外部鐘訊": "external clock"
+    },
+    {
+        "外頻": "external frequency"
+    },
+    {
+        "外部序列先進技術附接；外部序列先進技術附件": "external SATA{=eSATA}"
+    },
+    {
+        "商際網路；企業間網路": "extranet"
+    },
+    {
+        "工廠自動化": "factory automation{=FA}"
+    },
+    {
+        "擷取": "fetch"
+    },
+    {
+        "擷取週期": "fetch cycle"
+    },
+    {
+        "光纖": "fiber"
+    },
+    {
+        "光纖": "fiber optics"
+    },
+    {
+        "光纖到大樓": "fiber to the building{=FTTB}"
+    },
+    {
+        "光纖到路側": "fiber to the curb{=FTTC}"
+    },
+    {
+        "光纖到府": "fiber to the home{=FTTH}"
+    },
+    {
+        "檔案": "file"
+    },
+    {
+        "檔案配置": "file allocation"
+    },
+    {
+        "檔案管理": "file management"
+    },
+    {
+        "檔案路徑": "file path"
+    },
+    {
+        "檔案傳輸協定": "file transfer protocol{=FTP}"
+    },
+    {
+        "檔案型病毒": "file-type virus"
+    },
+    {
+        "正反器": "filp-flop"
+    },
+    {
+        "過濾軟體": "filter software"
+    },
+    {
+        "有限性": "finiteness"
+    },
+    {
+        "防火牆": "firewall"
+    },
+    {
+        "火線": "firewire"
+    },
+    {
+        "韌體": "firmware"
+    },
+    {
+        "先進先出": "first in first out{=FIFO}"
+    },
+    {
+        "快閃碟；隨身碟": "flash disk"
+    },
+    {
+        "快閃記憶體": "flash memory"
+    },
+    {
+        "快閃記憶卡": "flash memory card"
+    },
+    {
+        "快閃記憶體": "flash ROM"
+    },
+    {
+        "Flash 串流影音規格": "flash video{=FLV}"
+    },
+    {
+        "正反器": "Flip-flop"
+    },
+    {
+        "浮點數": "floating-point number"
+    },
+    {
+        "浮點運算": "floating-point operation"
+    },
+    {
+        "浮點單元": "floating-point unit{=FPU}"
+    },
+    {
+        "軟式磁碟機": "floppy disk{=FDD}"
+    },
+    {
+        "流程圖": "flow chart"
+    },
+    {
+        "資料夾": "folder"
+    },
+    {
+        "防呆設計": "fool-proof design"
+    },
+    {
+        "格式；製作格式": "format"
+    },
+    {
+        "格式化": "formatting"
+    },
+    {
+        "FORTRAN 語言": "FORTRAN"
+    },
+    {
+        "第四代語言": "fourth generation language{=4GL}"
+    },
+    {
+        "框；資訊框": "frame"
+    },
+    {
+        "自由軟體": "free software"
+    },
+    {
+        "免費軟體": "freeware"
+    },
+    {
+        "前端": "front"
+    },
+    {
+        "前側匯流排": "front side bus{=FSB}"
+    },
+    {
+        "遊戲台": "gamepad"
+    },
+    {
+        "垃圾進垃圾出": "garbage in,  garbage out{=GIGO}"
+    },
+    {
+        "閘道器": "gateway"
+    },
+    {
+        "通用封包無線電服務": "general packet radio service{=GPRS}"
+    },
+    {
+        "通用公共授權條款": "general public license{=GPL}"
+    },
+    {
+        "通用型電腦": "general-purpose computer"
+    },
+    {
+        "地理資訊系統": "geographic information system{=GIS}"
+    },
+    {
+        "手勢辨識控制": "gesture recognition control"
+    },
+    {
+        "每秒十億位元": "gigabit per second{=Gbps}"
+    },
+    {
+        "吉位元；十億位元；吉比；十億比": "gigabit{=Gb}"
+    },
+    {
+        "吉位元組；十億位元組；吉拜；十億拜": "gigabyte{=GB}"
+    },
+    {
+        "吉赫；十億赫茲": "gigahertz{=GHz}"
+    },
+    {
+        "全球定位系統": "global positioning system{=GPS}"
+    },
+    {
+        "全球行動通訊系統": "global system for mobile communications{=GSM}"
+    },
+    {
+        "視窗導盲鼠系統": "G-mouse"
+    },
+    {
+        "霍普（COBOL 語言創始者）": "Grace Hopper"
+    },
+    {
+        "圖形化使用者介面": "graphical user interface{=GUI}"
+    },
+    {
+        "圖形交換格式": "graphics interchange format{=GIF}"
+    },
+    {
+        "貪心法則": "greedy method"
+    },
+    {
+        "綠色資訊科技": "green IT"
+    },
+    {
+        "駭客": "hacker"
+    },
+    {
+        "駭侵": "hacking"
+    },
+    {
+        "硬式磁碟機": "hard disk drive{=HDD}"
+    },
+    {
+        "硬碟": "hard disk{=HD}"
+    },
+    {
+        "硬體": "hardware"
+    },
+    {
+        "頭；磁頭": "head"
+    },
+    {
+        "頭戴顯示裝置": "head mounted display"
+    },
+    {
+        "標頭": "header"
+    },
+    {
+        "赫茲；赫": "hertz{=Hz}"
+    },
+    {
+        "十六進位": "hexadecimal"
+    },
+    {
+        "十六進位數系統；十六進制": "hexadecimal number system"
+    },
+    {
+        "高畫質多媒體介面；高解析度多媒體介面": "high definition multimedia interface{=HDMI}"
+    },
+    {
+        "高畫質通用光碟": "high definition versatile disc{=HVD}"
+    },
+    {
+        "高速下載封包存取": "high speed downlink packet access{=HSDPA}"
+    },
+    {
+        "高階語言": "high-level language"
+    },
+    {
+        "HiNet 網路": "HiNet"
+    },
+    {
+        "何樂利；打洞卡": "Hollerith"
+    },
+    {
+        "全像式顯示器": "holographic display"
+    },
+    {
+        "全像通用光碟": "holographic versatile disc{=HVD}"
+    },
+    {
+        "家用軟體": "home use applications"
+    },
+    {
+        "首頁": "homepage"
+    },
+    {
+        "水平應用": "horizontal application"
+    },
+    {
+        "水平式（邏輯）思考": "horizontal thinking"
+    },
+    {
+        "主機位址": "host address"
+    },
+    {
+        "主機識別碼；主機編號；主機 ID": "host ID"
+    },
+    {
+        "熱插拔": "hot swap"
+    },
+    {
+        "熱插入": "hot-plugging"
+    },
+    {
+        "（無線上網）熱點": "hotspot"
+    },
+    {
+        "集線器": "hub"
+    },
+    {
+        "霍夫曼碼": "Huffman code"
+    },
+    {
+        "霍夫曼編碼法": "Huffman's coding"
+    },
+    {
+        "霍夫曼編碼法": "Huffman's encoding"
+    },
+    {
+        "超鏈結": "hyperlink"
+    },
+    {
+        "超文件": "hypertext"
+    },
+    {
+        "超文件標示語言": "HyperText Markup Language{=HTML}"
+    },
+    {
+        "超文件傳輸協定": "HyperText Tranafer Protocol{=HTTP}"
+    },
+    {
+        "國際商業機器股份有限公司": "IBM"
+    },
+    {
+        "圖示；圖符": "icon"
+    },
+    {
+        "指令週期": "I-cycle"
+    },
+    {
+        "IEEE 1394 標準": "IEEE 1394"
+    },
+    {
+        "影像向量": "image vector"
+    },
+    {
+        "索引；指標": "index"
+    },
+    {
+        "索引配置": "index allocation"
+    },
+    {
+        "索引搜尋": "index search"
+    },
+    {
+        "索引值": "index value"
+    },
+    {
+        "資訊家電": "information appliances{=IA}"
+    },
+    {
+        "資訊倫理": "information ethics"
+    },
+    {
+        "資訊系統": "information systems"
+    },
+    {
+        "紅外線": "infrared"
+    },
+    {
+        "紅外線輻射": "infrared radiation"
+    },
+    {
+        "噴墨列印機": "ink-jet printer"
+    },
+    {
+        "輸入": "input"
+    },
+    {
+        "輸入單元；輸入裝置": "input unit{=IU}"
+    },
+    {
+        "輸入/輸出；輸出入": "input/output{=I/O}"
+    },
+    {
+        "即時通訊": "instant messaging{=IM}"
+    },
+    {
+        "（美國）電機電子工程師學會": "Institute of Electrical and Electronic Engineer{=IEEE}"
+    },
+    {
+        "指令周期": "instruction cycle"
+    },
+    {
+        "指令暫存器": "instruction register{=IR}"
+    },
+    {
+        "整數": "integer"
+    },
+    {
+        "積體電路": "integrated circuit{=IC}"
+    },
+    {
+        "IDE 介面；整合設備電子介面": "integrated device electronics{=IDE}"
+    },
+    {
+        "IDE 介面；整合設備電子介面": "integrated drive electronics{=IDE}"
+    },
+    {
+        "完整性": "integrity"
+    },
+    {
+        "智慧財產權": "intellectual property right{=IPR}"
+    },
+    {
+        "智慧型交通運輸系統": "intelligent transportation system{=ITS}"
+    },
+    {
+        "中間站": "intermediate station"
+    },
+    {
+        "內部匯流排": "internal bus"
+    },
+    {
+        "內鐘訊": "internal clock"
+    },
+    {
+        "內頻": "internal frequency"
+    },
+    {
+        "國際標準組織": "international organization for standardization{=ISO}"
+    },
+    {
+        "國際電信聯盟": "international telecommunication union{=ITU}"
+    },
+    {
+        "網際網路": "Internet"
+    },
+    {
+        "網路成癮症；嗜網症": "Internet addiction disorder{=IAD}"
+    },
+    {
+        "網際網路內容提供者": "Internet content provider{=ICP}"
+    },
+    {
+        "網際網路指定名稱與位址管理機構；ICANN 機構": "Internet Corporation for Assigned Names and Numbers{=ICANN}"
+    },
+    {
+        "網路犯罪；網際網路犯罪": "Internet crime"
+    },
+    {
+        "網際網路資訊伺服器": "Internet information server{=IIS}"
+    },
+    {
+        "網路互連層": "internet layer"
+    },
+    {
+        "網際網路訊息存取協定": "Internet message access protocol{=IMAP}"
+    },
+    {
+        "網際網路協定位址": "Internet protocol address{=IP Address}"
+    },
+    {
+        "網際網路協定第 4 版": "Internet protocol version 4{=IPv4}"
+    },
+    {
+        "網際網路協定第 6 版": "Internet protocol version 6{=IPv6}"
+    },
+    {
+        "網際網路協定": "Internet protocol{=IP}"
+    },
+    {
+        "網路謠言": "Internet rumor"
+    },
+    {
+        "網際網路服務提供者": "Internet service provider{=ISP}"
+    },
+    {
+        "美國網際網路資訊中心；網際網路域名管理中心": "InterNIC"
+    },
+    {
+        "直譯器；解譯器": "interpreter"
+    },
+    {
+        "中斷；岔斷": "interrupt"
+    },
+    {
+        "內部網路": "Intranet"
+    },
+    {
+        "侵入": "intrusion"
+    },
+    {
+        "入侵防禦系統": "intrusion prevention system{=IPS}"
+    },
+    {
+        "蘋果行動裝置作業系統": "iOS"
+    },
+    {
+        "輸入、處理、輸出": "iuput process output{=IPO}"
+    },
+    {
+        "伊克特（ENIAC 電腦發明者）": "J. Presper Eckert"
+    },
+    {
+        "高斯林（JAVA 創造者）": "James Gosling"
+    },
+    {
+        "Java 網頁伺服器；JSP 軟體技術": "Java Server Pages{=JSP}"
+    },
+    {
+        "威爾斯（維基創辦人）": "Jimmy Wales"
+    },
+    {
+        "工件排程；工作排程": "job scheduling"
+    },
+    {
+        "麥卡錫（人工智慧先驅者）": "John McCarthy"
+    },
+    {
+        "馮紐曼（電子數位計算機創造者）": "John von Neumann"
+    },
+    {
+        "莫克利（ENIAC 電腦設計者）": "John William Mauchly"
+    },
+    {
+        "JPEG圖像壓縮標準": "Joint Photographic Experts Group{=JPEG}"
+    },
+    {
+        "JPG圖像壓縮標準": "Joint Photographic Group{=JPG}"
+    },
+    {
+        "搖桿": "joystick"
+    },
+    {
+        "湯普遜（Unix 發明人）": "Ken Thompson"
+    },
+    {
+        "內核；內核程式": "kernel"
+    },
+    {
+        "鍵；鑰；關鍵": "key"
+    },
+    {
+        "鍵盤": "keyboard"
+    },
+    {
+        "鍵盤側錄程式": "keylogger"
+    },
+    {
+        "每秒千位元數": "kilobit per second{=kbps}"
+    },
+    {
+        "千位元組": "kilobyte{=kB}"
+    },
+    {
+        "背包問題": "knapsack problem"
+    },
+    {
+        "1 階 / 2 階 / 3 階快取記憶體": "L1/L2/L3 cache memory"
+    },
+    {
+        "大型積體電路": "large scale integrated circuit{=LSI}"
+    },
+    {
+        "賴利佩吉": "Larry Page"
+    },
+    {
+        "雷射列印機": "laser printer"
+    },
+    {
+        "後進先出": "last in, first out{=LIFO}"
+    },
+    {
+        "橫向思維；水平思考": "lateral thinking"
+    },
+    {
+        "液晶顯示投影機": "LCD projector"
+    },
+    {
+        "透鏡": "lens"
+    },
+    {
+        "發光二極體": "light emitting diode{=LED}"
+    },
+    {
+        "鏈路層": "link layer"
+    },
+    {
+        "鏈接配置": "linked allocation"
+    },
+    {
+        "Linux 作業系統": "Linux"
+    },
+    {
+        "液晶顯示器": "liquid crystal display{=LCD}"
+    },
+    {
+        "區域網路": "local area network{=LAN}"
+    },
+    {
+        "邏輯炸彈": "logic bomb"
+    },
+    {
+        "邏輯閘": "logic gate"
+    },
+    {
+        "邏輯區塊定址": "logical block addressing{=LBA}"
+    },
+    {
+        "邏輯錯誤": "logical error"
+    },
+    {
+        "邏輯思考": "logical thinking"
+    },
+    {
+        "登入": "login"
+    },
+    {
+        "長整數": "long integer"
+    },
+    {
+        "迴路；環；循環；環路": "loop"
+    },
+    {
+        "低階語言": "low-level language"
+    },
+    {
+        "每分鐘可列印行數": "lpm"
+    },
+    {
+        "麥金塔作業系統": "Mac OS"
+    },
+    {
+        "機器碼": "machine code"
+    },
+    {
+        "機器週期": "machine cycle"
+    },
+    {
+        "機器語言": "machine language"
+    },
+    {
+        "磁碟": "magnetic disk"
+    },
+    {
+        "主記憶體": "main memory"
+    },
+    {
+        "主機；大型電腦": "mainframe"
+    },
+    {
+        "惡意程式碼": "malicious code"
+    },
+    {
+        "惡意程式": "malware"
+    },
+    {
+        "尾數": "mantissa"
+    },
+    {
+        "光罩；遮罩；遮蔽": "mask"
+    },
+    {
+        "媒體存取控制位址": "media access control address{=MAC Address}"
+    },
+    {
+        "媒體中心電腦": "media center PC"
+    },
+    {
+        "中型積體電路": "medium scale integrated circuit{=MSI}"
+    },
+    {
+        "每秒百萬位元": "megabit per second{=Mbps}"
+    },
+    {
+        "百萬位元組": "megabyte{=MB}"
+    },
+    {
+        "記憶卡": "memory card"
+    },
+    {
+        "記憶格；儲存單元": "memory cell"
+    },
+    {
+        "記憶體階層": "memory hierarchy"
+    },
+    {
+        "記憶體模組": "memory module"
+    },
+    {
+        "記憶單元；記憶體單元": "memory unit{=MU}"
+    },
+    {
+        "訊息交換": "message switching"
+    },
+    {
+        "都會網路；都會區域網路": "metropolitan area network{=MAN}"
+    },
+    {
+        "微型部落格；微網誌": "microblogging"
+    },
+    {
+        "微電腦；微計算機": "microcomputer"
+    },
+    {
+        "微控器": "microcontroller"
+    },
+    {
+        "麥克風；話筒；微音器": "microphone"
+    },
+    {
+        "微處理器；微處理機": "microprocessor"
+    },
+    {
+        "微軟；微軟公司": "Microsoft"
+    },
+    {
+        "微波": "microwave"
+    },
+    {
+        "每秒百萬次浮點運算": "millions floating-point per second{=MFLOPS}"
+    },
+    {
+        "每秒百萬指令": "millions instruction per second{=MIPS}"
+    },
+    {
+        "輔助記憶碼；助憶符": "mnemonics"
+    },
+    {
+        "行動上網裝置；行動聯網裝置": "mobile Internet device{=MID}"
+    },
+    {
+        "行動區域網路": "mobile LAN"
+    },
+    {
+        "行動學習": "mobile learning"
+    },
+    {
+        "行動網路；移動式網路": "mobile network"
+    },
+    {
+        "數據機": "modem"
+    },
+    {
+        "模組；程序塊": "module"
+    },
+    {
+        "顯示器；監視器；監視程式；監督": "monitor"
+    },
+    {
+        "摩爾定律": "Moore's Law"
+    },
+    {
+        "主機板；母板": "motherboard"
+    },
+    {
+        "滑鼠；游標控制器；鼠標器": "mouse"
+    },
+    {
+        "MPEG（動態影音壓縮）標準第 1 版": "Moving Picture Experts Group 1{=MPEG1}"
+    },
+    {
+        "MPEG（動態影音壓縮）標準第 2 版": "Moving Picture Experts Group 2{=MPEG2}"
+    },
+    {
+        "MPEG（動態影音壓縮）標準第 3 版": "Moving Picture Experts Group 3{=MPEG3}"
+    },
+    {
+        "MPEG（動態影音壓縮）標準第 4 版": "Moving Picture Experts Group 4{=MPEG4}"
+    },
+    {
+        "MPEG（動態影像壓縮）標準；動態影像專家群": "Moving Picture Experts Group{=MPEG}"
+    },
+    {
+        "MPEG 音訊第 3 層": "MPEG Audio Layer-3{=MP3}"
+    },
+    {
+        "動態圖像第 4 代": "MPEG-4 Part 14{=MP4}"
+    },
+    {
+        "群播位址": "multicast addresses"
+    },
+    {
+        "多媒體": "multimedia"
+    },
+    {
+        "複合型病毒": "multi-partite virus"
+    },
+    {
+        "多點觸控": "multi-touch"
+    },
+    {
+        "N型金屬氧化半導體；N型金氧半導體": "N type metal oxide semiconductor{=NMOS}"
+    },
+    {
+        "N 型半導體": "N type semiconductor"
+    },
+    {
+        "奈米": "nanometer{=nm}"
+    },
+    {
+        "奈秒": "nanosecond{=ns}"
+    },
+    {
+        "美國國家科學基金會": "National Science Foundation{=NSF}"
+    },
+    {
+        "（美國）國家電視系統委員會；NTSC 電視訊號標準": "National Television Systems Committee{=NTSC}"
+    },
+    {
+        "自然語言": "natural language"
+    },
+    {
+        "巢狀結構；巢套結構": "nested structure"
+    },
+    {
+        "網路位址": "net ID"
+    },
+    {
+        "隨身型易網機；輕省筆電": "netbook"
+    },
+    {
+        "桌上型易網機": "nettop"
+    },
+    {
+        "網路": "network"
+    },
+    {
+        "網路位址": "network address"
+    },
+    {
+        "網路位址轉譯": "network address translation{=NAT}"
+    },
+    {
+        "網路卡": "network card"
+    },
+    {
+        "網路社群": "network community"
+    },
+    {
+        "網路 ID": "network ID"
+    },
+    {
+        "網路資訊中心": "Network Information Center{=NIC}"
+    },
+    {
+        "網路介面卡；網卡": "network interface card{=NIC}"
+    },
+    {
+        "網路層": "network layer"
+    },
+    {
+        "網路作業系統": "network operating system{=NOS}"
+    },
+    {
+        "禁止改作": "no derivative"
+    },
+    {
+        "節點": "node"
+    },
+    {
+        "非商業性": "noncommercial"
+    },
+    {
+        "不可否認性": "non-repudiation"
+    },
+    {
+        "非揮發性記憶體；非依電性記憶體；非易失性記憶體": "nonvolatile memory"
+    },
+    {
+        "非；反": "NOT"
+    },
+    {
+        "反閘": "NOT gate"
+    },
+    {
+        "數字系統；記數系統": "number system"
+    },
+    {
+        "數值資料": "numeric date"
+    },
+    {
+        "物件導向程式設計": "object oriented programming{=OOP}"
+    },
+    {
+        "物件導向教育程式語言": "object-oriented educational programming language"
+    },
+    {
+        "八進位數字系統；八進數系統": "octal number system"
+    },
+    {
+        "辦公室自動化": "office automation{=OA}"
+    },
+    {
+        "廉價電腦": "One Laptop Per Child{=OLPC}"
+    },
+    {
+        "線上遊戲": "online game"
+    },
+    {
+        "運算碼；作業碼": "opcode"
+    },
+    {
+        "開放文件格式": "open document format{=ODF}"
+    },
+    {
+        "開放原始碼；開放原碼": "open source"
+    },
+    {
+        "開放原始碼促進會": "open source initiative{=OSI}"
+    },
+    {
+        "開放系統互連": "open system interconnection {=OSI}"
+    },
+    {
+        "運算元": "operand"
+    },
+    {
+        "作業系統": "operating system{=OS}"
+    },
+    {
+        "感光字元辨識；光學字元辨識": "optical character recognition{=OCR}"
+    },
+    {
+        "光碟": "optical disk"
+    },
+    {
+        "光纖": "optical fiber"
+    },
+    {
+        "或": "OR"
+    },
+    {
+        "或閘": "OR gate"
+    },
+    {
+        "有機發光二極體": "organic light emitting diode{=OLED}"
+    },
+    {
+        "有機感光鼓": "organic photo-conductor drum"
+    },
+    {
+        "輸出": "output"
+    },
+    {
+        "輸出單元；輸出裝置": "output Unit{=OU}"
+    },
+    {
+        "P型金屬氧化半導體；P型金氧半導體": "P type metal oxide semiconductor{=PMOS}"
+    },
+    {
+        "P 型半導體": "P type semiconductor"
+    },
+    {
+        "封包": "packet"
+    },
+    {
+        "分封交換；封包交換": "packet switching"
+    },
+    {
+        "網頁排序；佩奇排名": "page rank"
+    },
+    {
+        "每分鐘列印頁數": "pages per minute{=ppm}"
+    },
+    {
+        "分頁": "paging"
+    },
+    {
+        "Palm 作業系統": "Palm OS"
+    },
+    {
+        "平行埠": "parallel port"
+    },
+    {
+        "平行處理": "parallel processing"
+    },
+    {
+        "上代；親節點": "parent"
+    },
+    {
+        "分區；分割": "partition"
+    },
+    {
+        "巴斯卡；PASCAL 語言": "Pascal"
+    },
+    {
+        "巴斯卡加法器；Pascaline 加法器": "Pascaline"
+    },
+    {
+        "路徑名": "path name"
+    },
+    {
+        "快速周邊組件互連": "PCI Express{=PCI-E}"
+    },
+    {
+        "同級間；同儕間": "peer to peer{=P2P}"
+    },
+    {
+        "同級間網路；同儕間網路；對等式網路": "peer-to-peer network"
+    },
+    {
+        "周邊組件互連": "peripheral component interconnect{=PCI}"
+    },
+    {
+        "週邊裝置": "peripheral device"
+    },
+    {
+        "視覺暫留": "persistence of vision"
+    },
+    {
+        "個人電腦": "personal computer"
+    },
+    {
+        "個人電腦介面": "personal computer interface{=PCI}"
+    },
+    {
+        "個人數位助理": "personal digital assistant{=PDA}"
+    },
+    {
+        "PHP 腳本語言；個人網頁": "personal home page{=PHP}"
+    },
+    {
+        "拍位元組；千兆位元組": "petabyte{=PB}"
+    },
+    {
+        "網路釣魚": "phishing"
+    },
+    {
+        "PHP 超文字前處理器": "PHP Hypertext Preprocessor{=PHP}"
+    },
+    {
+        "實體層": "physical layer"
+    },
+    {
+        "像素": "pixel"
+    },
+    {
+        "每英寸像素": "pixels per inch{=ppi}"
+    },
+    {
+        "明文": "plaintext"
+    },
+    {
+        "電漿顯示器": "plasma display panel{=PDP}"
+    },
+    {
+        "網際網路內容選擇平台": "platform for Internet content selection{=PICS}"
+    },
+    {
+        "磁盤": "platter"
+    },
+    {
+        "隨插即用": "plug and play{=PnP}"
+    },
+    {
+        "銷售點；銷售點系統": "point of sale{=POS}"
+    },
+    {
+        "輪詢": "polling"
+    },
+    {
+        "多形": "polymorphism"
+    },
+    {
+        "彈出": "pop"
+    },
+    {
+        "通訊埠；連接埠": "port"
+    },
+    {
+        "埠位址": "port address"
+    },
+    {
+        "埠號": "port number"
+    },
+    {
+        "可攜式應用軟體": "portable application"
+    },
+    {
+        "PNG 標準；可攜網路圖像": "portable network graphic{=PNG}"
+    },
+    {
+        "郵件協定": "post office protocol{=POP}"
+    },
+    {
+        "表示層": "presentation layer"
+    },
+    {
+        "質數；素數": "prime number"
+    },
+    {
+        "印刷電路": "printed circuit"
+    },
+    {
+        "印表機": "printer"
+    },
+    {
+        "隱私；隱私權": "privacy"
+    },
+    {
+        "隱私權、準確性、所有權、可及性": "privacy, accuracy, property, accessibility{=PAPA}"
+    },
+    {
+        "私密金鑰；私鑰": "private key"
+    },
+    {
+        "程序式語言": "procedural language"
+    },
+    {
+        "過程；程序": "process"
+    },
+    {
+        "可程式積木": "programmable brick"
+    },
+    {
+        "可程式唯讀記憶體": "programmable ROM{=PROM}"
+    },
+    {
+        "程式設計": "programming"
+    },
+    {
+        "程式語言": "programming language"
+    },
+    {
+        "性質；財產": "property"
+    },
+    {
+        "代理伺服器": "proxy server"
+    },
+    {
+        "虛擬程式碼；擬程式碼；偽程式碼": "pseudo code"
+    },
+    {
+        "公用軟體；公益軟體；公共領域軟體": "public domain software"
+    },
+    {
+        "公開金鑰；公鑰": "public key"
+    },
+    {
+        "公開金鑰基礎建設": "public key infrastructure{=PKI}"
+    },
+    {
+        "公共授權條款": "public licence"
+    },
+    {
+        "公眾交換電話網路": "public switched telephone network{=PSTN}"
+    },
+    {
+        "脈碼調變；脈波碼調變": "pulse-code modulation{=PCM}"
+    },
+    {
+        "推入": "push"
+    },
+    {
+        "行動條碼": "QR Code"
+    },
+    {
+        "量化": "quantization"
+    },
+    {
+        "量化": "quantize"
+    },
+    {
+        "量子位元": "quantum bit{=qubit}"
+    },
+    {
+        "量子電腦": "quantum computer"
+    },
+    {
+        "佇列": "queue"
+    },
+    {
+        "無線電": "radio"
+    },
+    {
+        "無線射頻辨識系統": "radio frequency identification{=RFID}"
+    },
+    {
+        "無線電波": "radio waves"
+    },
+    {
+        "記憶體模組": "RAM module"
+    },
+    {
+        "隨機存取記憶體": "random access memory{=RAM}"
+    },
+    {
+        "湯林森（E-mail 程式發明者）": "Ray Tomlinson"
+    },
+    {
+        "唯讀記憶體": "read only memory{=ROM}"
+    },
+    {
+        "末端": "rear"
+    },
+    {
+        "美國休閒軟體協會網站分級標準": "Recreational Software Advisory Council for Internet{=RSACi}"
+    },
+    {
+        "精簡指令集電腦": "reduced instruction set computer{=RISC}"
+    },
+    {
+        "暫存器": "register"
+    },
+    {
+        "關連式模型": "relational model"
+    },
+    {
+        "相對路徑": "relative path"
+    },
+    {
+        "關聯性": "relevance"
+    },
+    {
+        "中繼器": "repeater"
+    },
+    {
+        "重複結構": "repetition structure"
+    },
+    {
+        "重複性勞損；勞肌損傷": "repetitive strain injury{=RSI}"
+    },
+    {
+        "研發": "research and developmemt{=R&D}"
+    },
+    {
+        "保留字": "reserved words"
+    },
+    {
+        "解析度": "resolution"
+    },
+    {
+        "危害性物質限制指令": "restriction of hazardous substances{=RoHS}"
+    },
+    {
+        "每分鐘旋轉數": "revolutions per minute{=RPM}"
+    },
+    {
+        "光學三原色模式": "RGB color mode"
+    },
+    {
+        "機器人": "robot"
+    },
+    {
+        "根": "root"
+    },
+    {
+        "旋轉時間": "rotation time"
+    },
+    {
+        "路由器": "router"
+    },
+    {
+        "路由；選路": "routing"
+    },
+    {
+        "路由表；選路表": "routing table"
+    },
+    {
+        "執行期錯誤": "runtime error"
+    },
+    {
+        "取樣；樣本": "sample"
+    },
+    {
+        "取樣；抽樣": "sampling"
+    },
+    {
+        "抽樣率": "sampling rate"
+    },
+    {
+        "取樣量": "sampling size"
+    },
+    {
+        "即時電視新聞": "satellite news gathering{=SNG}"
+    },
+    {
+        "掃描碼": "scan code"
+    },
+    {
+        "掃描器": "scanner"
+    },
+    {
+        "Scratch 程式語言": "Scratch"
+    },
+    {
+        "螢幕放大鏡": "screen magnifier"
+    },
+    {
+        "描述檔；腳本；指令檔": "script"
+    },
+    {
+        "描述語言；腳本語言；指令語言": "script language"
+    },
+    {
+        "搜尋引擎": "search engine"
+    },
+    {
+        "輔助記憶體": "secondary memory"
+    },
+    {
+        "磁區": "sector"
+    },
+    {
+        "安全接套層；安全資料傳輸層": "secure sockets layer{=SSL}"
+    },
+    {
+        "找尋時間；搜尋時間": "seek time"
+    },
+    {
+        "選擇": "selection"
+    },
+    {
+        "選擇結構": "selection structure"
+    },
+    {
+        "語意錯誤": "semantic error"
+    },
+    {
+        "感測器；感應器": "sensor"
+    },
+    {
+        "感測網路；感知網路": "sensor network"
+    },
+    {
+        "感測節點": "sensor node"
+    },
+    {
+        "循序；序列；順序": "sequence"
+    },
+    {
+        "循序結構": "sequence structure"
+    },
+    {
+        "循序搜尋": "sequential search"
+    },
+    {
+        "謝爾蓋布靈": "Sergey Brin"
+    },
+    {
+        "串列進階技術附接；序列先進技術附接": "serial advanced technology attachment{=SATA}"
+    },
+    {
+        "串列匯流排": "serial bus"
+    },
+    {
+        "串列埠；序列埠": "serial port"
+    },
+    {
+        "伺服器": "server"
+    },
+    {
+        "伺服器": "server"
+    },
+    {
+        "軟體服務包；軟體服務套件": "service pack"
+    },
+    {
+        "會議層": "session layer"
+    },
+    {
+        "禁止改作；相同方式分享": "share alike"
+    },
+    {
+        "共享軟體；共用軟體": "shareware"
+    },
+    {
+        "外殼；外殼程式": "shell"
+    },
+    {
+        "遮蔽式雙絞線": "shielded twisted pair{=STP}"
+    },
+    {
+        "簡易郵件傳輸協定": "simple mail transmission protocol{=SMTP}"
+    },
+    {
+        "單一入口/單一出口": "single-entry/single-exit"
+    },
+    {
+        "單精準度浮點數": "single-precision floating-point"
+    },
+    {
+        "小型辦公室/家庭辦公室；個人及居家辦公室": "small office/home office{=SOHO}"
+    },
+    {
+        "小型積體電路": "small scale integrated circuit{=SSI}"
+    },
+    {
+        "智慧卡": "smart card"
+    },
+    {
+        "智慧電網": "smart grid"
+    },
+    {
+        "竊聽者": "sniffer"
+    },
+    {
+        "社交工程": "social engineering"
+    },
+    {
+        "軟體": "software"
+    },
+    {
+        "軟體工程": "software engineering"
+    },
+    {
+        "固態硬碟；固態磁碟": "solid state disk{=SSD}"
+    },
+    {
+        "垃圾郵件": "spam"
+    },
+    {
+        "揚聲器；喇叭": "speaker"
+    },
+    {
+        "輸入規範": "specifications of input"
+    },
+    {
+        "輸出規範": "specifications of output"
+    },
+    {
+        "間諜軟體": "spyware"
+    },
+    {
+        "SQL 注入": "SQL injection"
+    },
+    {
+        "堆疊": "stack"
+    },
+    {
+        "靜態隨機存取記憶體": "static random access memory{=SRAM}"
+    },
+    {
+        "存轉交換": "store and forward switching"
+    },
+    {
+        "內儲程式": "stored program"
+    },
+    {
+        "結構化程式設計": "structured programming"
+    },
+    {
+        "子網路": "subnet"
+    },
+    {
+        "子網路遮罩": "subnet mask"
+    },
+    {
+        "副程式呼叫": "subroutine calls"
+    },
+    {
+        "超級電腦": "supercomputer"
+    },
+    {
+        "磁面": "surface side"
+    },
+    {
+        "交換器；開關；交換": "switch"
+    },
+    {
+        "交換式集線器": "switching hub"
+    },
+    {
+        "Symbian 作業系統": "symbian"
+    },
+    {
+        "語法錯誤": "syntax error"
+    },
+    {
+        "系統軟體": "system software"
+    },
+    {
+        "360 系統": "System/360"
+    },
+    {
+        "帶標影像檔案格式": "tagged image file format{=TIFF}"
+    },
+    {
+        "標記": "tags"
+    },
+    {
+        "尾端；尾": "tail"
+    },
+    {
+        "臺灣學術網路": "Taiwan Academic Network{=TANet}"
+    },
+    {
+        "臺灣網站內容分級系統": "Taiwan Internet Contnet Rating Promotion Foundation{=TICRF}"
+    },
+    {
+        "臺灣網路資訊中心": "Taiwan Network Information Center{=TWNIC}"
+    },
+    {
+        "工作列": "taskbar"
+    },
+    {
+        "遠距醫療": "telemedicine"
+    },
+    {
+        "遠端登入協定": "TELNET"
+    },
+    {
+        "電腦倫理的十戒": "ten commandments of computer ethics"
+    },
+    {
+        "兆位元組": "terabyte{=TB}"
+    },
+    {
+        "終端機": "terminal"
+    },
+    {
+        "終接器": "terminator"
+    },
+    {
+        "測試資料": "test data"
+    },
+    {
+        "文字；正文；本文": "text"
+    },
+    {
+        "文字模式": "text mode"
+    },
+    {
+        "計算理論": "theory of computation"
+    },
+    {
+        "薄膜電晶體": "thin film transistor{=TFT}"
+    },
+    {
+        "第三代行動通訊": "third generation{=3G}"
+    },
+    {
+        "執行緒": "threads"
+    },
+    {
+        "分時作業系統": "time-sharing system"
+    },
+    {
+        "柏納-李（全球資訊網發明者）": "Timothy Berners-Lee"
+    },
+    {
+        "頂端；頂": "top"
+    },
+    {
+        "由上而下": "top down"
+    },
+    {
+        "觸控板": "touch pad"
+    },
+    {
+        "觸控螢幕": "touch screen"
+    },
+    {
+        "磁軌": "track"
+    },
+    {
+        "轉移時間": "transfer time"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "TRADIC 電腦名": "TRansistorized Airborne DIgital Computer{=TRADIC}"
+    },
+    {
+        "傳輸控制協定/網際網路協定": "transmission control protocol/Internet protocol{=TCP/IP}"
+    },
+    {
+        "傳輸控制協定": "transmission control protocol{=TCP}"
+    },
+    {
+        "傳輸層": "transport layer"
+    },
+    {
+        "樹狀；樹狀結構": "tree"
+    },
+    {
+        "木馬程式": "Trojan"
+    },
+    {
+        "代理木馬": "Trojan agent"
+    },
+    {
+        "特洛伊木馬程式；特洛依木馬": "Trojan horse"
+    },
+    {
+        "杜林": "Turing"
+    },
+    {
+        "杜林獎": "Turing award"
+    },
+    {
+        "杜林機": "Turing machine"
+    },
+    {
+        "杜林測試": "Turing test"
+    },
+    {
+        "雙絞線": "twisted pair"
+    },
+    {
+        "極超大型積體電路": "ultra large scale integrated circuit{=ULSI}"
+    },
+    {
+        "萬國碼": "unicode"
+    },
+    {
+        "全球資源定址器；全球資源定位器": "uniform resource locator{=URL}"
+    },
+    {
+        "通用序列匯流排；通用串列匯流排": "universal serial bus{=USB}"
+    },
+    {
+        "UNIX 作業系統": "UNIX"
+    },
+    {
+        "類 Unix": "Unix-like"
+    },
+    {
+        "未遮蔽雙絞線": "unshielded twisted pair{=UTP}"
+    },
+    {
+        "上傳；上載": "upload"
+    },
+    {
+        "用戶；使用者": "user"
+    },
+    {
+        "使用者資料包協定": "user datagram protocol{=UDP}"
+    },
+    {
+        "使用者親和性；使用者友善性": "user friendly"
+    },
+    {
+        "使用者介面；用戶介面": "user interface{=UI}"
+    },
+    {
+        "UTF-8 編碼": "UTF-8{=8-bit Unicode Transformation Format}"
+    },
+    {
+        "公用程式；工具程式": "utility program"
+    },
+    {
+        "公用軟體；工具軟體": "utility software"
+    },
+    {
+        "真空管": "vacuum tube"
+    },
+    {
+        "加值網路": "value added network{=VAN}"
+    },
+    {
+        "變數": "variable"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "向量圖": "vector diagram"
+    },
+    {
+        "向量影像": "vector image"
+    },
+    {
+        "垂直應用軟體": "vertical application"
+    },
+    {
+        "垂直思考": "vertical thinking"
+    },
+    {
+        "超大型積體電路": "very large scale integrated circuit{=VLSI}"
+    },
+    {
+        "視訊；影音；影片；動態影像；視頻": "video"
+    },
+    {
+        "視訊會議": "video conference"
+    },
+    {
+        "隨選視訊": "video on demand{=VOD}"
+    },
+    {
+        "瑟夫（網際網路創始人）": "vinton cerf"
+    },
+    {
+        "虛擬鍵盤": "virtual keyboard"
+    },
+    {
+        "虛擬記憶體": "virtual memory"
+    },
+    {
+        "虛擬私有網路；虛擬專用網路": "virtual private network{=VPN}"
+    },
+    {
+        "虛擬實境": "virtual reality{=VR}"
+    },
+    {
+        "電腦病毒": "virus"
+    },
+    {
+        "視覺化程式語言": "visual programming language"
+    },
+    {
+        "網路電話；網際網路協定上的語音": "Voice over Internet Protocol{=VoIP}"
+    },
+    {
+        "揮發性記憶體": "volatile memory"
+    },
+    {
+        "范紐曼": "von Neumann"
+    },
+    {
+        "范紐曼架構": "von Neumann architecture"
+    },
+    {
+        "范紐曼模型": "von Neumann model"
+    },
+    {
+        "晶圓": "wafer"
+    },
+    {
+        "隨身電腦": "wearable computer"
+    },
+    {
+        "網路攝影機；Web 攝影機": "web camera{=WebCam}"
+    },
+    {
+        "網頁蜘蛛": "web crawler"
+    },
+    {
+        "網路電子信箱": "web mail"
+    },
+    {
+        "網頁": "web page"
+    },
+    {
+        "網站": "web site"
+    },
+    {
+        "第二代全球資訊網": "web2.0"
+    },
+    {
+        "第三代全球資訊網": "web3.0"
+    },
+    {
+        "權重；權數；重量；加權；砝碼；權（衡）": "weight"
+    },
+    {
+        "所見即所得": "What You See Is What You Get{=WYSIWYG}"
+    },
+    {
+        "廣域網路": "wide area network{=WAN}"
+    },
+    {
+        "維基；共筆（一種可在網路上開放多人協同創作的超文本系統）": "Wiki"
+    },
+    {
+        "維基百科全書；維基百科": "Wikipedia"
+    },
+    {
+        "視窗": "window"
+    },
+    {
+        "視窗媒體音訊": "windows media audio{=WMA}"
+    },
+    {
+        "無線": "wireless"
+    },
+    {
+        "無線應用通訊協定；無線應用協定": "wireless application protocol{=WAP}"
+    },
+    {
+        "無線資料收集器": "wireless data collector"
+    },
+    {
+        "無線乙太網相容聯盟；無線乙太網路相容性聯盟": "wireless ethernet compatibility alliance{=WECA}"
+    },
+    {
+        "無線相容性；無線保真度": "wireless fidelity{=Wi-Fi}"
+    },
+    {
+        "無線鍵盤": "wireless keyboard"
+    },
+    {
+        "無線區域網路": "wireless LAN{=WLAN}"
+    },
+    {
+        "無線區域網路": "wireless local area network{=WLAN}"
+    },
+    {
+        "無線都會網路": "wireless metorpolitan area network{=WMAN}"
+    },
+    {
+        "無線網路": "wireless network"
+    },
+    {
+        "無線網路": "wireless personal area network{=WPAN}"
+    },
+    {
+        "無線感測網路": "wireless sensor network{=WSN}"
+    },
+    {
+        "字組": "word"
+    },
+    {
+        "全球微波存取互通": "Woridwide Interoperability for Microwave Access{=WiMAX}"
+    },
+    {
+        "工作群組": "workgroups"
+    },
+    {
+        "工作站": "workstation"
+    },
+    {
+        "全球資訊網聯盟": "World Wide Web Consortium{=W3C}"
+    },
+    {
+        "全球資訊網": "World Wide Web{=WWW}"
+    },
+    {
+        "網路蠕蟲；電腦蠕蟲": "worm"
+    },
+    {
+        "零時差攻擊": "zero-day attack"
+    },
+    {
+        "皆位元組": "zettabyte{=ZB}"
+    },
+    {
+        "殭屍電腦": "zombie computer"
+    }
+]

@@ -1,0 +1,2144 @@
+[
+    {
+        "絕對星等": "absolute magnitude"
+    },
+    {
+        "吸收；吸附": "absorption"
+    },
+    {
+        "吸收[譜]線": "absorption line"
+    },
+    {
+        "吸收[光]譜": "absorption spectrum"
+    },
+    {
+        "深海平原；深淵底平原": "abyssal plain"
+    },
+    {
+        "加速計；加速度計": "accelerometer"
+    },
+    {
+        "酸雨": "acid rain"
+    },
+    {
+        "活[動]斷層": "active fault"
+    },
+    {
+        "氣膠；氣懸膠": "aerosol"
+    },
+    {
+        "氣膠粒子；氣懸膠粒子": "aerosol particle"
+    },
+    {
+        "氣界；氣圈": "aerosphere"
+    },
+    {
+        "氣團；大氣質量{天文}": "air mass"
+    },
+    {
+        "空氣汙染": "air pollution"
+    },
+    {
+        "氣壓": "air pressure"
+    },
+    {
+        "機載光達；空載光達": "airborne LiDAR"
+    },
+    {
+        "氣流": "airflow"
+    },
+    {
+        "氣海交互作用": "air-sea interaction"
+    },
+    {
+        "反照率": "albedo"
+    },
+    {
+        "藻華": "algal bloom"
+    },
+    {
+        "[地平]經緯儀": "altazimuth"
+    },
+    {
+        "胺基酸": "amino acid"
+    },
+    {
+        "菊石": "ammonite"
+    },
+    {
+        "安山岩": "andesite"
+    },
+    {
+        "仙女座星系": "Andromeda galaxy"
+    },
+    {
+        "角解析度；角分辨率": "angular resolution"
+    },
+    {
+        "異常；距平；近點角": "anomaly"
+    },
+    {
+        "南極板塊": "Antarctic Plate"
+    },
+    {
+        "背斜": "anticline"
+    },
+    {
+        "反氣旋": "anticyclone"
+    },
+    {
+        "反[氣]旋式環流": "anticyclonic circulation"
+    },
+    {
+        "遠日點": "aphelion"
+    },
+    {
+        "視亮度": "apparent brightness"
+    },
+    {
+        "視星等": "apparent magnitude"
+    },
+    {
+        "水氣": "aqueous vapor"
+    },
+    {
+        "阿拉伯板塊": "Arabian Plate"
+    },
+    {
+        "太古代；始生代": "Archean Era"
+    },
+    {
+        "人造雨": "artificial rain"
+    },
+    {
+        "小行星": "asteroid"
+    },
+    {
+        "小行星帶": "asteroid belt"
+    },
+    {
+        "軟流圈": "asthenosphere"
+    },
+    {
+        "天文學": "astronomy"
+    },
+    {
+        "大氣；[大]氣圈；大氣壓": "atmosphere"
+    },
+    {
+        "大氣環流": "atmospheric circulation"
+    },
+    {
+        "氣壓；大氣壓力": "atmospheric pressure"
+    },
+    {
+        "大氣科學": "atmospheric sciences"
+    },
+    {
+        "大氣窗[口]": "atmospheric window"
+    },
+    {
+        "原子": "atom"
+    },
+    {
+        "原子核": "atomic nucleus"
+    },
+    {
+        "極光": "aurora"
+    },
+    {
+        "秋分；秋分點": "autumnal equinox"
+    },
+    {
+        "方位角；地平經度": "azimuth"
+    },
+    {
+        "帶狀鐵礦床；縞狀鐵礦床": "Banded Iron Formation (BIF)"
+    },
+    {
+        "棒旋星系": "barred spiral"
+    },
+    {
+        "玄武岩": "basalt"
+    },
+    {
+        "[海]灘": "beach"
+    },
+    {
+        "二進制；雙星{天文}": "binary"
+    },
+    {
+        "雙筒望遠鏡": "binoculars"
+    },
+    {
+        "生物圈": "biosphere"
+    },
+    {
+        "黑洞": "black hole"
+    },
+    {
+        "碎浪；破浪": "breaker"
+    },
+    {
+        "亮度": "brightness"
+    },
+    {
+        "[星系]核球；[吸積盤]突起；熔岩瘤": "bulge"
+    },
+    {
+        "碳酸鈣": "calcium carbonate"
+    },
+    {
+        "寒武紀；寒武系": "Cambrian"
+    },
+    {
+        "寒武紀[生物種]大爆發": "Cambrian Explosion"
+    },
+    {
+        "岬；岬角": "cape"
+    },
+    {
+        "碳": "carbon"
+    },
+    {
+        "碳循環": "carbon cycle"
+    },
+    {
+        "除碳過程": "carbon removal processes"
+    },
+    {
+        "石炭紀；石炭系": "Carboniferous"
+    },
+    {
+        "加勒比板塊": "Caribbean Plate"
+    },
+    {
+        "卡塞格林[式]望遠鏡": "Cassegrain telescope"
+    },
+    {
+        "星表": "catalogue"
+    },
+    {
+        "天球坐標": "celestial coordinates"
+    },
+    {
+        "天球赤道": "celestial equator"
+    },
+    {
+        "天極": "celestial pole"
+    },
+    {
+        "新生代；新生界": "Cenozoic"
+    },
+    {
+        "穀神星；1號小行星": "Ceres"
+    },
+    {
+        "地球號{日本鑽井船}": "Chikyu"
+    },
+    {
+        "氟氯碳化物": "chlorofluorocarbons (CFCs)"
+    },
+    {
+        "環太平洋地震帶": "circum-Pacific earthquake zone"
+    },
+    {
+        "拱極星": "circumpolar star"
+    },
+    {
+        "氣候": "climate"
+    },
+    {
+        "氣候變遷": "climate change"
+    },
+    {
+        "順鐘向；順時鐘方向": "clockwise"
+    },
+    {
+        "雲": "cloud"
+    },
+    {
+        "雲頂溫度": "cloud top temperature"
+    },
+    {
+        "簇；群落；星團": "cluster"
+    },
+    {
+        "星系團": "cluster of galaxies"
+    },
+    {
+        "煤": "coal"
+    },
+    {
+        "海岸階地": "coast terrace"
+    },
+    {
+        "沿岸流；近岸流": "coastal current"
+    },
+    {
+        "球石藻；鈣板藻": "coccolithophoirds"
+    },
+    {
+        "科克斯板塊": "Cocos Plate"
+    },
+    {
+        "冷氣團": "cold air mass"
+    },
+    {
+        "冷雲": "cold cloud"
+    },
+    {
+        "冷流": "cold current"
+    },
+    {
+        "冷鋒": "cold front"
+    },
+    {
+        "寒潮": "cold surge"
+    },
+    {
+        "碰撞": "collision"
+    },
+    {
+        "顏色": "color"
+    },
+    {
+        "彗星": "comet"
+    },
+    {
+        "補償深度": "compensation depth"
+    },
+    {
+        "凝結；凝聚": "condensation"
+    },
+    {
+        "凝結核": "condensation nucleus"
+    },
+    {
+        "凝結尾": "condensation trail"
+    },
+    {
+        "傳導": "conduction"
+    },
+    {
+        "礫岩": "conglomerate"
+    },
+    {
+        "星座": "constellation"
+    },
+    {
+        "大陸冷高壓": "continental cold high"
+    },
+    {
+        "大陸地殼": "continental crust"
+    },
+    {
+        "大陸漂移": "continental drift"
+    },
+    {
+        "大陸邊緣": "continental margin"
+    },
+    {
+        "大陸隆起": "continental rise"
+    },
+    {
+        "[大]陸棚；[大]陸架": "continental shelf"
+    },
+    {
+        "大陸斜坡；陸坡": "continental slope"
+    },
+    {
+        "對流": "convection"
+    },
+    {
+        "對流雲": "convective cloud"
+    },
+    {
+        "輻合；聚合": "convergence"
+    },
+    {
+        "聚合型板塊邊界": "convergent plate boundary"
+    },
+    {
+        "冷卻": "cooling"
+    },
+    {
+        "珊瑚；珊瑚蟲": "coral"
+    },
+    {
+        "地核；地心；岩芯；岩心；核心": "core"
+    },
+    {
+        "柯氏[力]效應": "Coriolis effect"
+    },
+    {
+        "柯氏力": "Coriolis force"
+    },
+    {
+        "華{大氣}；[日]冕{天文}；電暈": "corona"
+    },
+    {
+        "宇宙射線；宇宙線": "cosmic ray"
+    },
+    {
+        "反鐘向；反時鐘方向": "counterclockwise"
+    },
+    {
+        "[隕石]坑洞；火山口；環形山": "crater"
+    },
+    {
+        "白堊紀；白堊系": "Cretaceous"
+    },
+    {
+        "地殼；殼": "crust"
+    },
+    {
+        "隱生元；隱生宙": "Cryptozoic Eon"
+    },
+    {
+        "積雲": "cumulus"
+    },
+    {
+        "流；海流；電流{大氣}": "current"
+    },
+    {
+        "藍菌；藍綠菌；藍綠藻": "cyanobacteria"
+    },
+    {
+        "氣旋": "cyclone"
+    },
+    {
+        "氣旋式環流；氣旋環流": "cyclonic circulation"
+    },
+    {
+        "犬頭龍": "cynognathus"
+    },
+    {
+        "子元素": "daughter element"
+    },
+    {
+        "岩屑流；碎屑流；泥石流；土石流": "debris flow"
+    },
+    {
+        "偏角；磁偏角；赤緯": "declination (Dec.)"
+    },
+    {
+        "赤緯軸": "declination axis"
+    },
+    {
+        "深水層": "deep layer"
+    },
+    {
+        "除氣作用": "degassing"
+    },
+    {
+        "度": "degree"
+    },
+    {
+        "密度": "density"
+    },
+    {
+        "密度流": "density current"
+    },
+    {
+        "沉積物；堆積；礦床": "deposit"
+    },
+    {
+        "沉積作用；堆積作用": "deposition"
+    },
+    {
+        "泥盆紀；泥盆系": "Devonian"
+    },
+    {
+        "露": "dew"
+    },
+    {
+        "露點": "dew point"
+    },
+    {
+        "擴散；漫射{大氣}": "diffusion"
+    },
+    {
+        "順向坡；傾向坡": "dip slope"
+    },
+    {
+        "距離": "distance"
+    },
+    {
+        "周日運動": "diurnal motion"
+    },
+    {
+        "全日潮": "diurnal tide"
+    },
+    {
+        "輻散；散度{大氣}": "divergence"
+    },
+    {
+        "張裂型板塊邊界": "divergent plate boundary"
+    },
+    {
+        "流域；排水集水區": "drainage area"
+    },
+    {
+        "乾旱": "drought"
+    },
+    {
+        "乾冰": "dry ice"
+    },
+    {
+        "土": "earth"
+    },
+    {
+        "地球": "Earth"
+    },
+    {
+        "地球磁層": "earth magnetosphere"
+    },
+    {
+        "地球系統": "Earth system"
+    },
+    {
+        "地震": "earthquake"
+    },
+    {
+        "震源": "earthquake focus"
+    },
+    {
+        "震度": "earthquake intensity"
+    },
+    {
+        "地震規模": "earthquake magnitude"
+    },
+    {
+        "地球磁層": "Earth's magnetosphere"
+    },
+    {
+        "退潮；落潮": "ebb tide"
+    },
+    {
+        "離心率；偏心率": "eccentricity"
+    },
+    {
+        "黃道": "ecliptic"
+    },
+    {
+        "黃道面": "ecliptic plane"
+    },
+    {
+        "聖嬰；艾尼紐": "El Niño"
+    },
+    {
+        "彈性回彈理論；彈性回跳理論": "elastic rebound theory"
+    },
+    {
+        "導電率；電導率": "electrical conductivity"
+    },
+    {
+        "電磁波": "electromagnetic (EM) waves"
+    },
+    {
+        "電子": "electron"
+    },
+    {
+        "電子槍": "electron gun"
+    },
+    {
+        "元素": "element"
+    },
+    {
+        "標高；仰角": "elevation"
+    },
+    {
+        "橢圓星系": "elliptical galaxy"
+    },
+    {
+        "發射": "emission"
+    },
+    {
+        "發射線；發射譜線": "emission line"
+    },
+    {
+        "內營力": "endogenetic force"
+    },
+    {
+        "能量": "energy"
+    },
+    {
+        "能量效率": "energy efficiency"
+    },
+    {
+        "能源": "energy source"
+    },
+    {
+        "能量傳送": "energy transport"
+    },
+    {
+        "強化紅外衛星雲圖": "enhanced infrared satellite cloud picture"
+    },
+    {
+        "始新世；始新統": "Eocene"
+    },
+    {
+        "元；宙": "eon"
+    },
+    {
+        "震央": "epicenter"
+    },
+    {
+        "世{地質時間單位}；紀；期；曆元": "epoch"
+    },
+    {
+        "赤道": "equator"
+    },
+    {
+        "赤道流；赤道洋流": "equatorial current"
+    },
+    {
+        "赤道東風；赤道東風帶": "equatorial easterlies"
+    },
+    {
+        "代{地質時間單位}；紀元；時代": "era"
+    },
+    {
+        "侵蝕": "erosion"
+    },
+    {
+        "侵蝕海岸": "erosion coast"
+    },
+    {
+        "歐亞板塊": "Eurasian Plate"
+    },
+    {
+        "蒸發；蒸發作用": "evaporation"
+    },
+    {
+        "演化": "evolution"
+    },
+    {
+        "外營力": "exogenic force"
+    },
+    {
+        "膨脹": "expansion"
+    },
+    {
+        "膨脹冷卻": "expansion cooling"
+    },
+    {
+        "外星生命": "extraterrestrial life"
+    },
+    {
+        "溫帶氣旋": "extratropical cyclone"
+    },
+    {
+        "豪雨": "extremely heavy rain"
+    },
+    {
+        "眼牆": "eye wall"
+    },
+    {
+        "指相化石 ; 示相化石": "facies fossil"
+    },
+    {
+        "斷層": "fault"
+    },
+    {
+        "焚風": "favogn"
+    },
+    {
+        "長石": "feldspar"
+    },
+    {
+        "暴洪": "flash flood"
+    },
+    {
+        "洪水": "flood"
+    },
+    {
+        "洪峰": "flood peak"
+    },
+    {
+        "氾濫平原；澇原{大氣}": "flood plain"
+    },
+    {
+        "漲潮": "flood tide"
+    },
+    {
+        "流": "flow"
+    },
+    {
+        "河流侵蝕": "fluvial erosion"
+    },
+    {
+        "焚風": "foehn"
+    },
+    {
+        "霧": "fog"
+    },
+    {
+        "褶皺；褶曲": "fold"
+    },
+    {
+        "葉理；剝理": "foliation"
+    },
+    {
+        "有孔蟲": "foraminifera"
+    },
+    {
+        "化石": "fossil"
+    },
+    {
+        "化石燃料": "fossil fuel"
+    },
+    {
+        "頻率": "frequency"
+    },
+    {
+        "摩擦力": "frictional force"
+    },
+    {
+        "鋒；鋒面": "front"
+    },
+    {
+        "鋒面": "frontal surface"
+    },
+    {
+        "霜；凍": "frost"
+    },
+    {
+        "藤原效應": "Fujiwara effect"
+    },
+    {
+        "望；滿月": "full moon"
+    },
+    {
+        "噴氣孔": "fumarole"
+    },
+    {
+        "輝長岩": "gabbro"
+    },
+    {
+        "銀[河]盤[面]；星系盤": "galactic disk"
+    },
+    {
+        "銀[河]盤[面]": "Galactic disk"
+    },
+    {
+        "銀暈": "Galactic halo"
+    },
+    {
+        "星系暈": "galactic halo"
+    },
+    {
+        "銀河系": "Galaxy"
+    },
+    {
+        "星系": "galaxy"
+    },
+    {
+        "星系團": "galaxy cluster"
+    },
+    {
+        "伽瑪射線；γ射線": "gamma ray"
+    },
+    {
+        "大氣環流": "general circulation of atmosphere"
+    },
+    {
+        "大地基準面；大地水準面": "geoid"
+    },
+    {
+        "大地基準面起伏；大地水準面起伏": "geoid undulation"
+    },
+    {
+        "地質年代表；地質時間表": "geologic time scale"
+    },
+    {
+        "地質學": "geology"
+    },
+    {
+        "地磁反轉": "geomagnetic reversal"
+    },
+    {
+        "地球物理；地球物理學": "geophysics"
+    },
+    {
+        "地圈": "geosphere"
+    },
+    {
+        "地球同步衛星": "geostationary satellite"
+    },
+    {
+        "地轉風": "geostrophic wind"
+    },
+    {
+        "地熱能": "geothermal energy"
+    },
+    {
+        "冰川": "glacier"
+    },
+    {
+        "全球變遷": "global change"
+    },
+    {
+        "全球定位系統": "Global Positioning System （GPS）"
+    },
+    {
+        "全球暖化；全球增溫{大氣}": "global warming"
+    },
+    {
+        "球狀星團": "globular cluster"
+    },
+    {
+        "舌羊齒": "glossopteris"
+    },
+    {
+        "片麻岩": "gneiss"
+    },
+    {
+        "花岡岩": "granite"
+    },
+    {
+        "萬有引力": "gravitational attraction"
+    },
+    {
+        "重力": "gravity"
+    },
+    {
+        "温室效應": "greenhouse effect"
+    },
+    {
+        "溫室氣體": "greenhouse gas"
+    },
+    {
+        "突堤效應": "groin effect"
+    },
+    {
+        "地下水": "ground water"
+    },
+    {
+        "古氏不連續面；古騰堡不連續面": "Gutenberg discontinuity"
+    },
+    {
+        "[冰]雹": "hail"
+    },
+    {
+        "半衰期": "half-life"
+    },
+    {
+        "熱能": "heat energy"
+    },
+    {
+        "熱島效應": "heat island effect"
+    },
+    {
+        "重元素": "heavy element"
+    },
+    {
+        "氦": "helium"
+    },
+    {
+        "高氣壓；高壓": "high pressure"
+    },
+    {
+        "高壓中心": "high pressure center"
+    },
+    {
+        "全新世；全新統": "Holocene"
+    },
+    {
+        "地平；水平；層位": "horizon"
+    },
+    {
+        "水平運動": "horizontal motion"
+    },
+    {
+        "主體；寄主；地壘": "host"
+    },
+    {
+        "熱點": "hot spot"
+    },
+    {
+        "哈伯太空望遠鏡": "Hubble Space Telescope (HST)"
+    },
+    {
+        "溼度": "humidity"
+    },
+    {
+        "颶風": "hurricane"
+    },
+    {
+        "氫": "hydrogen"
+    },
+    {
+        "水圈": "hydrosphere"
+    },
+    {
+        "冰河期；冰期": "ice age"
+    },
+    {
+        "冰芯": "ice core"
+    },
+    {
+        "冰晶": "ice crystals"
+    },
+    {
+        "冰原；冰層": "ice sheet"
+    },
+    {
+        "冰室氣候": "icehouse climate"
+    },
+    {
+        "火成岩": "igneous rock"
+    },
+    {
+        "指準化石；標定化石": "index fossil"
+    },
+    {
+        "印澳板塊": "Indo-Australian Plate"
+    },
+    {
+        "紅外線": "infrared"
+    },
+    {
+        "紅外雲圖": "infrared cloud imagery"
+    },
+    {
+        "紅外輻射": "infrared radiation (IR)"
+    },
+    {
+        "內[地]核": "inner core"
+    },
+    {
+        "干涉儀": "interferometer"
+    },
+    {
+        "間冰期的": "interglacial"
+    },
+    {
+        "國際天文學聯合會": "International Astronomical Union (IAU)"
+    },
+    {
+        "星際塵埃": "interstellar dust"
+    },
+    {
+        "星際氣體": "interstellar gas"
+    },
+    {
+        "星際物質": "interstellar matter"
+    },
+    {
+        "潮間帶": "intertidal zone"
+    },
+    {
+        "[間]熱帶輻合帶": "intertropical convergence zone（ITCZ）"
+    },
+    {
+        "電離；游離": "ionization"
+    },
+    {
+        "電離層": "ionosphere"
+    },
+    {
+        "不規則星系": "irregular galaxy"
+    },
+    {
+        "島弧": "island arc"
+    },
+    {
+        "等壓線": "isobar"
+    },
+    {
+        "等壓面": "isobaric surface"
+    },
+    {
+        "地殼均衡[說]": "isostasy"
+    },
+    {
+        "突堤效應": "jetty effect"
+    },
+    {
+        "節理": "joint"
+    },
+    {
+        "類木行星": "jovian planet"
+    },
+    {
+        "儒略曆": "Julian calendar"
+    },
+    {
+        "木星": "Jupiter"
+    },
+    {
+        "侏羅紀；侏羅系": "Jurassic"
+    },
+    {
+        "黑潮": "Kuroshio"
+    },
+    {
+        "京都議定書": "Kyoto protocol"
+    },
+    {
+        "反聖嬰[現象]": "La Niña"
+    },
+    {
+        "山崩；滑坡": "landslide"
+    },
+    {
+        "坍崩；地滑": "landslip"
+    },
+    {
+        "潛熱": "latent heat"
+    },
+    {
+        "緯度": "latitude"
+    },
+    {
+        "閏月": "leap month"
+    },
+    {
+        "閏年": "leap year"
+    },
+    {
+        "背風面": "leeward"
+    },
+    {
+        "左移斷層；左滑斷層": "left-lateral fault"
+    },
+    {
+        "水準測量": "leveling"
+    },
+    {
+        "擧升": "lifting"
+    },
+    {
+        "光害": "light pollution"
+    },
+    {
+        "光年": "light year"
+    },
+    {
+        "閃電": "lightning"
+    },
+    {
+        "石灰岩": "limestone"
+    },
+    {
+        "液化": "liquefaction"
+    },
+    {
+        "液態水": "liquid water"
+    },
+    {
+        "岩石圈": "lithosphere"
+    },
+    {
+        "小冰期": "Little Ice Age"
+    },
+    {
+        "本星系群": "Local Group"
+    },
+    {
+        "本星系群": "Local Group of Galaxies"
+    },
+    {
+        "本超星系團": "local supercluster"
+    },
+    {
+        "沿岸流": "longshore current"
+    },
+    {
+        "低氣壓": "low air pressure"
+    },
+    {
+        "低氣壓；低壓": "low pressure"
+    },
+    {
+        "低潮": "low tide"
+    },
+    {
+        "低壓中心": "low-pressure center"
+    },
+    {
+        "低速帶": "low-velocity zone（LVZ）"
+    },
+    {
+        "天琴座": "Lyra"
+    },
+    {
+        "水龍": "lystrosaurus"
+    },
+    {
+        "岩漿活動": "magmatic activity"
+    },
+    {
+        "磁暴": "magnetic storm"
+    },
+    {
+        "磁層；磁圈": "magnetosphere"
+    },
+    {
+        "放大；放大率": "magnification"
+    },
+    {
+        "數值；量級；星等；規模": "magnitude"
+    },
+    {
+        "主序星": "main sequence star"
+    },
+    {
+        "紅樹林": "mangrove"
+    },
+    {
+        "地函；地幔": "mantle"
+    },
+    {
+        "海階": "marine terrace"
+    },
+    {
+        "火星": "Mars"
+    },
+    {
+        "質量；塊體": "mass"
+    },
+    {
+        "大滅絕": "mass extinction"
+    },
+    {
+        "塊體崩壞": "mass wasting"
+    },
+    {
+        "物質": "matter"
+    },
+    {
+        "中世紀氣候適宜期": "Medieval Climatic Optimum"
+    },
+    {
+        "梅雨": "Mei-yu"
+    },
+    {
+        "梅雨鋒": "Mei-yu front"
+    },
+    {
+        "水星": "Mercury"
+    },
+    {
+        "中氣層頂": "mesopause"
+    },
+    {
+        "中龍": "mesosaurus"
+    },
+    {
+        "中氣層": "mesosphere"
+    },
+    {
+        "中生代；中生界": "Mesozoic"
+    },
+    {
+        "金屬礦產": "metallic minerals"
+    },
+    {
+        "變質岩": "metamorphic rock"
+    },
+    {
+        "流星": "meteor"
+    },
+    {
+        "流星雨": "meteor shower"
+    },
+    {
+        "隕石": "meteorite"
+    },
+    {
+        "氣象衛星": "meteorological satellite"
+    },
+    {
+        "雲母": "mica"
+    },
+    {
+        "微[體]化石": "microfossils"
+    },
+    {
+        "微波": "microwave"
+    },
+    {
+        "中緯度": "middle latitude"
+    },
+    {
+        "中洋脊": "mid-ocean ridge"
+    },
+    {
+        "米蘭科維奇循環": "Milankovitch cycle"
+    },
+    {
+        "銀河；銀河系": "Milky Way"
+    },
+    {
+        "礦物": "mineral"
+    },
+    {
+        "礦床": "mineral deposits"
+    },
+    {
+        "中新世；中新統": "Miocene"
+    },
+    {
+        "混合層": "mixed layer"
+    },
+    {
+        "莫氏不連續面；莫荷不連續面": "Moho discontinuity"
+    },
+    {
+        "分子雲": "molecular cloud"
+    },
+    {
+        "季風": "monsoon"
+    },
+    {
+        "衛星": "moon"
+    },
+    {
+        "月亮；月球；月": "Moon"
+    },
+    {
+        "山風": "mountain breeze"
+    },
+    {
+        "烏魚": "mullet"
+    },
+    {
+        "天然氣": "natural gas"
+    },
+    {
+        "天然災害": "natural hazard"
+    },
+    {
+        "納茲卡板塊": "Nazca Plate"
+    },
+    {
+        "小潮": "neap tide"
+    },
+    {
+        "近紅外線": "near infrared"
+    },
+    {
+        "星雲": "nebula"
+    },
+    {
+        "新第三紀；新第三系": "Neogene"
+    },
+    {
+        "海王星": "Neptune"
+    },
+    {
+        "牛頓式望遠鏡": "Newtonian telescope"
+    },
+    {
+        "氮氧化物": "nitrogen oxide"
+    },
+    {
+        "非金屬礦產": "nonmetallic minerals"
+    },
+    {
+        "非再生能源": "non-renewable energy"
+    },
+    {
+        "正斷層": "normal fault"
+    },
+    {
+        "北美洲板塊": "North American Plate"
+    },
+    {
+        "北極": "north pole"
+    },
+    {
+        "北極星": "north star"
+    },
+    {
+        "東北季風": "northeast monsoon"
+    },
+    {
+        "北半球": "northern hemisphere"
+    },
+    {
+        "即時預報": "nowcasting"
+    },
+    {
+        "核能": "nuclear energy"
+    },
+    {
+        "數值模式": "numerical model"
+    },
+    {
+        "營養鹽；營養素": "nutrient"
+    },
+    {
+        "天文台；氣象台；觀測台": "observatory"
+    },
+    {
+        "囚錮鋒": "occluded front"
+    },
+    {
+        "海盆": "ocean basin"
+    },
+    {
+        "海洋環流": "ocean circulation"
+    },
+    {
+        "洋流": "ocean current"
+    },
+    {
+        "海洋地殼": "oceanic crust"
+    },
+    {
+        "海洋學": "oceanography"
+    },
+    {
+        "漸新世；漸新統": "Oligocene"
+    },
+    {
+        "歐特雲": "Oort cloud"
+    },
+    {
+        "疏散星團": "open cluster"
+    },
+    {
+        "光學望遠鏡": "optical telescope"
+    },
+    {
+        "奥陶紀；奥陶系": "Ordovician"
+    },
+    {
+        "生物演化": "organic evolution"
+    },
+    {
+        "獵戶座": "Orion"
+    },
+    {
+        "造山帶": "orogenic belt"
+    },
+    {
+        "造山運動": "orogeny"
+    },
+    {
+        "外[地]核": "outer core"
+    },
+    {
+        "氧": "oxygen"
+    },
+    {
+        "臭氧": "ozone"
+    },
+    {
+        "臭氧洞": "ozone hole"
+    },
+    {
+        "臭氧層": "ozone layer"
+    },
+    {
+        "臭氧圈；臭氧層": "ozonosphere"
+    },
+    {
+        "太平洋板塊": "Pacific Plate"
+    },
+    {
+        "太平洋副熱帶高壓": "Pacific subtropical high"
+    },
+    {
+        "古生代；古生界": "Palaeozoic"
+    },
+    {
+        "古新世；古新統": "Paleocene"
+    },
+    {
+        "古氣候": "paleoclimate"
+    },
+    {
+        "古第三紀；古第三系": "Paleogene"
+    },
+    {
+        "古生代；古生界": "Paleozoic"
+    },
+    {
+        "古生代": "Paleozoic Era"
+    },
+    {
+        "盤古大陸；聯合古陸；泛大陸": "Pangaea"
+    },
+    {
+        "盤古大陸；聯合古陸；泛大陸": "Pangea"
+    },
+    {
+        "秒差距": "parallax arcsecond (parsec, pc)"
+    },
+    {
+        "母元素": "parent element"
+    },
+    {
+        "母同位素": "parent isotope"
+    },
+    {
+        "秒差距": "parsec (pc)"
+    },
+    {
+        "穿透": "penetration"
+    },
+    {
+        "橄欖岩": "peridotite"
+    },
+    {
+        "紀；期；周期": "period"
+    },
+    {
+        "二疊紀；二疊系": "Permian"
+    },
+    {
+        "石油": "petroleum"
+    },
+    {
+        "顯生元；顯生宙": "Phanerozoic eon"
+    },
+    {
+        "菲律賓海板塊": "Philippine Sea Plate"
+    },
+    {
+        "光子": "photon"
+    },
+    {
+        "平夷作用": "planation"
+    },
+    {
+        "行星": "planet"
+    },
+    {
+        "行星狀星雲": "planetary nebula"
+    },
+    {
+        "行星系統": "planetary system"
+    },
+    {
+        "微行星": "planetesimal"
+    },
+    {
+        "星座盤": "planisphere (star wheel)"
+    },
+    {
+        "板塊": "plate"
+    },
+    {
+        "板塊構造[學]": "plate tectonics"
+    },
+    {
+        "更新世；更新統": "Pleistocene"
+    },
+    {
+        "上新世；上新統": "Pliocene"
+    },
+    {
+        "點源": "point source"
+    },
+    {
+        "極軸": "polar axis"
+    },
+    {
+        "極圈": "polar circle"
+    },
+    {
+        "繞極軌道衛星": "polar orbiting satellite"
+    },
+    {
+        "北極星": "Polaris"
+    },
+    {
+        "北極星": "pole star"
+    },
+    {
+        "汙染": "pollution"
+    },
+    {
+        "前寒武紀；前寒武系": "Precambrian"
+    },
+    {
+        "進動；歲差": "precession"
+    },
+    {
+        "氣壓；壓力": "pressure"
+    },
+    {
+        "氣壓梯度；壓力梯度": "pressure gradient"
+    },
+    {
+        "氣壓梯度力": "pressure gradient force"
+    },
+    {
+        "P波；初[達]波": "Primary wave（P-wave）"
+    },
+    {
+        "元古元；元古宙": "Proterozoic Eon"
+    },
+    {
+        "質子": "proton"
+    },
+    {
+        "托勒米": "Ptolemy"
+    },
+    {
+        "石英": "quartz"
+    },
+    {
+        "第四紀；第四系": "Quaternary"
+    },
+    {
+        "輻射曲線": "radiation curve"
+    },
+    {
+        "無線電": "radio"
+    },
+    {
+        "[無線]電波望遠鏡": "radio telescope"
+    },
+    {
+        "放射[性]衰變；放射[性]蛻變": "radioactive decay"
+    },
+    {
+        "放射性元素": "radioactive element"
+    },
+    {
+        "放射蟲": "radiolaria"
+    },
+    {
+        "放射性定年": "radiometric dating"
+    },
+    {
+        "雨量；降雨": "rainfall"
+    },
+    {
+        "猛烈雷暴；豪雨": "rattler"
+    },
+    {
+        "復合；重連": "recombination"
+    },
+    {
+        "紅巨星": "red giant"
+    },
+    {
+        "赤潮": "red tide"
+    },
+    {
+        "紅移": "redshift"
+    },
+    {
+        "參考橢球體": "reference ellipsoid"
+    },
+    {
+        "反射": "reflection"
+    },
+    {
+        "反射式望遠鏡": "reflection telescope"
+    },
+    {
+        "折射式望遠鏡": "refraction telescope"
+    },
+    {
+        "海退｛地質｝；迴歸": "regression"
+    },
+    {
+        "相對地質年代": "relative geological time"
+    },
+    {
+        "相對溼度": "relative humidity"
+    },
+    {
+        "再生能源": "renewable energy"
+    },
+    {
+        "可再生資源": "renewable resource"
+    },
+    {
+        "解析度；分辨率；溶解": "resolution"
+    },
+    {
+        "資源": "resources"
+    },
+    {
+        "逆斷層": "reverse fault"
+    },
+    {
+        "赤經": "right ascension (R. A.)"
+    },
+    {
+        "右移斷層；右滑斷層": "right-lateral fault"
+    },
+    {
+        "環太平洋火山帶；火環": "ring of fire"
+    },
+    {
+        "岩；岩石": "rock"
+    },
+    {
+        "岩石循環": "rock cycle"
+    },
+    {
+        "造岩礦物": "rock forming mineral"
+    },
+    {
+        "逕流": "runoff"
+    },
+    {
+        "琉球海溝": "Ryukyu Trench"
+    },
+    {
+        "鹽度": "salinity"
+    },
+    {
+        "漂沙": "sand drift"
+    },
+    {
+        "砂岩": "sandstone"
+    },
+    {
+        "聖塔安娜風": "Santa Ana"
+    },
+    {
+        "衛星": "satellite"
+    },
+    {
+        "飽和": "saturation"
+    },
+    {
+        "飽和水氣壓": "saturation vapor pressure"
+    },
+    {
+        "土星": "Saturn"
+    },
+    {
+        "蘇格夏板塊": "Scotia Plate"
+    },
+    {
+        "海崖": "sea cliff"
+    },
+    {
+        "海平面": "sea level"
+    },
+    {
+        "海面溫度": "sea surface temperature"
+    },
+    {
+        "海底擴張；海底擴張學說": "sea-ﬂoor spreading"
+    },
+    {
+        "S波；次[達]波": "Secondary wave（S-wave）"
+    },
+    {
+        "沉積物": "sediment"
+    },
+    {
+        "沉積物岩芯": "sediment core"
+    },
+    {
+        "沉積岩": "sedimentary rock"
+    },
+    {
+        "沉積作用；沉降作用｛大氣｝": "sedimentation"
+    },
+    {
+        "震波；地震波": "seismic wave"
+    },
+    {
+        "自淨[作用]": "self-purification"
+    },
+    {
+        "半日潮": "semi-diurnal tide"
+    },
+    {
+        "頁岩": "shale"
+    },
+    {
+        "海岸線；濱線": "shoreline"
+    },
+    {
+        "短波輻射": "shortwave radiation"
+    },
+    {
+        "恒星日": "sidereal day"
+    },
+    {
+        "恒星月": "sidereal month"
+    },
+    {
+        "恒星年": "sidereal year"
+    },
+    {
+        "黃道十二宮": "signs of zodiac"
+    },
+    {
+        "志留紀；志留系": "Silurian"
+    },
+    {
+        "碘化銀": "silver iodide"
+    },
+    {
+        "下沉；沉降流；下現{大氣}": "sinking"
+    },
+    {
+        "天狼星": "Sirius"
+    },
+    {
+        "雪團地球[說]": "snowball Earth"
+    },
+    {
+        "水土保持": "soil and water conservation"
+    },
+    {
+        "土壤液化": "soil liquefaction"
+    },
+    {
+        "太陽日": "solar day"
+    },
+    {
+        "日輪；日面": "solar disk"
+    },
+    {
+        "太陽能": "solar energy"
+    },
+    {
+        "日[閃]焰": "solar flare"
+    },
+    {
+        "太陽質量": "solar mass"
+    },
+    {
+        "太陽星雲": "solar nebula"
+    },
+    {
+        "太陽輻射": "solar radiation"
+    },
+    {
+        "太陽系": "solar system"
+    },
+    {
+        "太陽風": "solar wind"
+    },
+    {
+        "南美洲板塊": "South American Plate"
+    },
+    {
+        "南海低壓": "South China Sea Low"
+    },
+    {
+        "南方震盪": "Southern Oscillation"
+    },
+    {
+        "南方震盪指數": "Southern Oscillation Index（SOI）"
+    },
+    {
+        "西南氣流": "southwesterly flow"
+    },
+    {
+        "太空望遠鏡": "space telescope"
+    },
+    {
+        "太空天氣": "space weather"
+    },
+    {
+        "光譜型": "spectral type"
+    },
+    {
+        "光譜儀；光譜計": "spectrometer"
+    },
+    {
+        "譜；光譜；波譜": "spectrum"
+    },
+    {
+        "石燕屬；石燕貝屬｛腕足動物｝": "spirifers"
+    },
+    {
+        "春分；春分點": "spring equinox"
+    },
+    {
+        "大潮": "spring tide"
+    },
+    {
+        "星；恒星": "star"
+    },
+    {
+        "星團": "star cluster"
+    },
+    {
+        "滯留鋒": "stationary front"
+    },
+    {
+        "駛流": "steering flow"
+    },
+    {
+        "[風]暴潮": "storm surge"
+    },
+    {
+        "風暴浪": "storm wave"
+    },
+    {
+        "平流層": "stratosphere"
+    },
+    {
+        "平移斷層": "strike-slip fault"
+    },
+    {
+        "疊層石": "stromatolite"
+    },
+    {
+        "隱沒；俯衝": "subduction"
+    },
+    {
+        "副熱帶高壓": "subtropical high"
+    },
+    {
+        "夏至": "summer solstice"
+    },
+    {
+        "太陽；日": "Sun"
+    },
+    {
+        "日晷": "sundial"
+    },
+    {
+        "太陽黑子": "sunspot"
+    },
+    {
+        "太陽黑子週期": "sunspot cycle"
+    },
+    {
+        "表面摩擦": "surface friction"
+    },
+    {
+        "地表逕流": "surface runoff"
+    },
+    {
+        "地面天氣圖": "surface weather chart"
+    },
+    {
+        "永續性": "sustainability"
+    },
+    {
+        "永續發展": "sustainable development"
+    },
+    {
+        "湧浪": "swell"
+    },
+    {
+        "向斜": "syncline"
+    },
+    {
+        "朔望月": "synodic month"
+    },
+    {
+        "望遠鏡": "telescope"
+    },
+    {
+        "溫鹽曲線": "temperature-salinity curve（T-S curve）"
+    },
+    {
+        "温鹽圖": "temperature-salinity diagram（T-S diagram）"
+    },
+    {
+        "類地行星": "terrestrial planet"
+    },
+    {
+        "第三紀；第三系": "Tertiary"
+    },
+    {
+        "熱對流": "thermal convection"
+    },
+    {
+        "熱輻射": "thermal radiation"
+    },
+    {
+        "斜溫層；溫躍層": "thermocline"
+    },
+    {
+        "溫鹽": "thermohaline"
+    },
+    {
+        "溫鹽環流": "thermohaline circulation"
+    },
+    {
+        "熱氣層": "thermosphere"
+    },
+    {
+        "逆[衝]斷層": "thrust fault"
+    },
+    {
+        "雷暴；雷雨": "thunderstorm"
+    },
+    {
+        "潮流": "tidal current"
+    },
+    {
+        "潮灘": "tidal flat"
+    },
+    {
+        "潮差": "tidal range"
+    },
+    {
+        "潮；潮汐": "tide"
+    },
+    {
+        "驗潮站": "tide gauge"
+    },
+    {
+        "引潮力": "tide-generating force"
+    },
+    {
+        "泰坦；土衛六": "Titan"
+    },
+    {
+        "地形效應": "topogrphical effect"
+    },
+    {
+        "龍捲風": "tornado"
+    },
+    {
+        "總臭氧量": "total ozone amount"
+    },
+    {
+        "信風；貿易風": "trade wind"
+    },
+    {
+        "傳感器；轉換器": "transducer"
+    },
+    {
+        "海進": "transgression"
+    },
+    {
+        "透明度": "transparency"
+    },
+    {
+        "搬運；運輸": "transportation"
+    },
+    {
+        "試槽；深地槽；海溝": "trench"
+    },
+    {
+        "三疊紀；三疊系": "Triassic"
+    },
+    {
+        "三葉蟲": "trilobite"
+    },
+    {
+        "熱帶氣旋": "tropical cyclone"
+    },
+    {
+        "熱帶低壓": "tropical depression"
+    },
+    {
+        "熱帶風暴": "tropical storm"
+    },
+    {
+        "回歸年": "tropical year"
+    },
+    {
+        "對流層頂": "tropopause"
+    },
+    {
+        "海嘯": "tsunami"
+    },
+    {
+        "亂流；紊流": "turbulence"
+    },
+    {
+        "颱風": "typhoon"
+    },
+    {
+        "颱風眼": "typhoon eye"
+    },
+    {
+        "紫外線": "ultraviolet"
+    },
+    {
+        "紫外輻射": "ultraviolet radiation"
+    },
+    {
+        "紫外線": "ultraviolet ray"
+    },
+    {
+        "均變說；天律不變說": "uniformitarianism"
+    },
+    {
+        "宇宙；全體": "universe"
+    },
+    {
+        "上升運動": "upward motion"
+    },
+    {
+        "湧升流": "upwelling"
+    },
+    {
+        "天王星": "Uranus"
+    },
+    {
+        "都市化": "urbanization"
+    },
+    {
+        "谷風": "valley breeze"
+    },
+    {
+        "織女星": "Vega"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "金星": "Venus"
+    },
+    {
+        "春分；春分點": "vernal equinox"
+    },
+    {
+        "能見度": "visibility"
+    },
+    {
+        "可見光雲圖": "visible cloud imagery"
+    },
+    {
+        "可見光": "visible light"
+    },
+    {
+        "火山弧": "volcanic arc"
+    },
+    {
+        "火山作用": "volcanism"
+    },
+    {
+        "火山": "volcano"
+    },
+    {
+        "沃克環流": "Walker circulation"
+    },
+    {
+        "暖氣團": "warm air mass"
+    },
+    {
+        "暖雲": "warm cloud"
+    },
+    {
+        "暖流": "warm current"
+    },
+    {
+        "暖鋒": "warm front"
+    },
+    {
+        "暖心": "warm-core"
+    },
+    {
+        "廢棄物汙染": "waste pollution"
+    },
+    {
+        "水": "water"
+    },
+    {
+        "水土保持": "water and soil conservation"
+    },
+    {
+        "水[文]循環": "water cycle"
+    },
+    {
+        "水團": "water mass"
+    },
+    {
+        "水汙染": "water pollution"
+    },
+    {
+        "水力": "water power"
+    },
+    {
+        "水資源": "water resource"
+    },
+    {
+        "水氣": "water vapor"
+    },
+    {
+        "分水界；集水區": "watershed"
+    },
+    {
+        "波；浪": "wave"
+    },
+    {
+        "波峰": "wave crest"
+    },
+    {
+        "波高": "wave height"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "波動": "wave motion"
+    },
+    {
+        "波谷；波槽{大氣}": "wave trough"
+    },
+    {
+        "波帶；波段": "waveband"
+    },
+    {
+        "海蝕平台": "wave-cut platform"
+    },
+    {
+        "天氣；氣象": "weather"
+    },
+    {
+        "天氣型態": "weather pattern"
+    },
+    {
+        "氣象雷達": "weather radar"
+    },
+    {
+        "天氣系統": "weather system"
+    },
+    {
+        "風化": "weathering"
+    },
+    {
+        "風": "wind"
+    },
+    {
+        "風向": "wind direction"
+    },
+    {
+        "風驅環流；風成環流": "wind driven circulation"
+    },
+    {
+        "風能": "wind energy"
+    },
+    {
+        "風速": "wind speed"
+    },
+    {
+        "風浪；風成浪": "wind wave"
+    },
+    {
+        "迎風": "windward"
+    },
+    {
+        "迎風面": "windward side"
+    },
+    {
+        "冬至": "winter solstice"
+    },
+    {
+        "X射線": "X-ray"
+    },
+    {
+        "新仙女木事件": "Younger Dryas"
+    },
+    {
+        "新仙女木事件": "Younger Dryas Event"
+    },
+    {
+        "天頂": "zenith"
+    },
+    {
+        "鋯石": "zircon"
+    },
+    {
+        "黃道十二宮": "zodiac signs"
+    }
+]

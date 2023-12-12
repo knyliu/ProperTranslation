@@ -1,0 +1,3482 @@
+[
+    {
+        "民政局": "Civil Affairs Bureau"
+    },
+    {
+        "財政局": "Finance Bureau"
+    },
+    {
+        "教育局": "Education Bureau"
+    },
+    {
+        "建設局": "Economic Affairs Bureau"
+    },
+    {
+        "工務局": "Public Works Bureau"
+    },
+    {
+        "社會局": "Social Affairs Bureau"
+    },
+    {
+        "勞工局": "Labor Affairs Bureau"
+    },
+    {
+        "警察局": "Police Bureau"
+    },
+    {
+        "消防局": "Fire Bureau"
+    },
+    {
+        "衛生局": "Public Health Bureau"
+    },
+    {
+        "環境保護局": "Environmental Protection Bureau"
+    },
+    {
+        "文化局": "Cultural Affairs Bureau"
+    },
+    {
+        "交通局": "Transportation Bureau"
+    },
+    {
+        "地政處": "Land Administration Office"
+    },
+    {
+        "新聞處": "Information Office"
+    },
+    {
+        "主計處": "Accounting and Statistics Office"
+    },
+    {
+        "人事處": "Personnel Office"
+    },
+    {
+        "___市衛生局": "Public Health Bureau, ____ City"
+    },
+    {
+        "1.___縣(市)警察局 2.___縣(市)政府警察局": "____ County (City) Police Bureau"
+    },
+    {
+        "1.___縣(市)警察局 2.___縣(市)政府警察局": "____ City Police Bureau"
+    },
+    {
+        "1.___縣(市)消防局 2.___縣政府消防局": "Fire Bureau, ____ County (City)"
+    },
+    {
+        "1.___縣(市)衛生局 2.___縣政府衛生局": "Public Health Bureau, ____ County (City)"
+    },
+    {
+        "1.___縣(市)政府地方稅務局 2.___ 縣(市)地方稅務局": "Local Tax Bureau, ___ County (City)"
+    },
+    {
+        "縣(市)政府": "___ County Government"
+    },
+    {
+        "縣(市)政府": "___ County (City) Government"
+    },
+    {
+        "宜蘭縣政府": "Yilan County Government"
+    },
+    {
+        "苗栗縣政府": "Miaoli County Government"
+    },
+    {
+        "澎湖縣政府": "Marine Life Propagation Station, Penghu County"
+    },
+    {
+        "連江縣政府": "Kinmen County Government"
+    },
+    {
+        "金門縣政府": "Kinmen County Government"
+    },
+    {
+        "___縣(市)立圖書館": "__ County (Municipal) Library"
+    },
+    {
+        "第七組 ": "Seventh Directorate"
+    },
+    {
+        "民政司 ": "Department of Civil Affairs"
+    },
+    {
+        "戶政司 ": "Department of Household Registration Affairs"
+    },
+    {
+        "地政司 ": "Department of Land Administration"
+    },
+    {
+        "社會司 ": "Department of Social Affairs"
+    },
+    {
+        "總務司": "Department of General Affairs"
+    },
+    {
+        "家庭暴力及性侵害防治委員會 ": "Domestic Violence and Sexual Assault Prevention Committee"
+    },
+    {
+        "中部辦公室戶政司 ": "Department of Household Registration Affairs"
+    },
+    {
+        "中部辦公室民政司 ": "Department of Civil Affairs"
+    },
+    {
+        "中部辦公室地政司 ": "Department of Land Administration"
+    },
+    {
+        "中部辦公室社會司 ": "Department of Social Affairs"
+    },
+    {
+        "第一處": "First Department"
+    },
+    {
+        "第二處": "Second Department"
+    },
+    {
+        "第三處": "Third Department"
+    },
+    {
+        "第四處": "Fourth Department"
+    },
+    {
+        "第五處": "Fifth Department"
+    },
+    {
+        "第六處": "Sixth Department"
+    },
+    {
+        "第七處": "Seventh Department"
+    },
+    {
+        "第八處": "Eighth Department"
+    },
+    {
+        "第九處": "Ninth Department"
+    },
+    {
+        "統計處": "Department of Statistics"
+    },
+    {
+        "中部辦公室": "Central Region Office"
+    },
+    {
+        "文教處 ": "Department of Culture and Education"
+    },
+    {
+        "綜合處 ": "Department of General Affairs"
+    },
+    {
+        "資料室": "Data Office "
+    },
+    {
+        "行政組": "General Affairs Division "
+    },
+    {
+        "研究組": "Research Division "
+    },
+    {
+        "議事組": "Meeting Affairs Division "
+    },
+    {
+        "召集組": "Reserves Affairs Division"
+    },
+    {
+        "甄訓組": "Enlistment and Training Division"
+    },
+    {
+        "管理組": "Management Division "
+    },
+    {
+        "徵集組": "Recruitment Division"
+    },
+    {
+        "權益組": "Rights and Benefits Division "
+    },
+    {
+        "入出國事務組": "Entry and Exit Affairs Division"
+    },
+    {
+        "移民事務組": "Immigration Affairs Division"
+    },
+    {
+        "國際事務組": "International Affairs Division"
+    },
+    {
+        "移民資訊組": "Immigration Information Division"
+    },
+    {
+        "服務事務大隊": "Service Affairs Corps"
+    },
+    {
+        "收容事務大隊": "Detention Affairs Corps"
+    },
+    {
+        "專勤事務第一大隊": "First Specialized Operation Corps"
+    },
+    {
+        "專勤事務第二大隊": "Second Specialized Operation Corps"
+    },
+    {
+        "國境事務大隊": "Border Affairs Corps"
+    },
+    {
+        "董事會秘書室": "Secretariat, Board of Directors"
+    },
+    {
+        "董事會稽核室": "Auditing Office, Board of Directors"
+    },
+    {
+        "企劃部": "Department of Planning"
+    },
+    {
+        "審查部": "Department of Credit Management"
+    },
+    {
+        "營業部(一)": "Department of Business (I)"
+    },
+    {
+        "營業部(二)": "Department of Business (II)"
+    },
+    {
+        "發行部": "Department of Circulation"
+    },
+    {
+        "公庫部": "Department of Public Treasury"
+    },
+    {
+        "國外部": "Department of International Banking"
+    },
+    {
+        "信託部": "Department of Trusts"
+    },
+    {
+        "證券部": "Department of Securities"
+    },
+    {
+        "財務部": "Department of Treasury"
+    },
+    {
+        "消費者金融部": "Department of Consumer Banking"
+    },
+    {
+        "電子金融部": "Department of Electronic Banking"
+    },
+    {
+        "徵信室": "Credit Analysis Office"
+    },
+    {
+        "總務室(二)": "General Affairs Office( II)"
+    },
+    {
+        "經濟研究室": "Economic Research Office"
+    },
+    {
+        "法務室": "Legal Affairs Office"
+    },
+    {
+        "逾期放款處理中心": "Non-performing Loans Center"
+    },
+    {
+        "行員訓練所": "Training Institute"
+    },
+    {
+        "印刷所": "Printing Works"
+    },
+    {
+        "應收帳款作業中心": "Factoring Operations Center"
+    },
+    {
+        "高雄企業金融區域授信中心": "Kaohsiung Region Corporate Banking Center"
+    },
+    {
+        "北一區個人金融區域授信中心": "First Northern Region Consumer Banking Center"
+    },
+    {
+        "國際金融業務分行": "Offshore Banking Branch"
+    },
+    {
+        "進修推廣部": "In-service and Continuing Education "
+    },
+    {
+        "電子機計算中心": "Computer Center"
+    },
+    {
+        "研究發展處": "Research and Development Division"
+    },
+    {
+        "進修暨推廣中心": "Evening and Continuing Education Center "
+    },
+    {
+        "資訊中心": "Information Management Center "
+    },
+    {
+        "學生事務處": "Student Affairs  Division"
+    },
+    {
+        "教務處": "Student Affairs Division"
+    },
+    {
+        "進修暨擴廣部": "Extension and Continuing Education Division"
+    },
+    {
+        "圖書館": "Library "
+    },
+    {
+        "實習輔導處": "Practice and Consulting Division"
+    },
+    {
+        "體育室": "Physical Education Office"
+    },
+    {
+        "研發組": "Research and Development Section"
+    },
+    {
+        "研發處": "Research and Development  Division"
+    },
+    {
+        "學務處": "Student Affairs Division"
+    },
+    {
+        "生命科學院": "College of Life Sciences "
+    },
+    {
+        "社會科學暨管理學院": "College of Social Sciences and Management "
+    },
+    {
+        "計算機及資訊網路中心": "Computer and Information Center "
+    },
+    {
+        "獸醫教學醫院": "Veterinary Medical Teaching Hospital "
+    },
+    {
+        "文學院": "College of Liberal Arts "
+    },
+    {
+        "外國語文學院": "College of Foreign Languages "
+    },
+    {
+        "法學院": "College of Law "
+    },
+    {
+        "商學院": "College of Commerce "
+    },
+    {
+        "國際事務學院": "College of Diplomacy "
+    },
+    {
+        "教育學院": "College of Education "
+    },
+    {
+        "理學院": "College of Natural Sciences "
+    },
+    {
+        "傳播學院": "College of Communication "
+    },
+    {
+        "人文學院": "College of Humanities "
+    },
+    {
+        "公共事務學院": "Public Affairs  Division"
+    },
+    {
+        "法律學院": "College of Law "
+    },
+    {
+        "社會科學學院": "College of Social Science s"
+    },
+    {
+        "商學院": "College of Business "
+    },
+    {
+        "工學院": "College of Engineering "
+    },
+    {
+        "生命與資源科學院": "College of Life and Resource Sciences "
+    },
+    {
+        "技術學院": "College of Technology"
+    },
+    {
+        "海運學院": "College of Maritime Science"
+    },
+    {
+        "理學院": "College of Science"
+    },
+    {
+        "第五組": "Fifth Division"
+    },
+    {
+        "第六組": "Sixth Division"
+    },
+    {
+        "服務廣宣組": "Service Promotion Division"
+    },
+    {
+        "地質資料組": "Geological Information Division"
+    },
+    {
+        "第一組": "First Division"
+    },
+    {
+        "第二組": "Second Division"
+    },
+    {
+        "第三組": "Third Division"
+    },
+    {
+        "第四組": "Fourth Division"
+    },
+    {
+        "綜合企劃組": "Planning Division"
+    },
+    {
+        "水文技術組": "Hydrology Division"
+    },
+    {
+        "水源經營組": "Management Division"
+    },
+    {
+        "河川海岸組": "River and Coast Division"
+    },
+    {
+        "保育事業組": "Conservation Division"
+    },
+    {
+        "工程事務組": "Construction Division"
+    },
+    {
+        "水利行政組": "Water Administration Division"
+    },
+    {
+        "土地管理組": "Land Management Division"
+    },
+    {
+        "礦場保安組": "Mine Safety Division"
+    },
+    {
+        "礦務行政組": "Mine Administration Division"
+    },
+    {
+        "礦業經濟組": "Mine Affairs Division"
+    },
+    {
+        "公眾服務處": "Department of Public Relations"
+    },
+    {
+        "系統規劃處": "Department of System Planning  "
+    },
+    {
+        "供電處": "Department of Power Supply  "
+    },
+    {
+        "促進電力開發協助金審議委員會": "The Approval Committee of Power Development Foundation"
+    },
+    {
+        "核能安全處": "Department of Nuclear Safety  "
+    },
+    {
+        "核能技術處": "Department of Nuclear Engineering  "
+    },
+    {
+        "核能發電處": "Department of Nuclear Generation"
+    },
+    {
+        "秘書處": "Secretariat "
+    },
+    {
+        "發電處": "Department of Generation"
+    },
+    {
+        "業務處": "Department of Business "
+    },
+    {
+        "董事會": "Board of Directors "
+    },
+    {
+        "資訊系統處": "Department of Information Management "
+    },
+    {
+        "電源開發處": "Department of Power Development "
+    },
+    {
+        "燃料處": "Department of Fuels"
+    },
+    {
+        "資料控制課": "Data Control Section"
+    },
+    {
+        "機器作業課": "Machine Operation Section"
+    },
+    {
+        "技術課": "Technical Section"
+    },
+    {
+        "基礎課": "Foundation Section"
+    },
+    {
+        "電力設備試驗課": "Power Apparatus Testing Section"
+    },
+    {
+        "電表課": "Electricity Meters Section"
+    },
+    {
+        "儀器課": "Measuring Instruments Section"
+    },
+    {
+        "工安環保處": "Department of Industrial Safety and Environment Protection"
+    },
+    {
+        "品保處": "Department of Quality Control"
+    },
+    {
+        "業務處": "Department of Sales"
+    },
+    {
+        "設計處": "Department of Design"
+    },
+    {
+        "物料處": "Department of Materials"
+    },
+    {
+        "勤業工廠": "Special Project Plant"
+    },
+    {
+        "船體工廠": "Hull Plant"
+    },
+    {
+        "管理部": "Management Division"
+    },
+    {
+        "企劃處": "Department of Planning"
+    },
+    {
+        "工務處": "Department of Public Works"
+    },
+    {
+        "供水處": "Department of Water Supply"
+    },
+    {
+        "營業處": "Department of Business"
+    },
+    {
+        "材料處": "Department of Materials"
+    },
+    {
+        "水質處": "Department of Water Quality"
+    },
+    {
+        "總經理室": "General Manager's Office"
+    },
+    {
+        "郵務營業處": "Department of Mail Business"
+    },
+    {
+        "郵遞管理處": "Department of Mail Operations"
+    },
+    {
+        "資產營運處": "Department of Property Operations"
+    },
+    {
+        "技術處": "Department of Maintenance"
+    },
+    {
+        "集郵處": "Department of Philately"
+    },
+    {
+        "儲匯處": "Department of Savings and Remittances"
+    },
+    {
+        "壽險處": "Department of Life Insurance"
+    },
+    {
+        "資金運用處": "Department of Capital Operations"
+    },
+    {
+        "資訊處": "Department of Information Management"
+    },
+    {
+        "網路處": "Department of Network"
+    },
+    {
+        "稽核處": "Department of Auditing"
+    },
+    {
+        "人力資源處": "Department of Human Resources"
+    },
+    {
+        "法務處": "Department of Legal Affairs"
+    },
+    {
+        "勞工安全衛生處": "Department of Occupational Safety and Health"
+    },
+    {
+        "衛星事業處": "Department of Satellite Business"
+    },
+    {
+        "財務處": "Department of Finance"
+    },
+    {
+        "空運組": "Air Transport Division "
+    },
+    {
+        "飛航標準組": "Flight Standards Division "
+    },
+    {
+        "飛航管制組": "Air Traffic Services Division"
+    },
+    {
+        "場站組": "Aerodrome Division "
+    },
+    {
+        "助航組": "Navigation Facilities Division "
+    },
+    {
+        "業務組": "Hotel, Travel and Training Division"
+    },
+    {
+        "國際組": "International Affairs Division "
+    },
+    {
+        "國民旅遊組": "Domestic Tourism Division "
+    },
+    {
+        "業務組": "Toll and Service Division"
+    },
+    {
+        "技術組": "Technical Division "
+    },
+    {
+        "交通管理組": "Traffic Management Division "
+    },
+    {
+        "路產組": "Land Division"
+    },
+    {
+        "秘書室 ": "Secretariat"
+    },
+    {
+        "第一組(企劃組)": "Planning Division"
+    },
+    {
+        "第二組 (測政組)": "Observation Management Division"
+    },
+    {
+        "第三組 (應用氣象組)": "Applied Meteorology Division "
+    },
+    {
+        "第四組 (通訊雷達組)": "Telecommunication and Radar Division"
+    },
+    {
+        "氣象科技研究中心": "Research and Development Center"
+    },
+    {
+        "機電組": "Electrical Engineering Division"
+    },
+    {
+        "運務組": "Transportation Division"
+    },
+    {
+        "結構組": "Structural Design Division"
+    },
+    {
+        "設施組": "Facilities Division"
+    },
+    {
+        "規劃組": "Planning Division "
+    },
+    {
+        "新工組": "Construction and Design  Division"
+    },
+    {
+        "養路組": "Maintenance  Division "
+    },
+    {
+        "用地組": "Land Acquisition Division "
+    },
+    {
+        "機科組": "Equipment and Supplies Division"
+    },
+    {
+        "監理組": "Motor Vehicles Division "
+    },
+    {
+        "勞工安全衛生訓練組": "Occupational Safety and Training Division"
+    },
+    {
+        "船舶交通管制組": "Vessel Traffic Control Division "
+    },
+    {
+        "環境保護組": "Environmental Protection Division "
+    },
+    {
+        "勞工安全衛生管理組": "Occupational Safety and Health Division"
+    },
+    {
+        "機務組": "Equipment Division"
+    },
+    {
+        "研究發展組": "Research and Development Division"
+    },
+    {
+        "勞安環保組": "Occupational Safety and Environmental Protection Division"
+    },
+    {
+        "業務組": "Business Division"
+    },
+    {
+        "港務組": "Harbor Management Division"
+    },
+    {
+        "工務組": "Construction Division"
+    },
+    {
+        "航政組": "Vessel Administration Division"
+    },
+    {
+        "資訊小組": "Information Management Unit"
+    },
+    {
+        "勞安組": "Occupational Safety Unit"
+    },
+    {
+        "承保處": "Underwriting Division"
+    },
+    {
+        "財務處": "Financial Analysis Division"
+    },
+    {
+        "醫務管理處": "Medical Affairs Division"
+    },
+    {
+        "醫務管理處": "Medical Affairs Division"
+    },
+    {
+        "企劃處": "Planning Division"
+    },
+    {
+        "資訊處": "Information Management Division"
+    },
+    {
+        "稽核室": "Auditing Office"
+    },
+    {
+        "台北分局": "Taipei Branch"
+    },
+    {
+        "第一組 (藥物化學組)": "Chemistry Division"
+    },
+    {
+        "第二組 (藥物生物學組)": "Biology Division"
+    },
+    {
+        "第三組 (中藥生藥學組)": "Pharmacognosy Division"
+    },
+    {
+        "製藥工廠": "Pharmaceutical Plant"
+    },
+    {
+        "企劃及綜合業務組": "Planning Division"
+    },
+    {
+        "疾病監測調查組": "Surveillance and Investigation Division"
+    },
+    {
+        "研究檢驗組": "Laboratory Research and Development Division"
+    },
+    {
+        "實驗室資源服務組": "Laboratory Resources Division"
+    },
+    {
+        "檢疫防疫組": "Quarantine and Prevention Division"
+    },
+    {
+        "住院室": "Admission Department"
+    },
+    {
+        "病歷室": "Medical Records Department"
+    },
+    {
+        "營養室": "Diet and Nutrition Department"
+    },
+    {
+        "社會服務室": "Social Work Department"
+    },
+    {
+        "藥劑科": "Pharmacy Department"
+    },
+    {
+        "檢驗科": "Laboratory Department"
+    },
+    {
+        "特殊檢查治療部": "Special Test and Treatment Department"
+    },
+    {
+        "放射診斷部": "Radiological Diagnosis Department"
+    },
+    {
+        "核子醫學部": "Nuclear Medicine  Department"
+    },
+    {
+        "放射治療部": "Radiological Therapy Department"
+    },
+    {
+        "醫療部": "Medical Department"
+    },
+    {
+        "護理科": "Nursing Department"
+    },
+    {
+        "供應中心": "Supplies Center"
+    },
+    {
+        "門診部": "Outpatient Clinic (OPD Clinic)"
+    },
+    {
+        "急診室": "Emergency Service Department"
+    },
+    {
+        "手術室": "Operating Room"
+    },
+    {
+        "燙傷中心": "Burn Unit"
+    },
+    {
+        "產房": "Delivery Room"
+    },
+    {
+        "加護病房": "Intensive Care Unit"
+    },
+    {
+        "病房": "Ward"
+    },
+    {
+        "內科部": "Medicine Department"
+    },
+    {
+        "外科部": "Surgery Department"
+    },
+    {
+        "骨科部": "Orthopedics Department"
+    },
+    {
+        "麻醉部": "Anesthesiology Department"
+    },
+    {
+        "胸腔部": "Chest Department"
+    },
+    {
+        "婦產部": "Obstetrics and Gynecology Department"
+    },
+    {
+        "小兒部": "Pediatrics Department"
+    },
+    {
+        "復健醫學部": "Physical Medicine and Rehabilitation Department"
+    },
+    {
+        "放射線部": "Radiology Department"
+    },
+    {
+        "核醫部": "Nuclear Medicine Department"
+    },
+    {
+        "國家多目標醫用迴旋加速器中心": "National Positron Emission Tomography / Cyclotron Center"
+    },
+    {
+        "神經醫學中心": "Neurology Institute"
+    },
+    {
+        "精神部": "Psychiatry Department"
+    },
+    {
+        "皮膚部": "Dermatology Department"
+    },
+    {
+        "牙科部": "Dentistry Department"
+    },
+    {
+        "眼科部": "Ophthalmology Department"
+    },
+    {
+        "耳鼻喉部": "Otorhinolaryngology Department (ENT)"
+    },
+    {
+        "癌病中心": "Cancer Center"
+    },
+    {
+        "急診部": "Emergency Service Department"
+    },
+    {
+        "家庭醫學部": "Family Medicine Department"
+    },
+    {
+        "病理檢驗部": "Pathology and Laboratory Department"
+    },
+    {
+        "藥劑部": "Pharmacy Department"
+    },
+    {
+        "教學研究部": "Medical Research and Education Department"
+    },
+    {
+        "營養部": "Diet and Nutrition Department"
+    },
+    {
+        "醫務行政部": "Medical Administration Department"
+    },
+    {
+        "補給室": "Supplies Office"
+    },
+    {
+        "社會工作室": "Social Work Department"
+    },
+    {
+        "附設機構": "Affiliated Units"
+    },
+    {
+        "投資組": "Investment Services Division "
+    },
+    {
+        "祕書室": "Secretariat "
+    },
+    {
+        "秘書室": "Secretariat "
+    },
+    {
+        "企劃組": "Planning Division "
+    },
+    {
+        "坡地保育組": "Slopeland Conservation  Division"
+    },
+    {
+        "治理組": "Watershed Protection  Division"
+    },
+    {
+        "監測管理組": "Monitoring and Management Division "
+    },
+    {
+        "森林企劃組": "Forest Planning Division"
+    },
+    {
+        "林政管理組": "Forest Administration Division  "
+    },
+    {
+        "集水區治理組": "Watershed Management Division  "
+    },
+    {
+        "造林生產組": "Reforestation and Production Division "
+    },
+    {
+        "森林育樂組": "Conservation and Recreation Division  "
+    },
+    {
+        "肉品檢查組": "Meat Inspection Division "
+    },
+    {
+        "植物檢疫組": "Plant Quarantine Division  "
+    },
+    {
+        "漁政組": "Fisheries Regulation Division  "
+    },
+    {
+        "遠洋漁業組": "Deep Sea Fisheries Division "
+    },
+    {
+        "養殖沿近海漁業組": "Aquaculture and Coastal Fisheries Division "
+    },
+    {
+        "遠洋漁業開發中心": "Deep Sea Fishery Research and Development Center "
+    },
+    {
+        "第三大隊": "Third Corps "
+    },
+    {
+        "第四大隊": "Fourth Corps"
+    },
+    {
+        "第一大隊": "First Corps  "
+    },
+    {
+        "第二大隊": "Second Corps "
+    },
+    {
+        "教務處": "Academic Affairs Division "
+    },
+    {
+        "訓導處": "Student Affairs Division"
+    },
+    {
+        "總務處": "General Affairs Division"
+    },
+    {
+        "農業暨自然資源學院": "College of Agriculture and Natural Resources "
+    },
+    {
+        "第三課": "Third Section"
+    },
+    {
+        "第四課": "Fourth Section"
+    },
+    {
+        "人事課": "Personnel Section "
+    },
+    {
+        "燃煤機械課": "Coal Yard Mechanical Section"
+    },
+    {
+        "運轉課": "Operation Section"
+    },
+    {
+        "機械課": "Mechanical Section"
+    },
+    {
+        "修配課": "Repairing Section"
+    },
+    {
+        "水土保持課": "Water and Soil Conservation Section"
+    },
+    {
+        "排煙脫硫課": "Flue Gas Desulfurization Section"
+    },
+    {
+        "倉儲課": "Warehouse Section "
+    },
+    {
+        "料務課": "Materials Section "
+    },
+    {
+        "帳務課": "Accounting Section "
+    },
+    {
+        "地權課": "Land Rights  Section"
+    },
+    {
+        "線路課": "Line Section "
+    },
+    {
+        "變電課": "Extra High Voltage Equipment Section  "
+    },
+    {
+        "台北線務段": "Taipei Line Maintenance Section"
+    },
+    {
+        "汐止超高壓變電所": "Xizhi EHV Substation"
+    },
+    {
+        "電費課": "Billing Section"
+    },
+    {
+        "業務課": "Marketing Section"
+    },
+    {
+        "維護課": "Maintenance Section"
+    },
+    {
+        "後端營運一課": "Back-end Management Section Ⅰ"
+    },
+    {
+        "後端營運二課": "Back-end Management Section II"
+    },
+    {
+        "蘭嶼貯存場": "Lanyu Storage Unit"
+    },
+    {
+        "放射化學課": "Radiation Chemistry Section"
+    },
+    {
+        "劑量計測課": "Personnel Dosimetry Section"
+    },
+    {
+        "輻射儀器課": "Radiation Instruments Section"
+    },
+    {
+        "環境偵測課": "Environmental Surveillance Section"
+    },
+    {
+        "混凝土試驗研究中心": "Concrete Testing and Research Center"
+    },
+    {
+        "混擬土試驗研究中心": "Concrete Testing and Research Center"
+    },
+    {
+        "通信區": "Telecommunication Office"
+    },
+    {
+        "配管課": "Piping Section"
+    },
+    {
+        "排氣處理課": "Flue Gas Desulfurization Section"
+    },
+    {
+        "電務課": "System Management Section"
+    },
+    {
+        "鍋爐課": "Boiler Section"
+    },
+    {
+        "土木課": "Civil Engineering Section "
+    },
+    {
+        "材料課": "Materials Section "
+    },
+    {
+        "汽源課": "Steam Supply Section "
+    },
+    {
+        "汽機課": "Steam Turbine Section "
+    },
+    {
+        "品質課": "Quality Section"
+    },
+    {
+        "建築課": "Architecture Section"
+    },
+    {
+        "電氣課": "Electricity Section "
+    },
+    {
+        "儀控課": "Instrument and Control Section "
+    },
+    {
+        "輔機課": "Auxiliary Equipment Section"
+    },
+    {
+        "水路課": "Hydraulic Section"
+    },
+    {
+        "會計課": "Accounting Section"
+    },
+    {
+        "政風課": "Civil Service Ethics Section"
+    },
+    {
+        "經營績效室": "Management Office"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "工務室": "Engineering Office"
+    },
+    {
+        "營運處": "Department of Business "
+    },
+    {
+        "高雄煉油廠": "Kaohsiung Refinery Plant"
+    },
+    {
+        "高雄煉油廠": "Kaohsiung Refinery"
+    },
+    {
+        "大林煉油廠": "Dalin Refinery Plant　"
+    },
+    {
+        "桃園煉油廠": "Taoyuan Refinery Plant"
+    },
+    {
+        "生產安環組": "Production and Safety Section"
+    },
+    {
+        "內銷組": "Domestic Sales Section"
+    },
+    {
+        "儲運組": "Storage and Transportation Section"
+    },
+    {
+        "行政室": "General Affairs Office "
+    },
+    {
+        "企劃室": "Planning Office"
+    },
+    {
+        "工安環保組": "Industrial Safety and Environmental Protection Section"
+    },
+    {
+        "行銷室": "Marketing Office"
+    },
+    {
+        "林園石化廠": "Linyuan Petrochemical Plant"
+    },
+    {
+        "工程技術組": "Technical Engineering Section"
+    },
+    {
+        "國際郵件進口科": "International Incoming Mail Section"
+    },
+    {
+        "國際航空郵件科": "International Air Mail Section"
+    },
+    {
+        "運輸科": "Transportation Section"
+    },
+    {
+        "第一投遞科": "First Delivery Section"
+    },
+    {
+        "第一軍郵管理處": "First Field Post Management Office"
+    },
+    {
+        "第二投遞科": "Second Delivery Section"
+    },
+    {
+        "第三投遞科": "Third Delivery Section"
+    },
+    {
+        "快捷郵件科": "EMS/Speedpost Section"
+    },
+    {
+        "出納科": "Cashier Section"
+    },
+    {
+        "營業行銷科": "Marketing Section"
+    },
+    {
+        "規劃科": "Planning Section"
+    },
+    {
+        "作業科": "Operations Section"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "企劃行銷科": "Planning and Marketing Section"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "營業管理科": "Business Section"
+    },
+    {
+        "郵務科": "Postal Affairs Section"
+    },
+    {
+        "勞安(總務)科": "Occupational Safety and Health Section (General Affairs Section)"
+    },
+    {
+        "人事處": "Department of Personnel"
+    },
+    {
+        "會計處": "Department of Accounting"
+    },
+    {
+        "總務處": "Department of General Affairs"
+    },
+    {
+        "營建處": "Department of Construction"
+    },
+    {
+        "供應處": "Department of Supply"
+    },
+    {
+        "帳務處理處": "Department of Billing"
+    },
+    {
+        "行銷處": "Department of Marketing"
+    },
+    {
+        "企業客戶處": "Department of Corporative Services"
+    },
+    {
+        "網路管理處": "Department of Network Administration"
+    },
+    {
+        "設計處": "Department of Engineering"
+    },
+    {
+        "網路維運處": "Department of Network Operation and Maintenance"
+    },
+    {
+        "客戶網路處": "Department of Customer Access Network"
+    },
+    {
+        "互動式多媒體處": "Department of Interactive Multimedia"
+    },
+    {
+        "長途網路處": "Department of Long Distance Network"
+    },
+    {
+        "長途傳輸處": "Department of Long Distance Transmission"
+    },
+    {
+        "總務室": "General Affairs Office"
+    },
+    {
+        "政風處": "Department of Civil Service Ethics"
+    },
+    {
+        "經營規劃處": "Department of Planning"
+    },
+    {
+        "工務課": "Construction Section"
+    },
+    {
+        "總務課": "General Affairs Section"
+    },
+    {
+        "彰化工務段": "Changhua Branch"
+    },
+    {
+        "谷關工務段": "Guguan Branch"
+    },
+    {
+        "信義工務段": "Xinyi Branch"
+    },
+    {
+        "高雄工務段": "Kaohsiung Branch"
+    },
+    {
+        "潮州工務段": "Chaozhou Branch"
+    },
+    {
+        "臺東工務段": "Taitung Branch"
+    },
+    {
+        "甲仙工務段": "Jiaxian Branch"
+    },
+    {
+        "關山工務段": "Guanshan Branch"
+    },
+    {
+        "楓港工務段": "Fenggang Branch"
+    },
+    {
+        "頭城工務段": "Toucheng Branch"
+    },
+    {
+        "南澳工務段": "Nan'ao Branch"
+    },
+    {
+        "花蓮工務段": "Hualien Branch"
+    },
+    {
+        "洛韶工務段": "Luoshao Branch"
+    },
+    {
+        "獨立山工務段": "Dulishan Branch"
+    },
+    {
+        "玉里工務段": "Yuli Branch"
+    },
+    {
+        "曾文工務段": "Zengwen Branch"
+    },
+    {
+        "阿里山工務段": "Alishan Branch"
+    },
+    {
+        "花蓮監理站": "Hualien Station"
+    },
+    {
+        "南投監理站": "Nantou Station"
+    },
+    {
+        "雲林監理站": "Yunlin Station"
+    },
+    {
+        "屏東監理站": "Pingtung Station"
+    },
+    {
+        "工務課": "Engineering Section  "
+    },
+    {
+        "節目課": "Programming Section "
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "總務科": "General Affairs Section"
+    },
+    {
+        "營業科": "Billing Section"
+    },
+    {
+        "服務中心": "Service Center"
+    },
+    {
+        "企業客戶科": "Corporative Services Section"
+    },
+    {
+        "號簿科": "Telephone Directory Section"
+    },
+    {
+        "查號中心": "Directory Assistance Center"
+    },
+    {
+        "交換中心": "Local Switching Operations and Maintenance Center"
+    },
+    {
+        "數據機械科": "Digital Equipment Section"
+    },
+    {
+        "第一客戶網路中心": "First Customer Access Network Center"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "都市開發處": "Department of Special Projects"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "建築管理處": "Department of Buidling Affairs"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "第一科": "First Division"
+    },
+    {
+        "第二科": "Second Division"
+    },
+    {
+        "第三科": "Third Division"
+    },
+    {
+        "第四科": "Fourth Division"
+    },
+    {
+        "職場衛生科": "Occupational Health Division"
+    },
+    {
+        "醫政科": "Medical Affairs Division"
+    },
+    {
+        "藥政科": "Pharmaceutical Affairs Division"
+    },
+    {
+        "保健科": "Health Promotion Division"
+    },
+    {
+        "衛生教育科": "Health Education Division"
+    },
+    {
+        "食品衛生科": "Food Safety Division"
+    },
+    {
+        "檢驗室": "Laboratory Office"
+    },
+    {
+        "企劃室": "Planning Office"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "綜合規劃科": "Planning Division"
+    },
+    {
+        "設施工程科": "Facilities Division"
+    },
+    {
+        "系統工程科": "Systems Division"
+    },
+    {
+        "路權科": "Land Rights Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "____文化中心管理處": "____ Cultural Center"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "工程組": "Engineering Section"
+    },
+    {
+        "教務處": "Academic Affairs Division"
+    },
+    {
+        "輔導處": "Student Affairs Division"
+    },
+    {
+        "教學媒體處": "Media Production Division"
+    },
+    {
+        "秘書處": "Secretariat"
+    },
+    {
+        "圖書館": "Library"
+    },
+    {
+        "總務組": "General Affairs Division"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "法務科": "Legal Affairs Section"
+    },
+    {
+        "電子作業科": "Data Processing Section"
+    },
+    {
+        "稽核科": "Auditing Section"
+    },
+    {
+        "岡山分處": "Gangshan Branch"
+    },
+    {
+        "村(里)": "Village"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "處": "Division"
+    },
+    {
+        "學生總隊": "Corps"
+    },
+    {
+        "學院": "College"
+    },
+    {
+        "系": "Department"
+    },
+    {
+        "所": "Institute"
+    },
+    {
+        "管理站": "Station"
+    },
+    {
+        "所": "Branch"
+    },
+    {
+        "測量隊": "Survey Team"
+    },
+    {
+        "指揮中心": "Center"
+    },
+    {
+        "中繼台": "Relay Station"
+    },
+    {
+        "分所": "Branch"
+    },
+    {
+        "終端台": "Terminal"
+    },
+    {
+        "站": "Station"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "分隊": "Branch"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "警官隊": "Brigade"
+    },
+    {
+        "大隊": "Corps"
+    },
+    {
+        "中隊": "Company"
+    },
+    {
+        "小隊": "Squad"
+    },
+    {
+        "警察隊": "Brigade"
+    },
+    {
+        "護車隊": "Brigade"
+    },
+    {
+        "警務段": "Section"
+    },
+    {
+        "分局": "Branch"
+    },
+    {
+        "派出所(分駐所)": "Station"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "隊": "Brigade"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "辦事處": "Office"
+    },
+    {
+        "委員會": "Committee"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "分處": "Branch"
+    },
+    {
+        "股": "Section"
+    },
+    {
+        "機動巡查隊": "Brigade"
+    },
+    {
+        "小組 (任務)": "Task Force"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "小組": "Task Force"
+    },
+    {
+        "聯絡處": "Office"
+    },
+    {
+        "辦公室": "Region Office"
+    },
+    {
+        "部": "Department"
+    },
+    {
+        "工場": "Works"
+    },
+    {
+        "系": "Department"
+    },
+    {
+        "董事會秘書室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "訓練所": "Institute"
+    },
+    {
+        "印刷所": "Works"
+    },
+    {
+        "逾放中心": "Center"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "委員會": "Committee"
+    },
+    {
+        "中山樓管理所": "Office"
+    },
+    {
+        "圖書館(任務)": "Library"
+    },
+    {
+        "處": "Department"
+    },
+    {
+        "隊(京劇、豫劇隊)": "Troupe"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "社教工作站": "Station"
+    },
+    {
+        "圖書館": "Library"
+    },
+    {
+        "處": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Department"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "書記處 (台灣高等法院檢署)": "Division"
+    },
+    {
+        "法警室": "Office"
+    },
+    {
+        "書記處": "Division"
+    },
+    {
+        "室 (人事會計統計政風資訊)": "Office"
+    },
+    {
+        "觀護人室": "Office"
+    },
+    {
+        "法醫師 (檢驗員)": "Forensic Medical Examiner"
+    },
+    {
+        "處": "Section"
+    },
+    {
+        "警衛隊": "Security Unit"
+    },
+    {
+        "行政執行官辦公室": "___ Office"
+    },
+    {
+        "委員會": "Committee"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "總務組": "Division"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "委員會": "Committee"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "辦事處": "Office"
+    },
+    {
+        "隊": "Team"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "隊": "Unit"
+    },
+    {
+        "站": "Unit"
+    },
+    {
+        "訓練中心": "Center"
+    },
+    {
+        "施工所": "Office"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "營運所": "Station"
+    },
+    {
+        "管線隊": "Team"
+    },
+    {
+        "給水廠": "Plant"
+    },
+    {
+        "工務所": "Branch"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "第一軍郵管理處": "First Field Post Management Office"
+    },
+    {
+        "監理站": "Station"
+    },
+    {
+        "委員會": "Committee"
+    },
+    {
+        "處": "Department"
+    },
+    {
+        "股": "Subsection"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "裝修區台": "Aviation Facilities Station"
+    },
+    {
+        "近場管制塔台": "Approach Control Tower"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "工務段": "Branch"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "工務所": "Branch"
+    },
+    {
+        "工務段（所）": "Branch"
+    },
+    {
+        "實習工場": "Workshop"
+    },
+    {
+        "旅客服務所": "Section"
+    },
+    {
+        "工務所": "Office"
+    },
+    {
+        "測量隊": "Team"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "檢驗站": "Laboratory"
+    },
+    {
+        "政風小組": "Unit"
+    },
+    {
+        "疫苗研製中心": "Vaccine Center"
+    },
+    {
+        "資訊小組": "Unit"
+    },
+    {
+        "資訊小組/企劃小組": "Unit"
+    },
+    {
+        "醫審小組": "Unit"
+    },
+    {
+        "聯合門診中心": "Outpatient Center"
+    },
+    {
+        "小組": "Unit"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "科": "Department"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Department"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "處": "Department"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "研究所": "Institute"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "陳列館": "Exhibition"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "發射台": "Transmission Station"
+    },
+    {
+        "檢疫站": "Station"
+    },
+    {
+        "辦事處": "Office"
+    },
+    {
+        "工作站": "Station"
+    },
+    {
+        "系": "Department"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "試驗站": "Experimental Station"
+    },
+    {
+        "分場": "Branch"
+    },
+    {
+        "工作站": "Office"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "所": "Works"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "直屬船隊": "Special Mission Flotilla"
+    },
+    {
+        "查緝隊": "Brigade"
+    },
+    {
+        "勤務指揮中心": "Center"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "隊長": "General Commander"
+    },
+    {
+        "小隊": "Squad"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "隊": "Brigade"
+    },
+    {
+        "分隊": "Station"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "工務所": "Work Station"
+    },
+    {
+        "隊長": "Captain"
+    },
+    {
+        "站(施工)": "Station"
+    },
+    {
+        "隊長": "Chief"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "隊長": "Commander"
+    },
+    {
+        "分隊": "Brigade"
+    },
+    {
+        "隊長": "Captain"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "股": "Subsection"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "工場長": "Chief"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "經理": "General Manager"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "組主任": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "院長": "Dean"
+    },
+    {
+        "院長": "Dean"
+    },
+    {
+        "長": "Dean"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任委員": "Chairperson"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "書記官長": "Secretary General"
+    },
+    {
+        "主任檢察官": "Lead Prosecutor"
+    },
+    {
+        "檢察官": "Prosecutor"
+    },
+    {
+        "主任檢察官": "Lead Prosecutor"
+    },
+    {
+        "檢察官": "Prosecutor"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "課長": "Chief"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Manager"
+    },
+    {
+        "主任": "Manager"
+    },
+    {
+        "廠長": "Manager"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "工場": "Unit"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "廠長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "執行長": "Vice President and General Manager"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "廠長": "Director"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "經理": "Manager"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任秘書": "Chief Secretary"
+    },
+    {
+        "總稽核": "Auditor General"
+    },
+    {
+        "郵政博物館": "Postal Museum"
+    },
+    {
+        "郵政訓練所": "Training Institute"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "廠長": "Manager"
+    },
+    {
+        "分局長": "Director"
+    },
+    {
+        "辦事處": "Office"
+    },
+    {
+        "檢驗室": "Laboratory"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "經理": "General Manager"
+    },
+    {
+        "經理": "General Manager"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "廠長": "Manager"
+    },
+    {
+        "股": "Subsection"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Manager"
+    },
+    {
+        "課長": "Chief"
+    },
+    {
+        "經理": "General Manager"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "組主任": "Chief"
+    },
+    {
+        "組長": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "主任": "Director"
+    },
+    {
+        "區隊": "Platoon"
+    },
+    {
+        "雷達巡( 防組)": "Radar Operation Unit"
+    },
+    {
+        "分隊": "Subbranch"
+    },
+    {
+        "隊長(上校)": "Commander"
+    },
+    {
+        "小組": "Unit"
+    },
+    {
+        "勤務中隊": "Duty Company"
+    },
+    {
+        "隊長(中校)": "Commander"
+    },
+    {
+        "巡邏站": "Patrol Station"
+    },
+    {
+        "勤務中隊": "Duty Company"
+    },
+    {
+        "隊長(中校)": "Commander"
+    },
+    {
+        "區隊": "Platoon"
+    },
+    {
+        "分隊": "Squad"
+    },
+    {
+        "隊長(上校)": "Commander"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "中正文化中心管理處": "Zhongzheng Cultural Center"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "科": "Divosion"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "館": "Library"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "系": "Department"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "工務所": "Branch"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "保養廠": "Maintenance Works"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "中區污水處理廠": "Central District Sewage Treatment Plant"
+    },
+    {
+        "維護工程隊": "Equipment Maintenance Brigade"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "各分館": "Branch Library"
+    },
+    {
+        "民眾閱覽室": "Public Reading Room"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "警衛隊": "Security Unit"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "修理廠": "Maintenance Works"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "總幹事": "Executive Secretary"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "勤務指揮中心": "Duty Command Center"
+    },
+    {
+        "民防管制中心": "Civil Defense Center"
+    },
+    {
+        "隊(保安、交通、刑警、少年、婦幼)": "Brigade"
+    },
+    {
+        "分局": "Precinct"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "救災救護指揮中心": "Emergency and Rescue Command Center"
+    },
+    {
+        "車輛保養廠": "Vehicle Maintenance Works"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室(行政、人事、會計、政風)": "Office"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室(行政、人事、會計、政風)": "Office"
+    },
+    {
+        "區隊": "Unit"
+    },
+    {
+        "資源回收隊": "Unit"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "室(人事、會計、政風)": "Office"
+    },
+    {
+        "___分處": "___ Branch"
+    },
+    {
+        "課(股)": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "股": "Section"
+    },
+    {
+        "股": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "處、室": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組、課": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "村": "Village"
+    },
+    {
+        "里": "Village"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "里": "Village"
+    },
+    {
+        "鄰": "Neighborhood"
+    },
+    {
+        "分署長": "Director"
+    },
+    {
+        "副分署長": "Deputy Director"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "處長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "處長": "Chief"
+    },
+    {
+        "處長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "大隊長": "Commander"
+    },
+    {
+        "中心": "Center"
+    },
+    {
+        "科長": "Division Chief"
+    },
+    {
+        "主任": "Division Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "處長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "大隊長": "Commander"
+    },
+    {
+        "科長": "Chief"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "組長": "Chief"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "小隊": "Squad"
+    },
+    {
+        "主任": "Chief"
+    },
+    {
+        "處長": "Director"
+    },
+    {
+        "分駐所": "Station"
+    },
+    {
+        "派出所": "Station"
+    },
+    {
+        "大隊長": "Commander"
+    },
+    {
+        "免費": "Free of Charge"
+    },
+    {
+        "少年輔導委員會": "Youth Counseling Committee"
+    },
+    {
+        "董事會室": "Board of Directors"
+    },
+    {
+        "產品標籤": "Product Label"
+    },
+    {
+        "郵政劃撥帳號": "Post Office Giro Number"
+    },
+    {
+        "動土典禮": "Groundbreaking Ceremony"
+    },
+    {
+        "開幕儀式": "Grand Opening Ceremony"
+    },
+    {
+        "工會": "Union"
+    },
+    {
+        "公共造產事業": "Business Management"
+    },
+    {
+        "水情中心": "Water Information Center"
+    },
+    {
+        "自動化循環水區": "Auto-circulating Area"
+    },
+    {
+        "沈砂池": "Sand Sink Pool"
+    },
+    {
+        "社區總體營造資源中心": "Community Revitalization Resource Center"
+    },
+    {
+        "非破壞檢測隊": "Non-destructive Testing Team"
+    },
+    {
+        "軍械室": "Armory"
+    },
+    {
+        "海埔新生地": "Reclaimed Land"
+    },
+    {
+        "通話明細": "Call Record Statements"
+    },
+    {
+        "湯圓": "Sticky Rice Balls (Soup)"
+    },
+    {
+        "傳訊王": "Inter Messenger"
+    },
+    {
+        "農友暨消費者服務中心": "Farmers and Consumers Service Center"
+    },
+    {
+        "彰化縣政府成功營區": "Changhua County Government Chengong Office Park"
+    },
+    {
+        "調查組行政協調中心": "Administrative Coordination Center"
+    },
+    {
+        "總處福利會": "Employee’s Benefit Committee of Headquarters"
+    },
+    {
+        "警友會": "Friends of the Police Association"
+    },
+    {
+        "顧客問卷調查表": "Questionnaires"
+    },
+    {
+        "電腦計票中心": "Ballot Tabulation Center"
+    },
+    {
+        "播音室": "Broadcasting Studio"
+    },
+    {
+        "社團辦公室": "Student Clubs"
+    },
+    {
+        "水電、音響維護管理業務": "Plumbing, Electricity and Audio Equipment Management Services"
+    },
+    {
+        "徵信人員調查及估價": "Credit Check and Collateral Appraisal"
+    },
+    {
+        "選務計票中心": "Ballot Tabulation Center"
+    },
+    {
+        "補助要點": "Sponsorship Guidelines"
+    },
+    {
+        "體育會": "Athletic Association"
+    },
+    {
+        "中華林學會": "Chinese Forestry Association"
+    },
+    {
+        "公教退休人員協會": "Retired Public Employees Association"
+    },
+    {
+        "冬至": "Winter Solstice"
+    },
+    {
+        "兵役協會": "Military Service Association"
+    },
+    {
+        "社區規劃工作站": "Community Planning Information"
+    },
+    {
+        "表演藝術雜誌社": "Performing Arts Review"
+    },
+    {
+        "前池": "Forebay"
+    },
+    {
+        "消費者中心": "Consumer Center"
+    },
+    {
+        "產業工會": "Industrial Labor Union"
+    },
+    {
+        "備註": "Remarks"
+    },
+    {
+        "童子軍理事會": "Scouts Council"
+    },
+    {
+        "微波台": "Microwave Station"
+    },
+    {
+        "電信女籃隊": "Chunghwa Telecom Women’s Basketball Team"
+    },
+    {
+        "福利總會": "Employee Benefits Association"
+    },
+    {
+        "機械建設中心": "Equipment Construction Center"
+    },
+    {
+        "警友支會": "___ Branch, Friends of the Police Association"
+    },
+    {
+        "警聲雜誌社": "Voice of Police Magazine"
+    },
+    {
+        "後備軍人服務中心": "Military Reserves’ Service Center"
+    },
+    {
+        "汽車嬰兒椅": "1. Baby Seat  2. Car Seat"
+    },
+    {
+        "正本": "Original Copy"
+    },
+    {
+        "公文": "Official Document"
+    },
+    {
+        "公文封": "Official Envelope"
+    },
+    {
+        "專線": "Dedicated Line / Hotline / Service Line"
+    },
+    {
+        "臺中縣原住民綜合服務中心": "Taichung County Indigenous Peoples Service Center "
+    },
+    {
+        "曹公廟": "同意初譯"
+    },
+    {
+        "目   錄": "Table of Contents"
+    },
+    {
+        "教務處主任": "Chief, Educational Affairs Section "
+    },
+    {
+        "總務處主任": "Chief, General Affairs Section "
+    },
+    {
+        "輔導室主任": "Chief, Counseling Office"
+    },
+    {
+        "課長": "Chief"
+    },
+    {
+        "隊長": "Captain"
+    },
+    {
+        "區域發展課": "Regional Development Section"
+    },
+    {
+        "城鄉規劃課": "Urban and Rural Planning Section"
+    },
+    {
+        "海岸復育課": "Coastal Restoration Section"
+    },
+    {
+        "更新開發課": "Regeneration Section"
+    },
+    {
+        "資訊管理課": "Information Management Section"
+    },
+    {
+        "北部區域規劃隊": "Northern Regional Planning Section"
+    },
+    {
+        "中部區域規劃隊": "Central Regional Planning Section"
+    },
+    {
+        "南部區域規劃隊": "Southern Regional Planning Section"
+    },
+    {
+        "東部區域規劃隊": "Eastern Regional Planning Section"
+    },
+    {
+        "都會區域規劃隊": "Urban Planning Section"
+    },
+    {
+        "特定區域規劃隊": "Special Regional Planning Section"
+    },
+    {
+        "新港鄉": "Singang Township"
+    },
+    {
+        "老家民宿       ": "Hometown Bed & Breakfast        "
+    },
+    {
+        "滿點汽車旅館 ": "Mandian Motel "
+    },
+    {
+        "新中旅社  ": "Xinzhong Hotel"
+    },
+    {
+        "新晃旅社  ": "Xinhuang Hotel"
+    },
+    {
+        "朴子市": "Puzi City"
+    },
+    {
+        "朴子市公所": "Puzi City Office"
+    },
+    {
+        "德興里": "Dexing Village"
+    },
+    {
+        "宏賓旅社": "Hongbin Hotel"
+    },
+    {
+        "萬龍旅社": "Wanlong Hotel"
+    },
+    {
+        "嘉洲大旅社": "Jiazhou Hotel"
+    },
+    {
+        "東亞大旅社": "Dongya Hotel"
+    },
+    {
+        "中平大旅社": "Zhongping Hotel"
+    },
+    {
+        "遺產稅收件櫃台": "Estate Tax (Counter)"
+    },
+    {
+        "贈與稅收件櫃台": "Gift Tax (Counter)"
+    },
+    {
+        "遺產稅審查櫃台": "Estate Tax (Service)"
+    },
+    {
+        "贈與稅審查櫃台": "Gift Tax (Service)"
+    },
+    {
+        "彰化縣伸港鄉立圖書館": "Shengang Township Library, Changhua County"
+    },
+    {
+        "學生事務處": "Student Affairs Section"
+    },
+    {
+        "個別諮商室": "Individual Counseling Room"
+    },
+    {
+        "總務處": "General Affairs Section"
+    },
+    {
+        "儲藏室": "Storeroom"
+    },
+    {
+        "檔案室": "Archives"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "廚房": "Kitchen"
+    },
+    {
+        "第一會議室": "Conference Room I (大型) / Meeting Room I (小型)"
+    },
+    {
+        "校長室": "Principal (僅校長一人) / Principal's Office (除校長外尚有其他人員在內辦公)"
+    },
+    {
+        "校史室": "School History Room"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "綜合領域教室": "Craft and Home Economics Lab"
+    },
+    {
+        "教務處": "Educational Affairs Section"
+    },
+    {
+        "教務資料室": "File Room"
+    },
+    {
+        "文件列印室": "Copy Room"
+    },
+    {
+        "團體諮商室": "Group Counseling Room"
+    },
+    {
+        "輔導處": "Counseling Section"
+    },
+    {
+        "檔案室": "Archives"
+    },
+    {
+        "第二會議室": "Conference Room II (大型) / Meeting Room II (小型)"
+    },
+    {
+        "3年1班": "3rd Grade, Class 1"
+    },
+    {
+        "3年2班": "3rd Grade, Class 2"
+    },
+    {
+        "3年3班": "3rd Grade, Class 3"
+    },
+    {
+        "生物教室": "Biology Lab"
+    },
+    {
+        "生物實驗器材室": "Biology Equipment Room"
+    },
+    {
+        "行動教室": "Multipurpose Instructional Space"
+    },
+    {
+        "英語村": "English Village "
+    },
+    {
+        "2009世運教室": "The World Games 2009 Classroom"
+    },
+    {
+        "電腦教室": "Computer Laboratory / Computer Classroom"
+    },
+    {
+        "體育組": "Physical Education Section"
+    },
+    {
+        "游泳池": "Swimming Pool"
+    },
+    {
+        "工具間": "Tool Room"
+    },
+    {
+        "講話台": "Stage "
+    },
+    {
+        "市政廣播行銷中心": "Municipal Radio Broadcasting Center"
+    },
+    {
+        "戶政小叮嚀": "A Friendly Reminder from the Household Registration Office"
+    },
+    {
+        "下列申請案件請取票等候叫號辦理": "For the following applications, please take a number and await your turn:"
+    },
+    {
+        "下列申請案件請至指定櫃台辦理": "For the following applications, please proceed to the designated counters: "
+    },
+    {
+        "當日一次告知單續辦-原受理櫃台": "One-Time Re-application Pass: Please proceed directly to your original application counter with this pass for same-day re-applications."
+    },
+    {
+        "戶籍登記案件申請須知": "Household Registration Application Information"
+    },
+    {
+        "戶籍登記、證明核發流程及規費一覽表": "Household Registration and Certificate Issuance Procedures and Fees"
+    },
+    {
+        "處理人民申請案件項目暨期限表": "Application Categories and Processing Times"
+    },
+    {
+        "戶籍罰鍰處罰金額基準表": "Standard Fines for Household Registration Violations"
+    },
+    {
+        "公文檔案室": "Document Archives"
+    },
+    {
+        "戶籍資料檔案室": "Household Registration Archives"
+    },
+    {
+        "法令研習": "Household Registration Laws and Regulations"
+    },
+    {
+        "地下停車場/非本局員工請勿進入": "Underground Parking/Staff Only"
+    },
+    {
+        "開放時間週一~週五上午7:30~晚上9:30": "Opening Hours: 7:30 a.m. to 9:30 p.m. Monday-Friday"
+    },
+    {
+        "請開頭燈 減速慢行": "Turn On Headlights and Slow Down "
+    },
+    {
+        "汽機車停車區/B2停車區": "Automobile and Motorcycle Parking/ B2 Parking "
+    },
+    {
+        "身心障礙停車區": "Disabled Parking Only  "
+    },
+    {
+        "機踏車停車區/B2停車區": "Motorcycle and Bicycle Parking / B2 Parking "
+    },
+    {
+        "貴賓停車區": "VIP Parking "
+    },
+    {
+        "自行車停車區": "Bicycle Parking"
+    },
+    {
+        "機車停車區": "Motorcycle Parking "
+    },
+    {
+        "車輛進入一律右轉": "All Vehicles Must Turn Right"
+    },
+    {
+        "第一停車區": "Parking Lot 1"
+    },
+    {
+        "第二停車區": "Parking Lot 2"
+    },
+    {
+        "公務車停車區": "Official Vehicles Only"
+    },
+    {
+        "B2汽車停車區": "B2 Automobile Parking "
+    },
+    {
+        "水深危險請勿靠近": "Danger: Deep Water"
+    },
+    {
+        "新竹縣政府稅捐稽徵局": "Local  Tax  Bureau, Hsinchu County"
+    },
+    {
+        "寶特瓶": "PET Bottles"
+    },
+    {
+        "歡迎進入國有林地": "Welcome to Chiayi  National Forest Area"
+    },
+    {
+        "阿里山國家森林遊樂區歡迎再度光臨": "Thank you for visiting Alishan National Forest Recreation Area. Please come again!"
+    },
+    {
+        "外展專案區": "Employment Development Program Desk"
+    },
+    {
+        "約聘社工督導員": "Supervision Officer  "
+    },
+    {
+        "桃園縣兒童發展通報轉介中心": " Taoyuan County Early Intervention Referral Center  "
+    },
+    {
+        "安平商港": "Anping Port"
+    },
+    {
+        "奉准開辦指定外匯業務擴大服務各界": "This branch is an authorized foreign currency exchange bank."
+    },
+    {
+        "中央銀行金融統計月報最近一個月31天至90天期商業本票次級市場利率平均數": "Latest One-Month Secondary Market Interest Rate (Percent Per Annum) on 31-90 Day Commercial Paper Disclosed in the Central Bank of the Republic of China's 'Financial Statistics Monthly'"
+    },
+    {
+        "一處收件全程服務": "One-stop Window  "
+    },
+    {
+        "區里行政": "Administrative Area Planning"
+    },
+    {
+        "里民大會": "Neighborhood Residents Assembly"
+    },
+    {
+        "審核員": "Assessor"
+    },
+    {
+        "國民年金審核員": "National Pension Assessor"
+    },
+    {
+        "國民年金": "National Pension"
+    },
+    {
+        "收文登記 掛號分文": "Case Filing and Assignment"
+    },
+    {
+        "高雄市仁武鄉公園及路燈管理所": "Parks and Street Lamps Office, Renwu Township, Kaohsiung City"
+    }
+]

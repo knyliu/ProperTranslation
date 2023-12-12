@@ -1,0 +1,542 @@
+[
+    {
+        "新興傳染病": "emerging infectious disease"
+    },
+    {
+        "飛沫傳播": "droplet transmission"
+    },
+    {
+        "社區擴散": "community spread"
+    },
+    {
+        "社區傳播": "community transmission"
+    },
+    {
+        "人傳人": "human-to-human transmission;person-to-person transmission"
+    },
+    {
+        "群聚感染": "cluster infection"
+    },
+    {
+        "局部傳播": "local transmission"
+    },
+    {
+        "接觸者追蹤": "contact tracing"
+    },
+    {
+        "確診病例": "confirmed case"
+    },
+    {
+        "疑似病例": "suspected case"
+    },
+    {
+        "零星病例": "sporadic case"
+    },
+    {
+        "境外移入病例": "imported case"
+    },
+    {
+        "二代病例": "second-generation case"
+    },
+    {
+        "法定傳染病": "notifiable disease"
+    },
+    {
+        "電子圍籬": "geofencing"
+    },
+    {
+        "重症": "severe case"
+    },
+    {
+        "輕症": "mild case"
+    },
+    {
+        "自主健康管理": "self-monitoring (for COVID-19)"
+    },
+    {
+        "拭子送檢": "take a swab and submit for testing"
+    },
+    {
+        "拭子(醫用棉花棒)": "swab"
+    },
+    {
+        "小區簡訊/小區廣播": "Cell Broadcast messaging"
+    },
+    {
+        "社交距離": "social distancing"
+    },
+    {
+        "居家令": "stay-at-home order"
+    },
+    {
+        "封城": "lockdown"
+    },
+    {
+        "冠狀病毒": "coronavirus"
+    },
+    {
+        "新冠病毒肺炎": "coronavirus disease 2019; COVID-19 (infection);novel coronavirus pneumonia"
+    },
+    {
+        "潛伏期": "incubation period"
+    },
+    {
+        "帶原者": "virus carrier"
+    },
+    {
+        "無症狀帶原者": "asymptomatic carrier"
+    },
+    {
+        "超級傳播者": "super spreader"
+    },
+    {
+        "隱性感染": "subclinical infection; inapparent infection"
+    },
+    {
+        "隱性感染者": "subclinically infected person"
+    },
+    {
+        "易感人群": "vulnerable group; vulnerable population"
+    },
+    {
+        "高危險群": "high-risk population"
+    },
+    {
+        "治癒率": "recovery rate;case recovery rate"
+    },
+    {
+        "疫情防控": "epidemic prevention and control"
+    },
+    {
+        "勤洗手": "Wash your hands often and well!"
+    },
+    {
+        "健康申報表": "health declaration form"
+    },
+    {
+        "遏制疫情": "contain the epidemic"
+    },
+    {
+        "體溫檢測": "temperature monitoring"
+    },
+    {
+        "臨時醫院": "temporary hospital;makeshift hospital"
+    },
+    {
+        "虛報": "underreport"
+    },
+    {
+        "一線醫護人員": "frontline health workers"
+    },
+    {
+        "指定醫院": "designated hospital"
+    },
+    {
+        "發燒門診": "fever clinic"
+    },
+    {
+        "肺浸潤": "pulmonary infiltrate"
+    },
+    {
+        "呼吸器": "ventilator"
+    },
+    {
+        "紅外線體溫測量儀": "infrared thermometer"
+    },
+    {
+        "耳溫槍": "ear thermometer"
+    },
+    {
+        "額温槍": "forehead thermometer"
+    },
+    {
+        "體溫熱像儀": "thermal imaging camera"
+    },
+    {
+        "消毒濕巾": "disinfecting wipes"
+    },
+    {
+        "乾洗手(劑)": "hand sanitizer"
+    },
+    {
+        "N95口罩": "N95 respirator;N95 mask"
+    },
+    {
+        "外科口罩": "surgical mask"
+    },
+    {
+        "防護服": "protective clothing;protective suit"
+    },
+    {
+        "負壓救護車": "negative pressure ambulance"
+    },
+    {
+        "負壓病房": "negative-pressure ward;negative-pressure isolation room"
+    },
+    {
+        "旅遊史，職業別，接觸史，群聚史": "TOCC (travel history, occupation, contact history, & cluster history)"
+    },
+    {
+        "隔離衣": "isolation gown"
+    },
+    {
+        "暫停或延後大型集會": "postpone or suspend mass gatherings"
+    },
+    {
+        "全面篩檢": "comprehensive coronavirus testing"
+    },
+    {
+        "檢驗覆蓋率": "testing coverage"
+    },
+    {
+        "新冠病毒快篩試劑": "COVID-19 rapid test kits"
+    },
+    {
+        "找出感染源": "identify source of infection"
+    },
+    {
+        "拉平(確診人數)曲線": "flatten the curve (of cases)"
+    },
+    {
+        "集中檢疫所": "collective quarantine facility"
+    },
+    {
+        "集中檢疫": "collective quarantine"
+    },
+    {
+        "瑞德西韋": "remdesivir"
+    },
+    {
+        "排除病毒": "virus detoxification"
+    },
+    {
+        "排毒時程": "virus detoxification period;duration of virus detoxification"
+    },
+    {
+        "免疫風暴 (細胞激素風暴)": "cytokine storm"
+    },
+    {
+        "大爆發": "major outbreak;massive outbreak"
+    },
+    {
+        "疫情爆發": "epidemic outbreak"
+    },
+    {
+        "隱匿疫情": "cover up the epidemic;coverup of the epidemic"
+    },
+    {
+        "全球大流行": "pandemic"
+    },
+    {
+        "不實消息": "misinformation (錯誤訊息);disinformation (扭曲訊息)"
+    },
+    {
+        "首例": "primary case"
+    },
+    {
+        "指示病例": "index case"
+    },
+    {
+        "零號病人": "patient zero"
+    },
+    {
+        "指標病例": "benchmark case"
+    },
+    {
+        "匡列預算": "budget allocation"
+    },
+    {
+        "紓困振興方案": "relief and economic stimulus package"
+    },
+    {
+        "個人隔離": "quarantine of individuals"
+    },
+    {
+        "重點工作者": "essential worker;key worker"
+    },
+    {
+        "疫情趨緩": "epidemic slowdown"
+    },
+    {
+        "科技抗疫": "utilize technology to fight the epidemic"
+    },
+    {
+        "事實查核": "fact-checking"
+    },
+    {
+        "超前部署": "preemptive preparation; preemptive preparedness"
+    },
+    {
+        "旅遊疫情建議:第三級警告: 避免非必要旅遊第二級警示: 加強預防第一級注意: 提醒注意": "Travel Health Notices:Warning Level 3, Avoid Nonessential TravelAlert Level 2, Practice Enhanced PrecautionsWatch Level 1, Practice Usual Precautions"
+    },
+    {
+        "採檢": "specimen collection and testing"
+    },
+    {
+        "病毒株": "virus strain"
+    },
+    {
+        "病毒突變": "virus mutation"
+    },
+    {
+        "病毒分離": "virus isolation"
+    },
+    {
+        "防疫破口": "infection control breach"
+    },
+    {
+        "空氣傳播": "airborne transmission"
+    },
+    {
+        "接觸傳播": "contact transmission"
+    },
+    {
+        "本土病例": "domestic case"
+    },
+    {
+        "居家隔離": "(government enforced) home quarantine"
+    },
+    {
+        "居家檢疫": "(locally monitored) home quarantine"
+    },
+    {
+        "新型冠狀病毒": "2019 novel coronavirus (2019-nCoV)"
+    },
+    {
+        "嚴重特殊傳染性肺炎": "coronavirus disease 2019; COVID-19 (infection);novel coronavirus pneumonia"
+    },
+    {
+        "移動傳染源": "mobile source of infection"
+    },
+    {
+        "無症狀潛伏期": "asymptomatic incubation period"
+    },
+    {
+        "院內感染": "hospital-acquired infection; nosocomial infection"
+    },
+    {
+        "致死率": "case fatality rate (CFR)"
+    },
+    {
+        "避免人潮": "avoid crowds"
+    },
+    {
+        "兩周觀察期": "two-week observation period"
+    },
+    {
+        "臨床表現": "clinical presentation;clinical manifestation;clinical picture"
+    },
+    {
+        "個人防護裝備": "personal protective equipment (PPE)"
+    },
+    {
+        "氣霧傳播 (氣溶膠)": "aerosol transmission"
+    },
+    {
+        "系統性失靈": "systemic failure"
+    },
+    {
+        "病毒變異": "virus variation"
+    },
+    {
+        "無薪假": "furlough;unpaid leave"
+    },
+    {
+        "遇缺不補": "downsizing through attrition"
+    },
+    {
+        "篩檢抗體": "antibody screening/testing"
+    },
+    {
+        "全面篩檢": "community-wide screening/testing (for COVID-19)"
+    },
+    {
+        "普篩": "widespread screening/testing (for COVID-19)"
+    },
+    {
+        "血清檢測": "serological test;serological testing"
+    },
+    {
+        "解除隔離": "released from hospital isolation (解除住院隔離);released from home quarantine (解除居家隔離)"
+    },
+    {
+        "解除(居家)檢疫": "released from self-isolation"
+    },
+    {
+        "解除檢疫管制": "lift quarantine;lifting quarantine"
+    },
+    {
+        "(出院)復陽": "retest positive (after release from hospital)"
+    },
+    {
+        "(狀況) 時陰時陽": "inconsistent test results"
+    },
+    {
+        "三次採檢陰性 (三採陰)": "three consecutive negative tests"
+    },
+    {
+        "(採檢) 介於陰陽之間 ": "inconclusive test result"
+    },
+    {
+        "味/嗅覺異常 ": "abnormal sense of smell and taste"
+    },
+    {
+        "味/嗅覺喪失": "loss of smell and taste"
+    },
+    {
+        "匡列接觸者 ": "identify potential contacts;identified potential contacts"
+    },
+    {
+        "核酸檢測": "nucleic acid testing (NAT)"
+    },
+    {
+        "抗體檢測": "antibody testing"
+    },
+    {
+        "抗原免疫檢測": "antigen testing"
+    },
+    {
+        "撤僑專機": "citizen evacuation flight"
+    },
+    {
+        "重振國旅、安心旅遊": "revitalizing domestic tourism and ensuring worry-free travel"
+    },
+    {
+        "防疫旅遊": "pandemic-safe travel"
+    },
+    {
+        "(旅遊) 踩線團": "fam trip (familiarization trip)"
+    },
+    {
+        "類包機": "semi-charter flight"
+    },
+    {
+        "防疫新生活": "new pandemic-safe life"
+    },
+    {
+        "校正回歸": "backdated cases"
+    },
+    {
+        "免疫橋接": "immunobridging"
+    },
+    {
+        "分流措施": "crowding and flow control measures;crowding reduction and flow control measures"
+    },
+    {
+        "分流上班": "staggered working times"
+    },
+    {
+        "殘劑": "leftover vaccine doses"
+    },
+    {
+        "分流措施(醫院專用)": "triage and isolation"
+    },
+    {
+        "分診 /檢傷分類": "triage"
+    },
+    {
+        "(醫院)分艙分流": "hospital (patient, staff, and caregiver) segregation and flow control measures"
+    },
+    {
+        "彈性上班時間": "flexible work times; flextime"
+    },
+    {
+        "異地辦公": "working from distributed (office) sites"
+    },
+    {
+        "居家上班": "working from home (WFH)"
+    },
+    {
+        "分組執勤": "split operation; split working"
+    },
+    {
+        "視訊會議": "video conference; video conferencing"
+    },
+    {
+        "實聯制": "(SMS) real-name registration system"
+    },
+    {
+        "疫情警戒第三級": "level three COVID-19 alert; level three pandemic alert"
+    },
+    {
+        "冷鏈": "cold chain"
+    },
+    {
+        "迅速封鎖": "snap lockdown"
+    },
+    {
+        "同島一命": "Our islands, one destiny"
+    },
+    {
+        "變異病毒": "virus variant"
+    },
+    {
+        "病毒變異": "viral mutation"
+    },
+    {
+        "臉罩(防護面罩)": "face shield"
+    },
+    {
+        "清零計劃": "zero COVID plan;zero Covid plan;zero-COVID strategy (UK); Covid-zero plan (Australia)"
+    },
+    {
+        "認知作戰": "cognitive warfare"
+    },
+    {
+        "新聞規避": "news avoidance"
+    },
+    {
+        "美國創新與競爭法": "The United States Innovation and Competition Act (USICA)"
+    },
+    {
+        "機組歲修": "annual power plant generator maintenance"
+    },
+    {
+        "優先資源先導計畫": "Preferred Resources Pilot (PRP)"
+    },
+    {
+        "需量反應": "demand response"
+    },
+    {
+        "儲能": "energy storage"
+    },
+    {
+        "分散式再生能源": "distributed renewable energy"
+    },
+    {
+        "微解封": "easing of the lockdown (restrictions);partial lifting of the lockdown (restrictions)"
+    },
+    {
+        "熱罩": "heat dome"
+    },
+    {
+        "舊藥新用": "drug repositioning; drug repurposing"
+    },
+    {
+        "新冠病毒健康通行證": "COVID health pass"
+    },
+    {
+        "疫苗數位證明": "digital (COVID) vaccine pass"
+    },
+    {
+        "疫苗護照": "vaccine passport"
+    },
+    {
+        "歐盟新冠疫苗接種證明": "EU Digital COVID Certificate (DCC)"
+    },
+    {
+        "零工經濟": "gig economy"
+    },
+    {
+        "非正式就業": "informal employment"
+    },
+    {
+        "戰略模糊": "strategic ambiguity"
+    },
+    {
+        "戰略清晰": "strategic clarity"
+    },
+    {
+        "正子斷層造影": "positron emission tomography (PET)"
+    }
+]

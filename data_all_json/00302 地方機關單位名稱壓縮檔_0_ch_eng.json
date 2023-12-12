@@ -1,0 +1,3443 @@
+[
+    {
+        "股": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "股": "Section"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "股": "Section"
+    },
+    {
+        "工會股": "Unions Section"
+    },
+    {
+        "勞教股": "Education Section"
+    },
+    {
+        "勞資股": "Labor Relations Section"
+    },
+    {
+        "條件股": "Labor Standards Section"
+    },
+    {
+        "安衛股": "Safety and Health Section"
+    },
+    {
+        "職訓股": "Training Section"
+    },
+    {
+        "福利股": "Welfare Section"
+    },
+    {
+        "身心障礙股": "Disabled Affairs Section"
+    },
+    {
+        "事務股": "General Affairs Section"
+    },
+    {
+        "綜規股": "Planning Section"
+    },
+    {
+        "營業衛生股": null
+    },
+    {
+        "職業衛生股": null
+    },
+    {
+        "醫政股": "Medical Administration Section"
+    },
+    {
+        "市醫管理股": "Municipal Hospital Management Section"
+    },
+    {
+        "醫護股": "Medical Care Section"
+    },
+    {
+        "精神衛生股": "Mental Health Section"
+    },
+    {
+        "藥物股": "Pharmaceutical Management Section"
+    },
+    {
+        "藥政股": "Pharmaceutical Administration Section"
+    },
+    {
+        "化妝品管理股": "Cosmetics Management Section"
+    },
+    {
+        "社區保健股": "Community Health Section"
+    },
+    {
+        "臨床護理股": "Clinical Nursing Section"
+    },
+    {
+        "衛生教育股": "Education Section"
+    },
+    {
+        "衛生訓練股": "Training Section"
+    },
+    {
+        "食品衛生安全   一股": "First Section"
+    },
+    {
+        "食品衛生安全   二股": "Second Section"
+    },
+    {
+        "食品衛生安全   三股": "Third Section"
+    },
+    {
+        "化學檢驗股": "Chemical Examination Section"
+    },
+    {
+        "臨床檢驗股": "Clinical Examination Section"
+    },
+    {
+        "研考股": "Research and Evaluation Section"
+    },
+    {
+        "資訊股": "Information Management Section"
+    },
+    {
+        "第一股": "First Section"
+    },
+    {
+        "第二股": "Second Section"
+    },
+    {
+        "公務股": "Public Budget Section"
+    },
+    {
+        "基金股": "Endowments Section"
+    },
+    {
+        "文書股": "Documentation Section"
+    },
+    {
+        "事務股": "General Affairs Section"
+    },
+    {
+        "綜合規劃股": "Planning Section"
+    },
+    {
+        "聯合開發股": "Joint-development Section"
+    },
+    {
+        "財務計畫股": "Finance Section"
+    },
+    {
+        "營運規劃股": "Operations Section"
+    },
+    {
+        "一般土木股": "Civil Engineering Section"
+    },
+    {
+        "建築工程股": "Architecture Section"
+    },
+    {
+        "結構工程股": "Structure Section"
+    },
+    {
+        "機電工程股": "Electromechanical Section"
+    },
+    {
+        "車輛股": "Vehicles Section"
+    },
+    {
+        "通訊號誌股": "Signaling and Communication  Section"
+    },
+    {
+        "供電股": "Power Supply Section"
+    },
+    {
+        "機廠設備股": "Depot and Station Equipment Section"
+    },
+    {
+        "用地路權股": "Land Acquisition Section"
+    },
+    {
+        "拆遷補償股": "Demolition and Compensation Section"
+    },
+    {
+        "事務股": "General Affairs Section"
+    },
+    {
+        "文書股": "Documentation Section"
+    },
+    {
+        "活動課": "Activities  Section"
+    },
+    {
+        "展覽課": "Exhibition Section"
+    },
+    {
+        "圖書課": "Library Section"
+    },
+    {
+        "技術課": "Technical Support Section"
+    },
+    {
+        "營運管理股": "Parking Lot Operations Section"
+    },
+    {
+        "規劃與違規股": "Parking Planning and Violations Section"
+    },
+    {
+        "_____發射站": "_____ Transmission Station"
+    },
+    {
+        "課務組": "Curriculum Section "
+    },
+    {
+        "註冊組": "Registration Section"
+    },
+    {
+        "生活輔導組": "Guidance and Counseling Section"
+    },
+    {
+        "課外活動組": "Extracurricular Activities Section"
+    },
+    {
+        "製作組": "Production Section"
+    },
+    {
+        "媒體組": "Media Section"
+    },
+    {
+        "文書組": "Documentation Section"
+    },
+    {
+        "出納組": "Cashier Section"
+    },
+    {
+        "營繕保管組": "Maintenance Section"
+    },
+    {
+        "事務組": "General Affairs Section"
+    },
+    {
+        "閱覽服務組": "Circulation Section"
+    },
+    {
+        "教學資料組": "Instructional Materials Section"
+    },
+    {
+        "收發室": "Mail Room"
+    },
+    {
+        "打字室": "Typing Room"
+    },
+    {
+        "出納": "Cashier"
+    },
+    {
+        "檔案室": "Archives"
+    },
+    {
+        "警衛室": "Security Room"
+    },
+    {
+        "圖書室": "Library"
+    },
+    {
+        "違章審理股": "Fines Section"
+    },
+    {
+        "行政救濟股": "Administrative Remedies Section"
+    },
+    {
+        "欠稅執行股": "Arrears Settlement Subsection"
+    },
+    {
+        "系統執行股": "Software Application Subsection"
+    },
+    {
+        "作業管制股": "Operation Control Subsection"
+    },
+    {
+        "機器操作股": "Hardware Operation Subsection"
+    },
+    {
+        "研考股": "Research and Evaluation Subsection"
+    },
+    {
+        "服務股": "Services Subsection"
+    },
+    {
+        "土地稅股": "Land Tax Subsection"
+    },
+    {
+        "房屋稅股": "House Tax Subsection"
+    },
+    {
+        "鄰": "Neighborhood"
+    },
+    {
+        "桶盤衛生室": "Tongpan Public Health Office"
+    },
+    {
+        "證券承銷科": "Securities Underwriting Section"
+    },
+    {
+        "食品藥政科": "Food and Drug Section  "
+    },
+    {
+        "長期照顧科": "Long-Term Care Section"
+    },
+    {
+        "長期照顧科": "Long-Term Care Section"
+    },
+    {
+        "演出活動組": " Performance Division  "
+    },
+    {
+        "市長室": "1. Mayor 2. Mayor's Office"
+    },
+    {
+        "副市長室": "1. Deputy Mayor  2. Deputy Mayor's Office"
+    },
+    {
+        "參事室": "Counselor(s)"
+    },
+    {
+        "顧問室": "Advisor(s)"
+    },
+    {
+        "消費者保護官": "Consumer Ombudsman Office"
+    },
+    {
+        "市府聯合服務中心": "Joint Service Center"
+    },
+    {
+        "市政資料圖書館": "Government Documents Library"
+    },
+    {
+        "國際交流展示中心": "International Exchange Exhibition "
+    },
+    {
+        "秘書長室": "1.Secretary-general  2.Secretary-general's Office"
+    },
+    {
+        "副秘書長室": "1.Deputy Secretary-general 2.Deputy Secretary-general's Office"
+    },
+    {
+        "第一科": "First Division"
+    },
+    {
+        "第二科": "Second Division"
+    },
+    {
+        "第三科": "Third Division"
+    },
+    {
+        "第四科": "Fourth Division"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "視察室": "Inspection Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "第一課": "First Section"
+    },
+    {
+        "第二課": "Second Section"
+    },
+    {
+        "第三課": "Third Section"
+    },
+    {
+        "會計員": "Accounting Officer"
+    },
+    {
+        "人事管理員": "Personnel Officer"
+    },
+    {
+        "___市___區第一戶政事務所": "___ District First Household Registration Office, ___ City"
+    },
+    {
+        "___市___區第二戶政事務所": "___ District Second Household Registration Office, ___ City"
+    },
+    {
+        "第一組": "First Section"
+    },
+    {
+        "第二組": "Second Section"
+    },
+    {
+        "第三組": "Third Section"
+    },
+    {
+        "會計": "Accounting Office"
+    },
+    {
+        "人事": "Personnel Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "財政局局本部": "Finance Bureau Main Office"
+    },
+    {
+        "財政局___辦公室": "Finance Bureau ___ Office"
+    },
+    {
+        "服務科": "Public Services Section"
+    },
+    {
+        "財產稅科": "Property Tax Section"
+    },
+    {
+        "機會稅科": "Opportunity Tax / Miscellaneous Tax Section"
+    },
+    {
+        "電子作業科": "Data Processing Section"
+    },
+    {
+        "稽核科": "Auditing Section"
+    },
+    {
+        "稅務管理科": "Enforcement and Refund Section"
+    },
+    {
+        "總務室": "General Affairs Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "法務室": "Legal Affairs Office"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "___分處": "___ Branch"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "人事": "Personnel Officer"
+    },
+    {
+        "業務組": "Operations Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "第一科": "First Division  (Senior High and Vocational Schools)"
+    },
+    {
+        "第二科": "Second Division (Junior High Schools)"
+    },
+    {
+        "第三科": "Third Division (Elementary Schools and Kindergartens)"
+    },
+    {
+        "第四科": "Fourth Division (Social and Special Education)"
+    },
+    {
+        "第五科": "Fifth Division (Health and Physical Education)"
+    },
+    {
+        "第六科": "Sixth Division (General Affairs)"
+    },
+    {
+        "軍訓室": "Military Education Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "活動組": "Events Section"
+    },
+    {
+        "推廣組": "Promotion Section"
+    },
+    {
+        "場地組": "Facilities Section"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "工務組": "Engineering Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "___動物園": "___ Zoo"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "住宅開發處": "Department of Housing Development"
+    },
+    {
+        "工程企劃處": "Department of Planning"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "北區工務所": "Northern Branch"
+    },
+    {
+        "南區工務所": "Southern  Branch "
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "中區污水處理廠": "Central District Sewage Treatment Plant"
+    },
+    {
+        "維護工程隊": "Equipment Maintenance Brigade"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "養護工程大隊": "Maintenance Corps"
+    },
+    {
+        "機械車輛聯合保養廠": "Equipment Maintenance Works"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "社工室": "Social Work Office"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "社工組": "Social Work Section"
+    },
+    {
+        "保健組": "Health Division"
+    },
+    {
+        "行政課": "General Affairs Section"
+    },
+    {
+        "教保課": "Education and Health Section"
+    },
+    {
+        "活動課": "ActivitiesSection"
+    },
+    {
+        "保健課": "Health Section"
+    },
+    {
+        "行政課": "General Affairs Section"
+    },
+    {
+        "輔導課": "Counseling Section"
+    },
+    {
+        "活動課": "Activities Section"
+    },
+    {
+        "行政課": "General Affairs Section"
+    },
+    {
+        "服務課": "Services Section"
+    },
+    {
+        "教保課": "Education and Health Section"
+    },
+    {
+        "綜合行政組": "General Affairs Section"
+    },
+    {
+        "保護扶助組": "Protection and Support Section"
+    },
+    {
+        "專線救援組": "Hotline and Rescue Section"
+    },
+    {
+        "醫療服務組": "Medical Services Section"
+    },
+    {
+        "暴力防治組": "Violence Prevention Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "行政組": "General Affairs Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "輔導科": "Counseling Section"
+    },
+    {
+        "教務科": "Educational Section"
+    },
+    {
+        "行政科": "General Affairs Section"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "行政科": "Duty Dispatch Division"
+    },
+    {
+        "陸務科": "Mainland Affairs Division"
+    },
+    {
+        "戶口科": "Household Registration Division"
+    },
+    {
+        "外事科": "Foreign Affairs Division"
+    },
+    {
+        "後勤科": "Logistics Division"
+    },
+    {
+        "保安科": "Public Order Division"
+    },
+    {
+        "民防科": "Civil Defense Division"
+    },
+    {
+        "訓練科": "Training Division"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "秘書室": "Secretariat "
+    },
+    {
+        "保防室": "Public Security Office"
+    },
+    {
+        "法規室": "Legal Affairs Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "公共關係室": "Public Relations Office"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "勤務指揮中心": "Duty Command Center"
+    },
+    {
+        "刑事鑑識中心": "Forensic Science Center"
+    },
+    {
+        "民防管制中心": "Civil Defense Operations Center"
+    },
+    {
+        "船舶大隊": "Vessel Administration Corps"
+    },
+    {
+        "少年警察隊": "Juvenile Delinquency Prevention Brigade"
+    },
+    {
+        "女子警察隊": "Women and Children Protection Brigade"
+    },
+    {
+        "通信隊": "Communications Brigade"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "災害預防科": "Disaster Prevention Division "
+    },
+    {
+        "救災救護科": "Emergency and Rescue Division"
+    },
+    {
+        "教育訓練科": "Training and Education Division"
+    },
+    {
+        "火災鑑識科": "Fire Investigation Division "
+    },
+    {
+        "救災救護指揮中心": "Emergency and Rescue Command Center"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "南區救災救護大隊": "Southern District Emergency and Rescue Corps"
+    },
+    {
+        "北區救災救護大隊": "Northern District Emergency and Rescue Corps"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "防疫科": "Prevention Section"
+    },
+    {
+        "護理科": "Nursing Section"
+    },
+    {
+        "醫療科": "Medical Care Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "科": "Department"
+    },
+    {
+        "____市立____醫院": "____ Municipal ____ Hospital"
+    },
+    {
+        "____市立中醫醫院": "____ Municipal Chinense Medicine Hospital"
+    },
+    {
+        "第一科": "First Section"
+    },
+    {
+        "第二科": "Second Section "
+    },
+    {
+        "總務科": "General Affairs Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "技術室": "Technical  Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "修車廠": "Vehicles Maintenance Works"
+    },
+    {
+        "____填海工程管理中心": "____ Reclaimed Land Management Center"
+    },
+    {
+        "廢棄物處理場": "Waste Treatment Plant"
+    },
+    {
+        "水肥處理廠": "Sewage Treatment Plant"
+    },
+    {
+        "溝渠清疏隊": "Dredging Unit"
+    },
+    {
+        "區清潔隊": "District Cleaning Unit"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "會計室": "Accounting Office "
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "採編組": "Acquisition and Cataloging  Section"
+    },
+    {
+        "閱覽組": "Circulation Section"
+    },
+    {
+        "推廣組": "Extension Section"
+    },
+    {
+        "資訊組": "Information Management Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "___分館": "___ Branch Library"
+    },
+    {
+        "調色板兒童玩具圖書館": "Toy Library"
+    },
+    {
+        "____民眾閱覽室": "____ Reading Room"
+    },
+    {
+        "____民眾閱覽室": "____ Reading Room"
+    },
+    {
+        "典藏組": "Acquisition Section"
+    },
+    {
+        "展覽組": "Exhibition Section"
+    },
+    {
+        "推廣組": "Extension Section"
+    },
+    {
+        "研究組": "Research Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "青少年活動組": "Youth Activity Section"
+    },
+    {
+        "研究推廣組": "Research and Development Section"
+    },
+    {
+        "輔導組": "Counseling Section"
+    },
+    {
+        "駐警隊": "Security Unit"
+    },
+    {
+        "管理組": "Management Section"
+    },
+    {
+        "行政組": "General Affairs Section"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "典藏組": "Acquisition Section"
+    },
+    {
+        "展覽組": "Exhibition Section"
+    },
+    {
+        "推廣組": "Extension Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "交通事件裁決處": "Traffic Violation Arbitration Office"
+    },
+    {
+        "業務科": "Business Section"
+    },
+    {
+        "機料科": "Machinery and Materials Section"
+    },
+    {
+        "調度管理室": "Dispatch Section"
+    },
+    {
+        "總務科": "General Affairs Section"
+    },
+    {
+        "修理工廠": "Maintenance Works"
+    },
+    {
+        "科": "Section"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "南區分處": "Southern District Office"
+    },
+    {
+        "車輛行車事故鑑定委員會": "Traffic Accident Investigation Committee"
+    },
+    {
+        "教務組": "Education Division"
+    },
+    {
+        "輔導組": "Guidance Division"
+    },
+    {
+        "研究組": "Research Division"
+    },
+    {
+        "總務組": "General Affairs Division"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "課": "Section"
+    },
+    {
+        "會計": "Accounting Officer"
+    },
+    {
+        "人事": "Personnel Officer"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "節目組": "Program Section"
+    },
+    {
+        "新聞組": "News Section"
+    },
+    {
+        "行政室": "General affairs Office"
+    },
+    {
+        "行政組": "General Affairs Section"
+    },
+    {
+        "活動組": "Activities Section"
+    },
+    {
+        "典藏組": "Acquisition Section"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "會計員": "Accounting Officer"
+    },
+    {
+        "人事管理員": "Personnel Officer"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "作業設計組": "Applied Design Section"
+    },
+    {
+        "機器操作組": "Systems Operation Section"
+    },
+    {
+        "資料管理組": "Data Control Section"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "室": "Office"
+    },
+    {
+        "審核組": "Review Section"
+    },
+    {
+        "財務組": "Finance Section"
+    },
+    {
+        "工程組": "Engineering Section"
+    },
+    {
+        "科": "Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "聯合服務中心": "Joint Services Center"
+    },
+    {
+        "組": "Division"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "法政學系": "Department of Law and Political Science"
+    },
+    {
+        "外國語文學系": "Department of Foreign Languages and Literature "
+    },
+    {
+        "工商管理學系": "Department of Industrial and Business Management "
+    },
+    {
+        "大眾傳播學系": "Department of Mass Communications"
+    },
+    {
+        "文化藝術學系": "Department of Art and Culture"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "電算中心": "Information Management Center"
+    },
+    {
+        "學習指導中心": "Learning Center"
+    },
+    {
+        "教務處": "Educational Affairs Section "
+    },
+    {
+        "學務處": "Student Affairs Section"
+    },
+    {
+        "總務處": "General Affairs Section "
+    },
+    {
+        "輔導處": "Counseling Section "
+    },
+    {
+        "民政課": "Civil Affairs Section"
+    },
+    {
+        "社會課": "Social Welfare Section"
+    },
+    {
+        "經建課": "Economic Development Section"
+    },
+    {
+        "社經課": "Social Welfare and Economic Development Section"
+    },
+    {
+        "兵役課": "Military Service Section"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "里": "Village"
+    },
+    {
+        "_____海岸公園": "_____ Seaside Park"
+    },
+    {
+        "議長室": "Speaker's Office"
+    },
+    {
+        "副議長室": "Deputy Speaker's  Office"
+    },
+    {
+        "秘書長室": "1.Secretary-general 2.Secretary-general's Office"
+    },
+    {
+        "副秘書長室": "1.Deputy Secretary-general 2.Deputy Secretary-general's Office"
+    },
+    {
+        "各委員會〈一〉辦公室": "Committee Office I"
+    },
+    {
+        "各委員會(二)辦公室": "Committee Office II"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "議事組": "Conference Logistics Division"
+    },
+    {
+        "公共關係室": "Public Relations Office"
+    },
+    {
+        "法規研究室": "Legal Affairs Office"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "民政處": "Civil Affairs Department"
+    },
+    {
+        "戶政科": "Household Registration Section "
+    },
+    {
+        "地方自治科": "Local Governance Section"
+    },
+    {
+        "地方行政科": "Local Governance Section"
+    },
+    {
+        "自治行政科": "Local Governance Section"
+    },
+    {
+        "自治事業科": "Business and Ventures Section"
+    },
+    {
+        "自治科": "Local Governance Section"
+    },
+    {
+        "兵役行政科": "Military Service Section"
+    },
+    {
+        "兵役徵訓科": "Conscription Section"
+    },
+    {
+        "兵役徵集科": "Conscription Section"
+    },
+    {
+        "兵役徵編科": "Conscription Section"
+    },
+    {
+        "宗教科": "Religious Affairs Section"
+    },
+    {
+        "宗教禮俗科": "Religion and Folk Customs Section"
+    },
+    {
+        "客家事務科": "Hakka Affairs Section"
+    },
+    {
+        "原住民生活輔導中心": "Indigenous Peoples Counseling Center"
+    },
+    {
+        "原住民行政科": "Indigenous Peoples Affairs Section"
+    },
+    {
+        "原住民經建科": "Indigenous Peoples Economic Development Section"
+    },
+    {
+        "勤務管理科": "Military Services Section"
+    },
+    {
+        "徵兵處理科": "Conscription Section"
+    },
+    {
+        "徵集勤務科": "Conscription Section"
+    },
+    {
+        "徵集管理科": "Conscription Section"
+    },
+    {
+        "編練後管科": "Reserves Service Section"
+    },
+    {
+        "編練勤務科": "Reserves Service Section"
+    },
+    {
+        "調解行政科": "Mediation Section"
+    },
+    {
+        "殯葬管理科": "Mortuary Services Section"
+    },
+    {
+        "禮俗文獻科": "Folk Customs Section"
+    },
+    {
+        "禮儀民俗科": "Folk Custom Section"
+    },
+    {
+        "禮儀事務科": "Folk Customs Section"
+    },
+    {
+        "忠烈祠管理所": "Martyrs' Shrine Management Office"
+    },
+    {
+        "選舉委員會": "County Election Commission"
+    },
+    {
+        "null": "南高東"
+    },
+    {
+        "公有財產科": "Public Property Section"
+    },
+    {
+        "地方金融科": "Local Financial Institutions Section"
+    },
+    {
+        "金融及菸酒管理科": "Local Financial Institutions, Tobacco and Alcohol Section"
+    },
+    {
+        "庫款支付科": "Treasury Section"
+    },
+    {
+        "財務管理科": "Financial Management Section"
+    },
+    {
+        "稅務行政科": "Taxation Section"
+    },
+    {
+        "菸酒管理科": "Tobacco and Alcohol Section"
+    },
+    {
+        "集中支付科": "Disbursement Section"
+    },
+    {
+        "資金管理科": "Financial Management Section"
+    },
+    {
+        "教育處": "Education Department"
+    },
+    {
+        "社會教育科": "Social Education Section"
+    },
+    {
+        "特幼科": "Special and Pre-school Education Section"
+    },
+    {
+        "特殊幼教科": "Special and Pre-school Education Section"
+    },
+    {
+        "特殊及幼稚教育科": "Special and Pre-school Education Section"
+    },
+    {
+        "特殊教育科": "Special Education Section"
+    },
+    {
+        "國民教育科": "Educational Affairs Section"
+    },
+    {
+        "終身教育科": "Life-long Education Section"
+    },
+    {
+        "學務管理科": "School Affairs Section"
+    },
+    {
+        "體育保健科": "Health and Physical Education Section"
+    },
+    {
+        "教學發展科": "Teaching Development Section"
+    },
+    {
+        "市政大學": "Tainan City Community College"
+    },
+    {
+        "建設處": "Economic Affairs Department"
+    },
+    {
+        "工商服務科": "Industrial and Commercial Services Section"
+    },
+    {
+        "工商科": "Industry and Commerce Section"
+    },
+    {
+        "工業輔導科": "Industrial Services Section"
+    },
+    {
+        "工業科": "Industrial Services Section"
+    },
+    {
+        "土石管理科": "Rock and Soil Resources Management Section"
+    },
+    {
+        "公用事業管理科": "Public Utilities Section"
+    },
+    {
+        "公用事業科": "Public Utilities Section"
+    },
+    {
+        "公園路燈管理科": "Parks and Street Lamps Section"
+    },
+    {
+        "水利科": "Water Resources Section"
+    },
+    {
+        "水資源與土石管理科": "Water and Soil Management Section"
+    },
+    {
+        "市場管理科": "Markets Management Section"
+    },
+    {
+        "使用管理科": "Building Permit and Inspection Section"
+    },
+    {
+        "拆除隊": "Demolition Brigade"
+    },
+    {
+        "建築管理科": "Builiding Administration Section"
+    },
+    {
+        "商業輔導科": "Commercial Services Section"
+    },
+    {
+        "商業科": "Commercial Services Section"
+    },
+    {
+        "國宅及工程行政科": "Public Housing and Construction Section"
+    },
+    {
+        "都市計畫科": "Urban Planning Section"
+    },
+    {
+        "農林畜產科": "Agriculture, Forestry and Livestock Section"
+    },
+    {
+        "漁業科": "Fisheries Section"
+    },
+    {
+        "觀光行銷科": "Tourism Promotion Section"
+    },
+    {
+        "觀光技術科": "Tourism Facilities Section"
+    },
+    {
+        "觀光科": "Tourism Section"
+    },
+    {
+        "發包中心": "Bidding Center"
+    },
+    {
+        "中正公園管理站": "Zhongzheng Park Station"
+    },
+    {
+        "工商發展處": "Economic Development Department"
+    },
+    {
+        "工商輔導科": "Industrial and Commercial Services Section"
+    },
+    {
+        "工商登記科": "Company Registration Section"
+    },
+    {
+        "產業發展科": "Business Development Section"
+    },
+    {
+        "公用事業科": "Public Utilities Section"
+    },
+    {
+        "聯合作業中心": "Joint Service Center"
+    },
+    {
+        "震災重建基金會": "Earthquake Post-disaster Recovery Foundation"
+    },
+    {
+        "經濟發展處": "Economic Development Department"
+    },
+    {
+        "工業科": "Industrial Services Section"
+    },
+    {
+        "商業科": "Commercial Services Section"
+    },
+    {
+        "貿易與國際合作科": "International Trade and Cooperation Section"
+    },
+    {
+        "公用事業科": "Public Utilities Section"
+    },
+    {
+        "科技產業科": "Technology Section"
+    },
+    {
+        "工業策進會": "Investment Promotion Committee"
+    },
+    {
+        "農業處": "Agriculture Department"
+    },
+    {
+        "水土保持科": "Soil and Water  Conservation Section"
+    },
+    {
+        "生態保育科": "Ecological Conservation Section "
+    },
+    {
+        "企業暨輔導科": "Enterprise and Farmers' Association Guidance Section "
+    },
+    {
+        "企劃科": "Planning Section"
+    },
+    {
+        "自然保育科": "Nature Conservation Section"
+    },
+    {
+        "林務科": "Forestry Section"
+    },
+    {
+        "林務科": "Forestry Section"
+    },
+    {
+        "畜牧科": "Husbandry Section"
+    },
+    {
+        "畜產科": "Livestock Section"
+    },
+    {
+        "森林保育科": "Forest Conservation Section"
+    },
+    {
+        "農務科": "Agricultural Affairs Section "
+    },
+    {
+        "農產行銷科": "Product Marketing Section "
+    },
+    {
+        "農產運銷科": "Agricultural Marketing Section"
+    },
+    {
+        "農產運銷科暨生態保育科": "Agricultural Marketing and Ecological Conservation Section"
+    },
+    {
+        "農會輔導科": "Farmers' Association Support Section"
+    },
+    {
+        "農業企劃科": "Planning Section"
+    },
+    {
+        "農業計畫科": "Planning Section"
+    },
+    {
+        "農漁會輔導科": "Farmers' and Fishermen's Association Support Section"
+    },
+    {
+        "漁牧科": "Fisheries and Husbandry Section"
+    },
+    {
+        "漁業管理科": "Fisheries Section"
+    },
+    {
+        "漁業科": "Fisheries Section"
+    },
+    {
+        "輔導科": "Support Section"
+    },
+    {
+        "___縣(市)動物防疫所": "Animal Disease Control Center, ___ County (City)"
+    },
+    {
+        "___縣(市)動物疾病防治所": "Animal Disease Control Center, ___ County (City)"
+    },
+    {
+        "農業處": "Agriculture Department"
+    },
+    {
+        "工務處": "Public Works Department"
+    },
+    {
+        "下水道工程科": "Sewer Engineering Section"
+    },
+    {
+        "下水道科": "Sewage Section"
+    },
+    {
+        "土木工程科": "Civil Engineering Section"
+    },
+    {
+        "土木科": "Civil Engineering Section"
+    },
+    {
+        "土石採取科": "Rock and Soil Resources Management Section"
+    },
+    {
+        "公共公程科": "Public Works Section"
+    },
+    {
+        "公有建築科": "Public Buildings Section "
+    },
+    {
+        "水利科": "Water Resources Section"
+    },
+    {
+        "使用管理科": "Building Permit and Inspection Section"
+    },
+    {
+        "河川管理科": "River Management Section"
+    },
+    {
+        "建物使用科": "Building Using Section"
+    },
+    {
+        "建物管理科": "Building Administration Section"
+    },
+    {
+        "建築工程科": "Construction Section"
+    },
+    {
+        "建築管理科": "Building Administration Section"
+    },
+    {
+        "國宅科": "Public Housing Section"
+    },
+    {
+        "採購科": "Procurement Section"
+    },
+    {
+        "養護工程科": "Road Maintenance Section"
+    },
+    {
+        "養護科": "Maintenance Section"
+    },
+    {
+        "發包中心": "Bidding Center"
+    },
+    {
+        "重大工程執行小組": "Major Projects Task Force"
+    },
+    {
+        "工程隊": "Engineering Team"
+    },
+    {
+        "違章建築拆除隊": "Building Violations Enforcement Brigade"
+    },
+    {
+        "組": "Section"
+    },
+    {
+        "城鄉發展處": "Urban and Rural Development Department"
+    },
+    {
+        "土地開發科": "Land Development Section"
+    },
+    {
+        "工商科": "Industry and Commerce Section"
+    },
+    {
+        "工商管理科": "Industry and Commerce Section"
+    },
+    {
+        "公用事業科": "Public Utilities Section"
+    },
+    {
+        "交通行政科": "Transportation Section"
+    },
+    {
+        "城鄉計畫科": "Planning Section"
+    },
+    {
+        "城鄉規劃科": "Planning Section"
+    },
+    {
+        "城鄉設計科": "Urban and Rural Design Section"
+    },
+    {
+        "建築管理科": "Building Affairs Section"
+    },
+    {
+        "國宅科": "Public Housing Section"
+    },
+    {
+        "都市行政科": "Administration Section"
+    },
+    {
+        "都市計畫科": "Urban Planning Section"
+    },
+    {
+        "景觀工程科": "Landscape Section"
+    },
+    {
+        "綜合計畫科": "Planning Section "
+    },
+    {
+        "綜合計劃科": "Planning Section"
+    },
+    {
+        "綜合開發科": "Development Section"
+    },
+    {
+        "都市發展處": "Urban Development Department"
+    },
+    {
+        "綜合規劃科": "Planning Section "
+    },
+    {
+        "都市計劃科": "Urban Planning Section "
+    },
+    {
+        "都市設計科": "Urban Design Section"
+    },
+    {
+        "住宅行政科": "Public Housing Administration Section"
+    },
+    {
+        "眷村博物館": "Military Villages Museum"
+    },
+    {
+        "水利處": "Water Resources Department"
+    },
+    {
+        "水利工程科": "Engineering Section"
+    },
+    {
+        "水利管理科": "Management Section"
+    },
+    {
+        "下水道工程科": "Sewer Engineering Section"
+    },
+    {
+        "區域排水科": "Drainage Section"
+    },
+    {
+        "河川科": "River Section"
+    },
+    {
+        "衛生工程科": "Waste Water Section"
+    },
+    {
+        "水土保持科": "Soil and Water  Conservation Section"
+    },
+    {
+        "社會處": "Social Affairs Department"
+    },
+    {
+        "中崙國宅社會福利服務中心": "Zhonglun Social Welfare Center  "
+    },
+    {
+        "五甲社區社會福利服務中心": "Wujia Social Welfare Center  "
+    },
+    {
+        "合作行政科": "Cooperatives Management Section"
+    },
+    {
+        "托兒所示範教學資源中心": "Nursery Education Resource Center"
+    },
+    {
+        "老人及身心障礙科": "Senior Citizens and the Disabled Section"
+    },
+    {
+        "老人活動中心": "Senior Citizens Activity Center"
+    },
+    {
+        "老人福利科": "Senior Citizens Welfare Section"
+    },
+    {
+        "行政科": "Social Affairs Administration Section"
+    },
+    {
+        "庇護及關懷中心": "Shelter"
+    },
+    {
+        "災民收容所": "Disaster Victims Shelter"
+    },
+    {
+        "身心障礙福利服務中心(牧人館)": "Welfare Service Center for the Disabled"
+    },
+    {
+        "身心障礙福利科": "Disabled Welfare Section"
+    },
+    {
+        "兒童少年福利科": "Children Welfare Section"
+    },
+    {
+        "岡山區社會福利服務中心": "Gangshan Social Welfare Center  "
+    },
+    {
+        "松鶴樓(老人公寓)": "Songhe Building (Senior Citizens' Apartments )"
+    },
+    {
+        "社工科": "Social Work Section"
+    },
+    {
+        "社會行政科": "Social Affairs Administration Section"
+    },
+    {
+        "社會救助科": "Social Assistance Section"
+    },
+    {
+        "社會福利科": "Social Welfare Section"
+    },
+    {
+        "長青福利科": "Senior Citizens Welfare Section"
+    },
+    {
+        "長青科": "Senior Citizens Section"
+    },
+    {
+        "南投縣立婦幼館": "Women and Children Affairs Building"
+    },
+    {
+        "南投縣政府外勞諮詢服務中心": "Foreign Workers Service Center"
+    },
+    {
+        "南投縣發展遲緩兒童早期療育通報暨轉介中心": "Child Development Early Intervention Referral Center"
+    },
+    {
+        "苗栗縣社區老人安養護中心(戊山園)": "Miaoli Community Senior Citizens' Nursing Home, Miaoli County (Wushan House)"
+    },
+    {
+        "苗栗縣苑裡社區老人養護中心": "Yuanli Community Senior Citizens' Nursing Home, Miaoli County"
+    },
+    {
+        "婦女及少年福利服務中心": "Women and Children Welfare Service Center"
+    },
+    {
+        "婦幼青少年館": "Women, Children and Youth Center"
+    },
+    {
+        "婦幼保護科": "Women and Children Protection Section"
+    },
+    {
+        "婦幼福利科": "Women and Children Welfare Section"
+    },
+    {
+        "婦幼科": "Women and Children Welfare Section"
+    },
+    {
+        "專業諮詢室": "Counseling Room / Information"
+    },
+    {
+        "救助科": "Social Assistance Section"
+    },
+    {
+        "教師會館": "Teachers' Hostel"
+    },
+    {
+        "組合屋": "Pre-fabricated Housing"
+    },
+    {
+        "勞工行政科": "Labor Administration Section"
+    },
+    {
+        "勞資科": "Labor Relations Section "
+    },
+    {
+        "資訊收發室": "Mail Room"
+    },
+    {
+        "路得學舍(少女中途家)": "Luther's Dorm (Halfway House for Girls)"
+    },
+    {
+        "遊民收容所（慈心園）": "Homeless Shelter"
+    },
+    {
+        "電腦辦公室": "Computer Room"
+    },
+    {
+        "旗山區早期療育中心": "Qishan Early Intervention Center"
+    },
+    {
+        "旗山區社會福利服務中心": "Qishan Social Welfare Center  "
+    },
+    {
+        "福利科": "Welfare Section"
+    },
+    {
+        "管理站": "Station"
+    },
+    {
+        "綜合性身心障礙服務復健服務中心": "Rehabilitation Center for the Disabled"
+    },
+    {
+        "緊急避難所": "Emergency Shelter"
+    },
+    {
+        "鳳山區早期療育中心": "Fengshan Early Intervention Center"
+    },
+    {
+        "鳳山區社會福利服務中心": "Fengshan Social Welfare Center  "
+    },
+    {
+        "觀察室": "Observation Room"
+    },
+    {
+        "勞工處": "Labor Affairs Department"
+    },
+    {
+        "勞資關係科": "Labor Relations Section"
+    },
+    {
+        "勞動條件科": "Labor Standards Section"
+    },
+    {
+        "勞工組織科": "Labor Organizations Section"
+    },
+    {
+        "勞工福利科": "Labor Welfare Section"
+    },
+    {
+        "勞工安全衛生科": "Occupational Safety and Health Section"
+    },
+    {
+        "就業服務科": "Employment   Services  Section"
+    },
+    {
+        "勞工行政科": "Labor Administration Section"
+    },
+    {
+        "勞工服務中心": "Labor Service Center"
+    },
+    {
+        "外勞諮詢服務中心": "Foreign Worker Service Center"
+    },
+    {
+        "勞安條件科": "Occupational Safety Section"
+    },
+    {
+        "就業促進科": "Employment Promotion Section"
+    },
+    {
+        "勞動及人力資源處": "Labor and Human Resources Department"
+    },
+    {
+        "勞工行政科": "Labor Administration Section"
+    },
+    {
+        "勞工行政科": "Labor Administration Section"
+    },
+    {
+        "人力資源科": "Human Resources"
+    },
+    {
+        "外勞服務科": "Foreign Workers Service Section"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "行政室": "General Affairs Office"
+    },
+    {
+        "表演藝術科": "Performing Arts Section"
+    },
+    {
+        "視覺藝術科": "Visual Arts Section"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "圖書資訊科": "Library Information Section"
+    },
+    {
+        "文化政策科": "Cultural Policy Section"
+    },
+    {
+        "文化建設科": "Cultural Facilities Section"
+    },
+    {
+        "文化發展科": "Cultural Development Section"
+    },
+    {
+        "文化資產科": "Cultural Heritage Section"
+    },
+    {
+        "古蹟維護科": "Historic Sites Preservation Section"
+    },
+    {
+        "展演藝術科": "Exhibition and Performing Arts Section"
+    },
+    {
+        "族群發展科": "Ethnic Development Section"
+    },
+    {
+        "博物館科": "Museums Section"
+    },
+    {
+        "博物管理科": "Museum Management Section"
+    },
+    {
+        "圖書管理科": "Library Management Section"
+    },
+    {
+        "藝文推廣科": "Arts Promotion Section"
+    },
+    {
+        "藝術行政科": "Art Administration Section"
+    },
+    {
+        "藝術展演科": "Exhibition and Performing Arts Section"
+    },
+    {
+        "臺灣戲劇館": "Taiwan Performing Arts Museum"
+    },
+    {
+        "宜蘭縣藝術成就鄉賢館": "Hall of Native Artists"
+    },
+    {
+        "蘭陽博物館籌備處": "Lanyang Natural History Museum Provisional Office"
+    },
+    {
+        "家庭教育中心": "Family Education Center"
+    },
+    {
+        "苗栗縣木雕博物館": "Wood Sculpture Museum"
+    },
+    {
+        "客家文物館": "Hakka Cultural Artifacts Exhibition Hall"
+    },
+    {
+        "交通處": "Transportation Department"
+    },
+    {
+        "運輸規劃科": "Planning Section"
+    },
+    {
+        "交通工程科": "Engineering Section"
+    },
+    {
+        "交通管理科": "Traffic Management Section"
+    },
+    {
+        "觀光發展科": "Tourism Section"
+    },
+    {
+        "運輸規劃管理科": "Planning and Management Section"
+    },
+    {
+        "停車管理科": "Parking Management Section"
+    },
+    {
+        "旅遊處": "Tourism Department"
+    },
+    {
+        "觀光企劃科": "Planning Section "
+    },
+    {
+        "觀光管理科": "Management Section"
+    },
+    {
+        "交通旅遊處": "Transportation and Tourism Department"
+    },
+    {
+        "遊憩科": "Recreation Section"
+    },
+    {
+        "交通行政科": "Transportation Section"
+    },
+    {
+        "道路養護科": "Roadway Maintenance Section"
+    },
+    {
+        "旅遊管理科": "Recreation Management Section"
+    },
+    {
+        "觀光科": "Tourism Promotion Section"
+    },
+    {
+        "道路維護管制中心": "Road Work Control Center"
+    },
+    {
+        "交通觀光處": "Transportation and Tourism Department"
+    },
+    {
+        "交通規劃科": "Transport Planning Section"
+    },
+    {
+        "交通設施及管理科": "Transport Management Section"
+    },
+    {
+        "觀光行銷及管理科": "Tourism Marketing and Management Section"
+    },
+    {
+        "觀光建設科": "Tourism Facilities Section"
+    },
+    {
+        "觀光交通處": "Tourism and Transportation Department"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "會計室": "Accounting Officce"
+    },
+    {
+        "行政室": "General Affairs Office"
+    },
+    {
+        "觀光企劃科": "Tourism Planning Section"
+    },
+    {
+        "觀光工程科": "Tourism Construction Section"
+    },
+    {
+        "交通管理科": "Traffic Management Section"
+    },
+    {
+        "交通規劃科": "Traffic Planning Section"
+    },
+    {
+        "公園管理科": "Parks Management Section"
+    },
+    {
+        "觀光管理科": "Tourism Management Section"
+    },
+    {
+        "運輸規劃科": "Transportation Planning and Management Section"
+    },
+    {
+        "觀光行銷處": "Tourism Promotion Department"
+    },
+    {
+        "觀光發展科": "Tourism Development Section"
+    },
+    {
+        "新聞連繫科": "Press Liaison Section"
+    },
+    {
+        "行銷企劃科": "Marketing Section"
+    },
+    {
+        "風景區管理所": "Scenic Area Management Office"
+    },
+    {
+        "港務處": "Harbor Office"
+    },
+    {
+        "港航課": "Harbor Management Section"
+    },
+    {
+        "棧埠課": "Stevedoring and Warehousing Section"
+    },
+    {
+        "工務課": "Maintenance Section"
+    },
+    {
+        "地政處": "Land Administration Department"
+    },
+    {
+        "地用科": "Land Use Section"
+    },
+    {
+        "土地開發科": "Land Development Section"
+    },
+    {
+        "地價測量科": "Land Value and Survey Section"
+    },
+    {
+        "地價科": "Land Valuation Section"
+    },
+    {
+        "地籍測量隊": "Cadastral Survey Team"
+    },
+    {
+        "地籍科": "Land Cadastre Section"
+    },
+    {
+        "地權科": "Land Rights Section"
+    },
+    {
+        "重劃科": "Land Consolidation Section"
+    },
+    {
+        "區段徵收科": "Zone Expropriation Section"
+    },
+    {
+        "測量科": "Land Survey Section"
+    },
+    {
+        "農地重劃科": "Land  Consolidation Section"
+    },
+    {
+        "電腦室": "Computer Room"
+    },
+    {
+        "徵收科": "Land Expropriation Section"
+    },
+    {
+        "新聞處": "Information Department"
+    },
+    {
+        "新聞處": "Information Department"
+    },
+    {
+        "新聞處": "Information Department"
+    },
+    {
+        "新聞行政科": "Administration Section"
+    },
+    {
+        "新聞宣導科": "Promotion Section"
+    },
+    {
+        "公共關係科": "Public Relations Section "
+    },
+    {
+        "廣播電視科": "Broadcasting Affairs Section"
+    },
+    {
+        "新聞發布科": "Press Section"
+    },
+    {
+        "兵役處": "Military Service Department"
+    },
+    {
+        "兵力動員科": "Reserves Service Section"
+    },
+    {
+        "兵員徵集科": "Conscription Section"
+    },
+    {
+        "軍人權益科": "Military Services Section"
+    },
+    {
+        "勤務科": "Military Services Section"
+    },
+    {
+        "徵集科": "Conscription Section"
+    },
+    {
+        "編管科": "Reserves Service Section"
+    },
+    {
+        "編練管理科": "Reserves Service Section"
+    },
+    {
+        "新北市軍人忠靈祠": "Military Shrine, New Taipei City"
+    },
+    {
+        "主計處": "Accounting and Statistics Department"
+    },
+    {
+        "公務統計科": "Statistics Section"
+    },
+    {
+        "決算科": "Final Accounts Section"
+    },
+    {
+        "基金科": "Fund Management Section"
+    },
+    {
+        "第一科": "First Section"
+    },
+    {
+        "第二科": "Second Section"
+    },
+    {
+        "第三科": "Third Section"
+    },
+    {
+        "第四科": "Fourth Section"
+    },
+    {
+        "統計科": "Statistics Section"
+    },
+    {
+        "會計科": "Accounting Section"
+    },
+    {
+        "歲計科": "Budgeting Section"
+    },
+    {
+        "審核科": "Review Section"
+    },
+    {
+        "人事處": "Personnel Department"
+    },
+    {
+        "組織任免科": "Appointing and Dismissal Section"
+    },
+    {
+        "考勤訓練科": "Appraisal and Training Section"
+    },
+    {
+        "人事處": "Personnel Department"
+    },
+    {
+        "考核訓練科": "Appraisal and Training Section"
+    },
+    {
+        "退撫福利科": "Retirement and Benefits Section"
+    },
+    {
+        "訓練考核科": "Training and Evaluation Section"
+    },
+    {
+        "給與福利科": "Compensation and Benefits Section"
+    },
+    {
+        "考試企劃科": "Examination and Planning Section"
+    },
+    {
+        "企劃人力科": "Planning and Manpower Section"
+    },
+    {
+        "人力企劃科": "Human Resources Section"
+    },
+    {
+        "福利給與科": "Benefits and Compensation Section"
+    },
+    {
+        "第一科": "First Section"
+    },
+    {
+        "第二科": "Second Section"
+    },
+    {
+        "第三科": "Third Section"
+    },
+    {
+        "政風處": "Civil Service Ethics Department"
+    },
+    {
+        "政風行政科": "Administration Section"
+    },
+    {
+        "政風預防科": "Prevention Section"
+    },
+    {
+        "政風查處科": "Investigation Section"
+    },
+    {
+        "第一科": "First Section"
+    },
+    {
+        "第二科": "Second Section"
+    },
+    {
+        "第三科": "Third Section"
+    },
+    {
+        "法制處": "Legal Affairs Department"
+    },
+    {
+        "法制行政科": "Administration Section"
+    },
+    {
+        "行政救濟科": "Administration Relief Section"
+    },
+    {
+        "法規科": "Legal Affairs Section"
+    },
+    {
+        "行政執行科": "Administrative Enforcement Section"
+    },
+    {
+        "第一科": "First Section"
+    },
+    {
+        "第二科": "Second Section"
+    },
+    {
+        "計畫處": "Planning Department"
+    },
+    {
+        "企劃科": "Planning Section"
+    },
+    {
+        "施政計畫科": "Planning Section"
+    },
+    {
+        "規劃科": "Planning Section"
+    },
+    {
+        "研考科": "Research and Evaluation Section"
+    },
+    {
+        "研究發展科": "Research and Development Section"
+    },
+    {
+        "新聞科": "Press Section"
+    },
+    {
+        "資訊管理科": "Information Management Section"
+    },
+    {
+        "資訊科": "Information Management Section"
+    },
+    {
+        "管制考核科": "Supervision and Evaluation Section"
+    },
+    {
+        "綜合規劃科": "Planning Section"
+    },
+    {
+        "為民服務科": "Citizen Services Section"
+    },
+    {
+        "施政資料中心": "Government Documents Center"
+    },
+    {
+        "服務中心": "Service Center"
+    },
+    {
+        "研究發展處": "Research and Development Department"
+    },
+    {
+        "為民服務科": "Citizen Services Section"
+    },
+    {
+        "資訊中心": "Information Management Center"
+    },
+    {
+        "規劃設計課": "Planning Section"
+    },
+    {
+        "系統維護課": "Systems Maintenance Section"
+    },
+    {
+        "簡報室": "Briefing Room"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "規劃課": "Planning Section"
+    },
+    {
+        "規劃設計課": "Planning Section"
+    },
+    {
+        "資管課": "DataManagement Section"
+    },
+    {
+        "資料管理課": "Data Management Section"
+    },
+    {
+        "維護操作課": "Network Management Section"
+    },
+    {
+        "網管課": "Network Management Section"
+    },
+    {
+        "原住民行政處": "Indigenous Peoples Department"
+    },
+    {
+        "行政科": "Administration Section"
+    },
+    {
+        "保留地管理科": "Reserved Land Section"
+    },
+    {
+        "原住民行政科": "Administration Section"
+    },
+    {
+        "原住民經建科": "Economic Development Section"
+    },
+    {
+        "教育文化科": "Education and Culture Section"
+    },
+    {
+        "產業發展科": "Economic Development Section"
+    },
+    {
+        "產業經濟科": "Economic Development Section"
+    },
+    {
+        "部落建設科": "Tribal Village Infrastructure Section"
+    },
+    {
+        "經建科": "Economic Development Section"
+    },
+    {
+        "經濟發展科": "Economic Development Section"
+    },
+    {
+        "輔導行政科": "Support Section"
+    },
+    {
+        "建設科": "Public Construction Section"
+    },
+    {
+        "產業科": "Economic Development Section"
+    },
+    {
+        "輔導科": "Support Section"
+    },
+    {
+        "客家事務處": "Hakka Affairs Department"
+    },
+    {
+        "民俗藝術科": "Folk Arts Section"
+    },
+    {
+        "文化保存科": "Cultural Heritage Section "
+    },
+    {
+        "採購中心": "Procurement Center"
+    },
+    {
+        "採購科": "Procurement Section"
+    },
+    {
+        "發包課": "Bidding Section"
+    },
+    {
+        "需求審查課": "Demand Review Section"
+    },
+    {
+        "品管課": "Quality Control Section"
+    },
+    {
+        "行政處": "General Affairs Department"
+    },
+    {
+        "出納科": "Cashier Section"
+    },
+    {
+        "檔案科": "Archives Section"
+    },
+    {
+        "文書科": "Documentation Section"
+    },
+    {
+        "庶務科": "General Affairs Section"
+    },
+    {
+        "新聞科": "Press Section"
+    },
+    {
+        "法制科": "Legal Affairs Section"
+    },
+    {
+        "採購行政科": "Procurement Section"
+    },
+    {
+        "行政管理處": "General Affairs Department"
+    },
+    {
+        "事務科": "General Affairs Section"
+    },
+    {
+        "文書科": "Documentation Subsection"
+    },
+    {
+        "總發文": "Mail Room (Outbound)"
+    },
+    {
+        "總收文": "Mail Room (Inbound)"
+    },
+    {
+        "監印": "Seal Imprint (Room)"
+    },
+    {
+        "檔案科": "Archives Section"
+    },
+    {
+        "駐警隊": "Security Unit"
+    },
+    {
+        "法制科": "Legal Affairs Section"
+    },
+    {
+        "發包中心員工合作社": "Tender Document Sales"
+    },
+    {
+        "企劃暨研考科": "Planning, Research and Evaluation Section"
+    },
+    {
+        "秘書處": "Secretariat"
+    },
+    {
+        "文書科": "Documentation Section"
+    },
+    {
+        "出納科": "Cashier Section"
+    },
+    {
+        "庶務科": "General Affairs Section"
+    },
+    {
+        "採購品管科": "Procurement and Quality Control Section "
+    },
+    {
+        "採購科": "Procurement Section"
+    },
+    {
+        "檔案科": "Archives Section"
+    },
+    {
+        "消費者保護官": "Consumer Protection Officer(s)"
+    },
+    {
+        "消保官辦公室": "Consumer Ombudsman Officer(s)"
+    },
+    {
+        "屯區服務中心": "Central Area Service Center"
+    },
+    {
+        "海線服務中心": "Coastal Area Service Center"
+    },
+    {
+        "便民服務窗口": "Citizen Services Counter"
+    },
+    {
+        "投資單一窗口": "Investment Services"
+    },
+    {
+        "公共安全檢查小組": "Public Safety Inspection Unit"
+    },
+    {
+        "人事室": "Personnel Office "
+    },
+    {
+        "公共關係室": "Public Relations Office "
+    },
+    {
+        "少年隊": "Juvenile Delinquency Prevention Brigade"
+    },
+    {
+        "少年警察隊": "Juvenile Delinquency Prevention Brigade"
+    },
+    {
+        "戶口課": "Household Registration Section"
+    },
+    {
+        "出納室": "Cashier Office"
+    },
+    {
+        "外事課": "Foreign Affairs Section"
+    },
+    {
+        "民防管制中心": "Civil Defense Operations Center"
+    },
+    {
+        "交通隊": "Traffic Police Brigade"
+    },
+    {
+        "交通警察隊": "Traffic Police Brigade"
+    },
+    {
+        "刑事警察隊": "Criminal Investigation Brigade "
+    },
+    {
+        "刑警隊": "Criminal Investigation Brigade "
+    },
+    {
+        "行政課": "General Affairs Section "
+    },
+    {
+        "保民課": "Public Order and Civil Defense  Section"
+    },
+    {
+        "保安民防課": "Public Order and Civil Defense  Section"
+    },
+    {
+        "保安隊": "Special Police Brigade"
+    },
+    {
+        "保安警察隊": "Special Police Brigade"
+    },
+    {
+        "保防室": "Public Security Office "
+    },
+    {
+        "後勤課": "Logistics Section"
+    },
+    {
+        "秘書室": "Secretariat "
+    },
+    {
+        "訓練課": "Training  Section"
+    },
+    {
+        "婦幼隊": "Women and Children Protection Brigade"
+    },
+    {
+        "婦幼警察隊": "Women and Children Protection Brigade"
+    },
+    {
+        "陸務課": "Mainland Affairs  Section"
+    },
+    {
+        "勤務指揮中心": "Duty Command Center "
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "督察室": "Inspectors' Office"
+    },
+    {
+        "督察室(一)": "Inspectors' Office I"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "警備隊": "Special Assignment Brigade"
+    },
+    {
+        "第一組": "First Section"
+    },
+    {
+        "第二組": "Second Section"
+    },
+    {
+        "第三組": "Third Section"
+    },
+    {
+        "第四組": "Fourth Section"
+    },
+    {
+        "第五組": "Fifth Section"
+    },
+    {
+        "第六組": "Sixth Section"
+    },
+    {
+        "第七組": "Seventh Section"
+    },
+    {
+        "1.___縣警察局___分局": null
+    },
+    {
+        "派出所": "Police Station"
+    },
+    {
+        "人事科": "Personnel Office"
+    },
+    {
+        "會計科": "Accounting Office"
+    },
+    {
+        "行政科": "General Affairs Office"
+    },
+    {
+        "政風科": "Civil Service Ethics Office"
+    },
+    {
+        "火災預防科": "Fire Prevention Section"
+    },
+    {
+        "火災調查科": "Fire Investigation Section"
+    },
+    {
+        "災害搶救科": "Fire and Rescue Planning Section"
+    },
+    {
+        "災害預防科": "Disaster Prevention Section"
+    },
+    {
+        "教育訓練科": "Training and Education Section"
+    },
+    {
+        "緊急救護科": "Emergency Medical Service Section"
+    },
+    {
+        "救災救護指揮中心": "Emergency and Rescue Command Center"
+    },
+    {
+        "___分隊": "___ Branch"
+    },
+    {
+        "人事科": "Personnel Office"
+    },
+    {
+        "人事管理員": "Personnel Officer"
+    },
+    {
+        "行政科": "General Affairs Office"
+    },
+    {
+        "政風科": "Civil Service Ethics Office"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "法制室": "Legal Affairs Office"
+    },
+    {
+        "水污染防治科": "Water Pollution Control Section"
+    },
+    {
+        "水質土壤防治科": "Water Quality and Soil Conservation Section"
+    },
+    {
+        "垃圾處理科": "Waste Treatment Section"
+    },
+    {
+        "空氣噪音防制科": "Air and Noise Pollution Control Section"
+    },
+    {
+        "綜合計畫科": "Planning Section"
+    },
+    {
+        "廢棄物管理科": "Waste Management Section"
+    },
+    {
+        "環境管理科": "Environmental Management Section"
+    },
+    {
+        "環境檢驗科": "Environmental Inspection Section"
+    },
+    {
+        "第一科": "First Section"
+    },
+    {
+        "第二科": "Second Section"
+    },
+    {
+        "第三科": "Third Section"
+    },
+    {
+        "第四科": "Fourth Section"
+    },
+    {
+        "第五科": "Fifth Section"
+    },
+    {
+        "第六科": "Sixth Section"
+    },
+    {
+        "Object": "Environmental Protection Bureau, ___ County (City)"
+    },
+    {
+        "稽查隊": "Inspection Team"
+    },
+    {
+        "焚化廠連絡處": "Incineration Liaison Office"
+    },
+    {
+        "空污基金委員會": "Air Pollution Control Fund Management Board"
+    },
+    {
+        "臺中市政府公害糾紛調解委員會": "Public Nuisance Arbitration Committee, Taichung City"
+    },
+    {
+        "人事科": "Personnel Office"
+    },
+    {
+        "政風科": "Civil Service Ethics Office"
+    },
+    {
+        "會計科": "Accounting Office"
+    },
+    {
+        "總務科": "General Affairs Office"
+    },
+    {
+        "企劃科": "Planning Section"
+    },
+    {
+        "保健科": "Health Promotion Section"
+    },
+    {
+        "食品衛生科": "Food Safety Section"
+    },
+    {
+        "食品科": "Food Safety Section"
+    },
+    {
+        "疾病管制科": "Disease Control Section"
+    },
+    {
+        "檢驗科": "Laboratory Section"
+    },
+    {
+        "醫政科": "Medical Affairs Section"
+    },
+    {
+        "藥政科": "Pharmaceutical Affairs Section"
+    },
+    {
+        "藥物食品衛生科": "Pharmaceutical and Food Safety Section"
+    },
+    {
+        "保健防疫科": "Health and Disease Prevention Section"
+    },
+    {
+        "___鄉衛生所": "___ Township Public Health Center"
+    },
+    {
+        "___區衛生所": "___ District Public Health Center"
+    },
+    {
+        "衛生稽查大隊": "Health Inspection Team"
+    },
+    {
+        "___市___區戶政事務所": "___ District Household Registration Office, ___ City"
+    },
+    {
+        "第二股": "Second Section"
+    },
+    {
+        "第三股": "Third Section"
+    },
+    {
+        "登記股": "Registration Section"
+    },
+    {
+        "行政股": "General Affairs Section"
+    },
+    {
+        "服務組": "Service Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "公墓組": "Public Cemetery Section"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "土地稅科": "Land Tax Section"
+    },
+    {
+        "工商稅科": "Business Tax Section"
+    },
+    {
+        "行政室": "General Affairs Office"
+    },
+    {
+        "房屋稅科": "House Tax Section"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "消費稅科": "Consumption Tax Section"
+    },
+    {
+        "秘書室": "Secretariat"
+    },
+    {
+        "納稅服務科": "Public Services Section"
+    },
+    {
+        "財產稅科": "Property Tax Section"
+    },
+    {
+        "地價稅科": "Land Value Section"
+    },
+    {
+        "欠稅管理科": "Arrears Settlement Section"
+    },
+    {
+        "稅務管理科": "Enforcement and Refund Section"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "資訊科": "Information Management Section"
+    },
+    {
+        "資訊管理科": "Information Management Section"
+    },
+    {
+        "1.___縣(市)政府地方稅務局 2.___ 縣(市)地方稅務局": "Local Tax Bureau, ___ County (City)"
+    },
+    {
+        "複核科": "Review Section"
+    },
+    {
+        "經費會計": "Accounting Unit"
+    },
+    {
+        "徵課統計": "Statistics Unit"
+    },
+    {
+        "_____市政府地方稅務局": "Local Tax Bureau, _____ City"
+    },
+    {
+        "安南分處": "Annan  Branch"
+    },
+    {
+        "金湖稽徵處": "Jinhu Branch"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "活動組": "Events Section"
+    },
+    {
+        "___縣立體育場": "___ County Stadium"
+    },
+    {
+        "自來水廠": "Water Plant"
+    },
+    {
+        "物資處": "Procurement Office"
+    },
+    {
+        "生產課": "Production Section"
+    },
+    {
+        "行政課": "General Affairs Section"
+    },
+    {
+        "金門縣農業試驗所附設示範休閒農場": "Recreational Farm, Agricultural Research Center, Kinmen County"
+    },
+    {
+        "農業推廣課": "Extension Section"
+    },
+    {
+        "農業研究課": "Research Section"
+    },
+    {
+        "行政管理課": "General Affairs Section"
+    },
+    {
+        "家畜防疫課": "Livestock Health Inspection and Quarantine Section"
+    },
+    {
+        "動物檢診課": "Animal Inspection Section"
+    },
+    {
+        "寵物管理課": "Pet Control Section"
+    },
+    {
+        "第一課": "First Section"
+    },
+    {
+        "第二課": "Second Section"
+    },
+    {
+        "第三課": "Third Section"
+    },
+    {
+        "第四課": "Fourth Section"
+    },
+    {
+        "豬禽防疫課": "Pigs and Poultry Section"
+    },
+    {
+        "草食防疫課": "Herbivores Section"
+    },
+    {
+        "疫病檢驗課": "Disease Inspection Section"
+    },
+    {
+        "獸醫藥政課": "Veterinary Pharmaceutical Section"
+    },
+    {
+        "防疫股": "Disease Prevention Section"
+    },
+    {
+        "檢診股": "Animal Inspection Section"
+    },
+    {
+        "衛生股": "Hygiene Section"
+    },
+    {
+        "公立南投動物收容所": "Nantou County Animal Shelter"
+    },
+    {
+        "中小動物保健課": "Pigs and Poultry Section"
+    },
+    {
+        "動物病性鑑定課": "Animal Inspection Section"
+    },
+    {
+        "草食動物保健課": "Herbivores Section"
+    },
+    {
+        "水產動物保健課": "Aquatic AnimalsSection"
+    },
+    {
+        "獸醫公共衛生課": "Disease Prevention Section"
+    },
+    {
+        "動物保護課": "Animal Protection Section"
+    },
+    {
+        "行政室": "General Affairs Office"
+    },
+    {
+        "保護股": "Animal Protection Section"
+    },
+    {
+        "鑑定股": "Animal Inspection Section"
+    },
+    {
+        "防疫股": "Disease Prevention Section"
+    },
+    {
+        "綜合規劃組": "Planning Section"
+    },
+    {
+        "保護扶助組": "Protection and Support Section"
+    },
+    {
+        "暴力防治組": "Violence Prevention Section"
+    },
+    {
+        "醫療服務組": "Medical Services Section"
+    },
+    {
+        "教育輔導組": "Education and Counseling Section"
+    },
+    {
+        "業務組": "Business Section"
+    },
+    {
+        "環保組": "Cleaning Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "社會服務組": "Social Services Section"
+    },
+    {
+        "老人保護組": "Protection and Care Section"
+    },
+    {
+        "業務組": "Business Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "活動組": "Activity Section"
+    },
+    {
+        "清潔組": "Custodial Section"
+    },
+    {
+        "行政課": "General Affairs Section"
+    },
+    {
+        "表演藝術課": "Performing Arts Section"
+    },
+    {
+        "藝文推廣課": "Arts and Literature Promotion Sectiom"
+    },
+    {
+        "視覺藝術課": "Visual Arts Section"
+    },
+    {
+        "資訊室": "Information Management Office"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "閱覽組": "Circulation Section"
+    },
+    {
+        "採編組": "Acquisition and Cataloging Section"
+    },
+    {
+        "推廣組": "Extension Section"
+    },
+    {
+        "東區分館": "Eastern District Branch Library"
+    },
+    {
+        "南區分館": "Southern District Branch Library"
+    },
+    {
+        "中區分館": "Central District Branch Library"
+    },
+    {
+        "安南分館": "Annan District Branch Library"
+    },
+    {
+        "測量課": "Land Survey Section"
+    },
+    {
+        "登記課": "Land Registration Section"
+    },
+    {
+        "資訊課": "Information Management Section"
+    },
+    {
+        "總務課": "General Affairs Section"
+    },
+    {
+        "教務處": "Educational Affairs Section"
+    },
+    {
+        "訓導處": "Student Affairs Section"
+    },
+    {
+        "總務處": "General Affairs Section"
+    },
+    {
+        "輔導室": "Counseling Office"
+    },
+    {
+        "人事室": "Personnel"
+    },
+    {
+        "會計室": "Accounting  Office"
+    },
+    {
+        "教務處": "Educational Affairs Section"
+    },
+    {
+        "訓導處": "Student Affairs Section"
+    },
+    {
+        "總務處": "General Affairs Section"
+    },
+    {
+        "輔導室": "Counseling Office"
+    },
+    {
+        "輔導處": "Counseling Section"
+    },
+    {
+        "學務處": "Educational Affairs Section"
+    },
+    {
+        "人事室": "Personnel"
+    },
+    {
+        "會計室": "Accounting  Office"
+    },
+    {
+        "教務組": "Educational Affairs Section"
+    },
+    {
+        "總務組": "General Affairs Section"
+    },
+    {
+        "保育組": "Childcare Section"
+    },
+    {
+        "行政組": "General Affairs Section"
+    },
+    {
+        "保育組": "Childcare Section"
+    },
+    {
+        "保育組": "Childcare Section"
+    },
+    {
+        "行政組": "General Affairs Section"
+    },
+    {
+        "民政課": "Civil Affairs Section"
+    },
+    {
+        "役政課": "Military Service Section"
+    },
+    {
+        "經建課": "Economic Development Section"
+    },
+    {
+        "社政課": "Social Affairs Section"
+    },
+    {
+        "會計室": "Accounting Office"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "社建課": "Social Development Section"
+    },
+    {
+        "社建課": "Social Development Section"
+    },
+    {
+        "人事室": "Personnel Office"
+    },
+    {
+        "人事管理員": "Personnel Officer"
+    },
+    {
+        "工務課": "Public Works Section"
+    },
+    {
+        "文教課": "Culture and Education Section"
+    },
+    {
+        "主計室": "Accounting and Statistics Office"
+    },
+    {
+        "主計員": "Accounting and Statistics Officer"
+    },
+    {
+        "民政課": "Civil Affairs Section"
+    },
+    {
+        "行政室": "General Affairs Office"
+    },
+    {
+        "業務單位": "Line Units"
+    },
+    {
+        "輔助單位": "Staff Units"
+    },
+    {
+        "附屬單位": "Affiliated Units"
+    },
+    {
+        "租佃委員會": "Farmland Rental Committee"
+    },
+    {
+        "社區發展委員會": "Community Development Committee"
+    },
+    {
+        "社會服務課": "Social Services Section"
+    },
+    {
+        "社會暨兵役課": "Social and Military Services Section"
+    },
+    {
+        "社會暨原住民行政課": "Social and Indigenous Affairs Section"
+    },
+    {
+        "社會暨原住民事務課": "Social and Indigenous Affairs Section"
+    },
+    {
+        "社會課": "Social Affairs Section"
+    },
+    {
+        "建設課": "Construction Section"
+    },
+    {
+        "政風室": "Civil Service Ethics Office"
+    },
+    {
+        "原住民行政課": "Indigenous Affairs Section"
+    },
+    {
+        "財政課": "Finance Section"
+    },
+    {
+        "財經課": "Finance and Economics Section"
+    },
+    {
+        "經建課": "Economic Development Section"
+    },
+    {
+        "農經課": "Agriculture and Economic Development Section"
+    },
+    {
+        "農業暨觀光課": "Agriculture and Tourism Section"
+    },
+    {
+        "農業課": "Agriculture Section"
+    },
+    {
+        "農業觀光課": "Agricultural Tourism Section"
+    },
+    {
+        "觀光旅遊課": "Tourism and Recreation Section"
+    },
+    {
+        "___鄉(鎮,市)立托兒所": "___ Township(Town,Borough) Nursery"
+    },
+    {
+        "___鄉(鎮,市)立圖書館": "___ Township  (Town,Borough)  Library"
+    },
+    {
+        "第一公有零售市場": "First Public Market"
+    },
+    {
+        "公有零售市場": "Public Market"
+    },
+    {
+        "公有零售市場管理所": "Public Market Management Office"
+    },
+    {
+        "公園管理所": "Park Management Office"
+    },
+    {
+        "觀光服務所": "Tourism Service Center"
+    },
+    {
+        "清潔隊": "Cleaning Unit"
+    },
+    {
+        "調解委員會": "Mediation Committee"
+    },
+    {
+        "村聯合辦公處": "Village Office"
+    },
+    {
+        "村": "Village"
+    },
+    {
+        "里": "Village"
+    },
+    {
+        "海端鄉立布農文物館": "Haiduan Township Bunun Cultural Exhibition Hall"
+    },
+    {
+        "秀林鄉___村辦公處": "Xiulin Township ___ Village Office"
+    },
+    {
+        "秀林鄉立和平村托兒所": "Xiulin Township Heping Nursery"
+    },
+    {
+        "秀林鄉和平村社區活動中心": "Xiulin Township Heping Community Activity Center"
+    },
+    {
+        "景美村多功能集會所": "Jingmei Recreation Center"
+    },
+    {
+        "佳民村原住民多功能活動中心": "Jiamin (Indigenous Peoples) Activity Center"
+    },
+    {
+        "米亞丸原住民多功能活動中心": "___ (Indigenous Peoples) Activity Center"
+    },
+    {
+        "民眾接待室": "1.Lounge 2.Service Center 3.Reception Room"
+    },
+    {
+        "崇德老人館": "Senior Citizens Activity Center "
+    },
+    {
+        "議事廳": "Council Room"
+    },
+    {
+        "審查室": "Review Room"
+    },
+    {
+        "___鄉、鎮、市公用事業管理所": "Public Utilities Office, ___ Township (Town,Borough)"
+    },
+    {
+        "桃園縣東區社會福利家庭服務中心": "Taoyuan County Eastern Region Family Social Welfare Center"
+    },
+    {
+        "桃園縣西區社會福利家庭服務中心": "Taoyuan County Western Region Family Social Welfare Center"
+    },
+    {
+        "桃園縣南區社會福利家庭服務中心": "Taoyuan County Southern Region Family Social Welfare Center"
+    },
+    {
+        "桃園縣北區社會福利家庭服務中心": "Taoyuan County Northern Region Family Social Welfare Center"
+    },
+    {
+        "桃園縣山區社會福利家庭服務中心": "Taoyuan County Mountain Region Family Social Welfare Center"
+    },
+    {
+        "桃園縣海區社會福利家庭服務中心": "Taoyuan County Coastal Region Family Social Welfare Center"
+    },
+    {
+        "食品藥物管理課": "Food and Drug Administration Section"
+    },
+    {
+        "美術家資料館": "Artists' Library "
+    },
+    {
+        "督察室": "Inspectors’ Office"
+    },
+    {
+        "技監室": "1 Technical Superintendent’s 具工程專業技術"
+    },
+    {
+        "督學室": "Inspector’s Office"
+    }
+]

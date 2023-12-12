@@ -1,0 +1,542 @@
+[
+    {
+        "___區戶政事務所": "___ District Household Registration Office"
+    },
+    {
+        "殯葬管理所": "Mortuary Services Office"
+    },
+    {
+        "稅捐稽徵處": "Revenue Service Office"
+    },
+    {
+        "集中支付處": "Disbursement Office"
+    },
+    {
+        "動產質借所": "Collateral Office"
+    },
+    {
+        "體育場": "Stadium"
+    },
+    {
+        "高級中學": "Senior High School"
+    },
+    {
+        "高級職業學校": "Vocational High School"
+    },
+    {
+        "啟智學校": "Special Education School"
+    },
+    {
+        "市立國民中學": "Municipal Junior High School"
+    },
+    {
+        "市立國民小學": "Municipal Elementary School"
+    },
+    {
+        "幼稚園": "Kindergarten"
+    },
+    {
+        "市場管理處": "Market Administration Office"
+    },
+    {
+        "風景區管理所": "Scenic Area Administration Office"
+    },
+    {
+        "家畜衛生檢驗所": "Animal Health and Inspection Institute"
+    },
+    {
+        "新建工程處": "Construction Office"
+    },
+    {
+        "養護工程處": "Maintenance Office"
+    },
+    {
+        "下水道工程處": "Sewage Systems Office"
+    },
+    {
+        "違章建築處理大隊": "Building Violations Enforcement Corps"
+    },
+    {
+        "仁愛之家": "Ren'ai Senior Citizens' Home"
+    },
+    {
+        "長青綜合服務中心": "Senior Citizens' Service Center"
+    },
+    {
+        "兒童福利服務中心": "Children's Service Center"
+    },
+    {
+        "無障礙之家": "Home for the Disabled"
+    },
+    {
+        "家庭暴力及性侵害防治中心": "Domestic Violence and Sexual Assault Prevention Center"
+    },
+    {
+        "勞工檢查所": "Occupational Safety Office"
+    },
+    {
+        "訓練就業中心": "Training and Employment Center"
+    },
+    {
+        "博愛職業技能訓練中心": "Bo-ai Vocational Training Center"
+    },
+    {
+        "勞工育樂中心": "Labor Recreation Center"
+    },
+    {
+        "分局": "Precinct"
+    },
+    {
+        "大隊": "Corps"
+    },
+    {
+        "各中隊": "Company"
+    },
+    {
+        "____市立民生醫院": "____ Municipal Minsheng Hospital"
+    },
+    {
+        "各市立醫院": "Municipal Hospital "
+    },
+    {
+        "疾病管制處": "Disease Control Office"
+    },
+    {
+        "各區衛生所": "___ District Public Health Center"
+    },
+    {
+        "南區資源回收廠": "Southern District Waste Management Plant"
+    },
+    {
+        "中區資源回收廠": "Central District Waste Management Plant"
+    },
+    {
+        "圖書館": "Library"
+    },
+    {
+        "美術館": "Museum of Fine Arts"
+    },
+    {
+        "社會教育館": "Social Education Center"
+    },
+    {
+        "文獻委員會": "Kaohsiung City Archives "
+    },
+    {
+        "歷史博物館": "History Museum"
+    },
+    {
+        "監理處": "Motor Vehicles Office"
+    },
+    {
+        "車輛行車事故委員會": "Traffic Accident Investigation Committee"
+    },
+    {
+        "公共車船管理處": "City Bus and Ferry Management Office"
+    },
+    {
+        "地政事務所": "Land Office"
+    },
+    {
+        "____廣播電台": "____ Radio Station"
+    },
+    {
+        "____市電影圖書館": "____ Film Library"
+    },
+    {
+        "資訊中心": "Information Management Center"
+    },
+    {
+        "公教人員住宅輔建及福利互助委員會": "Public Service Housing and Welfare Committee"
+    },
+    {
+        "___區衛生所": "___ District Public Health Center"
+    },
+    {
+        "1.___縣警察局___分局  2.___縣政府警察局___分局": "___ Precinct, ___ County (City) Police Bureau"
+    },
+    {
+        "分駐所": "Police Station"
+    },
+    {
+        "派出所": "Police Station"
+    },
+    {
+        "第一分局": "First Precinct"
+    },
+    {
+        "第二分局": "Second Precinct"
+    },
+    {
+        "第三分局": "Third Precinct"
+    },
+    {
+        "第四分局": "Fourth Precinct"
+    },
+    {
+        "第五分局": "Fifth Precinct"
+    },
+    {
+        "第六分局": "Sixth Precinct"
+    },
+    {
+        "___分隊": "___ Branch"
+    },
+    {
+        "第一大隊": "First Corps"
+    },
+    {
+        "第二大隊": "Second Corps"
+    },
+    {
+        "第三大隊": "Third Corps"
+    },
+    {
+        "第四大隊": "Fourth Corps"
+    },
+    {
+        "___鄉(鎮,市)衛生所": " ___ Township  (Town, Borough)  Public Health Center"
+    },
+    {
+        "慢性病防治所": "Chronic Disease Center"
+    },
+    {
+        "___市立醫院": "___ Municipal Hospital"
+    },
+    {
+        "___縣立醫院": "___ County Hospital"
+    },
+    {
+        "     分處": "         Branch "
+    },
+    {
+        "___縣(市)動物防疫所": "1.Animal Health Inspection and Quarantine Institute, ___ County (City) 2.Animal Disease Control Center參考業務執掌選用"
+    },
+    {
+        "___縣(市)立體育場": "__ County (Municipal) Stadium"
+    },
+    {
+        "___縣(市)立圖書館": "__ County (Municipal) Library"
+    },
+    {
+        "___縣___鄉(鎮,市)戶政事務所": "___ Township  (Town,Borough)  Household Registration Office, ___ County"
+    },
+    {
+        "___市___區戶政事務所": "___ District Household Registration Office, ___ City"
+    },
+    {
+        "___縣(市) ___地政事務所": "___ Land Office, ___ County (City)"
+    },
+    {
+        "殯葬管理所": "Mortuary Services Office"
+    },
+    {
+        "___縣(市)公有零售市場": "Public Market, ___ County (City)"
+    },
+    {
+        "___縣(市)家畜疾病防治所": "Animal Disease Control Center, ___ County (City)      "
+    },
+    {
+        "___縣(市)立___國民中學": "___ Municipal Junior High School"
+    },
+    {
+        "___縣(市)立___國民小學": "___ Municipal Elementary School"
+    },
+    {
+        "___縣(市)立幼稚園": "__ County (Municipal) Kindergarten"
+    },
+    {
+        "___縣(市)立托兒所": "__ County (Municipal) Nursery"
+    },
+    {
+        "勞工育樂中心": "Labor Recreation Center"
+    },
+    {
+        "松柏育樂中心": "Senior Citizens' Recreation Center"
+    },
+    {
+        "家庭暴力暨性侵害防治中心": "Domestic Violence and Sexual Assault Prevention Center"
+    },
+    {
+        "___縣(市)立藝術中心": "___County (Municipal) Cultural Center "
+    },
+    {
+        "___縣(市)港區藝術中心": "___ County (City) Harbor Art Center"
+    },
+    {
+        "___縣(市)無障礙福利之家": "Home for the Disabled, ___ County (City)"
+    },
+    {
+        "臺灣戲劇館": "Taiwan Performing Arts Museum"
+    },
+    {
+        "宜蘭縣藝術成就鄉賢館": "Hall of Native Artists"
+    },
+    {
+        "蘭陽博物館籌備處": "Lanyang Natural History Museum Provisional Office"
+    },
+    {
+        "家庭教育中心": "Family Education Center"
+    },
+    {
+        "苗栗縣木雕博物館": "Wood Sculpture Museum"
+    },
+    {
+        "客家文物館": "Hakka Cultural Artifacts Exhibition Hall"
+    },
+    {
+        "澎湖縣水產種苗繁殖場": "Marine Life Propagation Station, Penghu County"
+    },
+    {
+        "港務處": "Harbor Office"
+    },
+    {
+        "物資處": "Procurement Office"
+    },
+    {
+        "自來水廠": "Water Plant"
+    },
+    {
+        "花岡石廠": "Granite Works, Kinmen County"
+    },
+    {
+        "陶瓷廠": "Ceramic Works, Kinmen County"
+    },
+    {
+        "農業試驗所": "Agricultural Research Center"
+    },
+    {
+        "水產試驗所": "Fisheries Research Center"
+    },
+    {
+        "林務所": "Forestry Research Center"
+    },
+    {
+        "畜業試驗所": "Livestock Research Center"
+    },
+    {
+        "大同之家": "Children's and Senior Citizens' Home"
+    },
+    {
+        "     分館": "        District Branch Library     "
+    },
+    {
+        "台北市政府": "Taipei City Government"
+    },
+    {
+        "___ 市政府": "_____ City Government"
+    },
+    {
+        "秘書處": "Secretariat"
+    },
+    {
+        "民政局": "Civil Affairs Bureau"
+    },
+    {
+        "財政局": "Finance Bureau"
+    },
+    {
+        "教育局": "Education Bureau"
+    },
+    {
+        "建設局": "Economic Affairs Bureau "
+    },
+    {
+        "海洋局": "Marine Bureau"
+    },
+    {
+        "都市發展局": "Urban Development Bureau"
+    },
+    {
+        "工務局": "Public Works Bureau"
+    },
+    {
+        "社會局": "Social Affairs Bureau"
+    },
+    {
+        "勞工局": "Labor Affairs Bureau"
+    },
+    {
+        "警察局": "Police Bureau"
+    },
+    {
+        "消防局": "Fire Bureau"
+    },
+    {
+        "衛生局": "Public Health Bureau"
+    },
+    {
+        "環境保護局": "Environmental Protection Bureau"
+    },
+    {
+        "捷運工程局": "Mass Rapid Transit Bureau"
+    },
+    {
+        "文化局": "Cultural Affairs Bureau"
+    },
+    {
+        "交通局": "Transportation Bureau"
+    },
+    {
+        "公教人力發展局": "Civil Service Development Bureau"
+    },
+    {
+        "法制局": "Legal Affairs Bureau "
+    },
+    {
+        "兵役處": "Military Service Office"
+    },
+    {
+        "地政處": "Land Administration Office"
+    },
+    {
+        "新聞處": "Information Office"
+    },
+    {
+        "主計處": "Accounting and Statistics Office"
+    },
+    {
+        "人事處": "Personnel Office"
+    },
+    {
+        "政風處": "Civil Service Ethics Office"
+    },
+    {
+        "研究發展考核委員會": "Research, Development and Evaluation Commission"
+    },
+    {
+        "原住民事務委員會": "Indigenous Affairs Commission"
+    },
+    {
+        "都市計畫委員會": "Urban Planning Commission"
+    },
+    {
+        "       市立空中大學": "       Municipal Open University"
+    },
+    {
+        "___區公所": "___ District Office"
+    },
+    {
+        "宜蘭縣政府": "Yilan County Government"
+    },
+    {
+        "桃園縣政府": "Taoyuan County Government"
+    },
+    {
+        "新竹縣政府": "Hsinchu County Government"
+    },
+    {
+        "苗栗縣政府": "Miaoli County Government"
+    },
+    {
+        "彰化縣政府": "Changhua County Government"
+    },
+    {
+        "南投縣政府": "Nantou County Government"
+    },
+    {
+        "雲林縣政府": "Yunlin County Government"
+    },
+    {
+        "嘉義縣政府": "Chiayi County Government"
+    },
+    {
+        "屏東縣政府": "Pintung County Government"
+    },
+    {
+        "臺東縣政府": "Taitung County Government"
+    },
+    {
+        "花蓮縣政府": "Hualien County Government"
+    },
+    {
+        "澎湖縣政府": "Penghu County Government"
+    },
+    {
+        "連江縣政府": "Lienchiang County Government"
+    },
+    {
+        "金門縣政府": "Kinmen County Government"
+    },
+    {
+        "基隆市政府": "Keelung City Government"
+    },
+    {
+        "新竹市政府": "Hsinchu City Government"
+    },
+    {
+        "臺中市政府": "Taichung City Government"
+    },
+    {
+        "嘉義市政府": "Chiayi City Government"
+    },
+    {
+        "臺南市政府": "Tainan City Government"
+    },
+    {
+        "1.___縣(市)警察局  2.___縣(市)政府警察局": "____ County (City) Police Bureau"
+    },
+    {
+        "1.___縣(市)消防局  2.___縣政府消防局": "Fire Bureau, ____ County (City)"
+    },
+    {
+        "1.___縣(市)衛生局  2.___縣政府衛生局": "Public Health Bureau, ____ County (City)"
+    },
+    {
+        "___縣(市)環境保護局": "Environment Protection Bureau, _____ County (City)"
+    },
+    {
+        "1.___縣(市)政府地方稅務局 2.___ 縣(市)地方稅務局": "Local Tax Bureau, ___ County (City)"
+    },
+    {
+        "___市___區公所": "___ District Office, ___ City"
+    },
+    {
+        "___市___區公所": "___ District Office, ___ City"
+    },
+    {
+        "___縣___鄉(鎮,市)公所": "___ Township (Town,Borough) Office, ___ County"
+    },
+    {
+        "___鄉(鎮,市)立托兒所": "___ Township  (Town,Borough)  Nursery"
+    },
+    {
+        "___鄉(鎮,市)立圖書館": "___ Township  (Town,Borough)  Library"
+    },
+    {
+        "第一公有零售市場": "First Public Market"
+    },
+    {
+        "公有零售市場": "Public Market"
+    },
+    {
+        "公有零售市場管理所": "Public Market Management Office"
+    },
+    {
+        "公園管理所": "Park Management Office"
+    },
+    {
+        "觀光服務所": "Tourism Service Center"
+    },
+    {
+        "清潔隊": "Cleaning Unit"
+    },
+    {
+        "調解委員會": "Mediation Committee"
+    },
+    {
+        "村聯合辦公處": "Village Office"
+    },
+    {
+        "___鄉(鎮、市)立布農文物館": "___ Township  (Town,Borough)  Bunun Cultural Exhibition Hall"
+    },
+    {
+        "直轄市議會": "____ City Council"
+    },
+    {
+        "縣(市)議會": "___ County (City) Council"
+    },
+    {
+        "___縣___鄉(鎮,市)代表會": "___ Township  (Town,Borough)  Council, ___ County"
+    }
+]
