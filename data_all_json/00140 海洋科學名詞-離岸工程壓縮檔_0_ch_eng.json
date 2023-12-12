@@ -1,0 +1,2813 @@
+[
+    {
+        "異常潮": "abnormal tide"
+    },
+    {
+        "生活及動力平台": "accommodation and power platform｛=APP｝"
+    },
+    {
+        "聲波標向裝置": "acoustic beacon"
+    },
+    {
+        "聲波定位": "acoustic positioning"
+    },
+    {
+        "附加質量": "added mass"
+    },
+    {
+        "氣動噪音": "aerodynamic noise"
+    },
+    {
+        "空氣動力學": "aerodynamics"
+    },
+    {
+        "翼剖面": "aerofoil section"
+    },
+    {
+        "氣動發電機": "aerogenerator"
+    },
+    {
+        "艉部": "after body"
+    },
+    {
+        "氣袋": "air bag"
+    },
+    {
+        "空氣防波堤": "air breakwater"
+    },
+    {
+        "氣泡幕": "air bubble screen"
+    },
+    {
+        "空氣捲入": "air entraining"
+    },
+    {
+        "空氣滑槽": "air slider"
+    },
+    {
+        "翼剖面；機翼": "airfoil"
+    },
+    {
+        "氣昇力開挖": "airlift excavation"
+    },
+    {
+        "氣力揚升幫浦": "airlift pump"
+    },
+    {
+        "微小振幅波理論": "Airy wave theory"
+    },
+    {
+        "阿留申低氣壓": "Aleutian depression"
+    },
+    {
+        "容許應力": "allowable stress"
+    },
+    {
+        "無潮波": "amphidromic wave"
+    },
+    {
+        "振幅": "amplitude"
+    },
+    {
+        "振幅譜": "amplitude spectrum"
+    },
+    {
+        "錨呆重": "anchor deadweight"
+    },
+    {
+        "錨碇能力": "anchor holding capacity"
+    },
+    {
+        "錨樁": "anchor pile"
+    },
+    {
+        "錨推進劑": "anchor propellant"
+    },
+    {
+        "錨碇式碼頭": "anchor type wharf"
+    },
+    {
+        "錨碇牆": "anchor wall"
+    },
+    {
+        "錨碇": "anchorage"
+    },
+    {
+        "風速計": "anemometer"
+    },
+    {
+        "攻角": "angle of attack"
+    },
+    {
+        "安息角": "angle of repose"
+    },
+    {
+        "角頻率": "angular frequency"
+    },
+    {
+        "角度擴散": "angular spreading"
+    },
+    {
+        "異常狀態": "anomalous condition"
+    },
+    {
+        "天線效應": "antenna effect"
+    },
+    {
+        "腹點；反節點": "antinode"
+    },
+    {
+        "生活及動力平台": "APP｛accommodation and power platform｝"
+    },
+    {
+        "岸肩": "apron"
+    },
+    {
+        "海洋牧場": "aquafarm"
+    },
+    {
+        "北極土木工事": "Arctic earthwork"
+    },
+    {
+        "北極生態考量": "Arctic ecological considerations"
+    },
+    {
+        "北極冰層島嶼": "Arctic ice islands"
+    },
+    {
+        "北極冰堆": "Arctic ice pack"
+    },
+    {
+        "北極破冰": "Arctic icebreaking"
+    },
+    {
+        "北極物流": "Arctic logistics"
+    },
+    {
+        "塊石堤": "armor block breakwater"
+    },
+    {
+        "防護塊": "armor unit"
+    },
+    {
+        "塊石層": "armour layer"
+    },
+    {
+        "人工海草": "artficial seaweed"
+    },
+    {
+        "人工魚礁；人工潛礁": "artificial  reef"
+    },
+    {
+        "人工海中森林": "artificial sea forest"
+    },
+    {
+        "人工湧升流": "artificial upwelling"
+    },
+    {
+        "秋分點": "astronomical equinox"
+    },
+    {
+        "天文定位": "astronomical fixation"
+    },
+    {
+        "天文潮": "astronomical tide"
+    },
+    {
+        "非對稱繫留": "asymmetric mooring"
+    },
+    {
+        "大氣腐蝕": "atmospheric corrosion"
+    },
+    {
+        "大氣冰凍": "atmospheric icing"
+    },
+    {
+        "減衰距離": "attenuation distance"
+    },
+    {
+        "高程量測": "attitude measurement"
+    },
+    {
+        "自相關函數": "autocorrelation function"
+    },
+    {
+        "秋分": "autumnal equinox"
+    },
+    {
+        "輔助腐蝕": "auxiliary corrosion"
+    },
+    {
+        "軸流渦輪": "axial flow turbine"
+    },
+    {
+        "方位角": "azimuth angle"
+    },
+    {
+        "抓斗式挖泥船": "backet dredger"
+    },
+    {
+        "壓艙載": "ballast"
+    },
+    {
+        "沙洲": "bar"
+    },
+    {
+        "駁船": "barge"
+    },
+    {
+        "防撞碰墊；靠船緩衝駁船": "barge bumper"
+    },
+    {
+        "斜壓的": "baroclinic"
+    },
+    {
+        "正壓的": "barotropic"
+    },
+    {
+        "基線": "base line"
+    },
+    {
+        "基礎筏": "base raft"
+    },
+    {
+        "港池": "basin"
+    },
+    {
+        "海域地形": "bathymetry"
+    },
+    {
+        "地轉暴潮": "bathystrophic storm tide"
+    },
+    {
+        "斜樁": "batter(raker) pile"
+    },
+    {
+        "鐘形樁": "belled pile"
+    },
+    {
+        "水準點": "bench mark"
+    },
+    {
+        "彎矩": "bending moment"
+    },
+    {
+        "底棲生物": "benthos"
+    },
+    {
+        "船席": "berth"
+    },
+    {
+        "靠岸能量係數": "berthing energy coefficient"
+    },
+    {
+        "二元流體循環": "binary cycle"
+    },
+    {
+        "生物污垢": "biofouling"
+    },
+    {
+        "生物腐蝕": "biological corosion"
+    },
+    {
+        "繫纜柱": "bitt"
+    },
+    {
+        "葉片間距控制": "blade pitch control"
+    },
+    {
+        "海洋能": "blue energy"
+    },
+    {
+        "遊艇旅館": "boatel"
+    },
+    {
+        "繫纜柱；曲柱": "bollard"
+    },
+    {
+        "怖風": "bora"
+    },
+    {
+        "段波": "bore"
+    },
+    {
+        "鑽探": "boring"
+    },
+    {
+        "海底測繪系統": "bottom mapping system"
+    },
+    {
+        "破冰": "brash ice"
+    },
+    {
+        "防波堤": "breakwater"
+    },
+    {
+        "繫船臺": "breasting dolphin"
+    },
+    {
+        "脆性破裂": "brittle fracture"
+    },
+    {
+        "緩衝帶": "buffer zone"
+    },
+    {
+        "緩衝器": "bumper"
+    },
+    {
+        "束管": "bundled pipes"
+    },
+    {
+        "浮標；浮球；浮筒": "buoy"
+    },
+    {
+        "電纜陣列": "cable array"
+    },
+    {
+        "電纜功能": "cable function"
+    },
+    {
+        "敷設電纜": "cable laying"
+    },
+    {
+        "電纜犁": "cable plow"
+    },
+    {
+        "沉箱": "caisson"
+    },
+    {
+        "沉箱壓艙力": "caisson ballast forces"
+    },
+    {
+        "沉箱隔艙": "caisson cell"
+    },
+    {
+        "沉箱重力基底": "caisson gravity base"
+    },
+    {
+        "沉箱超壓": "caisson overpressure"
+    },
+    {
+        "沉箱式防波堤": "caisson type breakwater"
+    },
+    {
+        "沉箱圍成島": "caisson-retained islands"
+    },
+    {
+        "靜穩度": "calmness"
+    },
+    {
+        "懸臂式碼頭": "cantilever type wharf"
+    },
+    {
+        "蓋岩": "cap rock"
+    },
+    {
+        "碳含量": "carbon content"
+    },
+    {
+        "碳當量": "carbon equivalent"
+    },
+    {
+        "裝卸機械": "cargo handling machine"
+    },
+    {
+        "懸垂線": "catenary"
+    },
+    {
+        "懸垂錨碇平台": "catenary anchored platform"
+    },
+    {
+        "陰極保護": "cathodic protection"
+    },
+    {
+        "穴蝕": "cavitation"
+    },
+    {
+        "空腔共振": "cavity resonance"
+    },
+    {
+        "封閉性環流": "cell circulation system"
+    },
+    {
+        "中空方塊防波堤": "cellular block type breakwater"
+    },
+    {
+        "細胞狀圍堰": "cellular cofferdam"
+    },
+    {
+        "土壤固化": "cementation of soil"
+    },
+    {
+        "集中式發電系統": "centralized power generating system"
+    },
+    {
+        "水道疏濬": "channel dredging"
+    },
+    {
+        "特徵時間": "characteristic time"
+    },
+    {
+        "海圖": "chart"
+    },
+    {
+        "環流": "circulation current"
+    },
+    {
+        "蚌式波能轉換器": "clam wave energy converter"
+    },
+    {
+        "抓斗式浚渫": "clamshell dredge"
+    },
+    {
+        "蚌殼式挖泥機": "clamshell dredger"
+    },
+    {
+        "重複波；駐波": "clapotis"
+    },
+    {
+        "封閉式海洋溫差發電": "closed cycle OTEC"
+    },
+    {
+        "封閉式循環系統": "closed cycle system"
+    },
+    {
+        "閉式回饋控制": "closed-loop feedback control"
+    },
+    {
+        "終端水深": "closure depth"
+    },
+    {
+        "橢圓函數波": "cnoidal wave"
+    },
+    {
+        "煤漿": "coal slurry"
+    },
+    {
+        "混凝土被覆": "coatings for concrete"
+    },
+    {
+        "圍堰；堰艙": "cofferdam"
+    },
+    {
+        "冷鋒": "cold front"
+    },
+    {
+        "冷水管": "cold water pipe｛=CWP｝"
+    },
+    {
+        "膠體": "colloid"
+    },
+    {
+        "柱狀排列": "column alignment"
+    },
+    {
+        "柱端條件": "column end conditions"
+    },
+    {
+        "海上油氣田群聯合開發": "combined development of offshore oil-gas field group"
+    },
+    {
+        "補償流": "compensation current"
+    },
+    {
+        "順波塔": "compliant tower"
+    },
+    {
+        "分潮": "component tide"
+    },
+    {
+        "成份波": "component wave"
+    },
+    {
+        "混成堤": "composite breakwater"
+    },
+    {
+        "複合構造": "composite construction"
+    },
+    {
+        "複合坡度": "composite slope"
+    },
+    {
+        "複合海岸": "compound coast"
+    },
+    {
+        "濃度；含固率": "concentration"
+    },
+    {
+        "保留": "concentration cell corrosion"
+    },
+    {
+        "塊體堤": "concrete block breakwater"
+    },
+    {
+        "混凝土黏結": "concrete bond"
+    },
+    {
+        "混凝土薄漿": "concrete grout"
+    },
+    {
+        "混凝土透水性": "concrete permeability"
+    },
+    {
+        "混凝土澆鑄": "concrete placement"
+    },
+    {
+        "混凝土抗硫": "concrete sulfate resistance"
+    },
+    {
+        "冷凝器": "condenser"
+    },
+    {
+        "海洋資源保護；海洋資源保育": "conservation of marine resources"
+    },
+    {
+        "壓密；固結": "consolidation"
+    },
+    {
+        "可建造性": "constructibility"
+    },
+    {
+        "施工接頭；施工縫": "construction joint"
+    },
+    {
+        "建築公差": "construction tolerance"
+    },
+    {
+        "接觸壓力": "contact pressure"
+    },
+    {
+        "貨櫃船": "container ship"
+    },
+    {
+        "大陸棚": "continental shelf"
+    },
+    {
+        "連續樑": "continuous beam"
+    },
+    {
+        "等高線；等深線；等值線": "contour"
+    },
+    {
+        "轉換效率": "conversion efficiency"
+    },
+    {
+        "運輸帶；輸送機": "conveyer"
+    },
+    {
+        "岩心取樣船": "coring vessel"
+    },
+    {
+        "柯氏係數": "Coriolis coefficient"
+    },
+    {
+        "柯氏力": "Coriolis force"
+    },
+    {
+        "防蝕塊": "corrosion  baracle"
+    },
+    {
+        "腐蝕容許量": "corrosion allowance"
+    },
+    {
+        "腐蝕陽極": "corrosion anode"
+    },
+    {
+        "腐蝕陰極": "corrosion cathode"
+    },
+    {
+        "防蝕塗層": "corrosion coating"
+    },
+    {
+        "腐蝕縫隙": "corrosion crevice"
+    },
+    {
+        "腐蝕電流密度": "corrosion current density"
+    },
+    {
+        "腐蝕疲勞": "corrosion fatigue"
+    },
+    {
+        "腐蝕氧化膜": "corrosion oxide film"
+    },
+    {
+        "斑蝕": "corrosion pitting"
+    },
+    {
+        "防蝕保護整流器": "corrosion protection rectifier"
+    },
+    {
+        "腐蝕拉應力": "corrosion tensile stress"
+    },
+    {
+        "平衡重量": "counter weight"
+    },
+    {
+        "反向旋轉渦輪": "counter-rotating turbine"
+    },
+    {
+        "起重機駁船": "crane barge"
+    },
+    {
+        "吊車操作員": "crane operator"
+    },
+    {
+        "起重機基座": "crane pedestal"
+    },
+    {
+        "粉碎機": "crasher"
+    },
+    {
+        "交通艇": "crew boat"
+    },
+    {
+        "考慮規範之設計": "criteria consideration design"
+    },
+    {
+        "臨界阻尼": "critical damping"
+    },
+    {
+        "臨界水深": "critical depth"
+    },
+    {
+        "臨界流速": "critical velocity"
+    },
+    {
+        "橫流渦輪": "cross flow turbine"
+    },
+    {
+        "橫向推力": "cross-axis thrust"
+    },
+    {
+        "橫流渦輪機": "cross-flow turbine"
+    },
+    {
+        "累積破壞": "cumulative damage"
+    },
+    {
+        "渦度": "curl"
+    },
+    {
+        "氣幕式防波堤": "curtain wall breakwater"
+    },
+    {
+        "切入風速": "cut-in wind speed"
+    },
+    {
+        "切出速度": "cut-out speed"
+    },
+    {
+        "滾刀": "cutter"
+    },
+    {
+        "冷水管": "CWP｛cold water pipe｝"
+    },
+    {
+        "往復荷載": "cyclic loads"
+    },
+    {
+        "圓柱群": "cylinder group"
+    },
+    {
+        "圓形樁": "cylinder pile"
+    },
+    {
+        "圓柱形薄殼": "cylindrical shell"
+    },
+    {
+        "近岸水域保全計畫的破壞": "damage of coastal water conservancy project"
+    },
+    {
+        "阻尼振動": "damped vibration"
+    },
+    {
+        "阻尼係數": "damping coefficient"
+    },
+    {
+        "阻尼因子": "damping factor"
+    },
+    {
+        "阻尼器": "dash pot"
+    },
+    {
+        "基準面": "datum level"
+    },
+    {
+        "最低速": "dead slow speed"
+    },
+    {
+        "減衰距離": "decay distance"
+    },
+    {
+        "減壓": "decompression"
+    },
+    {
+        "除汙設施": "decontamination facilities"
+    },
+    {
+        "深基礎": "deep foundations"
+    },
+    {
+        "深層貫入剖面儀": "deep penetration profiler"
+    },
+    {
+        "深水波": "deep water wave"
+    },
+    {
+        "深水電纜捲盤": "deepwater reeling"
+    },
+    {
+        "偏向力": "deflection force"
+    },
+    {
+        "變形荷載": "deformation load"
+    },
+    {
+        "水下填充加密": "densification of underwater fills"
+    },
+    {
+        "密度流": "density current"
+    },
+    {
+        "水深剖面": "depth profiles"
+    },
+    {
+        "塔架": "derrick"
+    },
+    {
+        "降交點": "descending node"
+    },
+    {
+        "設計海流": "design currents"
+    },
+    {
+        "設計颱風": "design typhoon"
+    },
+    {
+        "設計波浪": "design wave"
+    },
+    {
+        "設計波譜": "design wave spectrum"
+    },
+    {
+        "離岸堤": "detached breakwater"
+    },
+    {
+        "離岸碼頭": "detached wharf"
+    },
+    {
+        "成長波域": "developing sea"
+    },
+    {
+        "潮位偏差": "deviation of tidal level"
+    },
+    {
+        "繞射": "diffraction"
+    },
+    {
+        "鏟式挖泥船": "dipper dredger"
+    },
+    {
+        "直接驅動發電機": "direct-drive generator"
+    },
+    {
+        "方向分散函數": "directional spreading function"
+    },
+    {
+        "方向波譜": "directional wave spectrum"
+    },
+    {
+        "分散關係": "dispersion relation"
+    },
+    {
+        "排水噸位": "displacement tonnage"
+    },
+    {
+        "歪比模型": "distorted model"
+    },
+    {
+        "歪比率": "distortion ratio"
+    },
+    {
+        "潮汐不等": "diurnal ineqality"
+    },
+    {
+        "繫船臺；繫船樁": "dolphin"
+    },
+    {
+        "雙作用渦輪": "double-acting turbine"
+    },
+    {
+        "雙峰譜": "double-peaked spectrum"
+    },
+    {
+        "停機期": "down time"
+    },
+    {
+        "吃水": "draft"
+    },
+    {
+        "拖曳力係數": "drag coefficient"
+    },
+    {
+        "拖曳力": "drag force"
+    },
+    {
+        "挖泥船": "dredge barge"
+    },
+    {
+        "挖泥船": "dredger"
+    },
+    {
+        "浚渫": "dredging"
+    },
+    {
+        "漂流": "drift current"
+    },
+    {
+        "漂沙": "drift sand"
+    },
+    {
+        "漂流力": "drifting force"
+    },
+    {
+        "鑽柱運動補償器": "drill string compensator｛=DSC｝"
+    },
+    {
+        "鑽探；鑽井": "drilling"
+    },
+    {
+        "鑽井平臺": "drilling platform"
+    },
+    {
+        "鑽井船；鑽探船": "drilling vessel"
+    },
+    {
+        "鑽柱運動補償器": "DSC｛drill string compensator｝"
+    },
+    {
+        "導罩螺槳": "ducted propeller"
+    },
+    {
+        "傾卸車": "dumping truck"
+    },
+    {
+        "延時": "duration"
+    },
+    {
+        "動態控制": "dynamic control"
+    },
+    {
+        "動態平衡": "dynamic equilibrium"
+    },
+    {
+        "動態定位": "dynamic positioning"
+    },
+    {
+        "退潮": "ebb"
+    },
+    {
+        "偏心距離": "eccentric distance"
+    },
+    {
+        "測深儀": "echo sounder"
+    },
+    {
+        "渦流": "eddy"
+    },
+    {
+        "渦流黏性": "eddy viscosity"
+    },
+    {
+        "邊緣波": "edge wave"
+    },
+    {
+        "噴射式疏濬": "eductor dredging"
+    },
+    {
+        "專屬經濟水域": "EEZ｛exclusive economic zone｝"
+    },
+    {
+        "有效吹風距離": "effective fetch length"
+    },
+    {
+        "電化腐蝕": "electrochemical corrosion"
+    },
+    {
+        "護岸": "embankment"
+    },
+    {
+        "海灣": "embayment"
+    },
+    {
+        "嵌入錨": "embedment anchor"
+    },
+    {
+        "封閉式螺槳": "enclosed propeller"
+    },
+    {
+        "遭遇週期": "encounter period"
+    },
+    {
+        "端點承受力": "end bearing capacity"
+    },
+    {
+        "能源轉換": "energy conversion"
+    },
+    {
+        "能量通率": "energy flux"
+    },
+    {
+        "能源港": "energy harbor"
+    },
+    {
+        "高耗能產品": "energy-intensive product"
+    },
+    {
+        "環境負荷": "environmental load"
+    },
+    {
+        "分點潮": "equinoctial tide"
+    },
+    {
+        "海面變化": "eustatic movement"
+    },
+    {
+        "專屬經濟水域": "exclusive economic zone｛=EEZ｝"
+    },
+    {
+        "探勘鑽井": "exploratory drilling"
+    },
+    {
+        "異常高潮": "extraordinary high tide"
+    },
+    {
+        "異常波": "extraordinary wave"
+    },
+    {
+        "溫帶氣旋": "extratropical cyclone"
+    },
+    {
+        "導纜器": "fairlead"
+    },
+    {
+        "航道": "fairway"
+    },
+    {
+        "測深儀": "fathometer"
+    },
+    {
+        "集散船": "feeder boat"
+    },
+    {
+        "防舷材": "fender"
+    },
+    {
+        "渡船": "ferry boat"
+    },
+    {
+        "渡輪港；水陸轉運站": "ferry terminal"
+    },
+    {
+        "吹風距離": "fetch"
+    },
+    {
+        "有限振幅波理論": "finite amplitude wave theory"
+    },
+    {
+        "消防車": "fire engine"
+    },
+    {
+        "消防船": "fireboat"
+    },
+    {
+        "漁港": "fishery harbor"
+    },
+    {
+        "固定式人工島": "fixed artificial island"
+    },
+    {
+        "定床": "fixed bed"
+    },
+    {
+        "固定式鑽井平臺": "fixed drilling platform"
+    },
+    {
+        "定點海洋觀測站": "fixed oceanographic station"
+    },
+    {
+        "固定式平臺": "fixed platform"
+    },
+    {
+        "固定式結構": "fixed structure"
+    },
+    {
+        "固定波能轉換器": "fixed wave energy converter"
+    },
+    {
+        "燃燒塔": "flare boom"
+    },
+    {
+        "柔性管": "flexible pipelines"
+    },
+    {
+        "浮式天然氣液化裝置": "FLNG｛floating liquid natural gas unit｝"
+    },
+    {
+        "浮標；浮筒": "floater"
+    },
+    {
+        "浮式機場": "floating airport"
+    },
+    {
+        "浮動式人工島": "floating artificial island"
+    },
+    {
+        "人工浮魚礁": "floating artificial reef"
+    },
+    {
+        "浮式防波堤": "floating breakwater"
+    },
+    {
+        "浮橋式斜道": "floating bridge ramp"
+    },
+    {
+        "浮式起重機": "floating crane"
+    },
+    {
+        "浮式鑽井平臺": "floating drilling rig"
+    },
+    {
+        "浮式天然氣液化裝置": "floating liquid natural gas unit｛=FLNG｝"
+    },
+    {
+        "浮式生產貯油船": "floating oil production and storage unit｛=FPSO｝"
+    },
+    {
+        "浮式突堤碼頭": "floating pier"
+    },
+    {
+        "打樁船": "floating pile driver"
+    },
+    {
+        "浮式生產平臺": "floating production platform"
+    },
+    {
+        "浮式構架": "floating structure"
+    },
+    {
+        "浮動波能船舶": "floating wave power vessel｛=FWPV｝"
+    },
+    {
+        "浮式碼頭": "floating-type wharf"
+    },
+    {
+        "漲潮": "flood"
+    },
+    {
+        "滲水構件偵測": "flooded member detection"
+    },
+    {
+        "[樁]基腳": "footing"
+    },
+    {
+        "強制振動": "forced vibration"
+    },
+    {
+        "強制波": "forced wave"
+    },
+    {
+        "艏部": "fore body"
+    },
+    {
+        "前驅湧": "forerunner"
+    },
+    {
+        "浮式生產貯油船": "FPSO｛floating oil production and storage unit｝"
+    },
+    {
+        "剛架式平台": "framed platform"
+    },
+    {
+        "異常波[瘋狗浪]": "freak wave"
+    },
+    {
+        "異常波潛勢": "freak wave potential"
+    },
+    {
+        "自由波": "free wave"
+    },
+    {
+        "乾舷": "freeboard"
+    },
+    {
+        "貨輪": "freighter"
+    },
+    {
+        "頻率譜": "frequency spectrum"
+    },
+    {
+        "清風": "fresh breeze"
+    },
+    {
+        "完全成熟波": "fully-developed sea"
+    },
+    {
+        "浮動波能船舶": "FWPV｛floating wave power vessel ｝"
+    },
+    {
+        "疾風": "gale"
+    },
+    {
+        "龍骨翼板": "garboard strake"
+    },
+    {
+        "含氣沉積層": "gas-charged sediment"
+    },
+    {
+        "軟風": "gentle breeze"
+    },
+    {
+        "地衡風": "geostrophic wind"
+    },
+    {
+        "冰河期海面變化": "glacial eustasy"
+    },
+    {
+        "大域分析": "global analysis"
+    },
+    {
+        "海床開挖": "glory hole"
+    },
+    {
+        "抓斗": "grab"
+    },
+    {
+        "抓斗式挖泥船": "grab dredger"
+    },
+    {
+        "梯度風": "gradient wind"
+    },
+    {
+        "重力式平臺": "gravity platform"
+    },
+    {
+        "重力式基礎": "gravity type foundation"
+    },
+    {
+        "重力式碼頭": "gravity type wharf"
+    },
+    {
+        "重力波": "gravity wave"
+    },
+    {
+        "電網連接": "grid connection"
+    },
+    {
+        "突堤": "groin"
+    },
+    {
+        "總噸位": "gross tonnage（=GT）"
+    },
+    {
+        "海洋油氣總資源量": "gross volume of offshore hydrocarbon resources"
+    },
+    {
+        "地鍊": "ground chain"
+    },
+    {
+        "群波速度": "group velocity"
+    },
+    {
+        "小冰山": "growler"
+    },
+    {
+        "[墨西哥]灣流": "Gulf Stream"
+    },
+    {
+        "陣風": "gust"
+    },
+    {
+        "繫纜塔": "guyed tower"
+    },
+    {
+        "最高高潮面": "H.H.W.L.｛highest hight water level｝"
+    },
+    {
+        "小潮平均高潮面": "H.W.O.N.T.｛high water on neap tide｝"
+    },
+    {
+        "大潮平均高潮面": "H.W.O.S.T. （=high water on spring tide）"
+    },
+    {
+        "港口": "harbor  entrance"
+    },
+    {
+        "港灣矛盾說": "harbor paradox"
+    },
+    {
+        "調和波": "harmonic"
+    },
+    {
+        "調和分析": "harmonic analysis"
+    },
+    {
+        "調和常數": "harmonic constant"
+    },
+    {
+        "熱機": "heat engine"
+    },
+    {
+        "熱交換器": "heat exchanger"
+    },
+    {
+        "熱污染": "heat pollution"
+    },
+    {
+        "浮沈": "heaving"
+    },
+    {
+        "重型貨物運輸船": "heavy lift carrier"
+    },
+    {
+        "高基座": "high mound"
+    },
+    {
+        "高潮": "high tide"
+    },
+    {
+        "小潮平均高潮面": "high water on neap tide｛=H.W.O.N.T.｝"
+    },
+    {
+        "大潮平均高潮面": "high water on spring tide （=high water on neap tide ）"
+    },
+    {
+        "疾風": "high wind"
+    },
+    {
+        "最高高潮位": "highest hight water level｛=H.H.W.L｝"
+    },
+    {
+        "後報": "hindcasting"
+    },
+    {
+        "泥艙；[進料]斗": "hopper"
+    },
+    {
+        "水平軸風車": "horizontal axis windmill"
+    },
+    {
+        "軟管泵波浪能量轉換器": "hose pump wave energy converter"
+    },
+    {
+        "氣墊船": "hovercraft"
+    },
+    {
+        "船體": "hull"
+    },
+    {
+        "颶風": "hurricane"
+    },
+    {
+        "混合動力循環": "hybrid cycle system"
+    },
+    {
+        "水力浚渫": "hydraulic dredge"
+    },
+    {
+        "水工模型試驗": "hydraulic model experiment"
+    },
+    {
+        "水力岩芯器": "hydraulic piston corer"
+    },
+    {
+        "水力輸送": "hydraulic transport"
+    },
+    {
+        "水翼船": "hydrofoil"
+    },
+    {
+        "靜水壓": "hydrostatic pressure"
+    },
+    {
+        "浸水區": "immersed zone"
+    },
+    {
+        "衝擊力": "impact force"
+    },
+    {
+        "阻抗": "impedance"
+    },
+    {
+        "外加電流": "impressed current"
+    },
+    {
+        "脈衝力": "impulsive force"
+    },
+    {
+        "現地試驗": "in situ testing"
+    },
+    {
+        "入射角": "incident angle"
+    },
+    {
+        "入射波": "incident wave"
+    },
+    {
+        "起始運動": "incipient motion"
+    },
+    {
+        "傾度": "inclination"
+    },
+    {
+        "工業港": "industrial harbor"
+    },
+    {
+        "慣性係數": "inertial coefficient"
+    },
+    {
+        "慣性力": "inertial force"
+    },
+    {
+        "充氣式浮標": "inflatable buoy"
+    },
+    {
+        "亞重力波": "infragravity wave"
+    },
+    {
+        "潮口": "inlet"
+    },
+    {
+        "島堤": "insular breakwater"
+    },
+    {
+        "取水口": "intake"
+    },
+    {
+        "界面波": "interfacial wave"
+    },
+    {
+        "中間水深波": "intermediate depth wave"
+    },
+    {
+        "內波": "internal wave"
+    },
+    {
+        "不規則波": "irregular wave"
+    },
+    {
+        "非旋流": "irrotational flow"
+    },
+    {
+        "島堤": "island mole"
+    },
+    {
+        "海島觀光": "island tourism"
+    },
+    {
+        "等壓線": "isobar"
+    },
+    {
+        "離岸堤；島式防波堤": "isolated breakwater"
+    },
+    {
+        "套管架": "jacket"
+    },
+    {
+        "套管架下水駁船": "jacket launching barge"
+    },
+    {
+        "套管架腳柱": "jacket leg"
+    },
+    {
+        "套管架吊孔": "jacket lifting eye"
+    },
+    {
+        "套管架嵌板": "jacket panel"
+    },
+    {
+        "套管架樁基平臺": "jacket pile-driven platform"
+    },
+    {
+        "套管架定位": "jacket positioning"
+    },
+    {
+        "夾套結構": "jacket structure"
+    },
+    {
+        "升降式駁船": "Jack-up barge"
+    },
+    {
+        "舉升式鑽井平臺": "jack-up drilling rig"
+    },
+    {
+        "昇降式平台": "Jack-up platform"
+    },
+    {
+        "日本海流": "Japan Current"
+    },
+    {
+        "突堤": "jetty"
+    },
+    {
+        "吃水餘裕": "keel clearance"
+    },
+    {
+        "凱文波": "Kelvin wave"
+    },
+    {
+        "KC數": "Keulegan-Carpenter number"
+    },
+    {
+        "運動黏滯係數": "kinematic viscosity coefficient"
+    },
+    {
+        "節": "knot"
+    },
+    {
+        "親潮": "Kuril Current"
+    },
+    {
+        "黑潮": "Kuroshio"
+    },
+    {
+        "佈管駁船；鋪管船；管線鋪設船": "laybarge"
+    },
+    {
+        "佈管船托架": "laybarge stinger"
+    },
+    {
+        "下風側": "leeward"
+    },
+    {
+        "線性波": "linear wave"
+    },
+    {
+        "液化": "liquefaction"
+    },
+    {
+        "液化天然氣": "liquefied natural gas ｛=LNG｝"
+    },
+    {
+        "液化石油氣": "liquefied petroleum gas｛=LPG｝"
+    },
+    {
+        "活載重": "live load"
+    },
+    {
+        "生活區": "living quarter"
+    },
+    {
+        "液化天然氣": "LNG｛liquefied natural gas｝"
+    },
+    {
+        "載重組合": "load combination"
+    },
+    {
+        "載重因子": "load factor"
+    },
+    {
+        "移載": "load out"
+    },
+    {
+        "局部挫屈": "local buckling"
+    },
+    {
+        "局部穴蝕": "local cavitation"
+    },
+    {
+        "局部接觸壓力": "local contact pressure"
+    },
+    {
+        "當地波浪": "local wave"
+    },
+    {
+        "局部屈伏": "local yielding"
+    },
+    {
+        "局部強制流": "locally forced current"
+    },
+    {
+        "長基線": "long baseline"
+    },
+    {
+        "長波": "long wave"
+    },
+    {
+        "長峰波": "long crested wave"
+    },
+    {
+        "低基堤": "low mound breakwater"
+    },
+    {
+        "液化石油氣": "LPG｛liquefied petroleum gas｝"
+    },
+    {
+        "大尺度亂流": "macroturbulence"
+    },
+    {
+        "海上起重機": "marine crane"
+    },
+    {
+        "海洋產業": "marine industry"
+    },
+    {
+        "海洋資訊產品": "marine information products"
+    },
+    {
+        "海洋資訊服務": "marine information service"
+    },
+    {
+        "海洋資訊共享": "marine information sharing"
+    },
+    {
+        "海洋資訊技術": "marine information technology"
+    },
+    {
+        "海洋資訊傳輸": "marine information transmission"
+    },
+    {
+        "海洋製造業": "marine manufacturing industry"
+    },
+    {
+        "海上溢油": "marine oil spill"
+    },
+    {
+        "海洋光學浮標": "marine optic buoy"
+    },
+    {
+        "海上定位": "marine positioning"
+    },
+    {
+        "海上救難": "marine salvage"
+    },
+    {
+        "海洋服務業": "marine service industry"
+    },
+    {
+        "海上吸揚式採礦船": "marine suction mining dredger"
+    },
+    {
+        "海洋旅遊業": "marine tourism"
+    },
+    {
+        "海洋旅遊資源": "marine tourism resources"
+    },
+    {
+        "海上拖運": "marine towage"
+    },
+    {
+        "筏式基礎": "mat foundation"
+    },
+    {
+        "材料安全因子": "material safety factor"
+    },
+    {
+        "平台結構銜接": "mating of deck structure"
+    },
+    {
+        "構件": "member"
+    },
+    {
+        "定傾中心": "metacenter"
+    },
+    {
+        "定傾高度": "metacentric height"
+    },
+    {
+        "氣象潮": "meteorological tide"
+    },
+    {
+        "甲烷氣": "methane gas"
+    },
+    {
+        "舯": "midship"
+    },
+    {
+        "代償措施": "mitigation"
+    },
+    {
+        "減緩沖刷": "mitigation of scour"
+    },
+    {
+        "移動式鑽井平臺": "mobile drilling platform"
+    },
+    {
+        "模型打樣": "mock-up"
+    },
+    {
+        "模態分析": "modal analysis"
+    },
+    {
+        "振態疊加": "mode superposition"
+    },
+    {
+        "組合式甲板": "module deck"
+    },
+    {
+        "模組支撐桁架": "module support frame"
+    },
+    {
+        "單一浮筒": "monobuoy"
+    },
+    {
+        "單頻波": "monochromatic wave"
+    },
+    {
+        "繫船柱": "mooring bitt"
+    },
+    {
+        "繫船浮筒": "mooring buoy"
+    },
+    {
+        "繫船臺": "mooring dolphin"
+    },
+    {
+        "莫理森方程式": "Morison equation"
+    },
+    {
+        "移動風域": "moving fetch"
+    },
+    {
+        "機艙": "nacelle"
+    },
+    {
+        "自然頻率": "natural frequency"
+    },
+    {
+        "近岸區": "nearshore zone"
+    },
+    {
+        "非腐蝕材料": "non-corrosive material"
+    },
+    {
+        "非線性波": "nonlinear wave"
+    },
+    {
+        "運轉與維護": "O&M｛operation and maintenance｝"
+    },
+    {
+        "觀測平臺": "observation platform"
+    },
+    {
+        "洋流能": "ocean current energy"
+    },
+    {
+        "洋流發電": "ocean current energy generation"
+    },
+    {
+        "海洋能源": "ocean energy"
+    },
+    {
+        "海洋能源發電產業": "ocean energy power generation industry"
+    },
+    {
+        "海洋能源利用": "ocean energy utilization"
+    },
+    {
+        "海洋底床地形": "ocean floor topography"
+    },
+    {
+        "海洋取水": "ocean intake"
+    },
+    {
+        "海洋放流": "ocean outfall"
+    },
+    {
+        "海洋熱能": "ocean thermal energy"
+    },
+    {
+        "海洋溫差發電": "ocean thermal energy conversion｛=OTEC｝"
+    },
+    {
+        "海洋熱能發電系統": "ocean thermal power system"
+    },
+    {
+        "海溝": "ocean trench"
+    },
+    {
+        "海洋波候": "oceanic wave climate"
+    },
+    {
+        "離岸": "offshore"
+    },
+    {
+        "離岸堤開口": "offshore breakwater gap"
+    },
+    {
+        "離岸叢聚井": "offshore cluster wells"
+    },
+    {
+        "離岸定向井": "offshore directional well"
+    },
+    {
+        "離岸鑽井": "offshore drilling"
+    },
+    {
+        "離岸鑽井設置": "offshore drilling installation"
+    },
+    {
+        "離岸鑽井平臺": "offshore drilling rig"
+    },
+    {
+        "離岸鑽井升導管": "offshore drilling riser"
+    },
+    {
+        "離岸工程": "offshore engineering"
+    },
+    {
+        "離岸採氣": "offshore gas production"
+    },
+    {
+        "離岸採氣": "offshore gas production"
+    },
+    {
+        "離岸採油系統": "offshore oil production system"
+    },
+    {
+        "離岸石油資源": "offshore oil resources"
+    },
+    {
+        "離岸溢油": "offshore oil spill"
+    },
+    {
+        "離岸油氣盆地": "offshore oil-gas bearing basin"
+    },
+    {
+        "離岸油氣盆地": "offshore oil-gas bearing basin"
+    },
+    {
+        "離岸油氣開發井": "offshore oil-gas development well"
+    },
+    {
+        "離岸油氣開發井": "offshore oil-gas development well"
+    },
+    {
+        "離岸油氣田": "offshore oil-gas field"
+    },
+    {
+        "離岸油氣田": "offshore oil-gas field"
+    },
+    {
+        "離岸油氣水平井": "offshore oil-gas horizontal well"
+    },
+    {
+        "離岸油氣貯池": "offshore oil-gas pool"
+    },
+    {
+        "離岸油氣回收": "offshore oil-gas recovery"
+    },
+    {
+        "離岸油氣水處理廠": "offshore oil-gas-water processing plant"
+    },
+    {
+        "離岸油氣水處理系統": "offshore oil-gas-water processing system"
+    },
+    {
+        "離岸平臺": "offshore platform"
+    },
+    {
+        "離岸開採": "offshore production"
+    },
+    {
+        "離岸開採設施": "offshore production facilities"
+    },
+    {
+        "離岸開採平臺": "offshore production platform"
+    },
+    {
+        "離岸開採系統": "offshore production system"
+    },
+    {
+        "離岸開採技術": "offshore production technology"
+    },
+    {
+        "離岸碼頭": "offshore terminal"
+    },
+    {
+        "離岸水域": "offshore waters"
+    },
+    {
+        "離岸測井": "offshore well logging"
+    },
+    {
+        "離岸預探井": "offshore wildcat well"
+    },
+    {
+        "溢油": "oil spill"
+    },
+    {
+        "油氣工廠廢水": "oil-gas mill waste water"
+    },
+    {
+        "開口沉箱": "open caisson"
+    },
+    {
+        "開式循環海洋溫差發電": "open cycle OTEC"
+    },
+    {
+        "開式循環系統": "open cycle system"
+    },
+    {
+        "外海作業": "open ocean operation"
+    },
+    {
+        "運轉與維護": "operation and maintenance｛=O&M｝"
+    },
+    {
+        "最適週期": "optimum period"
+    },
+    {
+        "最佳葉尖速比": "optimum tip speed ratio"
+    },
+    {
+        "有機朗肯循環": "ORC｛organic Rankine cycle｝"
+    },
+    {
+        "有機朗肯循環": "organic Rankine cycle｛=ORC｝"
+    },
+    {
+        "振盪水柱": "oscillating water column｛=OWC｝"
+    },
+    {
+        "滲透壓能源": "osmotic energy"
+    },
+    {
+        "海洋温差發電系統": "OTEC power system"
+    },
+    {
+        "海洋溫差發電": "OTEC｛ocean thermal energy conversion｝"
+    },
+    {
+        "過壓密比": "overconsolidation ratio"
+    },
+    {
+        "溢流管道系統": "overflow piping system"
+    },
+    {
+        "越波": "overtopping"
+    },
+    {
+        "傾覆力矩": "overturning moment"
+    },
+    {
+        "振盪水柱": "OWC｛oscillating water column｝"
+    },
+    {
+        "波譜尖度參數": "peakedness parameter"
+    },
+    {
+        "鐘擺式波能轉換器": "pendulor wave converter"
+    },
+    {
+        "貫入阻力": "penetration resistance"
+    },
+    {
+        "開孔防波堤": "perforated breakwater"
+    },
+    {
+        "自由振動週期": "period of free oscillation"
+    },
+    {
+        "週期性條件": "periodicity condition"
+    },
+    {
+        "永久載重": "permanent load"
+    },
+    {
+        "滲透性": "permeability"
+    },
+    {
+        "位相延遲": "phase lag"
+    },
+    {
+        "位相速度": "phase velocity"
+    },
+    {
+        "物理模型": "physical model"
+    },
+    {
+        "突堤碼頭": "pier"
+    },
+    {
+        "接樁器": "pile add-ons"
+    },
+    {
+        "樁錨": "pile anchoring"
+    },
+    {
+        "樁承載力": "pile capacity"
+    },
+    {
+        "樁位移": "pile displacement"
+    },
+    {
+        "打樁分析": "pile driving anaylsis"
+    },
+    {
+        "打樁計畫": "pile driving program"
+    },
+    {
+        "樁頭塞": "pile end plug"
+    },
+    {
+        "樁基礎": "pile foundation"
+    },
+    {
+        "群樁": "pile group"
+    },
+    {
+        "樁灌漿": "pile grouting"
+    },
+    {
+        "樁捶": "pile hammer"
+    },
+    {
+        "樁頭": "pile head"
+    },
+    {
+        "樁盔": "pile helmet"
+    },
+    {
+        "吊樁眼孔": "pile lifting eye"
+    },
+    {
+        "樁剪力轉移": "pile shear transfer"
+    },
+    {
+        "樁端強化": "pile tip reinforcement"
+    },
+    {
+        "樁頂": "pile top"
+    },
+    {
+        "打樁船": "piling barge"
+    },
+    {
+        "壅積作用": "piling up"
+    },
+    {
+        "布管駁船": "pipelaying barge"
+    },
+    {
+        "布管船": "pipelaying vessel"
+    },
+    {
+        "管線": "pipeline"
+    },
+    {
+        "管線錨定": "pipeline anchoring"
+    },
+    {
+        "布管駁船": "pipeline laying barge"
+    },
+    {
+        "管線盤": "pipeline reeling"
+    },
+    {
+        "管湧": "piping"
+    },
+    {
+        "俯仰": "pitching"
+    },
+    {
+        "舖面塊": "placed block"
+    },
+    {
+        "板式熱交換器": "plate heat exchanger"
+    },
+    {
+        "平台": "platform"
+    },
+    {
+        "捲入型碎波": "plunging breaker"
+    },
+    {
+        "點式波浪發電機": "point wave absorber"
+    },
+    {
+        "浮箱；浮船台": "pontoon"
+    },
+    {
+        "浮箱碼頭": "pontoon wharf"
+    },
+    {
+        "孔隙壓力": "pore pressure"
+    },
+    {
+        "孔隙介質": "porous medium"
+    },
+    {
+        "港埠": "port"
+    },
+    {
+        "位能": "potential energy"
+    },
+    {
+        "能譜密度": "power spectral density"
+    },
+    {
+        "電力系統": "power system"
+    },
+    {
+        "電力傳輸": "power transmission"
+    },
+    {
+        "預鑄混凝土": "precast concrete"
+    },
+    {
+        "預載基礎": "preloading foundation"
+    },
+    {
+        "壓力反應係數": "pressure response factor"
+    },
+    {
+        "預力混凝土": "prestressed concrete"
+    },
+    {
+        "生產平台；開採平臺": "production platform"
+    },
+    {
+        "進行波　": "progressive wave"
+    },
+    {
+        "固有振動週期": "proper oscillation period"
+    },
+    {
+        "碼頭": "quay"
+    },
+    {
+        "雷達浮標": "radar buoy"
+    },
+    {
+        "雷達定位": "radar positioning"
+    },
+    {
+        "週波率": "radian frequency"
+    },
+    {
+        "輻射應力": "radiation stress"
+    },
+    {
+        "輻射波": "radiation wave"
+    },
+    {
+        "筏式基礎": "raft foundation"
+    },
+    {
+        "打樁頭速度": "ram velocity"
+    },
+    {
+        "曳船道": "ramp"
+    },
+    {
+        "隨機過程": "random process"
+    },
+    {
+        "紛紜波": "random wave"
+    },
+    {
+        "朗肯循環熱機": "Rankine cycle engine"
+    },
+    {
+        "額定容量": "rated capacity"
+    },
+    {
+        "額定風速": "rated wind speed"
+    },
+    {
+        "海水循環冷卻系統": "recirculating seawater cooling system"
+    },
+    {
+        "捲筒布管駁船；捲盤駁船": "reel barge"
+    },
+    {
+        "反射波": "reflected wave"
+    },
+    {
+        "反射係數": "reflection coefficiont"
+    },
+    {
+        "折射": "refraction"
+    },
+    {
+        "折射係數": "refraction coefficient"
+    },
+    {
+        "規則波": "regular wave"
+    },
+    {
+        "相對水深": "relative depth"
+    },
+    {
+        "相對波高": "relative height"
+    },
+    {
+        "遙控載具": "remotely-operated vehicle｛=ROV｝"
+    },
+    {
+        "殘餘應力": "residual stress"
+    },
+    {
+        "共振": "resonance"
+    },
+    {
+        "資源開發": "resource development"
+    },
+    {
+        "資源探勘": "resource exploration"
+    },
+    {
+        "資源管理": "resource management"
+    },
+    {
+        "餘湧": "resurgence"
+    },
+    {
+        "重現期": "return period"
+    },
+    {
+        "雷諾數": "Reynolds number"
+    },
+    {
+        "海域使用權": "right of sea area use"
+    },
+    {
+        "剛體運動": "rigid body motion"
+    },
+    {
+        "加勁環": "ring stiffener"
+    },
+    {
+        "升導管": "riser"
+    },
+    {
+        "升導管安裝": "riser installation"
+    },
+    {
+        "搖臂": "rocker arm"
+    },
+    {
+        "轉子": "rotor"
+    },
+    {
+        "遙控載具": "ROV｛remotely-operated vehicle｝"
+    },
+    {
+        "拋石堤": "rubble mound"
+    },
+    {
+        "溯升": "run up"
+    },
+    {
+        "鹽度梯度": "salinity gradient"
+    },
+    {
+        "迂迴供沙": "sand bypassing"
+    },
+    {
+        "壓密沙樁": "sand compaction pile"
+    },
+    {
+        "衛星導航系統": "satellite navigation system"
+    },
+    {
+        "衛星海洋觀測系統": "satellite oceanic observation system"
+    },
+    {
+        "沖刷": "scour"
+    },
+    {
+        "漂流錨": "sea anchor"
+    },
+    {
+        "海蝕洞": "sea cave"
+    },
+    {
+        "海崖": "sea cliff"
+    },
+    {
+        "海上走廊": "sea corridor"
+    },
+    {
+        "海冰災害": "sea ice disaster"
+    },
+    {
+        "海冰預報": "sea ice forecast"
+    },
+    {
+        "海冰遙測": "sea ice remote sensing"
+    },
+    {
+        "海平面上升": "sea level rise"
+    },
+    {
+        "填海": "sea reclamation"
+    },
+    {
+        "填海工程": "sea reclamation works"
+    },
+    {
+        "海況": "sea state"
+    },
+    {
+        "海水鹽差發電": "sea water salinity gradient energy generation"
+    },
+    {
+        "海上機場": "seadrome"
+    },
+    {
+        "海床致密": "seafloor densification"
+    },
+    {
+        "海床整平": "seafloor leveling"
+    },
+    {
+        "海床液化": "seafloor liquefaction"
+    },
+    {
+        "海床改善": "seafloor modifications"
+    },
+    {
+        "海床塌陷": "seafloor slumping"
+    },
+    {
+        "海底測量": "seafloor survey"
+    },
+    {
+        "海水淡化廠": "seawater desalting plant"
+    },
+    {
+        "震波": "seismic wave"
+    },
+    {
+        "自整流發電機組": "self-rectifying turbine"
+    },
+    {
+        "半沈式駁船": "semisubmersible barge"
+    },
+    {
+        "半潛式鑽井平臺": "semi-submersible drilling rig"
+    },
+    {
+        "半潛式平臺": "semi-submersible rig"
+    },
+    {
+        "影子閃爍": "shadow flicker"
+    },
+    {
+        "遮蔽區": "shadow zone"
+    },
+    {
+        "淺層貫入剖面儀": "shallow penetration profiler"
+    },
+    {
+        "淺水波": "shallow water wave"
+    },
+    {
+        "短峰波": "short-crested wave"
+    },
+    {
+        "側掃雷達": "sidescan radar"
+    },
+    {
+        "側掃聲納": "side-scan sonar"
+    },
+    {
+        "側移": "sidesway"
+    },
+    {
+        "示性波高": "significant wave height"
+    },
+    {
+        "單點繫纜；單點繫泊": "single point mooring｛=SPM｝"
+    },
+    {
+        "開口沉箱": "sinking well"
+    },
+    {
+        "平潮": "slack water"
+    },
+    {
+        "滑動模板": "slipform"
+    },
+    {
+        "傾斜流": "slope current"
+    },
+    {
+        "邊坡不穩定": "slope instability"
+    },
+    {
+        "微小振幅波": "small amplitude wave"
+    },
+    {
+        "孤立波": "solitary wave"
+    },
+    {
+        "時空風域圖": "space-time wind field graph"
+    },
+    {
+        "直筒式浮標": "spar buoy"
+    },
+    {
+        "直筒式平台；立柱浮筒式平台": "spar platform"
+    },
+    {
+        "波譜(複)": "spectra"
+    },
+    {
+        "波譜(單)": "spectrum"
+    },
+    {
+        "溢出型碎波": "spilling breaker"
+    },
+    {
+        "飛濺區": "splash zone"
+    },
+    {
+        "單點繫纜；單點繫泊": "SPM｛single point mooring｝"
+    },
+    {
+        "大潮": "spring tide"
+    },
+    {
+        "駐波": "standing wave"
+    },
+    {
+        "鋼管樁": "steel pipe pile"
+    },
+    {
+        "尖銳度": "steepness"
+    },
+    {
+        "靜水位": "still water level"
+    },
+    {
+        "魟魚式潮流發電機": "stingray tidal generator"
+    },
+    {
+        "斯托克斯波": "Stokes  wave"
+    },
+    {
+        "暴潮": "storm surge"
+    },
+    {
+        "應力集中": "stress concentration"
+    },
+    {
+        "應力腐蝕": "stress corrosion"
+    },
+    {
+        "應力釋放": "stress relieving"
+    },
+    {
+        "海底電纜": "submarine cable"
+    },
+    {
+        "海底管線": "submarine pipline"
+    },
+    {
+        "潛堤": "submerged breakwater"
+    },
+    {
+        "海底管線": "submerged pipeline"
+    },
+    {
+        "水下結構物": "submerged structure"
+    },
+    {
+        "潛沒式駁船": "submersible barge"
+    },
+    {
+        "坐底式鑽井平臺": "submersible drilling platform"
+    },
+    {
+        "海下輸油氣管線": "subsea oil-gas pipeline"
+    },
+    {
+        "海底永凍層": "subsea permafrost"
+    },
+    {
+        "海下定位系統": "subsea positioning system"
+    },
+    {
+        "表面波": "surface wave"
+    },
+    {
+        "縱移": "surge"
+    },
+    {
+        "洶湧型碎波": "surging breaker"
+    },
+    {
+        "橫移": "sway"
+    },
+    {
+        "湧浪": "swell"
+    },
+    {
+        "複合微球泡材": "syntactic foam"
+    },
+    {
+        "油輪": "tanker"
+    },
+    {
+        "海洋能源開發技術": "technology of ocean energy exploitation"
+    },
+    {
+        "張力腳平台": "tension leg platform｛=TLP｝"
+    },
+    {
+        "繫纜浮標": "tethered buoy"
+    },
+    {
+        "繫留平台": "tethered seafloor platform"
+    },
+    {
+        "啟動條件": "threshold condition"
+    },
+    {
+        "攔潮堰": "tidal barrage"
+    },
+    {
+        "潮流": "tidal current"
+    },
+    {
+        "潮汐能": "tidal energy"
+    },
+    {
+        "潮汐圍堰": "tidal fence"
+    },
+    {
+        "潮汐發電站": "tidal power station"
+    },
+    {
+        "潮汐體積": "tidal prism"
+    },
+    {
+        "潮差": "tidal range"
+    },
+    {
+        "潮流": "tidal stream"
+    },
+    {
+        "潮波": "tidal wave"
+    },
+    {
+        "引潮力": "tide generating force"
+    },
+    {
+        "潮湧": "tide surge"
+    },
+    {
+        "葉尖速比": "tip speed ratio"
+    },
+    {
+        "張力腳平台": "TLP｛tension leg platform｝"
+    },
+    {
+        "地形": "topography"
+    },
+    {
+        "拖船": "tow boat"
+    },
+    {
+        "拖曳陣列聲納": "towed array sonar"
+    },
+    {
+        "拖曳式溫鹽深儀": "towed CTD"
+    },
+    {
+        "塔式平台": "tower platform"
+    },
+    {
+        "牽引力": "tractive force"
+    },
+    {
+        "拖斗式浚渫": "trailer dredge"
+    },
+    {
+        "透過係數": "transimission coefficient"
+    },
+    {
+        "中天": "transit"
+    },
+    {
+        "餘擺線波": "trochoidal wave"
+    },
+    {
+        "拖吊式平台": "troll platform"
+    },
+    {
+        "回歸潮": "tropic tide"
+    },
+    {
+        "波谷": "trough"
+    },
+    {
+        "海嘯": "tsunami"
+    },
+    {
+        "管狀連接": "tubular connection"
+    },
+    {
+        "大直徑鋼管樁": "tubular steel pile"
+    },
+    {
+        "拖船": "tugboat"
+    },
+    {
+        "濁度": "turbidity"
+    },
+    {
+        "渦輪機": "turbine"
+    },
+    {
+        "極限承載能力": "ultimate bearing capacity"
+    },
+    {
+        "超短基線": "ultra short baseline system"
+    },
+    {
+        "供應連繫管": "umbilical"
+    },
+    {
+        "海底煤礦": "undersea coal mine"
+    },
+    {
+        "海底電纜": "undersea electric cable"
+    },
+    {
+        "海底鐵礦": "undersea iron deposit"
+    },
+    {
+        "海底鐵礦": "undersea iron mine"
+    },
+    {
+        "海底錳核帶": "undersea manganese nodule belt"
+    },
+    {
+        "海底管線": "undersea pipeline"
+    },
+    {
+        "回流；底流": "undertow"
+    },
+    {
+        "水下爆破": "underwater  blasting"
+    },
+    {
+        "水下混凝土拌合": "underwater concrete mixes"
+    },
+    {
+        "水下填充": "underwater fill"
+    },
+    {
+        "水下灌漿": "underwater grouting"
+    },
+    {
+        "水下遙控載具": "underwater ROV"
+    },
+    {
+        "水下儲槽": "underwater storage tank"
+    },
+    {
+        "水下專用工具": "underwater tool"
+    },
+    {
+        "無纜遙控載具": "untethered ROV"
+    },
+    {
+        "湧升流": "upwelling"
+    },
+    {
+        "亞瑟數": "Ursell number"
+    },
+    {
+        "海洋能源利用": "utilization of ocean energy"
+    },
+    {
+        "十字片鑽剪力試驗": "vane shear test"
+    },
+    {
+        "蒸汽循環熱機": "vapour cycle engine"
+    },
+    {
+        "變動載重": "variable load"
+    },
+    {
+        "速度勢": "velocity potential"
+    },
+    {
+        "垂直軸風車": "vertical axis windmill"
+    },
+    {
+        "虛擬質量係數": "virtual mass coefficient"
+    },
+    {
+        "黏滯阻尼": "viscous damping"
+    },
+    {
+        "視覺衝擊": "visual impact"
+    },
+    {
+        "漩渦": "vortex"
+    },
+    {
+        "漩渦沙漣": "vortex ripple"
+    },
+    {
+        "渦流剝離": "vortex shedding"
+    },
+    {
+        "尾跡": "wake"
+    },
+    {
+        "近壁效應": "wall proximity"
+    },
+    {
+        "水柱": "water column"
+    },
+    {
+        "水灰比": "water-cement ratio"
+    },
+    {
+        "水線面積": "waterplane area"
+    },
+    {
+        "水線係數": "waterplane coefficient"
+    },
+    {
+        "波能吸收器": "wave absorber"
+    },
+    {
+        "波齡": "wave age"
+    },
+    {
+        "波振幅": "wave amplitude"
+    },
+    {
+        "波速": "wave celerity"
+    },
+    {
+        "波候": "wave climate"
+    },
+    {
+        "波浪守恆律": "wave conservation law"
+    },
+    {
+        "波峰": "wave crest"
+    },
+    {
+        "波峰長": "wave crest length"
+    },
+    {
+        "波浪衰減": "Wave decay"
+    },
+    {
+        "波向": "wave direction"
+    },
+    {
+        "波浪漂移速度": "wave drift velocity"
+    },
+    {
+        "波能": "wave energy"
+    },
+    {
+        "波浪能量轉換器": "wave energy converters｛=WEC｝"
+    },
+    {
+        "波浪能量傳遞": "wave energy transmission"
+    },
+    {
+        "波蝕作用": "wave erosion"
+    },
+    {
+        "波場": "wave field"
+    },
+    {
+        "波浪預報": "wave forecasting"
+    },
+    {
+        "波浪頻率": "wave frequency"
+    },
+    {
+        "造波機": "wave generator"
+    },
+    {
+        "波群": "wave group"
+    },
+    {
+        "波高": "wave height"
+    },
+    {
+        "波浪追算": "wave hindcasting"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "波浪力": "wave load"
+    },
+    {
+        "波浪質量傳輸": "wave mass transport"
+    },
+    {
+        "週波數；波數": "wave number"
+    },
+    {
+        "波週期": "wave period"
+    },
+    {
+        "波浪功率": "wave power"
+    },
+    {
+        "波壓": "wave pressure"
+    },
+    {
+        "波形": "wave profile"
+    },
+    {
+        "波浪泵": "wave pump"
+    },
+    {
+        "波輻射": "wave radiation"
+    },
+    {
+        "波向線": "wave ray"
+    },
+    {
+        "波浪反射": "wave reflection"
+    },
+    {
+        "波浪折射": "wave refraction"
+    },
+    {
+        "波浪阻力": "wave resistance"
+    },
+    {
+        "波降": "wave set-down"
+    },
+    {
+        "波揚": "wave set-up"
+    },
+    {
+        "波擊": "wave slamming"
+    },
+    {
+        "波譜": "wave spectrum"
+    },
+    {
+        "波浪尖度": "wave steepness"
+    },
+    {
+        "波列": "wave train"
+    },
+    {
+        "波谷": "wave trough"
+    },
+    {
+        "波浪能量轉換器": "WEC｛ wave energy converters｝"
+    },
+    {
+        "韋爾斯渦輪": "Wells turbine"
+    },
+    {
+        "白噪音": "white noise"
+    },
+    {
+        "風能場": "wind farm"
+    },
+    {
+        "風力": "wind load"
+    },
+    {
+        "風力資源": "wind resource"
+    },
+    {
+        "風玫瑰圖": "wind rose"
+    },
+    {
+        "風揚": "wind setup"
+    },
+    {
+        "風遮因子": "wind shield factor"
+    },
+    {
+        "風機": "wind turbine"
+    },
+    {
+        "風速": "wind velocity"
+    },
+    {
+        "風浪": "wind wave"
+    },
+    {
+        "風吹流": "wind-driven current"
+    },
+    {
+        "風浪模式": "wind-wave model"
+    },
+    {
+        "橫搖": "yaw"
+    }
+]

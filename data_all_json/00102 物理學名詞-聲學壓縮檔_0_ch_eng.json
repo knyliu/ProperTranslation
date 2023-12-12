@@ -1,0 +1,6287 @@
+[
+    {
+        "類比數位及數位類比轉換器": "A/D and D/A converter"
+    },
+    {
+        "聽力異常": "abnormal hearing"
+    },
+    {
+        "絕對振幅擾動": "absolute amplitude perterturbation"
+    },
+    {
+        "絕對辨別極限": "absolute difference limen"
+    },
+    {
+        "絕對音感": "absolute hearing"
+    },
+    {
+        "心理絕對判斷": "absolute judgment"
+    },
+    {
+        "絕對響應": "absolute response"
+    },
+    {
+        "絕對值電路": "absolute-value circuit"
+    },
+    {
+        "吸收器；吸收體": "absorber"
+    },
+    {
+        "吸音係數": "absorption coefficient"
+    },
+    {
+        "吸音材料": "absorptive material"
+    },
+    {
+        "臨界接帶": "abutting critical band"
+    },
+    {
+        "交流分析": "AC analysis"
+    },
+    {
+        "交流耦合": "AC coupling"
+    },
+    {
+        "交流電流": "AC current"
+    },
+    {
+        "交流量測": "AC measurement"
+    },
+    {
+        "交流模型": "AC model"
+    },
+    {
+        "交流馬達驅動器": "AC motor drive"
+    },
+    {
+        "交流電壓": "AC voltage"
+    },
+    {
+        "加速度": "acceleration"
+    },
+    {
+        "加速度頻譜": "acceleration spectrum"
+    },
+    {
+        "加速度傳輸比": "acceleration transmissibility"
+    },
+    {
+        "加速度向量": "acceleration vector"
+    },
+    {
+        "加速規；加速度計": "accelerometer"
+    },
+    {
+        "腔調": "accent"
+    },
+    {
+        "可接受吵鬧限值": "acceptable limits of annoyance"
+    },
+    {
+        "存取控制": "access control"
+    },
+    {
+        "存取網路": "access network"
+    },
+    {
+        "伴隨調變；伴隨調制": "accompanied modulation"
+    },
+    {
+        "累積聲量頻譜": "accumulative power spectrum"
+    },
+    {
+        "準確度": "accuracy"
+    },
+    {
+        "平均準確度": "accuracy of the mean"
+    },
+    {
+        "交流直流功率轉換": "AC-DC power conversion"
+    },
+    {
+        "交流直流功率轉換器": "AC-DC power converter"
+    },
+    {
+        "聽覺器官": "acoustic apparatus"
+    },
+    {
+        "聲波應用": "acoustic application"
+    },
+    {
+        "聲波陣列": "acoustic array"
+    },
+    {
+        "聲束": "acoustic beam"
+    },
+    {
+        "聲阻斷": "acoustic break"
+    },
+    {
+        "聲音校正器": "acoustic calibrator"
+    },
+    {
+        "聲波阻尼參數": "acoustic damping parameter"
+    },
+    {
+        "聲波偵測器": "acoustic detector"
+    },
+    {
+        "聲波元件": "acoustic device"
+    },
+    {
+        "聲頻散": "acoustic dispersion"
+    },
+    {
+        "聲波效應": "acoustic effect"
+    },
+    {
+        "聲發射": "acoustic emission"
+    },
+    {
+        "聲音能量密度": "acoustic energy density"
+    },
+    {
+        "聲學環境": "acoustic environment"
+    },
+    {
+        "音響等化器": "acoustic equalizer"
+    },
+    {
+        "聲學特徵": "acoustic feature"
+    },
+    {
+        "聲波濾波器": "acoustic filter"
+    },
+    {
+        "聲波頻率轉換": "acoustic frequency conversion"
+    },
+    {
+        "聲波成像": "acoustic imaging"
+    },
+    {
+        "聲阻抗": "acoustic impedance"
+    },
+    {
+        "隔音材料": "acoustic insulation material"
+    },
+    {
+        "聲波成像": "acoustic mapping"
+    },
+    {
+        "聲學材料": "acoustic material"
+    },
+    {
+        "聲波量測": "acoustic measurement"
+    },
+    {
+        "聲波顯微術": "acoustic microscopy"
+    },
+    {
+        "聲波微波元件": "acoustic microwave device"
+    },
+    {
+        "聲模": "acoustic mode"
+    },
+    {
+        "聽神經": "acoustic nerve"
+    },
+    {
+        "聽神經鞘瘤": "acoustic neurinoma"
+    },
+    {
+        "聲波雜訊": "acoustic noise"
+    },
+    {
+        "聲波振盪器": "acoustic oscillator"
+    },
+    {
+        "聲學語音學": "acoustic phonetics"
+    },
+    {
+        "聲波平板波耦合器": "acoustic plate-wave coupler"
+    },
+    {
+        "聲波平板波振盪器": "acoustic plate-wave oscillator"
+    },
+    {
+        "聲波平板波轉換器": "acoustic plate-wave transducer"
+    },
+    {
+        "聲波傳播": "acoustic propagation"
+    },
+    {
+        "聲脈波": "acoustic pulse"
+    },
+    {
+        "聲波脈波壓縮": "acoustic pulse compression"
+    },
+    {
+        "聲學抵抗": "acoustic resistance"
+    },
+    {
+        "聲波共振器": "acoustic resonator"
+    },
+    {
+        "聲波散射": "acoustic scattering"
+    },
+    {
+        "聲波感測": "acoustic sensing"
+    },
+    {
+        "聲波感測陣列": "acoustic sensor array"
+    },
+    {
+        "聲學陰影": "acoustic shadow"
+    },
+    {
+        "聲學訊號": "acoustic signal"
+    },
+    {
+        "聲波訊號偵測": "acoustic signal detection"
+    },
+    {
+        "聲波訊號處理": "acoustic signal processing"
+    },
+    {
+        "聲面波": "acoustic surface wave"
+    },
+    {
+        "聲面波偵測器": "acoustic surface wave detector"
+    },
+    {
+        "聲面波波導": "acoustic surface wave waveguide"
+    },
+    {
+        "聲面波卷積": "acoustic surface-wave convolution"
+    },
+    {
+        "聲面波關聯器": "acoustic surface-wave correlator"
+    },
+    {
+        "聲面波耦合器": "acoustic surface-wave coupler"
+    },
+    {
+        "聲面波延遲線": "acoustic surface-wave delay line"
+    },
+    {
+        "聲面波元件": "acoustic surface-wave device"
+    },
+    {
+        "聲面波元件製程": "acoustic surface-wave device fabrication"
+    },
+    {
+        "聲面波濾波器": "acoustic surface-wave filter"
+    },
+    {
+        "聲面波量測": "acoustic surface-wave measurement"
+    },
+    {
+        "聲面波記憶體": "acoustic surface-wave memory"
+    },
+    {
+        "聲面波共振器": "acoustic surface-wave resonator"
+    },
+    {
+        "聲面波訊號處理": "acoustic surface-wave signal processing"
+    },
+    {
+        "聲面波轉換器": "acoustic surface-wave transducer"
+    },
+    {
+        "聲學層析術": "acoustic tomography"
+    },
+    {
+        "聲波轉換器": "acoustic transducer"
+    },
+    {
+        "聲轉移阻抗": "acoustic transfer impedance"
+    },
+    {
+        "聲波暫態": "acoustic transient"
+    },
+    {
+        "聽力外傷": "acoustic trauma"
+    },
+    {
+        "聲學處理": "acoustic treatment"
+    },
+    {
+        "聲波變數量測": "acoustic variables measurement"
+    },
+    {
+        "聲速": "acoustic velocity"
+    },
+    {
+        "母音聲學空間面積": "acoustic vowel space area"
+    },
+    {
+        "聲波": "acoustic wave"
+    },
+    {
+        "聲波元件": "acoustic wave device"
+    },
+    {
+        "聲波效應": "acoustic wave effect"
+    },
+    {
+        "聲波傳播": "acoustic wave propagation"
+    },
+    {
+        "聲波導": "acoustic waveguide"
+    },
+    {
+        "聲學面積效果": "acoustical area-effect"
+    },
+    {
+        "聲反饋": "acoustical feadback"
+    },
+    {
+        "聲全像術": "acoustical holography"
+    },
+    {
+        "聲學性能": "acoustical performance"
+    },
+    {
+        "聲響特性": "acoustical property"
+    },
+    {
+        "聲束聚焦": "acoustic-beam focusing"
+    },
+    {
+        "聲學": "acoustics"
+    },
+    {
+        "樂器聲學": "acoustics of musical instrument"
+    },
+    {
+        "聲電元件": "acoustoelectric device"
+    },
+    {
+        "聲電效應": "acoustoelectric effect"
+    },
+    {
+        "聲電材料": "acoustoelectric material"
+    },
+    {
+        "聲電光調變器": "acousto-electrooptic modulator"
+    },
+    {
+        "聲光卷積": "acoustooptic convolution"
+    },
+    {
+        "聲光關聯器": "acoustooptic correlator"
+    },
+    {
+        "聲光耦合器": "acoustooptic coupler"
+    },
+    {
+        "聲光偏轉器": "acoustooptic deflector"
+    },
+    {
+        "聲光元件": "acoustooptic device"
+    },
+    {
+        "聲光繞射": "acoustooptic diffraction"
+    },
+    {
+        "聲光效應": "acoustooptic effect"
+    },
+    {
+        "聲光濾波器": "acoustooptic filter"
+    },
+    {
+        "聲光相互作用": "acoustooptic interaction"
+    },
+    {
+        "聲光材料": "acoustooptic material"
+    },
+    {
+        "聲光量測": "acoustooptic measurement"
+    },
+    {
+        "聲光記憶體": "acoustooptic memory"
+    },
+    {
+        "聲光模耦合": "acoustooptic mode coupling"
+    },
+    {
+        "聲光調變": "acoustooptic modulation"
+    },
+    {
+        "聲光調變器": "acoustooptic modulator"
+    },
+    {
+        "聲光Q開關": "acoustooptic Q-switching"
+    },
+    {
+        "聲光掃瞄": "acoustooptic scanning"
+    },
+    {
+        "聲光訊號處理": "acoustooptic signal processing"
+    },
+    {
+        "聲光開關": "acoustooptic switch"
+    },
+    {
+        "聲光轉換器": "acoustooptic transducer"
+    },
+    {
+        "聲光可調濾波器": "acoustooptic tunable filter"
+    },
+    {
+        "聲光效應": "acousto-optical effect"
+    },
+    {
+        "聲光濾波器": "acousto-optical filter"
+    },
+    {
+        "聲光調變": "acousto-optical modulation"
+    },
+    {
+        "聲光開關": "acousto-optical switch"
+    },
+    {
+        "聲光學": "acoustooptics"
+    },
+    {
+        "神經活動電位": "action potential"
+    },
+    {
+        "啟動脈衝產生器": "activation-pulse generator"
+    },
+    {
+        "主動交流偶合器": "active ac coupler"
+    },
+    {
+        "主動天線": "active antenna"
+    },
+    {
+        "主動偏壓電路": "active bias circuit"
+    },
+    {
+        "主動電路": "active circuit"
+    },
+    {
+        "主動元件": "active device"
+    },
+    {
+        "主動分佈網路": "active distributed network"
+    },
+    {
+        "主動濾波器": "active filter"
+    },
+    {
+        "主動式噪音控制": "active noise control"
+    },
+    {
+        "主動式噪音控制系統": "active noise control system"
+    },
+    {
+        "主動轉換器": "active transducer"
+    },
+    {
+        "主動電阻電容濾波器": "active-RC filter"
+    },
+    {
+        "驅動器；致動器；制動器": "actuator"
+    },
+    {
+        "適應式濾波器": "adaptive filter"
+    },
+    {
+        "適應式噪音消除": "adaptive noice canceling{=ANC}"
+    },
+    {
+        "加法器": "adder"
+    },
+    {
+        "聲音相加曲線": "adding curve"
+    },
+    {
+        "附著噪音": "adhesive noise"
+    },
+    {
+        "可調式電阻": "adjustable resistance"
+    },
+    {
+        "調整": "adjustment"
+    },
+    {
+        "導納": "admittance"
+    },
+    {
+        "導納量測": "admittance measurement"
+    },
+    {
+        "空氣聲學": "aeroacoustics"
+    },
+    {
+        "空氣動力學": "aerodynamics"
+    },
+    {
+        "塞擦音": "affricate"
+    },
+    {
+        "空氣音隔音": "air borne sound insulation"
+    },
+    {
+        "氣傳導": "air conduction"
+    },
+    {
+        "氣泵噪音": "air pump noise"
+    },
+    {
+        "空氣懸吊式": "air suspension"
+    },
+    {
+        "空氣音": "airborne sound"
+    },
+    {
+        "隔音基準曲線": "airborne-sound-insulation rating-curve"
+    },
+    {
+        "航空噪音日夜音量": "aircraft day night average sound level{=DNL}"
+    },
+    {
+        "航空噪音": "aircraft noise"
+    },
+    {
+        "航空噪音管制區": "aircraft noise zone"
+    },
+    {
+        "氣流阻": "airflow resistance"
+    },
+    {
+        "氣流阻率": "airflow resistivity"
+    },
+    {
+        "空腔": "airspace"
+    },
+    {
+        "假像": "aliasing"
+    },
+    {
+        "頻率交疊怪異扭曲": "aliasing distortion"
+    },
+    {
+        "同位音": "allophone"
+    },
+    {
+        "每日容許暴露量": "allowable daily exposure"
+    },
+    {
+        "全通電路": "all-pass circuit"
+    },
+    {
+        "全通濾波器": "all-pass filter"
+    },
+    {
+        "全通網路": "all-pass network"
+    },
+    {
+        "全極點系統": "all-pole system"
+    },
+    {
+        "交流電流": "alternating current"
+    },
+    {
+        "齒齦音": "alveolar"
+    },
+    {
+        "齒槽邊音": "alveolar lateral"
+    },
+    {
+        "齒槽鼻音": "alveolar nasal"
+    },
+    {
+        "齒齦": "alveolar ridge"
+    },
+    {
+        "齒齦塞音": "alveolar stop"
+    },
+    {
+        "齦顎音": "alveopalatal"
+    },
+    {
+        "調幅廣播接收器": "AM broadcast receiver"
+    },
+    {
+        "調幅廣播": "AM broadcasting"
+    },
+    {
+        "調幅通訊": "AM communication"
+    },
+    {
+        "調幅雜訊": "AM noise"
+    },
+    {
+        "調幅接收器": "AM receiver"
+    },
+    {
+        "調幅/正交調幅系統": "AM/QAM system"
+    },
+    {
+        "調幅": "AM{amplitude modulation}"
+    },
+    {
+        "環境噪音": "ambient noise"
+    },
+    {
+        "安培計": "ammeter"
+    },
+    {
+        "放大": "amplification"
+    },
+    {
+        "放大因數": "amplification factor"
+    },
+    {
+        "放大自發射": "amplified spontaneous emission"
+    },
+    {
+        "放大自發放射雜訊": "amplified spontaneous emission noise"
+    },
+    {
+        "放大自發放射頻譜": "amplified spontaneous emission spectrum"
+    },
+    {
+        "放大器": "amplifier"
+    },
+    {
+        "放大器失真": "amplifier distortion"
+    },
+    {
+        "放大器雜訊": "amplifier noise"
+    },
+    {
+        "放大器配置": "amplifier placement"
+    },
+    {
+        "放大器技術": "amplifier technique"
+    },
+    {
+        "放大器暫態": "amplifier transient"
+    },
+    {
+        "擴音系統": "amplifying system"
+    },
+    {
+        "振幅": "amplitude"
+    },
+    {
+        "振幅絕對平均值": "amplitude absolute average value"
+    },
+    {
+        "振幅控制": "amplitude control"
+    },
+    {
+        "振幅解調": "amplitude demodulation"
+    },
+    {
+        "振幅失真": "amplitude distortion"
+    },
+    {
+        "振幅輪廓": "amplitude envelope"
+    },
+    {
+        "振幅估計；振幅估算": "amplitude estimation"
+    },
+    {
+        "振幅柱狀圖；振幅長條圖": "amplitude histogram"
+    },
+    {
+        "調幅": "amplitude modulation"
+    },
+    {
+        "振幅雜訊": "amplitude noise"
+    },
+    {
+        "摩擦音振幅": "amplitude of frication"
+    },
+    {
+        "共振幅": "amplitude of resonance"
+    },
+    {
+        "振幅": "amplitude of vibration"
+    },
+    {
+        "振幅峰值": "amplitude peak value"
+    },
+    {
+        "振幅峰峰值": "amplitude peak-to-peak value"
+    },
+    {
+        "振幅擾動商數": "amplitude perturbation quotient{=APQ}"
+    },
+    {
+        "振幅共振": "amplitude resonance"
+    },
+    {
+        "振幅方均根值": "amplitude root-mean-square value"
+    },
+    {
+        "[振]幅分離": "amplitude separation"
+    },
+    {
+        "振幅頻譜": "amplitude spectrum"
+    },
+    {
+        "幅變訊號": "amplitude-change Signalling"
+    },
+    {
+        "幅頻響應特性": "amplitude-frequency response characteristic"
+    },
+    {
+        "幅調-相調係數": "am-pm coefficient"
+    },
+    {
+        "幅調-相調轉變": "am-pm conversion"
+    },
+    {
+        "類比": "analog"
+    },
+    {
+        "類比和類比/數位電路技術": "analog and A/D circuit techniques"
+    },
+    {
+        "類比和數位分頻器": "analog and digital frequency dividers"
+    },
+    {
+        "類比和混合式電腦系統": "analog and hybrid computers system"
+    },
+    {
+        "類比和混合計算術": "analog and hybrid computing techniques"
+    },
+    {
+        "類比陣列處理器": "analog array processor"
+    },
+    {
+        "類比基頻濾波器": "analog base-band filter"
+    },
+    {
+        "類比雙載子互補式金氧半導體": "analog BiCMOS"
+    },
+    {
+        "類比通道": "analog channel"
+    },
+    {
+        "類比電路": "analog circuit"
+    },
+    {
+        "類比電路模式化": "analog circuit modeling"
+    },
+    {
+        "類比電路模擬": "analog circuit simulation"
+    },
+    {
+        "類比電路技術": "analog circuit technique"
+    },
+    {
+        "類比互補式金屬氧化物半導體": "analog CMOS"
+    },
+    {
+        "類比CMOS基頻接收器": "analog CMOS for baseband receivers"
+    },
+    {
+        "類比複合濾波器": "analog complex filter"
+    },
+    {
+        "類比計算電路": "analog computational circuit"
+    },
+    {
+        "類比電腦": "analog computer"
+    },
+    {
+        "類比電腦電路": "analog computer circuit"
+    },
+    {
+        "類比數位轉換器": "analog- digital converter"
+    },
+    {
+        "類比光纖鏈路": "analog fiber-optic link"
+    },
+    {
+        "類比濾波器": "analog filter"
+    },
+    {
+        "類比調變": "analog modulation"
+    },
+    {
+        "類比乘法器；類比倍乘器": "analog multiplier"
+    },
+    {
+        "類比非揮發記憶體": "analog nonvolatile memory"
+    },
+    {
+        "類比光學通訊": "analog optical communication"
+    },
+    {
+        "類比光學系統": "analog optical system"
+    },
+    {
+        "類比振盪器": "analog oscillator"
+    },
+    {
+        "類比平行電路": "analog parallel circuit"
+    },
+    {
+        "類比績效；類比成效": "analog performance"
+    },
+    {
+        "類比接腳": "analog pin"
+    },
+    {
+        "類比多相濾波器": "analog polyphase filter"
+    },
+    {
+        "類比功率積體電路": "analog power IC`s"
+    },
+    {
+        "類比處理電路": "analog processing circuit"
+    },
+    {
+        "類比處理器": "analog processor"
+    },
+    {
+        "類比射頻互補式金屬氧化物半導體": "analog RF-CMOS"
+    },
+    {
+        "類比移位暫存器": "analog shift register"
+    },
+    {
+        "類比短期儲存": "analog short-term storage"
+    },
+    {
+        "類比訊號": "analog signal"
+    },
+    {
+        "類比訊號處理": "analog signal processing"
+    },
+    {
+        "類比訊號處理電路": "analog signal processing circuit"
+    },
+    {
+        "類比模擬": "analog simulation"
+    },
+    {
+        "類比儲存電路": "analog storage circuit"
+    },
+    {
+        "類比系統錯誤診斷": "analog system fault diagnosis"
+    },
+    {
+        "類比系統測試": "analog system testing"
+    },
+    {
+        "類比傳輸": "analog transmission"
+    },
+    {
+        "類比對數位濾波器": "analog versus digital filter"
+    },
+    {
+        "類比視訊傳輸": "analog video transmission"
+    },
+    {
+        "類比腓特比解碼器": "analog Viterbi decoder"
+    },
+    {
+        "類比超大型積體電路設計": "analog VLSI design"
+    },
+    {
+        "類比超大型積體電路實現": "analog VLSI implementation"
+    },
+    {
+        "類比超大型積體電路神經網路": "analog VLSI neural network"
+    },
+    {
+        "類比-數位積體電路": "analog-digital integrated circuit"
+    },
+    {
+        "類比-數位混合電路": "analog-digital mixed circuit"
+    },
+    {
+        "類比射頻應用": "analog-RF application"
+    },
+    {
+        "分析格狀結構圖": "analysis lattice structure"
+    },
+    {
+        "分析視窗": "analysis window"
+    },
+    {
+        "解析訊號": "analytic signal"
+    },
+    {
+        "a-窄頻寬": "a-narrow bandwidth"
+    },
+    {
+        "適應式噪音消除": "ANC{adaptive noice canceling}"
+    },
+    {
+        "聽覺疲勞": "anditory fatigue"
+    },
+    {
+        "無響室": "anechoic chamber"
+    },
+    {
+        "無響室": "anechoic room"
+    },
+    {
+        "角頻率": "angular frequency"
+    },
+    {
+        "角速度": "angular velocity"
+    },
+    {
+        "煩擾度": "annoyance"
+    },
+    {
+        "天線": "antenna"
+    },
+    {
+        "天線指向性圖": "antenna directivity diagram"
+    },
+    {
+        "天線效率": "antenna efficiency"
+    },
+    {
+        "天線增益": "antenna gain"
+    },
+    {
+        "天線電阻": "antenna resistance"
+    },
+    {
+        "反雜訊": "anti-aliasing"
+    },
+    {
+        "去假象濾波器": "anti-aliasing filter"
+    },
+    {
+        "預期性共構": "anticipatory coarticulation"
+    },
+    {
+        "反共振峰": "antiformant"
+    },
+    {
+        "反節點、波腹": "antinode"
+    },
+    {
+        "反共振": "antiresonance"
+    },
+    {
+        "非週期波聲源": "aperiodic sound source"
+    },
+    {
+        "非週期波": "aperiodic wave"
+    },
+    {
+        "舌尖音": "apical"
+    },
+    {
+        "頂部阻塞": "apical constriction"
+    },
+    {
+        "舌尖母音": "apical vowel"
+    },
+    {
+        "明顯響度": "apparent loudness"
+    },
+    {
+        "視隔音性能": "apparent sound insulation"
+    },
+    {
+        "視隔音指標": "apparent sound reduction index"
+    },
+    {
+        "接近音": "approximant"
+    },
+    {
+        "建築聲學": "architectural acoustics"
+    },
+    {
+        "面積轉動慣量": "area moment of inertia"
+    },
+    {
+        "明瞭度": "articulation"
+    },
+    {
+        "明瞭度指數": "articulation index"
+    },
+    {
+        "構音速度": "articulation rate"
+    },
+    {
+        "構音時間": "articulation time"
+    },
+    {
+        "發音器官": "articulators"
+    },
+    {
+        "構音動作姿勢": "articulatory gesture"
+    },
+    {
+        "構音動作": "articulatory movements"
+    },
+    {
+        "發音語音學": "articulatory phonetic"
+    },
+    {
+        "構音合成程式": "Articulatory Synthesis Program{=ASY}"
+    },
+    {
+        "人造耳": "artificial ear"
+    },
+    {
+        "人工混音": "artificial reverberation"
+    },
+    {
+        "送氣的塞音": "aspirated stop"
+    },
+    {
+        "送氣": "aspiration"
+    },
+    {
+        "同化作用": "assimilation"
+    },
+    {
+        "不對稱振動": "asymmetric vibration"
+    },
+    {
+        "衰減": "attenuation"
+    },
+    {
+        "衰減常數": "attenuation constant"
+    },
+    {
+        "等衰減器": "attenuation equalizer"
+    },
+    {
+        "減弱率": "attenuation rate"
+    },
+    {
+        "衰減器": "attenuator"
+    },
+    {
+        "可聽聞頻率": "audible frequency"
+    },
+    {
+        "可聽聞音": "audible sound"
+    },
+    {
+        "音頻": "audio"
+    },
+    {
+        "音頻放大器": "audio amplifier"
+    },
+    {
+        "音頻分析儀": "audio analyzer"
+    },
+    {
+        "音頻編碼": "audio coding"
+    },
+    {
+        "音頻設備": "audio equipment"
+    },
+    {
+        "音頻": "audio frequency"
+    },
+    {
+        "音頻振盪器": "audio oscillator"
+    },
+    {
+        "音頻輸出": "audio output"
+    },
+    {
+        "音頻訊號；聲音訊號": "audio signal"
+    },
+    {
+        "音頻訊號處理": "audio signal processing"
+    },
+    {
+        "音頻系統；聲音系統": "audio system"
+    },
+    {
+        "音帶錄音器": "audio tape recorder"
+    },
+    {
+        "音頻放大器": "audio-frequency amplifier"
+    },
+    {
+        "音頻振盪器": "audio-frequency oscillator"
+    },
+    {
+        "聽力圖": "audiogram"
+    },
+    {
+        "聽力學": "audiology"
+    },
+    {
+        "聽力計": "audiometer"
+    },
+    {
+        "聽力測定校正": "audiometric calibration"
+    },
+    {
+        "聽力測定室": "audiometric room"
+    },
+    {
+        "聽力檢查": "audiometry"
+    },
+    {
+        "聽力": "audition"
+    },
+    {
+        "聽性腦幹反應": "auditory brain stem response"
+    },
+    {
+        "聽覺加強理論": "auditory enhancement theory"
+    },
+    {
+        "音響刺激性腦波電氣反應": "auditory evoked electric response"
+    },
+    {
+        "聽性誘發反應": "auditory evoked response"
+    },
+    {
+        "聽覺疲勞；聽力疲勞": "auditory fatigue"
+    },
+    {
+        "聽力等級": "auditory level"
+    },
+    {
+        "聽覺神經": "auditory nerve"
+    },
+    {
+        "聽覺語音學": "auditory phonetics"
+    },
+    {
+        "聽覺處理": "auditory processing"
+    },
+    {
+        "聽覺系統": "auditory system"
+    },
+    {
+        "人耳聲導納儀": "aural acoustics admittance instrument"
+    },
+    {
+        "人耳聲阻抗儀": "aural acoustics impedance instrument"
+    },
+    {
+        "聲訊": "aural signal"
+    },
+    {
+        "聲訊發射機": "aural transmitter"
+    },
+    {
+        "自相關函數": "auto correlation function"
+    },
+    {
+        "自身功率頻譜密度函數": "auto power spectral density｛=PSD｝function"
+    },
+    {
+        "自動對準經緯儀": "auto-collimating theodolite"
+    },
+    {
+        "自動決定臨限控制": "automatic decision threshold control"
+    },
+    {
+        "自動頻率控制": "automatic frequency control"
+    },
+    {
+        "自動增益控制": "automatic gain control"
+    },
+    {
+        "自動增益控制開關": "automatic gain control switch"
+    },
+    {
+        "自動位準控制": "automatic level control"
+    },
+    {
+        "自動位準控制晶體振盪器": "automatic level controlled crystal oscillator"
+    },
+    {
+        "自動光學檢視": "automatic optical inspection"
+    },
+    {
+        "自動相位控制": "automatic phase control"
+    },
+    {
+        "自動語音辨識": "automatic speech recognition{=ASR}"
+    },
+    {
+        "自動測試裝置": "automatic test equipment"
+    },
+    {
+        "自動測試軟體": "automatic test software"
+    },
+    {
+        "自動測試": "automatic testing"
+    },
+    {
+        "自動調諧控制": "automatic tuning control"
+    },
+    {
+        "自動音量控制": "automatic volume control"
+    },
+    {
+        "自動回答器": "automatic-answer back unit"
+    },
+    {
+        "自動亮度控制": "automatic-brightness control"
+    },
+    {
+        "自乘頻譜": "autospectrum"
+    },
+    {
+        "自耦變壓器": "autotransformer"
+    },
+    {
+        "輔助金氧半場效電晶體": "auxiliary MOSFET"
+    },
+    {
+        "可用度": "availability"
+    },
+    {
+        "可用功率": "available power"
+    },
+    {
+        "雪崩增長時間": "avalanche buildup time"
+    },
+    {
+        "雪崩電流": "avalanche current"
+    },
+    {
+        "雪崩元件": "avalanche device"
+    },
+    {
+        "雪崩二極體": "avalanche diode"
+    },
+    {
+        "雪崩二極體放大器": "avalanche diode amplifier"
+    },
+    {
+        "雪崩二極體電路": "avalanche diode circuit"
+    },
+    {
+        "雪崩二極體微波放大器": "avalanche diode microwave amplifier"
+    },
+    {
+        "雪崩二極體震盪器": "avalanche diode oscillator"
+    },
+    {
+        "超越雪崩雜訊": "avalanche excess noise"
+    },
+    {
+        "雪崩雜訊": "avalanche noise"
+    },
+    {
+        "雪崩光偵測器": "avalanche photodetector"
+    },
+    {
+        "雪崩光電二極體": "avalanche photodiode"
+    },
+    {
+        "突發雪崩破壞": "avalanche snapback breakdown"
+    },
+    {
+        "雪崩電晶體": "avalanche transistor"
+    },
+    {
+        "雪崩電晶體電路": "avalanche transistor circuit"
+    },
+    {
+        "雪崩電壓": "avalanche voltage"
+    },
+    {
+        "雪崩範圍操作": "avalanche-region operation"
+    },
+    {
+        "齒槽硬顎": "aveolar-palatal"
+    },
+    {
+        "平均值檢波器": "average detector"
+    },
+    {
+        "平均聲壓位準": "average sound pressure level"
+    },
+    {
+        "平均表面振動速度位準": "average surface velocity level"
+    },
+    {
+        "A加權聲壓位準": "A-weighted sound pressure level"
+    },
+    {
+        "A加權": "A-Weighting"
+    },
+    {
+        "軸向振動": "axial vibration"
+    },
+    {
+        "混串音": "babble"
+    },
+    {
+        "舌後緊縮": "back tongue constriction"
+    },
+    {
+        "後母音": "back vowel"
+    },
+    {
+        "背景噪音": "background noise"
+    },
+    {
+        "背景噪音位準": "background noise level"
+    },
+    {
+        "反向遮罩": "backward masking"
+    },
+    {
+        "帶域噪音": "band noise"
+    },
+    {
+        "帶通濾波器": "band pass filter"
+    },
+    {
+        "頻帶壓力位準；頻帶壓級": "band pressure level"
+    },
+    {
+        "帶拒濾波器; 頻帶拒絕濾波器": "band reject filter"
+    },
+    {
+        "頻帶聲功率位準": "band sound power level"
+    },
+    {
+        "頻帶聲音位準": "band sound pressure level"
+    },
+    {
+        "帶寬": "band width"
+    },
+    {
+        "帶寬遮罩；頻寬遮罩": "band width of masker"
+    },
+    {
+        "帶通": "bandpass"
+    },
+    {
+        "帶通濾波器": "bandpass filter"
+    },
+    {
+        "帶通中頻濾波器": "bandpass IF filter"
+    },
+    {
+        "帶通三角波調變": "bandpass sigma-delta modulation"
+    },
+    {
+        "帶拒濾波器": "band-rejection filter"
+    },
+    {
+        "能量頻帶": "bands of energy"
+    },
+    {
+        "頻帶擴展": "bandspreading"
+    },
+    {
+        "帶止": "bandstop"
+    },
+    {
+        "帶止濾波器": "bandstop filter"
+    },
+    {
+        "頻帶寬度": "bandwidth"
+    },
+    {
+        "頻寬調整": "bandwidth adjusting"
+    },
+    {
+        "頻寬分配": "bandwidth allocation"
+    },
+    {
+        "頻寬崩潰": "bandwidth collapse"
+    },
+    {
+        "頻寬效率": "bandwidth efficiency"
+    },
+    {
+        "頻寬加強": "bandwidth enhancement"
+    },
+    {
+        "頻寬保證": "bandwidth guarantee"
+    },
+    {
+        "頻寬限制": "bandwidth limitation"
+    },
+    {
+        "桿軸向振動": "bar axial vibration"
+    },
+    {
+        "巴克量度": "Bark scale"
+    },
+    {
+        "隔音牆": "barrier"
+    },
+    {
+        "原始頻帶": "base band"
+    },
+    {
+        "基頻帶分析": "base band analysis"
+    },
+    {
+        "基座激振": "base excitation"
+    },
+    {
+        "基頻帶放大器": "baseband amplifier"
+    },
+    {
+        "基帶頻率": "baseband frequency"
+    },
+    {
+        "基頻帶傳輸器": "baseband transmitter"
+    },
+    {
+        "基準聽力圖": "baseline audiogram"
+    },
+    {
+        "基底板": "basilar membrane"
+    },
+    {
+        "壓力包絡持續時間": "B-duration"
+    },
+    {
+        "放射現象": "beaming"
+    },
+    {
+        "拍": "beat"
+    },
+    {
+        "重擊": "beating"
+    },
+    {
+        "重擊頻率": "beating frequency"
+    },
+    {
+        "拍打音": "beating tone"
+    },
+    {
+        "貝{單位}": "Bel"
+    },
+    {
+        "彎曲力矩": "bending moment"
+    },
+    {
+        "彎曲振動": "bending vibration"
+    },
+    {
+        "彎曲波": "bending wave"
+    },
+    {
+        "偏壓；偏流": "biasing"
+    },
+    {
+        "雙極互補式金氧半場效電晶體": "BiCMOS"
+    },
+    {
+        "BiCMOS 類比積體電路": "BiCMOS analog IC"
+    },
+    {
+        "BiCMOS 類比積體電路": "BiCMOS analog integrated circuit"
+    },
+    {
+        "BiCMOS 數位電路": "BiCMOS digital circuit"
+    },
+    {
+        "BiCMOS 積體電路": "BiCMOS integrated circuit"
+    },
+    {
+        "BiCMOS 邏輯電路": "BiCMOS logic circuit"
+    },
+    {
+        "BiCMOS 記憶體電路": "BiCMOS memory circuit"
+    },
+    {
+        "BiCMOS 記憶體積體電路": "BiCMOS memory integrated circuit"
+    },
+    {
+        "BiCMOS 運算放大器": "BiCMOS operational amplifier"
+    },
+    {
+        "BiCMOS 管線系統": "BiCMOS pipelined system"
+    },
+    {
+        "BiCMOS 射頻積體電路": "BiCMOS RF integrated circuit"
+    },
+    {
+        "BiCMOS 技術": "BiCMOS technology"
+    },
+    {
+        "BiCMOS 正接合場效電晶體技術": "BiCMOS-PJFET technology"
+    },
+    {
+        "分岔": "bifurcation"
+    },
+    {
+        "分岔參數": "bifurcation parameter"
+    },
+    {
+        "雙唇音": "bilabial"
+    },
+    {
+        "雙耳聽覺": "binaural hearing"
+    },
+    {
+        "雙耳聆聽": "binaural listening"
+    },
+    {
+        "雙耳定位": "binaural localization"
+    },
+    {
+        "雙耳響度": "binaural loudness"
+    },
+    {
+        "雙耳響度加成": "binaural loudness summation"
+    },
+    {
+        "雙耳遮蔽位準差": "binaural masking-level difference"
+    },
+    {
+        "雙音限制性連結": "biphone- Constrained Cocatenation{= BCC}"
+    },
+    {
+        "爆炸振動": "blast vibration"
+    },
+    {
+        "分塊圖": "block diagram"
+    },
+    {
+        "骨導": "bone conduction"
+    },
+    {
+        "骨傳聲": "bone conduction sound"
+    },
+    {
+        "骨振器": "bone-conduction vibrator"
+    },
+    {
+        "邊界條件": "boundary condition"
+    },
+    {
+        "能量幅度": "breadth of energy"
+    },
+    {
+        "呼吸群": "breath group"
+    },
+    {
+        "氣息聲": "breathy voice"
+    },
+    {
+        "寬帶隨機振動": "broad band random vibration"
+    },
+    {
+        "寬音帶音源": "broad band source"
+    },
+    {
+        "寬頻噪音": "broad-band noise"
+    },
+    {
+        "寬頻音": "broadband sound"
+    },
+    {
+        "寬帶聲譜": "broad-band spectrogram"
+    },
+    {
+        "寬頻頻譜": "broadband spectrum"
+    },
+    {
+        "口腔語": "buccal speech"
+    },
+    {
+        "校正": "calibration"
+    },
+    {
+        "校準用母音": "calibration vowel"
+    },
+    {
+        "校正器": "calibrator"
+    },
+    {
+        "回叫": "called back"
+    },
+    {
+        "呼叫": "calling"
+    },
+    {
+        "叫連順序": "calling sequence"
+    },
+    {
+        "呼叫率": "calling rate"
+    },
+    {
+        "母音範型": "canonical form"
+    },
+    {
+        "主要音節": "canonical syllable"
+    },
+    {
+        "電容": "capacitance"
+    },
+    {
+        "主要母音；基本母音": "cardinal vowel"
+    },
+    {
+        "載[波]頻[率]": "carrier frequency"
+    },
+    {
+        "載波": "carrier wave"
+    },
+    {
+        "聲調順勢效果": "carry over effect"
+    },
+    {
+        "串聯共振峰合成器": "cascade formant synthesizer"
+    },
+    {
+        "類別知覺": "categorical perception"
+    },
+    {
+        "中央截斷": "center clipping"
+    },
+    {
+        "中心頻率": "center frequency"
+    },
+    {
+        "中心頻率": "centre frequency"
+    },
+    {
+        "中心點": "centroid"
+    },
+    {
+        "倒頻譜分析": "cepstral analysis"
+    },
+    {
+        "倒頻譜係數": "cepstral coefficient"
+    },
+    {
+        "倒頻譜": "cepstrum"
+    },
+    {
+        "大腦皮質": "cerebral cortex"
+    },
+    {
+        "大腦半球優位": "cerebral hemispheric dominance"
+    },
+    {
+        "語音倒頻譜": "cestrum analysis of speech"
+    },
+    {
+        "頻道功率": "channel power"
+    },
+    {
+        "管子管境特性": "characteristic dimension"
+    },
+    {
+        "特徵方程式；特性方程式": "characteristic equation"
+    },
+    {
+        "特徵頻率": "characteristic frequency"
+    },
+    {
+        "特徵阻抗": "characteristic impedance"
+    },
+    {
+        "介質之比音阻": "characteristic impedance of medium"
+    },
+    {
+        "特性相移": "characteristic phase shift"
+    },
+    {
+        "顫震": "chatter"
+    },
+    {
+        "兒童音韻障礙": "children's phonologic disorders"
+    },
+    {
+        "唧聲訊號": "chip signal"
+    },
+    {
+        "斬波器": "chopper"
+    },
+    {
+        "合唱": "chorus"
+    },
+    {
+        "合奏效果": "chorus effect"
+    },
+    {
+        "教會音樂": "church music"
+    },
+    {
+        "電路雜訊；電路噪音": "circuit noise"
+    },
+    {
+        "圓週頻率": "circular frequency"
+    },
+    {
+        "頭罩式耳機": "circumaural earphone"
+    },
+    {
+        "c-大頻寬": "c-large bandwidth"
+    },
+    {
+        "明晰度": "clarity"
+    },
+    {
+        "清晰言語": "clear speech"
+    },
+    {
+        "閉音度": "close juncture"
+    },
+    {
+        "閉環": "closed loop"
+    },
+    {
+        "閉環控制": "closed loop control"
+    },
+    {
+        "閉口管模型": "closed tube model"
+    },
+    {
+        "連音": "coarticulation"
+    },
+    {
+        "重合效應": "coincidence effect"
+    },
+    {
+        "重合頻率": "coincidence frequency"
+    },
+    {
+        "聲染色": "coloration"
+    },
+    {
+        "柱振動": "column vibration"
+    },
+    {
+        "梳型濾波器": "comb filter"
+    },
+    {
+        "共模抑制比": "common mode rejection ratio{=CMRR}"
+    },
+    {
+        "共模電壓": "common mode voltage"
+    },
+    {
+        "近鄰噪音": "community noise"
+    },
+    {
+        "社區均能音量": "community noise equivalent level {=CNEL}"
+    },
+    {
+        "比較判斷": "comparative judgment"
+    },
+    {
+        "比較測量": "comparison measurement"
+    },
+    {
+        "補償": "compensation"
+    },
+    {
+        "互補分佈": "complementary distribution"
+    },
+    {
+        "複合音": "complex tone"
+    },
+    {
+        "順性": "compliance"
+    },
+    {
+        "組合管理論": "component-tube theory"
+    },
+    {
+        "綜合噪音暴露指標": "composite noise exposure index"
+    },
+    {
+        "壓氣振動器": "compressed air vibrator"
+    },
+    {
+        "可壓縮度": "compressibility"
+    },
+    {
+        "壓縮": "compression"
+    },
+    {
+        "凹面": "concave surface"
+    },
+    {
+        "集中質塊": "concentrated mass"
+    },
+    {
+        "音樂廳": "concert hall"
+    },
+    {
+        "電容式微音器": "condenser microphone"
+    },
+    {
+        "傳音性聽力損失": "conductive hearing loss"
+    },
+    {
+        "保守系統": "conservative system"
+    },
+    {
+        "控制台": "console"
+    },
+    {
+        "調和音": "consonance"
+    },
+    {
+        "子音": "consonant"
+    },
+    {
+        "子音群的省略": "consonant cluster reduction"
+    },
+    {
+        "子音音境": "consonant environment"
+    },
+    {
+        "子音弱化": "consonant reduction"
+    },
+    {
+        "子母音": "consonant vowel"
+    },
+    {
+        "固定頻寬": "constant band width"
+    },
+    {
+        "固定頻寬分析": "constant band width analysis"
+    },
+    {
+        "恆常法": "constant method"
+    },
+    {
+        "固定百分率頻寬": "constant percentage bandwidth"
+    },
+    {
+        "固定頻帶寬度分析器": "constant-bandwidth analyzer"
+    },
+    {
+        "收縮": "constriction"
+    },
+    {
+        "營建噪音": "construction noise"
+    },
+    {
+        "連續聲": "continuous sound"
+    },
+    {
+        "連續頻譜": "continuous spectrum"
+    },
+    {
+        "連續語音辨識": "continuous-speech recognition"
+    },
+    {
+        "對比重音": "contrastive stress"
+    },
+    {
+        "凸面": "convex surface"
+    },
+    {
+        "摺積": "convolution"
+    },
+    {
+        "摺積積分": "convolution integral"
+    },
+    {
+        "角落母音": "corner vowels"
+    },
+    {
+        "相關函數": "correlation function"
+    },
+    {
+        "相關器": "correlator"
+    },
+    {
+        "庫倫阻尼": "Coulomb damping"
+    },
+    {
+        "計數器": "counter"
+    },
+    {
+        "耦合空間": "coupled room"
+    },
+    {
+        "耦合器": "coupler"
+    },
+    {
+        "耦合器倒易校正": "coupler reciprocity calibration"
+    },
+    {
+        "覆蓋角度": "coverage angle"
+    },
+    {
+        "嘰嘎聲；緊喉嗓音": "creaky voice"
+    },
+    {
+        "尖峰因子": "crest factor"
+    },
+    {
+        "判據；準則": "criterion"
+    },
+    {
+        "臨界頻帶": "critical band"
+    },
+    {
+        "臨界頻帶濾波器": "critical band filter"
+    },
+    {
+        "臨界頻帶寬": "critical bandwidth"
+    },
+    {
+        "臨界重合": "critical coincidence"
+    },
+    {
+        "臨界阻尼": "critical damping"
+    },
+    {
+        "臨界頻率": "critical frequency"
+    },
+    {
+        "臨界速度": "critical speed"
+    },
+    {
+        "互相關函數": "cross correlation function"
+    },
+    {
+        "交互調變": "cross modulation"
+    },
+    {
+        "交互[偏]極化": "cross polarization"
+    },
+    {
+        "交互功率頻譜密度函數": "cross power spectral density function"
+    },
+    {
+        "交互頻譜密度": "cross spectrum density"
+    },
+    {
+        "串音；串擾": "cross talk"
+    },
+    {
+        "交越失真": "crossover distortion"
+    },
+    {
+        "累積分布函數": "cumulative distribution function"
+    },
+    {
+        "累積機率函數": "cumulative probability function"
+    },
+    {
+        "電流": "current"
+    },
+    {
+        "電流增益": "current gain"
+    },
+    {
+        "截止頻率": "cut off frequency"
+    },
+    {
+        "C加權聲壓位準": "C-weighted sound pressure level{=LC}"
+    },
+    {
+        "循環時間": "cycle time"
+    },
+    {
+        "柱面波": "cylindrical wave"
+    },
+    {
+        "每日A加權聲音暴露量": "daily A-weighted sound exposure"
+    },
+    {
+        "每日噪音劑量": "daily noise dose"
+    },
+    {
+        "損害風險判據": "damage risk criterion"
+    },
+    {
+        "阻尼強迫振動": "damped forced vibration"
+    },
+    {
+        "阻尼振動": "damped vibration"
+    },
+    {
+        "阻尼": "damping"
+    },
+    {
+        "阻尼係數": "damping coefficient"
+    },
+    {
+        "阻尼因子": "damping factor"
+    },
+    {
+        "阻尼材料": "damping material"
+    },
+    {
+        "阻尼矩陣": "damping matrix"
+    },
+    {
+        "阻尼比": "damping ratio"
+    },
+    {
+        "消音室": "dead room"
+    },
+    {
+        "失聰": "deafness"
+    },
+    {
+        "衰減率": "decay rate"
+    },
+    {
+        "分貝": "decibel{=dB}"
+    },
+    {
+        "去耦合": "decoupling"
+    },
+    {
+        "退化性聽損": "degenerative hearing loss"
+    },
+    {
+        "自由度": "degree of freedom"
+    },
+    {
+        "噪音破裂度": "degree of voice break"
+    },
+    {
+        "延遲失真": "delay distortion"
+    },
+    {
+        "延遲時間": "delay time"
+    },
+    {
+        "半音節": "demisyllable"
+    },
+    {
+        "解調": "demodulation"
+    },
+    {
+        "齒音": "dental"
+    },
+    {
+        "確定性函數": "deterministic function"
+    },
+    {
+        "口腔輪替動作": "diadochokinetic {=DDK}"
+    },
+    {
+        "診斷式押韻測試": "diagnostic rhyme test {=DRT}"
+    },
+    {
+        "超音波診斷器": "diagnostic sounder"
+    },
+    {
+        "膜": "diaphragm"
+    },
+    {
+        "雙耳分聽": "dichotic listening"
+    },
+    {
+        "訊差放大器": "difference amplifier"
+    },
+    {
+        "差音": "difference tone"
+    },
+    {
+        "差分相移": "differential phase shift"
+    },
+    {
+        "差分輸入電路": "differential input circuit"
+    },
+    {
+        "繞射波": "diffracted wave"
+    },
+    {
+        "繞射": "diffraction"
+    },
+    {
+        "繞射係數": "diffraction coefficient"
+    },
+    {
+        "擴散聲場": "diffuse field"
+    },
+    {
+        "擴散體": "diffuser"
+    },
+    {
+        "擴散": "diffusion"
+    },
+    {
+        "數位聲頻": "digital audio"
+    },
+    {
+        "數位聲頻產生器": "digital audio generator"
+    },
+    {
+        "數位濾波器": "digital filter"
+    },
+    {
+        "數位訊號": "digital signal"
+    },
+    {
+        "數位類比轉換": "digital to analogue conversion"
+    },
+    {
+        "二極體": "diode"
+    },
+    {
+        "尾頭雙半音": "diphone"
+    },
+    {
+        "雙元音": "diphthong"
+    },
+    {
+        "偶極子": "dipole"
+    },
+    {
+        "脈衝函數": "dirac delta function"
+    },
+    {
+        "直達音": "direct sound"
+    },
+    {
+        "指向天線": "directional antenna"
+    },
+    {
+        "方向特性": "directional characteristic"
+    },
+    {
+        "指向性因子": "directional factor"
+    },
+    {
+        "指向性指數": "directional index"
+    },
+    {
+        "指向性麥克風；指向性微音器": "directional microphone"
+    },
+    {
+        "指向性輻射": "directional radiation"
+    },
+    {
+        "指向增益": "directive gain"
+    },
+    {
+        "指向性": "directivity"
+    },
+    {
+        "離散傅立葉變換": "discrete Fourier transform"
+    },
+    {
+        "離散訊號": "discrete signal"
+    },
+    {
+        "離散系統": "discrete system"
+    },
+    {
+        "辨別能力；辨音能力": "discrimination"
+    },
+    {
+        "位移": "displacement"
+    },
+    {
+        "位移頻譜": "displacement spectrum"
+    },
+    {
+        "位移轉換器；位移計": "displacement transducer"
+    },
+    {
+        "位移傳輸比": "displacement transmissibility"
+    },
+    {
+        "位移向量": "displacement vector"
+    },
+    {
+        "耗散因子": "dissipation factor"
+    },
+    {
+        "耗散損失": "dissipation loss"
+    },
+    {
+        "不協調音": "dissonance"
+    },
+    {
+        "失真": "distortion"
+    },
+    {
+        "分散式喇叭": "distributed loudspeaker system"
+    },
+    {
+        "雙音節": "disyllable"
+    },
+    {
+        "都卜勒效應": "Doppler effect"
+    },
+    {
+        "噪音劑量計": "dose meter"
+    },
+    {
+        "噪音劑量計": "dosimeter"
+    },
+    {
+        "雙音調": "double pitch"
+    },
+    {
+        "擬真頭": "dummy head"
+    },
+    {
+        "期間": "duration"
+    },
+    {
+        "D加權聲壓位準": "D-weighted sound pressure level"
+    },
+    {
+        "動態特性": "dynamic characteristics"
+    },
+    {
+        "動態複合": "dynamic complex"
+    },
+    {
+        "動態耦合": "dynamic coupling"
+    },
+    {
+        "動態範圍": "dynamic range"
+    },
+    {
+        "言語的動態範圍": "dynamic range of speech"
+    },
+    {
+        "動態訊號分析儀": "dynamic signal analyzer"
+    },
+    {
+        "動態規格模式": "dynamic specification model"
+    },
+    {
+        "動態追蹤": "dynamic tracking"
+    },
+    {
+        "耳道": "ear canal"
+    },
+    {
+        "耳腔": "ear cavity"
+    },
+    {
+        "護耳器": "ear defender"
+    },
+    {
+        "耳膜": "ear drum"
+    },
+    {
+        "耳罩": "ear muff"
+    },
+    {
+        "耳塞": "ear plug"
+    },
+    {
+        "耳用防護具": "ear protector"
+    },
+    {
+        "早期衰減時間": "early decay time"
+    },
+    {
+        "早期聲強": "early sound strength"
+    },
+    {
+        "耳機": "earphone"
+    },
+    {
+        "接地輸入電路": "earthed input circuit"
+    },
+    {
+        "接地輸出電路": "earthed output circuit"
+    },
+    {
+        "迴音": "echo"
+    },
+    {
+        "有效聲中心": "effective acoustic centre"
+    },
+    {
+        "有效頻寬": "effective bandwidth"
+    },
+    {
+        "有效位準": "effective level"
+    },
+    {
+        "隔振有效性": "effective of isolation"
+    },
+    {
+        "有效感知噪音": "effective perceived noise {=EPN}"
+    },
+    {
+        "有效感知噪音位準": "effective Perceived Noise level {=EPNL}"
+    },
+    {
+        "有效相位角": "effective phase angle"
+    },
+    {
+        "有效響應": "effective response"
+    },
+    {
+        "有效聲壓": "effective sound pressure {=prms}"
+    },
+    {
+        "彈性耦合": "elastic coupling"
+    },
+    {
+        "彈性介質": "elastic medium"
+    },
+    {
+        "電聲倒易原理": "elecctroacoustical reciprocity principle"
+    },
+    {
+        "駐極式麥克風": "electrate microphone"
+    },
+    {
+        "電能": "electric energy"
+    },
+    {
+        "電[氣]噪[音]": "electric noise"
+    },
+    {
+        "電功率": "electric power"
+    },
+    {
+        "電共振": "electric resonance"
+    },
+    {
+        "電氣聲學": "electrical acoustics"
+    },
+    {
+        "電氣串音": "electrical cross-talk"
+    },
+    {
+        "電能": "electrical energy"
+    },
+    {
+        "電[氣]噪[音]": "electrical noise"
+    },
+    {
+        "電功率": "electrical power"
+    },
+    {
+        "電共振": "electrical resonance"
+    },
+    {
+        "電聲學": "electroacoustics"
+    },
+    {
+        "腦波圖": "electroencephalogram {=EEG}"
+    },
+    {
+        "腦波圖;腦波測量技術": "Electroencephalography{=EEG}"
+    },
+    {
+        "肌電圖": "electromyography"
+    },
+    {
+        "靜電致動器": "electrostatic actuator"
+    },
+    {
+        "出射波": "emergent wave"
+    },
+    {
+        "強調重音": "emphatic stress"
+    },
+    {
+        "音箱": "enclosures"
+    },
+    {
+        "能頻譜密度": "energy spectrum density"
+    },
+    {
+        "引擎噪音": "engine noise"
+    },
+    {
+        "環境聲學": "environmental acoustics"
+    },
+    {
+        "等響平衡": "equal loudness balance"
+    },
+    {
+        "等響曲線": "equal loudness contour"
+    },
+    {
+        "等響關係": "equal loudness relation"
+    },
+    {
+        "等化時間": "equalization time"
+    },
+    {
+        "等化器": "equalizer"
+    },
+    {
+        "等距音調": "equally-spaced tones"
+    },
+    {
+        "等效電路": "equivalent circuit"
+    },
+    {
+        "等效質量": "equivalent mass"
+    },
+    {
+        "等效吸音面積": "equivalent sound absorption area"
+    },
+    {
+        "均能音量": "equivalent sound level"
+    },
+    {
+        "誤差比": "error ratio"
+    },
+    {
+        "誤差訊號": "error signal"
+    },
+    {
+        "食道語": "esophageal speech"
+    },
+    {
+        "擴充定理": "expansion theorem"
+    },
+    {
+        "實驗模態分析": "experimental modal analysis{=EMA}"
+    },
+    {
+        "實驗模態試驗": "experimental modal testing"
+    },
+    {
+        "外部振動機": "external vibrator"
+    },
+    {
+        "下降時間": "fall time"
+    },
+    {
+        "下降語調": "falling intonation"
+    },
+    {
+        "降升語調": "falling-rising intonation"
+    },
+    {
+        "假聲帶": "false vocal cord"
+    },
+    {
+        "遠[聲]場": "far field"
+    },
+    {
+        "快速傅立葉轉換": "fast Fourier transform {=FFT}"
+    },
+    {
+        "回饋": "feedback"
+    },
+    {
+        "回饋作用": "feedback action"
+    },
+    {
+        "回饋放大器": "feedback amplifier"
+    },
+    {
+        "回饋補償": "feedback compensation"
+    },
+    {
+        "回饋控制系統": "feedback control system"
+    },
+    {
+        "傳真度": "fidelity"
+    },
+    {
+        "現場衝擊隔音等級": "Field Impact Insulation Class {=FIIC}"
+    },
+    {
+        "現場隔音等級": "Field Sound Transmission Class {=FSTC}"
+    },
+    {
+        "濾波器": "filter"
+    },
+    {
+        "濾波器衰減": "filter attenuation"
+    },
+    {
+        "濾波器帶寬": "filter bandwidth"
+    },
+    {
+        "濾波網路": "filter network"
+    },
+    {
+        "有限振幅波": "finite amplitude wave"
+    },
+    {
+        "有限元素法": "finite element method{= FEM}"
+    },
+    {
+        "固定邊界": "fixed boundary"
+    },
+    {
+        "側向傳播路徑": "flanking path"
+    },
+    {
+        "側向傳播": "flanking transmission"
+    },
+    {
+        "平坦特性": "flat characteristic"
+    },
+    {
+        "撓度影響係數": "flexibility influence coefficient"
+    },
+    {
+        "浮動地板": "floating floor"
+    },
+    {
+        "樓板表面材": "floor covering"
+    },
+    {
+        "樓板衝擊音": "floor impact sound"
+    },
+    {
+        "變動性噪音": "fluctuating noise"
+    },
+    {
+        "顫動": "flutter"
+    },
+    {
+        "顫動迴音": "flutter echo"
+    },
+    {
+        "顫動不穩定性": "flutter instability"
+    },
+    {
+        "力換能器": "force transducer"
+    },
+    {
+        "力傳輸比": "force transmissibility"
+    },
+    {
+        "強制振動": "forced vibration"
+    },
+    {
+        "形狀因子": "form factor"
+    },
+    {
+        "共振峰": "formant"
+    },
+    {
+        "共振峰振幅": "formant amplitude"
+    },
+    {
+        "共振峰頻寬": "formant bandwidth"
+    },
+    {
+        "共振峰中心頻率": "formant center frequency"
+    },
+    {
+        "共振峰合成法": "formant synthesis"
+    },
+    {
+        "共振峰追蹤": "formant tracking"
+    },
+    {
+        "共振峰走勢": "formant trajectory"
+    },
+    {
+        "共振峰過渡音段": "formant transition"
+    },
+    {
+        "傅立葉級數": "Fourier series"
+    },
+    {
+        "傅立葉頻譜": "Fourier spectrum"
+    },
+    {
+        "傅立葉轉換": "Fourier transform"
+    },
+    {
+        "自由體[受力]圖": "free body diagram"
+    },
+    {
+        "自由邊界": "free boundary"
+    },
+    {
+        "自由聲場": "free field"
+    },
+    {
+        "自由彎曲波": "free flexural wave"
+    },
+    {
+        "自由振盪": "free oscillation"
+    },
+    {
+        "自由前進波": "free progressive wave"
+    },
+    {
+        "自由聲場": "free sound field"
+    },
+    {
+        "自由振動": "free vibration"
+    },
+    {
+        "自由場補正": "free-field correction"
+    },
+    {
+        "自由場靈敏度": "free-field sensitivity"
+    },
+    {
+        "自由音場電壓靈敏度": "free-field voltage sensitivity"
+    },
+    {
+        "頻率": "frequency"
+    },
+    {
+        "頻率分析": "frequency analysis"
+    },
+    {
+        "頻率分析儀": "frequency analyzer"
+    },
+    {
+        "頻帶": "frequency band"
+    },
+    {
+        "計頻器": "frequency counter"
+    },
+    {
+        "頻率偏差；頻率偏移": "frequency deviation"
+    },
+    {
+        "鑑頻器": "frequency discriminator"
+    },
+    {
+        "分頻器": "frequency divider"
+    },
+    {
+        "頻域": "frequency domain"
+    },
+    {
+        "頻域校正": "frequency domain calibration"
+    },
+    {
+        "頻域量測": "frequency domain measurement"
+    },
+    {
+        "頻率區間": "frequency interval"
+    },
+    {
+        "頻率調變振盪器": "frequency modulated oscillator"
+    },
+    {
+        "調頻": "frequency modulation"
+    },
+    {
+        "調頻靈敏度": "frequency modulation sensitivity"
+    },
+    {
+        "拉頻": "frequency pulling"
+    },
+    {
+        "推頻": "frequency pushing"
+    },
+    {
+        "頻率解析度": "frequency resolution"
+    },
+    {
+        "頻率響應": "frequency response"
+    },
+    {
+        "頻率響應函數": "frequency response function"
+    },
+    {
+        "頻譜": "frequency spectrum"
+    },
+    {
+        "頻率加權": "frequency weighting"
+    },
+    {
+        "頻率加權網絡": "frequency weighting network"
+    },
+    {
+        "[摩]擦音": "fricative"
+    },
+    {
+        "摩擦係數": "friction coefficient"
+    },
+    {
+        "非摩擦延續音": "frictionless continuant"
+    },
+    {
+        "舌前緊縮": "front tongue constriction"
+    },
+    {
+        "前母音": "front vowels"
+    },
+    {
+        "全功率": "full power"
+    },
+    {
+        "完整母音": "full vowels"
+    },
+    {
+        "訊號產生器": "function generator"
+    },
+    {
+        "基頻": "fundamental frequency"
+    },
+    {
+        "基音": "fundamental tone"
+    },
+    {
+        "模糊邏輯知覺理論": "fuzzy logical model of perception {=FLMP}"
+    },
+    {
+        "增益調整": "gain adjustment"
+    },
+    {
+        "增益常數": "gain constant"
+    },
+    {
+        "常態分布；高斯分布": "Gaussian distribution"
+    },
+    {
+        "高斯噪音": "Gaussian noise"
+    },
+    {
+        "高斯隨機雜訊": "Gaussian random noise"
+    },
+    {
+        "高斯隨機訊號": "Gaussian random signal"
+    },
+    {
+        "廣義坐標": "generalized coordinate"
+    },
+    {
+        "產生器": "generator"
+    },
+    {
+        "幾何聲學": "geometrical acoustics"
+    },
+    {
+        "喉頭收縮": "glottal constriction"
+    },
+    {
+        "喉摩擦音": "glottal fricative"
+    },
+    {
+        "喉頭脈衝": "glottal impulse"
+    },
+    {
+        "聲門": "glottis"
+    },
+    {
+        "圖形等化器": "graphic equalizer"
+    },
+    {
+        "接地輸入": "grounded input"
+    },
+    {
+        "接地輸出": "grounded output"
+    },
+    {
+        "1/2倍頻帶": "half octave band width"
+    },
+    {
+        "漢明窗": "hamming window"
+    },
+    {
+        "硬顎": "hard palate"
+    },
+    {
+        "諧波；泛音": "harmonic"
+    },
+    {
+        "諧波失真": "harmonic distortion"
+    },
+    {
+        "諧波激發": "harmonic excitation"
+    },
+    {
+        "簡諧運動": "harmonic motion"
+    },
+    {
+        "諧噪比": "harmonics-to-noise ratio {=HNR}"
+    },
+    {
+        "粗澀聲": "harsh voice"
+    },
+    {
+        "頭戴耳機": "headphone"
+    },
+    {
+        "聽覺": "hearing"
+    },
+    {
+        "助聽器": "hearing aid"
+    },
+    {
+        "聽力相消": "hearing cancellation"
+    },
+    {
+        "聽力能力": "hearing capability"
+    },
+    {
+        "聽力保護": "hearing conservation"
+    },
+    {
+        "聽障": "hearing disorder"
+    },
+    {
+        "損害障礙": "hearing handicap"
+    },
+    {
+        "聽力損傷": "hearing impairment"
+    },
+    {
+        "聽力位準": "hearing level"
+    },
+    {
+        "聽力喪失": "hearing loss"
+    },
+    {
+        "聽覺器官": "hearing organ"
+    },
+    {
+        "聽力防護": "hearing protection"
+    },
+    {
+        "聽力防護具": "hearing protection device {=HPD}"
+    },
+    {
+        "聽覺感知": "hearing sensation"
+    },
+    {
+        "聽力敏感度": "hearing sensitivity"
+    },
+    {
+        "聽力系統": "hearing system"
+    },
+    {
+        "聽覺閾": "hearing threshold"
+    },
+    {
+        "聽覺閾值；聽覺閾值位準": "hearing threshold level"
+    },
+    {
+        "亥姆霍茲共振器": "Helmholtz resonator"
+    },
+    {
+        "半無響室": "hemi-anechoic room"
+    },
+    {
+        "赫[茲]": "Hertz {=Hz}"
+    },
+    {
+        "階層模式": "hierarchical model"
+    },
+    {
+        "高降調；四聲": "high falling tone"
+    },
+    {
+        "陰平調；一聲；高平調": "high level tone"
+    },
+    {
+        "高階電路": "high order circuit"
+    },
+    {
+        "高通濾波器": "high pass filter"
+    },
+    {
+        "陽平調；二聲；高升調": "high rising tone"
+    },
+    {
+        "高速鐵路噪音": "high speed railway noise"
+    },
+    {
+        "高母音": "high vowel"
+    },
+    {
+        "高通": "high-pass"
+    },
+    {
+        "快速道路噪音": "highway traffic noise"
+    },
+    {
+        "沙啞聲": "hoarse voice"
+    },
+    {
+        "水平偏移": "horizontal shift"
+    },
+    {
+        "水平掃描": "horizontal sweep"
+    },
+    {
+        "水平同步訊號": "horizontal synchronizing signal"
+    },
+    {
+        "喇叭揚聲器; 號角型揚聲器": "horn loudspeaker"
+    },
+    {
+        "嘯聲": "howling"
+    },
+    {
+        "哼聲；交流聲": "hum"
+    },
+    {
+        "水聽器": "hydrophone"
+    },
+    {
+        "聽覺過敏": "hyperacusis"
+    },
+    {
+        "鼻音過重": "hypernasality"
+    },
+    {
+        "遲滯阻尼": "hysteretic damping"
+    },
+    {
+        "遲滯阻尼係數": "hysteretic damping coefficient"
+    },
+    {
+        "衝擊力暴露位準": "impact force exposure level"
+    },
+    {
+        "衝擊隔音等級": "impact insulation class {=IIC}"
+    },
+    {
+        "衝擊噪音": "impact noise"
+    },
+    {
+        "衝擊音": "impact sound"
+    },
+    {
+        "衝擊音隔音": "impact sound insulation"
+    },
+    {
+        "衝擊聲壓位準": "impact sound pressure level"
+    },
+    {
+        "聽力損失": "impairment of hearing"
+    },
+    {
+        "阻抗": "impedance"
+    },
+    {
+        "阻抗矩陣": "impedance matrix"
+    },
+    {
+        "阻抗失配": "impedance mismatch"
+    },
+    {
+        "阻抗管": "impedance tube"
+    },
+    {
+        "吸入塞音": "implosive"
+    },
+    {
+        "脈衝": "impulse"
+    },
+    {
+        "衝力": "impulse force"
+    },
+    {
+        "脈衝響應": "impulse response"
+    },
+    {
+        "脈衝響應函數": "impulse response function {=IRF}"
+    },
+    {
+        "脈衝噪音": "impulsive noise"
+    },
+    {
+        "脈衝音": "impulsive sound"
+    },
+    {
+        "入射功率": "incident power"
+    },
+    {
+        "入射波": "incident wave"
+    },
+    {
+        "室內噪音": "indoor noise"
+    },
+    {
+        "電感": "inductance"
+    },
+    {
+        "工業噪音": "industrial noise"
+    },
+    {
+        "慣性力": "inertial force"
+    },
+    {
+        "嬰兒發聲": "infant vocalization"
+    },
+    {
+        "無限脈衝響應": "infinite impulse response {=IIR}"
+    },
+    {
+        "超低頻率": "infrasonic frequency"
+    },
+    {
+        "超低頻音": "infrasound"
+    },
+    {
+        "初始條件": "initial condition"
+    },
+    {
+        "起始噪音": "initial noise"
+    },
+    {
+        "內耳毛細胞": "inner hair cell"
+    },
+    {
+        "同相": "in-phase"
+    },
+    {
+        "輸入特性": "input characteristics"
+    },
+    {
+        "輸入控制": "input control"
+    },
+    {
+        "輸入阻抗": "input impedance"
+    },
+    {
+        "輸入電阻": "input resistance"
+    },
+    {
+        "輸入訊號": "input signal"
+    },
+    {
+        "內插電壓量測[法]": "insert voltage measurement"
+    },
+    {
+        "介入損失": "insertion loss"
+    },
+    {
+        "隔音材料": "insulating material"
+    },
+    {
+        "積體電路": "integrated circuit"
+    },
+    {
+        "積分式噪音計": "integrating sound level meter"
+    },
+    {
+        "積分器": "integrator"
+    },
+    {
+        "清晰度": "intelligibility"
+    },
+    {
+        "相互調變；相互調制": "inter modulation"
+    },
+    {
+        "齒間音": "interdental"
+    },
+    {
+        "介面": "interface"
+    },
+    {
+        "干涉": "interference"
+    },
+    {
+        "間歇性噪音": "intermittent noise"
+    },
+    {
+        "交互調變失真": "intermodulation distortion"
+    },
+    {
+        "內部損耗": "internal loss"
+    },
+    {
+        "國際音標": "International Phonetic Alphbet"
+    },
+    {
+        "國際音標學會": "International Phonetic Association"
+    },
+    {
+        "間隔尺度": "interval scale"
+    },
+    {
+        "語調; 聲調": "intonation"
+    },
+    {
+        "本質衰減": "intrinsic attenuation"
+    },
+    {
+        "本質長度": "intrinsic duration"
+    },
+    {
+        "內在基頻": "intrinsic fundamental frequency"
+    },
+    {
+        "本質音高": "intrinsic pitch"
+    },
+    {
+        "逆快速傅立葉轉換": "inverse fast Fourier transform {=IFFT}"
+    },
+    {
+        "逆傅立葉轉換": "inverse Fourier transform"
+    },
+    {
+        "反矩陣；逆矩陣": "inverse matrix"
+    },
+    {
+        "平方反比律": "inverse square law"
+    },
+    {
+        "隔震；隔振": "isolation"
+    },
+    {
+        "防振材料": "isolation material"
+    },
+    {
+        "隔振器": "isolator"
+    },
+    {
+        "等向性材料": "isotropic material"
+    },
+    {
+        "噴氣噪音": "jet noise"
+    },
+    {
+        "抖動": "jitter"
+    },
+    {
+        "動能": "kinetic energy"
+    },
+    {
+        "尖峰值": "kurtosis"
+    },
+    {
+        "唇音": "labial"
+    },
+    {
+        "唇齒；唇齒音": "labialdental"
+    },
+    {
+        "圓唇化": "labialization"
+    },
+    {
+        "唇顎滑音": "labio-velar glide"
+    },
+    {
+        "拉格朗日方程[式]": "Lagrange's equation"
+    },
+    {
+        "舌葉音": "laminal"
+    },
+    {
+        "舌葉齦音": "laminal-alveolar"
+    },
+    {
+        "拉普拉斯轉換": "Laplace transform"
+    },
+    {
+        "雷射干涉儀": "laser Interferometer"
+    },
+    {
+        "潛時": "latency"
+    },
+    {
+        "橫向振動；橫振[動]": "lateral vibration"
+    },
+    {
+        "鬆母音": "lax vowel"
+    },
+    {
+        "電感電容阻抗測試儀": "LCR meter"
+    },
+    {
+        "漏電流": "leakage current"
+    },
+    {
+        "字母到音的規則": "letter to sound rule"
+    },
+    {
+        "位準": "level"
+    },
+    {
+        "詞彙重音；字重音": "lexical stress"
+    },
+    {
+        "詞彙聲調；字調": "lexical tone"
+    },
+    {
+        "近似比": "likelihood ratio"
+    },
+    {
+        "極限頻率": "limiting frequency"
+    },
+    {
+        "線靈敏度": "line sensitivity"
+    },
+    {
+        "線形": "line shape"
+    },
+    {
+        "線聲源": "line source"
+    },
+    {
+        "線[狀]頻譜": "line spectrum"
+    },
+    {
+        "線性放大器": "linear amplifier"
+    },
+    {
+        "線性分析": "linear analysis"
+    },
+    {
+        "線性特性": "linear characteristic"
+    },
+    {
+        "線性阻尼元件": "linear damper"
+    },
+    {
+        "線性失真": "linear distortion"
+    },
+    {
+        "線性調頻": "linear frequency modulation"
+    },
+    {
+        "線性預測": "linear prediction"
+    },
+    {
+        "線性預測編碼": "linear predictive coding {=LPC}"
+    },
+    {
+        "線性掃描": "linear sweep"
+    },
+    {
+        "線性系統": "linear system"
+    },
+    {
+        "線性控制": "linearity control"
+    },
+    {
+        "線性化": "linearization"
+    },
+    {
+        "語言學": "linguistics"
+    },
+    {
+        "流音; 液體": "liquid"
+    },
+    {
+        "定點方程式": "locus equations"
+    },
+    {
+        "對數衰減": "logarithmic decrement"
+    },
+    {
+        "對數掃描": "logistic sweep"
+    },
+    {
+        "長延遲": "long delay"
+    },
+    {
+        "縱軸": "longitudinal axis"
+    },
+    {
+        "縱向振動": "longitudinal vibration"
+    },
+    {
+        "縱波": "longitudinal wave"
+    },
+    {
+        "迴路；環": "loop"
+    },
+    {
+        "環形天線": "loop antenna"
+    },
+    {
+        "迴路增益": "loop gain"
+    },
+    {
+        "耗損因子": "loss factor"
+    },
+    {
+        "響度": "loudness"
+    },
+    {
+        "等響線": "loudness contour"
+    },
+    {
+        "響度位準": "loudness level"
+    },
+    {
+        "響度記憶": "loudness memory"
+    },
+    {
+        "響度模型": "loudness model"
+    },
+    {
+        "響度斜率": "loudness on the slope"
+    },
+    {
+        "響度評定值": "loudness rating"
+    },
+    {
+        "響度感知": "loudness sensation"
+    },
+    {
+        "響度累積": "loudness summation"
+    },
+    {
+        "揚聲器": "loudspeaker"
+    },
+    {
+        "揚聲器效率": "loudspeaker efficiency"
+    },
+    {
+        "上聲；三聲；低降升調": "low falling-rising tone"
+    },
+    {
+        "低通濾波器": "low pass filter"
+    },
+    {
+        "低音調": "low pitch"
+    },
+    {
+        "低母音": "low vowel"
+    },
+    {
+        "低截止頻[率]": "lower cut-off frequency"
+    },
+    {
+        "低頻帶": "low-frequency band"
+    },
+    {
+        "低頻率遮罩": "low-frequency masker"
+    },
+    {
+        "低頻率麥克風": "low-frequency microphone"
+    },
+    {
+        "低頻斜率": "low-frequency slope"
+    },
+    {
+        "低頻音調": "low-frequency tone"
+    },
+    {
+        "馬赫數": "mach number"
+    },
+    {
+        "磁芯；磁圈": "magnetic core"
+    },
+    {
+        "磁場": "magnetic field"
+    },
+    {
+        "磁場強度": "magnetic field strength"
+    },
+    {
+        "磁通量": "magnetic flux"
+    },
+    {
+        "磁感應；磁感應強度": "magnetic induction"
+    },
+    {
+        "磁帶": "magnetic tape"
+    },
+    {
+        "磁化曲線": "magnetization curve"
+    },
+    {
+        "放大因子": "magnification factor"
+    },
+    {
+        "中文語音之注音符號": "mandarin Phonetic Systems {=MPS}"
+    },
+    {
+        "人為雜訊；人為噪音": "man-made noise"
+    },
+    {
+        "遮蔽音": "masker tone"
+    },
+    {
+        "遮蔽": "masking"
+    },
+    {
+        "遮蔽曲線": "masking curve"
+    },
+    {
+        "遮蔽效應": "masking effect"
+    },
+    {
+        "遮蔽模式": "masking pattern"
+    },
+    {
+        "質量阻抗": "mass impedance"
+    },
+    {
+        "質量律": "mass law"
+    },
+    {
+        "質量矩陣": "mass matrix"
+    },
+    {
+        "質量慣性矩": "mass moment of inertia"
+    },
+    {
+        "質量正規化模態矩陣": "mass normalized modal matrix"
+    },
+    {
+        "質量正規化模態振型": "mass normalized mode shape"
+    },
+    {
+        "大眾捷運系統噪音": "mass rapid transit systems noise"
+    },
+    {
+        "定調": "matching pitch"
+    },
+    {
+        "定音": "matching tone"
+    },
+    {
+        "最大聲壓": "maximum sound pressure"
+    },
+    {
+        "最大長度序列": "maximumlength sequence {=MLS}"
+    },
+    {
+        "最大響度": "maximum loudness"
+    },
+    {
+        "最大輸出位準": "maximum output level"
+    },
+    {
+        "瞬時最大聲壓位準": "maximum sound level {=Lmax}"
+    },
+    {
+        "最大聲壓位準": "maximum sound pressure level"
+    },
+    {
+        "均方值": "mean square value"
+    },
+    {
+        "平均值": "mean value"
+    },
+    {
+        "現場量測": "measurement in situ"
+    },
+    {
+        "力學阻抗": "mechanical impedance"
+    },
+    {
+        "中央值平滑化": "median smoothing"
+    },
+    {
+        "每秒千週": "mel"
+    },
+    {
+        "梅爾頻率倒頻譜係數": "Mel-frequency cepstral coefficients {=MFCC}"
+    },
+    {
+        "梅爾頻率倒頻譜": "Mel-frequency cepstrum"
+    },
+    {
+        "音的移位": "metathesis"
+    },
+    {
+        "分離變數法": "method of separation of variable"
+    },
+    {
+        "未定係數法": "method of undetermined coefficient"
+    },
+    {
+        "微振": "micro tremor"
+    },
+    {
+        "微穿孔吸音材": "microperforate absorber"
+    },
+    {
+        "微音器；麥克風": "microphone"
+    },
+    {
+        "麥克風阻抗": "microphone impedance"
+    },
+    {
+        "麥克風靈敏度": "microphone sensitivity"
+    },
+    {
+        "微振": "microtremor"
+    },
+    {
+        "頻帶中心頻率；波段中心頻率": "mid band frequency"
+    },
+    {
+        "中耳": "middle ear"
+    },
+    {
+        "中耳聽小骨": "middle ear ossicles"
+    },
+    {
+        "最小頻率距離": "minimal frequency distance"
+    },
+    {
+        "最小聲壓": "minimum sound pressure"
+    },
+    {
+        "最小雜訊度": "minimum noise figure"
+    },
+    {
+        "混合高頻": "mixed highs"
+    },
+    {
+        "混音器": "mixer"
+    },
+    {
+        "混頻管": "mixer tube"
+    },
+    {
+        "活動性": "mobility"
+    },
+    {
+        "模態分析": "modal analysis"
+    },
+    {
+        "模態座標": "modal coordinate"
+    },
+    {
+        "模態藕合": "modal coupling"
+    },
+    {
+        "模態阻尼比": "modal damping ratio"
+    },
+    {
+        "模態頻率": "modal frequency"
+    },
+    {
+        "模態矩陣": "modal matrix"
+    },
+    {
+        "模態參數": "modal parameter"
+    },
+    {
+        "模態試驗；模態測試": "modal testing"
+    },
+    {
+        "模態向量": "modal vector"
+    },
+    {
+        "模態激發": "mode excitation"
+    },
+    {
+        "振動模態": "mode of vibration"
+    },
+    {
+        "模態形狀": "mode shape"
+    },
+    {
+        "基音模型": "model of spectral pitch"
+    },
+    {
+        "虛擬音模型": "model of virtual pitch"
+    },
+    {
+        "修改的頻率調變": "modified frequency modulation {=MFM}"
+    },
+    {
+        "修改押韻測試": "modified rhyme test {=MRT}"
+    },
+    {
+        "模組化": "modular"
+    },
+    {
+        "調變訊號": "modulating signal"
+    },
+    {
+        "調制;調變": "modulation"
+    },
+    {
+        "調變頻寬": "modulation bandwidth"
+    },
+    {
+        "調變特性": "modulation characteristic"
+    },
+    {
+        "調變編碼": "modulation coding"
+    },
+    {
+        "調變失真；調變畸變": "modulation distortion"
+    },
+    {
+        "調變效率": "modulation efficiency"
+    },
+    {
+        "調變元[件]": "modulation element"
+    },
+    {
+        "調變格式": "modulation format"
+    },
+    {
+        "調變指數": "modulation index"
+    },
+    {
+        "調變率": "modulation rate"
+    },
+    {
+        "調變響應": "modulation response"
+    },
+    {
+        "調變抑制；調變遏止": "modulation suppression"
+    },
+    {
+        "調制轉換函數：調變傳送函數": "modulation transfer function {=MTF}"
+    },
+    {
+        "調變 / 解調": "modulation/demodulation"
+    },
+    {
+        "調變器": "modulator"
+    },
+    {
+        "調變器與混波器": "modulator and mixer"
+    },
+    {
+        "調變器解調器電路": "modulator demodulator circuit"
+    },
+    {
+        "調變器線性度": "modulator linearity"
+    },
+    {
+        "調變器靈敏度": "modulator sensitivity"
+    },
+    {
+        "分子鬆弛": "molecular relaxation"
+    },
+    {
+        "分子振動": "molecular vibration"
+    },
+    {
+        "轉動慣量": "moment of inertia"
+    },
+    {
+        "單耳聽覺": "monaural listening"
+    },
+    {
+        "單耳響度": "monaural loudness"
+    },
+    {
+        "單曲調音樂；單旋律音樂": "monophony"
+    },
+    {
+        "單音": "monophthongs"
+    },
+    {
+        "單音調": "monopitch"
+    },
+    {
+        "單極": "monopole"
+    },
+    {
+        "詞素": "morphome"
+    },
+    {
+        "構詞音位學": "morphophonemics"
+    },
+    {
+        "母語": "mother tongue"
+    },
+    {
+        "運動言語障礙": "motor speech disorder"
+    },
+    {
+        "語音感知的運動理論": "motor theory of speech perception"
+    },
+    {
+        "移動平均模型": "moving average model"
+    },
+    {
+        "動磁式儀器": "moving magnet instrument"
+    },
+    {
+        "動圈式儀器": "moving-coil instrument"
+    },
+    {
+        "動鐵式儀器": "moving-iron instrument"
+    },
+    {
+        "M 序列訊號": "M-sequence signal"
+    },
+    {
+        "消音器": "muffler"
+    },
+    {
+        "多功電表;多用電表;萬用表": "multimeter"
+    },
+    {
+        "多自由度系統": "multiple degree of freedom {=MDOF} system"
+    },
+    {
+        "多重迴音": "multiple echo"
+    },
+    {
+        "多邊緣隔音牆": "multiple edge barrier"
+    },
+    {
+        "多個輸入/多個輸出系統": "multiple input/multiple output {=MIMO} system"
+    },
+    {
+        "多重振動模式": "multiple vibration mode"
+    },
+    {
+        "倍增": "multiplication"
+    },
+    {
+        "倍增因子": "multiplication factor"
+    },
+    {
+        "多處理機": "multiprocessor"
+    },
+    {
+        "多元程式規劃": "multiprogramming"
+    },
+    {
+        "複合揚聲器系統": "multi-speaker system"
+    },
+    {
+        "多音電路": "multi-tone circuit"
+    },
+    {
+        "樂音合成器": "music synthesizer"
+    },
+    {
+        "樂音": "music tone"
+    },
+    {
+        "音樂聲學": "musical acoustics"
+    },
+    {
+        "音色": "musical quality"
+    },
+    {
+        "音樂學": "musicology"
+    },
+    {
+        "窄頻帶分析": "narrow band analysis"
+    },
+    {
+        "窄帶噪訊": "narrow band noise"
+    },
+    {
+        "窄頻分析器；窄頻分析儀": "narrowband analyzer"
+    },
+    {
+        "窄頻帶聲譜圖": "narrowband spectrogram"
+    },
+    {
+        "鼻腔": "nasal cavity"
+    },
+    {
+        "鼻腔子音": "nasal consonant"
+    },
+    {
+        "鼻音韻尾": "nasal end"
+    },
+    {
+        "鼻音共振峰": "nasal formant"
+    },
+    {
+        "鼻腔雜音": "nasal murmur"
+    },
+    {
+        "鼻塞音": "nasal stops"
+    },
+    {
+        "鼻音": "nasal voice"
+    },
+    {
+        "鼻化母音": "nasalized vowel"
+    },
+    {
+        "固有頻率": "natural frequency"
+    },
+    {
+        "固有振動模[態]": "natural mode of vibration"
+    },
+    {
+        "自然雜訊；自然噪音": "natural noise"
+    },
+    {
+        "自然振動": "natural vibration"
+    },
+    {
+        "鼻化": "nazalization"
+    },
+    {
+        "近場": "near field"
+    },
+    {
+        "近場效應": "near field effect"
+    },
+    {
+        "負回饋": "negative feedback"
+    },
+    {
+        "近鄰噪音": "neighborhood noise"
+    },
+    {
+        "淨功率": "net power"
+    },
+    {
+        "神經性聾疾": "neural deafness"
+    },
+    {
+        "夜間平均聲壓位準": "night average sound level {=Ln}"
+    },
+    {
+        "節線": "nodal line"
+    },
+    {
+        "噪音；雜訊": "noise"
+    },
+    {
+        "雜訊消滅": "noise abatement"
+    },
+    {
+        "噪音降低標準": "noise abatement criteria {=NAC}"
+    },
+    {
+        "噪音吵鬧度": "noise annoyance"
+    },
+    {
+        "噪音屏障": "noise barrier"
+    },
+    {
+        "去噪音麥克風": "noise cancelling microphone"
+    },
+    {
+        "等噪音線": "noise contour"
+    },
+    {
+        "噪音控制; 雜訊控制": "noise control"
+    },
+    {
+        "噪音管制法": "Noise Control Act"
+    },
+    {
+        "噪音管制標準": "noise control criteria"
+    },
+    {
+        "噪音管制區": "noise control zone"
+    },
+    {
+        "噪音定規曲線": "noise criteria curve {=NC}"
+    },
+    {
+        "噪音劑量": "noise dose"
+    },
+    {
+        "噪音劑量計": "noise dose meter"
+    },
+    {
+        "噪音排放": "noise emission"
+    },
+    {
+        "噪音環境": "noise environment"
+    },
+    {
+        "噪音事件": "noise event"
+    },
+    {
+        "雜訊因子": "noise factor"
+    },
+    {
+        "噪音產生器": "noise generator"
+    },
+    {
+        "噪音性耳聾": "noise induced hearing loss"
+    },
+    {
+        "噪音導致之永久性聽力損失": "noise induced permanent threshold shift"
+    },
+    {
+        "噪音導致之暫時性聽力損失": "noise induced temporary threshold shift"
+    },
+    {
+        "隔音等級": "noise isolation class {=NIC}"
+    },
+    {
+        "噪音位準": "noise level"
+    },
+    {
+        "噪音位準統計分析儀": "noise level statistical analyzer"
+    },
+    {
+        "噪音計": "noise meter"
+    },
+    {
+        "噪音汙染位準": "noise pollution level {=NPL or LNP}"
+    },
+    {
+        "雜訊功率比": "noise power ratio"
+    },
+    {
+        "噪音評定曲線": "noise rating curve {=NRC}"
+    },
+    {
+        "噪音指數": "noise rating number"
+    },
+    {
+        "雜訊比": "noise ratio"
+    },
+    {
+        "噪音抑制": "noise reduction"
+    },
+    {
+        "噪音減低係數": "noise reduction coefficient"
+    },
+    {
+        "減噪等級": "noise reduction rating {=NRR}"
+    },
+    {
+        "雜訊譜; 噪音譜": "noise spectrum"
+    },
+    {
+        "噪音頻譜特性": "noise spectrum characteristics"
+    },
+    {
+        "噪音抑制": "noise suppression"
+    },
+    {
+        "抑噪器": "noise suppressor"
+    },
+    {
+        "噪音區": "noise zone"
+    },
+    {
+        "噪音敏感區域": "noise-sensitive location"
+    },
+    {
+        "噪音諧音比值": "noise-to-harmonics ratio {=NHR}"
+    },
+    {
+        "噪音量；噪度": "noisiness"
+    },
+    {
+        "無定向麥克風": "nondirectional microphone"
+    },
+    {
+        "非線性系統": "nonlinear system"
+    },
+    {
+        "非線性": "nonlinearity"
+    },
+    {
+        "非週期性函數": "non-periodic function"
+    },
+    {
+        "非比例阻尼": "non-proportional damping"
+    },
+    {
+        "非正弦振動": "nonsinusoidal vibration"
+    },
+    {
+        "非穩態噪音": "non-steady noise"
+    },
+    {
+        "簡正座標": "normal coordinate"
+    },
+    {
+        "常態分布": "normal distribution"
+    },
+    {
+        "正常聽力": "normal hearing"
+    },
+    {
+        "垂直入射吸音係數": "normal incident sound absorption coefficient"
+    },
+    {
+        "簡正模[態]": "normal mode"
+    },
+    {
+        "簡正模分析": "normal mode analysis"
+    },
+    {
+        "簡正振動模": "normal mode of vibration"
+    },
+    {
+        "正向表面速度": "normal surface velocity"
+    },
+    {
+        "正規化;歸一化": "normalization"
+    },
+    {
+        "正規化振幅擾動": "normalized amplitude perturbation"
+    },
+    {
+        "正規化衝擊聲壓位準": "normalized impact sound pressure level"
+    },
+    {
+        "正規化位準差": "normalized level difference"
+    },
+    {
+        "正規化訊號": "normalized signal"
+    },
+    {
+        "正規化單一事件暴露位準": "normalized single event exposure level"
+    },
+    {
+        "吵鬧度": "nosiness"
+    },
+    {
+        "吶{感覺噪音的單位}": "noy"
+    },
+    {
+        "客觀法": "objective method"
+    },
+    {
+        "斜向入射吸音係數": "oblique incident sound absorption coefficient"
+    },
+    {
+        "障礙物": "obstacle"
+    },
+    {
+        "阻(塞)音": "obstruent"
+    },
+    {
+        "職業聽力保護": "occupational hearing conservation"
+    },
+    {
+        "八[音]度;倍頻": "octave"
+    },
+    {
+        "倍頻帶": "octave band"
+    },
+    {
+        "倍頻帶分析器;倍頻帶分析儀": "octave band analyzer"
+    },
+    {
+        "倍頻帶濾波器": "octave band filter"
+    },
+    {
+        "倍頻帶譜": "octave-band spectrum"
+    },
+    {
+        "歐姆計": "Ohmmeter"
+    },
+    {
+        "歐姆定律": "Ohm's Law"
+    },
+    {
+        "全向型": "omni directional type"
+    },
+    {
+        "全向": "omnidirection"
+    },
+    {
+        "全向麥克風": "omnidirectional microphone"
+    },
+    {
+        "斷路": "open circuit"
+    },
+    {
+        "開環[路]": "open loop"
+    },
+    {
+        "開環[路]控制": "open loop control"
+    },
+    {
+        "開環[路]增益": "open loop gain"
+    },
+    {
+        "開環[路]追蹤": "open loop tracking"
+    },
+    {
+        "歌劇院": "opera hall"
+    },
+    {
+        "運算放大器": "operational amplifier"
+    },
+    {
+        "口音": "oral"
+    },
+    {
+        "口腔": "oral cavity"
+    },
+    {
+        "口腔子音": "oral consonant"
+    },
+    {
+        "風琴": "organ"
+    },
+    {
+        "起始相位": "original phase"
+    },
+    {
+        "原聲場": "original sound field"
+    },
+    {
+        "正交": "orthogonality"
+    },
+    {
+        "正規正交性": "orthonormality"
+    },
+    {
+        "正交性材料": "orthotropic material"
+    },
+    {
+        "振盪": "oscillation"
+    },
+    {
+        "振盪器": "oscillator"
+    },
+    {
+        "振盪器雜訊": "oscillator noise"
+    },
+    {
+        "振盪器穩定度": "oscillator stability"
+    },
+    {
+        "振盪器強度": "oscillator strength"
+    },
+    {
+        "示波器": "oscilloscope"
+    },
+    {
+        "外耳": "outer ear"
+    },
+    {
+        "外耳毛細胞": "outer hair cell"
+    },
+    {
+        "輸出緩衝器": "output buffer"
+    },
+    {
+        "輸出特性": "output characteristics"
+    },
+    {
+        "輸出電導": "output conductance"
+    },
+    {
+        "輸出耦合器": "output coupler"
+    },
+    {
+        "輸出驅動器": "output driver"
+    },
+    {
+        "輸出阻抗": "output impedance"
+    },
+    {
+        "輸出功率": "output power"
+    },
+    {
+        "輸出功率最佳化": "output power optimization"
+    },
+    {
+        "輸出電阻": "output resistance"
+    },
+    {
+        "總負載": "over-all load"
+    },
+    {
+        "全音域聲壓位準": "overall sound pressure level {= LAP}"
+    },
+    {
+        "過阻尼": "over-damping"
+    },
+    {
+        "重疊": "overlap"
+    },
+    {
+        "泛音": "overtone"
+    },
+    {
+        "並聯": "parallel connection"
+    },
+    {
+        "並聯彈簧[系統]": "parallel system of springs"
+    },
+    {
+        "偏微分方程[式]": "partial differential equation {=PDE}"
+    },
+    {
+        "部分噪音暴露指標": "partial noise exposure index"
+    },
+    {
+        "部分音": "partial tone"
+    },
+    {
+        "質點速度": "particle velocity"
+    },
+    {
+        "隔板": "partition"
+    },
+    {
+        "帕斯卡；帕": "pascal, pa"
+    },
+    {
+        "通帶": "pass-band"
+    },
+    {
+        "小客車當量": "passenger car equivalent{=PCE}"
+    },
+    {
+        "被動換能器": "passive transducer"
+    },
+    {
+        "路徑": "path"
+    },
+    {
+        "型態回播語音合成器": "pattern play back synthesizer"
+    },
+    {
+        "峰值檢測器": "peak detector"
+    },
+    {
+        "尖峰包络功率": "peak envelope power"
+    },
+    {
+        "尖峰超越[量]": "peak overshoot"
+    },
+    {
+        "尖峰壓力位準": "peak pressure level {= Lpeak}"
+    },
+    {
+        "尖峰整流器": "peak rectifier"
+    },
+    {
+        "尖峰響應": "peak response"
+    },
+    {
+        "尋峰": "peak seeking"
+    },
+    {
+        "峰值聲音位準": "peak sound level"
+    },
+    {
+        "峰值聲壓": "peak sound pressure"
+    },
+    {
+        "峰至峰電壓": "peak to peak of voltage"
+    },
+    {
+        "峰值": "peak value"
+    },
+    {
+        "峰值均值比": "peak-average ratio"
+    },
+    {
+        "尖波器": "peaker"
+    },
+    {
+        "峰至峰值": "peak-peak value"
+    },
+    {
+        "峰間偏差": "peak-to-peak deviation"
+    },
+    {
+        "感知響度": "perceived loudness"
+    },
+    {
+        "感知噪音位準": "perceived noise level"
+    },
+    {
+        "時間率聲壓位準": "percent exceeded sound level {=PESL}"
+    },
+    {
+        "百分數位準": "percentile level"
+    },
+    {
+        "感音性聽力損失": "perceptive hearing loss"
+    },
+    {
+        "知覺磁吸理論": "perceptual magnet theory"
+    },
+    {
+        "知覺語音學": "perceptual phonetics"
+    },
+    {
+        "知覺加權": "perceptually weighting"
+    },
+    {
+        "知覺加權濾波器": "perceptually weighting filter"
+    },
+    {
+        "週期": "period"
+    },
+    {
+        "週期條狀圖": "period histogram"
+    },
+    {
+        "自由振盪週期": "period of free oscillation"
+    },
+    {
+        "週期擾動商數": "period perturbation quotient {= PPQ}"
+    },
+    {
+        "週期力": "periodic force"
+    },
+    {
+        "週期波": "periodic wave"
+    },
+    {
+        "永久性閾值偏移": "permanent threshold shift{=PTS}"
+    },
+    {
+        "磁導率；滲透率": "permeability"
+    },
+    {
+        "垂直入射響應": "perpendicular incidence response"
+    },
+    {
+        "個人噪音劑量計": "personal noise dosimeter"
+    },
+    {
+        "個人聲音暴露計": "personal sound exposure meter"
+    },
+    {
+        "微擾理論": "perturbation theory"
+    },
+    {
+        "咽腔": "pharyngeal cavity"
+    },
+    {
+        "咽腔緊縮": "pharyngeal constriction"
+    },
+    {
+        "相位調整": "phase adjustment"
+    },
+    {
+        "相位角": "phase angle"
+    },
+    {
+        "相位延遲": "phase delay"
+    },
+    {
+        "相位偏差": "phase deviation"
+    },
+    {
+        "相位差": "phase difference"
+    },
+    {
+        "相位失真": "phase distortion"
+    },
+    {
+        "相位函數": "phase function"
+    },
+    {
+        "追相器": "phase hunter"
+    },
+    {
+        "相位鎖定 ；相鎖；鎖相": "phase lock"
+    },
+    {
+        "相移": "phase shift"
+    },
+    {
+        "音位；音素": "phoneme"
+    },
+    {
+        "音素明瞭度": "phoneme articulation"
+    },
+    {
+        "音素回復": "phonemic restoration"
+    },
+    {
+        "音位學": "phonemics"
+    },
+    {
+        "語音情境": "phonetic context"
+    },
+    {
+        "語音轉錄": "phonetic transcription"
+    },
+    {
+        "語音學": "phonetics"
+    },
+    {
+        "音韻規則": "phonological rule"
+    },
+    {
+        "音韻學": "phonology"
+    },
+    {
+        "聲子": "phonon"
+    },
+    {
+        "聲子散射": "phonon scattering"
+    },
+    {
+        "聲子譜": "phonon spectrum"
+    },
+    {
+        "壓電麥克風": "piezoelectric microphone"
+    },
+    {
+        "粉紅噪音": "pink noise"
+    },
+    {
+        "活塞": "piston"
+    },
+    {
+        "活塞校音器": "pistonphone"
+    },
+    {
+        "音調": "pitch"
+    },
+    {
+        "音調輪廓": "pitch contour"
+    },
+    {
+        "音調合成濾波器": "pitch synthesis filter"
+    },
+    {
+        "發音部位": "place of articulation"
+    },
+    {
+        "平板吸音體": "plane absorber"
+    },
+    {
+        "振動平面": "plane of vibration"
+    },
+    {
+        "平面行進波": "plane progressive wave"
+    },
+    {
+        "面聲源": "plane source"
+    },
+    {
+        "平面波": "plane wave"
+    },
+    {
+        "板振動": "plate vibration"
+    },
+    {
+        "板式振動夯實機": "plate-vibrating compactor"
+    },
+    {
+        "點聲源": "point source"
+    },
+    {
+        "指針式儀器；指針式儀表": "pointer instrument"
+    },
+    {
+        "帕松比": "Poisson's ratio"
+    },
+    {
+        "極化電壓": "polarization voltage"
+    },
+    {
+        "多面體聲源": "polyhedron source"
+    },
+    {
+        "孔隙率": "porosity"
+    },
+    {
+        "多孔吸音體": "porous absorber"
+    },
+    {
+        "多孔吸音材料": "porous absorbing material"
+    },
+    {
+        "多孔材料": "porous material"
+    },
+    {
+        "可攜式噪音位準分析儀": "portable noise level analyzer"
+    },
+    {
+        "後遮罩閾值": "post-masked threshold"
+    },
+    {
+        "位能；勢能": "potential energy"
+    },
+    {
+        "電位計": "potentiometer"
+    },
+    {
+        "功率": "power"
+    },
+    {
+        "功率放大器": "power amplifier"
+    },
+    {
+        "功率合併器": "power combiner"
+    },
+    {
+        "電力消耗": "power consumption"
+    },
+    {
+        "功率二極體": "power diode"
+    },
+    {
+        "功率耗散": "power dissipation"
+    },
+    {
+        "功率分布": "power distribution"
+    },
+    {
+        "功率分配器": "power divider"
+    },
+    {
+        "功率效率": "power efficiency"
+    },
+    {
+        "功率積體電路": "power integrated circuit"
+    },
+    {
+        "功率位準": "power level"
+    },
+    {
+        "功率損耗": "power loss"
+    },
+    {
+        "功率半導體二極體": "power semiconductor diode"
+    },
+    {
+        "功率半導體開關": "power semiconductor switch"
+    },
+    {
+        "功率頻譜密度": "power spectral density"
+    },
+    {
+        "功率頻譜密度函數": "power spectral density {=PSD} function"
+    },
+    {
+        "功率譜": "power spectrum"
+    },
+    {
+        "功率電晶體": "power transistor"
+    },
+    {
+        "前置放大器": "preamplifier"
+    },
+    {
+        "精密度": "precision"
+    },
+    {
+        "精密積分型衝擊噪音計": "precision integrating impulse sound level meter"
+    },
+    {
+        "精密噪音計": "precision sound level meter"
+    },
+    {
+        "預測誤差": "prediction error"
+    },
+    {
+        "優先噪音評估曲線": "preferred noise criteria curve{=PNC}"
+    },
+    {
+        "優先語言干擾位準": "preferred speech interference level{=PSIL}"
+    },
+    {
+        "壓力包絡持續時間": "pressure envelope duration"
+    },
+    {
+        "壓力型麥克風": "pressure microphone"
+    },
+    {
+        "壓力靈敏度": "pressure sensitivity"
+    },
+    {
+        "壓力波": "pressure wave"
+    },
+    {
+        "主坐標": "principal coordinate"
+    },
+    {
+        "疊加原理": "principle of superposition"
+    },
+    {
+        "機率密度函數": "probability density function"
+    },
+    {
+        "機率分布": "probability distribution"
+    },
+    {
+        "順向同化": "progressive assimilation"
+    },
+    {
+        "前進平面波": "progressive plane wave"
+    },
+    {
+        "傳播常數": "propagation constant"
+    },
+    {
+        "傳播損耗": "propagation loss"
+    },
+    {
+        "固有振動週期": "proper oscillation period"
+    },
+    {
+        "正比阻尼": "proportional damping"
+    },
+    {
+        "偽雜訊": "pseudo noise"
+    },
+    {
+        "心理聲學": "psychological acoustics"
+    },
+    {
+        "脈衝[波]": "pulse"
+    },
+    {
+        "脈波放大器；脈衝放大器": "pulse amplifiers"
+    },
+    {
+        "脈衝振幅": "pulse amplitude"
+    },
+    {
+        "脈波分析": "pulse analysis"
+    },
+    {
+        "脈波電路": "pulse circuits"
+    },
+    {
+        "脈衝壓縮": "pulse compression"
+    },
+    {
+        "脈衝產生器": "pulse generators"
+    },
+    {
+        "脈衝積分": "pulse integration"
+    },
+    {
+        "脈衝過衝": "pulse overshoot"
+    },
+    {
+        "脈衝上升時間": "pulse rise time"
+    },
+    {
+        "脈衝形狀": "pulse shape"
+    },
+    {
+        "脈波整形電路": "pulse shaping circuits"
+    },
+    {
+        "脈衝變壓器": "pulse transformers"
+    },
+    {
+        "脈衝欠衝": "pulse undershoot"
+    },
+    {
+        "脈寬": "pulse width"
+    },
+    {
+        "脈衝電路": "pulsed circuits"
+    },
+    {
+        "純音[調]": "pure tone"
+    },
+    {
+        "合格性檢測": "qualification test"
+    },
+    {
+        "準線性加權": "quasi-linear weight"
+    },
+    {
+        "準線性化": "quasi-linearization"
+    },
+    {
+        "準峰值檢測器": "quasi-peak detector"
+    },
+    {
+        "準穩態噪音": "quasi-steady noise"
+    },
+    {
+        "倒頻率": "quefrency"
+    },
+    {
+        "徑向距離": "radial distance"
+    },
+    {
+        "輻射係數": "radiation coefficient"
+    },
+    {
+        "輻射損耗": "radiation loss"
+    },
+    {
+        "鐵道噪音": "railway noise"
+    },
+    {
+        "鐵路噪音": "railways noise"
+    },
+    {
+        "隨機誤差": "random error"
+    },
+    {
+        "隨機噪音": "random noise"
+    },
+    {
+        "隨機過程": "random process"
+    },
+    {
+        "隨機變數": "random variable"
+    },
+    {
+        "隨機振動": "random vibration"
+    },
+    {
+        "隨機入射吸音係數": "random-incidence sound absorption coefficient"
+    },
+    {
+        "隨機入射散射係數": "random-incidence sound scattering coefficient"
+    },
+    {
+        "額定輸入功率": "rated input power"
+    },
+    {
+        "額定輸出功率": "rated power output"
+    },
+    {
+        "定額;定率;定級": "rating"
+    },
+    {
+        "瑞立阻尼": "Rayleigh damping"
+    },
+    {
+        "瑞立盤": "Rayleigh disk"
+    },
+    {
+        "瑞立散逸函數": "Rayleigh dissipation function"
+    },
+    {
+        "反應型消音器": "reactive silencer"
+    },
+    {
+        "即時分析儀": "real time analyzer"
+    },
+    {
+        "即時測量": "real-time measurement"
+    },
+    {
+        "受音室": "receiving room"
+    },
+    {
+        "接受度": "receptance"
+    },
+    {
+        "雙向同化": "reciprocal assimilation"
+    },
+    {
+        "倒易換能器": "reciprocal transducer"
+    },
+    {
+        "倒易定理": "reciprocity theorem"
+    },
+    {
+        "基準聲強; 參考音響強度": "reference sound intensity{=Iref}"
+    },
+    {
+        "基準聲功率; 參考聲功率": "reference sound power{=Wref}"
+    },
+    {
+        "基準聲壓; 參考聲壓": "reference sound pressure"
+    },
+    {
+        "反射功率": "reflected power"
+    },
+    {
+        "反射": "reflection"
+    },
+    {
+        "反射係數": "reflection coefficient"
+    },
+    {
+        "反射波": "reflection wave"
+    },
+    {
+        "反射器": "reflector"
+    },
+    {
+        "折射角": "refracted angle"
+    },
+    {
+        "折射波": "refracted wave"
+    },
+    {
+        "折射": "refraction"
+    },
+    {
+        "折射損失": "refraction loss"
+    },
+    {
+        "折射率": "refractive index"
+    },
+    {
+        "逆向同化": "regressive assimilation"
+    },
+    {
+        "重現性": "reproducibility"
+    },
+    {
+        "殘[餘]強度": "residual intensity"
+    },
+    {
+        "殘餘噪音；殘餘雜訊": "residual noise"
+    },
+    {
+        "電阻；阻力": "resistance"
+    },
+    {
+        "共振；共鳴": "resonance"
+    },
+    {
+        "共振腔": "resonance cavity"
+    },
+    {
+        "共振曲線": "resonance curve"
+    },
+    {
+        "共振頻率": "resonance frequency"
+    },
+    {
+        "共振參數": "resonance parameter"
+    },
+    {
+        "共振頻率": "resonant frequency"
+    },
+    {
+        "共鳴腔; 共振腔": "resonating cavity"
+    },
+    {
+        "共振器;共鳴器": "resonator"
+    },
+    {
+        "共鳴型消音器": "resonator muffler"
+    },
+    {
+        "呼吸系統": "respiratory system"
+    },
+    {
+        "響應": "response"
+    },
+    {
+        "響應時間": "response time"
+    },
+    {
+        "迴響聲場": "reverberant field"
+    },
+    {
+        "迴響室": "reverberant room"
+    },
+    {
+        "迴響": "reverberation"
+    },
+    {
+        "迴響時間": "reverberation time"
+    },
+    {
+        "反覆振動": "reversal vibration"
+    },
+    {
+        "節奏、韻律、規律": "rhythm"
+    },
+    {
+        "剛體": "rigid body"
+    },
+    {
+        "剛體模態": "rigid body mode"
+    },
+    {
+        "剛體振動": "rigid body vibration"
+    },
+    {
+        "上升時間": "rise time"
+    },
+    {
+        "風險因子": "risk factor"
+    },
+    {
+        "聽力障礙風險": "risk of hearing handicap"
+    },
+    {
+        "道路噪音": "road noise"
+    },
+    {
+        "道路交通噪音指標": "road traffic noise index{= TNI}"
+    },
+    {
+        "岩綿": "rock wool"
+    },
+    {
+        "搖晃振動": "rocking vibration"
+    },
+    {
+        "室內聲學": "room acoustics"
+    },
+    {
+        "室常數": "room constant"
+    },
+    {
+        "均方根": "root mean square"
+    },
+    {
+        "均方根值": "root mean square {=rms}value"
+    },
+    {
+        "轉動慣量": "rotary inertia"
+    },
+    {
+        "旋轉不平衡": "rotating unbalance"
+    },
+    {
+        "嘶啞; 粗糙度": "roughness"
+    },
+    {
+        "取樣頻率": "sampling frequency"
+    },
+    {
+        "取樣定理": "sampling theorem"
+    },
+    {
+        "飽和電流": "saturation current"
+    },
+    {
+        "飽和曲線": "saturation curve"
+    },
+    {
+        "飽和電壓": "saturation voltage"
+    },
+    {
+        "定標": "scaling"
+    },
+    {
+        "掃瞄器": "scanner"
+    },
+    {
+        "掃瞄": "scanning"
+    },
+    {
+        "散射": "scattering"
+    },
+    {
+        "散射係數": "scattering coefficient"
+    },
+    {
+        "二次諧波失真": "second harmonic distortion"
+    },
+    {
+        "二階電路": "second order circuit"
+    },
+    {
+        "次級發射": "secondary emission"
+    },
+    {
+        "副振動": "secondary undulation"
+    },
+    {
+        "二次諧波產生": "second-harmonic generation"
+    },
+    {
+        "分段; 分節": "segment"
+    },
+    {
+        "分段式訊噪比": "segmental SNR"
+    },
+    {
+        "分段": "segmentation"
+    },
+    {
+        "地震計": "seismometer"
+    },
+    {
+        "選擇性": "selectivity"
+    },
+    {
+        "自校[準]": "self-calibration"
+    },
+    {
+        "自激振動": "selfexcited vibration"
+    },
+    {
+        "自調變": "self-modulation"
+    },
+    {
+        "自振盪混合器": "self-oscillating mixer"
+    },
+    {
+        "自我復位邏輯": "self-reset logic"
+    },
+    {
+        "語意分析": "semantic analysis"
+    },
+    {
+        "語意分析法": "semantic differential method"
+    },
+    {
+        "半無響室": "semi-anechoic chamber"
+    },
+    {
+        "半無響室": "semi-anechoic room"
+    },
+    {
+        "半導體": "semiconductor"
+    },
+    {
+        "感測電路": "sense circuit"
+    },
+    {
+        "感測線圈": "sensing coil"
+    },
+    {
+        "靈敏度": "sensitivity"
+    },
+    {
+        "感測器": "sensor"
+    },
+    {
+        "感測器介面": "sensor interface"
+    },
+    {
+        "句重音": "sentence stress"
+    },
+    {
+        "串聯": "series connection"
+    },
+    {
+        "串模抑制比": "series mode rejection ratio {=SMRR}"
+    },
+    {
+        "串模電壓": "series mode voltage"
+    },
+    {
+        "聲影區": "shadow zone"
+    },
+    {
+        "搖振帶輸送機": "shaking conveyor"
+    },
+    {
+        "搖振臺": "shaking table"
+    },
+    {
+        "共振銳度": "sharpness of resonance"
+    },
+    {
+        "剪變形": "shear deformation"
+    },
+    {
+        "剪力; 切力": "shear force"
+    },
+    {
+        "剪力模數": "shear modulus"
+    },
+    {
+        "剪力波": "shear wave"
+    },
+    {
+        "剪力振動": "shearing vibration"
+    },
+    {
+        "衝擊波; [爆]震波": "shock wave"
+    },
+    {
+        "短母音": "short-vowel"
+    },
+    {
+        "分路[器];分流[器]": "shunt"
+    },
+    {
+        "訊號": "signal"
+    },
+    {
+        "訊號增刪": "signal add-drop"
+    },
+    {
+        "訊號放大": "signal amplification"
+    },
+    {
+        "訊號轉換": "signal conversion"
+    },
+    {
+        "訊號延遲": "signal delay"
+    },
+    {
+        "訊號設計": "signal design"
+    },
+    {
+        "訊號偵測": "signal detection"
+    },
+    {
+        "訊號均衡": "signal equalization"
+    },
+    {
+        "訊號產生器": "signal generator"
+    },
+    {
+        "訊號介面": "signal interfacing"
+    },
+    {
+        "訊號混合": "signal mixing"
+    },
+    {
+        "訊號監視": "signal monitoring"
+    },
+    {
+        "訊號處理": "signal processing"
+    },
+    {
+        "訊號再生": "signal regeneration"
+    },
+    {
+        "訊號表示": "signal representations"
+    },
+    {
+        "訊號解析度": "signal resolution"
+    },
+    {
+        "訊號源": "signal sources"
+    },
+    {
+        "訊號合成": "signal synthesis"
+    },
+    {
+        "訊噪比": "signal to noise ratio"
+    },
+    {
+        "訊號處理系統": "signal-processing systems"
+    },
+    {
+        "訊號記錄電報術": "signal-recording telegraphy"
+    },
+    {
+        "訊噪比": "signal-to-noise ratio"
+    },
+    {
+        "訊號至量化雜訊比": "signal-to-quantization noise ratio"
+    },
+    {
+        "消音器；消音箱": "silencer"
+    },
+    {
+        "簡諧振動": "simple harmonic vibration"
+    },
+    {
+        "簡單聲源": "simple sound source"
+    },
+    {
+        "正弦掃描": "sine sweep"
+    },
+    {
+        "正弦激振；簡諧激振": "sinusoidal excitation"
+    },
+    {
+        "正弦振動": "sinusoidal vibration"
+    },
+    {
+        "偏[斜]度": "skewness"
+    },
+    {
+        "版振動器": "slab vibrator"
+    },
+    {
+        "斜距": "slant distance"
+    },
+    {
+        "訊噪比": "SNR"
+    },
+    {
+        "軟顎": "soft palate"
+    },
+    {
+        "固載音": "solid-borne sound"
+    },
+    {
+        "聲納": "sonar"
+    },
+    {
+        "聲納陣列": "sonar array"
+    },
+    {
+        "宋{響度單位；1000Hz-40dB}": "sone"
+    },
+    {
+        "聲波晶體": "sonic crystal"
+    },
+    {
+        "超音波測腦儀": "sono-encephalograph"
+    },
+    {
+        "聲譜圖": "sonogram"
+    },
+    {
+        "響音；響音性": "sonorant"
+    },
+    {
+        "嚮亮度": "sonority"
+    },
+    {
+        "聲音": "sound"
+    },
+    {
+        "消音室": "sound absorbent chamber"
+    },
+    {
+        "吸音能力": "sound absorbent power"
+    },
+    {
+        "吸音": "sound absorption"
+    },
+    {
+        "吸音係數": "sound absorption coefficient"
+    },
+    {
+        "聲音分析器": "sound analyzer"
+    },
+    {
+        "聲衰減": "sound attenuation"
+    },
+    {
+        "音障": "sound barrier"
+    },
+    {
+        "聲橋": "sound bridge"
+    },
+    {
+        "聲音校正器": "sound calibrator"
+    },
+    {
+        "聲能密度": "sound energy density"
+    },
+    {
+        "聲音暴露位準": "sound exposure level"
+    },
+    {
+        "聲場": "sound field"
+    },
+    {
+        "聲場式麥克風": "sound field microphone"
+    },
+    {
+        "聲焦點": "sound foucs"
+    },
+    {
+        "音頻訊號產生器": "sound frequency signal generator"
+    },
+    {
+        "聲像": "sound image"
+    },
+    {
+        "隔音": "sound insulation"
+    },
+    {
+        "聲強": "sound intensity"
+    },
+    {
+        "聲強分析儀": "sound intensity analyzer"
+    },
+    {
+        "聲強位準": "sound intensity level"
+    },
+    {
+        "聲音位準": "sound level"
+    },
+    {
+        "聲度表；噪音計；聲音位準計": "sound level meter"
+    },
+    {
+        "聲音位準記錄儀": "sound level recorder"
+    },
+    {
+        "聲音位準頻譜": "sound level spectrum"
+    },
+    {
+        "聲鎖": "sound lock"
+    },
+    {
+        "聲質點位移": "sound particle displacement"
+    },
+    {
+        "聲質點速度": "sound particle velocity"
+    },
+    {
+        "聲功率": "sound power"
+    },
+    {
+        "聲功率位準": "sound power level"
+    },
+    {
+        "聲壓": "sound pressure"
+    },
+    {
+        "聲壓位準": "sound pressure level"
+    },
+    {
+        "聲傳播係數": "sound propagation coefficient"
+    },
+    {
+        "聲射線": "sound ray"
+    },
+    {
+        "聲音降低指數": "sound reduction index"
+    },
+    {
+        "聲音散射係數": "sound scattering coefficient"
+    },
+    {
+        "聲音靈敏度": "sound sensitivity"
+    },
+    {
+        "聲影區": "sound shadow region"
+    },
+    {
+        "聲源": "sound source"
+    },
+    {
+        "聲譜儀": "sound spectrograph"
+    },
+    {
+        "聲譜": "sound spectrum"
+    },
+    {
+        "聲音合成器": "sound synthesizer"
+    },
+    {
+        "聲音傳遞等級": "sound transmission class"
+    },
+    {
+        "隔音等級": "sound transmission class｛=STC｝"
+    },
+    {
+        "聲音透過損失": "sound transmission loss"
+    },
+    {
+        "陷聲器": "sound trap"
+    },
+    {
+        "音響管": "sound tube"
+    },
+    {
+        "音速; 聲速": "sound velocity"
+    },
+    {
+        "聲波": "sound wave"
+    },
+    {
+        "音響電路": "sounder circuit"
+    },
+    {
+        "防音門": "soundproof door"
+    },
+    {
+        "防音室": "soundproof room"
+    },
+    {
+        "防音牆；隔音牆": "soundproof wall"
+    },
+    {
+        "聲源室": "source room"
+    },
+    {
+        "空間頻率": "space frequency"
+    },
+    {
+        "寬廣度": "spatial impression"
+    },
+    {
+        "空間響應性": "spatial responsiveness"
+    },
+    {
+        "揚聲器": "speaker"
+    },
+    {
+        "比熱": "specific heat"
+    },
+    {
+        "特定噪音": "specific noise"
+    },
+    {
+        "頻譜分析": "spectral analysis"
+    },
+    {
+        "頻譜分析器": "spectral analyzer"
+    },
+    {
+        "頻譜衰減": "spectral attenuation"
+    },
+    {
+        "頻譜失真": "spectral distortion"
+    },
+    {
+        "頻譜域分析": "spectral domain analysis"
+    },
+    {
+        "頻譜域干涉術": "spectral domain interferometry"
+    },
+    {
+        "頻譜效率": "spectral efficiency"
+    },
+    {
+        "頻譜編碼": "spectral encoding"
+    },
+    {
+        "頻譜濾波": "spectral filtering"
+    },
+    {
+        "頻譜線寬": "spectral linewidth"
+    },
+    {
+        "頻譜量測": "spectral measurement"
+    },
+    {
+        "聲譜圖": "spectrogram"
+    },
+    {
+        "頻譜": "spectrum"
+    },
+    {
+        "頻譜分析": "spectrum analysis"
+    },
+    {
+        "頻譜分析儀": "spectrum analyzer"
+    },
+    {
+        "語音分析": "speech analysis"
+    },
+    {
+        "語音聽力檢查術": "speech audiometry"
+    },
+    {
+        "蕉形圖": "speech banana"
+    },
+    {
+        "語音解碼器": "speech codec"
+    },
+    {
+        "語音編碼": "speech coding"
+    },
+    {
+        "語音通訊": "speech communication"
+    },
+    {
+        "語音資料庫": "speech corpus"
+    },
+    {
+        "語言障礙": "speech disorder"
+    },
+    {
+        "語音增強": "speech enhancement"
+    },
+    {
+        "語音封包": "speech envelope"
+    },
+    {
+        "語音特徵": "speech feature"
+    },
+    {
+        "語言干擾位準": "speech interference level {=SIL}"
+    },
+    {
+        "聲音遮蔽": "speech masking"
+    },
+    {
+        "語音模型": "speech model"
+    },
+    {
+        "語音處理": "speech processing"
+    },
+    {
+        "語音產生": "speech production"
+    },
+    {
+        "語音聽取閾限值檢查": "speech reception threshold testing"
+    },
+    {
+        "語音辨識": "speech recognition"
+    },
+    {
+        "語音再合成": "speech resynthesis"
+    },
+    {
+        "語音科學": "speech science"
+    },
+    {
+        "語音訊號處理": "speech signal processing"
+    },
+    {
+        "語音": "speech sound"
+    },
+    {
+        "語音合成": "speech synthesis"
+    },
+    {
+        "語音傳輸": "speech transmission"
+    },
+    {
+        "語音傳輸指數": "speech transmission index {=STI}"
+    },
+    {
+        "語音單位": "speech unit"
+    },
+    {
+        "球面波": "spherical wave"
+    },
+    {
+        "螺旋神經節": "spiral ganglion"
+    },
+    {
+        "分隔板": "splitter"
+    },
+    {
+        "彈性常數": "spring constant"
+    },
+    {
+        "彈簧勁度": "spring stiffness"
+    },
+    {
+        "寄生調變；寄生調制": "spurious modulation"
+    },
+    {
+        "方波": "square wave"
+    },
+    {
+        "穩性；穩度": "stability"
+    },
+    {
+        "標準耳機": "standard earphone"
+    },
+    {
+        "標準麥克風": "standard microphone"
+    },
+    {
+        "標準電阻[器]": "standard resistor"
+    },
+    {
+        "標準輕量衝擊源": "standard tapping machine"
+    },
+    {
+        "標準閾值偏移": "standard threshold shift {=STS}"
+    },
+    {
+        "標準化": "standardization"
+    },
+    {
+        "標準化衝擊聲壓位準": "standardized impact sound pressure level"
+    },
+    {
+        "標準化位準差": "standardized level difference"
+    },
+    {
+        "駐波": "standing wave"
+    },
+    {
+        "駐波管": "standing wave tube"
+    },
+    {
+        "開始訊號": "starting signal"
+    },
+    {
+        "靜態耦合": "static coupling"
+    },
+    {
+        "穩態雜訊; 穩態噪音": "stationary noise"
+    },
+    {
+        "平穩隨機過程": "stationary random process"
+    },
+    {
+        "定波": "stationary wave"
+    },
+    {
+        "噪音分布值": "statistical index {=Lx}"
+    },
+    {
+        "穩定噪音": "steady noise"
+    },
+    {
+        "穩[定]態": "steady state"
+    },
+    {
+        "穩態響應": "steady state response"
+    },
+    {
+        "穩[定]態振動": "steady state vibration"
+    },
+    {
+        "穩態響應": "steady-state response"
+    },
+    {
+        "立體聲系統": "stereophonic system"
+    },
+    {
+        "勁度": "stiffness"
+    },
+    {
+        "勁度矩陣": "stiffness matrix"
+    },
+    {
+        "刺激閾限": "stimulus threshold"
+    },
+    {
+        "結構阻尼": "structural damping"
+    },
+    {
+        "結構阻尼係數": "structural damping coefficient"
+    },
+    {
+        "結構阻尼因子": "structural damping factor"
+    },
+    {
+        "結構傳音": "structure borne sound"
+    },
+    {
+        "結構噪音傳輸": "structure noise transmission"
+    },
+    {
+        "次諧波": "subharmonic"
+    },
+    {
+        "次諧波時鐘恢復": "subharmonic clock recovery"
+    },
+    {
+        "次諧波混合器": "subharmonic mixer"
+    },
+    {
+        "次諧波鎖模": "subharmonic mode-locking"
+    },
+    {
+        "次諧波光注入": "subharmonic optical injection"
+    },
+    {
+        "主觀法": "subjective method"
+    },
+    {
+        "主觀尺度": "subjective scale"
+    },
+    {
+        "替代誤差": "substitution error"
+    },
+    {
+        "替代定理": "substitution theorem"
+    },
+    {
+        "聲音相減曲線": "subtraction curve"
+    },
+    {
+        "超高音喇叭; 超高音揚聲器": "super tweeter"
+    },
+    {
+        "疊加定理;重疊定理": "superposition theorem"
+    },
+    {
+        "表面聲波": "surface acoustic wave"
+    },
+    {
+        "表面聲波相關器": "surface acoustic wave correlator"
+    },
+    {
+        "表面聲波耦合器": "surface acoustic wave coupler"
+    },
+    {
+        "表面聲波元件": "surface acoustic wave device"
+    },
+    {
+        "表面聲波方向耦合器": "surface acoustic wave directional coupler"
+    },
+    {
+        "表面聲波濾波器": "surface acoustic wave filter"
+    },
+    {
+        "表面聲波調變器": "surface acoustic wave modulator"
+    },
+    {
+        "表面聲波振盪器": "surface acoustic wave oscillator"
+    },
+    {
+        "表面聲波感測器": "surface acoustic wave sensor"
+    },
+    {
+        "表面聲波訊號處理": "surface acoustic wave signal processing"
+    },
+    {
+        "表面聲波換能器": "surface acoustic wave transducer"
+    },
+    {
+        "表面聲波波導": "surface acoustic wave waveguide"
+    },
+    {
+        "表面載子產生": "surface carrier generation"
+    },
+    {
+        "面重量": "surface weight"
+    },
+    {
+        "掃頻振動": "sweep frequency vibration"
+    },
+    {
+        "掃描率": "sweep rate"
+    },
+    {
+        "掃頻正弦波": "sweeping sinusoidal wave"
+    },
+    {
+        "擺動麥克風; 擺動微音器": "swinging microphone"
+    },
+    {
+        "切換電路": "switching circuit"
+    },
+    {
+        "音節": "syllable"
+    },
+    {
+        "同步化": "synchronization"
+    },
+    {
+        "同步訊號": "synchronizing signal"
+    },
+    {
+        "同步偵測": "synchronous detection"
+    },
+    {
+        "同步調變": "synchronous modulation"
+    },
+    {
+        "同步光纖網路": "Synchronous Optical Networking{=SONET}"
+    },
+    {
+        "合成音": "synthesis sound"
+    },
+    {
+        "合成技術": "synthesis technique"
+    },
+    {
+        "合成語音": "synthesized speech"
+    },
+    {
+        "合成器": "synthesizer"
+    },
+    {
+        "儲能電路": "tank circuit"
+    },
+    {
+        "讀帶機": "tape reader"
+    },
+    {
+        "磁帶機": "tape unit"
+    },
+    {
+        "輕量衝擊源": "tapping machine"
+    },
+    {
+        "電信": "telecommunication"
+    },
+    {
+        "受話器": "telephone receiver"
+    },
+    {
+        "電話鈴": "telephone ringer"
+    },
+    {
+        "傳話器": "telephone transmitter"
+    },
+    {
+        "電話學": "telephony"
+    },
+    {
+        "溫度係數": "temperature coefficient"
+    },
+    {
+        "溫度補償": "temperature compensation"
+    },
+    {
+        "溫度控制": "temperature control"
+    },
+    {
+        "溫度梯度": "temperature gradient"
+    },
+    {
+        "逆溫[層]": "temperature inversion"
+    },
+    {
+        "溫度記錄器": "temperature recorder"
+    },
+    {
+        "節奏": "tempo"
+    },
+    {
+        "暫時性聽力損失": "temporary threshold shift {=TTS}"
+    },
+    {
+        "緊音性；時態": "tense"
+    },
+    {
+        "接頭；終端": "terminal"
+    },
+    {
+        "終端變數": "terminal variable"
+    },
+    {
+        "試驗訊號": "test signal"
+    },
+    {
+        "試體": "test specimen"
+    },
+    {
+        "試音偏差": "test tone deviation"
+    },
+    {
+        "試音峰值偏差": "test tone peak deviation"
+    },
+    {
+        "熱容量": "thermal capacity"
+    },
+    {
+        "熱傳導": "thermal conductance"
+    },
+    {
+        "導熱度量測": "thermal conductivity measurement"
+    },
+    {
+        "熱膨脹": "thermal expansion"
+    },
+    {
+        "底限;閾值": "threshold"
+    },
+    {
+        "聽閾": "threshold of audibility"
+    },
+    {
+        "感覺閾值": "threshold of feeling"
+    },
+    {
+        "聽力閾值": "threshold of hearing"
+    },
+    {
+        "疼痛閾值": "threshold of pain"
+    },
+    {
+        "音色": "timbre"
+    },
+    {
+        "時間常數": "time constant"
+    },
+    {
+        "時間延遲": "time delay"
+    },
+    {
+        "時間響應": "time response"
+    },
+    {
+        "時序": "time series"
+    },
+    {
+        "時量平均": "time weighted average {=TWA}"
+    },
+    {
+        "時間加權": "time weighting"
+    },
+    {
+        "時間窗": "time window"
+    },
+    {
+        "逆時分析": "time-reverse analysis"
+    },
+    {
+        "定時擷取": "timing extraction"
+    },
+    {
+        "耳鳴": "tinnitus"
+    },
+    {
+        "音調語言": "tonal language"
+    },
+    {
+        "音調噪音": "tonal noise"
+    },
+    {
+        "調性": "tonality"
+    },
+    {
+        "音調；色調": "tone"
+    },
+    {
+        "變調": "tone sandhi"
+    },
+    {
+        "轉矩;力矩": "torque"
+    },
+    {
+        "扭轉勁度": "torsional stiffness"
+    },
+    {
+        "扭[轉]振動": "torsional vibration"
+    },
+    {
+        "總諧波失真": "total harmonic distortion"
+    },
+    {
+        "總阻抗": "total impedance"
+    },
+    {
+        "總噪音暴露位準": "total noise exposure level {=TNEL}"
+    },
+    {
+        "追蹤濾波器": "tracking filter"
+    },
+    {
+        "交通噪音": "traffic noise"
+    },
+    {
+        "交通噪音指標": "traffic noise index {=TNI}"
+    },
+    {
+        "換能器": "transducer"
+    },
+    {
+        "轉移函數;傳遞函數": "transfer function"
+    },
+    {
+        "傳遞阻抗;轉移阻抗": "transfer impedance"
+    },
+    {
+        "轉移指令": "transfer instruction"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "暫態分析": "transient analysis"
+    },
+    {
+        "暫態誤差": "transient error"
+    },
+    {
+        "過渡期間；暫態期": "transient period"
+    },
+    {
+        "暫態響應": "transient response"
+    },
+    {
+        "跨阻抗": "transimpedance"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "通行時間；過渡時間": "transit time"
+    },
+    {
+        "傳遞比": "transmissibility"
+    },
+    {
+        "穿透係數": "transmission coefficient"
+    },
+    {
+        "傳輸鏈": "transmission link"
+    },
+    {
+        "透過損失": "transmission loss"
+    },
+    {
+        "傳輸系統": "transmission systems"
+    },
+    {
+        "穿透率": "transmittance"
+    },
+    {
+        "發送機； 發報機；發話機": "transmitter"
+    },
+    {
+        "橫向振動": "transversal vibration"
+    },
+    {
+        "橫向振動": "transverse vibration"
+    },
+    {
+        "橫波": "transverse wave"
+    },
+    {
+        "可調濾波器": "tunable filter"
+    },
+    {
+        "調適曲線": "tunig curve"
+    },
+    {
+        "調音; 調律": "tuning"
+    },
+    {
+        "音叉": "tuning fork"
+    },
+    {
+        "調適標準": "tuning standard"
+    },
+    {
+        "高音喇叭; 高音揚聲器": "tweeter"
+    },
+    {
+        "超音波結合": "ultrasonic bonding"
+    },
+    {
+        "超音波都普勒檢測系統": "ultrasonic Doppler method testing system"
+    },
+    {
+        "超聲頻[率]": "ultrasonic frequency"
+    },
+    {
+        "超聲轉換器": "ultrasonic transducer"
+    },
+    {
+        "超音波": "ultrasonic wave"
+    },
+    {
+        "超音學；超聲學": "ultrasonics"
+    },
+    {
+        "超音波": "ultrasound"
+    },
+    {
+        "無阻尼強迫振動": "undamped forced vibration"
+    },
+    {
+        "無阻尼自由振動": "undamped free vibration"
+    },
+    {
+        "無阻尼振動": "undamped vibration"
+    },
+    {
+        "次阻尼振動": "underdamped vibration"
+    },
+    {
+        "水中聲學": "underwater acoustics"
+    },
+    {
+        "水下聲波換能器": "underwater sound transducer"
+    },
+    {
+        "不利偏差": "unfavorable deviation"
+    },
+    {
+        "單位脈衝函數": "unit impulse function"
+    },
+    {
+        "單位步階函數": "unit step function"
+    },
+    {
+        "不穩定振動": "unstable vibration"
+    },
+    {
+        "視訊電話": "vedio telephone"
+    },
+    {
+        "速度梯度": "velocity gradient"
+    },
+    {
+        "速度向量": "velocity vector"
+    },
+    {
+        "軟顎": "velum"
+    },
+    {
+        "振動": "vibration"
+    },
+    {
+        "振動吸收": "vibration absorption"
+    },
+    {
+        "振動加速位準": "vibration acceleration level"
+    },
+    {
+        "振動加速規": "vibration acceleration meter"
+    },
+    {
+        "隔振": "vibration isolation"
+    },
+    {
+        "隔振器": "vibration isolator"
+    },
+    {
+        "桿振動": "vibration of bar"
+    },
+    {
+        "基礎振動": "vibration of foundation"
+    },
+    {
+        "殼振動": "vibration of shell"
+    },
+    {
+        "振動撿取器": "vibration pickup"
+    },
+    {
+        "振動譜": "vibration spectrum"
+    },
+    {
+        "振動台": "vibration table"
+    },
+    {
+        "振動傳播": "vibration transmission"
+    },
+    {
+        "振動速度": "vibration velocity"
+    },
+    {
+        "振動速度位準": "vibration velocity level"
+    },
+    {
+        "振動速度計": "vibration velocity meter"
+    },
+    {
+        "振動分析": "vibrational analysis"
+    },
+    {
+        "振動能": "vibrational energy"
+    },
+    {
+        "振動能位準": "vibrational energy level"
+    },
+    {
+        "振動鬆弛": "vibrational relaxation"
+    },
+    {
+        "振動計": "vibrometer"
+    },
+    {
+        "黏彈性材料": "viscoelastic material"
+    },
+    {
+        "黏滯阻尼": "viscous damping"
+    },
+    {
+        "黏滯阻尼係數": "viscous damping coefficient"
+    },
+    {
+        "黏滯阻尼比": "viscous damping ratio"
+    },
+    {
+        "聲帶": "vocal cords"
+    },
+    {
+        "語音編碼器": "voice coder"
+    },
+    {
+        "聲音障礙": "voice disorder"
+    },
+    {
+        "發聲起始時間": "voice onset time {=VOT}"
+    },
+    {
+        "聲紋": "voice print"
+    },
+    {
+        "聲源": "voice source"
+    },
+    {
+        "聲音停頓": "voice stoppage"
+    },
+    {
+        "音頻多路系統": "voice-frequency-multichannel system"
+    },
+    {
+        "音頻多路電報術": "voice-frequency-multichannel telegraphy"
+    },
+    {
+        "電壓": "voltage"
+    },
+    {
+        "電壓放大器": "voltage amplifier"
+    },
+    {
+        "分壓器": "voltage divider"
+    },
+    {
+        "電壓增益": "voltage gain"
+    },
+    {
+        "電壓調節器": "voltage regulator"
+    },
+    {
+        "電壓響應": "voltage response"
+    },
+    {
+        "伏特計；電壓計": "voltmeter"
+    },
+    {
+        "體積；容積；音量": "volume"
+    },
+    {
+        "音量單位；體積單位": "volume units"
+    },
+    {
+        "母音": "vowel"
+    },
+    {
+        "瓦特計": "Watt meter"
+    },
+    {
+        "波動方程[式]": "wave equation"
+    },
+    {
+        "波形": "wave form"
+    },
+    {
+        "波前": "wave front"
+    },
+    {
+        "波產生器": "wave generator"
+    },
+    {
+        "波干涉": "wave interference"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "波數": "wave number"
+    },
+    {
+        "波譜分析": "wave spectra analysis"
+    },
+    {
+        "波譜分析儀": "wave spectra analyzer"
+    },
+    {
+        "波形": "waveform"
+    },
+    {
+        "波長": "wavelength"
+    },
+    {
+        "波整型合成": "wave-shaping synthesis"
+    },
+    {
+        "弱耦合": "weak coupling"
+    },
+    {
+        "楔結合": "wedge bonding"
+    },
+    {
+        "加權雜訊": "weighted noise"
+    },
+    {
+        "加權聲壓位準": "weighted sound pressure level"
+    },
+    {
+        "加權網路": "weighting network"
+    },
+    {
+        "白[色]噪音": "white noise"
+    },
+    {
+        "寬帶軸": "wide-band axis"
+    },
+    {
+        "寬帶射頻帶": "wide-band RF channel"
+    },
+    {
+        "寬帶訊號": "wide-band signal"
+    },
+    {
+        "寬頻聲譜圖": "wide-band spectrogram"
+    },
+    {
+        "寬頻語音": "wide-band speech"
+    },
+    {
+        "寬帶控制": "width control"
+    },
+    {
+        "防風罩；防風球": "windscreen"
+    },
+    {
+        "楊氏係數": "Young's modulus"
+    },
+    {
+        "Z轉換": "Z transform"
+    },
+    {
+        "季曼效應": "Zeeman effect"
+    },
+    {
+        "季納崩潰": "Zener breakdown"
+    },
+    {
+        "零差系統": "zero error system"
+    },
+    {
+        "零基準": "zero reference"
+    },
+    {
+        "過零率": "zero-crossing rate"
+    }
+]

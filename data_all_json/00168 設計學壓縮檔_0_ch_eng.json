@@ -1,0 +1,4286 @@
+[
+    {
+        "1次以上接觸率": "1+reach"
+    },
+    {
+        "二維動畫": "2D animation"
+    },
+    {
+        "三維動畫": "3D animation"
+    },
+    {
+        "6-3-5方法": "6-3-5 method"
+    },
+    {
+        "80/20法則": "80/20 Rule"
+    },
+    {
+        "抽象造形": "abstract form"
+    },
+    {
+        "抽象形狀": "abstract shape"
+    },
+    {
+        "抽象": "abstraction"
+    },
+    {
+        "重點色彩": "accent color"
+    },
+    {
+        "親和性；易接近；可觸及性": "accessibility"
+    },
+    {
+        "折疊夾頁 {平面設計}": "accordion insert"
+    },
+    {
+        "業務代表": "account executive {=AE}"
+    },
+    {
+        "聲學模型": "acoustic model"
+    },
+    {
+        "行動；開拍": "action"
+    },
+    {
+        "動作遊戲": "action game"
+    },
+    {
+        "行動模式": "action mode"
+    },
+    {
+        "行動計劃": "action planning"
+    },
+    {
+        "行動程序": "action process"
+    },
+    {
+        "行動研究": "action research"
+    },
+    {
+        "行動理論": "action theory"
+    },
+    {
+        "動作轉場": "action-to-action transition"
+    },
+    {
+        "促動式廣告": "activation advertising"
+    },
+    {
+        "實線": "actual lines"
+    },
+    {
+        "具體化；實現": "actualization"
+    },
+    {
+        "具體化行動": "actualization action"
+    },
+    {
+        "廣告頁曝光": "ad page exposure {=APX}"
+    },
+    {
+        "適應策略；調適策略": "adaptive strategy"
+    },
+    {
+        "附加價值": "added value"
+    },
+    {
+        "加法雕塑": "additive sculpture"
+    },
+    {
+        "加成價值函數": "additive value function"
+    },
+    {
+        "廣告印象累積": "adstock"
+    },
+    {
+        "冒險遊戲": "adventure game"
+    },
+    {
+        "廣告": "advertisement"
+    },
+    {
+        "廣告代理商": "advertising agency"
+    },
+    {
+        "廣告活動": "advertising campaign"
+    },
+    {
+        "廣告干擾": "advertising clutter"
+    },
+    {
+        "廣告設計": "advertising design"
+    },
+    {
+        "廣告公司": "advertising firm"
+    },
+    {
+        "廣告策略": "advertising strategy"
+    },
+    {
+        "美學機能": "aesthetic function"
+    },
+    {
+        "美學": "aesthetics"
+    },
+    {
+        "美即好用效應": "aesthetic-usability effect"
+    },
+    {
+        "親和圖": "affinity diagram"
+    },
+    {
+        "後像；殘像": "after image"
+    },
+    {
+        "輔助回憶": "aided recall"
+    },
+    {
+        "演算方法": "algorithmic method"
+    },
+    {
+        "對齊；調整": "alignment"
+    },
+    {
+        "替選階段": "alternative stage"
+    },
+    {
+        "替選解決方案；替選解答": "alternative solution"
+    },
+    {
+        "替選方案；其他選項": "alternatives"
+    },
+    {
+        "擴大透視法": "amplified perspective"
+    },
+    {
+        "類似色；相似色；類比色": "analogous color"
+    },
+    {
+        "類比式問題": "analogous problem"
+    },
+    {
+        "類比模型": "analogue model"
+    },
+    {
+        "類比；類比法": "analogy"
+    },
+    {
+        "分析": "analysis"
+    },
+    {
+        "輔助角色": "ancillary character"
+    },
+    {
+        "取鏡角度": "angle of framing"
+    },
+    {
+        "動畫": "animation"
+    },
+    {
+        "人體計測學": "anthropometry"
+    },
+    {
+        "應用程式": "App"
+    },
+    {
+        "外觀；外貌；表象": "appearance"
+    },
+    {
+        "應用藝術": "applied arts"
+    },
+    {
+        "原型；原形": "archetype"
+    },
+    {
+        "建築設計": "architectural design"
+    },
+    {
+        "建築": "architecture"
+    },
+    {
+        "藝術；藝術作品": "art"
+    },
+    {
+        "藝術指導；藝術導演；藝術總監": "art director"
+    },
+    {
+        "器物分析；文物分析": "artifact analysis"
+    },
+    {
+        "人工智慧；人工智能": "artificial intelligence {=AI}"
+    },
+    {
+        "旁白": "aside"
+    },
+    {
+        "組裝圖；組合圖": "assembly diagram"
+    },
+    {
+        "裝配時間": "assembly time"
+    },
+    {
+        "助理創意總監": "assistant creative director {=ACD}"
+    },
+    {
+        "聯想方法": "association method"
+    },
+    {
+        "聯想理論": "association theory"
+    },
+    {
+        "非對稱平衡": "asymmetric balance"
+    },
+    {
+        "非對稱互補": "asymmetrical complementarity"
+    },
+    {
+        "大氣透視法；空氣透視法": "atmospheric perspective"
+    },
+    {
+        "吸引力": "attractiveness"
+    },
+    {
+        "屬性表": "attribute list"
+    },
+    {
+        "屬性類比": "attributive analogy"
+    },
+    {
+        "觀眾；閱聽眾": "audience"
+    },
+    {
+        "閱聽眾累計": "audience accumulation"
+    },
+    {
+        "閱聽眾組成": "audience composition"
+    },
+    {
+        "閱聽眾流量": "audience flow"
+    },
+    {
+        "閱聽分眾": "audience fragmentation"
+    },
+    {
+        "音響；聲音": "audio"
+    },
+    {
+        "視聽覺": "audiovisual"
+    },
+    {
+        "擴增實境": "augmented reality"
+    },
+    {
+        "授權": "authority"
+    },
+    {
+        "自動最佳化": "automatic optimization"
+    },
+    {
+        "前衛；前衛風格": "avant garde"
+    },
+    {
+        "化身": "avatar"
+    },
+    {
+        "背景": "background"
+    },
+    {
+        "背景故事": "backstory"
+    },
+    {
+        "平衡": "balance"
+    },
+    {
+        "頻帶；樂隊": "band"
+    },
+    {
+        "頻寬；帶寬": "bandwidth"
+    },
+    {
+        "橫幅{網路廣告}": "banner"
+    },
+    {
+        "條碼": "bar code"
+    },
+    {
+        "基本概念": "basic concept"
+    },
+    {
+        "批次": "batch"
+    },
+    {
+        "行為": "behavior"
+    },
+    {
+        "行為識別": "behavior Identity {=BI}"
+    },
+    {
+        "行為模型；行為模式": "behavior model"
+    },
+    {
+        "行為對映": "behavioral mapping"
+    },
+    {
+        "行為科學": "behavioral science"
+    },
+    {
+        "標竿": "benchmark"
+    },
+    {
+        "設立標竿": "benchmarking"
+    },
+    {
+        "效益區隔": "benefit segmentation"
+    },
+    {
+        "海報板；看板；告示牌": "billboard"
+    },
+    {
+        "裝釘；裝釘設計": "binding"
+    },
+    {
+        "暗箱；黑箱": "black box"
+    },
+    {
+        "出血": "bleed"
+    },
+    {
+        "盲測": "blind test"
+    },
+    {
+        "泡罩包裝": "blister packaging"
+    },
+    {
+        "框圖；方塊圖": "block diagram"
+    },
+    {
+        "身體動作": "body movement"
+    },
+    {
+        "親身體驗法": "bodystorming"
+    },
+    {
+        "書籍設計；裝幀設計": "book design"
+    },
+    {
+        "布林代數": "Boolean algebra"
+    },
+    {
+        "邊框": "border"
+    },
+    {
+        "瓶頸": "bottleneck"
+    },
+    {
+        "由下而上": "bottom-up"
+    },
+    {
+        "邊界": "boundary"
+    },
+    {
+        "邊界條件": "boundary condition"
+    },
+    {
+        "邊界搜尋": "boundary searching"
+    },
+    {
+        "盒子；箱子": "box"
+    },
+    {
+        "腦力激盪組織圖": "brainstorm graphic organizer"
+    },
+    {
+        "腦力激盪": "brainstorming"
+    },
+    {
+        "分支策略": "branching strategy"
+    },
+    {
+        "品牌": "brand"
+    },
+    {
+        "品牌知名度": "brand awareness"
+    },
+    {
+        "品牌標準色": "brand color"
+    },
+    {
+        "品牌發展指數": "brand development index {=BDI}"
+    },
+    {
+        "品牌資產": "brand equity"
+    },
+    {
+        "品牌要素": "brand essence"
+    },
+    {
+        "品牌要素看板": "brand essence board"
+    },
+    {
+        "品牌延伸": "brand extension"
+    },
+    {
+        "品牌識別": "brand identity"
+    },
+    {
+        "品牌意象；品牌形象": "brand image"
+    },
+    {
+        "品牌忠誠度": "brand loyalty"
+    },
+    {
+        "品牌管理": "brand management"
+    },
+    {
+        "品牌標誌": "brand mark"
+    },
+    {
+        "品牌名": "brand name"
+    },
+    {
+        "品牌承諾": "brand promise"
+    },
+    {
+        "品牌重新定位": "brand repositioning"
+    },
+    {
+        "品牌符號": "brand symbol"
+    },
+    {
+        "品牌信任；品牌信賴": "brand trust"
+    },
+    {
+        "品牌烙印": "branding iron"
+    },
+    {
+        "簡報": "briefing"
+    },
+    {
+        "明度{物件}；亮度{燈光}": "brightness"
+    },
+    {
+        "廣播": "broadcast"
+    },
+    {
+        "廣播時程表": "broadcast calendar"
+    },
+    {
+        "廣播網": "broadcast network"
+    },
+    {
+        "播送": "broadcasting"
+    },
+    {
+        "寬邊": "broadside"
+    },
+    {
+        "手冊": "brochure"
+    },
+    {
+        "預算": "budget"
+    },
+    {
+        "內建": "build-in"
+    },
+    {
+        "商業模式": "business model"
+    },
+    {
+        "商業策略": "business strategy"
+    },
+    {
+        "按鈕廣告": "button ads"
+    },
+    {
+        "繕寫線條；書法線條": "calligraphic line"
+    },
+    {
+        "照相機": "camera"
+    },
+    {
+        "完稿": "camera ready"
+    },
+    {
+        "罐頭；罐裝": "can"
+    },
+    {
+        "大寫字母；柱頭{建築}": "capital"
+    },
+    {
+        "大寫字母": "caps"
+    },
+    {
+        "圖表說明；標題；字幕": "caption"
+    },
+    {
+        "奪旗賽；奪旗遊戲": "capture the flag {=CTF}"
+    },
+    {
+        "車廂看板{廣告}": "car card"
+    },
+    {
+        "明信片組；紙牌{廣告}": "card pack"
+    },
+    {
+        "卡片分類法": "card sorting"
+    },
+    {
+        "紙板": "cardboard"
+    },
+    {
+        "卡通": "cartoon"
+    },
+    {
+        "雕刻；雕刻品": "carving"
+    },
+    {
+        "投射陰影": "cast shadow"
+    },
+    {
+        "編錄法": "catalogue method"
+    },
+    {
+        "類型形式；範疇形式": "categorical form"
+    },
+    {
+        "類別特性": "category characteristics"
+    },
+    {
+        "類別趨勢": "category trend"
+    },
+    {
+        "因果理論": "causal theory"
+    },
+    {
+        "因果關係": "causality"
+    },
+    {
+        "因果": "cause and effect"
+    },
+    {
+        "因果分析": "cause and effect analysis"
+    },
+    {
+        "中間跨頁": "center spread"
+    },
+    {
+        "頻道；管道；通道": "channel"
+    },
+    {
+        "頻道規劃": "channel planning"
+    },
+    {
+        "混沌理論": "chaos theory"
+    },
+    {
+        "字符；角色；角色性格": "character"
+    },
+    {
+        "角色設計": "character design"
+    },
+    {
+        "字符網格": "character grid"
+    },
+    {
+        "特徵質感；特徵紋理": "characteristic texture"
+    },
+    {
+        "檢核表": "checklist"
+    },
+    {
+        "刨花板；塑合板；硬紙板": "chipboard"
+    },
+    {
+        "彩度": "chroma"
+    },
+    {
+        "灰彩度": "chromatic gray"
+    },
+    {
+        "灰彩尺度": "chromatic gray scale"
+    },
+    {
+        "色度；染色性": "chromaticity"
+    },
+    {
+        "色度圖": "chromaticity diagram"
+    },
+    {
+        "時序；年表；年代學": "chronology"
+    },
+    {
+        "劇情動畫": "cinematics"
+    },
+    {
+        "傳單；通報": "circular"
+    },
+    {
+        "循環經濟": "circular economy"
+    },
+    {
+        "循環性": "circularity"
+    },
+    {
+        "發行量": "circulation"
+    },
+    {
+        "分類廣告": "classified advertising"
+    },
+    {
+        "點擊": "click"
+    },
+    {
+        "點擊率": "click rate"
+    },
+    {
+        "點閱率": "click through rate {=CTR}"
+    },
+    {
+        "特寫；近景": "close up"
+    },
+    {
+        "封閉": "closure"
+    },
+    {
+        "群集化；叢集化": "clustering"
+    },
+    {
+        "符碼": "code"
+    },
+    {
+        "編碼": "coding"
+    },
+    {
+        "認知": "cognition"
+    },
+    {
+        "認知失調": "cognitive dissonance"
+    },
+    {
+        "黏著強度": "cohesive strength"
+    },
+    {
+        "協同設計": "collaborate design"
+    },
+    {
+        "協同設計": "collaborative design"
+    },
+    {
+        "拼貼": "collage"
+    },
+    {
+        "輔助宣傳素材；附屬素材": "collateral material"
+    },
+    {
+        "色彩關聯": "color associations"
+    },
+    {
+        "色表": "color chart"
+    },
+    {
+        "色彩對比": "color contrast"
+    },
+    {
+        "色彩修正；色彩校正": "color correction"
+    },
+    {
+        "色彩濾鏡；分色用濾色法": "color filter"
+    },
+    {
+        "色彩預測": "color forecasting"
+    },
+    {
+        "色彩調合": "color harmony"
+    },
+    {
+        "色彩飽和度；色彩濃度": "color intensity"
+    },
+    {
+        "色彩管理": "color management"
+    },
+    {
+        "色彩行銷": "color marketing"
+    },
+    {
+        "色彩行銷小組": "color marketing group"
+    },
+    {
+        "色彩搭配；配色": "color match"
+    },
+    {
+        "色標": "color scale"
+    },
+    {
+        "色彩計畫": "color scheme"
+    },
+    {
+        "色覺": "color sensation"
+    },
+    {
+        "分色": "color separation"
+    },
+    {
+        "色彩系統；色彩體系": "color system"
+    },
+    {
+        "色溫": "color temperature"
+    },
+    {
+        "色彩明度": "color value"
+    },
+    {
+        "色環": "color wheel"
+    },
+    {
+        "組合爆炸；組合展開": "combinatorial explosion"
+    },
+    {
+        "漫畫": "comic"
+    },
+    {
+        "漫畫副刊": "comic supplement"
+    },
+    {
+        "命令列": "command line"
+    },
+    {
+        "商業廣告": "commercial"
+    },
+    {
+        "廣告閱聽眾": "commercial audience"
+    },
+    {
+        "廣告印象": "commercial impression"
+    },
+    {
+        "廣告庫": "commercial pool"
+    },
+    {
+        "廣告時段": "commercial time"
+    },
+    {
+        "廣告影片": "commercial film {=CF}"
+    },
+    {
+        "共通語言": "common language"
+    },
+    {
+        "社區公共關係": "community relations"
+    },
+    {
+        "溝通；傳達；傳播": "communication"
+    },
+    {
+        "傳達設計；傳播設計": "communication design"
+    },
+    {
+        "溝通技巧": "communication skill"
+    },
+    {
+        "社群；社區": "community"
+    },
+    {
+        "公司政策；公司方針": "company policy"
+    },
+    {
+        "相容性": "compatibility"
+    },
+    {
+        "相容的解答": "compatible solution"
+    },
+    {
+        "競爭產品分析": "competing product analysis"
+    },
+    {
+        "競爭者分析": "competitor analysis"
+    },
+    {
+        "互補色": "complementary color"
+    },
+    {
+        "完整性": "completeness"
+    },
+    {
+        "複雜性": "complexity"
+    },
+    {
+        "零組件；元件": "component"
+    },
+    {
+        "構圖；組成；作曲": "composition"
+    },
+    {
+        "全面設計；廣泛設計；綜合設計": "comprehensive designing"
+    },
+    {
+        "壓縮": "compression"
+    },
+    {
+        "抗壓強度": "compressive strength"
+    },
+    {
+        "電腦模擬": "computer simulation"
+    },
+    {
+        "電腦輔助設計": "computer-aided design {=CAD}"
+    },
+    {
+        "電腦人互動": "computer-human interaction {=CHI}"
+    },
+    {
+        "凹面": "concave form"
+    },
+    {
+        "概念": "concept"
+    },
+    {
+        "概念藝術": "concept art"
+    },
+    {
+        "概念板": "concept board"
+    },
+    {
+        "概念挑戰": "concept challenge"
+    },
+    {
+        "概念設計": "concept design"
+    },
+    {
+        "概念展開；概念發展": "concept development"
+    },
+    {
+        "概念選擇": "concept selection"
+    },
+    {
+        "概念測試": "concept testing"
+    },
+    {
+        "概念性藝術": "conceptual art"
+    },
+    {
+        "概念性設計": "conceptual design"
+    },
+    {
+        "概念模型": "conceptual model"
+    },
+    {
+        "概念前瞻；概念前景": "conceptual prospect"
+    },
+    {
+        "概念化": "conceptualization"
+    },
+    {
+        "同步途徑": "concurrent approach"
+    },
+    {
+        "同步設計": "concurrent design"
+    },
+    {
+        "同步工程": "concurrent engineering"
+    },
+    {
+        "有條件的預測；條件式預測": "conditional prediction"
+    },
+    {
+        "確認": "confirmation"
+    },
+    {
+        "連結法則": "conjunctive rule"
+    },
+    {
+        "自覺的思考": "conscientious thinking"
+    },
+    {
+        "意識": "consciousness"
+    },
+    {
+        "共識模式": "consensus model"
+    },
+    {
+        "一致性": "consistency"
+    },
+    {
+        "恆常性": "constancy"
+    },
+    {
+        "約制；限制": "constraint"
+    },
+    {
+        "消費者": "consumer"
+    },
+    {
+        "消費者訴求": "consumer appeal"
+    },
+    {
+        "消費者行為": "consumer behavior"
+    },
+    {
+        "消費者信心指數": "consumer confidence index"
+    },
+    {
+        "消費者體驗；消費者經驗": "consumer experience"
+    },
+    {
+        "消費者包裝": "consumer packaging"
+    },
+    {
+        "消費者偏好": "consumer preference"
+    },
+    {
+        "消費者物價指數": "consumer price index {=CPI}"
+    },
+    {
+        "消費性產品類別；消費品類": "consumer product categories"
+    },
+    {
+        "消費者輪廓；消費者側寫；消費者描述": "consumer profile"
+    },
+    {
+        "消費者保護": "consumer protection"
+    },
+    {
+        "消費者心理學": "consumer psychology"
+    },
+    {
+        "消費者研究": "consumer research"
+    },
+    {
+        "消費者測試": "consumer test"
+    },
+    {
+        "內涵；內容": "content"
+    },
+    {
+        "內容分析法": "content analysis"
+    },
+    {
+        "情境感知": "context awareness"
+    },
+    {
+        "情境變數": "context variable"
+    },
+    {
+        "脈絡設計": "contextual design"
+    },
+    {
+        "脈絡因素": "contextual factor"
+    },
+    {
+        "快捷選單": "contextual menu"
+    },
+    {
+        "輪廓偏見；曲線偏見": "contour bias"
+    },
+    {
+        "合同規範": "contractual specification"
+    },
+    {
+        "控制面版": "control panel"
+    },
+    {
+        "便利性": "convenience"
+    },
+    {
+        "便利抽樣法；任意抽樣法": "convenience sampling"
+    },
+    {
+        "收斂；融合": "convergence"
+    },
+    {
+        "收斂過程": "convergent process"
+    },
+    {
+        "收斂思考；收斂思維": "convergent thinking"
+    },
+    {
+        "凸面": "convex form"
+    },
+    {
+        "聯合廣告": "co-op advertising"
+    },
+    {
+        "合作設計": "cooperation design"
+    },
+    {
+        "合作學習": "cooperative learning"
+    },
+    {
+        "第二主角": "co-protagonist"
+    },
+    {
+        "著作權": "copyright"
+    },
+    {
+        "核心利益主張": "core benefit proposition"
+    },
+    {
+        "核心商業機能": "core business function"
+    },
+    {
+        "企業識別": "corporate identity"
+    },
+    {
+        "企業識別系統": "corporate identity system {=CIS}"
+    },
+    {
+        "企業責任": "corporate responsibility"
+    },
+    {
+        "企業策略": "corporate strategy"
+    },
+    {
+        "相關係數": "correlation  coefficient"
+    },
+    {
+        "瓦楞紙版": "corrugated paperboard"
+    },
+    {
+        "彩妝設計": "cosmetics design"
+    },
+    {
+        "成本估計": "cost estimation"
+    },
+    {
+        "成本領導策略": "cost leadership strategy"
+    },
+    {
+        "每千人成本": "cost per mille {=CPM}"
+    },
+    {
+        "封面": "cover"
+    },
+    {
+        "封面版位": "cover position"
+    },
+    {
+        "封面書衣": "cover wrap"
+    },
+    {
+        "工藝演進": "craft evolution"
+    },
+    {
+        "手藝；技藝": "craftsmanship"
+    },
+    {
+        "創意總監": "creative director {=CD}"
+    },
+    {
+        "創意思考": "creative thinking"
+    },
+    {
+        "創造力": "creativity"
+    },
+    {
+        "創造力方法": "creativity method"
+    },
+    {
+        "創造力技巧": "creativity technique"
+    },
+    {
+        "準則": "criteria"
+    },
+    {
+        "要徑排程": "critical path scheduling"
+    },
+    {
+        "跨功能團隊": "cross-functional team"
+    },
+    {
+        "文化價值": "cultural value"
+    },
+    {
+        "累積閱聽眾數": "cume [cumulative] audience"
+    },
+    {
+        "累積人數": "cume [cumulative] persons"
+    },
+    {
+        "累積閱聽率": "cume [cumulative] rating"
+    },
+    {
+        "顧客偏好": "customer preference"
+    },
+    {
+        "顧客關係管理": "customer relationship management {=CRM}"
+    },
+    {
+        "顧客關係行銷": "customer relationship marketing {=CRM}"
+    },
+    {
+        "客製化": "customization"
+    },
+    {
+        "切換；暫停；幕；裁切": "cut"
+    },
+    {
+        "過場": "cut-scenes"
+    },
+    {
+        "印刷四分色模式": "cyan magenta yellow black {=CMYK}"
+    },
+    {
+        "模控學觀點": "cybernetic view"
+    },
+    {
+        "模控學": "cybernetics"
+    },
+    {
+        "循環程序": "cyclic process"
+    },
+    {
+        "循環策略": "cyclic strategy"
+    },
+    {
+        "暗箱方法": "dark box method"
+    },
+    {
+        "次日廣告回憶": "day-after recall {=DAR}"
+    },
+    {
+        "時段分配": "daypart distribution"
+    },
+    {
+        "時段組合": "daypart mix"
+    },
+    {
+        "打凹": "debossing"
+    },
+    {
+        "除錯": "debug"
+    },
+    {
+        "決策域": "decision area"
+    },
+    {
+        "決策方法": "decision method"
+    },
+    {
+        "決策選項圖": "decision option graph"
+    },
+    {
+        "決策法則": "decision rule"
+    },
+    {
+        "決策理論": "decision theory"
+    },
+    {
+        "決策樹狀圖": "decision tree diagram"
+    },
+    {
+        "決策變數": "decision variable"
+    },
+    {
+        "解碼": "decoding"
+    },
+    {
+        "裝飾": "decoration"
+    },
+    {
+        "演繹；推論": "deduction"
+    },
+    {
+        "演繹歸納法": "deductive induction"
+    },
+    {
+        "演繹推理": "deductive reasoning"
+    },
+    {
+        "深度學習": "deep learning"
+    },
+    {
+        "防禦性設計": "defensive design"
+    },
+    {
+        "明確的設計": "definite design"
+    },
+    {
+        "定義；明確；清晰": "definition"
+    },
+    {
+        "偏移；偏轉": "deflection"
+    },
+    {
+        "德菲法": "Delphi method"
+    },
+    {
+        "演示；示範": "demo"
+    },
+    {
+        "應變數；應變項；依變數": "dependent variable"
+    },
+    {
+        "景深": "depth of field"
+    },
+    {
+        "處理深度": "depth of processing"
+    },
+    {
+        "描述性評論": "descriptive critique"
+    },
+    {
+        "設計": "design"
+    },
+    {
+        "設計行動": "design action"
+    },
+    {
+        "設計宗旨": "design aim"
+    },
+    {
+        "設計屬性": "design attribute"
+    },
+    {
+        "設計自動化": "design automation"
+    },
+    {
+        "設計意識": "design awareness"
+    },
+    {
+        "設計挑戰": "design challenge"
+    },
+    {
+        "設計準則": "design criteria"
+    },
+    {
+        "設計評論": "design critique"
+    },
+    {
+        "設計決策": "design decision"
+    },
+    {
+        "設計需求": "design demand"
+    },
+    {
+        "設計展開；設計發展": "design development"
+    },
+    {
+        "設計倫理學": "design ethics"
+    },
+    {
+        "設計民族誌": "design ethnography"
+    },
+    {
+        "為裝配設計": "design for assembly"
+    },
+    {
+        "為物流設計": "design for logistics"
+    },
+    {
+        "為製造設計": "design for manufacturing"
+    },
+    {
+        "為品質設計": "design for quality"
+    },
+    {
+        "設計標的": "design goal"
+    },
+    {
+        "設計資訊": "design information"
+    },
+    {
+        "設計整合": "design integration"
+    },
+    {
+        "設計管理": "design management"
+    },
+    {
+        "設計管理學會": "Design Management Institute {=DMI}"
+    },
+    {
+        "設計方法論": "design methodology"
+    },
+    {
+        "設計目標": "design objective"
+    },
+    {
+        "設計參數": "design parameter"
+    },
+    {
+        "設計階段；設計面向": "design phase"
+    },
+    {
+        "設計哲理": "design philosophy"
+    },
+    {
+        "設計方針": "design policy"
+    },
+    {
+        "設計演示；設計發表": "design presentation"
+    },
+    {
+        "設計原則；設計原理": "design principle"
+    },
+    {
+        "設計問題": "design problem"
+    },
+    {
+        "設計程序；設計流程": "design process"
+    },
+    {
+        "設計提案": "design proposal"
+    },
+    {
+        "設計目的": "design purpose"
+    },
+    {
+        "設計評論": "design review"
+    },
+    {
+        "設計草圖": "design sketch"
+    },
+    {
+        "設計規範": "design specification"
+    },
+    {
+        "設計階段": "design stage"
+    },
+    {
+        "設計策略": "design strategy"
+    },
+    {
+        "設計團隊": "design team"
+    },
+    {
+        "設計理論": "design theory"
+    },
+    {
+        "設計思考": "design thinking"
+    },
+    {
+        "藉研究作設計": "design through research"
+    },
+    {
+        "設計工具組": "design toolkit"
+    },
+    {
+        "設計工作坊；設計工場": "design workshop"
+    },
+    {
+        "設計師": "designer"
+    },
+    {
+        "無目的之設計": "designing without purpose"
+    },
+    {
+        "期望線": "desire line"
+    },
+    {
+        "期望路徑": "desire path"
+    },
+    {
+        "渴望的產品特色": "desired product characteristics"
+    },
+    {
+        "細部設計": "detail design"
+    },
+    {
+        "決定論": "determinism"
+    },
+    {
+        "開發週期": "development cycle"
+    },
+    {
+        "開發計劃": "development plan"
+    },
+    {
+        "開發程序": "development process"
+    },
+    {
+        "裝置": "device"
+    },
+    {
+        "對話": "dialogue"
+    },
+    {
+        "數位相機": "digital camera"
+    },
+    {
+        "數位移民": "digital immigrant"
+    },
+    {
+        "數位原住民；數位原生": "digital native"
+    },
+    {
+        "數位印刷": "digital printing"
+    },
+    {
+        "數位化工作流程": "digital workflow"
+    },
+    {
+        "直接類比": "direct analogy"
+    },
+    {
+        "郵寄廣告": "direct mail{=DM}"
+    },
+    {
+        "直接回應廣告": "direct response advertising"
+    },
+    {
+        "直接製版印刷": "direct-to-plate printing"
+    },
+    {
+        "區別分析；判別分析": "discriminant analysis"
+    },
+    {
+        "破壞性創新": "disruptive innovation"
+    },
+    {
+        "發散": "divergence"
+    },
+    {
+        "發散過程": "divergent process"
+    },
+    {
+        "發散性思考": "divergent thinking"
+    },
+    {
+        "分工": "division of labor"
+    },
+    {
+        "主導性解答": "dominant solution"
+    },
+    {
+        "貼紙篩選法": "dot sticking"
+    },
+    {
+        "製圖技能": "draughtsmanship"
+    },
+    {
+        "繪圖": "drawing"
+    },
+    {
+        "耐用性": "durability"
+    },
+    {
+        "動態程式設計": "dynamic programming"
+    },
+    {
+        "動態；動力學": "dynamics"
+    },
+    {
+        "易用性": "ease of use"
+    },
+    {
+        "生態平衡": "eco-balance"
+    },
+    {
+        "效應分析": "effect analysis"
+    },
+    {
+        "效用性；有效性": "effectiveness"
+    },
+    {
+        "效用函數": "effectiveness function"
+    },
+    {
+        "效用分數": "effectiveness score"
+    },
+    {
+        "精緻性；加工；精密性": "elaboration"
+    },
+    {
+        "數位學習": "e-learning"
+    },
+    {
+        "刪除和重新排列": "eliminate and rearrange"
+    },
+    {
+        "具體化設計": "embodiment design"
+    },
+    {
+        "情感看板": "emotion board"
+    },
+    {
+        "賦權；許可": "empowerment"
+    },
+    {
+        "能源；能量": "energy"
+    },
+    {
+        "工程": "engineering"
+    },
+    {
+        "工程特點": "engineering characteristic"
+    },
+    {
+        "工程設計": "engineering design"
+    },
+    {
+        "工程規格": "engineering specification"
+    },
+    {
+        "進入點": "entry point"
+    },
+    {
+        "環境": "environment"
+    },
+    {
+        "環境設計": "environment design"
+    },
+    {
+        "環境效應": "environment effect"
+    },
+    {
+        "環保設計": "environmental design"
+    },
+    {
+        "等角螺旋": "equiangular spiral"
+    },
+    {
+        "人體工學模擬": "ergonomic simulation"
+    },
+    {
+        "人體工學；人因學": "ergonomics"
+    },
+    {
+        "評估": "evaluation"
+    },
+    {
+        "評估矩陣": "evaluation matrix"
+    },
+    {
+        "案例": "example"
+    },
+    {
+        "執行創意總監": "executive creative director {=ECD}"
+    },
+    {
+        "現有解答；現有解決方案": "existing solution"
+    },
+    {
+        "退出點": "exit point"
+    },
+    {
+        "膨脹；擴張": "expansion"
+    },
+    {
+        "預期": "expectation"
+    },
+    {
+        "預期效果": "expectation effect"
+    },
+    {
+        "期望的產品特色": "expected product characteristics"
+    },
+    {
+        "爆炸圖": "exploded drawing"
+    },
+    {
+        "爆炸視圖": "exploded view"
+    },
+    {
+        "曝光效應": "exposure effect"
+    },
+    {
+        "延展實境": "extended reality {=XR}"
+    },
+    {
+        "外延屬性": "extensive property"
+    },
+    {
+        "外部負荷": "external load"
+    },
+    {
+        "外部屬性": "external property"
+    },
+    {
+        "客觀化；外表化": "externalization"
+    },
+    {
+        "外插法；外推": "extrapolation"
+    },
+    {
+        "擠壓吹氣成型": "extrusion blowing"
+    },
+    {
+        "臉孔知覺": "face perception"
+    },
+    {
+        "臉部辨識": "face recognition"
+    },
+    {
+        "因素分析；因子分析": "factor analysis"
+    },
+    {
+        "安全因素；安全係數": "factor of safety"
+    },
+    {
+        "事實資訊": "factual information"
+    },
+    {
+        "事實判斷": "factual judgement"
+    },
+    {
+        "失效率分析；故障率分析": "failure rate analysis"
+    },
+    {
+        "熟悉性": "familiarity"
+    },
+    {
+        "同一群組關係；家族關係": "family relationship"
+    },
+    {
+        "幻想類比": "fantasy analogy"
+    },
+    {
+        "流行式樣；時尚": "fashion"
+    },
+    {
+        "時尚設計；流行設計；服裝設計": "fashion design"
+    },
+    {
+        "故障樹分析": "fault tree analysis {=FTA}"
+    },
+    {
+        "可行性分析": "feasibility analysis"
+    },
+    {
+        "特徵抽象化": "feature abstraction"
+    },
+    {
+        "回饋迴路；反饋迴路": "feedback loop"
+    },
+    {
+        "經驗回饋；經驗反饋": "feedback of experience"
+    },
+    {
+        "回饋問卷；反饋問卷": "feedback questionnaire"
+    },
+    {
+        "費氏數列；費布那西數列": "Fibonacci series"
+    },
+    {
+        "圖與地": "figure-ground"
+    },
+    {
+        "圖地錯覺；圖地反轉": "figure-ground illusion"
+    },
+    {
+        "財務承諾": "financial commitment"
+    },
+    {
+        "財務計劃": "financial planning"
+    },
+    {
+        "表面處理": "finishing"
+    },
+    {
+        "有限元素模型": "finite element model {=FEM}"
+    },
+    {
+        "第一人稱遊戲": "first-person game"
+    },
+    {
+        "變通性；撓性；彈性": "flexibility"
+    },
+    {
+        "流程圖；流程表": "flow chart"
+    },
+    {
+        "流程圖": "flow diagram"
+    },
+    {
+        "流暢性": "fluency"
+    },
+    {
+        "焦點團體": "focus group"
+    },
+    {
+        "字型": "font"
+    },
+    {
+        "壓入配合": "force fit"
+    },
+    {
+        "強力關聯法": "forced relationship"
+    },
+    {
+        "先見；預測": "foresight"
+    },
+    {
+        "造形；形": "form"
+    },
+    {
+        "形隨機能": "form follows function"
+    },
+    {
+        "造形相似性": "form similarity"
+    },
+    {
+        "造形規範": "form specification"
+    },
+    {
+        "形式邏輯": "formal logic"
+    },
+    {
+        "格式": "format"
+    },
+    {
+        "影格；框架；構架": "frame"
+    },
+    {
+        "自由聯想": "free association"
+    },
+    {
+        "徒手畫": "free hand drawing"
+    },
+    {
+        "自由工作者": "freelancer"
+    },
+    {
+        "頻率；頻次；次數": "frequency"
+    },
+    {
+        "封面{印刷品}；前蓋{產品}": "front cover"
+    },
+    {
+        "前端程序": "front-end process"
+    },
+    {
+        "功能": "function"
+    },
+    {
+        "功能分析": "function analysis"
+    },
+    {
+        "功能結構": "function structure"
+    },
+    {
+        "功能類比": "functional analogy"
+    },
+    {
+        "功能設計": "functional design"
+    },
+    {
+        "功能創新": "functional innovation"
+    },
+    {
+        "功能圖": "functional map"
+    },
+    {
+        "功能型組織": "functional organization"
+    },
+    {
+        "家具設計": "furniture design"
+    },
+    {
+        "融合": "fusion"
+    },
+    {
+        "未來產品": "future product"
+    },
+    {
+        "遊戲設計": "game design"
+    },
+    {
+        "遊戲體驗": "game experience"
+    },
+    {
+        "遊戲目標": "game goal"
+    },
+    {
+        "博奕理論；賽局理論": "game theory"
+    },
+    {
+        "遊戲歷程；遊戲性": "gameplay"
+    },
+    {
+        "甘特圖": "Gantt chart"
+    },
+    {
+        "一般功能": "general function"
+    },
+    {
+        "幾何形狀": "geometric shape"
+    },
+    {
+        "幾何造形": "geometrical form"
+    },
+    {
+        "完形心理學": "Gestalt psychology"
+    },
+    {
+        "完形理論": "Gestalt theory"
+    },
+    {
+        "手勢辨識；姿態辨識": "gesture recognition"
+    },
+    {
+        "禮品設計": "giftionery design"
+    },
+    {
+        "明箱方法": "glass box method"
+    },
+    {
+        "光澤；上光": "gloss"
+    },
+    {
+        "目標分析": "goal analysis"
+    },
+    {
+        "目標導向": "goal-directed"
+    },
+    {
+        "黃金比例": "golden ratio"
+    },
+    {
+        "黃金分割": "golden section"
+    },
+    {
+        "漸層；層次；漸變；等級": "gradation"
+    },
+    {
+        "塗鴉": "graffiti"
+    },
+    {
+        "平面設計": "graphic design"
+    },
+    {
+        "圖形介面": "graphic interface"
+    },
+    {
+        "圖形使用者介面": "graphical user interface {=GUI}"
+    },
+    {
+        "凹版印刷": "gravure"
+    },
+    {
+        "格線": "grid"
+    },
+    {
+        "灰色繪法": "grisaille"
+    },
+    {
+        "總流量": "gross circulation"
+    },
+    {
+        "總印象度": "gross impression"
+    },
+    {
+        "總視聽率": "gross rating points {=GRPS}"
+    },
+    {
+        "紮根理論": "grounded theory"
+    },
+    {
+        "小組討論": "group discussion"
+    },
+    {
+        "群組化": "grouping"
+    },
+    {
+        "裝訂線": "gutter"
+    },
+    {
+        "半橫幅廣告": "half banner ad"
+    },
+    {
+        "半跨頁": "half-page spread"
+    },
+    {
+        "硬行銷": "hard-sell"
+    },
+    {
+        "強迫推銷廣告": "hard-sell advertising"
+    },
+    {
+        "硬體": "hardware"
+    },
+    {
+        "調和": "harmony"
+    },
+    {
+        "追隨者": "henchmen"
+    },
+    {
+        "報信者": "herald"
+    },
+    {
+        "啟發式評估法": "heuristic evaluation"
+    },
+    {
+        "啟發式法則；經驗法則": "heuristics"
+    },
+    {
+        "層屬結構": "hierarchical structure"
+    },
+    {
+        "高清晰度；高畫質": "high definition"
+    },
+    {
+        "高壓成形": "high pressure forming"
+    },
+    {
+        "高可見度戶外看板": "high spot bulletin"
+    },
+    {
+        "強調；加亮；突顯": "highlight"
+    },
+    {
+        "後見之明": "hindsight"
+    },
+    {
+        "點閱{網路廣告}；攻擊{遊戲}": "hit"
+    },
+    {
+        "續看力；持續力": "holding power"
+    },
+    {
+        "首頁": "home page"
+    },
+    {
+        "希望": "hope"
+    },
+    {
+        "色相；色調": "hue"
+    },
+    {
+        "人類行為模式": "human behavior model"
+    },
+    {
+        "人因工程": "human factors engineering"
+    },
+    {
+        "人電腦互動；人機互動": "human-computer interaction {=HCI}"
+    },
+    {
+        "人電腦介面；人機介面": "human-computer interface"
+    },
+    {
+        "人機介面": "human-machine interface"
+    },
+    {
+        "假設的替代方案": "hypothetical alternatives"
+    },
+    {
+        "圖標；圖示": "icon"
+    },
+    {
+        "構想": "idea"
+    },
+    {
+        "構想搜尋矩陣": "idea finding matrix"
+    },
+    {
+        "構想產生": "idea generation"
+    },
+    {
+        "構想產生程序": "idea generation procedure"
+    },
+    {
+        "構想篩選": "idea selection"
+    },
+    {
+        "理想化的設計": "idealized design"
+    },
+    {
+        "幻覺空間": "illusionary space"
+    },
+    {
+        "插畫設計": "illustration design"
+    },
+    {
+        "插畫家": "illustrator"
+    },
+    {
+        "意象看板": "image board"
+    },
+    {
+        "形象設計": "image design"
+    },
+    {
+        "影像實境": "image reality"
+    },
+    {
+        "影像縫合；影像拼接": "image stitching"
+    },
+    {
+        "圖像轉移": "imagery transfer"
+    },
+    {
+        "想像力": "imagination"
+    },
+    {
+        "沉浸學習": "immersive learning"
+    },
+    {
+        "暗示線": "implied line"
+    },
+    {
+        "印象數[網路廣告]": "impressions"
+    },
+    {
+        "改善率": "improvement rate"
+    },
+    {
+        "引爆點": "inciting incident"
+    },
+    {
+        "漸進式創新": "incremental innovation"
+    },
+    {
+        "漸進式策略": "incremental strategy"
+    },
+    {
+        "育成；醞釀": "incubation"
+    },
+    {
+        "獨立變數；自變數；獨立變項": "independent variable"
+    },
+    {
+        "歸納法；歸納": "induction"
+    },
+    {
+        "歸納推理": "inductive reasoning"
+    },
+    {
+        "工業設計": "industrial design{=ID}"
+    },
+    {
+        "產業創新": "industry innovation"
+    },
+    {
+        "資訊；情報": "information"
+    },
+    {
+        "資訊架構": "information architecture"
+    },
+    {
+        "資訊設計；情報設計": "information design"
+    },
+    {
+        "資訊爆炸": "information explosion"
+    },
+    {
+        "資訊處理": "information processing"
+    },
+    {
+        "資訊搜尋": "information search"
+    },
+    {
+        "資訊來源": "information source"
+    },
+    {
+        "資訊流": "information stream"
+    },
+    {
+        "內陰影": "inner shadow"
+    },
+    {
+        "創新": "innovation"
+    },
+    {
+        "洞察力；洞見": "insight"
+    },
+    {
+        "安裝；裝置": "installation"
+    },
+    {
+        "裝置藝術": "installation art"
+    },
+    {
+        "整合性解答": "integral solution"
+    },
+    {
+        "整合設計": "integrated design"
+    },
+    {
+        "整合行銷": "integrated marketing"
+    },
+    {
+        "整合產品開發": "integrated product development"
+    },
+    {
+        "互動設計": "interaction design"
+    },
+    {
+        "交互矩陣": "interaction matrix"
+    },
+    {
+        "互動式設計": "interactive design"
+    },
+    {
+        "互動式行銷": "interactive marketing"
+    },
+    {
+        "互動式媒體": "interactive media"
+    },
+    {
+        "互動式產品": "interactive product"
+    },
+    {
+        "跨領域藝術": "interdisciplinary art"
+    },
+    {
+        "跨領域思考": "interdisciplinary thinking"
+    },
+    {
+        "介面": "interface"
+    },
+    {
+        "介面設計": "interface design"
+    },
+    {
+        "干擾效應": "interference effect"
+    },
+    {
+        "中間色": "intermediate color"
+    },
+    {
+        "媒介語言": "intermediate language"
+    },
+    {
+        "中間狀態": "intermediate state"
+    },
+    {
+        "內部調查": "internal investigation"
+    },
+    {
+        "內部屬性": "internal property"
+    },
+    {
+        "直譯器": "interpreter"
+    },
+    {
+        "跨專業技能": "interprofessional skill"
+    },
+    {
+        "等距尺度；區間刻度": "interval scale"
+    },
+    {
+        "內聯網": "intranet"
+    },
+    {
+        "內在價值": "intrinsic value"
+    },
+    {
+        "直覺性決策": "intuitive decision"
+    },
+    {
+        "直覺法": "intuitive method"
+    },
+    {
+        "發明力；發明的才能": "inventiveness"
+    },
+    {
+        "倒金字塔": "inverted pyramid"
+    },
+    {
+        "投資": "investment"
+    },
+    {
+        "投資報酬率": "investment-return ratio"
+    },
+    {
+        "術語；行話": "jargon"
+    },
+    {
+        "珠寶設計": "jewelry design"
+    },
+    {
+        "接合點；關節": "joint"
+    },
+    {
+        "彈出式網頁": "jump page"
+    },
+    {
+        "接合處": "junction"
+    },
+    {
+        "卡諾品質模式": "Kano model of quality"
+    },
+    {
+        "凱利方格法": "Kelly grid"
+    },
+    {
+        "主光源": "key light"
+    },
+    {
+        "動覺": "kinesthetics"
+    },
+    {
+        "動態造形": "kinetic form"
+    },
+    {
+        "知識獲取": "knowledge acquisition"
+    },
+    {
+        "重疊溶合": "lap dissolve"
+    },
+    {
+        "側面思考": "lateral thinking"
+    },
+    {
+        "連續律": "law of continuity"
+    },
+    {
+        "接近律": "law of proximity"
+    },
+    {
+        "相似律": "law of similarity"
+    },
+    {
+        "對稱律": "law of symmetry"
+    },
+    {
+        "圖層；層": "layer"
+    },
+    {
+        "分層": "layering"
+    },
+    {
+        "空間層次": "layers of space"
+    },
+    {
+        "配置圖": "layout drawing"
+    },
+    {
+        "靈機一動": "leap of insight"
+    },
+    {
+        "學習曲線": "learning curve"
+    },
+    {
+        "學習動機": "learning motivation"
+    },
+    {
+        "易辨識性": "legibility"
+    },
+    {
+        "鏡頭範圍；鏡頭廣度": "lens scope"
+    },
+    {
+        "凸版印刷{活版}": "letterpress"
+    },
+    {
+        "許可；執照": "license"
+    },
+    {
+        "生命週期": "life cycle"
+    },
+    {
+        "生命週期分析": "life cycle analysis"
+    },
+    {
+        "生活型態": "lifestyle"
+    },
+    {
+        "生活型態看板": "lifestyle board"
+    },
+    {
+        "照明偏差": "lighting bias"
+    },
+    {
+        "線；行": "line"
+    },
+    {
+        "線性透視法": "linear perspective"
+    },
+    {
+        "線性程序": "linear processes"
+    },
+    {
+        "線性規劃": "linear programming{=LP}"
+    },
+    {
+        "線性策略": "linear strategy"
+    },
+    {
+        "需求表；必要表": "list of requirements"
+    },
+    {
+        "平版印刷術{石印}；微影術": "lithography"
+    },
+    {
+        "直播": "live streaming"
+    },
+    {
+        "邏輯差距": "logical gap"
+    },
+    {
+        "邏輯對映": "logical mapping"
+    },
+    {
+        "後勤；物流": "logistics"
+    },
+    {
+        "腰部彎曲": "loin flexion"
+    },
+    {
+        "遠景": "long shot"
+    },
+    {
+        "長期記憶": "long-term memory"
+    },
+    {
+        "響度": "loudness"
+    },
+    {
+        "低清晰度": "low definition"
+    },
+    {
+        "腰椎調整機構": "lumbar adjustment mechanism"
+    },
+    {
+        "腰椎支撐": "lumbar support"
+    },
+    {
+        "機器學習": "machine learning"
+    },
+    {
+        "擴大": "magnify"
+    },
+    {
+        "維護；保養": "maintenance"
+    },
+    {
+        "多數法則": "majority rule"
+    },
+    {
+        "人體模型": "man model"
+    },
+    {
+        "人體模型": "manikin"
+    },
+    {
+        "人機介面": "man-machine interface"
+    },
+    {
+        "人機系統": "man-machine system"
+    },
+    {
+        "人機環系統": "man-machine-environment system"
+    },
+    {
+        "製造設備": "manufacturing facility"
+    },
+    {
+        "製造方法": "manufacturing method"
+    },
+    {
+        "對映": "mapping"
+    },
+    {
+        "初模": "maquette"
+    },
+    {
+        "邊際效應": "marginal effect"
+    },
+    {
+        "市場需求": "market demand"
+    },
+    {
+        "市場需要": "market needs"
+    },
+    {
+        "市場定位": "market positioning"
+    },
+    {
+        "市場研究": "market research"
+    },
+    {
+        "市場區隔": "market segment"
+    },
+    {
+        "市場佔有率": "market share"
+    },
+    {
+        "市場規模": "market size"
+    },
+    {
+        "市場穩定性": "market stability"
+    },
+    {
+        "市場調查": "market survey"
+    },
+    {
+        "市場趨勢": "market trend"
+    },
+    {
+        "行銷組合": "marketing mix"
+    },
+    {
+        "行銷計劃": "marketing plan"
+    },
+    {
+        "行銷策略": "marketing strategy"
+    },
+    {
+        "大眾傳播": "mass communication"
+    },
+    {
+        "大眾媒體": "mass media"
+    },
+    {
+        "大量生產": "mass production"
+    },
+    {
+        "大型多人線上遊戲": "massively multiplayer online role-playing game {=MMORPG}"
+    },
+    {
+        "刊頭；報頭": "masthead"
+    },
+    {
+        "材料；素材": "material"
+    },
+    {
+        "材料擬真度": "material reality"
+    },
+    {
+        "物質世界": "material world"
+    },
+    {
+        "數學模型": "mathematical model"
+    },
+    {
+        "數學最佳化": "mathematical optimization"
+    },
+    {
+        "物質；問題；事件": "matter"
+    },
+    {
+        "成熟期產品": "mature product"
+    },
+    {
+        "手段目的鏈": "means-end chain"
+    },
+    {
+        "可量測性": "measurability"
+    },
+    {
+        "媒體": "media"
+    },
+    {
+        "媒體代理商": "media agency"
+    },
+    {
+        "媒體稽核": "media audit"
+    },
+    {
+        "媒體資訊包": "media kit"
+    },
+    {
+        "媒體組合": "media mix"
+    },
+    {
+        "中景": "medium shot"
+    },
+    {
+        "記憶": "memory"
+    },
+    {
+        "心象": "mental image"
+    },
+    {
+        "心智模型；心智模式": "mental model"
+    },
+    {
+        "心智模型圖": "mental model diagram"
+    },
+    {
+        "心智表徵": "mental representation"
+    },
+    {
+        "心靈世界": "mental world"
+    },
+    {
+        "導師": "mentor"
+    },
+    {
+        "後設數據；後設資料": "metadata"
+    },
+    {
+        "隱喻；暗喻": "metaphor"
+    },
+    {
+        "後設程序": "meta-process"
+    },
+    {
+        "方法論": "methodology"
+    },
+    {
+        "微型網站": "micro-site"
+    },
+    {
+        "理念識別": "mind identity {=MI}"
+    },
+    {
+        "心智圖": "mind map"
+    },
+    {
+        "心智圖法": "mind mapping"
+    },
+    {
+        "心佔率": "mind share"
+    },
+    {
+        "爪牙": "minions"
+    },
+    {
+        "鏡射對稱": "mirror symmetry"
+    },
+    {
+        "使命宣言": "mission statement"
+    },
+    {
+        "混合實境": "mixed reality {=MR}"
+    },
+    {
+        "記憶點{廣告}；記憶術": "mnemonic"
+    },
+    {
+        "行動商務": "mobile commerce {=M-commerce}"
+    },
+    {
+        "行動裝置應用程式": "mobile device application"
+    },
+    {
+        "行動學習": "mobile learning"
+    },
+    {
+        "行動導航；行動導覽": "mobile navigation"
+    },
+    {
+        "視覺稿{介面}；1:1草模": "mockup"
+    },
+    {
+        "模型；模式": "model"
+    },
+    {
+        "建模；塑模": "modeling"
+    },
+    {
+        "現代主義": "modernism"
+    },
+    {
+        "修改": "modification"
+    },
+    {
+        "模組化": "modularity"
+    },
+    {
+        "模組結構": "module structure"
+    },
+    {
+        "轉動慣量；慣性矩": "moment of inertia"
+    },
+    {
+        "時刻轉場": "moment-to-moment transition"
+    },
+    {
+        "單色色彩系統": "monochromatic color system"
+    },
+    {
+        "心情看板": "mood board"
+    },
+    {
+        "形態分析": "morphological analysis"
+    },
+    {
+        "形態圖表": "morphological chart"
+    },
+    {
+        "形態學": "morphology"
+    },
+    {
+        "動機": "motivation"
+    },
+    {
+        "多準則決策": "multi-criteria decision"
+    },
+    {
+        "多元尺度": "multi-dimensional scale {=MDS}"
+    },
+    {
+        "多媒體": "multimedia"
+    },
+    {
+        "多媒體設計": "multimedia design"
+    },
+    {
+        "多媒體介面": "multimedia interface"
+    },
+    {
+        "多工": "multiplexing"
+    },
+    {
+        "多任務": "multitask"
+    },
+    {
+        "可變性；易變性；突變性": "mutability"
+    },
+    {
+        "秘密客": "mystery shopper"
+    },
+    {
+        "自然演化": "natural evolution"
+    },
+    {
+        "自然對映": "natural mapping"
+    },
+    {
+        "自然使用者介面": "natural user interface"
+    },
+    {
+        "自然主義": "naturalism"
+    },
+    {
+        "導覽列": "navigation bar"
+    },
+    {
+        "負形": "negative shape"
+    },
+    {
+        "類神經網路": "neural network"
+    },
+    {
+        "尼爾森媒體研究": "Nielsen media research"
+    },
+    {
+        "節點": "node"
+    },
+    {
+        "名義尺度": "nominal scale"
+    },
+    {
+        "非物件形狀": "non-objective shape"
+    },
+    {
+        "非玩家角色": "non-player character {=NPC}"
+    },
+    {
+        "常態分配": "normal distribution"
+    },
+    {
+        "客觀評論": "objective criticism"
+    },
+    {
+        "客觀性": "objectivity"
+    },
+    {
+        "觀察": "observation"
+    },
+    {
+        "過時產品": "obsolete product"
+    },
+    {
+        "進攻性設計": "offensive design"
+    },
+    {
+        "平版印刷": "offset printing"
+    },
+    {
+        "單色": "one color"
+    },
+    {
+        "一對一訪談": "one-on-one interview"
+    },
+    {
+        "單點透視法": "one-point perspective"
+    },
+    {
+        "網路直播": "online streaming"
+    },
+    {
+        "開放式訪談": "open-ended interview"
+    },
+    {
+        "開放式問題": "open-ended question"
+    },
+    {
+        "操作；作業": "operation"
+    },
+    {
+        "操作時間": "operation time"
+    },
+    {
+        "操作型定義": "operational definition"
+    },
+    {
+        "操作型機制": "operational mechanism"
+    },
+    {
+        "操作主義": "operationalism"
+    },
+    {
+        "作業研究": "operations research {=OR}"
+    },
+    {
+        "商機；機會": "opportunity"
+    },
+    {
+        "商機選擇": "opportunity selection"
+    },
+    {
+        "機會規範": "opportunity specification"
+    },
+    {
+        "最佳化": "optimization"
+    },
+    {
+        "最佳設計": "optimum design"
+    },
+    {
+        "順序尺度": "ordinal scale"
+    },
+    {
+        "有機形狀": "organic shape"
+    },
+    {
+        "摺紙": "origami"
+    },
+    {
+        "獨創性；原創性": "originality"
+    },
+    {
+        "直交分析": "orthographic analysis"
+    },
+    {
+        "正投影": "orthographic projection"
+    },
+    {
+        "重疊": "overlap"
+    },
+    {
+        "臭氣層": "ozone layer"
+    },
+    {
+        "包裝設計": "package design"
+    },
+    {
+        "包裝": "packaging"
+    },
+    {
+        "配對比較": "paired comparison"
+    },
+    {
+        "並列階段": "parallel stages"
+    },
+    {
+        "平行策略": "parallel strategy"
+    },
+    {
+        "參數": "parameter"
+    },
+    {
+        "參數分析": "parametric analysis"
+    },
+    {
+        "巴特農神殿": "Parthenon"
+    },
+    {
+        "參與式設計": "participatory design"
+    },
+    {
+        "圖樣辨識；樣式辨識": "pattern recognition"
+    },
+    {
+        "削皮器": "peeler"
+    },
+    {
+        "知覺廣度": "perceptual span"
+    },
+    {
+        "表演藝術": "performance art"
+    },
+    {
+        "性能規範": "performance specification"
+    },
+    {
+        "透視法；觀點": "perspective"
+    },
+    {
+        "階段模式": "phase model"
+    },
+    {
+        "衰退期": "phase of decline"
+    },
+    {
+        "成長期": "phase of growth"
+    },
+    {
+        "導入期": "phase of introduction"
+    },
+    {
+        "成熟期": "phase of maturity"
+    },
+    {
+        "實體模型": "physical model"
+    },
+    {
+        "前測問卷": "pilot questionnaire"
+    },
+    {
+        "試行": "pilot run"
+    },
+    {
+        "前測": "pilot test"
+    },
+    {
+        "點圖": "point graph"
+    },
+    {
+        "政治意涵": "political implication"
+    },
+    {
+        "立體書": "pop-up book"
+    },
+    {
+        "正形狀": "positive shape"
+    },
+    {
+        "後現代主義": "post modernism"
+    },
+    {
+        "後天性": "posteriority"
+    },
+    {
+        "後工業設計": "post-industrial design"
+    },
+    {
+        "實用性；實際性": "practicability"
+    },
+    {
+        "務實態度": "pragmatic attitude"
+    },
+    {
+        "先入為主的解答": "preconceived solution"
+    },
+    {
+        "偏好研究": "preference research"
+    },
+    {
+        "偏好結構模型": "preference structure model"
+    },
+    {
+        "初步設計": "preliminary design"
+    },
+    {
+        "預印": "preprint"
+    },
+    {
+        "新聞資料袋": "press kit"
+    },
+    {
+        "價格定位": "price positioning"
+    },
+    {
+        "價格與價值圖": "price-value map"
+    },
+    {
+        "原色": "primary colors"
+    },
+    {
+        "主輪廓線": "primary contour"
+    },
+    {
+        "主要功能需求": "primary functional need"
+    },
+    {
+        "整體優先性{視覺}": "primary global precedence"
+    },
+    {
+        "主要視覺焦點區": "primary optical area"
+    },
+    {
+        "黃金時段": "prime time {=prime}"
+    },
+    {
+        "主要解決方案": "principal solution"
+    },
+    {
+        "原理；原則": "principle"
+    },
+    {
+        "首席設計師": "principal designer"
+    },
+    {
+        "平面媒體；印刷媒體": "print media"
+    },
+    {
+        "優先": "priority"
+    },
+    {
+        "問題抽象化": "problem abstraction"
+    },
+    {
+        "問題分析": "problem analysis"
+    },
+    {
+        "問題定義": "problem definition"
+    },
+    {
+        "問題擴張": "problem expansion"
+    },
+    {
+        "問題差距": "problem gap"
+    },
+    {
+        "問題簡化": "problem reduction"
+    },
+    {
+        "問題重構": "problem reformulation"
+    },
+    {
+        "問題情況": "problem situation"
+    },
+    {
+        "問題解決": "problem solving"
+    },
+    {
+        "問題空間": "problem space"
+    },
+    {
+        "問題穩定性": "problem stability"
+    },
+    {
+        "問題陳述": "problem statement"
+    },
+    {
+        "問題解決模式": "problem-solving model"
+    },
+    {
+        "程序樹狀圖": "process tree"
+    },
+    {
+        "產品優勢": "product advantage"
+    },
+    {
+        "產品架構": "product architecture"
+    },
+    {
+        "產品屬性": "product attribute"
+    },
+    {
+        "產品類別": "product classification"
+    },
+    {
+        "產品競爭": "product competition"
+    },
+    {
+        "產品設計": "product design"
+    },
+    {
+        "產品開發": "product development"
+    },
+    {
+        "產品開發成本": "product development cost"
+    },
+    {
+        "產品開發策略": "product development strategy"
+    },
+    {
+        "產品開發團隊": "product development team"
+    },
+    {
+        "產品劣勢": "product disadvantage"
+    },
+    {
+        "產品文件": "product document"
+    },
+    {
+        "產品文檔": "product documentation"
+    },
+    {
+        "產品評估": "product evaluation"
+    },
+    {
+        "產品特徵排列": "product feature permutation"
+    },
+    {
+        "產品表面處理": "product finish"
+    },
+    {
+        "產品功能樹狀圖": "product function tree"
+    },
+    {
+        "產品識別": "product identity"
+    },
+    {
+        "產品意象": "product image"
+    },
+    {
+        "產品責任": "product liability"
+    },
+    {
+        "產品生命週期": "product life cycle"
+    },
+    {
+        "產品壽命": "product life span"
+    },
+    {
+        "產品管理": "product management"
+    },
+    {
+        "產品市場計畫": "product market plan"
+    },
+    {
+        "產品成熟度分析": "product maturity analysis"
+    },
+    {
+        "產品組合": "product mix"
+    },
+    {
+        "產品最佳化": "product optimization"
+    },
+    {
+        "產品規劃": "product planning"
+    },
+    {
+        "產品規劃程序": "product planning process"
+    },
+    {
+        "前期產品": "product predecessor"
+    },
+    {
+        "產品概貌；產品簡介": "product profile"
+    },
+    {
+        "產品路徑圖": "product roadmap"
+    },
+    {
+        "產品語意學": "product semantics"
+    },
+    {
+        "產品風格": "product styling"
+    },
+    {
+        "產品符號學": "product symbolics"
+    },
+    {
+        "產品測試": "product testing"
+    },
+    {
+        "產品開發觸發點": "product trigger"
+    },
+    {
+        "生產": "production"
+    },
+    {
+        "生產開發": "production development"
+    },
+    {
+        "生產計劃": "production plan"
+    },
+    {
+        "專業設計": "professional design"
+    },
+    {
+        "利潤": "profit"
+    },
+    {
+        "利潤預測": "profit forecast"
+    },
+    {
+        "淨利率；毛利率": "profit margin"
+    },
+    {
+        "計劃評核術": "program evaluation and review technique {=PERT}"
+    },
+    {
+        "程式設計": "programming"
+    },
+    {
+        "專案目標": "project objective"
+    },
+    {
+        "專案規劃": "project planning"
+    },
+    {
+        "專案結構": "project structure"
+    },
+    {
+        "推廣；促銷": "promotion"
+    },
+    {
+        "促銷要件": "promotional requirement"
+    },
+    {
+        "比例": "proportion"
+    },
+    {
+        "命題邏輯": "propositional logic"
+    },
+    {
+        "道具": "props"
+    },
+    {
+        "主角": "protagonist"
+    },
+    {
+        "口語分析": "protocol analysis"
+    },
+    {
+        "原型": "prototype"
+    },
+    {
+        "接近性；鄰近性": "proximity"
+    },
+    {
+        "心理統計；心理變數": "psychographics"
+    },
+    {
+        "心理感知": "psychological sense"
+    },
+    {
+        "公共關係": "public relations {=PR}"
+    },
+    {
+        "公益廣告": "public service announcement {=PSA}"
+    },
+    {
+        "公共報導；宣傳": "publicity"
+    },
+    {
+        "購買週期": "purchase cycle"
+    },
+    {
+        "購買決策": "purchase decision"
+    },
+    {
+        "定性方法；質性方法": "qualitative method"
+    },
+    {
+        "定性模型": "qualitative model"
+    },
+    {
+        "質性研究": "qualitative research"
+    },
+    {
+        "品質": "quality"
+    },
+    {
+        "品質分析": "quality analysis"
+    },
+    {
+        "品質保證": "quality assurance"
+    },
+    {
+        "品質管制 {=品管}": "quality control {=QC}"
+    },
+    {
+        "品質機能展開": "quality function deployment{=QFD}"
+    },
+    {
+        "品質目標": "quality target"
+    },
+    {
+        "量化分析": "quantitative analysis"
+    },
+    {
+        "定量方法": "quantitative method"
+    },
+    {
+        "量化研究": "quantitative research"
+    },
+    {
+        "問卷調查": "questionnaire"
+    },
+    {
+        "輻射對稱；徑向對稱": "radial symmetry"
+    },
+    {
+        "突破性創新；激進創新": "radical innovation"
+    },
+    {
+        "亂數產生器": "random number generator"
+    },
+    {
+        "隨機抽樣": "random sampling"
+    },
+    {
+        "隨機刺激": "random stimulus"
+    },
+    {
+        "排序量表": "rank order scale"
+    },
+    {
+        "排序": "ranking"
+    },
+    {
+        "積分排序法": "rank-sum rule"
+    },
+    {
+        "快速反覆測試評估法": "Rapid Iterative Testing and Evaluation {=RITE}"
+    },
+    {
+        "價目表": "rate card"
+    },
+    {
+        "比例尺度": "ratio scale"
+    },
+    {
+        "理性廣告": "rational advertising"
+    },
+    {
+        "理性方法": "rational method"
+    },
+    {
+        "理性程序": "rational procedure"
+    },
+    {
+        "原料": "raw material"
+    },
+    {
+        "觸及": "reach"
+    },
+    {
+        "閱讀人數": "readership"
+    },
+    {
+        "實境科技": "reality technology"
+    },
+    {
+        "實現階段": "realization stage"
+    },
+    {
+        "簡易資訊聚合": "really simple syndication {=RSS}"
+    },
+    {
+        "推理；推論": "reasoning"
+    },
+    {
+        "回憶；喚回": "recall"
+    },
+    {
+        "遞迴過程": "recursive process"
+    },
+    {
+        "回收": "recycling"
+    },
+    {
+        "改良設計": "redesign"
+    },
+    {
+        "餘備性": "redundancy"
+    },
+    {
+        "關聯性": "relevance"
+    },
+    {
+        "相關變數": "relevant variable"
+    },
+    {
+        "信度；可靠性；信賴度": "reliability"
+    },
+    {
+        "信度分析": "reliability analysis"
+    },
+    {
+        "浮雕；緩解": "relief"
+    },
+    {
+        "凸版印刷": "relief printing"
+    },
+    {
+        "重新模式化；模式重建": "repattern"
+    },
+    {
+        "重複": "repetition"
+    },
+    {
+        "再現；表現；表徵": "representation"
+    },
+    {
+        "再現形狀；表徵形狀": "representational shape"
+    },
+    {
+        "再製；複製": "reproduction"
+    },
+    {
+        "研究": "research"
+    },
+    {
+        "研究與開發{=研發}": "research and development {=R&D}"
+    },
+    {
+        "研究假設": "research hypothesis"
+    },
+    {
+        "解析度": "resolution"
+    },
+    {
+        "投資報酬率": "return on investment {=ROI}"
+    },
+    {
+        "再利用": "reuse"
+    },
+    {
+        "反向腦力激盪": "reverse brainstorming"
+    },
+    {
+        "修辭形式": "rhetorical form"
+    },
+    {
+        "韻律": "rhythm"
+    },
+    {
+        "韻律關係": "rhythmic relationship"
+    },
+    {
+        "富媒體；豐富媒體": "rich media"
+    },
+    {
+        "富媒體矩形廣告": "rich media rectangle ad"
+    },
+    {
+        "風險查核": "risk audit"
+    },
+    {
+        "風險管理": "risk management"
+    },
+    {
+        "風險感知；風險知覺": "risk perception"
+    },
+    {
+        "機器人裝配": "robot assembly"
+    },
+    {
+        "旋轉成型": "rotational molding"
+    },
+    {
+        "凹版印刷": "rotogravure"
+    },
+    {
+        "流程分析；路由分析": "routing analysis"
+    },
+    {
+        "播出次數": "runs"
+    },
+    {
+        "騎馬釘；騎馬式裝訂": "saddle stitch"
+    },
+    {
+        "安全係數": "safety factor"
+    },
+    {
+        "安全庫存": "safety stock"
+    },
+    {
+        "銷售量推測": "sales projection"
+    },
+    {
+        "桑基圖": "Sankey diagram"
+    },
+    {
+        "滿意度": "satisfaction"
+    },
+    {
+        "飽和度": "saturation"
+    },
+    {
+        "尺度；比例；刻度；量表": "scale"
+    },
+    {
+        "比例因素；比例因子": "scale factor"
+    },
+    {
+        "比例模型": "scale model"
+    },
+    {
+        "奔馳法": "SCAMPER"
+    },
+    {
+        "情境劇本；情境腳本；情境故事法": "scenario"
+    },
+    {
+        "情境描述泳道流程圖": "scenario description swimlanes"
+    },
+    {
+        "場景": "scene"
+    },
+    {
+        "場景轉換": "scene-to-scene transition"
+    },
+    {
+        "進度表": "schedule"
+    },
+    {
+        "劇本": "screenplay"
+    },
+    {
+        "腳本": "script"
+    },
+    {
+        "捲軸；滾動條": "scrollbar"
+    },
+    {
+        "搜尋領域": "search field"
+    },
+    {
+        "搜尋空間": "search space"
+    },
+    {
+        "座椅參考水平": "seat reference level {=SRL}"
+    },
+    {
+        "座椅參考點": "seat reference point {=SRP}"
+    },
+    {
+        "二次色；間色": "secondary color"
+    },
+    {
+        "剖面圖": "section view"
+    },
+    {
+        "選擇評估準則": "selection criteria"
+    },
+    {
+        "自我表現": "self-expression"
+    },
+    {
+        "自組織系統": "self-organizing system"
+    },
+    {
+        "自我報告；自陳報告": "self-report"
+    },
+    {
+        "自相似性": "self-similarity"
+    },
+    {
+        "語意功能": "semantic function"
+    },
+    {
+        "語意學": "semantics"
+    },
+    {
+        "符號學": "semiotics"
+    },
+    {
+        "半結構化訪談": "semi-structured interview"
+    },
+    {
+        "次要輪廓線": "secondary contour"
+    },
+    {
+        "感官儲存": "sensory storage"
+    },
+    {
+        "順序方法": "sequential approach"
+    },
+    {
+        "系列": "series"
+    },
+    {
+        "嚴肅廣告": "serious advertising"
+    },
+    {
+        "嚴肅遊戲": "serious game"
+    },
+    {
+        "服務設計": "service design"
+    },
+    {
+        "佈景；場佈；環境；安裝；設定": "setting"
+    },
+    {
+        "暗色；暗性": "shade"
+    },
+    {
+        "描影；明暗法": "shading"
+    },
+    {
+        "影子法；見習法": "shadowing"
+    },
+    {
+        "形狀；外形": "shape"
+    },
+    {
+        "聲量佔有率": "share of voice"
+    },
+    {
+        "貨架期": "shelf life"
+    },
+    {
+        "短期記憶": "short-term memory"
+    },
+    {
+        "展示間效應": "showroom effect"
+    },
+    {
+        "收縮": "shrinkage"
+    },
+    {
+        "伙伴；搭檔": "sidekick"
+    },
+    {
+        "側光": "sidelight"
+    },
+    {
+        "邊線；界線": "sideline"
+    },
+    {
+        "訊噪比": "signal-to-noise ratio {=s/n ratio}"
+    },
+    {
+        "相似性；類似性": "similarity"
+    },
+    {
+        "明喻": "simile"
+    },
+    {
+        "模擬": "simulation"
+    },
+    {
+        "同時性對比": "simultaneous contrast"
+    },
+    {
+        "網站地圖": "sitemap"
+    },
+    {
+        "情境意識；情境感知": "situated awareness"
+    },
+    {
+        "情境模擬": "situated simulation"
+    },
+    {
+        "小型大寫字母": "small caps"
+    },
+    {
+        "智能居家": "smart home"
+    },
+    {
+        "社會影響力": "social impact"
+    },
+    {
+        "社會意涵": "social implication"
+    },
+    {
+        "社群媒體": "social media"
+    },
+    {
+        "社經機能": "socio-economic function"
+    },
+    {
+        "軟行銷": "soft-sell"
+    },
+    {
+        "軟體": "software"
+    },
+    {
+        "軟體設計": "software design"
+    },
+    {
+        "實體模型": "solid model"
+    },
+    {
+        "解答空間": "solution space"
+    },
+    {
+        "垃圾郵件": "[e-mail] spam"
+    },
+    {
+        "空間關係": "spatial relationship"
+    },
+    {
+        "專業化": "specialization"
+    },
+    {
+        "脊椎曲線": "spinal curve"
+    },
+    {
+        "分離互補色；補色分割": "split complementary color"
+    },
+    {
+        "贊助者": "sponsor"
+    },
+    {
+        "自發性解答": "spontaneous solution"
+    },
+    {
+        "檔次[播出]時間": "spot time"
+    },
+    {
+        "聚光燈": "spotlight"
+    },
+    {
+        "利害關係人": "stakeholder"
+    },
+    {
+        "標準廣告單位": "standard advertising unit {=SAU}"
+    },
+    {
+        "標準化": "standardization"
+    },
+    {
+        "文具設計": "stationery design"
+    },
+    {
+        "現狀": "status quo"
+    },
+    {
+        "刻版印象": "stereotype"
+    },
+    {
+        "黏著性": "stickiness"
+    },
+    {
+        "刺激-反應": "stimulus-response"
+    },
+    {
+        "機率模型": "stochastic model"
+    },
+    {
+        "故事板；分鏡圖": "storyboard"
+    },
+    {
+        "說故事": "storytelling"
+    },
+    {
+        "策略": "strategy"
+    },
+    {
+        "策略分析": "strategy analysis"
+    },
+    {
+        "策略控制": "strategy control"
+    },
+    {
+        "策略制定": "strategy formulation"
+    },
+    {
+        "策略執行": "strategy implementation"
+    },
+    {
+        "策略監控": "strategy monitor"
+    },
+    {
+        "策略轉換": "strategy switch"
+    },
+    {
+        "串流媒體": "streaming media"
+    },
+    {
+        "流線": "streamline"
+    },
+    {
+        "結構類比": "structural analogy"
+    },
+    {
+        "結構形態": "structural form"
+    },
+    {
+        "結構模型": "structural model"
+    },
+    {
+        "結構性訪談": "structured interview"
+    },
+    {
+        "結構性觀察": "structured observation"
+    },
+    {
+        "風格；樣式；外形": "style"
+    },
+    {
+        "形塑；風格；造形": "styling"
+    },
+    {
+        "次目標": "subgoal"
+    },
+    {
+        "主題；受測者": "subject"
+    },
+    {
+        "主觀評論": "subjective criticism"
+    },
+    {
+        "主觀分群": "subjective grouping"
+    },
+    {
+        "主題轉場": "subject-to-subject transition"
+    },
+    {
+        "減色": "subtractive color"
+    },
+    {
+        "減法雕塑": "subtractive sculpture"
+    },
+    {
+        "假想；假定": "supposition"
+    },
+    {
+        "表面材質；表面紋理": "surface texture"
+    },
+    {
+        "持續性創新": "sustaining innovation"
+    },
+    {
+        "優劣勢分析；強弱危機分析": "SWOT analysis"
+    },
+    {
+        "象徵；符號": "symbol"
+    },
+    {
+        "象徵類比": "symbolic analogy"
+    },
+    {
+        "符號語言": "symbolic language"
+    },
+    {
+        "對稱性平衡": "symmetrical balance"
+    },
+    {
+        "對稱平衡": "symmetric balance"
+    },
+    {
+        "對稱": "symmetry"
+    },
+    {
+        "提喻法；關聯法": "synectics"
+    },
+    {
+        "協同作用": "synergy"
+    },
+    {
+        "綜合；合成": "synthesis"
+    },
+    {
+        "系統分析": "system analysis"
+    },
+    {
+        "系統範疇": "system boundary"
+    },
+    {
+        "系統設計": "system design"
+    },
+    {
+        "系統工程": "system engineering"
+    },
+    {
+        "系統轉換": "system transformation"
+    },
+    {
+        "系統性方法": "systematic approach"
+    },
+    {
+        "系統性搜尋": "systematic search"
+    },
+    {
+        "系統理論": "systematic theory"
+    },
+    {
+        "觸覺材質；觸覺質感": "tactile texture"
+    },
+    {
+        "實體運算": "tangible computing"
+    },
+    {
+        "實體互動": "tangible interaction"
+    },
+    {
+        "實體介面": "tangible interface"
+    },
+    {
+        "有形產品": "tangible product"
+    },
+    {
+        "目標閱聽眾；目標受眾": "target audience {=TA}"
+    },
+    {
+        "目標族群；目標群體": "target group"
+    },
+    {
+        "目標價格": "target price"
+    },
+    {
+        "目標價值": "target value"
+    },
+    {
+        "任務釐清": "task clarification"
+    },
+    {
+        "任務動機": "task motivation"
+    },
+    {
+        "任務腳本": "task script"
+    },
+    {
+        "任務時間": "task time"
+    },
+    {
+        "分類技巧": "taxonomic skill"
+    },
+    {
+        "技術分析": "technical analysis"
+    },
+    {
+        "技術概念": "technical concept"
+    },
+    {
+        "技術限制": "technical constraint"
+    },
+    {
+        "技術評估": "technical evaluation"
+    },
+    {
+        "技術可行性": "technical feasibility"
+    },
+    {
+        "技術參數": "technical parameter"
+    },
+    {
+        "科技接受度": "technology acceptance"
+    },
+    {
+        "科技轉變": "technology change"
+    },
+    {
+        "科技預測": "technology forecasting"
+    },
+    {
+        "科技監控": "technology monitoring"
+    },
+    {
+        "科技機會": "technology opportunity"
+    },
+    {
+        "科技就緒水準": "technology readiness level {=TRL}"
+    },
+    {
+        "電話行銷": "telemarketing"
+    },
+    {
+        "節奏": "tempo"
+    },
+    {
+        "時間關係": "temporal relationship"
+    },
+    {
+        "張力": "tension"
+    },
+    {
+        "再混和色；再間色；三次色": "tertiary color"
+    },
+    {
+        "可測試性": "testability"
+    },
+    {
+        "證言式廣告": "testimonial advertising"
+    },
+    {
+        "測試": "testing"
+    },
+    {
+        "質感；材質": "texture"
+    },
+    {
+        "材質；貼圖": "texturing"
+    },
+    {
+        "主題網路": "thematic network"
+    },
+    {
+        "主題看板": "theme board"
+    },
+    {
+        "放聲思考法": "think-aloud method"
+    },
+    {
+        "第三人稱遊戲": "third-person game"
+    },
+    {
+        "威脅": "threat"
+    },
+    {
+        "威脅偵測": "threat detection"
+    },
+    {
+        "立體投影；三維投影": "three-dimensional projection"
+    },
+    {
+        "三點透視法": "three-point perspective"
+    },
+    {
+        "閾值": "threshold value"
+    },
+    {
+        "音色；音質": "timbre"
+    },
+    {
+        "淡色；淡性": "tint"
+    },
+    {
+        "公差；容許量": "tolerance"
+    },
+    {
+        "色調；調性": "tone"
+    },
+    {
+        "風格；調性": "tone and manner"
+    },
+    {
+        "由上而下": "top-down"
+    },
+    {
+        "位相關係": "topological relation"
+    },
+    {
+        "拓樸學；位相幾何學": "topology"
+    },
+    {
+        "扭轉": "torsion"
+    },
+    {
+        "總組裝時間": "total assembly time"
+    },
+    {
+        "整體解決方案": "total solution"
+    },
+    {
+        "玩具設計": "toy design"
+    },
+    {
+        "追蹤研究": "tracking study"
+    },
+    {
+        "交易": "trade-off"
+    },
+    {
+        "權衡方法": "trade-off method"
+    },
+    {
+        "特徵；表徵": "trait"
+    },
+    {
+        "轉換；轉型": "transformation"
+    },
+    {
+        "交通工具廣告": "transit advertising"
+    },
+    {
+        "候車亭": "transit shelter"
+    },
+    {
+        "轉場": "transition"
+    },
+    {
+        "遞移順序": "transitive ordering"
+    },
+    {
+        "遞移性": "transitivity"
+    },
+    {
+        "轉譯器；翻譯器；翻譯者": "translator"
+    },
+    {
+        "傳遞器；傳輸器": "transmitter"
+    },
+    {
+        "透明設計": "transparent design"
+    },
+    {
+        "交通工具設計": "transportation design"
+    },
+    {
+        "三等分配色": "triadic color scheme"
+    },
+    {
+        "試誤法": "trial and error"
+    },
+    {
+        "試作；試行": "trial run"
+    },
+    {
+        "搗蛋角色": "trickster"
+    },
+    {
+        "除錯": "trouble-shooting"
+    },
+    {
+        "狹窄視野": "tunnel vision"
+    },
+    {
+        "替換率；周轉率": "turnover rate"
+    },
+    {
+        "電視廣告": "TV commercial"
+    },
+    {
+        "雙層薄板成形": "twin sheet forming"
+    },
+    {
+        "兩點透視法": "two-point perspective"
+    },
+    {
+        "字樣": "typestyle"
+    },
+    {
+        "類型學": "typology"
+    },
+    {
+        "使用者介面流程；頁面操作流程": "UI flow"
+    },
+    {
+        "無輔助回憶度；未提示知名度": "unaided recall"
+    },
+    {
+        "不確定性": "uncertainty"
+    },
+    {
+        "不確定性原理": "uncertainty principle"
+    },
+    {
+        "均質連結性": "uniform connectedness"
+    },
+    {
+        "一致性；統一": "unity"
+    },
+    {
+        "非結構化訪談": "unstructured interview"
+    },
+    {
+        "使用性；可用性；易用性": "usability"
+    },
+    {
+        "使用性工程": "usability engineering"
+    },
+    {
+        "使用性測試": "usability testing"
+    },
+    {
+        "使用概念": "usage concept"
+    },
+    {
+        "使用者接受度測試": "user acceptance test"
+    },
+    {
+        "使用者接受度測試": "user acceptance test {=UAT}"
+    },
+    {
+        "使用者行為研究": "user behavior research"
+    },
+    {
+        "使用者經驗；用戶體驗": "user experience {=UX}"
+    },
+    {
+        "使用者體驗圖": "user experience map"
+    },
+    {
+        "使用者親和性；使用者友善性": "user friendliness"
+    },
+    {
+        "使用者介面": "user interface"
+    },
+    {
+        "使用者介面設計": "user interface design"
+    },
+    {
+        "使用者訪談": "user interview"
+    },
+    {
+        "使用者旅程圖": "user journey map"
+    },
+    {
+        "使用者模式": "user model"
+    },
+    {
+        "使用者知覺；使用者感知": "user perception"
+    },
+    {
+        "使用者為中心設計": "user-centered design"
+    },
+    {
+        "效用理論": "utility theory"
+    },
+    {
+        "真空成形": "vacuum forming"
+    },
+    {
+        "真空成型": "vacuum molding"
+    },
+    {
+        "效度；適切性": "validity"
+    },
+    {
+        "價值分析": "value analysis"
+    },
+    {
+        "價值工學": "value engineering"
+    },
+    {
+        "價值估計": "value estimation"
+    },
+    {
+        "價值函數": "value function"
+    },
+    {
+        "價值判斷": "value judgement"
+    },
+    {
+        "價值機會分析": "value opportunity analysis"
+    },
+    {
+        "價值主張": "value proposition"
+    },
+    {
+        "價值系統設計": "value system design"
+    },
+    {
+        "消失點": "vanishing point"
+    },
+    {
+        "多樣性": "variety"
+    },
+    {
+        "自動販賣機": "vending machine"
+    },
+    {
+        "暈邊小插圖": "vignette"
+    },
+    {
+        "反派角色": "villain"
+    },
+    {
+        "病毒式行銷": "viral marketing"
+    },
+    {
+        "虛擬實境": "virtual reality {=VR}"
+    },
+    {
+        "可視性；能見度": "visibility"
+    },
+    {
+        "視覺傳達設計": "visual communication design"
+    },
+    {
+        "視覺一致性": "visual consistency"
+    },
+    {
+        "視覺恆常性": "visual constancy"
+    },
+    {
+        "視覺設計": "visual design"
+    },
+    {
+        "視覺回饋": "visual feedback"
+    },
+    {
+        "視覺識別": "visual identity {=VI}"
+    },
+    {
+        "視覺衝擊": "visual impact"
+    },
+    {
+        "視知覺": "visual perception"
+    },
+    {
+        "視覺簡潔性": "visual simplicity"
+    },
+    {
+        "視覺質感": "visual texture"
+    },
+    {
+        "視感重量": "visual weight"
+    },
+    {
+        "生機論": "vitalism"
+    },
+    {
+        "生機雕塑": "vitalistic sculpture"
+    },
+    {
+        "顧客心聲；客戶聲音": "voice of customer {=VOC}"
+    },
+    {
+        "語音使用者介面": "voice user interface {=VUI}"
+    },
+    {
+        "旁白": "voice-over"
+    },
+    {
+        "量體；體積；音量": "volume"
+    },
+    {
+        "腰臀比": "waist-to-hip ratio"
+    },
+    {
+        "外牆看板": "wallscape"
+    },
+    {
+        "暖身": "warming-up"
+    },
+    {
+        "廢棄物處理": "waste disposal"
+    },
+    {
+        "浮水印": "watermarking"
+    },
+    {
+        "穿戴式裝置": "wearable device"
+    },
+    {
+        "衰退效應{廣告}": "wearout effect"
+    },
+    {
+        "網站分析": "web analysis"
+    },
+    {
+        "網站設計": "web design"
+    },
+    {
+        "網路廣播": "webcasting"
+    },
+    {
+        "網頁": "webpage"
+    },
+    {
+        "重量；權重": "weight"
+    },
+    {
+        "目標加權法": "weighted objective method"
+    },
+    {
+        "加權": "weighting"
+    },
+    {
+        "加權因子": "weighting factor"
+    },
+    {
+        "加權機制": "weighting mechanism"
+    },
+    {
+        "棘手問題": "wicked problem"
+    },
+    {
+        "小工具；小型應用程式": "widget"
+    },
+    {
+        "風洞": "wind tunnel"
+    },
+    {
+        "塗抹；刷去": "wipe"
+    },
+    {
+        "線架構；線框圖；線圖": "wireframe"
+    },
+    {
+        "願望": "wish"
+    },
+    {
+        "一廂情願；癡心妄想": "wishful thinking"
+    },
+    {
+        "奧茲巫師法{互動設計}": "Wizard Of Oz"
+    },
+    {
+        "文字雲": "word cloud"
+    },
+    {
+        "口碑行銷": "word of mouth {=WOM}"
+    },
+    {
+        "工作記憶": "working memory"
+    },
+    {
+        "功能模型": "working model"
+    },
+    {
+        "工作空間": "workspace"
+    },
+    {
+        "工作站": "workstation"
+    },
+    {
+        "價值評估": "worth assessment"
+    }
+]

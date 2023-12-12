@@ -1,0 +1,5171 @@
+[
+    {
+        "追蹤": "tracking"
+    },
+    {
+        "追蹤誤差": "tracking error"
+    },
+    {
+        "追蹤濾波器": "tracking filter"
+    },
+    {
+        "追蹤望遠鏡": "tracking telescope"
+    },
+    {
+        "商用法碼": "trade weight"
+    },
+    {
+        "傳統染色法": "traditional stain"
+    },
+    {
+        "交通噪音": "traffic noise"
+    },
+    {
+        "痕跡；拖曳": "trail"
+    },
+    {
+        "後沿；後緣": "trailing edge"
+    },
+    {
+        "後緣衰減長度{發射函數}": "trailing edge decay length"
+    },
+    {
+        "系列；列車": "train"
+    },
+    {
+        "列車衡量": "train weighing"
+    },
+    {
+        "橢圓量規": "trammel"
+    },
+    {
+        "跨導納": "transadmittance"
+    },
+    {
+        "互導；跨導": "transconductance"
+    },
+    {
+        "跨導電橋": "transconductance bridge"
+    },
+    {
+        "跨導管": "transconductance tube"
+    },
+    {
+        "換能器": "transducer"
+    },
+    {
+        "換能器失真": "transducer distortion"
+    },
+    {
+        "換能器元件": "transducer element"
+    },
+    {
+        "換能器量規": "transducer gauge"
+    },
+    {
+        "換能器架": "transducer mount"
+    },
+    {
+        "換能器相移": "transducer phase shift"
+    },
+    {
+        "換能器靈敏度": "transducer sensitivity"
+    },
+    {
+        "轉換元件": "transduction element"
+    },
+    {
+        "轉換原理": "transduction principle"
+    },
+    {
+        "飽和電抗器": "transductor"
+    },
+    {
+        "傳遞準確度": "transfer accuracy"
+    },
+    {
+        "轉移導納": "transfer admittance"
+    },
+    {
+        "轉移卡尺": "transfer calipers"
+    },
+    {
+        "轉移特性；傳遞特性": "transfer characteristic"
+    },
+    {
+        "轉移係數": "transfer coefficient"
+    },
+    {
+        "傳遞比較": "transfer comparison"
+    },
+    {
+        "傳遞數據": "transfer data"
+    },
+    {
+        "傳送裝置": "transfer device"
+    },
+    {
+        "傳遞誤差": "transfer error"
+    },
+    {
+        "傳遞函數；轉換函數": "transfer function"
+    },
+    {
+        "傳遞阻抗；轉移阻抗": "transfer impedance"
+    },
+    {
+        "傳遞儀器": "transfer instrument"
+    },
+    {
+        "傳遞滯後": "transfer lag"
+    },
+    {
+        "傳遞量測": "transfer measurement"
+    },
+    {
+        "傳遞量測裝置": "transfer measurement device"
+    },
+    {
+        "傳動機構；傳遞機制": "transfer mechanism"
+    },
+    {
+        "傳遞遷移率；傳遞移動率": "transfer mobility"
+    },
+    {
+        "單位傳遞": "transfer of unit"
+    },
+    {
+        "傳遞振盪器": "transfer oscillator"
+    },
+    {
+        "傳遞電阻率": "transfer resistivity"
+    },
+    {
+        "傳遞分流器": "transfer shunt"
+    },
+    {
+        "傳遞源": "transfer source"
+    },
+    {
+        "轉移標準；傳遞標準": "transfer standard"
+    },
+    {
+        "轉接開關": "transfer switch"
+    },
+    {
+        "遷移理論": "transfer theory"
+    },
+    {
+        "傳遞時間；轉換時間；遷移時間": "transfer time"
+    },
+    {
+        "傳遞電壓": "transfer voltage"
+    },
+    {
+        "傳遞電壓標準": "transfer voltage standard"
+    },
+    {
+        "傳遞級游離腔": "transfer-quality ionization chamber"
+    },
+    {
+        "變換光譜術": "transform spectrometry"
+    },
+    {
+        "變換機率；轉換機率": "transformation probability"
+    },
+    {
+        "變換比": "transformation ratio"
+    },
+    {
+        "變換放大率": "transformative magnification"
+    },
+    {
+        "變換換能器": "transformative transducer"
+    },
+    {
+        "轉換值": "transformed value"
+    },
+    {
+        "待測量變換值": "transformed value of a measurand"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "變壓器電橋": "transformer bridge"
+    },
+    {
+        "變壓器線圈": "transformer coil"
+    },
+    {
+        "變壓器式比較電橋": "transformer comparator bridge"
+    },
+    {
+        "變壓分壓器": "transformer divider"
+    },
+    {
+        "併用變比器式電度表": "transformer operated meter"
+    },
+    {
+        "變壓比": "transformer ratio"
+    },
+    {
+        "變壓器式比例電橋": "transformer ratio bridge"
+    },
+    {
+        "變壓器熱轉換器伏特計": "transformer-thermal converter voltmeter"
+    },
+    {
+        "瞬時；暫態": "transient"
+    },
+    {
+        "瞬時加速度": "transient acceleration"
+    },
+    {
+        "瞬時分析器": "transient analyzer"
+    },
+    {
+        "暫態氣候響應": "transient climate response"
+    },
+    {
+        "暫態電流": "transient current"
+    },
+    {
+        "瞬時離差": "transient deviation"
+    },
+    {
+        "暫態擾動": "transient disturbance"
+    },
+    {
+        "暫態誤差": "transient error"
+    },
+    {
+        "暫態法": "transient method"
+    },
+    {
+        "瞬時狀態": "transient mode"
+    },
+    {
+        "瞬時雜訊": "transient noise"
+    },
+    {
+        "瞬時振盪": "transient oscillation"
+    },
+    {
+        "瞬時相移": "transient phase shift"
+    },
+    {
+        "瞬時電漿": "transient plasma"
+    },
+    {
+        "暫態響應": "transient response"
+    },
+    {
+        "暫態信號": "transient signal"
+    },
+    {
+        "暫態": "transient state"
+    },
+    {
+        "瞬時主體；暫態主體": "transient subject"
+    },
+    {
+        "瞬時突波；暫態突波": "transient surge"
+    },
+    {
+        "電晶體參數儀表": "transistor parameter meter"
+    },
+    {
+        "中天；淩日；經緯儀；中星儀；轉鏡儀": "transit"
+    },
+    {
+        "經緯儀測量": "transit survey"
+    },
+    {
+        "子午儀": "transit telescope"
+    },
+    {
+        "躍遷時間；中天時間；過渡時間": "transit time"
+    },
+    {
+        "傳輸時間法": "transit time method"
+    },
+    {
+        "過渡；躍遷": "transition"
+    },
+    {
+        "過渡配合": "transition fit"
+    },
+    {
+        "躍遷頻率": "transition frequency"
+    },
+    {
+        "轉變層": "transition layer"
+    },
+    {
+        "躍遷周期": "transition period"
+    },
+    {
+        "轉變點": "transition point"
+    },
+    {
+        "躍遷率": "transition rate"
+    },
+    {
+        "躍遷區": "transition region"
+    },
+    {
+        "轉變溫度": "transition temperature"
+    },
+    {
+        "過渡流率": "transitional flow rate"
+    },
+    {
+        "平移": "translation"
+    },
+    {
+        "端點平移直線": "translation end-point line"
+    },
+    {
+        "平移位移": "translational displacement"
+    },
+    {
+        "平移量測": "translational measurement"
+    },
+    {
+        "平移系統": "translational system"
+    },
+    {
+        "平移振動": "translational vibration"
+    },
+    {
+        "傳送器；譯碼器": "translator"
+    },
+    {
+        "半透明體": "translucent body"
+    },
+    {
+        "半透明介質": "translucent medium"
+    },
+    {
+        "透射量測法": "transmissiometry"
+    },
+    {
+        "發送；傳遞；傳輸；透射": "transmission"
+    },
+    {
+        "透射衰減；傳輸衰減": "transmission attenuation"
+    },
+    {
+        "傳動箱；變速箱": "transmission box"
+    },
+    {
+        "透射特性；傳輸特性": "transmission characteristic"
+    },
+    {
+        "透射係數；傳輸係數": "transmission coefficient"
+    },
+    {
+        "透射常數；傳輸常數": "transmission constant"
+    },
+    {
+        "透射曲線": "transmission curve"
+    },
+    {
+        "透射密度計": "transmission densitometer"
+    },
+    {
+        "透射[光]密度": "transmission density"
+    },
+    {
+        "透射偵測器": "transmission detector"
+    },
+    {
+        "傳動測力計": "transmission dynamometer"
+    },
+    {
+        "透射電子顯微學": "transmission electron microscopy {TEM}"
+    },
+    {
+        "透射因子": "transmission factor"
+    },
+    {
+        "透射濾光片；透射濾波器": "transmission filter"
+    },
+    {
+        "傳輸線": "transmission line"
+    },
+    {
+        "傳輸損失": "transmission loss"
+    },
+    {
+        "傳輸介質": "transmission medium"
+    },
+    {
+        "傳輸參數": "transmission parameter"
+    },
+    {
+        "[參考]標準平板": "transmission plate"
+    },
+    {
+        "傳輸功率計": "transmission power meter"
+    },
+    {
+        "透射比": "transmission ratio"
+    },
+    {
+        "透射式半導體偵測器": "transmission semiconductor detector"
+    },
+    {
+        "透射譜": "transmission spectrum"
+    },
+    {
+        "[參考]標準鏡頭{干涉儀使用}": "transmission spheres"
+    },
+    {
+        "透射系統；傳遞系統；傳輸系統": "transmission system"
+    },
+    {
+        "穿透標的": "transmission target"
+    },
+    {
+        "穿透式厚度計": "transmission thickness meter"
+    },
+    {
+        "傳送換能器": "transmission transducer"
+    },
+    {
+        "透射率": "transmissivity"
+    },
+    {
+        "透射計": "transmissometer"
+    },
+    {
+        "透射量測術": "transmissometry"
+    },
+    {
+        "透射率": "transmittance"
+    },
+    {
+        "發射通量；傳輸通量": "transmitted flux"
+    },
+    {
+        "透射近場掃描法": "transmitted near-field scanning method"
+    },
+    {
+        "發射功率；傳輸功率": "transmitted power"
+    },
+    {
+        "發送功率計": "transmitted power meter"
+    },
+    {
+        "透射射線": "transmitted ray"
+    },
+    {
+        "透射式擴散": "transmitting diffuse"
+    },
+    {
+        "發射式儀器": "transmitting instrument"
+    },
+    {
+        "發射台；播送台": "transmitting station"
+    },
+    {
+        "遷變；質變；蛻變": "transmutation"
+    },
+    {
+        "透明度": "transparency"
+    },
+    {
+        "透明傳播": "transparency propagation"
+    },
+    {
+        "透明體": "transparent body"
+    },
+    {
+        "透明色樣品": "transparent color sample"
+    },
+    {
+        "透明材料": "transparent material"
+    },
+    {
+        "透明介質": "transparent medium"
+    },
+    {
+        "透明反射鏡": "transparent reflector"
+    },
+    {
+        "移植": "transplantation"
+    },
+    {
+        "遷移截面": "transport cross section"
+    },
+    {
+        "傳輸平均自由徑；遷移平均自由徑": "transport mean free path"
+    },
+    {
+        "可運送式標準電池": "transportable standard cell"
+    },
+    {
+        "運輸使用": "transportable use"
+    },
+    {
+        "運輸誤差": "transportation error"
+    },
+    {
+        "換位誤差": "transposition error"
+    },
+    {
+        "置換量測法": "transposition method of measurement"
+    },
+    {
+        "橫向比較儀": "transversal comparator"
+    },
+    {
+        "橫軸": "transverse axis"
+    },
+    {
+        "橫向同調性；橫向相干性": "transverse coherence"
+    },
+    {
+        "橫向收縮": "transverse contraction"
+    },
+    {
+        "橫電波": "transverse electric wave"
+    },
+    {
+        "橫電磁波室": "transverse electromagnetic transmission cell"
+    },
+    {
+        "橫電磁波；橫向電磁波": "transverse electromagnetic wave"
+    },
+    {
+        "橫向視野": "transverse field of view"
+    },
+    {
+        "橫向加熱器": "transverse heater"
+    },
+    {
+        "橫向干擾": "transverse interference"
+    },
+    {
+        "橫向加載": "transverse loading"
+    },
+    {
+        "橫磁波": "transverse magnetic wave"
+    },
+    {
+        "橫向磁化": "transverse magnetization"
+    },
+    {
+        "橫向磁致伸縮係數": "transverse magnetostriction coefficient"
+    },
+    {
+        "橫向模": "transverse mode"
+    },
+    {
+        "橫向疊紋條紋": "transverse moiré fringe"
+    },
+    {
+        "橫向移動": "transverse motion"
+    },
+    {
+        "橫向點散布函數；橫向點展開函數": "transverse point spread function"
+    },
+    {
+        "橫剖面": "transverse profile"
+    },
+    {
+        "橫向範圍": "transverse range"
+    },
+    {
+        "橫向解析度": "transverse resolution"
+    },
+    {
+        "橫向靈敏度": "transverse sensitivity"
+    },
+    {
+        "橫向群離": "transverse straggling"
+    },
+    {
+        "橫切斷層掃瞄；橫向斷層掃描": "transverse tomography"
+    },
+    {
+        "橫向振動": "transverse vibration"
+    },
+    {
+        "橫波": "transverse wave"
+    },
+    {
+        "橫向電流炭粒式麥克風": "transverse-current carbon microphone"
+    },
+    {
+        "變換器；換流器；變頻器": "transverter"
+    },
+    {
+        "陷阱；陷波器": "trap"
+    },
+    {
+        "梯形脈衝": "trapezoidal pulse"
+    },
+    {
+        "陷獲場": "trapped field"
+    },
+    {
+        "潛在危害設陷區": "trapping zone"
+    },
+    {
+        "行動托架": "traveling carriage"
+    },
+    {
+        "便攜式電池": "traveling cell"
+    },
+    {
+        "移動小數點": "traveling decimal point"
+    },
+    {
+        "行波場；行進場": "traveling field"
+    },
+    {
+        "搬運組": "traveling group"
+    },
+    {
+        "搬運電感器": "traveling inductor"
+    },
+    {
+        "移動式顯微鏡": "traveling microscope"
+    },
+    {
+        "移動式探頭": "traveling probe"
+    },
+    {
+        "行波": "traveling wave"
+    },
+    {
+        "行波示波器": "traveling-wave oscilloscope"
+    },
+    {
+        "遊動式量測標準": "travelling measurement standard"
+    },
+    {
+        "遊動式標準": "travelling standard"
+    },
+    {
+        "行波": "travelling wave"
+    },
+    {
+        "橫指標機構": "traversing indexing mechanism"
+    },
+    {
+        "盤；支架；托架": "tray"
+    },
+    {
+        "治療錐": "treatment cone"
+    },
+    {
+        "試驗；檢驗": "trial"
+    },
+    {
+        "試誤法": "trial and error method"
+    },
+    {
+        "嘗試法": "trial method"
+    },
+    {
+        "三角形縱斷面堰": "triangular profile weir"
+    },
+    {
+        "三角形花鍵量規": "triangular spline gauge"
+    },
+    {
+        "三角測量": "triangulation"
+    },
+    {
+        "摩擦發光": "triboluminescence"
+    },
+    {
+        "三色性": "trichroism"
+    },
+    {
+        "三原色色度計": "trichromatic colorimeter"
+    },
+    {
+        "三色度坐標": "trichromatic coordinates"
+    },
+    {
+        "三原色方程": "trichromatic equations"
+    },
+    {
+        "三原色系統": "trichromatic system"
+    },
+    {
+        "三原色單位": "trichromatic unit"
+    },
+    {
+        "點滴式充電": "trickle charge"
+    },
+    {
+        "制動圈": "trig loop"
+    },
+    {
+        "觸發器": "trigger"
+    },
+    {
+        "觸發電路": "trigger circuit"
+    },
+    {
+        "觸發鑑別器": "trigger discriminator"
+    },
+    {
+        "觸發誤差": "trigger error"
+    },
+    {
+        "觸發電平；觸發位準": "trigger level"
+    },
+    {
+        "觸發機構": "trigger mechanism"
+    },
+    {
+        "觸發掃掠示波器": "triggered-sweep oscilloscope"
+    },
+    {
+        "觸發前沿": "triggering edge"
+    },
+    {
+        "觸發模態": "triggering mode"
+    },
+    {
+        "修整電位計": "trim potentiometer"
+    },
+    {
+        "調整片；微調器；微調電容器": "trimmer"
+    },
+    {
+        "三相點": "triple point"
+    },
+    {
+        "氫平衡三相點": "triple point of equilibrium hydrogen"
+    },
+    {
+        "氮三相點": "triple point of nitrogen"
+    },
+    {
+        "水三相點": "triple point of water"
+    },
+    {
+        "三重標度": "triple scale"
+    },
+    {
+        "三相點囊": "triple-point cell"
+    },
+    {
+        "三層壁容器": "triple-walled container"
+    },
+    {
+        "三色刺激": "tristimulus"
+    },
+    {
+        "三[色]刺激色度計": "tristimulus colorimeter"
+    },
+    {
+        "三[色]刺激色度學": "tristimulus colorimetry"
+    },
+    {
+        "三[色]刺激幕片色度計": "tristimulus mask colorimeter"
+    },
+    {
+        "三色刺激值": "tristimulus values"
+    },
+    {
+        "特羅蘭{為勒克森之同義字，視網膜照度單位}": "troland"
+    },
+    {
+        "槽形[秤]盤": "trough-type pan"
+    },
+    {
+        "金衡盎司{31.1048公克}": "troy ounce"
+    },
+    {
+        "金衡磅{0.373公斤}": "troy pound"
+    },
+    {
+        "金衡制": "troy system"
+    },
+    {
+        "英國金衡制；藥劑重量": "troy weight"
+    },
+    {
+        "地秤": "truck scale"
+    },
+    {
+        "真活度": "true activity"
+    },
+    {
+        "真重合": "true coincidence"
+    },
+    {
+        "真計數率": "true count rate"
+    },
+    {
+        "真平面": "true plane"
+    },
+    {
+        "真量值": "true quantity value"
+    },
+    {
+        "真恆星時": "true sidereal time"
+    },
+    {
+        "真值": "true value"
+    },
+    {
+        "真實度控制物質": "trueness control material"
+    },
+    {
+        "電子管測試器": "tube tester"
+    },
+    {
+        "電子管伏特計": "tube voltameter"
+    },
+    {
+        "立體放射照相術；管移位放射照相術": "tube-shift radiography"
+    },
+    {
+        "結核菌素試驗": "tuberculin test"
+    },
+    {
+        "管狀黑體源": "tubular blackbody source"
+    },
+    {
+        "管狀結構": "tubular structure"
+    },
+    {
+        "塔克曼應變計": "Tuckerman strain gage"
+    },
+    {
+        "可調[諧]雷射": "tunable laser"
+    },
+    {
+        "調諧放大器": "tuned amplifier"
+    },
+    {
+        "調諧空腔波長計": "tuned cavity wavemeter"
+    },
+    {
+        "調諧減振器": "tuned vibration reducer"
+    },
+    {
+        "調諧器": "tuner"
+    },
+    {
+        "鎢鹵化物燈": "tungsten halide lamp"
+    },
+    {
+        "鎢絲鹵素燈": "tungsten halogen lamp"
+    },
+    {
+        "鎢絲燈": "tungsten lamp"
+    },
+    {
+        "鎢帶燈": "tungsten ribbon lamp"
+    },
+    {
+        "鎢片燈": "tungsten strip lamp"
+    },
+    {
+        "調諧": "tuning"
+    },
+    {
+        "音叉": "tuning fork"
+    },
+    {
+        "音叉檢測": "tuning fork detection"
+    },
+    {
+        "調諧計": "tuning meter"
+    },
+    {
+        "調諧範圍": "tuning range"
+    },
+    {
+        "隧道二極體": "tunnel diode"
+    },
+    {
+        "隧道效應": "tunnel effect"
+    },
+    {
+        "隧道結": "tunnel junction"
+    },
+    {
+        "穿隧能障": "tunnelling barrier"
+    },
+    {
+        "穿隧機率": "tunnelling probability"
+    },
+    {
+        "穿隧能障高度": "tunnelling-barrier height"
+    },
+    {
+        "穿隧能障寬度": "tunnelling-barrier width"
+    },
+    {
+        "濁度計": "turbidimeter"
+    },
+    {
+        "濁度分析": "turbidimetric analysis"
+    },
+    {
+        "比濁法": "turbidimetric method"
+    },
+    {
+        "濁度量測術；比濁法": "turbidimetry"
+    },
+    {
+        "濁度；混濁性": "turbidity"
+    },
+    {
+        "濁度係數": "turbidity coefficient"
+    },
+    {
+        "混濁指示計": "turbidity indicator"
+    },
+    {
+        "濁度計": "turbidity meter"
+    },
+    {
+        "渦輪動力計": "turbine dynamometer"
+    },
+    {
+        "渦輪流量計": "turbine flowmeter"
+    },
+    {
+        "渦輪分子泵": "turbomolecular pump {= TMP}"
+    },
+    {
+        "湍流；紊流；擾動": "turbulence"
+    },
+    {
+        "湍流譜": "turbulence spectrum"
+    },
+    {
+        "紊流；湍流": "turbulent flow"
+    },
+    {
+        "紊流流體；湍流流體": "turbulent fluid"
+    },
+    {
+        "湍流加熱": "turbulent heating"
+    },
+    {
+        "紊流路易斯數": "turbulent Lewis number"
+    },
+    {
+        "紊動；湍流運動": "turbulent motion"
+    },
+    {
+        "湍流電漿": "turbulent plasma"
+    },
+    {
+        "紊流施密特數": "turbulent Schmidt number"
+    },
+    {
+        "圈；匝；轉[數]；轉動": "turn"
+    },
+    {
+        "轉折點": "turning point"
+    },
+    {
+        "周轉期；轉換時間": "turnover time"
+    },
+    {
+        "電視時頻播送": "TV time frequency transfer"
+    },
+    {
+        "特沃德爾比重計；特沃德爾浮計": "Twaddle hydrometer"
+    },
+    {
+        "特沃德爾標度": "Twaddle scale"
+    },
+    {
+        "微光現象": "twilight phenomena"
+    },
+    {
+        "微光偏振量測": "twilight polarization measurement"
+    },
+    {
+        "雙卡[路里]計": "twin calorimeter"
+    },
+    {
+        "雙微卡[路里]計": "twin microcalorimeter"
+    },
+    {
+        "雙探頭": "twin probe"
+    },
+    {
+        "雙T電橋": "twin T-bridge"
+    },
+    {
+        "雙負載量熱計": "twin-load bomb"
+    },
+    {
+        "雙筆記錄器": "twin-pen recorder"
+    },
+    {
+        "雙波干涉儀": "twin-wave interferometer"
+    },
+    {
+        "扭曲變形": "twisting deformation"
+    },
+    {
+        "扭[力]矩": "twisting moment"
+    },
+    {
+        "扭轉試驗": "twisting test"
+    },
+    {
+        "扭轉試驗器": "twisting tester"
+    },
+    {
+        "雙波長全像干涉術": "two wavelength holographic interferometry"
+    },
+    {
+        "雙向時頻信號傳送法": "two way time and frequency transfer"
+    },
+    {
+        "雙臂干涉儀": "two-arm interferometer"
+    },
+    {
+        "雙光束干涉儀": "two-beam interferometer"
+    },
+    {
+        "雙膜盒恆壓器": "two-bellows barostat"
+    },
+    {
+        "雙膜盒發射器": "two-bellows transmitter"
+    },
+    {
+        "雙體型卡[路里]計": "two-body type calorimeter"
+    },
+    {
+        "雙腔速調管": "two-cavity klystron"
+    },
+    {
+        "雙色高溫計": "two-color pyrometer"
+    },
+    {
+        "雙晶[體]譜儀": "two-crystal spectrometer"
+    },
+    {
+        "二維圖；平面圖": "two-dimensional diagram"
+    },
+    {
+        "二維流動": "two-dimensional flow"
+    },
+    {
+        "二維圖": "two-dimensional graph"
+    },
+    {
+        "二維重建": "two-dimensional reconstruction"
+    },
+    {
+        "二維紀錄": "two-dimensional record"
+    },
+    {
+        "二維光譜": "two-dimensional spectrum"
+    },
+    {
+        "二維應力": "two-dimensional stress"
+    },
+    {
+        "雙刀非對稱樑": "two-knife asymmetrical beam"
+    },
+    {
+        "雙刀樑": "two-knife beam"
+    },
+    {
+        "雙盤非對稱樑": "two-pan asymmetrical beam"
+    },
+    {
+        "雙筆記錄器": "two-pen recorder"
+    },
+    {
+        "二相連接": "two-phase connections"
+    },
+    {
+        "雙光子螢光監測器": "two-photon-fluorescence monitor"
+    },
+    {
+        "2π輻射偵測器": "two-pi radiation detector"
+    },
+    {
+        "雙平行板可變電容器": "two-plate variable capacitor"
+    },
+    {
+        "雙平行板雙環電容器": "two-plate-two-ring capacitor"
+    },
+    {
+        "兩級變壓器": "two-stage transformer"
+    },
+    {
+        "雙態串級過程": "two-state cascade process"
+    },
+    {
+        "雙束流不穩定性": "two-stream instability"
+    },
+    {
+        "二端法電橋": "two-terminal bridge"
+    },
+    {
+        "二端電容器": "two-terminal capacitor"
+    },
+    {
+        "二端阻抗": "two-terminal impedance"
+    },
+    {
+        "二端量測": "two-terminal measurement"
+    },
+    {
+        "二端電阻": "two-terminal resistance"
+    },
+    {
+        "二端電阻率": "two-terminal resistivity"
+    },
+    {
+        "雙軌跡示波器": "two-trace oscilloscope"
+    },
+    {
+        "雙視域裸眼式立體顯示器；雙視像裸眼式立體顯示器": "two-view auto-stereoscopic display"
+    },
+    {
+        "雙向品質管制表": "two-way quality control chart"
+    },
+    {
+        "特外曼-格林干涉儀": "Twyman-Green interferometer"
+    },
+    {
+        "廷德耳法；懸體測定法{測量微粒對光的散射}": "Tyndallometry"
+    },
+    {
+        "型號；型式": "type"
+    },
+    {
+        "A類量測不確定度評估": "type A evaluation of measurement uncertainty"
+    },
+    {
+        "型式認證": "type approval"
+    },
+    {
+        "型式認證證書": "type approval certificate"
+    },
+    {
+        "型式認證印證": "type approval mark"
+    },
+    {
+        "有限型式認證": "type approval with limited effect"
+    },
+    {
+        "B類量測不確定度評估": "type B evaluation of measurement uncertainty"
+    },
+    {
+        "型式評估": "type evaluation"
+    },
+    {
+        "型式評定報告": "type evaluation report"
+    },
+    {
+        "型式試驗": "type test"
+    },
+    {
+        "型式特定參數": "type-specific parameter"
+    },
+    {
+        "典型值": "typical value"
+    },
+    {
+        "U形管": "U-tube"
+    },
+    {
+        "U形管壓力計": "U-tube manometer"
+    },
+    {
+        "U形管黏度計": "U-tube viscometer"
+    },
+    {
+        "烏別洛特黏度計；烏氏黏度計": "Ubbelohde viscometer"
+    },
+    {
+        "英米寧{英制藥劑液量單位，等於0.0591939毫公升}": "UK minim"
+    },
+    {
+        "烏布里喜積分光度計": "Ulbricht integration photometer"
+    },
+    {
+        "烏布里喜球": "Ulbricht sphere"
+    },
+    {
+        "極限負載": "ultimate load"
+    },
+    {
+        "最終酸鹼度；最終pH值": "ultimate pH"
+    },
+    {
+        "極限壓力": "ultimate pressure"
+    },
+    {
+        "極限試驗": "ultimate test"
+    },
+    {
+        "極限真空": "ultimate vacuum"
+    },
+    {
+        "超高真空": "ultra-high vacuum"
+    },
+    {
+        "超低溫": "ultra-low temperature"
+    },
+    {
+        "超微電極": "ultra-micro electrode"
+    },
+    {
+        "超微量天平": "ultra-microbalance"
+    },
+    {
+        "超淺深度剖面": "ultra-shallow depth profile"
+    },
+    {
+        "紫外光電子光譜學；紫外光電子光譜法": "ultra-violet photoelectron spectroscopy {= UPS}"
+    },
+    {
+        "超緻密電漿": "ultradense plasma"
+    },
+    {
+        "超高頻": "ultrahigh frequency {= UHF}"
+    },
+    {
+        "超高真空計": "ultrahigh vacuum gauge"
+    },
+    {
+        "超微量分析": "ultramicro analysis"
+    },
+    {
+        "超靈敏氫偵測器": "ultrasensitive hydrogen detector"
+    },
+    {
+        "超音波量熱計": "ultrasonic bomb"
+    },
+    {
+        "超音波檢測": "ultrasonic detection"
+    },
+    {
+        "超音波診斷": "ultrasonic diagnosis"
+    },
+    {
+        "超音波測距儀": "ultrasonic distance measuring instrument"
+    },
+    {
+        "超音波都卜勒檢測系統": "ultrasonic Doppler method testing system"
+    },
+    {
+        "超音波照射": "ultrasonic exposure"
+    },
+    {
+        "超音波探傷": "ultrasonic flaw detection"
+    },
+    {
+        "超音波探傷儀": "ultrasonic flaw detector"
+    },
+    {
+        "超音波流量計": "ultrasonic flowmeter"
+    },
+    {
+        "超音波[原子]力顯微術": "ultrasonic force microscopy {= UFM}"
+    },
+    {
+        "超音波光柵": "ultrasonic grating"
+    },
+    {
+        "超音波硬度試驗器": "ultrasonic hardness tester"
+    },
+    {
+        "超音波檢驗": "ultrasonic inspection"
+    },
+    {
+        "超音波儀器": "ultrasonic instrument"
+    },
+    {
+        "超音波干涉術": "ultrasonic interferometry"
+    },
+    {
+        "超音波調光器；超音波光調制器": "ultrasonic light modulator"
+    },
+    {
+        "超音波量測": "ultrasonic measurement"
+    },
+    {
+        "超音波功率": "ultrasonic power"
+    },
+    {
+        "超音波功率計": "ultrasonic power meter"
+    },
+    {
+        "超音波探頭": "ultrasonic probe"
+    },
+    {
+        "超音波脈衝法": "ultrasonic pulse method"
+    },
+    {
+        "超音波感測器": "ultrasonic sensor"
+    },
+    {
+        "超音波源": "ultrasonic source"
+    },
+    {
+        "超音波譜儀": "ultrasonic spectrometer"
+    },
+    {
+        "超音波標準": "ultrasonic standard"
+    },
+    {
+        "超音波測試": "ultrasonic test"
+    },
+    {
+        "超音波溫度計": "ultrasonic thermometer"
+    },
+    {
+        "超音波厚度計": "ultrasonic thickness gauge"
+    },
+    {
+        "超音波人體組織假體": "ultrasonic tissue phantom"
+    },
+    {
+        "超音波換能器": "ultrasonic transducer"
+    },
+    {
+        "超音波黏度計": "ultrasonic viscometer"
+    },
+    {
+        "超音波學": "ultrasonics"
+    },
+    {
+        "超音波量分析": "ultrasonimetric analysis"
+    },
+    {
+        "超音波標準": "ultrasound standard"
+    },
+    {
+        "超痕量分析": "ultratrace analysis"
+    },
+    {
+        "紫外密度計": "ultraviolet densitometer"
+    },
+    {
+        "紫外劑量計": "ultraviolet dosimeter"
+    },
+    {
+        "紫外發射標準": "ultraviolet emission standard"
+    },
+    {
+        "紫外照射": "ultraviolet irradiation"
+    },
+    {
+        "紫外燈": "ultraviolet lamp"
+    },
+    {
+        "紫外檢漏器": "ultraviolet leak detector"
+    },
+    {
+        "紫外攝影術": "ultraviolet photography"
+    },
+    {
+        "紫外光度計": "ultraviolet photometer"
+    },
+    {
+        "紫外光度學": "ultraviolet photometry"
+    },
+    {
+        "紫外輻射": "ultraviolet radiation"
+    },
+    {
+        "紫外輻射標準": "ultraviolet radiation standard"
+    },
+    {
+        "紫外線": "ultraviolet ray"
+    },
+    {
+        "紫外線指數": "ultraviolet rays index {=UV-I}"
+    },
+    {
+        "紫外[線]區": "ultraviolet region"
+    },
+    {
+        "紫外分光計": "ultraviolet spectrometer"
+    },
+    {
+        "紫外線光譜儀": "ultraviolet spectrophotometer"
+    },
+    {
+        "恩可效應；逆轉效應": "Umkehr effect"
+    },
+    {
+        "仲裁樣品": "umpire sample"
+    },
+    {
+        "單值量測": "unambiguous measurement"
+    },
+    {
+        "未衰減射束": "unattenuated beam"
+    },
+    {
+        "未衰減射束品質": "unattenuated beam quality"
+    },
+    {
+        "不平衡": "unbalance"
+    },
+    {
+        "不平衡衰減器": "unbalanced attenuator"
+    },
+    {
+        "不平衡電橋": "unbalanced bridge"
+    },
+    {
+        "不平衡量測": "unbalanced measurement"
+    },
+    {
+        "不平衡信號": "unbalanced signal"
+    },
+    {
+        "無偏評估": "unbiased estimate"
+    },
+    {
+        "無偏變異；無偏方差": "unbiased variance"
+    },
+    {
+        "無縛介質": "unbounded medium"
+    },
+    {
+        "非固定形應變計": "unbounded strain gauge"
+    },
+    {
+        "不確定度": "uncertainty"
+    },
+    {
+        "不確定度估算": "uncertainty budget"
+    },
+    {
+        "不確定度評估": "uncertainty evaluation"
+    },
+    {
+        "測不準原理": "uncertainty principle"
+    },
+    {
+        "不確定度範圍": "uncertainty range"
+    },
+    {
+        "未驗證值": "uncertified value"
+    },
+    {
+        "無補償發射器": "uncompensated transmitter"
+    },
+    {
+        "未控振盪": "uncontrolled oscillation"
+    },
+    {
+        "無耦模": "uncoupled mode"
+    },
+    {
+        "無阻尼頻率": "undamped frequency"
+    },
+    {
+        "無阻尼振盪": "undamped oscillation"
+    },
+    {
+        "無阻尼振動": "undamped vibration"
+    },
+    {
+        "欠阻尼；阻尼不足": "under damping"
+    },
+    {
+        "低緻密電漿": "underdense plasma"
+    },
+    {
+        "下沖；負尖峰": "undershoot"
+    },
+    {
+        "水下聲音傳感器": "underwater acoustic transducer"
+    },
+    {
+        "水下聲速計": "underwater acoustic velocimeter"
+    },
+    {
+        "水下聲學": "underwater acoustics"
+    },
+    {
+        "水下麥克風": "underwater microphone"
+    },
+    {
+        "水下發射器": "underwater projector"
+    },
+    {
+        "水下感測器": "underwater sensor"
+    },
+    {
+        "水聲探頭": "underwater sound probe"
+    },
+    {
+        "水聲換能器": "underwater sound transducer"
+    },
+    {
+        "水下黏度": "underwater viscosity"
+    },
+    {
+        "無指向磁強計": "undirectional magnetometer"
+    },
+    {
+        "波動；起伏": "undulation"
+    },
+    {
+        "波動截止": "undulation cutoff"
+    },
+    {
+        "波動頻率": "undulation frequency"
+    },
+    {
+        "起伏數；波動數": "undulation number"
+    },
+    {
+        "波動消光": "undulatory extinction"
+    },
+    {
+        "不等臂秤": "unequal-arm scale"
+    },
+    {
+        "不平滑度；不均勻度": "unevenness"
+    },
+    {
+        "單向電能流": "uni-directional energy flow"
+    },
+    {
+        "單軸加速度計": "uniaxial accelerometer"
+    },
+    {
+        "單軸磁異向性": "uniaxial magnetic anisotropy"
+    },
+    {
+        "單向致動器": "unidirectional actuator"
+    },
+    {
+        "單向電流": "unidirectional current"
+    },
+    {
+        "單向流": "unidirectional flow"
+    },
+    {
+        "單向熱傳導": "unidirectional heat transfer"
+    },
+    {
+        "單向水聽器": "unidirectional hydrophone"
+    },
+    {
+        "單向水中聽器陣列": "unidirectional hydrophone array"
+    },
+    {
+        "單向磁化": "unidirectional magnetization"
+    },
+    {
+        "單向麥克風": "unidirectional microphone"
+    },
+    {
+        "單向電勢": "unidirectional potential"
+    },
+    {
+        "統一原子質量常數": "unified atomic mass constant"
+    },
+    {
+        "統一原子質量單位": "unified atomic mass unit"
+    },
+    {
+        "聯合層析儀": "unified chromatograph"
+    },
+    {
+        "統一粗牙螺紋": "unified coarse thread {= UNC}"
+    },
+    {
+        "統一細牙螺紋": "unified fine thread {= UNF}"
+    },
+    {
+        "統一螺紋": "unified screw thread"
+    },
+    {
+        "單絲靜電計": "unifilar electrometer"
+    },
+    {
+        "單絲懸掛": "unifilar suspension"
+    },
+    {
+        "均勻色品圖": "uniform chromaticity scale diagram (ucs diagram)"
+    },
+    {
+        "均勻色源": "uniform color source"
+    },
+    {
+        "均匀色空間": "uniform color space"
+    },
+    {
+        "均勻穩定性試驗膠片": "uniform constancy test film"
+    },
+    {
+        "均勻收斂": "uniform convergence"
+    },
+    {
+        "均勻漫反射": "uniform diffuse reflection"
+    },
+    {
+        "均勻漫射體": "uniform diffuser"
+    },
+    {
+        "均勻分布": "uniform distribution"
+    },
+    {
+        "均勻漂移": "uniform drift"
+    },
+    {
+        "均勻場": "uniform field"
+    },
+    {
+        "均勻場區": "uniform field area"
+    },
+    {
+        "均勻場區域": "uniform field region"
+    },
+    {
+        "均勻引力時": "uniform gravitational time"
+    },
+    {
+        "均勻光照度": "uniform illuminance"
+    },
+    {
+        "均勻加載": "uniform loading"
+    },
+    {
+        "均質材料": "uniform material"
+    },
+    {
+        "均勻源": "uniform source"
+    },
+    {
+        "均勻間隔": "uniform spacing"
+    },
+    {
+        "均勻掃描率": "uniform sweep rate"
+    },
+    {
+        "溫度均勻區": "uniform temperature region"
+    },
+    {
+        "統一[性]；一致[性]；均勻[性]": "uniformity"
+    },
+    {
+        "標尺均勻性": "uniformity of scale"
+    },
+    {
+        "均勻比": "uniformity ratio"
+    },
+    {
+        "統一力": "unifying force"
+    },
+    {
+        "單邊協定": "unilateral arrangement"
+    },
+    {
+        "單面狹縫": "unilateral slit"
+    },
+    {
+        "單向公差": "unilateral tolerance"
+    },
+    {
+        "單側換能器": "unilateral transducer"
+    },
+    {
+        "單分子解離": "unimolecular dissociation"
+    },
+    {
+        "非絕緣導線": "uninsulated wire"
+    },
+    {
+        "單平面燈絲": "uniplanar filament"
+    },
+    {
+        "單極類比數位轉換": "unipolar analog-to-digital conversion"
+    },
+    {
+        "唯一識別碼": "unique identifier"
+    },
+    {
+        "單位晶格；單位晶胞": "unit cell"
+    },
+    {
+        "單位方程式": "unit equation"
+    },
+    {
+        "單元力": "unit force"
+    },
+    {
+        "單位間隔": "unit interval"
+    },
+    {
+        "單位晶格": "unit lattice"
+    },
+    {
+        "單元操作": "unit operation"
+    },
+    {
+        "單元處理": "unit process"
+    },
+    {
+        "聯合國氣候變遷綱要公約": "United Nations Framework Convention on Climate Change {= UNFCCC}"
+    },
+    {
+        "單一比例": "unity ratio"
+    },
+    {
+        "單一增益放大器": "unity-gain amplifier"
+    },
+    {
+        "萬能角塊": "universal angle block"
+    },
+    {
+        "萬能活動量角器": "universal bevel protractor"
+    },
+    {
+        "通用常數": "universal constant"
+    },
+    {
+        "萬用計數器": "universal counter"
+    },
+    {
+        "萬能分度頭": "universal dividing head"
+    },
+    {
+        "通用檢像器": "universal finder"
+    },
+    {
+        "通用氣體常數": "universal gas constant"
+    },
+    {
+        "萬能齒輪量測儀": "universal gear measuring instrument"
+    },
+    {
+        "萬能測齒儀": "universal gear tester"
+    },
+    {
+        "萬有引力": "universal gravitation force"
+    },
+    {
+        "萬有引力常數": "universal gravitational constant"
+    },
+    {
+        "多用硬度計": "universal hardness tester"
+    },
+    {
+        "通用衝擊試驗機": "universal impact testing machine"
+    },
+    {
+        "通用傾斜儀": "universal inclinometer"
+    },
+    {
+        "通用磁強計": "universal magnetometer"
+    },
+    {
+        "萬能量測機": "universal measuring machine"
+    },
+    {
+        "萬用表": "universal meter"
+    },
+    {
+        "通用光度計": "universal photometer"
+    },
+    {
+        "通用比裝置": "universal ratio set"
+    },
+    {
+        "通用分流器": "universal shunt"
+    },
+    {
+        "通用強度試驗機": "universal strength tester"
+    },
+    {
+        "萬能試驗機": "universal testing machine"
+    },
+    {
+        "世界時": "universal time"
+    },
+    {
+        "世界時鐘": "universal time clock"
+    },
+    {
+        "世界協調時系統": "universal time coordinated system {= UTC system}"
+    },
+    {
+        "世界時標": "universal time scale"
+    },
+    {
+        "萬能齒形輪廓量測儀": "universal tooth profile measuring instrument"
+    },
+    {
+        "非偏振光": "unpolarized light"
+    },
+    {
+        "孤立[感覺]色": "unrelated perceived color"
+    },
+    {
+        "未散射真符合": "unscattered true coincidence"
+    },
+    {
+        "不穩定流": "unsteady flow"
+    },
+    {
+        "不對稱模電壓": "unsymmetrical mode voltage"
+    },
+    {
+        "非對稱三相電路": "unsymmetrical three-phase circuit"
+    },
+    {
+        "干擾像": "unwanted image"
+    },
+    {
+        "無用光；干擾光": "unwanted light"
+    },
+    {
+        "控制上限；管制上限": "upper control limit {= UCL}"
+    },
+    {
+        "上基準點": "upper datum mark"
+    },
+    {
+        "上四分位數法": "upper quartile method"
+    },
+    {
+        "規格上限": "upper specification limit {= USL}"
+    },
+    {
+        "尿素溶解試驗": "urea solubility test"
+    },
+    {
+        "尿液本周氏蛋白檢查": "urine Bence Jones protein examination"
+    },
+    {
+        "尿液血球計數": "urine blood cells count"
+    },
+    {
+        "尿液糞紫質檢查": "urine coprophyrin examination"
+    },
+    {
+        "尿液非試紙法": "urine Non-strip"
+    },
+    {
+        "尿液酸鹼值": "urine pH"
+    },
+    {
+        "尿液胞體紫質檢查": "urine porphyrin examination"
+    },
+    {
+        "尿液懷孕試驗": "urine pregnancy test"
+    },
+    {
+        "尿液蛋白質定性檢查": "urine protein qualitative"
+    },
+    {
+        "尿沈渣顯微鏡檢查": "urine sediments"
+    },
+    {
+        "尿液比重": "urine specific gravity"
+    },
+    {
+        "尿液試紙法": "urine strip"
+    },
+    {
+        "尿液糖定性檢查": "urine sugar qualitative"
+    },
+    {
+        "可用工程": "usability engineering"
+    },
+    {
+        "有用射束": "useful beam"
+    },
+    {
+        "有用離子產率": "useful ion yield"
+    },
+    {
+        "使用壽命": "useful life"
+    },
+    {
+        "實用空間解析[度]": "useful spatial resolution"
+    },
+    {
+        "使用者介面": "user interface"
+    },
+    {
+        "使用通量": "utilized flux"
+    },
+    {
+        "紫外照射": "UV irradiation"
+    },
+    {
+        "紫外透射分析儀": "UV transmittance analyzer"
+    },
+    {
+        "V形量角器；V形分度器": "V edge protractor"
+    },
+    {
+        "V形缺口壩；三角堰": "V-notch weir"
+    },
+    {
+        "V形環狀墊圈": "V-ring gasket"
+    },
+    {
+        "威克{英制壓力單位，等於1E+05牛頓每平方公尺}": "vac"
+    },
+    {
+        "空位": "vacancy"
+    },
+    {
+        "真空計": "vacuometer"
+    },
+    {
+        "真空儀": "vacuoscope"
+    },
+    {
+        "真空天平": "vacuum balance"
+    },
+    {
+        "真空室": "vacuum chamber"
+    },
+    {
+        "真空修正": "vacuum correction"
+    },
+    {
+        "真空膨脹計": "vacuum dilatometer"
+    },
+    {
+        "真空罩": "vacuum enclosure"
+    },
+    {
+        "真空包": "vacuum envelope"
+    },
+    {
+        "真空通量燈": "vacuum flux lamp"
+    },
+    {
+        "真空計": "vacuum gauge"
+    },
+    {
+        "真空規管": "vacuum gauge tube"
+    },
+    {
+        "真空規測": "vacuum gauging"
+    },
+    {
+        "真空浸漬設備": "vacuum impregnation plant"
+    },
+    {
+        "真空絕緣": "vacuum insulation"
+    },
+    {
+        "真空套": "vacuum jacket"
+    },
+    {
+        "真空燈": "vacuum lamp"
+    },
+    {
+        "真空洩漏": "vacuum leak"
+    },
+    {
+        "真空測漏": "vacuum leak detection"
+    },
+    {
+        "真空位準": "vacuum level"
+    },
+    {
+        "真空能階參照": "vacuum level referencing"
+    },
+    {
+        "真空管道": "vacuum line"
+    },
+    {
+        "真空鎖定": "vacuum lock"
+    },
+    {
+        "真空計": "vacuum meter"
+    },
+    {
+        "真空微量天平": "vacuum microbalance"
+    },
+    {
+        "真空氧氣分壓計": "vacuum oxygen partial pressure gauge"
+    },
+    {
+        "真空路徑": "vacuum path"
+    },
+    {
+        "真空發光器": "vacuum photoemissive cell"
+    },
+    {
+        "真空泵": "vacuum pump"
+    },
+    {
+        "真空密封": "vacuum seal"
+    },
+    {
+        "真空攝譜儀": "vacuum spectrograph"
+    },
+    {
+        "真空標準波長": "vacuum standard wavelength"
+    },
+    {
+        "真空系統": "vacuum system"
+    },
+    {
+        "真空試驗": "vacuum test"
+    },
+    {
+        "真空熱電偶": "vacuum thermocouple"
+    },
+    {
+        "真空熱重量分析法；真空熱重量分析術": "vacuum thermogravimetry"
+    },
+    {
+        "真空熱電堆": "vacuum thermopile"
+    },
+    {
+        "真空管": "vacuum tube"
+    },
+    {
+        "真空管檢波器": "vacuum tube detector"
+    },
+    {
+        "真空紫外全相術": "vacuum ultra-violet holography"
+    },
+    {
+        "真空紫外輻射標度": "vacuum UV radiation scale"
+    },
+    {
+        "真空閥": "vacuum valve"
+    },
+    {
+        "真空速度": "vacuum velocity"
+    },
+    {
+        "真空容器": "vacuum vessel"
+    },
+    {
+        "真空波數": "vacuum wave number"
+    },
+    {
+        "真空波長": "vacuum wavelength"
+    },
+    {
+        "真空負荷活塞計": "vacuum-backed piston gauge"
+    },
+    {
+        "真空熱量計": "vacuum-coated bomb"
+    },
+    {
+        "真空鍍膜反射鏡": "vacuum-coated reflector"
+    },
+    {
+        "真空計檢漏器": "vacuum-gauge leak detector"
+    },
+    {
+        "真空分光計": "vacuum-path spectrometer"
+    },
+    {
+        "真空管電橋": "vacuum-tube bridge"
+    },
+    {
+        "真空管伏特計": "vacuum-tube voltmeter"
+    },
+    {
+        "價": "valence"
+    },
+    {
+        "價角；鍵角": "valence angle"
+    },
+    {
+        "價鍵": "valence bond"
+    },
+    {
+        "價電子": "valence electron"
+    },
+    {
+        "價力場": "valence force field"
+    },
+    {
+        "價數": "valence number"
+    },
+    {
+        "價帶[光]譜": "valence-band spectrum"
+    },
+    {
+        "價": "valency"
+    },
+    {
+        "價角；鍵角": "valency angle"
+    },
+    {
+        "價力場": "valency force"
+    },
+    {
+        "空氣品質監測有效小時值": "valid air quality hour value"
+    },
+    {
+        "空氣品質監測有效測定日數": "valid air quality measurement day"
+    },
+    {
+        "確[認有]效；確證 {環保}": "validation"
+    },
+    {
+        "確證準則 {環保}": "validation criteria"
+    },
+    {
+        "確證聲明 {環保}": "validation statement"
+    },
+    {
+        "確證者 {環保}": "validator"
+    },
+    {
+        "檢定有效性": "validity of verification"
+    },
+    {
+        "有效性試驗": "validity test"
+    },
+    {
+        "量值": "value of a quantity"
+    },
+    {
+        "閥檢波器": "valve detector"
+    },
+    {
+        "真空管雜訊": "valve noise"
+    },
+    {
+        "閥定位器": "valve positioner"
+    },
+    {
+        "閥測試器": "valve tester"
+    },
+    {
+        "閥伏特計": "valve voltmeter"
+    },
+    {
+        "范式靜電加速度器": "Van de Graaff electrostatic accelerator"
+    },
+    {
+        "范氏產生器": "Van de Graaff generator"
+    },
+    {
+        "凡得瓦力": "van der Waals force"
+    },
+    {
+        "釩測定術": "vanadometry"
+    },
+    {
+        "葉片風速計": "vane anemometer"
+    },
+    {
+        "翼片式衰減器": "vane attenuator"
+    },
+    {
+        "翼片式瓦特計": "vane wattmeter"
+    },
+    {
+        "翼輪式流量計": "vane-wheel type flowmeter"
+    },
+    {
+        "翼輪式水表": "vane-wheel type water meter"
+    },
+    {
+        "香莢杏仁酸定量": "vanillyl mandelic acid quantitation {= VMA}"
+    },
+    {
+        "蒸汽柱": "vapor column"
+    },
+    {
+        "氣相聚合": "vapor phase polymerization"
+    },
+    {
+        "蒸汽壓": "vapor pressure"
+    },
+    {
+        "蒸汽壓表": "vapor pressure table"
+    },
+    {
+        "蒸汽壓平衡": "vapor-pressure equilibrium"
+    },
+    {
+        "蒸汽壓測溫術": "vapor-pressure thermometry"
+    },
+    {
+        "蒸汽計": "vaporimeter"
+    },
+    {
+        "汽化；蒸發": "vaporization"
+    },
+    {
+        "汽化溫度；蒸發溫度": "vaporization temperature"
+    },
+    {
+        "蒸汽壓": "vapour pressure"
+    },
+    {
+        "汽壓溫度計": "vapour pressure thermometer"
+    },
+    {
+        "乏{虛功率單位}": "var"
+    },
+    {
+        "乏時": "var-hour"
+    },
+    {
+        "乏時計": "var-hour meter"
+    },
+    {
+        "[可]變[電]抗器；變容二極管": "varactor"
+    },
+    {
+        "可變性": "variability"
+    },
+    {
+        "變量；變數": "variable"
+    },
+    {
+        "可變孔徑法": "variable aperture method"
+    },
+    {
+        "可調臂": "variable arm"
+    },
+    {
+        "可變衰減器": "variable attenuator"
+    },
+    {
+        "變容二極體": "variable capacitance diode"
+    },
+    {
+        "可變電容器": "variable capacitor"
+    },
+    {
+        "可變定向耦合器": "variable directional coupler"
+    },
+    {
+        "變量誤差": "variable error"
+    },
+    {
+        "可變阻抗功率計": "variable impedance power meter"
+    },
+    {
+        "可變電感式": "variable inductance type"
+    },
+    {
+        "可變電感器": "variable inductor"
+    },
+    {
+        "可變游離": "variable ionization"
+    },
+    {
+        "可變程差": "variable path difference"
+    },
+    {
+        "可變移相器": "variable phase shifter"
+    },
+    {
+        "可調電壓源": "variable potential source"
+    },
+    {
+        "可變壓力": "variable pressure"
+    },
+    {
+        "變化量": "variable quantity"
+    },
+    {
+        "可調比例分壓器": "variable ratio divider"
+    },
+    {
+        "可變磁阻麥克風": "variable reluctance microphone"
+    },
+    {
+        "可變磁阻轉換元件": "variable reluctance transduction lement"
+    },
+    {
+        "可變電阻": "variable resistance"
+    },
+    {
+        "變阻式": "variable resistance type"
+    },
+    {
+        "可變電阻率": "variable resistivity"
+    },
+    {
+        "可變波導衰減器": "variable waveguide attenuator"
+    },
+    {
+        "可變波導移相器": "variable waveguide phase shifter"
+    },
+    {
+        "可變截面流量計": "variable-area flowmeter"
+    },
+    {
+        "可調頻空腔": "variable-frequency cavity"
+    },
+    {
+        "可調頻率振盪器": "variable-frequency oscillator"
+    },
+    {
+        "可變電感換能器": "variable-inductance transducer"
+    },
+    {
+        "可變互感換能器": "variable-mutual-inductance transducer"
+    },
+    {
+        "變壓毛細管黏度計": "variable-pressure capillary viscometer"
+    },
+    {
+        "變壓管": "variable-pressure tube"
+    },
+    {
+        "可變磁阻拾取器": "variable-reluctance pickup"
+    },
+    {
+        "可變磁阻換能器": "variable-reluctance transducer"
+    },
+    {
+        "變異數；方差": "variance"
+    },
+    {
+        "變異縮放": "variance scaling"
+    },
+    {
+        "變量": "variation"
+    },
+    {
+        "可變環境": "varied environment"
+    },
+    {
+        "變感器；變量計": "variometer"
+    },
+    {
+        "變阻器": "varistor"
+    },
+    {
+        "乏計；虛功率計": "varmeter"
+    },
+    {
+        "變電流": "varying current"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "向量圖": "vector diagram"
+    },
+    {
+        "向量阻抗": "vector impedance"
+    },
+    {
+        "向量幅度誤差": "vector magnitude error"
+    },
+    {
+        "向勢": "vector potential"
+    },
+    {
+        "向量掃描": "vector scanning"
+    },
+    {
+        "向量信號分析儀": "vector signal analyzer"
+    },
+    {
+        "向量信號產生器": "vector signal generator"
+    },
+    {
+        "向量速度計": "vector velocimeter"
+    },
+    {
+        "向量阻抗電橋": "vector-impedance bridge"
+    },
+    {
+        "向量阻抗計": "vector-impedance meter"
+    },
+    {
+        "V形塊": "vee block"
+    },
+    {
+        "V形燈絲": "vee filament"
+    },
+    {
+        "公務檢測用車輛排氣分析儀": "vehicle exhaust emissions analyzers for official inspection"
+    },
+    {
+        "車輛組合自動分檢秤": "vehicle incorporated catchweigher"
+    },
+    {
+        "速度計": "velocimeter"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "速度反諧振": "velocity antiresonance"
+    },
+    {
+        "衝擊加速度之速度變化量": "velocity change quantity for shock acceleration"
+    },
+    {
+        "速度係數": "velocity coefficient"
+    },
+    {
+        "速度常數": "velocity constant"
+    },
+    {
+        "速度分布": "velocity distribution"
+    },
+    {
+        "速度計": "velocity gauge"
+    },
+    {
+        "速度[水]頭；流速水頭": "velocity head"
+    },
+    {
+        "速度量測": "velocity measurement"
+    },
+    {
+        "速度計": "velocity meter"
+    },
+    {
+        "速度麥克風": "velocity microphone"
+    },
+    {
+        "速度移動率": "velocity mobility"
+    },
+    {
+        "速度節點": "velocity node"
+    },
+    {
+        "接近速度": "velocity of approach"
+    },
+    {
+        "光速": "velocity of light"
+    },
+    {
+        "傳播速度": "velocity of propagation"
+    },
+    {
+        "音速": "velocity of sound"
+    },
+    {
+        "速度拾取": "velocity pickup"
+    },
+    {
+        "速度功率譜密度": "velocity power spectral density"
+    },
+    {
+        "速度輪廓": "velocity profile"
+    },
+    {
+        "速度諧振": "velocity resonance"
+    },
+    {
+        "速度衝擊響應譜": "velocity shock response spectrum"
+    },
+    {
+        "速度分層": "velocity stratification"
+    },
+    {
+        "速度換能器": "velocity transducer"
+    },
+    {
+        "速度型水量計": "velocity water meter"
+    },
+    {
+        "流速面積法": "velocity-area method"
+    },
+    {
+        "速度相依模擬力": "velocity-dependent pseudoforce"
+    },
+    {
+        "速度感測麥克風": "velocity-sensing microphone"
+    },
+    {
+        "靜脈造影": "venography"
+    },
+    {
+        "排氣口": "vent"
+    },
+    {
+        "排氣孔": "vent hole"
+    },
+    {
+        "通風乾濕計": "ventilated psychrometer"
+    },
+    {
+        "通風溫度計": "ventilated thermometer"
+    },
+    {
+        "通風指數": "ventilation index"
+    },
+    {
+        "心室博出分率測定": "ventricular ejection fraction measurements"
+    },
+    {
+        "心室博出分率及心室壁活動測定": "ventricular ejection fraction measurements & wall motion study"
+    },
+    {
+        "文氏流量計": "Venturi flowmeter"
+    },
+    {
+        "文氏水槽": "Venturi flume"
+    },
+    {
+        "文氏計": "Venturi meter"
+    },
+    {
+        "文氏噴嘴": "Venturi nozzle"
+    },
+    {
+        "文氏管": "Venturi tube"
+    },
+    {
+        "文氏膨脹噴嘴": "Venturi-type expansion nozzle"
+    },
+    {
+        "文氏計": "Venturimeter"
+    },
+    {
+        "檢定；查證{環保}": "verification"
+    },
+    {
+        "取樣檢定": "verification by sampling"
+    },
+    {
+        "檢定證書": "verification certificate"
+    },
+    {
+        "檢定條件": "verification condition"
+    },
+    {
+        "查證準則{環保}": "verification criteria"
+    },
+    {
+        "檢定設備": "verification equipment"
+    },
+    {
+        "檢定標記": "verification mark"
+    },
+    {
+        "量測儀器檢定": "verification of a measuring instrument"
+    },
+    {
+        "量測儀器檢定": "verification of measuring instruments"
+    },
+    {
+        "檢定標尺分度值；檢定標尺區間": "verification scale interval"
+    },
+    {
+        "檢定封印": "verification seal"
+    },
+    {
+        "檢定階段": "verification stage"
+    },
+    {
+        "查證聲明{環保}": "verification statement"
+    },
+    {
+        "檢定容積段": "verified volume section"
+    },
+    {
+        "查證者{環保}": "verifier"
+    },
+    {
+        "游標": "vernier"
+    },
+    {
+        "游標調整": "vernier adjustment"
+    },
+    {
+        "游標活動量角器": "vernier bevel protractor"
+    },
+    {
+        "游標卡尺": "vernier caliper"
+    },
+    {
+        "微調電容器": "vernier capacitor"
+    },
+    {
+        "游標控制": "vernier control"
+    },
+    {
+        "讀數游標": "vernier cursor"
+    },
+    {
+        "游標深度規": "vernier depth gauge"
+    },
+    {
+        "游標度盤": "vernier dial"
+    },
+    {
+        "游標齒厚規": "vernier gear tooth gauge"
+    },
+    {
+        "游標測角儀": "vernier goniometer"
+    },
+    {
+        "游標高度規": "vernier height gauge"
+    },
+    {
+        "游標實體量具": "vernier material measure"
+    },
+    {
+        "游標測微計；游標千分尺；游標分厘卡": "vernier micrometer"
+    },
+    {
+        "游標量角器": "vernier protractor"
+    },
+    {
+        "游標尺": "vernier scale"
+    },
+    {
+        "鏡頂光焦度": "vertex power"
+    },
+    {
+        "垂線": "vertical"
+    },
+    {
+        "垂直變形": "vertical deformation"
+    },
+    {
+        "垂直方向": "vertical direction"
+    },
+    {
+        "立式滾齒刀量測儀": "vertical hob measuring instrument"
+    },
+    {
+        "垂直照明器": "vertical illuminator"
+    },
+    {
+        "垂直線水聽器": "vertical line hydrophone"
+    },
+    {
+        "垂直放大": "vertical magnification"
+    },
+    {
+        "垂直量測軸": "vertical measurement axis"
+    },
+    {
+        "立式量測儀": "vertical measuring machine"
+    },
+    {
+        "垂直視差": "vertical parallax"
+    },
+    {
+        "垂直比例尺": "vertical scale"
+    },
+    {
+        "垂直滑塊；垂直滑軌": "vertical slide"
+    },
+    {
+        "垂直移動": "vertical travel"
+    },
+    {
+        "垂直速度": "vertical velocity"
+    },
+    {
+        "縱向流速曲線": "vertical velocity curve"
+    },
+    {
+        "垂直刻度指示器": "vertical-scale indicator"
+    },
+    {
+        "直管式壓力計": "vertical-tube manometer"
+    },
+    {
+        "垂直度": "verticality"
+    },
+    {
+        "垂直偏振波": "vertically polarized wave"
+    },
+    {
+        "特高頻": "very high frequency {= VHF}"
+    },
+    {
+        "極高真空": "very high vacuum"
+    },
+    {
+        "特長基線干涉儀": "very long baseline interferometer {= VLBI}"
+    },
+    {
+        "極低頻": "very low frequency {= VLF}"
+    },
+    {
+        "極低頻比較": "very low-frequency comparison"
+    },
+    {
+        "極長基線干涉量測術": "very-long baseline interferometry"
+    },
+    {
+        "容器；罐；槽": "vessel"
+    },
+    {
+        "活性": "viability"
+    },
+    {
+        "振動鏡": "vibrating mirror"
+    },
+    {
+        "振動樣品磁強計": "vibrating sample magnetometer"
+    },
+    {
+        "振動狹縫": "vibrating slit"
+    },
+    {
+        "振動樣本磁強計": "vibrating specimen magnetometer"
+    },
+    {
+        "振動電容放大器": "vibrating-capacitor amplifier"
+    },
+    {
+        "振動線圈磁強計": "vibrating-coil magnetometer"
+    },
+    {
+        "振簧式靜電計": "vibrating-reed electrometer"
+    },
+    {
+        "振簧式儀器": "vibrating-reed instrument"
+    },
+    {
+        "振動加速度": "vibration acceleration"
+    },
+    {
+        "振動活塞缸壓力換能器": "vibration cylinder pressure transducer"
+    },
+    {
+        "振動位移": "vibration displacement"
+    },
+    {
+        "激振器": "vibration exciter"
+    },
+    {
+        "振動檢流計": "vibration galvanometer"
+    },
+    {
+        "振動位準": "vibration lever"
+    },
+    {
+        "振動磁強計": "vibration magnetometer"
+    },
+    {
+        "振動式功率計": "vibration power meter"
+    },
+    {
+        "振動參考振幅": "vibration reference amplitude"
+    },
+    {
+        "振動參考頻率": "vibration reference frequency"
+    },
+    {
+        "振動靈敏軸": "vibration sensitive axis"
+    },
+    {
+        "振動台": "vibration shaker"
+    },
+    {
+        "振動求和定則": "vibration sum rule"
+    },
+    {
+        "振動試驗": "vibration test"
+    },
+    {
+        "振動傳遞比": "vibration transmissibility"
+    },
+    {
+        "振動速度": "vibration velocity"
+    },
+    {
+        "振動式密度計": "vibration-type densimeter"
+    },
+    {
+        "振動熵": "vibrational entropy"
+    },
+    {
+        "[比]鄰耦合常數": "vicinal coupling constant"
+    },
+    {
+        "維克氏硬度": "Vickers hardness"
+    },
+    {
+        "維克氏硬度數": "Vickers hardness number"
+    },
+    {
+        "維克氏硬度標尺": "Vickers hardness scale"
+    },
+    {
+        "維克氏硬度標準機": "Vickers hardness standard machine"
+    },
+    {
+        "維克氏硬度試驗": "Vickers hardness test"
+    },
+    {
+        "維克氏硬度試驗器": "Vickers hardness tester"
+    },
+    {
+        "維克氏機": "Vickers machine"
+    },
+    {
+        "維克氏巨硬度試驗": "Vickers macrohardness test"
+    },
+    {
+        "維克氏微硬度試驗": "Vickers microhardness test"
+    },
+    {
+        "維克氏稜錐壓頭": "Vickers pyramid indenter"
+    },
+    {
+        "維克氏稜錐數": "Vickers pyramid number"
+    },
+    {
+        "視頻": "video frequency"
+    },
+    {
+        "視頻雜訊": "video noise"
+    },
+    {
+        "視頻磁軌": "video track"
+    },
+    {
+        "光導攝像管；視像管": "vidicon tube"
+    },
+    {
+        "視像{顯示器}": "view"
+    },
+    {
+        "視角放大率": "view angular magnification"
+    },
+    {
+        "觀察照相機": "view camera"
+    },
+    {
+        "觀測因子": "view factor"
+    },
+    {
+        "視像內插": "view interpolation"
+    },
+    {
+        "視域間隔": "view interval"
+    },
+    {
+        "取景孔": "viewing aperture"
+    },
+    {
+        "觀測顯微鏡": "viewing microscope"
+    },
+    {
+        "視點": "viewpoint"
+    },
+    {
+        "暈邊現象；漸暈現象": "vignetting"
+    },
+    {
+        "酒精比重計": "vinometer"
+    },
+    {
+        "病毒血球凝集抑制試驗": "viral hemagglutination inhibition test"
+    },
+    {
+        "病毒血球凝集試驗": "viral hemagglutination test"
+    },
+    {
+        "病毒間接免疫螢光法": "viral indirect immunofluorescence"
+    },
+    {
+        "初始磁化曲線": "virgin magnetization curve"
+    },
+    {
+        "維里係數": "Virial coefficient"
+    },
+    {
+        "維里傳播": "Virial propagation"
+    },
+    {
+        "虛像": "virtual image"
+    },
+    {
+        "虛漏": "virtual leak"
+    },
+    {
+        "虛節徑": "virtual pitch diameter"
+    },
+    {
+        "白喉毒力試驗": "virulence test for C. diphtheriae"
+    },
+    {
+        "病毒分離與鑑定": "virus isolation and identification"
+    },
+    {
+        "黏度計": "viscometer"
+    },
+    {
+        "黏度計常數": "viscometer constant"
+    },
+    {
+        "黏度測定術": "viscometry"
+    },
+    {
+        "連續記錄黏度計": "viscorator"
+    },
+    {
+        "黏[滯]度；黏[滯]性": "viscosity"
+    },
+    {
+        "黏度平均分子量": "viscosity average molecular weight"
+    },
+    {
+        "黏度控制": "viscosity control"
+    },
+    {
+        "黏度計": "viscosity gauge"
+    },
+    {
+        "黏度指數": "viscosity index"
+    },
+    {
+        "黏度壓力計": "viscosity manometer"
+    },
+    {
+        "黏度比": "viscosity ratio"
+    },
+    {
+        "黏度標度": "viscosity scale"
+    },
+    {
+        "黏度分層": "viscosity stratification"
+    },
+    {
+        "黏性轉速計": "viscosity tachometer"
+    },
+    {
+        "黏滯真空計": "viscosity vacuum gauge"
+    },
+    {
+        "黏滯敏感轉子流量計": "viscosity-sensitive rotameter"
+    },
+    {
+        "黏性阻尼": "viscous damping"
+    },
+    {
+        "黏滯阻尼傳播": "viscous damping propagation"
+    },
+    {
+        "黏滯變形": "viscous deformation"
+    },
+    {
+        "黏滯阻力": "viscous drag"
+    },
+    {
+        "黏性流[動]": "viscous flow"
+    },
+    {
+        "黏性液體": "viscous fluid"
+    },
+    {
+        "黏滯力": "viscous force"
+    },
+    {
+        "黏性洩漏": "viscous leak"
+    },
+    {
+        "黏性材料": "viscous material"
+    },
+    {
+        "黏滯阻力": "viscous resistance"
+    },
+    {
+        "黏滯應力": "viscous stress"
+    },
+    {
+        "黏滯阻力累積加速度計": "viscous-drag integrating accelerometer"
+    },
+    {
+        "可見度；能見度": "visibility"
+    },
+    {
+        "可見度曲線": "visibility curve"
+    },
+    {
+        "可見度函數": "visibility function"
+    },
+    {
+        "可見度計": "visibility meter"
+    },
+    {
+        "可見顯示；目視顯示": "visible display"
+    },
+    {
+        "可見影像": "visible image"
+    },
+    {
+        "可見光": "visible light"
+    },
+    {
+        "可見光光度學": "visible photometry"
+    },
+    {
+        "可見[光]輻射": "visible radiation"
+    },
+    {
+        "可見[光]範圍": "visible range"
+    },
+    {
+        "可見區": "visible region"
+    },
+    {
+        "可見[光]光譜儀": "visible spectrophotometer"
+    },
+    {
+        "可見光譜": "visible spectrum"
+    },
+    {
+        "目檢": "visual access"
+    },
+    {
+        "目視消色差性": "visual achromatism"
+    },
+    {
+        "視[覺]敏[銳]度": "visual acuity"
+    },
+    {
+        "視角": "visual angle"
+    },
+    {
+        "目視亮度匹配": "visual brightness matching"
+    },
+    {
+        "目測": "visual check"
+    },
+    {
+        "目視色度計；視覺色度計": "visual colorimeter"
+    },
+    {
+        "目視色度學": "visual colorimetry"
+    },
+    {
+        "目視[色度]比較儀": "visual comparator"
+    },
+    {
+        "視覺密度": "visual density"
+    },
+    {
+        "目視檢驗": "visual examination"
+    },
+    {
+        "視場；視野": "visual field"
+    },
+    {
+        "目觀指示": "visual indication"
+    },
+    {
+        "目視指示器": "visual indicator"
+    },
+    {
+        "目視檢查": "visual inspection"
+    },
+    {
+        "目視法": "visual method"
+    },
+    {
+        "目視顯微鏡": "visual microscope"
+    },
+    {
+        "目視監測": "visual monitoring"
+    },
+    {
+        "目視光學高溫量測術": "visual optical pyrometry"
+    },
+    {
+        "視覺": "visual perception"
+    },
+    {
+        "視覺光度計；目視光度計": "visual photometer"
+    },
+    {
+        "目視光度學": "visual photometry"
+    },
+    {
+        "視紫色": "visual purple"
+    },
+    {
+        "目視高溫計": "visual pyrometer"
+    },
+    {
+        "目視讀出": "visual readout"
+    },
+    {
+        "視[覺]敏[銳]度": "visual resolution"
+    },
+    {
+        "目視分光儀": "visual spectroscope"
+    },
+    {
+        "可見刺激": "visual stimulus"
+    },
+    {
+        "目視指示式量規": "visual-indicating gauge"
+    },
+    {
+        "玻璃狀光澤": "vitreous luster"
+    },
+    {
+        "空隙度": "void fraction"
+    },
+    {
+        "空隙源": "void source"
+    },
+    {
+        "揮發性有機物": "volatile organic compounds {= VOCs}"
+    },
+    {
+        "揮發性": "volatility"
+    },
+    {
+        "揮發度指數": "volatility index"
+    },
+    {
+        "伏特安培": "volt ampere"
+    },
+    {
+        "伏特箱；分壓箱": "volt box"
+    },
+    {
+        "伏特比較": "volt comparison"
+    },
+    {
+        "伏特庫侖": "volt coulomb"
+    },
+    {
+        "伏特線{磁通量單位}": "volt line"
+    },
+    {
+        "伏特歐姆計": "volt ohmmeter"
+    },
+    {
+        "伏特峰間值": "volt peak-to-peak"
+    },
+    {
+        "分壓器": "volt ratio box"
+    },
+    {
+        "伏特傳遞方案": "volt transfer program"
+    },
+    {
+        "伏特傳遞方案校正": "volt transfer program calibration"
+    },
+    {
+        "伏特": "volt { = V}"
+    },
+    {
+        "伏特安培特性": "volt-ampere characteristic"
+    },
+    {
+        "伏特安培計": "volt-ampere meter"
+    },
+    {
+        "電壓頻率比；伏赫比": "volt-hertz rating"
+    },
+    {
+        "伏特毫安計": "volt-milliampere meter"
+    },
+    {
+        "電壓": "voltage"
+    },
+    {
+        "電壓放大": "voltage amplification"
+    },
+    {
+        "電壓振幅": "voltage amplitude"
+    },
+    {
+        "電壓校正器": "voltage calibrator"
+    },
+    {
+        "電壓迴路": "voltage circuit"
+    },
+    {
+        "電壓比較儀": "voltage comparator"
+    },
+    {
+        "電壓補償法": "voltage compensation method"
+    },
+    {
+        "電壓控制": "voltage control"
+    },
+    {
+        "電壓控制衰減器": "voltage controlled attenuator"
+    },
+    {
+        "[電]壓控[制]晶體振盪器": "voltage controlled crystal oscillator"
+    },
+    {
+        "電壓相關": "voltage dependence"
+    },
+    {
+        "電壓檢波器": "voltage detector"
+    },
+    {
+        "電壓差": "voltage difference"
+    },
+    {
+        "電壓驟降": "voltage dip"
+    },
+    {
+        "電壓分布": "voltage distribution"
+    },
+    {
+        "分壓器": "voltage divider"
+    },
+    {
+        "電壓漂移": "voltage drift"
+    },
+    {
+        "電壓降": "voltage drop"
+    },
+    {
+        "電壓起伏；電壓變動": "voltage fluctuation"
+    },
+    {
+        "電壓增益": "voltage gain"
+    },
+    {
+        "電壓梯度": "voltage gradient"
+    },
+    {
+        "電壓指示器": "voltage indicator"
+    },
+    {
+        "電壓跳變": "voltage jump"
+    },
+    {
+        "電壓放大": "voltage magnification"
+    },
+    {
+        "電壓維持": "voltage maintenance"
+    },
+    {
+        "倍壓器": "voltage multiplier"
+    },
+    {
+        "電壓零位計": "voltage null detector"
+    },
+    {
+        "電壓過載": "voltage overload"
+    },
+    {
+        "電壓參考管": "voltage reference tube"
+    },
+    {
+        "電壓反射係數": "voltage reflection coefficient"
+    },
+    {
+        "電壓響應度": "voltage responsivity"
+    },
+    {
+        "電壓漣波": "voltage ripple"
+    },
+    {
+        "電壓感測": "voltage sense"
+    },
+    {
+        "電壓靈敏度": "voltage sensitivity"
+    },
+    {
+        "電壓源校正器": "voltage source calibrator"
+    },
+    {
+        "穩壓器": "voltage stabilizer"
+    },
+    {
+        "電壓駐波比量測": "voltage standing wave ratio measurement"
+    },
+    {
+        "電壓駐波比": "voltage standing wave ratio {= VSWR}"
+    },
+    {
+        "電壓遙測": "voltage telemetering"
+    },
+    {
+        "電壓轉移恆溫箱": "voltage transfer program enclosure"
+    },
+    {
+        "比壓器；變壓器": "voltage transformer"
+    },
+    {
+        "變壓器比較儀": "voltage transformer comparator"
+    },
+    {
+        "電壓發射器": "voltage transmitter"
+    },
+    {
+        "電壓跳閘電路；電壓過載防護電路": "voltage trip circuit"
+    },
+    {
+        "電壓波形": "voltage waveform"
+    },
+    {
+        "[電]壓控[制]振盪器": "voltage-controlled oscillator {= VCO}"
+    },
+    {
+        "分壓器探頭": "voltage-divider probe"
+    },
+    {
+        "分壓器換能器": "voltage-divider transducer"
+    },
+    {
+        "倍壓配置": "voltage-doubling arrangement"
+    },
+    {
+        "電壓源換能器": "voltage-generating transducer"
+    },
+    {
+        "電壓無關電容器": "voltage-independent capacitor"
+    },
+    {
+        "電壓倍增電路": "voltage-multiplying circuit"
+    },
+    {
+        "電壓調整係數": "voltage-regulation coefficient"
+    },
+    {
+        "電壓[至]電流發射器": "voltage-to-current transmitter"
+    },
+    {
+        "電壓[至]頻率轉換器": "voltage-to-frequency converter"
+    },
+    {
+        "電壓[至]時間轉換器": "voltage-to-time converter"
+    },
+    {
+        "電弧": "voltaic arc"
+    },
+    {
+        "電量計": "voltameter"
+    },
+    {
+        "電位測定法": "voltametry"
+    },
+    {
+        "伏安計；電壓電流計": "voltammeter"
+    },
+    {
+        "伏安法": "voltammetry"
+    },
+    {
+        "電量示波器": "voltascope"
+    },
+    {
+        "伏特計；電壓表": "voltmeter"
+    },
+    {
+        "伏特計校正器": "voltmeter calibrator"
+    },
+    {
+        "伏特瓦特計法": "voltmeter-wattmeter method"
+    },
+    {
+        "體積活度": "volume activity"
+    },
+    {
+        "體積電荷密度": "volume charge density"
+    },
+    {
+        "體積濃度": "volume concentration"
+    },
+    {
+        "聲量控制；強度控制": "volume control"
+    },
+    {
+        "體積庫侖計": "volume coulombmeter"
+    },
+    {
+        "體積變形": "volume deformation"
+    },
+    {
+        "體密度；容積密度": "volume density"
+    },
+    {
+        "體積劑量": "volume dose"
+    },
+    {
+        "體積元件": "volume element"
+    },
+    {
+        "體積能": "volume energy"
+    },
+    {
+        "體積膨脹": "volume expansion"
+    },
+    {
+        "體積流": "volume flow"
+    },
+    {
+        "體積流量密度": "volume flow density"
+    },
+    {
+        "體積流率": "volume flow rate"
+    },
+    {
+        "體積分數": "volume fraction"
+    },
+    {
+        "體積全像片": "volume hologram"
+    },
+    {
+        "體積植入": "volume implant"
+    },
+    {
+        "音量指示器": "volume indicator"
+    },
+    {
+        "體積游離": "volume ionization"
+    },
+    {
+        "體積游離密度": "volume ionization density"
+    },
+    {
+        "音量位準；響度": "volume level"
+    },
+    {
+        "容積量具": "volume measure"
+    },
+    {
+        "音量計；容積計": "volume meter"
+    },
+    {
+        "體積百分濃度": "volume percentage concentration"
+    },
+    {
+        "體積比": "volume ratio"
+    },
+    {
+        "體積電阻率": "volume resistivity"
+    },
+    {
+        "體積回復": "volume retrieval"
+    },
+    {
+        "總靈敏度": "volume sensitivity"
+    },
+    {
+        "體應變": "volume strain"
+    },
+    {
+        "體積磁化率": "volume susceptibility"
+    },
+    {
+        "容積通過量；容積輸出量": "volume throughput"
+    },
+    {
+        "音量單位；體積單位": "volume unit"
+    },
+    {
+        "音量單位指示器": "volume unit indicator"
+    },
+    {
+        "音量單位計": "volume unit meter"
+    },
+    {
+        "體積速度": "volume velocity"
+    },
+    {
+        "體積黏彈性": "volume viscoelasticity"
+    },
+    {
+        "體積黏度": "volume viscosity"
+    },
+    {
+        "容積式電量計": "volume voltameter"
+    },
+    {
+        "容重": "volume weight"
+    },
+    {
+        "體積產率": "volume yield"
+    },
+    {
+        "容積吸收卡[路里]計": "volume-absorbing calorimeter"
+    },
+    {
+        "體積計": "volumenometer"
+    },
+    {
+        "體積計；容量計": "volumeter"
+    },
+    {
+        "容積調整器": "volumetric adjuster"
+    },
+    {
+        "體積分析；容量分析": "volumetric analysis"
+    },
+    {
+        "量筒": "volumetric cylinder"
+    },
+    {
+        "容積差": "volumetric difference"
+    },
+    {
+        "體積式顯示器": "volumetric display"
+    },
+    {
+        "容積定量器": "volumetric feeder"
+    },
+    {
+        "量瓶": "volumetric flask"
+    },
+    {
+        "容積式流量計": "volumetric flowmeter"
+    },
+    {
+        "量杯": "volumetric glass"
+    },
+    {
+        "容量玻璃器皿": "volumetric glassware"
+    },
+    {
+        "容積檢驗": "volumetric inspection"
+    },
+    {
+        "容積量測；體積量測": "volumetric measurement"
+    },
+    {
+        "容積法": "volumetric method"
+    },
+    {
+        "體積莫耳濃度": "volumetric molar concentration"
+    },
+    {
+        "定量吸管": "volumetric pipette"
+    },
+    {
+        "容積沈積法": "volumetric precipitation method"
+    },
+    {
+        "定容罐": "volumetric tank"
+    },
+    {
+        "容積噸": "volumetric ton"
+    },
+    {
+        "容積量器": "volumetric vessel"
+    },
+    {
+        "容積型水量計": "volumetric water meter"
+    },
+    {
+        "容量測定術": "volumetry"
+    },
+    {
+        "自願碳標準": "voluntary carbon standard {= VCS}"
+    },
+    {
+        "自願性檢定": "voluntary verification"
+    },
+    {
+        "馮威里氏因子分析": "von Willebrand factor assay"
+    },
+    {
+        "渦流": "vortex"
+    },
+    {
+        "渦弧": "vortex arc"
+    },
+    {
+        "旋進式渦流流量計": "vortex precession flow meter"
+    },
+    {
+        "渦流穩定": "vortex stabilization"
+    },
+    {
+        "渦流溫度計": "vortex thermometer"
+    },
+    {
+        "渦流型水量計": "vortex water meter"
+    },
+    {
+        "渦流流量計": "vortex-shedding flow meter"
+    },
+    {
+        "渦流強度": "vorticity"
+    },
+    {
+        "[立]體[像]素": "voxel"
+    },
+    {
+        "硫化": "vulcanization"
+    },
+    {
+        "涉水桿": "wading rod"
+    },
+    {
+        "瓦格納接地系統": "Wagner ground system"
+    },
+    {
+        "等候期間；等待週期": "waiting period"
+    },
+    {
+        "等待時間": "waiting time"
+    },
+    {
+        "壁吸收": "wall absorption"
+    },
+    {
+        "壁碰撞": "wall collision"
+    },
+    {
+        "壁效應": "wall effect"
+    },
+    {
+        "壁位移": "wall shift"
+    },
+    {
+        "漂移；偏移": "wander"
+    },
+    {
+        "華納高溫計": "Wanner pyrometer"
+    },
+    {
+        "預熱時間": "warm-up period"
+    },
+    {
+        "預熱時間": "warm-up time"
+    },
+    {
+        "預警組件": "warning assembly"
+    },
+    {
+        "翹曲[量]": "warp"
+    },
+    {
+        "校錶儀": "watch calibrator"
+    },
+    {
+        "水活性": "water activity"
+    },
+    {
+        "水槽﹔水浴": "water bath"
+    },
+    {
+        "水量熱計": "water bomb"
+    },
+    {
+        "水卡[路里]計": "water calorimeter"
+    },
+    {
+        "水柱": "water column"
+    },
+    {
+        "水汙染": "water contamination"
+    },
+    {
+        "水含量": "water content"
+    },
+    {
+        "水電量計": "water coulombmeter"
+    },
+    {
+        "水電量計": "water coulometer"
+    },
+    {
+        "水表": "water current meter"
+    },
+    {
+        "水密度": "water density"
+    },
+    {
+        "水因子": "water factor"
+    },
+    {
+        "濾水器": "water filter"
+    },
+    {
+        "水流量表": "water flowmeter"
+    },
+    {
+        "水位表；水標尺": "water gauge"
+    },
+    {
+        "水硬度": "water hardness"
+    },
+    {
+        "試水紙": "water indicating paper"
+    },
+    {
+        "水套": "water jacket"
+    },
+    {
+        "水平儀；水位": "water level"
+    },
+    {
+        "水柱壓力計": "water manometer"
+    },
+    {
+        "水彎月面": "water meniscus"
+    },
+    {
+        "水表": "water meter"
+    },
+    {
+        "水表流率": "water meter flow rate"
+    },
+    {
+        "水互溶性": "water miscibility"
+    },
+    {
+        "水監測器": "water monitor"
+    },
+    {
+        "結合水": "water of hydration"
+    },
+    {
+        "水變阻器": "water rheostat"
+    },
+    {
+        "水密封": "water seal"
+    },
+    {
+        "水軟化[作用]": "water softening"
+    },
+    {
+        "水恆溫器": "water thermostat"
+    },
+    {
+        "水三相點": "water triple-point"
+    },
+    {
+        "水三相點囊": "water triple-point cell"
+    },
+    {
+        "水蒸氣；水[蒸]汽": "water vapour"
+    },
+    {
+        "水蒸氣壓力；水[蒸]汽壓力": "water vapour pressure"
+    },
+    {
+        "水蒸氣溫度；水[蒸]汽溫度": "water vapour temperature"
+    },
+    {
+        "水冷式燈": "water-cooled lamp"
+    },
+    {
+        "水冷式雷射": "water-cooled laser"
+    },
+    {
+        "水冷式油槽": "water-cooled oil bath"
+    },
+    {
+        "水流式氣體量熱法": "water-flow type gas calorimetric method"
+    },
+    {
+        "水位表": "water-level gauge"
+    },
+    {
+        "載水量熱計": "water-load bomb"
+    },
+    {
+        "瓦特天平": "watt balance"
+    },
+    {
+        "有功電流": "watt current"
+    },
+    {
+        "瓦[特小]時{等於3600焦耳}": "watt hour"
+    },
+    {
+        "瓦特秒": "watt second"
+    },
+    {
+        "瓦特": "watt {= W}"
+    },
+    {
+        "瓦[特小]時{等於3600焦耳}": "watt-hour"
+    },
+    {
+        "需量瓦時計": "watt-hour demand meter"
+    },
+    {
+        "瓦[特小]時計；電度表": "watt-hour meter"
+    },
+    {
+        "瓦特數": "wattage"
+    },
+    {
+        "無功分量計；虛功率計": "wattless component meter"
+    },
+    {
+        "無功電流": "wattless current"
+    },
+    {
+        "無功功率表": "wattless power meter"
+    },
+    {
+        "瓦特計；功率計": "wattmeter"
+    },
+    {
+        "波": "wave"
+    },
+    {
+        "波像差": "wave aberration"
+    },
+    {
+        "波像差函數": "wave aberration function"
+    },
+    {
+        "波吸收": "wave absorption"
+    },
+    {
+        "波[譜]分析器": "wave analyzer"
+    },
+    {
+        "檢波器": "wave detector"
+    },
+    {
+        "波擾動": "wave disturbance"
+    },
+    {
+        "波形因數；波形因子": "wave factor"
+    },
+    {
+        "濾波器": "wave filter"
+    },
+    {
+        "波前": "wave front"
+    },
+    {
+        "波前干涉": "wave front interference"
+    },
+    {
+        "波導[管]": "wave guide"
+    },
+    {
+        "波阻抗": "wave impedance"
+    },
+    {
+        "電波干擾；光波干涉": "wave interference"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "波長表；波長計": "wave meter"
+    },
+    {
+        "波數": "wave number"
+    },
+    {
+        "波包": "wave packet"
+    },
+    {
+        "波圖形": "wave pattern"
+    },
+    {
+        "波周期": "wave period"
+    },
+    {
+        "波片": "wave plate"
+    },
+    {
+        "波傳播": "wave propagation"
+    },
+    {
+        "波反射": "wave reflection"
+    },
+    {
+        "波旋轉式隔離器": "wave rotation isolator"
+    },
+    {
+        "波譜法": "wave spectroscopy"
+    },
+    {
+        "波速": "wave speed"
+    },
+    {
+        "波面": "wave surface"
+    },
+    {
+        "波列": "wave train"
+    },
+    {
+        "波向量": "wave vector"
+    },
+    {
+        "波速度": "wave velocity"
+    },
+    {
+        "波形": "waveform"
+    },
+    {
+        "波形誤差": "waveform error"
+    },
+    {
+        "波形試驗": "waveform test"
+    },
+    {
+        "波前像差函數": "wavefront aberration function"
+    },
+    {
+        "波前分析": "wavefront analysis"
+    },
+    {
+        "波前分割干涉儀": "wavefront division interferometer"
+    },
+    {
+        "波前表示法": "wavefront representation"
+    },
+    {
+        "波導": "waveguide"
+    },
+    {
+        "波導衰減器": "waveguide attenuator"
+    },
+    {
+        "波導截止頻率": "waveguide cutoff frequency"
+    },
+    {
+        "波導薄膜測輻射熱計": "waveguide film bolometer"
+    },
+    {
+        "波導流體卡[路里]計": "waveguide flow calorimeter"
+    },
+    {
+        "波導阻抗": "waveguide impedance"
+    },
+    {
+        "波導管支架": "waveguide mount"
+    },
+    {
+        "波導噪音源；波導雜訊源": "waveguide noise source"
+    },
+    {
+        "波導反射器": "waveguide reflector"
+    },
+    {
+        "波導壁測輻射熱計": "waveguide wall bolometer"
+    },
+    {
+        "波導波長": "waveguide wavelength"
+    },
+    {
+        "波長範疇": "wavelength domain"
+    },
+    {
+        "波長不穩定性": "wavelength instability"
+    },
+    {
+        "波長計": "wavelength meter"
+    },
+    {
+        "波長調制光譜學": "wavelength modulation spectroscopy"
+    },
+    {
+        "波長讀值分光計": "wavelength reading spectrometer"
+    },
+    {
+        "波長解析度": "wavelength resolution"
+    },
+    {
+        "波長標度": "wavelength scale"
+    },
+    {
+        "波長掃描": "wavelength scanning"
+    },
+    {
+        "波長變換器": "wavelength shifter"
+    },
+    {
+        "波長標準": "wavelength standard"
+    },
+    {
+        "波長掃描光度計": "wavelength-scanning photometer"
+    },
+    {
+        "波長計": "wavemeter"
+    },
+    {
+        "波粒子": "wavicle"
+    },
+    {
+        "波紋度；波紋": "waviness"
+    },
+    {
+        "波紋度曲線": "waviness curve"
+    },
+    {
+        "波紋度輪廓": "waviness profile"
+    },
+    {
+        "白血球分類計數": "WBC differential count"
+    },
+    {
+        "白血球形態": "WBC morphology"
+    },
+    {
+        "弱耦合": "weak coupling"
+    },
+    {
+        "弱函數": "weak function"
+    },
+    {
+        "弱連接": "weak link"
+    },
+    {
+        "弱磁材料": "weak magnetic material"
+    },
+    {
+        "弱游離氣體": "weakly ionized gas"
+    },
+    {
+        "弱游離電漿": "weakly ionized plasma"
+    },
+    {
+        "磨損；損壞": "wear"
+    },
+    {
+        "磨損試驗": "wear trial"
+    },
+    {
+        "磨損誤差": "wear-out error"
+    },
+    {
+        "磨損損壞": "wear-out failure"
+    },
+    {
+        "耐磨性能": "wearing property"
+    },
+    {
+        "氣象儀器": "weather instrument"
+    },
+    {
+        "氣象雷達": "weather radar"
+    },
+    {
+        "韋伯數": "Weber number"
+    },
+    {
+        "韋伯光度計": "Weber photometer"
+    },
+    {
+        "韋伯{磁通量單位}": "weber {= Wb}"
+    },
+    {
+        "韋伯斯特硬度；韋氏硬度": "Webster hardness"
+    },
+    {
+        "楔": "wedge"
+    },
+    {
+        "楔角": "wedge angle"
+    },
+    {
+        "楔形濾光片": "wedge filter"
+    },
+    {
+        "楔規": "wedge gauge"
+    },
+    {
+        "劈片光度計；楔形光度計": "wedge photometer"
+    },
+    {
+        "光楔攝譜儀": "wedge spectrograph"
+    },
+    {
+        "楔形理論": "wedge theory"
+    },
+    {
+        "楔形黑體源": "wedge-shaped blackbody source"
+    },
+    {
+        "光楔形高溫計": "wedge-type pyrometer"
+    },
+    {
+        "韋布分布": "Weibull distribution"
+    },
+    {
+        "衡量": "weigh"
+    },
+    {
+        "重量標籤秤": "weigh labeler"
+    },
+    {
+        "重量標價秤": "weigh price labeler"
+    },
+    {
+        "秤桿": "weighbeam"
+    },
+    {
+        "地秤": "weighbridge"
+    },
+    {
+        "衡器；秤；檢秤員": "weigher"
+    },
+    {
+        "衡量": "weighing"
+    },
+    {
+        "衡量舟盤": "weighing boat"
+    },
+    {
+        "衡量能力": "weighing capacity"
+    },
+    {
+        "荷重元分度值": "weighing cell interval"
+    },
+    {
+        "荷重元檢定分度值": "weighing cell verification interval"
+    },
+    {
+        "皮帶秤": "weighing conveyer"
+    },
+    {
+        "衡量誤差": "weighing error"
+    },
+    {
+        "秤量因子": "weighing factor"
+    },
+    {
+        "衡量指示器": "weighing indicator"
+    },
+    {
+        "衡器": "weighing instrument"
+    },
+    {
+        "重量位準計": "weighing level gauge"
+    },
+    {
+        "衡器": "weighing machine"
+    },
+    {
+        "衡量法": "weighing method"
+    },
+    {
+        "衡量模組": "weighing module"
+    },
+    {
+        "衡量程序": "weighing procedure"
+    },
+    {
+        "秤量範圍": "weighing range"
+    },
+    {
+        "衡量結果": "weighing result"
+    },
+    {
+        "衡量速率": "weighing speed"
+    },
+    {
+        "衡量系統": "weighing system"
+    },
+    {
+        "衡量終端機": "weighing terminal"
+    },
+    {
+        "動態衡量": "weighing-in-motion"
+    },
+    {
+        "重量；法碼；加權": "weight"
+    },
+    {
+        "重量平均分子量": "weight average molecular weight"
+    },
+    {
+        "法碼箱": "weight box"
+    },
+    {
+        "法碼載具傳動裝置": "weight carrier drive"
+    },
+    {
+        "法碼載具": "weight carrier table"
+    },
+    {
+        "換法碼裝置": "weight changer"
+    },
+    {
+        "重量控制": "weight control"
+    },
+    {
+        "重量庫侖計": "weight coulombmeter"
+    },
+    {
+        "法碼單位": "weight denomination"
+    },
+    {
+        "重量定量器": "weight feeder"
+    },
+    {
+        "法碼吊架": "weight hanger"
+    },
+    {
+        "重量增量": "weight increment"
+    },
+    {
+        "法碼指標": "weight index"
+    },
+    {
+        "法碼頭": "weight knob"
+    },
+    {
+        "加法碼": "weight loading"
+    },
+    {
+        "法碼未定位": "weight misalignment"
+    },
+    {
+        "秤台": "weight platform"
+    },
+    {
+        "重量比": "weight ratio"
+    },
+    {
+        "衡量讀數": "weight readout"
+    },
+    {
+        "法碼座": "weight seating"
+    },
+    {
+        "法碼系列": "weight series"
+    },
+    {
+        "法碼組": "weight set"
+    },
+    {
+        "重量溫度計": "weight thermometer"
+    },
+    {
+        "法碼變換機件": "weight-changing member"
+    },
+    {
+        "法碼夾持機構": "weight-handling mechanism"
+    },
+    {
+        "秤重支刀": "weight-knife"
+    },
+    {
+        "加權算術平均": "weighted arithmetic mean"
+    },
+    {
+        "加權平均值": "weighted average"
+    },
+    {
+        "加權查核": "weighted check"
+    },
+    {
+        "加權[代]碼": "weighted code"
+    },
+    {
+        "加權誤差": "weighted error"
+    },
+    {
+        "加權平均值": "weighted mean"
+    },
+    {
+        "加權平均誤差": "weighted mean error"
+    },
+    {
+        "加權觀測": "weighted observation"
+    },
+    {
+        "加權直線擬合": "weighted straight line fit"
+    },
+    {
+        "加權": "weighting"
+    },
+    {
+        "加權設計": "weighting design"
+    },
+    {
+        "加權檢波；加權偵測": "weighting detection"
+    },
+    {
+        "加權因子": "weighting factor"
+    },
+    {
+        "加權函數": "weighting function"
+    },
+    {
+        "加權法": "weighting method"
+    },
+    {
+        "加權網路": "weighting network"
+    },
+    {
+        "度量衡": "weights and measures"
+    },
+    {
+        "度量衡法": "weights and measures law"
+    },
+    {
+        "壩；堰": "weir"
+    },
+    {
+        "溢流法": "weir method"
+    },
+    {
+        "韋斯磁子": "Weiss magneton"
+    },
+    {
+        "井型計數器": "well type counter"
+    },
+    {
+        "井型游離腔": "well-type ionization chamber"
+    },
+    {
+        "井式壓力計": "well-type manometer"
+    },
+    {
+        "韋斯頓標準電池": "Weston's standard cell"
+    },
+    {
+        "濕空氣": "wet air"
+    },
+    {
+        "濕分析": "wet analysis"
+    },
+    {
+        "濕沈降": "wet deposition"
+    },
+    {
+        "濕氣": "wet gas"
+    },
+    {
+        "濕式氣體流量計；濕式瓦斯表": "wet gas meter"
+    },
+    {
+        "濕重量": "wet weight"
+    },
+    {
+        "乾濕球濕度計": "wet-and-dry-bulb hygrometer"
+    },
+    {
+        "乾濕球溫度計": "wet-and-dry-bulb thermometer"
+    },
+    {
+        "濕球溫度計": "wet-bulb thermometer"
+    },
+    {
+        "[可]濕性": "wettabiltity"
+    },
+    {
+        "濕周圍": "wetted periphery"
+    },
+    {
+        "惠斯登電橋": "Wheatstone bridge"
+    },
+    {
+        "惠斯登網路": "Wheatstone network"
+    },
+    {
+        "輪重衡器": "wheel weighing instrument"
+    },
+    {
+        "旋轉乾濕計": "whirling psychrometer"
+    },
+    {
+        "旋轉溫度計": "whirling thermometer"
+    },
+    {
+        "白血球計數": "white blood cell count {= WBC count}"
+    },
+    {
+        "白血球": "white blood cell {= WBC}"
+    },
+    {
+        "白調頻": "white frequency modulation"
+    },
+    {
+        "白光源": "white illuminant"
+    },
+    {
+        "白光": "white light"
+    },
+    {
+        "白光全像片": "white light hologram"
+    },
+    {
+        "白光斑點": "white light speckle"
+    },
+    {
+        "白雜訊": "white noise"
+    },
+    {
+        "白雜訊測試器": "white noise test set"
+    },
+    {
+        "白體": "white object"
+    },
+    {
+        "白相位雜訊": "white phase noise"
+    },
+    {
+        "白虹": "white rainbow"
+    },
+    {
+        "白[度]反射比標準": "white reflectance standard"
+    },
+    {
+        "白[色]度": "whiteness"
+    },
+    {
+        "白度指數": "whiteness index"
+    },
+    {
+        "白度計": "whiteness meter"
+    },
+    {
+        "惠氏螺距{英制螺級55。}": "Whitworth screw pitch"
+    },
+    {
+        "惠氏螺紋量規": "Whitworth screw thread gauge"
+    },
+    {
+        "惠氏螺紋": "Whitworth thread"
+    },
+    {
+        "全身骨髓掃描": "whole body bone marrow scan"
+    },
+    {
+        "全身骨骼掃描": "whole body bone scan"
+    },
+    {
+        "全身炎症掃描": "whole body inflammation scan"
+    },
+    {
+        "全身肌肉掃描": "whole body muscle scan"
+    },
+    {
+        "全身腫瘤掃描": "whole body tumor scan"
+    },
+    {
+        "全身照射": "whole-body irradiation"
+    },
+    {
+        "全身輻射計": "whole-body radiation meter"
+    },
+    {
+        "發熱疾病的凝集試驗": "Widal & Weil-Felix test"
+    },
+    {
+        "廣角鏡頭": "wide-angle lens"
+    },
+    {
+        "寬帶調制": "wide-band modulation"
+    },
+    {
+        "寬帶雜訊": "wide-band noise"
+    },
+    {
+        "寬帶前置放大器": "wide-band preamp"
+    },
+    {
+        "寬帶響應": "wide-band response"
+    },
+    {
+        "寬量程電阻溫度計": "wide-range resistance thermometer"
+    },
+    {
+        "寬度": "width"
+    },
+    {
+        "譜線寬度": "width of spectral line"
+    },
+    {
+        "維恩電橋": "Wien bridge"
+    },
+    {
+        "維恩橋式振盪器": "Wien bridge oscillator"
+    },
+    {
+        "維恩位移定律": "Wien's displacement law"
+    },
+    {
+        "維恩定律": "Wien's law"
+    },
+    {
+        "維恩輻射定律": "Wien's radiation law"
+    },
+    {
+        "威特光度計": "Wild photometer"
+    },
+    {
+        "威爾遜雲室": "Wilson cloud chamber"
+    },
+    {
+        "繞組；繞法": "winding"
+    },
+    {
+        "窗形計數器": "window counter tube"
+    },
+    {
+        "窗形鑑別器": "window discriminator"
+    },
+    {
+        "窗函數": "window function"
+    },
+    {
+        "無窗計數器": "windowless counter"
+    },
+    {
+        "無窗計數管": "windowless counter tube"
+    },
+    {
+        "無窗光倍增管": "windowless multiplier phototube"
+    },
+    {
+        "無窗熱電堆": "windowless thermopile"
+    },
+    {
+        "電刷；滑臂": "wiper"
+    },
+    {
+        "滑動接觸": "wiping contact"
+    },
+    {
+        "導線": "wire"
+    },
+    {
+        "斷線偵測器": "wire breakage detector"
+    },
+    {
+        "線卡[路里]計": "wire calorimeter"
+    },
+    {
+        "接線法規": "wire code"
+    },
+    {
+        "導線": "wire lead"
+    },
+    {
+        "線型應變換能器": "wire strain-gauge transducer"
+    },
+    {
+        "線測試": "wire test"
+    },
+    {
+        "線繞電阻元件": "wire-wound resistive element"
+    },
+    {
+        "線繞電阻率": "wire-wound resistivity"
+    },
+    {
+        "接線圖；線路圖": "wiring diagram"
+    },
+    {
+        "型式認證之撤銷": "withdrawal of a type approval"
+    },
+    {
+        "耐電壓": "withstand voltage"
+    },
+    {
+        "渥拉斯頓輻射熱計": "Wollaston bolometer"
+    },
+    {
+        "渥拉斯頓稜鏡": "Wollaston prism"
+    },
+    {
+        "渥拉斯頓線": "Wollaston wire"
+    },
+    {
+        "渥拉斯頓線輻射熱計": "Wollaston-wire bolometer"
+    },
+    {
+        "奧多曼水量計": "Woltmann water meter"
+    },
+    {
+        "伍德燈": "Wood's lamp"
+    },
+    {
+        "字時": "word time"
+    },
+    {
+        "功函數": "work function"
+    },
+    {
+        "工作台上量測": "work-bench measurement"
+    },
+    {
+        "可加工性試驗": "workability test"
+    },
+    {
+        "工作區": "working area"
+    },
+    {
+        "工作特性": "working characteristic"
+    },
+    {
+        "工作電流": "working current"
+    },
+    {
+        "流體工作密度": "working density of fluid"
+    },
+    {
+        "工作量規": "working gauge"
+    },
+    {
+        "工作玻璃容器": "working glass container"
+    },
+    {
+        "工作壓頭": "working indenter"
+    },
+    {
+        "工作壽命": "working life"
+    },
+    {
+        "工作量測標準": "working measurement standard"
+    },
+    {
+        "工作量測儀器": "working measuring instrument"
+    },
+    {
+        "工作介質": "working medium"
+    },
+    {
+        "工作面": "working plane"
+    },
+    {
+        "工作點": "working point"
+    },
+    {
+        "工作壓力": "working pressure"
+    },
+    {
+        "流體工作壓力": "working pressure of fluid"
+    },
+    {
+        "工作Q值": "working Q"
+    },
+    {
+        "工作範圍": "working range"
+    },
+    {
+        "工作參考[標準]": "working reference"
+    },
+    {
+        "工作標準組": "working set of standards"
+    },
+    {
+        "工作穩定性": "working stability"
+    },
+    {
+        "工作標準": "working standard"
+    },
+    {
+        "工作標準麥克風": "working standard microphone"
+    },
+    {
+        "工作直線": "working straight-line"
+    },
+    {
+        "工作溫度": "working temperature"
+    },
+    {
+        "流體工作溫度": "working temperature of fluid"
+    },
+    {
+        "工作溫度範圍": "working temperature range"
+    },
+    {
+        "流體工作黏度": "working viscosity of fluid"
+    },
+    {
+        "工作電壓": "working voltage"
+    },
+    {
+        "工廠量規": "workshop gauge"
+    },
+    {
+        "工廠顯微鏡": "workshop microscope"
+    },
+    {
+        "工廠標準": "workshop standard"
+    },
+    {
+        "世界重力網": "world gravity network"
+    },
+    {
+        "蝸桿": "worm"
+    },
+    {
+        "蝸形齒輪": "worm gear"
+    },
+    {
+        "蝸桿螺紋": "worm thread"
+    },
+    {
+        "蝸輪": "worm wheel"
+    },
+    {
+        "蠕蟲狀鏈": "worm-like chain"
+    },
+    {
+        "扭合": "wring"
+    },
+    {
+        "扭合性": "wring ability"
+    },
+    {
+        "扭合": "wringing fit"
+    },
+    {
+        "書寫速率": "writing speed"
+    },
+    {
+        "書面標準": "written standard"
+    },
+    {
+        "烏耳夫靜電計": "Wulf electrometer"
+    },
+    {
+        "星形連接；Y形連接": "wye connection"
+    },
+    {
+        "Y式水準儀；轉鏡水準儀": "wye level"
+    },
+    {
+        "x單位{波長單位，等於1E-13公尺}": "x unit"
+    },
+    {
+        "X光吸收光譜法": "X-ray absorption spectrometry"
+    },
+    {
+        "X射線分析": "X-ray analysis"
+    },
+    {
+        "X射束": "X-ray beam"
+    },
+    {
+        "X射線校正範圍": "X-ray calibration range"
+    },
+    {
+        "X射線汙染": "X-ray contamination"
+    },
+    {
+        "X射線計數器": "X-ray counter"
+    },
+    {
+        "X射線繞射法": "X-ray diffraction method"
+    },
+    {
+        "X射線繞射術": "X-ray diffractometry"
+    },
+    {
+        "X射線劑量測定術": "X-ray dosimetry"
+    },
+    {
+        "X射線發射體": "X-ray emitter"
+    },
+    {
+        "X射線設備": "X-ray equipment"
+    },
+    {
+        "X射線檢查座": "X-ray examination stand"
+    },
+    {
+        "X射線探傷": "X-ray flaw detection"
+    },
+    {
+        "X光螢光光譜儀": "X-ray fluorescence spectrometer"
+    },
+    {
+        "X光螢光光譜法": "X-ray fluorescence spectrometry"
+    },
+    {
+        "X射線產生器": "X-ray generator"
+    },
+    {
+        "X射線鬼影": "X-ray ghost line"
+    },
+    {
+        "X射線測角儀": "X-ray goniometer"
+    },
+    {
+        "X射線硬度": "X-ray hardness"
+    },
+    {
+        "X射線成像": "X-ray image"
+    },
+    {
+        "X射線影像感受器": "X-ray image receptor"
+    },
+    {
+        "X射線檢驗": "X-ray inspection"
+    },
+    {
+        "X射線裝置": "X-ray installation"
+    },
+    {
+        "X射線強度計": "X-ray intensity meter"
+    },
+    {
+        "X射線干涉儀": "X-ray interferometer"
+    },
+    {
+        "X射線干涉術": "X-ray interferometry"
+    },
+    {
+        "X射線照射": "X-ray irradiation"
+    },
+    {
+        "X射線線寬": "X-ray linewidth"
+    },
+    {
+        "X射線單光儀": "X-ray monochromator"
+    },
+    {
+        "X射線圖像": "X-ray pattern"
+    },
+    {
+        "X射線光電子能譜學；X射線光電子能譜法": "X-ray photoelectron spectroscopy {= XPS}"
+    },
+    {
+        "X射線光度計": "X-ray photometer"
+    },
+    {
+        "X射線光子": "X-ray photon"
+    },
+    {
+        "X射線量子": "X-ray quantum"
+    },
+    {
+        "X射線輻射": "X-ray radiation"
+    },
+    {
+        "X射線放射計": "X-ray radiometer"
+    },
+    {
+        "X射線源": "X-ray source"
+    },
+    {
+        "X射線源組件": "X-ray source assembly"
+    },
+    {
+        "X射線太空偵測器": "X-ray space detector"
+    },
+    {
+        "X射線攝譜儀": "X-ray spectrograph"
+    },
+    {
+        "X射線光譜儀": "X-ray spectrometer"
+    },
+    {
+        "X光光譜分析[法]": "X-ray spectrometric analysis"
+    },
+    {
+        "X射線光譜學": "X-ray spectrometry"
+    },
+    {
+        "X射線光譜": "X-ray spectrum"
+    },
+    {
+        "X射線標準": "X-ray standard"
+    },
+    {
+        "X射線高速掃描攝影機": "X-ray streak camera"
+    },
+    {
+        "X射線電視系統": "X-ray television system"
+    },
+    {
+        "X射線厚度規": "X-ray thickness gauge"
+    },
+    {
+        "X射線管": "X-ray tube"
+    },
+    {
+        "X射線管組件": "X-ray tube assembly"
+    },
+    {
+        "X射線管電流": "X-ray tube current"
+    },
+    {
+        "X射線管負載": "X-ray tube load"
+    },
+    {
+        "X射線管電壓": "X-ray tube voltage"
+    },
+    {
+        "氙燈": "xenon lamp"
+    },
+    {
+        "氙[光]源": "xenon source"
+    },
+    {
+        "XY繪圖器": "xy plotter"
+    },
+    {
+        "y色度圖{即馬克司威色三角}": "y chromaticity diagram"
+    },
+    {
+        "星形連接；Y形連接": "y connection"
+    },
+    {
+        "Y係數法": "Y factor method"
+    },
+    {
+        "碼尺": "yard stick"
+    },
+    {
+        "偏擺誤差": "yaw error"
+    },
+    {
+        "偏航計": "yaw meter"
+    },
+    {
+        "偏向力矩": "yaw moment"
+    },
+    {
+        "偏向探頭": "yaw probe"
+    },
+    {
+        "黃度指數": "yellowness index"
+    },
+    {
+        "產額；降伏；屈伏點": "yield"
+    },
+    {
+        "降伏點；屈伏點": "yield point"
+    },
+    {
+        "降伏強度；屈伏強度": "yield strength"
+    },
+    {
+        "降伏應力；屈伏應力": "yield stress"
+    },
+    {
+        "屈伏值": "yield value"
+    },
+    {
+        "軛": "yoke"
+    },
+    {
+        "蛋黃指數": "yolk index"
+    },
+    {
+        "楊氏模數；楊氏模量": "Young's modulus"
+    },
+    {
+        "楊氏雙狹縫干涉": "Young's two-slit interference"
+    },
+    {
+        "楊亥姆霍茲色覺理論": "Young-Helmholtz theory of color vision"
+    },
+    {
+        "釔鋁柘榴石雷射；YAG雷射": "yttrium-aluminum-garnet laser {= YAG laser}"
+    },
+    {
+        "Z平均分子量": "z-average molecular weight"
+    },
+    {
+        "則曼效應": "Zeeman effect"
+    },
+    {
+        "齊納二極體": "Zener diode"
+    },
+    {
+        "齊納參考{電壓}": "Zener reference"
+    },
+    {
+        "任尼克多項式": "Zernike polynomial"
+    },
+    {
+        "零位調整": "zero adjustment"
+    },
+    {
+        "量測系統的零位調整": "zero adjustment of a measuring system"
+    },
+    {
+        "零支{光譜}": "zero branch"
+    },
+    {
+        "中心指零式儀表": "zero center meter"
+    },
+    {
+        "零電荷": "zero charge"
+    },
+    {
+        "零色散": "zero chromatic dispersion"
+    },
+    {
+        "零電流": "zero current"
+    },
+    {
+        "零減量": "zero decrement"
+    },
+    {
+        "零維數；無量綱": "zero dimension"
+    },
+    {
+        "零點漂移": "zero drift"
+    },
+    {
+        "零端誤差": "zero end error"
+    },
+    {
+        "零點誤差": "zero error"
+    },
+    {
+        "零點浮動": "zero float"
+    },
+    {
+        "零點不穩定性": "zero instability"
+    },
+    {
+        "指零儀器": "zero instrument"
+    },
+    {
+        "零位標記": "zero mark"
+    },
+    {
+        "衡消法；零點法；消盡法": "zero method"
+    },
+    {
+        "零點補償": "zero offset"
+    },
+    {
+        "零輸出": "zero output"
+    },
+    {
+        "零點；原點": "zero point"
+    },
+    {
+        "零位光柵尺": "zero position grating bar"
+    },
+    {
+        "指零光柵": "zero position index grating"
+    },
+    {
+        "調零器": "zero regulator"
+    },
+    {
+        "零點回復": "zero return"
+    },
+    {
+        "零位上升": "zero rise"
+    },
+    {
+        "零位控制": "zero set control"
+    },
+    {
+        "零移": "zero shift"
+    },
+    {
+        "零間隔": "zero spacing"
+    },
+    {
+        "調零彈簧": "zero spring"
+    },
+    {
+        "消零刻度盤": "zero suppressed scale"
+    },
+    {
+        "消零": "zero suppression"
+    },
+    {
+        "零價": "zero valence"
+    },
+    {
+        "零基線性": "zero-based linearity"
+    },
+    {
+        "零拍法": "zero-beat method"
+    },
+    {
+        "中心零位式儀器": "zero-center instrument"
+    },
+    {
+        "計算開始時間": "zero-computing time"
+    },
+    {
+        "零偏法": "zero-deflection method"
+    },
+    {
+        "零色散波長": "zero-dispersion wavelength"
+    },
+    {
+        "零位漂移誤差": "zero-drift error"
+    },
+    {
+        "零起點": "zero-initial"
+    },
+    {
+        "零點補償漂移": "zero-offset drift"
+    },
+    {
+        "置零[調整]；歸零": "zero-setting"
+    },
+    {
+        "歸零裝置": "zero-setting device"
+    },
+    {
+        "零態偏置誤差回路": "zero-state error loop"
+    },
+    {
+        "零點追蹤": "zero-tracking"
+    },
+    {
+        "調零；定零點": "zeroing"
+    },
+    {
+        "鋅黑": "zinc black"
+    },
+    {
+        "鋅[凝固]點": "zinc point"
+    },
+    {
+        "硫酸鋅濁度試驗": "zinc sulfate turbidity test"
+    },
+    {
+        "區帶電泳": "zone electrophoresis"
+    },
+    {
+        "波帶片": "zone plate"
+    },
+    {
+        "細化分析": "zoom analysis"
+    },
+    {
+        "世界標準時間；格林威治平均時": "Zulu time"
+    },
+    {
+        "兩性離子": "zwitterion"
+    },
+    {
+        "發酵檢驗器": "zymometer"
+    },
+    {
+        "α射線譜儀；阿伐射線譜儀": "α-ray spectrometer"
+    },
+    {
+        "β射線譜儀；貝他射線譜儀": "β-ray spectrometer"
+    },
+    {
+        "β射線厚度規；貝他射線厚度規": "β-ray thickness gauge"
+    },
+    {
+        "γ射線密度計；加馬射線密度計": "γ-ray density meter"
+    },
+    {
+        "γ射線位準計；加馬射線密度計": "γ-ray level meter"
+    },
+    {
+        "γ射線譜儀；加馬射線譜儀": "γ-ray spectrometer"
+    },
+    {
+        "λc 輪廓濾波器": "λc profile filter"
+    },
+    {
+        "λf 輪廓濾波器": "λf profile filter"
+    },
+    {
+        "λs 輪廓濾波器": "λs profile filter"
+    }
+]

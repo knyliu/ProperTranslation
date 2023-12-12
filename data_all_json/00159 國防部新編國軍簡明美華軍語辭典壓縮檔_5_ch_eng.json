@@ -1,0 +1,4064 @@
+[
+    {
+        "從頭作起": "walk back the cat"
+    },
+    {
+        "攜行氧氣瓶": "walk-around oxygen bottle"
+    },
+    {
+        "後拉": "walkback"
+    },
+    {
+        "步聲(收發信)機，步講機，步講無線電機": "walkie-talkie"
+    },
+    {
+        "大型冷凍庫(室)": "walk-in refrigerator"
+    },
+    {
+        "兩棲駁船": "walking barge"
+    },
+    {
+        "步行病患": "walking patient"
+    },
+    {
+        "步行傷患": "walking wounded"
+    },
+    {
+        "牆裝電話機": "wall (telephone) set"
+    },
+    {
+        "索頭冠結": "wall and crown knot"
+    },
+    {
+        "牆壁詭雷": "wall boobytrap"
+    },
+    {
+        "護牆聯箱": "wall header"
+    },
+    {
+        "壁裝絕緣器": "wall insulator"
+    },
+    {
+        "外舷壁直的": "wall sided"
+    },
+    {
+        "牆狀側面之冰河": "wall sided glacier"
+    },
+    {
+        "壁式帳幕": "wall tent"
+    },
+    {
+        "電雷管套": "wall, detonator"
+    },
+    {
+        "滾壓完成": "wall-out"
+    },
+    {
+        "車輛消毒場": "wallow course"
+    },
+    {
+        "所需貨品": "wanted cargo"
+    },
+    {
+        "戰爭空勤計畫": "war air service program"
+    },
+    {
+        "大戰袖章": "war chevron"
+    },
+    {
+        "戰爭賠償委員會": "war claims commission"
+    },
+    {
+        "戰爭會議": "war council"
+    },
+    {
+        "戰爭罪行": "war crime"
+    },
+    {
+        "戰爭部": "War Department"
+    },
+    {
+        "戰鬥日誌，作戰日誌": "war diary"
+    },
+    {
+        "傷殘人員": "war disables"
+    },
+    {
+        "戰爭緊急情報，緊急戰況，作戰緊急": "war emergency"
+    },
+    {
+        "作戰緊急兵力": "war emergency power"
+    },
+    {
+        "沙盤推演，兵棋推演": "war game"
+    },
+    {
+        "作戰毒氣": "war gas"
+    },
+    {
+        "戰劑中毒": "war gas poisoning"
+    },
+    {
+        "作戰軍品購辦能力": "war materiel procurement capability"
+    },
+    {
+        "作戰軍品需要量": "war materiel requirement"
+    },
+    {
+        "戰時子午線": "war meridian"
+    },
+    {
+        "戰時正午": "war noon"
+    },
+    {
+        "消耗戰": "war of attrition"
+    },
+    {
+        "運動戰": "war of movement"
+    },
+    {
+        "陣地戰": "war of position"
+    },
+    {
+        "駐地戰": "War of Posts"
+    },
+    {
+        "作戰巡航": "war patrol"
+    },
+    {
+        "戰爭計畫": "war plan"
+    },
+    {
+        "戰爭潛力": "war potential"
+    },
+    {
+        "戰爭生產": "war production"
+    },
+    {
+        "戰爭儲備軍品需要量": "war reserve materiel requirement"
+    },
+    {
+        "戰爭儲備軍品現有須保護部分": "war reserve materiel requirement protectable"
+    },
+    {
+        "戰爭儲備軍品需要量差額": "war reserve materiel requirement, balance"
+    },
+    {
+        "戰爭儲備存量": "war reserve stock"
+    },
+    {
+        "供應盟國戰爭儲備存量": "war reserve stocks for allies"
+    },
+    {
+        "戰爭儲備品": "war reserves"
+    },
+    {
+        "作戰室": "war room"
+    },
+    {
+        "過剩軍品": "war surplus"
+    },
+    {
+        "作戰耗損飛機": "war weary airplane"
+    },
+    {
+        "醫院病房": "ward, hospital"
+    },
+    {
+        "庫房及碼頭起重機": "warehouse and dock crane"
+    },
+    {
+        "庫房圖": "warehouse chart"
+    },
+    {
+        "庫房管理官，庫長": "warehouse officer"
+    },
+    {
+        "庫無存品通知書": "warehouse refusal"
+    },
+    {
+        "庫房空間": "warehouse space"
+    },
+    {
+        "庫房儲存": "warehouse storage"
+    },
+    {
+        "戰爭，戰法，戰事": "warfare"
+    },
+    {
+        "防空作戰地區": "warfare area, antiair"
+    },
+    {
+        "海軍作戰": "warfare, naval"
+    },
+    {
+        "作戰職能": "warfighting function"
+    },
+    {
+        "兵棋推演": "wargame"
+    },
+    {
+        "兵棋推演": "wargaming"
+    },
+    {
+        "戰雷頭，彈頭": "warhead"
+    },
+    {
+        "彈頭傳爆管": "warhead booster"
+    },
+    {
+        "彈頭增益": "warhead gain"
+    },
+    {
+        "彈頭裝置": "warhead installation"
+    },
+    {
+        "彈頭裝配": "warhead mating"
+    },
+    {
+        "彈頭損害圖式": "warhead pattern"
+    },
+    {
+        "彈頭部分": "warhead section"
+    },
+    {
+        "彈頭威力": "warhead yield"
+    },
+    {
+        "爆震彈頭": "warhead, blast"
+    },
+    {
+        "爆震彈頭簇": "warhead, blast cluster"
+    },
+    {
+        "殺傷彈頭": "warhead, fragmenting"
+    },
+    {
+        "均等性彈頭": "warhead, isotropic"
+    },
+    {
+        "警告暴露": "warned exposed"
+    },
+    {
+        "警告防護": "warned protected"
+    },
+    {
+        "警報區": "warning area"
+    },
+    {
+        "拖移用水鼓": "warning buoy"
+    },
+    {
+        "警告裝置": "warning device"
+    },
+    {
+        "警報區": "warning district"
+    },
+    {
+        "警告旗": "warning flag"
+    },
+    {
+        "警告喇叭": "warning horn"
+    },
+    {
+        "警告燈": "warning lamp"
+    },
+    {
+        "警告燈": "warning light"
+    },
+    {
+        "警報網": "warning net"
+    },
+    {
+        "攻擊預警": "warning of attack"
+    },
+    {
+        "地雷警告": "warning of mine"
+    },
+    {
+        "戰爭預警": "warning of war"
+    },
+    {
+        "預告命令": "warning order"
+    },
+    {
+        "警告點": "warning point"
+    },
+    {
+        "警告點基準": "warning point level"
+    },
+    {
+        "警告點法": "warning point system"
+    },
+    {
+        "警告接收機(電子戰用語)": "warning receiver (electronic warfare)"
+    },
+    {
+        "警告標記": "warning sign"
+    },
+    {
+        "警告信號": "warning signal"
+    },
+    {
+        "警報系統": "warning system"
+    },
+    {
+        "警戒水位": "warning water level"
+    },
+    {
+        "白色防空警報": "warning white"
+    },
+    {
+        "經線": "warp thread"
+    },
+    {
+        "經線方向": "warp, direction of"
+    },
+    {
+        "扭曲應力": "warping stress"
+    },
+    {
+        "翹動翼尖": "warping tip"
+    },
+    {
+        "浮箱拖船": "warping tug"
+    },
+    {
+        "拖索絞車": "warping winch"
+    },
+    {
+        "作戰飛機": "warplane"
+    },
+    {
+        "派令，支付命令，訓令": "warrant"
+    },
+    {
+        "准尉(美國陸、海軍及陸戰隊之專業軍官；以陸軍為例，區分為五級： warrant officer 1 [WO1比照少尉]、chief warrant officer 2 [CW2 比照中尉]、chief warrant officer 3 [CW3比照上尉]、chief warrant officer 4 [CW4比照少校]及chief warrant officer 5 [CW5比照中校])": "warrant officer"
+    },
+    {
+        "戰艦": "warships"
+    },
+    {
+        "戰時消耗率": "wartime consumption rate"
+    },
+    {
+        "戰時裝載": "wartime load"
+    },
+    {
+        "戰時人力計畫作為系統": "wartime manpower planning system"
+    },
+    {
+        "戰時補充因素": "wartime replacement factor"
+    },
+    {
+        "戰時後備模式": "wartime reserve modes"
+    },
+    {
+        "沖洗甲板軟管": "wash-deck hose"
+    },
+    {
+        "轉帳憑證": "washing voucher"
+    },
+    {
+        "負梢角，外沖，淘汰": "washout"
+    },
+    {
+        "蜂式拒斥器": "wasp excluder"
+    },
+    {
+        "蜂式(蜂腰區)甲板(美國海狼級潛艦拆除魚雷發射室後，改作特戰人員及裝備進出潛艦之部位)": "wasp waist"
+    },
+    {
+        "廢料處置": "waste disposal"
+    },
+    {
+        "隊長兼值更官": "watch and division officer"
+    },
+    {
+        "在航值更": "watch at sea"
+    },
+    {
+        "位置浮標": "watch buoy"
+    },
+    {
+        "帆布煙囪罩，戰士冬季便帽": "watch cap"
+    },
+    {
+        "錶匣式收話器": "watch case receiver"
+    },
+    {
+        "錶式指北計": "watch compass"
+    },
+    {
+        "錶誤差": "watch error"
+    },
+    {
+        "鐘錶玻璃": "watch glass"
+    },
+    {
+        "值更員": "watch keeper"
+    },
+    {
+        "值更舷別符號": "watch mark"
+    },
+    {
+        "注意我彈著": "watch my burst"
+    },
+    {
+        "值更官，機艙值更官": "watch officer"
+    },
+    {
+        "值更官指南": "watch officer's guide"
+    },
+    {
+        "部署表，值更表": "watch quarter and station bill"
+    },
+    {
+        "錶差率": "watch rate"
+    },
+    {
+        "戰備值更": "watch, condition"
+    },
+    {
+        "兩舷(輪流)值更": "watch-and-watch"
+    },
+    {
+        "哨戒艦(機)": "watchdog"
+    },
+    {
+        "(有人)看守燈塔": "watched light"
+    },
+    {
+        "可見水雷": "watching mine"
+    },
+    {
+        "水雷監視": "watching, mine"
+    },
+    {
+        "校時官，值更人員(海軍)": "watchstander"
+    },
+    {
+        "加水電池": "water active battery"
+    },
+    {
+        "水擋板": "water baffle"
+    },
+    {
+        "壓艙水": "water ballast"
+    },
+    {
+        "水駁船": "water barge"
+    },
+    {
+        "水駁船(非自航式)": "water barge (non-propelled)"
+    },
+    {
+        "水駁船(自航式)": "water barge (self-propelled)"
+    },
+    {
+        "水桶詭雷": "water barrel boobytrap"
+    },
+    {
+        "水鍋爐反應器": "water boiler reactor"
+    },
+    {
+        "船底無疑，在水上的飲水傳染": "water borne"
+    },
+    {
+        "水媒病": "water borne disease"
+    },
+    {
+        "水傳染": "water borne infection"
+    },
+    {
+        "淡水桶": "water breaker"
+    },
+    {
+        "水桶": "water bucket"
+    },
+    {
+        "水熱量計": "water calorimeter"
+    },
+    {
+        "水桶": "water can"
+    },
+    {
+        "攜水帶": "water carrying bag"
+    },
+    {
+        "帆布水袋": "water carrying canvas bag"
+    },
+    {
+        "水桶": "water cask"
+    },
+    {
+        "水道，水槽": "water channel"
+    },
+    {
+        "水箱": "water chest"
+    },
+    {
+        "水循環": "water circulation"
+    },
+    {
+        "水循環極限": "water circulation limit"
+    },
+    {
+        "水道，水流，水眼": "water course"
+    },
+    {
+        "水幕": "water curtain"
+    },
+    {
+        "水墊": "water cushion"
+    },
+    {
+        "湧集供水系統": "water deluge system"
+    },
+    {
+        "指流管": "water director"
+    },
+    {
+        "給水軍紀": "water discipline"
+    },
+    {
+        "分水線": "water divide"
+    },
+    {
+        "水道段": "water division"
+    },
+    {
+        "放水(油池，油車)": "water draw-off"
+    },
+    {
+        "水上空投": "water drop"
+    },
+    {
+        "水鼓": "water drum"
+    },
+    {
+        "水上梯隊": "water echelon"
+    },
+    {
+        "示水膏": "water finding paste"
+    },
+    {
+        "水流": "water flow"
+    },
+    {
+        "水霧": "water fog"
+    },
+    {
+        "水岸線，岸際線，岸邊線": "water front"
+    },
+    {
+        "沿岸建築": "water front construction"
+    },
+    {
+        "水表，水位表(量水標)，水標尺": "water gage"
+    },
+    {
+        "水鎚": "water hammer"
+    },
+    {
+        "水之硬度": "water hardness"
+    },
+    {
+        "水頭，水位差": "water head"
+    },
+    {
+        "飲水加熱器": "water heater"
+    },
+    {
+        "水注射": "water injection"
+    },
+    {
+        "水上降落": "water landing"
+    },
+    {
+        "水位": "water level"
+    },
+    {
+        "水平面調整節": "water level accommodation section"
+    },
+    {
+        "水燈": "water lights"
+    },
+    {
+        "水轉": "water loop"
+    },
+    {
+        "低水位": "water low level"
+    },
+    {
+        "水手，船員": "water man"
+    },
+    {
+        "量水": "water measurement"
+    },
+    {
+        "量水表": "water meter"
+    },
+    {
+        "拌水試驗": "water mixing test"
+    },
+    {
+        "水緩和反應器": "water moderated reactor"
+    },
+    {
+        "水偵檢器，水質監測器": "water monitor"
+    },
+    {
+        "水油離析器": "water oil separator"
+    },
+    {
+        "水道": "water passage"
+    },
+    {
+        "給水點": "water point"
+    },
+    {
+        "給水點開設": "water point development"
+    },
+    {
+        "給水點人員": "water point personnel"
+    },
+    {
+        "水汙染": "water pollution"
+    },
+    {
+        "水汙染防治": "water pollution control"
+    },
+    {
+        "水力發電資源": "water power resources"
+    },
+    {
+        "水力場": "water power site"
+    },
+    {
+        "服裝防水袋": "water proof bag, clothing"
+    },
+    {
+        "防水隔離板": "water proof barrier"
+    },
+    {
+        "防水作業": "water proof operation"
+    },
+    {
+        "防水衣褲": "water proof parka and trousers"
+    },
+    {
+        "防水包料": "water proof wrap"
+    },
+    {
+        "水中推進器": "water propeller"
+    },
+    {
+        "水中推進器軸承": "water propeller bearing"
+    },
+    {
+        "水中推進器接頭": "water propeller joint"
+    },
+    {
+        "水中推進器": "water propeller shaft"
+    },
+    {
+        "水中推進器塗料箱": "water propeller stuffing box"
+    },
+    {
+        "水之淨潔": "water purification"
+    },
+    {
+        "淨水機": "water purification unit"
+    },
+    {
+        "水質控制機": "water quality control set"
+    },
+    {
+        "水質監視": "water quality monitoring"
+    },
+    {
+        "抽水系統": "water raising system"
+    },
+    {
+        "緊急飲用水口糧": "water ration drinking, emergency"
+    },
+    {
+        "水源偵察": "water reconnaissance"
+    },
+    {
+        "防水劑": "water repellent"
+    },
+    {
+        "抗水性": "water resistance qualities"
+    },
+    {
+        "水資源": "water resources"
+    },
+    {
+        "水舵": "water rudder"
+    },
+    {
+        "水屏聯箱": "water screen header"
+    },
+    {
+        "水封式鋼罐(櫃)": "water sealed steel tank"
+    },
+    {
+        "水封式油池": "water sealed tank"
+    },
+    {
+        "油水分離器": "water separator"
+    },
+    {
+        "流域，分水嶺": "water shed"
+    },
+    {
+        "外護壁": "water side banquette"
+    },
+    {
+        "外側坡(水側坡)": "water side slope"
+    },
+    {
+        "憩流": "water slack"
+    },
+    {
+        "撥水圈": "water slinger"
+    },
+    {
+        "水泡": "water slug"
+    },
+    {
+        "水溶度": "water solubility"
+    },
+    {
+        "水溶液反應器(水鍋爐反應器)": "water solution reactor (water boiler reactor)"
+    },
+    {
+        "給水站": "water station"
+    },
+    {
+        "浸藥(無煙火藥)": "water steeping"
+    },
+    {
+        "水消毒袋，飲水消毒袋，配水袋": "water sterilizing bag"
+    },
+    {
+        "濾水網": "water strainer"
+    },
+    {
+        "水物質": "water substance"
+    },
+    {
+        "水壓衣": "water suit"
+    },
+    {
+        "給水裝備": "water supply equipment"
+    },
+    {
+        "給水設備": "water supply facility"
+    },
+    {
+        "給水點": "water supply point"
+    },
+    {
+        "排水板，潛水面，地下水位": "water table"
+    },
+    {
+        "水轆轤": "water tackle"
+    },
+    {
+        "水面滑行": "water taxi"
+    },
+    {
+        "給水技工": "water technician"
+    },
+    {
+        "給水船(母船)": "water tender"
+    },
+    {
+        "鍋爐中士": "water tender 1st class"
+    },
+    {
+        "鍋爐下士": "water tender 2nd class"
+    },
+    {
+        "鍋爐上兵": "water tender 3rd class"
+    },
+    {
+        "水運末站，給水末端": "water terminal"
+    },
+    {
+        "水檢驗及過濾包": "water testing and screening kit"
+    },
+    {
+        "水測試具": "water testing kits"
+    },
+    {
+        "水測試機": "water testing sets"
+    },
+    {
+        "容水度": "water tolerance"
+    },
+    {
+        "水上運輸，水運": "water transport"
+    },
+    {
+        "水上運輸，水運": "water transportation"
+    },
+    {
+        "積水器，積水坑，去水器": "water trap"
+    },
+    {
+        "淨水廠": "water treatment plant"
+    },
+    {
+        "水管鍋爐": "water tube boiler"
+    },
+    {
+        "水洞，輸水隧道": "water tunnel"
+    },
+    {
+        "水輪機，水輪": "water turbine"
+    },
+    {
+        "水蒸氣": "water vapor"
+    },
+    {
+        "測水計": "water watch"
+    },
+    {
+        "水井詭雷": "water well boobytrap"
+    },
+    {
+        "水車": "water wheel"
+    },
+    {
+        "產水層": "water yield formation"
+    },
+    {
+        "罐裝飲用水": "water, drinking, canned"
+    },
+    {
+        "邊緣水": "water, edge"
+    },
+    {
+        "鍋爐用水，給水": "water, feed"
+    },
+    {
+        "地下水": "water, ground"
+    },
+    {
+        "攜行水": "water, portable"
+    },
+    {
+        "封閉水層": "water, shut-off"
+    },
+    {
+        "(以)水上(為基地的)": "water-based"
+    },
+    {
+        "水上發煙器": "water-based generator"
+    },
+    {
+        "船舶": "watercraft"
+    },
+    {
+        "噴水推進器": "water-jet"
+    },
+    {
+        "吃水線": "waterline"
+    },
+    {
+        "水線部外板": "waterline strake"
+    },
+    {
+        "滑鐵盧戰役": "waterloo, the battle of"
+    },
+    {
+        "水上飛機": "waterplane"
+    },
+    {
+        "防水膠": "water-resistant casein glue"
+    },
+    {
+        "防水特種光油": "water-resistant spar varnish"
+    },
+    {
+        "水際，水面": "water's edge"
+    },
+    {
+        "水域管制": "waterspace management"
+    },
+    {
+        "不透水": "watertight"
+    },
+    {
+        "防水區劃，防水艙壁，水密艙壁": "watertight bulkhead"
+    },
+    {
+        "水密裝置日誌": "watertight closure log"
+    },
+    {
+        "防水區劃，防水隔室，水密艙區": "watertight compartment"
+    },
+    {
+        "防水隔艙": "water-tight compartment"
+    },
+    {
+        "水密蓋": "watertight cover"
+    },
+    {
+        "防水甲板，水密甲板": "watertight deck"
+    },
+    {
+        "防水門，水密門": "watertight door"
+    },
+    {
+        "水密接合": "watertight joint"
+    },
+    {
+        "防水小區劃": "watertight subdivision"
+    },
+    {
+        "防水牆(不透水牆)": "watertight wall"
+    },
+    {
+        "防水性(防漏)": "watertightness"
+    },
+    {
+        "水管鍋爐": "water-tube boiler"
+    },
+    {
+        "水道，水路，航路，排水溝": "waterway"
+    },
+    {
+        "排水溝柵欄": "waterway bar"
+    },
+    {
+        "水路能量，航線能量": "waterway capacity"
+    },
+    {
+        "水運分段": "waterway division"
+    },
+    {
+        "水道實驗室(站)": "waterway experiment station"
+    },
+    {
+        "水道總段": "waterway grand division"
+    },
+    {
+        "水道開口": "waterway opening"
+    },
+    {
+        "水影雲，將雨天空": "watery sky"
+    },
+    {
+        "波浪作用": "wave action"
+    },
+    {
+        "波幅": "wave amplitude"
+    },
+    {
+        "波角": "wave angle"
+    },
+    {
+        "行波天線": "wave antenna"
+    },
+    {
+        "波狀攻擊": "wave attack"
+    },
+    {
+        "波帶，波段": "wave band"
+    },
+    {
+        "波帶開關": "wave band switch"
+    },
+    {
+        "波帶更換開關": "wave changing switch"
+    },
+    {
+        "波浪狀雲": "wave cloud"
+    },
+    {
+        "舟波長(兩棲登陸)": "wave commanders"
+    },
+    {
+        "壓縮波": "wave compressive"
+    },
+    {
+        "波常數": "wave constant"
+    },
+    {
+        "浪頭，波峰": "wave crest"
+    },
+    {
+        "檢波器": "wave detector"
+    },
+    {
+        "波浪方向": "wave direction"
+    },
+    {
+        "導波體": "wave director"
+    },
+    {
+        "波(動)方程式": "wave equation"
+    },
+    {
+        "濾波器": "wave filter"
+    },
+    {
+        "波線": "wave fine"
+    },
+    {
+        "波形": "wave form"
+    },
+    {
+        "波形現象": "wave form aspect"
+    },
+    {
+        "波形特性": "wave form characteristic"
+    },
+    {
+        "波形畸變": "wave form distortion"
+    },
+    {
+        "波形分隔": "wave form separation"
+    },
+    {
+        "波面": "wave front"
+    },
+    {
+        "波(動)函數": "wave function"
+    },
+    {
+        "波導，導波管": "wave guide"
+    },
+    {
+        "浪高": "wave height"
+    },
+    {
+        "波高修正": "wave height correction"
+    },
+    {
+        "波干擾，電波干擾": "wave interference"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "波長常數": "wave length constant"
+    },
+    {
+        "偏航(左右偏轉)之波長": "wave length of yaw"
+    },
+    {
+        "波痕": "wave mark"
+    },
+    {
+        "波長計，波長測量表": "wave meter"
+    },
+    {
+        "波動": "wave motion"
+    },
+    {
+        "電波法線": "wave normal"
+    },
+    {
+        "舟波編號": "wave number"
+    },
+    {
+        "移轉波浪": "wave of translation"
+    },
+    {
+        "拒絕落地，拒落時間": "wave off"
+    },
+    {
+        "波束，波包": "wave packet"
+    },
+    {
+        "波浪週期": "wave period"
+    },
+    {
+        "浪壓": "wave pressure"
+    },
+    {
+        "電波傳播": "wave propagation"
+    },
+    {
+        "電波接收": "wave reception"
+    },
+    {
+        "折波": "wave refraction"
+    },
+    {
+        "波阻力": "wave resistance"
+    },
+    {
+        "電波整形": "wave shaping"
+    },
+    {
+        "海浪陡度": "wave steepness"
+    },
+    {
+        "波列，浪群": "wave train"
+    },
+    {
+        "陷波器，捕波器": "wave trap"
+    },
+    {
+        "波谷": "wave trough"
+    },
+    {
+        "波速，相速": "wave velocity (phase velocity)"
+    },
+    {
+        "垂直偏極化波": "wave vertically-polarized"
+    },
+    {
+        "波形繞法，波形繞組": "wave winding"
+    },
+    {
+        "逆波": "wave, backward"
+    },
+    {
+        "公分波": "wave, centimeter"
+    },
+    {
+        "圓形偏極化波": "wave, circularly polarized"
+    },
+    {
+        "連續波": "wave, continuous"
+    },
+    {
+        "阻尼波，減幅波": "wave, damped"
+    },
+    {
+        "繞射波": "wave, diffract"
+    },
+    {
+        "直接波": "wave, direct"
+    },
+    {
+        "主波": "wave, dominant"
+    },
+    {
+        "阻力波": "wave, drag"
+    },
+    {
+        "電磁波": "wave, electromagnetic"
+    },
+    {
+        "橢圓偏極化波": "wave, elliptically-polarized"
+    },
+    {
+        "地波": "wave, ground"
+    },
+    {
+        "地面反射波": "wave, ground reflected"
+    },
+    {
+        "導引波": "wave, guided"
+    },
+    {
+        "諧波": "wave, harmonic"
+    },
+    {
+        "百公尺波": "wave, hectometric"
+    },
+    {
+        "水平偏極(化)波": "wave, horizontally-polarized"
+    },
+    {
+        "入射波": "wave, incident"
+    },
+    {
+        "千公尺波": "wave, kilometric"
+    },
+    {
+        "縱波": "wave, longitudinal"
+    },
+    {
+        "公尺波": "wave, metric"
+    },
+    {
+        "公厘波": "wave, millimetric"
+    },
+    {
+        "平面波": "wave, plane"
+    },
+    {
+        "平面極化波": "wave, plane-polarized"
+    },
+    {
+        "行波": "wave, progressive or (traveling)"
+    },
+    {
+        "矩形波": "wave, rectangular"
+    },
+    {
+        "反射波": "wave, reflected"
+    },
+    {
+        "折射波": "wave, refracted"
+    },
+    {
+        "鋸齒形波，鋸齒波": "wave, saw tooth"
+    },
+    {
+        "震波(震響波)": "wave, shock"
+    },
+    {
+        "正弦波": "wave, sinusoidal"
+    },
+    {
+        "空中波": "wave, sky"
+    },
+    {
+        "太空波": "wave, space"
+    },
+    {
+        "球面波": "wave, spherical"
+    },
+    {
+        "方形波": "wave, square"
+    },
+    {
+        "駐波，定波": "wave, standing (stationary)"
+    },
+    {
+        "表面波": "wave, surface"
+    },
+    {
+        "橫波": "wave, transverse"
+    },
+    {
+        "橫電波": "wave, transverse electric"
+    },
+    {
+        "橫電磁波": "wave, transverse electromagnetic"
+    },
+    {
+        "橫磁波": "wave, transverse magnetic"
+    },
+    {
+        "梯形波": "wave, trapezoidal"
+    },
+    {
+        "進行平面波": "wave, traveling plane"
+    },
+    {
+        "三角波": "wave, triangular"
+    },
+    {
+        "波帶調換開關": "wave-change switch"
+    },
+    {
+        "子波": "wavelet"
+    },
+    {
+        "潛波": "waves, internal"
+    },
+    {
+        "貨運路單，運送單，乘客表": "way bill"
+    },
+    {
+        "到了": "way enough"
+    },
+    {
+        "滑板": "way plank"
+    },
+    {
+        "航途基準點": "way point"
+    },
+    {
+        "中途電臺，中途站": "way station"
+    },
+    {
+        "眾議院賦稅委員會": "Ways and Means in the House"
+    },
+    {
+        "船臺，下水臺": "ways, building"
+    },
+    {
+        "路邊號誌": "wayside signals"
+    },
+    {
+        "轉舵搶風": "way-to"
+    },
+    {
+        "W日(指由國家指揮當局宣布，敵人已下達準備戰爭之決策〔明確之戰略警告〕)": "W-day"
+    },
+    {
+        "稀混合氣": "weak mixture"
+    },
+    {
+        "弱信號": "weak signal"
+    },
+    {
+        "薄弱部分": "weak spot"
+    },
+    {
+        "弱點攻擊器": "weakness attacker"
+    },
+    {
+        "弱點更正(資訊戰用語)": "weakness proof"
+    },
+    {
+        "弱點掃瞄器": "weakness scanner"
+    },
+    {
+        "阿爾發武器，阿爾發砲": "weapon alpha"
+    },
+    {
+        "武器及太空載具識別": "weapon and payload identification"
+    },
+    {
+        "武器編配": "weapon assignment"
+    },
+    {
+        "武器能力": "weapon capability"
+    },
+    {
+        "軍械車": "weapon carrier (truck)"
+    },
+    {
+        "武器管制，射控": "weapon control"
+    },
+    {
+        "武器射控(管制)問題": "weapon control problem"
+    },
+    {
+        "武器管制站": "weapon control station"
+    },
+    {
+        "部隊武器協調官": "weapon coordinator, force"
+    },
+    {
+        "艦上武器協調官": "weapon coordinator, ship"
+    },
+    {
+        "武器危險區": "weapon danger zone"
+    },
+    {
+        "(核子) 武器殘餘物": "weapon debris (nuclear)"
+    },
+    {
+        "武器效果": "weapon effectiveness"
+    },
+    {
+        "武器接戰區": "weapon engagement zone"
+    },
+    {
+        "武器發射距離": "weapon firing range"
+    },
+    {
+        "武器掩體": "weapon pit"
+    },
+    {
+        "射擊臺，武器載臺": "weapon platform"
+    },
+    {
+        "武器建議單": "weapon recommendation sheet"
+    },
+    {
+        "砲歷書": "weapon record book"
+    },
+    {
+        "武器選擇表": "weapon selection table"
+    },
+    {
+        "武器選擇(器)(空軍)": "weapon selector"
+    },
+    {
+        "武器系統": "weapon system"
+    },
+    {
+        "武器系統研判": "weapon system evaluation"
+    },
+    {
+        "武器系統主管單位": "weapon system manager"
+    },
+    {
+        "武器系統專案計畫室": "weapon system project office"
+    },
+    {
+        "武器系統規格": "weapon system specification"
+    },
+    {
+        "海軍武器系統": "weapon system, naval"
+    },
+    {
+        "武器目標線": "weapon target line"
+    },
+    {
+        "未用武器": "weapon, free"
+    },
+    {
+        "原子彈裝配員，武器工程師，武器選用(武選)官": "weaponeer"
+    },
+    {
+        "武器選用": "weaponeering"
+    },
+    {
+        "武器分派": "weapons assignment"
+    },
+    {
+        "武器威力(武器功效)": "weapons effects"
+    },
+    {
+        "自由射擊": "weapons free"
+    },
+    {
+        "自由射擊區": "weapons free zone"
+    },
+    {
+        "暫停射擊": "weapons hold"
+    },
+    {
+        "武器一覽表": "weapons list"
+    },
+    {
+        "大規模毀滅性武器": "weapons of mass destruction"
+    },
+    {
+        "武器戰備狀況": "weapons readiness state"
+    },
+    {
+        "武器戰備狀況": "weapons state of readiness"
+    },
+    {
+        "武器系統運用構想": "weapons system employment concept"
+    },
+    {
+        "選定射擊，固定射擊": "weapons tight"
+    },
+    {
+        "武器對目標殺傷率": "weapon-to-target kill ratio"
+    },
+    {
+        "轉向上風航行": "wear"
+    },
+    {
+        "使用時機": "wearing time"
+    },
+    {
+        "小型運貨車，雪車": "weasel"
+    },
+    {
+        "天氣無效架次(空軍)": "weather abort"
+    },
+    {
+        "為天氣所阻(不能出航)": "weather bound"
+    },
+    {
+        "有暴風雨預兆之晴天": "weather breeder"
+    },
+    {
+        "氣象中心": "weather central"
+    },
+    {
+        "天氣圖": "weather chart"
+    },
+    {
+        "天遮": "weather cloth"
+    },
+    {
+        "天氣代字，天氣電碼": "weather code"
+    },
+    {
+        "天候狀況": "weather condition"
+    },
+    {
+        "天候諸元(資料)": "weather data"
+    },
+    {
+        "天候諸元(資料)觀察器": "weather data viewers"
+    },
+    {
+        "露天甲板": "weather deck"
+    },
+    {
+        "氣象眼": "weather eye"
+    },
+    {
+        "注意氣候變化": "weather eye open"
+    },
+    {
+        "氣候因素": "weather factor"
+    },
+    {
+        "天氣偵察飛行": "weather flight"
+    },
+    {
+        "天氣預報": "weather forecast"
+    },
+    {
+        "長期氣象預報(48小時以上者)": "weather forecast, long range"
+    },
+    {
+        "中期氣象預報(12至48小時者)": "weather forecast, medium range"
+    },
+    {
+        "短期氣象預報(12小時以內者)": "weather forecast, short range"
+    },
+    {
+        "天氣預報員": "weather forecaster"
+    },
+    {
+        "天氣鋒面": "weather front"
+    },
+    {
+        "一船在他船之上風位置": "weather gauge"
+    },
+    {
+        "上風舵": "weather helm"
+    },
+    {
+        "防風雨罩": "weather hood"
+    },
+    {
+        "天候情報資料": "weather information"
+    },
+    {
+        "天候情報": "weather intelligence"
+    },
+    {
+        "天候紀錄簿": "weather log"
+    },
+    {
+        "天氣圖": "weather map"
+    },
+    {
+        "概略天氣圖": "weather map, synoptic"
+    },
+    {
+        "氣象報導": "weather message"
+    },
+    {
+        "天氣最低限度": "weather minimums"
+    },
+    {
+        "改變氣候": "weather modification"
+    },
+    {
+        "天候觀測": "weather observation"
+    },
+    {
+        "氣象觀測員，測候員": "weather observer"
+    },
+    {
+        "氣象官": "weather officer"
+    },
+    {
+        "天候面板": "weather panels"
+    },
+    {
+        "耐風雨線，耐氣候線": "weather proof wire"
+    },
+    {
+        "氣象雷達": "weather radar"
+    },
+    {
+        "氣象偵察": "weather reconnaissance"
+    },
+    {
+        "天氣報告": "weather report"
+    },
+    {
+        "氣象衛星": "weather satellite"
+    },
+    {
+        "氣象勤務": "weather service"
+    },
+    {
+        "上岸風": "weather shore"
+    },
+    {
+        "上風舷": "weather side"
+    },
+    {
+        "氣象信號": "weather signal"
+    },
+    {
+        "測候站，氣象站": "weather station"
+    },
+    {
+        "防風條(帶)": "weather strap"
+    },
+    {
+        "防風雨帶，防雨膠條": "weather strip"
+    },
+    {
+        "氣象綜合報告": "weather summary"
+    },
+    {
+        "上風潮": "weather tide"
+    },
+    {
+        "氣象來回飛行，氣象航道": "weather track"
+    },
+    {
+        "天氣追蹤器": "weather tracker"
+    },
+    {
+        "天候類型": "weather type"
+    },
+    {
+        "順風校準": "weather vane"
+    },
+    {
+        "定向風尾，迎風船隻": "weathercock(s)"
+    },
+    {
+        "迎風船": "weathercocks"
+    },
+    {
+        "風蝕性試驗機，耐候性測試器": "weathering machine"
+    },
+    {
+        "氣象員": "weatherman"
+    },
+    {
+        "防風雨導火索點火具": "weatherproof fuze lighter"
+    },
+    {
+        "交織航行": "weave"
+    },
+    {
+        "瞭望機": "weaver"
+    },
+    {
+        "交織航行": "weaving"
+    },
+    {
+        "網狀藥壁，藥壁厚": "web"
+    },
+    {
+        "腰帶": "web belt"
+    },
+    {
+        "藥壁厚(彈藥)": "web thickness (ammunition)"
+    },
+    {
+        "網狀化反潛作戰網路": "web-centric ASW network"
+    },
+    {
+        "網頁伺服器": "webpage server"
+    },
+    {
+        "楔形編隊形": "wedge formation"
+    },
+    {
+        "海軍航空隊後備員": "weekend warrior"
+    },
+    {
+        "每週檢查": "weekly inspection"
+    },
+    {
+        "每週勤務": "weekly service"
+    },
+    {
+        "滴水孔": "weep hole"
+    },
+    {
+        "微漏": "weeping"
+    },
+    {
+        "德軍(納粹時代德國陸軍)": "Wehrmacht"
+    },
+    {
+        "地磅": "weigh bridge"
+    },
+    {
+        "衡重器，過磅員，驗秤員": "weigher"
+    },
+    {
+        "起錨": "weighing anchor"
+    },
+    {
+        "稱量瓶": "weighing bottle"
+    },
+    {
+        "(飛艇)備降": "weigh-off"
+    },
+    {
+        "重錨": "weight anchor"
+    },
+    {
+        "重量與平衡表，載重平衡表": "weight and balance sheet"
+    },
+    {
+        "重量及裝載限制": "weight and loading limitation"
+    },
+    {
+        "重量承載目標": "weight bogey"
+    },
+    {
+        "秤量機，計量臺": "weight bridge"
+    },
+    {
+        "質重軍品": "weight cargo"
+    },
+    {
+        "重量等級": "weight class"
+    },
+    {
+        "重量管制": "weight control"
+    },
+    {
+        "重流修正因數": "weight flow correction factor"
+    },
+    {
+        "重量流率": "weight flow rate"
+    },
+    {
+        "重量增益": "weight gain"
+    },
+    {
+        "重量限制": "weight limitations"
+    },
+    {
+        "重量負荷因數": "weight loading factor"
+    },
+    {
+        "重量度量": "weight measure"
+    },
+    {
+        "重量配合": "weight mix"
+    },
+    {
+        "彈頭重量": "weight of projectile"
+    },
+    {
+        "單位馬力重量": "weight per horsepower"
+    },
+    {
+        "重量百分比": "weight percent"
+    },
+    {
+        "重量比": "weight ratio"
+    },
+    {
+        "重噸(重2,240磅)": "weight ton (long ton)"
+    },
+    {
+        "加權平均": "weighted average"
+    },
+    {
+        "加權平均": "weighted mean"
+    },
+    {
+        "權衡電壓": "weighted voltage"
+    },
+    {
+        "重錘": "weighting device"
+    },
+    {
+        "權衡函數": "weighting function"
+    },
+    {
+        "權衡網路": "weighting network"
+    },
+    {
+        "測重瓶": "weighting tube"
+    },
+    {
+        "重量計": "weightometer"
+    },
+    {
+        "紀律良好的": "well-disciplined"
+    },
+    {
+        "通才教育": "well-round education"
+    },
+    {
+        "排洩艙池裝置": "wells are fitted for draining hold"
+    },
+    {
+        "維納地圖投影": "Werner map projection"
+    },
+    {
+        "西經": "west longitude"
+    },
+    {
+        "西風吹送流": "west wind drift current"
+    },
+    {
+        "西風帶": "westerlies"
+    },
+    {
+        "西距(天文)": "western elongation"
+    },
+    {
+        "港池，泊船渠，浮塢": "wet dock"
+    },
+    {
+        "濕掩體": "wet emplacement"
+    },
+    {
+        "濕藏法，彈藥濕存法，水上儲存所": "wet storage"
+    },
+    {
+        "保溫潛水衣(緊身式)": "wet suit"
+    },
+    {
+        "濕起飛馬力": "wet takeoff power"
+    },
+    {
+        "雨天下雨量": "wet weather flow"
+    },
+    {
+        "濕重量": "wet weight"
+    },
+    {
+        "濕式燃料火箭": "wet-fuel rocket"
+    },
+    {
+        "鯨背式甲板船": "whale back"
+    },
+    {
+        "鯨形小艇": "whale boat"
+    },
+    {
+        "捕鯨船": "whale chaser"
+    },
+    {
+        "碼頭": "wharf"
+    },
+    {
+        "躉船": "wharf boat"
+    },
+    {
+        "碼頭工人": "wharf man"
+    },
+    {
+        "碼頭使用費，繫船費，繫船設備": "wharfage"
+    },
+    {
+        "碼頭主": "wharfinger"
+    },
+    {
+        "車輪校準，車輪校正": "wheel alignment"
+    },
+    {
+        "手推車(獨輪小車)": "wheel barrow"
+    },
+    {
+        "手推車詭雷": "wheel barrow boobytrap"
+    },
+    {
+        "輪距，軸距": "wheel base"
+    },
+    {
+        "輪式操縱，輪盤操縱": "wheel control"
+    },
+    {
+        "輪載重": "wheel load"
+    },
+    {
+        "輪荷能量": "wheel load capacity"
+    },
+    {
+        "車輪蓆墊": "wheel mate"
+    },
+    {
+        "汽車吊網": "wheel net"
+    },
+    {
+        "車輛報告": "wheel report"
+    },
+    {
+        "車輪配重": "wheel-balancing weight"
+    },
+    {
+        "裝輪飛機，裝輪航空器": "wheeled aircraft"
+    },
+    {
+        "輪型登陸車輛": "wheeled landing vehicle"
+    },
+    {
+        "輪型車輛": "wheeled vehicle"
+    },
+    {
+        "舵房": "wheelhouse"
+    },
+    {
+        "輪展起落架": "wheel-ski"
+    },
+    {
+        "收輪": "wheels-up"
+    },
+    {
+        "渡船，漁舟，舢板": "wherry"
+    },
+    {
+        "報告答詢機類型": "which transponder"
+    },
+    {
+        "輕舟，競渡快艇": "whiff"
+    },
+    {
+        "鞭，急動，綑紮，小滑車": "whip"
+    },
+    {
+        "鞭型天線": "whip antenna"
+    },
+    {
+        "滑車吊貨機": "whip hoist"
+    },
+    {
+        "倍力滑車": "whip upon whip"
+    },
+    {
+        "橫檔式": "whipple"
+    },
+    {
+        "舵柄": "whipstaff"
+    },
+    {
+        "急升失速": "whipstall"
+    },
+    {
+        "絞縫法": "whipstitch"
+    },
+    {
+        "漩渦(流)": "whirlpool"
+    },
+    {
+        "小旋風": "whirly"
+    },
+    {
+        "旋鳥(直升機，俚語)": "whirlybird"
+    },
+    {
+        "伸出於船道斜桅兩邊之桿": "whiskers"
+    },
+    {
+        "W級潛艦(俄製巡弋飛彈潛艦)": "Whisky"
+    },
+    {
+        "汽笛與汽笛疏水": "whistle and siren drain"
+    },
+    {
+        "汽笛罩": "whistle bell"
+    },
+    {
+        "笛哨詭雷": "whistle boobytrap"
+    },
+    {
+        "汽笛筒": "whistle bowl"
+    },
+    {
+        "汽笛浮標": "whistle buoy"
+    },
+    {
+        "汽笛效應": "whistle effect"
+    },
+    {
+        "鳴汽標": "whistle post"
+    },
+    {
+        "汽笛號誌": "whistle signal"
+    },
+    {
+        "汽笛發音板": "whistle sounding plate"
+    },
+    {
+        "白色(信號)": "white"
+    },
+    {
+        "白色警報，解除警報": "white alert"
+    },
+    {
+        "白浪花": "white cap"
+    },
+    {
+        "白色減縮(電視)": "white compression (TV)"
+    },
+    {
+        "白絞效應": "white cross effect"
+    },
+    {
+        "白露": "white dew"
+    },
+    {
+        "光榮退役": "white discharge (honorable discharge)"
+    },
+    {
+        "休戰旗，降旗": "white flag"
+    },
+    {
+        "白色平壁油漆": "white flat wall paint"
+    },
+    {
+        "英國政府": "White Hall"
+    },
+    {
+        "白色儀器飛行卡": "white instrument card"
+    },
+    {
+        "白色儀器飛行許可證": "white instrument certificate"
+    },
+    {
+        "白噪聲": "white noise"
+    },
+    {
+        "白色宣傳": "white propaganda"
+    },
+    {
+        "白輻射": "white radiation"
+    },
+    {
+        "白色突襲": "white raid"
+    },
+    {
+        "白沙實驗場": "White Sands proving ground"
+    },
+    {
+        "白雹": "white squall"
+    },
+    {
+        "白(至)黑幅距": "white to black amplitude range"
+    },
+    {
+        "白(至)黑頻擺(度)": "white to black frequency swing"
+    },
+    {
+        "白盲": "whiteout"
+    },
+    {
+        "戰士白制服": "whites-white uniforms worn by enlisted men"
+    },
+    {
+        "全節線圈": "whole coil"
+    },
+    {
+        "全程戰略": "whole course strategy"
+    },
+    {
+        "狂風，十級風(每時55至63哩的暴風)": "whole gale"
+    },
+    {
+        "整數": "whole number"
+    },
+    {
+        "全浮舟": "whole ponton"
+    },
+    {
+        "大批補給": "wholesale supply"
+    },
+    {
+        "廣角度空中照片": "wide angle photograph"
+    },
+    {
+        "寬孔徑陣列": "wide aperture array"
+    },
+    {
+        "寬頻帶音頻輸入阻抗": "wide band audio input impedance"
+    },
+    {
+        "寬頻帶音頻輸出阻抗": "wide band audio output impedance"
+    },
+    {
+        "寬頻帶音頻響應": "wide band audio response"
+    },
+    {
+        "寬頻帶軸線": "wide band axis"
+    },
+    {
+        "寬距，安全距離(航海)": "wide berth"
+    },
+    {
+        "廣闊涵蓋區": "wide coverage"
+    },
+    {
+        "寬緣樑": "wide flange beams"
+    },
+    {
+        "廣範圍霧化器": "wide range atomizer"
+    },
+    {
+        "寬隔波道": "wide separation channel"
+    },
+    {
+        "寬交織航": "wide weaving"
+    },
+    {
+        "廣域水下監視(空用聲納系統)": "wide-area subsurface surveillance"
+    },
+    {
+        "寬頻帶恆定虛警率接收機(wB-1)": "wideband constant false alarm rate receiver (wb-1)"
+    },
+    {
+        "寬頻帶限制(WB-2)": "wideband limit (WB-2)"
+    },
+    {
+        "寬間隔": "widely spaced"
+    },
+    {
+        "寬轍道(指雪道)": "widen rut road"
+    },
+    {
+        "加寬曲線": "widening curve"
+    },
+    {
+        "道路加寬": "widening of road"
+    },
+    {
+        "脈衝寬度控制": "width control"
+    },
+    {
+        "淨寬": "width of clearing"
+    },
+    {
+        "橋幅，路幅": "width of roadway"
+    },
+    {
+        "跑道寬度": "width of runway"
+    },
+    {
+        "被彈面寬度，火制面寬度": "width of sheaf"
+    },
+    {
+        "河幅": "width of stream"
+    },
+    {
+        "寬跑道": "width runway"
+    },
+    {
+        "觸發寬度": "width, actuation"
+    },
+    {
+        "錐形掩蔽部": "wigwam shelter"
+    },
+    {
+        "遵辦，照辦(無線電用語)": "wilco (will be complied with)"
+    },
+    {
+        "不明狀況": "wild card scenario"
+    },
+    {
+        "自流，未加控制之流體": "wild flow"
+    },
+    {
+        "不規則射擊，亂射，流彈": "wild shot"
+    },
+    {
+        "錨鏈盤，絞盤": "wildcat"
+    },
+    {
+        "操縱絞機安全守則": "winches safety precautions in handling"
+    },
+    {
+        "絞盤操作手": "winchman"
+    },
+    {
+        "調轉艏向": "wind (a steamer)"
+    },
+    {
+        "風作用": "wind action"
+    },
+    {
+        "高空風": "wind aloft"
+    },
+    {
+        "高空風向報告": "wind aloft report"
+    },
+    {
+        "風角": "wind angle"
+    },
+    {
+        "窗戶詭雷": "wind boobytrap"
+    },
+    {
+        "為強風或逆風所阻": "wind bound"
+    },
+    {
+        "風力充電器": "wind charger"
+    },
+    {
+        "風速分力指示器": "wind component indicator"
+    },
+    {
+        "風向錐": "wind cone"
+    },
+    {
+        "風偏修正電路": "wind correction circuit"
+    },
+    {
+        "風偏修正器": "wind corrector"
+    },
+    {
+        "風象資料": "wind data"
+    },
+    {
+        "風偏，風力偏移": "wind deflection"
+    },
+    {
+        "風力圖": "wind diagram"
+    },
+    {
+        "風向及風速指示器組": "wind direction and speed indicator group"
+    },
+    {
+        "風向及風速紀錄器": "wind direction and speed recorders"
+    },
+    {
+        "風向諸元換算器": "wind direction data converters"
+    },
+    {
+        "風向探測器": "wind direction detector"
+    },
+    {
+        "風向圖": "wind direction diagram"
+    },
+    {
+        "風向指示器，風標，風向表": "wind direction indicator"
+    },
+    {
+        "風向計": "wind direction meter"
+    },
+    {
+        "風向機": "wind direction sets"
+    },
+    {
+        "風向傳送器": "wind direction transmitter"
+    },
+    {
+        "風偏，風漂移": "wind drift"
+    },
+    {
+        "風蝕作用": "wind erosion"
+    },
+    {
+        "風射夾角": "wind fire angle"
+    },
+    {
+        "風力圖": "wind force diagram"
+    },
+    {
+        "風力修正規": "wind gage"
+    },
+    {
+        "風向調整規": "wind gage adjustment"
+    },
+    {
+        "風力修正尺": "wind gage rule"
+    },
+    {
+        "風向標": "wind indication"
+    },
+    {
+        "示風器": "wind indicator"
+    },
+    {
+        "帆船": "wind jammer"
+    },
+    {
+        "風載重，風力負荷": "wind load"
+    },
+    {
+        "風力測量機": "wind measuring set"
+    },
+    {
+        "氣流型飛行": "wind pattern flying"
+    },
+    {
+        "風壓": "wind pressure"
+    },
+    {
+        "風向側面圖": "wind profile"
+    },
+    {
+        "風力紀錄器": "wind recorder"
+    },
+    {
+        "風阻力": "wind resistance"
+    },
+    {
+        "風力計算機": "wind resolving mechanism"
+    },
+    {
+        "風向圖": "wind rose"
+    },
+    {
+        "風力計算尺": "wind rule"
+    },
+    {
+        "風袋": "wind sail"
+    },
+    {
+        "風級": "wind scale"
+    },
+    {
+        "風斗": "wind scoop"
+    },
+    {
+        "環狀裂縫": "wind shake"
+    },
+    {
+        "風切力": "wind shear"
+    },
+    {
+        "風變": "wind shift"
+    },
+    {
+        "將船調頭": "wind ship"
+    },
+    {
+        "風速": "wind speed"
+    },
+    {
+        "風速諸元換算器": "wind speed data converters"
+    },
+    {
+        "風速紀錄器": "wind speed recorder"
+    },
+    {
+        "風速傳送器": "wind speed transmitter"
+    },
+    {
+        "風速傳送器校正儀": "wind speed transmitter calibrator set"
+    },
+    {
+        "風速風向求解圖，風星": "wind star"
+    },
+    {
+        "風兜": "wind stoop"
+    },
+    {
+        "風暴": "wind storm"
+    },
+    {
+        "風流": "wind stream"
+    },
+    {
+        "風壓應力": "wind stress"
+    },
+    {
+        "風向三角形": "wind triangle"
+    },
+    {
+        "風洞": "wind tunnel"
+    },
+    {
+        "風向標": "wind vane"
+    },
+    {
+        "風向量，風力線": "wind vector"
+    },
+    {
+        "風象作圖板": "wind vector plotting device"
+    },
+    {
+        "順轉風": "wind veering"
+    },
+    {
+        "風速": "wind velocity"
+    },
+    {
+        "風速加權因素": "wind weighing factor"
+    },
+    {
+        "感應風": "wind, apparent"
+    },
+    {
+        "彈道風": "wind, ballistic"
+    },
+    {
+        "橫風": "wind, cross"
+    },
+    {
+        "旋轉風": "wind, cyclostrophic"
+    },
+    {
+        "地轉風": "wind, geostrophic"
+    },
+    {
+        "頹風": "wind, katabatic"
+    },
+    {
+        "相對風": "wind, relative"
+    },
+    {
+        "旋轉(氣泡水準儀)": "wind, spirit level"
+    },
+    {
+        "真風": "wind, true"
+    },
+    {
+        "風力影響，風向偏差修止，砲彈與砲身間之游隙": "windage"
+    },
+    {
+        "風偏判斷": "windage estimate"
+    },
+    {
+        "風阻損失": "windage loss"
+    },
+    {
+        "風力修正分劃": "windage scale"
+    },
+    {
+        "表尺架": "windage yoke"
+    },
+    {
+        "風偏修正彈藥散撒(投擲)器": "wind-corrected munitions dispenser"
+    },
+    {
+        "錨機，簡易絞盤": "windlass"
+    },
+    {
+        "簡易絞盤救濟法": "windlass method"
+    },
+    {
+        "直升機風線屏衛": "wind-line screen, helicopter"
+    },
+    {
+        "風轉": "windmill"
+    },
+    {
+        "反射干擾，雷達干擾片": "window"
+    },
+    {
+        "波浪狀雲": "window cloud"
+    },
+    {
+        "金屬干擾帶火箭": "window rocket"
+    },
+    {
+        "成堆，風積丘": "windrow"
+    },
+    {
+        "擋風板，擋風前窗，擋風玻璃": "windscreen"
+    },
+    {
+        "擋風玻璃，假彈頭部": "windshield"
+    },
+    {
+        "擋風玻璃去霧器": "windshield defroster"
+    },
+    {
+        "擋風玻璃": "windshield glass"
+    },
+    {
+        "雨刮，雨刷": "windshield wiper"
+    },
+    {
+        "上風，迎風面": "windward"
+    },
+    {
+        "上風潮": "windward tide"
+    },
+    {
+        "翼，機翼，旋翼葉，機翼油箱，機翼機槍，側翼，空勤胸章，聯隊": "wing"
+    },
+    {
+        "翼形橋礎": "wing abutment"
+    },
+    {
+        "雙舷飛帆駛風法(海軍)": "wing and wing"
+    },
+    {
+        "機翼面積": "wing area"
+    },
+    {
+        "翼軸": "wing axis"
+    },
+    {
+        "翼張間(機翼內隔室)": "wing bay"
+    },
+    {
+        "翼房": "wing chamber"
+    },
+    {
+        "翼列(柱)": "wing column"
+    },
+    {
+        "聯隊長，空軍中校(英國或加拿大官階)": "wing commander"
+    },
+    {
+        "舷側防水隔室": "wing compartment"
+    },
+    {
+        "翼控制": "wing control"
+    },
+    {
+        "機翼阻力，翼阻力": "wing drag"
+    },
+    {
+        "翼面擋流板": "wing fence"
+    },
+    {
+        "機翼整片": "wing fillet"
+    },
+    {
+        "機翼襟翼": "wing flap"
+    },
+    {
+        "機翼摺起": "wing folding"
+    },
+    {
+        "翼槍": "wing gun"
+    },
+    {
+        "翼重": "wing heavy"
+    },
+    {
+        "聯隊督察官": "wing inspector"
+    },
+    {
+        "翼堤": "wing levee"
+    },
+    {
+        "機翼負荷，機翼靜力負荷": "wing load (ing)"
+    },
+    {
+        "飛行戰友": "wing mate"
+    },
+    {
+        "監房監督官": "wing officer"
+    },
+    {
+        "翻轉": "wing over"
+    },
+    {
+        "舷側通路": "wing passage"
+    },
+    {
+        "側翼照相": "wing photograph"
+    },
+    {
+        "翼平面圖形": "wing plane form"
+    },
+    {
+        "翼式雪桿": "wing plow"
+    },
+    {
+        "機翼吊艙(發射架)": "wing pod"
+    },
+    {
+        "翼柱": "wing post"
+    },
+    {
+        "翼剖面": "wing profile"
+    },
+    {
+        "翼軌": "wing rail"
+    },
+    {
+        "翼助": "wing rib"
+    },
+    {
+        "翼根": "wing root"
+    },
+    {
+        "翼式螺絲": "wing screw"
+    },
+    {
+        "翼剖面": "wing section"
+    },
+    {
+        "機翼信號": "wing signal"
+    },
+    {
+        "翼撬": "wing skid"
+    },
+    {
+        "翼展": "wing span"
+    },
+    {
+        "翼樑": "wing spar"
+    },
+    {
+        "翼展": "wing spread"
+    },
+    {
+        "翼支柱": "wing strut"
+    },
+    {
+        "翼根段": "wing stub"
+    },
+    {
+        "聯隊軍醫長": "wing surgeon"
+    },
+    {
+        "機翼油箱，翼油箱": "wing tank"
+    },
+    {
+        "機翼斜度": "wing taper"
+    },
+    {
+        "翼形頂": "wing top"
+    },
+    {
+        "翼構架": "wing truss"
+    },
+    {
+        "翼上人行道": "wing walk"
+    },
+    {
+        "翼牆": "wing wall"
+    },
+    {
+        "翼半飛機(一種雙翼機，其中一翼面積為另一翼之半)": "wing-and-a-half plane"
+    },
+    {
+        "聯隊基地(空軍)": "wing-base"
+    },
+    {
+        "聯隊基地督察官": "wing-base inspector"
+    },
+    {
+        "聯隊基地組織": "wing-base organization"
+    },
+    {
+        "加力時之翼控制": "wing-control-during-boost"
+    },
+    {
+        "有翼的，空中的": "winged"
+    },
+    {
+        "有翼砲兵(對空軍所負功能而言)": "winged artillery"
+    },
+    {
+        "有翼射體(飛彈)": "winged missile"
+    },
+    {
+        "有翼火箭": "winged rocket"
+    },
+    {
+        "翼地效應": "wing-in-ground effect"
+    },
+    {
+        "翼地效應載具": "wing-in-ground effect vehicle"
+    },
+    {
+        "僚機飛行員，僚機": "wingman"
+    },
+    {
+        "翼梢，翼尖": "wingtip"
+    },
+    {
+        "翼梢照明炬": "wingtip flare"
+    },
+    {
+        "翼梢浮筒": "wingtip float"
+    },
+    {
+        "翼梢傾度": "wingtip rake"
+    },
+    {
+        "翼梢油箱": "wingtip tank"
+    },
+    {
+        "機翼翹曲": "wing-warp (ing)"
+    },
+    {
+        "冬季海水": "winter salt water"
+    },
+    {
+        "防凍說明及檢查表": "winterization instruction and check list"
+    },
+    {
+        "防凍裝具箱(包)": "winterization kit"
+    },
+    {
+        "輔助坑井": "winze"
+    },
+    {
+        "有線電廣播": "wire broadcasting"
+    },
+    {
+        "鋼刷法": "wire brushing"
+    },
+    {
+        "有線電班長": "wire chief"
+    },
+    {
+        "有線電指揮": "wire command"
+    },
+    {
+        "有線電通信": "wire communication"
+    },
+    {
+        "被覆線分線器": "wire dispenser"
+    },
+    {
+        "拖纜探測": "wire drag"
+    },
+    {
+        "鐵絲網(障礙物)": "wire entanglement"
+    },
+    {
+        "鐵絲柵": "wire fence"
+    },
+    {
+        "線規": "wire gage"
+    },
+    {
+        "高架鋼索": "wire gantline"
+    },
+    {
+        "線規": "wire gauge (wire-gage)"
+    },
+    {
+        "線規過濾器": "wire gauge filter"
+    },
+    {
+        "刺絲護手套(工兵)": "wire gauntlets"
+    },
+    {
+        "絡網(嵌絲)玻璃": "wire glass"
+    },
+    {
+        "線導魚雷": "wire guided torpedo"
+    },
+    {
+        "鐵絲握把": "wire handle"
+    },
+    {
+        "有線電末端": "wire head"
+    },
+    {
+        "鋼纜高線法": "wire high-line method"
+    },
+    {
+        "嵌裝鋼絲石棉迫緊": "wire inserted asbestos packing"
+    },
+    {
+        "鋼絲網道路(增加道路面載重及強度)": "wire mesh road"
+    },
+    {
+        "有線電通信網路": "wire net"
+    },
+    {
+        "有線電理線桿": "wire pike"
+    },
+    {
+        "有線電(廣播)": "wire radio"
+    },
+    {
+        "電線絡車": "wire reel"
+    },
+    {
+        "鋼絲強化油管": "wire reinforced hose"
+    },
+    {
+        "鋼絲強化吸水管": "wire reinforced suction hose"
+    },
+    {
+        "鋼絲索具": "wire rigging"
+    },
+    {
+        "亂線障礙物，螺旋形鐵絲網，高低絆網": "wire roll"
+    },
+    {
+        "鋼絲索": "wire rope"
+    },
+    {
+        "鋼索裝具": "wire rope fitting"
+    },
+    {
+        "鋼索扣帶": "wire rope gripe"
+    },
+    {
+        "鋼索道路阻絕": "wire rope roadblock"
+    },
+    {
+        "鋼絲網": "wire screen"
+    },
+    {
+        "線濾網蓆片": "wire screen mat"
+    },
+    {
+        "有線電士官": "wire sergeant"
+    },
+    {
+        "鋼絲吊索": "wire sling"
+    },
+    {
+        "有線電氣象探測儀，有線電探空機": "wire sonde (sets)"
+    },
+    {
+        "有線電氣象探測": "wire sounding"
+    },
+    {
+        "水平交叉索": "wire sway bracing"
+    },
+    {
+        "有線電話": "wire telephony"
+    },
+    {
+        "有線電視": "wire television"
+    },
+    {
+        "線道": "wire ways"
+    },
+    {
+        "繞線": "wire winding"
+    },
+    {
+        "有線射電": "wire wireless (wired radio)"
+    },
+    {
+        "死線": "wire, dead"
+    },
+    {
+        "有線電": "wire, live"
+    },
+    {
+        "(嵌絲)玻璃": "wired glass"
+    },
+    {
+        "失壓蒸汽": "wiredrawn steam"
+    },
+    {
+        "緊線器": "wire-grip"
+    },
+    {
+        "線導引": "wire-guided"
+    },
+    {
+        "放線器材": "wire-laying equipment"
+    },
+    {
+        "無線電，無線電機，無線電報": "wireless"
+    },
+    {
+        "無線自主網路": "Wireless Ad-hoc Network"
+    },
+    {
+        "無線電信標": "wireless beacon"
+    },
+    {
+        "無線電通信": "wireless communications"
+    },
+    {
+        "無線電羅經": "wireless compass"
+    },
+    {
+        "天線引入": "wireless lead in"
+    },
+    {
+        "無線電報務員": "wireless operator"
+    },
+    {
+        "無線電唱片播放器(員)": "wireless record player"
+    },
+    {
+        "無線電室": "wireless room"
+    },
+    {
+        "無線電機": "wireless set"
+    },
+    {
+        "無線電臺": "wireless station (radio station)"
+    },
+    {
+        "無線電報": "wireless telegraph y"
+    },
+    {
+        "無線電話": "wireless telephone"
+    },
+    {
+        "無線電電傳照相": "wireless telephotograph"
+    },
+    {
+        "無線電視": "wireless television"
+    },
+    {
+        "撤線器材(裝備)": "wire-recovering equipment"
+    },
+    {
+        "佈線，接線，配線": "wiring"
+    },
+    {
+        "接線圖，線路圖": "wiring diagram"
+    },
+    {
+        "右絞的，順時鐘方向": "with the sun-right-handed"
+    },
+    {
+        "順(潮)流": "with the tide"
+    },
+    {
+        "退卻，撤退，脫離，轉進": "withdrawal"
+    },
+    {
+        "脫離戰鬥，撤退行動，轉進行動": "withdrawal action"
+    },
+    {
+        "脫離戰鬥": "withdrawal form action"
+    },
+    {
+        "收傘繩": "withdrawal line"
+    },
+    {
+        "轉進作戰(行動)": "withdrawal operation"
+    },
+    {
+        "兩棲撤退": "withdrawal, amphibious"
+    },
+    {
+        "核子制止": "withhold, nuclear"
+    },
+    {
+        "書面證詞，書面聲明": "witness statement"
+    },
+    {
+        "搖變頻變器": "wobbulator"
+    },
+    {
+        "水面敵潛艦": "wolf"
+    },
+    {
+        "狼群(協同攻擊潛艦組合)": "wolf pack"
+    },
+    {
+        "獵狼(獵殺潛艦)陷阱": "wolftrap"
+    },
+    {
+        "陸軍婦女隊服務獎章": "Women's Army Corps Service Medal"
+    },
+    {
+        "婦女輔助空運中隊": "women's auxiliary ferrying squadron"
+    },
+    {
+        "婦女醫療預備隊": "women's medical specialist corps reserve"
+    },
+    {
+        "木材堆詭雷": "wood pile boobytrap"
+    },
+    {
+        "木彈": "wooden bomb"
+    },
+    {
+        "木質船": "wooden craft"
+    },
+    {
+        "木造救生艇": "wooden lifeboat"
+    },
+    {
+        "木彈": "wooden round"
+    },
+    {
+        "操縱(一船)，動作，(作)功": "work"
+    },
+    {
+        "操縱艦船": "work a ship"
+    },
+    {
+        "計工區分": "work area"
+    },
+    {
+        "鉗檯，工作檯": "work bench"
+    },
+    {
+        "固結工": "work consolidation"
+    },
+    {
+        "工作計算": "work count"
+    },
+    {
+        "工作增發列車": "work extra train"
+    },
+    {
+        "底板架": "work floor frame"
+    },
+    {
+        "工作流量": "work flow"
+    },
+    {
+        "功函數": "work function"
+    },
+    {
+        "工作量核配": "work load allocation"
+    },
+    {
+        "工作命令，發工單": "work order"
+    },
+    {
+        "修整": "work over"
+    },
+    {
+        "請修單": "work request"
+    },
+    {
+        "申請派工單": "work request and job order"
+    },
+    {
+        "工作單": "work sheet"
+    },
+    {
+        "工作簡化": "work simplification"
+    },
+    {
+        "作業場地": "work site"
+    },
+    {
+        "逆風漸進": "work to windward"
+    },
+    {
+        "工作列車": "work train"
+    },
+    {
+        "工作服": "work uniform"
+    },
+    {
+        "工作單位": "work unit"
+    },
+    {
+        "向上風前進": "work up"
+    },
+    {
+        "工作電壓": "work voltage"
+    },
+    {
+        "施工難易度": "workability"
+    },
+    {
+        "捏調錐入度": "worked penetration"
+    },
+    {
+        "卸載泊地": "working anchorage"
+    },
+    {
+        "工作後傾角": "working back rake angle"
+    },
+    {
+        "搖臂": "working beam (rocker arm)"
+    },
+    {
+        "可用容量": "working capacity"
+    },
+    {
+        "作業資金": "working capital fund"
+    },
+    {
+        "工作室": "working chamber"
+    },
+    {
+        "工作電流": "working current"
+    },
+    {
+        "工作圖(施工圖)": "working drawing"
+    },
+    {
+        "工作服": "working dress"
+    },
+    {
+        "工作流體": "working fluid"
+    },
+    {
+        "工作基金": "working fund"
+    },
+    {
+        "工作基金分配": "working fund allotment"
+    },
+    {
+        "工作樣板，工作量規": "working gage"
+    },
+    {
+        "作業存品": "working inventory"
+    },
+    {
+        "建造縫，工作縫，施工縫": "working joint"
+    },
+    {
+        "工作載量": "working load"
+    },
+    {
+        "工作媒體": "working medium"
+    },
+    {
+        "工作狀況，機器運轉狀態": "working order"
+    },
+    {
+        "作業隊": "working party"
+    },
+    {
+        "實用擺儀": "working pendulum"
+    },
+    {
+        "上甲板，工作甲板": "working platform"
+    },
+    {
+        "工作壓力(有效壓力)": "working pressure"
+    },
+    {
+        "作業原則": "working principle"
+    },
+    {
+        "工作檢疫隔離": "working quarantine"
+    },
+    {
+        "工作半徑": "working radius"
+    },
+    {
+        "工作阻力": "working resistance"
+    },
+    {
+        "作業圖": "working sketch"
+    },
+    {
+        "工作速率，作業速度": "working speed"
+    },
+    {
+        "工作桿": "working stem"
+    },
+    {
+        "工作強度": "working strength"
+    },
+    {
+        "工作應力": "working stress"
+    },
+    {
+        "工作帶": "working strip"
+    },
+    {
+        "工作介質": "working substance"
+    },
+    {
+        "工作服": "working suit"
+    },
+    {
+        "工作檯": "working table"
+    },
+    {
+        "工作重量": "working weight"
+    },
+    {
+        "工藝": "workmanship"
+    },
+    {
+        "試驗": "workout"
+    },
+    {
+        "在製品": "works in process"
+    },
+    {
+        "修理艦": "workshop ship"
+    },
+    {
+        "世界地理座標制": "world geographic reference system"
+    },
+    {
+        "世界方格圖": "world grid"
+    },
+    {
+        "世界多圓錐投影方格": "world polyconic grid"
+    },
+    {
+        "全球資訊環境": "worldwide information environment"
+    },
+    {
+        "全球軍事指揮管制系統": "Worldwide Military Command and Control System"
+    },
+    {
+        "蝸桿": "worm"
+    },
+    {
+        "磨損限度": "worn limit"
+    },
+    {
+        "榮傷袖章": "wound chevron"
+    },
+    {
+        "受傷的": "wounded"
+    },
+    {
+        "戰鬥負傷": "wounded in action"
+    },
+    {
+        "布捲尺": "woven tape"
+    },
+    {
+        "華沙公約部隊": "WP armies"
+    },
+    {
+        "白磷彈幕": "WP barrage"
+    },
+    {
+        "白磷灼傷": "WP burn"
+    },
+    {
+        "白磷填劑砲彈": "WP filled shell"
+    },
+    {
+        "白磷手榴彈": "WP grenade"
+    },
+    {
+        "白磷火箭": "WP rocket"
+    },
+    {
+        "浮簽": "wrapper indorsement"
+    },
+    {
+        "蓋板": "wrapper sheet"
+    },
+    {
+        "指針到頂": "wrapping it around the pin"
+    },
+    {
+        "總結報告": "wrap-up report"
+    },
+    {
+        "破壞，海難船": "wreck"
+    },
+    {
+        "救濟作業": "wreck activity"
+    },
+    {
+        "沉船浮標": "wreck buoy"
+    },
+    {
+        "救濟起重機": "wreck crane"
+    },
+    {
+        "救濟班": "wreck crew"
+    },
+    {
+        "救濟班長": "wreck foreman"
+    },
+    {
+        "救濟列車": "wreck train"
+    },
+    {
+        "海難，破船，海難貨物": "wreckage"
+    },
+    {
+        "殘骸定位圖": "wreckage locator chart"
+    },
+    {
+        "飛機殘骸探測器": "wreckage locator, aircraft"
+    },
+    {
+        "救濟車，海難救助船": "wrecker"
+    },
+    {
+        "救濟車操作手": "wrecker operator"
+    },
+    {
+        "救濟車，吊車": "wrecker truck"
+    },
+    {
+        "救濟鐵撬": "wrecking bar"
+    },
+    {
+        "救濟班": "wrecking crew"
+    },
+    {
+        "救濟半尾車": "wrecking semitrailer"
+    },
+    {
+        "救濟隊長": "wreckmaster"
+    },
+    {
+        "起爆管扳手": "wrench, detonator holder"
+    },
+    {
+        "拖把榨水機": "wriger mop"
+    },
+    {
+        "萊特飛機": "Wright flyer"
+    },
+    {
+        "萊特滑翔機": "Wright glider"
+    },
+    {
+        "線導管": "wring conduit"
+    },
+    {
+        "緊貼配合，輕迫合座": "wringing fit"
+    },
+    {
+        "腕式指北針": "wrist compass"
+    },
+    {
+        "肘梢襯套": "wrist pin bushing"
+    },
+    {
+        "書寫時間": "write time"
+    },
+    {
+        "登載卡片": "write-up card"
+    },
+    {
+        "書寫桿": "writing bar"
+    },
+    {
+        "書寫電報": "writing telegraph"
+    },
+    {
+        "書面文電": "written message"
+    },
+    {
+        "用作氣象偵察之U-2機": "WU-2 (U-2 used for weather reconnaissance)"
+    },
+    {
+        "艦船": "WYTM cutter"
+    },
+    {
+        "破冰船": "WYTM icebreaker"
+    },
+    {
+        "燈塔船": "WYTM lightship"
+    },
+    {
+        "X軸": "X-axis"
+    },
+    {
+        "X波段(波帶，波道)": "X-band"
+    },
+    {
+        "平均數管制圖": "X-chart"
+    },
+    {
+        "橫座標": "X-coordinate"
+    },
+    {
+        "叉形樑": "X-cross member"
+    },
+    {
+        "X形切割晶體": "X-cut crystal"
+    },
+    {
+        "無名病": "X-disease"
+    },
+    {
+        "X型發動機": "X-engine"
+    },
+    {
+        "本艦艦速正橫發射面之分量": "Xog"
+    },
+    {
+        "X輻射": "X-radiation"
+    },
+    {
+        "X射線之代字": "X-ray"
+    },
+    {
+        "X射線吸收": "X-ray absorption"
+    },
+    {
+        "X射線能量階層": "X-ray energy level"
+    },
+    {
+        "X光雷射光束": "X-ray laser beams"
+    },
+    {
+        "X射線光度計": "X-ray photometer"
+    },
+    {
+        "X射線火箭": "X-ray rocket"
+    },
+    {
+        "X射線分光計": "X-ray spectrometer"
+    },
+    {
+        "交叉路路牌": "X-road marker"
+    },
+    {
+        "X分劃尺": "X-scale"
+    },
+    {
+        "無遮蓋暫時儲存場": "X-site"
+    },
+    {
+        "可潛水船舶": "X-submersible craft"
+    },
+    {
+        "目標速度之橫分量": "Xt"
+    },
+    {
+        "X時間": "X-time"
+    },
+    {
+        "X型發動機": "X-type engine"
+    },
+    {
+        "X波": "X-wave"
+    },
+    {
+        "遊艇國旗": "yacht ensign"
+    },
+    {
+        "羊克脫(火藥)": "Yanckite"
+    },
+    {
+        "Y級(俄造攻擊潛艦)": "Yankee"
+    },
+    {
+        "車場(鐵道)，造船工場，庭院，帆桁碼頭": "yard"
+    },
+    {
+        "車場司軔": "yard brakeman"
+    },
+    {
+        "車場班": "yard crew"
+    },
+    {
+        "車場機車": "yard engine"
+    },
+    {
+        "車場設備": "yard facility"
+    },
+    {
+        "浮塢": "yard floating dry dock"
+    },
+    {
+        "車場領班": "yard foremen"
+    },
+    {
+        "車場界限": "yard limit"
+    },
+    {
+        "車場限量": "yard limitation"
+    },
+    {
+        "車場作業隊": "yard operation detachment"
+    },
+    {
+        "車場內速度": "yard speed"
+    },
+    {
+        "桁端轆轤": "yard tackle"
+    },
+    {
+        "車場軌道": "yard track"
+    },
+    {
+        "空氣試驗車場": "yard, air test"
+    },
+    {
+        "混合車場": "yard, combination"
+    },
+    {
+        "區分車場": "yard, divided"
+    },
+    {
+        "機車車場": "yard, engine"
+    },
+    {
+        "延伸車場，分車場": "yard, extension"
+    },
+    {
+        "裝載車場": "yard, loading"
+    },
+    {
+        "游懸裝置": "yard-and stay rig"
+    },
+    {
+        "橫桁": "yardarm"
+    },
+    {
+        "橫桁閃光燈": "yardarm blinker"
+    },
+    {
+        "橫桁相接": "yardarm to yardarm"
+    },
+    {
+        "車場場長": "yardmaster"
+    },
+    {
+        "車場長點名報告表": "yardmaster call report"
+    },
+    {
+        "車場長日記": "yardmaster journal"
+    },
+    {
+        "車場人員": "yardmen"
+    },
+    {
+        "誤差碼數": "yards error"
+    },
+    {
+        "威衛衝擊式阻汽瓣": "Yarway impulse trap"
+    },
+    {
+        "軸切角，偏航，偏駛，左右偏轉，旋搖": "yaw"
+    },
+    {
+        "偏航軸": "yaw axis"
+    },
+    {
+        "減偏器": "yaw damper"
+    },
+    {
+        "防搖索，安全索": "yaw guy (line)"
+    },
+    {
+        "搖擺慣性矩": "yaw moment od inertia"
+    },
+    {
+        "縱帆快艇，(尾部)小桅帆，小縱帆船": "yawl"
+    },
+    {
+        "偏航表": "yawmeter"
+    },
+    {
+        "Y軸(線)": "Y-axis"
+    },
+    {
+        "縱軸方位角": "Y-azimuth"
+    },
+    {
+        "Y形分歧": "Y-branch"
+    },
+    {
+        "Y形連接": "Y-connection"
+    },
+    {
+        "Y形切割晶體": "Y-cut crystal"
+    },
+    {
+        "星角起動器": "Y-delta starter"
+    },
+    {
+        "近日點年": "year, anomalistic"
+    },
+    {
+        "曆年": "year, calendar"
+    },
+    {
+        "恆星年": "year, sidereal"
+    },
+    {
+        "回歸年": "year, tropical"
+    },
+    {
+        "年蓄水量": "yearly storage"
+    },
+    {
+        "黃色警報，預行警報，空襲警報": "yellow alert"
+    },
+    {
+        "黃十字毒氣中毒": "yellow cross gas poisoning"
+    },
+    {
+        "黃雨(毒氣)": "yellow rain"
+    },
+    {
+        "黃色報單": "yellow sheet"
+    },
+    {
+        "黃色煙幕劑": "yellow smoke"
+    },
+    {
+        "文書士(美海軍)": "yeoman"
+    },
+    {
+        "Y型砲": "Y-gun"
+    },
+    {
+        "分裂生成比": "yield fission"
+    },
+    {
+        "屈服載荷，損壞載荷": "yield load"
+    },
+    {
+        "每次分裂中子產量": "yield of neutrons per fission"
+    },
+    {
+        "輻射產量(額)": "yield of radiation"
+    },
+    {
+        "降伏點，屈伏點": "yield point"
+    },
+    {
+        "下降伏點": "yield point, lower"
+    },
+    {
+        "上降伏點": "yield point, upper"
+    },
+    {
+        "降伏強度": "yield strength"
+    },
+    {
+        "屈服溫度，流動溫度": "yield temperature"
+    },
+    {
+        "曲縮，曲縮裝置": "yielding element"
+    },
+    {
+        "活鏡水準儀": "Y-level"
+    },
+    {
+        "縱軸線": "Y-line"
+    },
+    {
+        "Y形匹配阻抗天線": "Y-matched impedance antenna"
+    },
+    {
+        "喲喲型(雷達)(俄造)": "Yo Yo"
+    },
+    {
+        "航軛，橫航柄，叉，駕軛，舵柄": "yoke"
+    },
+    {
+        "橫擋間隔": "yoke spacing"
+    },
+    {
+        "薄冰，初期冰層": "young ice"
+    },
+    {
+        "Y分劃尺": "Y-scale"
+    },
+    {
+        "Y形搜索": "Y-search"
+    },
+    {
+        "加蓋暫時儲存場": "Y-site"
+    },
+    {
+        "Y型發動機": "Y-type engine"
+    },
+    {
+        "Y型閥": "Y-valve"
+    },
+    {
+        "Z砲組火箭": "Z-battery rocket"
+    },
+    {
+        "Z修正量": "Z-correction"
+    },
+    {
+        "Z時間，Z時，格林威治平均時": "zebra time"
+    },
+    {
+        "ZZ進場系統": "zed-zed"
+    },
+    {
+        "天頂": "zenith"
+    },
+    {
+        "天頂攝影儀": "zenith camera"
+    },
+    {
+        "天頂距": "zenith distance"
+    },
+    {
+        "雙倍天頂距": "zenith distance, double"
+    },
+    {
+        "天頂弧": "zenith sector"
+    },
+    {
+        "天頂儀": "zenith telescope"
+    },
+    {
+        "球心天頂": "zenith, geocentric"
+    },
+    {
+        "天頂天底軸": "zenith-nadir axis"
+    },
+    {
+        "加油嘴，壓力加油嘴": "zerk fitting"
+    },
+    {
+        "校準零點": "zero"
+    },
+    {
+        "零點調節器": "zero adjuster"
+    },
+    {
+        "零高度": "zero altitude"
+    },
+    {
+        "零方位": "zero azimuth"
+    },
+    {
+        "零差，零拍": "zero beat"
+    },
+    {
+        "零差接收，零拍接收": "zero beat reception"
+    },
+    {
+        "零差區，零拍區": "zero beat region"
+    },
+    {
+        "零偏壓": "zero bias"
+    },
+    {
+        "起點板": "zero board"
+    },
+    {
+        "自滿滴定管": "zero burette"
+    },
+    {
+        "起點電容": "zero capacity"
+    },
+    {
+        "雲幕高為零": "zero ceiling"
+    },
+    {
+        "零度圓": "zero circumference"
+    },
+    {
+        "零點交叉計數器": "zero crossing counter"
+    },
+    {
+        "零偏向": "zero deflection"
+    },
+    {
+        "零能階(級)": "zero energy level"
+    },
+    {
+        "零重力": "zero gravity"
+    },
+    {
+        "零爆炸高": "zero height of burst"
+    },
+    {
+        "開始時刻": "zero hour"
+    },
+    {
+        "歸零射擊": "zero in"
+    },
+    {
+        "零發射": "zero launch"
+    },
+    {
+        "零發射器": "zero launcher"
+    },
+    {
+        "零長度": "zero length"
+    },
+    {
+        "零長度發射器": "zero length launcher"
+    },
+    {
+        "零長發射": "zero length launching"
+    },
+    {
+        "零長度火箭": "zero length rocket"
+    },
+    {
+        "零階層": "zero level"
+    },
+    {
+        "無升力攻角": "zero lift angle of attack"
+    },
+    {
+        "零升力阻力": "zero lift drag"
+    },
+    {
+        "零升力彈道": "zero lift trajectory"
+    },
+    {
+        "消盡法": "zero method"
+    },
+    {
+        "儀器調整歸零": "zero of instrument"
+    },
+    {
+        "兵力歸零(單位)": "zero out (unit)"
+    },
+    {
+        "零相序": "zero phase sequence"
+    },
+    {
+        "零相變移": "zero phase shift"
+    },
+    {
+        "零點": "zero point"
+    },
+    {
+        "零點能量": "zero point energy"
+    },
+    {
+        "零電位": "zero potential"
+    },
+    {
+        "零值功率因數": "zero power factor"
+    },
+    {
+        "零功率階層": "zero power level"
+    },
+    {
+        "零功率反應器": "zero power reactor"
+    },
+    {
+        "零讀表": "zero reader"
+    },
+    {
+        "零參考點": "zero reference point"
+    },
+    {
+        "分劃歸零電路，歸零電路": "zero set circuits"
+    },
+    {
+        "歸零調定": "zero setting"
+    },
+    {
+        "零信號注入電抗": "zero signal injected reactance"
+    },
+    {
+        "零信號工作": "zero signal operation"
+    },
+    {
+        "無速率位置": "zero speed position"
+    },
+    {
+        "無推力螺距": "zero thrust pitch"
+    },
+    {
+        "零時(點)": "zero time"
+    },
+    {
+        "能見度為零": "zero visibility"
+    },
+    {
+        "地面零點": "zero, ground"
+    },
+    {
+        "零號部位": "zero, station"
+    },
+    {
+        "零交叉計算": "zero-crossing counting"
+    },
+    {
+        "歸零": "zeroing"
+    },
+    {
+        "密碼機復元動作": "zeroize"
+    },
+    {
+        "零選擇方案": "zero-option proposal"
+    },
+    {
+        "無扭力螺距": "zero-torque pitch"
+    },
+    {
+        "零零天氣": "zero-zero weather"
+    },
+    {
+        "Z(火箭)砲": "Z-gun"
+    },
+    {
+        "Z時": "Z-hour"
+    },
+    {
+        "拖帶效應": "Ziehen effect (drag effect)"
+    },
+    {
+        "曲折航線，蛇舵，曲折前進，之字形航行，之航": "zigzag"
+    },
+    {
+        "曲折接法": "zigzag connection"
+    },
+    {
+        "鋸齒柵": "zigzag fence"
+    },
+    {
+        "齒形摺疊法": "zigzag fold"
+    },
+    {
+        "曲折線": "zigzag line"
+    },
+    {
+        "鋸齒形反射，(曲折)多重反射(電離層)": "zigzag reflections"
+    },
+    {
+        "鋸齒形鉚接": "zigzag riveting"
+    },
+    {
+        "曲折掃描": "zigzag scanning"
+    },
+    {
+        "齒形針腳": "zigzag stitching"
+    },
+    {
+        "目標(區)黎明黃昏戰鬥空中巡邏，拉鏈式巡邏": "zippers"
+    },
+    {
+        "區域標誌信標": "Z-marker (beacon)"
+    },
+    {
+        "區供應處": "zonal depot"
+    },
+    {
+        "地帶潮": "zonal tide"
+    },
+    {
+        "區中心": "zone center"
+    },
+    {
+        "管制區": "zone control"
+    },
+    {
+        "地區防禦": "zone defense"
+    },
+    {
+        "時區誌": "zone description"
+    },
+    {
+        "面積射擊": "zone fire"
+    },
+    {
+        "第一區 (核子)": "zone I (nuclear)"
+    },
+    {
+        "第二區 (核子)": "zone II (nuclear)"
+    },
+    {
+        "第三區 (核子)": "zone III (nuclear)"
+    },
+    {
+        "縱深地帶": "zone in depth"
+    },
+    {
+        "橫廣地帶": "zone in width"
+    },
+    {
+        "分區校閱": "zone inspection"
+    },
+    {
+        "區域標誌": "zone marker"
+    },
+    {
+        "區域子午線": "zone meridian"
+    },
+    {
+        "區域正午": "zone noon"
+    },
+    {
+        "行動區域": "zone of action"
+    },
+    {
+        "急速分解段": "zone of active decomposition"
+    },
+    {
+        "含氣層，充氣帶": "zone of aeration"
+    },
+    {
+        "流動變質帶": "zone of anamorphism"
+    },
+    {
+        "流動層": "zone of circulation"
+    },
+    {
+        "清水段": "zone of cleaner water"
+    },
+    {
+        "常溫層": "zone of constant temperature"
+    },
+    {
+        "防禦地區": "zone of defense"
+    },
+    {
+        "汙染段，剝蝕區": "zone of degradation"
+    },
+    {
+        "散佈面(區)": "zone of dispersion"
+    },
+    {
+        "赤道無風帶": "zone of equatorial calm"
+    },
+    {
+        "後送區": "zone of evacuation"
+    },
+    {
+        "射擊區域": "zone of fire"
+    },
+    {
+        "破裂區": "zone of fracture"
+    },
+    {
+        "嚴重危害區": "zone of immediate operational concern"
+    },
+    {
+        "感應區，勢力區": "zone of influence"
+    },
+    {
+        "後方區，美國本土": "zone of interior"
+    },
+    {
+        "交會區": "zone of intersection"
+    },
+    {
+        "優先通過交會區": "zone of intersection priority"
+    },
+    {
+        "破碎變質帶": "zone of katamorphism"
+    },
+    {
+        "中度危害區": "zone of moderate risk"
+    },
+    {
+        "輻射剪力區": "zone of radial shear"
+    },
+    {
+        "新汙染段": "zone of recent pollution"
+    },
+    {
+        "復原段": "zone of recovery"
+    },
+    {
+        "還原帶": "zone of reduction"
+    },
+    {
+        "責任地區": "zone of responsibility"
+    },
+    {
+        "靜默區，寂靜區": "zone of silence"
+    },
+    {
+        "停滯層": "zone of stagnation"
+    },
+    {
+        "變化層": "zone of transition"
+    },
+    {
+        "聲波匯集區路線": "zone path, convergence"
+    },
+    {
+        "分區精煉": "zone refining"
+    },
+    {
+        "分區掃描": "zone scanning"
+    },
+    {
+        "地區信號": "zone signal"
+    },
+    {
+        "區域時": "zone time"
+    },
+    {
+        "時區制": "zone time system"
+    },
+    {
+        "運輸區指揮部": "zone transportation office"
+    },
+    {
+        "盲域": "zone, blind"
+    },
+    {
+        "窺伺區域": "zone, look"
+    },
+    {
+        "安全區": "zones, safety"
+    },
+    {
+        "潛艦巡邏區": "zones, submarine patrol"
+    },
+    {
+        "急速爬升(飛機)": "zoom"
+    },
+    {
+        "Z分劃尺": "Z-scale"
+    },
+    {
+        "Z字形鋼": "Z-steel"
+    },
+    {
+        "Z時，格林威治平均時": "Z-time (zebra time)"
+    },
+    {
+        "Z變換": "Z-transformation"
+    },
+    {
+        "Z級潛艦(俄製柴油潛艦)": "Zulu"
+    }
+]

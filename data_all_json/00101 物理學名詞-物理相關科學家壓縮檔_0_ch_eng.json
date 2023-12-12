@@ -1,0 +1,2948 @@
+[
+    {
+        "沃克": "Walker "
+    },
+    {
+        "瓦登": "Walden "
+    },
+    {
+        "華格納": "Wagner "
+    },
+    {
+        "瓦茲沃斯": "Wadsworth "
+    },
+    {
+        "瓦茲利": "Wadsley "
+    },
+    {
+        "夫利蘭": "Vreeland "
+    },
+    {
+        "馮諾依曼": "von Neumann"
+    },
+    {
+        "馮克立曾": "von Klitzing"
+    },
+    {
+        "馮卡門": "von Karman"
+    },
+    {
+        "伏打": "Volta "
+    },
+    {
+        "伏考": "Volkov "
+    },
+    {
+        "佛依格特": "Voigt "
+    },
+    {
+        "弗拉索夫": "Vlasov "
+    },
+    {
+        "韋拉斯": "Villars"
+    },
+    {
+        "韋拉里": "Villari"
+    },
+    {
+        "韋克斯": "Vickers "
+    },
+    {
+        "伐諾依": "Verneuil "
+    },
+    {
+        "伐得": "Verdet "
+    },
+    {
+        "文土里": "Venturi"
+    },
+    {
+        "韋嘎": "Vegard "
+    },
+    {
+        "伐立農": "Varignon "
+    },
+    {
+        "凡德": "Vand "
+    },
+    {
+        "凡扶累克": "van Vleck"
+    },
+    {
+        "凡霍夫": "van Hove"
+    },
+    {
+        "凡何夫": "van Hoff"
+    },
+    {
+        "凡得瓦登": "van der Waerden"
+    },
+    {
+        "凡得瓦": "van der Waals"
+    },
+    {
+        "凡得波": "van der Pol"
+    },
+    {
+        "凡德格拉夫": "van de Graaff"
+    },
+    {
+        "凡瑟特": "van Cittert"
+    },
+    {
+        "凡阿耳克": "van Arkel"
+    },
+    {
+        "凡阿芬": "van Alphen"
+    },
+    {
+        "凡阿侖": "van Allen"
+    },
+    {
+        "凡特何夫": "van ’t Hoff"
+    },
+    {
+        "瓦拉庭": "Valatin "
+    },
+    {
+        "耳巴赫": "Urbach"
+    },
+    {
+        "午布力西": "Uhlbricht"
+    },
+    {
+        "烏拉姆": "Ulam "
+    },
+    {
+        "烏倫貝克": "Uhlenbeck"
+    },
+    {
+        "于令": "Uehling"
+    },
+    {
+        "廷得": "Tyndall"
+    },
+    {
+        "第谷": "Tycho"
+    },
+    {
+        "特外曼": "Twyman"
+    },
+    {
+        "特維斯": "Twiss "
+    },
+    {
+        "土涅": "Tunell"
+    },
+    {
+        "特如吞": "Trouton"
+    },
+    {
+        "特瑞曼": "Treiman"
+    },
+    {
+        "湯森德": "Townsend "
+    },
+    {
+        "托里切利": "Torricelli"
+    },
+    {
+        "托卜勒": "Töpler"
+    },
+    {
+        "托姆斯 ": "Toms"
+    },
+    {
+        "朝永[振一郎]": "Tomonaga"
+    },
+    {
+        "托馬歇克": "Tomaschek"
+    },
+    {
+        "托曼": "Tolman"
+    },
+    {
+        "托卡馬克": "Tokamak"
+    },
+    {
+        "戶田": "Toda"
+    },
+    {
+        "托勒斯": "Thouless"
+    },
+    {
+        "托瑞克斯": "Thorex"
+    },
+    {
+        "托柔斯": "Thoraeus"
+    },
+    {
+        "湯姆森，托姆森 ": "Thomson"
+    },
+    {
+        "托馬斯": "Thomas"
+    },
+    {
+        "托姆": "Thom"
+    },
+    {
+        "戴維您": "Thevenin"
+    },
+    {
+        "塔勒": "Thaler "
+    },
+    {
+        "特特若得": "Tetrode"
+    },
+    {
+        "特士拉": "Tesla "
+    },
+    {
+        "泰勒": "Teller "
+    },
+    {
+        "泰勒格第": "Telegdi"
+    },
+    {
+        "泰勒": "Taylor"
+    },
+    {
+        "塔肯斯": "Takens"
+    },
+    {
+        "高橋": "Takahashi "
+    },
+    {
+        "泰特": "Tait "
+    },
+    {
+        "特夫特": "t’Hooft"
+    },
+    {
+        "西拉德": "Szilard "
+    },
+    {
+        "冊曼齊": "Symanzik "
+    },
+    {
+        "斯沃恩": "Swan "
+    },
+    {
+        "斯徒姆": "Sturm "
+    },
+    {
+        "斯土登特": "Student "
+    },
+    {
+        "史特瑞": "Strehl"
+    },
+    {
+        "斯特末": "Störmer"
+    },
+    {
+        "斯托克斯": "Stokes "
+    },
+    {
+        "斯托克巴杰": "Stockbarger "
+    },
+    {
+        "斯特令": "Stirling "
+    },
+    {
+        "斯太勒斯": "Stiles "
+    },
+    {
+        "斯徒瓦": "Stewart"
+    },
+    {
+        "斯特恩": "Stern "
+    },
+    {
+        "斯蒂諾": "Steno "
+    },
+    {
+        "斯坦美次": "Steinmetz"
+    },
+    {
+        "斯特凡": "Stefan"
+    },
+    {
+        "斯太得": "Stead "
+    },
+    {
+        "斯塔克": "Stark "
+    },
+    {
+        "斯坦吞": "Stanton "
+    },
+    {
+        "聖韋南": "St. Venant"
+    },
+    {
+        "索瑞特": "Soret"
+    },
+    {
+        "梭納": "Sonnar"
+    },
+    {
+        "索末菲": "Sommerfeld "
+    },
+    {
+        "索勒": "Soller "
+    },
+    {
+        "索累": "Soleil "
+    },
+    {
+        "索恩克": "Sohncke "
+    },
+    {
+        "索迪": "Soddy "
+    },
+    {
+        "司乃耳 ": "Snell "
+    },
+    {
+        "史密斯": "Smith "
+    },
+    {
+        "斯雷特": "Slater "
+    },
+    {
+        "西克士": "Six "
+    },
+    {
+        "辛普森": "Simpson "
+    },
+    {
+        "色斯比": "Silsbee "
+    },
+    {
+        "舒勒": "Shul"
+    },
+    {
+        "舒布尼可夫": "Shubnikov  "
+    },
+    {
+        "蕭耳": "Shore"
+    },
+    {
+        "肖克萊": "Shockley"
+    },
+    {
+        "沈士坦": "Shenstone"
+    },
+    {
+        "沙庇若": "Shapiro"
+    },
+    {
+        "山農": "Shannon"
+    },
+    {
+        "賽弗": "Seyfert "
+    },
+    {
+        "瀨谷[浪岡]": "Seya"
+    },
+    {
+        "色瑞特": "Serret"
+    },
+    {
+        "色拿蒙": "Senarmont"
+    },
+    {
+        "色邁耶爾": "Sellmeier"
+    },
+    {
+        "色侖古特": "Selengut"
+    },
+    {
+        "賽次": "Seitz"
+    },
+    {
+        "賽格尼特": "Seignette"
+    },
+    {
+        "賽得": "Seidel"
+    },
+    {
+        "賽格瑞": "Segré"
+    },
+    {
+        "色格": "Seger"
+    },
+    {
+        "西曼": "Seemann"
+    },
+    {
+        "西門": "Seeman"
+    },
+    {
+        "賽貝克": "Seebeck"
+    },
+    {
+        "西耳斯": "Sears "
+    },
+    {
+        "瑟耳": "Searle"
+    },
+    {
+        "史考特": "Scott"
+    },
+    {
+        "許溫格": "Schwinger "
+    },
+    {
+        "施瓦氏": "Schwarzchild "
+    },
+    {
+        "施瓦茨": "Schwarz"
+    },
+    {
+        "施瓦次": "Schwartz "
+    },
+    {
+        "薛丁格": "Schrödinger"
+    },
+    {
+        "施密特": "Schmidt"
+    },
+    {
+        "謝樂": "Scherrer "
+    },
+    {
+        "薩波特": "Sayboldt"
+    },
+    {
+        "沙伐": "Savart "
+    },
+    {
+        "桑德士": "Saunders"
+    },
+    {
+        "沙晉": "Sargent"
+    },
+    {
+        "沙比特": "Saltpeter "
+    },
+    {
+        "薩拉姆": "Salam "
+    },
+    {
+        "坂田 ": "Sakata"
+    },
+    {
+        "薩哈": "Saha"
+    },
+    {
+        "薩庫": "Sackur"
+    },
+    {
+        "薩克斯": "Sachs"
+    },
+    {
+        "芮得柏": "Rydberg"
+    },
+    {
+        "拉塞福": "Rutherford"
+    },
+    {
+        "羅素": "Russell"
+    },
+    {
+        "拉塞耳": "Russel"
+    },
+    {
+        "汝莫": "Rumer"
+    },
+    {
+        "呂埃勒": "Ruelle"
+    },
+    {
+        "羅蘭": "Rowland"
+    },
+    {
+        "勞士": "Routh"
+    },
+    {
+        "羅梭": "Rousseau"
+    },
+    {
+        "若塞瑞": "Rothery"
+    },
+    {
+        "若斯勒": "Rössler "
+    },
+    {
+        "若西": "Rossi "
+    },
+    {
+        "若斯比": "Rossby "
+    },
+    {
+        "羅斯": "Ross "
+    },
+    {
+        "若森": "Rosen "
+    },
+    {
+        "魯氏": "Roots "
+    },
+    {
+        "侖琴": "Röntgen "
+    },
+    {
+        "隆奇": "Ronchi "
+    },
+    {
+        "羅默": "Römer"
+    },
+    {
+        "羅戈夫斯基": "Rogowsky "
+    },
+    {
+        "羅歇": "Roget "
+    },
+    {
+        "若立格": "Rodrigues "
+    },
+    {
+        "洛克威爾": "Rockwell "
+    },
+    {
+        "若雄": "Rochon "
+    },
+    {
+        "若歇耳": "Rochelle "
+    },
+    {
+        "勞希": "Roche "
+    },
+    {
+        "羅伯遜": "Robertson "
+    },
+    {
+        "瑞茲 ": "Ritz "
+    },
+    {
+        "里奇": "Ritchie "
+    },
+    {
+        "芮奇": "Ritchey "
+    },
+    {
+        "瑞紀": "Righi "
+    },
+    {
+        "芮茨": "Riesz "
+    },
+    {
+        "黎曼": "Riemann "
+    },
+    {
+        "芮赫特": "Richter "
+    },
+    {
+        "瑞查森": "Richardson "
+    },
+    {
+        "瑞奇": "Ricci"
+    },
+    {
+        "雷諾": "Reynolds "
+    },
+    {
+        "任尼": "Renyi "
+    },
+    {
+        "任寧格": "Renninger "
+    },
+    {
+        "任訥": "Renner "
+    },
+    {
+        "瑞赫": "Reiche"
+    },
+    {
+        "瑞基": "Regge "
+    },
+    {
+        "瑞格": "Regel"
+    },
+    {
+        "勒步耳": "Reboul "
+    },
+    {
+        "瑞奧穆": "Réaumur"
+    },
+    {
+        "瑞立": "Rayleigh "
+    },
+    {
+        "拉里塔": "Rarita "
+    },
+    {
+        "阮肯": "Rankine"
+    },
+    {
+        "藍得": "Randal "
+    },
+    {
+        "冉士登": "Ramsden "
+    },
+    {
+        "冉紹耳": "Ramsauer "
+    },
+    {
+        "拉曼": "Raman"
+    },
+    {
+        "拉底卡提": "Radicati "
+    },
+    {
+        "拉卡": "Racah "
+    },
+    {
+        "拉比": "Rabi "
+    },
+    {
+        "昆克": "Quincke "
+    },
+    {
+        "畢達格拉斯": "Pythagoras"
+    },
+    {
+        "派瑞克斯": "Pyrex "
+    },
+    {
+        "浦肯頁": "Purkinje "
+    },
+    {
+        "浦品": "Pupin "
+    },
+    {
+        "浦夫立希": "Pulfrich "
+    },
+    {
+        "托勒米": "Ptolemy "
+    },
+    {
+        "卜勞特": "Prout "
+    },
+    {
+        "普羅卡": "Proca "
+    },
+    {
+        "普林斯頓": "Princeton "
+    },
+    {
+        "卜瑞伏": "Prévost "
+    },
+    {
+        "普雷斯頓": "Preston"
+    },
+    {
+        "卜然托": "Prandtl "
+    },
+    {
+        "卜耳森": "Poulson "
+    },
+    {
+        "波茲": "Potts "
+    },
+    {
+        "波波夫": "Popov"
+    },
+    {
+        "彭加金": "Pontryagin "
+    },
+    {
+        "波莫冉洽克": "Pomeranchuck "
+    },
+    {
+        "波克": "Polk "
+    },
+    {
+        "波耳德": "Polder "
+    },
+    {
+        "帕松": "Poisson "
+    },
+    {
+        "帕穗": "Poiseuille "
+    },
+    {
+        "潘索": "Poinsot "
+    },
+    {
+        "潘卡瑞": "Poincare "
+    },
+    {
+        "珀耳": "Pohl"
+    },
+    {
+        "波多斯基": "Podolsky "
+    },
+    {
+        "波克斯": "Pockels "
+    },
+    {
+        "普藍特": "Planté"
+    },
+    {
+        "浦拉托": "Plateau "
+    },
+    {
+        "普朗克": "Planck "
+    },
+    {
+        "皮冉尼": "Pirani "
+    },
+    {
+        "皮帕德": "Pippard "
+    },
+    {
+        "皮耳士": "Pierce "
+    },
+    {
+        "菲利浦": "Philips"
+    },
+    {
+        "蒲芬德": "Pfund"
+    },
+    {
+        "菲佛": "Pfeffer"
+    },
+    {
+        "珀茲伐": "Petzval"
+    },
+    {
+        "泊替": "Petit "
+    },
+    {
+        "培特森": "Petersen"
+    },
+    {
+        "佩蘭": "Perrin"
+    },
+    {
+        "培若": "Perot"
+    },
+    {
+        "潘若斯": "Penrose "
+    },
+    {
+        "潘寧": "Penning"
+    },
+    {
+        "潘尼": "Penney"
+    },
+    {
+        "帕耳帖": "Peltier"
+    },
+    {
+        "派爾斯": "Peierls"
+    },
+    {
+        "鮑林": "Pauling"
+    },
+    {
+        "包立": "Pauli"
+    },
+    {
+        "帕特孫": "Patterson"
+    },
+    {
+        "帕斯塔": "Pasta"
+    },
+    {
+        "帕申": "Paschen "
+    },
+    {
+        "帕斯卡": "Pascal "
+    },
+    {
+        "帕瑞希": "Parisi "
+    },
+    {
+        "帕拉休": "Parasiuk "
+    },
+    {
+        "潘諾士基": "Panofsky "
+    },
+    {
+        "歐恩": "Owne "
+    },
+    {
+        "奧佛豪瑟": "Overhauser "
+    },
+    {
+        "歐爾": "Orr "
+    },
+    {
+        "歐恩斯坦": "Ornstein "
+    },
+    {
+        "歐本海默": "Oppenheimer "
+    },
+    {
+        "歐匹克": "Opic "
+    },
+    {
+        "翁沙格": "Onsager "
+    },
+    {
+        "歐伯斯": "Olbers  "
+    },
+    {
+        "大久保": "Okubo "
+    },
+    {
+        "歐姆": "Ohm "
+    },
+    {
+        "厄斯特": "Oersted "
+    },
+    {
+        "歐登": "Oden "
+    },
+    {
+        "尼奎斯特": "Nyquist"
+    },
+    {
+        "努塔": "Nuttall "
+    },
+    {
+        "那塞特": "Nusselt "
+    },
+    {
+        "諾特維特": "Nordtvedt"
+    },
+    {
+        "諾馬斯基": "Nomarski"
+    },
+    {
+        "諾特": "Noether"
+    },
+    {
+        "仁科": "Nishina"
+    },
+    {
+        "西島": "Nishijima "
+    },
+    {
+        "尼格利": "Niggli"
+    },
+    {
+        "尼寇": "Nicol"
+    },
+    {
+        "尼可斯": "Nichols"
+    },
+    {
+        "牛頓": "Newton"
+    },
+    {
+        "諾伊曼": "Neumann"
+    },
+    {
+        "能斯特       ": "Nernst"
+    },
+    {
+        "尼曼": "Neèman"
+    },
+    {
+        "謬森": "Munson"
+    },
+    {
+        "繆勒": "Müller "
+    },
+    {
+        "穆頓": "Mouton "
+    },
+    {
+        "莫特": "Mott"
+    },
+    {
+        "莫梭提": "Mossotti "
+    },
+    {
+        "梅斯堡": "Mössbauer"
+    },
+    {
+        "莫斯利": "Moseley"
+    },
+    {
+        "摩斯": "Morse"
+    },
+    {
+        "莫立": "Morley "
+    },
+    {
+        "莫若爾": "Morel "
+    },
+    {
+        "莫乃耳": "Monel"
+    },
+    {
+        "莫里爾": "Mollier "
+    },
+    {
+        "莫勒": "Moller "
+    },
+    {
+        "莫而": "Mohr "
+    },
+    {
+        "莫法特": "Moffatt "
+    },
+    {
+        "密切里希": "Mitcherlich "
+    },
+    {
+        "閔考斯基": "Minkowski "
+    },
+    {
+        "米爾斯": "Mills "
+    },
+    {
+        "密立坎": "Millikan "
+    },
+    {
+        "米勒": "Miller "
+    },
+    {
+        "米氏": "Mie"
+    },
+    {
+        "邁克生": "Michelson "
+    },
+    {
+        "密歇耳": "Michel"
+    },
+    {
+        "麥爾": "Meyer "
+    },
+    {
+        "梅森": "Mersenne "
+    },
+    {
+        "梅卡利": "Mercalli "
+    },
+    {
+        "門則": "Menzel"
+    },
+    {
+        "梅耳得": "Melde "
+    },
+    {
+        "麥士納": "Meissner "
+    },
+    {
+        "麥克勞": "Mcleod"
+    },
+    {
+        "梅爾": "Mayer "
+    },
+    {
+        "馬克士威": "Maxwell"
+    },
+    {
+        "莫波替斯 ": "Maupertius"
+    },
+    {
+        "毛干": "Mauguin"
+    },
+    {
+        "馬替厄斯": "Matthias"
+    },
+    {
+        "馬替生": "Mathiessen"
+    },
+    {
+        "梅森": "Mason"
+    },
+    {
+        "增川": "Maskawa "
+    },
+    {
+        "馬克斯": "Marx"
+    },
+    {
+        "馬士登": "Marsden "
+    },
+    {
+        "馬克仁": "Markarian"
+    },
+    {
+        "馬若特": "Mariotte"
+    },
+    {
+        "馬古利斯": "Margules "
+    },
+    {
+        "馬可尼": "Marconi"
+    },
+    {
+        "曼京": "Mangin"
+    },
+    {
+        "馬尼巴赫": "Manebach"
+    },
+    {
+        "曼德斯坦": "Mandelstam"
+    },
+    {
+        "馬路斯": "Malus"
+    },
+    {
+        "馬耳特": "Malter"
+    },
+    {
+        "馬蘇托夫": "Maksutov"
+    },
+    {
+        "馬約拉那": "Majorana"
+    },
+    {
+        "馬格奴士": "Magnus"
+    },
+    {
+        "馬格內利": "Magnéli "
+    },
+    {
+        "麥哲倫": "Magellan "
+    },
+    {
+        "馬德堡": "Magdeburg "
+    },
+    {
+        "馬得隆": "Madelung "
+    },
+    {
+        "馬赫": "Mach "
+    },
+    {
+        "來曼": "Lyman "
+    },
+    {
+        "樂廷格": "Luttinger "
+    },
+    {
+        "魯特": "Luther "
+    },
+    {
+        "魯莫": "Lummer"
+    },
+    {
+        "陸韋克": "Ludwig"
+    },
+    {
+        "呂德斯": "Lüders"
+    },
+    {
+        "魯班斯基": "Lubanski"
+    },
+    {
+        "洛維邦": "Lovibond "
+    },
+    {
+        "洛夫": "Love"
+    },
+    {
+        "洛希米特  ": "Loschmidt"
+    },
+    {
+        "勞侖次": "Lorenz "
+    },
+    {
+        "勞侖茲": "Lorentz"
+    },
+    {
+        "倫敦": "London "
+    },
+    {
+        "洛伊": "Lloyd "
+    },
+    {
+        "李文": "Liven "
+    },
+    {
+        "李茲": "Litz "
+    },
+    {
+        "利特羅": "Littrow  "
+    },
+    {
+        "利斯特": "Lister "
+    },
+    {
+        "利薩如": "Lissajou "
+    },
+    {
+        "利普森": "Lipson"
+    },
+    {
+        "李卜曼": "Lippmann "
+    },
+    {
+        "利皮希": "Lippisch "
+    },
+    {
+        "劉維 ": "Liouville "
+    },
+    {
+        "林得曼": "Lindemann "
+    },
+    {
+        "林得": "Linde "
+    },
+    {
+        "黎納": "Liénard"
+    },
+    {
+        "李氏": "Lie "
+    },
+    {
+        "利希頓": "Lichten"
+    },
+    {
+        "路易斯": "Lewis "
+    },
+    {
+        "勒維奇維塔": "Levi Civita "
+    },
+    {
+        "冷次": "Lenz "
+    },
+    {
+        "雷納": "Lenard "
+    },
+    {
+        "勒梅特": "Le Maître"
+    },
+    {
+        "萊登": "Leiden =Leyden"
+    },
+    {
+        "萊布尼玆": "Leibniz "
+    },
+    {
+        "雷曼": "Lehmann"
+    },
+    {
+        "勒壤得": "Legendre "
+    },
+    {
+        "李斯": "Lees "
+    },
+    {
+        "李[氏，政道]": "Lee"
+    },
+    {
+        "勒杜克": "Leduc "
+    },
+    {
+        "勒克朗社": "Leclanche "
+    },
+    {
+        "勒舍": "Lecher "
+    },
+    {
+        "勒貝格": "Lebesgue "
+    },
+    {
+        "勒沙特列": "Le Chatelier"
+    },
+    {
+        "洛森": "Lawson "
+    },
+    {
+        "累夫斯": "Laves "
+    },
+    {
+        "洛冉": "Laurent "
+    },
+    {
+        "勞厄": "Laue "
+    },
+    {
+        "勞瑞曾": "Laruitsen "
+    },
+    {
+        "拉莫": "Larmor "
+    },
+    {
+        "拉波特": "Laporté "
+    },
+    {
+        "拉普拉斯": "Laplace "
+    },
+    {
+        "朗謬": "Langmuir "
+    },
+    {
+        "朗之萬": "Langevin "
+    },
+    {
+        "朗": "Lang "
+    },
+    {
+        "蘭德": "Landé "
+    },
+    {
+        "蘭道": "Landau"
+    },
+    {
+        "藍切斯特": "Lanchester "
+    },
+    {
+        "拉蒙": "Lamont"
+    },
+    {
+        "拉密": "Lami"
+    },
+    {
+        "拉美": "Lamé"
+    },
+    {
+        "朗伯": "Lambert "
+    },
+    {
+        "蘭姆": "Lamb"
+    },
+    {
+        "拉朗得": "Lalande"
+    },
+    {
+        "拉格耳": "Laguerre "
+    },
+    {
+        "拉格朗日": "Lagrange"
+    },
+    {
+        "拉登堡": "Ladenburg"
+    },
+    {
+        "庫茲": "Kurz"
+    },
+    {
+        "庫納科夫": "Kurnakov"
+    },
+    {
+        "庫瑞": "Kurie"
+    },
+    {
+        "庫局莫夫": "Kurdjumov"
+    },
+    {
+        "孔特": "Kundt"
+    },
+    {
+        "庫恩": "Kuhn"
+    },
+    {
+        "克魯斯卡": "Kruskal"
+    },
+    {
+        "克若尼": "Kronig"
+    },
+    {
+        "克若聶克": "Kronecker"
+    },
+    {
+        "克瑞加": "Krigar"
+    },
+    {
+        "克拉若卜": "Krarup"
+    },
+    {
+        "克拉莫": "Kramers"
+    },
+    {
+        "科伐": "Kovar"
+    },
+    {
+        "科斯特里茲": "Kosterlitz"
+    },
+    {
+        "科色耳": "Kossel"
+    },
+    {
+        "科得維克": "Korteweg"
+    },
+    {
+        "柯尼茲基": "Kornetzki "
+    },
+    {
+        "柯卜": "Kopp "
+    },
+    {
+        "近藤": "Kondo"
+    },
+    {
+        "科勒": "Köhler"
+    },
+    {
+        "科赫": "Koch"
+    },
+    {
+        "小林": "Kobayashi "
+    },
+    {
+        "克努森": "Knudsen"
+    },
+    {
+        "奈特": "Knight"
+    },
+    {
+        "克萊恩": "Klein"
+    },
+    {
+        "柯克伍德": "Kirkwood "
+    },
+    {
+        "克肯達耳": "Kirkendall"
+    },
+    {
+        "克希何夫": "Kirchhoff"
+    },
+    {
+        "金氏": "Kim "
+    },
+    {
+        "基林": "Killing"
+    },
+    {
+        "菊池": "Kikuchi"
+    },
+    {
+        "克友 ": "Kew"
+    },
+    {
+        "克斯登": "Kersten"
+    },
+    {
+        "克爾": "Kerr"
+    },
+    {
+        "克卜勒": "Kepler"
+    },
+    {
+        "肯乃利": "Kennelly"
+    },
+    {
+        "克耳文": "Kelvin"
+    },
+    {
+        "克耳納": "Kellner"
+    },
+    {
+        "凱迪希": "Keldysh "
+    },
+    {
+        "克特": "Kater"
+    },
+    {
+        "卡斯珀": "Kasper"
+    },
+    {
+        "卡門": "Karman "
+    },
+    {
+        "坎塔耳": "Kanthal"
+    },
+    {
+        "卡曼": "Kaman"
+    },
+    {
+        "卡魯扎": "Kaluza"
+    },
+    {
+        "契倫": "Kallen"
+    },
+    {
+        "卡茲": "Kac "
+    },
+    {
+        "加斯地": "Justi"
+    },
+    {
+        "焦耳": "Joule "
+    },
+    {
+        "約瑟夫森": "Josephson"
+    },
+    {
+        "喬登": "Jordan"
+    },
+    {
+        "京士": "Jeans"
+    },
+    {
+        "加基夫": "Jackiw "
+    },
+    {
+        "易辛": "Ising "
+    },
+    {
+        "約費": "Ioffe "
+    },
+    {
+        "英費爾德": "Infeld"
+    },
+    {
+        "伊略普洛斯": "Iliopoulos"
+    },
+    {
+        "惠更斯": "Huygens"
+    },
+    {
+        "韓特 ": "Hunt "
+    },
+    {
+        "洪德": "Hund"
+    },
+    {
+        "哈莫耳": "Hummel"
+    },
+    {
+        "休姆": "Hume"
+    },
+    {
+        "赫耳": "Hull "
+    },
+    {
+        "雨剛呢": "Hugoniot"
+    },
+    {
+        "哈根斯": "Huggins"
+    },
+    {
+        "休克耳": "Hückel "
+    },
+    {
+        "哈伯": "Hubble"
+    },
+    {
+        "霍普金斯": "Hopkins"
+    },
+    {
+        "霍普": "Hopf"
+    },
+    {
+        "虎克": "Hooke"
+    },
+    {
+        "霍茲": "Holtz"
+    },
+    {
+        "霍而": "Hohle"
+    },
+    {
+        "何夫麥斯特": "Hofmeister"
+    },
+    {
+        "何夫曼": "Hoffmann"
+    },
+    {
+        "希托夫": "Hittorf"
+    },
+    {
+        "希爾": "Hill"
+    },
+    {
+        "希德布朗": "Hildebrand"
+    },
+    {
+        "希伯特": "Hilbert"
+    },
+    {
+        "希格斯": "Higgs"
+    },
+    {
+        "海蘭特": "Heylandt"
+    },
+    {
+        "休立特": "Hewlett "
+    },
+    {
+        "何士勒": "Heusler"
+    },
+    {
+        "赫塞": "Hesse"
+    },
+    {
+        "赫斯": "Hess"
+    },
+    {
+        "赫茲史普": "Hertzsprung"
+    },
+    {
+        "赫玆": "Hertz "
+    },
+    {
+        "赫提茲": "Hertiz"
+    },
+    {
+        "赫歇耳": "Herschel"
+    },
+    {
+        "赫林": "Herring"
+    },
+    {
+        "赫平": "Herpin"
+    },
+    {
+        "赫曼": "Hermann"
+    },
+    {
+        "郝林": "Hering"
+    },
+    {
+        "赫格洛茲": "Herglotz"
+    },
+    {
+        "赫普": "Hepp "
+    },
+    {
+        "亨利": "Henry"
+    },
+    {
+        "黑農": "Henon"
+    },
+    {
+        "黑寧": "Henning"
+    },
+    {
+        "亥姆霍玆": "Helmholtz"
+    },
+    {
+        "海特勒": "Heitler"
+    },
+    {
+        "海森堡": "Heisenberg"
+    },
+    {
+        "黑夫納": "Hefner"
+    },
+    {
+        "黑維塞": "Heaviside"
+    },
+    {
+        "赫恩": "Hearn"
+    },
+    {
+        "黑曾": "Hazen"
+    },
+    {
+        "黑茲": "Haze"
+    },
+    {
+        "霍金": "Hawking"
+    },
+    {
+        "郝斯多夫": "Hausdorff"
+    },
+    {
+        "豪克": "Hauck"
+    },
+    {
+        "哈佛": "Harvard"
+    },
+    {
+        "哈崔": "Hartree"
+    },
+    {
+        "哈特曼": "Hartmann"
+    },
+    {
+        "哈特雷": "Hartley"
+    },
+    {
+        "哈里遜": "Harrison"
+    },
+    {
+        "哈克": "Harker"
+    },
+    {
+        "哈密頓": "Hamilton "
+    },
+    {
+        "哈耳西": "Halsey"
+    },
+    {
+        "哈雷": "Halley "
+    },
+    {
+        "霍爾": "Hall "
+    },
+    {
+        "哈伯": "Haber "
+    },
+    {
+        "古普塔": "Gupta "
+    },
+    {
+        "古奧依": "Guoy"
+    },
+    {
+        "耿恩": "Gunn"
+    },
+    {
+        "紀尼埃": "Guinier"
+    },
+    {
+        "古根漢姆": "Guggenheim"
+    },
+    {
+        "古登": "Gudden"
+    },
+    {
+        "古赫曼": "Guchmann"
+    },
+    {
+        "格呂奈森": "Grüneisen"
+    },
+    {
+        "格羅斯": "Gross "
+    },
+    {
+        "格林色耳": "Grimsehl"
+    },
+    {
+        "格林姆": "Grimm"
+    },
+    {
+        "格里馬迪": "Grimaldi"
+    },
+    {
+        "格立菲": "Griffiths "
+    },
+    {
+        "格里波夫": "Gribov"
+    },
+    {
+        "格里哥利": "Gregory "
+    },
+    {
+        "格林諾夫": "Greenaugh"
+    },
+    {
+        "格林": "Green "
+    },
+    {
+        "格瑞": "Gray"
+    },
+    {
+        "革拉索": "Grassot"
+    },
+    {
+        "格拉斯曼": "Grassmann"
+    },
+    {
+        "格拉秀夫": "Grashof"
+    },
+    {
+        "格然姆": "Gramme"
+    },
+    {
+        "格雷姆": "Graham"
+    },
+    {
+        "格瑞德": "Grad"
+    },
+    {
+        "古依": "Gouy"
+    },
+    {
+        "高斯密特": "Goudsmit"
+    },
+    {
+        "高包": "Goubau"
+    },
+    {
+        "戈斯基": "Gorsky"
+    },
+    {
+        "戈登": "Gordan "
+    },
+    {
+        "古德曼": "Goodman"
+    },
+    {
+        "戈史東": "Goldstone"
+    },
+    {
+        "戈耳斯密特": "Goldschmidt"
+    },
+    {
+        "戈伯格": "Goldberger"
+    },
+    {
+        "格澤": "Goertzel"
+    },
+    {
+        "格雷布魯克": "Glazebrook"
+    },
+    {
+        "格勞勃": "Glauber"
+    },
+    {
+        "格拉肖": "Glashow"
+    },
+    {
+        "格蘭": "Glan"
+    },
+    {
+        "革拉史東": "Gladstone"
+    },
+    {
+        "喬吉": "Giorgi"
+    },
+    {
+        "金茲堡": "Ginzburg "
+    },
+    {
+        "吉布斯": "Gibbs"
+    },
+    {
+        "格士納": "Gerstner"
+    },
+    {
+        "革恩": "Gerrn"
+    },
+    {
+        "革末": "Germer "
+    },
+    {
+        "革拉赫": "Gerlach"
+    },
+    {
+        "喬治艾": "Georgi"
+    },
+    {
+        "蓋爾曼": "Gell-Mann"
+    },
+    {
+        "蓋斯勒": "Geissler "
+    },
+    {
+        "蓋革": "Geiger "
+    },
+    {
+        "格耳克": "Gehrcke "
+    },
+    {
+        "給呂薩克": "Gay-Lussac "
+    },
+    {
+        "高斯": "Gauss"
+    },
+    {
+        "加士格冉": "Gassegrain"
+    },
+    {
+        "甘特馬克": "Gantmakher "
+    },
+    {
+        "甘斯": "Gans "
+    },
+    {
+        "加莫夫": "Gamow "
+    },
+    {
+        "加莫耳": "Gammel "
+    },
+    {
+        "賈法尼": "Galvani"
+    },
+    {
+        "加立津": "Galitzin "
+    },
+    {
+        "伽利略": "Galileo "
+    },
+    {
+        "革得": "Gaede "
+    },
+    {
+        "加柏": "Gabor "
+    },
+    {
+        "富利": "Furry "
+    },
+    {
+        "富克斯": "Fuchs"
+    },
+    {
+        "富比尼": "Fubini"
+    },
+    {
+        "夫華薩": "Froissart"
+    },
+    {
+        "弗比尼斯": "Frobenius"
+    },
+    {
+        "傅里德曼": "Friedmann"
+    },
+    {
+        "夫里德耳": "Friedel"
+    },
+    {
+        "弗朗依德里希": "Freundlich"
+    },
+    {
+        "菲涅耳": "Fresnel"
+    },
+    {
+        "夫倫克耳": "Frenkel"
+    },
+    {
+        "夫瑞內": "Frenet"
+    },
+    {
+        "弗勒亨": "Fredholm "
+    },
+    {
+        "夫朗和斐": "Fraunhofer "
+    },
+    {
+        "夫蘭茲": "Franz "
+    },
+    {
+        "富蘭克林": "Franklin "
+    },
+    {
+        "富蘭克": "Frank "
+    },
+    {
+        "法朗肯": "Francon "
+    },
+    {
+        "法蘭克": "Franck "
+    },
+    {
+        "法蘭西斯": "Francis "
+    },
+    {
+        "佛勒": "Fowler "
+    },
+    {
+        "傅立葉": "Fourier"
+    },
+    {
+        "傅科": "Foucault "
+    },
+    {
+        "佛斯特": "Foster "
+    },
+    {
+        "佛丁": "Fortin "
+    },
+    {
+        "符瑞": "Forel "
+    },
+    {
+        "富比士": "Forbes "
+    },
+    {
+        "佛克耳": "Fokker"
+    },
+    {
+        "佛克": "Fock"
+    },
+    {
+        "夫洛瑞生": "Florissen "
+    },
+    {
+        "夫林得": "Flinder"
+    },
+    {
+        "夫列契": "Fletcher"
+    },
+    {
+        "夫來明": "Fleming"
+    },
+    {
+        "菲左": "Fizeau"
+    },
+    {
+        "菲次吉拉": "Fitzgerald"
+    },
+    {
+        "費雪": "Fisher"
+    },
+    {
+        "菲耳茲": "Fierz "
+    },
+    {
+        "菲克": "Fick "
+    },
+    {
+        "斐波那契": "Fibonacci "
+    },
+    {
+        "費曼": "Feynman "
+    },
+    {
+        "費生登": "Fessenden "
+    },
+    {
+        "費瑞": "Fery "
+    },
+    {
+        "費米": "Fermi "
+    },
+    {
+        "費馬": "Fermat"
+    },
+    {
+        "費霍姆": "Ferdholm"
+    },
+    {
+        "費利奇": "Felici"
+    },
+    {
+        "費根鮑": "Feigenbaum"
+    },
+    {
+        "菲德羅夫": "Fedorov"
+    },
+    {
+        "費希納": "Fechner"
+    },
+    {
+        "佛耳": "Faure"
+    },
+    {
+        "法斯沃": "Farnsworth"
+    },
+    {
+        "法莫": "Farmer"
+    },
+    {
+        "法拉第": "Faraday"
+    },
+    {
+        "法諾": "Fano"
+    },
+    {
+        "凡諾": "Fanno"
+    },
+    {
+        "凡寧": "Fanning"
+    },
+    {
+        "法傑夫": "Faddeev"
+    },
+    {
+        "法布立": "Fabry"
+    },
+    {
+        "費伯": "Faber"
+    },
+    {
+        "艾克司納": "Exner "
+    },
+    {
+        "尤英": "Ewing "
+    },
+    {
+        "厄瓦": "Ewald "
+    },
+    {
+        "歐拉": "Euler"
+    },
+    {
+        "歐幾里得": "Euclid"
+    },
+    {
+        "艾丁豪森": "Ettinghausen"
+    },
+    {
+        "厄弗": "Eötvös "
+    },
+    {
+        "恩斯庫格": "Enskog "
+    },
+    {
+        "厄米特": "Emmett"
+    },
+    {
+        "伊利埃伯格": "Eliashberg"
+    },
+    {
+        "艾克塔": "Ektar "
+    },
+    {
+        "艾克門": "Ekman "
+    },
+    {
+        "艾托芬": "Einthoven "
+    },
+    {
+        "愛因斯坦": "Einstein "
+    },
+    {
+        "艾倫費斯特": "Ehrenfest "
+    },
+    {
+        "愛德華": "Edwards "
+    },
+    {
+        "厄色": "Edser "
+    },
+    {
+        "愛迪生": "Edison"
+    },
+    {
+        "愛丁頓": "Eddington"
+    },
+    {
+        "艾克特": "Eckert"
+    },
+    {
+        "艾卡": "Eckart"
+    },
+    {
+        "艾克斯": "Eccles"
+    },
+    {
+        "伊伯特": "Ebert"
+    },
+    {
+        "伊恩蕭": "Earnshaw"
+    },
+    {
+        "伊戈": "Eagle"
+    },
+    {
+        "戴森": "Dyson"
+    },
+    {
+        "丁肯": "Dynkin"
+    },
+    {
+        "杜西曼": "Dushman "
+    },
+    {
+        "杜培": "Dupré "
+    },
+    {
+        "杜潘": "Dupin "
+    },
+    {
+        "杜培瑞": "Duperrey "
+    },
+    {
+        "杜諾頁": "Dunoyer "
+    },
+    {
+        "杜隆": "Dulong "
+    },
+    {
+        "杜亨": "Duhem"
+    },
+    {
+        "杜佛": "Dufour "
+    },
+    {
+        "杜代耳": "Duddell "
+    },
+    {
+        "杜布瑞基": "Dubridge "
+    },
+    {
+        "杜女": "Duane "
+    },
+    {
+        "德汝德": "Drude"
+    },
+    {
+        "德瑞爾": "Drell"
+    },
+    {
+        "德瑞伯": "Draper"
+    },
+    {
+        "達夫": "Dove"
+    },
+    {
+        "多恩": "Dorn"
+    },
+    {
+        "都卜勒": "Doppler "
+    },
+    {
+        "多南": "Donnan "
+    },
+    {
+        "杜耳柴克": "Dolezalek "
+    },
+    {
+        "狄拓斯": "Dittus "
+    },
+    {
+        "狄其邦": "Ditchburn "
+    },
+    {
+        "狄利克雷": "Dirichlet "
+    },
+    {
+        "狄拉克": "Dirac "
+    },
+    {
+        "狄歐": "Dio "
+    },
+    {
+        "丁格": "Dingle"
+    },
+    {
+        "戴因斯": "Dines "
+    },
+    {
+        "笛特瑞其": "Dieterici "
+    },
+    {
+        "狄基": "Dicke "
+    },
+    {
+        "杜瓦": "Dewar "
+    },
+    {
+        "德斯特里奧": "Destriau  "
+    },
+    {
+        "德卜銳": "Despretz "
+    },
+    {
+        "德斯蘭德": "Deslandres  "
+    },
+    {
+        "笛卡兒": "Descartes"
+    },
+    {
+        "笛紹地": "DeSauty"
+    },
+    {
+        "德瑞亞金": "Deryagin"
+    },
+    {
+        "德朗奈": "Delaunay"
+    },
+    {
+        "德拉伯恩": "Delaborne"
+    },
+    {
+        "德拜": "Debye "
+    },
+    {
+        "德富力": "de Vries"
+    },
+    {
+        "德西特": "de Sitter"
+    },
+    {
+        "棣莫弗": "de Moivre"
+    },
+    {
+        "德哈斯": "de Hass"
+    },
+    {
+        "德堅內": "de Gennes"
+    },
+    {
+        "德布羅意": "de Broglie"
+    },
+    {
+        "杜菲因": "Dauphine"
+    },
+    {
+        "丹尼耳": "Daniell "
+    },
+    {
+        "戴維": "Davy "
+    },
+    {
+        "戴維森": "Davisson "
+    },
+    {
+        "道耳頓": "Dalton "
+    },
+    {
+        "達立茲": "Dalitz "
+    },
+    {
+        "德耳": "Dale"
+    },
+    {
+        "達松瓦 ": "d’Arsonval"
+    },
+    {
+        "達朗白": "d’Alembert"
+    },
+    {
+        "丘克拉斯基": "Czochralski "
+    },
+    {
+        "克高斯基": "Cutkosky "
+    },
+    {
+        "居里": "Curie "
+    },
+    {
+        "克魯克斯": "Crookes "
+    },
+    {
+        "克萊莫": "Cremer "
+    },
+    {
+        "克勞福": "Crawford "
+    },
+    {
+        "考利": "Cowley "
+    },
+    {
+        "庫侖": "Coulomb "
+    },
+    {
+        "庫埃特": "Couette "
+    },
+    {
+        "古第": "Coude "
+    },
+    {
+        "柯特雷耳": "Cottrel "
+    },
+    {
+        "科頓": "Cotton "
+    },
+    {
+        "柯努": "Cornu "
+    },
+    {
+        "科若利": "Coriolis "
+    },
+    {
+        "考比奴": "Corbino "
+    },
+    {
+        "哥白尼": "Copernicus"
+    },
+    {
+        "哥本哈根": "Copenhagen "
+    },
+    {
+        "古柏": "Cooper"
+    },
+    {
+        "庫立芝": "Coolidge "
+    },
+    {
+        "庫克": "Cooke "
+    },
+    {
+        "康瑞": "Conrad "
+    },
+    {
+        "康登": "Condon "
+    },
+    {
+        "康普頓": "Compton "
+    },
+    {
+        "柯比茲": "Colpitts "
+    },
+    {
+        "柯克勞夫": "Cockcroft "
+    },
+    {
+        "克拉斯頓": "Clogston"
+    },
+    {
+        "克里福 ": "Clifford "
+    },
+    {
+        "克勞修斯": "Clausius "
+    },
+    {
+        "克拉克": "Clark "
+    },
+    {
+        "克拉伯隆": "Clapeyron "
+    },
+    {
+        "克來若": "Clairaut "
+    },
+    {
+        "克里斯多福": "Christoffel "
+    },
+    {
+        "克拉尼": "Chladni "
+    },
+    {
+        "謝夫爾": "Chevrel"
+    },
+    {
+        "謝法列": "Chevalier "
+    },
+    {
+        "謝比雪夫": "Chebyshev "
+    },
+    {
+        "洽托克": "Chattock "
+    },
+    {
+        "夏皮": "Charpy "
+    },
+    {
+        "查爾斯": "Charles "
+    },
+    {
+        "查普門": "Chapman "
+    },
+    {
+        "錢卓塞卡": "Chandrasekhar "
+    },
+    {
+        "查漠斯": "Chalmers "
+    },
+    {
+        "查兌克": "Chadwick"
+    },
+    {
+        "契忍可夫": "Cerenkov =Cherenkov"
+    },
+    {
+        "攝氏": "Celsius"
+    },
+    {
+        "色洛爾": "Celor "
+    },
+    {
+        "凱萊": "Cayley "
+    },
+    {
+        "卡文迪西": "Cavendish "
+    },
+    {
+        "柯西": "Cauchy "
+    },
+    {
+        "卡斯提利安諾": "Castigliano "
+    },
+    {
+        "卡西尼": "Cassini "
+    },
+    {
+        "卡士格冉": "Cassegrain "
+    },
+    {
+        "卡西米爾": "Casimir "
+    },
+    {
+        "卡法洛": "Carvallo "
+    },
+    {
+        "卡當": "Cartan "
+    },
+    {
+        "卡諾": "Carnot "
+    },
+    {
+        "卡瑙巴": "Carnauba "
+    },
+    {
+        "卡耳斯巴德": "Carlsbad "
+    },
+    {
+        "卡瑞": "Carey "
+    },
+    {
+        "卡杜": "Cardew "
+    },
+    {
+        "卡拉索多里": "Carathéodory "
+    },
+    {
+        "康托": "Cantor "
+    },
+    {
+        "坎諾": "Cano "
+    },
+    {
+        "坎貝耳": "Campbell "
+    },
+    {
+        "卡倫": "Callen "
+    },
+    {
+        "卡倫得": "Callendar "
+    },
+    {
+        "卡布雷拉": "Cabrera "
+    },
+    {
+        "卡畢波": "Cabbibo "
+    },
+    {
+        "巴特勒": "Butler"
+    },
+    {
+        "伯格斯": "Burgers "
+    },
+    {
+        "本生": "Bunsen "
+    },
+    {
+        "朋氏": "Bunn "
+    },
+    {
+        "布內門": "Buneman "
+    },
+    {
+        "布利根": "Bulygen "
+    },
+    {
+        "伯格": "Buerger "
+    },
+    {
+        "巴克明斯特": "Buckminster "
+    },
+    {
+        "白金漢": "Buckingham "
+    },
+    {
+        "布魯梭": "Brusauer"
+    },
+    {
+        "布朗寧": "Browning "
+    },
+    {
+        "布朗": "Brown "
+    },
+    {
+        "布若色": "Brossel "
+    },
+    {
+        "布朗森": "Bronson "
+    },
+    {
+        "布若杭": "Brodhun"
+    },
+    {
+        "布洛卡": "Broca "
+    },
+    {
+        "布凌克曼": "Brinkmann "
+    },
+    {
+        "布凌克門": "Brinkman "
+    },
+    {
+        "布里內耳": "Brinell "
+    },
+    {
+        "布里元": "Brillouin"
+    },
+    {
+        "布里奇曼": "Bridgman "
+    },
+    {
+        "布魯斯特": "Brewster "
+    },
+    {
+        "布萊特": "Breit"
+    },
+    {
+        "布瑞頓": "Brayton "
+    },
+    {
+        "布拉菲": "Bravais "
+    },
+    {
+        "布勞恩": "Braun"
+    },
+    {
+        "布朗斯": "Brans"
+    },
+    {
+        "布拉格": "Bragg "
+    },
+    {
+        "布拉德雷": "Bradley "
+    },
+    {
+        "布拉克": "Brackett"
+    },
+    {
+        "波以耳": "Boyle "
+    },
+    {
+        "包威": "Bowie "
+    },
+    {
+        "波烏": "Bow "
+    },
+    {
+        "布新內斯克": "Boussinesq "
+    },
+    {
+        "波頓": "Bourdon "
+    },
+    {
+        "布給": "Bouguer "
+    },
+    {
+        "玻色": "Bose "
+    },
+    {
+        "博曼": "Borrmann "
+    },
+    {
+        "玻恩": "Born "
+    },
+    {
+        "布耳": "Boole"
+    },
+    {
+        "波茲曼": "Boltzmann "
+    },
+    {
+        "波耳": "Bohr"
+    },
+    {
+        "波姆": "Bohm "
+    },
+    {
+        "波林": "Bohlin"
+    },
+    {
+        "波戈留波夫": "Bogoliubov =Bogolyubov"
+    },
+    {
+        "波德": "Bode "
+    },
+    {
+        "布洛赫": "Bloch"
+    },
+    {
+        "布累勒": "Bleuler "
+    },
+    {
+        "伯列修斯": "Blasius "
+    },
+    {
+        "布拉登": "Blagden "
+    },
+    {
+        "別斯特姆": "Bjurstörm "
+    },
+    {
+        "標肯": "Bjorken "
+    },
+    {
+        "比特": "Bitter "
+    },
+    {
+        "伯克霍夫": "Birkhoff "
+    },
+    {
+        "必歐": "Biot "
+    },
+    {
+        "賓漢": "Bingham "
+    },
+    {
+        "比勒": "Billet "
+    },
+    {
+        "畢安其": "Bianchi "
+    },
+    {
+        "巴巴": "Bhabha "
+    },
+    {
+        "貝提": "Betti"
+    },
+    {
+        "貝特": "Bethe "
+    },
+    {
+        "貝色": "Bessel "
+    },
+    {
+        "伯川": "Bertrand "
+    },
+    {
+        "伯特洛": "Berthelot "
+    },
+    {
+        "貝瑞": "Berry "
+    },
+    {
+        "伯恩斯坦": "Bernstein"
+    },
+    {
+        "白努利": "Bernoulli "
+    },
+    {
+        "白納耳": "Bernal "
+    },
+    {
+        "白格曼": "Bergman "
+    },
+    {
+        "伯格": "Berg"
+    },
+    {
+        "貝瑞克": "Berek"
+    },
+    {
+        "貝然內克": "Beranek"
+    },
+    {
+        "本努瓦": "Benoist"
+    },
+    {
+        "本尼奧夫": "Benioff"
+    },
+    {
+        "本漢": "Benham "
+    },
+    {
+        "本尼地": "Benedict"
+    },
+    {
+        "本尼地克": "Benedicks"
+    },
+    {
+        "本德": "Bender "
+    },
+    {
+        "貝納": "Bénard  "
+    },
+    {
+        "貝耳采米": "Beltrami"
+    },
+    {
+        "貝魯索夫": "Belousov "
+    },
+    {
+        "貝爾": "Bell "
+    },
+    {
+        "貝克西": "Bekesy"
+    },
+    {
+        "拜耳比": "Beilby"
+    },
+    {
+        "貝忍斯 ": "Behrens"
+    },
+    {
+        "畢伏斯": "Beevers"
+    },
+    {
+        "比爾": "Beer "
+    },
+    {
+        "貝克勒": "Becquerel "
+    },
+    {
+        "貝克曼": "Beckmann "
+    },
+    {
+        "波佛": "Beaufort "
+    },
+    {
+        "比恩": "Bean "
+    },
+    {
+        "貝斯": "Bayes"
+    },
+    {
+        "巴雅": "Bayard"
+    },
+    {
+        "包辛格": "Bauschinger"
+    },
+    {
+        "包姆": "Baume "
+    },
+    {
+        "巴特": "Bathe"
+    },
+    {
+        "巴琴斯基": "Batchinsky "
+    },
+    {
+        "巴勒": "Bartlett"
+    },
+    {
+        "巴瑞特": "Barrett "
+    },
+    {
+        "巴內特": "Barnett"
+    },
+    {
+        "巴洛": "Barlow"
+    },
+    {
+        "巴克豪森": "Barkhausen "
+    },
+    {
+        "巴卡司": "Barkas "
+    },
+    {
+        "巴立特": "Baritt"
+    },
+    {
+        "巴格曼": "Bargmann"
+    },
+    {
+        "巴丁": "Bardeen"
+    },
+    {
+        "班納吉": "Banerjee "
+    },
+    {
+        "巴拿赫": "Banach"
+    },
+    {
+        "巴耳末": "Balmer"
+    },
+    {
+        "巴耳曼": "Balmain"
+    },
+    {
+        "貝克": "Baker"
+    },
+    {
+        "倍里": "Baily"
+    },
+    {
+        "巴克": "Back "
+    },
+    {
+        "巴比內": "Babinet"
+    },
+    {
+        "巴比": "Babbit"
+    },
+    {
+        "亞佛加厥": "Avogadro"
+    },
+    {
+        "奧里維里斯": "Aurivillius"
+    },
+    {
+        "奧杰": "Auger"
+    },
+    {
+        "阿特午": "Atwood "
+    },
+    {
+        "阿瑞尼斯": "Arrhenius "
+    },
+    {
+        "阿岡": "Argand "
+    },
+    {
+        "阿基米德": "Archimedes "
+    },
+    {
+        "阿切": "Archer"
+    },
+    {
+        "阿拉戈": "Arago"
+    },
+    {
+        "翁斯傳": "Ångström"
+    },
+    {
+        "安德森": "Anderson "
+    },
+    {
+        "安培": "Ampère "
+    },
+    {
+        "阿塔瑞厲": "Altarelli "
+    },
+    {
+        "艾耳芬": "Alfvén "
+    },
+    {
+        "艾瑞": "Airy "
+    },
+    {
+        "阿哈諾夫": "Aharonov "
+    },
+    {
+        "艾德勒": "Adler "
+    },
+    {
+        "阿貝耳": "Abel"
+    },
+    {
+        "阿貝": "Abbe"
+    },
+    {
+        "威克": "Wick"
+    },
+    {
+        "外勒": "Weyl "
+    },
+    {
+        "惠司同 ": "Wheatstone "
+    },
+    {
+        "伍德": "Wood "
+    },
+    {
+        "楊[振寧]": "Yang        "
+    },
+    {
+        "湯川[秀樹]": "Yukawa"
+    },
+    {
+        "季曼": "Zeeman"
+    },
+    {
+        "岑得": "Zehnder "
+    },
+    {
+        "季納": "Zener"
+    },
+    {
+        "冊尼克": "Zernicke        "
+    },
+    {
+        "文策": "Wentzel "
+    },
+    {
+        "冊尼克": "Zernike         "
+    },
+    {
+        "秦特": "Zintl"
+    },
+    {
+        "沃拉斯吞": "Wollaston"
+    },
+    {
+        "沃夫": "Wolf"
+    },
+    {
+        "威姆斯赫斯": "Wimshurst"
+    },
+    {
+        "威爾森": "Wilson"
+    },
+    {
+        "威廉斯": "Williams"
+    },
+    {
+        "維格納": "Wigner "
+    },
+    {
+        "外特曼": "Wightman"
+    },
+    {
+        "維納": "Wiener"
+    },
+    {
+        "維因": "Wien"
+    },
+    {
+        "維德曼": "Wiedemann"
+    },
+    {
+        "維謝": "Wiechert "
+    },
+    {
+        "惠勒": "Wheeler "
+    },
+    {
+        "伍茲": "Woods"
+    },
+    {
+        "萊特": "Wright"
+    },
+    {
+        "若恩斯基": "Wronski"
+    },
+    {
+        "吳": "Wu "
+    },
+    {
+        "午夫": "Wulf"
+    },
+    {
+        "顏[東茂]": "Yan"
+    },
+    {
+        "楊氏": "Young       "
+    },
+    {
+        "衛司吞": "Weston "
+    },
+    {
+        "伊馮": "Yvon "
+    },
+    {
+        "策梅洛": "Zermelo"
+    },
+    {
+        "扎波亭斯基": "Zhabotinski "
+    },
+    {
+        "外側克": "Weizsäcker "
+    },
+    {
+        "外斯": "Weiss "
+    },
+    {
+        "冊莫曼": "Zimmermann "
+    },
+    {
+        "次外格": "Zweig"
+    },
+    {
+        "外斯伯格": "Weisberger "
+    },
+    {
+        "萬柏格": "Weinberg"
+    },
+    {
+        "外斯特瑞斯": "Weierstress "
+    },
+    {
+        "外得曼": "Weidemann "
+    },
+    {
+        "韋乃特": "Wehnelt "
+    },
+    {
+        "韋伯": "Weber "
+    },
+    {
+        "瓦特": "Watt "
+    },
+    {
+        "瓦德": "Ward "
+    },
+    {
+        "瓦堡": "Warburg "
+    },
+    {
+        "萬尼爾": "Wannier "
+    },
+    {
+        "萬納": "Wanner "
+    },
+    {
+        "沃吞": "Walton "
+    }
+]

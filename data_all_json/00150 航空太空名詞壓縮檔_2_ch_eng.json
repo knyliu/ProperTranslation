@@ -1,0 +1,6986 @@
+[
+    {
+        "試驗分析及解決問題": "test analysis and fixed"
+    },
+    {
+        "試驗評估主計畫": "test and evaluation master plan (TEMP)"
+    },
+    {
+        "測試台": "testbed"
+    },
+    {
+        "試驗證書": "test certificate"
+    },
+    {
+        "試驗艙": "test chamber"
+    },
+    {
+        "試驗圖": "test chart"
+    },
+    {
+        "試驗數據": "test data"
+    },
+    {
+        "試驗裝備": "test equipment"
+    },
+    {
+        "測試失效及解決報告": "test failure and resolution report"
+    },
+    {
+        "試火": "test fire"
+    },
+    {
+        "試飛": "test flight"
+    },
+    {
+        "試飛": "test hop"
+    },
+    {
+        "測試資料表": "test information sheet"
+    },
+    {
+        "試驗常數": "testing constant"
+    },
+    {
+        "試驗裝置": "testing device"
+    },
+    {
+        "試驗燃油箱": "testing fueltank"
+    },
+    {
+        "試驗結果": "testing result"
+    },
+    {
+        "試驗室": "testing room"
+    },
+    {
+        "試驗負載": "test load"
+    },
+    {
+        "試驗量測及診斷裝備": "test; measurement; and diagnostic equipment"
+    },
+    {
+        "試驗模型": "test model"
+    },
+    {
+        "試飛員": "test pilot"
+    },
+    {
+        "試驗點": "test point"
+    },
+    {
+        "試驗壓力": "test pressure"
+    },
+    {
+        "試驗程序": "test procedure"
+    },
+    {
+        "測試程式組": "test program set"
+    },
+    {
+        "測試更換單元": "test replaceable unit"
+    },
+    {
+        "試驗報告": "test report"
+    },
+    {
+        "測試需求資料": "test requirement data"
+    },
+    {
+        "試運轉": "test run"
+    },
+    {
+        "試標": "test sample"
+    },
+    {
+        "風洞測試區": "test section"
+    },
+    {
+        "試片;試件": "test specimen"
+    },
+    {
+        "測試台": "test stand"
+    },
+    {
+        "測試站": "test station"
+    },
+    {
+        "試管": "test tube"
+    },
+    {
+        "試驗閥": "test valve"
+    },
+    {
+        "試驗電壓": "test voltage"
+    },
+    {
+        "破傷風預防注射": "tetanus immunization"
+    },
+    {
+        "四氯化物": "tetrachloride"
+    },
+    {
+        "防爆震液（四乙基鉛）": "tetraethyl lead"
+    },
+    {
+        "四乙焦磷酸鹽": "tetraethyl pyrophosphate (TEPP)"
+    },
+    {
+        "四極管": "tetrode"
+    },
+    {
+        "本文": "text (TXT)"
+    },
+    {
+        "鉈閃爍檢查;核子醫學檢查": "Thallium scintigraphy"
+    },
+    {
+        "經緯儀": "theodolite"
+    },
+    {
+        "理論空氣動力學": "theoretical aerodynamics"
+    },
+    {
+        "理論最佳下滑角": "theoretical best gliding angle"
+    },
+    {
+        "理論升限": "theoretical ceiling"
+    },
+    {
+        "理論流量": "theoretical discharge"
+    },
+    {
+        "理論效率": "theoretical efficiency"
+    },
+    {
+        "理論發動機循環": "theoretical engine cycle"
+    },
+    {
+        "理論最大馬力": "theoretical maximum horsepower"
+    },
+    {
+        "理論尺寸": "theoretical size"
+    },
+    {
+        "理論推力": "theoretical thrust"
+    },
+    {
+        "理論推力係數": "theoretical thrust coefficient"
+    },
+    {
+        "治療用氧氣": "therapeutic oxygen"
+    },
+    {
+        "治療": "therapy"
+    },
+    {
+        "加溫防冰": "thermal anti-icing"
+    },
+    {
+        "熱障": "thermal barrier"
+    },
+    {
+        "熱電池": "thermal battery"
+    },
+    {
+        "溫度帶": "thermal belt"
+    },
+    {
+        "溫度氣候": "thermal climate"
+    },
+    {
+        "熱傳導性": "thermal conductivity"
+    },
+    {
+        "熱電耦": "thermal couple"
+    },
+    {
+        "熱效率": "thermal efficiency"
+    },
+    {
+        "熱赤道": "thermal equator"
+    },
+    {
+        "熱膨脹": "thermal expansion"
+    },
+    {
+        "溫度梯度": "thermal gradient"
+    },
+    {
+        "溫差偵測計": "thermal gradiometer"
+    },
+    {
+        "熱高壓": "thermal high"
+    },
+    {
+        "熱像": "thermal image"
+    },
+    {
+        "熱絕緣": "thermal insulation"
+    },
+    {
+        "熱低壓": "thermal low"
+    },
+    {
+        "熱噴射流": "thermal jet"
+    },
+    {
+        "熱噴射發動機": "thermal jet engine"
+    },
+    {
+        "熱中子": "thermal neutron"
+    },
+    {
+        "熱雜訊": "thermal noise"
+    },
+    {
+        "熱能照像": "thermal photograph"
+    },
+    {
+        "熱電堆": "thermal pile"
+    },
+    {
+        "熱輻射": "thermal radiation"
+    },
+    {
+        "溫差安全活門": "thermal relief valve"
+    },
+    {
+        "熱震": "thermal shock"
+    },
+    {
+        "保溫套": "thermal sleeve"
+    },
+    {
+        "熱應變": "thermal strain"
+    },
+    {
+        "熱應力": "thermal stress"
+    },
+    {
+        "熱電門": "thermal switch"
+    },
+    {
+        "熱擾動": "thermal turbulence"
+    },
+    {
+        "熱真空艙": "thermal vacuum chamber"
+    },
+    {
+        "熱粘性": "thermal viscosity"
+    },
+    {
+        "熱風;溫度風": "thermal wind"
+    },
+    {
+        "熱離子": "thermion"
+    },
+    {
+        "熱離子換能器": "thermionic converter"
+    },
+    {
+        "熱離子放射": "thermionic emission"
+    },
+    {
+        "熱安全電阻": "thermistor"
+    },
+    {
+        "燒夷彈": "thermit bomb"
+    },
+    {
+        "熱化學平衡": "thermochemical equilibrium"
+    },
+    {
+        "海底溫度梯度": "thermocline"
+    },
+    {
+        "熱電耦": "thermocouple"
+    },
+    {
+        "熱力循環": "thermodynamic cycle"
+    },
+    {
+        "熱力圖": "thermodynamic diagram"
+    },
+    {
+        "熱力平衡": "thermodynamic equilibrium"
+    },
+    {
+        "熱力溫標": "thermodynamic temperature scale"
+    },
+    {
+        "熱力學": "thermodynamics"
+    },
+    {
+        "熱影像": "thermogram"
+    },
+    {
+        "溫度表": "thermograph"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "攝氏溫標": "thermometric scale; Celsius"
+    },
+    {
+        "華氏溫標": "thermometric scale; Fahrenheit"
+    },
+    {
+        "列氏溫標": "thermometric scale; Reaumur"
+    },
+    {
+        "凱氏溫標": "thermometric scale; Kelvin"
+    },
+    {
+        "蘭氏溫標": "thermometric scale; Rankine"
+    },
+    {
+        "測溫法": "thermometry"
+    },
+    {
+        "熱核發動機": "thermonuclear engine"
+    },
+    {
+        "熱核武器": "thermonuclear weapon"
+    },
+    {
+        "熱塑性材料": "thermoplastic material"
+    },
+    {
+        "熱塑性樹脂": "thermoplastic resin"
+    },
+    {
+        "熱塑性塑膠": "thermoplastics"
+    },
+    {
+        "熱固性材料": "thermoset material"
+    },
+    {
+        "熱固性塑膠": "thermoset plastics"
+    },
+    {
+        "熱固性樹脂": "thermoset resin"
+    },
+    {
+        "電離層;熱氣層": "thermosphere"
+    },
+    {
+        "恆溫裝置": "thermostat"
+    },
+    {
+        "雙金屬恆溫器": "thermostat; bimetallic"
+    },
+    {
+        "正熱模式": "thermotropic model"
+    },
+    {
+        "利尿劑": "thiazide"
+    },
+    {
+        "厚膜組合": "thick film assembly"
+    },
+    {
+        "難流動性": "thick fluidity"
+    },
+    {
+        "濃霧": "thick fog"
+    },
+    {
+        "稠化燃料": "thickened fuel"
+    },
+    {
+        "厚度圖": "thickness chart"
+    },
+    {
+        "厚弦比": "thickness chord ratio"
+    },
+    {
+        "厚距": "thickness distance"
+    },
+    {
+        "厚度分布": "thickness distribution"
+    },
+    {
+        "厚度效應": "thickness effect"
+    },
+    {
+        "測細規;厚薄規": "thickness gauge"
+    },
+    {
+        "厚度線": "thickness line"
+    },
+    {
+        "厚度比": "thickness ratio"
+    },
+    {
+        "翼厚": "thickness; wing"
+    },
+    {
+        "套胚": "thimble"
+    },
+    {
+        "薄翼失速": "thin-aerofoil stall"
+    },
+    {
+        "薄邊界層理論": "thin boundary layer theory"
+    },
+    {
+        "輕殼炸彈": "thin-case bomb"
+    },
+    {
+        "薄膜": "thin film"
+    },
+    {
+        "薄膜電路": "thin film circuit"
+    },
+    {
+        "薄膜電晶體": "thin film transistor"
+    },
+    {
+        "薄膜潤滑": "thin film lubrication"
+    },
+    {
+        "易流動性": "thin fluidity"
+    },
+    {
+        "輕量航線": "thin route"
+    },
+    {
+        "稀釋劑": "thinner"
+    },
+    {
+        "聚硫橡膠": "thiokol"
+    },
+    {
+        "第三級運載": "third-level carrier"
+    },
+    {
+        "蝕變性": "thixotropy"
+    },
+    {
+        "湯姆生鉚釘": "Thompson rivet"
+    },
+    {
+        "湯姆生效應": "Thompson effect"
+    },
+    {
+        "千分之一吋": "thou"
+    },
+    {
+        "意志控制": "thought control"
+    },
+    {
+        "螺紋": "thread"
+    },
+    {
+        "阿克母螺紋": "thread; Acme"
+    },
+    {
+        "英國標準螺紋": "thread; British standard"
+    },
+    {
+        "粗螺紋": "thread; coarse"
+    },
+    {
+        "雙線螺紋": "thread; double"
+    },
+    {
+        "陰螺紋": "thread; female"
+    },
+    {
+        "細螺紋": "thread; fine"
+    },
+    {
+        "螺紋規": "thread ga(u)ge"
+    },
+    {
+        "內螺紋": "thread; inside"
+    },
+    {
+        "左旋螺紋": "thread; left-hand"
+    },
+    {
+        "公制螺紋": "thread; metric"
+    },
+    {
+        "右旋螺紋": "thread; right-hand"
+    },
+    {
+        "美國標準螺紋": "thread; U.S. standard"
+    },
+    {
+        "惠特渥斯螺紋": "thread; Whitworth"
+    },
+    {
+        "威脅評估": "threat evaluation"
+    },
+    {
+        "威脅模擬": "threat simulation"
+    },
+    {
+        "三軸自動駕駛": "three-axis autopilot"
+    },
+    {
+        "三軸穩定": "three-axis stabilization"
+    },
+    {
+        "三葉螺旋槳": "three-bladed propeller"
+    },
+    {
+        "三體問題": "three-body problem"
+    },
+    {
+        "三軸分離式控制飛機": "three-control aeroplane"
+    },
+    {
+        "三維邊界層": "three dimemensional boundary layer"
+    },
+    {
+        "立體座標": "three dimemensional coordinates"
+    },
+    {
+        "三維流": "three dimemensional flow"
+    },
+    {
+        "三維運動": "three dimemensional motion"
+    },
+    {
+        "三自由度": "three degree-of-freedom"
+    },
+    {
+        "起落架放下鎖妥": "three greens"
+    },
+    {
+        "三衝軌道轉移": "three impulse orbital transfer"
+    },
+    {
+        "三力矩方程式": "three moment equation"
+    },
+    {
+        "三相": "three-phase"
+    },
+    {
+        "三相交流": "three-phase ac"
+    },
+    {
+        "三相三角形接法": "three-phase △-connection"
+    },
+    {
+        "三相電流": "three-phase current"
+    },
+    {
+        "三相四線制": "three-phase four-wire system"
+    },
+    {
+        "三相全波整流器": "three-phase full wave rectifier"
+    },
+    {
+        "三相發電機": "three-phase generator"
+    },
+    {
+        "三相感應馬達": "three-phase induction motor"
+    },
+    {
+        "三相三角形負載": "three-phase △-load"
+    },
+    {
+        "雙Y三相整流器": "three-phase rectifier; double-Y"
+    },
+    {
+        "三相同步馬達": "three-phase synchronous motor"
+    },
+    {
+        "三相制": "three-phase system"
+    },
+    {
+        "三相三線制": "three-phase three-wire system"
+    },
+    {
+        "三相星形接法": "three-phase Y-connection"
+    },
+    {
+        "三相星形負載": "three-phase Y-load"
+    },
+    {
+        "三點著陸": "three-point landing"
+    },
+    {
+        "三點支承": "three-point mounting"
+    },
+    {
+        "三點繫留": "three-point mooring"
+    },
+    {
+        "三點懸吊": "three-point suspension"
+    },
+    {
+        "三點開關": "three-point switch"
+    },
+    {
+        "三極斷電器": "three-pole circuit breaker"
+    },
+    {
+        "三極開關": "three-pole switch"
+    },
+    {
+        "三位轉換器": "three position key"
+    },
+    {
+        "三位繼電器": "three position relay"
+    },
+    {
+        "三視圖": "three-view drawing"
+    },
+    {
+        "三向閥": "three-way valve"
+    },
+    {
+        "三輪落地": "three wheel landing"
+    },
+    {
+        "三繞組變壓器": "three-winding transformer"
+    },
+    {
+        "單相三線接法": "three-wire connection; single phase"
+    },
+    {
+        "三線制": "three-wire system"
+    },
+    {
+        "跑道頭;始動數值;閾限;臨界值": "threshold (THR)"
+    },
+    {
+        "低限光對比": "threshold contrast"
+    },
+    {
+        "跑道頭通過高度": "threshold crossing height (TCH)"
+    },
+    {
+        "臨限偵測": "threshold detect"
+    },
+    {
+        "低限頻率": "threshold frequency"
+    },
+    {
+        "跑道頭燈": "threshold lights"
+    },
+    {
+        "最低可聽值": "threshold of hearing"
+    },
+    {
+        "限界聲強": "threshold of sound intensity"
+    },
+    {
+        "感覺閾限": "threshold; sensory"
+    },
+    {
+        "限界波長": "threshold wavelength"
+    },
+    {
+        "喉部": "throat"
+    },
+    {
+        "血栓": "thrombi"
+    },
+    {
+        "油門;節流閥": "throttle"
+    },
+    {
+        "油門傳動機構": "throttle actuator"
+    },
+    {
+        "節氣閥": "throttle; air"
+    },
+    {
+        "自動油門": "throttle; auto (A/T)"
+    },
+    {
+        "關小油門": "throttle back"
+    },
+    {
+        "急推油門": "throttle burst"
+    },
+    {
+        "猛關油門": "throttle chop"
+    },
+    {
+        "節流曲線": "throttle curve"
+    },
+    {
+        "關小油門": "throttle down"
+    },
+    {
+        "全開油門": "throttle; full"
+    },
+    {
+        "全程自動油門": "throttle; full flight region auto (FFRAT)"
+    },
+    {
+        "油門騎師": "throttle jockey"
+    },
+    {
+        "油門操縱桿": "throttle lever"
+    },
+    {
+        "節氣閥超控": "throttle override"
+    },
+    {
+        "油門弧座": "throttle quadrant"
+    },
+    {
+        "節氣閥觸止": "throttle stop"
+    },
+    {
+        "節流熱卡計": "throttling calorimeter"
+    },
+    {
+        "節流過程": "throttling process"
+    },
+    {
+        "全通式甲板": "through deck"
+    },
+    {
+        "直達飛行": "throught flight"
+    },
+    {
+        "投射重量（彈道飛彈）": "throw weight"
+    },
+    {
+        "推力": "thrust"
+    },
+    {
+        "推力角": "thrust angle"
+    },
+    {
+        "推力增益": "thrust augmentation"
+    },
+    {
+        "推力增益翼": "thrust augmented wing"
+    },
+    {
+        "推力增益器": "thrust augmenter"
+    },
+    {
+        "推力軸線": "thrust axis"
+    },
+    {
+        "推力平衡": "thrust balance"
+    },
+    {
+        "止推軸承;推力軸承": "thrust bearing"
+    },
+    {
+        "保證推力": "thrust; brochure"
+    },
+    {
+        "推力室": "thrust chamber"
+    },
+    {
+        "推力室效率": "thrust chamber efficiency"
+    },
+    {
+        "推力係數": "thrust coefficient"
+    },
+    {
+        "推力控制": "thrust control"
+    },
+    {
+        "推力關斷": "thrust cutoff"
+    },
+    {
+        "推力衰減": "thrust decay"
+    },
+    {
+        "推力減除": "thrust deduction"
+    },
+    {
+        "偏轉推力": "thrust; deflected"
+    },
+    {
+        "設計推力": "thrust; design"
+    },
+    {
+        "推阻力": "thrust drag"
+    },
+    {
+        "乾推力": "thrust; dry"
+    },
+    {
+        "推力平衡器": "thrust equalizer"
+    },
+    {
+        "推力方程式": "thrust equation"
+    },
+    {
+        "推進等值馬力": "thrust equivalent horsepower"
+    },
+    {
+        "推力面": "thrust face"
+    },
+    {
+        "推力因數": "thrust factor"
+    },
+    {
+        "推力": "thrust force"
+    },
+    {
+        "推進馬力": "thrust horsepower (TH)"
+    },
+    {
+        "安裝後推力": "thrust; installed"
+    },
+    {
+        "推力操縱桿": "thrust lever"
+    },
+    {
+        "推力線": "thrust line"
+    },
+    {
+        "推力負載": "thrust load"
+    },
+    {
+        "推力消失": "thrust lost"
+    },
+    {
+        "推力管理計算機": "thrust management computer"
+    },
+    {
+        "推力管理選擇面板": "thrust management select panel"
+    },
+    {
+        "推力計": "thrust meter"
+    },
+    {
+        "推力偏差": "thrust misalignment"
+    },
+    {
+        "推力器;推進器": "thrustor"
+    },
+    {
+        "推力輸出": "thrust output"
+    },
+    {
+        "推進動力": "thrust power"
+    },
+    {
+        "推進功率負載": "thrust power loading"
+    },
+    {
+        "推力範圍": "thrust range"
+    },
+    {
+        "額定推力": "thrust; rated"
+    },
+    {
+        "推力額定": "thrust rating"
+    },
+    {
+        "推進功率比": "thrust ratio"
+    },
+    {
+        "推力需求": "thrust requirement"
+    },
+    {
+        "需求推力曲線": "thrust required curve"
+    },
+    {
+        "推力反向器": "thrust reverser"
+    },
+    {
+        "推進段": "thrust section"
+    },
+    {
+        "軸推力（螺旋槳）": "thrust; shaft"
+    },
+    {
+        "推力燃料消耗率比": "thrust specific fuel consumption"
+    },
+    {
+        "推力試驗台": "thrust stand"
+    },
+    {
+        "推力結構": "thrust structure"
+    },
+    {
+        "推力面": "thrust surface"
+    },
+    {
+        "推力終止": "thrust termination"
+    },
+    {
+        "推力終止裝備": "thrust termination equipment"
+    },
+    {
+        "推力試驗": "thrust test"
+    },
+    {
+        "可調推力": "thrust; throttlable"
+    },
+    {
+        "推力重量比": "thrust-to-weight ratio"
+    },
+    {
+        "推力向量控制": "thrust vector control"
+    },
+    {
+        "推力轉向": "thrust vectoring"
+    },
+    {
+        "推重比": "thrust weight ratio"
+    },
+    {
+        "濕推力": "thrust; wet"
+    },
+    {
+        "雷": "thunder"
+    },
+    {
+        "雷鳥特技小組": "Thunder Birds"
+    },
+    {
+        "雷陣雨": "thunder shower"
+    },
+    {
+        "雷颮": "thunder squall"
+    },
+    {
+        "雷雨": "thunderstorm (TS)"
+    },
+    {
+        "降電之強烈雷雨": "thunderstorm with hail (TSGR)"
+    },
+    {
+        "起塵暴或沙暴之雷雨": "thunderstorm with duststorm or sandstorm (TSSA)"
+    },
+    {
+        "閘流管": "thyratron"
+    },
+    {
+        "閘流電晶體": "thyristor"
+    },
+    {
+        "甲狀腺": "thyroid"
+    },
+    {
+        "客票;機票": "ticket"
+    },
+    {
+        "票根": "ticket stub"
+    },
+    {
+        "雷徵天空": "tidal sky"
+    },
+    {
+        "潮浪;海嘯": "tidal wave"
+    },
+    {
+        "潮;汐": "tide"
+    },
+    {
+        "陸潮": "tide; earth"
+    },
+    {
+        "重力潮": "tide; gravitational"
+    },
+    {
+        "就位": "tide on"
+    },
+    {
+        "連結陀螺儀": "tied gyro"
+    },
+    {
+        "拴機點;拴貨點": "tiedown point"
+    },
+    {
+        "導入繼電器": "tie-in relay"
+    },
+    {
+        "導入系統": "tie-in system"
+    },
+    {
+        "鎖緊扭力": "tightening torque"
+    },
+    {
+        "緊密盤旋": "tight spiral"
+    },
+    {
+        "急轉彎": "tight turn"
+    },
+    {
+        "變角導管螺旋槳": "tilt ducted propeller"
+    },
+    {
+        "傾斜起落架": "tilt landing gear"
+    },
+    {
+        "可傾斜螺旋漿": "tilt-prop"
+    },
+    {
+        "傾斜式旋翼": "tilt rotor"
+    },
+    {
+        "傾斜試驗台": "tilt table"
+    },
+    {
+        "傾斜機翼": "tilt wing"
+    },
+    {
+        "傾斜機身（直升機）": "tilting fuselage"
+    },
+    {
+        "時間": "time"
+    },
+    {
+        "定時進場": "time approach"
+    },
+    {
+        "翻修間時": "time between overhauls (TBO)"
+    },
+    {
+        "定時更換件": "time change items"
+    },
+    {
+        "時限技令": "time compliance technical order (TCTO)"
+    },
+    {
+        "時間圖": "time diagram"
+    },
+    {
+        "時差": "time difference"
+    },
+    {
+        "時間擴張": "time dilation"
+    },
+    {
+        "時間劃分資料鏈": "time division data link"
+    },
+    {
+        "時分多工（制）": "time division multiplexing"
+    },
+    {
+        "歷時計": "time elapse indicator"
+    },
+    {
+        "時間頻率技術": "time frequency technology"
+    },
+    {
+        "對時": "time hack"
+    },
+    {
+        "時間滯": "time lag"
+    },
+    {
+        "抵達時間": "time of arrival"
+    },
+    {
+        "當日時間": "time of day"
+    },
+    {
+        "飛行時間": "time of flight"
+    },
+    {
+        "過近日點期": "time of perihelion passage"
+    },
+    {
+        "過近心點期": "time of periapsis passage"
+    },
+    {
+        "有效意識時間": "time of useful consciousness (TUC)"
+    },
+    {
+        "預定攻擊（空照）目標時間": "time on target (TOT)"
+    },
+    {
+        "飛臨目標時間": "time over target (TOT)"
+    },
+    {
+        "轉向點時間": "time over steerpoint"
+    },
+    {
+        "計時航行": "time reference navigation"
+    },
+    {
+        "上升時間（火箭）": "time remaining until dive (TRUD)"
+    },
+    {
+        "時間隔離": "time spacing"
+    },
+    {
+        "時刻表": "time table"
+    },
+    {
+        "對時;對時信號": "time tick"
+    },
+    {
+        "距截擊時間": "time to go"
+    },
+    {
+        "攔截時間": "time to intercept"
+    },
+    {
+        "起飛滾行時間": "time to takeoff"
+    },
+    {
+        "接近目標時間": "time to target"
+    },
+    {
+        "時區": "time zone"
+    },
+    {
+        "定時脈波": "timing pulse"
+    },
+    {
+        "耳鳴": "tinnitus"
+    },
+    {
+        "翼尖;提示": "tip"
+    },
+    {
+        "翼尖副翼": "tip aileron"
+    },
+    {
+        "翼尖弦長": "tip chord"
+    },
+    {
+        "翼尖推動（直升機）": "tip drive"
+    },
+    {
+        "翼尖下垂": "tip droop"
+    },
+    {
+        "末端效應": "tip effects"
+    },
+    {
+        "翼尖損失": "tip lose"
+    },
+    {
+        "前墜": "tip off"
+    },
+    {
+        "翼尖軌跡平面（直升機）": "tip-path plane"
+    },
+    {
+        "傾斜式雨量計": "tipping bucket rain gage"
+    },
+    {
+        "翼尖速率": "tip speed"
+    },
+    {
+        "翼尖速限": "tip speed limitation"
+    },
+    {
+        "翼尖失速": "tip stall"
+    },
+    {
+        "翼尖油箱": "tip tank"
+    },
+    {
+        "翼尖渦旋": "tip vortex"
+    },
+    {
+        "輪胎防爆格柵": "tire burst screens"
+    },
+    {
+        "標題": "title block"
+    },
+    {
+        "滴定": "titration"
+    },
+    {
+        "向離指示器": "to-from indicator"
+    },
+    {
+        "肘節開關": "toggle switch"
+    },
+    {
+        "容差;公差": "tolerances"
+    },
+    {
+        "攔截航線": "tomodromic course"
+    },
+    {
+        "鬚卷雲": "tonitro cirrus"
+    },
+    {
+        "噸哩": "ton mile"
+    },
+    {
+        "噸位": "tonnage"
+    },
+    {
+        "工作孔": "tooling hole"
+    },
+    {
+        "工具打樣": "tooling layout"
+    },
+    {
+        "工具用樹脂": "tooling resins"
+    },
+    {
+        "觀測中心座標系": "topocentric coordinate system"
+    },
+    {
+        "高空掩護;上方掩護": "top cover"
+    },
+    {
+        "上死點": "top dead center"
+    },
+    {
+        "加滿": "top off"
+    },
+    {
+        "地形圖": "topographic map"
+    },
+    {
+        "傾倒（陀螺儀）": "topple"
+    },
+    {
+        "上舵": "top rudder"
+    },
+    {
+        "頂桁架": "top tail boom"
+    },
+    {
+        "頂壁耦合器": "top wall coupler"
+    },
+    {
+        "噴火": "torching"
+    },
+    {
+        "龍捲風": "tornado"
+    },
+    {
+        "撕裂纖維": "torn fibers"
+    },
+    {
+        "魚雷": "torpedo"
+    },
+    {
+        "魚雷轟炸機": "torpedo bomber"
+    },
+    {
+        "轉矩;扭力": "torque"
+    },
+    {
+        "扭力放大器": "torque amplifier"
+    },
+    {
+        "轉矩臂;扭力臂": "torque arm"
+    },
+    {
+        "扭矩平衡式加速度計": "torque balance accelerometer"
+    },
+    {
+        "扭力盒": "torque box"
+    },
+    {
+        "轉矩係數": "torque coefficient"
+    },
+    {
+        "扭矩指令暫存": "torque command storage"
+    },
+    {
+        "扭矩測力計": "torque dynamometer"
+    },
+    {
+        "轉矩能": "torque energy"
+    },
+    {
+        "轉矩馬力": "torque horse power"
+    },
+    {
+        "扭力臂": "torque link"
+    },
+    {
+        "扭力表": "torque meter"
+    },
+    {
+        "扭力馬達": "torque motor"
+    },
+    {
+        "扭力壓": "torque pressure"
+    },
+    {
+        "轉矩架;扭力架": "torque stand"
+    },
+    {
+        "扭力管;承扭管": "torque tube"
+    },
+    {
+        "扭力扳手": "torque wrench"
+    },
+    {
+        "扭矩產生器（陀螺儀）": "torquer"
+    },
+    {
+        "加扭矩（陀螺儀）": "torquing"
+    },
+    {
+        "拖里拆利原理": "Torricelli's principle"
+    },
+    {
+        "熱帶": "torrid zone"
+    },
+    {
+        "扭矩": "torsion"
+    },
+    {
+        "扭力桿": "torsion bar"
+    },
+    {
+        "扭力盒": "torsion box"
+    },
+    {
+        "扭轉挫曲": "torsional buckling"
+    },
+    {
+        "扭轉位移": "torsional displacement"
+    },
+    {
+        "扭轉柔度": "torsional flexibility"
+    },
+    {
+        "扭力": "torsional force"
+    },
+    {
+        "扭轉負載": "torsional load"
+    },
+    {
+        "扭轉模態": "torsional mode"
+    },
+    {
+        "扭力破壞模數": "torsional modulus of rupture"
+    },
+    {
+        "扭轉力矩": "torsional moment"
+    },
+    {
+        "扭轉振盪": "torsional oscillations"
+    },
+    {
+        "扭轉剛度": "torsional rigidity"
+    },
+    {
+        "扭轉剪力流": "torsional shear flow"
+    },
+    {
+        "扭力彈簧": "torsional spring"
+    },
+    {
+        "抗扭強度": "torsional strength"
+    },
+    {
+        "扭應力": "torsional stress"
+    },
+    {
+        "扭轉測力計": "torsion dynamometer"
+    },
+    {
+        "扭轉失效": "torsion failure"
+    },
+    {
+        "軀幹座帶": "torso harness"
+    },
+    {
+        "拋擲轟炸": "toss bombing"
+    },
+    {
+        "葉片總面積": "total blade area (TBA)"
+    },
+    {
+        "總葉寬比": "total blade-width ratio"
+    },
+    {
+        "總畸變": "total distortion"
+    },
+    {
+        "總阻力": "total drag"
+    },
+    {
+        "總起動馬力": "total driving horsepower"
+    },
+    {
+        "全視野": "total field of view"
+    },
+    {
+        "總落差": "total head"
+    },
+    {
+        "總衝量（火箭）": "total impulse"
+    },
+    {
+        "項目總數更改": "total item changes"
+    },
+    {
+        "總和指示器": "totalizer"
+    },
+    {
+        "總升力": "total lift"
+    },
+    {
+        "總負載": "total load"
+    },
+    {
+        "總包採購": "total-package procurement"
+    },
+    {
+        "總壓力": "total pressure"
+    },
+    {
+        "全面品質控制": "total quality control (TQC)"
+    },
+    {
+        "全面品質管理": "total quality management (TQM)"
+    },
+    {
+        "總推力": "total thrust"
+    },
+    {
+        "總時間": "total time"
+    },
+    {
+        "總重量": "total weight"
+    },
+    {
+        "連續起飛": "touch and-go"
+    },
+    {
+        "著陸;降落": "touch down"
+    },
+    {
+        "著陸離地區": "touchdown and liftoff area"
+    },
+    {
+        "著陸點": "touch down point"
+    },
+    {
+        "落地跑道視距": "touchdown runway visual range (RVR)"
+    },
+    {
+        "著陸速率": "touchdown speed"
+    },
+    {
+        "接地速度": "touchdown velocity"
+    },
+    {
+        "著陸區": "touchdown zone"
+    },
+    {
+        "韌性": "toughness"
+    },
+    {
+        "拖曳;拖曳物;紗束": "tow"
+    },
+    {
+        "後托": "tow back"
+    },
+    {
+        "拖曳飛行": "towed flight"
+    },
+    {
+        "拖曳砲": "towed gun"
+    },
+    {
+        "塔台": "tower (TWR)"
+    },
+    {
+        "塔台工作間": "tower cab"
+    },
+    {
+        "塔台管制": "tower control"
+    },
+    {
+        "塔台管制區": "tower control area"
+    },
+    {
+        "塔台管制員": "tower controller"
+    },
+    {
+        "跳塔": "tower; free"
+    },
+    {
+        "伸景": "towering"
+    },
+    {
+        "塔狀積雲": "towering cumulus (TCU)"
+    },
+    {
+        "垂直起飛": "towering take-off"
+    },
+    {
+        "發射塔": "tower launcher"
+    },
+    {
+        "回收塔": "tower-snag recovery"
+    },
+    {
+        "前推": "tow forward"
+    },
+    {
+        "拖眼": "towing eye"
+    },
+    {
+        "筒形拖靶": "towing sleeve"
+    },
+    {
+        "拖繩": "towline"
+    },
+    {
+        "拖索式滑翔模型機": "towline model"
+    },
+    {
+        "拖靶": "tow target"
+    },
+    {
+        "毒性": "toxicity"
+    },
+    {
+        "毒物學": "toxicology"
+    },
+    {
+        "雨跡;蹤跡;跡": "trace"
+    },
+    {
+        "曳光彈": "tracer bullet"
+    },
+    {
+        "航跡;軌道": "track (TR)"
+    },
+    {
+        "航跡角": "track angle"
+    },
+    {
+        "跟蹤球": "track ball"
+    },
+    {
+        "航跡分類": "track classification"
+    },
+    {
+        "航向交叉角": "track crossing angle"
+    },
+    {
+        "航跡代號": "track designator"
+    },
+    {
+        "航跡距": "track distance"
+    },
+    {
+        "全履帶裝甲車": "tracked armoured vehicle"
+    },
+    {
+        "履帶式起落架": "tracked gear"
+    },
+    {
+        "追蹤": "tracking"
+    },
+    {
+        "追蹤及數據中繼衛星": "tracking and data-relay satellite (TDRS)"
+    },
+    {
+        "追蹤及數據中繼衛星系統": "tracking and data-relay satellite system (TDRSS)"
+    },
+    {
+        "追蹤與測距": "tracking and ranging"
+    },
+    {
+        "追蹤角偏差": "tracking angle error"
+    },
+    {
+        "追蹤照相機": "tracking camera"
+    },
+    {
+        "追蹤誤差傳遞與軌道預測": "tracking-error propagation and orbit prediction (Tepop)"
+    },
+    {
+        "循跡指數": "tracking index"
+    },
+    {
+        "追蹤型態": "tracking mode"
+    },
+    {
+        "追蹤網": "tracking networks"
+    },
+    {
+        "追蹤雷達": "tracking radar"
+    },
+    {
+        "追蹤範圍": "tracking range"
+    },
+    {
+        "追蹤站": "tracking station"
+    },
+    {
+        "追蹤系統": "tracking system"
+    },
+    {
+        "追蹤望遠鏡": "tracking telescope"
+    },
+    {
+        "航跡間隔": "track interval"
+    },
+    {
+        "起落架輪距": "track; landing gear"
+    },
+    {
+        "縫翼軌道": "track; slat"
+    },
+    {
+        "追蹤交談": "track telling"
+    },
+    {
+        "掃瞄追蹤": "track-while-scan (TWS)"
+    },
+    {
+        "牽引": "traction"
+    },
+    {
+        "拉進式飛機": "tractor"
+    },
+    {
+        "拉進式螺旋槳": "tractor propeller"
+    },
+    {
+        "信風逆溫差": "trade inversion"
+    },
+    {
+        "權衡": "trade-off"
+    },
+    {
+        "信風": "trade wind"
+    },
+    {
+        "飛行;交通;航行;通信;運量": "traffic (TFC)"
+    },
+    {
+        "航行路線": "traffic channel"
+    },
+    {
+        "轉機飛航": "traffic; connecting"
+    },
+    {
+        "交通管制;飛行管制": "traffic control"
+    },
+    {
+        "航管指示": "traffic control instruction"
+    },
+    {
+        "飛航管制員": "traffic controller"
+    },
+    {
+        "航管信號燈": "traffic control projector"
+    },
+    {
+        "運量密度": "traffic density"
+    },
+    {
+        "導航洛蘭": "traffic guidance loran (TG loran)"
+    },
+    {
+        "飛航資訊雷達": "traffic information radar"
+    },
+    {
+        "航路管理": "traffic management"
+    },
+    {
+        "機場航線": "traffic pattern"
+    },
+    {
+        "航管隔離規則": "traffic segregation rules"
+    },
+    {
+        "運量": "traffic volume"
+    },
+    {
+        "拖曳": "trail"
+    },
+    {
+        "拖車": "trailer"
+    },
+    {
+        "追蹤飛機": "trailer aircraft"
+    },
+    {
+        "跟蹤隊形": "trail formation"
+    },
+    {
+        "下垂天線": "trailing antenna"
+    },
+    {
+        "後緣": "trailing edge (TE)"
+    },
+    {
+        "後緣角": "trailing edge angle"
+    },
+    {
+        "後緣襟翼": "trailing edge flap (TEF)"
+    },
+    {
+        "後緣襟副翼": "trailing edge flaperon"
+    },
+    {
+        "後緣襟翼自動動程": "trailing edge flap scheduling"
+    },
+    {
+        "後緣翼縫": "trailing edge slot"
+    },
+    {
+        "後緣渦流": "trailing edge vortex"
+    },
+    {
+        "訓練土丘": "training hill"
+    },
+    {
+        "尾渦流": "trailing vortex"
+    },
+    {
+        "連續轟炸": "train bombing"
+    },
+    {
+        "教練機（軍）": "trainer (T)"
+    },
+    {
+        "教練飛機": "trainer aircraft"
+    },
+    {
+        "訓練器裝備設計規範": "trainer equipment design specification"
+    },
+    {
+        "訓練飛行模擬器": "trainer flight simulator"
+    },
+    {
+        "訓練器次系統設計規範": "trainer subsystem design specification"
+    },
+    {
+        "輔助器材": "training aid"
+    },
+    {
+        "訓練裝置": "training device"
+    },
+    {
+        "訓練設施": "training facilities"
+    },
+    {
+        "訓練規劃資料文件": "training planning information document"
+    },
+    {
+        "訓練計劃不當": "training program inadequacy"
+    },
+    {
+        "訓練及軟體支援中心": "training & software support center"
+    },
+    {
+        "訓練標準": "training standard"
+    },
+    {
+        "拋射": "traject"
+    },
+    {
+        "彈道;軌跡": "trajectory"
+    },
+    {
+        "實際彈道": "trajectory; actual"
+    },
+    {
+        "上升彈道": "trajectory; ascending"
+    },
+    {
+        "弧形帶": "trajectory band"
+    },
+    {
+        "雙橢圓彈道": "trajectory; bielliptic"
+    },
+    {
+        "圓軌跡": "trajectory; circular"
+    },
+    {
+        "共軸彈道": "trajectory; coaxial"
+    },
+    {
+        "圓錐線軌道": "trajectory; conical"
+    },
+    {
+        "共軛彈道": "trajectory; conjugate"
+    },
+    {
+        "共面彈道": "trajectory; coplanar"
+    },
+    {
+        "脫軌彈道": "trajectory; deorbit"
+    },
+    {
+        "起飛段彈道": "trajectory; departure"
+    },
+    {
+        "下降彈道": "trajectory; descending"
+    },
+    {
+        "脫軌彈道": "trajectory; disorbit"
+    },
+    {
+        "橢圓彈道": "trajectory; elliptic"
+    },
+    {
+        "彈道族": "trajectory; family of"
+    },
+    {
+        "半空間軌跡": "trajectory; half"
+    },
+    {
+        "高彈道": "trajectory; high"
+    },
+    {
+        "雙曲線彈道": "trajectory; hyperbolic"
+    },
+    {
+        "過渡彈道": "trajectory; intermediate"
+    },
+    {
+        "恆星際彈道": "trajectory; interstellar"
+    },
+    {
+        "等時彈道": "trajectory; isochronous"
+    },
+    {
+        "等能彈道": "trajectory; isoenergetic"
+    },
+    {
+        "低彈道": "trajectory; low"
+    },
+    {
+        "環月彈道": "trajectory; lunar"
+    },
+    {
+        "最小能量彈道": "trajectory; minimum energy"
+    },
+    {
+        "最短時間彈道": "trajectory; minimum time"
+    },
+    {
+        "標稱彈道": "trajectory; nominal"
+    },
+    {
+        "質點彈道": "trajectory; particle"
+    },
+    {
+        "彈道階段": "trajectory phases"
+    },
+    {
+        "動力飛行彈道": "trajectory; powered flight"
+    },
+    {
+        "拋射體彈道": "trajectory; projectile"
+    },
+    {
+        "參考彈道": "trajectory; reference"
+    },
+    {
+        "彈道變化": "trajectory shift"
+    },
+    {
+        "轉移彈道": "trajectory; transfer"
+    },
+    {
+        "雙端點彈道": "trajectory; two-terminal"
+    },
+    {
+        "真空彈道": "trajectory; vacuum"
+    },
+    {
+        "主應力軌跡": "trajectory of principal stress"
+    },
+    {
+        "鎮靜劑": "tranquilizer"
+    },
+    {
+        "洲際彈道飛彈": "transcontinental ballistic missile (TCBM)"
+    },
+    {
+        "收發報機": "transceiver"
+    },
+    {
+        "譯密機;轉錄機": "transcriber"
+    },
+    {
+        "換能器;探頭": "transducer"
+    },
+    {
+        "換感器": "transductor"
+    },
+    {
+        "轉機;轉換;轉移": "transfer"
+    },
+    {
+        "轉換橢圓": "transfer ellipse"
+    },
+    {
+        "轉移函數": "transfer function"
+    },
+    {
+        "分動（齒輪）箱（車）": "trans gear"
+    },
+    {
+        "管制交接": "transfer of control"
+    },
+    {
+        "轉移軌道": "transfer orbit"
+    },
+    {
+        "轉換管制責任": "transferring control responsibility"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "變壓器耗損": "transformer loss"
+    },
+    {
+        "暫態": "transient"
+    },
+    {
+        "暫態誤差": "transient error"
+    },
+    {
+        "暫時性腦缺血": "transient ischemic attack"
+    },
+    {
+        "瞬間輻射效用": "transient radiation effects"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "電晶體電路": "transistor circuit"
+    },
+    {
+        "中天;凌日;過境;經緯儀": "transit"
+    },
+    {
+        "換裝;過渡": "transition"
+    },
+    {
+        "過渡狀態": "transitional maneuvers"
+    },
+    {
+        "轉換面": "transitional surface"
+    },
+    {
+        "轉換高度": "transition altitude (TA)"
+    },
+    {
+        "過渡區": "transition area"
+    },
+    {
+        "轉接下降（反潛直升機）": "transition down"
+    },
+    {
+        "過渡工程": "transition engineering"
+    },
+    {
+        "轉移流": "transition flow"
+    },
+    {
+        "傳接筒": "transition liner"
+    },
+    {
+        "過渡階段": "transition phase"
+    },
+    {
+        "過渡點;變遷點（層流變紊流）": "transition point"
+    },
+    {
+        "轉換道（機場）": "transition strip"
+    },
+    {
+        "暫時目標": "transitory target"
+    },
+    {
+        "負互導管": "transitron"
+    },
+    {
+        "過渡時間": "transit time"
+    },
+    {
+        "移動": "translate"
+    },
+    {
+        "可移噴嘴": "translating nozzle"
+    },
+    {
+        "平移升力（直升機）": "translational lift"
+    },
+    {
+        "平移阻力導數": "translatory resistance derivative"
+    },
+    {
+        "透光（雲）": "translucidus"
+    },
+    {
+        "逾月太空": "translunar space"
+    },
+    {
+        "傳導;發送": "transmission"
+    },
+    {
+        "變速（齒輪）箱（車）": "transmission (gear) box"
+    },
+    {
+        "傳輸保密": "transmission security"
+    },
+    {
+        "傳送器": "transmission unit"
+    },
+    {
+        "傳遞性": "transmissivity"
+    },
+    {
+        "跑道視程儀": "transmissometer"
+    },
+    {
+        "傳送;發射": "transmit"
+    },
+    {
+        "傳遞率;透射比": "transmittance"
+    },
+    {
+        "發話器;發射機": "transmitter"
+    },
+    {
+        "發射機關斷燈": "transmitter off light"
+    },
+    {
+        "發射接收機限制器": "transmitter receiver limiter"
+    },
+    {
+        "發射機調諧燈": "transmitter tune light"
+    },
+    {
+        "衰變": "transmutation"
+    },
+    {
+        "橫樑": "transom"
+    },
+    {
+        "穿音障": "transonic barrier"
+    },
+    {
+        "穿音槳葉": "transonic blading"
+    },
+    {
+        "穿音速壓縮器": "transonic compressor"
+    },
+    {
+        "穿音速流": "transonic flow"
+    },
+    {
+        "穿音速區": "transonic speed zone"
+    },
+    {
+        "穿音速風洞": "transonic tunnel"
+    },
+    {
+        "橫渡太平洋飛行": "transpacific flight"
+    },
+    {
+        "環球探空": "transosonde"
+    },
+    {
+        "透明電槳": "transparent plasma"
+    },
+    {
+        "透光天空遮蔽;透明薄雲遮蓋": "transparent sky cover"
+    },
+    {
+        "流逸": "transpiration"
+    },
+    {
+        "極地穿越": "transpolar"
+    },
+    {
+        "詢答機;轉頻器;識別器": "transponder"
+    },
+    {
+        "運輸機": "transport"
+    },
+    {
+        "運輸": "transportation"
+    },
+    {
+        "運輸工具": "transportation medium"
+    },
+    {
+        "運輸機": "transport category aircraft (U.S.)"
+    },
+    {
+        "變軌級": "transtage"
+    },
+    {
+        "閾限內": "transthreshold"
+    },
+    {
+        "超鈾元素": "transuranium element"
+    },
+    {
+        "橫向加速度": "transverse acceleration"
+    },
+    {
+        "橫向平衡": "transverse balance"
+    },
+    {
+        "橫（向）重心": "transverse center of gravity"
+    },
+    {
+        "橫向修正": "transverse corrections"
+    },
+    {
+        "橫向負載": "transverse load"
+    },
+    {
+        "橫麥克托投影": "transverse Mecator"
+    },
+    {
+        "橫向運動": "transverse motion"
+    },
+    {
+        "橫向振盪": "transverse oscillation"
+    },
+    {
+        "橫向環結構": "transverse ring structure"
+    },
+    {
+        "橫向穩定性": "transverse stability"
+    },
+    {
+        "橫向速度": "transverse velocity"
+    },
+    {
+        "橫向振動": "transverse vibration"
+    },
+    {
+        "橫波": "transverse wave"
+    },
+    {
+        "濾波器": "trap"
+    },
+    {
+        "陷波電路": "trap circuit"
+    },
+    {
+        "懸吊桿": "trapeze bar"
+    },
+    {
+        "懸吊樑": "trapeze beam"
+    },
+    {
+        "梯形失真": "trapezium distortion"
+    },
+    {
+        "梯形調變": "trapezoidal modulation"
+    },
+    {
+        "梯形法則": "trapezoidal rule"
+    },
+    {
+        "梯形翼": "trapezoidal wing"
+    },
+    {
+        "空腔氣體": "trap gas"
+    },
+    {
+        "陷滯燃油": "trapped fuel"
+    },
+    {
+        "陷滯推進劑": "trapped propellent"
+    },
+    {
+        "外傷;挫傷": "trauma"
+    },
+    {
+        "旅行性下痢": "traveler's diarrhea"
+    },
+    {
+        "行波天線": "travelling-wave aerial"
+    },
+    {
+        "行波放大器": "travelling-wave amplifier"
+    },
+    {
+        "行波磁控管": "travelling-wave magnetron"
+    },
+    {
+        "行波管": "travelling-wave tube (TWT)"
+    },
+    {
+        "旅行包": "travel pod"
+    },
+    {
+        "輪距": "tread"
+    },
+    {
+        "履帶運動心電圖檢查": "treadmill test"
+    },
+    {
+        "撞樹失事": "tree strike"
+    },
+    {
+        "趨向分析": "trend analysis"
+    },
+    {
+        "戰略三角;三位組": "triad"
+    },
+    {
+        "試驗": "trial"
+    },
+    {
+        "三角形": "triangle"
+    },
+    {
+        "三角翼": "triangle wing"
+    },
+    {
+        "三角形傘": "triangular parachute"
+    },
+    {
+        "三角測量氣球": "triangulation balloon"
+    },
+    {
+        "電化摩擦": "triboelectrification"
+    },
+    {
+        "摩潤學": "tribology"
+    },
+    {
+        "摩擦計": "tribometer"
+    },
+    {
+        "三機照像": "tri-camera photography"
+    },
+    {
+        "特技飛行": "trick flying"
+    },
+    {
+        "前三點起落架": "tricycle landing gear"
+    },
+    {
+        "三都普勒系統（彈道測定）": "tridop"
+    },
+    {
+        "三升力面飛彈": "triform missile"
+    },
+    {
+        "觸發管": "trigatron"
+    },
+    {
+        "觸發點;扳機": "trigger"
+    },
+    {
+        "引發作用": "trigger action"
+    },
+    {
+        "三噴射發動機飛機": "trijet"
+    },
+    {
+        "配平;調整": "trim"
+    },
+    {
+        "成形後修邊": "trim after forming"
+    },
+    {
+        "配平攻角": "trim angle of attack"
+    },
+    {
+        "配平平衡": "trim balance"
+    },
+    {
+        "配平控制": "trim control"
+    },
+    {
+        "調整索": "trim cord"
+    },
+    {
+        "調整模;整修模": "trim die"
+    },
+    {
+        "配平阻力": "trim drag"
+    },
+    {
+        "三鏡頭航空照像裝置": "trimetrogon"
+    },
+    {
+        "起飛校正": "trim for takeoff"
+    },
+    {
+        "配平升力係數": "trim lift coefficient"
+    },
+    {
+        "配平力矩": "trimming moment"
+    },
+    {
+        "配平狀態": "trimmed state"
+    },
+    {
+        "配平片": "trimming tab"
+    },
+    {
+        "配平油箱": "trimming tank"
+    },
+    {
+        "配平速率": "trim speed"
+    },
+    {
+        "調整條": "trim strip"
+    },
+    {
+        "配平片;調整片": "trim tab"
+    },
+    {
+        "配平速度": "trim velocity"
+    },
+    {
+        "配平操縱舵": "trim wheel"
+    },
+    {
+        "三極管": "triode"
+    },
+    {
+        "臭氧": "trioxygen"
+    },
+    {
+        "三棲飛機": "triphibian"
+    },
+    {
+        "三翼機": "triplane"
+    },
+    {
+        "三連炸彈架": "triple ejector rack"
+    },
+    {
+        "三元重複模板": "triple modular redundant"
+    },
+    {
+        "三相點;三重點": "triple point"
+    },
+    {
+        "三連式投彈": "triple release"
+    },
+    {
+        "三工..雙工..單工": "triplex-duplex-simplex"
+    },
+    {
+        "三層玻璃": "triplex glass"
+    },
+    {
+        "三音速（次音速;穿音速;及超音速）": "trisonic"
+    },
+    {
+        "三音速風洞": "trisonic tunnel"
+    },
+    {
+        "擺線": "trochoid"
+    },
+    {
+        "可調U形導波管": "trombone"
+    },
+    {
+        "運兵機": "troop carrier"
+    },
+    {
+        "斜眼": "tropia"
+    },
+    {
+        "熱帶氣候": "tropical climate"
+    },
+    {
+        "熱帶氣旋": "tropical cyclone"
+    },
+    {
+        "熱帶東風": "tropical easterlies"
+    },
+    {
+        "熱帶氣象學": "tropical meteorology"
+    },
+    {
+        "熱帶季風氣候": "tropical monsoon climate"
+    },
+    {
+        "熱帶雨林氣候": "tropical rainforest climate"
+    },
+    {
+        "熱帶多雨氣候": "tropical rainy climate"
+    },
+    {
+        "颱風;熱帶旋風暴": "tropical revolving storm (TRS)"
+    },
+    {
+        "對流層頂": "tropopause"
+    },
+    {
+        "對流層": "troposphere"
+    },
+    {
+        "對流層波": "tropospheric wave"
+    },
+    {
+        "故障排除;故障分析": "trouble shooting"
+    },
+    {
+        "低壓槽": "trough"
+    },
+    {
+        "槽線": "trough line"
+    },
+    {
+        "吊車": "truck; crane"
+    },
+    {
+        "拖車頭": "truck-tractor"
+    },
+    {
+        "真空速": "true airspeed (TAS)"
+    },
+    {
+        "真高度": "true altitude"
+    },
+    {
+        "真方位角": "true azimuth"
+    },
+    {
+        "真方位": "true bearing"
+    },
+    {
+        "真航線": "true course"
+    },
+    {
+        "真飛行路徑": "true flight path"
+    },
+    {
+        "真航向": "true heading"
+    },
+    {
+        "實際指示空速": "true indicated airspeed"
+    },
+    {
+        "真馬赫數": "true Mach number"
+    },
+    {
+        "真北": "true north"
+    },
+    {
+        "真風向": "true wind direction"
+    },
+    {
+        "截短理想噴嘴": "truncated perfect nozzle"
+    },
+    {
+        "航路幹線": "trunk"
+    },
+    {
+        "耳軸": "trunnion"
+    },
+    {
+        "桁架": "truss"
+    },
+    {
+        "T型尾翼": "T-tail"
+    },
+    {
+        "管狀（雲）": "tuba"
+    },
+    {
+        "拖式反坦克飛彈": "tube-launched; optically tracked; wire-guided (TOW)"
+    },
+    {
+        "流管": "tube of flow"
+    },
+    {
+        "管路;配管": "tubing"
+    },
+    {
+        "管狀燃燒室": "tubular combustor"
+    },
+    {
+        "管桿鉚釘": "tubular shank rivet"
+    },
+    {
+        "高速自動俯衝": "tuck"
+    },
+    {
+        "絲線網加絲線": "tuft grid tufting"
+    },
+    {
+        "絲線": "tufts"
+    },
+    {
+        "拖車;拖機;拖船": "tug"
+    },
+    {
+        "翻滾": "tumbling"
+    },
+    {
+        "腫瘤": "tumor"
+    },
+    {
+        "苔原氣候": "tundra climate"
+    },
+    {
+        "調諧射頻": "tuned radio frequency"
+    },
+    {
+        "調諧器": "tuner"
+    },
+    {
+        "鎢": "tungsten"
+    },
+    {
+        "調諧": "tuning"
+    },
+    {
+        "風洞;隧道": "tunnel"
+    },
+    {
+        "風洞阻塞": "tunnel blockage"
+    },
+    {
+        "風洞阻塞效應": "tunnel blockage effect"
+    },
+    {
+        "回流式風洞": "tunnel; closed-layout wind"
+    },
+    {
+        "閉射口不回流風洞": "tunnel; close jet nonreturn flow"
+    },
+    {
+        "低溫風洞": "tunnel; cryogenic"
+    },
+    {
+        "直流洩氣式風洞": "tunnel; direct blow down"
+    },
+    {
+        "雙試驗段風洞": "tunnel; duplex"
+    },
+    {
+        "拋射式風洞": "tunnel; ejection type"
+    },
+    {
+        "撓壁風洞": "tunnel; flexible-walled"
+    },
+    {
+        "全尺寸風洞": "tunnel; full-scale"
+    },
+    {
+        "炮風洞": "tunnel; gun"
+    },
+    {
+        "陣風風洞": "tunnel; gust"
+    },
+    {
+        "極音速風洞": "tunnel; hypersonic"
+    },
+    {
+        "低速風洞": "tunnel; low speed"
+    },
+    {
+        "風洞紊流因子": "tunnel turbulence factor"
+    },
+    {
+        "風洞紊流度": "tunnel turbulence level"
+    },
+    {
+        "文氏管風洞": "tunnel; venturi"
+    },
+    {
+        "風洞壁修正": "tunnel wall correction"
+    },
+    {
+        "風洞壁效應": "tunnel wall effect"
+    },
+    {
+        "風洞壁干擾": "tunnel wall interference"
+    },
+    {
+        "水洞": "tunnel; water"
+    },
+    {
+        "混濁度": "turbidity"
+    },
+    {
+        "輪機;渦輪": "turbine"
+    },
+    {
+        "渦輪-螺旋槳組": "turbine-airscrew unit"
+    },
+    {
+        "渦輪支承": "turbine bearing"
+    },
+    {
+        "渦輪葉片": "turbine blade"
+    },
+    {
+        "輪盤": "turbine blank"
+    },
+    {
+        "渦輪碟;渦輪轉盤": "turbine disc"
+    },
+    {
+        "渦輪效率": "turbine efficiency"
+    },
+    {
+        "渦輪噴嘴": "turbine nozzle"
+    },
+    {
+        "渦輪動力組件": "turbine power assembly"
+    },
+    {
+        "渦輪定級;渦輪定類": "turbine rating"
+    },
+    {
+        "渦輪轉子": "turbine rotor"
+    },
+    {
+        "渦輪外殼": "turbine shroud"
+    },
+    {
+        "渦輪級": "turbine stage"
+    },
+    {
+        "渦輪靜子": "turbine stator"
+    },
+    {
+        "蒸汽渦輪": "turbine; steam"
+    },
+    {
+        "渦輪全靜效率": "turbine total-to-static efficiency"
+    },
+    {
+        "渦輪全全效率": "turbine total-to-total efficiency"
+    },
+    {
+        "渦輪葉片": "turbine vane"
+    },
+    {
+        "渦輪;渦輪轉盤": "turbine wheel"
+    },
+    {
+        "渦輪壓縮器": "turbo compressor"
+    },
+    {
+        "渦輪發動機直升機": "turbocopters"
+    },
+    {
+        "渦輪風扇;渦扇": "turbofan (TF)"
+    },
+    {
+        "渦扇發動機": "turbofan engine (TFE)"
+    },
+    {
+        "渦輪噴射;渦噴": "turbojet (TJ)"
+    },
+    {
+        "渦噴發動機": "turbojet engine"
+    },
+    {
+        "渦輪螺旋槳;渦槳": "turboprop (TP)"
+    },
+    {
+        "渦槳發動機": "turboprop engine"
+    },
+    {
+        "輪機泵": "turbopump"
+    },
+    {
+        "渦輪衝壓噴射發動機": "turboramjet (TJRJ)"
+    },
+    {
+        "渦輪火箭發動機": "turborocket"
+    },
+    {
+        "渦輪軸發動機": "turboshaft engine"
+    },
+    {
+        "渦輪起動機": "turbostarter"
+    },
+    {
+        "渦輪增壓器": "turbosupercharger"
+    },
+    {
+        "紊流器": "turbulator"
+    },
+    {
+        "擾動;紊流;擾流": "turbulence"
+    },
+    {
+        "亂雲": "turbulence cloud"
+    },
+    {
+        "紊流因子": "turbulence factor"
+    },
+    {
+        "大氣亂流": "turbulence; free-air"
+    },
+    {
+        "進氣道紊流": "turbulence; inlet"
+    },
+    {
+        "亂流度": "turbulence level"
+    },
+    {
+        "紊流尾跡": "turbulence shedding"
+    },
+    {
+        "紊流邊界層": "turbulent boundary layer"
+    },
+    {
+        "紊流燄": "turbulent flame"
+    },
+    {
+        "紊流;擾流": "turbulent flow"
+    },
+    {
+        "擾動混合": "turbulent mixing"
+    },
+    {
+        "擾動;紊流運動": "turbulent motion"
+    },
+    {
+        "紊流區": "turbulent region"
+    },
+    {
+        "紊流阻力": "turbulent resistance"
+    },
+    {
+        "紊流分離": "turbulent separation"
+    },
+    {
+        "紊流尾流": "turbulent wake"
+    },
+    {
+        "轉彎": "turn"
+    },
+    {
+        "180°轉彎": "turnabouts"
+    },
+    {
+        "轉彎傾斜（側滑）儀": "turn and bank (slip) indicator"
+    },
+    {
+        "整備": "turn around"
+    },
+    {
+        "整備時間": "turnaround time"
+    },
+    {
+        "返回": "turnback"
+    },
+    {
+        "鬆緊螺套": "turnbuckle"
+    },
+    {
+        "轉彎誤差": "turn error"
+    },
+    {
+        "水平轉彎": "turn; flat"
+    },
+    {
+        "懸停轉彎;滯空轉彎": "turn; hovering"
+    },
+    {
+        "殷麥曼轉彎;上升反轉": "turn; Immelmann"
+    },
+    {
+        "轉入": "turn in"
+    },
+    {
+        "轉彎指示器": "turn indicator"
+    },
+    {
+        "轉彎誤差": "turning error"
+    },
+    {
+        "轉彎力矩": "turning moment"
+    },
+    {
+        "轉向點": "turning point"
+    },
+    {
+        "轉彎起始點": "turn initiation point"
+    },
+    {
+        "滑出;關機": "turnoff"
+    },
+    {
+        "滑行;轉彎燈": "turnoff light"
+    },
+    {
+        "翻覆保護結構": "turnover structure"
+    },
+    {
+        "匝數比": "turns ratio"
+    },
+    {
+        "正交叉天線": "turnstile antenna"
+    },
+    {
+        "旋轉盤;旋轉檯": "turn table"
+    },
+    {
+        "炮塔": "turret"
+    },
+    {
+        "塔狀雲": "turreted cloud"
+    },
+    {
+        "電視指令": "TV command"
+    },
+    {
+        "電視歸向": "TV homing"
+    },
+    {
+        "二十四時軌道": "twenty-four-hour orbit"
+    },
+    {
+        "二十四時人造衛星": "twenty-four-hour satellite"
+    },
+    {
+        "曙光": "twilight"
+    },
+    {
+        "朦朧帶": "twilight band"
+    },
+    {
+        "朦朧區": "twilight zone"
+    },
+    {
+        "雙走道飛機（廣體客機）": "twin-aisle aircraft"
+    },
+    {
+        "雙浮筒水上飛機": "twin-float seaplane"
+    },
+    {
+        "雙機身": "twin fuselage"
+    },
+    {
+        "雙發動機飛機": "twinjet"
+    },
+    {
+        "雙管機槍": "twin machine gun"
+    },
+    {
+        "雙尾翼": "twin tail"
+    },
+    {
+        "螺旋式滾轉": "twinkle roll"
+    },
+    {
+        "扭轉;扭絞": "twist"
+    },
+    {
+        "扭角": "twist angle"
+    },
+    {
+        "螺旋鑽": "twist drill"
+    },
+    {
+        "扭轉斜齒輪": "twist bevel gear"
+    },
+    {
+        "扭轉槳葉": "twisted blade"
+    },
+    {
+        "雙絞線": "twisted pair"
+    },
+    {
+        "絞繩": "twisted rope"
+    },
+    {
+        "扭轉正齒輪": "twisted spur gear"
+    },
+    {
+        "扭轉機翼": "twisted wing"
+    },
+    {
+        "絞絲機": "twister"
+    },
+    {
+        "轉把式油門": "twist-grip throttle"
+    },
+    {
+        "扭轉力偶": "twisting couple"
+    },
+    {
+        "扭力": "twisting force"
+    },
+    {
+        "扭轉力矩": "twisting moment"
+    },
+    {
+        "扭接": "twist joint"
+    },
+    {
+        "旋轉": "twizzle"
+    },
+    {
+        "雙軸歸航器": "two-axis homing head"
+    },
+    {
+        "雙槳的": "two-bladed"
+    },
+    {
+        "雙木質螺旋槳": "two-bladed wooden propeller"
+    },
+    {
+        "二體問題": "two body problem"
+    },
+    {
+        "二色高溫計": "two-colour pyrometer"
+    },
+    {
+        "雙控飛機": "two-control aircraft"
+    },
+    {
+        "雙航路導航台": "two-course radio range"
+    },
+    {
+        "二維;二因次": "two-dimensions"
+    },
+    {
+        "二維流動": "two-dimensional flow"
+    },
+    {
+        "二維進氣道": "two-dimensional inlet"
+    },
+    {
+        "二維噴嘴": "two-dimensional nozzle"
+    },
+    {
+        "二維雷達": "two-dimensional radar"
+    },
+    {
+        "二維機翼": "two-dimensional wing"
+    },
+    {
+        "二分鐘轉彎": "two minute turn"
+    },
+    {
+        "二加一噴嘴": "two-on-one injector"
+    },
+    {
+        "二相電流": "two-phase current"
+    },
+    {
+        "二相流": "two-phase flow"
+    },
+    {
+        "二相馬達": "two-phase motor"
+    },
+    {
+        "二相自動同步器": "two-phase selsyn"
+    },
+    {
+        "二相伺服馬達": "two-phase servomotor"
+    },
+    {
+        "二相制": "two-phase system"
+    },
+    {
+        "雙速增壓器": "two-phase supercharger"
+    },
+    {
+        "雙座飛機": "two seat airplane"
+    },
+    {
+        "兩段混合進場": "two segment combination approach"
+    },
+    {
+        "雙樑翼": "two spar wing"
+    },
+    {
+        "二級壓縮": "two-stage compression"
+    },
+    {
+        "二級點火器": "two-stage ignitor"
+    },
+    {
+        "二級增壓器": "two-stage supercharger"
+    },
+    {
+        "雙向無線電": "two-way radio"
+    },
+    {
+        "雙向開關": "two-way switch"
+    },
+    {
+        "雙向閥": "two-way valve"
+    },
+    {
+        "鼓膜": "tympanic membrane"
+    },
+    {
+        "鼓膜整形術": "tympanoplasty"
+    },
+    {
+        "颱風": "typhoon"
+    },
+    {
+        "颱風警報": "typhoon warning"
+    },
+    {
+        "颱風警戒": "typhoon watch"
+    },
+    {
+        "斑疹傷寒": "typhus"
+    },
+    {
+        "標準反氣旋": "typical anticyclone"
+    },
+    {
+        "標準氣旋": "typical cyclone"
+    },
+    {
+        "潛水艇（德）": "U-boat"
+    },
+    {
+        "鈾原子彈": "U-bomb"
+    },
+    {
+        "雨量器": "udometer"
+    },
+    {
+        "潰瘍": "ulcer"
+    },
+    {
+        "潰瘍性結腸炎": "ulcerative"
+    },
+    {
+        "不足量": "ullage"
+    },
+    {
+        "加壓餘量燃料引擎（火箭）": "ullage engine"
+    },
+    {
+        "加壓餘量燃料操縱（火箭）": "ullage manoeuvre"
+    },
+    {
+        "終極分析": "ultimate analysis"
+    },
+    {
+        "終極抗壓應力": "ultimate compressive stress"
+    },
+    {
+        "終極負載": "ultimate load"
+    },
+    {
+        "終極負載因素": "ultimate load factor"
+    },
+    {
+        "終極彈性力": "ultimate resilience"
+    },
+    {
+        "終極靈敏性": "ultimate sensitivity"
+    },
+    {
+        "終極強度": "ultimate strength"
+    },
+    {
+        "終極應力": "ultimate stress"
+    },
+    {
+        "終極抗拉應力": "ultimate tensile stress"
+    },
+    {
+        "超高旁通比": "ultra-high bypass-ratio"
+    },
+    {
+        "超高頻": "ultra-high frequency (UHF)"
+    },
+    {
+        "超高頻導航系統": "ultra-high frequency navigation system"
+    },
+    {
+        "超真空": "ultra-high vacuum"
+    },
+    {
+        "超輕型飛機（小於1000磅）": "ultra-light aircraft"
+    },
+    {
+        "超輕型載具": "ultralight vehicle"
+    },
+    {
+        "超長程": "ultra-long range (ULR)"
+    },
+    {
+        "超測微表": "ultra micrometer"
+    },
+    {
+        "超倍顯微鏡": "ultramicroscope"
+    },
+    {
+        "超速程警戒雷達": "ultraradar"
+    },
+    {
+        "超短波": "ultra short wave"
+    },
+    {
+        "超聲學": "ultrasonics"
+    },
+    {
+        "超聲波檢驗;超聲波探傷": "ultrasonic inspection"
+    },
+    {
+        "超聲波焊接": "ultrasonic welding"
+    },
+    {
+        "紫外光": "ultraviolet light"
+    },
+    {
+        "紫外輻射": "ultraviolet radiation"
+    },
+    {
+        "臍帶": "umbilical cord"
+    },
+    {
+        "發射塔": "umbilical tower"
+    },
+    {
+        "不可用能量": "unavailable energy"
+    },
+    {
+        "脫膠": "unbonding"
+    },
+    {
+        "不明期": "uncertainty phase (UNCERFA)"
+    },
+    {
+        "鈎狀雲": "uncinus"
+    },
+    {
+        "不明類別之目標回波": "unclassified track"
+    },
+    {
+        "失去知覺;失去意識": "unconsciousness"
+    },
+    {
+        "無管制空域": "uncontrolled airspace"
+    },
+    {
+        "無管制點鑲嵌圖": "uncontrolled mosaic"
+    },
+    {
+        "失控螺旋": "uncontrolled spin"
+    },
+    {
+        "無阻尼自然頻率": "undamped natural frequency"
+    },
+    {
+        "起落架（英）": "undercarriage"
+    },
+    {
+        "信心不足": "underconfidence"
+    },
+    {
+        "地下發射器": "underground launcher"
+    },
+    {
+        "動機不夠": "undermotivation"
+    },
+    {
+        "進場太低": "under shoot"
+    },
+    {
+        "膨脹不足流": "underexpanded flow"
+    },
+    {
+        "膨脹不足噴嘴": "underexpanded nozzle"
+    },
+    {
+        "不完全膨脹": "underexpansion"
+    },
+    {
+        "潛射飛彈系統": "undersea-launched missile system (ULMS)"
+    },
+    {
+        "尺寸不足": "undersize"
+    },
+    {
+        "潛射飛彈": "underwater missile"
+    },
+    {
+        "潛對空飛彈": "underwater-to-air missile (UAM)"
+    },
+    {
+        "潛對面飛彈": "underwater-to-surface missile (USM)"
+    },
+    {
+        "楔下放氣": "underwedge bleed"
+    },
+    {
+        "無導管風扇": "unducted fan (UDF)"
+    },
+    {
+        "波狀雲": "undulatus"
+    },
+    {
+        "解除順槳": "unfeather"
+    },
+    {
+        "單向天線": "unidirectional aerial"
+    },
+    {
+        "單向複合材料": "unidirectional composite"
+    },
+    {
+        "單相積層（板）": "unidirectional laminate"
+    },
+    {
+        "單向固化": "unidirectional solidification"
+    },
+    {
+        "等加速度運動": "uniform accelerated motion"
+    },
+    {
+        "等速圓周運動": "uniform circular motion"
+    },
+    {
+        "統一野外勤務規則": "uniform field rule"
+    },
+    {
+        "等速飛行": "uniform flight"
+    },
+    {
+        "標準試飛資料分析系統": "uniform flight test analysis system"
+    },
+    {
+        "均勻流": "uniform flow"
+    },
+    {
+        "均勻流線": "uniform line"
+    },
+    {
+        "均勻負載": "uniform load"
+    },
+    {
+        "等變負載": "uniform varying load"
+    },
+    {
+        "等速運動": "uniform motion"
+    },
+    {
+        "等減速運動": "uniform retarded motion"
+    },
+    {
+        "意外啟動": "unintentional activation"
+    },
+    {
+        "不斷電系統": "uninterruptable power supply (UPS)"
+    },
+    {
+        "管接頭": "union"
+    },
+    {
+        "單極（天線）": "unipole"
+    },
+    {
+        "單位": "unit"
+    },
+    {
+        "單價": "unit cost"
+    },
+    {
+        "單位變形": "unit deformation"
+    },
+    {
+        "單位負載法": "unit load method"
+    },
+    {
+        "量度單位": "unit of measure"
+    },
+    {
+        "時間單位": "unit of time"
+    },
+    {
+        "單位極": "unit pole"
+    },
+    {
+        "單價": "unit price"
+    },
+    {
+        "單位脈動": "unit pulse"
+    },
+    {
+        "測試中單元": "unit under test"
+    },
+    {
+        "振動單元": "unit; vibration"
+    },
+    {
+        "單位重量": "unit weight"
+    },
+    {
+        "萬用非同步接收器": "universal asynchronous receiver"
+    },
+    {
+        "萬向聯結器": "universal coupling"
+    },
+    {
+        "通用製圖儀": "universal drafting machine"
+    },
+    {
+        "通用氣體常數": "universal gas constant"
+    },
+    {
+        "萬有引力": "universal gravitation"
+    },
+    {
+        "通用頭鉚釘": "universal head rivet"
+    },
+    {
+        "通用傾斜儀": "universal inclinometer"
+    },
+    {
+        "萬向接頭": "universal joint"
+    },
+    {
+        "通用電表": "universal meter"
+    },
+    {
+        "萬能銑床": "universal milling machine"
+    },
+    {
+        "世界地區航圖": "universal plotting chart"
+    },
+    {
+        "極區方格圖": "universal polar stereographic grid (UPS)"
+    },
+    {
+        "通用分流器": "universal shunt"
+    },
+    {
+        "世界時": "universal time"
+    },
+    {
+        "世界標準時": "universal time; converted (UTC)"
+    },
+    {
+        "世界橫麥卡托方格圖": "universal transverse Mercator grid"
+    },
+    {
+        "無限雲幕": "unlimited ceiling"
+    },
+    {
+        "卸載門": "unloading gate"
+    },
+    {
+        "卸載點": "unloading point"
+    },
+    {
+        "解鎖": "unlock"
+    },
+    {
+        "無鋪面機場": "unpaved airfield"
+    },
+    {
+        "無動力飛行": "unpowered flight"
+    },
+    {
+        "無鋪面機場": "unprepared airfield"
+    },
+    {
+        "無空中加油航程": "unrefuelled range"
+    },
+    {
+        "無限燃燒火箭": "unrestricted burning rocket"
+    },
+    {
+        "多面燃燒推進劑": "unrestricted propellant"
+    },
+    {
+        "無障能見度": "unrestricted visibility"
+    },
+    {
+        "不滿意報告": "unsatisfactory report (UR)"
+    },
+    {
+        "未飽和雲": "unsaturated cloud"
+    },
+    {
+        "非預定落地": "unscheduled landing"
+    },
+    {
+        "非預定配平": "unscheduled trim"
+    },
+    {
+        "無防水鋪面跑道": "unsealed strip"
+    },
+    {
+        "消除震波": "unshock"
+    },
+    {
+        "不穩定空氣": "unstable air"
+    },
+    {
+        "不穩定翼形": "unstable airfoil"
+    },
+    {
+        "不穩定燃燒": "unstable combustion"
+    },
+    {
+        "不穩定控制": "unstable control"
+    },
+    {
+        "不穩定平衡": "unstable equilibrium"
+    },
+    {
+        "不穩定流": "unstable flow"
+    },
+    {
+        "不穩定運動": "unstable motion"
+    },
+    {
+        "不穩定振盪": "unstable oscillation"
+    },
+    {
+        "不穩定狀態": "unstable state"
+    },
+    {
+        "不穩定振動": "unstable vibration"
+    },
+    {
+        "終止氣流分離": "unstalling"
+    },
+    {
+        "未起動": "unstart"
+    },
+    {
+        "不穩定飛行": "unsteady flight"
+    },
+    {
+        "不穩定流": "unsteady flow"
+    },
+    {
+        "離地瞬間": "unstick"
+    },
+    {
+        "離地前滾行": "unstick run"
+    },
+    {
+        "離地速率": "unstick speed"
+    },
+    {
+        "離地速率比": "unstick ratio"
+    },
+    {
+        "不對稱彎曲": "unsymmetrical bending"
+    },
+    {
+        "不對稱構型": "unsymmetrical configuration"
+    },
+    {
+        "不對稱飛行": "unsymmetrical flight"
+    },
+    {
+        "不對稱流": "unsymmetrical flow"
+    },
+    {
+        "不對稱構架": "unsymmetrical frame"
+    },
+    {
+        "不對稱負載": "unsymmetrical loading"
+    },
+    {
+        "不對稱螺旋槳推力": "unsymmetrical propeller thrust"
+    },
+    {
+        "不對稱渦旋": "unsymmetrical vortex"
+    },
+    {
+        "升降流": "up-and-down current"
+    },
+    {
+        "無干擾攔截": "up-chaff"
+    },
+    {
+        "上升流": "upcurrent"
+    },
+    {
+        "更新;修正": "update"
+    },
+    {
+        "上升氣流": "updraft"
+    },
+    {
+        "上吸式化油器": "updraught carburetor"
+    },
+    {
+        "上升流": "upflow"
+    },
+    {
+        "上升流角": "upflow angle"
+    },
+    {
+        "上前方控制器": "upfront controller"
+    },
+    {
+        "升級;升等": "upgrade"
+    },
+    {
+        "上鎖": "uplatch"
+    },
+    {
+        "上升段（彈道）": "up-leg"
+    },
+    {
+        "上升": "uplift"
+    },
+    {
+        "向上傳訊;上鏈": "uplink"
+    },
+    {
+        "向上負載": "upload"
+    },
+    {
+        "上鎖": "uplock"
+    },
+    {
+        "上視搜索": "uplook search"
+    },
+    {
+        "提高功率;提高性能": "uprate"
+    },
+    {
+        "高空諮詢區域": "upper advisory area (UDA)"
+    },
+    {
+        "高空諮詢業務": "upper advisory service"
+    },
+    {
+        "高空航限": "upper air limit"
+    },
+    {
+        "高空航路": "upper air route (UAR)"
+    },
+    {
+        "高空區域管制中心": "upper area control center (UAC)"
+    },
+    {
+        "高層大氣": "upper atmosphere"
+    },
+    {
+        "上時圈": "upper branch"
+    },
+    {
+        "上弧": "upper camber"
+    },
+    {
+        "高雲": "upper cloud"
+    },
+    {
+        "高空管制區域": "upper control area (UTA)"
+    },
+    {
+        "上中天": "upper culmination"
+    },
+    {
+        "上層艙": "upper deck"
+    },
+    {
+        "上艙門": "upper deck door"
+    },
+    {
+        "高空飛航情報區": "upper flight information region (UIR)"
+    },
+    {
+        "高空鋒面": "upper front"
+    },
+    {
+        "高空情報中心": "upper information center (UIC)"
+    },
+    {
+        "高空逆溫": "upper inversion"
+    },
+    {
+        "高空反氣旋": "upper level anticyclone"
+    },
+    {
+        "高空圖": "upper level chart"
+    },
+    {
+        "高空氣旋": "upper level cyclone"
+    },
+    {
+        "高空槽": "upper level trough"
+    },
+    {
+        "上外圈": "upper limb"
+    },
+    {
+        "上限": "upper limit"
+    },
+    {
+        "可燃性上限": "upper limit of flammability"
+    },
+    {
+        "穩定性上限": "upper limit of stability"
+    },
+    {
+        "高空混合層": "upper mixing layer"
+    },
+    {
+        "上參考點": "upper reference point"
+    },
+    {
+        "上方向舵": "upper rudder"
+    },
+    {
+        "上表面副翼": "upper-surface aileron"
+    },
+    {
+        "上表面噴氣": "upper-surface blowing"
+    },
+    {
+        "上半徑圈通過": "upper transit"
+    },
+    {
+        "上垂直尾翼": "upper vertical tail"
+    },
+    {
+        "上翼": "upper wing"
+    },
+    {
+        "上衝氣流": "uprush"
+    },
+    {
+        "失控": "upset"
+    },
+    {
+        "氣流分離": "upset; flow"
+    },
+    {
+        "自動俯仰": "upset in pitch"
+    },
+    {
+        "自動滾轉": "upset in roll"
+    },
+    {
+        "機腹朝上": "up-side-down"
+    },
+    {
+        "倒飛": "up-side-down flight"
+    },
+    {
+        "倒飛編隊": "up-side-down formation"
+    },
+    {
+        "倒飛觔斗": "up-side-down loop"
+    },
+    {
+        "升坡霧": "upslope fog"
+    },
+    {
+        "起飛": "upstairs"
+    },
+    {
+        "上游流": "upstream flow"
+    },
+    {
+        "順時": "uptime"
+    },
+    {
+        "向上氣流": "upward air current"
+    },
+    {
+        "向上力": "upward force"
+    },
+    {
+        "機背識別燈": "upward identification light"
+    },
+    {
+        "向上壓力": "upward pressure"
+    },
+    {
+        "上升滾轉": "upward roll"
+    },
+    {
+        "上升螺旋": "upward spin"
+    },
+    {
+        "上洗": "upwash"
+    },
+    {
+        "上風效應": "upwind effect"
+    },
+    {
+        "側風邊": "upwind leg"
+    },
+    {
+        "眼葡萄膜": "ureal"
+    },
+    {
+        "泌尿道結石": "urinary calculi"
+    },
+    {
+        "可用升限": "usable ceiling"
+    },
+    {
+        "有用負載": "useful load"
+    },
+    {
+        "通用機": "utility aircraft (U)"
+    },
+    {
+        "通用機場": "utility airport"
+    },
+    {
+        "通用類": "utility category"
+    },
+    {
+        "通用噴射運輸機": "utility jet transport"
+    },
+    {
+        "橢圓囊;前列腺囊": "utricle"
+    },
+    {
+        "U形管流體壓力計": "U-tube manometer"
+    },
+    {
+        "V形天線": "V-aerial"
+    },
+    {
+        "疫苗": "vaccination"
+    },
+    {
+        "真空袋成形": "vacuum bag molding"
+    },
+    {
+        "真空計": "vacuum gauge"
+    },
+    {
+        "真空比衝": "vacuum specific impulse"
+    },
+    {
+        "真空式風洞": "vacuum tunnel"
+    },
+    {
+        "迷走神經反彈": "vagal rebound"
+    },
+    {
+        "價值工程": "value engineering"
+    },
+    {
+        "閥;瓣;氣門": "valve"
+    },
+    {
+        "閥齒輪": "valve gear"
+    },
+    {
+        "閥帽": "valve hood"
+    },
+    {
+        "閥遲關": "valve lag"
+    },
+    {
+        "閥早關": "valve lead"
+    },
+    {
+        "閥門上升量": "valve lift"
+    },
+    {
+        "進排氣門同開": "valve overlap"
+    },
+    {
+        "瓣式傘": "valve parachute"
+    },
+    {
+        "閥襯": "valve petticoat"
+    },
+    {
+        "閥門系統調整": "valve rigging"
+    },
+    {
+        "閥門定時": "valve timing"
+    },
+    {
+        "心臟瓣膜疾病": "valvular heart disease"
+    },
+    {
+        "范艾倫帶": "Van Allen belt"
+    },
+    {
+        "翼片式傳感器": "vane sensor"
+    },
+    {
+        "葉片型泵": "vane-type pump"
+    },
+    {
+        "蒸汽;汽": "vapor"
+    },
+    {
+        "蒸氣消毒": "vapor disinsection"
+    },
+    {
+        "汽化燃燒室": "vaporizing combustor"
+    },
+    {
+        "蒸氣脫脂": "vapor degreasing"
+    },
+    {
+        "氣塞": "vapor lock"
+    },
+    {
+        "氣相抑制劑": "vapor-phase inhibitor"
+    },
+    {
+        "蒸汽壓": "vapor pressure"
+    },
+    {
+        "凝結尾跡": "vapor trail"
+    },
+    {
+        "變容器;變容體": "varactor"
+    },
+    {
+        "可變面積": "variable area"
+    },
+    {
+        "可變排氣噴口": "variable area exhaust nozzle"
+    },
+    {
+        "可變弧翼形": "variable-camber (varicam) airfoil"
+    },
+    {
+        "可變弧翼": "variable camber wing"
+    },
+    {
+        "變動雲幕": "variable ceiling"
+    },
+    {
+        "可變弦翼": "variable chord wing"
+    },
+    {
+        "變循環發動機": "variable-cycle engine"
+    },
+    {
+        "變基準加力控制": "variable-datum boost control"
+    },
+    {
+        "變流量泵": "variable-delivering pump"
+    },
+    {
+        "變密度風洞": "variable density tunnel"
+    },
+    {
+        "可變深度聲納": "variable-depth sonar (VDS)"
+    },
+    {
+        "不定下降梯度": "variable descent gradient"
+    },
+    {
+        "變流量渦輪": "variable-discharge turbine"
+    },
+    {
+        "變排氣量泵": "variable-displacement pump"
+    },
+    {
+        "可變噴嘴": "variable exhaust nozzle"
+    },
+    {
+        "可變外形飛機": "variable-geometry aircraft"
+    },
+    {
+        "可變形發動機": "variable-geometry engine"
+    },
+    {
+        "可變形進氣口": "variable-geometry inlet"
+    },
+    {
+        "可變傾角": "variable incidence"
+    },
+    {
+        "可變傾角機翼": "variable incidence wing"
+    },
+    {
+        "可變進氣口": "variable inlet"
+    },
+    {
+        "可變升力裝置": "variable lift device"
+    },
+    {
+        "變質量系": "variable mass system"
+    },
+    {
+        "變距螺旋槳": "variable pitch propeller"
+    },
+    {
+        "變展機翼": "variable span wing"
+    },
+    {
+        "定頻變速發電機": "variable speed constant frequency generator"
+    },
+    {
+        "多組靜子": "variable stator"
+    },
+    {
+        "可變衝程": "variable stroke"
+    },
+    {
+        "可變後掠角機翼": "variable sweep wing"
+    },
+    {
+        "變動能見度": "variable visibility"
+    },
+    {
+        "不定風": "variable wind"
+    },
+    {
+        "可變翼": "variable wing"
+    },
+    {
+        "可變翼面積": "variable wing area"
+    },
+    {
+        "可變翼剖面": "variable wing section"
+    },
+    {
+        "可變耦合器": "variocouple"
+    },
+    {
+        "類天花": "variola minor"
+    },
+    {
+        "變壓計;變量計": "variograph"
+    },
+    {
+        "可變損耗器": "variolosser"
+    },
+    {
+        "變量表;地磁測針;可變電感器;電壓表;氣壓表": "variometer"
+    },
+    {
+        "可變電阻器": "varistor"
+    },
+    {
+        "清漆;亮光漆": "varnish"
+    },
+    {
+        "血管性機能不足": "vascular insufficiency"
+    },
+    {
+        "血管與迷走神經暈厥": "vasovagal syncope"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "引導進場": "vector approach"
+    },
+    {
+        "病媒傳染疾病": "vector-born disease"
+    },
+    {
+        "向量計算機": "vector computer"
+    },
+    {
+        "引導攻擊": "vectored attack"
+    },
+    {
+        "向量飛控": "vector flight control"
+    },
+    {
+        "向左急轉": "vector hard port"
+    },
+    {
+        "向右急轉": "vector hard starboard"
+    },
+    {
+        "向量噴嘴;變向噴嘴": "vectoring nozzle"
+    },
+    {
+        "變向推力;向量推力": "vectoring thrust"
+    },
+    {
+        "定向瞄準": "vector sight"
+    },
+    {
+        "向量駕駛": "vector steering"
+    },
+    {
+        "計程儀": "veeder counter"
+    },
+    {
+        "V形編隊": "Vee formation"
+    },
+    {
+        "順轉": "veer"
+    },
+    {
+        "織女星": "Vega"
+    },
+    {
+        "載具": "vehicle"
+    },
+    {
+        "載具操縱效應": "vehicle maneuver effects"
+    },
+    {
+        "遙控載具": "vehicle; remote-piloted (RPV)"
+    },
+    {
+        "幔雲": "veil cloud"
+    },
+    {
+        "速度計": "velocimeter"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "速度高度圖": "velocity-altitude map"
+    },
+    {
+        "主動段終點速度": "velocity at burnout"
+    },
+    {
+        "速度姿態方向刻度": "velocity attitude heading scale"
+    },
+    {
+        "偏流速度": "velocity; drift"
+    },
+    {
+        "速度梯度": "velocity gradient"
+    },
+    {
+        "流速頭": "velocity head"
+    },
+    {
+        "分離速度": "velocity of separation"
+    },
+    {
+        "速度剖面": "velocity profile"
+    },
+    {
+        "速度位勢": "velocity potential"
+    },
+    {
+        "速壓;動壓": "velocity pressure"
+    },
+    {
+        "速度搜索": "velocity search (VS)"
+    },
+    {
+        "速度標示": "velocity signature"
+    },
+    {
+        "速度安定性函數": "velocity stability derivatives"
+    },
+    {
+        "速度貯存": "velocity storage"
+    },
+    {
+        "速度向量": "velocity vector"
+    },
+    {
+        "最小噴流面積": "vena contracta"
+    },
+    {
+        "V形發動機": "V-engine"
+    },
+    {
+        "靜脈收縮": "venous contraction"
+    },
+    {
+        "通氣孔": "vent"
+    },
+    {
+        "脊椎": "vertebra"
+    },
+    {
+        "通風;換氣;吹風": "ventilation"
+    },
+    {
+        "通風服": "ventilation garment"
+    },
+    {
+        "腹翅": "ventral fin"
+    },
+    {
+        "機腹炮塔": "ventral gun turret"
+    },
+    {
+        "腹疝氣": "ventral hernia"
+    },
+    {
+        "機腹進氣口": "ventral inlet"
+    },
+    {
+        "心室性期外收縮": "ventricular ectopy"
+    },
+    {
+        "心室性震顫": "ventricular fibrillation"
+    },
+    {
+        "心室肥大": "ventricular hypertrophy"
+    },
+    {
+        "心室性心搏過速": "ventricular tachycardia"
+    },
+    {
+        "心室攝影": "ventriculography"
+    },
+    {
+        "文氏管": "venturi tube"
+    },
+    {
+        "文氏皮托管;文氏動靜壓管": "venturi pitot"
+    },
+    {
+        "金星": "Venus"
+    },
+    {
+        "邊環": "verge ring"
+    },
+    {
+        "驗證": "verification"
+    },
+    {
+        "驗證及確認": "verification and validation"
+    },
+    {
+        "驗證交互參考指標（索引）": "verification cross reference index"
+    },
+    {
+        "驗證膜": "verifilm"
+    },
+    {
+        "春分點": "vernal equinox"
+    },
+    {
+        "微調發動機": "vernier engine"
+    },
+    {
+        "微調火箭": "vernier rocket"
+    },
+    {
+        "頂點": "vertex"
+    },
+    {
+        "直立起降": "vertical-attitude takeoff and landing (VATOL)"
+    },
+    {
+        "垂直軸": "vertical axis"
+    },
+    {
+        "垂直坡度轉彎": "vertical bank"
+    },
+    {
+        "垂直圈": "vertical circle"
+    },
+    {
+        "垂直俯衝": "vertical dive"
+    },
+    {
+        "垂直彈射架": "vertical ejector rack"
+    },
+    {
+        "直立式發動機": "vertical engine"
+    },
+    {
+        "垂直包圍": "vertical envelopment"
+    },
+    {
+        "直尾翅": "vertical fin"
+    },
+    {
+        "垂直陣風": "vertical gust"
+    },
+    {
+        "垂直陀螺儀": "vertical gyro"
+    },
+    {
+        "垂直發射": "vertical launch"
+    },
+    {
+        "俯仰導航": "vertical navigation (VNAV)"
+    },
+    {
+        "垂直（空中）照相": "vertical photograph"
+    },
+    {
+        "垂直彈藥補充（直升機）": "vertical replenishment"
+    },
+    {
+        "垂直反轉": "vertical reverse turn"
+    },
+    {
+        "垂直隔離": "vertical separation"
+    },
+    {
+        "垂直/短場起降": "vertical/short takeoff and landing (V/STOL)"
+    },
+    {
+        "垂直狀態顯示器": "vertical situation display"
+    },
+    {
+        "垂直速率": "vertical speed (VSP)"
+    },
+    {
+        "垂直速率指示表": "vertical speed indicator (VSI)"
+    },
+    {
+        "垂直螺旋": "vertical spin"
+    },
+    {
+        "垂直螺旋風洞": "vertical spin tunnel"
+    },
+    {
+        "垂散開花;垂直分裂": "vertical split"
+    },
+    {
+        "垂直安定面": "vertical stabilizer"
+    },
+    {
+        "垂直條幅式航空照片": "vertical strip"
+    },
+    {
+        "垂直尾翼": "vertical tail"
+    },
+    {
+        "垂直尾翼面積": "vertical tail area"
+    },
+    {
+        "垂直尾面": "vertical tail surface"
+    },
+    {
+        "垂直尾翼組": "vertical tail unit"
+    },
+    {
+        "垂直起飛": "vertical takeoff"
+    },
+    {
+        "垂直起降": "vertical takeoff and landing (VTOL)"
+    },
+    {
+        "垂直升降": "vertical translation"
+    },
+    {
+        "垂直轉彎": "vertical turn"
+    },
+    {
+        "垂直速度": "vertical velocity"
+    },
+    {
+        "垂直速度指示表": "vertical velocity indicator"
+    },
+    {
+        "垂直能見度": "vertical visibility"
+    },
+    {
+        "錯覺模擬機": "vertifuge"
+    },
+    {
+        "暈眩;懼高症": "vertigo"
+    },
+    {
+        "錯覺訓練機": "vertigon"
+    },
+    {
+        "垂直起降點": "vertipad"
+    },
+    {
+        "極高頻": "very high frequency (VHF)"
+    },
+    {
+        "極高頻定向": "very high frequency/direction-finding (VHF/DF)"
+    },
+    {
+        "極高頻全（多）向導航台": "very high frequency omnidirectional radio range (VOR)"
+    },
+    {
+        "特高速積體電路": "very high speed integrated circuit (VHSIC)"
+    },
+    {
+        "極重要人員": "very important person (VIP)"
+    },
+    {
+        "特遠程": "very long range (VLR)"
+    },
+    {
+        "極低消除": "very low clearance"
+    },
+    {
+        "特低頻": "very low frequency (VLF)"
+    },
+    {
+        "特短程": "very short range (VSR)"
+    },
+    {
+        "平衡功能": "vestibular function"
+    },
+    {
+        "視平衡反視": "vestibul-ocular reflex"
+    },
+    {
+        "目視飛行許可": "VFR clearance"
+    },
+    {
+        "目視非管制航路": "VFR freeway"
+    },
+    {
+        "雲上目視飛行": "VFR over-the-top"
+    },
+    {
+        "目視飛行雷達諮詢": "VFR radar advisory"
+    },
+    {
+        "目視飛行隔離標準": "VFR separation standards"
+    },
+    {
+        "目視飛行終點最低限": "VFR terminal minimums"
+    },
+    {
+        "目視飛行天氣": "VFR weather"
+    },
+    {
+        "V-g圖": "V-g Diagram"
+    },
+    {
+        "極高頻歸航接合器": "VHF homing adapter"
+    },
+    {
+        "極高頻全（多）向導航太康台": "VHF omni-directional radio and tactical air navigation (VOR/Tacan)"
+    },
+    {
+        "極高頻全（多）向導航台": "VHF omnidirectional radio range (VOR)"
+    },
+    {
+        "極高頻終端全（多）向導航台": "VHF omnidirectional radio range; terminal (TVOR)"
+    },
+    {
+        "極高頻全向接收機": "VHF omnirange receiver"
+    },
+    {
+        "極高頻/超高頻定向器": "VHF/UHF direction finder"
+    },
+    {
+        "極高頻測向台": "VHF Direction-Finding Station (VDF)"
+    },
+    {
+        "振弦式加速度計": "vibrating spring accelerometer"
+    },
+    {
+        "振動": "vibration"
+    },
+    {
+        "振動控制": "vibration control"
+    },
+    {
+        "振動頻率": "vibration frequency"
+    },
+    {
+        "振動頻率計": "vibration frequency meter"
+    },
+    {
+        "振動電流表": "vibration galvanometer"
+    },
+    {
+        "隔振器": "vibration isolator"
+    },
+    {
+        "振態": "vibration mode"
+    },
+    {
+        "振動試驗": "vibration test"
+    },
+    {
+        "振動單元": "vibrator unit"
+    },
+    {
+        "撞振": "vibro-impact"
+    },
+    {
+        "音波壓力測定器;振動表": "vibrometer"
+    },
+    {
+        "擺矩振動誤差": "vibropendulous error"
+    },
+    {
+        "代償學習": "vicarious learning"
+    },
+    {
+        "勝利者航路": "victor airway"
+    },
+    {
+        "視訊": "video"
+    },
+    {
+        "視訊壓縮": "video compression"
+    },
+    {
+        "視訊分析儀": "video extractor"
+    },
+    {
+        "視訊傳輸線路": "video link"
+    },
+    {
+        "光導攝像管": "vidicon"
+    },
+    {
+        "檢景器": "view finder"
+    },
+    {
+        "警戒": "vigilance"
+    },
+    {
+        "氯乙烯": "vinyl chloride"
+    },
+    {
+        "紫外線": "violet"
+    },
+    {
+        "病毒性肝炎": "viral hepatitis"
+    },
+    {
+        "雨旛": "virga"
+    },
+    {
+        "處女座": "Virgo"
+    },
+    {
+        "虛位移": "virtual displacement"
+    },
+    {
+        "虛力": "virtual force"
+    },
+    {
+        "附加慣性": "virtual inertia"
+    },
+    {
+        "虛質量": "virtual mass"
+    },
+    {
+        "虛設性操作系統": "virtual operation system"
+    },
+    {
+        "虛溫": "virtual temperature"
+    },
+    {
+        "虛功": "virtual work"
+    },
+    {
+        "內臟破裂": "visceral rupture"
+    },
+    {
+        "能見度;可見度": "visibility"
+    },
+    {
+        "黏彈性物質": "viscoelastic material"
+    },
+    {
+        "黏性;黏度": "viscosity"
+    },
+    {
+        "黏性係數": "viscosity coefficient"
+    },
+    {
+        "黏性指數": "viscosity index"
+    },
+    {
+        "黏滯壓力計": "viscosity manometer"
+    },
+    {
+        "黏滯水飄": "viscous aquaplaning"
+    },
+    {
+        "黏性氣流的橫向流動": "viscous crossflow"
+    },
+    {
+        "黏滯阻尼;阻滯": "viscous damping"
+    },
+    {
+        "黏性流動": "viscous flow"
+    },
+    {
+        "黏性流體": "viscous fluid"
+    },
+    {
+        "黏滯力": "viscous force"
+    },
+    {
+        "能見度": "visibility (VIS)"
+    },
+    {
+        "能見度表": "visibility meter"
+    },
+    {
+        "可見地平": "visible horizon"
+    },
+    {
+        "可見光譜": "visible spectrum"
+    },
+    {
+        "視覺": "vision"
+    },
+    {
+        "遮陽板;護目鏡": "visor"
+    },
+    {
+        "護目鏡存放處": "visor stowage"
+    },
+    {
+        "視力敏度;視力": "visual acuity"
+    },
+    {
+        "目視進場": "visual approach"
+    },
+    {
+        "目視進離場保護區": "visual approach and departure protection area"
+    },
+    {
+        "目視進場及降落圖": "visual approach and landing chart (VAL)"
+    },
+    {
+        "目視進場下滑指示器": "visual approach slope indicator (VASI)"
+    },
+    {
+        "目視進場下滑指示系統": "visual approach slope indicator system (VASIS)"
+    },
+    {
+        "視聽無線電導航台": "visual aural radio range (VAR)"
+    },
+    {
+        "視聽導航台": "visual/aural range (VAR)"
+    },
+    {
+        "視聽兩用極高頻導航台": "visual aural VHF radio range"
+    },
+    {
+        "光源自動現象": "visual autokinesis"
+    },
+    {
+        "目視投彈": "visual bombing"
+    },
+    {
+        "目視檢驗表": "visual check list"
+    },
+    {
+        "目視": "visual contact"
+    },
+    {
+        "目視提示": "visual cue"
+    },
+    {
+        "目視範圍": "visual envelope"
+    },
+    {
+        "目視顯示": "visual display"
+    },
+    {
+        "目視顯示單元": "visual display unit"
+    },
+    {
+        "目視飛行": "visual flight"
+    },
+    {
+        "目視飛航規則": "visual flight rules (VFR)"
+    },
+    {
+        "目視飛行模擬器": "visual flight simulator"
+    },
+    {
+        "目視飛行諮詢業務": "visual flight rules advisory service"
+    },
+    {
+        "目視抬頭影像": "visual head-up image"
+    },
+    {
+        "視錯覺": "visual illusion"
+    },
+    {
+        "目視檢查": "visual inspection"
+    },
+    {
+        "目視飛行氣象條件": "visual meterological conditions (VMC)"
+    },
+    {
+        "視覺定位": "visual orientation"
+    },
+    {
+        "視覺感受": "visual perception"
+    },
+    {
+        "顯像": "visualization"
+    },
+    {
+        "目視全向導航台": "visual omnirange"
+    },
+    {
+        "目視測光法": "visual photometry"
+    },
+    {
+        "視程": "visual range"
+    },
+    {
+        "目視參考點": "visual reference"
+    },
+    {
+        "目視間隔": "visual separation"
+    },
+    {
+        "目視信號": "visual signal"
+    },
+    {
+        "軍事要地": "vital area"
+    },
+    {
+        "重要目標": "vital target"
+    },
+    {
+        "玻璃體": "vitreous"
+    },
+    {
+        "語音編碼器": "voice coder"
+    },
+    {
+        "語音通訊": "voice communication"
+    },
+    {
+        "語言通話管制系統": "voice communication and control systems (VCCS)"
+    },
+    {
+        "聲控": "voice control"
+    },
+    {
+        "音頻頻道": "voice-grade channel"
+    },
+    {
+        "語音鍵控": "voice keying"
+    },
+    {
+        "非語音歸航": "voiceless homing"
+    },
+    {
+        "語音信標": "voice rotating beacon"
+    },
+    {
+        "語音綜合器": "voice speech synthesizer"
+    },
+    {
+        "空隙比": "void fraction"
+    },
+    {
+        "揮發性": "volatility"
+    },
+    {
+        "火山灰": "volcanic ash"
+    },
+    {
+        "火山風": "volcanic wind"
+    },
+    {
+        "飛行氣象資料廣播": "VOLMET broadcast"
+    },
+    {
+        "伏特": "volt"
+    },
+    {
+        "交流電壓": "voltage; alternating current"
+    },
+    {
+        "電壓控制振盪器": "voltage controlled oscillator (VCO)"
+    },
+    {
+        "顚值電壓": "voltage; peak-to-peak"
+    },
+    {
+        "電壓駐波比": "voltage standing wave ratio"
+    },
+    {
+        "電壓計": "voltmeter"
+    },
+    {
+        "體積;冊;音量": "volume"
+    },
+    {
+        "容積效率": "volumetric efficiency"
+    },
+    {
+        "螺旋": "volute"
+    },
+    {
+        "腸扭結": "volvulus"
+    },
+    {
+        "馮卡門動量積分方程式": "von Karman momentum integral equation"
+    },
+    {
+        "馮卡門渦列": "von Karman's vortex street"
+    },
+    {
+        "全（多）向導航台": "VOR"
+    },
+    {
+        "全（多）向導航臺收訊機測試設備": "VOR airborne equipment test facility (VOT)"
+    },
+    {
+        "全（多）向導航太康台": "VOR and TACAN combination (VORTAC)"
+    },
+    {
+        "全（多）向導航台/測距儀": "VOR/DME"
+    },
+    {
+        "極高頻全（多）向導航距離儀地面站": "VOR/DME ground station"
+    },
+    {
+        "極高頻全（多）向導航接收機": "VOR-receiver"
+    },
+    {
+        "全（多）向導航太康台": "VORTAC"
+    },
+    {
+        "渦流;渦旋": "vortex"
+    },
+    {
+        "渦流崩解": "vortex breakdown"
+    },
+    {
+        "渦旋崩解": "vortex burst"
+    },
+    {
+        "渦旋圓錐": "vortex cone"
+    },
+    {
+        "渦旋控制器": "vortex control device"
+    },
+    {
+        "渦旋心": "vortex; core of"
+    },
+    {
+        "渦旋阻力": "vortex drag"
+    },
+    {
+        "渦旋線": "vortex filament"
+    },
+    {
+        "渦流": "vortex flow"
+    },
+    {
+        "渦旋產生器": "vortex generator"
+    },
+    {
+        "渦旋危害": "vortex hazard"
+    },
+    {
+        "渦旋誘導速度": "vortex-induced velocities"
+    },
+    {
+        "馬蹄形旋渦": "vortex; horse-shoe"
+    },
+    {
+        "渦流升力": "vortex lift"
+    },
+    {
+        "渦旋線": "vortex line"
+    },
+    {
+        "渦動": "vortex motion"
+    },
+    {
+        "渦流對": "vortex pair"
+    },
+    {
+        "渦旋軌跡": "vortex path"
+    },
+    {
+        "渦流環": "vortex ring"
+    },
+    {
+        "渦流分離": "vortex separation"
+    },
+    {
+        "渦旋面": "vortex sheet"
+    },
+    {
+        "渦街": "vortex street"
+    },
+    {
+        "渦旋強度": "vortex strength"
+    },
+    {
+        "渦旋切線速度": "vortex tangential velocity"
+    },
+    {
+        "渦旋列;渦串": "vortex train"
+    },
+    {
+        "渦流管": "vortex tube"
+    },
+    {
+        "渦旋系": "vortices"
+    },
+    {
+        "渦旋;渦動": "vorticity"
+    },
+    {
+        "渦旋線": "vorticity; line of"
+    },
+    {
+        "渦旋面": "vorticity; sheet of"
+    },
+    {
+        "渦流產生器": "vortillon"
+    },
+    {
+        "莫斯托克太空船（蘇俄）": "Vostok"
+    },
+    {
+        "探險家太空船": "Voyager"
+    },
+    {
+        "垂直/短場起降": "V/STOL"
+    },
+    {
+        "V型尾翼": "V-tail"
+    },
+    {
+        "垂直起降機場": "VTOL port"
+    },
+    {
+        "脆弱區": "vulnerability"
+    },
+    {
+        "脆弱區（點）": "vulnerable area (point)"
+    },
+    {
+        "尖叫音調": "wailing tone"
+    },
+    {
+        "機身中段": "waist"
+    },
+    {
+        "機身縮腰": "waisting; fuselage"
+    },
+    {
+        "缺點免計;豁免": "waiver"
+    },
+    {
+        "尾流": "wake"
+    },
+    {
+        "尾流分析": "wake analysis"
+    },
+    {
+        "尾流效應": "wake effects"
+    },
+    {
+        "尾流互制噪音": "wake-interaction noise"
+    },
+    {
+        "尾流形狀": "wake shape"
+    },
+    {
+        "尾流擾動": "wake-turbulence"
+    },
+    {
+        "手提式氧氣瓶": "walk-around bottle"
+    },
+    {
+        "起落架擺振": "walking; gear"
+    },
+    {
+        "邊壁限制（風洞）": "wall constraint"
+    },
+    {
+        "戰爭消耗品": "war consumer"
+    },
+    {
+        "庫房": "warehouse"
+    },
+    {
+        "作戰緊急馬力": "war-emergency power"
+    },
+    {
+        "戰爭模擬;兵棋": "war game"
+    },
+    {
+        "彈頭": "warhead"
+    },
+    {
+        "爆震彈頭": "warhead; blast"
+    },
+    {
+        "爆震集束彈頭": "warhead-blast cluster"
+    },
+    {
+        "彈頭傳爆管": "warhead-booster"
+    },
+    {
+        "殺傷彈頭": "warhead-fragmenting"
+    },
+    {
+        "彈頭增益": "warhead gain"
+    },
+    {
+        "彈頭威力": "warhead yield"
+    },
+    {
+        "暖鋒": "warm front"
+    },
+    {
+        "暖氣推進器": "warm gas thruster"
+    },
+    {
+        "暖高壓": "warm high"
+    },
+    {
+        "暖低壓": "warm low"
+    },
+    {
+        "暖季": "warm season"
+    },
+    {
+        "暖區": "warm sector"
+    },
+    {
+        "暖舌": "warm tongue"
+    },
+    {
+        "暖舌駛引": "warm tongue steering"
+    },
+    {
+        "暖機": "warm-up"
+    },
+    {
+        "加溫坪": "warm-up apron"
+    },
+    {
+        "暖機時間": "warm-up time"
+    },
+    {
+        "警告區": "warning-area"
+    },
+    {
+        "警告旗": "warning flag"
+    },
+    {
+        "警告喇叭": "warning horn"
+    },
+    {
+        "警示器": "warning indicator"
+    },
+    {
+        "警告燈": "warning light"
+    },
+    {
+        "預警網路": "warning net"
+    },
+    {
+        "警示板": "warning panel"
+    },
+    {
+        "警告標牌": "warning placards"
+    },
+    {
+        "紅色警報": "warning; red"
+    },
+    {
+        "警告": "warnings"
+    },
+    {
+        "警告訊號": "warning signal"
+    },
+    {
+        "警示風標": "warning streamer"
+    },
+    {
+        "警報系統": "warning system"
+    },
+    {
+        "經": "warp"
+    },
+    {
+        "經紗排列": "warp clock"
+    },
+    {
+        "經方向": "warp direction"
+    },
+    {
+        "扭翼": "warped wing"
+    },
+    {
+        "蒙布扭翹": "warp fabric"
+    },
+    {
+        "扭撓函數": "warping function"
+    },
+    {
+        "作戰飛機": "warplane"
+    },
+    {
+        "備戰備用組件": "war-readiness spare kit"
+    },
+    {
+        "戰備物資": "war reserve"
+    },
+    {
+        "華沙公約": "Warsaw Convention"
+    },
+    {
+        "戰時飛行率": "wartime rate"
+    },
+    {
+        "疣化": "warting"
+    },
+    {
+        "尾流;洗流": "wash"
+    },
+    {
+        "墊圈": "washer"
+    },
+    {
+        "內洗": "wash-in"
+    },
+    {
+        "外洗;淘汰": "wash-out"
+    },
+    {
+        "摒棄電路": "wash out circuit"
+    },
+    {
+        "耗損量": "wastage"
+    },
+    {
+        "廢氣門閥": "waste gate valve"
+    },
+    {
+        "列管項目": "watch item"
+    },
+    {
+        "壓艙水": "water ballast"
+    },
+    {
+        "水障": "water barrier"
+    },
+    {
+        "滅火飛機": "water bomber"
+    },
+    {
+        "水車": "water cart"
+    },
+    {
+        "集水槽": "water collecting sump"
+    },
+    {
+        "水雲": "water cloud"
+    },
+    {
+        "防水液": "water-displacing fluid"
+    },
+    {
+        "等量水深": "water equivalent depth"
+    },
+    {
+        "浸於水中": "water immersion"
+    },
+    {
+        "注水": "water injection"
+    },
+    {
+        "水套": "water jacket"
+    },
+    {
+        "水刀": "water jet"
+    },
+    {
+        "吃水線": "waterline"
+    },
+    {
+        "吃水線負載": "water line load"
+    },
+    {
+        "水上地轉": "water loop"
+    },
+    {
+        "液態燃料": "water; rocket"
+    },
+    {
+        "回收水;水中打撈": "water recovery"
+    },
+    {
+        "水舵": "water rudder"
+    },
+    {
+        "分水器": "water separator"
+    },
+    {
+        "水漂": "water skip"
+    },
+    {
+        "水龍捲;噴水口": "waterspout (WTSPT)"
+    },
+    {
+        "充水抗G衣": "water suit"
+    },
+    {
+        "領海": "water; territorial"
+    },
+    {
+        "水汽": "water vapor"
+    },
+    {
+        "瓦特": "Watt"
+    },
+    {
+        "波;海浪": "wave"
+    },
+    {
+        "析波儀": "wave analyzer"
+    },
+    {
+        "震波角": "wave angle"
+    },
+    {
+        "行波天線": "wave antenna"
+    },
+    {
+        "波帶;波段": "waveband"
+    },
+    {
+        "載波": "wave carrier"
+    },
+    {
+        "波道;頻道": "wave channel"
+    },
+    {
+        "波常數": "wave constant"
+    },
+    {
+        "連續波": "wave; continuous"
+    },
+    {
+        "波峰": "wave crest"
+    },
+    {
+        "波（型）氣旋": "wave cyclone"
+    },
+    {
+        "檢波器": "wave detector"
+    },
+    {
+        "導波體": "wave director"
+    },
+    {
+        "波形失真": "wave distortion"
+    },
+    {
+        "波擾動": "wave disturbance"
+    },
+    {
+        "震波阻力": "wave drag"
+    },
+    {
+        "波動方程式": "wave equation"
+    },
+    {
+        "濾波器": "wave filter"
+    },
+    {
+        "波形": "waveform"
+    },
+    {
+        "波頻": "wave frequency"
+    },
+    {
+        "波前;波面": "wave front"
+    },
+    {
+        "導波管": "waveguide"
+    },
+    {
+        "波導耦合器": "waveguide coupler"
+    },
+    {
+        "導波管肘": "waveguide elbow"
+    },
+    {
+        "導波管系": "waveguide plumbing"
+    },
+    {
+        "導波栓": "waveguide plunger"
+    },
+    {
+        "波長": "wave length"
+    },
+    {
+        "子波": "wavelet"
+    },
+    {
+        "成波阻力": "wave making resistance"
+    },
+    {
+        "波動力學": "wave mechanics"
+    },
+    {
+        "測波表": "wave meter"
+    },
+    {
+        "電波鏡": "wave mirror"
+    },
+    {
+        "波動": "wave motion"
+    },
+    {
+        "後退波動": "wave motion; retrogressive"
+    },
+    {
+        "波數": "wave number"
+    },
+    {
+        "重飛（英）": "waveoff"
+    },
+    {
+        "波傳播": "wave propagation"
+    },
+    {
+        "波型": "waveshape"
+    },
+    {
+        "整波線路": "wave-shaping circuit"
+    },
+    {
+        "波列頻率": "wave-train frequency"
+    },
+    {
+        "陷波器": "wave-trap"
+    },
+    {
+        "波谷": "wave trough"
+    },
+    {
+        "波速": "wave velocity"
+    },
+    {
+        "貨運提單": "waybill"
+    },
+    {
+        "航線參考點;路標點": "way point (WPT)"
+    },
+    {
+        "導航點號碼": "way point number"
+    },
+    {
+        "弱扣環": "weak link"
+    },
+    {
+        "貧油混合氣": "weak mixture"
+    },
+    {
+        "武器": "weapon"
+    },
+    {
+        "武器瞄準系統": "weapon-aiming system"
+    },
+    {
+        "武器艙": "weapon bay"
+    },
+    {
+        "武器懸掛架": "weapon carriage"
+    },
+    {
+        "武器管制官": "weapon controller"
+    },
+    {
+        "武器控制系統": "weapon control system"
+    },
+    {
+        "核彈碎片": "weapon debris"
+    },
+    {
+        "武器資料輸入面板": "weapon data input panel"
+    },
+    {
+        "武器投擲面板": "weapon delivery panel"
+    },
+    {
+        "導能武器": "weapon; directed energy"
+    },
+    {
+        "武器插入面板": "weapon insert panel"
+    },
+    {
+        "動能武器": "weapon; kinetic energy"
+    },
+    {
+        "武器多工匯流排": "weapon multiplex data bus"
+    },
+    {
+        "毀滅性武器": "weapon of mass destruction"
+    },
+    {
+        "武器投擲": "weapon release"
+    },
+    {
+        "精靈武器": "weapon; smart"
+    },
+    {
+        "戰備狀態": "weapon state of readiness"
+    },
+    {
+        "武器系統": "weapon system"
+    },
+    {
+        "武器系統規格": "weapon system specification"
+    },
+    {
+        "武器型類": "weapon type"
+    },
+    {
+        "磨損": "wear out"
+    },
+    {
+        "磨損期": "wear out period"
+    },
+    {
+        "天氣;氣候": "weather (WX)"
+    },
+    {
+        "天氣無效架次": "weather-abort"
+    },
+    {
+        "氣象諮詢": "weather advisory"
+    },
+    {
+        "天氣分析": "weather analysis"
+    },
+    {
+        "氣象偵察波束": "weather beam"
+    },
+    {
+        "氣候分類": "weather categories"
+    },
+    {
+        "氣象中心": "weather center"
+    },
+    {
+        "天氣圖": "weather chart"
+    },
+    {
+        "風標": "weathercock"
+    },
+    {
+        "風性;風標效應": "weathercocking"
+    },
+    {
+        "方向穩定性": "weathercock stability"
+    },
+    {
+        "天氣預報": "weather forecast"
+    },
+    {
+        "天氣圖": "weather map"
+    },
+    {
+        "最低天氣標準": "weather minimum"
+    },
+    {
+        "天氣改造": "weather modification"
+    },
+    {
+        "天氣觀察": "weather observation"
+    },
+    {
+        "氣象雷達": "weather radar"
+    },
+    {
+        "氣候偵察": "weather reconnaissance"
+    },
+    {
+        "氣象衛星": "weather satellite"
+    },
+    {
+        "氣象台": "weather station"
+    },
+    {
+        "氣象要素符號": "weather symbols"
+    },
+    {
+        "天氣類型": "weather type"
+    },
+    {
+        "定向風尾;風標": "weather vane"
+    },
+    {
+        "編織": "weave"
+    },
+    {
+        "護航機": "weaver"
+    },
+    {
+        "腹板": "web"
+    },
+    {
+        "分隔平均燃燒表面積（固體火箭）": "web average burning-surface area"
+    },
+    {
+        "編織材料": "webbing"
+    },
+    {
+        "曲軸臂": "web; crank"
+    },
+    {
+        "腹板接合": "web joint"
+    },
+    {
+        "腹板接片": "web splices"
+    },
+    {
+        "楔": "wedge"
+    },
+    {
+        "楔角": "wedge angle"
+    },
+    {
+        "楔形進氣道": "wedge inlet"
+    },
+    {
+        "緯": "weft"
+    },
+    {
+        "衡重雨量計": "weighing rain-gauge"
+    },
+    {
+        "重量": "weight"
+    },
+    {
+        "稱重和定重心工程師": "weight-and-balance engineer"
+    },
+    {
+        "載重平衡表": "weight and balance sheet"
+    },
+    {
+        "飛行重量": "weight; airborne"
+    },
+    {
+        "飛機之飛行總重量": "weight; aircraft all-up"
+    },
+    {
+        "最大飛行重量": "weight; allowable gross"
+    },
+    {
+        "最大起飛重量": "weight; allowable gross takeoff"
+    },
+    {
+        "壓艙配重": "weight; ballast"
+    },
+    {
+        "衡重氣壓表": "weight barometer"
+    },
+    {
+        "重量分配": "weight breakdown"
+    },
+    {
+        "殼體重量（火箭）": "weight; case"
+    },
+    {
+        "燃燒室呆重": "weight; chamber dead"
+    },
+    {
+        "淨形重量（飛機無外掛物時的重量）": "weight; clean"
+    },
+    {
+        "設計滑行重量": "weight; design taxing"
+    },
+    {
+        "重量估算": "weight; estimation"
+    },
+    {
+        "發射重量（火箭）": "weight; firing"
+    },
+    {
+        "軌道重量": "weight; in-orbit"
+    },
+    {
+        "平均載油重量": "weight; intermediate fuel"
+    },
+    {
+        "平均飛行重量": "weight; intermediate gross"
+    },
+    {
+        "起飛重量": "weight; laden"
+    },
+    {
+        "著陸重量": "weight; landing (LW)"
+    },
+    {
+        "失重": "weightlessness (zero gravity)"
+    },
+    {
+        "起飛重量（火箭）": "weight; lift-off"
+    },
+    {
+        "最大規定起飛重量": "weight; maximum certificated takeoff"
+    },
+    {
+        "最大特許起飛重量": "weight; maximum licensed takeoff"
+    },
+    {
+        "著陸重量": "weight on wheels (WOW)"
+    },
+    {
+        "發射重量（火箭）": "weight; pad"
+    },
+    {
+        "重量參數": "weight; parameters"
+    },
+    {
+        "單位馬力重量": "weight per horsepower"
+    },
+    {
+        "機坪重量": "weight; ramp"
+    },
+    {
+        "重量報告": "weight report"
+    },
+    {
+        "火箭發動機溼重": "weight; rocket-engine wet"
+    },
+    {
+        "載重程序表": "weight schedule"
+    },
+    {
+        "戰術基本重量": "weight; tactical basic"
+    },
+    {
+        "起飛重量": "weight; takeoff (TOW)"
+    },
+    {
+        "不平衡重量": "weight; unbalanced"
+    },
+    {
+        "無燃料重量": "weight; zero fuel"
+    },
+    {
+        "堰": "weir"
+    },
+    {
+        "焊接補片": "welded patch"
+    },
+    {
+        "焊接器;焊接機": "welder"
+    },
+    {
+        "對接焊接機": "welder; buttjoint"
+    },
+    {
+        "焊接": "welding"
+    },
+    {
+        "焊接護目鏡": "welding goggles"
+    },
+    {
+        "焊接接合": "welding joint"
+    },
+    {
+        "焊條": "welding rod"
+    },
+    {
+        "焊接氣炬": "welding torch"
+    },
+    {
+        "焊製件": "weldment"
+    },
+    {
+        "輪艙": "well"
+    },
+    {
+        "W形發動機": "W-engine"
+    },
+    {
+        "西風帶": "westerlies"
+    },
+    {
+        "西風波": "westerly wave"
+    },
+    {
+        "西經": "western longitude"
+    },
+    {
+        "西北西": "west north west (WNW)"
+    },
+    {
+        "西南西": "west south west (WSW)"
+    },
+    {
+        "濕球位溫": "wet-bulb potential temperature"
+    },
+    {
+        "濕球溫度": "wet bulb temperature"
+    },
+    {
+        "濕球溫度計": "wet-bulb thermometer"
+    },
+    {
+        "重濕氣候": "wet climate"
+    },
+    {
+        "發射用冷卻水池": "wet emplacement"
+    },
+    {
+        "濕發動機": "wet engine"
+    },
+    {
+        "濕浮筒": "wet float"
+    },
+    {
+        "濕燃料火箭": "wet fuel rocket"
+    },
+    {
+        "濕氫彈": "wet H-bomb"
+    },
+    {
+        "濕式疊層": "wet layup"
+    },
+    {
+        "濕租": "wet lease"
+    },
+    {
+        "溼潤": "wetout"
+    },
+    {
+        "水冷式發射台": "wet pad"
+    },
+    {
+        "沉式反潛偵測器": "wet sensor"
+    },
+    {
+        "濕起動（發動機）": "wet start"
+    },
+    {
+        "濕強度": "wet strength"
+    },
+    {
+        "濕道面": "wet surface"
+    },
+    {
+        "濕機匣": "wet sump"
+    },
+    {
+        "濕起飛馬力": "wet take-off power"
+    },
+    {
+        "濕起飛推力": "wet take-off thrust"
+    },
+    {
+        "潤濕劑": "wetting agent"
+    },
+    {
+        "濕重": "wet weight"
+    },
+    {
+        "濕式纏繞": "wet winding"
+    },
+    {
+        "整體油箱機翼": "wet wing"
+    },
+    {
+        "燃料箱工場": "wet workshop"
+    },
+    {
+        "輪;機輪": "wheel"
+    },
+    {
+        "鼻輪引致俯仰振動;鼻輪承載超重": "wheelbarrowing"
+    },
+    {
+        "輪基距": "wheelbase"
+    },
+    {
+        "輪型裝甲車": "wheeled armoured vehicle"
+    },
+    {
+        "抬尾式著陸": "wheeler"
+    },
+    {
+        "機輪負載": "wheel load"
+    },
+    {
+        "機輪負載容量": "wheel load capacity"
+    },
+    {
+        "轉動模式（衛星穩定）": "wheel mode"
+    },
+    {
+        "機輪減阻罩": "wheel pants"
+    },
+    {
+        "輪形衛星": "wheel satellite"
+    },
+    {
+        "輪橇式起落架": "wheel-ski"
+    },
+    {
+        "輪速靈敏度": "wheel speed sensitivity"
+    },
+    {
+        "收機輪;起落架收起": "wheel up"
+    },
+    {
+        "輪艙": "wheel well"
+    },
+    {
+        "輪軌距": "wheel track"
+    },
+    {
+        "機腹落地": "wheelup landing"
+    },
+    {
+        "報告機上識別器型別": "which transponder"
+    },
+    {
+        "升失速": "whipstall"
+    },
+    {
+        "旋翼機": "whirlbird"
+    },
+    {
+        "旋轉振態": "whirling mode"
+    },
+    {
+        "旋轉溫度計": "whirling thermometer"
+    },
+    {
+        "旋式顫振": "whirl mode flutter"
+    },
+    {
+        "旋翼": "whirl wing"
+    },
+    {
+        "旋風": "whirl wind"
+    },
+    {
+        "觸鬚;短鬚;晶鬚": "whisker"
+    },
+    {
+        "呼嘯風": "whistling wind"
+    },
+    {
+        "白色警報": "white alert"
+    },
+    {
+        "透明體（電磁波）": "white body"
+    },
+    {
+        "白指症;振動症候群": "white finger syndrome"
+    },
+    {
+        "重白霜": "white frost"
+    },
+    {
+        "白色儀器飛行證": "white instrument rating"
+    },
+    {
+        "白雜訊": "white noise"
+    },
+    {
+        "白視": "white out"
+    },
+    {
+        "白朦天;白盲": "whiteout"
+    },
+    {
+        "無塵室": "white room"
+    },
+    {
+        "白沙試驗場（美）": "White Sand Proving Ground"
+    },
+    {
+        "白沙飛彈試驗場（美）": "White Sand Missile Range (WSMR)"
+    },
+    {
+        "現貨待售飛機": "white tail airplane"
+    },
+    {
+        "白色警報": "white warning"
+    },
+    {
+        "整體輻射計數器": "whole body counter"
+    },
+    {
+        "全程": "whole range"
+    },
+    {
+        "廣角瞄準窗": "wideangle collimating window"
+    },
+    {
+        "廣角抬頭顯示器": "wide-angle head-up displays"
+    },
+    {
+        "廣角視訊掃描抬頭顯示器": "wide-angle raster-video HUD (WARHUD)"
+    },
+    {
+        "寬頻帶": "wide band"
+    },
+    {
+        "廣體噴射機": "wide-body jet"
+    },
+    {
+        "全開": "wide open"
+    },
+    {
+        "領悉照辦": "wilco"
+    },
+    {
+        "魏爾德風檔;雨量筒柵": "Wild fence"
+    },
+    {
+        "有意失當行為": "wilful misconduct"
+    },
+    {
+        "臚底環狀血管圈": "willis circle"
+    },
+    {
+        "威爾遜雲室": "Wilson cloud chamber"
+    },
+    {
+        "絞盤發射（滑翔機）": "winch launch"
+    },
+    {
+        "絞盤操作員（救護直升機）": "winchman"
+    },
+    {
+        "風向偏差;風向偏修正": "windage"
+    },
+    {
+        "高空風": "wind aloft"
+    },
+    {
+        "高空風報告": "wind aloft report"
+    },
+    {
+        "風向角": "wind angle"
+    },
+    {
+        "風軸": "wind axes"
+    },
+    {
+        "翼排燈": "wing bar lights (WBAR)"
+    },
+    {
+        "風爆": "windblast"
+    },
+    {
+        "靜風": "wind calm"
+    },
+    {
+        "風寒": "wind chill"
+    },
+    {
+        "風分量": "wind component"
+    },
+    {
+        "風帶": "wind cone"
+    },
+    {
+        "風況": "wind condition"
+    },
+    {
+        "風向修正角": "wind correction angle"
+    },
+    {
+        "風向": "wind direction"
+    },
+    {
+        "風向指示器": "wind direction indicator (WDI)"
+    },
+    {
+        "風向桿": "wind direction shaft"
+    },
+    {
+        "風界": "wind divide"
+    },
+    {
+        "偏流;風偏航": "wind draft"
+    },
+    {
+        "風因數": "wind factor"
+    },
+    {
+        "風波動": "wind fluctuation"
+    },
+    {
+        "陣風": "wind; gust"
+    },
+    {
+        "風力指示器": "wind; indicator"
+    },
+    {
+        "纏繞花樣": "winding pattern"
+    },
+    {
+        "風負載": "wind load"
+    },
+    {
+        "風車;直升機": "wind mill"
+    },
+    {
+        "風轉（發動機）": "wind milling"
+    },
+    {
+        "甲板上風速": "wind-over-deck speed"
+    },
+    {
+        "雷達干擾片;雷達回波窗;視窗": "window"
+    },
+    {
+        "干擾火箭": "window rocket"
+    },
+    {
+        "波浪狀雲": "window cloud"
+    },
+    {
+        "飛安視窗": "window; safety"
+    },
+    {
+        "氣流型飛行": "wind pattern flying"
+    },
+    {
+        "風力衝壓效應": "wind ram effects"
+    },
+    {
+        "風向圖": "wind rose"
+    },
+    {
+        "風級": "wind scale"
+    },
+    {
+        "風幕": "wind screen"
+    },
+    {
+        "擋風玻璃": "windscreen panel"
+    },
+    {
+        "擋風雨刷": "windscreen wiper"
+    },
+    {
+        "風切": "wind shear"
+    },
+    {
+        "風切指示器": "wind shear indicator (WSI)"
+    },
+    {
+        "風檔": "wind shield"
+    },
+    {
+        "雨刷": "wind shield wiper"
+    },
+    {
+        "風度線": "wind shift line"
+    },
+    {
+        "風袋": "wind sleeve"
+    },
+    {
+        "風向袋": "wind sock"
+    },
+    {
+        "風速": "wind speed"
+    },
+    {
+        "氣流": "wind stream"
+    },
+    {
+        "T字布": "wind tee"
+    },
+    {
+        "風標": "wind tetrahedron"
+    },
+    {
+        "風向三角形": "wind triangle"
+    },
+    {
+        "風洞": "wind tunnel"
+    },
+    {
+        "風洞平衡區": "wind tunnel balance"
+    },
+    {
+        "風洞模型": "wind tunnel model"
+    },
+    {
+        "繞緊轉彎": "wind up turn"
+    },
+    {
+        "風標": "wind vane"
+    },
+    {
+        "風向量": "wind vector"
+    },
+    {
+        "風速度": "wind velocity"
+    },
+    {
+        "迎風向;上風": "windward"
+    },
+    {
+        "翼;聯隊": "wing"
+    },
+    {
+        "大後掠三角翼": "wing; acute delta"
+    },
+    {
+        "可變翼": "wing; adjustable"
+    },
+    {
+        "等匝角翼（只彎不扭翼）": "wing; aeroisoclinic"
+    },
+    {
+        "空軍聯隊;飛行聯隊": "wing; air"
+    },
+    {
+        "僚機": "wing aircraft"
+    },
+    {
+        "機翼天線": "wing antenna"
+    },
+    {
+        "機翼面積": "wing area"
+    },
+    {
+        "機翼面積效應": "wing area effect"
+    },
+    {
+        "機翼安排": "wing arrangement"
+    },
+    {
+        "翼軸": "wing axis"
+    },
+    {
+        "後掠翼": "wing; backswept"
+    },
+    {
+        "側排燈": "wingbar"
+    },
+    {
+        "基地聯隊": "wing; base"
+    },
+    {
+        "基本翼": "wing; basis"
+    },
+    {
+        "翼艙": "wing bay"
+    },
+    {
+        "撲翼": "wing; beating"
+    },
+    {
+        "翼身融合": "wingbody blending"
+    },
+    {
+        "翼身合體": "wingbody"
+    },
+    {
+        "翼身干擾": "wing-body interference"
+    },
+    {
+        "翼載飛行": "wing-borne flight"
+    },
+    {
+        "翼盒": "wing box"
+    },
+    {
+        "機翼支張": "wing bracing"
+    },
+    {
+        "翼根": "wing butt"
+    },
+    {
+        "旁艇": "wing car (side car)"
+    },
+    {
+        "翼胞": "wing cell (cellule)"
+    },
+    {
+        "翼弦": "wing chord"
+    },
+    {
+        "圓形機翼": "wing; circular"
+    },
+    {
+        "（雙凸）圓弧形機翼": "wing; circular-arc"
+    },
+    {
+        "聯隊長": "wing commander"
+    },
+    {
+        "翼內全部可裝燃料的機翼": "wing; completely wet"
+    },
+    {
+        "複合翼": "wing; composite"
+    },
+    {
+        "錐形截面機翼": "wing; conical"
+    },
+    {
+        "等弦機翼": "wing; constant chord"
+    },
+    {
+        "翼控制": "wing control"
+    },
+    {
+        "機翼蒙皮": "wing covering"
+    },
+    {
+        "十字形翼（飛彈）": "wing; cross"
+    },
+    {
+        "機翼曲率": "wing curvature"
+    },
+    {
+        "大翼弦機翼": "wing; deep"
+    },
+    {
+        "差動偏轉翼": "wing; differentially pivoted"
+    },
+    {
+        "菱形截面機翼": "wing; double-wedge"
+    },
+    {
+        "機翼阻力": "wing drag"
+    },
+    {
+        "翼下垂": "wing drop"
+    },
+    {
+        "無油箱機翼": "wing; dry"
+    },
+    {
+        "機翼整流片": "wing fairing"
+    },
+    {
+        "翼面擋流板;翼刀": "wing fence"
+    },
+    {
+        "機翼整型片": "wing fillet"
+    },
+    {
+        "襟翼": "wing flap"
+    },
+    {
+        "富勒式襟翼": "wing flap; Fowler"
+    },
+    {
+        "撲翼": "wing; flapping"
+    },
+    {
+        "柔性（機）翼": "wing; flexible"
+    },
+    {
+        "完全處於螺旋槳尾流中的機翼": "wing; fully immersed"
+    },
+    {
+        "翼身干擾": "wing fuselage interference"
+    },
+    {
+        "翼隙": "wing gap"
+    },
+    {
+        "翼起落架": "wing gear"
+    },
+    {
+        "前緣凸齒翼": "wing; gloved"
+    },
+    {
+        "翼槍": "wing gun"
+    },
+    {
+        "翼重": "wing heavy"
+    },
+    {
+        "翼絞": "wing hinge"
+    },
+    {
+        "機翼照明燈": "wing illumination light"
+    },
+    {
+        "機翼傾角": "wing incidence"
+    },
+    {
+        "地面效應翼載具": "wing in ground effect (WIGE) vehicle"
+    },
+    {
+        "翼翹;小翼": "winglet"
+    },
+    {
+        "機翼負載": "wing loading"
+    },
+    {
+        "主翼": "wing; main"
+    },
+    {
+        "僚機": "wing man"
+    },
+    {
+        "機翼力矩": "wing moment"
+    },
+    {
+        "硬殼機翼": "wing; monocoque"
+    },
+    {
+        "翼形螺帽": "wing nut"
+    },
+    {
+        "斜翼機": "wing; oblique"
+    },
+    {
+        "翻轉": "wingover"
+    },
+    {
+        "翼外罩": "wing overhang"
+    },
+    {
+        "翼段": "wing panel"
+    },
+    {
+        "機翼平面形狀": "wing planform"
+    },
+    {
+        "滑翔翼": "wing; paraglider"
+    },
+    {
+        "偏轉翼": "wing; pivoting"
+    },
+    {
+        "翼剖面": "wing profile"
+    },
+    {
+        "翼內散熱器": "wing radiator"
+    },
+    {
+        "衝翼（氣墊船）": "wing; ram"
+    },
+    {
+        "特薄機翼": "wing; razor-thin"
+    },
+    {
+        "翼反力": "wing reaction"
+    },
+    {
+        "翼參考線": "wing reference line"
+    },
+    {
+        "可收翼": "wing; retractable"
+    },
+    {
+        "翼肋": "wing rib"
+    },
+    {
+        "假翼肋": "wing rib; former"
+    },
+    {
+        "翼根": "wing root"
+    },
+    {
+        "翼根整流罩": "wing root fairing"
+    },
+    {
+        "碟形機翼": "wing; saucer-shaped"
+    },
+    {
+        "浮翼（水上飛機）": "wing; sea"
+    },
+    {
+        "翼形螺釘;螺旋": "wing screw"
+    },
+    {
+        "翼剖面": "wing section"
+    },
+    {
+        "半張臂翼": "wing; semicantilever"
+    },
+    {
+        "銳緣機翼": "wing; sharp"
+    },
+    {
+        "發射井飛彈聯隊": "wing; silo"
+    },
+    {
+        "機翼骨架": "wing skeleton"
+    },
+    {
+        "翼梢橇": "wing skid"
+    },
+    {
+        "平板機翼": "wing; slab"
+    },
+    {
+        "低展弦比機翼": "wing; slender"
+    },
+    {
+        "轉掠翼": "wing; slewed"
+    },
+    {
+        "開縫翼": "wing; slotted"
+    },
+    {
+        "實心翼": "wing; solid"
+    },
+    {
+        "翼展": "wing span"
+    },
+    {
+        "翼樑": "wing spar"
+    },
+    {
+        "翼展": "wing; spread of"
+    },
+    {
+        "可變後掠機翼": "wing; spread-out"
+    },
+    {
+        "應力蒙皮機翼": "wing; stressed-skin"
+    },
+    {
+        "翼支柱": "wing strut"
+    },
+    {
+        "翼根": "wing stump"
+    },
+    {
+        "有支柱翼": "wing; strutted"
+    },
+    {
+        "後掠翼": "wing; swept back"
+    },
+    {
+        "變後掠機翼": "wing; swing"
+    },
+    {
+        "機翼與尾翼干擾": "wing-tail interference"
+    },
+    {
+        "串聯式機翼": "wing; tandem"
+    },
+    {
+        "機翼油箱": "wing tank"
+    },
+    {
+        "機翼的相對厚度": "wing thickness ratio"
+    },
+    {
+        "翼尖": "wing tip"
+    },
+    {
+        "翼尖副翼": "wing-tip aileron"
+    },
+    {
+        "翼尖間隔": "wing-tip clearance"
+    },
+    {
+        "翼尖著陸照明彈": "wing-tip flare"
+    },
+    {
+        "翼尖浮筒": "wing-tip float"
+    },
+    {
+        "翼尖燈": "wing-tip light"
+    },
+    {
+        "翼尖滑橇": "wing-tip skid"
+    },
+    {
+        "翼尖尾燈": "wing-tip tail light"
+    },
+    {
+        "翼尖油箱": "wing-tip tank"
+    },
+    {
+        "翼尖渦旋": "wing-tip vortex"
+    },
+    {
+        "上翼": "wing; top"
+    },
+    {
+        "粘絲線的機翼（研究流場用）": "wing; tufted"
+    },
+    {
+        "上翼面": "wing upper surface"
+    },
+    {
+        "機翼渦系": "wing vortices"
+    },
+    {
+        "翼上走道": "wing walk"
+    },
+    {
+        "翼尖監護員": "wing walker"
+    },
+    {
+        "內洗機翼": "wing; wash-in"
+    },
+    {
+        "外洗機翼": "wing; wash-out"
+    },
+    {
+        "撲翼": "wing; waving"
+    },
+    {
+        "有防冰裝置的機翼": "wing; winterized"
+    },
+    {
+        "木質機翼": "wing; wooden"
+    },
+    {
+        "冬至": "winter solstice"
+    },
+    {
+        "雨刷": "wiper"
+    },
+    {
+        "氈刷": "wiper; felt"
+    },
+    {
+        "括油漲圈": "wipe-ring"
+    },
+    {
+        "線": "wire"
+    },
+    {
+        "擋阻索": "wire; arrester"
+    },
+    {
+        "接地線": "wire; bounding"
+    },
+    {
+        "小孔線網": "wire; chicken"
+    },
+    {
+        "抽製線": "wire; draw"
+    },
+    {
+        "電傳飛控": "wire; fly-by"
+    },
+    {
+        "金屬網篩": "wire mesh"
+    },
+    {
+        "有線探空儀": "wiresonde"
+    },
+    {
+        "撞電線失事": "wire strike"
+    },
+    {
+        "線束": "wiring"
+    },
+    {
+        "線路數據": "wiring data"
+    },
+    {
+        "線路圖及數據": "wiring diagrams and data"
+    },
+    {
+        "佈線圖儲存系統": "wiring diagram storage system"
+    },
+    {
+        "搖擺盤": "wobble plate"
+    },
+    {
+        "手搖泵": "wobble pump"
+    },
+    {
+        "擺動訊號產生器": "wobbulator"
+    },
+    {
+        "陣發性心博過速現象": "Wolff-Parkinson-White EKG Pattern"
+    },
+    {
+        "理想炸彈": "wooden bomb"
+    },
+    {
+        "卷毛雲": "woolpack cloud"
+    },
+    {
+        "武麥拉火箭試驗場": "Woomera rocket range"
+    },
+    {
+        "功": "work"
+    },
+    {
+        "作功因數": "work done factor"
+    },
+    {
+        "工作記憶": "working memory"
+    },
+    {
+        "工作物質": "working substance"
+    },
+    {
+        "施工中": "work in progress (WIP)"
+    },
+    {
+        "工作期;施工期": "work life"
+    },
+    {
+        "工作負荷": "workload"
+    },
+    {
+        "工作平面佈置": "work place layout"
+    },
+    {
+        "工作休息週期": "work rest cycle"
+    },
+    {
+        "工作時程表": "work schedule"
+    },
+    {
+        "工作單元代碼": "work unit code"
+    },
+    {
+        "缺點之工作代號": "work unit code for discrepancy"
+    },
+    {
+        "世界航空圖": "world aeronautical chart"
+    },
+    {
+        "世界衛生組織": "World Health Organization (WHO)"
+    },
+    {
+        "世界氣象組織": "World Meterological Organization (WMO)"
+    },
+    {
+        "世界多圖錐投影方格": "world polyconic grid"
+    },
+    {
+        "殘骸分佈圖": "wreckage distribution diagram"
+    },
+    {
+        "扳手": "wrenches"
+    },
+    {
+        "萊特兄弟": "Wright Brothers"
+    },
+    {
+        "高級特技飛行": "wring out"
+    },
+    {
+        "起皺;蒙皮挫曲": "wrinkle"
+    },
+    {
+        "錄像偏壓": "write bias"
+    },
+    {
+        "W形機翼": "W-wing"
+    },
+    {
+        "發射時刻（火箭）": "X"
+    },
+    {
+        "X軸晶體": "X-cut crystal"
+    },
+    {
+        "X型發動機": "X engine"
+    },
+    {
+        "氙（氣體名）": "Xenon"
+    },
+    {
+        "發射機關斷燈": "xmtr off light"
+    },
+    {
+        "發射機調諧燈": "xmtr tune light"
+    },
+    {
+        "實驗型飛機": "X-plane"
+    },
+    {
+        "X減時間": "X-time"
+    },
+    {
+        "X加時間": "X+time"
+    },
+    {
+        "不適飛行天氣": "X weather"
+    },
+    {
+        "X翼機": "X wing"
+    },
+    {
+        "染料": "xylidine"
+    },
+    {
+        "八木天線": "Yagi antenna"
+    },
+    {
+        "碼": "yard (YD)"
+    },
+    {
+        "線股;紗": "yarn"
+    },
+    {
+        "偏航;偏流": "yaw"
+    },
+    {
+        "偏航角": "yaw angle"
+    },
+    {
+        "偏航軸;垂直軸": "yaw axis"
+    },
+    {
+        "偏航控制": "yaw control"
+    },
+    {
+        "偏航控制增益系統": "yaw control augmentation system"
+    },
+    {
+        "抗偏器": "yaw damper"
+    },
+    {
+        "偏航力矩": "yawing moment"
+    },
+    {
+        "偏航力矩係數": "yawing moment coefficient"
+    },
+    {
+        "滾轉偏航力矩係數": "yawing moment-due-to roll"
+    },
+    {
+        "側滑偏航力矩係數": "yawing moment-due-to sideslip"
+    },
+    {
+        "偏航表": "yawmeter"
+    },
+    {
+        "偏航失穩": "yaw unstability"
+    },
+    {
+        "側滑片": "yaw vane"
+    },
+    {
+        "Y軸晶體": "Y-cut crystal"
+    },
+    {
+        "天文年（365天5時48分53.16秒）": "year; astronomical"
+    },
+    {
+        "閏年": "year; bissextile"
+    },
+    {
+        "宇宙年（太陽銀河系自轉一週的時間）": "year; cosmic"
+    },
+    {
+        "閏年": "year; leap"
+    },
+    {
+        "太陽年（365天5時48分45.68秒）": "year; solar"
+    },
+    {
+        "黃色警報": "yellow alert"
+    },
+    {
+        "跑道燈光之黃色注意地帶": "yellow caution zone (YCZ)"
+    },
+    {
+        "黃熱病": "yellow fever"
+    },
+    {
+        "黃色背心": "yellow jacket"
+    },
+    {
+        "黃雪": "yellow snow"
+    },
+    {
+        "黃色警報": "yellow warning"
+    },
+    {
+        "黃風": "yellow wind"
+    },
+    {
+        "爆炸威力": "yield; explosive"
+    },
+    {
+        "降伏係數": "yield; factor"
+    },
+    {
+        "降伏負載": "yield load"
+    },
+    {
+        "收益管理": "yield management"
+    },
+    {
+        "降伏點": "yield point"
+    },
+    {
+        "降伏強度": "yield strength"
+    },
+    {
+        "降伏應力": "yield stress"
+    },
+    {
+        "降伏抗張應力": "yield tensile stress"
+    },
+    {
+        "駕駛盤": "yoke"
+    },
+    {
+        "楊氏係數": "Young's modulus"
+    },
+    {
+        "越躍": "yo-yo"
+    },
+    {
+        "早期後緣翼的一種": "Zapp flap"
+    },
+    {
+        "Z信標": "Z-beacon"
+    },
+    {
+        "Z修正量": "Z correction"
+    },
+    {
+        "格林威治標準時間": "Zebra time"
+    },
+    {
+        "ZZ進場系統": "Zed-Zed"
+    },
+    {
+        "天頂": "zenith"
+    },
+    {
+        "天頂雨": "zenithal rains"
+    },
+    {
+        "天頂距": "zenith distance"
+    },
+    {
+        "天頂天底軸": "zenith nadir axis"
+    },
+    {
+        "熱力學第零定律": "zeroth law of thermodynamics"
+    },
+    {
+        "和風;夏季暖風": "zephyr"
+    },
+    {
+        "齊柏林（飛船）": "Zeppelin"
+    },
+    {
+        "零;零點;零位;零度": "zero"
+    },
+    {
+        "零方位": "zero azimuth"
+    },
+    {
+        "零高雲幕": "zero ceiling"
+    },
+    {
+        "無缺點": "zero defect"
+    },
+    {
+        "零頻率鑑別器": "zero frequency discriminator"
+    },
+    {
+        "無油重量（最大起飛重量減去燃料重）": "zero fuel weight (ZFW)"
+    },
+    {
+        "無重狀態": "zero gravity"
+    },
+    {
+        "零爬升梯度高度": "zero-gross gradient"
+    },
+    {
+        "開始時間": "zero hour"
+    },
+    {
+        "零長發射器（無導管）": "zero launcher"
+    },
+    {
+        "零長": "zero length"
+    },
+    {
+        "零長發射": "zero length launching (Zell)"
+    },
+    {
+        "零升力角": "zero lift angle"
+    },
+    {
+        "零升力攻角": "zero lift angle of attack"
+    },
+    {
+        "零升力弦": "zero-lift chord"
+    },
+    {
+        "零升力阻力": "zero lift drag"
+    },
+    {
+        "零升力線": "zero lift line"
+    },
+    {
+        "零升力力矩": "zero-lift moment"
+    },
+    {
+        "零升力彈道": "zero lift trajectory"
+    },
+    {
+        "基準記號": "zero mark"
+    },
+    {
+        "零子午線": "Zero Meridian"
+    },
+    {
+        "零度測量法": "zero method"
+    },
+    {
+        "零偏": "zero offset"
+    },
+    {
+        "零相變換": "zero phase shift"
+    },
+    {
+        "零位": "zero position"
+    },
+    {
+        "零勢": "zero potential"
+    },
+    {
+        "零位指示器": "zero reader"
+    },
+    {
+        "零點讀數": "zero reading"
+    },
+    {
+        "零序": "zero sequence"
+    },
+    {
+        "置零調整;歸零": "zero set"
+    },
+    {
+        "零瞄準線": "zero sight line"
+    },
+    {
+        "無信號區": "zero signal zone"
+    },
+    {
+        "零安定性導數": "zero stability derivatives"
+    },
+    {
+        "零級（渦輪發動機）": "zero stage"
+    },
+    {
+        "無推力螺距": "zero thrust pitch"
+    },
+    {
+        "無扭力螺距": "zero torque pitch"
+    },
+    {
+        "零能見度": "zero visibility"
+    },
+    {
+        "零波阻": "zero wave drag"
+    },
+    {
+        "無風": "zero wind"
+    },
+    {
+        "零高度/零速度彈射椅": "zero-zero seat"
+    },
+    {
+        "零高度零速度彈射逃生系統": "zero-zero escape system"
+    },
+    {
+        "零時區時間": "zero/zone time"
+    },
+    {
+        "零零天氣": "zero/zero weather"
+    },
+    {
+        "鋸齒形天線": "zigzag antenna"
+    },
+    {
+        "曲折閃電": "zigzag lightening"
+    },
+    {
+        "曲折形件": "zigzag pieces"
+    },
+    {
+        "鋸齒形電阻器": "zigzag resistance unit"
+    },
+    {
+        "差排鉚接": "zigzag riveting"
+    },
+    {
+        "曲折掃描": "zigzag scanning"
+    },
+    {
+        "曲折搜索": "zigzag search"
+    },
+    {
+        "拉鏈緊固件": "zip fastener"
+    },
+    {
+        "高能燃料": "zip fuel"
+    },
+    {
+        "按發話電鈕二次以示收到": "zipper"
+    },
+    {
+        "拂曉巡邏;黃昏巡邏": "zippers"
+    },
+    {
+        "黃道": "Zodiac"
+    },
+    {
+        "黃道帶": "zodiacal band"
+    },
+    {
+        "黃道光": "zodiacal light"
+    },
+    {
+        "緯流;緯向環流": "zonal flow"
+    },
+    {
+        "緯流指數": "zonal index"
+    },
+    {
+        "緯向風": "zonal wind"
+    },
+    {
+        "區": "zone"
+    },
+    {
+        "作用區": "zone of action"
+    },
+    {
+        "航道交錯區": "zone of interaction"
+    },
+    {
+        "靜音區": "zone of silence"
+    },
+    {
+        "信風帶": "zone of trade wind"
+    },
+    {
+        "變風帶": "zone of variable wind"
+    },
+    {
+        "區域時": "zone time"
+    },
+    {
+        "攢升": "zoom"
+    },
+    {
+        "Z形搜索飛行": "Z-search"
+    },
+    {
+        "地球停駐軌道": "Earth Parking Orbit (EPO)"
+    },
+    {
+        "飛航指引符號": "Flight Director Symbol "
+    },
+    {
+        "飛行動力官": "Flight Dynamic Officer (FIDO)"
+    },
+    {
+        "近地點踢進器；近地點發動機": "Perigee Kick Motor (PKM)"
+    },
+    {
+        "俯仰發動機": "Pitch Motor"
+    },
+    {
+        "光心": "Pipper"
+    }
+]

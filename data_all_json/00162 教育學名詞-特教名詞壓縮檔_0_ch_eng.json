@@ -1,0 +1,1220 @@
+[
+    {
+        "異常行為": "aberrant behavior"
+    },
+    {
+        "學業性學習障礙": "academic learning disabilities"
+    },
+    {
+        "加速課程": "acceleration curriculum"
+    },
+    {
+        "可及性": "accessibility"
+    },
+    {
+        "適應體育": "Adapted Physical Education{=APE}"
+    },
+    {
+        "適應行為": "adaptive behavior"
+    },
+    {
+        "擺位輔具": "adaptive equipment"
+    },
+    {
+        "進階安置": "Advanced Placement {=AP}"
+    },
+    {
+        "情意課程": "affective curriculum"
+    },
+    {
+        "情感性疾患": "affective disorders"
+    },
+    {
+        "不適齡行為": "age-inappropriate behavior"
+    },
+    {
+        "輔助性語言示範": "Aided Language Modeling {=ALM}"
+    },
+    {
+        "輔助性語言刺激": "Aided Language Stimulation {=ALgS}"
+    },
+    {
+        "替代性評量(特教)": "alternative assessment"
+    },
+    {
+        "美國手語": "American Sign Language {=ASL}"
+    },
+    {
+        "美國身心障礙者法案": "Americans with Disabilities Act{=ADA}"
+    },
+    {
+        "定錨活動": "anchor activities"
+    },
+    {
+        "動物輔助治療": "animal-assisted therapy"
+    },
+    {
+        "反社會性格": "antisocial personality disorder"
+    },
+    {
+        "焦慮性疾患": "anxiety disorders"
+    },
+    {
+        "失語症": "aphasia"
+    },
+    {
+        "失用症": "apraxia"
+    },
+    {
+        "藝術治療": "art therapy"
+    },
+    {
+        "構音異常": "articulation disorders"
+    },
+    {
+        "智慧需求層次": "Ascending Levels of Intellectual Demand{=ALID}"
+    },
+    {
+        "亞斯伯格症": "Asperger's Syndrome"
+    },
+    {
+        "評量調整": "assessment accommodation"
+    },
+    {
+        "評量本位": "assessment-based"
+    },
+    {
+        "輔具": "assistive device"
+    },
+    {
+        "輔助科技": "assistive technology"
+    },
+    {
+        "高風險資優學習者": "at-risk gifted learner"
+    },
+    {
+        "注意力缺陷過動症": "Attention-Deficit Hyperactivity Disorder {=ADHD}"
+    },
+    {
+        "聽力師": "audiologist"
+    },
+    {
+        "聽力學": "audiology"
+    },
+    {
+        "聽覺記憶": "auditory memory"
+    },
+    {
+        "聽覺口語法": "auditory-verbal approach"
+    },
+    {
+        "擴大性和替代性溝通系統；輔助溝通系統": "Augmentative and Alternative Communication {=AAC}"
+    },
+    {
+        "自閉症": "Autism {=Autistic Disorder}"
+    },
+    {
+        "自閉症光譜；自閉症譜系": "Autism Spectrum"
+    },
+    {
+        "自閉症光譜障礙": "Autism Spectrum Disorders {=ASD}"
+    },
+    {
+        "自閉症光譜量表": "Autism Spectrum Quotient"
+    },
+    {
+        "自閉症療法": "Autism therapies"
+    },
+    {
+        "自主學習者模式": "Autonomous Learner Model {=ALM}"
+    },
+    {
+        "無障礙環境": "barrier-free environment"
+    },
+    {
+        "行為改變技術": "behavior modification"
+    },
+    {
+        "行為治療": "behavioral therapy"
+    },
+    {
+        "雙語雙文化教學；雙語教學": "bilingual-bicultural approach"
+    },
+    {
+        "全盲": "blind"
+    },
+    {
+        "視力模糊": "blurred vision"
+    },
+    {
+        "點字": "Braille"
+    },
+    {
+        "腦控介面": "brain control interface"
+    },
+    {
+        "職業輔導": "career counseling"
+    },
+    {
+        "生涯轉銜": "career transition"
+    },
+    {
+        "個案管理員": "case manager"
+    },
+    {
+        "腦性麻痺": "Cerebral Palsy{=CP}"
+    },
+    {
+        "特許學校": "charter school"
+    },
+    {
+        "身心障礙兒童": "child with disability"
+    },
+    {
+        "自閉症兒童行為檢核表": "Childhood Autism Rating Scale {=CARS}"
+    },
+    {
+        "兒童期崩解症": "Childhood Disintegrative Disorder"
+    },
+    {
+        "兒童發展里程檢核表": "Children Developmental Milestone Checking List"
+    },
+    {
+        "唇顎裂": "cleft palate"
+    },
+    {
+        "耳蝸植入術；人工電子耳": "cochlear implantation"
+    },
+    {
+        "認知行為治療": "cognitive behavioral therapy"
+    },
+    {
+        "認知訓練": "cognitive training"
+    },
+    {
+        "合作諮詢": "collaborative consultation"
+    },
+    {
+        "色盲": "color blindness"
+    },
+    {
+        "共同核心標準": "common core standards"
+    },
+    {
+        "溝通障礙": "communication disorder"
+    },
+    {
+        "溝通功能": "communication functions"
+    },
+    {
+        "溝通意圖": "communication intent"
+    },
+    {
+        "社區整合": "community integration"
+    },
+    {
+        "複雜溝通需求": "Complex Communication Needs {=CCN}"
+    },
+    {
+        "電腦化適性測驗": "Computer Adaptive Testing {=CAT}"
+    },
+    {
+        "概念技能": "conceptual skills"
+    },
+    {
+        "行為規範障礙；素行不良": "conduct disorders"
+    },
+    {
+        "傳音性聽力損失": "conductive hearing impairment"
+    },
+    {
+        "學科加速": "content acceleration"
+    },
+    {
+        "合作學習": "cooperative learning"
+    },
+    {
+        "核心課程(資優教育Parallel Curriculum Model)": "Core Curriculum"
+    },
+    {
+        "核心詞彙": "core vocabulary"
+    },
+    {
+        "矯正鞋": "corrective shoes"
+    },
+    {
+        "創造性問題解決": "Creative Problem Solving{=CPS}"
+    },
+    {
+        "暗示法": "cued speech"
+    },
+    {
+        "連結課程(資優教育Parallel Curriculum Model)": "Curriculum of Connections"
+    },
+    {
+        "認同課程(資優教育Parallel Curriculum Model)": "Curriculum of Identity"
+    },
+    {
+        "實務課程(資優教育Parallel Curriculum Model)": "Curriculum of Practice"
+    },
+    {
+        "課程本位職業評估": "curriculum-based vocational assessment"
+    },
+    {
+        "日常生活功能": "daily life function"
+    },
+    {
+        "日常生活技能": "daily living skills"
+    },
+    {
+        "日間照護": "day care"
+    },
+    {
+        "聾人文化": "deaf culture"
+    },
+    {
+        "聾；重聽": "deaf or hard of hearing"
+    },
+    {
+        "聾盲兒童": "deaf-blind child"
+    },
+    {
+        "去機構化": "de-institutionalization"
+    },
+    {
+        "發展遲緩": "developmental delay"
+    },
+    {
+        "發展障礙": "Developmental Disability {=DD}"
+    },
+    {
+        "發展性學習障礙": "developmental learning disabilities"
+    },
+    {
+        "發展里程碑": "developmental milestone"
+    },
+    {
+        "偏差個性": "devient characteristics"
+    },
+    {
+        "診斷測驗處方教學": "Diagnostic Testing and Prescriptive Instruction {=DT/PI}"
+    },
+    {
+        "區分性課程(資優教育名詞)": "differential curriculum"
+    },
+    {
+        "區分性教學(資優教育名詞)": "differentiated instruction"
+    },
+    {
+        "直接選擇": "direct selection"
+    },
+    {
+        "DISCOVER課程模式 (資優教育名詞)": "Discovering Intellectual Strengths and Capabilities while Observing Varied Ethnic Responses"
+    },
+    {
+        "離散試訓": "Discrete Trial Training {=DTT}"
+    },
+    {
+        "喪失知覺方向": "disorientation"
+    },
+    {
+        "雙重標記": "double-labeled"
+    },
+    {
+        "唐氏症": "Down Syndrome {=DS} {=DNS}"
+    },
+    {
+        "雙重殊異": "dual exceptionality"
+    },
+    {
+        "正當程序的公聽": "due process hearing"
+    },
+    {
+        "呐吃": "dysarthria"
+    },
+    {
+        "算術障礙": "dyscalculia"
+    },
+    {
+        "口語不流暢": "dysfluencies"
+    },
+    {
+        "書寫障礙": "dysgraphia"
+    },
+    {
+        "失讀症；閱讀障礙": "dyslexia"
+    },
+    {
+        "早期表達性語言遲緩": "Early Expressive Language Delay {=EELD}"
+    },
+    {
+        "早期介入": "early intervention"
+    },
+    {
+        "早期療育階段轉銜": "early-intervention transition"
+    },
+    {
+        "資優青少年教育方案": "Education Program for Gifted Youth {=EPGY}"
+    },
+    {
+        "電動輪椅": "electric wheelchair"
+    },
+    {
+        "腦電波圖": "Electroencephalogram {=EEG}"
+    },
+    {
+        "消除飲食": "elimination diets"
+    },
+    {
+        "情緒智商": "emotional intelligence"
+    },
+    {
+        "情緒行為障礙": "Emotional or Behavior Disorders {=EBD}"
+    },
+    {
+        "同理心─系統化理論": "empathizing–systemizing theory"
+    },
+    {
+        "就業服務": "employment service"
+    },
+    {
+        "就業服務員": "employment specialist"
+    },
+    {
+        "充實矩陣": "Enrichment Matrix Model"
+    },
+    {
+        "三合充實模式": "Enrichment Triad Model"
+    },
+    {
+        "癲癇；癲癇發作": "Epilepsy {=Seizure Disorder}"
+    },
+    {
+        "表達性語言": "expressive language"
+    },
+    {
+        "延續性就業": "extended employment"
+    },
+    {
+        "手眼協調": "eye-hand coordination "
+    },
+    {
+        "家庭系統理論": "family systems theory"
+    },
+    {
+        "家族治療": "family therapy"
+    },
+    {
+        "胎兒酒精症候群": "Fetal Alcohol Syndrome {=FAS}"
+    },
+    {
+        "精細動作": "fine motor"
+    },
+    {
+        "精細動作技能": "fine motor skills"
+    },
+    {
+        "手指語": "fingerspelling"
+    },
+    {
+        "低張力型腦性麻痺": "flaccid cerebral palsy"
+    },
+    {
+        "柔軟度": "flexibility"
+    },
+    {
+        "X染色體脆折症": "fragile X syndrome"
+    },
+    {
+        "免費且適性的公立教育": "free appropriate public education"
+    },
+    {
+        "功能性學科課程": "functional academic curriculum"
+    },
+    {
+        "功能性行為分析": "functional behavior analysis"
+    },
+    {
+        "功能性課程": "functional curriculum"
+    },
+    {
+        "功能性核磁共振造影": "functional Magnetic Resonance Imaging  {=fMRI}"
+    },
+    {
+        "功能性核磁共振頻譜": "functional Magnetic Resonance Spectroscopy  {=fMRS}"
+    },
+    {
+        "功能性視覺評量": "functional visual assessment"
+    },
+    {
+        "資賦優異": "gifted and talented"
+    },
+    {
+        "圖形組織器": "graphic organizers "
+    },
+    {
+        "粗大動作技能": "gross motor skills"
+    },
+    {
+        "導盲犬": "guide dog"
+    },
+    {
+        "助聽器": "hearing aids"
+    },
+    {
+        "高功能自閉症": "High-functioning Autism {=HFA}"
+    },
+    {
+        "高出現率障礙": "high-incidence disabilities"
+    },
+    {
+        "高風險家庭": "high-risk families"
+    },
+    {
+        "在家教育": "homeschooling"
+    },
+    {
+        "床邊教學": "hospital instruction"
+    },
+    {
+        "混合式的版面；混合顯示": "hybrid displays"
+    },
+    {
+        "水腦症": "hydrocephalus"
+    },
+    {
+        "張力過高": "hypertonicity"
+    },
+    {
+        "圖像表徵": "iconicity representation"
+    },
+    {
+        "個別化教育計畫會議": "IEP meeting"
+    },
+    {
+        "個別化教育計畫小組": "IEP team"
+    },
+    {
+        "融合教育": "inclusive education"
+    },
+    {
+        "獨立研究": "independent study"
+    },
+    {
+        "個別化健康計畫": "Individual Health Plan {=IHP}"
+    },
+    {
+        "個別化方案計畫": "Individual Program Plan {=IPP}"
+    },
+    {
+        "個別化支持計畫": "Individual Support Plan"
+    },
+    {
+        "個別化轉銜計畫": "Individual Transition Plan {=ITP}"
+    },
+    {
+        "個別化教育計畫": "Individualized Education Program {=IEP}"
+    },
+    {
+        "個別化家庭服務計畫": "Individualized Family Service Plan {=IFSP}"
+    },
+    {
+        "個別化服務方案": "Individualized Service Plan {=ISP}"
+    },
+    {
+        "個別化書面復健計畫": "Individualized Written Rehabilitation Plan {=IWRP}"
+    },
+    {
+        "特殊教育法(美國)": "Individuals with Disabilities Education Act{=IDEA}"
+    },
+    {
+        "統合課程模式": "Integrated Curriculum Model"
+    },
+    {
+        "統整教育模式": "Integrative Education Model {=IEM}"
+    },
+    {
+        "智能障礙": "intellectual disability"
+    },
+    {
+        "心智功能": "intellectual functioning"
+    },
+    {
+        "專業間團隊合作": "Interdisciplinary Team Approach"
+    },
+    {
+        "內省智能": "intrapersonal intelligence"
+    },
+    {
+        "智力-成就差距": "IQ-achievement discrepancy"
+    },
+    {
+        "職務再設計": "job accommodation"
+    },
+    {
+        "工作分析": "job analysis"
+    },
+    {
+        "工作訓練師": "job trainers"
+    },
+    {
+        "共享式注意力": "joint attention"
+    },
+    {
+        "青少年犯罪": "juvenile delinquency"
+    },
+    {
+        "萬國視力量表": "Landolt C"
+    },
+    {
+        "語言障礙": "language disorders"
+    },
+    {
+        "習得無助感": "learned helplessness"
+    },
+    {
+        "學習障礙": "Learning Disabilities{=LD}"
+    },
+    {
+        "學習遷移": "learning transfer"
+    },
+    {
+        "最少限制環境": "Least Restrictive Environment{=LRE}"
+    },
+    {
+        "生涯彩虹圖": "life career rainbow"
+    },
+    {
+        "生活重建": "life reconstruction"
+    },
+    {
+        "終身轉銜": "lifelong transition"
+    },
+    {
+        "語文智能": "linguistic intelligence"
+    },
+    {
+        "邏輯-數學智能": "logical-mathematical intelligence"
+    },
+    {
+        "弱視": "low vision"
+    },
+    {
+        "低出現率障礙": "low-incidence disabilities"
+    },
+    {
+        "回歸主流": "mainstreaming"
+    },
+    {
+        "母親血液篩檢": "Maternal Serun Screening{=MSS}"
+    },
+    {
+        "心智敏銳度": "mental acuity"
+    },
+    {
+        "心理年齡": "mental age"
+    },
+    {
+        "精神性疾患": "mental disorders"
+    },
+    {
+        "良師典範方案": "mentorship program"
+    },
+    {
+        "小腦症": "microcephalus"
+    },
+    {
+        "自然情境教學": "milieu teaching"
+    },
+    {
+        "輕微腦功能失調": "Minimal Brain Dysfunction {=MBD}"
+    },
+    {
+        "記憶術": "mnemonics"
+    },
+    {
+        "構詞": "morphology"
+    },
+    {
+        "動作發展": "motor development"
+    },
+    {
+        "支撐系統": "mounting system"
+    },
+    {
+        "多專業團隊": "multidisciplinary team"
+    },
+    {
+        "多專業團隊合作": "Multidisciplinary Team Approach"
+    },
+    {
+        "多層次教學": "multi-level instruction"
+    },
+    {
+        "多元智能": "Multiple Intelligences{=MI}"
+    },
+    {
+        "多種菜單模式": "Multiple Menu Model"
+    },
+    {
+        "肌肉力氣": "muscle strength"
+    },
+    {
+        "肌肉張力": "muscle tone"
+    },
+    {
+        "音樂智能": "musical intelligence"
+    },
+    {
+        "國家資優教育學會(美國)": "National Association for Gifted Children {=NAGC}"
+    },
+    {
+        "自然觀察智能": "naturalist intelligence"
+    },
+    {
+        "次世代的科學標準": "Next Generation Science Standards {=NGSS}"
+    },
+    {
+        "不讓任何一個孩子落後法(美國)；無孩子落後法": "No Child Left Behind Act {=NCLB}"
+    },
+    {
+        "非語文學習障礙": "Nonverbal Learning Disabilities {=NLD}"
+    },
+    {
+        "常態化；正常化": "normalization"
+    },
+    {
+        "頸部透明帶檢查": "nuchal translucency ultrasound"
+    },
+    {
+        "職能治療師": "occupational therapist"
+    },
+    {
+        "職能治療": "Occupational Therapy {=OT}"
+    },
+    {
+        "千鳥格經緯論": "Operation Houndstooth Theory"
+    },
+    {
+        "光學文字辨識": "Optical Character Recognition {=OCR} "
+    },
+    {
+        "光學輔助工具": "optical devices"
+    },
+    {
+        "適當安置": "optimum placement"
+    },
+    {
+        "口語法": "oral method"
+    },
+    {
+        "定向行動 ": "Orientation and Mobility {=O&M}"
+    },
+    {
+        "讀音拼字法符號": "orthographic symbols"
+    },
+    {
+        "肢體障礙": "physical disabilities"
+    },
+    {
+        "裝具": "orthotics"
+    },
+    {
+        "成骨不全症": "Osteogenesis Imperfecta"
+    },
+    {
+        "過度激動特質": "Overexcitabilities{=OEs}"
+    },
+    {
+        "過度學習": "overlearning"
+    },
+    {
+        "平行課程模式": "Parallel Curriculum Model{=PCM}"
+    },
+    {
+        "親職教育": "parent education"
+    },
+    {
+        "家長參與": "parent involvment"
+    },
+    {
+        "親師合作": "parent-teacher  cooperation"
+    },
+    {
+        "參與模式": "participation models"
+    },
+    {
+        "病態性格": "pathological disorders"
+    },
+    {
+        "握筆器": "pencil grip"
+    },
+    {
+        "苯酮尿症": "Phenylketonuria {=PKU}"
+    },
+    {
+        "恐懼性疾患": "phobia disorders"
+    },
+    {
+        "音素": "phonemes"
+    },
+    {
+        "音韻覺識": "phonological awareness"
+    },
+    {
+        "音韻障礙；音韻異常": "phonological disorders"
+    },
+    {
+        "語音": "phonology"
+    },
+    {
+        "身體攻擊": "physical aggression"
+    },
+    {
+        "體適能": "Physical Fitness"
+    },
+    {
+        "物理治療師": "physical therapist"
+    },
+    {
+        "物理治療": "Physical Therapy"
+    },
+    {
+        "圖像符號": "pictorial symbols"
+    },
+    {
+        "圖片兌換溝通系統": "Picture Exchange Communication System {=PECS}"
+    },
+    {
+        "應答反應治療": "Pivotal Response Treatment{=PRT}"
+    },
+    {
+        "核心反應訓練": "pivotal response training"
+    },
+    {
+        "視力不良": "poor vision"
+    },
+    {
+        "方位認識": "position awareness"
+    },
+    {
+        "正向行為支持": "Positive Behaivior Support {=PBS}"
+    },
+    {
+        "正向行為介入計畫": "positive behavior intervention plan"
+    },
+    {
+        "正增強": "positive reinforcement"
+    },
+    {
+        "習語後聾": "postlingual deafness"
+    },
+    {
+        "實用智能": "practical intelligence"
+    },
+    {
+        "實用技能": "practical skills"
+    },
+    {
+        "語用組織的動態版面": "Pragmatic Organization Dynamic Display {=PODD}"
+    },
+    {
+        "語用(特教專有名詞)": "pragmatics"
+    },
+    {
+        "習語前聾": "prelingual deafness"
+    },
+    {
+        "轉介前介入": "pre-referral intervention"
+    },
+    {
+        "目前表現水準": "present level of performance"
+    },
+    {
+        "初級統整": "Primary Integration"
+    },
+    {
+        "義肢": "prosthetics"
+    },
+    {
+        "精神性疾患": "psychiatric disorders"
+    },
+    {
+        "心理治療": "Psychotherapy"
+    },
+    {
+        "94-142公法(美國)": "Public  Law 94-142"
+    },
+    {
+        "純音聽力檢查": "pure-tone audiometry"
+    },
+    {
+        "四肢麻痺": "quadriplegia"
+    },
+    {
+        "接受性語言": "receptive language"
+    },
+    {
+        "休閒治療": "Recreation Therapy {=RT}"
+    },
+    {
+        "重新評估": "reevaluation"
+    },
+    {
+        "轉介流程": "referral procedure"
+    },
+    {
+        "退縮性行為": "regression behavior"
+    },
+    {
+        "復健": "rehabilitation"
+    },
+    {
+        "復健法(美國)": "Rehabilitation Act"
+    },
+    {
+        "補救服務；矯治性服務": "remedial service"
+    },
+    {
+        "喘息服務": "respite care service"
+    },
+    {
+        "介入反應模式": "Response to Intervention{=RTI}"
+    },
+    {
+        "視網膜與視神經之病變": "retinal and optic nerve lesions"
+    },
+    {
+        "雷特氏症": "Rett's Disorder"
+    },
+    {
+        "逆向回歸主流": "reverse mainstreaming"
+    },
+    {
+        "旋轉門鑑定模式": "Revolving Door Identification Model{=RDIM}"
+    },
+    {
+        "精神分裂症；思覺失調症": "schizophrenia"
+    },
+    {
+        "全校性充實模式": "Schoolwide Enrichment Model {=SEM}"
+    },
+    {
+        "螢幕報讀軟體": "screen reader"
+    },
+    {
+        "無縫轉銜": "seamless transition"
+    },
+    {
+        "中學階段轉銜": "secondary transition"
+    },
+    {
+        "自理技能": "self-care skills"
+    },
+    {
+        "自我引導學習模式": "Self-directed Learning{=SDL} Model"
+    },
+    {
+        "自助技能": "self-help skills"
+    },
+    {
+        "自我指導": "self-instruction"
+    },
+    {
+        "自我監控": "self-monitoring"
+    },
+    {
+        "自我刺激行為": "self-stimulatory behavior"
+    },
+    {
+        "語意": "semantics"
+    },
+    {
+        "感音性聽力損失": "sensorineural hearing impairment"
+    },
+    {
+        "感覺統合": "sensory integration"
+    },
+    {
+        "感覺統合治療": "sensory integration therapy"
+    },
+    {
+        "嚴重情緒困擾": "serious emotionally disturbed"
+    },
+    {
+        "庇護性就業": "sheltered employment"
+    },
+    {
+        "庇護工場": "sheltered workshop"
+    },
+    {
+        "手語": "sign language"
+    },
+    {
+        "手語翻譯員": "sign language interpreter"
+    },
+    {
+        "睡眠呼吸中止": "sleep apnea"
+    },
+    {
+        "史奈侖視力檢查表": "Snellen Chart"
+    },
+    {
+        "社會適應": "social adjustment"
+    },
+    {
+        "自閉症兒童綜合教育模式": "Social Communication Emotional Regulation Transactional Support Model {=SCERTS model}"
+    },
+    {
+        "社會智能": "social intelligence"
+    },
+    {
+        "社會網絡": "social network"
+    },
+    {
+        "社會技能": "social skill"
+    },
+    {
+        "社會支持": "social support"
+    },
+    {
+        "社會福利": "social welfare"
+    },
+    {
+        "社會工作": "social work"
+    },
+    {
+        "空間智能": "spatial intelligence"
+    },
+    {
+        "特製輪椅": "special grade wheelchair"
+    },
+    {
+        "特定型學習障礙": "specific learning disability"
+    },
+    {
+        "語音聽力檢查": "speech audiometry"
+    },
+    {
+        "說話障礙": "speech disorders"
+    },
+    {
+        "語言治療": "Speech Therapy"
+    },
+    {
+        "語言治療師": "Speech-Language Pathologist{=SLP}"
+    },
+    {
+        "讀話": "speechreading"
+    },
+    {
+        "語言接受閾值": "Speech-Reception Threshold {=SRT}"
+    },
+    {
+        "脊柱裂": "Spina Bifida{=SB}"
+    },
+    {
+        "脊椎損傷": "spinal cord injury"
+    },
+    {
+        "自發性的多階層非統整": "Spontaneous Multilevel Disintegration"
+    },
+    {
+        "智力結構模式": "Structure of Intellect {=SOI} Model"
+    },
+    {
+        "智力結構的問題解決模式": "Structure of Intelligence Problem Solving Model {=SOIPS}"
+    },
+    {
+        "口吃": "stuttering"
+    },
+    {
+        "督導": "supervisor"
+    },
+    {
+        "支持性就業": "supported employment"
+    },
+    {
+        "符號表徵": "symbolic representation"
+    },
+    {
+        "文法": "syntax"
+    },
+    {
+        "合成語音": "synthetic speech"
+    },
+    {
+        "系統化教學": "systematic instruction"
+    },
+    {
+        "行為問題篩檢系統": "Systematic Screening for Behavior Disorders"
+    },
+    {
+        "觸覺防禦": "tactile defensiveness"
+    },
+    {
+        "人才庫": "talent pool"
+    },
+    {
+        "才能發展計畫": "Talented Development Plan"
+    },
+    {
+        "無限才能模式": "Talents Unlimited Model"
+    },
+    {
+        "工作分析法": "task analysis"
+    },
+    {
+        "親師溝通": "teacher-parent communication"
+    },
+    {
+        "專業團隊": "team work"
+    },
+    {
+        "語音合成": "Text-to-Speech{=TTS}"
+    },
+    {
+        "框架式課程": "The Grid"
+    },
+    {
+        "鏡像神經元系統理論": "The Mirror Neuron System {=MNS} Theory"
+    },
+    {
+        "史丹利才能鑑定與發展模式": "The Stanley Model of Talent Identification and Development "
+    },
+    {
+        "數學早熟青少年研究(美國)": "The Study of Mathematically Precocious Youth {=SMPY}"
+    },
+    {
+        "心智理論": "Theory of Mind"
+    },
+    {
+        "正向非統整理論": "Theory of Positive Disintegration{=TPD}"
+    },
+    {
+        "遊戲治療": "play therapy"
+    },
+    {
+        "隔離": "time out"
+    },
+    {
+        "綜合溝通法": "total communication"
+    },
+    {
+        "觸控螢幕": "touchscreen"
+    },
+    {
+        "跨專業團隊合作": "Transdisciplinary Team Approach"
+    },
+    {
+        "短暫適應問題": "transient adaptation problem"
+    },
+    {
+        "轉銜": "transition"
+    },
+    {
+        "轉銜服務": "transition service"
+    },
+    {
+        "外傷性腦損傷": "traumatic brain injury"
+    },
+    {
+        "自閉症與相關溝通障礙兒童治療與教育模式": "Treatment and Education of Autistic and Related Communication Handicapped Children {=TEACCH} Model"
+    },
+    {
+        "雙重特殊": "twice exceptional"
+    },
+    {
+        "低成就資優": "underachieving gifted"
+    },
+    {
+        "通用設計": "universal design"
+    },
+    {
+        "全方位學習設計": "universal design for learning"
+    },
+    {
+        "替代學習": "vicarious learning"
+    },
+    {
+        "擴視機": "Video Magnifier"
+    },
+    {
+        "視力": "vision"
+    },
+    {
+        "視覺敏銳度": "visual acuity"
+    },
+    {
+        "視野檢查": "visual inspection"
+    },
+    {
+        "視覺空間技能": "visual spatial skills"
+    },
+    {
+        "職業性向": "vocational aptitude"
+    },
+    {
+        "職業評估": "vocational assessment"
+    },
+    {
+        "職業輔導評量員": "vocational evaluator"
+    },
+    {
+        "職業成熟度": "vocational maturity"
+    },
+    {
+        "職業重建": "vocational rehabilitation"
+    },
+    {
+        "職業再訓練": "vocational retraining"
+    },
+    {
+        "職能評估": "vocational skill assessment"
+    },
+    {
+        "職業訓練師；正職業訓練師": "vocational trainer"
+    },
+    {
+        "職業訓練": "vocational training"
+    },
+    {
+        "嗓音異常": "voice disorders"
+    },
+    {
+        "獨走技能": "walk alone"
+    },
+    {
+        "助行器": "walker"
+    },
+    {
+        "弱中央統合理論": "Weak Central Coherence Theory"
+    },
+    {
+        "視力衰弱": "weakness of sight, asthenopia"
+    },
+    {
+        "輪椅": "wheelchair"
+    },
+    {
+        "白手杖": "White  Cane"
+    },
+    {
+        "威廉氏症": "Williams syndrome"
+    },
+    {
+        "詞彙預測": "word prediction"
+    },
+    {
+        "工作樣本": "work sample"
+    },
+    {
+        "工作記憶": "Working Memory{=WM}"
+    },
+    {
+        "重疊式服務模式": "wrap-around service model"
+    },
+    {
+        "零拒絕": "zero reject"
+    }
+]

@@ -1,0 +1,6386 @@
+[
+    {
+        "珠算教學": "abacus instruction"
+    },
+    {
+        "能力分布": "ability distribution"
+    },
+    {
+        "能力分組": "ability grouping"
+    },
+    {
+        "能力鑑定": "ability identification"
+    },
+    {
+        "能力層次；能力水準": "ability level"
+    },
+    {
+        "簡化式科學素養工具": "abridged scientific literacy instrument"
+    },
+    {
+        "絕對值": "absolute value"
+    },
+    {
+        "抽象智力": "abstract intelligence"
+    },
+    {
+        "抽象層次": "abstract level"
+    },
+    {
+        "抽象推理": "abstract reasoning"
+    },
+    {
+        "學業能力；學術能力": "academic ability"
+    },
+    {
+        "學業成就；學術成就": "academic achievement"
+    },
+    {
+        "學業性向；學術性向": "academic aptitude"
+    },
+    {
+        "學業抱負；學術抱負": "academic aspiration"
+    },
+    {
+        "學業充實法": "academic enrichment"
+    },
+    {
+        "學業失利": "academic failure"
+    },
+    {
+        "學業興趣測量": "academic interest measure"
+    },
+    {
+        "學業表現": "academic performance"
+    },
+    {
+        "學業預警": "academic probation"
+    },
+    {
+        "學術等級；學業等第；學術排名": "academic rank"
+    },
+    {
+        "學業成績": "academic record"
+    },
+    {
+        "學業自我概念量表": "academic self concept scale"
+    },
+    {
+        "學業標準": "academic standards"
+    },
+    {
+        "學術結構": "academic structure"
+    },
+    {
+        "學術人才發掘計畫": "academic talent search program"
+    },
+    {
+        "學業資優；學術資優": "academically gifted"
+    },
+    {
+        "學業障礙": "academiccally handicapped"
+    },
+    {
+        "學業導向學前計畫": "academiccally oriented preschool program"
+    },
+    {
+        "學業能力測驗": "acadmeic ability test"
+    },
+    {
+        "加速課程": "accelerated course"
+    },
+    {
+        "調適": "accommodation"
+    },
+    {
+        "績效性；績效責任": "accountability"
+    },
+    {
+        "績效本位學習環境": "accountability based learning environment"
+    },
+    {
+        "認可；認證": "accreditation"
+    },
+    {
+        "涵化；濡化": "acculturation"
+    },
+    {
+        "準確度": "accuracy"
+    },
+    {
+        "成就": "achievement"
+    },
+    {
+        "成就年齡": "achievement age"
+    },
+    {
+        "成就焦慮測驗": "achievement anxiety test"
+    },
+    {
+        "成就落差": "achievement gap"
+    },
+    {
+        "成就動機量表": "achievement motivation inventory"
+    },
+    {
+        "成就需求": "achievement need"
+    },
+    {
+        "成就商數": "achievement quotient"
+    },
+    {
+        "成就評定": "achievement rating"
+    },
+    {
+        "成就評定量表": "achievement rating scale"
+    },
+    {
+        "成就測驗": "achievement test"
+    },
+    {
+        "習得行為": "acquisition behavior"
+    },
+    {
+        "行動計畫": "action programs"
+    },
+    {
+        "行動研究": "action research"
+    },
+    {
+        "主動學習": "active learning"
+    },
+    {
+        "活動導向課程": "activities oriented curriculum"
+    },
+    {
+        "活動偏好問卷": "activities preference questionnaire"
+    },
+    {
+        "活動學習": "activity learning"
+    },
+    {
+        "活動水準": "activity level"
+    },
+    {
+        "活動紀錄": "activity record"
+    },
+    {
+        "活動量表": "activity scale"
+    },
+    {
+        "活動單元": "activity units"
+    },
+    {
+        "適應指標": "adaptability index"
+    },
+    {
+        "適應測驗": "adaptability test"
+    },
+    {
+        "適應": "adaptation"
+    },
+    {
+        "適應概念": "adaptation concept"
+    },
+    {
+        "適應效應": "adaptation effect"
+    },
+    {
+        "適應架構": "adaptation frame"
+    },
+    {
+        "適應水準": "adjustment level"
+    },
+    {
+        "適應問題": "adjustment problem"
+    },
+    {
+        "前導組體": "advance organizers"
+    },
+    {
+        "進階考試": "advanced level examination"
+    },
+    {
+        "跳級安置": "advanced placement"
+    },
+    {
+        "跳級安置考試": "advanced placement examination"
+    },
+    {
+        "跳級安置計畫": "advanced placement program"
+    },
+    {
+        "跳級安置測驗": "advanced placement test"
+    },
+    {
+        "冒險教育": "adventure education"
+    },
+    {
+        "諮詢委員會": "advisory committee"
+    },
+    {
+        "大學化學諮詢委員會": "advisory council on college chemistry"
+    },
+    {
+        "美學": "aesthetics"
+    },
+    {
+        "情意形容詞檢核表": "affect adjective checklist"
+    },
+    {
+        "情意概念": "affect concept"
+    },
+    {
+        "情意": "affection"
+    },
+    {
+        "情意行為": "affective behavior"
+    },
+    {
+        "情意認知一致性": "affective cognitive consistency"
+    },
+    {
+        "情意發展": "affective development"
+    },
+    {
+        "情意領域": "affective domain"
+    },
+    {
+        "情意目標": "affective objectives"
+    },
+    {
+        "情意感受量表": "affective sensitivity scale"
+    },
+    {
+        "情意測驗": "affective test"
+    },
+    {
+        "附屬學校": "affiliated school"
+    },
+    {
+        "課後活動": "after school activity"
+    },
+    {
+        "學校課後教育": "after school education"
+    },
+    {
+        "課後方案": "after school program"
+    },
+    {
+        "課後指導": "after school tutoring"
+    },
+    {
+        "年齡歧視": "age discrimination"
+    },
+    {
+        "年齡常模": "age norm"
+    },
+    {
+        "農業教育": "agricultural education"
+    },
+    {
+        "農業教育研究": "agricultural education research"
+    },
+    {
+        "空氣污染管制": "air pollution control"
+    },
+    {
+        "(英制)進階物理": "A-level physics"
+    },
+    {
+        "代數；代數學": "algebra"
+    },
+    {
+        "代數拓樸學": "algebraic topology"
+    },
+    {
+        "算則": "algorithm"
+    },
+    {
+        "艾倫態度量表": "Allen attitude scale"
+    },
+    {
+        "艾倫圖片": "Allen picture cards"
+    },
+    {
+        "艾倫信念量表": "Allen scale of beliefs"
+    },
+    {
+        "艾倫句子完成測驗": "Allen sentence completion test"
+    },
+    {
+        "阿利森科學態度量表": "Allison science attitude scale"
+    },
+    {
+        "另類評量": "alternative assessment"
+    },
+    {
+        "另類教育": "alternative education"
+    },
+    {
+        "另有架構": "alternative framework"
+    },
+    {
+        "另類教學法": "alternative instructional method"
+    },
+    {
+        "另類學習環境": "alternative learning environment"
+    },
+    {
+        "曖昧圖形": "ambiguous figure"
+    },
+    {
+        "改善教學法": "ameliorative approach"
+    },
+    {
+        "改善課程": "ameliorative curriculum"
+    },
+    {
+        "美國文理學院": "American Academy of Arts and Sciences"
+    },
+    {
+        "美國科學促進會": "American Association for the Advancement of Science {=AAAS}"
+    },
+    {
+        "美國物理教師協會": "American Association of Physics Teachers"
+    },
+    {
+        "美國教師組織協會": "American Association of Teacher's Organization"
+    },
+    {
+        "美國化學會": "American Chemical Society {=ACS}"
+    },
+    {
+        "美國教育委員會": "American Council on Education"
+    },
+    {
+        "美國教育心理委員會": "American Council on Educational Psychology"
+    },
+    {
+        "美國教育研究學會": "American Educational Research Association {=AERA}"
+    },
+    {
+        "美國教師聯盟": "American Federation of Teachers"
+    },
+    {
+        "美國物理聯合會": "American Institute of physics{=AIP}"
+    },
+    {
+        "美國數學會": "American Mathematical Society"
+    },
+    {
+        "美國物理學會": "American Physical Society"
+    },
+    {
+        "美國心理學會": "American Psychological Association {=APA}"
+    },
+    {
+        "美國心理學會論文格式": "American Psychological Association Publication Manual"
+    },
+    {
+        "美國學校智力測驗": "American school intelligence test"
+    },
+    {
+        "美國測驗與評量學會": "American Society for Testing and Measurements"
+    },
+    {
+        "美國統計學會": "American Statistical Association"
+    },
+    {
+        "類比；類推": "analogy"
+    },
+    {
+        "共變數分析": "analysis of covarience"
+    },
+    {
+        "學生反應樣式分析": "analysis of patterns of pupil response"
+    },
+    {
+        "變異數分析": "analysis of variance"
+    },
+    {
+        "解析幾何": "analytic geometry"
+    },
+    {
+        "分析法": "analytic method"
+    },
+    {
+        "教學分析研究": "analytical study of teaching"
+    },
+    {
+        "定錨效應": "anchor effect"
+    },
+    {
+        "定錨測驗研究": "anchor test study"
+    },
+    {
+        "軼事紀錄表": "anecdotal form"
+    },
+    {
+        "軼事法": "anecdotal method"
+    },
+    {
+        "異例": "anomalies"
+    },
+    {
+        "焦慮量表": "anxiety scale"
+    },
+    {
+        "焦慮問卷": "anxiety scale questionnaire"
+    },
+    {
+        "應用數學": "applied mathematics"
+    },
+    {
+        "應用心理學": "applied psychology"
+    },
+    {
+        "應用研究": "applied research"
+    },
+    {
+        "應用科學": "applied science"
+    },
+    {
+        "應用統計學": "applied statistics"
+    },
+    {
+        "師徒制；學徒制": "apprenticeship"
+    },
+    {
+        "近似法": "approximation"
+    },
+    {
+        "真實象數近似法": "approximation to the true mode"
+    },
+    {
+        "性向": "aptitude"
+    },
+    {
+        "性向策略": "aptitude strategy"
+    },
+    {
+        "性向測驗": "aptitude test"
+    },
+    {
+        "性向處理-交互作用": "aptitude-treatment interaction"
+    },
+    {
+        "阿拉伯數字": "Arabic numerals"
+    },
+    {
+        "地區學習中心": "area learning center"
+    },
+    {
+        "論點": "argument"
+    },
+    {
+        "論證": "argumentation"
+    },
+    {
+        "亞里斯多德哲學": "Aristotelian philosophy"
+    },
+    {
+        "算術": "arithmetic"
+    },
+    {
+        "算術概念量表": "arithmetic concepts inventory"
+    },
+    {
+        "算術課程": "arithmetic curriculum"
+    },
+    {
+        "算術除法": "arithmetic division"
+    },
+    {
+        "算術式": "arithmetic expression"
+    },
+    {
+        "算術函數": "arithmetic function"
+    },
+    {
+        "算術平均數": "arithmetic mean"
+    },
+    {
+        "算術級數；等差級數": "arithmetic series"
+    },
+    {
+        "算術單位；算術單元": "arithmetic unit"
+    },
+    {
+        "人工智慧": "artificial intelligence"
+    },
+    {
+        "肯定強度": "assertion intensity"
+    },
+    {
+        "肯定行為": "assertive behavior"
+    },
+    {
+        "評量": "assessment"
+    },
+    {
+        "評量中心": "assessment center"
+    },
+    {
+        "知覺發展評量": "assessment of perceptual development"
+    },
+    {
+        "同化": "assimilation"
+    },
+    {
+        "同化錯覺": "assimilation illusion"
+    },
+    {
+        "同化學習": "assimilative learning"
+    },
+    {
+        "接近聯想": "association by contiguity"
+    },
+    {
+        "對比聯想": "association by contrast"
+    },
+    {
+        "類似聯想": "association by similarity"
+    },
+    {
+        "科學教育學會": "Association for Science Education"
+    },
+    {
+        "聯想測驗": "association test"
+    },
+    {
+        "聯想時間": "association time"
+    },
+    {
+        "聯結論": "associationism"
+    },
+    {
+        "結合律": "associative law"
+    },
+    {
+        "聯結式學習": "associative learning"
+    },
+    {
+        "聯想教學法": "associative method of teaching"
+    },
+    {
+        "假定；假設": "assumption"
+    },
+    {
+        "漸進線": "asymptote"
+    },
+    {
+        "原子結構": "atomic structure"
+    },
+    {
+        "原子(學)說；原子(理)論": "atomic theory"
+    },
+    {
+        "態度興趣分析測驗": "attitude interest analysis test"
+    },
+    {
+        "態度量表": "attitude inventory"
+    },
+    {
+        "態度測量": "attitude measure"
+    },
+    {
+        "態度問題問卷": "attitude problem questionnaire"
+    },
+    {
+        "態度量表": "attitude scale"
+    },
+    {
+        "態度測驗": "attitude test"
+    },
+    {
+        "對科學的態度": "attitude toward science"
+    },
+    {
+        "屬性": "attribute"
+    },
+    {
+        "歸因研究": "attribution study"
+    },
+    {
+        "歸因(學)說；歸因(理)論": "attribution theory"
+    },
+    {
+        "奧斯貝": "Ausubel"
+    },
+    {
+        "自主態度量表": "autonomy attitudes inventory"
+    },
+    {
+        "航空教育": "aviation education"
+    },
+    {
+        "公理化幾何學": "axiomatic geometry"
+    },
+    {
+        "公理": "axioms"
+    },
+    {
+        "逆向聯想": "backward association"
+    },
+    {
+        "逆向制約": "backward conditioning"
+    },
+    {
+        "十進位系統": "base-ten system"
+    },
+    {
+        "基本概念": "basic concept"
+    },
+    {
+        "基本技能": "basic skill"
+    },
+    {
+        "行為": "behavior"
+    },
+    {
+        "行為改變": "behavior change"
+    },
+    {
+        "行為目標": "behavior objective"
+    },
+    {
+        "行為組型": "behavior pattern"
+    },
+    {
+        "行為偏好量表": "behavior preference inventory"
+    },
+    {
+        "行為評定量尺(表)": "behavior rating scale"
+    },
+    {
+        "行為目標": "behavioral objectives"
+    },
+    {
+        "行為主義": "behaviorism"
+    },
+    {
+        "二進位算術": "binary arithmetic"
+    },
+    {
+        "二進位數": "binary number"
+    },
+    {
+        "傳記量表": "biographical inventories"
+    },
+    {
+        "生物科學課程研究": "Biological Science Curriculum Study{=BSCS}"
+    },
+    {
+        "生物科成就測驗": "biology achievement test"
+    },
+    {
+        "生物科態度量表": "biology attitude assessment scale"
+    },
+    {
+        "生物科教室活動檢核表": "biology classroom activities checklist"
+    },
+    {
+        "生物實驗室活動檢核表": "biology laboratory activities checklist"
+    },
+    {
+        "生物教師行為量表": "biology teacher behavior inventory"
+    },
+    {
+        "布魯姆分類法": "Bloom's taxonomy"
+    },
+    {
+        "腦力激盪(術)": "brainstorming"
+    },
+    {
+        "布古二氏成對編碼系統": "Brophy Good dyadic coding system"
+    },
+    {
+        "布古二氏成對互動系統": "Brophy Good dyadic interaction system"
+    },
+    {
+        "布朗概念測驗": "Brown concept test"
+    },
+    {
+        "鮑赫二氏學習習慣調查表": "Brown-Holtzman survey study habits"
+    },
+    {
+        "柏奈閱讀調查測驗": "Burnnet reading survey test"
+    },
+    {
+        "布洛斯人格測驗及評論": "Buros personality test and review"
+    },
+    {
+        "加州成就測驗": "California Achivement Test{=CAT}"
+    },
+    {
+        "能力；才能": "capability"
+    },
+    {
+        "潛能；容量": "capacity"
+    },
+    {
+        "基數": "cardinal number"
+    },
+    {
+        "基數原則": "cardinality principle"
+    },
+    {
+        "生涯覺知": "career awareness"
+    },
+    {
+        "笛卡兒坐標": "cartesian coordinates"
+    },
+    {
+        "笛卡兒積": "Cartesian product"
+    },
+    {
+        "笛卡兒乘積/組合(型)": "cartesian product/combination"
+    },
+    {
+        "個案": "case"
+    },
+    {
+        "個案專題研究": "case project"
+    },
+    {
+        "個案記錄": "case record"
+    },
+    {
+        "個案研究": "case study"
+    },
+    {
+        "問答教學法": "catechism"
+    },
+    {
+        "類目測驗；歸類測驗": "categorial test"
+    },
+    {
+        "因果律": "causal law"
+    },
+    {
+        "因果關係": "causal relation"
+    },
+    {
+        "因果學說": "causal theory"
+    },
+    {
+        "因果性": "causality"
+    },
+    {
+        "天花板效應": "ceiling effect"
+    },
+    {
+        "認知學習中心": "center for cognitive learning"
+    },
+    {
+        "科學教育中心": "center for science education"
+    },
+    {
+        "評鑑研究中心": "center for the study of evaluation"
+    },
+    {
+        "中央極限定理": "central limit theorem"
+    },
+    {
+        "集中趨勢": "central tendency"
+    },
+    {
+        "離心力": "centrifugal force"
+    },
+    {
+        "向心力": "centripetal force"
+    },
+    {
+        "大腦支配": "cerebral dominance"
+    },
+    {
+        "大腦活動": "cerebration"
+    },
+    {
+        "中等教育証書(英)": "Certificate of Secondary Education{=CSE}"
+    },
+    {
+        "證明": "certification"
+    },
+    {
+        "改變[型] {數教}": "change"
+    },
+    {
+        "品格化(情意目標之一)": "characterization"
+    },
+    {
+        "品格分析學說(理論)": "characterological theory"
+    },
+    {
+        "品格分析學": "characterology"
+    },
+    {
+        "檢核評定量表": "check list rating scale"
+    },
+    {
+        "檢核技術": "check technique"
+    },
+    {
+        "檢核員": "checker"
+    },
+    {
+        "檢核表": "check-list"
+    },
+    {
+        "化學鍵教材(美國高中化學教科書)": "Chemical Bond Approach{=CBA}"
+    },
+    {
+        "美國化學教育教材研究(美國高中化學教材)": "Chemical Education Material Study {=CHEM study}"
+    },
+    {
+        "以兒童為中心的課程": "child centered curriculum"
+    },
+    {
+        "卡方檢定": "chi-square test"
+    },
+    {
+        "兩難困境問卷": "choice dilemmas questionnaire"
+    },
+    {
+        "引用索引": "citation index"
+    },
+    {
+        "公民素養": "civic literacy"
+    },
+    {
+        "克拉克科學興趣檢核表": "Clark science interests checklist"
+    },
+    {
+        "班級態度": "class attitude"
+    },
+    {
+        "組距": "class interval"
+    },
+    {
+        "班級經營；教室管理": "class management"
+    },
+    {
+        "教室常規": "class norm"
+    },
+    {
+        "班級組織": "class organization"
+    },
+    {
+        "班級排名": "class rank"
+    },
+    {
+        "班級規模": "class size"
+    },
+    {
+        "分類評量測驗": "classification assessment test"
+    },
+    {
+        "分類問卷": "classification questionnaire"
+    },
+    {
+        "分類測驗": "classification test"
+    },
+    {
+        "教室觀察表": "classroom observation form"
+    },
+    {
+        "教室觀察記錄": "classroom observation record"
+    },
+    {
+        "教室觀察技術": "classroom observation techniques"
+    },
+    {
+        "教室研究": "classroom research"
+    },
+    {
+        "教室情境問卷": "classroom situation questionnaire"
+    },
+    {
+        "級任教師": "classroom teacher"
+    },
+    {
+        "臨床經驗": "clinical experience"
+    },
+    {
+        "臨床晤談；臨床訪談": "clinical interview"
+    },
+    {
+        "閉區間": "closed interval"
+    },
+    {
+        "克漏字填充理解測驗": "cloze comprehension test"
+    },
+    {
+        "填空過程": "cloze procedure"
+    },
+    {
+        "集群分析": "cluster analysis"
+    },
+    {
+        "集群分組": "cluster grouping"
+    },
+    {
+        "集群抽樣": "cluster sampling"
+    },
+    {
+        "教練指導": "coaching"
+    },
+    {
+        "編碼符號": "code symbol"
+    },
+    {
+        "編碼": "coding"
+    },
+    {
+        "男女合校": "coeducation"
+    },
+    {
+        "和諧係數": "coefficient of congruence"
+    },
+    {
+        "相關係數": "coefficient of correlation"
+    },
+    {
+        "正交比較係數": "coefficient of orthogonal comparison"
+    },
+    {
+        "認知": "cognition"
+    },
+    {
+        "認知活動評定量表": "cognitive activities rating scale"
+    },
+    {
+        "認知控制": "cognitive control"
+    },
+    {
+        "認知發展": "cognitive development"
+    },
+    {
+        "認知發展研究": "cognitive development research"
+    },
+    {
+        "認知失調理論": "cognitive dissonance theory"
+    },
+    {
+        "認知領域": "cognitive domain"
+    },
+    {
+        "認知官能": "cognitive faculty"
+    },
+    {
+        "認知測量": "cognitive measurement"
+    },
+    {
+        "認知目標": "cognitive objective"
+    },
+    {
+        "認知操作結構": "cognitive operational structure"
+    },
+    {
+        "認知偏好": "cognitive preference"
+    },
+    {
+        "認知過程": "cognitive processes"
+    },
+    {
+        "認知風格": "cognitive style"
+    },
+    {
+        "認知測驗": "cognitive test"
+    },
+    {
+        "認知取向課程": "cognitively oriented curriculum"
+    },
+    {
+        "大學委員會學術性向測驗": "college board scholastic aptitude test"
+    },
+    {
+        "大學委員會科學成就測驗": "college board science achievement test"
+    },
+    {
+        "大學學分數": "College Credits"
+    },
+    {
+        "大學學生數": "college enrollment"
+    },
+    {
+        "大學入學考試委員會": "College entrance examination board{=CEEB}"
+    },
+    {
+        "大學入學考試": "college entrance examinations"
+    },
+    {
+        "農理學院": "college of agriculture and natural science"
+    },
+    {
+        "教育學院": "college of education"
+    },
+    {
+        "文理學院": "college of liberal arts and science"
+    },
+    {
+        "海洋學院": "college of marine science"
+    },
+    {
+        "大學資格測驗": "college qualification test"
+    },
+    {
+        "大學準備度": "college readiness"
+    },
+    {
+        "大學科學": "college science"
+    },
+    {
+        "彩色(瑞文氏)圖型測驗": "Coloured Progressive Matrices {=CPM}"
+    },
+    {
+        "合併[型]{數教}": "combine"
+    },
+    {
+        "科學教育委員會": "commision on science education"
+    },
+    {
+        "州際共同核心數學標準": "common core state standard  for mathematics{=CCSSM}"
+    },
+    {
+        "溝通": "communication"
+    },
+    {
+        "溝通技巧": "communication skill"
+    },
+    {
+        "溝通策略": "communication strategy"
+    },
+    {
+        "溝通理論": "communication theory"
+    },
+    {
+        "群落；群聚；群集；社區": "community"
+    },
+    {
+        "社區本位的教學": "community based instruction"
+    },
+    {
+        "社區學院": "community college"
+    },
+    {
+        "社區教育": "community education"
+    },
+    {
+        "社區中學": "community middle school"
+    },
+    {
+        "社區資源": "community resource"
+    },
+    {
+        "比較教育": "comparative education"
+    },
+    {
+        "比較[型]{數教}": "compare"
+    },
+    {
+        "能力；競爭力": "competence"
+    },
+    {
+        "能力本位課程": "competency based curriculum"
+    },
+    {
+        "能力本位教育": "competency based education"
+    },
+    {
+        "能力本位教學": "competency based instruction"
+    },
+    {
+        "能力本位師資教育": "competency based teacher education"
+    },
+    {
+        "能力因素": "competency factor"
+    },
+    {
+        "成分分析": "componential analysis"
+    },
+    {
+        "複合圖形": "composite graphic"
+    },
+    {
+        "理解": "comprehension"
+    },
+    {
+        "綜合小學教師教育": "comprehensive elementary teacher education"
+    },
+    {
+        "綜合考試": "comprehensive examination"
+    },
+    {
+        "綜合中學": "comprehensive high school"
+    },
+    {
+        "綜合數學量表": "comprehensive mathematics inventory"
+    },
+    {
+        "義務教育": "compulsory education"
+    },
+    {
+        "電腦輔助教學": "computer aided instruction{=CAI}"
+    },
+    {
+        "電腦輔助教學": "computer assisted instruction{=CAI}"
+    },
+    {
+        "電腦素養": "computer literacy"
+    },
+    {
+        "電腦模擬": "computer simulation"
+    },
+    {
+        "電腦輔助學習": "computer-assisted learning{=CAL}"
+    },
+    {
+        "同心課程": "concentric curriculum"
+    },
+    {
+        "概念": "concept"
+    },
+    {
+        "概念發展": "concept development"
+    },
+    {
+        "概念心像": "concept image(ry)"
+    },
+    {
+        "概念學習": "concept learning"
+    },
+    {
+        "概念圖": "concept map"
+    },
+    {
+        "概念構圖": "concept mapping"
+    },
+    {
+        "概念教學": "concept teaching"
+    },
+    {
+        "概念性知識": "conceptual knowledge"
+    },
+    {
+        "概念架構": "conceptual scheme"
+    },
+    {
+        "概念型式測驗": "conceptual style test"
+    },
+    {
+        "概念動率": "conceptual tempo"
+    },
+    {
+        "概念中心小學課程計畫": "Conceptually Oriented Program in Elementary Science{=COPES}"
+    },
+    {
+        "具體運思期": "concrete operation"
+    },
+    {
+        "同時效度": "concurrent validity"
+    },
+    {
+        "條件推理指標": "conditional reasoning index"
+    },
+    {
+        "制約情緒反應": "conditioned emotional response"
+    },
+    {
+        "制約反應": "conditioned response"
+    },
+    {
+        "制約刺激": "conditioned stimulus"
+    },
+    {
+        "信賴水準": "confidence level"
+    },
+    {
+        "可信度考驗；信賴度考驗": "confidence testing"
+    },
+    {
+        "信心加權計分": "confidence weighting"
+    },
+    {
+        "聯結機構": "connecting mechanism"
+    },
+    {
+        "連結": "connection"
+    },
+    {
+        "聯結主義；聯接論": "connectionism"
+    },
+    {
+        "暗示": "connotation"
+    },
+    {
+        "意識": "consciousness"
+    },
+    {
+        "意識狀態": "consciousness state"
+    },
+    {
+        "保留[概念]": "conservation"
+    },
+    {
+        "保留概念；守恒": "conservation (concept)"
+    },
+    {
+        "保育與環境科學": "conservation and environmental science"
+    },
+    {
+        "保育教育": "conservation education"
+    },
+    {
+        "能量守恆": "conservation of energy"
+    },
+    {
+        "可信度考驗；信賴度考驗": "conservation of identity"
+    },
+    {
+        "質量守恆": "conservation of mass"
+    },
+    {
+        "自然守恆": "conservation of nature"
+    },
+    {
+        "(生態)保育主義": "conservatism"
+    },
+    {
+        "一致性，相輔性": "consistency"
+    },
+    {
+        "建構；構念": "construct"
+    },
+    {
+        "建構效度考驗": "construct validation"
+    },
+    {
+        "建構效度；構念效度": "construct validity"
+    },
+    {
+        "建構反應題": "constructed response item"
+    },
+    {
+        "建構": "construction"
+    },
+    {
+        "測驗編制": "construction of test"
+    },
+    {
+        "建構主義": "constructivism"
+    },
+    {
+        "內容分析": "content analysis"
+    },
+    {
+        "脈絡": "context"
+    },
+    {
+        "脈絡線索": "context clue"
+    },
+    {
+        "背景評鑑": "context evaluation"
+    },
+    {
+        "CIPP評鑑模式": "Context Input Process Product model{=CIPP}"
+    },
+    {
+        "上下文聯想法": "contextual associative method"
+    },
+    {
+        "偶然性；關聯性": "contingencies"
+    },
+    {
+        "列聯係數": "contingencies coefficiency"
+    },
+    {
+        "後果管理": "contingency management"
+    },
+    {
+        "列聯表": "contingency table"
+    },
+    {
+        "連續性評量；經常性評量": "continuous assessment"
+    },
+    {
+        "連續量": "continuous quantity"
+    },
+    {
+        "控制實驗；對照實驗": "control experiment"
+    },
+    {
+        "控制組；對照組": "control group"
+    },
+    {
+        "方便抽樣；便利抽樣": "convenience sampling"
+    },
+    {
+        "傳統教學": "conventional instruction"
+    },
+    {
+        "聚斂；收斂": "convergence"
+    },
+    {
+        "收斂原則": "convergence principle"
+    },
+    {
+        "聚斂溝通": "convergent communication"
+    },
+    {
+        "聚斂思考": "convergent thinking"
+    },
+    {
+        "合作教育": "cooperative education"
+    },
+    {
+        "合作學習": "cooperative learning"
+    },
+    {
+        "合作方案": "cooperative program"
+    },
+    {
+        "合作教學": "cooperative teaching"
+    },
+    {
+        "核心科目": "core course"
+    },
+    {
+        "核心課程": "core curriculum"
+    },
+    {
+        "核心觀念": "core ideas"
+    },
+    {
+        "康奈爾批判思考測驗": "Cornell Critical Thinking Test"
+    },
+    {
+        "相關": "correlation"
+    },
+    {
+        "相關分析": "correlation analysis"
+    },
+    {
+        "相關係數": "correlation coefficient"
+    },
+    {
+        "相關性研究": "correlation study"
+    },
+    {
+        "全部計數": "counting-all"
+    },
+    {
+        "往上計數": "counting-on method"
+    },
+    {
+        "科目評鑑": "course evaluation"
+    },
+    {
+        "科目目標": "course objective"
+    },
+    {
+        "科目組織": "course organization"
+    },
+    {
+        "共變數；共變量": "covariance"
+    },
+    {
+        "共變數分析": "covariance analysis"
+    },
+    {
+        "創造能力": "creative ability"
+    },
+    {
+        "創造(生產)力": "creative productivity"
+    },
+    {
+        "創意教學": "creative teaching"
+    },
+    {
+        "創意思考": "creative thinking"
+    },
+    {
+        "創造力；創造性": "creativity"
+    },
+    {
+        "創造力檢核表": "creativity check list"
+    },
+    {
+        "創造力評定量表": "creativity rating scale"
+    },
+    {
+        "創造力教學": "creativity teaching"
+    },
+    {
+        "創造力測驗": "creativity test"
+    },
+    {
+        "可信度；可靠性": "credibility"
+    },
+    {
+        "學分科目": "credit course"
+    },
+    {
+        "效標；標準；規準；準則": "criterion"
+    },
+    {
+        "標準參照測驗": "criterion referenced test"
+    },
+    {
+        "效標測驗": "criterion test"
+    },
+    {
+        "標準參照測量": "criterion-referenced measurement"
+    },
+    {
+        "標準參照測驗": "criterion-referenced test"
+    },
+    {
+        "效標關聯效度": "criterion-related validity"
+    },
+    {
+        "批判性思考": "critical thinking"
+    },
+    {
+        "批判主義": "criticism"
+    },
+    {
+        "跨文化研究；泛文化研究": "cross-cultural research"
+    },
+    {
+        "跨科概念": "crosscutting concepts"
+    },
+    {
+        "跨領域取向": "crossdisciplinary approach"
+    },
+    {
+        "跨領域研究": "crossdisciplinary study"
+    },
+    {
+        "橫斷研究": "cross-section study"
+    },
+    {
+        "古氏積木": "Cuisenaire rods"
+    },
+    {
+        "文化認同": "cultural identity"
+    },
+    {
+        "文化相關教育；文化適切教育": "culturally relevant education"
+    },
+    {
+        "教育類期刊索引【美國教育中心】": "Current Index to Journals in Education{=CIJE}"
+    },
+    {
+        "課程活動": "curricular activities"
+    },
+    {
+        "課程效度": "curricular validity"
+    },
+    {
+        "課程態度評量表": "curriculum attitude inventory"
+    },
+    {
+        "課程顧問": "curriculum consultant"
+    },
+    {
+        "課程設計": "curriculum design"
+    },
+    {
+        "課程發展": "curriculum development"
+    },
+    {
+        "課程推廣": "curriculum dissemination"
+    },
+    {
+        "課程評鑑": "curriculum evaluation"
+    },
+    {
+        "課程指引": "curriculum guide"
+    },
+    {
+        "課程實施": "curriculum implementation"
+    },
+    {
+        "課程革新": "curriculum innovation"
+    },
+    {
+        "課程管理": "curriculum management"
+    },
+    {
+        "課程計劃": "curriculum planning"
+    },
+    {
+        "課程研究": "curriculum study"
+    },
+    {
+        "課程理論": "curriculum theory"
+    },
+    {
+        "資料分析": "data analysis"
+    },
+    {
+        "資料蒐集": "data collection"
+    },
+    {
+        "決策；決定": "decision making"
+    },
+    {
+        "決策理論": "decision theory"
+    },
+    {
+        "決策樹": "decision tree"
+    },
+    {
+        "陳述性知識": "declarative knowledge"
+    },
+    {
+        "解碼": "decoding"
+    },
+    {
+        "演繹": "deduction"
+    },
+    {
+        "演繹法": "deductive method"
+    },
+    {
+        "延宕制約": "delay conditioning"
+    },
+    {
+        "延宕回饋技術": "delay in feedback technique"
+    },
+    {
+        "延宕保留效應": "delay retention effect"
+    },
+    {
+        "德懷術；大慧法": "Delphi method"
+    },
+    {
+        "演示(教學)；示範(實驗)": "demonstration"
+    },
+    {
+        "演示教師": "demonstration teacher"
+    },
+    {
+        "深度知覺": "depth perception"
+    },
+    {
+        "描述法；敘述法": "descriptive method"
+    },
+    {
+        "描述評定量表；敘述評定量表": "descriptive rating scale"
+    },
+    {
+        "描述性研究；敘述性研究": "descriptive research"
+    },
+    {
+        "描述科學；敘述科學": "descriptive science"
+    },
+    {
+        "杜威實驗主義學說": "Deway theory of experimentalism"
+    },
+    {
+        "診斷發展法": "diagnostic developmental method"
+    },
+    {
+        "診斷辨別測驗": "diagnostic discrimination test"
+    },
+    {
+        "診斷性晤談": "diagnostic interview"
+    },
+    {
+        "診斷教學": "diagnostic teaching"
+    },
+    {
+        "作圖分析": "diagraph analysis"
+    },
+    {
+        "辯證推理": "dialectical reasoning"
+    },
+    {
+        "辯證法": "dialectics"
+    },
+    {
+        "二元分析": "dichotomic analysis"
+    },
+    {
+        "差異化教學": "differentiated instruction"
+    },
+    {
+        "難度指數": "difficulty index"
+    },
+    {
+        "直接教學": "direct instruction"
+    },
+    {
+        "發現式學習": "discovery learning"
+    },
+    {
+        "發現式過程": "discovery process"
+    },
+    {
+        "發現式學程": "discovery program"
+    },
+    {
+        "發現式教學": "discovery teaching"
+    },
+    {
+        "離散量": "discrete quantity"
+    },
+    {
+        "判別分析": "discriminant analysis"
+    },
+    {
+        "鑑別指數": "discrimination index"
+    },
+    {
+        "辨別學習": "discrimination learning"
+    },
+    {
+        "討論(教學)法": "discussion method"
+    },
+    {
+        "遠距教育": "distance education"
+    },
+    {
+        "遠距教學": "distance teaching"
+    },
+    {
+        "擴散性思考": "divergent thinking"
+    },
+    {
+        "領域參照測驗": "domain-referenced test"
+    },
+    {
+        "雙碼理論": "dual-code theory"
+    },
+    {
+        "二元論": "dualism"
+    },
+    {
+        "雙觀察系統": "dyadic obervation system"
+    },
+    {
+        "動態取向": "dynamic approach"
+    },
+    {
+        "教育科目": "education course"
+    },
+    {
+        "教育發展中心": "Education Development Center{=EDC}"
+    },
+    {
+        "教育資源資訊中心": "Education Resources Information Center{=ERIC}"
+    },
+    {
+        "教育需求": "educational demand"
+    },
+    {
+        "教育發展": "educational development"
+    },
+    {
+        "教育診斷": "educational diagnosis"
+    },
+    {
+        "教育環境": "educational environment"
+    },
+    {
+        "教育設備": "educational equipment"
+    },
+    {
+        "教育評鑑": "educational evaluation"
+    },
+    {
+        "教育實驗": "educational experiment"
+    },
+    {
+        "教育遊戲": "educational game"
+    },
+    {
+        "教育改進": "Educational Improvement"
+    },
+    {
+        "教育指標": "educational indicator"
+    },
+    {
+        "教育革新": "educational innovation"
+    },
+    {
+        "教材": "educational material"
+    },
+    {
+        "教材工作坊": "educational materials workshop"
+    },
+    {
+        "教育測量": "educational measurement"
+    },
+    {
+        "教育媒體": "educational media"
+    },
+    {
+        "教育方法": "educational method"
+    },
+    {
+        "教育目標": "educational objectives"
+    },
+    {
+        "教育意見量表": "educational opinion inventory"
+    },
+    {
+        "教育機會": "educational opportunity"
+    },
+    {
+        "教育實務；教育實踐": "educational practice"
+    },
+    {
+        "教育實習": "educational practicum"
+    },
+    {
+        "教育品質": "educational quality"
+    },
+    {
+        "教育策略": "educational strategy"
+    },
+    {
+        "教育測驗": "educational test"
+    },
+    {
+        "教育趨勢": "educational trend"
+    },
+    {
+        "教育不利者": "educationally disadvantaged"
+    },
+    {
+        "小學數學": "elementary school mathematics"
+    },
+    {
+        "小學科學": "elementary school science"
+    },
+    {
+        "小學科學研究": "Elementary Science Study{=ESS}"
+    },
+    {
+        "實徵研究": "empirical research"
+    },
+    {
+        "經驗主義": "empiricism"
+    },
+    {
+        "就業經驗": "employment experience"
+    },
+    {
+        "動作表徵": "enactive representation"
+    },
+    {
+        "能源教育": "energy education"
+    },
+    {
+        "工程教育": "engineering education"
+    },
+    {
+        "環境教育": "environmental education"
+    },
+    {
+        "環境素養": "environmental literacy"
+    },
+    {
+        "[知識]認識信念；[知識]認識觀": "epistemic beliefs"
+    },
+    {
+        "[知識]認識論": "epistemology"
+    },
+    {
+        "等組[型]{數教}": "equal group"
+    },
+    {
+        "平衡[型]；等化[型]{數教}": "equalize"
+    },
+    {
+        "等值測驗": "equivalency test"
+    },
+    {
+        "ERIC資料庫": "ERIC database"
+    },
+    {
+        "誤差分析": "error analysis"
+    },
+    {
+        "測量誤差": "error of measurement"
+    },
+    {
+        "錯誤類型": "error patterns"
+    },
+    {
+        "評鑑規準": "evaluation criteria"
+    },
+    {
+        "評鑑方法": "evaluation method"
+    },
+    {
+        "評鑑研究": "evaluation research"
+    },
+    {
+        "評價性思考": "evaluative thinking"
+    },
+    {
+        "演化": "evolution"
+    },
+    {
+        "經驗取向": "experiential approach"
+    },
+    {
+        "體驗學習": "experiential learning"
+    },
+    {
+        "實驗": "experiment"
+    },
+    {
+        "實驗站": "experiment station"
+    },
+    {
+        "實驗組": "experimental group"
+    },
+    {
+        "實驗量度": "experimental measure"
+    },
+    {
+        "實驗法": "experimental method"
+    },
+    {
+        "實驗學校": "experimental school"
+    },
+    {
+        "實驗教學": "experimental teaching"
+    },
+    {
+        "實驗者偏誤效應": "experimenter bias effect"
+    },
+    {
+        "探索教育": "exploratory education"
+    },
+    {
+        "探索報告": "exploratory report"
+    },
+    {
+        "展覽；陳列": "exposition"
+    },
+    {
+        "師資培育延伸學程": "extended teacher education program"
+    },
+    {
+        "外延量": "extensive quantity"
+    },
+    {
+        "外在效度": "external validity"
+    },
+    {
+        "課外活動": "extracurricular activities"
+    },
+    {
+        "外在動機": "extrinsic motivation"
+    },
+    {
+        "F值": "F ratio"
+    },
+    {
+        "F檢定；F考驗": "F test"
+    },
+    {
+        "臉部表情辨識": "facial expression recognition"
+    },
+    {
+        "因素分析": "factor analysis"
+    },
+    {
+        "因素結構": "factor structure"
+    },
+    {
+        "統合科學教育聯盟": "Federation for Unified Science Education{=FUSE}"
+    },
+    {
+        "回饋系統分析": "feedback system analysis"
+    },
+    {
+        "場地依賴": "field dependence"
+    },
+    {
+        "場地獨立": "field independence"
+    },
+    {
+        "實地教學": "field instruction"
+    },
+    {
+        "實地面談": "field interview"
+    },
+    {
+        "實地觀察技術": "field observation technique"
+    },
+    {
+        "實地研究；田野研究": "field studies"
+    },
+    {
+        "實地教學": "field teaching"
+    },
+    {
+        "場地論": "field theory"
+    },
+    {
+        "野外考察；實地考察；校外教學": "field trip"
+    },
+    {
+        "變通性": "flexibility"
+    },
+    {
+        "流暢性": "fluency"
+    },
+    {
+        "摺合": "folding"
+    },
+    {
+        "形式定義": "formal definition"
+    },
+    {
+        "正規教育": "formal education"
+    },
+    {
+        "制式教學；正規教學": "formal instruction"
+    },
+    {
+        "形式數學；正規數學": "formal mathematics"
+    },
+    {
+        "形式操作；形式運思": "formal operation"
+    },
+    {
+        "形式主義": "formalism"
+    },
+    {
+        "形成性評量": "formative assessment"
+    },
+    {
+        "形成性評鑑": "formative evaluation"
+    },
+    {
+        "形成假說": "formulate hypotheses"
+    },
+    {
+        "函數{數教}": "function"
+    },
+    {
+        "基本概念": "fundamental concept"
+    },
+    {
+        "基本原理": "fundamental principle"
+    },
+    {
+        "基本技能": "fundamental skill"
+    },
+    {
+        "融合課程": "fused curriculum"
+    },
+    {
+        "蓋聶": "Gagne (Robert M.)"
+    },
+    {
+        "蓋聶(內外)條件": "Gagne's condition"
+    },
+    {
+        "蓋聶分類法": "Gagne's taxonomy"
+    },
+    {
+        "普通生物學": "general biology"
+    },
+    {
+        "普通化學": "general chemistry"
+    },
+    {
+        "通識教育": "general education"
+    },
+    {
+        "普通數學": "general mathematics"
+    },
+    {
+        "普通物理": "general physics"
+    },
+    {
+        "一般科學": "general science"
+    },
+    {
+        "通則化{科教}；一般化{數教}": "generalization"
+    },
+    {
+        "類化概念": "generalization concept"
+    },
+    {
+        "全球性評鑑；整體評鑑": "global evaluation"
+    },
+    {
+        "目標成就策略": "goal achievement strategy"
+    },
+    {
+        "目標導向教學練習": "goal oriented teaching exercise"
+    },
+    {
+        "計點平均成績": "grade-point average"
+    },
+    {
+        "畢業要求": "graduation requirement"
+    },
+    {
+        "分組討論": "group discussion"
+    },
+    {
+        "成長模型": "growth model"
+    },
+    {
+        "指導": "guidance"
+    },
+    {
+        "月暈效應": "halo effect"
+    },
+    {
+        "動手做科學": "hands on science"
+    },
+    {
+        "霍桑效應": "Hawthorne effect"
+    },
+    {
+        "詮釋學": "hermeneutics"
+    },
+    {
+        "異質性": "heterogeneity"
+    },
+    {
+        "異質分組": "heterogeneous grouping"
+    },
+    {
+        "啟發法": "heuristic method"
+    },
+    {
+        "啟發式教學": "heuristic teaching"
+    },
+    {
+        "啟發；捷思法": "heuristics"
+    },
+    {
+        "層級分析；階層分析": "hierarchical analysis"
+    },
+    {
+        "能力階層": "hierarchies of competence"
+    },
+    {
+        "高風險測驗": "high stakes test"
+    },
+    {
+        "高層次思考": "higher-order thinking"
+    },
+    {
+        "歷史研究法": "historical research"
+    },
+    {
+        "科學史": "history of science"
+    },
+    {
+        "全方位取向": "holistic approach"
+    },
+    {
+        "全方位評鑑": "holistic evaluation"
+    },
+    {
+        "均勻分佈": "homogeneous distribution"
+    },
+    {
+        "同質分組": "homogeneous grouping"
+    },
+    {
+        "水平數學化": "horizontal mathmatization"
+    },
+    {
+        "假說": "hypothesis"
+    },
+    {
+        "假說考驗": "hypothesis testing"
+    },
+    {
+        "圖像表徵": "iconic representation"
+    },
+    {
+        "認同": "identity"
+    },
+    {
+        "偶發科學經驗": "Incidental Science Experience{=ISE}"
+    },
+    {
+        "獨立學習計畫": "independent learning project"
+    },
+    {
+        "獨立研究": "independent study"
+    },
+    {
+        "個別教學": "individual instruction"
+    },
+    {
+        "個別需求": "individual needs"
+    },
+    {
+        "個別化教育方案": "individualized education program"
+    },
+    {
+        "個別化教學": "individualized instruction"
+    },
+    {
+        "歸納法": "inductive method"
+    },
+    {
+        "推論；推理": "inference"
+    },
+    {
+        "推論技巧，推理技巧": "inference skill"
+    },
+    {
+        "推論式推理分析": "inferential reasoning analysis"
+    },
+    {
+        "非制式評量": "informal assessment"
+    },
+    {
+        "非正規教育": "informal education"
+    },
+    {
+        "非正式學習": "informal learning"
+    },
+    {
+        "非形式數學；非正規數學": "informal mathematics"
+    },
+    {
+        "資訊素養": "information literacy"
+    },
+    {
+        "資訊搜尋": "information seeking"
+    },
+    {
+        "先天觀念": "innate idea"
+    },
+    {
+        "探究": "inquiry"
+    },
+    {
+        "探究取向": "inquiry approach"
+    },
+    {
+        "探究法": "inquiry method"
+    },
+    {
+        "探究訓練": "inquiry training"
+    },
+    {
+        "在職教育": "inservice education"
+    },
+    {
+        "在職教師": "inservice teacher"
+    },
+    {
+        "教師在職教育": "inservice teacher education"
+    },
+    {
+        "教學；指導語": "instruction"
+    },
+    {
+        "教學模組": "instruction module"
+    },
+    {
+        "教學成效": "instructional effectiveness"
+    },
+    {
+        "教學創新": "instructional innovation"
+    },
+    {
+        "教學領導": "instructional leadership"
+    },
+    {
+        "教學媒體": "instructional media"
+    },
+    {
+        "教學模式": "instructional model"
+    },
+    {
+        "教學模組": "instructional module"
+    },
+    {
+        "教學科學": "instructional science"
+    },
+    {
+        "教學效度": "instructional validation"
+    },
+    {
+        "工具": "instrument"
+    },
+    {
+        "工具性了解{數教}": "instrumental understanding"
+    },
+    {
+        "統整活動": "integrated activities"
+    },
+    {
+        "統整課程": "integrated curriculum"
+    },
+    {
+        "統整科學": "integrated science"
+    },
+    {
+        "智能發展": "intellectual development"
+    },
+    {
+        "智能": "intelligence"
+    },
+    {
+        "內含量{數教}": "intensive quantity"
+    },
+    {
+        "有意[圖]學習": "intentional learning"
+    },
+    {
+        "互動分析": "interaction analysis"
+    },
+    {
+        "互動分析量表": "interaction analysis scale"
+    },
+    {
+        "互動態度指標": "interaction attitude index"
+    },
+    {
+        "互動檢核表": "interaction check list"
+    },
+    {
+        "交互系統": "interactive system"
+    },
+    {
+        "交互相關": "intercorrelation"
+    },
+    {
+        "文化交流": "intercultural communication"
+    },
+    {
+        "跨領域取向": "interdisciplinary approach"
+    },
+    {
+        "跨領域研究": "interdisciplinary study"
+    },
+    {
+        "興趣量表": "interest scale"
+    },
+    {
+        "中級科學課程研究(ISCS)": "Intermediate Science Curriculum Study {=ISCS}"
+    },
+    {
+        "中級科學改進研究": "Intermediate Science Improvement Study{=ISIS}"
+    },
+    {
+        "內部評鑑": "internal evaluation"
+    },
+    {
+        "內在效度": "internal validity"
+    },
+    {
+        "內外控": "internal-external control"
+    },
+    {
+        "國際評量": "international assessment"
+    },
+    {
+        "國際教育成就評量學會": "International Association for the Evaluation of Educational Achievement{=IEA}"
+    },
+    {
+        "國際教育": "international education"
+    },
+    {
+        "區間；間隔": "interval"
+    },
+    {
+        "晤談；訪談": "interview"
+    },
+    {
+        "晤談評定量表": "interview rating scale"
+    },
+    {
+        "概論；導論": "introduction"
+    },
+    {
+        "直觀；直覺": "intuition"
+    },
+    {
+        "認知技能量表": "inventory of cognitive skills"
+    },
+    {
+        "自我評估量表": "inventory of self appraisal"
+    },
+    {
+        "項目分析；試題分析": "item analysis"
+    },
+    {
+        "試題反應理論": "item respone theory{=IRT}"
+    },
+    {
+        "項目效度；題目效度": "item validity"
+    },
+    {
+        "初級中學科學課程計畫": "junior secondary science project"
+    },
+    {
+        "知識層次": "knowledge level"
+    },
+    {
+        "柯拉索分類法(情意領域)": "Krathwohl's taxonomy"
+    },
+    {
+        "庫李信度係數": "Kuder-Richardson reliability coefficient"
+    },
+    {
+        "實驗室設備": "laboratory equipment"
+    },
+    {
+        "實驗紀錄簿": "laboratory notebook"
+    },
+    {
+        "實驗室安全": "laboratory safety"
+    },
+    {
+        "實驗學校": "laboratory school"
+    },
+    {
+        "語言科學": "language science"
+    },
+    {
+        "拉丁方格設計": "latin square design"
+    },
+    {
+        "聯結律{數教}": "law of association"
+    },
+    {
+        "勞倫斯科學館": "Lawrence Hall of Science"
+    },
+    {
+        "學習者中心教學": "learner centered instruction"
+    },
+    {
+        "學習活動": "learning activities"
+    },
+    {
+        "做中學": "learning by doing"
+    },
+    {
+        "學習中心": "learning center(classroom)"
+    },
+    {
+        "學習環境": "learning environment"
+    },
+    {
+        "學習經驗": "learning experience"
+    },
+    {
+        "學習如何學": "learning how to learn"
+    },
+    {
+        "學習態式(視、聽、動、觸)": "learning modalities"
+    },
+    {
+        "學習模組": "learning modules"
+    },
+    {
+        "學習動機": "learning motivation"
+    },
+    {
+        "學習問題": "learning problems"
+    },
+    {
+        "學習過程": "learning processes"
+    },
+    {
+        "學習準備度": "learning readiness"
+    },
+    {
+        "學習策略": "learning strategy"
+    },
+    {
+        "學習遷移": "learning transfer"
+    },
+    {
+        "講述法": "lecture method"
+    },
+    {
+        "單元教學研究；課堂研究": "lesson study"
+    },
+    {
+        "博雅教育": "liberal education"
+    },
+    {
+        "生命科學": "life science"
+    },
+    {
+        "終身學習": "lifelong learning"
+    },
+    {
+        "李克特量表": "Likert scale"
+    },
+    {
+        "李克特式態度量表": "Likert type attitude scale"
+    },
+    {
+        "素養；讀寫能力": "literacy"
+    },
+    {
+        "文獻": "literature"
+    },
+    {
+        "生活課程": "living curriculum"
+    },
+    {
+        "邏輯推理": "logical reasoning"
+    },
+    {
+        "邏輯思考": "logical thinking"
+    },
+    {
+        "縱貫研究": "longitudinal research"
+    },
+    {
+        "縱貫研究": "longitudinal study"
+    },
+    {
+        "羅桑智力測驗": "Lorge-Thorndike intelligence test"
+    },
+    {
+        "公立中等學校(法國)": "lycees"
+    },
+    {
+        "郵件調查": "mail surveys"
+    },
+    {
+        "操作材料": "manipulative materials"
+    },
+    {
+        "海洋教育": "marine education"
+    },
+    {
+        "評分量尺；評分標準": "marking scale"
+    },
+    {
+        "精熟學習": "mastery learning"
+    },
+    {
+        "精熟測驗": "mastery test"
+    },
+    {
+        "數學能力": "mathematical ability"
+    },
+    {
+        "數學成就": "mathematics achievement"
+    },
+    {
+        "數學課程": "mathematics curriculum"
+    },
+    {
+        "數學教育": "mathematics education"
+    },
+    {
+        "數學教學": "mathematics instruction"
+    },
+    {
+        "數學素養": "mathematics literacy"
+    },
+    {
+        "數學力": "mathematics power"
+    },
+    {
+        "數學技能": "mathematics skills"
+    },
+    {
+        "數學化": "mathmatization"
+    },
+    {
+        "有意義學習": "meaningful learning"
+    },
+    {
+        "手段與目的分析": "means-ends analysis"
+    },
+    {
+        "測量設備": "measurement equipment"
+    },
+    {
+        "測量誤差": "measurement error"
+    },
+    {
+        "測量工具": "measurement instrument"
+    },
+    {
+        "測量技術": "measurement techniques"
+    },
+    {
+        "媒體研究": "media research"
+    },
+    {
+        "記憶廣度測驗": "memory span test"
+    },
+    {
+        "心像": "mental image(ry)"
+    },
+    {
+        "後設分析": "meta-analysis"
+    },
+    {
+        "後設認知": "metacognition"
+    },
+    {
+        "方法論": "methodology"
+    },
+    {
+        "公制": "metric system"
+    },
+    {
+        "微型教學": "micro teaching"
+    },
+    {
+        "微課程": "microcourse"
+    },
+    {
+        "微型實驗": "microexperiment"
+    },
+    {
+        "中學": "middle school"
+    },
+    {
+        "短期課程": "minicourses"
+    },
+    {
+        "最低能力": "minimum competencies"
+    },
+    {
+        "最低能力測驗": "minimum competency testing"
+    },
+    {
+        "迷思概念": "misconception"
+    },
+    {
+        "記憶術": "mnemonics"
+    },
+    {
+        "模型；模式": "model"
+    },
+    {
+        "建模": "modeling"
+    },
+    {
+        "模組課程": "modular course"
+    },
+    {
+        "模組設計": "modular design"
+    },
+    {
+        "動作發展": "motor development"
+    },
+    {
+        "單選題": "multi-choice item"
+    },
+    {
+        "多位數減法": "multidigit subtraction"
+    },
+    {
+        "多位數/多位全數": "multi-digit whole numbers"
+    },
+    {
+        "多領域取向": "multi-disciplinary approach"
+    },
+    {
+        "多領域研究": "multi-disciplinary study"
+    },
+    {
+        "多媒體教學": "multi-media instruction"
+    },
+    {
+        "多元相關係數；複相關係數": "multiple correlation coefficient"
+    },
+    {
+        "多元素養": "multiple literacies"
+    },
+    {
+        "多重比例": "multiple proportion"
+    },
+    {
+        "多元迴歸分析": "multiple regression analysis"
+    },
+    {
+        "乘法改變[型]": "multiplication change"
+    },
+    {
+        "倍數[型]": "multiplicative"
+    },
+    {
+        "多單位[數]概念結構": "multiunit conceptual structures"
+    },
+    {
+        "多變分析；多變量分析": "multivariate analysis"
+    },
+    {
+        "位名系統": "named-value system"
+    },
+    {
+        "國家科學教學研究協會(美)": "National Association for Research in Science Teaching{=NARST}"
+    },
+    {
+        "國家數學教師學會(美)": "National Council of Teachers of Mathematics{=NCTM}"
+    },
+    {
+        "國家課程計畫(美)": "National Curriculum Projects"
+    },
+    {
+        "國家科學委員會(美)": "National Science Council{=NSC}"
+    },
+    {
+        "國家科學基金會(美)": "National Science Foundation {=NSF}"
+    },
+    {
+        "國家科學教師協會(美)": "National Science Teachers Association{=NSTA}"
+    },
+    {
+        "自然數": "natural numbers"
+    },
+    {
+        "自然觀察": "naturalistic observation"
+    },
+    {
+        "科學本質": "nature of science"
+    },
+    {
+        "新數學": "New Math"
+    },
+    {
+        "無歧視教育": "nondiscriminatory education"
+    },
+    {
+        "常態分配": "normal distribution"
+    },
+    {
+        "常態化": "normalization"
+    },
+    {
+        "常模參照評鑑": "norm-referenced evaluation"
+    },
+    {
+        "常模參照測量": "norm-referenced measurement"
+    },
+    {
+        "常模參照測驗": "norm-referenced test"
+    },
+    {
+        "奈菲爾高級生物科學(英)": "Nuffield A-level biological science"
+    },
+    {
+        "奈菲爾統合科學(英)": "Nuffield combined science"
+    },
+    {
+        "奈菲爾基金會(英)": "Nuffield Foundation"
+    },
+    {
+        "奈菲爾普通級化學(英)": "Nuffield O-level chemistry"
+    },
+    {
+        "奈菲爾物質科學課程(英)": "Nuffield physical science course"
+    },
+    {
+        "奈菲爾科學計畫(英)": "Nuffield science project"
+    },
+    {
+        "虛無假說": "null hypothesis"
+    },
+    {
+        "數": "number"
+    },
+    {
+        "數概念": "number concept"
+    },
+    {
+        "數線": "number line"
+    },
+    {
+        "數運算": "number operation"
+    },
+    {
+        "數感": "number sense"
+    },
+    {
+        "數字": "numeral"
+    },
+    {
+        "物體恆存": "object permanence"
+    },
+    {
+        "目標；客觀": "objective"
+    },
+    {
+        "觀察研究": "observation research"
+    },
+    {
+        "觀察時程表": "observation schedule"
+    },
+    {
+        "觀察技能": "observation skill"
+    },
+    {
+        "觀察學習": "observational learning"
+    },
+    {
+        "觀察者信度": "observer reliability"
+    },
+    {
+        "校外經驗": "off-campus experience"
+    },
+    {
+        "線上調查": "online surveys"
+    },
+    {
+        "開放教室": "open classroom"
+    },
+    {
+        "開放教育": "open education"
+    },
+    {
+        "開區間": "open interval"
+    },
+    {
+        "開放式實驗": "open-ended experiment"
+    },
+    {
+        "開放式意見表": "open-ended opinionnaire"
+    },
+    {
+        "開放式問卷": "open-ended questionnaire"
+    },
+    {
+        "操作型定義": "operational definition"
+    },
+    {
+        "算子；算符": "operator"
+    },
+    {
+        "機會取樣": "opportunity sampling"
+    },
+    {
+        "序數": "ordinal number"
+    },
+    {
+        "有機課程": "organic curriculum"
+    },
+    {
+        "經濟合作發展組織(歐洲)": "Organization for Economic Cooperation and Development{=OECD}"
+    },
+    {
+        "成果本位教育": "outcome based education"
+    },
+    {
+        "戶外教育": "outdoor education"
+    },
+    {
+        "戶外領導": "outdoor leadership"
+    },
+    {
+        "過度練習": "over practice"
+    },
+    {
+        "小組專題討論": "panel discussion"
+    },
+    {
+        "典範；派典": "paradigm"
+    },
+    {
+        "參與觀察": "participant observation"
+    },
+    {
+        "等分除": "partitive division"
+    },
+    {
+        "夥伴教師；合作教師": "partnership teacher"
+    },
+    {
+        "部分-全體；部分-整體": "part-whole"
+    },
+    {
+        "樣式": "pattern"
+    },
+    {
+        "模式分析；樣式分析；組形分析": "pattern analysis"
+    },
+    {
+        "學科教學知識": "Pedagogical Content Knowledge{=PCK}"
+    },
+    {
+        "同儕評鑑": "peer evaluation"
+    },
+    {
+        "同儕評定技術": "peer rating technique"
+    },
+    {
+        "同儕教學": "peer teaching"
+    },
+    {
+        "紙筆測驗": "pencil-and-paper test"
+    },
+    {
+        "百分位數": "percentile"
+    },
+    {
+        "百分等級": "percentile rank"
+    },
+    {
+        "知覺偏好": "perceptual preference"
+    },
+    {
+        "實作[本位]評量；表現[本位]評量": "performance [based] assessment"
+    },
+    {
+        "實作評量": "performance assessment"
+    },
+    {
+        "實作標準": "performance criteria"
+    },
+    {
+        "實作評鑑": "performance evaluation"
+    },
+    {
+        "實作指標": "performance indicator"
+    },
+    {
+        "實作目標": "performance objective"
+    },
+    {
+        "實作行為細目": "performance specification"
+    },
+    {
+        "實作測驗": "performance test"
+    },
+    {
+        "表現本位師資教育": "performance-based teacher education"
+    },
+    {
+        "個人信念量表": "personal beliefs inventory"
+    },
+    {
+        "透視圖": "perspective view"
+    },
+    {
+        "科學哲學": "philosophy of science"
+    },
+    {
+        "皮亞傑": "Piaget"
+    },
+    {
+        "地方本位教育": "place based education"
+    },
+    {
+        "安置性評量": "placement assessment"
+    },
+    {
+        "位值": "place-value"
+    },
+    {
+        "檔案": "portfolio"
+    },
+    {
+        "檔案評量": "portfolio assessment"
+    },
+    {
+        "實作；練習；實踐；實務": "practice"
+    },
+    {
+        "教學實習": "practicum"
+    },
+    {
+        "原理": "principle"
+    },
+    {
+        "先前學習": "prior learning"
+    },
+    {
+        "問題本位學習；問題導向學習": "problem based learning"
+    },
+    {
+        "擬題": "problem posing"
+    },
+    {
+        "問題解決{科教}；解題{數教}": "problem solving"
+    },
+    {
+        "程序性知識": "procedural knowledge"
+    },
+    {
+        "過程教育": "process education"
+    },
+    {
+        "專業發展": "professional development"
+    },
+    {
+        "專業教育": "professional education"
+    },
+    {
+        "編序教材": "programmed instructional material"
+    },
+    {
+        "進展監測": "progress monitoring"
+    },
+    {
+        "計畫；專案研究": "project"
+    },
+    {
+        "提示": "prompting"
+    },
+    {
+        "原案分析": "protocol analysis"
+    },
+    {
+        "立意抽樣": "purposive sampling"
+    },
+    {
+        "質化研究；質性研究": "qualitative research"
+    },
+    {
+        "量化研究": "quantitative research"
+    },
+    {
+        "擬經驗主義": "quasi-empiricism"
+    },
+    {
+        "準實驗設計": "quasi-experimental design"
+    },
+    {
+        "準實驗研究": "quasi-experimental research"
+    },
+    {
+        "問答式晤談": "question-answer interview"
+    },
+    {
+        "發問技巧": "questioning technique"
+    },
+    {
+        "問卷法": "questionnaire method"
+    },
+    {
+        "配額抽樣": "quota sampling"
+    },
+    {
+        "包含除": "quotitive division"
+    },
+    {
+        "根本建構主義；激進建構主義": "radical constructivism"
+    },
+    {
+        "隨機分派": "random assignment"
+    },
+    {
+        "亂數表": "random numbers table"
+    },
+    {
+        "隨機抽樣": "random sampling"
+    },
+    {
+        "評分量表": "rating scale"
+    },
+    {
+        "原始分數": "raw score"
+    },
+    {
+        "可讀性": "readability"
+    },
+    {
+        "準備度": "readiness"
+    },
+    {
+        "閱讀能力": "reading ability"
+    },
+    {
+        "閱讀成就": "reading achievement"
+    },
+    {
+        "閱讀理解": "reading comprehension"
+    },
+    {
+        "閱讀準備度": "reading readiness"
+    },
+    {
+        "推理": "reasoning"
+    },
+    {
+        "推理測驗": "reasoning test"
+    },
+    {
+        "反駁": "rebuttal"
+    },
+    {
+        "相互教學；互惠教學": "reciprocal teaching"
+    },
+    {
+        "面積[型]": "rectangular area"
+    },
+    {
+        "陣列[型]": "rectangular array"
+    },
+    {
+        "參考書目；參考文獻": "references"
+    },
+    {
+        "反思": "reflection"
+    },
+    {
+        "反思抽象": "reflective abstraction"
+    },
+    {
+        "反駁": "refutation"
+    },
+    {
+        "回歸": "regression"
+    },
+    {
+        "回歸分析": "regression analysis"
+    },
+    {
+        "回歸係數": "regression coefficient"
+    },
+    {
+        "回歸方程式": "regression equation"
+    },
+    {
+        "回歸函數": "regression function"
+    },
+    {
+        "增強": "reinforcement"
+    },
+    {
+        "關係性了解": "relational understanding"
+    },
+    {
+        "信度": "reliability"
+    },
+    {
+        "信度分析": "reliability analysis"
+    },
+    {
+        "信度係數": "reliability coefficient"
+    },
+    {
+        "信度指標": "reliability index"
+    },
+    {
+        "補救課程": "remedial course"
+    },
+    {
+        "補救教學": "remedial instuction"
+    },
+    {
+        "補救計畫": "remedial program"
+    },
+    {
+        "表徵": "representation"
+    },
+    {
+        "研究設計": "research design"
+    },
+    {
+        "研究方法": "research method"
+    },
+    {
+        "研究方法論": "research methodology"
+    },
+    {
+        "研究專題；研究計畫": "research project"
+    },
+    {
+        "研究計畫草案": "research proposal"
+    },
+    {
+        "研究評論": "research review"
+    },
+    {
+        "回應率": "response rate"
+    },
+    {
+        "保留測驗": "retention test"
+    },
+    {
+        "回溯法": "retrospective method"
+    },
+    {
+        "可逆性": "reversibility"
+    },
+    {
+        "角色扮演": "role playing"
+    },
+    {
+        "機械式學習": "rote learning"
+    },
+    {
+        "機械記憶": "rote memory"
+    },
+    {
+        "樣本大小": "sample size"
+    },
+    {
+        "抽樣調查": "sample survey"
+    },
+    {
+        "抽樣；取樣": "sampling"
+    },
+    {
+        "抽樣偏誤": "sampling bias"
+    },
+    {
+        "抽樣分布": "sampling distribution"
+    },
+    {
+        "抽樣誤差": "sampling error"
+    },
+    {
+        "抽樣檢查": "sampling inspection"
+    },
+    {
+        "抽樣法": "sampling method"
+    },
+    {
+        "抽樣計畫": "sampling plan"
+    },
+    {
+        "抽樣理論": "sampling theory"
+    },
+    {
+        "抽樣單位": "sampling unit"
+    },
+    {
+        "鷹架": "scaffolding"
+    },
+    {
+        "量表；尺度；量尺": "scale"
+    },
+    {
+        "量表分析": "scale analysis"
+    },
+    {
+        "量表值": "scale value"
+    },
+    {
+        "量表分數": "scaled score"
+    },
+    {
+        "散佈圖": "scatter diagram"
+    },
+    {
+        "基模": "schema"
+    },
+    {
+        "基模(複數)": "schemata"
+    },
+    {
+        "學業成就": "scholastic achievement"
+    },
+    {
+        "學業性向；學術性向": "scholastic aptitude"
+    },
+    {
+        "學業評量測驗": "Scholastic Assessment Test{=SAT}"
+    },
+    {
+        "學校效能": "school effectiveness"
+    },
+    {
+        "入學年齡": "school entrance age"
+    },
+    {
+        "學校準備度": "school readiness"
+    },
+    {
+        "學校再造": "school restructuring"
+    },
+    {
+        "科學": "science"
+    },
+    {
+        "科學成就": "science achievement"
+    },
+    {
+        "科學活動": "science activity"
+    },
+    {
+        "科學營": "science camp"
+    },
+    {
+        "科學生涯": "science career"
+    },
+    {
+        "科學中心": "science center"
+    },
+    {
+        "科學社團": "science club"
+    },
+    {
+        "科學概念學習計畫": "science concept learning project"
+    },
+    {
+        "科學課程改進方案": "science course improvement project"
+    },
+    {
+        "科學課程": "science curriculum"
+    },
+    {
+        "科學課程改進研究": "Science Curriculum Improvement Study{=SCIS}"
+    },
+    {
+        "科學教育": "science education"
+    },
+    {
+        "科學教育史": "science education history"
+    },
+    {
+        "科學設備": "science equipment"
+    },
+    {
+        "科學實驗": "science experiment"
+    },
+    {
+        "科學展覽": "science fair"
+    },
+    {
+        "科幻": "science fiction"
+    },
+    {
+        "科學史": "science history"
+    },
+    {
+        "科學資訊": "science information"
+    },
+    {
+        "科學研究機構": "science institute"
+    },
+    {
+        "科學教學": "science instruction"
+    },
+    {
+        "科學興趣": "science interest"
+    },
+    {
+        "科學實驗室": "science laboratory"
+    },
+    {
+        "科學教材；科學材料": "science material"
+    },
+    {
+        "科學過程技能": "science process skill"
+    },
+    {
+        "科學方案": "science program"
+    },
+    {
+        "科學專題研究；科學計畫": "science project"
+    },
+    {
+        "科學視導": "science supervision"
+    },
+    {
+        "科學教師": "science teacher"
+    },
+    {
+        "科學教學": "science teaching"
+    },
+    {
+        "科學教學中心": "science teaching center"
+    },
+    {
+        "科學測驗": "science test"
+    },
+    {
+        "科學–過程取向": "Science-A Process Approach{=SAPA}"
+    },
+    {
+        "科技資訊": "scientific and technical information"
+    },
+    {
+        "科學性向": "scientific aptitude"
+    },
+    {
+        "科學態度": "scientific attitude"
+    },
+    {
+        "科學概念": "scientific concept"
+    },
+    {
+        "科學好奇心量表": "scientific curiosity inventory"
+    },
+    {
+        "科學事業": "scientific enterprise"
+    },
+    {
+        "科學實驗": "scientific experiment"
+    },
+    {
+        "科學素養": "scientific literacy"
+    },
+    {
+        "科學方法": "scientific method"
+    },
+    {
+        "科學方法論": "scientific methodology"
+    },
+    {
+        "科學原理": "scientific principle"
+    },
+    {
+        "科學研究": "scientific research"
+    },
+    {
+        "評分規準": "scoring rubrics"
+    },
+    {
+        "中學數學": "secondary school mathematics"
+    },
+    {
+        "中學科學": "secondary school science"
+    },
+    {
+        "自我覺察": "self awareness"
+    },
+    {
+        "自我概念": "self concept"
+    },
+    {
+        "自我效能": "self efficacy"
+    },
+    {
+        "自我評鑑": "self evaluation"
+    },
+    {
+        "自陳法": "self-report method"
+    },
+    {
+        "半結構式訪談": "semi-structured interview"
+    },
+    {
+        "感覺動作技能": "sensorimotor skill"
+    },
+    {
+        "感覺動作期": "sensorimotor stage"
+    },
+    {
+        "感官經驗": "sensory experience"
+    },
+    {
+        "序列分析": "sequential analysis"
+    },
+    {
+        "序列性取向": "sequential approach"
+    },
+    {
+        "循序學習": "sequential learning"
+    },
+    {
+        "重要性；顯著性": "significance"
+    },
+    {
+        "顯著水準": "significance level"
+    },
+    {
+        "顯著性考驗": "significance test"
+    },
+    {
+        "簡單隨機抽樣": "simple random sampling"
+    },
+    {
+        "簡單迴歸分析": "simple regression analysis"
+    },
+    {
+        "模擬方法，模擬研究途徑": "simulation approach"
+    },
+    {
+        "模擬實驗": "simulation experiment"
+    },
+    {
+        "技能發展": "skill development"
+    },
+    {
+        "斯金納(實驗)箱": "Skinner Box"
+    },
+    {
+        "小組教學": "small group instruction"
+    },
+    {
+        "社會網絡分析": "social network analysis"
+    },
+    {
+        "社會經濟地位": "socioeconomic status"
+    },
+    {
+        "社會性科學議題": "socioscientific issue"
+    },
+    {
+        "索瑪立方塊": "soma cube"
+    },
+    {
+        "空間知覺": "space perception"
+    },
+    {
+        "空間定位": "spatial orientation"
+    },
+    {
+        "空間關係": "spatial relationship"
+    },
+    {
+        "空間視覺化": "spatial visualization"
+    },
+    {
+        "特殊需求學生": "special needs student"
+    },
+    {
+        "螺旋式課程": "spiral curriculum"
+    },
+    {
+        "折半法": "split-half method"
+    },
+    {
+        "折半信度": "split-half reliability"
+    },
+    {
+        "科學–技學–工程–數學教育": "STEM education"
+    },
+    {
+        "結構式訪談": "structured interviews"
+    },
+    {
+        "學生特質": "student characteristic"
+    },
+    {
+        "學生興趣": "student interest"
+    },
+    {
+        "學生日誌": "student journal"
+    },
+    {
+        "學生專題研究": "student poject"
+    },
+    {
+        "實習教師評鑑": "student teacher evaluation"
+    },
+    {
+        "學生為中心的課程": "student-centered curriculum"
+    },
+    {
+        "學生為中心的學習": "student-centered learning"
+    },
+    {
+        "下位概念": "subordinate concept"
+    },
+    {
+        "上位概念": "superordinate concept"
+    },
+    {
+        "符號表徵": "symbolic representation"
+    },
+    {
+        "任務分析；工作分析": "task analysis"
+    },
+    {
+        "教師特質": "teacher characteristic"
+    },
+    {
+        "教師能力檢定": "teacher competency testing"
+    },
+    {
+        "教師示範": "teacher demonstration"
+    },
+    {
+        "教師效能": "teacher effectiveness"
+    },
+    {
+        "教具": "teaching aids"
+    },
+    {
+        "教學指引": "teaching guide"
+    },
+    {
+        "教材": "teaching material"
+    },
+    {
+        "教學法": "teaching method"
+    },
+    {
+        "教學模式": "teaching model"
+    },
+    {
+        "教學模組": "teaching module"
+    },
+    {
+        "技術教育": "technical education"
+    },
+    {
+        "技學素養": "technological literacy"
+    },
+    {
+        "技學": "technology"
+    },
+    {
+        "技學教育": "technology education"
+    },
+    {
+        "測驗難度": "test difficulty"
+    },
+    {
+        "測驗格式": "test format"
+    },
+    {
+        "測驗常模": "test norm"
+    },
+    {
+        "測驗信度": "test reliability"
+    },
+    {
+        "測驗效度": "test validity"
+    },
+    {
+        "重測法": "test-retest method"
+    },
+    {
+        "文本分析": "text analysis"
+    },
+    {
+        "教科書": "textbook"
+    },
+    {
+        "教科書內容": "textbook content"
+    },
+    {
+        "教科書評鑑": "textbook evaluation"
+    },
+    {
+        "教科書研究": "textbook research"
+    },
+    {
+        "教科書取向教學": "textbook-oriented instruction"
+    },
+    {
+        "理論；學說": "theory"
+    },
+    {
+        "放聲思考": "thinking aloud"
+    },
+    {
+        "思考過程": "thinking process"
+    },
+    {
+        "思考技能": "thinking skill"
+    },
+    {
+        "思考實驗": "thought experiment"
+    },
+    {
+        "時間取樣": "time sampling"
+    },
+    {
+        "時間序列實驗": "time series experiment"
+    },
+    {
+        "陶倫斯創造思考測驗": "Torrance Tests of Creative Thinking{=TTCT}"
+    },
+    {
+        "訓練目標": "training objective"
+    },
+    {
+        "逐字稿；轉錄本": "transcript (written records)"
+    },
+    {
+        "跨領域取向": "transdisciplinary approach"
+    },
+    {
+        "跨領域研究": "transdisciplinary study"
+    },
+    {
+        "學習遷移": "transfer of learning"
+    },
+    {
+        "訓練遷移": "transfer of training"
+    },
+    {
+        "嘗試錯誤法": "trial and error method"
+    },
+    {
+        "教導計畫": "tutorial program"
+    },
+    {
+        "兩步驟問題": "two-step problem"
+    },
+    {
+        "型一錯誤": "type I error"
+    },
+    {
+        "型二錯誤": "type II error"
+    },
+    {
+        "展開": "unfolding"
+    },
+    {
+        "單位數": "unit number"
+    },
+    {
+        "學習單元": "unit of study"
+    },
+    {
+        "單位量": "unit quantity"
+    },
+    {
+        "聯合國教育科學文化組織": "United Nations Educational, Scientific and Cultural Organization{=UNESCO}"
+    },
+    {
+        "效度": "validity"
+    },
+    {
+        "效度係數": "validity coefficient"
+    },
+    {
+        "效度標準，效標": "validity criterion"
+    },
+    {
+        "價值": "value"
+    },
+    {
+        "價值分析": "value analysis"
+    },
+    {
+        "價值澄清": "values clarification"
+    },
+    {
+        "變異性": "variability"
+    },
+    {
+        "變項；變因；變數；變量": "variable"
+    },
+    {
+        "垂直數學化": "vertical mathmatization"
+    },
+    {
+        "垂直思考": "vertical thinking"
+    },
+    {
+        "職業教育": "vocational education"
+    },
+    {
+        "志工訓練": "volunteer training"
+    },
+    {
+        "魏氏兒童智力量表": "Wechsler Intelligence Scale for Children{=WISE}"
+    },
+    {
+        "加權分數": "weighted score"
+    },
+    {
+        "全數；非負整數": "whole number"
+    },
+    {
+        "字詞聯想": "word association"
+    },
+    {
+        "文字題": "word problem"
+    },
+    {
+        "工作記憶": "working memory"
+    },
+    {
+        "工作場域學習": "workplace learning"
+    },
+    {
+        "學習單；工作單；作業單": "worksheet"
+    },
+    {
+        "工作坊": "workshop"
+    },
+    {
+        "世界觀": "world view"
+    },
+    {
+        "近側發展區": "zone of proximal development"
+    },
+    {
+        "Z 分數": "z-score"
+    },
+    {
+        "行動研究 ": "action inquiry"
+    },
+    {
+        "行動─過程─物件─基模（APOS）": "Action-Process-Object-Schema{=APOS}"
+    },
+    {
+        "活動理論": "activity theory"
+    },
+    {
+        "進階學習": "advanced learning"
+    },
+    {
+        "情意領域教學": "affective domain teaching"
+    },
+    {
+        "情意教學目標": "affective domain teaching object "
+    },
+    {
+        "情意反應": "affective response"
+    },
+    {
+        "定錨式教學": "anchored instruction"
+    },
+    {
+        "定錨": "anchoring"
+    },
+    {
+        "ARCS動機模式": "ARCS(Attention-Relevance-Confidence-Satisfaction) model "
+    },
+    {
+        "論證能力": "argumentation ability"
+    },
+    {
+        "論證教學": "argumentation instruction"
+    },
+    {
+        "論證能力": "argumentation skills"
+    },
+    {
+        "論證教學": "argumentation teaching"
+    },
+    {
+        "評量架構 ": "assessment framework"
+    },
+    {
+        "評量工具": "assessment instrument"
+    },
+    {
+        "評量素養": "assessment literacy"
+    },
+    {
+        "評量工具": "assessment tool"
+    },
+    {
+        "非同步遠距教學": "asynchronous distance learning "
+    },
+    {
+        "非同步學習風格": "asynchronous learning style"
+    },
+    {
+        "原子觀，原子論": "atomism"
+    },
+    {
+        "擴增實境": "augmented reality{=AR}"
+    },
+    {
+        "真實科學 ": "authentic science "
+    },
+    {
+        "生命倫理議題": "bioethical issues "
+    },
+    {
+        "生命倫理教育 ": "bioethics education"
+    },
+    {
+        "混合式數位學習": "blended e-learning"
+    },
+    {
+        "混合式學習 ": "blended learning"
+    },
+    {
+        "桌遊": "board games"
+    },
+    {
+        "因果推理": "causal reasoning"
+    },
+    {
+        "因果思考": "causal thinking"
+    },
+    {
+        "兒童語料交換系統": "Child Language Data Exchange System{=CHILDES}"
+    },
+    {
+        "兒童科學": "children's science "
+    },
+    {
+        "引用文獻分析": "citation analysis "
+    },
+    {
+        "概念演化的支序分類取向 ": "cladistics approach in conceptual evolution"
+    },
+    {
+        "課室教學": "classroom practices"
+    },
+    {
+        "教室回饋系統": "classroom response system"
+    },
+    {
+        "引文分析": "co-citation analysis"
+    },
+    {
+        "認知師徒制": "cognitive apprenticeship"
+    },
+    {
+        "認知特性 ": "cognitive characteristics"
+    },
+    {
+        "認知衝突": "cognitive conflict"
+    },
+    {
+        "認知需求": "cognitive demand"
+    },
+    {
+        "認知投入": "cognitive engagement"
+    },
+    {
+        "認知負荷": "cognitive load"
+    },
+    {
+        "認知模式 ": "cognitive model"
+    },
+    {
+        "認知類型": "cognitive patterns "
+    },
+    {
+        "認知策略": "cognitive strategy"
+    },
+    {
+        "認知結構 ": "cognitive structure"
+    },
+    {
+        "協作學習": "collaborative learning"
+    },
+    {
+        "協同教學": "collaborative teaching"
+    },
+    {
+        "集體論證": "collective argumentation"
+    },
+    {
+        "一般內容知識": "common content knowledge{= CCK}"
+    },
+    {
+        "共同因素分析 ": "common factor analysis"
+    },
+    {
+        "溝通模式 ": "communication pattern"
+    },
+    {
+        "實作社群": "community of practice "
+    },
+    {
+        "能力本位學習": "competency-based learning"
+    },
+    {
+        "能力本位網路學習 ": "competency-based web learning"
+    },
+    {
+        "理解能力": "comprehension ability"
+    },
+    {
+        "電腦輔助學習 ": "Computer Assisted Learning{=CAL}"
+    },
+    {
+        "電腦支援協作學習": "Computer Supported Collaborative Learning{=CSCL}"
+    },
+    {
+        "專注力": "concentration"
+    },
+    {
+        "專注力模式 ": "concentration model"
+    },
+    {
+        "專注力問卷": "concentration questionnaire"
+    },
+    {
+        "概念分析": "concept analysis"
+    },
+    {
+        "概念卡通": "concept cartoon"
+    },
+    {
+        "概念形成": "concept formation"
+    },
+    {
+        "概念研究": "concept research"
+    },
+    {
+        "數學觀念；數學概念": "conception of mathematics"
+    },
+    {
+        "概念類型": "conceptual category"
+    },
+    {
+        "概念改變 ": "conceptual change"
+    },
+    {
+        "概念衝突": "conceptual conflict"
+    },
+    {
+        "概念發展": "conceptual development"
+    },
+    {
+        "概念演化樹 ": "conceptual evolution tree"
+    },
+    {
+        "概念學習": "conceptual learning"
+    },
+    {
+        "概念理解": "conceptual understanding"
+    },
+    {
+        "關注本位採用模式": "Concerns-Based Adoption Model{=CBAM}"
+    },
+    {
+        "驗證性因素分析": "confirmatory factor analysis{=CFA}"
+    },
+    {
+        "保留推理": "conservative reasoning"
+    },
+    {
+        "一致性分析": "consistency analysis"
+    },
+    {
+        "建構主義者": "constructivist"
+    },
+    {
+        "建構取向教學 ": "constructivist approach teaching "
+    },
+    {
+        "建構論教學策略": "constructivist teaching strategy"
+    },
+    {
+        "脈絡化數學問題": "contextual mathematics problem"
+    },
+    {
+        "爭議性議題": "controversial issue"
+    },
+    {
+        "合作行動研究": "cooperative action research"
+    },
+    {
+        "合作學習態度": "cooperative learning attitude"
+    },
+    {
+        "合作學習策略": "cooperative learning strategy"
+    },
+    {
+        "創造性問題解決": "creative problem solving"
+    },
+    {
+        "創意自我效能": "creative self-efficacy"
+    },
+    {
+        "創造力傾向": "creative tendency"
+    },
+    {
+        "批判思考能力": "critical thinking ability"
+    },
+    {
+        "批判思考傾向 ": "critical thinking disposition"
+    },
+    {
+        "批判思考技巧": "critical thinking skill"
+    },
+    {
+        "文化表徵 ": "cultural representation"
+    },
+    {
+        "文化相關教學": "culturally relevant teaching"
+    },
+    {
+        "文化本位數學模組": "culture-based mathematics modules"
+    },
+    {
+        "文化情境學習": "culture-situated learning"
+    },
+    {
+        "課程標竿": "curricular benchmark"
+    },
+    {
+        "課程架構 ": "curriculum framework"
+    },
+    {
+        "課程領導 ": "curriculum leadership"
+    },
+    {
+        " 德懷術；大慧法": "Delphi technique"
+    },
+    {
+        "設計本位科學學習": "design-based science learning"
+    },
+    {
+        "數位遊戲": "digital game"
+    },
+    {
+        "數位移民": "digital immigrant"
+    },
+    {
+        "數位學習": "digital learning"
+    },
+    {
+        "數位媒體": "digital media"
+    },
+    {
+        "數位原民": "digital native"
+    },
+    {
+        "學科核心概念": "disciplinary core ideas  {=DCI}"
+    },
+    {
+        "言談；論述": "discourse"
+    },
+    {
+        "言談分析；論述分析": "discourse analysis"
+    },
+    {
+        "遠距學習 ": "distance learning"
+    },
+    {
+        "文件分析": "documentary analysis"
+    },
+    {
+        "地球系統教育": "earth system education"
+    },
+    {
+        "地球系統科學課程": "earth system science curriculum"
+    },
+    {
+        "教育數位遊戲": "Educational Computer  Game"
+    },
+    {
+        "效果量": "effect size"
+    },
+    {
+        "數位學習": "e-learning"
+    },
+    {
+        "小學數學": "elementary mathematics"
+    },
+    {
+        "小學數學教科書": "elementary mathematics textbook"
+    },
+    {
+        "小學": "elementary school "
+    },
+    {
+        "小學科學": "elementary science"
+    },
+    {
+        "小學科學教育": "elementary science education"
+    },
+    {
+        "新興議題": "emerging issue"
+    },
+    {
+        "新興科技 ": "emerging technology"
+    },
+    {
+        "能源議題": "energy issue"
+    },
+    {
+        "能源素養": "energy literacy"
+    },
+    {
+        "節能；節約能源": "energy saving"
+    },
+    {
+        "節能減碳": "energy saving and carbon reduction"
+    },
+    {
+        "參與科學學習": "engagement in science learning"
+    },
+    {
+        "環境行動": "environmental action"
+    },
+    {
+        "環境學習中心": "environmental learning center"
+    },
+    {
+        "環境覺知": "environmental perception"
+    },
+    {
+        "環保 ；環境保護": "environmental protection"
+    },
+    {
+        "數位歷程檔案": "e-portfolio"
+    },
+    {
+        "評鑑指標": "evaluation indicator"
+    },
+    {
+        "評鑑工具": "evaluation instrument"
+    },
+    {
+        "期望地位理論": "expectation states theory"
+    },
+    {
+        "明示教學；顯式教學": "explicit teaching"
+    },
+    {
+        "魚骨圖 ": "fishbone diagram"
+    },
+    {
+        "翻轉教學": "flipped teaching"
+    },
+    {
+        "心流經驗": "flow experience"
+    },
+    {
+        "遊戲本位學習": "game-based learning"
+    },
+    {
+        "可推論性；通則性": "generalizability"
+    },
+    {
+        "科學教育目標 ": "goals of science education"
+    },
+    {
+        "圖形表徵": "graphic representation"
+    },
+    {
+        "溫室效應": "greenhouse effect"
+    },
+    {
+        "紮根理論": "grounded theory"
+    },
+    {
+        "團體探討": "group investigation"
+    },
+    {
+        "引導發現式教學": "guided discovery teaching"
+    },
+    {
+        "動手做": "hands-on"
+    },
+    {
+        "階層線性模式 ": "hierarchical linear model"
+    },
+    {
+        "階層觀點": "hierarchical view"
+    },
+    {
+        "數學史與數學教育": "history and  pedagogy of mathematics {=HPM}"
+    },
+    {
+        "整體學習": "holistic learning"
+    },
+    {
+        "水平數學知識": "horizon content knowledge {=HCK}"
+    },
+    {
+        "水平內容知識": "horizon content knowledge {=HCK}"
+    },
+    {
+        "熱認知": "hot cognition"
+    },
+    {
+        "建立假說": "hypothesis building"
+    },
+    {
+        "假說性學習軌跡；假設性學習軌跡": "hypothetical learning trajectory {= HLT}"
+    },
+    {
+        "內隱教學；隱式教學": "implicit teaching"
+    },
+    {
+        " 不相容假說": "incompatibility hypothesis"
+    },
+    {
+        "深度訪談": "in-depth interview "
+    },
+    {
+        "原住民族科學教育": "indigenous science education"
+    },
+    {
+        "非制式推理": "informal reasoning"
+    },
+    {
+        "非制式科學教育": "informal science education"
+    },
+    {
+        "創新教學": "innovative teaching"
+    },
+    {
+        "探究教學": "inquiry instruction"
+    },
+    {
+        "探究學習": "inquiry learning"
+    },
+    {
+        "探究教學": "inquiry teaching"
+    },
+    {
+        "探究本位課程": "inquiry-based curriculum"
+    },
+    {
+        "探究本位學習": "inquiry-based learning"
+    },
+    {
+        "探究本位教學": "inquiry-based teaching"
+    },
+    {
+        "教學設計 ": "instructional design "
+    },
+    {
+        "教學經營": "instructional management"
+    },
+    {
+        "教學媒體": "instructional media"
+    },
+    {
+        "教學方法 ": "instructional method"
+    },
+    {
+        "教學模組 ": "instructional module "
+    },
+    {
+        "教學策略": "instructional strategy"
+    },
+    {
+        "互動式歷史小故事": "interactive historical vignettes"
+    },
+    {
+        "互動教學": "interactive teaching"
+    },
+    {
+        "跨領域教育": "interdisciplinary education"
+    },
+    {
+        "國際科學教育協會理事會": "International Council of Associations for Science Education  {=ICASE}"
+    },
+    {
+        "學科間統整 ": "inter-subject integration"
+    },
+    {
+        "學科內統整": "intra-subject integration"
+    },
+    {
+        "內在動機": "intrinsic motivation"
+    },
+    {
+        "直覺信念": "intuitive belief "
+    },
+    {
+        "量表編製": "inventory development"
+    },
+    {
+        "議題分析 ": "issue analysis"
+    },
+    {
+        "題庫": "item bank "
+    },
+    {
+        "知識地圖": "knowledge map"
+    },
+    {
+        "內容與課程知識": "knowledge of content and curriculum{=KCC}"
+    },
+    {
+        "內容與學生知識": "knowledge of content and students {=KCS }"
+    },
+    {
+        "內容與教學知識": "knowledge of content and teaching{=KCT}"
+    },
+    {
+        "知識表徵": "knowledge representation "
+    },
+    {
+        "知識結構": "knowledge structure"
+    },
+    {
+        "科學語言": "language of science "
+    },
+    {
+        "大規模評量": "large-scale assessment"
+    },
+    {
+        "學習環境量表": "leaning environment instrument"
+    },
+    {
+        "學習成就": "learning achievement"
+    },
+    {
+        "學習態度": "learning attitude"
+    },
+    {
+        "學習效果": "learning effect"
+    },
+    {
+        "學習成效": "learning effectiveness"
+    },
+    {
+        "學習模式": "learning model"
+    },
+    {
+        "學習需求": "learning needs"
+    },
+    {
+        "學習機會": "learning opportunity"
+    },
+    {
+        "學習成果": "learning outcome"
+    },
+    {
+        "學習歷程檔案": "learning portfolio"
+    },
+    {
+        "學習反應": "learning response"
+    },
+    {
+        "學習鷹架": "learning scaffolding"
+    },
+    {
+        "學習風格": "learning style"
+    },
+    {
+        "遊戲中學習": "learning through play"
+    },
+    {
+        "學習時間": "learning time"
+    },
+    {
+        "學習時間分佈 ": "learning time distribution"
+    },
+    {
+        "合法的邊緣性參與": "legitimate peripheral participation"
+    },
+    {
+        "邏輯推理能力": "logical reasoning ability"
+    },
+    {
+        "縱貫性分析": "longitudinal analysis"
+    },
+    {
+        "數學臆測": "mathematical conjecture"
+    },
+    {
+        "數學教學知識": "mathematical knowledge for teaching {=MKT}"
+    },
+    {
+        "數學建模": "mathematical modeling"
+    },
+    {
+        "數學解題": "mathematical problem solving"
+    },
+    {
+        "數學文字題": "mathematical word problem"
+    },
+    {
+        "數學討論": "mathematics discussion"
+    },
+    {
+        "脈絡數學": "Mathematics in Context {=MiC}"
+    },
+    {
+        "數學教學內容知識": "mathematics pedagogical content knowledge"
+    },
+    {
+        "數學表現": "mathematics performance"
+    },
+    {
+        "數學佈題 ": "mathematics problem-posing"
+    },
+    {
+        "數學自我概念": "mathematics self-concept"
+    },
+    {
+        "數學師資培育": "mathematics teacher education "
+    },
+    {
+        "數學教學知識": "mathematics teaching knowledge"
+    },
+    {
+        "數學教科書": "mathematics textbook"
+    },
+    {
+        "數學理解": "mathematics understanding "
+    },
+    {
+        "數學寫作": "mathematics writing"
+    },
+    {
+        "媒體效應": "media effect"
+    },
+    {
+        "心智模式": "mental model"
+    },
+    {
+        "心智表徵 ": "mental representation"
+    },
+    {
+        "心智狀態": "mental states "
+    },
+    {
+        "後設認知策略": "metacognitive strategy"
+    },
+    {
+        "混合實境": "mixed reality{=MR}"
+    },
+    {
+        "行動學習 ": "mobile learning"
+    },
+    {
+        "建模教學": "modeling instruction"
+    },
+    {
+        "建模歷程": "modeling process"
+    },
+    {
+        "調節式中介模型": "moderated mediation model"
+    },
+    {
+        "多元文化科學教育": "multicultural science education "
+    },
+    {
+        "多重類比": "multiple analogies"
+    },
+    {
+        "多元評量 ": "multiple assessment "
+    },
+    {
+        "多元教學": "multiple instruction "
+    },
+    {
+        "多元智能": "multiple intelligences "
+    },
+    {
+        "多重表徵": "multiple representations"
+    },
+    {
+        "奈米科技": "nanotechnology"
+    },
+    {
+        "敘事研究；敘說研究": "narrative research"
+    },
+    {
+        "全國抽樣": "national sampling"
+    },
+    {
+        "全國調查": "national survey"
+    },
+    {
+        "自然科學": "natural science"
+    },
+    {
+        "數學本質": "nature of mathematics"
+    },
+    {
+        "非例行性數學問題": "non-routine mathematical problem"
+    },
+    {
+        "本體論": "ontology "
+    },
+    {
+        "開放式探究": "open-inquiry"
+    },
+    {
+        "物質的粒子模式": "particle model of matter "
+    },
+    {
+        "同儕互評": "peer assessment"
+    },
+    {
+        "同儕教練": "peer coaching"
+    },
+    {
+        "同儕互動": "peer interaction"
+    },
+    {
+        "感知因素": "perceived factors"
+    },
+    {
+        "實務利害關係人": "practice stakeholder"
+    },
+    {
+        "實作；實踐；實務": "practices"
+    },
+    {
+        "先前概念{科教}；前置概念{數教}": "preconception"
+    },
+    {
+        "述詞分析 ": "predicate analysis "
+    },
+    {
+        "預測": "prediction"
+    },
+    {
+        "預測-觀察-解釋": "prediction-observation-explanation{=POE}"
+    },
+    {
+        "職前教師": "pre-service teacher"
+    },
+    {
+        "先前知識 ": "prior knowledge"
+    },
+    {
+        "發現問題": "problem finding"
+    },
+    {
+        "問題表徵": "problem representation"
+    },
+    {
+        "問題解決能力；解題能力": "problem solving competence"
+    },
+    {
+        "問題解決表現；解題表現 ": "problem solving performance"
+    },
+    {
+        "問題導向學習；問題本位學習": "problem-based learning"
+    },
+    {
+        "問題解決能力 ": "problem-solving ability"
+    },
+    {
+        "過程導向教學": "process-oriented teaching"
+    },
+    {
+        "專業成長": "professional growth"
+    },
+    {
+        "數學教學專業知能": "professional knowledge/competence of mathematics teaching"
+    },
+    {
+        "專業學習社群": "professional learning community"
+    },
+    {
+        "專業標準": "professional standards"
+    },
+    {
+        "學程評鑑；方案評鑑": "program evaluation"
+    },
+    {
+        "學生能力國際評量計畫{=PISA} ": "program(me) for international student assessment {=PISA}"
+    },
+    {
+        "專題本位學習 ": "project-based learning"
+    },
+    {
+        "真實數學 教育；現實數學教育": "realistic mathematics education {=RME} "
+    },
+    {
+        "推理技能": "reasoning skills"
+    },
+    {
+        "辨識學習": "recognition learning"
+    },
+    {
+        "反思行動研究": "reflective action research"
+    },
+    {
+        "反思實踐": "reflective practice"
+    },
+    {
+        "反思": "reflective thinking"
+    },
+    {
+        "重複樣式": "repeating pattern"
+    },
+    {
+        "負責的環境行為": "responsible environmental behavior"
+    },
+    {
+        "鷹架教學": "scaffolding instruction"
+    },
+    {
+        "鷹架理論 ": "scaffolding theory"
+    },
+    {
+        "學校環境 ": "school environments"
+    },
+    {
+        "校本課程": "school-based curriculum"
+    },
+    {
+        "科學與工程實作": "science and engineering practices {=SEP}"
+    },
+    {
+        "科學論證 ": "science argumentation"
+    },
+    {
+        "科學論證能力": "science argumentation ability "
+    },
+    {
+        "科學傳播": "science communication"
+    },
+    {
+        "科學能力": "science competency"
+    },
+    {
+        "科學創造力": "science creativity"
+    },
+    {
+        "科學探究": "science inquiry"
+    },
+    {
+        "科學探究能力": "science inquiry ability"
+    },
+    {
+        "科學知識架構": "science knowledge framework"
+    },
+    {
+        "科學學習": "science learning"
+    },
+    {
+        "科學學習生態系統": "science learning ecosystem"
+    },
+    {
+        "科學學習動機": "science learning motivation"
+    },
+    {
+        "科學學習成果": "science learning outcome"
+    },
+    {
+        "科學素養": "science literacy"
+    },
+    {
+        "科學過程技能測驗": "science process skills test"
+    },
+    {
+        "科學自我效能": "science self-efficacy"
+    },
+    {
+        "科學資優生": "science talented student "
+    },
+    {
+        "科學對談": "science talks"
+    },
+    {
+        "科學師資培育": "science teacher education"
+    },
+    {
+        "科學文本": "science text"
+    },
+    {
+        "科學教科書": "science textbook "
+    },
+    {
+        "科學寫作": "science writing"
+    },
+    {
+        "啟發式科學寫作": "science writing heuristic {=SWH}"
+    },
+    {
+        "科學論證": "scientific argumentation"
+    },
+    {
+        "科學創造思考 ": "scientific creative thinking"
+    },
+    {
+        "科學創造力": "scientific creativity "
+    },
+    {
+        "科學認識觀": "scientific epistemological views"
+    },
+    {
+        "科學想像力": "scientific imagination"
+    },
+    {
+        "科學推理 ": "scientific reasoning"
+    },
+    {
+        "科學思考": "scientific thinking "
+    },
+    {
+        "自主學習": "self-directed learning"
+    },
+    {
+        "情境認知": "situated cognition"
+    },
+    {
+        "情境學習": "situated learning "
+    },
+    {
+        "情境興趣": "situational interest"
+    },
+    {
+        "社會建構論": "social constructionism"
+    },
+    {
+        "社會建構主義": "social constructivism"
+    },
+    {
+        "社經地位": "socio-economic status"
+    },
+    {
+        "科技社會學": "sociology of technology"
+    },
+    {
+        " 蘇格拉底詰問模式 ": "socratic questioning model"
+    },
+    {
+        "特殊內容知識": "specialized content knowledge {=SCK}"
+    },
+    {
+        "專業知能標準": "standards of professional knowledge/competence"
+    },
+    {
+        " 結構方程模型；結構方程模式": "structural equation modeling{=SEM}"
+    },
+    {
+        "學科內容知識": "subject matter knowledge {=SMK}"
+    },
+    {
+        "人才培育": "talent cultivation"
+    },
+    {
+        "科技教學內容知識": "technology  pedagogical content knowledge {=TPCK/TPACK}"
+    },
+    {
+        "科技接受模式": "technology acceptance model"
+    },
+    {
+        "科學本質 ": "the nature of science "
+    },
+    {
+        "三階段診斷工具": "three-tier diagnostic instrument"
+    },
+    {
+        "圖爾明論證模式": "Toulmin argument pattern{=TAP}"
+    },
+    {
+        "Toulmin論證模式(TAP )": "Toulmin's argument pattern {=TAP}"
+    },
+    {
+        "二階段診斷測驗": "two-tier diagnostic test"
+    },
+    {
+        "V形圖 ": "Vee diagram"
+    },
+    {
+        "影音片段": "video clips"
+    },
+    {
+        "虛擬實驗": "virtual experiment"
+    },
+    {
+        "虛擬實境": "virtual reality{=VR}"
+    },
+    {
+        "後驗分析": "a posteriori analysis"
+    },
+    {
+        "先驗分析": "a priori analysis"
+    },
+    {
+        "反繹-歸納行動；溯因-歸納行動": "abductive-inductive actions"
+    },
+    {
+        "抽象數學": "abstract mathematics"
+    },
+    {
+        "抽象表徵": "abstract representation"
+    },
+    {
+        "脈絡萃取；脈絡抽象化": "Abstraction in Context{=AiC}"
+    },
+    {
+        "學術脈絡": "academic context"
+    },
+    {
+        "學術語言": "academic language"
+    },
+    {
+        "有據談話": "accountable talk"
+    },
+    {
+        "成就目標理論": "achievement goal theory"
+    },
+    {
+        "行動教育": "action education"
+    },
+    {
+        "主動學習架構": "active learning framework"
+    },
+    {
+        "活動-效果關係": "activity-effect relationship"
+    },
+    {
+        "溝通行為": "acts of communication"
+    },
+    {
+        "解釋行為": "acts of interpretation"
+    },
+    {
+        "實無限": "actual infinity"
+    },
+    {
+        "加法推理": "additive reasoning"
+    },
+    {
+        "成人算術": "adult numeracy"
+    },
+    {
+        "進階數學概念": "advanced mathematical concepts"
+    },
+    {
+        "進階數學思考；進階數學思維": "advanced mathematical thinking"
+    },
+    {
+        "情意結構": "affect structure"
+    },
+    {
+        "情意因素": "affective factor"
+    },
+    {
+        "情意反應": "affective reaction"
+    },
+    {
+        "代數活動": "algebraic activity"
+    },
+    {
+        "代數和空間關係": "algebraic and spatial relations"
+    },
+    {
+        "代數一般化": "algebraic generalization"
+    },
+    {
+        "代數推理": "algebraic reasoning"
+    },
+    {
+        "代數符號": "algebraic symbolism"
+    },
+    {
+        "代數思維；代數思考": "algebraic thinking"
+    },
+    {
+        "代數化": "algebraisation"
+    },
+    {
+        "乘法算則": "algorithm for multiplication"
+    },
+    {
+        "另有概念": "alternative conception"
+    },
+    {
+        "類比物件": "analog object"
+    },
+    {
+        "類比推理": "analogical reasoning"
+    },
+    {
+        "類比思維；類比思考": "analogical thinking"
+    },
+    {
+        "分析圖；解析圖": "analytical drawing"
+    },
+    {
+        "分析架構": "analytical framework"
+    },
+    {
+        "人類學權威": "anthropological authority"
+    },
+    {
+        "人類學教學理論": "anthropological theory of didactics"
+    },
+    {
+        "焦慮": "anxiety"
+    },
+    {
+        "評價語言學": "appraisal linguistics"
+    },
+    {
+        "論證分析": "argumentation analysis"
+    },
+    {
+        "論證與證明": "argumentation and proof"
+    },
+    {
+        "論證架構": "argumentation scheme"
+    },
+    {
+        "論證語法": "argumentative grammar"
+    },
+    {
+        "論點與工具": "argument and tool"
+    },
+    {
+        "算術-代數過渡": "arithmetic–algebra transition"
+    },
+    {
+        "算術-代數思考": "arithmetico-algebraic thinking"
+    },
+    {
+        "評量規準": "assessment criteria"
+    },
+    {
+        "高風險學生，懸崖學生": "at-risk students"
+    },
+    {
+        "注意力轉移": "attentional shift"
+    },
+    {
+        "對數學的態度": "attitude towards mathematics"
+    },
+    {
+        "真實性調查任務；真實性探究任務": "authentic investigative tasks"
+    },
+    {
+        "真實數學": "authentic mathematics"
+    },
+    {
+        "真實情境": "authentic situation"
+    },
+    {
+        "權限圖": "authority diagram"
+    },
+    {
+        "自主學習": "autonomous learning"
+    },
+    {
+        "公理化": "axiomatization"
+    },
+    {
+        "巴比倫數學": "Babylonian mathematics"
+    },
+    {
+        "來回模型": "Back and Forth model"
+    },
+    {
+        "貝氏推論": "Bayesian inference"
+    },
+    {
+        "貝氏思考": "Bayesian thinking"
+    },
+    {
+        "初任數學教師": "beginning mathematics teacher"
+    },
+    {
+        "信念模式": "belief model"
+    },
+    {
+        "信念系統": "belief system"
+    },
+    {
+        "數學教與學的信念": "beliefs about mathematics teaching and learning"
+    },
+    {
+        "大概念": "big idea"
+    },
+    {
+        "加州數學課程": "California math curriculum"
+    },
+    {
+        "個案分析": "case analysis"
+    },
+    {
+        "案例法、個案法": "case method"
+    },
+    {
+        "確定本位評量": "certainty-based assessment"
+    },
+    {
+        "確定本位標記": "Certainty-Based Marking{=CBM}"
+    },
+    {
+        "兒童算術思考": "children's arithmetical thinking"
+    },
+    {
+        "兒童概念": "children's conception"
+    },
+    {
+        "兒童建構": "children's construction"
+    },
+    {
+        "兒童非正式知識": "children's informal knowledge"
+    },
+    {
+        "兒童心智策略": "children's mental strategy"
+    },
+    {
+        "兒童敘事": "children's narrative"
+    },
+    {
+        "兒童策略": "children's strategy"
+    },
+    {
+        "班級氣氛": "classroom climate"
+    },
+    {
+        "課室文化": "classroom culture"
+    },
+    {
+        "教室言談": "classroom discourse"
+    },
+    {
+        "認知複雜度": "cognitive complexity"
+    },
+    {
+        "認知二元性": "cognitive duality"
+    },
+    {
+        "認知動力學": "cognitive dynamics"
+    },
+    {
+        "認知運思；認知操作": "cognitive operation"
+    },
+    {
+        "認知悖論": "cognitive paradox"
+    },
+    {
+        "認知心理學": "cognitive psychology"
+    },
+    {
+        "認知-後設認知架構": "cognitive-metacognitive framework"
+    },
+    {
+        "協同探究": "collaborative inquiry"
+    },
+    {
+        "協同專業發展": "collaborative professional development"
+    },
+    {
+        "集體知曉力": "collective knowing"
+    },
+    {
+        "評量的共同任務": "Common Tasks for Assessment {=CTA}"
+    },
+    {
+        "電腦本位數學教育": "computer-based mathematics education"
+    },
+    {
+        "電腦化專題本位學習": "computerized project-based learning"
+    },
+    {
+        "電腦支援協同學習": "computer-supported collaborative learning"
+    },
+    {
+        "概念定義": "concept definition"
+    },
+    {
+        "行動中的概念": "concept in action"
+    },
+    {
+        "行動的概念": "concept of action"
+    },
+    {
+        "概念隱喻": "conceptual metaphor"
+    },
+    {
+        "概念化": "conceptualisation"
+    },
+    {
+        "具體表徵": "concrete representation"
+    },
+    {
+        "信心本位評量": "confidence-based assessment"
+    },
+    {
+        "儒家傳承文化": "Confucian heritage culture"
+    },
+    {
+        "儒家思想": "Confucianism"
+    },
+    {
+        "臆測證明問題": "conjecture-and-proof problems"
+    },
+    {
+        "建立共識": "consensus building"
+    },
+    {
+        "脈絡本位學習；情境本位學習": "context-based learning"
+    },
+    {
+        "脈絡本位任務；情境本位任務": "context-based task"
+    },
+    {
+        "脈絡因素；情境因素": "contextual factor"
+    },
+    {
+        "脈絡知識；情境知識": "contextual knowledge"
+    },
+    {
+        "脈絡工具；情境工具": "contextual tool"
+    },
+    {
+        "脈絡化": "contextualisation"
+    },
+    {
+        "教師的繼續教育": "continuing education for teacher"
+    },
+    {
+        "繼續專業發展": "Continuing professional development{=CPD}"
+    },
+    {
+        "會話分析；交談分析；會談分析": "conversation analysis"
+    },
+    {
+        "合作教師": "cooperating teacher"
+    },
+    {
+        "合作探究": "cooperative inquiry"
+    },
+    {
+        "因應策略": "coping strategy"
+    },
+    {
+        "反例": "counterexample"
+    },
+    {
+        "計數系統": "counting system"
+    },
+    {
+        "共變推理": "covariational reasoning"
+    },
+    {
+        "數學創造力": "creativity in mathematics"
+    },
+    {
+        "批判態度": "critical attitude"
+    },
+    {
+        "批判話語分析；批判言談分析；批判論述分析": "critical discourse analysis"
+    },
+    {
+        "批判素養": "critical literacy"
+    },
+    {
+        "批判的後現代理論": "critical postmodern theory"
+    },
+    {
+        "批判數學素養": "criticalmathematical literacy"
+    },
+    {
+        "跨文化學習；泛文化學習": "cross-cultural learning"
+    },
+    {
+        "跨文化思考；泛文化思考": "cross-cultural thinking"
+    },
+    {
+        "文化歷史活動理論": "cultural - historical activity theory"
+    },
+    {
+        "文化覺知；文化覺察；文化意識": "cultural awareness"
+    },
+    {
+        "文化建構主義": "cultural constructivism"
+    },
+    {
+        "文化脈絡": "cultural context"
+    },
+    {
+        "客觀化的文化理論": "cultural theory of objectification"
+    },
+    {
+        "文化回應教育": "culturally responsive education"
+    },
+    {
+        "課程軌跡": "curricular trajectory"
+    },
+    {
+        "課程意識形態": "curriculum ideology"
+    },
+    {
+        "資料詮釋；資料判讀": "data interpretation"
+    },
+    {
+        "十進制表示法": "decimal representation"
+    },
+    {
+        "去脈絡化與再脈絡化理論": "decontextualizing and recontextualizing theory"
+    },
+    {
+        "去脈絡化理論": "decontextualizing theory"
+    },
+    {
+        "再脈絡化理論": "recontextualizing theory"
+    },
+    {
+        "演繹推理": "deductive reasoning"
+    },
+    {
+        "定義反駁": "defining refutation"
+    },
+    {
+        "設計本位工作坊": "design-based workshop"
+    },
+    {
+        "發展理解": "developing understanding"
+    },
+    {
+        "診斷臆測任務": "diagnostic conjecturing task"
+    },
+    {
+        "診斷設計": "diagnostic design"
+    },
+    {
+        "圖解推理": "diagrammatic reasoning"
+    },
+    {
+        "新舊方法的辯證": "dialectic between old and new ways"
+    },
+    {
+        "對話社群": "dialogic community"
+    },
+    {
+        "講授教育": "didactic education"
+    },
+    {
+        "講授數學知識": "didactic-mathematical knowledge"
+    },
+    {
+        "數學教學法": "didactics of mathematics"
+    },
+    {
+        "數學教學法": "didactique of mathematics"
+    },
+    {
+        "言談理論": "discourse theory"
+    },
+    {
+        "論述心理學；話語心理學": "discursive psychology"
+    },
+    {
+        "論述圖形推理": "discursive-graphic reasoning"
+    },
+    {
+        "分布式思維；分散式思維": "distributed thinking"
+    },
+    {
+        "雙重歷程模式": "dual process model"
+    },
+    {
+        "雙重歷程理論": "dual process theory"
+    },
+    {
+        "動態與靜態轉換": "dynamic and static transformation"
+    },
+    {
+        "動態幾何環境": "Dynamic Geometry Environment{=DGE}"
+    },
+    {
+        "動態幾何軟體": "dynamic geometry software"
+    },
+    {
+        "動態數學科技": "dynamic mathematical technology"
+    },
+    {
+        "動態表徵": "dynamic representation"
+    },
+    {
+        "動態視覺化；動態可視化": "dynamic visualization"
+    },
+    {
+        "早期代數思維": "early algebraic thinking"
+    },
+    {
+        "新興建構主義": "emergent constructivism"
+    },
+    {
+        "經驗式脈絡": "empirical context"
+    },
+    {
+        "經驗式調查；實證調查": "empirical investigation"
+    },
+    {
+        "增能賦權": "empowerment"
+    },
+    {
+        "制定研究本位的任務": "enacting research-based task"
+    },
+    {
+        "生成主義": "enactivism"
+    },
+    {
+        "認識論分析": "epistemological analysis"
+    },
+    {
+        "認識論取向": "epistemological approach"
+    },
+    {
+        "數學認識論": "epistemology of mathematics"
+    },
+    {
+        "公平數學教學": "equitable mathematics instruction"
+    },
+    {
+        "公平和多樣性": "equity and diversity"
+    },
+    {
+        "道德承諾": "ethical commitment"
+    },
+    {
+        "演化心理學": "evolutionary psychology"
+    },
+    {
+        "案例和例證": "example and exemplification"
+    },
+    {
+        "專家思維": "expert thinking"
+    },
+    {
+        "專家盲點": "expert blind spot"
+    },
+    {
+        "探索性資料分析": "exploratory data analysis"
+    },
+    {
+        "表達性寫作": "expressive writing"
+    },
+    {
+        "眼動追蹤": "eye tracking"
+    },
+    {
+        "公平分享": "fair share"
+    },
+    {
+        "遠泛化任務": "far generalization task"
+    },
+    {
+        "實地經驗": "field-based experience"
+    },
+    {
+        "圖形推論": "figural inference"
+    },
+    {
+        "圖形推理取向": "figural reasoning approach"
+    },
+    {
+        "靈活計算": "flexible computation"
+    },
+    {
+        "靈活思考": "flexible thinking"
+    },
+    {
+        "焦點分析": "focal analysis"
+    },
+    {
+        "焦點團體訪談": "focus group interview"
+    },
+    {
+        "庶民教育學": "folk pedagogy"
+    },
+    {
+        "形式運思思考": "formal operational thinking"
+    },
+    {
+        "形式推理": "formal reasoning"
+    },
+    {
+        "形式化；正式化": "formalization"
+    },
+    {
+        "分數基模理論": "Fraction Scheme Theory"
+    },
+    {
+        "功能統一文法概念": "functional unification grammar{=FUG} concept"
+    },
+    {
+        "功能取向的圖形表徵": "functional approach graphical representation"
+    },
+    {
+        "功能主義": "functionalism"
+    },
+    {
+        "模糊思考": "fuzzy thinking"
+    },
+    {
+        "性別平等": "gender equity"
+    },
+    {
+        "概括；泛化": "generalizing"
+    },
+    {
+        "通用例子": "generic example"
+    },
+    {
+        "幾何表現": "geometric representation"
+    },
+    {
+        "幾何思考": "geometric thinking"
+    },
+    {
+        "幾何轉換": "geometric transformation"
+    },
+    {
+        "幾何建模": "geometrical modelling"
+    },
+    {
+        "目標本位決策": "goal-based decision-making"
+    },
+    {
+        "圖形論證": "graphical argumentation"
+    },
+    {
+        "圖形作品": "graphical artefact"
+    },
+    {
+        "圖形表徵": "graphical representation"
+    },
+    {
+        "圖形計算器": "graphics calculator"
+    },
+    {
+        "接地氣的隱喻；基礎隱喻": "grounding metaphor"
+    },
+    {
+        "引導式重塑": "guided reinvention"
+    },
+    {
+        "心智習性": "habits of mind"
+    },
+    {
+        "動手做材料": "hands-on material"
+    },
+    {
+        "黑格爾辯證本體論": "Hegel's dialectical ontology"
+    },
+    {
+        "異語對話": "heteroglossic dialogue"
+    },
+    {
+        "啟發式能力": "heuristic ability"
+    },
+    {
+        "啟發與偏見": "heuristics and biases"
+    },
+    {
+        "潛在課程": "hidden curriculum"
+    },
+    {
+        "高層次問題": "higher order question"
+    },
+    {
+        "高風險考試": "high-stakes examination"
+    },
+    {
+        "歷史學探究": "historical inquiry"
+    },
+    {
+        "歷史相似性": "historical parallelism"
+    },
+    {
+        "歷史教學模組": "historical teaching modules"
+    },
+    {
+        "數學史與認識論": "history and epistemology of mathematics"
+    },
+    {
+        "數學教育史": "history in mathematics education"
+    },
+    {
+        "歷史本位介入": "history-based intervention"
+    },
+    {
+        "人文研究": "humanistic research"
+    },
+    {
+        "圖像詮釋": "iconic interpretation"
+    },
+    {
+        "概念認同": "identity of concept"
+    },
+    {
+        "意識形態批判": "ideology critique"
+    },
+    {
+        "意象基模": "image schema"
+    },
+    {
+        "關聯分析": "implicative analysis"
+    },
+    {
+        "內隱學習和理解": "implicit learning and understanding"
+    },
+    {
+        "內隱模式": "implicit model"
+    },
+    {
+        "間接加法": "indirect addition"
+    },
+    {
+        "個人知曉力": "individual knowing"
+    },
+    {
+        "個體和機構知識": "individual and institutional knowledge"
+    },
+    {
+        "非正式臆測": "informal conjecture"
+    },
+    {
+        "非正式統計推論": "Informal Statistical Inference{=ISI}"
+    },
+    {
+        "非正式書寫算術": "informal written arithmetic"
+    },
+    {
+        "原議題與後設議題": "in-issues and meta-issues"
+    },
+    {
+        "內在矛盾": "inner contradiction"
+    },
+    {
+        "內在語言；內隱語言": "inner speech"
+    },
+    {
+        "教學介入": "instructional intervention"
+    },
+    {
+        "教學責任": "instructional responsibility"
+    },
+    {
+        "教師言談": "instructor discourse"
+    },
+    {
+        "意圖分析": "intentional analysis"
+    },
+    {
+        "行為的意向性": "intentionality of action"
+    },
+    {
+        "互動過程分析": "interaction process analysis"
+    },
+    {
+        "互動過程": "interaction process"
+    },
+    {
+        "互動言談分析": "interactional discourse analysis"
+    },
+    {
+        "互動教學策略": "interactional teaching strategy"
+    },
+    {
+        "互動-認識觀點": "interactional-epistemic perspective"
+    },
+    {
+        "互動科技": "interactive technology"
+    },
+    {
+        "內部-理論共通性": "internal-theoretical commonality"
+    },
+    {
+        "國際數學教學委員會": "International Commission on Mathematics Instruction {=ICMI}"
+    },
+    {
+        "國際比較": "international comparison"
+    },
+    {
+        "國際數學奧林匹亞": "International Mathematical Olympiad{=IMO}"
+    },
+    {
+        "國際數學聯合會": "International Mathematical Union{=IMU}"
+    },
+    {
+        "解讀遊戲": "interpreting game"
+    },
+    {
+        "解讀過程": "interpreting process"
+    },
+    {
+        "詮釋架構": "interpretive framework"
+    },
+    {
+        "相關理論與實踐": "inter-relating theory and practice"
+    },
+    {
+        "互為主體性": "intersubjectivity"
+    },
+    {
+        "介入本位研究": "intervention-based study"
+    },
+    {
+        "晤談分析；訪談分析": "interview analysis"
+    },
+    {
+        "即時決策": "in-the-moment decision"
+    },
+    {
+        "非遞移性": "intransitivity"
+    },
+    {
+        "數學直覺": "intuition in mathematics"
+    },
+    {
+        "直觀概念": "intuitive conception"
+    },
+    {
+        "直觀知識": "intuitive knowledge"
+    },
+    {
+        "直觀法則": "intuitive rule"
+    },
+    {
+        "加減互逆": "inverse relation between addition and subtraction"
+    },
+    {
+        "提問-回答-評論模式": "Initiate-Response-Evaluate{=IRE} model"
+    },
+    {
+        "國際教育評論": "International Review of Education{=IRE}"
+    },
+    {
+        "辯證": "justification"
+    },
+    {
+        "關鍵階段考試": "key stage tests"
+    },
+    {
+        "知": "knowing"
+    },
+    {
+        "數學眼界的知識": "knowledge at the mathematical horizon"
+    },
+    {
+        "知識脆弱性": "knowledge fragility"
+    },
+    {
+        "知識整合": "knowledge integration"
+    },
+    {
+        "知識包": "knowledge packet"
+    },
+    {
+        "知識庫": "knowledge resource"
+    },
+    {
+        "語言即資源": "language-as-resource"
+    },
+    {
+        "語言導向": "language-oriented"
+    },
+    {
+        "學習者困難": "learner difficulty"
+    },
+    {
+        "學習者錯誤": "learner error"
+    },
+    {
+        "學習者生成示例": "learner generated example"
+    },
+    {
+        "學習者類型": "learner type"
+    },
+    {
+        "學習者創造力": "learners' creativity"
+    },
+    {
+        "學習化": "learnification"
+    },
+    {
+        "學習臆測證明": "learning conjecture and proof"
+    },
+    {
+        "經由教而學": "learning through teaching"
+    },
+    {
+        "一般化層次": "level of generalization"
+    },
+    {
+        "推理層次": "level of reasoning"
+    },
+    {
+        "傾聽技巧": "listening skill"
+    },
+    {
+        "局部與整體影響": "local and global affect"
+    },
+    {
+        "局部教學理論": "local instruction theory"
+    },
+    {
+        "長期研究": "long term study"
+    },
+    {
+        "縱向資料": "longitudinal data"
+    },
+    {
+        "巨量分析": "macroanalysis"
+    },
+    {
+        "對應結構；映射結構": "mapping structure"
+    },
+    {
+        "唯物辯證法": "materialist dialectical method"
+    },
+    {
+        "數學美學": "mathematical aesthetics"
+    },
+    {
+        "數學論證": "mathematical argumentation"
+    },
+    {
+        "數學態度": "mathematical attitude"
+    },
+    {
+        "數學行為": "mathematical behavior"
+    },
+    {
+        "數學課堂權威": "mathematical classroom authority"
+    },
+    {
+        "數學溝通與言談": "mathematical communication and discourse"
+    },
+    {
+        "數學能力": "mathematical competency"
+    },
+    {
+        "數學複雜性": "mathematical complexity"
+    },
+    {
+        "數學創造力": "mathematical creativity"
+    },
+    {
+        "數學文化": "mathematical culture"
+    },
+    {
+        "數學數位能力": "mathematical digital competency"
+    },
+    {
+        "數學認識論": "mathematical epistemology"
+    },
+    {
+        "數學俗民方法論": "mathematical ethnomethodology"
+    },
+    {
+        "數學變通性": "mathematical flexibility"
+    },
+    {
+        "數學類型": "mathematical genres"
+    },
+    {
+        "數學手勢空間": "mathematical gesture space"
+    },
+    {
+        "數學想像": "mathematical imagination"
+    },
+    {
+        "數學語言": "mathematical language"
+    },
+    {
+        "數學建模": "mathematical modelling"
+    },
+    {
+        "數學規範": "mathematical norms"
+    },
+    {
+        "數學行為學": "mathematical praxeology"
+    },
+    {
+        "數學過程": "mathematical processes"
+    },
+    {
+        "數學精熟度": "mathematical proficiency"
+    },
+    {
+        "數學推理": "mathematical reasoning"
+    },
+    {
+        "數學表徵": "mathematical representation"
+    },
+    {
+        "數學自我概念": "mathematical self-concept"
+    },
+    {
+        "數學自我知識": "mathematical self-knowledge"
+    },
+    {
+        "數學技能": "mathematical skill"
+    },
+    {
+        "數學複雜性": "mathematical sophistication"
+    },
+    {
+        "數學特殊性": "mathematical specificity"
+    },
+    {
+        "數學符號體系": "mathematical symbolism"
+    },
+    {
+        "數學任務": "mathematical task"
+    },
+    {
+        "數學教學專業知識": "mathematical teaching expertise"
+    },
+    {
+        "數學思維；數學思考": "mathematical thinking"
+    },
+    {
+        "數學理解": "mathematical understanding"
+    },
+    {
+        "數學寫作": "mathematical writing"
+    },
+    {
+        "數學家如同學習者": "mathematicians as learners"
+    },
+    {
+        "數學家如同師資培育者": "mathematicians as teacher educators"
+    },
+    {
+        "數學家教育觀點": "mathematicians' pedagogical perspectives"
+    },
+    {
+        "數學學": "mathematicology"
+    },
+    {
+        "數學焦慮": "mathematics anxiety"
+    },
+    {
+        "職場數學": "mathematics at work"
+    },
+    {
+        "數學實作社群": "mathematics community of practice"
+    },
+    {
+        "數學說服力": "mathematics convincement"
+    },
+    {
+        "數學規範": "mathematics norm"
+    },
+    {
+        "數學閱讀類型；數學閱讀風格": "mathematics reading styles"
+    },
+    {
+        "數學任務": "mathematics task"
+    },
+    {
+        "數學教師認知": "mathematics teacher cognition"
+    },
+    {
+        "數學師培者知識": "mathematics teacher educator knowledge"
+    },
+    {
+        "數學師培者的學習": "mathematics teacher educator learning"
+    },
+    {
+        "數學師培者-研究者": "mathematics teacher educator-researcher{=MTE-R}"
+    },
+    {
+        "數學教師教學知識": "mathematics teacher knowledge for teaching"
+    },
+    {
+        "數學教師態度": "mathematics teachers attitude"
+    },
+    {
+        "數學教師信念": "mathematics teachers belief"
+    },
+    {
+        "數學教師概念": "mathematics teachers conception"
+    },
+    {
+        "數學教學實作；數學教學實踐": "Mathematics teaching practices{=MTPs}"
+    },
+    {
+        "數學教科書分析": "mathematics textbook analysis"
+    },
+    {
+        "數學教科書內容分析": "mathematics textbook content analysis"
+    },
+    {
+        "數學文字題和語言精熟": "mathematics word problems and language proficiency"
+    },
+    {
+        "為教學的數學": "mathematics-for-teaching"
+    },
+    {
+        "數學化": "mathematization"
+    },
+    {
+        "意義建構": "meaning-making"
+    },
+    {
+        "心算": "mental arithmetic"
+    },
+    {
+        "珠心算": "mental  calculation"
+    },
+    {
+        "心智計算": "mental computation"
+    },
+    {
+        "心智基模": "mental schema"
+    },
+    {
+        "心智策略": "mental strategy"
+    },
+    {
+        "後設影響；元影響": "meta-affect"
+    },
+    {
+        "後設認知工具": "metacognitive tools"
+    },
+    {
+        "後設教學轉換模型": "Meta-Didactical Transposition model"
+    },
+    {
+        "後設話語規則": "metadiscursive rules"
+    },
+    {
+        "後設議題": "meta-issue"
+    },
+    {
+        "有關證明的後設數學知識": "meta-mathematics knowledge about proof"
+    },
+    {
+        "隱喻": "metaphor"
+    },
+    {
+        "微觀分析": "microanalysis"
+    },
+    {
+        "微觀起源": "microgenetic"
+    },
+    {
+        "微觀知覺": "micro-perception"
+    },
+    {
+        "心態": "mindset"
+    },
+    {
+        "混合研究法": "mixed methods research"
+    },
+    {
+        "引模活動": "Model eliciting activities{=MEA}"
+    },
+    {
+        "建模能力": "modelling competence"
+    },
+    {
+        "動機目標理論": "motivation goal theory"
+    },
+    {
+        "多元文化教育": "multicultural education"
+    },
+    {
+        "多元文化主義": "multiculturalism"
+    },
+    {
+        "多語數學課室": "multilingual mathematics classroom"
+    },
+    {
+        "多語師資教育": "multilingual teacher education"
+    },
+    {
+        "多語主義": "multilingualism"
+    },
+    {
+        "多鏈結表徵": "multi-linked representations"
+    },
+    {
+        "多媒體個案研究": "multimedia case study"
+    },
+    {
+        "多解任務": "Multiple-solution task{=MST}"
+    },
+    {
+        "乘法事實": "multiplication fact"
+    },
+    {
+        "素樸概念": "naive conception"
+    },
+    {
+        "敘事分析": "narrative analysis"
+    },
+    {
+        "敘事取向": "narrative approach"
+    },
+    {
+        "近泛化任務，近一般化任務": "near generalization task"
+    },
+    {
+        "巢式模型，巢套模型": "nested model"
+    },
+    {
+        "巢式和開箱策略": "nesting and unpacking strategy"
+    },
+    {
+        "非例": "nonexample"
+    },
+    {
+        "非語言溝通": "non-linguistic communication"
+    },
+    {
+        "非例行性問題": "non-routine problems"
+    },
+    {
+        "生手思維": "novice thinking"
+    },
+    {
+        "客觀化": "objectification"
+    },
+    {
+        "可觀察的學習成果": "observable learning outcome"
+    },
+    {
+        "一維推理": "one-dimensional reasoning"
+    },
+    {
+        "二維推理": " two-dimensional reasoning"
+    },
+    {
+        "線上討論": "online discussion"
+    },
+    {
+        "線上教育": "online education"
+    },
+    {
+        "線上學習環境": "online learning environment"
+    },
+    {
+        "開放式問題": "open problem"
+    },
+    {
+        "開放式問題解決": "open-ended problem solving"
+    },
+    {
+        "操作性概念": "operational conception"
+    },
+    {
+        "運算不變性": "operational invariance"
+    },
+    {
+        "運算不變量": "operational invariant"
+    },
+    {
+        "學習機會": "opportunity to learn"
+    },
+    {
+        "最佳化": "optimization"
+    },
+    {
+        "口語表現評量": "oral performance assessment"
+    },
+    {
+        "策劃數學討論": "orchestrating  mathematical discussions"
+    },
+    {
+        "校外知識": "outside school knowledge"
+    },
+    {
+        "參與理論": "participation theory"
+    },
+    {
+        "部分-部分-整體": "part-part-whole"
+    },
+    {
+        "部分整體關係": "part-whole relationship"
+    },
+    {
+        "樣式一般化": "pattern generalization"
+    },
+    {
+        "樣式結構辨識": "pattern structure recognition"
+    },
+    {
+        "教學內容知能": "Pedagogical Content Knowledge and Skill{=PCK&S}"
+    },
+    {
+        "教學推理": "pedagogical reasoning"
+    },
+    {
+        "表現目標；績效目標": "performance goal"
+    },
+    {
+        "個人知識論": "personal epistemology"
+    },
+    {
+        "現象學取向": "phenomenological approach"
+    },
+    {
+        "現象學小組訪談": "phenomenological group interview"
+    },
+    {
+        "數學教育哲學": "philosophy in mathematics education"
+    },
+    {
+        "後驗分析": "posterior analysis"
+    },
+    {
+        "後現代批判理論": "postmodern critical theory"
+    },
+    {
+        "後結構主義": "poststructuralism"
+    },
+    {
+        "潛無限": "potential infinity"
+    },
+    {
+        "實作本位材料": "practice-based material"
+    },
+    {
+        "實作本位專業發展": "practice-based professional development"
+    },
+    {
+        "職前數學教師培育": "preservice mathematics teacher education"
+    },
+    {
+        "先驗分析": "prior analysis"
+    },
+    {
+        "問題轉化；問題轉換": "problem transformation"
+    },
+    {
+        "問題本位課程": "Problem-Based Curriculum"
+    },
+    {
+        "程序變通性": "procedural flexibility"
+    },
+    {
+        "程序理解": "procedural understanding"
+    },
+    {
+        "特殊化": "particularization"
+    },
+    {
+        "探究過程": "process of inquiry"
+    },
+    {
+        "過程反思": "process reflection"
+    },
+    {
+        "專業規範": "professional norm"
+    },
+    {
+        "準數學教師": "Prospective mathematics teachers {=PMTs}"
+    },
+    {
+        "原型問題": "prototypical problems"
+    },
+    {
+        "教育言談": "pedagogic discourse"
+    },
+    {
+        "金字塔模型": "pyramid model"
+    },
+    {
+        "理性主義": "rationalism"
+    },
+    {
+        "反應時間研究": "reaction time research"
+    },
+    {
+        "再脈絡化": "recontextualisation"
+    },
+    {
+        "實踐中反思": "reflection in practice"
+    },
+    {
+        "對實踐反思": "reflection on practice"
+    },
+    {
+        "行動中反思": "reflection-in-action"
+    },
+    {
+        "對行動反思": "reflection-on-action"
+    },
+    {
+        "反思性敘事": "reflective narrative"
+    },
+    {
+        "理論和實踐之關係": "relationship between theory and practice"
+    },
+    {
+        "相關介入法": "relevant-involvement methodology"
+    },
+    {
+        "表徵系統": "representation system"
+    },
+    {
+        "表徵轉變": "representational transition"
+    },
+    {
+        "圖示表徵": "schematic representation"
+    },
+    {
+        "學校本位專業發展": "school-based professional development"
+    },
+    {
+        "自我調控": "self regulation"
+    },
+    {
+        "自我反思": "self-reflection"
+    },
+    {
+        "語意結構": "semantic structure"
+    },
+    {
+        "句法結構": "syntactic structure"
+    },
+    {
+        "符號認知分析": "semio-cognitive analysis"
+    },
+    {
+        "符號表徵": "semiotic representation"
+    },
+    {
+        "感知建構": "sense-making"
+    },
+    {
+        "靈敏度": "sensibility"
+    },
+    {
+        "注意力轉移": "shift of attention"
+    },
+    {
+        "社會平等": "social equity"
+    },
+    {
+        "社會實踐理論": "social practice theory"
+    },
+    {
+        "社會表徵": "social representation"
+    },
+    {
+        "社會轉向": "social turn"
+    },
+    {
+        "社會認知衝突": "socio-cognitive conflict"
+    },
+    {
+        "社會建構主義": "socio-constructivism"
+    },
+    {
+        "社會文化取向": "sociocultural approach"
+    },
+    {
+        "社會情緒導向": "socio-emotional orientation"
+    },
+    {
+        "社會認識論建構主義": "socio-epistemological constructivism"
+    },
+    {
+        "社會數學規範": "sociomathematical norm"
+    },
+    {
+        "社會政治實踐觀點": "socio-political practice perspective"
+    },
+    {
+        "空間能力": "spatial ability"
+    },
+    {
+        "空間推理": "spatial reasoning"
+    },
+    {
+        "自發表徵": "spontaneous representation"
+    },
+    {
+        "數學實作標準": "Standards for Mathematical Practice{=SMPs}"
+    },
+    {
+        "統計素養": "statistical literacy"
+    },
+    {
+        "統計推理": "statistical reasoning"
+    },
+    {
+        "統計思維": "statistical thinking"
+    },
+    {
+        "街頭數學": "street mathematics"
+    },
+    {
+        "結構對應理論；結構映射理論": "structure mapping theory"
+    },
+    {
+        "結構性思維": "structural thinking"
+    },
+    {
+        "結構式問題解決": "structured problem solving"
+    },
+    {
+        "學生中心言談": "student-centered discourse"
+    },
+    {
+        "實習教師": "student-teacher"
+    },
+    {
+        "象徵動作": "symbolic action"
+    },
+    {
+        "符號推理": "symbolic reasoning"
+    },
+    {
+        "協同作用；綜效；增效": "synergy"
+    },
+    {
+        "內隱知識；默會知識": "tacit knowledge"
+    },
+    {
+        "任務-技術-科技-理論 架構": "task-technique-technology-theory framework"
+    },
+    {
+        "教師-研究者協作": "teacher–researcher collaboration"
+    },
+    {
+        "教師即設計夥伴": "teachers as partners in design"
+    },
+    {
+        "教師即利害關係人": "teachers as stakeholders"
+    },
+    {
+        "教師知識解構": "teachers knowledge deconstruction"
+    },
+    {
+        "師生交互作用": "teacher-student interaction"
+    },
+    {
+        "教學即文化實踐": "teaching as a cultural practice"
+    },
+    {
+        "教學決定": "teaching decision"
+    },
+    {
+        "為理解而教學": "teaching for understanding"
+    },
+    {
+        "教學介入": "teaching intervention"
+    },
+    {
+        "教學三元組；教學三聯體": "teaching triad"
+    },
+    {
+        "第三期教育，第三級教育，中學後教育": "tertiary education"
+    },
+    {
+        "教學情境理論": "Theory of Didactical Situations{=TDS}"
+    },
+    {
+        "理論-實務連結": "theory-practice connection"
+    },
+    {
+        "描述模型": "descriptive model"
+    },
+    {
+        "完全教育化社會": "Totally Pedagogised Society{=TPS}"
+    },
+    {
+        "傳統信念": "traditional belief"
+    },
+    {
+        "傳統課程": "traditional curriculum"
+    },
+    {
+        "執行性寫作": "transactional writing"
+    },
+    {
+        "轉換學習理論；轉化學習理論": "transformative learning theory"
+    },
+    {
+        "不確定性": "uncertainty"
+    },
+    {
+        "未定義概念": "undefined concept"
+    },
+    {
+        "口語分析": "verbal analysis"
+    },
+    {
+        "語文符號中介": "verbal semiotic mediation"
+    },
+    {
+        "錄影本位取向": "video-based approach"
+    },
+    {
+        "網路本位數學教學": "web-based mathematics instruction"
+    },
+    {
+        "工作本位學習": "work-based learning"
+    },
+    {
+        "寫作學習": "writing-to-learn"
+    },
+    {
+        "自由移動區": "Zone of free movement{=ZFM}"
+    },
+    {
+        "促進行動區": "Zone of promoted action {=ZPA}"
+    }
+]

@@ -1,0 +1,1733 @@
+[
+    {
+        "四倍超高畫質": "4K"
+    },
+    {
+        "AB立體聲麥克風技術": "AB stereo technique"
+    },
+    {
+        "ABC立體聲麥克風技術": "ABC stereo technique"
+    },
+    {
+        "吸收和擴散": "absorption and diffusion"
+    },
+    {
+        "吸收係數": "absorption coefficient {=a}"
+    },
+    {
+        "聲音強度": "acoustic intensity {=Ia}"
+    },
+    {
+        "主動式脈衝編碼調變": "adaptive differential pulse code modulation {=ADPCM}"
+    },
+    {
+        "高階音訊編碼": "advanced audio coding {=AAC}"
+    },
+    {
+        "高階技術配置": "advanced technology attachment {=ATA}"
+    },
+    {
+        "高階高解析度視訊編碼": "advanced video codec high definition {=AVCHD}"
+    },
+    {
+        "音響工程師協會-歐洲廣播聯盟{規格}": "AES/EBU"
+    },
+    {
+        "輸出監聽控制鍵": "after-fader listen {=AFL}"
+    },
+    {
+        "對準": "alignment"
+    },
+    {
+        "全通濾波器": "all-pass filter {=APF}"
+    },
+    {
+        "交流電": "alternating current {=AC}"
+    },
+    {
+        "環境噪音級": "ambient noise level {=ANL}"
+    },
+    {
+        "美國廣播公司": "American Broadcasting Company {=ABC}"
+    },
+    {
+        "美國廣播電視藝術家聯盟": "American Federation of Television and Radio Artists {=AFTRA}"
+    },
+    {
+        "美國資訊交換標準碼": "American Standard Code for Information Interchange {=ASCII}"
+    },
+    {
+        "美國線規": "American wire gauge {=AWG}"
+    },
+    {
+        "安培": "ampere {=A}"
+    },
+    {
+        "安培小時耗量": "ampere-hour {=Ah}"
+    },
+    {
+        "放大": "amplification"
+    },
+    {
+        "放大參數": "amplification factor {=μ}"
+    },
+    {
+        "直接擴大聲音": "amplified direct sound"
+    },
+    {
+        "擴大器": "amplifiers"
+    },
+    {
+        "調幅": "amplitude modulation {=AM}"
+    },
+    {
+        "類比轉數位": "analogue to digital {=Ａ/D}"
+    },
+    {
+        "類比數位轉換器": "analogue to digital converter {=ADC}"
+    },
+    {
+        "宣布；宣告": "announce {=AN}"
+    },
+    {
+        "特別提示": "articipating announcement {=PT}"
+    },
+    {
+        "清晰度指標": "articulation index {=AI}"
+    },
+    {
+        "助理導播": "assistant director {=AD}"
+    },
+    {
+        "輔助共振": "assisted resonance {=AR}"
+    },
+    {
+        "衰減器": "attenuator {=ATT}"
+    },
+    {
+        "音訊第三號編碼": "audio code number 3 {=AC3}"
+    },
+    {
+        "音響工程協會；音響工程協會規格": "Audio Engineering Society {=AES}"
+    },
+    {
+        "音訊頻率": "audio frequency {=AF}"
+    },
+    {
+        "音訊交換格式": "audio interchange file format {=AIFF}"
+    },
+    {
+        "音訊轉換器": "audio transformers"
+    },
+    {
+        "視聽的；視訊的；視聽端子": "audiovisual {=AV}"
+    },
+    {
+        "試聽": "audition {=AUD}"
+    },
+    {
+        "自動頻率控制": "automatic frequency contro l{=AFC}"
+    },
+    {
+        "輸入自動音量控制": "automatic gain control {=AGC}"
+    },
+    {
+        "自動音量控制": "automatic level control {=ALC}"
+    },
+    {
+        "自動混音器": "automatic mixers"
+    },
+    {
+        "自動程序控制器": "automatic program controller {=APC}"
+    },
+    {
+        "輸出自動音量控制": "automatic volume control {=AVC}"
+    },
+    {
+        "輔助": "auxiliary {=AUX}"
+    },
+    {
+        "可用輸入功率": "available input power {=AIP}"
+    },
+    {
+        "平均吸聲係數": "average absorption coefficient {=ā}"
+    },
+    {
+        "平均振幅": "average amplitude {=Aavg}"
+    },
+    {
+        "平均功率": "average power {=Pavg}"
+    },
+    {
+        "加權音壓等級": "A-weighted sound-pressure level in decibels {=dBA}"
+    },
+    {
+        "背景": "background {=BG}"
+    },
+    {
+        "背景音樂": "background music {=BGM}"
+    },
+    {
+        "反向波震盪器": "backward-wave oscillator {=BWO}"
+    },
+    {
+        "帶通濾波器": "band pass filter {=BPF}"
+    },
+    {
+        "帶阻濾波器": "band rejection filter {=BRF}"
+    },
+    {
+        "頻帶赫茲": "bandpass in hertz {=fBP}"
+    },
+    {
+        "頻寬": "bandwidth {=BW}"
+    },
+    {
+        "拍頻振盪器": "beat-frequency oscillator {=BFO}"
+    },
+    {
+        "貝": "bel {=B}"
+    },
+    {
+        "雙耳錄音麥克風": "binaural recording microphones"
+    },
+    {
+        "雙極場效電晶體": "bipolar field-effect transistors"
+    },
+    {
+        "雙極電晶體": "bipolar transistors"
+    },
+    {
+        "位元誤差率": "bit error rate {=BER}"
+    },
+    {
+        "每秒位元數": "bits per second {=bps}"
+    },
+    {
+        "密件副本": "blind carbon copy {=BCC}"
+    },
+    {
+        "藍光光碟": "blu-ray disc {=BD}"
+    },
+    {
+        "視聽藍光光碟": "blu-ray disc audio visual {=BD-AV}"
+    },
+    {
+        "藍光影碟": "blu-ray disc movie {=BDMV}"
+    },
+    {
+        "藍光可錄光碟": "blu-ray disc recordable {=BD-R}"
+    },
+    {
+        "藍光可重複錄光碟": "blu-ray disc rewritable {=BD-RE}"
+    },
+    {
+        "收音操作員": "boom operator {=BO}"
+    },
+    {
+        "板面麥克風": "boundary layer microphone {=BLM}"
+    },
+    {
+        "英國廣播公司": "British Broadcasting Corporation {=BBC}"
+    },
+    {
+        "英制熱量單位": "British thermal unit {=Btu}"
+    },
+    {
+        "廣播波檔案格式": "broadcast wave file format {=BWF}"
+    },
+    {
+        "衛星廣播": "broadcasting satellit {=BS}"
+    },
+    {
+        "巴特沃思濾波器": "Butterworth filters"
+    },
+    {
+        "電纜": "cables"
+    },
+    {
+        "建設和分佈式過程分析之音響系統設計": "CADP sound system design"
+    },
+    {
+        "攝影機控制器": "camera control unit {=CCU}"
+    },
+    {
+        "燭光": "candela {=cd}"
+    },
+    {
+        "每平分英吋燭光": "candela per square foot {=cd/ft2}"
+    },
+    {
+        "每平方公尺燭光": "candela per square meter {=cd/m2}"
+    },
+    {
+        "燭光": "candle {=cd}"
+    },
+    {
+        "唯讀光碟": "CD-read only memory"
+    },
+    {
+        "可錄光碟": "CD-recordable"
+    },
+    {
+        "可重複燒錄光碟": "CD-rewritable"
+    },
+    {
+        "公分-克-秒": "centimeter-gram-second {=CGS}"
+    },
+    {
+        "中央處理器": "central processing unit {=CPU}"
+    },
+    {
+        "頻道分配器": "channel divider {=C/D}"
+    },
+    {
+        "閉路電視": "closed circuit television {=CCTV}"
+    },
+    {
+        "電流模式邏輯電路": "CML circuits"
+    },
+    {
+        "同軸電纜": "coaxial cable"
+    },
+    {
+        "抗磁性": "coercive force {=Hc}"
+    },
+    {
+        "線圈": "coil"
+    },
+    {
+        "多重收音麥克風": "coincident microphones"
+    },
+    {
+        "收集器": "collector"
+    },
+    {
+        "集極截止電流": "collector-cutoff current"
+    },
+    {
+        "哥倫比亞廣播公司": "Columbia Broadcasting Company {=CBS}"
+    },
+    {
+        "柱體揚聲器": "column loudspeakers"
+    },
+    {
+        "國際無線電通訊諮詢委員會": "Comité Consultatif International des Radiocommunications {=CCIR}"
+    },
+    {
+        "廣告；商業訊息": "commercial message {=CM}"
+    },
+    {
+        "共模抑制比": "Common Mode Rejection Ratio {=CMRR}"
+    },
+    {
+        "共用天線電視": "community antenna television {=CATV}"
+    },
+    {
+        "光碟": "compact disc {=CD}"
+    },
+    {
+        "數位音訊光碟": "compact disc-digital audio {=CD-DA}"
+    },
+    {
+        "光碟": "compact disks {=CD}"
+    },
+    {
+        "互補金屬氧化物半導體": "complementary MOSFETs {=CMOS}"
+    },
+    {
+        "壓縮": "compression"
+    },
+    {
+        "電容式麥克風": "condenser microphone"
+    },
+    {
+        "聚光透鏡": "condensing lenses"
+    },
+    {
+        "電導": "conductance"
+    },
+    {
+        "傳導性；傳導率": "conductivity"
+    },
+    {
+        "錐形揚聲器": "cone loudspeakers"
+    },
+    {
+        "錐形放射狀號角式揚聲器": "conical radial horn"
+    },
+    {
+        "頻寬濾波器": "constant bandwidth filter{=CBF}"
+    },
+    {
+        "低損耗等化器": "constant-loss equalizer"
+    },
+    {
+        "建設性干擾": "constructive interference"
+    },
+    {
+        "消費者高傳真系統": "consumer hi-fi system"
+    },
+    {
+        "連續波": "continuous wave {=CW}"
+    },
+    {
+        "控制磁阻麥克風": "controlled reluctance microphone"
+    },
+    {
+        "轉換器": "converter"
+    },
+    {
+        "覆蓋角度": "coverage angle {=C}"
+    },
+    {
+        "交錯的淡入淡出": "cross fade {=C.F.}"
+    },
+    {
+        "十字交錯碼": "cross interleave code {=CIC }"
+    },
+    {
+        "立方公分": "cubic centimeter {=cm3}"
+    },
+    {
+        "立方英尺": "cubic foot {=ft3}"
+    },
+    {
+        "每分鐘立方英尺": "cubic foot per minute {=ft3/min}"
+    },
+    {
+        "每秒立方英尺": "cubic foot per second {=ft3/s}"
+    },
+    {
+        "切入": "cut in {=C.I.}"
+    },
+    {
+        "切出": "cut out {=C.O.}"
+    },
+    {
+        "直流電": "DC"
+    },
+    {
+        "直流電流": "dc current {=I dc}"
+    },
+    {
+        "直流電壓": "dc voltage {=V dc}"
+    },
+    {
+        "分貝": "deci -Bel {=dB}"
+    },
+    {
+        "1毫瓦分貝單位": "decibel ref to one milliwatt {=dBm}"
+    },
+    {
+        "分貝": "decibels {=dB}"
+    },
+    {
+        "1伏特分貝單位": "decibels with a reference of 1 V {=dBV}"
+    },
+    {
+        "度 (角度)": "degree [plane angle] {=...。}"
+    },
+    {
+        "延遲": "delay"
+    },
+    {
+        "延遲系統之噪音衰減": "delay systems noise reduction"
+    },
+    {
+        "德國工業規格": "deutsche industrie normen {=DIN}"
+    },
+    {
+        "擴散{使失焦}": "diffusion"
+    },
+    {
+        "數位音訊廣播": "digital audio broadcasting {=DAB}"
+    },
+    {
+        "數位靜止多軌磁頭錄音機": "digital audio stationary head {=DASH}"
+    },
+    {
+        "數位音訊固定式磁頭之數位錄音帶標準": "digital audio stationary head {=DASH} digital tape standard"
+    },
+    {
+        "數位錄音機": "digital audio tape recorder {=DAT}"
+    },
+    {
+        "數位音訊工作站": "digital audio workstation {=DAW}"
+    },
+    {
+        "數位混音器": "digital console"
+    },
+    {
+        "數位控制擴大器": "digital controlled amplifier {=DCA}"
+    },
+    {
+        "數位資料儲存": "digital data storage {=DDS}"
+    },
+    {
+        "數位混音器": "digital mixer"
+    },
+    {
+        "數位信號處理": "digital signal processing {=DSP}"
+    },
+    {
+        "數位劇院系統": "digital theater systems {=DTS}"
+    },
+    {
+        "數位轉類比": "digital to analogue {=D/A}"
+    },
+    {
+        "數位轉類比轉換器": "digital to analogue converter {=DAC}"
+    },
+    {
+        "數位視訊介面": "digital visual interface {=DVI}"
+    },
+    {
+        "數位控制的聲音": "digitally controlled sound {=DCS}"
+    },
+    {
+        "數位轉類比": "digital-to-analog conversion {=D/A}"
+    },
+    {
+        "直流電": "direct current {=DC}"
+    },
+    {
+        "直連式音訊轉換盒": "direct injection box {=DI}"
+    },
+    {
+        "金屬母帶": "direct metal mastering {=DMM}"
+    },
+    {
+        "以dB為單位音量介入": "direct sound level in dB {=dBDIR}"
+    },
+    {
+        "聲壓等級直入": "direct sound pressure level {=LD}"
+    },
+    {
+        "直接數位訊號流": "direct stream digital {=DSD}"
+    },
+    {
+        "直接鎖定時間": "direct time lock {=DTL}"
+    },
+    {
+        "直接完成母面": "direct- to - disc mastering {=DDM}"
+    },
+    {
+        "刻片針頭{黑膠唱片}": "disk cutting head"
+    },
+    {
+        "扭曲{蓄意的使失真}": "distortion"
+    },
+    {
+        "杜比": "Dolby"
+    },
+    {
+        "雙倍數據率同步動態隨機存取記憶體": "double data rate {=DDR}"
+    },
+    {
+        "雙頻帶": "double sideband {=DSB}"
+    },
+    {
+        "鼓聲音源器；鼓機": "drum machine {MIDI}"
+    },
+    {
+        "乾式磁簧": "dry reed"
+    },
+    {
+        "動圈式麥克風": "dynamic microphone"
+    },
+    {
+        "動態降低雜音": "dynamic noise reduction {=DNR}"
+    },
+    {
+        "動態噪音抑制系統": "Dynamic Noise Reduction {=DNR} system"
+    },
+    {
+        "動態範圍": "dynamic range"
+    },
+    {
+        "動態": "dynamics"
+    },
+    {
+        "初期衰減比": "Early Decay Rate {=EDR}"
+    },
+    {
+        "初期衰減時間": "Early Decay Time {=EDT}"
+    },
+    {
+        "麥克風靈敏度比值": "EIA microphone sensitivity rating {=GM}"
+    },
+    {
+        "八比十四轉變": "eight-to-fourteen modulation {=EFM}"
+    },
+    {
+        "電子式音量控制": "electric volume control {=EVC}"
+    },
+    {
+        "電子金屬管": "electrical metallic tubing {=EMT}"
+    },
+    {
+        "電源要求": "electrical power required {=EPR}"
+    },
+    {
+        "心電儀": "electrocardiograph {=ECG}"
+    },
+    {
+        "腦波儀": "electroencephalograph {=EEG}"
+    },
+    {
+        "電磁驅動": "electromagnetic drivers-cont"
+    },
+    {
+        "電磁單位": "electromagnetic unit {=EMU}"
+    },
+    {
+        "電子資料處理": "electronic data processing {=EDP}"
+    },
+    {
+        "電子數據處理系統": "electronic data processing system {=EDPS}"
+    },
+    {
+        "電子工業協會{美國}": "electronic industries association {=EIA}"
+    },
+    {
+        "電子式伏特歐姆計": "electronic voltohmmeter {=EVOM}"
+    },
+    {
+        "緊急廣播系統": "Emergency Broadcast System {=EBS}"
+    },
+    {
+        "緊急警報系統": "emergency warning system {=EWS}"
+    },
+    {
+        "能量時間曲線": "energy-time-curve {=ETC}"
+    },
+    {
+        "鎖定特定時間變化音量": "enhanced direct time lock {=DTLe}"
+    },
+    {
+        "等化": "equalization"
+    },
+    {
+        "等化控制": "equalization-cont"
+    },
+    {
+        "等化器": "equalizer {=EQ}"
+    },
+    {
+        "輸出聲學距離": "equivalent acoustic distance {=EAD}"
+    },
+    {
+        "相等輸入時的雜訊": "equivalent input noise {=EIN}"
+    },
+    {
+        "等效電阻": "equivalent resistance {=Req}"
+    },
+    {
+        "等效串聯電感": "equivalent series inductance {=ESL}"
+    },
+    {
+        "等效串聯電阻": "equivalent series resistance {=ESR}"
+    },
+    {
+        "歐洲廣播組織": "european broadcast union {=EBU}"
+    },
+    {
+        "超高壓": "extra-high voltage {=EHV}"
+    },
+    {
+        "極高頻": "extremely high frequency {=EHF}"
+    },
+    {
+        "極低頻": "extremely low frequency {=ELF}"
+    },
+    {
+        "淡入": "fade in {=F.I.}"
+    },
+    {
+        "淡出": "fade out {=F.O.}"
+    },
+    {
+        "推桿": "fader unit {=FU}"
+    },
+    {
+        "法拉{電容單位}": "farad {=F}"
+    },
+    {
+        "美國聯邦通信委員會": "Federal Communications Commission {=FCC}"
+    },
+    {
+        "回授": "feedback"
+    },
+    {
+        "回授穩定界限": "feedback stability margin {=FSM}"
+    },
+    {
+        "光纖分布式數據介面": "fiber data distributed interface {=FDDI}"
+    },
+    {
+        "光纖連接器": "fiber optic connector {=FOC}"
+    },
+    {
+        "光纖": "fiber optics {=FO}"
+    },
+    {
+        "現場收音設備": "field pickup unit {=FPU}"
+    },
+    {
+        "場效電晶體": "field-effect transistor {=FET}"
+    },
+    {
+        "有限脈衝響應": "finite impulse response {=FIR}"
+    },
+    {
+        "有限脈衝響應數位濾波器": "finite impulse response {=FIR} digital filters"
+    },
+    {
+        "調頻廣播": "FM broadcast"
+    },
+    {
+        "立體聲調頻廣播": "FM stereo"
+    },
+    {
+        "折回": "fold back {=FB}"
+    },
+    {
+        "呎": "foot {=ft}"
+    },
+    {
+        "呎/分": "foot per minute {=ft/min}"
+    },
+    {
+        "呎/秒": "foot per second {=ft/s}"
+    },
+    {
+        "呎/二次方秒": "foot per second squared {=ft/s2}"
+    },
+    {
+        "英呎-磅力度": "foot pound-force {=ft-lbf}"
+    },
+    {
+        "呎-燭光": "footcandle {=fc}"
+    },
+    {
+        "呎-朗伯": "footlambert {=fL}"
+    },
+    {
+        "畫格同步器": "frame synchronizer {=FS}"
+    },
+    {
+        "頻率": "frequency {=f}"
+    },
+    {
+        "調頻": "frequency modulation {=FM}"
+    },
+    {
+        "頻率時間曲線": "frequency time curve {=FTC}"
+    },
+    {
+        "移頻控制鍵": "frequency-shift keying {=FSK}"
+    },
+    {
+        "控制室{燈控或是音控}": "front of house {=FOH}"
+    },
+    {
+        "超高畫質{1080p以上}": "full HD"
+    },
+    {
+        "滿刻度；全規模": "full scale {=FS}"
+    },
+    {
+        "輸入量": "gain"
+    },
+    {
+        "總彩排": "generalprobe {=GP}"
+    },
+    {
+        "吉電子伏特": "gigaelectronvolt {=GeV}"
+    },
+    {
+        "吉赫": "gigahertz {=GHz}"
+    },
+    {
+        "吉伯{磁通量單位}": "gilbert {=Gb}"
+    },
+    {
+        "克": "gram {=g}"
+    },
+    {
+        "格林威治時間": "Greenwich mean time {=GMT}"
+    },
+    {
+        "吉他擴大器": "guitar amplifier"
+    },
+    {
+        "高畫質{720p以上}": "HD"
+    },
+    {
+        "耳機擴大器": "head amplifier {=HA}"
+    },
+    {
+        "熱通空調": "Heating, ventilating, and air conditioning {=HVAC}"
+    },
+    {
+        "亨利{電感單位}": "henry {=H}"
+    },
+    {
+        "赫；赫茲{音頻單位}": "hertz {=Hz}"
+    },
+    {
+        "高解析度電影模式": "high definition movie mode {=HDMV}"
+    },
+    {
+        "高解析度多媒體介面": "high definition multimedia interface {=HDMI}"
+    },
+    {
+        "高解析度串行數位介面": "high definition serial digital interface {=HD-SDI}"
+    },
+    {
+        "高解析度電視；高畫質電視": "high definition television {=HDTV}"
+    },
+    {
+        "高解析度錄影": "high definition video {=HDV}"
+    },
+    {
+        "高頻": "high frequency {=HF}"
+    },
+    {
+        "高通濾波器": "high pass filter {=HPF}"
+    },
+    {
+        "高壓；高幅": "high voltage {=HV}"
+    },
+    {
+        "高通濾波器": "high-pass filter {=HPF}"
+    },
+    {
+        "吸持電樞": "holding armature in position"
+    },
+    {
+        "馬力(功率單位)": "horsepower {=hp}"
+    },
+    {
+        "阻抗": "impedance {magnitude} {=Z}"
+    },
+    {
+        "英吋": "inch {=in}"
+    },
+    {
+        "吋/秒": "inch per second {=in/s}"
+    },
+    {
+        "電感電容": "inductance-capacitance {=LC}"
+    },
+    {
+        "感應電阻": "inductive reactance {=XL}"
+    },
+    {
+        "感應器": "inductor {=L}"
+    },
+    {
+        "紅外線": "infrared {=IR}"
+    },
+    {
+        "起始訊號延遲": "initial signal delay {=ISD}"
+    },
+    {
+        "起始時差": "initial time delay gap {=ITDG}"
+    },
+    {
+        "輸入": "input"
+    },
+    {
+        "輸入-輸出": "input-output {=I/O}"
+    },
+    {
+        "內徑": "inside diameter {=ID}"
+    },
+    {
+        "絕緣柵場效應晶體管": "insulated gate field effect transistor {=IGFET}"
+    },
+    {
+        "絕緣柵晶體管": "insulated gate transistor {=IGT}"
+    },
+    {
+        "綜合式數位廣播網": "integrated service digital network {=ISDN}"
+    },
+    {
+        "綜合式數位廣播": "integrated services digital broadcasting {=ISDB}"
+    },
+    {
+        "中頻": "intermediate frequency {=IF}"
+    },
+    {
+        "聯運失真": "intermodal distortion"
+    },
+    {
+        "互調": "intermodulation"
+    },
+    {
+        "國際標準化組織": "International Organization for Standardization {=ISO}"
+    },
+    {
+        "國際標準記錄碼": "International Standard Recording Code {=ISRC}"
+    },
+    {
+        "國際電信聯盟": "International Telecommunications Union {=ITU}"
+    },
+    {
+        "衛星綜合式數位廣播": "ISDB-satellite {=ISDB-S}"
+    },
+    {
+        "地面波綜合式數位廣播": "ISDB-terrestrial {=ISDBT}"
+    },
+    {
+        "地面波音訊綜合式數位廣播": "ISDB-terrestrial for sound broadcasting {=ISDB-TSB}"
+    },
+    {
+        "焦耳": "joule {=J}"
+    },
+    {
+        "結型場效應晶體管": "junction field effect transistor {=JFET}"
+    },
+    {
+        "千赫茲": "kilocycle per second {=kHz}"
+    },
+    {
+        "電子伏特": "kiloelectronvolt {=keV}"
+    },
+    {
+        "公斤": "kilogram {=kg}"
+    },
+    {
+        "公斤力": "kilogram-force {=kgf}"
+    },
+    {
+        "千赫": "kilohertz {=kHz}"
+    },
+    {
+        "千歐姆": "kilohm {=kΩ}"
+    },
+    {
+        "千焦耳": "kilojoule {=kJ}"
+    },
+    {
+        "公里": "kilometer {=km}"
+    },
+    {
+        "公里每時": "kilometer per hour {=km/h}"
+    },
+    {
+        "千伏特": "kilovolt {=kV}"
+    },
+    {
+        "千瓦": "kilowatt {=kW}"
+    },
+    {
+        "千瓦時": "kilowatthour {=kWh}"
+    },
+    {
+        "延遲": "lag {signal delay}"
+    },
+    {
+        "雷射{激光}": "light amplification by stimulated emission of radiation {=LASER}"
+    },
+    {
+        "光敏電阻": "light dependant resistor {=LDR}"
+    },
+    {
+        "發光二極體": "light-emitting diode {=LED}"
+    },
+    {
+        "燈光監督": "lighting director {=LD}"
+    },
+    {
+        "限制器；限制振幅器": "limiter"
+    },
+    {
+        "限制": "limiting"
+    },
+    {
+        "液晶顯示": "liquid crystal display {=LCD}"
+    },
+    {
+        "區域網": "local area network {=LAN}"
+    },
+    {
+        "長時間播放唱片；長時間播放模式": "long play {=LP}"
+    },
+    {
+        "循環；迴路": "loop"
+    },
+    {
+        "迴路增益": "loop gain"
+    },
+    {
+        "迴路系統": "loop system"
+    },
+    {
+        "響度": "loudness"
+    },
+    {
+        "響度級數": "loudness level"
+    },
+    {
+        "揚聲器": "loudspeaker"
+    },
+    {
+        "揚聲器敏真度": "loudspeaker efficiency"
+    },
+    {
+        "揚聲器靈敏度": "loudspeaker sensitivity {=Lsens}"
+    },
+    {
+        "低頻": "low frequency {=LF}"
+    },
+    {
+        "低頻效果": "low frequency effect {=LFE}"
+    },
+    {
+        "低通濾波器": "low pass filte {=LPF}"
+    },
+    {
+        "低旁波帶{調幅中的}": "lower sideband {=LSB}"
+    },
+    {
+        "流明{照度單位}": "lumen {=lm}"
+    },
+    {
+        "每平方英尺流明照度": "lumen per square foot {=Im/ft2}"
+    },
+    {
+        "每平方公尺流明": "lumen per square meter {=lm/m2}"
+    },
+    {
+        "每瓦特流明": "lumen per watt {=Lm/W}"
+    },
+    {
+        "每秒流明": "lumen second {=Lm．s}"
+    },
+    {
+        "勒克斯{照度}": "lux {=Ix}"
+    },
+    {
+        "磁力": "magnecraft"
+    },
+    {
+        "磁感應強度": "magnetic induction"
+    },
+    {
+        "磁性記錄": "magnetic recording"
+    },
+    {
+        "磁帶": "magnetic tape"
+    },
+    {
+        "磁性鋼絲錄音機{早期錄音機}": "magnetic wire recorder"
+    },
+    {
+        "磁光記錄": "magneto optical recording {=MOR}"
+    },
+    {
+        "磁流體動力學": "magnetohydrodynamics {=MHD}"
+    },
+    {
+        "磁動勢": "magnetomotive force {=MMF}"
+    },
+    {
+        "餘量": "margin"
+    },
+    {
+        "典禮主持人": "master of ceremonies {=MC}"
+    },
+    {
+        "匹配電阻": "matched resistance {=RM}"
+    },
+    {
+        "麥克斯威(磁通量單位)": "maxwell {=Mx}"
+    },
+    {
+        "測量": "measurement"
+    },
+    {
+        "中頻{率}": "medium frequency {=MF}"
+    },
+    {
+        "每秒百萬位元": "megabits per second {=Mbps}"
+    },
+    {
+        "百萬赫": "megacycle per second {=MHz}"
+    },
+    {
+        "百萬電子伏特": "megaelectronvolt {=MeV}"
+    },
+    {
+        "百萬赫": "megahertz {=MHz}"
+    },
+    {
+        "百萬伏": "megavolt {=MV}"
+    },
+    {
+        "百萬瓦": "megawatt {=MW}"
+    },
+    {
+        "百萬歐姆": "megohm {=MΩ}"
+    },
+    {
+        "金屬氧半導體": "metal-oxide semiconductor {=MOS}"
+    },
+    {
+        "金屬氧半導體場效應電晶體": "metal-oxide semiconductor field-effect transistor {=MOSFET}"
+    },
+    {
+        "米；公尺": "meter {=m}"
+    },
+    {
+        "公尺/分": "meter per minte {=m/m}"
+    },
+    {
+        "公尺/秒": "meter per second {=m/s}"
+    },
+    {
+        "公尺/二次方秒": "meter per second squared {=m/s2}"
+    },
+    {
+        "姆歐": "mho {=mho}"
+    },
+    {
+        "微安培": "microampere {=µA}"
+    },
+    {
+        "微巴": "microbar {=µbar}"
+    },
+    {
+        "微法": "microfarad {=µF}"
+    },
+    {
+        "微克": "microgram {=µg}"
+    },
+    {
+        "微亨；微亨利": "microhenry {=µH}"
+    },
+    {
+        "微米；微公尺": "micrometer {=µm}"
+    },
+    {
+        "微姆；微姆歐": "micromho {=µmho}"
+    },
+    {
+        "麥克風": "microphone {=mic}"
+    },
+    {
+        "微秒": "microsecond {=µs}"
+    },
+    {
+        "導電度": "microsiemens {=µS}"
+    },
+    {
+        "微伏特": "microvolt {=µV}"
+    },
+    {
+        "微瓦": "microwatt {=µW}"
+    },
+    {
+        "法定里；英里；哩": "mile {statute} {=mi}"
+    },
+    {
+        "英里/時": "mile per hour {=mi/h}"
+    },
+    {
+        "毫安培": "milliampere {=mA}"
+    },
+    {
+        "毫巴{氣壓}": "millibar {=mbar}"
+    },
+    {
+        "毫邦": "millibarn {=mb}"
+    },
+    {
+        "毫克": "milligram {=mg}"
+    },
+    {
+        "毫亨；毫亨利": "millihenry {=mH}"
+    },
+    {
+        "毫升": "milliliter {=ml}"
+    },
+    {
+        "毫米": "millimeter {=mm}"
+    },
+    {
+        "毫米汞柱": "millimeter of mercury, conventional {=mmHg}"
+    },
+    {
+        "毫秒；千分之一秒": "millisecond {=ms}"
+    },
+    {
+        "毫導電度": "millisiemens {=mS}"
+    },
+    {
+        "毫伏特": "millivolt {=mV}"
+    },
+    {
+        "毫瓦": "milliwatt {=mW}"
+    },
+    {
+        "迷你光碟": "mini disk {=MD}"
+    },
+    {
+        "分{角度、時間單位}": "minute {plane angle} {=…'}"
+    },
+    {
+        "分{時間單位}": "minute {time} {=min}"
+    },
+    {
+        "混音器": "mixer {=MIX}"
+    },
+    {
+        "混音": "mixing"
+    },
+    {
+        "調變轉換函數": "modulation transfer function {=MTF}"
+    },
+    {
+        "摩耳": "mole {=mol}"
+    },
+    {
+        "動圈": "moving coil {=MC}"
+    },
+    {
+        "MS立體聲麥克風技術": "MS stereo technique"
+    },
+    {
+        "多聲道音訊數位介面": "multichannel audio digital interface {=MADI}"
+    },
+    {
+        "多級雜訊調整器": "multistage noise shaping {=MASH}"
+    },
+    {
+        "多階噪音整形技術系統": "multistage noise shaping system {=MASH}"
+    },
+    {
+        "數位介面樂器": "Musical Instrument Digital Interface {=MIDI}"
+    },
+    {
+        "樂器數位介面": "musical instrument digital interface {=MIDI}"
+    },
+    {
+        "數位介面樂器軟體": "Musical instrument digital interface {=MIDI} software"
+    },
+    {
+        "奈安；奈安培": "nanoampere {=nA}"
+    },
+    {
+        "奈法；奈法拉": "nanofarad {=nF}"
+    },
+    {
+        "奈米": "nanometer {=nm}"
+    },
+    {
+        "奈秒": "nanosecond {=ns}"
+    },
+    {
+        "奈瓦；奈瓦特": "nanowatt {=nW}"
+    },
+    {
+        "全美廣播人協會規格": "National Association of Broadcasters {=NAB}"
+    },
+    {
+        "美國國家廣播公司規格": "National Broadcasting Company {=NBC}"
+    },
+    {
+        "美國國家標準局規格；美國中央標準局規格": "National Bureau of Standards {=NBS}"
+    },
+    {
+        "國家通訊傳播委員會": "National Communications Commission {=NCC}"
+    },
+    {
+        "美國國家電氣法規標準": "National Electrical Code {=NEC}"
+    },
+    {
+        "美國電氣製造商協會規格": "National Electrical Manufacturers Association {=NEMA}"
+    },
+    {
+        "美國防火協會規格": "National Fire Protection Association {=NFPA}"
+    },
+    {
+        "NTSC影音系統(美國國家電視標準委員會影音系統規格)": "National Television Standards Committee {=NTSC}"
+    },
+    {
+        "浬": "nautical mile {=nmi}"
+    },
+    {
+        "接近即時的縮擴音頻多路廣播": "near-instantaneous companding {=NICAM}"
+    },
+    {
+        "所需聲響增益": "needed acoustic gain {=NAG}"
+    },
+    {
+        "負回饋": "negative feedback {=NFB}"
+    },
+    {
+        "牛頓米，牛頓公尺": "newton meter {=N-m}"
+    },
+    {
+        "牛頓平方公尺(空氣壓力單位)": "newton per square meter {=N/m2}"
+    },
+    {
+        "不好": "no good {=NG}"
+    },
+    {
+        "雜訊": "noise figure {=NF}"
+    },
+    {
+        "噪音頻率": "noise frequency {=NF}"
+    },
+    {
+        "雜訊整形": "noise shaping"
+    },
+    {
+        "雜訊電壓": "noise voltage {=En}"
+    },
+    {
+        "運轉噪音自動電平調節": "noise-operated automatic level adjuster {=NOALA}"
+    },
+    {
+        "常態大氣壓": "normal atmosphere {=atm}"
+    },
+    {
+        "啟用的麥克風數量": "number of open microphone {=NOM}"
+    },
+    {
+        "數值孔徑": "numerical aperture {=NA}"
+    },
+    {
+        "法國廣電局 ；法國廣電局規格": "Office de Radiodiffusion Télévision Française {=ORTF}"
+    },
+    {
+        "歐姆": "ohm {=Ω}"
+    },
+    {
+        "操作系統": "operating system {=OS}"
+    },
+    {
+        "操作傳導放大器": "operational transconductance amplifier {=OTA}"
+    },
+    {
+        "ORTF立體聲麥克風技術": "ORTF stereo technique"
+    },
+    {
+        "振盪器；訊號產生器": "oscillator"
+    },
+    {
+        "輸出（分貝值）": "output level in dB {=LOUT}"
+    },
+    {
+        "輸出電壓": "output voltage {=EOUT}"
+    },
+    {
+        "外徑": "outside diameter {=OD}"
+    },
+    {
+        "參數": "parametric"
+    },
+    {
+        "參數式等化器": "parametric equalizer {=PEQ}"
+    },
+    {
+        "被動圖形": "passive graphic"
+    },
+    {
+        "峰值振幅": "peak amplitude {=AP}"
+    },
+    {
+        "峰值監控表": "peak program meter {=PPM}"
+    },
+    {
+        "尖峰反向電壓": "peak reverse voltage {=PRV}"
+    },
+    {
+        "相位": "phase"
+    },
+    {
+        "PAL影音系統(國際電信聯盟規格)": "phase alternation line {=PAL}"
+    },
+    {
+        "相位角": "phase angle {=θ}"
+    },
+    {
+        "相位曲線": "phase frequency curve {=PFC}"
+    },
+    {
+        "相位調變": "phase modulation {=PM}"
+    },
+    {
+        "phone接頭": "phone plug"
+    },
+    {
+        "聲音": "phono"
+    },
+    {
+        "拾音": "pickup {=PU}"
+    },
+    {
+        "粉紅色雜訊": "pink noise"
+    },
+    {
+        "屏壓（極電）": "plate voltage {=Ep}"
+    },
+    {
+        "重放": "playback"
+    },
+    {
+        "接頭": "plug"
+    },
+    {
+        "脈衝": "pluse"
+    },
+    {
+        "極性": "polar"
+    },
+    {
+        "潛在聲響增益": "potential acoustic gain {=PAG}"
+    },
+    {
+        "後級擴大器": "power amplifier"
+    },
+    {
+        "功率因數": "power factor {=PF}"
+    },
+    {
+        "功率電平": "power level {=LW}"
+    },
+    {
+        "功率輸出": "power out {=PO}"
+    },
+    {
+        "輸入監聽控制鍵": "pre fadder listen {=PFL}"
+    },
+    {
+        "前級擴大機；前級擴大": "preamplifier {=preamp}"
+    },
+    {
+        "推桿前試聽": "prefade listen {=PFL}"
+    },
+    {
+        "壓力區塊": "pressure plate"
+    },
+    {
+        "音壓式麥克風": "pressure zone microphone {=PZM}"
+    },
+    {
+        "節目監督": "program director {=PD}"
+    },
+    {
+        "公共廣播系統": "public address {=PA}"
+    },
+    {
+        "脈衝編碼調變": "pulse code modulation {=PCM}"
+    },
+    {
+        "QRD｛二次剩餘｝擴散器": "quadratic residue diffusor {=QRD}"
+    },
+    {
+        "廣播資訊服務": "Radio Data Service {=RDS}"
+    },
+    {
+        "射頻": "radio frequency {=RF}"
+    },
+    {
+        "行車廣播資訊(即時路況)": "Radio Information for Motorists {=ARI}"
+    },
+    {
+        "無線電干擾": "radio-frequency interference {=RFI}"
+    },
+    {
+        "RAM｛隨機存取存儲器｝": "random access memory {=RAM}"
+    },
+    {
+        "隨機噪聲產生器": "random-noise generator {=RNG}"
+    },
+    {
+        "快速語音傳輸指數": "Rapid Speech Transmission Index {=RASTI}"
+    },
+    {
+        "RCA接頭": "RCA"
+    },
+    {
+        "唯讀式記憶": "read only memory {=ROM}"
+    },
+    {
+        "即時分析器": "real-time analyzer {=RTA}"
+    },
+    {
+        "美國唱片業協會；美國唱片業協會規格": "Record Industry Association of America {=RIAA}"
+    },
+    {
+        "錄製": "recording {=REC}"
+    },
+    {
+        "紅綠藍顏色模式": "red-green-blue color mode {=RGB}"
+    },
+    {
+        "紅綠藍水平垂直": "red-green-blue horizontal vertical {=RGBHV}"
+    },
+    {
+        "紅綠藍同步": "red-green-blue sync {=RGBS}"
+    },
+    {
+        "非反射區": "reflection-free zone {=RFZ}"
+    },
+    {
+        "每秒感應度": "reflections per second {=RPS}"
+    },
+    {
+        "電阻": "resistance"
+    },
+    {
+        "電阻電容": "resistance-capacitance {=RC}"
+    },
+    {
+        "電阻 - 電感 - 電容": "resistance-inductance-capacitance {=RLC}"
+    },
+    {
+        "電阻": "resistor {=R}"
+    },
+    {
+        "電阻 - 電容": "resistor-capacitor {=RC}"
+    },
+    {
+        "電阻 - 晶體管邏輯": "resistor-transistor logic {=RTL}"
+    },
+    {
+        "共鳴的；反響的": "resonant"
+    },
+    {
+        "殘響音量分貝": "reverberant sound level in dB {=LR}"
+    },
+    {
+        "殘響": "reverberation"
+    },
+    {
+        "殘響時間規格": "reverberation time {=RT60}"
+    },
+    {
+        "逆向": "reversal"
+    },
+    {
+        "反轉": "reverse"
+    },
+    {
+        "每分鐘轉速": "revolution per minute {=r/min}{=r/m}{=rpm}"
+    },
+    {
+        "每秒轉速": "revolution per second {=r/s}{rps}"
+    },
+    {
+        "鼓型磁頭數位錄音帶；鼓形磁頭數位錄音機": "rotary head digital audio tape {=R-DAT}"
+    },
+    {
+        "取樣": "sample and hold {=S/H}"
+    },
+    {
+        "取樣": "sampling"
+    },
+    {
+        "取樣率": "sampling frequency {=Fs}"
+    },
+    {
+        "取樣頻率轉換器": "sampling rate converter {=SRC}"
+    },
+    {
+        "秒": "second {time} {=s}"
+    },
+    {
+        "敏感度": "sensitivity {=sensi}"
+    },
+    {
+        "編序": "sequencing"
+    },
+    {
+        "串列數位介面": "serial digital interface {=SDI}"
+    },
+    {
+        "移": "shift"
+    },
+    {
+        "短噪": "short noise {=isn}"
+    },
+    {
+        "短波": "short wave {=SW}"
+    },
+    {
+        "訊號延時": "signal delay {=SD}"
+    },
+    {
+        "噪訊比": "signal-to-noise ratio {=SNR}"
+    },
+    {
+        "單列直插式封裝": "single in-line package {=SIP}"
+    },
+    {
+        "單邊帶": "single sideband {=SSB}"
+    },
+    {
+        "中間休息": "sneak in {=S.I.}"
+    },
+    {
+        "影視工程師公會": "society of motion picture and televition engineers {=SMPTE}"
+    },
+    {
+        "SPDIF訊號格式": "Sony/Philips Digital Interface Format digital format {=SPDIF}"
+    },
+    {
+        "音響效果": "sound effects{=SE}"
+    },
+    {
+        "音量表": "sound level meter {=SLM}"
+    },
+    {
+        "音壓分貝": "sound pressure in dB {=dBSPL}"
+    },
+    {
+        "聲壓級；聲壓位準": "sound pressure level {=SPL}"
+    },
+    {
+        "聲音擴音（專業表演藝術）": "sound reinforcement {=SR}"
+    },
+    {
+        "聲音傳輸級數": "sound transmission class {=STC}"
+    },
+    {
+        "音源電阻": "source resistance {=RS}"
+    },
+    {
+        "特殊效果": "special effects {=SFX}"
+    },
+    {
+        "語音傳輸指標": "speech transmission index {=STI}"
+    },
+    {
+        "標準速度播放唱片；標準速度播放模式": "stander play {=SP}"
+    },
+    {
+        "駐波比": "standing-wave ratio {=SWR}"
+    },
+    {
+        "超級音訊光碟": "super audio compact disc {=SACD}"
+    },
+    {
+        "超高頻": "super high frequency {=SHF}"
+    },
+    {
+        "環繞型聲音": "surround sound"
+    },
+    {
+        "開關": "switcher {=SW}"
+    },
+    {
+        "回話系統": "talk back {=TB}"
+    },
+    {
+        "技術監督": "technical director {=TD}"
+    },
+    {
+        "電視干擾": "television interference {=TVI}"
+    },
+    {
+        "特斯拉": "tesla {=T}"
+    },
+    {
+        "熱噪聲": "thermal noise {=TN}{=Itn}"
+    },
+    {
+        "臨界值電流": "threshold current"
+    },
+    {
+        "臨界值電壓": "threshold voltage"
+    },
+    {
+        "計時員": "time keeper {=TK}"
+    },
+    {
+        "總諧波失真": "total harmonic distortion {=thd}"
+    },
+    {
+        "以分貝為單位的總音量": "total sound level in dB {=LT}"
+    },
+    {
+        "瞬間互調失真": "transient intermodulation distortion {=TIM}"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "發射器": "transmitter"
+    },
+    {
+        "型式": "type"
+    },
+    {
+        "特高頻": "ultra high frequency {=UHF}"
+    },
+    {
+        "單位吸收值": "unit of absorption {=Sabin}"
+    },
+    {
+        "真空管": "vacuum tubes"
+    },
+    {
+        "真空管電壓表": "vacuum-tube voltmeter {=VTVM}"
+    },
+    {
+        "變頻振盪器": "variable-frequency oscillator {=VFO}"
+    },
+    {
+        "變速振盪器": "variable-speed oscillator {=VSO}"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "甚高頻": "very high frequency{=VHF}"
+    },
+    {
+        "超低頻": "very low frequency {=VLF}"
+    },
+    {
+        "影像工程師": "video engineer {=VE}"
+    },
+    {
+        "家用錄影機系統": "video home system {=VHS}"
+    },
+    {
+        "錄影機": "video tape recorder {=VTR}"
+    },
+    {
+        "視覺效果": "visual effects {=VFX}"
+    },
+    {
+        "伏特": "volt {=V}"
+    },
+    {
+        "電壓控制擴大器": "voltage controlled amplifier {=VCA}"
+    },
+    {
+        "伏特-歐姆-毫安培計": "volt-ohm-milliammeter {=VOM}"
+    },
+    {
+        "音量控制": "volume control {=VC}"
+    },
+    {
+        "無線上網": "wireless fidelity {=WIFI}"
+    },
+    {
+        "低音揚聲器；低音揚聲器單體": "woofer"
+    },
+    {
+        "XLR連接頭": "XLR-type connector"
+    },
+    {
+        "XY立體聲麥克風技術": "XY stereo technique"
+    }
+]

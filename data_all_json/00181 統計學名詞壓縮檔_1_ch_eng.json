@@ -1,0 +1,9119 @@
+[
+    {
+        "細胞自動機建模": "cellular automata modeling"
+    },
+    {
+        "設限自我迴歸時間數列": "censored autoregressive time series"
+    },
+    {
+        "設限概度多重插補": "censored likelihood multiple imputation (CLMI)"
+    },
+    {
+        "條件變異數非齊一性設限迴歸模型": "censored regression model with conditional heteroscedasticity"
+    },
+    {
+        "設限反應": "censored response"
+    },
+    {
+        "設限時間數列": "censored time series"
+    },
+    {
+        "設限率": "censoring proportion"
+    },
+    {
+        "設限率": "censoring rate"
+    },
+    {
+        "中心圖記分析": "centrographic analysis"
+    },
+    {
+        "重心尺度化": "centroid scaling"
+    },
+    {
+        "連鎖法": "chain base method"
+    },
+    {
+        "鏈式方程插補": "chained equations imputation"
+    },
+    {
+        "轉折點分析": "change point analysis"
+    },
+    {
+        "轉折點偵測": "change-point detection "
+    },
+    {
+        "混沌系統": "chaotic system"
+    },
+    {
+        "混沌時間數列圖": "chaotic time series maps "
+    },
+    {
+        "謝比雪夫內插法": "Chebyshev interpolation"
+    },
+    {
+        "檢查點": "check point"
+    },
+    {
+        "化學親合力": "chemical affinity "
+    },
+    {
+        "化學降解資料": "chemical degradation data"
+    },
+    {
+        "化學資訊（學）": "cheminformatics"
+    },
+    {
+        "陳氏分布": "Chen distribution"
+    },
+    {
+        "混合卡方分布": "chi-bar-squared distribution"
+    },
+    {
+        "擇基聯合資料": "choice-based conjoint data"
+    },
+    {
+        "選擇特定變數": "choice-specific variable"
+    },
+    {
+        "Cholesky法": "Cholesky method"
+    },
+    {
+        "面量圖": "choropleth"
+    },
+    {
+        "時間電流滴定法": "chronoamperometry"
+    },
+    {
+        "民間勞動力": "civilian labor force"
+    },
+    {
+        "演化支": "clade"
+    },
+    {
+        "退出模型類別": "classes of dropout models"
+    },
+    {
+        "古典循環": "classic cycle"
+    },
+    {
+        "古典測驗理論": "classical test theory (CTT)"
+    },
+    {
+        "古典效用": "classical utility"
+    },
+    {
+        "分類器": "classifier"
+    },
+    {
+        "Clayton-Oakes模型": "Clayton-Oakes model"
+    },
+    {
+        "臨床顯著變化": "clinically significant change"
+    },
+    {
+        "封閉母體": "closed population"
+    },
+    {
+        "封閉偏斜常態分布": "closed skew-normal distribution"
+    },
+    {
+        "雲端運算": "cloud computing"
+    },
+    {
+        "雲端儲存": "cloud storage"
+    },
+    {
+        "Clustal基因序列格式": "Clustal format"
+    },
+    {
+        "叢集樹形圖": "cluster dendrogram"
+    },
+    {
+        "叢集偵測": "cluster detection"
+    },
+    {
+        "叢集模型": "cluster model"
+    },
+    {
+        "集群隨機化交叉試驗": "cluster randomized crossover trial"
+    },
+    {
+        "叢集結構": "cluster structure"
+    },
+    {
+        "叢集趨勢圖": "cluster tendency plot"
+    },
+    {
+        "叢集確認技術": "cluster validation technique"
+    },
+    {
+        "叢集正確性指數": "cluster validity index"
+    },
+    {
+        "叢集集成法": "clustering ensemble method"
+    },
+    {
+        "叢集圖": "clustering graphic"
+    },
+    {
+        "聚結分析": "coalescent analyses"
+    },
+    {
+        "柯布-道格拉斯函數": "Cobb-Douglas function"
+    },
+    {
+        "共對應分析": "co-correspondence analysis"
+    },
+    {
+        "代碼共用": "code sharing"
+    },
+    {
+        "條件關聯構函數": "coditional copula function"
+    },
+    {
+        "認知診斷模型": "cognitive diagnosis model"
+    },
+    {
+        "一貫性原則": "coherence principle"
+    },
+    {
+        "共整合分析": "co-inertia analysis (CIA)"
+    },
+    {
+        "共整合迴歸": "cointegrating regression"
+    },
+    {
+        "集體矩陣分解": "collective matrix factorization"
+    },
+    {
+        "大學入學問題": "college admissions problem"
+    },
+    {
+        "碰撞檢定": "collision test"
+    },
+    {
+        "色彩方案": "color scheme"
+    },
+    {
+        "組合預測": "combination forecasting "
+    },
+    {
+        "綜合教育指數": "combined education index (CEI)"
+    },
+    {
+        "p值組合": "combining p-values"
+    },
+    {
+        "共中位數": "comedian"
+    },
+    {
+        "混合分析": "comingling analysis"
+    },
+    {
+        "單位共通變數": "commensurate variables"
+    },
+    {
+        "商品流通法": "commodity flow method"
+    },
+    {
+        "商品價格": "commodity price"
+    },
+    {
+        "共同主成分分析": "common principal components analysis"
+    },
+    {
+        "社區對照組": "community control"
+    },
+    {
+        "社區介入研究": "community intervention study"
+    },
+    {
+        "共病": "comorbidity"
+    },
+    {
+        "對比校正": "comparative calibration"
+    },
+    {
+        "對比曝露率": "comparative exposure rate"
+    },
+    {
+        "比較組": "comparison groups"
+    },
+    {
+        "比較誤差率": "comparisonwise error rate"
+    },
+    {
+        "隔間分析 ": "compartmental analysis"
+    },
+    {
+        "補償均等化": "compensatory equalization"
+    },
+    {
+        "競爭風險模型": "competing risks model"
+    },
+    {
+        "完整個案遺漏值": "complete case missing values (CCMV)"
+    },
+    {
+        "完全整體經驗模態分解": "complete ensemble empirical mode decomposition (CEEMD) "
+    },
+    {
+        "完全估計量": "complete estimator"
+    },
+    {
+        "完全空間隨機性": "complete spatial randomness"
+    },
+    {
+        "指數族的完備性": "completeness of exponential family"
+    },
+    {
+        "複數Bingham分布": "complex Bingham distribution"
+    },
+    {
+        "複數二參數皮爾遜分布": "complex biparametric Pearson distribution"
+    },
+    {
+        "複雜疾病": "complex disease"
+    },
+    {
+        "複合右設限調查資料": "complex right-censored survey data"
+    },
+    {
+        "複合抽樣設計": "complex sampling design"
+    },
+    {
+        "複合隨機模型": "complex stochastic model"
+    },
+    {
+        "複合調查資料": "complex survey data"
+    },
+    {
+        "複合調查設計": "complex survey design"
+    },
+    {
+        "複合調查結構方程式模型": "complex survey structural equation model"
+    },
+    {
+        "複合存活資料": "complex survival data"
+    },
+    {
+        "複數三參數皮爾遜分布": "complex triparametric Pearson distribution"
+    },
+    {
+        "偏殘差圖": "component-plus-residual plot"
+    },
+    {
+        "逐分量演算法": "componentwise algorithm"
+    },
+    {
+        "複合評估指標 ": "composite  endpoint"
+    },
+    {
+        "複合分布": "composite distribution"
+    },
+    {
+        "複合指標": "composite indicator"
+    },
+    {
+        "複合概度": "composite likelihood"
+    },
+    {
+        "複合對數常態分布": "composite lognormal distribution"
+    },
+    {
+        "化合物註解管線": "compound annotation pipeline"
+    },
+    {
+        "複合二項分布": "compound binomial distribution"
+    },
+    {
+        "複合共變量法": "compound covariate method"
+    },
+    {
+        "複合決策問題": "compound decision problem"
+    },
+    {
+        "複比": "compound ratio"
+    },
+    {
+        "複合對稱性": "compound symmetry"
+    },
+    {
+        "計算的複雜性": "computational complexity"
+    },
+    {
+        "計算金融學": "computational finance "
+    },
+    {
+        "計算物理": "computational physics"
+    },
+    {
+        "遺漏資料計算流": "computational stream of missing data"
+    },
+    {
+        "計算機代數": "computer algebra"
+    },
+    {
+        "電腦病毒": "computer virus"
+    },
+    {
+        "電腦輔助診斷": "computer-aided diagnosis"
+    },
+    {
+        "電腦輔助訪問": "computer-assisted interview"
+    },
+    {
+        "電腦化適性測驗": "computerized adaptive test (CAT)"
+    },
+    {
+        "計算；運算": "computing"
+    },
+    {
+        "集中量數": "concentration measure"
+    },
+    {
+        "濃度時間曲線": "concentration time curve"
+    },
+    {
+        "協和性指數": "concordance index"
+    },
+    {
+        "協和突變檢定": "concordant mutations test"
+    },
+    {
+        "事件的同時發生；共點": "concurrence"
+    },
+    {
+        "條件數": "condition number"
+    },
+    {
+        "條件自我迴歸模型": "conditional autorregressive (CAR) model"
+    },
+    {
+        "條件共變異數矩陣": "conditional covariance matrix"
+    },
+    {
+        "條件誤差函數": "conditional error function"
+    },
+    {
+        "條件獨立性結構": "conditional independence structure"
+    },
+    {
+        "條件親屬矩陣": "conditional kinship matrix"
+    },
+    {
+        "條件最大概度估計": "conditional maximum likelihood estimation"
+    },
+    {
+        "條件平均插補": "conditional mean imputation"
+    },
+    {
+        "條件死亡率；風險函數": "conditional mortality rate"
+    },
+    {
+        "條件p值": "conditional p-value"
+    },
+    {
+        "條件分位數迴歸模型": "conditional quantile regression model"
+    },
+    {
+        "條件尾端期望值": "conditional tail expectation  (CTE)"
+    },
+    {
+        "條件風險值": "conditional value at risk (CVaR)"
+    },
+    {
+        "錐投影": "cone projection"
+    },
+    {
+        "會議矩陣": "conference matrix"
+    },
+    {
+        "信賴橢圓": "confidence ellipse"
+    },
+    {
+        "信賴剖面法": "confidence profile method"
+    },
+    {
+        "混淆矩陣": "confusion matrix"
+    },
+    {
+        "同餘法": "congruential method"
+    },
+    {
+        "聯合分析": "conjoint analysis"
+    },
+    {
+        "共軛梯度法": "conjugate gradient method (CGM)"
+    },
+    {
+        "Conover檢定": "Conover test"
+    },
+    {
+        "保守及非保守檢定": "conservative and non-conservative tests"
+    },
+    {
+        "一致性檢核": "consistency check"
+    },
+    {
+        "臨床試驗報告綜合標準聲明": "consolidated standards for reporting trials (CONSORT) statement"
+    },
+    {
+        "固定規模彈性函數": "constant elasticity of scale function"
+    },
+    {
+        "固定替代彈性函數": "constant elasticity of substitution function"
+    },
+    {
+        "限制可加性排序": "constrained additive ordination"
+    },
+    {
+        "主坐標限制分析": "Constrained Analysis of Principal Coodinates (CAP)"
+    },
+    {
+        "限制對應分析": "constrained correspondence analysis"
+    },
+    {
+        "限制對偶量尺化": "constrained dual scaling"
+    },
+    {
+        "限制排序法": "constrained ordination method"
+    },
+    {
+        "限制二次排序": "constrained quadratic ordination"
+    },
+    {
+        "Consul分布": "Consul distribution"
+    },
+    {
+        "消費者信心指數": "consumer confidence index (CCI)"
+    },
+    {
+        "同期網路": "contemporaneous networks "
+    },
+    {
+        "連續重評估法": "continual reassessment method"
+    },
+    {
+        "連續二項分布": "continuous binomial distribution"
+    },
+    {
+        "連續比例": "continuous proportion"
+    },
+    {
+        "連續篩檢設計": "continuous screen design"
+    },
+    {
+        "連續時間結構方程式模型": "continuous time structural equation model"
+    },
+    {
+        "連續變數": "continuous variable"
+    },
+    {
+        "連續時間分數整合自我迴歸移動平均過程": "continuous-time fractionally integrated ARMA (CARFIMA)  process"
+    },
+    {
+        "連續體": "continuum"
+    },
+    {
+        "連續體迴歸": "continuum regression"
+    },
+    {
+        "等高線圖": "contour plot"
+    },
+    {
+        "對比選擇模型及型態混合模型": "contrasting selection and pattern-mixture models"
+    },
+    {
+        "對照組": "control group"
+    },
+    {
+        "對照試驗": "controlled trial"
+    },
+    {
+        "合宜函數": "convenience function"
+    },
+    {
+        "方便樣本": "convenience sample"
+    },
+    {
+        "凸錐程式": "convex cone program"
+    },
+    {
+        "凸包修剪法": "convex hull trimming"
+    },
+    {
+        "凸規劃": "convex programming"
+    },
+    {
+        "定罪率": "conviction rate"
+    },
+    {
+        "褶積定理": "convolution theorem"
+    },
+    {
+        "褶積泛函自我迴歸模型": "convolutional functional autoregressive model"
+    },
+    {
+        "褶積網路": "convolutional network"
+    },
+    {
+        "康威-馬克斯威爾-卜瓦松分布": "Conway-Maxwell-Poisson distribution"
+    },
+    {
+        "Copas選擇模型": "Copas's selection model"
+    },
+    {
+        "同表象相關": "cophenetic correlation"
+    },
+    {
+        "共區間散布圖": "coplot"
+    },
+    {
+        "關聯結構模型": "copula model"
+    },
+    {
+        "關聯結構插補法": "copula-based imputation method"
+    },
+    {
+        "基於關聯結構波動模型": "copula-based volatility model"
+    },
+    {
+        "語料庫": "corpora"
+    },
+    {
+        "語料次數資料": "corpus frequency data"
+    },
+    {
+        "校正標準誤": "corrected standard error"
+    },
+    {
+        "相關故障時間": "correlated failure times"
+    },
+    {
+        "相關風險": "correlated risks"
+    },
+    {
+        "相關樣本t檢定": "correlated samples t-test"
+    },
+    {
+        "相關光譜法": "correlated spectroscopy (COSY)"
+    },
+    {
+        "相關主題模型": "correlated topic model (CTM)"
+    },
+    {
+        "相關係數分布": "correlation coefficient distribution"
+    },
+    {
+        "相關矩陣分布": "correlation matrix distribution"
+    },
+    {
+        "相關調整t計分": "correlation-adjusted t-scores (CAT scores)"
+    },
+    {
+        "餘弦分析": "cosinor analysis"
+    },
+    {
+        "宇宙研究": "cosmological research"
+    },
+    {
+        "極佳生活費指數": "cost of living extremely well index"
+    },
+    {
+        "到岸價格": "cost, insurance and freight (CIF)"
+    },
+    {
+        "成本效益分析": "cost-effectiveness analysis"
+    },
+    {
+        "成本敏感學習": "cost-sensitive learning"
+    },
+    {
+        "成本敏感損失函數": "cost-sensitive loss function"
+    },
+    {
+        "計數資料迴歸": "count data regression"
+    },
+    {
+        "計數型時間數列": "count time series "
+    },
+    {
+        "反事實分解": "counterfactual decomposition"
+    },
+    {
+        "反直覺遺漏機制": "counter-intuitive missingness mechanism"
+    },
+    {
+        "反匹配": "counter-matching"
+    },
+    {
+        "類零效應值": "counternull value"
+    },
+    {
+        "耦合常微分方程": "coupled ODE"
+    },
+    {
+        "庫朗-費雪極小極大定理": "Courant-Fisher minimax theorem"
+    },
+    {
+        "共變異膨脹準則": "covariance inflation criterion"
+    },
+    {
+        "共變異數選擇模型": "covariance selection model"
+    },
+    {
+        "共變異結構模型": "covariance structure model"
+    },
+    {
+        "共變異正則化迴歸": "covariance-regularized regression"
+    },
+    {
+        "共變量剖面": "covariate profile"
+    },
+    {
+        "COVRATIO統計量": "COVRATIO"
+    },
+    {
+        "Cowles演算法": "Cowles' algorithm"
+    },
+    {
+        "柯克斯-奧林模型": "Cox-Aalen model"
+    },
+    {
+        "二相位柯克斯分布": "Coxian-2 distribution"
+    },
+    {
+        "柯克斯-曼特爾檢定": "Cox-Mantel test"
+    },
+    {
+        "柯克斯-普萊克特模型": "Cox-Plackett model"
+    },
+    {
+        "柯克斯隨機性檢定": "Cox's test of randomness"
+    },
+    {
+        "柯克斯-斯皮約特沃爾法": "Cox-Spjøtvoll method"
+    },
+    {
+        "柯克斯-斯杜爾特趨勢檢定": "Cox-Stuart trend test"
+    },
+    {
+        "柯克斯型自激強度模型": "Cox-type self-exciting intensity model"
+    },
+    {
+        "克萊姆V係數 ": "Cramér's V"
+    },
+    {
+        "克萊姆-馮米賽斯統計量": "Cramér-von Mises statistic"
+    },
+    {
+        "擲骰子檢定": "craps test"
+    },
+    {
+        "可靠區域": "credible region"
+    },
+    {
+        "信用違約交換": "credit default swap (CDS)"
+    },
+    {
+        "信用投資組合": "credit portfolio"
+    },
+    {
+        "信用風險": "credit risk"
+    },
+    {
+        "信用評分": "credit scoring"
+    },
+    {
+        "Cressie-Read統計量": "Cressie-Read statistic"
+    },
+    {
+        "犯罪時鐘": "crime clock"
+    },
+    {
+        "縱橫交叉設計": "criss-cross design"
+    },
+    {
+        "最佳性準則": "criteria of optimality"
+    },
+    {
+        "Cronbach-Mesbah曲線": "Cronbach-Mesbah curve"
+    },
+    {
+        "交互距離矩陣": "cross-distance matrix"
+    },
+    {
+        "交叉處理": "crossed treatments"
+    },
+    {
+        "交叉熵叢集法": "cross-entropy clustering"
+    },
+    {
+        "交叉熵法": "cross-entropy method"
+    },
+    {
+        "十字準線圖": "crosshair plot"
+    },
+    {
+        "交叉率": "crossover rate"
+    },
+    {
+        "跨表現型基因關聯": "cross-phenotype genetic association"
+    },
+    {
+        "交叉譜密度": "cross-spectral density"
+    },
+    {
+        "交叉小波": "cross-wavelet"
+    },
+    {
+        "粗風險率": "crude risk"
+    },
+    {
+        "立方律": "cube law"
+    },
+    {
+        "立方圖": "cube plot"
+    },
+    {
+        "立方關聯結構": "cubic copula"
+    },
+    {
+        "三次弧線": "cubic spline"
+    },
+    {
+        "文化分類": "cultural assortment"
+    },
+    {
+        "累積及擴大視窗": "cumulative and expanding windows"
+    },
+    {
+        "累積發生率抽樣": "cumulative incidence sampling"
+    },
+    {
+        "累積連結模型": "cumulative link model"
+    },
+    {
+        "累積統合分析": "cumulative meta analysis"
+    },
+    {
+        "累積/動態曲線下面積": "cumulative/dynamic AUC"
+    },
+    {
+        "當期累積發生率": "current cumulative incidence"
+    },
+    {
+        "維度的詛咒": "curse of dimensionality"
+    },
+    {
+        "曲率測度": "curvature measure"
+    },
+    {
+        "曲線對位": "curve registration"
+    },
+    {
+        "曲線解析": "curve resolution"
+    },
+    {
+        "顧客滿意度": "customer satisfaction"
+    },
+    {
+        "可客制化選擇模型": "customizable choice model"
+    },
+    {
+        "Cuzick趨勢檢定": "Cuzick's trend test"
+    },
+    {
+        "反覆搜尋分析": "cycle hunt analysis"
+    },
+    {
+        "循環圖": "cycle plot"
+    },
+    {
+        "循環時間粒度": "cyclic temporal granularities"
+    },
+    {
+        "圓柱網格": "cylindrical grid"
+    },
+    {
+        "Czekanowski係數": "Czekanowski coefficient"
+    },
+    {
+        "Dagum分布": "Dagum distribution"
+    },
+    {
+        "Dalenius-Hodges法": "Dalenius-Hodges method"
+    },
+    {
+        "Dantzig選擇器": "Dantzig selector"
+    },
+    {
+        "犯罪黑數": "dark figure of crime"
+    },
+    {
+        "Darling檢定": "Darling test"
+    },
+    {
+        "資料總合": "data aggregation"
+    },
+    {
+        "資料檔案": "data archive"
+    },
+    {
+        "資料存檔": "data archiving"
+    },
+    {
+        "資料擴增": "data augmentation"
+    },
+    {
+        "資料高速存取": "data caching"
+    },
+    {
+        "資料複製": "data cloning"
+    },
+    {
+        "資料尺度縮小": "data downscaling"
+    },
+    {
+        "資料檢誤": "data editing"
+    },
+    {
+        "資料融合": "data fusion"
+    },
+    {
+        "資料侵入模擬": "data intrusion simulation"
+    },
+    {
+        "資料調處": "data manipulation "
+    },
+    {
+        "資料矩陣": "data matrix"
+    },
+    {
+        "資料擾動": "data perturbation"
+    },
+    {
+        "資料預處理": "data pre-processing "
+    },
+    {
+        "資料綱要": "data schema"
+    },
+    {
+        "資料科學": "data science"
+    },
+    {
+        "資料篩檢": "data screening"
+    },
+    {
+        "資料分割": "data segmentation"
+    },
+    {
+        "資料集": "data set"
+    },
+    {
+        "資料平滑演算法": "data smoothing algorithm"
+    },
+    {
+        "資料壓縮": "data squashing"
+    },
+    {
+        "資料調換": "data swapping"
+    },
+    {
+        "資料理論": "data theory"
+    },
+    {
+        "資料傾斜": "data tilting"
+    },
+    {
+        "資料視覺化": "data visualization"
+    },
+    {
+        "資料庫模型": "database model"
+    },
+    {
+        "資料庫表格調處": "database table manipulation"
+    },
+    {
+        "Davies分布": "Davies distribution"
+    },
+    {
+        "Davies-Quade檢定": "Davies-Quade test"
+    },
+    {
+        "de Finetti圖": "de Finetti diagram"
+    },
+    {
+        "航位推算法": "dead reckoning"
+    },
+    {
+        "除錯": "debugging"
+    },
+    {
+        "尊嚴勞動指標": "decent work indicators"
+    },
+    {
+        "去中心對應分析": "decentered correspondence analysis"
+    },
+    {
+        "深度學習": "deep learning"
+    },
+    {
+        "深度模型": "deep model"
+    },
+    {
+        "深度類神經網路": "deep neural network"
+    },
+    {
+        "違約風險": "default risk"
+    },
+    {
+        "DeFries-Fulker分析": "DeFries-Fulker analysis"
+    },
+    {
+        "衰減分析": "degradation analysis"
+    },
+    {
+        "衰減試驗": "degradation test"
+    },
+    {
+        "去識別化": "de-identification"
+    },
+    {
+        "Delaporte分布": "Delaporte distribution"
+    },
+    {
+        "延遲微分方程": "delay differential equation (DDE)"
+    },
+    {
+        "延遲分布": "delay distribution"
+    },
+    {
+        "延遲進入": "delayed entry"
+    },
+    {
+        "德菲法": "Delphi method"
+    },
+    {
+        "Dempster-Shafer質量函數": "Dempster-Shafer mass function"
+    },
+    {
+        "樹形生態網路": "dendritic ecological network"
+    },
+    {
+        "密度比模型": "density ratio model"
+    },
+    {
+        "密度抽樣": "density sampling"
+    },
+    {
+        "基於密度空間叢集法": "density-based spatial clustering"
+    },
+    {
+        "Denton法": "Denton method"
+    },
+    {
+        "相依語法剖析器": "dependency parser"
+    },
+    {
+        "相依語法剖析": "dependency parsing"
+    },
+    {
+        "剝奪指數": "deprivation index"
+    },
+    {
+        "Nelder-Mead免導數最小化": "derivative-free Nelder-Mead minimization"
+    },
+    {
+        "免導數最佳化": "derivative-free optimization"
+    },
+    {
+        "衍生性商品市場": "derivatives market"
+    },
+    {
+        "衍生性商品定價函數": "derivatives pricing function"
+    },
+    {
+        "描述性分析": "descriptive analytics"
+    },
+    {
+        "季節變動去除": "deseasonalization"
+    },
+    {
+        "設計效應": "design effect"
+    },
+    {
+        "正交部分平衡型設計": "design of type O:PP"
+    },
+    {
+        "設計區域": "design region"
+    },
+    {
+        "設計可旋轉性": "design rotatability"
+    },
+    {
+        "設計集": "design set"
+    },
+    {
+        "指定統計調查": "designated statistical survey"
+    },
+    {
+        "循設計推論": "design-based inference"
+    },
+    {
+        "欲望函數": "desirability function"
+    },
+    {
+        "偵測偏差": "detection bias"
+    },
+    {
+        "偵測界限": "detection limits"
+    },
+    {
+        "行列式": "determinant"
+    },
+    {
+        "確定性微分方程": "deterministic differential equation"
+    },
+    {
+        "D型最佳設計DETMAX演算法": "DETMAX"
+    },
+    {
+        "消除趨勢對應分析": "detrended correspondence analysis"
+    },
+    {
+        "露點": "dew point"
+    },
+    {
+        "DFBETA統計量": "DFBETA"
+    },
+    {
+        "DFFITS統計量": "DFFITS"
+    },
+    {
+        "診斷性分析": "diagnostic analytics"
+    },
+    {
+        "二元Rasch模型": "dichotomous Rasch model"
+    },
+    {
+        "差分演化適應Metropolis抽樣": "differential evolution adaptive Metropolis sampling"
+    },
+    {
+        "差分演化演算法": "differential evolution algorithm"
+    },
+    {
+        "差異表現分析": "differential expression analysis"
+    },
+    {
+        "差異項目功能": "differential item functioning"
+    },
+    {
+        "差異隱私": "differential privacy"
+    },
+    {
+        "分化指數；鑑別指數": "differentiation index"
+    },
+    {
+        "擴散磁振造影": "diffusion magnetic resonance imaging"
+    },
+    {
+        "擴散張量造影": "diffusion tensor imaging"
+    },
+    {
+        "二重伽瑪(γ)分布": "digamma distribution"
+    },
+    {
+        "醫學數位影像及通信": "Digital Imaging and Communications in Medicine (DICOM)"
+    },
+    {
+        "數位地形模型": "digital terrain model"
+    },
+    {
+        "維度縮減迴歸": "dimension reduction regression"
+    },
+    {
+        "維度縮減": "dimensionality reduction"
+    },
+    {
+        "單峰性傾斜檢定": "dip test of unimodality"
+    },
+    {
+        "二倍體": "diploid"
+    },
+    {
+        "迪拉克分布": "Dirac distribution"
+    },
+    {
+        "直接校正": "direct calibration"
+    },
+    {
+        "直接最大概度": "direct maximum likelihood"
+    },
+    {
+        "直接隨機抽樣": "direct random sampling"
+    },
+    {
+        "有向非循環高斯圖形模型": "directed acyclic Gaussian graphical model"
+    },
+    {
+        "狄利西雷關聯結構 ": "Dirichlet copula"
+    },
+    {
+        "狄利西雷機率密度": "Dirichlet probability density"
+    },
+    {
+        "狄利西雷-多項迴歸": "Dirichlet-multinomial regression"
+    },
+    {
+        "離散貝氏模型": "discrete Bayesian model"
+    },
+    {
+        "離散貝氏網路分類器": "discrete Bayesian network classifier"
+    },
+    {
+        "離散貝氏網路模型": "discrete Bayesian network model"
+    },
+    {
+        "離散類別分布": "discrete categorical distribution"
+    },
+    {
+        "離散選擇模型": "discrete choice model (DCM)"
+    },
+    {
+        "離散資料分析": "discrete data analysis"
+    },
+    {
+        "離散指數分布": "discrete exponential distribution"
+    },
+    {
+        "離散伽瑪(γ)分布": "discrete gamma distribution"
+    },
+    {
+        "離散逆韋伯分布": "discrete inverse Weibull distribution"
+    },
+    {
+        "離散拉普拉斯分布": "discrete Laplace distribution"
+    },
+    {
+        "離散馬可夫鏈": "discrete Markov chain"
+    },
+    {
+        "離散最佳化": "discrete optimization"
+    },
+    {
+        "離散長球體序列": "discrete prolate spheroidal sequence"
+    },
+    {
+        "離散偏斜拉普拉斯分布": "discrete skew Laplace distribution"
+    },
+    {
+        "間斷時間數列": "discrete time series"
+    },
+    {
+        "離散均勻分布": "discrete uniform distribution"
+    },
+    {
+        "離散值時間數列": "discrete valued time series"
+    },
+    {
+        "離散韋伯分布": "discrete Weibull distribution"
+    },
+    {
+        "離散；間斷": "discreteness"
+    },
+    {
+        "離散化擴散模型": "discretized diffusion model"
+    },
+    {
+        "離散化核估計量": "discretized kernel estimator"
+    },
+    {
+        "判別函數子空間": "discriminative functional subspace"
+    },
+    {
+        "判別模型": "discriminative model"
+    },
+    {
+        "無病存活": "disease-free survival"
+    },
+    {
+        "發布區": "dissemination area"
+    },
+    {
+        "時間數列相異性": "dissimilarity of time series"
+    },
+    {
+        "距離相關函數": "distance correlation function"
+    },
+    {
+        "距離共變異數函數": "distance covariance function"
+    },
+    {
+        "距離法": "distance method"
+    },
+    {
+        "違約距離": "distance to default"
+    },
+    {
+        "循距離分類": "distance-based classification"
+    },
+    {
+        "循距離分類器": "distance-based classifier"
+    },
+    {
+        "分散式稠密矩陣": "distributed dense matrix"
+    },
+    {
+        "分散式檔案系統": "distributed file system"
+    },
+    {
+        "分配落階線性模型": "distributed lag linear model"
+    },
+    {
+        "分配落階非線性模型": "distributed lag non-linear model"
+    },
+    {
+        "分散搜尋分析引擎": "distributed search and analytics engine"
+    },
+    {
+        "豐富度分布": "distribution of abundance"
+    },
+    {
+        "相關係數分布": "distribution of correlation coefficient"
+    },
+    {
+        "國民經濟會計帳分配面": "distributive aspect of the national accounts"
+    },
+    {
+        "分化時間": "divergence time"
+    },
+    {
+        "多樣化": "diversification"
+    },
+    {
+        "多樣性分析": "diversity analysis"
+    },
+    {
+        "多樣性指數": "diversity index"
+    },
+    {
+        "分割式層次叢集法": "divisive hierarchical clustering"
+    },
+    {
+        "文件物件模型": "document object model (DOM)"
+    },
+    {
+        "文件處理": "document processing"
+    },
+    {
+        "Donoho-Stahel估計量": "Donoho-Stahel estimator"
+    },
+    {
+        "劑量測定試驗": "dose finding trial"
+    },
+    {
+        "劑量限制毒性": "dose-limiting toxicity"
+    },
+    {
+        "劑量計算": "dosimetric calculation"
+    },
+    {
+        "給藥方案": "dosing regimen"
+    },
+    {
+        "雙整合分析": "double inertia analysis"
+    },
+    {
+        "雙觀察者抽樣": "double-observer sampling"
+    },
+    {
+        "雙非中心貝他(β)分布": "doubly non-central beta distribution"
+    },
+    {
+        "雙非中心t分布": "doubly non-central t-distribution"
+    },
+    {
+        "雙重穩健機率倒數加權": "doubly robust inverse probability weighting"
+    },
+    {
+        "水系網路分析": "drainage network analysis"
+    },
+    {
+        "水系網": "drainage networks"
+    },
+    {
+        "漂移爆發假設": "drift burst hypothesis"
+    },
+    {
+        "乾旱指數": "drought index"
+    },
+    {
+        "藥物吸收、分布、代謝及排泄": "drug absorption, distribution, metabolism, and excretion (ADME)"
+    },
+    {
+        "對偶問題": "dual problem"
+    },
+    {
+        "對偶尺度化分析": "dual scaling analysis"
+    },
+    {
+        "對偶圖": "duality diagram"
+    },
+    {
+        "雙樹複合小波變換": "dual-tree complex wavelet transform"
+    },
+    {
+        "存續期間模型": "duration model"
+    },
+    {
+        "存續期間反應": "duration response"
+    },
+    {
+        "Dykstra循環投影演算法": "Dykstra's cyclic projection algorithm"
+    },
+    {
+        "動態貝氏網路": "dynamic Bayesian network"
+    },
+    {
+        "動態布朗橋移動模型": "dynamic Brownian bridge movement model"
+    },
+    {
+        "動態條件相關模型": "dynamic conditional correlation (DCC) model"
+    },
+    {
+        "動態函數主成分": "dynamic functional principal component"
+    },
+    {
+        "動態線性模型": "dynamic linear model"
+    },
+    {
+        "動態網絡": "dynamic network"
+    },
+    {
+        "動態網絡迴歸": "dynamic network regression"
+    },
+    {
+        "動態普通最小平方法": "dynamic OLS (D-OLS)"
+    },
+    {
+        "動態追蹤模型": "dynamic panel model"
+    },
+    {
+        "動態主成分分析": "dynamic principal component analysis"
+    },
+    {
+        "動態時間扭曲": "dynamic time warping"
+    },
+    {
+        "預警信號": "early-warning signal"
+    },
+    {
+        "收益率": "earning rate"
+    },
+    {
+        "電子商務統計": "e-commerce statistics"
+    },
+    {
+        "渦流共變異數": "eddy covariance"
+    },
+    {
+        "編輯距離": "edit distance"
+    },
+    {
+        "效率市場假說": "efficient market hypothesis"
+    },
+    {
+        "特徵函數": "eigenfunction"
+    },
+    {
+        "特徵值間隙": "eigengap"
+    },
+    {
+        "特徵值分解": "eigenvalue decomposition"
+    },
+    {
+        "特徵值頻譜": "eigenvalue spectrum"
+    },
+    {
+        "彈性分析": "elastic analysis"
+    },
+    {
+        "彈性網模型": "elastic-net model"
+    },
+    {
+        "彈性網正則化鄰近迴歸": "elastic-net regularized neighborhood regression"
+    },
+    {
+        "電化學": "electrochemistry"
+    },
+    {
+        "腦波圖；腦波測量技術": "electroencephalography (EEG)"
+    },
+    {
+        "引出": "elicitation"
+    },
+    {
+        "逐次刪除模型": "elimination by aspects model"
+    },
+    {
+        "橢圓狀信賴區域": "ellipse-like confidence region"
+    },
+    {
+        "橢圓λ分布": "elliptic lambda (λ) distribution"
+    },
+    {
+        "橢圓偏微分方程": "elliptic PDE"
+    },
+    {
+        "橢圓關聯結構": "elliptical copula"
+    },
+    {
+        "期望最大化多重貝氏迴歸插補法": "EM-based multiple Bayesian regression imputation method"
+    },
+    {
+        "經驗貝氏幾何平均數": "empirical Bayes geometric mean (EBGM)"
+    },
+    {
+        "經驗模態分解": "empirical mode decomposition "
+    },
+    {
+        "內生匹配": "endogenous matching"
+    },
+    {
+        "能源平衡表": "energy balance sheet"
+    },
+    {
+        "整體貝氏模型平均": "ensemble Bayesian model averaging (EBMA) "
+    },
+    {
+        "整體經驗分解": "ensemble empirical decomposition"
+    },
+    {
+        "整體特徵選取": "ensemble feature selection "
+    },
+    {
+        "整體預測法": "ensemble forecasting method"
+    },
+    {
+        "整體預測": "ensemble forecasts "
+    },
+    {
+        "集成學習": "ensemble learning"
+    },
+    {
+        "集體法": "ensemble method"
+    },
+    {
+        "集成建模": "ensemble modeling"
+    },
+    {
+        "集成部分最小平方": "ensemble PLS"
+    },
+    {
+        "環境資產折耗": "environmental assets depletion"
+    },
+    {
+        "環境質損": "environmental degradation"
+    },
+    {
+        "epsilon外插法": "epsilon extrapolation"
+    },
+    {
+        "同酬日": "equal pay day"
+    },
+    {
+        "權益投資組合": "equity portfolio"
+    },
+    {
+        "E統計量檢定": "E-statistic test"
+    },
+    {
+        "聯立方程估計組": "estimating systems of simultaneous equations"
+    },
+    {
+        "eta-mu  (η-μ) 分布": "eta-mu  (η-μ) distribution"
+    },
+    {
+        "歐式買權": "European call option"
+    },
+    {
+        "歐式選擇權": "European option"
+    },
+    {
+        "歐式賣權": "European put option"
+    },
+    {
+        "事件驅動資料": "event-driven data"
+    },
+    {
+        "事件關聯電位": "event-related potential"
+    },
+    {
+        "演化分析": "evolution analysis"
+    },
+    {
+        "精準Rasch模型檢定": "exact Rasch model test"
+    },
+    {
+        "超額絕對風險": "excess absolute risk"
+    },
+    {
+        "超額死亡風險": "excess mortality hazard"
+    },
+    {
+        "超額報酬": "excess return"
+    },
+    {
+        "激發放射矩陣資料": "excitation-emission matrix (EEM) data"
+    },
+    {
+        "期望損失": "expected shortfall"
+    },
+    {
+        "國民經濟會計帳支出面": "expenditure aspect of the national accounts"
+    },
+    {
+        "外顯平行性": "explicit parallelism"
+    },
+    {
+        "探索性景觀分析": "exploratory landscape analysis (ELA)"
+    },
+    {
+        "指數錐最佳化": "exponential cone optimization"
+    },
+    {
+        "指數擴充分布": "exponential extension distribution"
+    },
+    {
+        "指數族分布": "exponential family distributions"
+    },
+    {
+        "指數加權移動平均管制圖": "exponentially weighted moving average (EWMA) control chart"
+    },
+    {
+        "指數-韋伯分布": "exponential-Weibull distribution"
+    },
+    {
+        "違約曝險額": "exposure at default"
+    },
+    {
+        "擴充帕累托分布": "extended Pareto distribution"
+    },
+    {
+        "擴充Rasch模型": "extended Rasch model"
+    },
+    {
+        "擴充結構方程式模型": "extended structural equation model"
+    },
+    {
+        "擴充韋伯分布": "extended Weibull distribution"
+    },
+    {
+        "可延伸標記語言": "extensible markup language (XML)"
+    },
+    {
+        "滅絕率": "extinction rate"
+    },
+    {
+        "極值指數估計法": "extremal index estimation approach"
+    },
+    {
+        "極端邊界分析": "extreme bounds analysis"
+    },
+    {
+        "極限梯度提升法": "extreme gradient boosting (XGBoost)"
+    },
+    {
+        "極值模型": "extreme value model"
+    },
+    {
+        "極端頂點設計": "extreme vertices design"
+    },
+    {
+        "極值關聯結構": "extreme-value copula"
+    },
+    {
+        "眼球追蹤資料": "eye-tracking data"
+    },
+    {
+        "Eyraud-Farlie-Gumbel-Morgenstern關聯結構": "Eyraud-Farlie-Gumbel-Morgenstern copula"
+    },
+    {
+        "集區劃分因子設計": "facotrial design with blocking"
+    },
+    {
+        "因子相關": "factor correlation"
+    },
+    {
+        "因子模型": "factor model"
+    },
+    {
+        "Fagan圖": "Fagan plot"
+    },
+    {
+        "公允價值；公平價值": "fair value"
+    },
+    {
+        "家族聚集": "familial aggregation"
+    },
+    {
+        "家族研究": "family-based study"
+    },
+    {
+        "扇狀圖": "fan chart "
+    },
+    {
+        "速漂爆發": "fast drift burst"
+    },
+    {
+        "FASTA基因序列格式": "FASTA format"
+    },
+    {
+        "快速最小共變異行列式演算法": "fast-MCD algorithm"
+    },
+    {
+        "快速S演算法": "fast-S algorithm"
+    },
+    {
+        "厚迴歸模型": "fat regression model "
+    },
+    {
+        "Fay-Herriot模型": "Fay-Herriot model"
+    },
+    {
+        "特徵萃取": "feature extraction "
+    },
+    {
+        "循特徵預測模型選取法": "feature-based forecast model selection"
+    },
+    {
+        "Felix分布": "Felix distribution"
+    },
+    {
+        "Fellegi-Sunter機率紀錄聯結": "Fellegi-Sunter probabilistic record linkage"
+    },
+    {
+        "Fieller信賴區間": "Fieller's confidence interval"
+    },
+    {
+        "檔案傳送程式": "file transfer program (FTP)"
+    },
+    {
+        "篩選函數": "filtering function"
+    },
+    {
+        "最終支出法": "final expenditure method"
+    },
+    {
+        "最終預測誤差": "final prediction error (FPE)"
+    },
+    {
+        "財務風險管理": "financial risk management"
+    },
+    {
+        "財務報告資料": "financial statement data"
+    },
+    {
+        "細懸浮微粒": "fine particulate matter"
+    },
+    {
+        "Fine-Gray模型": "Fine-Gray model"
+    },
+    {
+        "有限分配落階模型": "finite distributed lag model"
+    },
+    {
+        "有限混合高斯模型": "finite mixture Gaussian model"
+    },
+    {
+        "有限混合模型": "finite mixture model"
+    },
+    {
+        "有限個分布的混合": "finite mixture of distributions"
+    },
+    {
+        "有限個常態混合分布": "finite mixture of normals"
+    },
+    {
+        "有限個馮米賽斯-費雪分布的混合": "finite mixture of von Mises-Fisher distributions"
+    },
+    {
+        "普萊克特-盧斯有限混合模型": "finite mixtures of Plackett-Luce model"
+    },
+    {
+        "費雪對數數列": "Fisher's log series"
+    },
+    {
+        "費雪-斯內德克分布": "Fisher-Snedecor distribution"
+    },
+    {
+        "定影": "fixation"
+    },
+    {
+        "定基法": "fixed base method"
+    },
+    {
+        "固定效應個別斜率模型": "fixed effects individual slope model"
+    },
+    {
+        "固定向量": "fixed point vector"
+    },
+    {
+        "固定收益功能性": "fixed-income functionality"
+    },
+    {
+        "Fleming-Harrington檢定": "Fleming-Harrington test"
+    },
+    {
+        "彈性中介分析": "flexible mediation analysis"
+    },
+    {
+        "彈性混合模型": "flexible mixture model"
+    },
+    {
+        "洪水頻率分析": "flood frequency analysis"
+    },
+    {
+        "流感預測": "flu prediction"
+    },
+    {
+        "螢光壽命成像顯微術": "fluorescence lifetime imaging microscopy (FLIM)"
+    },
+    {
+        "登門技術": "foot-in-the-door technique"
+    },
+    {
+        "組合預測法": "forecast combination  methods "
+    },
+    {
+        "預測誤差變異數分解": "forecast error variance decomposition"
+    },
+    {
+        "可預測的成分分析": "forecastable component analysis"
+    },
+    {
+        "森林圖": "forest plot"
+    },
+    {
+        "向前濾波向後抽樣": "forward filtering backward sampling"
+    },
+    {
+        "前瞻研究": "forward-looking study"
+    },
+    {
+        "傅立葉係數": "Fourier coefficients"
+    },
+    {
+        "傅立葉級數": "Fourier series"
+    },
+    {
+        "碎形維度": "fractal dimension"
+    },
+    {
+        "分數多項式": "fractional polynomial"
+    },
+    {
+        "部分反應": "fractional response"
+    },
+    {
+        "部分反應模型": "fractional response model"
+    },
+    {
+        "分數共整合系統": "fractionally cointegrated system "
+    },
+    {
+        "分數差分自我迴歸整合移動平均模型": "fractionally differenced ARIMA model"
+    },
+    {
+        "零散的時間方向性": "fragmented time directionality "
+    },
+    {
+        "理解結構性誤差之架構": "Framework for Understanding Structural Errors  (FUSE)"
+    },
+    {
+        "Frechet界": "Frechet bounds"
+    },
+    {
+        "Freeman-Tukey檢定": "Freeman-Tukey test"
+    },
+    {
+        "頻繁序列": "frequent sequence"
+    },
+    {
+        "頻率學派法": "frequentist approach"
+    },
+    {
+        "頻率學派推論": "frequentist inference"
+    },
+    {
+        "Friedman偏相依圖": "Friedman's partial dependence plot"
+    },
+    {
+        "Friedman雙因子變異數分析": "Friedman's two-way ANOVA"
+    },
+    {
+        "Friedman甕模型": "Friedman's urn model"
+    },
+    {
+        "摺疊平方根": "froot"
+    },
+    {
+        "入選變數F統計量": "F-to-enter"
+    },
+    {
+        "剔除變數F統計量": "F-to-remove"
+    },
+    {
+        "完全因子之拉丁超立方體設計": "full factorial-based Latin hypercube design"
+    },
+    {
+        "全尾伽瑪(γ)分布": "full-tails gamma distribution"
+    },
+    {
+        "全貝氏估計": "fully Bayesian estimation"
+    },
+    {
+        "完整條件規範": "fully conditional specification"
+    },
+    {
+        "完整修正普通最小平方法": "fully modified OLS (FM-OLS)"
+    },
+    {
+        "函數基底": "functional basis"
+    },
+    {
+        "函數方向離群量數": "functional directional outlyingness"
+    },
+    {
+        "功能多樣性指數": "functional diversity index"
+    },
+    {
+        "功能性磁振造影": "functional magnetic resonance imaging (fMRI)"
+    },
+    {
+        "函數主成分分析": "functional principal components analysis"
+    },
+    {
+        "函數時間數列": "functional time series "
+    },
+    {
+        "提撥率": "funding rate"
+    },
+    {
+        "融合最小絕對緊縮與選擇算子": "fused lasso"
+    },
+    {
+        "未來生命年數損失": "future years of life lost"
+    },
+    {
+        "模糊叢集法": "fuzzy clustering"
+    },
+    {
+        "模糊線性迴歸": "fuzzy linear regression"
+    },
+    {
+        "模糊粗集合論": "fuzzy rough set theory"
+    },
+    {
+        "模糊集排序": "fuzzy set ordination"
+    },
+    {
+        "模糊理論": "fuzzy theory"
+    },
+    {
+        "G²檢定統計量": "G²"
+    },
+    {
+        "Gabor迴歸": "Gabor regression"
+    },
+    {
+        "獲益；增益": "gain"
+    },
+    {
+        "Galbraith圖": "Galbraith plot"
+    },
+    {
+        "Gale-Shapley演算法": "Gale-Shapley algorithm"
+    },
+    {
+        "賭者謬誤": "gambler's fallacy"
+    },
+    {
+        "賭博": "gambling"
+    },
+    {
+        "賽局論最佳調和法": "game-theoretically optimal (GTOP) reconciliation method"
+    },
+    {
+        "伽瑪(γ)插補": "gamma imputation"
+    },
+    {
+        "伽瑪(γ)混合分布": "gamma mixture distribution"
+    },
+    {
+        "伽瑪(γ)過程": "gamma process"
+    },
+    {
+        "伽瑪(γ)計數分布": "gamma-count distribution"
+    },
+    {
+        "伽瑪(γ)-廣義帕累托分布": "gamma-generalized Pareto distribution"
+    },
+    {
+        "伽瑪(γ)-卜瓦松分布": "gamma-Poisson distribution"
+    },
+    {
+        "伽瑪(γ)-卜瓦松收縮器模型": "Gamma-Poisson shrinker model"
+    },
+    {
+        "間隙時間": "gap time"
+    },
+    {
+        "間隙-掉隊法": "gap-straggler method"
+    },
+    {
+        "垃圾進垃圾出": "garbage in garbage out"
+    },
+    {
+        "高斯瑕疵模型": "Gaussian contamination model"
+    },
+    {
+        "高斯關聯結構": "Gaussian copula"
+    },
+    {
+        "高斯圖形馬可夫模型": "Gaussian graphical Markov model"
+    },
+    {
+        "高斯圖形模型": "Gaussian graphical model (GGM)"
+    },
+    {
+        "高斯超幾何函數": "Gaussian hypergeometric function"
+    },
+    {
+        "高斯線性及非線性混合效應模型": "Gaussian linear and nonlinear mixed-effects model"
+    },
+    {
+        "高斯馬可夫隨機場": "Gaussian Markov random field"
+    },
+    {
+        "高斯混合模型": "Gaussian mixture model"
+    },
+    {
+        "高斯混合向量自我迴歸模型": "Gaussian mixture VAR model "
+    },
+    {
+        "高斯循模叢集法": "Gaussian model-based clustering"
+    },
+    {
+        "高斯網路模型": "Gaussian network model"
+    },
+    {
+        "高斯求積法": "Gaussian quadrature"
+    },
+    {
+        "高斯隨機場": "Gaussian random field"
+    },
+    {
+        "高斯空間過程模型": "Gaussian spatial process model"
+    },
+    {
+        "高斯-牛頓演算法": "Gauss-Newton algorithm"
+    },
+    {
+        "高斯-牛頓法": "Gauss-Newton method"
+    },
+    {
+        "追蹤資料廣義估計方程模型": "GEE model for panel data"
+    },
+    {
+        "Gegenbauer時間數列過程": "Gegenbauer time series process"
+    },
+    {
+        "Gehan廣義Wilcoxon檢定": "Gehan's generalized Wilcoxon test"
+    },
+    {
+        "格爾曼及魯賓診斷": "Gelman and Rubin diagnostic"
+    },
+    {
+        "性別發展指數": "gender development index (GDI)"
+    },
+    {
+        "性別平權指數": "gender equity index (GEI)"
+    },
+    {
+        "性別落差指數": "gender gap index (GGI)"
+    },
+    {
+        "基因": "gene"
+    },
+    {
+        "基因頻率估計": "gene frequency estimation"
+    },
+    {
+        "基因定位": "gene mapping"
+    },
+    {
+        "基因樹": "gene tree"
+    },
+    {
+        "基因-環境交互作用": "gene-environment interaction"
+    },
+    {
+        "通用海洋等深線圖": "General Bathymetric Chart of the Oceans (GEBCO)"
+    },
+    {
+        "一般資料保護規範": "general data protection regulation (GDPR)"
+    },
+    {
+        "一般診斷模型": "general diagnosis model"
+    },
+    {
+        " 一般誤差分布": "general error distribution"
+    },
+    {
+        "育齡婦女一般生育率": "general fertility rate (GFR)"
+    },
+    {
+        "一般家戶調查": "general household survey"
+    },
+    {
+        "一般迭代": "general iteration"
+    },
+    {
+        "一般線性假設": "general linear hypothesis"
+    },
+    {
+        "一般位置模型": "general location model"
+    },
+    {
+        "公用授權": "general public licence (GPL)"
+    },
+    {
+        "一般統計調查": "general statistical survey"
+    },
+    {
+        "概化理論": "generalizability theory"
+    },
+    {
+        "廣義相加混合模型": "generalized additive mixed model (GAMM)"
+    },
+    {
+        "廣義阿基米德關聯結構": "generalized Archimedean copula"
+    },
+    {
+        "廣義自我迴歸計分模型": "generalized autoregressive score (GAS) model"
+    },
+    {
+        "廣義貝他(β)分布": "generalized beta distribution"
+    },
+    {
+        "第一型廣義貝他(β)分布": "generalized beta distribution of the first kind"
+    },
+    {
+        "第二型廣義貝他(β)分布": "generalized beta distribution of the second kind"
+    },
+    {
+        "廣義提升迴歸模型": "generalized boosted regression model"
+    },
+    {
+        "廣義相關維度": "generalized correlation dimension "
+    },
+    {
+        "廣義動態主成分": "generalized dynamic principal components"
+    },
+    {
+        "廣義經驗概度": "generalized empirical likelihood (GEL)"
+    },
+    {
+        "廣義指數分布": "generalized exponential distribution"
+    },
+    {
+        "廣義極值族": "generalized extreme value family"
+    },
+    {
+        "廣義F分布": "generalized F-distribution"
+    },
+    {
+        "廣義波動檢定": "generalized fluctuation test "
+    },
+    {
+        "廣義埃爾米特分布": "generalized Hermite distribution"
+    },
+    {
+        "廣義雙曲分配": "generalized hyperbolic distribution"
+    },
+    {
+        "廣義雙曲t分布": "generalized hyperbolic t-distribution"
+    },
+    {
+        "廣義超幾何分布": "generalized hypergeometric distribution"
+    },
+    {
+        "廣義推論": "generalized inference"
+    },
+    {
+        "廣義逆高斯分布": "generalized inverse Gaussian distribution"
+    },
+    {
+        "廣義 λ分布": "generalized lambda (λ) distribution"
+    },
+    {
+        "廣義線性自我迴歸移動平均模型": "generalized linear ARMA model"
+    },
+    {
+        "廣義線性混合模型": "generalized linear mixed model (GLMM)"
+    },
+    {
+        "廣義邏輯式分布": "generalized logistic distribution"
+    },
+    {
+        "廣義統合分析": "generalized meta-analysis"
+    },
+    {
+        "廣義最大概度估計量": "generalized MLE"
+    },
+    {
+        "廣義相乘性季節自我迴歸移動平均時間數列模型": "generalized multiplicative seasonal ARMA time series model"
+    },
+    {
+        "廣義網路自我迴歸時間數列模型": "generalized network AR time series model"
+    },
+    {
+        "廣義非線性混合模型": "generalized non-linear mixed model (GNLMM)"
+    },
+    {
+        "廣義勝算比": "generalized odds ratio"
+    },
+    {
+        "廣義正交廣義自我迴歸條件變異數非齊一模型": "generalized orthogonal GARCH model"
+    },
+    {
+        "廣義部分信用模型": "generalized partial credit model"
+    },
+    {
+        "廣義關鍵量": "generalized pivotal quantity"
+    },
+    {
+        "廣義卜瓦松分布": "generalized Poisson distribution"
+    },
+    {
+        "廣義乘冪韋伯分布": "generalized power Weibull distribution"
+    },
+    {
+        "廣義主成分分析": "generalized principal components analysis"
+    },
+    {
+        "廣義Procrustes分析": "generalized Procrustes analysis"
+    },
+    {
+        "廣義q抽樣造影": "generalized q-sampling imaging (GQI)"
+    },
+    {
+        "廣義迴歸估計": "generalized regression estimation"
+    },
+    {
+        "廣義Schur分解": "generalized Schur decomposition"
+    },
+    {
+        "廣義共用參數模型": "generalized shared-parameter model"
+    },
+    {
+        "廣義偏斜常態分布": "generalized skew-normal distribution"
+    },
+    {
+        "廣義t分布": "generalized t-distribution"
+    },
+    {
+        "廣義梯形分布": "generalized trapezoidal distribution"
+    },
+    {
+        "廣義韋伯分布": "generalized Weibull distribution"
+    },
+    {
+        "生成對抗網路": "generative adversarial network"
+    },
+    {
+        "同屬Metropolis抽樣法": "generic Metropolis sampler"
+    },
+    {
+        "基因關聯研究": "genetic association study"
+    },
+    {
+        "遺傳率": "genetic heritability"
+    },
+    {
+        "遺傳標記": "genetic marker"
+    },
+    {
+        "全基因體連鎖分析": "genome-wide linkage analysis"
+    },
+    {
+        "全基因體掃描": "genome-wide scan"
+    },
+    {
+        "基因體控制法": "genomic control"
+    },
+    {
+        "基因體學": "genomics"
+    },
+    {
+        "基因型選擇": "genotypic assortment"
+    },
+    {
+        "地理編碼": "geocoding"
+    },
+    {
+        "地理標記語言": "geographic markup language (GML)"
+    },
+    {
+        "地理分析器": "geographical analysis machine"
+    },
+    {
+        "地理相關": "geographical correlation"
+    },
+    {
+        "地理資訊系統": "geographical information system (GIS)"
+    },
+    {
+        "地理加權迴歸": "geographically weighted regression (GWR)"
+    },
+    {
+        "地理位置": "geolocation"
+    },
+    {
+        "地質圖": "geologic map"
+    },
+    {
+        "幾何布朗運動": "geometric Brownian motion"
+    },
+    {
+        "幾何分配落階模型": "geometric distributed lag model"
+    },
+    {
+        "幾何型態測定學": "geometric morphometrics"
+    },
+    {
+        "幾何卜瓦松分布": "geometric Poisson distribution"
+    },
+    {
+        "地理空間": "geospatial"
+    },
+    {
+        "地理空間資料抽象庫": "geospatial data abstraction library (GDAL)"
+    },
+    {
+        "地學統計資料": "geostatistical data"
+    },
+    {
+        "地理統計內插法": "geostatistical interpolation"
+    },
+    {
+        "G估計量": "G-estimator"
+    },
+    {
+        "Geweke、Heidelberger及Welch診斷": "Geweke, Heidelberger and Welch diagnostic"
+    },
+    {
+        "GGobi軟體": "Ggobi"
+    },
+    {
+        "Gibbs能": "Gibbs energy"
+    },
+    {
+        "Gifi族": "Gifi family"
+    },
+    {
+        "吉尼集中度": "Gini concentration"
+    },
+    {
+        "吉尼不均量數": "Gini inequality measure"
+    },
+    {
+        "吉尼集中係數": "Gini's concentration coefficient"
+    },
+    {
+        "Glejser檢定": "Glejser test"
+    },
+    {
+        "Glivenko-Cantelli定理": "Glivenko-Cantelli theorem"
+    },
+    {
+        "追蹤資料廣義線性模型": "GLM for panel data"
+    },
+    {
+        "全球生物多樣性資訊機構": "global biodiversity information facility (GBIF)"
+    },
+    {
+        "全域最佳化演算法": "global optimization algorithm"
+    },
+    {
+        "全球定位系統": "global positioning system (GPS)"
+    },
+    {
+        "全域趨勢模型": "global trend model"
+    },
+    {
+        "黃金標準試驗": "gold standard trial"
+    },
+    {
+        "Golden-Thompson不等式": "Golden-Thompson inequality"
+    },
+    {
+        "Goldfeld-Quandt檢定": "Goldfeld-Quandt test"
+    },
+    {
+        "Gompertz分布": "Gompertz distribution"
+    },
+    {
+        "Gompertz-Makeham加權最小平方法": "Gompertz-Makeham weighted least squares method"
+    },
+    {
+        "Goodman及Kruskal關聯量數": "Goodman and Kruskal measures of association"
+    },
+    {
+        "Goodman量尺化": "Goodman scaling"
+    },
+    {
+        "連結適合度檢定": "goodness-of-link test"
+    },
+    {
+        "Good法": "Good's method"
+    },
+    {
+        "Govindarajulu分布 ": "Govindarajulu distribution"
+    },
+    {
+        "公用授權的三角測量演算法": "GPLed triangulation algorithm"
+    },
+    {
+        "隸屬等級模型": "grade of membership model"
+    },
+    {
+        "分級反應模型": "graded response model"
+    },
+    {
+        "梯度提升法": "gradient boosting"
+    },
+    {
+        "梯度提升機": "gradient boosting machine"
+    },
+    {
+        "梯度下降演算法": "gradient descent algorithm"
+    },
+    {
+        "梯度投影演算法": "gradient projection algorithm"
+    },
+    {
+        "希臘拉丁方陣設計": "Graeco-Latin square design"
+    },
+    {
+        "總平均數": "grand average"
+    },
+    {
+        "總平均數": "grand mean"
+    },
+    {
+        "圖形視覺化": "graph visualization"
+    },
+    {
+        "圖形資料分析": "graphical data analysis"
+    },
+    {
+        "圖形錯覺": "graphical deception"
+    },
+    {
+        "圖形獨立性網路": "graphical independence network"
+    },
+    {
+        "圖形交互作用模型": "graphical interaction model"
+    },
+    {
+        "圖形模型估計": "graphical model estimation"
+    },
+    {
+        "圖形化使用者介面": "graphical user interface (GUI)"
+    },
+    {
+        "圖形向量自我迴歸模型": "graphical VAR model"
+    },
+    {
+        "最大特徵根檢定": "greatest characteristic root test"
+    },
+    {
+        "貪婪演算法": "greedy algorithm"
+    },
+    {
+        "貪婪直方圖": "greedy histogram"
+    },
+    {
+        "貪婪搜尋": "greedy search"
+    },
+    {
+        "綠色成長指標": "green growth indicators"
+    },
+    {
+        "綠色國民所得": "green national income"
+    },
+    {
+        "Greenhouse-Geisser校正": "Greenhouse-Geisser correction"
+    },
+    {
+        "Greville修勻法": "Greville graduation method"
+    },
+    {
+        "網格搜尋": "grid search"
+    },
+    {
+        "Gripenberg估計量": "Gripenberg estimator"
+    },
+    {
+        "組平均叢集法": "group average clustering"
+    },
+    {
+        "分組最小絕對緊縮與選擇算子": "group lasso"
+    },
+    {
+        "組匹配": "group matching"
+    },
+    {
+        "分組二元資料": "grouped binary data"
+    },
+    {
+        "分組多項迴歸": "grouped multinomial regression"
+    },
+    {
+        "成長圖": "growth chart"
+    },
+    {
+        "成長曲線分析": "growth curve analysis"
+    },
+    {
+        "成長曲線模型": "growth curve model"
+    },
+    {
+        "成長循環": "growth cycle"
+    },
+    {
+        "成長率": "growth rate"
+    },
+    {
+        "廣義t分布": "GT distribution"
+    },
+    {
+        "保證時間": "guarantee time"
+    },
+    {
+        "Gupta選擇程序": "Gupta's selection procedure"
+    },
+    {
+        "Haar小波": "Haar wavelet"
+    },
+    {
+        "Hadamard連接": "Hadamard conjugation"
+    },
+    {
+        "Haight的zeta分布": "Haight's zeta distribution"
+    },
+    {
+        "Haldane估計量": "Haldane's estimator"
+    },
+    {
+        "半眾數": "half-mode"
+    },
+    {
+        "半t分布": "half-t distribution"
+    },
+    {
+        "月暈效應": "halo effect"
+    },
+    {
+        "懸掛式根直方圖": "hanging rootogram"
+    },
+    {
+        "Hankel矩陣": "Hankel matrix"
+    },
+    {
+        "Hansen-Hurwitz估計量": "Hansen-Hurwitz estimator"
+    },
+    {
+        "單倍體": "haploid "
+    },
+    {
+        "單倍型分析": "haplotype analysis"
+    },
+    {
+        "單倍型估計": "haplotype estimation"
+    },
+    {
+        "單倍型頻率": "haplotype frequency"
+    },
+    {
+        "單倍型定位": "haplotype mapping"
+    },
+    {
+        "硬競爭式學習": "hard competitive learning"
+    },
+    {
+        "Harrington及FlemingGρ檢定": "Harrington and Fleming Gρ tests"
+    },
+    {
+        "Harris及Stevens預測法": "Harris and Stevens forecasting"
+    },
+    {
+        "雜湊": "hashing"
+    },
+    {
+        "Haugh檢定": "Haugh's test"
+    },
+    {
+        "豪斯多爾夫距離": "Hausdorff distance"
+    },
+    {
+        "Hausman-Taylor估計量": "Hausman-Taylor estimator"
+    },
+    {
+        "Hawkes過程": "Hawkes  process"
+    },
+    {
+        "Hawthorne效應": "Hawthorne effect"
+    },
+    {
+        "風險迴歸": "hazard regression"
+    },
+    {
+        "甩頭平滑法": "head-banging smoother"
+    },
+    {
+        "健康平均餘命": "healthy life expectancy (HALE)"
+    },
+    {
+        "熱圖": "heat map"
+    },
+    {
+        "Heckman模型": "Heckman model"
+    },
+    {
+        "Heckman選擇模型": "Heckman selection model"
+    },
+    {
+        "前恭後敬效應": "hello-goodbye effect"
+    },
+    {
+        "Helmert對比": "Helmert contrast"
+    },
+    {
+        "赫爾辛基宣言": "Helsinki declaration"
+    },
+    {
+        "除草劑生物測定": "herbicide bioassay"
+    },
+    {
+        "Herfindahl指標；產業集中度指標": "Herfindahl index"
+    },
+    {
+        "埃爾米特函數": "Hermite functions"
+    },
+    {
+        "埃爾米特矩陣": "Hermitian matrix"
+    },
+    {
+        "Herzberg公式": "Herzberg's formula"
+    },
+    {
+        "異偏態系統": "heteroclitic system"
+    },
+    {
+        "異核單量子相干性": "heteronuclear single quantum coherence (HSQC)"
+    },
+    {
+        "變異數非齊一廣義線性模型": "heteroscedastic GLM"
+    },
+    {
+        "變異數非齊一機率單位模型": "heteroscedastic probit model"
+    },
+    {
+        "變異數非齊一與自我相關一致估計量": "heteroscedasticity and autocorrelation consistent estimator"
+    },
+    {
+        "變異數非齊一性": "heteroskedasticity"
+    },
+    {
+        "Hettmansperger-McKean檢定": "Hettmansperger-McKean test"
+    },
+    {
+        "啟發式電腦程式": "heuristic computer program"
+    },
+    {
+        "六邊形像素合併": "hexagon binning"
+    },
+    {
+        "隱藏馬可夫鏈模型": "hidden Markov chain model"
+    },
+    {
+        "隱藏馬可夫多重線性張量迴歸模型": "hidden Markov multilinear tensor regression model"
+    },
+    {
+        "隱藏Potts模型": "hidden Potts model"
+    },
+    {
+        "隱藏時間效應": "hidden time effects"
+    },
+    {
+        "Hidiroglu-Berthelot法": "Hidiroglu-Berthelot method"
+    },
+    {
+        "層次貝氏架構": "hierarchical Bayesian framework"
+    },
+    {
+        "層次貝氏模型": "hierarchical Bayesian model"
+    },
+    {
+        "層次貝氏負二項迴歸模型": "hierarchical Bayesian negative binomial regression model"
+    },
+    {
+        "層次貝氏設定": "hierarchical Bayesian specification"
+    },
+    {
+        "層次貝氏向量自我迴歸模型": "hierarchical Bayesian VAR model"
+    },
+    {
+        "層次叢集法": "hierarchical cluster method"
+    },
+    {
+        "層次叢集式峰值校準": "hierarchical cluster-based peak alignment (CluPA)"
+    },
+    {
+        "層次叢集法": "hierarchical clustering"
+    },
+    {
+        "層次叢集樹形圖": "hierarchical clustering dendrogram"
+    },
+    {
+        "層次設計": "hierarchical design"
+    },
+    {
+        "層次概度": "hierarchical likelihood"
+    },
+    {
+        "層次線性模型": "hierarchical linear model"
+    },
+    {
+        "層次對數線性模型": "hierarchical loglinear model"
+    },
+    {
+        "層次多項邏輯式模型": "hierarchical multinomial logit model"
+    },
+    {
+        "層次負二項迴歸模型": "hierarchical negative binomial regression model"
+    },
+    {
+        "層次事前分布選擇": "hierarchical prior selection"
+    },
+    {
+        "層次評量者模型": "hierarchical rater model"
+    },
+    {
+        "層次迴歸模型": "hierarchical regression model"
+    },
+    {
+        "層次彙總接收器操作特徵法": "hierarchical summary receiver operating characteristic (HSROC) method"
+    },
+    {
+        "層次表抑制": "Hierarchical Tables Suppression (HiTaS)"
+    },
+    {
+        "層次時間數列": "hierarchical time series (HTS) "
+    },
+    {
+        "Higgins法則": "Higgins's law"
+    },
+    {
+        "高區分點法": "high breakdown methods"
+    },
+    {
+        "高維可加性模型": "high-dimensional additive model"
+    },
+    {
+        "高維資料": "high-dimensional data"
+    },
+    {
+        "高維固定效應": "high-dimensional fixed effects"
+    },
+    {
+        "第二層顯著性檢定": "higher criticism"
+    },
+    {
+        "最高密度區域": "highest density region"
+    },
+    {
+        "高通量資料": "high-throughput data"
+    },
+    {
+        "登山演算法": "hill-climbing algorithm"
+    },
+    {
+        "登山法": "hill-climbing method"
+    },
+    {
+        "希爾數": "Hill's numbers"
+    },
+    {
+        "四分位數": "hinge"
+    },
+    {
+        "鉸鏈損失": "hinge loss"
+    },
+    {
+        "Hirsch-Slack檢定": "Hirsch-Slack test "
+    },
+    {
+        "歷史分解": "historical decomposition"
+    },
+    {
+        "命中率": "hit rate"
+    },
+    {
+        "打帶跑演算法": "hit-and-run algorithm"
+    },
+    {
+        "層次表抑制與超立方體技術": "HiTaS and hypercube technique"
+    },
+    {
+        "Hjorth分布 ": "Hjorth distribution"
+    },
+    {
+        "層次概度": "h-likelihood"
+    },
+    {
+        "HLM統計軟體": "HLM"
+    },
+    {
+        "Hoeffding檢定": "Hoeffding test"
+    },
+    {
+        "Hölder不等式": "Hölder's inequality"
+    },
+    {
+        "保留集估計量": "holdout estimator"
+    },
+    {
+        "延續效應": "holdover effect"
+    },
+    {
+        "Hollander檢定": "Hollander test"
+    },
+    {
+        "均質性分析": "homogeneity analysis"
+    },
+    {
+        "均質化": "homogenization"
+    },
+    {
+        "變異數齊一高斯反應": "homoscedastic Gaussian response"
+    },
+    {
+        "Hooke-Jeeves最小化": "Hooke-Jeeves minimization"
+    },
+    {
+        "水平線圖": "horizon graph"
+    },
+    {
+        "Horn檢定": "Horn's test"
+    },
+    {
+        "主成分Horn檢定": "Horn's test of principal components"
+    },
+    {
+        "馬蹄鐵分布": "horseshoe distribution"
+    },
+    {
+        "馬蹄鐵形狀": "horseshoe shape"
+    },
+    {
+        "Hosmer-Lemeshow檢定": "Hosmer-Lemeshow test"
+    },
+    {
+        "病床數": "hospital beds"
+    },
+    {
+        "熱手假設": "hot hand hypothesis"
+    },
+    {
+        "霍特林-勞勒跡": "Hotelling-Lawley trace"
+    },
+    {
+        "霍特林T檢定": "Hotelling's T-test"
+    },
+    {
+        "房價所得比": "house price to income ratio"
+    },
+    {
+        "家戶訪問調查": "household interview survey"
+    },
+    {
+        "Hovmöller圖": "Hovmöller diagram"
+    },
+    {
+        "超文件傳輸協定錯誤碼": "HTTP error code"
+    },
+    {
+        "超文件傳輸協定請求": "HTTP request"
+    },
+    {
+        "Huang-Wand分布": "Huang-Wand distribution"
+    },
+    {
+        "Hubbell豐富度模型": "Hubbell's abundance model"
+    },
+    {
+        "Huber分布": "Huber distribution"
+    },
+    {
+        "Huber迭代": "Huber iteration"
+    },
+    {
+        "Huber化鉸鏈損失": "Huberized hinge loss"
+    },
+    {
+        "Huber條件": "Huber's condition"
+    },
+    {
+        "Huber型估計量": "Huber-type estimator"
+    },
+    {
+        "人力資本模型": "human capital model"
+    },
+    {
+        "人體身高成長曲線": "human height growth curve"
+    },
+    {
+        "柵欄計數模型": "hurdle count model"
+    },
+    {
+        "柵欄模型": "hurdle model"
+    },
+    {
+        "Hurst指數": "Hurst index"
+    },
+    {
+        "Huynh-Feldt校正": "Huynh-Feldt correction"
+    },
+    {
+        "混合設限": "hybrid censoring"
+    },
+    {
+        "混合單粒子拉格朗日整合軌跡模型": "hybrid single particle Lagrangian integrated trajectory model"
+    },
+    {
+        "水文氣候過程": "hydroclimatic process"
+    },
+    {
+        "水文資料": "hydrological data"
+    },
+    {
+        "雙曲分布": "hyperbolic distribution"
+    },
+    {
+        "雙曲線偏微分方程": "hyperbolic PDE"
+    },
+    {
+        "超狄利西雷分布": "hyper-Dirichlet distribution"
+    },
+    {
+        "超參數": "hyperparameter"
+    },
+    {
+        "超事前分布": "hyperprior"
+    },
+    {
+        "超文件標示語言": "hypertext markup language (HTML)"
+    },
+    {
+        "超文件傳輸協定": "hypertext transfer protocol (HTTP)"
+    },
+    {
+        "識別鍵": "identification keys"
+    },
+    {
+        "閒置欄法": "idle column method"
+    },
+    {
+        "可忽視性": "ignorability"
+    },
+    {
+        "影像對位": "image registration"
+    },
+    {
+        "影像還原": "image restoration"
+    },
+    {
+        "不平衡資料": "imbalanced data"
+    },
+    {
+        "移入移出模型": "immigration-emigration models"
+    },
+    {
+        "免疫率": "immune proportion"
+    },
+    {
+        "不完全可檢測性": "imperfect detectability"
+    },
+    {
+        "重要密度": "importance density"
+    },
+    {
+        "不精確機率": "imprecise probability"
+    },
+    {
+        "插補值": "imputed value"
+    },
+    {
+        "IMSL統計程式庫": "IMSL STAT/LIBRARY"
+    },
+    {
+        "近親配種": "inbred cross"
+    },
+    {
+        "發生密度抽樣": "incidence density sampling"
+    },
+    {
+        "發生率比": "incidence rate ratio"
+    },
+    {
+        "納入及排除準則": "inclusion and exclusion criteria"
+    },
+    {
+        "所得替代率": "income replacement rate"
+    },
+    {
+        "增量向前逐段迴歸": "incremental forward stagewise regression"
+    },
+    {
+        "獨立Metropolis鏈": "independence Metropolis chain"
+    },
+    {
+        "獨立模型": "independence model"
+    },
+    {
+        "獨立隨機流": "independent random stream"
+    },
+    {
+        "指標模型": "index model"
+    },
+    {
+        "永續經濟福利指數": "index of sustainable economic welfare (ISEW)"
+    },
+    {
+        "間接最大概度": "indirect maximum likelihood"
+    },
+    {
+        "個別參與者資料": "individual participant data"
+    },
+    {
+        "個體為本模型": "individual-based models"
+    },
+    {
+        "個別特定共變量": "individual-specific covariate"
+    },
+    {
+        "不平等調整人類發展指數": "inequality-adjusted HDI"
+    },
+    {
+        "傳染動態模型": "infection dynamic model"
+    },
+    {
+        "進水持續性": "inflow persistence"
+    },
+    {
+        "影響力診斷": "influence diagnostics"
+    },
+    {
+        "影響力統計量": "influence statistic"
+    },
+    {
+        "非正式就業": "informal employment"
+    },
+    {
+        "訊息維度": "information dimension "
+    },
+    {
+        "訊息增益": "information gain"
+    },
+    {
+        "具訊息的遺漏值": "informative missing values"
+    },
+    {
+        "初始資料分析": "initial data analysis (IDA)"
+    },
+    {
+        "初始值問題": "initial value problem"
+    },
+    {
+        "初始值敏感度": "initial value sensitivity"
+    },
+    {
+        "鄰近截點的觀察值": "inliers"
+    },
+    {
+        "衝擊項離群值": "innovational outlier"
+    },
+    {
+        "殘差演算法": "innovations algorithm "
+    },
+    {
+        "循例校正": "instance-based correction"
+    },
+    {
+        "循例迴歸建模": "instance-based regreesion modeling"
+    },
+    {
+        "瞬時計數程序": "instantaneous count procedure"
+    },
+    {
+        "機構調查": "institutional survey"
+    },
+    {
+        "工具變數追蹤資料模型": "instrument variable panel data model"
+    },
+    {
+        "儀器漂移": "instrumental drift"
+    },
+    {
+        "工具變數估計量": "instrumental variable estimator"
+    },
+    {
+        "工具變數機率單位模型": "instrumental variable probit model"
+    },
+    {
+        "工具變數迴歸": "instrumental variable regression"
+    },
+    {
+        "保險賠款準備金": "insurance claim reserve"
+    },
+    {
+        "累積曲線下面積": "integrated AUC"
+    },
+    {
+        "累積判別改善指數": "integrated discrimination improvement index"
+    },
+    {
+        "累積風險函數": "integrated hazard function"
+    },
+    {
+        "整合移動平均過程": "integrated MA process"
+    },
+    {
+        "整合修正普通最小平方法": "integrated modified OLS (IM-OLS)"
+    },
+    {
+        "整合巢式拉普拉斯近似": "integrated nested Laplace approximation"
+    },
+    {
+        "找尋極值積分估算器": "integration extreme finding estimator"
+    },
+    {
+        "一階整合": "integration of degree one"
+    },
+    {
+        "尋根積分估算器": "integration root finding estimator"
+    },
+    {
+        "積分差分方程": "integro-difference equation"
+    },
+    {
+        "強度-延時-頻率曲線": "intensity-duration-frequency curve"
+    },
+    {
+        "互動式雙標圖": "interactive biplot"
+    },
+    {
+        "互動資料視覺化": "interactive data visualization"
+    },
+    {
+        "銀行同業拆借": "interbank borrowing and lending"
+    },
+    {
+        "間作實驗": "intercropping experiments"
+    },
+    {
+        "介面定義": "interface definition"
+    },
+    {
+        "內部分析": "interior analysis"
+    },
+    {
+        "內點法": "interior-point method"
+    },
+    {
+        "實驗室間計量比對": "inter-laboratory metrology comparison"
+    },
+    {
+        "國際衛生條例核心能力指數": "International Health Regulations (IHR) core capacity index"
+    },
+    {
+        "國際標準組織": "International Organization for Standardization (ISO)"
+    },
+    {
+        "國際教育標準分類": "International Standard Classification of Education (ISCED)"
+    },
+    {
+        "間斷時間數列設計": "interrupted time series design"
+    },
+    {
+        "可中斷設計": "interruptible designs"
+    },
+    {
+        "區間設限資料": "interval censored data"
+    },
+    {
+        "區間設限": "interval censoring"
+    },
+    {
+        "區間資料": "interval data"
+    },
+    {
+        "區間變數": "interval variable"
+    },
+    {
+        "區間設限觀察值": "interval-censored observations"
+    },
+    {
+        "介入卜瓦松分布": "intervened Poisson distribution"
+    },
+    {
+        "時間數列介入分析": "intervention analysis in time series"
+    },
+    {
+        "組內列聯表": "intraclass contingency table"
+    },
+    {
+        "日內頻率資料": "intra-day frequency data"
+    },
+    {
+        "內在混疊": "intrinsic aliasing"
+    },
+    {
+        "固有誤差": "intrinsic error"
+    },
+    {
+        "實質線性": "intrinsic linearity"
+    },
+    {
+        "實質非線性": "intrinsic nonlinearity"
+    },
+    {
+        "內在(人口)增加率": "intrinsic rate of natural increase"
+    },
+    {
+        "逆柏努利抽樣": "inverse Bernoulli sampling"
+    },
+    {
+        "逆Burr分布": "inverse Burr distribution"
+    },
+    {
+        "逆校正": "inverse calibration"
+    },
+    {
+        "逆卡方分布": "inverse chi-squared distribution"
+    },
+    {
+        "逆分布函數": "inverse distribution function"
+    },
+    {
+        "逆固有值問題": "inverse eigenvalue problem"
+    },
+    {
+        "逆指數分布": "inverse exponential distribution"
+    },
+    {
+        "逆伽瑪(γ)分布": "inverse gamma distribution"
+    },
+    {
+        "逆高斯過程": "inverse Gaussian process"
+    },
+    {
+        "逆廣義指數分布": "inverse generalized exponential distribution"
+    },
+    {
+        "反雙曲正弦分布": "inverse hyperbolic sine distribution"
+    },
+    {
+        "逆Lomax分布": "inverse Lomax distribution"
+    },
+    {
+        "反矩陣伽瑪(γ)分布": "inverse matrix gamma distribution"
+    },
+    {
+        "逆帕累托分布": "inverse Pareto distribution"
+    },
+    {
+        "機率倒數加權": "inverse probability weighting (IPW)"
+    },
+    {
+        "反存活函數": "inverse survival function"
+    },
+    {
+        "逆韋伯分布": "inverse Weibull distribution"
+    },
+    {
+        "逆Wishart分布": "inverse Wishart distribution"
+    },
+    {
+        "設限機率倒數的權數": "inverse-probability-censoring weight"
+    },
+    {
+        "反演定理": "inversion theorem"
+    },
+    {
+        "反Wishart分布": "inverted Wishart distribution"
+    },
+    {
+        "可逆函數": "invertible function"
+    },
+    {
+        "I型最佳設計": "I-optimal design"
+    },
+    {
+        "不可約鏈": "irreducible chain"
+    },
+    {
+        "不規則區域": "irregular domain"
+    },
+    {
+        "不規則間隔資料": "irregular spaced data"
+    },
+    {
+        "不規則時間數列": "irregular time series "
+    },
+    {
+        "不規則間隔時間數列": "irregularly spaced time series"
+    },
+    {
+        "項目反應理論等化法": "IRT equating method"
+    },
+    {
+        "Irving演算法": "Irving's algorithm"
+    },
+    {
+        "歐文-霍爾分布": "Irwin-Hall distribution"
+    },
+    {
+        "島嶼生物地理學": "island biogeography"
+    },
+    {
+        "等效曲線": "isobole"
+    },
+    {
+        "交互效應圖": "isobologram"
+    },
+    {
+        "等時線": "isochrone"
+    },
+    {
+        "等度量特徵映射": "isometric feature mapping"
+    },
+    {
+        "等值曲面": "isosurface"
+    },
+    {
+        "同向迴歸；保序迴歸": "isotonic regression"
+    },
+    {
+        "各向同性弱平穩序列變異圖": "isotropic weakly stationary variogram"
+    },
+    {
+        "項目特定Wald檢定": "item-specific Wald test"
+    },
+    {
+        "項目總分相關": "item-total correlation"
+    },
+    {
+        "迭代條件眾數演算法": "iterated conditional modes (ICM) algorithm"
+    },
+    {
+        "迭代F競賽法": "iterated F-race method"
+    },
+    {
+        "迭代": "iteration"
+    },
+    {
+        "迭代拉普拉斯近似": "iterative Laplace approximation"
+    },
+    {
+        "迭代循模法": "iterative model-based method"
+    },
+    {
+        "伊藤隨機微分方程": "Itô stochastic differential equation"
+    },
+    {
+        "Jacobian槓桿": "Jacobian leverage"
+    },
+    {
+        "Jacobson-Truax估計量": "Jacobson-Truax estimator "
+    },
+    {
+        "James-Stein型收縮估計量": "James-Stein-type shrinkage estimator"
+    },
+    {
+        "Jeffreys距離": "Jeffreys's distance"
+    },
+    {
+        "Jelinski-Moranda模型": "Jelinski-Moranda model"
+    },
+    {
+        "Jewell估計量": "Jewell's estimator"
+    },
+    {
+        "詹森分布": "Johnson distribution"
+    },
+    {
+        "詹森-內曼技巧": "Johnson-Neyman technique"
+    },
+    {
+        "有界詹森系統分布": "Johnson's SB distribution"
+    },
+    {
+        "對數常態詹森系統分布": "Johnson's SL distribution"
+    },
+    {
+        "無界詹森系統分布": "Johnson's SU distribution"
+    },
+    {
+        "聯合分析": "joint analysis"
+    },
+    {
+        "聯合對應分析": "joint correspondence analysis"
+    },
+    {
+        "聯合脆弱性關聯結構模型": "joint frailty-copula model"
+    },
+    {
+        "不可忽略遺漏聯合建模": "joint modeling for nonignorable missingness"
+    },
+    {
+        "Jones-Pewsey分布": "Jones-Pewsey distribution"
+    },
+    {
+        "Julia程式語言": "Julia programming language"
+    },
+    {
+        "K-適應性分割演算法": "K-adaptive partitioning algorithm"
+    },
+    {
+        "Kaiser規則": "Kaiser's rule"
+    },
+    {
+        "卡爾曼濾波器及平滑器": "Kalman filter and smoother"
+    },
+    {
+        "狩野模型": "Kano model"
+    },
+    {
+        "k匿名法": "k-anonymity"
+    },
+    {
+        "kappa(κ)分布": "kappa ( κ) distribution"
+    },
+    {
+        "kappa (κ)係數；kappa一致性係數": "kappa (κ) coefficient"
+    },
+    {
+        "kappa-mu (κ-μ) 分布": "kappa-mu (κ-μ) distribution"
+    },
+    {
+        "Kato-Jones分布": "Kato-Jones distribution"
+    },
+    {
+        "k重心叢集演算法": "k-centroid cluster algorithm"
+    },
+    {
+        "肯德爾τ分布": "Kendall's tau (τ) distribution"
+    },
+    {
+        "核函數": "kernel function"
+    },
+    {
+        "核主成分分析": "kernel PCA"
+    },
+    {
+        "核迴歸平滑": "kernel regression smoothing"
+    },
+    {
+        "核平滑技術": "kernel smoothing technique"
+    },
+    {
+        "核基機器學習法": "kernel-based machine learning method"
+    },
+    {
+        "核密度單純貝氏": "kernel-density naive Bayes"
+    },
+    {
+        "鍵盤按鍵轉換程式": "keystroke converter"
+    },
+    {
+        "Kiener分布": "Kiener distribution"
+    },
+    {
+        "動力模型": "kinetic model"
+    },
+    {
+        "親屬矩陣": "kinship matrix"
+    },
+    {
+        "Kleiner-Hartigan樹": "Kleiner-Hartigan trees"
+    },
+    {
+        "k平均數逆迴歸": "k-means inverse regression"
+    },
+    {
+        "背包及子集和程序": "knapsack and subset sum procedure"
+    },
+    {
+        "k最近鄰": "k-nearest neighbor"
+    },
+    {
+        "k最近鄰插補法": "k-nearest neighbor (KNN) imputation method"
+    },
+    {
+        "k最近鄰規則": "k-nearest neighbor (KNN) rule"
+    },
+    {
+        "資料庫知識發掘": "knowledge discovery in data bases (KDD)"
+    },
+    {
+        "知識空間理論": "knowledge space theory"
+    },
+    {
+        "知識結構分析": "knowledge structure analysis"
+    },
+    {
+        "科摩哥洛夫分布": "Kolmogorov distribution"
+    },
+    {
+        "k階依時變動混合圖形模型": "k-order time-varying mixed graphical model"
+    },
+    {
+        "Koyck變換": "Koyck transformation "
+    },
+    {
+        "克利金方法論": "Kriging methodology"
+    },
+    {
+        "Kruskal-Wallis分布": "Kruskal-Wallis distribution"
+    },
+    {
+        "Kuiper檢定": "Kuiper's test"
+    },
+    {
+        "Kullback-Leibler發散度": "Kullback-Leibler divergence"
+    },
+    {
+        "Kumaraswamy分布": "Kumaraswamy distribution"
+    },
+    {
+        "峰態程序": "kurtosis procedure"
+    },
+    {
+        "KPSS檢定": "Kwiatkowski-Phillips-Schmidt-Shin (KPSS) test"
+    },
+    {
+        "L型統計量": "L statistic"
+    },
+    {
+        "L1懲罰": "L1 penalty"
+    },
+    {
+        "L2懲罰": "L2 penalty"
+    },
+    {
+        "L'Abbé圖": "L'Abbé plot"
+    },
+    {
+        "標籤交換": "label switching"
+    },
+    {
+        "勞動報酬": "labor compensation"
+    },
+    {
+        "冪轉換的階梯": "ladder of re-expression"
+    },
+    {
+        "Laeken指標": "Laeken indicators"
+    },
+    {
+        "延遲時間": "lag time"
+    },
+    {
+        "拉格朗日及勒壤德特徵類": "Lagrange and Legendre characteristic class"
+    },
+    {
+        "拉格朗日卜瓦松分布": "Lagrangian Poisson distribution"
+    },
+    {
+        "最大特徵根檢定": "lambda max test"
+    },
+    {
+        "Lambert的W x F分布": "Lambert W x F distribution"
+    },
+    {
+        "Lambert-W函數": "Lambert-W function"
+    },
+    {
+        "Lancaster模型": "Lancaster models"
+    },
+    {
+        "地價指數": "land price index"
+    },
+    {
+        "藍光國-狄密之方法": "Lan-DeMets method"
+    },
+    {
+        "界標分析": "landmark analysis"
+    },
+    {
+        "界標登記": "landmark registration"
+    },
+    {
+        "地標形狀分析": "landmark-based shape analysis"
+    },
+    {
+        "景觀指數": "landscape metrics"
+    },
+    {
+        "Diggle-Kenward模型的拉普拉斯近似": "Laplace approximation to the Diggle and Kenward model"
+    },
+    {
+        "拉普拉斯混合分布": "Laplace mixture distribution"
+    },
+    {
+        "最大概度估計量的大樣本分布": "large sample distribution of MLE"
+    },
+    {
+        "大樣本法": "large sample method"
+    },
+    {
+        "大樣本簡單試驗": "large simple trial"
+    },
+    {
+        "大量潛在變數分析": "large-scale latent variable analysis"
+    },
+    {
+        "Lasagna法則": "Lasagna's law"
+    },
+    {
+        "最小絕對緊縮與選擇算子分布": "lasso distribution"
+    },
+    {
+        "最小絕對緊縮與選擇算子配適": "lasso fitting"
+    },
+    {
+        "最小絕對緊縮與選擇算子迴歸": "lasso regression"
+    },
+    {
+        "最小絕對緊縮與選擇算子序列": "lasso sequence"
+    },
+    {
+        "最小絕對緊縮與選擇算子解路徑": "lasso solution path"
+    },
+    {
+        "最後觀察值向前插補": "last observation carried forward (LOCF)"
+    },
+    {
+        "潛在組群可識別性圖": "latent class identifiability display"
+    },
+    {
+        "潛在組群模型": "latent class model"
+    },
+    {
+        "潛在組群迴歸": "latent class regression"
+    },
+    {
+        "潛在組群迴歸模型": "latent class regression model"
+    },
+    {
+        "潛在狄利西雷配置": "latent Dirichlet allocation"
+    },
+    {
+        "潛在成長曲線模型": "latent growth curve model"
+    },
+    {
+        "潛在工具變數法": "latent instrumental variable approach"
+    },
+    {
+        "潛在馬可夫模型": "latent Markov model"
+    },
+    {
+        "潛在調節結構方程式": "latent moderated structural equation"
+    },
+    {
+        "潛在網路模型": "latent network model (LNM)"
+    },
+    {
+        "潛在迴歸模型": "latent regression model"
+    },
+    {
+        "潛在語意分析": "latent semantic analysis (LSA)"
+    },
+    {
+        "潛在狀態過程": "latent state process"
+    },
+    {
+        "潛在狀態變數": "latent state variable "
+    },
+    {
+        "潛在特質模型": "latent trait model"
+    },
+    {
+        "潛在變數模型": "latent variable model"
+    },
+    {
+        "潛在變數網路模型": "latent variable network model"
+    },
+    {
+        "拉丁超立方體設計": "Latin hypercube design"
+    },
+    {
+        "格子圖": "lattice plot"
+    },
+    {
+        "Lavallée-Hidiroglou法": "Lavallée-Hidiroglou method"
+    },
+    {
+        "概度法則；概似法則": "law of likelihood"
+    },
+    {
+        "初始法則": "law of primacy"
+    },
+    {
+        "Lawson-Hanson演算法": "Lawson-Hanson algorithm"
+    },
+    {
+        "l多樣性": "l-diversity"
+    },
+    {
+        "矩陣的LDU檢定": "LDU test"
+    },
+    {
+        "分支有界演算法": "leaps-and-bounds algorithm"
+    },
+    {
+        "分支有界變數選擇": "leaps-and-bounds variable selection"
+    },
+    {
+        "學習式型態相似度": "learned pattern similarity"
+    },
+    {
+        "機器學習排序": "learning to rank"
+    },
+    {
+        "學習向量量化": "learning vector quantization"
+    },
+    {
+        "最小絕對殘差迴歸": "least absolute residuals (LAR) regression"
+    },
+    {
+        "最小累積距離": "least cumulative distance "
+    },
+    {
+        "最小相依干擾項": "least dependent innovations "
+    },
+    {
+        "最不利分布族": "least favorable family"
+    },
+    {
+        "最小平方交叉確認": "least squares cross-validation"
+    },
+    {
+        "最小平方估計": "least squares estimation"
+    },
+    {
+        "最小平方蒙地卡羅法": "least squares Monte Carlo method"
+    },
+    {
+        "最小平方迴歸線": "least squares regression line"
+    },
+    {
+        "最小修剪平方": "least trimmed squares"
+    },
+    {
+        "最小平方配適": "least-squares fit"
+    },
+    {
+        "捨一交叉確認法": "leave-one-out cross-validation approach"
+    },
+    {
+        "捨一估計量": "leave-one-out estimator"
+    },
+    {
+        "Lee-Carter死亡率模型": "Lee-Carter mortality model"
+    },
+    {
+        "左設限資料": "left censored data"
+    },
+    {
+        "左設限線性迴歸模型": "left censored linear regression model"
+    },
+    {
+        "左截略右設限資料": "left-truncated and right-censored (LTRC) data"
+    },
+    {
+        "貸款系統": "lending system"
+    },
+    {
+        "期程偏差資料": "length-biased data"
+    },
+    {
+        "Lenth法": "Lenth's method"
+    },
+    {
+        "Lepage檢定": "Lepage test"
+    },
+    {
+        "高狹峰曲線": "leptokurtic curve"
+    },
+    {
+        "高狹峰散布核": "leptokurtic dispersal kernel"
+    },
+    {
+        "Levenberg-Marquardt最小化": "Levenberg-Marquardt minimization"
+    },
+    {
+        "Levene檢定": "Levene test"
+    },
+    {
+        "Levenstein度量": "Levenstein metric"
+    },
+    {
+        "列維分布": "Lévy distribution"
+    },
+    {
+        "詞彙統計": "lexicostatistics"
+    },
+    {
+        "誤導因子": "lie factor"
+    },
+    {
+        "生命史性狀": "life history trait"
+    },
+    {
+        "生存年金": "life-contingent annuity"
+    },
+    {
+        "提升圖": "lift chart"
+    },
+    {
+        "提升方案": "lifting scheme"
+    },
+    {
+        "概度距離檢定": "likelihood distance test"
+    },
+    {
+        "概度檢定統計量": "likelihood-based test statistic"
+    },
+    {
+        "偵測極限": "limit of detection (LOD)"
+    },
+    {
+        "Lim-Wolfe檢定": "Lim-Wolfe test"
+    },
+    {
+        "林德利分布": "Lindley distribution"
+    },
+    {
+        "林德利冪級數分布": "Lindley's power series distribution"
+    },
+    {
+        "樣線法": "line transect"
+    },
+    {
+        "線性代數": "linear algebra"
+    },
+    {
+        "線性及非線性混合效應模型": "linear and nonlinear mixed-effects model"
+    },
+    {
+        "線性出生過程": "linear birth process"
+    },
+    {
+        "線性Diophantine方程式 ": "linear Diophantine equation"
+    },
+    {
+        "線性判別分析": "linear discriminant analysis"
+    },
+    {
+        "線性指數族分布": "linear exponential family distributions"
+    },
+    {
+        "線性函數": "linear function"
+    },
+    {
+        "線性分組分析": "linear grouping analysis"
+    },
+    {
+        "線性工具變數模型": "linear instrumental variable model"
+    },
+    {
+        "線性邏輯式檢定模型": "linear logistic test model"
+    },
+    {
+        "線性混合效應模型": "linear mixed effects model"
+    },
+    {
+        "線性混合模型": "linear mixed model"
+    },
+    {
+        "線性多維邏輯式模型": "linear multidimensional logistic model"
+    },
+    {
+        "線性追蹤模型": "linear panel model"
+    },
+    {
+        "線性參數": "linear parameter"
+    },
+    {
+        "線性部分得分模型": "linear partial credit model"
+    },
+    {
+        "線性量表模型": "linear rating scale model"
+    },
+    {
+        "線性迴歸模型": "linear regression model"
+    },
+    {
+        "線性結構方程模型": "linear structural equation model"
+    },
+    {
+        "有序變數關聯檢定": "linear-by-linear association test"
+    },
+    {
+        "線性化": "linearizing"
+    },
+    {
+        "線性可分": "linearly separable"
+    },
+    {
+        "截線抽樣": "line-intersect sampling"
+    },
+    {
+        "Lineweaver-Burk方程式": "Lineweaver-Burk equation"
+    },
+    {
+        "連鎖不平衡定位": "linkage disequilibrium mapping"
+    },
+    {
+        "連鎖相位": "linkage phase"
+    },
+    {
+        "連結微地圖": "linked micromap plot"
+    },
+    {
+        "Linnik分布": "Linnik distribution"
+    },
+    {
+        "液相層析法": "liquid chromatography"
+    },
+    {
+        "L型動差": "L-moment"
+    },
+    {
+        "Lobachevsky分布": "Lobachevsky distribution"
+    },
+    {
+        "局部平均反應函數": "local average response function"
+    },
+    {
+        "局部立方體法": "local cube method"
+    },
+    {
+        "局部相依性函數": "local dependence fuction"
+    },
+    {
+        "局部線性": "local linearity"
+    },
+    {
+        "局部關鍵法": "local pivot method"
+    },
+    {
+        "局部多項式迴歸": "local polynomial regression"
+    },
+    {
+        "具局部值事前分布": "local prior"
+    },
+    {
+        "局部空間變異數非齊一性": "local spatial heteroscedasticity "
+    },
+    {
+        "局部自我共變異數": "localized autocovariance"
+    },
+    {
+        "局部估計散布圖平滑法": "locally estimated scatterplot smoothing (loess)"
+    },
+    {
+        "局部最佳設計": "locally optimal design"
+    },
+    {
+        "局部平穩": "locally stationary"
+    },
+    {
+        "局部加權散布圖平滑法": "locally weighted scatterplot smoothing (lowess)"
+    },
+    {
+        "位置-尺度參數族": "location-scale parameter family"
+    },
+    {
+        "對數概度比計分": "Lod score"
+    },
+    {
+        "Loewe可加性模型": "Loewe additivity model"
+    },
+    {
+        "對數位置-尺度族": "log location-scale family"
+    },
+    {
+        "對數乘法及關聯模型": "log multiplicate and association model"
+    },
+    {
+        "對數累積風險圖": "log-cumulative hazard plot"
+    },
+    {
+        "對數高斯柯克斯過程": "log-Gaussian Cox process"
+    },
+    {
+        "邏輯旗標": "logical flag"
+    },
+    {
+        "邏輯式退出模型": "logistic dropout model"
+    },
+    {
+        "邏輯式-指數分布": "logistic-exponential distribution"
+    },
+    {
+        "對數勝算信賴界線": "logit confidence limits"
+    },
+    {
+        "對數勝算秩圖": "logit rank plot"
+    },
+    {
+        "對數勝算-常態分布": "logit-normal distribution"
+    },
+    {
+        "對數拉普拉斯分布": "log-Laplace distribution"
+    },
+    {
+        "對數線性Bradley-Terry模型": "loglinear Bradley-Terry model"
+    },
+    {
+        "重對數分布": "loglog distribution"
+    },
+    {
+        "對數常態混合分布": "lognormal mixture distribution"
+    },
+    {
+        "對數常態-廣義帕累托分布": "lognormal-generalized Pareto distribution"
+    },
+    {
+        "對數均勻分布": "log-uniform distribution"
+    },
+    {
+        "LOGXACT統計軟體": "LOGXACT"
+    },
+    {
+        "Lomb週期圖": "Lomb periodogram"
+    },
+    {
+        "Lomb-Scargle週期圖": "Lomb-Scargle periodogram"
+    },
+    {
+        "長期記憶模型": "long memory model"
+    },
+    {
+        "長期記憶過程": "long memory processes"
+    },
+    {
+        "長記憶時間數列": "long memory time series"
+    },
+    {
+        "長期": "long run"
+    },
+    {
+        "長期": "long term"
+    },
+    {
+        "最長公用次序列": "longest common subsequence"
+    },
+    {
+        "長期事件": "long-horizon event"
+    },
+    {
+        "Longini-Koopman模型": "Longini-Koopman model"
+    },
+    {
+        "追蹤網絡資料": "longitudinal network data"
+    },
+    {
+        "縱向迴歸": "longitudinal regression"
+    },
+    {
+        "長期相依性": "long-range dependence"
+    },
+    {
+        "長期失業率": "long-term unemployment rate"
+    },
+    {
+        "Lord詭論": "Lord's paradox"
+    },
+    {
+        "違約損失率": "loss given default"
+    },
+    {
+        "彩券；樂透": "lotteries"
+    },
+    {
+        "低階機能": "low level function"
+    },
+    {
+        "低維度矩陣完備化": "low rank matrix completion"
+    },
+    {
+        "低劑量外插法": "low-dose extrapolation"
+    },
+    {
+        "下三角矩陣": "lower triangular matrix"
+    },
+    {
+        "低階L型動差": "low-order L-moment"
+    },
+    {
+        "矩陣的LU分解": "LU decomposition"
+    },
+    {
+        "Lyapunov指數": "Lyapunov exponent"
+    },
+    {
+        "Lynden-Bell法": "Lynden-Bell method"
+    },
+    {
+        "機器碼基因演算法": "machine coded genetic algorithm (MCGA)"
+    },
+    {
+        "機器學習": "machine learning"
+    },
+    {
+        "機器學習作為平台": "machine learning as a platform"
+    },
+    {
+        "機器學習作為服務": "machine learning as a service (MLaaS)"
+    },
+    {
+        "機器學習管線": "machine learning pipeline"
+    },
+    {
+        "機器翻譯": "machine translation"
+    },
+    {
+        "機器學習排序": "machine-learned ranking"
+    },
+    {
+        "Mack-Wolfe檢定": "Mack-Wolfe test"
+    },
+    {
+        "魔立方體": "magic cube"
+    },
+    {
+        "魔超立方體": "magic hypercube"
+    },
+    {
+        "魔方陣": "magic square"
+    },
+    {
+        "磁振造影 ": "magnetic resonance imaging (MRI)"
+    },
+    {
+        "Mahalonobis-Taguchi系統": "Mahalonobis-Taguchi system"
+    },
+    {
+        "主機；大型電腦": "mainframe"
+    },
+    {
+        "多數決規則": "majority rule"
+    },
+    {
+        "Mallow槓桿": "Mallow's leverage"
+    },
+    {
+        "Mallows型估計量": "Mallows-type estimator"
+    },
+    {
+        "馬爾薩斯參數": "Malthusian parameter"
+    },
+    {
+        "Mana Clash分布": "Mana Clash distribution"
+    },
+    {
+        "曼哈頓距離": "Manhattan distance"
+    },
+    {
+        "Mann-Kendall趨勢檢定": "Mann-Kendall trend test"
+    },
+    {
+        "多變量變異數分析模型": "MANOVA model"
+    },
+    {
+        "曼特爾-海恩澤爾估計量": "Mantel-Haenszel estimator"
+    },
+    {
+        "多離群值偵測程序": "many-outlier detection procedures"
+    },
+    {
+        "Maple軟體": "Maple"
+    },
+    {
+        "Marcenko-Pastur分布": "Marcenko-Pastur distribution"
+    },
+    {
+        "Mardia關聯結構": "Mardia copula"
+    },
+    {
+        "Mardia多變量常態性檢定": "Mardia's multivariate normality test"
+    },
+    {
+        "MAREG軟體": "MAREG"
+    },
+    {
+        "邊際效應": "marginal effect"
+    },
+    {
+        "邊際匹配": "marginal matching"
+    },
+    {
+        "邊際平均插補": "marginal mean imputation"
+    },
+    {
+        "邊際模型": "marginal model"
+    },
+    {
+        "邊際結構模型": "marginal structural model "
+    },
+    {
+        "Maria資料庫系統": "MariaDB"
+    },
+    {
+        "標值卜瓦松過程": "marked Poisson process"
+    },
+    {
+        "市場模型": "market model"
+    },
+    {
+        "市場結算價格": "market-clearing price"
+    },
+    {
+        "馬可夫疾病死亡模型": "Markov illness-death model"
+    },
+    {
+        "馬可夫網路": "Markov network"
+    },
+    {
+        "馬可夫迴歸": "Markov regression "
+    },
+    {
+        "馬可夫變換模型": "Markov switching models"
+    },
+    {
+        "馬可維茲投資組合": "Markowitz portfolio"
+    },
+    {
+        "標記再捕取資料": "mark-recapture data"
+    },
+    {
+        "標記再捕取再現資料": "mark-recapture-recovery data"
+    },
+    {
+        "標記語言": "markup language"
+    },
+    {
+        "Marshall-Olkin擴充指數分布": "Marshall-Olkin extended exponential distribution"
+    },
+    {
+        "Marshall-Olkin擴充齊夫分布": "Marshall-Olkin extended Zipf distribution"
+    },
+    {
+        "Martin-Löf檢定": "Martin-Löf test"
+    },
+    {
+        "mase基因序列格式": "mase format"
+    },
+    {
+        "遮蔽": "masking"
+    },
+    {
+        "大滅絕": "mass extinction"
+    },
+    {
+        "質譜法": "mass spectrometry"
+    },
+    {
+        "配對": "matched pairs"
+    },
+    {
+        "配對t檢定": "matched pairs t-test"
+    },
+    {
+        "匹配集": "matched set"
+    },
+    {
+        "Mathematica軟體": "Mathematica"
+    },
+    {
+        "Mathisen檢定": "Mathisen's test"
+    },
+    {
+        "矩陣完備化": "matrix completion"
+    },
+    {
+        "矩陣指數變換": "matrix exponential transformation"
+    },
+    {
+        "矩陣伽瑪(γ)分布": "matrix gamma distribution"
+    },
+    {
+        "矩陣常態分布": "matrix normal distribution"
+    },
+    {
+        "矩陣變量賓漢-馮米賽斯-費雪分布": "matrix-variate Bingham-von Mises-Fisher distribution"
+    },
+    {
+        "最大重疊離散小波變換": "maximal overlap discrete wavelet transform"
+    },
+    {
+        "最大事後估計量": "maximum a posterior (MAP) estimator"
+    },
+    {
+        "最大共同次結構": "maximum common substructure"
+    },
+    {
+        "最大濃度界限": "maximum concentration limit"
+    },
+    {
+        "最大熵自助重抽法": "maximum entropy bootstrap"
+    },
+    {
+        "最大概度聯合量測值": "maximum likelihood conjoint measurement"
+    },
+    {
+        "最大概度差異尺度化": "maximum likelihood difference scaling"
+    },
+    {
+        "最大賦範殘差": "maximum normed residual"
+    },
+    {
+        "最大簡約": "maximum parsimony"
+    },
+    {
+        "最大投影設計": "maximum projection design"
+    },
+    {
+        "最大解析度最小像差設計": "maximum resolution minimum aberration design"
+    },
+    {
+        "最大修剪概度估計量": "maximum trimmed likelihood estimator"
+    },
+    {
+        "小中取大登山演算法": "max-min hill-climbing algorithm"
+    },
+    {
+        "小中取大親子演算法": "max-min parents and children algorithm"
+    },
+    {
+        "最大穩定過程": "max-stable process"
+    },
+    {
+        "Maxwell-Boltzmann-Bose-Einstein-Fermi-Dirac分布": "Maxwell-Boltzmann-Bose-Einstein-Fermi-Dirac distribution"
+    },
+    {
+        "McCabe-Tremayne檢定": "McCabe-Tremayne test"
+    },
+    {
+        "平均數和離勢可加性模型": "mean and dispersion additive model"
+    },
+    {
+        "平均場賽局論": "mean field game theory"
+    },
+    {
+        "平均插補": "mean imputation"
+    },
+    {
+        "均方比": "mean square ratio"
+    },
+    {
+        "均方誤差": "mean squared error (MSE)"
+    },
+    {
+        "均值向量": "mean vector"
+    },
+    {
+        "平均數-全距圖": "mean-range plot"
+    },
+    {
+        "關聯量數": "measure of association"
+    },
+    {
+        "量測模型": "measurement model"
+    },
+    {
+        "量測不確定度估計": "measurement uncertainty estimation"
+    },
+    {
+        "中位數偶 ": "medcouple"
+    },
+    {
+        "中位數拋光法": "median polish"
+    },
+    {
+        "中介分析": "mediation analysis"
+    },
+    {
+        "中介因子": "mediator"
+    },
+    {
+        "醫務稽核": "medical audit"
+    },
+    {
+        "醫學文獻分析及檢索系統": "Medical Literature Analysis and Retrieval System Online (MEDLINE) "
+    },
+    {
+        "巨型試驗": "mega-trial"
+    },
+    {
+        "減數分裂圖譜": "meiotic mapping"
+    },
+    {
+        "模因演算法": "memetic algorithm"
+    },
+    {
+        "孟德爾隨機化": "Mendelian randomization"
+    },
+    {
+        "網格": "meshes"
+    },
+    {
+        "常態峰曲線": "mesokurtic curve"
+    },
+    {
+        "統合迴歸": "meta regression"
+    },
+    {
+        "代謝體資料": "metabolomics data"
+    },
+    {
+        "元學習": "meta-learning "
+    },
+    {
+        "氣象資料": "meteorological data"
+    },
+    {
+        "篩選法": "method of sieves"
+    },
+    {
+        "統計微分法": "method of statistical differential"
+    },
+    {
+        "度量多維尺度化": "metric multidimensional scaling"
+    },
+    {
+        "度量修剪": "metric trimming"
+    },
+    {
+        "度量Winsor化極值調整": "metric winsorizing"
+    },
+    {
+        "計量學；度量衡學": "metrology"
+    },
+    {
+        "Metropolis內置於Gibbs抽樣演算法": "Metropolis-within-Gibbs sampling algorithm"
+    },
+    {
+        "Michael檢定": "Michael's test"
+    },
+    {
+        "微陣列": "microarray"
+    },
+    {
+        "個別資料": "microdata"
+    },
+    {
+        "個體計量經濟（學）；微觀計量經濟（學）": "microeconometrics"
+    },
+    {
+        "中間P值": "mid P-value"
+    },
+    {
+        "Midzuno抽樣": "Midzuno sampling"
+    },
+    {
+        "遷徙過程": "migration process"
+    },
+    {
+        "MIL-STD-1916軍用抽樣計畫標準": "MIL-STD-1916"
+    },
+    {
+        "最小批梯度下降法": "mini-batch gradient descent (MBGD)"
+    },
+    {
+        "小批k平均數": "mini-batch k-means"
+    },
+    {
+        "大中取小凹懲罰": "minimax concave penalty"
+    },
+    {
+        "大中取小分布": "minimax distribution"
+    },
+    {
+        "大中取小投影設計": "minimax projection design"
+    },
+    {
+        "極小化": "minimization"
+    },
+    {
+        "最小偏差準則": "minimum aberration criterion"
+    },
+    {
+        "最小平均變異數估計法": "minimum average variance estimation (MAVE) method"
+    },
+    {
+        "最小凸多邊形": "minimum convex polygon"
+    },
+    {
+        "最小共變異行列式估計量": "minimum covariance determinant (MCD) estimator"
+    },
+    {
+        "最小密度乘冪發散": "minimum density power divergence"
+    },
+    {
+        "最小描述長度": "minimum description length"
+    },
+    {
+        "最小距離估計量": "minimum distance estimator "
+    },
+    {
+        "最小距離機率": "minimum distance probability"
+    },
+    {
+        "最低生活費": "minimum subsistence"
+    },
+    {
+        "最小變異數匹配": "minimum variance matching "
+    },
+    {
+        "最小體積橢圓體": "minimum volume ellipsoid"
+    },
+    {
+        "Minkowski距離": "Minkowski distance"
+    },
+    {
+        "明尼蘇達事前分布": "Minnesota prior"
+    },
+    {
+        "鏡像相似自助重抽法": "mirror-match bootstrapping"
+    },
+    {
+        "錯誤分類機率": "misclassification probability"
+    },
+    {
+        "痛苦指數": "misery index"
+    },
+    {
+        "P值錯誤詮釋": "mis-interpretation of P-value"
+    },
+    {
+        "遺漏資料插補": "missing data imputation"
+    },
+    {
+        "遺漏資料機制": "missing data mechanism"
+    },
+    {
+        "遺漏資料型態": "missing data patterns"
+    },
+    {
+        "遺漏指標法": "missing indicator method"
+    },
+    {
+        "遺漏指標變數": "missing indicator variable"
+    },
+    {
+        "非未來相依遺漏": "missing non-future dependent (MNFD)"
+    },
+    {
+        "非隨機遺漏": "missing not at random (MNAR)"
+    },
+    {
+        "Mitofsky-Waksberg方案": "Mitofsky-Waksberg scheme"
+    },
+    {
+        "Mitscherlich曲線": "Mitscherlich curve"
+    },
+    {
+        "類別及連續混合資料": "mixed categorical and continuous data"
+    },
+    {
+        "混合效應設計": "mixed effects design"
+    },
+    {
+        "混合因子模型": "mixed factor model"
+    },
+    {
+        "混合p階向量自我迴歸模型": "mixed VAR(p) model"
+    },
+    {
+        "混合效應邏輯式迴歸": "mixed-effects logistic regression"
+    },
+    {
+        "混合自我迴歸模型": "mixture AR model"
+    },
+    {
+        "混合設計": "mixture design"
+    },
+    {
+        "專家混合": "mixture of experts"
+    },
+    {
+        "伽瑪(γ)分布的混合": "mixture of gamma distributions"
+    },
+    {
+        "拉普拉斯分布的混合": "mixture of Laplace distributions"
+    },
+    {
+        "對數常態分布的混合": "mixture of lognormal distributions"
+    },
+    {
+        "常態分布的混合": "mixture of normal distributions"
+    },
+    {
+        "卜瓦松分布的混合": "mixture of Poisson distributions"
+    },
+    {
+        "t分布的混合": "mixture of t-distributions"
+    },
+    {
+        "二元Rasch混合模型": "mixture of the dichotomous Rasch model"
+    },
+    {
+        "馮米賽斯-費雪分布的混合": "mixture of von Mises-Fisher distributions"
+    },
+    {
+        "混合Rasch模型": "mixture Rasch model"
+    },
+    {
+        "混合遞移分布模型": "mixture transition distribution model"
+    },
+    {
+        "混合量實驗": "mixture-amount experiment"
+    },
+    {
+        "MLwiN統計軟體": "MLwiN"
+    },
+    {
+        "眾數迴歸": "mode regression"
+    },
+    {
+        "模型建構": "model building"
+    },
+    {
+        "模型比較": "model comparison"
+    },
+    {
+        "模型選擇一致性": "model selection consistency"
+    },
+    {
+        "循模推論": "model-based inference"
+    },
+    {
+        "基於模型最佳化": "model-based optimization"
+    },
+    {
+        "模型不拘估計": "model-free estimation"
+    },
+    {
+        "調節變數": "moderator variable"
+    },
+    {
+        "可調整地區單元問題": "modifiable  areal unit problem"
+    },
+    {
+        "修正連續重評估法": "modified continual reassessment method"
+    },
+    {
+        "修正M型估計量": "modified M-estimator"
+    },
+    {
+        "修正毒性機率區間設計": "modified toxicity probability interval (mTPI) design"
+    },
+    {
+        "Mojena檢定": "Mojena's test"
+    },
+    {
+        "Mokken量表分析": "Mokken scale analysis"
+    },
+    {
+        "分子標記": "molecular marker"
+    },
+    {
+        "夏普比率無動差估計": "moment-free estimation of Sharpe ratio"
+    },
+    {
+        "相關矩陣行列式動差": "moments of the correlation matrix determinant"
+    },
+    {
+        "廣義變異數動差": "moments of the generalized variance"
+    },
+    {
+        "動能梯度下降法": "momentum gradient descent (MGD)"
+    },
+    {
+        "單調遺漏": "monotone missingness"
+    },
+    {
+        "單調多項式": "monotone polynomial"
+    },
+    {
+        "單調遞減": "monotonic decreasing"
+    },
+    {
+        "單調遞增": "monotonic increasing"
+    },
+    {
+        "單調序列": "monotonic sequence"
+    },
+    {
+        "蒙地卡羅演算法": "Monte Carlo algorithm"
+    },
+    {
+        "蒙地卡羅積分": "Monte Carlo integration"
+    },
+    {
+        "蒙地卡羅最大概度": "Monte Carlo maximum likelihood (MCML)"
+    },
+    {
+        "蒙地卡羅模擬      ": "Monte Carlo simulation"
+    },
+    {
+        "Monty Hall(三門)問題": "Monty Hall problem"
+    },
+    {
+        "Moran I空間自我相關統計量": "Moran I"
+    },
+    {
+        "罹病；患病": "morbidity"
+    },
+    {
+        "Morgenstern假設": "Morgenstern's hypothesis"
+    },
+    {
+        "Morgenstern均勻分布": "Morgenstern's uniform distribution"
+    },
+    {
+        "構詞分析器": "morphological analyzer"
+    },
+    {
+        "死亡勝算比": "mortality odds ratio"
+    },
+    {
+        "馬賽克圖": "mosaic plot"
+    },
+    {
+        "最可能數": "most probable number"
+    },
+    {
+        "母小波": "mother wavelet"
+    },
+    {
+        "基序發現": "motif discovery "
+    },
+    {
+        "滑鼠追蹤資料": "mouse-tracking data"
+    },
+    {
+        "滑鼠追蹤實驗": "mouse-tracking experiment"
+    },
+    {
+        "移動生態學": "movement ecology"
+    },
+    {
+        "移動核密度估計量": "movement-based kernel density estimator"
+    },
+    {
+        "移動平均數過程": "moving average (MA) process"
+    },
+    {
+        "移動迴歸": "moving regression"
+    },
+    {
+        "移動和程序": "moving sum (MOSUM) procedures"
+    },
+    {
+        "Mplus統計軟體": "Mplus"
+    },
+    {
+        "Mueller連續評定量表模型": "Mueller's continuous rating scale model"
+    },
+    {
+        "Muller-Griffiths程序": "Muller-Griffiths procedure"
+    },
+    {
+        "多中心試驗": "multi-center trial"
+    },
+    {
+        "多維分析": "multidimensional analysis"
+    },
+    {
+        "多維陣列 ": "multidimensional array (MDA)"
+    },
+    {
+        "多維連續時間模型": "multidimensional continuous-time model"
+    },
+    {
+        "多維項目反應理論": "multidimensional item-response theory"
+    },
+    {
+        "多維潛在組群項目反應理論模型": "multidimensional latent class IRT model"
+    },
+    {
+        "多維潛在特質模型": "multidimensional latent trait model"
+    },
+    {
+        "多維多元Rasch模型": "multidimensional polytomous Rasch model"
+    },
+    {
+        "多維展開": "multidimensional unfolding"
+    },
+    {
+        "多重事件模型": "multiepisode models"
+    },
+    {
+        "多面向模型": "multifaceted model"
+    },
+    {
+        "多層次插補": "multilevel imputation"
+    },
+    {
+        "多層次Rasch模型": "multilevel Rasch model"
+    },
+    {
+        "多層次向量自我迴歸模型": "multi-level VAR model"
+    },
+    {
+        "多峰目標分布": "multimodal target distribution"
+    },
+    {
+        "多項選擇模型": "multinomial choice model"
+    },
+    {
+        "多項係數": "multinomial coefficient"
+    },
+    {
+        "多項狄利西雷分布": "multinomial Dirichlet distribution"
+    },
+    {
+        "多項逆迴歸": "multinomial inverse regression"
+    },
+    {
+        "多項邏輯式迴歸": "multinomial logistic regression"
+    },
+    {
+        "多項對數勝算": "multinomial logit"
+    },
+    {
+        "多項邏輯式模型": "multinomial logit model"
+    },
+    {
+        "多項模型": "multinomial model"
+    },
+    {
+        "多項機率單位": "multinomial probit"
+    },
+    {
+        "多項機率單位模型": "multinomial probit model"
+    },
+    {
+        "多項處理樹模型": "multinomial processing tree model"
+    },
+    {
+        "多項迴歸模型": "multinomial regression model"
+    },
+    {
+        "多變量常態分布": "multinormal distribution"
+    },
+    {
+        "多幅圖": "multipanel plots"
+    },
+    {
+        "多重加總預測演算法": "multiple aggregation prediction algorithm"
+    },
+    {
+        "多轉折點偵測": "multiple change-point detection"
+    },
+    {
+        "多轉折點估計": "multiple change-point estimation"
+    },
+    {
+        "多重共整合分析": "multiple co-inertia analysis"
+    },
+    {
+        "多重比較程序": "multiple comparison procedure"
+    },
+    {
+        "多重對比檢定": "multiple contrast tests"
+    },
+    {
+        "多重對應分析": "multiple correspondence analysis"
+    },
+    {
+        "多重評估指標": "multiple endpoints"
+    },
+    {
+        "多因子分析模型": "multiple factor analysis model"
+    },
+    {
+        "多重固定效應之變換": "multiple fixed effects transformation"
+    },
+    {
+        "多類次數多邊形": "multiple frequency polygons"
+    },
+    {
+        "多組分析": "multiple group analysis"
+    },
+    {
+        "多組固定效應": "multiple group fixed effects"
+    },
+    {
+        "多重假設檢定": "multiple hypothesis test"
+    },
+    {
+        "鏈式方程多重插補": "multiple imputation by chained equations (MICE)"
+    },
+    {
+        "多重插補資料集": "multiple imputation datasets"
+    },
+    {
+        "多重指標多重原因模型": "multiple indicator multiple cause model"
+    },
+    {
+        "多重反應迴歸": "multiple response regression"
+    },
+    {
+        "多重基因序列排比": "multiple sequence alignment"
+    },
+    {
+        "MSF基因序列格式": "Multiple Sequence Format  (MSF) "
+    },
+    {
+        "多重時間反應資料": "multiple time response data"
+    },
+    {
+        "多重處理比較": "multiple treatment comparison"
+    },
+    {
+        "多重底冊調查": "multiple-frame surveys"
+    },
+    {
+        "機率乘法規則": "multiplication rule of probability"
+    },
+    {
+        "乘積卜瓦松分布": "multiplicative Poisson distribution"
+    },
+    {
+        "相乘迴歸模型": "multiplicative regression model"
+    },
+    {
+        "相乘相對風險模型": "multiplicative relative risk model"
+    },
+    {
+        "多區域臨床試驗": "multi-regional clinical trial"
+    },
+    {
+        "MULTISCALE軟體": "MULTISCALE"
+    },
+    {
+        "多尺度分析": "multiscale analysis "
+    },
+    {
+        "多尺度自助重抽法": "multiscale bootstrap"
+    },
+    {
+        "多尺度氣候模型評估": "multiscale climate model assessment"
+    },
+    {
+        "多光譜影像": "multispectral image"
+    },
+    {
+        "多期預測": "multi-step-ahead forecasting "
+    },
+    {
+        "多重削幅頻譜估計量": "multitaper spectral estimators"
+    },
+    {
+        "多特質-多方法模型": "multitrait-multimethod model"
+    },
+    {
+        "多變量適應性迴歸弧線": "multivariate adaptive regression splines (MARS)"
+    },
+    {
+        "多變量自我迴歸模型": "multivariate AR model"
+    },
+    {
+        "多變量自我迴歸狀態空間模型": "multivariate autoregressive state-space (MARSS) model"
+    },
+    {
+        "多變量平均風險比": "multivariate average hazard ratios"
+    },
+    {
+        "多變量偏差校正": "multivariate bias correction"
+    },
+    {
+        "多變量柯西分布": "multivariate Cauchy distribution"
+    },
+    {
+        "多變量累積發生率模型": "multivariate cumulative incidence model"
+    },
+    {
+        "多變量曲線解析": "multivariate curve resolution"
+    },
+    {
+        "多變量資料": "multivariate data"
+    },
+    {
+        "多變量資料分析": "multivariate data analysis"
+    },
+    {
+        "多變量事件史資料": "multivariate event history data"
+    },
+    {
+        "多變量演化小波頻譜": "multivariate evolutionary wavelet spectrum"
+    },
+    {
+        "多變量Ewens分布": "multivariate Ewens distribution"
+    },
+    {
+        "多變量探索式資料分析": "multivariate exploratory data analysis"
+    },
+    {
+        "多變量探索法": "multivariate exploratory method"
+    },
+    {
+        "多變量極值分布": "multivariate extreme-value distribution"
+    },
+    {
+        "多變量函數資料": "multivariate functional data"
+    },
+    {
+        "多變量廣義自我迴歸條件變異數非齊一模型": "multivariate GARCH model"
+    },
+    {
+        "多變量高斯分布": "multivariate Gaussian distribution"
+    },
+    {
+        "多變量廣義極值分布": "multivariate generalized extreme-value distribution"
+    },
+    {
+        "多變量廣義雙曲分布": "multivariate generalized hyperbolic distribution"
+    },
+    {
+        "多變量廣義帕累托分布": "multivariate generalized Pareto distribution"
+    },
+    {
+        "多變量廣義線性模型": "multivariate GLMs"
+    },
+    {
+        "多變量網格": "multivariate grid"
+    },
+    {
+        "多變量成長資料": "multivariate growth data"
+    },
+    {
+        "多變量核密度估計": "multivariate kernel density estimation"
+    },
+    {
+        "多變量峰態量數": "multivariate kurtosis measure"
+    },
+    {
+        "多變量拉普拉斯分布": "multivariate Laplace distribution"
+    },
+    {
+        "多變量線性混合模型": "multivariate linear mixed model"
+    },
+    {
+        "多變量局部平穩小波過程": "multivariate locally stationary wavelet process"
+    },
+    {
+        "多變量邏輯式分布": "multivariate logistic distribution"
+    },
+    {
+        "多變量對數常態分布": "multivariate lognormal distribution"
+    },
+    {
+        "多變量統合分析": "multivariate meta-analysis"
+    },
+    {
+        "多變量常態混合分布": "multivariate mixture of normals"
+    },
+    {
+        "多變量非參數法": "multivariate nonparametric method"
+    },
+    {
+        "多變量順序調查資料": "multivariate ordinal survey data"
+    },
+    {
+        "多變量離群值偵測": "multivariate outlier detection"
+    },
+    {
+        "多變量離群量數": "multivariate outlyingness"
+    },
+    {
+        "多變量多項式": "multivariate polynomial"
+    },
+    {
+        "多變量乘冪指數分布": "multivariate power exponential distribution"
+    },
+    {
+        "多變量機率單位": "multivariate probit"
+    },
+    {
+        "多變量機率單位分析": "multivariate probit analysis"
+    },
+    {
+        "多變量求積法": "multivariate quadrature"
+    },
+    {
+        "多變量迴歸模型": "multivariate regression model"
+    },
+    {
+        "多變量脊迴歸": "multivariate ridge regression "
+    },
+    {
+        "多變量偏斜t分布": "multivariate skew t-distribution"
+    },
+    {
+        "多變量偏斜柯西分布": "multivariate skew-Cauchy distribution"
+    },
+    {
+        "多變量偏斜常態分布": "multivariate skew-normal distribution"
+    },
+    {
+        "多變量穩定分布": "multivariate stable distribution"
+    },
+    {
+        "多變量Student的t分布": "multivariate Student's t-distribution"
+    },
+    {
+        "多變量存活資料": "multivariate survival data"
+    },
+    {
+        "多變量謝比雪夫不等式": "multivariate Tchebychev inequalities"
+    },
+    {
+        "多變量t分布混合模型": "multivariate t-distribution mixture model"
+    },
+    {
+        "多變量門檻自我迴歸模型": "multivariate threshold AR model"
+    },
+    {
+        "多變量時間數列": "multivariate time series"
+    },
+    {
+        "多變量截略常態分布": "multivariate truncated normal distribution"
+    },
+    {
+        "多變量均勻分布": "multivariate uniform distribution"
+    },
+    {
+        "多變量零值膨脹卜瓦松模型": "multivariate ZIP model"
+    },
+    {
+        "突變距離": "mutation distance"
+    },
+    {
+        "相互訊息": "mutual information "
+    },
+    {
+        "MYCIN醫療專家系統": "MYCIN"
+    },
+    {
+        "Myers指數": "Myers'  index"
+    },
+    {
+        "Nadaraya-Watson估計量": "Nadaraya-Watson estimator"
+    },
+    {
+        "Nadaraya-Watson核平滑器": "Nadaraya-Watson kernel smoother "
+    },
+    {
+        "Nadaraya-Watson型多變量核迴歸": "Nadaraya-Watson type multivariate kernel regression"
+    },
+    {
+        "單純貝氏分類器": "naive Bayes classifier"
+    },
+    {
+        "單純貝氏法": "naive Bayes method"
+    },
+    {
+        "Naor分布": "Naor's distribution"
+    },
+    {
+        "奈許均衡": "Nash equilibrium"
+    },
+    {
+        "國民醫療保健支出": "national health expenditure (NHE)"
+    },
+    {
+        "國民彩券；國民樂透": "national lotteries"
+    },
+    {
+        "國民幸福指數": "national well-being indicators"
+    },
+    {
+        "自然排序": "natural ordering"
+    },
+    {
+        "自然弧線": "natural spline"
+    },
+    {
+        "自然配對": "natural-pairing"
+    },
+    {
+        "不同意偏誤": "nay-saying bias"
+    },
+    {
+        "最近鄰變異數估計": "nearest neighbor variance estimation (NNVE)"
+    },
+    {
+        "最近鄰迴歸": "nearest neighbors regression "
+    },
+    {
+        "近似最佳集區設計": "near-optimal block design"
+    },
+    {
+        "必要空格": "necessarily empty cell"
+    },
+    {
+        "負二項迴歸 ": "negative binomial regression"
+    },
+    {
+        "不具統計顯著性的研究": "negative study"
+    },
+    {
+        "負協同作用": "negative synergism"
+    },
+    {
+        "鄰域對照組": "neighbourhood control"
+    },
+    {
+        "Nelder-Mead單體演算法": "Nelder-Mead simplex algorithm"
+    },
+    {
+        "巢式世代研究": "nested cohort study"
+    },
+    {
+        "巢式對數勝算模型": "nested logit model"
+    },
+    {
+        "巢式模型比較": "nested model comparison"
+    },
+    {
+        "淨遷徙率": "net migration rate"
+    },
+    {
+        "淨重分類指數": "net reclassification index"
+    },
+    {
+        "網路；網絡": "network"
+    },
+    {
+        "網絡統合分析": "network meta-analysis"
+    },
+    {
+        "網路模型": "network model"
+    },
+    {
+        "神經氣": "neural gas"
+    },
+    {
+        "類神經模糊技術": "neuro-fuzzy technique"
+    },
+    {
+        "牛頓-寇茲公式": "Newton-Cotes formula"
+    },
+    {
+        "牛頓-拉福森迭代法": "Newton-Raphson iterative method"
+    },
+    {
+        "內曼平滑檢定": "Neyman smooth test"
+    },
+    {
+        "內曼-魯賓因果架構": "Neyman-Rubin causal framework"
+    },
+    {
+        "全面最佳策略不存在定理": "no free lunch theorem"
+    },
+    {
+        "單一個案交叉臨床試驗": "n-of-1 clinical trial"
+    },
+    {
+        "雜訊添加": "noise addition"
+    },
+    {
+        "名目變數": "nominal variable"
+    },
+    {
+        "非水相液體": "non-aqueous phase liquid"
+    },
+    {
+        "非中心卡分布": "non-central chi distribution"
+    },
+    {
+        "非中心分布": "noncentral distribution"
+    },
+    {
+        "非中心Dunnett檢定分布": "non-central Dunnett's test distribution"
+    },
+    {
+        "非中心超幾何分布": "noncentral hypergeometric distribution"
+    },
+    {
+        "非隔間分析 ": "noncompartmental analysis"
+    },
+    {
+        "無差異的量測誤差": "nondifferential measurement error"
+    },
+    {
+        "遺漏與未來相依的限制取消": "non-future missing values (NFMV)"
+    },
+    {
+        "非高斯時間數列": "non-Gaussian time series"
+    },
+    {
+        "非均齊卜瓦松過程": "non-homogeneous Poisson process"
+    },
+    {
+        "無識別反應": "non-identified response"
+    },
+    {
+        "非整數自由度": "non-integer degrees of freedom"
+    },
+    {
+        "非線性正準相關分析": "nonlinear canonical correlation analysis"
+    },
+    {
+        "非線性共整合自我迴歸分配落階模型": "nonlinear cointegrating autoregressive distributed lag model "
+    },
+    {
+        "非線性假設": "nonlinear hypothesis"
+    },
+    {
+        "非線性映射": "nonlinear mapping"
+    },
+    {
+        "非線性混合效應模型": "nonlinear mixed effects model"
+    },
+    {
+        "非線性主成分分析": "nonlinear PCA"
+    },
+    {
+        "非線性規劃": "nonlinear programming"
+    },
+    {
+        "非線性聯立方程式模型": "nonlinear simultaneous-equations model"
+    },
+    {
+        "非線性結構方程式混合模型": "nonlinear structural equation mixture model"
+    },
+    {
+        "非線性時間數列分析": "nonlinear time series analysis "
+    },
+    {
+        "非線性檢定": "nonlinearity test"
+    },
+    {
+        "不具局部值事前分布": "non-local prior"
+    },
+    {
+        "無瞞研究": "nonmasked study"
+    },
+    {
+        "非度量多維尺度化": "non-metric multidimensional scaling"
+    },
+    {
+        "非負參數推斷": "nonnegative garrotte"
+    },
+    {
+        "非巢式線性模型": "non-nested linear model"
+    },
+    {
+        "非巢式模型比較": "non-nested model comparison"
+    },
+    {
+        "非正交設計": "non-orthogonal design"
+    },
+    {
+        "非參數共變異數分析": "nonparametric ANCOVA "
+    },
+    {
+        "無母數自我迴歸": "nonparametric autoregression "
+    },
+    {
+        "非參數貝氏模型": "nonparametric Bayesian model"
+    },
+    {
+        "非參數因果中介分析": "nonparametric causal mediation analysis"
+    },
+    {
+        "非參數成本函數": "nonparametric cost function"
+    },
+    {
+        "非參數事件研究法": "nonparametric event study"
+    },
+    {
+        "非參數項目反應理論分析": "nonparametric IRT analysis"
+    },
+    {
+        "非參數項目反應理論": "nonparametric item-response theory"
+    },
+    {
+        "無母數連鎖分析": "non-parametric linkage analysis"
+    },
+    {
+        "非參數混合模型": "nonparametric mixture model"
+    },
+    {
+        "無母數蒙地卡羅檢定": "nonparametric Monte-Carlo test"
+    },
+    {
+        "非參數迴歸建模": "nonparametric regression modelling"
+    },
+    {
+        "非參數平滑弧線": "nonparametric smoothing spline"
+    },
+    {
+        "非關聯式資料庫": "non-relational database"
+    },
+    {
+        "非奇異子抽樣": "nonsingular subsampling"
+    },
+    {
+        "非穩定樹形高斯過程": "nonstationary treed Gaussian process"
+    },
+    {
+        "非剛性微分方程": "non-stiff differential equation"
+    },
+    {
+        "無觀察成效劑量": "no-observed-effect level"
+    },
+    {
+        "範數": "norm"
+    },
+    {
+        "常態線性狀態空間模型": "normal linear state space model"
+    },
+    {
+        "常態機率點圖": "normal probability plot"
+    },
+    {
+        "正常範圍": "normal range"
+    },
+    {
+        "常態-伽瑪(γ)事前分布": "normal-gamma prior"
+    },
+    {
+        "常態-廣義帕累托分布": "normal-generalized Pareto distribution"
+    },
+    {
+        "常態-逆Wishart分布": "normal-inverse Wishart distribution"
+    },
+    {
+        "常態化差異植被指數": "normalized difference vegetation index"
+    },
+    {
+        "常態-Wishart分布": "normal-Wishart distribution"
+    },
+    {
+        "新穎性偵測": "novelty detection"
+    },
+    {
+        "nQuery advisor統計軟體": "nQuery advisor"
+    },
+    {
+        "核磁共振": "nuclear magnetic resonance (NMR)"
+    },
+    {
+        "虛無假設下統計量的分布": "null distribution"
+    },
+    {
+        "零矩陣": "null matrix"
+    },
+    {
+        "零向量": "null vector"
+    },
+    {
+        "需要被治療的病人數": "number needed to treat"
+    },
+    {
+        "數字無感": "number numbness"
+    },
+    {
+        "分割數": "number of partitions"
+    },
+    {
+        "數值演算法集團": "Numerical Algorithm Group (NAG)"
+    },
+    {
+        "數值計算": "numerical computation"
+    },
+    {
+        "數值積分": "numerical integration"
+    },
+    {
+        "紐倫堡公約": "Nuremberg code"
+    },
+    {
+        "物件高速存取": "object caching"
+    },
+    {
+        "O'Brien-Fleming法": "O'Brien-Fleming method"
+    },
+    {
+        "O'Brien二樣本檢定": "O'Brien's two-sample tests"
+    },
+    {
+        "觀察值導向模型": "observation-driven model"
+    },
+    {
+        "觀察分數等化": "observed-score equating"
+    },
+    {
+        "Obuchowski及Rockette法": "Obuchowski and Rockette method"
+    },
+    {
+        "Occam視域；Occam視窗": "Occam's window"
+    },
+    {
+        "海洋資料": "oceanographic data"
+    },
+    {
+        "子代分布": "offspring distribution"
+    },
+    {
+        "Oja中位數": "Oja median"
+    },
+    {
+        "扶老比": "old-age dependency ratio"
+    },
+    {
+        "Olkin及Tate模型": "Olkin and Tate model"
+    },
+    {
+        "遺漏共變量": "omitted covariates"
+    },
+    {
+        "Omori法則": "Omori's law"
+    },
+    {
+        "單一法則機器學習分類演算法": "one rule machine learning classification algorithm"
+    },
+    {
+        "單步法": "one step method"
+    },
+    {
+        "一對多匹配法": "one:m (1:m) matching"
+    },
+    {
+        "單彎變換": "one-bend transformation"
+    },
+    {
+        "一維隨機漫步": "one-dimensional random walk"
+    },
+    {
+        "一值膨脹貝他(β)分布": "one-inflated beta distribution"
+    },
+    {
+        "一值膨脹分布": "one-inflated distribution"
+    },
+    {
+        "一值膨脹廣義貝他(β)分布": "one-inflated generalized beta distribution"
+    },
+    {
+        "一值膨脹帕累托分布": "one-inflated Pareto distribution"
+    },
+    {
+        "一值膨脹均勻分布": "one-inflated uniform distribution"
+    },
+    {
+        "一階段抽樣程序": "one-stage sampling procedure"
+    },
+    {
+        "單因子設計": "one-way design"
+    },
+    {
+        "線上調查": "online survey"
+    },
+    {
+        "開放資料庫連接性": "open database connectivity (ODBC)"
+    },
+    {
+        "開放式空間資訊聯盟": "Open Geospatial Consortium (OGC)"
+    },
+    {
+        "開放母體": "open population"
+    },
+    {
+        "開放原始碼": "open source"
+    },
+    {
+        "開放標籤試驗": "open-label trial"
+    },
+    {
+        "開放街圖": "OpenStreetMap"
+    },
+    {
+        "光學字元辨識": "optical character recognition (OCR)"
+    },
+    {
+        "光學": "optics"
+    },
+    {
+        "最佳集區設計": "optimal block design"
+    },
+    {
+        "最佳判別設計": "optimal discriminating design"
+    },
+    {
+        "最佳避險策略": "optimal hedging strategy"
+    },
+    {
+        "最佳列行設計": "optimal row-column design"
+    },
+    {
+        "最佳尺度化": "optimal scaling"
+    },
+    {
+        "最佳尺度化法": "optimal scaling method"
+    },
+    {
+        "最佳分片拉丁超立方體設計": "optimal sliced Latin hypercube design"
+    },
+    {
+        "最佳化法": "optimization method"
+    },
+    {
+        "最佳分散式梯度": "optimized distributed gradient"
+    },
+    {
+        "第三選項方案": "option-3 scheme"
+    },
+    {
+        "選擇權定價函數": "option-pricing function"
+    },
+    {
+        "順序資料": "ordered data"
+    },
+    {
+        "順序邏輯式迴歸；有序邏輯式迴歸": "ordered logistic regression"
+    },
+    {
+        "順序反應": "ordered response"
+    },
+    {
+        "排序圖": "ordering plot"
+    },
+    {
+        "順序因子模型": "ordinal factor model"
+    },
+    {
+        "順序邏輯式迴歸": "ordinal logistic regression"
+    },
+    {
+        "順序模型": "ordinal model"
+    },
+    {
+        "順序機率單位": "ordinal probit"
+    },
+    {
+        "順序變數": "ordinal variable"
+    },
+    {
+        "常微分方程": "ordinary differential equation (ODE)"
+    },
+    {
+        "普通Rasch模型": "ordinary Rasch model"
+    },
+    {
+        "排序法；降維分析法": "ordination method"
+    },
+    {
+        "位向分布函數": "orientation distribution function"
+    },
+    {
+        "起迄點資料": "origin-destination data"
+    },
+    {
+        "Ornstein-Uhlenbeck模型": "Ornstein-Uhlenbeck model"
+    },
+    {
+        "齒顎矯正資料": "orthodontic data"
+    },
+    {
+        "正交非線性最小平方迴歸": "orthogonal nonlinear least-squares regression"
+    },
+    {
+        "正交化Gnanadesikan-Kettenring成對估計量": "orthogonalized Gnanadesikan-Kettenring pairwise estimator"
+    },
+    {
+        "正交化成對共變異矩陣估計量": "orthogonalized pairwise covariance matrix estimator"
+    },
+    {
+        "正交正規對比": "orthonormal contrasts"
+    },
+    {
+        "結果變數": "outcome variable"
+    },
+    {
+        "結果相依抽樣": "outcome-dependent sampling"
+    },
+    {
+        "結果研究": "outcomes research"
+    },
+    {
+        "袋外估計值": "out-of-bag estimate"
+    },
+    {
+        "自付醫療保健": "out-of-pocket health payments"
+    },
+    {
+        "越界觀察值": "outside observation"
+    },
+    {
+        "整體存活": "overall survival"
+    },
+    {
+        "過度離散計數資料": "overdispersed count data"
+    },
+    {
+        "過度離散資料": "overdispersed data"
+    },
+    {
+        "過度離散次數資料": "overdispersed frequency data"
+    },
+    {
+        "過度認定模型": "overidentified model"
+    },
+    {
+        "過度匹配": "overmatching"
+    },
+    {
+        "過度參數化模型": "overparameterized model"
+    },
+    {
+        "重疊繪圖；遮蓋繪圖": "overplotting"
+    },
+    {
+        "自營作業者": "own-account worker"
+    },
+    {
+        "裴氏公式": "Paasche's formula"
+    },
+    {
+        "裴氏指數": "Paasche's index"
+    },
+    {
+        "可能近似正確-貝氏觀點": "PAC-Bayesian point of view"
+    },
+    {
+        "Padé逼近式": "Padé approximant"
+    },
+    {
+        "Page檢定": "Page's test"
+    },
+    {
+        "成對有效性設計": "paired availability design"
+    },
+    {
+        "成對柏努利資料": "paired Bernoulli data"
+    },
+    {
+        "偏好之配對比較模型": "paired comparison models for preferences"
+    },
+    {
+        "成對比較實驗": "paired comparisons experiment"
+    },
+    {
+        "成對樣本t檢定": "paired samples t-test"
+    },
+    {
+        "成對圖": "pairwise plot"
+    },
+    {
+        "古生物時間數列": "paleontological time series"
+    },
+    {
+        "古生物學": "paleontology"
+    },
+    {
+        "大流行；大流行的": "pandemic"
+    },
+    {
+        "追蹤平滑移轉自我迴歸模型": "panel smooth transition AR model"
+    },
+    {
+        "追蹤標準誤": "panel standard error"
+    },
+    {
+        "追蹤向量自我迴歸": "panel VAR"
+    },
+    {
+        "追蹤校正標準誤": "panel-corrected standard error"
+    },
+    {
+        "Papadakis分析": "Papadakis analysis"
+    },
+    {
+        "拋物線偏微分方程": "parabolic PDE"
+    },
+    {
+        "平行分析": "parallel analysis"
+    },
+    {
+        "平行計算": "parallel computation"
+    },
+    {
+        "平行計算": "parallel computing"
+    },
+    {
+        "平行設計": "parallel design"
+    },
+    {
+        "平行組設計": "parallel groups design"
+    },
+    {
+        "平行重要抽樣": "parallel importance sampling"
+    },
+    {
+        "平行處理": "parallel processing"
+    },
+    {
+        "平行劑量設計": "parallel-dose design"
+    },
+    {
+        "共變異分析之平行性": "parallelism in ANCOVA"
+    },
+    {
+        "平行估計": "parallelized estimation"
+    },
+    {
+        "平行蒙地卡羅模擬估計      ": "parallelized Monte Carlo simulation-estimation"
+    },
+    {
+        "參數設計": "parameter design"
+    },
+    {
+        "參數學習": "parameter learning"
+    },
+    {
+        "參數驅動模型": "parameter-driven model"
+    },
+    {
+        "參數因果中介分析": "parametric causal mediation analysis"
+    },
+    {
+        "參數事件研究法": "parametric event study"
+    },
+    {
+        "參數型連結函數": "parametric link function"
+    },
+    {
+        "參數連鎖分析": "parametric linkage analysis"
+    },
+    {
+        "參數方法": "parametric methods"
+    },
+    {
+        "參數混合模型": "parametric mixture model"
+    },
+    {
+        "參數迴歸弧線": "parametric regression spline"
+    },
+    {
+        "參數時間扭曲": "parametric time warping"
+    },
+    {
+        "帕累托圖": "Pareto plot"
+    },
+    {
+        "停車場檢定": "parking lot test"
+    },
+    {
+        "語法剖析樹": "parse tree"
+    },
+    {
+        "精簡原則": "parsimony principle"
+    },
+    {
+        "詞性標記": "part of speech tagging"
+    },
+    {
+        "部分共同主成分": "partial common principal components"
+    },
+    {
+        "偏相關圖": "partial correlation graph"
+    },
+    {
+        "部分相關趨勢檢定": "partial correlation trend test"
+    },
+    {
+        "部分得分模型": "partial credit model"
+    },
+    {
+        "偏微分方程": "partial differential equation (PDE)"
+    },
+    {
+        "部分Mann-Kendall趨勢檢定": "partial Mann-Kendall trend test"
+    },
+    {
+        "部分問卷設計": "partial questionnaire design"
+    },
+    {
+        "偏冗餘分析": "partial redundancy analysis"
+    },
+    {
+        "偏殘差圖": "partial residual (parres) plot"
+    },
+    {
+        "偏頻譜一貫性": "partial spectral coherence "
+    },
+    {
+        "部分限制對應分析": "partially constrained correspondence analysis"
+    },
+    {
+        "部分可觀測馬可夫過程": "partially observed Markov process (POMP)"
+    },
+    {
+        "粒子擴散模型": "particle diffusion model"
+    },
+    {
+        "粒子馬可夫鏈蒙地卡羅法": "particle MCMC"
+    },
+    {
+        "粒子群最佳化": "particle swarm optimization"
+    },
+    {
+        "分割式演算法": "partitioned algorithm"
+    },
+    {
+        "分割叢集法": "partitioning cluster method"
+    },
+    {
+        "伴侶研究": "partner studies"
+    },
+    {
+        "巴斯卡三角形": "Pascal's triangle"
+    },
+    {
+        "乘客變數": "passenger variable"
+    },
+    {
+        "牧場試驗": "pasture trial"
+    },
+    {
+        "區域學習": "patch learning"
+    },
+    {
+        "路徑長度樹": "path length tree"
+    },
+    {
+        "路徑富集分析": "pathway enrichment analysis"
+    },
+    {
+        "患者規則歸納法": "patient rule induction method"
+    },
+    {
+        "型態混合模型": "pattern mixture model"
+    },
+    {
+        "型態序列": "pattern sequence"
+    },
+    {
+        "基於型態序列預測法": "pattern sequence based forecasting"
+    },
+    {
+        "型態混合分解": "pattern-mixture factorization"
+    },
+    {
+        "超門檻峰值法": "peak over threshold approach"
+    },
+    {
+        "皮爾遜分布": "Pearson distribution"
+    },
+    {
+        "皮爾遜獨立成分分析演算法": "Pearson ICA algorithm"
+    },
+    {
+        "皮爾遜乘積動差相關係數": "Pearson's product moment correlation coefficient"
+    },
+    {
+        "皮爾遜殘差": "Pearson's residual"
+    },
+    {
+        "皮爾遜第六型分布": "Pearson's Type VI distribution"
+    },
+    {
+        "譜系組態": "pedigree configuration"
+    },
+    {
+        "剝皮法；凸包截斷法": "peeling"
+    },
+    {
+        "懲罰B弧線": "penalized B-spline"
+    },
+    {
+        "懲罰邏輯式迴歸": "penalized logistic regression"
+    },
+    {
+        "懲罰最大概度估計": "penalized maximum likelihood estimation"
+    },
+    {
+        "懲罰偏最小平方": "penalized PLS"
+    },
+    {
+        "外顯函數": "penetrance function"
+    },
+    {
+        "五數平均": "pentamean"
+    },
+    {
+        "倒數第二近似": "penultimate approximation"
+    },
+    {
+        "國民生活指標": "people's life indicator (PLI)"
+    },
+    {
+        "每人營養供給量": "per capita nutrition supply"
+    },
+    {
+        "汙水處理率": "percentage of population served by wastewater treatment plants"
+    },
+    {
+        "百分位數-百分位數點圖": "percentile-percentile plot"
+    },
+    {
+        "感知器": "perceptron"
+    },
+    {
+        "單一比較誤差率": "per-comparison error rate"
+    },
+    {
+        "單一實驗誤差率": "per-experiment error rate"
+    },
+    {
+        "性能指數": "performance index"
+    },
+    {
+        "績效指標": "performance indicator"
+    },
+    {
+        "期間盛行率": "period prevalence"
+    },
+    {
+        "週期性自我迴歸時間數列模型": "periodic autoregressive time series model"
+    },
+    {
+        "定期調查": "periodic survey"
+    },
+    {
+        "週期性時間數列分析": "periodic time series analysis"
+    },
+    {
+        "週期性相關": "periodical correlation"
+    },
+    {
+        "週期性相關多變量時間數列": "periodically correlated multivariate time series "
+    },
+    {
+        "週期性整合時間數列": "periodically integrated time series "
+    },
+    {
+        "排列分布叢集法": "permutation distribution clustering"
+    },
+    {
+        "排列集區配置": "permuted block allocation"
+    },
+    {
+        "永續年金": "perpetuity"
+    },
+    {
+        "Perron-Frobenius定理": "Perron-Frobenius theorem"
+    },
+    {
+        "人參數": "person parameter"
+    },
+    {
+        "人項目圖": "person-item map"
+    },
+    {
+        "人時發生率": "person-time incidence rate"
+    },
+    {
+        "風險人年": "person-years at risk"
+    },
+    {
+        "透視圖": "perspective plot"
+    },
+    {
+        "Persson-Rootzén估計量": "Persson-Rootzén estimator"
+    },
+    {
+        "計畫評核術分布": "PERT distribution"
+    },
+    {
+        "擾動理論": "perturbation theory"
+    },
+    {
+        "彼得斯堡詭論；彼得斯堡賽局": "Petersburg game"
+    },
+    {
+        "Petersen估計量": "Petersen estimator"
+    },
+    {
+        "Peto-Prentice檢定": "Peto-Prentice test"
+    },
+    {
+        "Pettitt檢定": "Pettitt's test "
+    },
+    {
+        "p值操縱": "p-hacking"
+    },
+    {
+        "藥效學": "pharmacodynamics (PD)"
+    },
+    {
+        "藥物動力學；藥動學": "pharmacokinetics (PK)"
+    },
+    {
+        "藥理學工具": "pharmacometric tool"
+    },
+    {
+        "第一期劑量尋找臨床試驗": "phase I "
+    },
+    {
+        "相位分離": "phase separation"
+    },
+    {
+        "相位型分布": "phase type distribution"
+    },
+    {
+        "表現型選擇": "phenotypic assortment"
+    },
+    {
+        "表現型資料": "phenotypic data"
+    },
+    {
+        "菲利普斯曲線": "Phillips curve"
+    },
+    {
+        "語音演算法": "phonetic algorithm"
+    },
+    {
+        "光度測定法": "photometry"
+    },
+    {
+        "譜系分析": "phylogenetic analysis"
+    },
+    {
+        "譜系比較分析": "phylogenetic comparative analysis"
+    },
+    {
+        "譜系共變異數分析": "phylogenetic covariance analysis"
+    },
+    {
+        "譜系網絡": "phylogenetic network"
+    },
+    {
+        "譜系樹": "phylogenetic tree"
+    },
+    {
+        "譜系學": "phylogenetics"
+    },
+    {
+        "譜系學": "phylogeny"
+    },
+    {
+        "PHYLIP基因序列格式": "PHYLogeny Inference Package (PHYLIP) format "
+    },
+    {
+        "親緣地理學": "phylogeography"
+    },
+    {
+        "逐段線性模型": "piecewise linear model"
+    },
+    {
+        "Pillai-Bartlett跡": "Pillai-Bartlett trace"
+    },
+    {
+        "Piper水質圖": "Piper diagram"
+    },
+    {
+        "Pitman漂移": "Pitman drift"
+    },
+    {
+        "Pitman-Yor過程": "Pitman-Yor process"
+    },
+    {
+        "關鍵變數": "pivotal variable"
+    },
+    {
+        "安慰劑反應者": "placebo reactor"
+    },
+    {
+        "普萊克特-伯曼設計": "Plackett-Burman designs"
+    },
+    {
+        "普朗克分布": "Planck distribution"
+    },
+    {
+        "計畫比較": "planned comparisons"
+    },
+    {
+        "PEST統計軟體": "Planning and Evaluation of Sequential Trials (PEST)"
+    },
+    {
+        "與平台無關": "platform-independence"
+    },
+    {
+        "低闊峰曲線": "platykurtic curve"
+    },
+    {
+        "PLINK軟體": "PLINK"
+    },
+    {
+        "散點樹形圖": "plot dendrogram"
+    },
+    {
+        "部分最小平方判別分析路徑建模": "PLS discriminant analysis path modeling"
+    },
+    {
+        "部分最小平方估計": "PLS estimation"
+    },
+    {
+        "部分最小平方路徑建模": "PLS path modeling"
+    },
+    {
+        "部分最小平方迴歸": "PLS regression"
+    },
+    {
+        "部分最小平方結構方程式建模": "PLS structural equation modeling"
+    },
+    {
+        "部分最小平方基因體分析": "PLS-based genomic analysis"
+    },
+    {
+        "代入演算法": "plug-in algorithm "
+    },
+    {
+        "代入原則": "plug-in principle"
+    },
+    {
+        "時點盛行率": "point prevalence"
+    },
+    {
+        "點過程資料": "point process data"
+    },
+    {
+        "點計分法": "point scoring"
+    },
+    {
+        "具參考點資料": "point-referenced data"
+    },
+    {
+        "卜瓦松混合分布": "Poisson mixture distribution"
+    },
+    {
+        "卜瓦松模型": "Poisson model"
+    },
+    {
+        "卜瓦松點過程": "Poisson point process"
+    },
+    {
+        "卜瓦松迴歸": "Poisson regression"
+    },
+    {
+        "卜瓦松停止和分布": "Poisson stopped-sum distribution"
+    },
+    {
+        "卜瓦松從屬分布": "Poisson subordinated distribution"
+    },
+    {
+        "卜瓦松-林德利分布": "Poisson-Lindley distribution"
+    },
+    {
+        "卜瓦松-對數常態分布": "Poisson-lognormal distribution"
+    },
+    {
+        "卜瓦松近似": "Poisson's approximation"
+    },
+    {
+        "卜瓦松-推迪分布": "Poisson-Tweedie distribution"
+    },
+    {
+        "撲克檢定": "poker tests"
+    },
+    {
+        "極坐標網格": "polar grid"
+    },
+    {
+        "極坐標圖": "polar plot"
+    },
+    {
+        "拋光法": "polishing"
+    },
+    {
+        "多項及多序列相關": "polychoric and polyserial correlations"
+    },
+    {
+        "多重調和弧線": "polyharmonic spline"
+    },
+    {
+        "多項式分配落階模型": "polynomial distributed lag model"
+    },
+    {
+        "多項式-三角函數迴歸": "polynomial-trigonometric regression"
+    },
+    {
+        "多序列相關": "polyserial correlation"
+    },
+    {
+        "時間數列多頻譜": "polyspectra of time series "
+    },
+    {
+        "多元資料": "polytomous data"
+    },
+    {
+        "多元變數": "polytomous variable"
+    },
+    {
+        "多元變數潛在組群分析": "polytomous variable latent class analysis"
+    },
+    {
+        "多分支": "polytomy"
+    },
+    {
+        "聚合韋伯分布": "poly-Weibull distribution"
+    },
+    {
+        "合併違反相連單調性算法": "pool-adjacent-violators algorithm (PAVA)"
+    },
+    {
+        "合併抽樣": "pooled sampling"
+    },
+    {
+        "合併模型": "pooling model"
+    },
+    {
+        "人口平衡方程式": "population balance equation"
+    },
+    {
+        "人口組成": "population composition"
+    },
+    {
+        "族群遺傳分析": "population genetic analysis "
+    },
+    {
+        "人口推估矩陣": "population projection matrix"
+    },
+    {
+        "人口金字塔": "population pyramid"
+    },
+    {
+        "母體加權調整": "population weighting adjustment"
+    },
+    {
+        "族群研究": "population-based study"
+    },
+    {
+        "分析可攜格式": "portable format for analytics"
+    },
+    {
+        "投資組合": "portfolio"
+    },
+    {
+        "投資組合配置": "portfolio allocation"
+    },
+    {
+        "投資組合最佳化": "portfolio optimization"
+    },
+    {
+        "投資組合績效": "portfolio performance"
+    },
+    {
+        "投資組合風險": "portfolio risk"
+    },
+    {
+        "基於投資組合的假設": "portfolio-based hypothesis"
+    },
+    {
+        "便利的檢定": "portmanteau test"
+    },
+    {
+        "正卜瓦松分布": "positive Poisson distribution"
+    },
+    {
+        "正協同作用": "positive synergism"
+    },
+    {
+        "正子斷層造影": "positron emission tomography (PET)"
+    },
+    {
+        "事後預測檢核": "posterior predictive check"
+    },
+    {
+        "事後預測分布": "posterior predictive distribution"
+    },
+    {
+        "可能蒸發散量": "potential evapotranspiration"
+    },
+    {
+        "Potthoff及Whitlinghill檢定": "Potthoff and Whitlinghill's test"
+    },
+    {
+        "冪錐最佳化": "power cone optimization"
+    },
+    {
+        "乘冪分布": "power distribution"
+    },
+    {
+        "乘冪發散統計量": "power divergence statistic"
+    },
+    {
+        "乘冪指數分布": "power exponential distribution"
+    },
+    {
+        "乘冪律分布": "power law distribution"
+    },
+    {
+        "乘冪律過程": "power law process"
+    },
+    {
+        "影響度": "power of dispersion"
+    },
+    {
+        "乘冪轉換函數": "power transfer function"
+    },
+    {
+        "乘冪變異數函數卜瓦松分布": "power variance function Poisson distribution"
+    },
+    {
+        "實用式分析": "pragmatic analysis"
+    },
+    {
+        "精確度-召回率圖": "precision-recall plot"
+    },
+    {
+        "預測殘差平方和統計量": "predicted residual error sum of squares (PRESS) statistic"
+    },
+    {
+        "預測帶": "prediction band"
+    },
+    {
+        "預測誤差曲線": "prediction error curve"
+    },
+    {
+        "預測誤差": "prediction errors"
+    },
+    {
+        "預測性分析": "predictive analytics"
+    },
+    {
+        "預測近值匹配 ": "predictive mean matching"
+    },
+    {
+        "預測模型標記語言": "predictive model markup language (PMML)"
+    },
+    {
+        "偏好模型": "preference model"
+    },
+    {
+        "Prentice準則": "Prentice criterion"
+    },
+    {
+        "指示性分析；建議性分析": "prescriptive analytics"
+    },
+    {
+        "出現與否地圖": "presence-absence map"
+    },
+    {
+        "Preston點圖": "Preston plot"
+    },
+    {
+        "可預防率": "prevented fraction"
+    },
+    {
+        "退出模型前量測值及現量測值": "previous and current measurements of dropout model"
+    },
+    {
+        "Prevosti距離": "Prevosti's distance"
+    },
+    {
+        "本益比": "price-earnings (P/E) ratio"
+    },
+    {
+        "定價函數": "pricing function"
+    },
+    {
+        "主要評估指標": "primary  endpoint"
+    },
+    {
+        "主成分降維": "principal component dimensional reduction "
+    },
+    {
+        "主曲線": "principal curve"
+    },
+    {
+        "主因子分析": "principal factor analysis"
+    },
+    {
+        "主振幅型態分析": "principal oscillation pattern analysis"
+    },
+    {
+        "主點": "principal points"
+    },
+    {
+        "主張量分析": "principal tensor analysis"
+    },
+    {
+        "主波動成分分析": "principal volatility component analysis "
+    },
+    {
+        "Fellegi及Holt原則": "principle of Fellegi and Holt"
+    },
+    {
+        "近乎忽略事前訊息的狄利西雷過程": "prior near-ignorant Dirichlet process"
+    },
+    {
+        "事前預測分布": "prior predictive distribution"
+    },
+    {
+        "機率距離量數": "probabilistic distance measure"
+    },
+    {
+        "機率專家系統": "probabilistic expert system"
+    },
+    {
+        "機率型預測": "probabilistic forecast"
+    },
+    {
+        "整體機率預測": "probabilistic forecast of ensemble"
+    },
+    {
+        "機率知識結構": "probabilistic knowledge structure"
+    },
+    {
+        "機率匹配": "probabilistic matching"
+    },
+    {
+        "機率模型": "probabilistic model"
+    },
+    {
+        "機率紀錄聯結": "probabilistic record linkage"
+    },
+    {
+        "機率尾綴樹": "probabilistic suffix tree"
+    },
+    {
+        "機率直方圖": "probability histogram"
+    },
+    {
+        "機率判斷": "probability judgement"
+    },
+    {
+        "違約機率": "probability of default"
+    },
+    {
+        "內線交易機率": "probability of informed trading"
+    },
+    {
+        "機率傳播": "probability propagation"
+    },
+    {
+        "機率加權動差": "probability weighted moment"
+    },
+    {
+        "機率加權": "probability weighting"
+    },
+    {
+        "時點反應機率函數": "probability-of-being-in-response function"
+    },
+    {
+        "可能近似正確": "probably approximately correct (PAC)"
+    },
+    {
+        "製程能力指數": "process capability index"
+    },
+    {
+        "Procrustes分析": "Procrustes analysis"
+    },
+    {
+        "Procrustes旋轉": "Procrustes rotation"
+    },
+    {
+        "分割後乘積模型": "product partition model"
+    },
+    {
+        "有生產力的老化": "productive aging"
+    },
+    {
+        "國民經濟會計帳生產面": "productive aspect of the national accounts"
+    },
+    {
+        "多變量資料剖面分析": "profile analysis of multivariate data"
+    },
+    {
+        "剖面監測": "profile monitoring"
+    },
+    {
+        "剖面圖": "profile plot"
+    },
+    {
+        "剖面迴歸": "profile regression"
+    },
+    {
+        "剖面t圖": "profile t plot"
+    },
+    {
+        "預後存活模型": "prognostic survival model"
+    },
+    {
+        "計畫評核術": "program evaluation and review technique (PERT)"
+    },
+    {
+        "程式設計；規劃": "programming"
+    },
+    {
+        "無惡化存活": "progression-free survival"
+    },
+    {
+        "累進疾病死亡模型": "progressive illness-death model"
+    },
+    {
+        "增加型人口": "progressive type of population"
+    },
+    {
+        "逐步第一型設限樣本": "progressively type I censored sample"
+    },
+    {
+        "逐步第二型設限樣本": "progressively type II censored sample"
+    },
+    {
+        "逐步第二型設限": "progressively type II censoring"
+    },
+    {
+        "投影圖": "projection plot"
+    },
+    {
+        "促長時間治癒模型": "promotion time cure model"
+    },
+    {
+        "促銷建模": "promotional modelling "
+    },
+    {
+        "概念驗證試驗": "proof of concept trials"
+    },
+    {
+        "傳播分離法": "propagation-separation approach"
+    },
+    {
+        "傾向分數及匹配": "propensity scores and matching"
+    },
+    {
+        "比例超額風險模型": "proportional excess hazards model"
+    },
+    {
+        "比例風險混合治癒模型": "proportional hazards mixture cure model"
+    },
+    {
+        "成比例死亡比": "proportional mortality ratio"
+    },
+    {
+        "比例勝算迴歸": "proportional odds regression"
+    },
+    {
+        "比例死亡比": "proportionate mortality ratio (PMR)"
+    },
+    {
+        "提議分布": "proposal distribution"
+    },
+    {
+        "專用資料": "proprietary data"
+    },
+    {
+        "蛋白質體資料": "proteomics data"
+    },
+    {
+        "原發性偏誤": "protopathic bias"
+    },
+    {
+        "剪枝演算法": "pruning algorithm"
+    },
+    {
+        "修剪": "pruning "
+    },
+    {
+        "擬R²；擬判定係數": "pseudo R²"
+    },
+    {
+        "擬概度估計": "pseudo-likelihood estimation"
+    },
+    {
+        "擬觀察值": "pseudo-observation"
+    },
+    {
+        "擬秩函數": "pseudo-rank function"
+    },
+    {
+        "計量心理混合模型": "psychometric mixture model"
+    },
+    {
+        "心理物理資料": "psychophysical data"
+    },
+    {
+        "金字塔": "pyramids"
+    },
+    {
+        "q指數分布": "q-exponential distribution"
+    },
+    {
+        "矩陣的QR分解": "QR decomposition"
+    },
+    {
+        "象限計數比": "quadrant count ratio"
+    },
+    {
+        "象限抽樣": "quadrant sampling"
+    },
+    {
+        "方區抽樣": "quadrat sampling"
+    },
+    {
+        "二次指派問題": "quadratic assignment problem"
+    },
+    {
+        "二次判別分析": "quadratic discriminant analysis"
+    },
+    {
+        "二次指數族分布": "quadratic exponential family distributions"
+    },
+    {
+        "二次函數": "quadratic function"
+    },
+    {
+        "求積分; 求面積": "quadrature"
+    },
+    {
+        "二次邊緣摺疊減退法": "quadric edge collapse decimation"
+    },
+    {
+        "品質管制角度圖": "quality control angle (Quangle) chart"
+    },
+    {
+        "品質管制程序": "quality control procedure"
+    },
+    {
+        "品質門檻叢集法": "quality threshold (QT) clustering"
+    },
+    {
+        "定量；二元": "quantal"
+    },
+    {
+        "二元變數": "quantal variable"
+    },
+    {
+        "分位數預測": "quantile forecast"
+    },
+    {
+        "分位數模型": "quantile model"
+    },
+    {
+        "分位殘差檢定": "quantile residual test"
+    },
+    {
+        "分位數計分": "quantile score"
+    },
+    {
+        "分位數遞移迴歸模型": "quantile transition regression model"
+    },
+    {
+        "定量風險管理": "quantitative risk management (QRM)"
+    },
+    {
+        "數量性狀基因座設計": "quantitative trait locus (QTL) design"
+    },
+    {
+        "數量性狀基因座熱點": "quantitative trait locus (QTL) hotspots"
+    },
+    {
+        "數量性狀基因座定位": "quantitative trait locus (QTL) mapping"
+    },
+    {
+        "準自由度": "quasi-degrees of freedom"
+    },
+    {
+        "準離差函數": "quasi-deviance function"
+    },
+    {
+        "準最大概度估計量": "quasi-MLE"
+    },
+    {
+        "準週期時間數列": "quasi-periodic time series"
+    },
+    {
+        "q值": "q-value"
+    },
+    {
+        "矩陣的QZ分解": "QZ decomposition"
+    },
+    {
+        "徑向圖": "radial  plot"
+    },
+    {
+        "徑向基底": "radial basis"
+    },
+    {
+        "無線電遙測術": "radio telemetry"
+    },
+    {
+        "輻射校正": "radiometric correction"
+    },
+    {
+        "無線電探空量測": "radiosonde measurement"
+    },
+    {
+        "Raftery及Lewis診斷": "Raftery and Lewis diagnostic"
+    },
+    {
+        "雨量逕流模型": "rainfall-runoff model"
+    },
+    {
+        "雨林圖": "rainforest plot"
+    },
+    {
+        "隨機叢集生成法": "random cluster generation"
+    },
+    {
+        "隨機係數追蹤模型": "random coefficient panel model"
+    },
+    {
+        "隨機係數型態混合模型": "random coefficient pattern-mixture model"
+    },
+    {
+        "隨機效應潛在組群分析": "random effects latent class analysis"
+    },
+    {
+        "隨機森林插補": "random forest imputation"
+    },
+    {
+        "隨機融合模型": "random fusion model"
+    },
+    {
+        "隨機圖": "random graph"
+    },
+    {
+        "隨機跳動": "random jump"
+    },
+    {
+        "隨機投影法": "random projection method "
+    },
+    {
+        "隨機存活森林": "random survival forest (RSF)"
+    },
+    {
+        "隨機漫步Metropolis鏈": "random walk Metropolis chain"
+    },
+    {
+        "隨機化演算法": "randomized algorithm"
+    },
+    {
+        "隨機化對照試驗": "randomized controlled trial"
+    },
+    {
+        "豐富度排序圖": "ranked abundance diagram"
+    },
+    {
+        "饒歐-斯特林多樣化指數": "Rao-Stirling diversity index"
+    },
+    {
+        "Rasch抽樣法": "Rasch sampler"
+    },
+    {
+        "柵格資料": "raster data"
+    },
+    {
+        "柵格時間數列資料": "raster time series data "
+    },
+    {
+        "柵格計數": "rastered-based count"
+    },
+    {
+        "收斂速率": "rate of convergence"
+    },
+    {
+        "報酬率": "rate of return"
+    },
+    {
+        "評定量表模型": "rating scale model"
+    },
+    {
+        "均勻分布比法": "ratio-of-uniforms method"
+    },
+    {
+        "原始最大概度": "raw maximum likelihood"
+    },
+    {
+        "反應網路": "reaction network"
+    },
+    {
+        "反應傳輸方程": "reactive transport equation"
+    },
+    {
+        "反應傳輸模型": "reactive transport model"
+    },
+    {
+        "實質選擇權": "real option"
+    },
+    {
+        "接收器操作特徵最佳化": "receiver operating characteristic (ROC) optimization"
+    },
+    {
+        "基因重組近親系": "recombinant inbred line"
+    },
+    {
+        "基因重組近親系": "recombinant inbred strain"
+    },
+    {
+        "重現定量分析": "recurrence quantification analysis"
+    },
+    {
+        "重現事件間隙時間": "recurrent event gap time"
+    },
+    {
+        "遞迴分割": "recursive partition"
+    },
+    {
+        "遞迴分割混合模型": "recursively partitioned mixture model"
+    },
+    {
+        "重降序M型估計量": "redescending M-estimator"
+    },
+    {
+        "重降序計分函數": "redescending score function"
+    },
+    {
+        "簡縮再參數化統一模型": "reduced reparameterized unified model"
+    },
+    {
+        "冗餘分析 ": "redundancy analysis"
+    },
+    {
+        "冗餘分解分析": "redundancy factoring analysis"
+    },
+    {
+        "基準循環數列": "reference cycle series"
+    },
+    {
+        "景氣循環基準日期": "reference date of business cycle"
+    },
+    {
+        "感興趣區域": "region of interest (ROI)"
+    },
+    {
+        "區域頻率分析": "regional frequency analysis"
+    },
+    {
+        "迴歸插補": "regression based imputation"
+    },
+    {
+        "迴歸模型": "regression model"
+    },
+    {
+        "順序資料迴歸模型": "regression model for ordinal data"
+    },
+    {
+        "減少型人口": "regressive type of population"
+    },
+    {
+        "正則化貪婪森林": "regularized greedy forest"
+    },
+    {
+        "正則化逆共變異數矩陣估計": "regularized inverse covariance matrix estimation"
+    },
+    {
+        "正則化迴歸法": "regularized regression method"
+    },
+    {
+        "正則化稀疏逆共變異數矩陣估計": "regularized sparse inverse covariance matrix estimation"
+    },
+    {
+        "強化學習": "reinforcement learning"
+    },
+    {
+        "無復發存活": "relapse-free survival"
+    },
+    {
+        "關聯式資料庫": "relational database"
+    },
+    {
+        "相對病例致死比": "relative case fatality ratio"
+    },
+    {
+        "相對風險迴歸": "relative risk regression"
+    },
+    {
+        "相對存活比曲線": "relative survival curve"
+    },
+    {
+        "相對存活比模型": "relative survival model"
+    },
+    {
+        "鬆弛最小絕對緊縮與選擇算子": "relaxed lasso"
+    },
+    {
+        "特徵快選演算法": "Relief algorithm"
+    },
+    {
+        "循特徵快選方法": "Relief-based feature selection method"
+    },
+    {
+        "移除抽樣": "removal sampling"
+    },
+    {
+        "Rényi移轉熵": "Rényi transfer entropy "
+    },
+    {
+        "再參數化及邊際化事後抽樣": "reparameterized and marginalized posterior sampling"
+    },
+    {
+        "重複測量": "repeated measurements"
+    },
+    {
+        "重複顯著性檢定": "repeated significance testing"
+    },
+    {
+        "反覆中位數迴歸": "repeated-median regression "
+    },
+    {
+        "可複製性分析": "replicability analysis"
+    },
+    {
+        "重抽樣檢定": "resampling-based test"
+    },
+    {
+        "重塑資料": "reshaping data"
+    },
+    {
+        "駐留時間": "residence time"
+    },
+    {
+        "殘差網路模型": "residual network model (RNM)"
+    },
+    {
+        "殘差標準差": "residual standard deviation"
+    },
+    {
+        "彈性": "resilience"
+    },
+    {
+        "反應機率函數": "response probability function"
+    },
+    {
+        "反應時間模型": "response time model"
+    },
+    {
+        "重新分期資料": "restaging data"
+    },
+    {
+        "限制平均存活時間": "restricted mean survival time"
+    },
+    {
+        "受制最大概度估計量": "restricted MLE"
+    },
+    {
+        "重試等候佇列": "retrial queue"
+    },
+    {
+        "逆Gumbel分布": "reverse Gumbel distribution"
+    },
+    {
+        "Richardson外插法": "Richardson's extrapolation"
+    },
+    {
+        "右設限資料": "right censored data"
+    },
+    {
+        "右設限線性迴歸模型": "right censored linear regression model"
+    },
+    {
+        "Ripley統計量": "Ripley's statistic"
+    },
+    {
+        "風險評估": "risk assessment"
+    },
+    {
+        "風險管理": "risk management"
+    },
+    {
+        "風險計分插補": "risk score imputation"
+    },
+    {
+        "風險資本": "risk-based capital (RBC)"
+    },
+    {
+        "風險基礎投資組合": "risk-based portfolio"
+    },
+    {
+        "風險中立密度": "risk-neutral density"
+    },
+    {
+        "風險平價投資組合": "risk-parity portfolio"
+    },
+    {
+        "風險集合抽樣": "risk-set sampling"
+    },
+    {
+        "穩健共變異數估計": "robust covariance estimation"
+    },
+    {
+        "穩健指數平滑": "robust exponential smoothing"
+    },
+    {
+        "穩健線性模型": "robust linear model"
+    },
+    {
+        "穩健邏輯式迴歸": "robust logistic regression"
+    },
+    {
+        "穩健多變量分析": "robust multivariate analysis"
+    },
+    {
+        "穩健主成分分析": "robust PCA"
+    },
+    {
+        "穩健主成分": "robust principal components"
+    },
+    {
+        "穩健準離差函數": "robust quasi-deviance function"
+    },
+    {
+        "穩健秩順序分布檢定": "robust rank-order distributional test"
+    },
+    {
+        "穩健標準誤": "robust standard error"
+    },
+    {
+        "穩健結構方程式模型": "robust structural equation model"
+    },
+    {
+        "穩健加權最小平方": "robust  weighted least squares (RWLS)"
+    },
+    {
+        "移動視域函數": "rolling window function"
+    },
+    {
+        "根節點機率": "root probabilities"
+    },
+    {
+        "粗集合論": "rough set theory"
+    },
+    {
+        "路徑分析": "route analysis"
+    },
+    {
+        "橡皮伸縮法": "rubber sheeting"
+    },
+    {
+        "魯賓規則": "Rubin's rule"
+    },
+    {
+        "規則；法規": "rule"
+    },
+    {
+        "循規則建模": "rule-based modeling"
+    },
+    {
+        "循規則迴歸建模": "rule-based regression modeling"
+    },
+    {
+        "跳視": "saccade"
+    },
+    {
+        "Sampford抽樣": "Sampford sampling"
+    },
+    {
+        "樣本熵": "sample entropy "
+    },
+    {
+        "樣本數決定": "sample size determination"
+    },
+    {
+        "屬量抽樣": "sampling for variables"
+    },
+    {
+        "衛星追蹤資料": "satellite tracking data"
+    },
+    {
+        "Satorra-Bentler校正": "Satorra-Bentler correction"
+    },
+    {
+        "飽和水氣壓": "saturation vapor pressure"
+    },
+    {
+        "Savitzky-Golay濾波器": "Savitzky-Golay filter"
+    },
+    {
+        "Savitzky-Golay變換": "Savitzky-Golay transform"
+    },
+    {
+        "可擴充資料": "scalable data"
+    },
+    {
+        "純量成分模型": "scalar component model (SCM)"
+    },
+    {
+        "尺度化逆卡方分布": "scaled inverse chi-squared distribution"
+    },
+    {
+        "小波量值圖": "scalogram "
+    },
+    {
+        "散射近似": "scattering approximation"
+    },
+    {
+        "情境基礎模擬法": "scenario-based simulation approach"
+    },
+    {
+        "Schur分解": "Schur decomposition"
+    },
+    {
+        "計分函數": "score function"
+    },
+    {
+        "計分過程": "score process"
+    },
+    {
+        "抓取網頁內容": "scraped webpage content"
+    },
+    {
+        "無縫設計": "seamless design"
+    },
+    {
+        "時間數列依季節及行事曆調整": "seasonal- and calendar-adjustment of time series"
+    },
+    {
+        "季節成分": "seasonal components"
+    },
+    {
+        "時間數列季節性分解": "seasonal decomposition of time series"
+    },
+    {
+        "季節虛擬變數": "seasonal dummy variables "
+    },
+    {
+        "季節穩定性檢定": "seasonal stability test "
+    },
+    {
+        "季節單根檢定": "seasonal unit roots test"
+    },
+    {
+        "季節調整後對上季增率": "seasonally adjusted quarterly growth rate (saqr)"
+    },
+    {
+        "季節性-趨勢分解": "seasonal-trend decomposition"
+    },
+    {
+        "二階偏誤項": "second order bias term"
+    },
+    {
+        "次要評估指標": "secondary endpoint"
+    },
+    {
+        "二階錐程式": "second-order cone program"
+    },
+    {
+        "第二階段單位": "second-stage unit"
+    },
+    {
+        "確定收斂演算法": "secure convergence algorithm"
+    },
+    {
+        "自激點過程": "self-exciting point process"
+    },
+    {
+        "自組織遷移演算法": "self-organising migrating algorithm"
+    },
+    {
+        "自組織映像": "self-organizing map (SOM)"
+    },
+    {
+        "自身調諧頻譜叢集法": "self-tuning spectral clustering"
+    },
+    {
+        "半競爭風險": "semi-competing risks"
+    },
+    {
+        "半定規劃": "semidefinite programming"
+    },
+    {
+        "半正交矩陣": "semi-orthogonal matrix"
+    },
+    {
+        "半參數插捕程序": "semiparametric imputation procedure"
+    },
+    {
+        "半參數隨機邊界分析": "semiparametric stochastic frontier analysis"
+    },
+    {
+        "半參數變換模型": "semiparametric transformation model"
+    },
+    {
+        "半強勢效率市場假說": "semi-strong form efficient market hypothesis"
+    },
+    {
+        "半結構化資料": "semi-structured data"
+    },
+    {
+        "感官資料分析": "sensory data analysis"
+    },
+    {
+        "可分離非線性模型": "separable nonlinear models"
+    },
+    {
+        "基因序列排比": "sequence alignment"
+    },
+    {
+        "基因序列資料": "sequence data "
+    },
+    {
+        "連續尖峰分析": "sequent peak analysis"
+    },
+    {
+        "逐次蒙地卡羅法": "sequential Monte Carlo method"
+    },
+    {
+        "逐次最佳設計": "sequential optimal design"
+    },
+    {
+        "逐次型態探勘": "sequential pattern mining"
+    },
+    {
+        "逐次機率分布": "sequential probability distribution"
+    },
+    {
+        "序列相關圖": "serial dependence diagram"
+    },
+    {
+        "S型估計量": "S-estimator"
+    },
+    {
+        "Shannon轉換熵": "Shannon transfer entropy "
+    },
+    {
+        "形狀受制可加性風險模型": "shape-restricted additive hazards model"
+    },
+    {
+        "共用參數模型": "shared-parameter model"
+    },
+    {
+        "夏普比率": "Sharpe ratio"
+    },
+    {
+        "移位指數分布": "shifted exponential distribution"
+    },
+    {
+        "交替Gompertz分布": "shifted Gompertz distribution"
+    },
+    {
+        "移位截略帕累托分布": "shifted truncated Pareto distribution"
+    },
+    {
+        "短期傅立葉變換": "short time Fourier transform"
+    },
+    {
+        "最短路徑計算": "shortest path computation"
+    },
+    {
+        "收縮估計": "shrinkage estimation"
+    },
+    {
+        "收縮法": "shrinkage method"
+    },
+    {
+        "Sichel分布": "Sichel distribution"
+    },
+    {
+        "副作用": "side effect"
+    },
+    {
+        "並排盒形圖": "side-by-side boxplots"
+    },
+    {
+        "訊號處理": "signal processing"
+    },
+    {
+        "相似性分析": "similarity analysis"
+    },
+    {
+        "相似性量數": "similarity measure"
+    },
+    {
+        "Simon二階段設計": "Simon's two-stage design"
+    },
+    {
+        "簡單對應分析": "simple correspondence analysis"
+    },
+    {
+        "簡單圖徵存取": "simple feature access"
+    },
+    {
+        "簡單平均插補": "simple mean imputation"
+    },
+    {
+        "單體分布": "simplex distribution"
+    },
+    {
+        "單體格子設計": "simplex lattice design"
+    },
+    {
+        "模擬最大概度": "simulated maximum likelihood"
+    },
+    {
+        "循模擬貝氏推論": "simulation-based Bayesian inference"
+    },
+    {
+        "循模擬推論": "simulation-based inference"
+    },
+    {
+        "聯立方程估計": "simultaneous equations estimation"
+    },
+    {
+        "Singh-Maddala分布": "Singh-Maddala distribution"
+    },
+    {
+        "單一個案統合分析": "single case meta-analysis"
+    },
+    {
+        "單值插補": "single imputation"
+    },
+    {
+        "單一個案設計": "single-case design"
+    },
+    {
+        "單一指標風險模型": "single-index  hazards  model "
+    },
+    {
+        "單階段抽樣": "single-stage sampling"
+    },
+    {
+        "奇異條件": "singular condition"
+    },
+    {
+        "奇異值頻譜分析": "singular spectrum analysis"
+    },
+    {
+        "Skellam分布": "Skellam distribution"
+    },
+    {
+        "偏斜柯西分布": "skew Cauchy distribution"
+    },
+    {
+        "偏斜指數乘冪分布": "skew exponential power distributrion"
+    },
+    {
+        "偏斜拉普拉斯分布": "skew Laplace distribution"
+    },
+    {
+        "偏斜t分布": "skew t-distribution"
+    },
+    {
+        "偏斜拉普拉斯分布": "skew-Laplace distribution"
+    },
+    {
+        "偏斜常態族": "skew-normal family"
+    },
+    {
+        "偏斜t族": "skew-t family"
+    },
+    {
+        "分片完全因子之拉丁超立方體設計": "sliced full factorial-based Latin hypercube design"
+    },
+    {
+        "滑動視窗": "sliding windows "
+    },
+    {
+        "慢漂移爆發": "slow drift burst"
+    },
+    {
+        "智慧抽樣": "smart sampling"
+    },
+    {
+        "平滑風險率": "smooth hazard rates"
+    },
+    {
+        "平緩追蹤眼球運動": "smooth pursuit eye movement"
+    },
+    {
+        "平滑移轉自我迴歸模型": "smooth transition AR model"
+    },
+    {
+        "變異數的平滑移轉": "smooth transition in variances "
+    },
+    {
+        "積雪及融雪模型": "snow accumulation and melt model"
+    },
+    {
+        "社會增加率": "social increase rate"
+    },
+    {
+        "社群媒體用戶端": "social media clients"
+    },
+    {
+        "社會網絡分析": "social network analysis"
+    },
+    {
+        "社會保障支出統計": "social protection expenditure statistics"
+    },
+    {
+        "社會關係分析": "social relations analysis"
+    },
+    {
+        "社會安全捐": "social security contributions"
+    },
+    {
+        "社會人口資料": "socio-demographic data"
+    },
+    {
+        "社會經濟資料": "socio-economic data"
+    },
+    {
+        "軟競爭式學習": "soft competitive learning"
+    },
+    {
+        "土壤水平衡": "soil water balance"
+    },
+    {
+        "空間填充設計": "space-filling design"
+    },
+    {
+        "空間-時間自我迴歸移動平均模型": "space-time autoregressive moving average (STARMA) model"
+    },
+    {
+        "空間-時間資料": "space-time data"
+    },
+    {
+        "空間-時間數列": "space-time series "
+    },
+    {
+        "稀疏可加性生成主題模型": "sparse additive generative topic model"
+    },
+    {
+        "稀疏陣": "sparse array"
+    },
+    {
+        "稀疏編碼": "sparse coding"
+    },
+    {
+        "稀疏網格": "sparse grid"
+    },
+    {
+        "稀疏逆共變異數矩陣": "sparse inverse covariance matrix"
+    },
+    {
+        "稀疏矩陣代數": "sparse matrix algebra"
+    },
+    {
+        "稀疏主成分分析": "sparse PCA"
+    },
+    {
+        "稀疏部分最小平方迴歸": "sparse PLS regression"
+    },
+    {
+        "稀疏正則化": "sparse regularization"
+    },
+    {
+        "稀疏向量自我迴歸係數": "sparse VAR coefficients"
+    },
+    {
+        "稀疏向量自我迴歸模型": "sparse VAR model"
+    },
+    {
+        "空間自我迴歸模型": "spatial AR model"
+    },
+    {
+        "空間關聯結構": "spatial copula"
+    },
+    {
+        "空間相關結構": "spatial correlation structure"
+    },
+    {
+        "空間涵蓋抽樣": "spatial coverage sampling"
+    },
+    {
+        "空間相依性": "spatial dependence"
+    },
+    {
+        "空間杜賓模型": "spatial Durbin model"
+    },
+    {
+        "空間計量經濟模型": "spatial econometric model"
+    },
+    {
+        "空間誤差模型": "spatial error model"
+    },
+    {
+        "空間均齊性": "spatial homogeneity"
+    },
+    {
+        "空間落階模型": "spatial lag model"
+    },
+    {
+        "空間點型態": "spatial point pattern"
+    },
+    {
+        "空間預測": "spatial prediction"
+    },
+    {
+        "空間區隔": "spatial segregation"
+    },
+    {
+        "空間符號共變異數矩陣": "spatial sign covariance matrix"
+    },
+    {
+        "空間隨機邊界分析": "spatial stochastic frontier analysis"
+    },
+    {
+        "空間平衡設計": "spatially balanced design"
+    },
+    {
+        "時空資料": "spatio-temporal data"
+    },
+    {
+        "時空點型態": "spatio-temporal point pattern "
+    },
+    {
+        "Spearman相關矩陣": "Spearman correlation matrix"
+    },
+    {
+        "Spearman ρ相關係數": "Spearman's rho (ρ) correlation"
+    },
+    {
+        "Spearman ρ分布": "Spearman's rho (ρ) distribution"
+    },
+    {
+        "物種形成": "speciation"
+    },
+    {
+        "物種豐富度分布": "species abundance distribution"
+    },
+    {
+        "物種共生": "species cooccurrence"
+    },
+    {
+        "物種反應": "species response"
+    },
+    {
+        "物種分類樹": "species tree"
+    },
+    {
+        "頻譜及平均自我相關零距離密度": "spectral and average autocorrelation zero distance density"
+    },
+    {
+        "頻譜叢集法": "spectral clustering"
+    },
+    {
+        "頻譜法": "spectral method"
+    },
+    {
+        "頻譜隨機偏微分方程": "spectral stochastic PDE"
+    },
+    {
+        "光譜資料": "spectroscopic data"
+    },
+    {
+        "球面座標": "spherical coordinates"
+    },
+    {
+        "球面網格": "spherical grid"
+    },
+    {
+        "球面k平均數叢集法": "spherical k-means clustering"
+    },
+    {
+        "球面k平均數分割": "spherical k-means partition"
+    },
+    {
+        "尖鋒及平板迴歸": "spike and slab regression"
+    },
+    {
+        "尖鋒及平板模型": "spike-and-slab model"
+    },
+    {
+        "尖鋒及平板事前分布": "spike-and-slab prior"
+    },
+    {
+        "尖狀Wishart矩陣": "spiked Wishart matrix"
+    },
+    {
+        "疊接分布": "spliced distribution"
+    },
+    {
+        "弧線；樣條": "spline"
+    },
+    {
+        "弧線投影": "spline projection"
+    },
+    {
+        "分裂常態分布": "split-normal distribution"
+    },
+    {
+        "分裂t分布；兩段t分布": "split-t distribution"
+    },
+    {
+        "利差曲線": "spread curve"
+    },
+    {
+        "結構化查詢語言資料庫引擎": "SQL database engine"
+    },
+    {
+        "平方根速度架構": "square-root velocity framework"
+    },
+    {
+        "穩定性選擇": "stability selection"
+    },
+    {
+        "穩定匹配過程": "stable matching process"
+    },
+    {
+        "堆疊集成": "stacked ensembles"
+    },
+    {
+        "堆疊法": "stacking"
+    },
+    {
+        "水位流量率定曲線": "stage-discharge rating curve"
+    },
+    {
+        "Stan模型": "Stan model"
+    },
+    {
+        "學科標準分類": "standard classification of education fields"
+    },
+    {
+        "教育程度標準分類": "standard classification of education levels"
+    },
+    {
+        "標準常態同質性檢定": "standard normal homogeinity test"
+    },
+    {
+        "經驗生命表": "standard ordinary experience mortality table"
+    },
+    {
+        "標準量尺化": "standard scaling"
+    },
+    {
+        "標準化效應大小": "standardized effect size"
+    },
+    {
+        "標準化主軸估計": "standardized major axis estimation"
+    },
+    {
+        "標準化降水指數": "standardized precipitation index"
+    },
+    {
+        "停滯模型": "stasis model"
+    },
+    {
+        "狀態空間模型": "state space model"
+    },
+    {
+        "狀態空間建模": "state-space modeling"
+    },
+    {
+        "靜態圖": "static map"
+    },
+    {
+        "穩定型人口": "stationary type of population"
+    },
+    {
+        "平穩向量自我迴歸模型": "stationary VAR model"
+    },
+    {
+        "統計差異": "statistical discrepancy"
+    },
+    {
+        "折棒事前分布                          ": "stick-breaking prior"
+    },
+    {
+        "Stiefel流形": "Stiefel manifold"
+    },
+    {
+        "剛性微分方程": "stiff differential equation"
+    },
+    {
+        "Stineman演算法": "Stineman's algorithm"
+    },
+    {
+        "隨機平均梯度": "stochastic average gradient (SAG)"
+    },
+    {
+        "隨機區塊模型": "stochastic block model"
+    },
+    {
+        "隨機期望最大化演算法": "stochastic EM algorithm"
+    },
+    {
+        "隨機邊界分析": "stochastic frontier analysis"
+    },
+    {
+        "隨機梯度下降法": "stochastic gradient descent (SGD)"
+    },
+    {
+        "隨機最佳化": "stochastic optimization"
+    },
+    {
+        "隨機遞迴梯度演算法": "stochastic recursive gradient algorithm (SARAH)"
+    },
+    {
+        "隨機搜尋變數選擇": "stochastic search variable selection"
+    },
+    {
+        "隨機模擬演算法": "stochastic simulation algorithm"
+    },
+    {
+        "隨機波動模型": "stochastic volatility (SV) model"
+    },
+    {
+        "證券交易市場": "stock exchange market"
+    },
+    {
+        "操作股票": "stock manipulation "
+    },
+    {
+        "股票投資組合": "stock portfolio"
+    },
+    {
+        "蓄水量-出水量-可靠度關係": "storage-yield-reliability relationship"
+    },
+    {
+        "Stratonovitch隨機微分方程": "Stratonovitch SDE"
+    },
+    {
+        "河川流量資料": "streamflow data"
+    },
+    {
+        "字串探勘": "string mining"
+    },
+    {
+        "強勢效率市場假說": "strong form efficient market hypothesis"
+    },
+    {
+        "結構期望最大化演算法": "structural EM algorithm"
+    },
+    {
+        "結構方程式混合模型": "structural equation mixture model"
+    },
+    {
+        "結構方程式模型": "structural equation model (SEM)"
+    },
+    {
+        "結構對等": "structural equivalence"
+    },
+    {
+        "結構性磁振造影": "structural magnetic resonance imaging"
+    },
+    {
+        "結構模型": "structural model"
+    },
+    {
+        "結構化主題模型": "structural topic model (STM)"
+    },
+    {
+        "結構向量自我迴歸模型": "structural VAR model"
+    },
+    {
+        "結構學習": "structure learning"
+    },
+    {
+        "結構相似性搜尋": "structure similarity searching"
+    },
+    {
+        "結構可加性迴歸模型": "structured additive regression model"
+    },
+    {
+        "結構化資料": "structured data"
+    },
+    {
+        "結構化最小絕對緊縮及選擇算子懲罰": "structured lasso penalty"
+    },
+    {
+        "結構潛在組群分析": "structured latent class analysis"
+    },
+    {
+        "結構化查詢語言": "structured query language (SQL)"
+    },
+    {
+        "結構化網路資料": "structured web data"
+    },
+    {
+        "結構學習演算法": "structure-learning algorithm"
+    },
+    {
+        "Student化全距中值分布": "studentized mid-range distribution"
+    },
+    {
+        "Stuttgart類神經網路模擬器": "Stuttgart neural network simulator (SNNS)"
+    },
+    {
+        "次分布風險": "subdistribution hazard "
+    },
+    {
+        "子集自我迴歸模型": "subset AR models "
+    },
+    {
+        "替代率": "substitution rate"
+    },
+    {
+        "充分維度縮減": "sufficient dimension reduction"
+    },
+    {
+        "對數卡方和分布": "sum of log-chi-squared distribution"
+    },
+    {
+        "乘冪卡方和分布": "sum of power chi-squared distribution"
+    },
+    {
+        "摘要統計量": "summary statistics"
+    },
+    {
+        "總加量表": "summated scale"
+    },
+    {
+        "超級學習者": "super learner"
+    },
+    {
+        "超級學習者預測法": "super learner prediction method"
+    },
+    {
+        "超高齡": "super-aged"
+    },
+    {
+        "超一致": "super-consistent"
+    },
+    {
+        "監督式多維尺度化": "supervised multidimensional scaling"
+    },
+    {
+        "監督式主成分": "supervised principal components"
+    },
+    {
+        "輔助項目反應理論模型": "supplementary IRT model"
+    },
+    {
+        "輔助屬性變數": "supplementary qualitative variable"
+    },
+    {
+        "輔助屬量變數": "supplementary quantitative variable"
+    },
+    {
+        "必然獨立篩選": "sure independence screening (SIS)"
+    },
+    {
+        "表面能量平衡模型": "surface energy balance model"
+    },
+    {
+        "替代模型": "surrogate model"
+    },
+    {
+        "替代輔助最佳化": "surrogate-assisted optimization"
+    },
+    {
+        "存活模型": "survival model"
+    },
+    {
+        "存活迴歸模型": "survival regression model"
+    },
+    {
+        "存活樹": "survival tree"
+    },
+    {
+        "易感-潛伏-感染-復原模型": "susceptible-exposed-infected-recovered (SEIR) model"
+    },
+    {
+        "易感-感染-復原模型": "susceptible-infected-recovered (SIR) model"
+    },
+    {
+        "符號資料": "symbolic data"
+    },
+    {
+        "符號多維尺度化": "symbolic multidimensional scaling"
+    },
+    {
+        "對稱共對應分析模型": "symmetric co-correspondence analysis model"
+    },
+    {
+        "對稱厚尾": "symmetric fat tail"
+    },
+    {
+        "對稱正規化二次利潤函數": "symmetric normalized quadratic profit (SNQP) function"
+    },
+    {
+        "對稱關係資料": "symmetric relational data"
+    },
+    {
+        "環境與經濟帳系統": "System of Environmental-Economic Accounting (SEEA)"
+    },
+    {
+        "系統性風險": "systematic risk"
+    },
+    {
+        "系統風險": "systemic risk"
+    },
+    {
+        " t關聯結構": "t copula"
+    },
+    {
+        "表狀資料": "tabular data"
+    },
+    {
+        "尾端條件期望值": "tail conditional expectation  (TCE)"
+    },
+    {
+        "尾部相依係數": "tail dependence coefficient"
+    },
+    {
+        "尾端損失機率": "tail loss probability"
+    },
+    {
+        "尾端風險值": "tail value at risk  (TVaR)"
+    },
+    {
+        "目標密度": "target density"
+    },
+    {
+        "目標報酬投資組合最佳化": "target-return portfolio optimization"
+    },
+    {
+        "τ估計量": "tau (τ)-estimator"
+    },
+    {
+        "分類單位": "taxon"
+    },
+    {
+        "分類組成": "taxonomic composition"
+    },
+    {
+        "分類資訊": "taxonomic information"
+    },
+    {
+        "泰勒廻歸估計量": "Taylor regression estimator"
+    },
+    {
+        "泰勒級數": "Taylor series"
+    },
+    {
+        "t關聯結構模型": "t-copula model"
+    },
+    {
+        "模板模型建立器": "template model builder"
+    },
+    {
+        "步調效果": "tempo effect"
+    },
+    {
+        "時間相關結構": "temporal correlation structure"
+    },
+    {
+        "時間相依性": "temporal dependence"
+    },
+    {
+        "時間升頻法": "temporal disaggregation method"
+    },
+    {
+        "依時層次預測": "temporal hierarchical forecasting"
+    },
+    {
+        "時間網路": "temporal networks "
+    },
+    {
+        "時間統計量": "temporal statistic"
+    },
+    {
+        "張量迴歸": "tensor regression"
+    },
+    {
+        "三元圖": "ternary plot"
+    },
+    {
+        "地形分析 ": "terrain analysis"
+    },
+    {
+        "檢定力": "test power"
+    },
+    {
+        "文字檔案": "text file"
+    },
+    {
+        "文字探勘": "text mining"
+    },
+    {
+        "文字向量化": "text vectorization"
+    },
+    {
+        "主題地圖學": "thematic cartography"
+    },
+    {
+        "熱力學積分": "thermodynamic integration"
+    },
+    {
+        "熱力學": "thermodynamics"
+    },
+    {
+        "theta模型": "theta model"
+    },
+    {
+        "厚建模": "thick modeling "
+    },
+    {
+        "薄板弧線": "thin-plate spline"
+    },
+    {
+        "Thomson調和F檢定": "Thomson's harmonic F-test"
+    },
+    {
+        "三臂試驗": "three-arm trial"
+    },
+    {
+        "三因子模型": "three-factor model"
+    },
+    {
+        "三組設計": "three-group design"
+    },
+    {
+        "三向多維尺度化": "three-way multidimensional scaling"
+    },
+    {
+        "三向主成分分析模型": "three-way PCA model"
+    },
+    {
+        "門檻向量誤差校正模型": "threshold vector error correction model (TVECM)"
+    },
+    {
+        "門檻法": "thresholding method"
+    },
+    {
+        "Tietze圖形": "Tietze's graph"
+    },
+    {
+        "緊緻": "tightness"
+    },
+    {
+        "時間過程資料": "time course data"
+    },
+    {
+        "時間數列鏈圖形模型": "time series chain graphical model"
+    },
+    {
+        "時間數列叢集法": "time series clustering"
+    },
+    {
+        "時間數列升頻": "time series disaggregation"
+    },
+    {
+        "時間數列因子分析": "time series factor analysis"
+    },
+    {
+        "貨幣時間價值": "time value of money"
+    },
+    {
+        "時間相依曲線下面積": "time-dependent AUC"
+    },
+    {
+        "時間相依接收器操作特徵曲線": "time-dependent ROC curve"
+    },
+    {
+        "時間-深度記錄器": "time-depth recorder"
+    },
+    {
+        "依時不變": "time-invariant "
+    },
+    {
+        "時間解析光譜法": "time-resolved spectroscopy"
+    },
+    {
+        "依時變動係數模型": "time-varying coefficient model"
+    },
+    {
+        "依時變動k階混合圖形模型": "time-varying k-order mixed graphical model"
+    },
+    {
+        "依時變動線性組合": "time-varying linear combinations"
+    },
+    {
+        "滴定曲線": "titration curve"
+    },
+    {
+        "記號化": "tokenization"
+    },
+    {
+        "分詞器": "tokenizer"
+    },
+    {
+        "主題模型": "topic model"
+    },
+    {
+        "地形圖": "topographic map"
+    },
+    {
+        "T型最佳設計": "T-optimal design"
+    },
+    {
+        "Törnqvist指數": "Törnqvist index"
+    },
+    {
+        "整體設計法": "total design method"
+    },
+    {
+        "總能量計分": "total energy score "
+    },
+    {
+        "總變異深度": "total variation depth"
+    },
+    {
+        "毒性相等性全距設計": "toxicity  equivalence  range  (TEQR) design"
+    },
+    {
+        "毒性機率區間設計": "toxicity probability interval  design"
+    },
+    {
+        "附加價值貿易": "Trade in Value-Added (TiVA)"
+    },
+    {
+        "性狀演化": "trait evolution"
+    },
+    {
+        "軌跡": "trajectory"
+    },
+    {
+        "軌跡資料": "trajectory data"
+    },
+    {
+        "超越函數": "transcendental function"
+    },
+    {
+        "跨維度馬可夫鏈蒙地卡羅法": "transdimensional MCMC method"
+    },
+    {
+        "穿越線": "transect"
+    },
+    {
+        "變換模型": "transformation model"
+    },
+    {
+        "變換雙邊模型": "transform-both-sides model"
+    },
+    {
+        "遞移風險函數": "transition hazard function"
+    },
+    {
+        "遞移率": "transition rate"
+    },
+    {
+        "超越對數成本函數": "translog cost function"
+    },
+    {
+        "超越對數函數": "translog function"
+    },
+    {
+        "超越對數生產函數": "translog production function"
+    },
+    {
+        "傳遞不平衡檢定": "transmission disequilibrium test (TDT)"
+    },
+    {
+        "傳染率；傳輸速率": "transmission rate"
+    },
+    {
+        "梯形法則": "trapezium rule"
+    },
+    {
+        "梯形分布": "trapezoidal distribution"
+    },
+    {
+        "梯形法則": "trapezoidal rule"
+    },
+    {
+        "誘捕網設計": "trapping web design"
+    },
+    {
+        "處理配置比": "treatment allocation ratio"
+    },
+    {
+        "治療交叉污染": "treatment cross-contamination"
+    },
+    {
+        "依接受治療分析": "treatment received analysis"
+    },
+    {
+        "治療試驗": "treatment trial"
+    },
+    {
+        "樹形": "tree"
+    },
+    {
+        "樹狀模型": "tree-based model"
+    },
+    {
+        "樹狀結構項目反應模型": "tree-structured item-response model"
+    },
+    {
+        "樹狀結構模型": "tree-structured model"
+    },
+    {
+        "樹狀結構迴歸": "tree-structured regression"
+    },
+    {
+        "樹頂對立假設": "tree-top alternative"
+    },
+    {
+        "格子圖示": "trellis graphics"
+    },
+    {
+        "趨勢成分": "trend components"
+    },
+    {
+        "趨勢還原": "trend restoration"
+    },
+    {
+        "三角形分布": "triangle distribution"
+    },
+    {
+        "三角形列聯表": "triangular contingency table"
+    },
+    {
+        "三重伽瑪(γ)分布": "trigamma distribution"
+    },
+    {
+        "剪補法": "trim and fill method"
+    },
+    {
+        "三角樣條法": "triogram method"
+    },
+    {
+        "三角圖族": "triograms"
+    },
+    {
+        "三重散布圖；泡泡圖": "triple scatterplot"
+    },
+    {
+        "三元檢定": "triples test"
+    },
+    {
+        "回溯研究": "trohoc study"
+    },
+    {
+        "特洛伊方陣": "Trojan square"
+    },
+    {
+        "谷-峰比": "trough-to-peak ratio"
+    },
+    {
+        "TRUE EPISTAT軟體": "TRUE EPISTAT"
+    },
+    {
+        "截略二元資料": "truncated binary data"
+    },
+    {
+        "截略二項分布": "truncated binomial distribution"
+    },
+    {
+        "截略指數分布": "truncated exponential distribution"
+    },
+    {
+        "截略幾何分布": "truncated geometric distribution"
+    },
+    {
+        "截略對數常態分布": "truncated lognormal distribution"
+    },
+    {
+        "截略負二項分布": "truncated negative binomial distribution"
+    },
+    {
+        "截略常態性": "truncated normality"
+    },
+    {
+        "截略帕累托分布": "truncated Pareto distribution"
+    },
+    {
+        "截略反應": "truncated response"
+    },
+    {
+        "截略折棒分布                            ": "truncated stick-breaking distribution"
+    },
+    {
+        "截略韋伯分布": "truncated Weibull distribution"
+    },
+    {
+        "Tsallis分布": "Tsallis distribution"
+    },
+    {
+        "Tschuprov係數": "Tschuprov coefficient"
+    },
+    {
+        "Tukey均差圖": "Tukey mean-difference plot"
+    },
+    {
+        "Tukey常態計分": "Tukey normal scores"
+    },
+    {
+        "Tukey的雙平方計分(ψ)函數": "Tukey's bi-square score (psi) function"
+    },
+    {
+        "Tukey的H分布": "Tukey's H distribution"
+    },
+    {
+        "Tukey的λ分布": "Tukey's lambda distribution"
+    },
+    {
+        "Tukey的非可加性檢定": "Tukey's test for nonadditivity"
+    },
+    {
+        "調諧參數": "tuning parameter"
+    },
+    {
+        "推迪及二重伽瑪(γ)廣義線性模型族": "Tweedie and digamma GLM families"
+    },
+    {
+        "推迪分布": "Tweedie distribution"
+    },
+    {
+        "孿生分析": "twin analysis"
+    },
+    {
+        "雙支持向量機": "twin support vector machines (TWSVM)"
+    },
+    {
+        "雙彎變換": "two-bend transformation"
+    },
+    {
+        "2乘2交叉設計": "two-by-two (2x2) crossover design"
+    },
+    {
+        "二維列聯表": "two-dimensional table"
+    },
+    {
+        "二參數指數分布": "two-parameter exponential distribution"
+    },
+    {
+        "二段常態分布": "two-piece normal distribution"
+    },
+    {
+        "雙邊乘冪分布": "two-sided power distribution"
+    },
+    {
+        "二階段管制圖": "two-stage control chart"
+    },
+    {
+        "二階段設計": "two-stage design"
+    },
+    {
+        "二階段懲罰最小平方法": "two-stage penalized least squares approach"
+    },
+    {
+        "二階段程序": "two-stage procedure"
+    },
+    {
+        "二階段止步規則": "two-stage stopping rule"
+    },
+    {
+        "雙向列聯表": "two-way contingency table"
+    },
+    {
+        "H型矩陣": "type H matrix"
+    },
+    {
+        "類型學": "typology"
+    },
+    {
+        "U²檢定": "U² test"
+    },
+    {
+        "超度量樹": "ultrametric tree"
+    },
+    {
+        "傘狀排序": "umbrella ordering"
+    },
+    {
+        "帶傘問題": "umbrella problem"
+    },
+    {
+        "傘狀試驗": "umbrella trial"
+    },
+    {
+        "一致規則": "unanimity rule"
+    },
+    {
+        "不平衡設計": "unbalanced design"
+    },
+    {
+        "解瞞": "unblinding"
+    },
+    {
+        "不確定性分析": "uncertainty analysis"
+    },
+    {
+        "低度配適模型": "underfitted model"
+    },
+    {
+        "無向高斯圖形馬可夫模型": "undirected Gaussian graphical Markov model"
+    },
+    {
+        "無向圖形模型": "undirected graphical model (UGM)"
+    },
+    {
+        "失業率與空缺率曲線": "unemployment-vacancy (UV) curve"
+    },
+    {
+        "不等機率抽樣": "unequal probability sampling"
+    },
+    {
+        "展開": "unfolding"
+    },
+    {
+        "不可識別模型": "unidentified model"
+    },
+    {
+        "單維項目反應理論": "unidimensional item-response theory"
+    },
+    {
+        "單維潛在特質模型": "unidimensional latent trait model"
+    },
+    {
+        "生物多樣性的統一中立理論": "unified neutral theory of biodiversity"
+    },
+    {
+        "網址；一致資源定位器": "uniform resource locator (URL)"
+    },
+    {
+        "單峰排序": "unimodal ordering"
+    },
+    {
+        "單位層級模型": "unit level model"
+    },
+    {
+        "單變量自我迴歸馬可夫變換模型": "univariate autoregressive Markov switching model"
+    },
+    {
+        "單變量資料": "univariate data"
+    },
+    {
+        "單變量有向排序": "univariate directional ordering"
+    },
+    {
+        "單變量廣義自我迴歸條件變異數非齊一模型": "univariate GARCH model"
+    },
+    {
+        "全面健康覆蓋指標": "universal health coverage (UHC) indicators"
+    },
+    {
+        "不可觀察成分模型": "unobserved components model"
+    },
+    {
+        "不重複因子": "unreplicated factorial"
+    },
+    {
+        "非結構化資料": "unstructured data"
+    },
+    {
+        "非監督式學習": "unsupervised learning"
+    },
+    {
+        "未加權平均數分析": "unweighted means analysis"
+    },
+    {
+        "upsilon(υ)分布": "upsilon distribution"
+    },
+    {
+        "效用分析": "utility analysis"
+    },
+    {
+        "正確性檢核": "validity check"
+    },
+    {
+        "van der Waerden秩統計量": "van der Waerden's rank statistic"
+    },
+    {
+        "可變滲入容量模型": "variable infiltration capacity model"
+    },
+    {
+        "可變抽樣區間累積和管制圖": "variable sampling interval CUSUM chart"
+    },
+    {
+        "可變應力加速壽命檢定試驗": "variable-stress accelerated life testing trial (VALT)"
+    },
+    {
+        "變異數膨脹因子": "variance inflation factor"
+    },
+    {
+        "變異數交換": "variance swap"
+    },
+    {
+        "變異數平衡設計": "variance-balanced design"
+    },
+    {
+        "變異數-共變異數結構": "variance-covariance structure"
+    },
+    {
+        "變異數-伽瑪(γ)分布": "variance-gamma distribution"
+    },
+    {
+        "品種試驗": "variety trial"
+    },
+    {
+        "變異數最大旋轉": "varimax rotation"
+    },
+    {
+        "序列變異圖雲": "variogram cloud"
+    },
+    {
+        "變異圖計分": "variogram score "
+    },
+    {
+        "變動係數模型": "varying-coefficient model"
+    },
+    {
+        "向量化算子": "vec operator"
+    },
+    {
+        "半向量化算子": "vech operator"
+    },
+    {
+        "向量相加模型": "vector additive model"
+    },
+    {
+        "向量自我迴歸移動平均": "vector autoregressive moving average (VARMA)"
+    },
+    {
+        "含外生變數向量自我迴歸": "vector autoregressive with exogenous variables  (VARX)"
+    },
+    {
+        "向量廣義相加模型": "vector generalized additive model"
+    },
+    {
+        "向量廣義線性模型": "vector generalized linear model "
+    },
+    {
+        "向量時間數列": "vector time series"
+    },
+    {
+        "植被分析": "vegetation analysis"
+    },
+    {
+        "植被模型": "vegetation model"
+    },
+    {
+        "垂直感染": "vertical transmission"
+    },
+    {
+        "藤蔓關聯結構": "vine copula"
+    },
+    {
+        "小提琴圖": "violin plots"
+    },
+    {
+        "虛擬母體分析": "virtual population analysis"
+    },
+    {
+        "目視分析": "visual analysis"
+    },
+    {
+        "波動模型": "volatility model"
+    },
+    {
+        "波動建模": "volatility modeling"
+    },
+    {
+        "自願者偏誤": "volunteer bias"
+    },
+    {
+        "馮米賽斯-費雪分布": "von Mises-Fisher distribution"
+    },
+    {
+        "von Neumann-Morgenstern標準賭局": "von Neumann-Morgenstern standard gamble"
+    },
+    {
+        "V型最佳設計": "V-optimal design"
+    },
+    {
+        "Voronoi圖": "Voronoi diagram"
+    },
+    {
+        "脆弱性": "vulnerability"
+    },
+    {
+        "Vuong統計量": "Vuong statistic"
+    },
+    {
+        "Vuong檢定": "Vuong test"
+    },
+    {
+        "Vuong接近度檢定": "Vuong's closeness test"
+    },
+    {
+        "晶圓電性針測圖": "wafer bin map"
+    },
+    {
+        "Wagner假設": "Wagner's hypothesis"
+    },
+    {
+        "Wakeby分布": "Wakeby distribution"
+    },
+    {
+        "Wald估計量": "Wald estimator"
+    },
+    {
+        "WAGR檢定": "Wald-Arnold-Goldberg-Rushton (WAGR) test"
+    },
+    {
+        "Wald-Blackwell定理": "Wald-Blackwell theorem"
+    },
+    {
+        "Walker檢定": "Walker's test"
+    },
+    {
+        "Walsh平均數": "Walsh averages"
+    },
+    {
+        "Waring定理": "Waring's theorem"
+    },
+    {
+        "警戒線": "warning line"
+    },
+    {
+        "扭曲函數": "warping function"
+    },
+    {
+        "廓清模型": "wash-out model"
+    },
+    {
+        "廓清期": "wash-out period"
+    },
+    {
+        "Wasserstein度量": "Wasserstein metrics"
+    },
+    {
+        "渡邊-赤池訊息準則": "Watanabe-Akaike information criterion (WAIC)"
+    },
+    {
+        "集水區聚集": "watershed aggregation"
+    },
+    {
+        "沃森A檢定": "Watson's A-test"
+    },
+    {
+        "沃森檢定": "Watson's test"
+    },
+    {
+        "沃森U²檢定": "Watson's U² test"
+    },
+    {
+        "小波分析": "wavelet analysis"
+    },
+    {
+        "小波叢集法": "wavelet clustering"
+    },
+    {
+        "小波一貫性": "wavelet coherence"
+    },
+    {
+        "小波函數": "wavelet functions"
+    },
+    {
+        "小波多重解析度迴歸": "wavelet multiresolution regression"
+    },
+    {
+        "小波功率譜": "wavelet power spectrum "
+    },
+    {
+        "小波級數近似": "wavelet series approximation"
+    },
+    {
+        "小波收縮": "wavelet shrinkage"
+    },
+    {
+        "小波變換係數": "wavelet transform coefficients"
+    },
+    {
+        "波形收縮": "WaveShrink"
+    },
+    {
+        "弱勢效率市場假說": "weak form efficient market hypothesis"
+    },
+    {
+        "風標圖": "weathervane plot"
+    },
+    {
+        "網路圖徵服務": "web feature service (WFS)"
+    },
+    {
+        "網路圖磚服務": "web map tile service  (WMTS) "
+    },
+    {
+        "網路製圖": "web mapping"
+    },
+    {
+        "網路資料": "web-based data"
+    },
+    {
+        "韋伯擴充分布": "Weibull extension distribution"
+    },
+    {
+        "韋伯模型": "Weibull model"
+    },
+    {
+        "韋伯比例風險迴歸模型": "Weibull proportional hazards regression model"
+    },
+    {
+        "韋伯-廣義帕累托分布": "Weibull-generalized Pareto distribution"
+    },
+    {
+        "證據權重": "weight of evidence"
+    },
+    {
+        "加權二項分布": "weighted binomial distribution"
+    },
+    {
+        "加權相關": "weighted correlation"
+    },
+    {
+        "加權廣義估計方程式": "weighted generalized estimating equations (WGEE)"
+    },
+    {
+        "加權Kaplan-Meier估計量": "weighted Kaplan-Meier estimator"
+    },
+    {
+        "加權Kaplan-Meier檢定": "weighted Kaplan-Meier test"
+    },
+    {
+        "加權kappa (κ)係數": "weighted kappa (κ)"
+    },
+    {
+        "加權k最近鄰": "weighted k-nearest neighbor"
+    },
+    {
+        "加權對數秩檢定": "weighted log-rank test"
+    },
+    {
+        "加權網路分析": "weighted network analysis"
+    },
+    {
+        "加權成對概度估計量": "weighted pairwise likelihood estimator"
+    },
+    {
+        "加權偏概度": "weighted partial likelihood"
+    },
+    {
+        "加權便利的檢定": "weighted portmanteau test"
+    },
+    {
+        "時間、流量及季節之加權迴歸": "weighted regressions on time, discharge, and season"
+    },
+    {
+        "加權子空間隨機森林": "weighted subspace random forest"
+    },
+    {
+        "加權最小共變異行列式估計量": "weighted-MCD estimator"
+    },
+    {
+        "Wei-Lachin檢定": "Wei-Lachin test"
+    },
+    {
+        "WE指數分布檢定": "WE-test"
+    },
+    {
+        "Wherry公式": "Wherry's formula"
+    },
+    {
+        "Whipple指數": "Whipple index"
+    },
+    {
+        "白雜訊Wishart矩陣": "white Wishart matrix"
+    },
+    {
+        "White變異數齊一性檢定": "White's homoscedasticity test"
+    },
+    {
+        "White訊息矩陣檢定": "White's information matrix test"
+    },
+    {
+        "Whittle概度": "Whittle likelihood"
+    },
+    {
+        "全基因體定序": "whole genome sequencing"
+    },
+    {
+        "Wichman/Hill產生器": "Wichman/Hill generator"
+    },
+    {
+        "廣義貝氏訊息準則": "widely applicable Bayesian information criterion (WBIC)"
+    },
+    {
+        "廣義赤池訊息準則": "widely applicable information criterion (WAIC)"
+    },
+    {
+        "Wigner-Ville分布": "Wigner-Ville distribution"
+    },
+    {
+        "Wilcoxon秩和檢定": "Wilcoxon's rank sum test"
+    },
+    {
+        "Wilcoxon符號秩檢定": "Wilcoxon's signed rank test"
+    },
+    {
+        "Wilk檢定": "Wilk test"
+    },
+    {
+        "WilksΛ統計量": "Wilks' lambda"
+    },
+    {
+        "Wilks多變量離群值檢定": "Wilks' multivariate outlier test"
+    },
+    {
+        "Wilks定理": "Wilks' theorem"
+    },
+    {
+        "Wilks-Lawley統計量": "Wilks-Lawley statistic"
+    },
+    {
+        "Williams一致性量數": "Williams' agreement measure"
+    },
+    {
+        "Williams設計": "Williams' design"
+    },
+    {
+        "Williams檢定": "Williams' test"
+    },
+    {
+        "Wilson-Hilferty法": "Wilson-Hilferty method"
+    },
+    {
+        "視域估計": "window estimates"
+    },
+    {
+        "視域變數": "window variables"
+    },
+    {
+        "視域寬度": "window width"
+    },
+    {
+        "Winsor極值調整": "winsorizing"
+    },
+    {
+        "組內平方和與交叉乘積矩陣": "within groups matrix of sums of squares and cross-products"
+    },
+    {
+        "組內均方": "within groups mean squares"
+    },
+    {
+        "組內平方和": "within groups sum of squares"
+    },
+    {
+        "Wöhler曲線": "Wöhler curve"
+    },
+    {
+        "Woolf估計量": "Woolf's estimator"
+    },
+    {
+        "工作生命表": "working life table"
+    },
+    {
+        "自營作業者": "works on own account"
+    },
+    {
+        "世界衛生季刊": "World Health Quarterly"
+    },
+    {
+        "世界衛生統計年報": "World Health Statistics Annual"
+    },
+    {
+        "蟲形圖": "worm plot"
+    },
+    {
+        "包裝器演算法": "wrapper algorithm"
+    },
+    {
+        "包裝器法": "wrapper method"
+    },
+    {
+        "X-11程式": "X-11"
+    },
+    {
+        "X-13 ARIMA-SEATS季節調整程式": "X-13 ARIMA-SEATS seasonal adjustment program"
+    },
+    {
+        "X-G視覺化系統": "X-G vis"
+    },
+    {
+        "Yang-Berger分布": "Yang-Berger distribution"
+    },
+    {
+        "葉慈連續性校正": "Yates' continuity correction"
+    },
+    {
+        "葉慈-葛蘭地變異數估計量": "Yates-Grundy variance estimator"
+    },
+    {
+        "年成長率": "year-on-year (YoY) growth rate"
+    },
+    {
+        "同意偏誤": "yea-saying bias"
+    },
+    {
+        "殖利率曲線": "yield curve"
+    },
+    {
+        "You-Chapman模型": "You-Chapman model"
+    },
+    {
+        "Youden方陣設計": "Youden square design"
+    },
+    {
+        "Youden指數": "Youden's index"
+    },
+    {
+        "扶幼比": "young-age dependency ratio"
+    },
+    {
+        "尼特族": "youth not in employment, education or training (NEET)"
+    },
+    {
+        "Yule-Furry過程": "Yule-Furry process"
+    },
+    {
+        "Yule特徵K": "Yule's characteristic K"
+    },
+    {
+        "Yule-Simon分布": "Yule-Simon distribution"
+    },
+    {
+        "z變換": "z transformation"
+    },
+    {
+        "Zelen精準檢定": "Zelen's exact test"
+    },
+    {
+        "Zelen單組知情同意設計": "Zelen's single-consent design"
+    },
+    {
+        "Zellner的g事前分布": "Zellner's g-prior"
+    },
+    {
+        "Zementis預測分析": "Zementis predictive analytics"
+    },
+    {
+        "無瑕疵": "zero defects"
+    },
+    {
+        "零及一值膨脹貝他(β)分布": "zero-and-one-inflated beta distribution"
+    },
+    {
+        "零息殖利率曲線": "zero-coupon yield curve"
+    },
+    {
+        "零值膨脹貝他(β)分布": "zero-inflated beta distribution"
+    },
+    {
+        "零值膨脹二項分布": "zero-inflated binomial distribution"
+    },
+    {
+        "零值膨脹二項迴歸": "zero-inflated binomial regression"
+    },
+    {
+        "零值膨脹幾何分布": "zero-inflated geometric distribution"
+    },
+    {
+        "零值膨脹模型": "zero-inflated model"
+    },
+    {
+        "零值膨脹負二項分布": "zero-inflated negative binomial distribution"
+    },
+    {
+        "零值膨脹卜瓦松分布": "zero-inflated Poisson (ZIP) distribution"
+    },
+    {
+        "零值膨脹卜瓦松迴歸": "zero-inflated Poisson regression"
+    },
+    {
+        "零值修正二項分布": "zero-modified binomial distribution"
+    },
+    {
+        "零值修正分布": "zero-modified distribution"
+    },
+    {
+        "零值修正高斯分布": "zero-modified Gaussian distribution"
+    },
+    {
+        "零值修正幾何分布": "zero-modified geometric distribution"
+    },
+    {
+        "零值修正對數分布": "zero-modified logarithmic distribution"
+    },
+    {
+        "零值修正對數常態分布": "zero-modified lognormal distribution"
+    },
+    {
+        "零值修正負二項分布": "zero-modified negative binomial distribution"
+    },
+    {
+        "零值修正常態分布": "zero-modified normal distribution"
+    },
+    {
+        "零值截略對數分布": "zero-truncated logarithmic distribution"
+    },
+    {
+        "零值截略卜瓦松分布": "zero-truncated Poisson distribution"
+    },
+    {
+        "零值截略機率分布": "zero-truncated probability distribution"
+    },
+    {
+        "零值截略迴歸": "zero-truncated regression"
+    },
+    {
+        "齊夫分布": "Zipf distribution"
+    },
+    {
+        "齊夫-埃斯托普法則": "Zipf-Estoup law"
+    },
+    {
+        "齊夫-曼德布羅特分布": "Zipf-Mandelbrot distribution"
+    },
+    {
+        "齊夫-卜瓦松停止和分布": "Zipf-Poisson stopped-sum distribution"
+    },
+    {
+        "容許域": "zone of tolerance"
+    },
+    {
+        "同卵或異卵雙胞胎測定": "zygosity determination"
+    },
+    {
+        "阿爾法(α)耗費函數": "α-spending function"
+    },
+    {
+        "δ法；delta法": "δ-method"
+    },
+    {
+        "卡方統計量": "χ²-statistic"
+    }
+]

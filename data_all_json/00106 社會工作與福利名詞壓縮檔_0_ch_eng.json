@@ -1,0 +1,5222 @@
+[
+    {
+        "四健會": "4-H Club"
+    },
+    {
+        "遺棄": "Abandonment"
+    },
+    {
+        "健壯的窮人": "Able-bodied Poor"
+    },
+    {
+        "原住民政策": "Aboriginal Policy"
+    },
+    {
+        "原住民社會福利行政": "Aboriginal Social Welfare Administration"
+    },
+    {
+        "絕對需求": "Absolute Needs"
+    },
+    {
+        "絕對貧窮": "Absolute Poverty"
+    },
+    {
+        "老人虐待": "Abuse of Older People"
+    },
+    {
+        "老人虐待": "Elder Abuse"
+    },
+    {
+        "受虐婦女": "Abused Woman"
+    },
+    {
+        "學院式取向": "Academic Approach"
+    },
+    {
+        "合格社會工作師學會": "Academy of Certified Social Workers"
+    },
+    {
+        "接納": "Acceptance"
+    },
+    {
+        "可近性": "Accessibility"
+    },
+    {
+        "意外事故率": "Accident Rate"
+    },
+    {
+        "責信；課責": "Accountability"
+    },
+    {
+        "涵化": "Acculturation"
+    },
+    {
+        "成就動機": "Achievement Motivation"
+    },
+    {
+        "行動設計": "Action Design"
+    },
+    {
+        "行動研究": "Action Research"
+    },
+    {
+        "行動為基礎的行為途徑": "Action-based Behavioural Approach"
+    },
+    {
+        "積極促進 {參與勞動市場或社區}": "Activation"
+    },
+    {
+        "積極促進就業方案效應；活化就業方案效應": "Activation measure effect"
+    },
+    {
+        "活力老化": "Active Aging"
+    },
+    {
+        "日常生活活動功能": "Activities of Daily Living {=ADL}"
+    },
+    {
+        "附加給付": "Additional Benefits"
+    },
+    {
+        "適應": "Adjustment"
+    },
+    {
+        "養子女": "Adopted Children"
+    },
+    {
+        "收養": "Adoption"
+    },
+    {
+        "收養家庭": "Adoptive Families"
+    },
+    {
+        "成人日間照顧": "Adult Day Care"
+    },
+    {
+        "成人日間服務": "Adult Day Services"
+    },
+    {
+        "成人教育": "Adult Education"
+    },
+    {
+        "成人保護服務": "Adult Protective Services {=APS}"
+    },
+    {
+        "逆選擇": "Adverse Selection"
+    },
+    {
+        "倡導；倡議；辯護": "Advocacy"
+    },
+    {
+        "平權行動": "Affirmative Action"
+    },
+    {
+        "美國勞工暨產業工會聯盟": "AFL-CIO"
+    },
+    {
+        "課後照顧": "After-school Care"
+    },
+    {
+        "年齡歧視": "Age Discrimination"
+    },
+    {
+        "老人歧視；老年歧視": "Ageism"
+    },
+    {
+        "國際開發總署": "Agency for International Development"
+    },
+    {
+        "高齡與身心障礙資源中心": "Aging and Disability Resource Center {=ADRC}"
+    },
+    {
+        "在地老化": "Aging in Place"
+    },
+    {
+        "高齡化社會": "Aging Society"
+    },
+    {
+        "老化理論": "Aging Theories"
+    },
+    {
+        "農業保險": "Agricultural Insurance"
+    },
+    {
+        "未成年子女之單親扶助": "Aid to Dependent Children"
+    },
+    {
+        "有依賴兒童之家庭補助": "Aid to Families with Dependent Children {=AFDC}"
+    },
+    {
+        "後天免疫缺乏症候群": "AIDS"
+    },
+    {
+        "戒酒者家屬團體": "Al-Anon Family Group"
+    },
+    {
+        "戒酒者匿名會": "Alcoholics Anonymous"
+    },
+    {
+        "酒癮": "Alcoholism"
+    },
+    {
+        "贍養費": "Alimony"
+    },
+    {
+        "單親家庭津貼{法語}": "Allocation de Parent Isolé {=API}"
+    },
+    {
+        "分配公式": "Allocation Formula"
+    },
+    {
+        "寡婦津貼{法語}": "Allocation Veuvage {=AV}"
+    },
+    {
+        "濟貧院": "Almshouse"
+    },
+    {
+        "濟貧院": "Poorhouse"
+    },
+    {
+        "替代役": "Alternative Civilian Service"
+    },
+    {
+        "替代性學院；選替學校": "Alternative schools"
+    },
+    {
+        "利他主義": "Altruism"
+    },
+    {
+        "類比法": "Analogical Method"
+    },
+    {
+        "變異數分析": "Analysis of Variance {=ANOVA}"
+    },
+    {
+        "分析性研究": "Analytical Research"
+    },
+    {
+        "迷亂；脫序": "Anomie"
+    },
+    {
+        "前置變數；前置變項": "Antecedent Variable"
+    },
+    {
+        "反年齡歧視實施": "Anti-ageist Practice"
+    },
+    {
+        "反歧視政策": "Anti-discrimination Policy"
+    },
+    {
+        "反歧視實施": "Anti-discrimination Practice"
+    },
+    {
+        "反全球化運動": "Anti-globalization Movement"
+    },
+    {
+        "反壓迫": "Anti-oppression"
+    },
+    {
+        "反壓迫實施": "Anti-oppressive Practice"
+    },
+    {
+        "反貧窮方案": "Anti-poverty Programs"
+    },
+    {
+        "反種族歧視實施": "Anti-racist Practice"
+    },
+    {
+        "反社會行為": "Anti-social Behavior"
+    },
+    {
+        "焦慮": "Anxiety"
+    },
+    {
+        "種族隔離": "Apartheid"
+    },
+    {
+        "應用研究": "Applied Research"
+    },
+    {
+        "學徒制；學徒身分": "Apprenticeship"
+    },
+    {
+        "學徒式取向": "Apprenticeship Approach"
+    },
+    {
+        "仲裁": "Arbitration"
+    },
+    {
+        "區域發展": "Area Development"
+    },
+    {
+        "區域抽樣": "Area Sampling"
+    },
+    {
+        "算術平均數": "Arithmetic Mean"
+    },
+    {
+        "接合式取向": "Articulation Approach"
+    },
+    {
+        "評估；評量": "Assessment"
+    },
+    {
+        "尋求庇護者": "Asylum Seekers"
+    },
+    {
+        "依附": "Attachment"
+    },
+    {
+        "態度量表": "Attitude Scale"
+    },
+    {
+        "奧本制": "Auburm System"
+    },
+    {
+        "權威式團體領導": "Authoritarian Group Leadership"
+    },
+    {
+        "威權領導": "Authoritarian Leadership"
+    },
+    {
+        "威權民粹主義": "Authoritarian Populism"
+    },
+    {
+        "威權主義": "Authoritarianism"
+    },
+    {
+        "自閉症": "Autism"
+    },
+    {
+        "自動知覺效應": "Autokinetic Effect"
+    },
+    {
+        "自動登錄": "Automatic Enrollment"
+    },
+    {
+        "嫌惡技術；厭惡技術": "Aversive Techniques"
+    },
+    {
+        "緊急援助{西班牙}": "Ayudas de Emergencia Social {=AES}"
+    },
+    {
+        "嬰兒潮": "Baby boomers"
+    },
+    {
+        "保母系統": "Babysitter System"
+    },
+    {
+        "巴納姆效應": "Barnum Effect"
+    },
+    {
+        "基線": "Base Line"
+    },
+    {
+        "基礎年金": "Basic Pension"
+    },
+    {
+        "國家基本年金": "Basic State Pension"
+    },
+    {
+        "基本工資": "Basic Wage"
+    },
+    {
+        "行為修正": "Behavioral Modification"
+    },
+    {
+        "行為貧窮": "Behavioral Poverty"
+    },
+    {
+        "行為理論": "Behavioral Theories"
+    },
+    {
+        "行為效應": "Behaviour Effect"
+    },
+    {
+        "受益人": "Beneficiary"
+    },
+    {
+        "給付權": "Benefit Right"
+    },
+    {
+        "傷慟": "Bereavement"
+    },
+    {
+        "最佳價值": "Best Value"
+    },
+    {
+        "偏誤；偏見": "Bias"
+    },
+    {
+        "生物反饋；生物回饋": "Biofeedback"
+    },
+    {
+        "生理心理社會靈性模式": "Bio-psycho-social-spiritual Model"
+    },
+    {
+        "躁鬱症": "Bipolar Disorder"
+    },
+    {
+        "非婚生育": "Births out of Wedlock"
+    },
+    {
+        "黑人觀點的社會工作": "Black Perspectives in Social Work"
+    },
+    {
+        "全時式實習安排": "Block Placement"
+    },
+    {
+        "藍十字會": "Blue Cross Association"
+    },
+    {
+        "籃盾協會": "Blue Shield Association"
+    },
+    {
+        "藍領工人": "Blue-collar Worker"
+    },
+    {
+        "保證保險": "Bonding Insurance"
+    },
+    {
+        "保證保險": "Guarantee Insurance"
+    },
+    {
+        "鮑斯特制": "Borstal System"
+    },
+    {
+        "杯葛": "Boycott"
+    },
+    {
+        "腦力激盪法": "Brain Storming Method"
+    },
+    {
+        "哺乳時間": "Breast-feeding Break"
+    },
+    {
+        "哺乳時間": "Nursing breaks"
+    },
+    {
+        "英國社會": "British Association of Social Workers"
+    },
+    {
+        "破碎家庭": "Broken Family Service"
+    },
+    {
+        "預算分配法": "Budget Allocation Methodology"
+    },
+    {
+        "預算束縛": "Budget Constraints"
+    },
+    {
+        "官僚不賦權": "Bureaucratic Disentitlement"
+    },
+    {
+        "官僚理性": "Bureaucratic Rationality"
+    },
+    {
+        "科層規制": "Bureaucratic Regulation"
+    },
+    {
+        "官僚專業主義": "Bureau-professionalism"
+    },
+    {
+        "職業倦怠；職業崩熬": "Burn out"
+    },
+    {
+        "喀爾文主義": "Calvinism"
+    },
+    {
+        "能力建立；能量建立": "Capacity Building"
+    },
+    {
+        "資本累積": "Capital Accumulation"
+    },
+    {
+        "資本主義": "Capitalism"
+    },
+    {
+        "資本化方法": "Capitalization Method"
+    },
+    {
+        "照顧管理": "Care Management"
+    },
+    {
+        "照顧服務": "Care Services"
+    },
+    {
+        "失依兒童教養": "Care to Dependent Children"
+    },
+    {
+        "生涯輔導": "Career Guidance"
+    },
+    {
+        "生涯計劃": "Career Plan"
+    },
+    {
+        "生涯規劃": "Career Planning"
+    },
+    {
+        "缺位照顧者": "Caretaker Absence"
+    },
+    {
+        "照顧者能力不足": "Caretaker Incapacity"
+    },
+    {
+        "卡內基基金會": "Carnegie Foundation"
+    },
+    {
+        "動畫效果": "Carousel Effect"
+    },
+    {
+        "個案倡導；個案倡議；個案辯護": "Case Advocacy"
+    },
+    {
+        "個案助理": "Case Aide"
+    },
+    {
+        "個案分析": "Case Analysis"
+    },
+    {
+        "個案研究會": "Case Conference"
+    },
+    {
+        "個案史": "Case History"
+    },
+    {
+        "個案調查": "Case Investigation"
+    },
+    {
+        "個案負荷": "Case Load"
+    },
+    {
+        "個案管理": "Case Management"
+    },
+    {
+        "個案紀錄": "Case Record"
+    },
+    {
+        "個案轉介": "Case Referral"
+    },
+    {
+        "個案研究": "Case Study"
+    },
+    {
+        "個案研究法": "Case Study Method"
+    },
+    {
+        "個案工作者的價值觀": "Caseworker's Value Aspect"
+    },
+    {
+        "現金給付": "Cash Benefits"
+    },
+    {
+        "類目為基礎的取向": "Category-based Orientation"
+    },
+    {
+        "宣洩；滌清": "Catharsis"
+    },
+    {
+        "因果關係": "Causation"
+    },
+    {
+        "普查": "Census"
+    },
+    {
+        "百歲人瑞": "Centenarian"
+    },
+    {
+        "中央登記制度": "Central Register System"
+    },
+    {
+        "集中化": "Centralization"
+    },
+    {
+        "鏈式取樣": "Chain Sampling"
+    },
+    {
+        "商會": "Chamber of Commerce"
+    },
+    {
+        "雪賓社會地位量表": "Chapin Social Status Scale"
+    },
+    {
+        "慈善組織會社": "Charity Organization Society {=COS}"
+    },
+    {
+        "兒童虐待": "Child Abuse"
+    },
+    {
+        "兒童辯護方案；兒童倡議方案": "Child Advocacy Program"
+    },
+    {
+        "兒童津貼": "Child Allowance"
+    },
+    {
+        "兒童照顧服務": "Child Care Service"
+    },
+    {
+        "兒童犯罪": "Child Delinquency"
+    },
+    {
+        "兒童發展": "Child Development"
+    },
+    {
+        "兒童監護權": "Child Guardian Right"
+    },
+    {
+        "兒童輔導": "Child Guidance"
+    },
+    {
+        "兒童輔導中心": "Child Guidance Center"
+    },
+    {
+        "童工": "Child Labor"
+    },
+    {
+        "兒童不當對待": "Child Maltreatment"
+    },
+    {
+        "兒童疏忽": "Child Neglect"
+    },
+    {
+        "兒童安置": "Child Placement"
+    },
+    {
+        "童妓": "Child Prostitution"
+    },
+    {
+        "兒童保護服務": "Child Protection Service {=CPS}"
+    },
+    {
+        "兒童養育津貼": "Child- raising Allowance"
+    },
+    {
+        "兒童福利": "Child Welfare"
+    },
+    {
+        "兒童福利工作人員": "Child Welfare Worker"
+    },
+    {
+        "兒童心理衛生中心": "Children Mental Health Center"
+    },
+    {
+        "身心障礙兒童": "Children with Disabilities"
+    },
+    {
+        "情緒障礙兒童；情緒困擾兒童": "Children with Emotional Disturbance"
+    },
+    {
+        "兒童節": "Children's Day"
+    },
+    {
+        "兒童之家": "Children's Home"
+    },
+    {
+        "慢性犯罪者": "Chronic Offender"
+    },
+    {
+        "長期依賴效應": "Chronicisation Effect"
+    },
+    {
+        "辛辛那提實驗區": "Cincinnati Social Experiment District"
+    },
+    {
+        "公民館 {日本}": "Citizen Hall {Japan}"
+    },
+    {
+        "市民參與": "Citizen Participation"
+    },
+    {
+        "公民參與": "Civic Engagement"
+    },
+    {
+        "皇室服務人員年金": "Civil List Pensions"
+    },
+    {
+        "公民社會": "Civil Society"
+    },
+    {
+        "案主": "Client"
+    },
+    {
+        "臨床研究": "Client Research"
+    },
+    {
+        "案主中心理論": "Client-centered Theory"
+    },
+    {
+        "案主中心治療": "Client-centered Therapy"
+    },
+    {
+        "氣候難民；氣候變遷難民": "Climate Refugees"
+    },
+    {
+        "氣候難民；氣候變遷難民": "Climate Change Refugees"
+    },
+    {
+        "臨床產業": "Clinical Entrepreneurs"
+    },
+    {
+        "臨床社會工作": "Clinical Social Work"
+    },
+    {
+        "封閉式團體": "Closed Group"
+    },
+    {
+        "封閉式補助": "Closed-end Grants"
+    },
+    {
+        "群聚分析": "Cluster Analysis"
+    },
+    {
+        "群聚抽樣": "Cluster Sampling"
+    },
+    {
+        "編碼簿": "Code Book"
+    },
+    {
+        "編碼": "Coding"
+    },
+    {
+        "強制權": "Coercive Power"
+    },
+    {
+        "認知個案工作": "Cognitive Casework"
+    },
+    {
+        "認知障礙": "Cognitive Disabilities"
+    },
+    {
+        "認知行為理論": "Cognitive-behavioral Theories"
+    },
+    {
+        "世代生育率": "Cohort Fertility Rate"
+    },
+    {
+        "協同領導": "Co-leadership"
+    },
+    {
+        "集體團結": "Collective Solidarity"
+    },
+    {
+        "集體主義": "Collectivism"
+    },
+    {
+        "殖民主義": "Colonialism"
+    },
+    {
+        "出櫃": "Coming Out"
+    },
+    {
+        "商業化": "Commercialization"
+    },
+    {
+        "商品化": "Commodification"
+    },
+    {
+        "服務商品化": "Commodification of Services"
+    },
+    {
+        "溝通": "Communication"
+    },
+    {
+        "溝通管道": "Communication Channels"
+    },
+    {
+        "溝通理論": "Communication Theory"
+    },
+    {
+        "社群主義": "Communitarianism"
+    },
+    {
+        "社區": "Community"
+    },
+    {
+        "社區行動": "Community Action"
+    },
+    {
+        "社區行動機構": "Community Action Agencies"
+    },
+    {
+        "社區行動方案": "Community Action Program"
+    },
+    {
+        "社區行動研究": "Community Action Study"
+    },
+    {
+        "社區資產": "Community Assets"
+    },
+    {
+        "鄰里改善計畫": "Community Betterment Movement"
+    },
+    {
+        "社區範圍": "Community Bound"
+    },
+    {
+        "社區照顧": "Community Care"
+    },
+    {
+        "社區中心": "Community Center"
+    },
+    {
+        "社區基金": "Community Chest"
+    },
+    {
+        "社區控制": "Community Control"
+    },
+    {
+        "社區合作社": "Community Cooperative Society"
+    },
+    {
+        "社區發展": "Community Development"
+    },
+    {
+        "社區發展推行途徑：直接法或方案取向": "Community Development Approach: Direct or Program-oriented"
+    },
+    {
+        "社區發展推行途徑：間接法或方案取向": "Community Development Approach: Indirect or Process-oriented"
+    },
+    {
+        "社區發展基金會": "Community Development Foundation"
+    },
+    {
+        "社區發展模式": "Community Development Model"
+    },
+    {
+        "社區發展過程": "Community Development Process"
+    },
+    {
+        "社區教育": "Community Education"
+    },
+    {
+        "社區充權；社區培力；社區賦權": "Community Empowerment"
+    },
+    {
+        "社區情誼": "Community Feeling"
+    },
+    {
+        "社區功能": "Community Function"
+    },
+    {
+        "社區中橫的關係或內部系統": "Community Horizontal Relationship or Internal System"
+    },
+    {
+        "社區介入": "Community Intervention"
+    },
+    {
+        "社區領導": "Community Leadership"
+    },
+    {
+        "社區心理衛生中心": "Community Mental Health Center"
+    },
+    {
+        "社區組織": "Community Organization"
+    },
+    {
+        "社區計劃": "Community Planning"
+    },
+    {
+        "社區權力結構": "Community Power Structure"
+    },
+    {
+        "社區復原力；社區韌性；社區韌力": "Community Resilience"
+    },
+    {
+        "社區資源": "Community Resources"
+    },
+    {
+        "社區學校": "Community School"
+    },
+    {
+        "社區服務": "Community Service"
+    },
+    {
+        "社區研究法": "Community Study Method"
+    },
+    {
+        "社區中縱的關係或外部系統": "Community Vertical Relationship or External System"
+    },
+    {
+        "社區福利服務": "Community Welfare Service"
+    },
+    {
+        "社區工作": "Community Work"
+    },
+    {
+        "社區工作者": "Community Workers"
+    },
+    {
+        "社區化就業服務": "Community-based Employment Service"
+    },
+    {
+        "社區為基礎的實施": "Community-based Practice"
+    },
+    {
+        "社區為基礎的服務": "Community-based Service"
+    },
+    {
+        "社區處遇": "Community-based Treatment"
+    },
+    {
+        "減刑": "Commutation"
+    },
+    {
+        "比較法": "Comparative Method"
+    },
+    {
+        "比較社會政策": "Comparative Social Policy"
+    },
+    {
+        "補償作用": "Compensation"
+    },
+    {
+        "知能為基礎的社會工作": "Competence-based Social Work"
+    },
+    {
+        "互補模式": "Complementary Pattern"
+    },
+    {
+        "補充年金制度": "Complementary Pension Scheme"
+    },
+    {
+        "完整的健康照顧": "Comprehensive Health Care"
+    },
+    {
+        "疾病壓縮理論": "Compression of Morbidity"
+    },
+    {
+        "妥協的整合；妥協的融入": "Compromised Integration"
+    },
+    {
+        "禁戒處分": "Compulsory Eradication"
+    },
+    {
+        "強制保險": "Compulsory Insurance"
+    },
+    {
+        "強制勞動": "Compulsory Labor"
+    },
+    {
+        "強制治療": "Compulsory Medical Treatment"
+    },
+    {
+        "電腦輔助電話訪問": "Computer-assisted Telephone Interview"
+    },
+    {
+        "概念化": "Conceptualization"
+    },
+    {
+        "調停；調解": "Conciliation"
+    },
+    {
+        "併行式實習安置": "Concurrent Placement"
+    },
+    {
+        "精簡個案紀錄": "Condensed Record"
+    },
+    {
+        "信賴區間": "Confidence Interval {=CI}"
+    },
+    {
+        "保密": "Confidentiality"
+    },
+    {
+        "確證性個案": "Confirming Cases"
+    },
+    {
+        "衝突解決": "Conflict Resolution"
+    },
+    {
+        "面質": "Confrontation"
+    },
+    {
+        "集合住宅": "Congregate Housing"
+    },
+    {
+        "定點共餐方案；定點共食方案": "Congregate Meal Program"
+    },
+    {
+        "意識覺醒": "Consciousness-raising"
+    },
+    {
+        "共識": "Consensus"
+    },
+    {
+        "保守主義": "Conservatism"
+    },
+    {
+        "國際勞工組織憲章": "Constitution of International Labor Organization"
+    },
+    {
+        "女權憲章": "Constitution of Women's Rights"
+    },
+    {
+        "構造類型": "Constructive Typology"
+    },
+    {
+        "諮詢": "Consultation"
+    },
+    {
+        "消費者充權時期": "Consumer Empowerment Period"
+    },
+    {
+        "消費者導向途徑": "Consumer-oriented Approach"
+    },
+    {
+        "內容分析法": "Content Analysis"
+    },
+    {
+        "脈絡治療": "Contextual Therapy"
+    },
+    {
+        "保險事故{社會保險}": "Contingency {social insurance}"
+    },
+    {
+        "契約": "Contract"
+    },
+    {
+        "委託契約外包": "Contracting-out"
+    },
+    {
+        "保險費{社會保險}": "Contribution {social insurance}"
+    },
+    {
+        "保險費率": "Contribution Rate"
+    },
+    {
+        "繳保費的給付": "Contributory Benefits"
+    },
+    {
+        "提撥年金制": "Contributory Pension Scheme"
+    },
+    {
+        "控制實驗": "Controlled Experiment"
+    },
+    {
+        "控制觀察": "Controlled Observation"
+    },
+    {
+        "便利性抽樣": "Convenience Sampling"
+    },
+    {
+        "消除對婦女一切形式歧視公約": "Convention on the Elimination of All Forms of Discrimination Against Women"
+    },
+    {
+        "兒童權利公約": "Convention on the Rights of the Child"
+    },
+    {
+        "傳統寄養家庭": "Conventional Foster Homes"
+    },
+    {
+        "聚合理論": "Convergence Theory"
+    },
+    {
+        "合作事業": "Cooperative Enterprise"
+    },
+    {
+        "合作農場": "Cooperative Farms"
+    },
+    {
+        "合作式住宅會社": "Cooperative Housing Societies"
+    },
+    {
+        "合作社": "Cooperative Society"
+    },
+    {
+        "因應技巧": "Coping Skill"
+    },
+    {
+        "因應策略": "Coping Strategies"
+    },
+    {
+        "知識共創": "Co-production of Knowledge"
+    },
+    {
+        "企業社會責任": "Corporate Social Responsibility"
+    },
+    {
+        "矯正社會工作": "Correctional Social Work"
+    },
+    {
+        "相關": "Correlation"
+    },
+    {
+        "部分費用負擔": "Cost Sharing"
+    },
+    {
+        "成本效益分析": "Cost-benefit Analysis"
+    },
+    {
+        "成本效果分析": "Cost-effectiveness Analysis"
+    },
+    {
+        "小單位機構照顧": "Cottage Plan"
+    },
+    {
+        "社會機構委員會": "Council of Social Agencies"
+    },
+    {
+        "諮商": "Counseling"
+    },
+    {
+        "反轉移作用": "Counter-transference Reaction"
+    },
+    {
+        "伴侶治療": "Couple Therapy"
+    },
+    {
+        "隱匿受害": "Covert Victimization"
+    },
+    {
+        "可信度": "Credibility"
+    },
+    {
+        "信用合作社{德國}": "Credit Union {Germany}"
+    },
+    {
+        "信用合作運動": "Credit Union Movement"
+    },
+    {
+        "犯罪": "Crime"
+    },
+    {
+        "刑事矯治": "Criminal Correction"
+    },
+    {
+        "犯罪經濟": "Criminal Economy"
+    },
+    {
+        "刑事政策": "Criminal Policy"
+    },
+    {
+        "犯罪學": "Criminology"
+    },
+    {
+        "危機介入": "Crisis Intervention {=CI}"
+    },
+    {
+        "福利國家危機": "Crisis of Welfare State"
+    },
+    {
+        "批判多元文化主義": "Critical Multiculturalism"
+    },
+    {
+        "批判理性主義": "Critical Rationalism"
+    },
+    {
+        "批判反思": "Critical Reflection"
+    },
+    {
+        "批判反身性實務工作者": "Critical Reflexive Practitioner"
+    },
+    {
+        "批判社會政策": "Critical Social Policy"
+    },
+    {
+        "批判社會工作": "Critical Social Work"
+    },
+    {
+        "批判的思考": "Critical Thinking"
+    },
+    {
+        "跨文化": "Cross Cultural"
+    },
+    {
+        "交叉表": "Cross Tabulation"
+    },
+    {
+        "橫斷研究法": "Cross-Sectional Approach"
+    },
+    {
+        "文化圖": "Culturagram"
+    },
+    {
+        "文化覺察": "Cultural Awareness"
+    },
+    {
+        "文化保守主義": "Cultural Conservatism"
+    },
+    {
+        "文化多樣性": "Cultural Diversity"
+    },
+    {
+        "貧窮文化": "Cultural of Poverty {=COP}"
+    },
+    {
+        "貧窮文化": "Culture of Poverty"
+    },
+    {
+        "課程政策說明{CSWE}": "Curriculum Policy Statement {CSWE}"
+    },
+    {
+        "常態分配曲線": "Curve of Normal Distribution"
+    },
+    {
+        "親權": "Custody"
+    },
+    {
+        "監護處分": "Custody and Protection"
+    },
+    {
+        "網路欺凌；網路霸凌": "Cyber Bullying"
+    },
+    {
+        "週期性敏感": "Cyclical Sensitivity"
+    },
+    {
+        "循環性失業": "Cyclical Unemployment"
+    },
+    {
+        "日間照顧中心": "Dar Care Center"
+    },
+    {
+        "資料庫系統": "Database System"
+    },
+    {
+        "日間照顧": "Day Care"
+    },
+    {
+        "日間託嬰": "Day Care for Infant"
+    },
+    {
+        "現狀政策": "De Facto Policy"
+    },
+    {
+        "死亡給付": "Death Benefit"
+    },
+    {
+        "分散化；分權化": "Decentralization"
+    },
+    {
+        "智能障礙者權利宣言": "Declaration for Rights of Mental Retardation"
+    },
+    {
+        "兒童權力宣言": "Declaration of Rights of the Child"
+    },
+    {
+        "社會發展宣言": "Declaration of Social Development"
+    },
+    {
+        "社會進步及發展宣言": "Declaration on Social Progress and Development"
+    },
+    {
+        "去商品化": "Decommodification"
+    },
+    {
+        "除罪化": "Decriminalization"
+    },
+    {
+        "自負額": "Deductible"
+    },
+    {
+        "演繹法": "Deductive Method"
+    },
+    {
+        "深度生態學；深層生態學": "Deep Ecology"
+    },
+    {
+        "去家庭化": "Defamilisation"
+    },
+    {
+        "確定給付制": "Defined Benefit Plan, Defined Benefit Scheme"
+    },
+    {
+        "確定提撥制": "Defined Contribution Plan, Defined Contribution Pension"
+    },
+    {
+        "去機構化": "Deinstitutionalization"
+    },
+    {
+        "少年犯罪區域": "Delinquency Areas"
+    },
+    {
+        "得爾法技術；德菲技術": "DELPHI Technique"
+    },
+    {
+        "民主資本主義": "Democratic Capitalism"
+    },
+    {
+        "民主的團體領導": "Democratic Group Leadership"
+    },
+    {
+        "民主社會主義": "Democratic Socialism"
+    },
+    {
+        "人口組成": "Demographic Composition"
+    },
+    {
+        "否定": "Denial"
+    },
+    {
+        "依賴期": "Dependence Period"
+    },
+    {
+        "依變項": "Dependent Variable"
+    },
+    {
+        "壓抑；憂鬱": "Depression"
+    },
+    {
+        "描述性研究": "Descriptive Research"
+    },
+    {
+        "看守所": "Detention Home"
+    },
+    {
+        "發展障礙": "Developmental Disabilities"
+    },
+    {
+        "發展研究法": "Developmental Research"
+    },
+    {
+        "發展任務": "Developmental Tasks"
+    },
+    {
+        "偏差行為理論": "Deviance Behavior Theory"
+    },
+    {
+        "偏差行為": "Deviant Behavior"
+    },
+    {
+        "診斷": "Diagnosis"
+    },
+    {
+        "身心障礙診斷": "Diagnosis of Disability"
+    },
+    {
+        "精神疾病診斷與統計手冊": "Diagnostic and Statistical Manual of Mental Disorder"
+    },
+    {
+        "診斷關聯群": "Diagnostic Related Groups {=DRGs}"
+    },
+    {
+        "職業分類典": "Dictionary of Occupational Titles"
+    },
+    {
+        "區別增強": "Differential Reinforcement"
+    },
+    {
+        "區別量表": "Differential Scale"
+    },
+    {
+        "直接行動": "Direct Action"
+    },
+    {
+        "直接服務機構": "Direct-service Agency"
+    },
+    {
+        "身心障礙者給付": "Disability Benefit"
+    },
+    {
+        "身心障礙運動": "Disability Movement"
+    },
+    {
+        "身心障礙改革配套方案{澳洲}": "Disability Reform Package {Australia}"
+    },
+    {
+        "身心障礙調查": "Disability Surveys"
+    },
+    {
+        "障礙歧視": "Disablism"
+    },
+    {
+        "災難；災害": "Disaster"
+    },
+    {
+        "災難整備；備災": "Disaster Preparedness"
+    },
+    {
+        "出院準備服務": "Discharge Planning"
+    },
+    {
+        "否證性個案": "Disconfirming Cases"
+    },
+    {
+        "論述分析": "Discourse Analysis"
+    },
+    {
+        "裁量權": "Discretionary Power"
+    },
+    {
+        "歧視": "Discrimination"
+    },
+    {
+        "消權": "Disempowerment"
+    },
+    {
+        "隱藏性失業": "Disguised Unemployment"
+    },
+    {
+        "放棄資格的整合；放棄資格的融入": "Disqualified Integration"
+    },
+    {
+        "家庭暴力": "Domestic Violence"
+    },
+    {
+        "家庭暴力": "Family Violence"
+    },
+    {
+        "強勢團體；主導團體": "Dominant Group"
+    },
+    {
+        "雙盲": "Double Blind"
+    },
+    {
+        "向下流動": "Downward Mobility"
+    },
+    {
+        "中輟生": "Dropout Students"
+    },
+    {
+        "藥物濫用": "Drug Abuse"
+    },
+    {
+        "藥物成癮": "Drug Addiction"
+    },
+    {
+        "雙元勞動市場": "Dual Labor Markets"
+    },
+    {
+        "雙職涯家庭": "Dual-career Family"
+    },
+    {
+        "雙薪模式": "Dual-earner Model"
+    },
+    {
+        "虛擬變項": "Dummy Variable"
+    },
+    {
+        "動力個案工作": "Dynamic Casework"
+    },
+    {
+        "動態生育率模式": "Dynamic Fertility Modelling"
+    },
+    {
+        "失功能": "Dysfunction"
+    },
+    {
+        "閱讀障礙": "Dyslexia"
+    },
+    {
+        "非社會行為": "Dyssocial Behavior"
+    },
+    {
+        "早期療育": "Early Intervention"
+    },
+    {
+        "薪資相關年金制": "Earnings-related Pension System"
+    },
+    {
+        "神職人員年金": "Ecclesiastical Pensions"
+    },
+    {
+        "折衷學派個案工作": "Eclectic Approach Casework"
+    },
+    {
+        "折衷主義": "Eclecticism"
+    },
+    {
+        "生態女性主義": "Ecofeminism"
+    },
+    {
+        "生態觀點": "Ecological Approach"
+    },
+    {
+        "生態謬誤": "Ecological Fallacy"
+    },
+    {
+        "生態正義": "Ecological Justice"
+    },
+    {
+        "生態理性": "Ecological Rationality"
+    },
+    {
+        "生態社會工作": "Ecological Social Work"
+    },
+    {
+        "生態系統理論": "Ecological System Theory"
+    },
+    {
+        "生態圖": "Ecomaps"
+    },
+    {
+        "經濟發展": "Economic Development"
+    },
+    {
+        "經濟可行性": "Economic Feasibility"
+    },
+    {
+        "經濟機會法{美國}": "Economic Opportunity Act of 1964 {U.S.A.}"
+    },
+    {
+        "生態系統理論": "Ecosystems Theory"
+    },
+    {
+        "教育輔導": "Educational Guidance"
+    },
+    {
+        "帶職進修": "Educational Leave"
+    },
+    {
+        "教育優先區": "Educational Priority Area"
+    },
+    {
+        "平等夥伴關係": "Egalitarian Partnerships"
+    },
+    {
+        "自我防衛機轉；自我防衛機制": "Ego Defense Mechanism"
+    },
+    {
+        "自我功能": "Ego Function"
+    },
+    {
+        "自我心理學": "Ego Psychology"
+    },
+    {
+        "自我中心主義": "Egocentrism"
+    },
+    {
+        "愛爾伯福制度": "Elberfeld System"
+    },
+    {
+        "老人保護服務": "Elder Protection Service"
+    },
+    {
+        "戀父情結": "Electra Complex"
+    },
+    {
+        "電子監控": "Electronic Monitoring"
+    },
+    {
+        "合格規定": "Eligibility Rules"
+    },
+    {
+        "菁英主義": "Elitism"
+    },
+    {
+        "解放": "Emancipation"
+    },
+    {
+        "解放學派的社會工作": "Emancipatory School of Social Work"
+    },
+    {
+        "緊急救援": "Emergency Relief"
+    },
+    {
+        "緊急救援系統": "Emergency Relief System"
+    },
+    {
+        "自生領導者": "Emergent Leader"
+    },
+    {
+        "情緒虐待": "Emotional Abuse"
+    },
+    {
+        "情緒勞動": "Emotional Labor"
+    },
+    {
+        "情緒不當對待": "Emotional Maltreatment"
+    },
+    {
+        "情緒疏忽": "Emotional Neglect"
+    },
+    {
+        "情緒支持": "Emotional Support"
+    },
+    {
+        "同理心": "Empathy"
+    },
+    {
+        "經驗主義": "Empiricism"
+    },
+    {
+        "員工協助計畫": "Employee Assistance Plans {=EAPs}"
+    },
+    {
+        "員工持股方案": "Employee Ownership Programs"
+    },
+    {
+        "員工選擇持股計畫": "Employee Stock Option Plans"
+    },
+    {
+        "職工福利": "Employee Welfare"
+    },
+    {
+        "勞雇關係": "Employers-employee Relations"
+    },
+    {
+        "勞動契約": "Employment Contract"
+    },
+    {
+        "就業諮商": "Employment Counseling"
+    },
+    {
+        "就業歧視": "Employment Discrimination"
+    },
+    {
+        "職業交換": "Employment Exchange"
+    },
+    {
+        "職業災害保險": "Employment Injury Insurance"
+    },
+    {
+        "就業促進津貼": "Employment Promotion Allowance"
+    },
+    {
+        "就業安全": "Employment Security"
+    },
+    {
+        "就業服務": "Employment Service"
+    },
+    {
+        "就業服務中心": "Employment Service Center"
+    },
+    {
+        "就業服務法": "Employment Services Act"
+    },
+    {
+        "退除役官兵輔導就業": "Employment Services for the Veterans"
+    },
+    {
+        "就業安定基金": "Employment Stability Fund"
+    },
+    {
+        "充權、培力、賦權": "Empowerment"
+    },
+    {
+        "充權圈": "Empowerment Zones"
+    },
+    {
+        "社會工作百科全書": "Encyclopedia of Social Work"
+    },
+    {
+        "內生性": "Endogeneity"
+    },
+    {
+        "企業社群": "Enterprise Communities"
+    },
+    {
+        "環境正義": "Environmental Justice"
+    },
+    {
+        "環境改善": "Environmental Modification"
+    },
+    {
+        "環境種族主義": "Environmental Racism"
+    },
+    {
+        "環境難民": "Environmental Refugees"
+    },
+    {
+        "環境權": "Environmental Rights"
+    },
+    {
+        "環境社會工作": "Environmental Social Work"
+    },
+    {
+        "認識論": "Epistemology"
+    },
+    {
+        "平等就業機會委員會": "Equal Employment Opportunity Commission"
+    },
+    {
+        "機會平等；機會均等": "Equal Opportunity"
+    },
+    {
+        "同工同酬": "Equal Pay for Equal Work"
+    },
+    {
+        "平等主義": "Equalitarianism"
+    },
+    {
+        "等值[量]表": "Equivalency Scales"
+    },
+    {
+        "等值[量]表": "Equivalence Scales"
+    },
+    {
+        "艾瑞克森理論": "Erik Erikson’s Theory"
+    },
+    {
+        "誤差": "Error"
+    },
+    {
+        "本質論": "Essentialism"
+    },
+    {
+        "倫理兩難": "Ethical Dilemmas"
+    },
+    {
+        "倫理多元論": "Ethical Pluralism"
+    },
+    {
+        "社會工作倫理": "Ethics of Social Work"
+    },
+    {
+        "少數民族": "Ethnic Minorities"
+    },
+    {
+        "民族中心主義；民族優越感": "Ethnocentrism"
+    },
+    {
+        "民族誌研究法": "Ethnography"
+    },
+    {
+        "俗民方法學；俗民方法論": "Ethnomethodology"
+    },
+    {
+        "歐洲社會安全法典": "European Code of Social Security"
+    },
+    {
+        "歐洲社會憲章": "European Social Charter"
+    },
+    {
+        "評鑑研究法": "Evaluation Research"
+    },
+    {
+        "證據為基礎的實務": "Evidence-based Practice {=EBP}"
+    },
+    {
+        "證據為參考的實務": "Evidence-informed Practice {=EIP}"
+    },
+    {
+        "退出機率": "Exit Probability"
+    },
+    {
+        "經驗費率": "Experience Rating"
+    },
+    {
+        "實驗法": "Experimental Method"
+    },
+    {
+        "解釋性研究": "Explanatory Research"
+    },
+    {
+        "探索性研究": "Exploratory Research"
+    },
+    {
+        "事後回溯實驗設計": "Ex-post-facto Experiment Design"
+    },
+    {
+        "表達需求": "Expressed Need"
+    },
+    {
+        "擴大家庭": "Extended Family"
+    },
+    {
+        "極端或異常個案取樣": "Extreme or Deviant Case Sampling"
+    },
+    {
+        "費邊社": "Fabian Society"
+    },
+    {
+        "費邊主義": "Fabianism"
+    },
+    {
+        "因素分析": "Factor Analysis"
+    },
+    {
+        "工廠法": "Factory Act"
+    },
+    {
+        "虛假兩難": "False Dilemmas"
+    },
+    {
+        "家庭化": "Familisation"
+    },
+    {
+        "家庭津貼": "Family Allowance"
+    },
+    {
+        "家庭評估": "Family Assessment"
+    },
+    {
+        "家庭照顧者": "Family Carer"
+    },
+    {
+        "家庭連續性": "Family Continuity"
+    },
+    {
+        "家庭諮商": "Family Counseling"
+    },
+    {
+        "家庭法庭": "Family Court"
+    },
+    {
+        "家庭危機治療": "Family Crisis Therapy"
+    },
+    {
+        "家庭日間照顧": "Family Day Care"
+    },
+    {
+        "家庭解組；家庭破裂": "Family Disorganization or Family Destruction"
+    },
+    {
+        "家庭監護人": "Family Guardian"
+    },
+    {
+        "家庭史": "Family History"
+    },
+    {
+        "家庭衡定": "Family Homeostasis"
+    },
+    {
+        "家庭不穩定": "Family Instability"
+    },
+    {
+        "家庭生活教育": "Family Life Education"
+    },
+    {
+        "家庭生命週期": "Family Life-cycle"
+    },
+    {
+        "家系圖": "Family Map"
+    },
+    {
+        "家庭計畫": "Family Planning"
+    },
+    {
+        "家庭政策": "Family Policy"
+    },
+    {
+        "家庭維繫方案": "Family Preservation Program"
+    },
+    {
+        "家庭精神動力": "Family Psychodynamics"
+    },
+    {
+        "家庭重塑": "Family Reconstruction"
+    },
+    {
+        "家庭重聚": "Family Reunification"
+    },
+    {
+        "家庭服務": "Family Services"
+    },
+    {
+        "家庭團結；親族團結": "Family Solidarity; Kin Solidarity"
+    },
+    {
+        "家庭認養制度": "Family Sponsorship System"
+    },
+    {
+        "家族系統": "Family System"
+    },
+    {
+        "家族系統治療": "Family System Therapy"
+    },
+    {
+        "家庭治療": "Family Therapy"
+    },
+    {
+        "農會": "Farmers’ Association"
+    },
+    {
+        "農民健康保險": "Farmers’ Insurance"
+    },
+    {
+        "宿命論": "Fatalism"
+    },
+    {
+        "父職": "Fatherhood"
+    },
+    {
+        "聯邦主義": "Federalism"
+    },
+    {
+        "付費服務": "Fee-for-service"
+    },
+    {
+        "服務使用者付費制度": "Fee-for-service System"
+    },
+    {
+        "感覺需求": "Felt Needs"
+    },
+    {
+        "女性戶長家庭": "Female-headed Families"
+    },
+    {
+        "女性主義": "Feminism"
+    },
+    {
+        "女性主義社會工作": "Feminist Social Work"
+    },
+    {
+        "貧窮女性化": "Feminization of Poverty"
+    },
+    {
+        "實地實驗": "Field Experiment"
+    },
+    {
+        "實習督導": "Field Supervision"
+    },
+    {
+        "實地調查": "Field Survey"
+    },
+    {
+        "社會工作實習": "Field Work {Social Work}"
+    },
+    {
+        "財稅福利": "Fiscal Welfare"
+    },
+    {
+        "漁會": "Fisherperson’s Association"
+    },
+    {
+        "均等給付": "Flat Benefit"
+    },
+    {
+        "均等收費制": "Flat Rate System"
+    },
+    {
+        "彈性就業": "Flexible Employment"
+    },
+    {
+        "彈性退休年齡": "Flexible Retirement Age"
+    },
+    {
+        "彈性工作時間": "Flexible Work Schedule"
+    },
+    {
+        "彈性安全": "Flexicurity"
+    },
+    {
+        "流程圖": "Flowchart"
+    },
+    {
+        "焦點團體": "Focus Group"
+    },
+    {
+        "民俗療法；民俗醫療": "Folk Medicine"
+    },
+    {
+        "追蹤": "Follow Up"
+    },
+    {
+        "世界農糧組織": "Food and Agricultural Organization"
+    },
+    {
+        "食物券方案{美國}": "Food Stamp Program {U.S.A.}"
+    },
+    {
+        "強迫流動": "Forced Mobility"
+    },
+    {
+        "外籍勞工": "Foreigner Workers"
+    },
+    {
+        "組成團體": "Formed Group"
+    },
+    {
+        "寄養照顧": "Foster Care"
+    },
+    {
+        "寄養照顧資訊系統": "Foster Care Information System {=FCIS}"
+    },
+    {
+        "家庭寄養": "Foster Family Care"
+    },
+    {
+        "寄養祖父母方案": "Foster Grandparents Program"
+    },
+    {
+        "寄養父母": "Foster Parents"
+    },
+    {
+        "破碎化；片段化": "Fragmentation"
+    },
+    {
+        "參考架構": "Framing"
+    },
+    {
+        "自由聯想": "Free Association"
+    },
+    {
+        "摩擦性失業": "Frictional Unemployment"
+    },
+    {
+        "友善訪問員": "Friendly Visitors"
+    },
+    {
+        "凍結職業年金": "Frozen Occupational Pension"
+    },
+    {
+        "凍結國家年金": "Frozen State Pension"
+    },
+    {
+        "燃料貧窮": "Fuel Poverty"
+    },
+    {
+        "充分就業": "Full Employment"
+    },
+    {
+        "全額年金": "Full Pension"
+    },
+    {
+        "完全準備基金": "Fully Funded"
+    },
+    {
+        "功能學派": "Functional Approach"
+    },
+    {
+        "功能派個案工作": "Functional Casework"
+    },
+    {
+        "功能社區": "Functional Community"
+    },
+    {
+        "功能平衡": "Functional Equilibrium"
+    },
+    {
+        "基本教義主義": "Fundamentalism"
+    },
+    {
+        "基金準備但未核准退休給付制": "Funded Unapproved Retirement Benefit Schemes {=FURBS}"
+    },
+    {
+        "賭徒謬誤": "Gambler’s Fallacy"
+    },
+    {
+        "守門員角色": "Gatekeeper Role"
+    },
+    {
+        "性別平等": "Gender Equality"
+    },
+    {
+        "性別主流化": "Gender Mainstreaming"
+    },
+    {
+        "性別體制群組": "Gender Regime Clusters"
+    },
+    {
+        "性別權力關係": "Gendered Power Relations"
+    },
+    {
+        "綜融社會工作": "Generalist Social Work"
+    },
+    {
+        "通則化；推論化": "Generalization"
+    },
+    {
+        "代溝": "Generation Gap"
+    },
+    {
+        "代間失功能": "Generational Dysfunction"
+    },
+    {
+        "綜融社會工作": "Generic Social Work"
+    },
+    {
+        "慷慨效應": "Generosity effect"
+    },
+    {
+        "族譜圖": "Genogram"
+    },
+    {
+        "仕紳化": "Gentrification"
+    },
+    {
+        "地理社區": "Geographic Community"
+    },
+    {
+        "老人憂鬱量表": "Geriatric Depression Scale"
+    },
+    {
+        "老人學": "Gerontology"
+    },
+    {
+        "完形治療": "Gestalt Therapy"
+    },
+    {
+        "吉尼係數": "Gini Coefficient"
+    },
+    {
+        "玻璃天花板": "Glass Ceiling"
+    },
+    {
+        "總額預算制": "Global Budgeting"
+    },
+    {
+        "全球化": "Globalization"
+    },
+    {
+        "政府失靈": "Government Failures"
+    },
+    {
+        "銀髮勞動": "Graying Labor Force"
+    },
+    {
+        "大蕭條；大恐慌": "Great Depression"
+    },
+    {
+        "大社會": "Great Society"
+    },
+    {
+        "綠建築專案": "Green House Project"
+    },
+    {
+        "綠社工": "Green Social Work"
+    },
+    {
+        "綠色主義": "Greensim"
+    },
+    {
+        "悲傷輔導": "Grief Counseling"
+    },
+    {
+        "國內生產毛額": "Gross Domestic Product {=GDP}"
+    },
+    {
+        "國民生產毛額": "Gross National Product {=GDP}"
+    },
+    {
+        "國民福利總額": "Gross National Welfare"
+    },
+    {
+        "扎根理論": "Grounded Theory"
+    },
+    {
+        "團體評估": "Group Assessment"
+    },
+    {
+        "團體氣氛": "Group Atmosphere"
+    },
+    {
+        "團體照顧": "Group Care"
+    },
+    {
+        "團體凝聚力": "Group Cohesiveness"
+    },
+    {
+        "團體契約": "Group Contract"
+    },
+    {
+        "團體諮商": "Group Counseling"
+    },
+    {
+        "團體決策": "Group Decision-making"
+    },
+    {
+        "團體發展階段": "Group Development Stages"
+    },
+    {
+        "團體動力": "Group Dynamics"
+    },
+    {
+        "團體催化技巧": "Group Facilitating Skills"
+    },
+    {
+        "團體目標": "Group Goals"
+    },
+    {
+        "團體輔導": "Group Guidance"
+    },
+    {
+        "團體家屋": "Group Home"
+    },
+    {
+        "團體認同": "Group Identification"
+    },
+    {
+        "團體保險": "Group Insurance"
+    },
+    {
+        "團體規範": "Group Norms"
+    },
+    {
+        "團體私人年金": "Group Personal Pensions"
+    },
+    {
+        "團體督導": "Group Supervision"
+    },
+    {
+        "團體治療": "Group Therapy"
+    },
+    {
+        "團體工作模型": "Group Work Models"
+    },
+    {
+        "保證最低所得；保證基本收入": "Guaranteed Minimum Income"
+    },
+    {
+        "保證年金": "Guaranteed Pension "
+    },
+    {
+        "保證退休給付": "Guaranteed Retirement Benefit"
+    },
+    {
+        "監護": "Guardianship"
+    },
+    {
+        "輔導": "Guidance"
+    },
+    {
+        "基爾特{行會}；工匠組織": "Guild"
+    },
+    {
+        "習慣行為": "Habitual Behavior"
+    },
+    {
+        "中途之家": "Half-way House"
+    },
+    {
+        "中途學校": "Half-way School"
+    },
+    {
+        "光環效應": "Halo Effect"
+    },
+    {
+        "漢堡制": "Hamburg System"
+    },
+    {
+        "同和運動{日本}": "Harmony Movement of Japan"
+    },
+    {
+        "霍桑效應": "Hawthorne Effect"
+    },
+    {
+        "危害函數": "Hazard Function"
+    },
+    {
+        "危害率模型": "Hazard Rate Models"
+    },
+    {
+        "迎頭趕上計畫": "Head Start Program"
+    },
+    {
+        "點人頭數據": "Headcount Data"
+    },
+    {
+        "聯合國善後救濟總署": "Head-office of Relief and Reconstruction of the United Nations"
+    },
+    {
+        "健康照顧產業": "Health Care Industry"
+    },
+    {
+        "健康保險": "Health Insurance"
+    },
+    {
+        "健康維護組織": "Health Maintenance Organization"
+    },
+    {
+        "健康平均餘命": "Healthy Life Expectancy {=HALE}"
+    },
+    {
+        "霸權論述": "Hegemonic Discourses"
+    },
+    {
+        "霸權關係": "Hegemonic Relations"
+    },
+    {
+        "前恭後敬效應": "Hello-good-bye Effect"
+    },
+    {
+        "助人專業": "Helping Professions"
+    },
+    {
+        "異質團體": "Heterogeneity Group"
+    },
+    {
+        "異性戀主義": "Heterosexism"
+    },
+    {
+        "異性戀": "Heterosexuality"
+    },
+    {
+        "特殊生活困境扶助{德國}": "Hilfe in besonderen Lebenslagen"
+    },
+    {
+        "維持生計扶助{德國}": "Hilfe zum Lebensunterhalt"
+    },
+    {
+        "歷史研究法": "Historical Research"
+    },
+    {
+        "整體災難介入；整體災害介入": "Holistic Disaster Intervention"
+    },
+    {
+        "社會工作實務的全面模式": "Holistic Model of Social Work Practice"
+    },
+    {
+        "居家照顧": "Home Care"
+    },
+    {
+        "住宅貸款保險": "Home Mortgage Insurance"
+    },
+    {
+        "居家修繕計畫": "Home Repair Program"
+    },
+    {
+        "家庭訪視": "Home Visit"
+    },
+    {
+        "送餐到家": "Home-delivered Meals"
+    },
+    {
+        "無家可歸": "Homelessness"
+    },
+    {
+        "家事服務": "Homemaker Service"
+    },
+    {
+        "恆定": "Homeostasis"
+    },
+    {
+        "同質團體": "Homogeneity Group"
+    },
+    {
+        "同質性抽樣": "Homogeneous Sampling"
+    },
+    {
+        "恐同症": "Homophobia"
+    },
+    {
+        "同性戀": "Homosexuality"
+    },
+    {
+        "安寧照護": "Hospice Care"
+    },
+    {
+        "工時": "Hours of Work"
+    },
+    {
+        "收容所": "House of Refuge"
+    },
+    {
+        "家務勞動": "Household Labor"
+    },
+    {
+        "住宅公司": "Housing Corporation"
+    },
+    {
+        "住宅政策": "Housing Policy"
+    },
+    {
+        "胡爾館": "Hull House"
+    },
+    {
+        "人力資本": "Human Capital"
+    },
+    {
+        "人力資本投資": "Human Capital Investments"
+    },
+    {
+        "人類多樣性": "Human Diversity"
+    },
+    {
+        "人力資源": "Human Resources"
+    },
+    {
+        "人權": "Human Right"
+    },
+    {
+        "人道主義": "Humanism"
+    },
+    {
+        "機密謬誤": "Hush Hush Fallacy"
+    },
+    {
+        "催眠": "Hypnosis"
+    },
+    {
+        "疑病症": "Hypochondriasis"
+    },
+    {
+        "假設": "Hypothesis"
+    },
+    {
+        "本我": "Id"
+    },
+    {
+        "理念型": "Ideal Type"
+    },
+    {
+        "社會工作意識形態": "Ideology in Social Work"
+    },
+    {
+        "虛幻的相關性": "Illusory Correlations"
+    },
+    {
+        "影響評估": "Impact Assessment"
+    },
+    {
+        "現金給付": "In Cash"
+    },
+    {
+        "在宅服務": "In Home Services"
+    },
+    {
+        "實境減敏感": "In Vivo Desensitization"
+    },
+    {
+        "所得分配": "Income Distribution"
+    },
+    {
+        "所得維持": "Income Maintenance"
+    },
+    {
+        "所得門檻": "Income Thresholds"
+    },
+    {
+        "不一致": "Incongruence"
+    },
+    {
+        "漸進主義": "Incrementalism"
+    },
+    {
+        "獨立勸募": "Independent Campaign"
+    },
+    {
+        "獨立生活": "Independent Living"
+    },
+    {
+        "自變項；自變數": "Independent Variable"
+    },
+    {
+        "兒童受虐指標": "Indicators of Child Abuse"
+    },
+    {
+        "社會工作本土化": "Indigenization of Social Work"
+    },
+    {
+        "間接服務": "Indirect services"
+    },
+    {
+        "個人帳戶": "Individual Accounts"
+    },
+    {
+        "個人知能": "Individual Competencies"
+    },
+    {
+        "個人發展帳戶": "Individual Development Accounts {=IDAs}"
+    },
+    {
+        "個人年金；私人年金": "Individual Pensions; Personal Pensions"
+    },
+    {
+        "個人退休帳戶": "Individual Retirement Accounts {=IRAs}"
+    },
+    {
+        "個別督導": "Individual Supervision"
+    },
+    {
+        "個人失業帳戶": "Individual Unemployment Accounts {=IUAs}"
+    },
+    {
+        "個人主義": "Individualism"
+    },
+    {
+        "個別化": "Individualization"
+    },
+    {
+        "個別教育方案": "Individualized Educational Program"
+    },
+    {
+        "個別化就業服務": "Individualized Employment Service"
+    },
+    {
+        "個別化家庭服務計畫": "Individualized Family Service Plan"
+    },
+    {
+        "院內救濟": "Indoor Relief"
+    },
+    {
+        "歸納法": "Inductive Method"
+    },
+    {
+        "工業民主": "Industrial Democracy"
+    },
+    {
+        "工業關係": "Industrial Relations"
+    },
+    {
+        "工業安全衛生": "Industrial Safety and Health"
+    },
+    {
+        "工業服務": "Industrial Service"
+    },
+    {
+        "工業社會工作": "Industrial Social Work"
+    },
+    {
+        "產業工人": "Industrial Worker"
+    },
+    {
+        "工業化": "Industrialization"
+    },
+    {
+        "嬰兒死亡率": "Infant Morality"
+    },
+    {
+        "推斷需求": "Inferred Need"
+    },
+    {
+        "非正式照顧": "Informal Care"
+    },
+    {
+        "非正式訪談": "Informal Interview"
+    },
+    {
+        "在宅服務": "In-home Services"
+    },
+    {
+        "傷害給付": "Injury Benefit"
+    },
+    {
+        "機構虐待": "Institutional Abuse"
+    },
+    {
+        "制度探究法": "Institutional Approach"
+    },
+    {
+        "機構式照顧": "Institutional Care"
+    },
+    {
+        "制度民族誌；建制民族誌": "Institutional Ethnography"
+    },
+    {
+        "制度性機制": "Institutional Mechanisms"
+    },
+    {
+        "機構式處遇；機構式處置": "Institutional Treatment"
+    },
+    {
+        "制度化歧視": "Institutionalized Discrimination"
+    },
+    {
+        "工具性日常生活活動功能": "Instrumental Activities of Daily Living {=IADL}"
+    },
+    {
+        "保險給付": "Insurance Benefits"
+    },
+    {
+        "保險財務": "Insurance Finance"
+    },
+    {
+        "保險基金": "Insurance Fund"
+    },
+    {
+        "被保險人": "Insured Person"
+    },
+    {
+        "投保薪資": "Insured Salary"
+    },
+    {
+        "投保薪資": "Covered Salary"
+    },
+    {
+        "投保單位": "Insured Units"
+    },
+    {
+        "保險人": "Insurer"
+    },
+    {
+        "接案": "Intake"
+    },
+    {
+        "整合安全網模式": "Integrated Safety Net Model"
+    },
+    {
+        "智商": "Intelligence Quotient"
+    },
+    {
+        "智力測驗": "Intelligence Test"
+    },
+    {
+        "深度取樣": "Intensity Sampling"
+    },
+    {
+        "強度觀護": "Intensive Supervised Probation"
+    },
+    {
+        "互動過程分析": "Interaction Process Analysis"
+    },
+    {
+        "跨機構協力": "Inter-agency Collaboration"
+    },
+    {
+        "跨專業團隊": "Interdisciplinary Team"
+    },
+    {
+        "利益團體": "Interest Group"
+    },
+    {
+        "跨世代剝奪": "Inter-generational Deprivation"
+    },
+    {
+        "代間關係": "Inter-generational Relations"
+    },
+    {
+        "代間移轉": "Inter-generational Transfer"
+    },
+    {
+        "中介結構": "Intermediate Structures"
+    },
+    {
+        "內在效度": "Internal Validity"
+    },
+    {
+        "國際社會工作學校協會": "International Association of Schools of Social Work"
+    },
+    {
+        "身心障礙國際分類": "International Classification of Impairment, Disabilities and Handicaps"
+    },
+    {
+        "老人節": "International Day of Older Persons"
+    },
+    {
+        "國際身心障礙者日": "International Day of Persons with Disabilities"
+    },
+    {
+        "國際社會工作者聯盟": "International Federation of Social Workers"
+    },
+    {
+        "國際勞工公約": "International Labor Convention"
+    },
+    {
+        "國際勞工組織": "International Labor Organization"
+    },
+    {
+        "國際勞工建議書": "International Labor Recommendation"
+    },
+    {
+        "國際勞工標準": "International Labor Standard"
+    },
+    {
+        "國際貨幣基金會": "International Monetary Fund {=IMF}"
+    },
+    {
+        "國際家庭計畫聯盟": "International Planned Parenthood Federation"
+    },
+    {
+        "國際難民組織": "International Refugee Organization"
+    },
+    {
+        "人際關係": "International Relation"
+    },
+    {
+        "國際社會安全協會": "International Social Security Association"
+    },
+    {
+        "國際社會工作": "International Social Work"
+    },
+    {
+        "國際志工日": "International Volunteers’ Day"
+    },
+    {
+        "國際婦女節": "International Women’s Day"
+    },
+    {
+        "國際勞動節": "International Worker’s Day; Labour Day"
+    },
+    {
+        "國際消除貧窮年": "International Year for the Eradication of Poverty"
+    },
+    {
+        "國際家庭年": "International Year of Family"
+    },
+    {
+        "跨州人力媒合中心": "Inter-state Job Clearance Center"
+    },
+    {
+        "等距尺度；區間尺度": "Interval Scale"
+    },
+    {
+        "中介變項；中介變數": "Intervening Variable"
+    },
+    {
+        "介入": "Intervention"
+    },
+    {
+        "訪問法；訪談法": "Interview Method"
+    },
+    {
+        "訪員偏誤": "Interviewer Bias"
+    },
+    {
+        "會談": "Interviewing"
+    },
+    {
+        "訪問技術；訪談技術": "Interviewing Techniques"
+    },
+    {
+        "親密關係暴力": "Intimate Partner Violence {=IPV}"
+    },
+    {
+        "代內移轉": "Intra-generational Transfer"
+    },
+    {
+        "入門學徒": "Introductory Apprenticeship"
+    },
+    {
+        "非自願性案主": "Involuntary Clients"
+    },
+    {
+        "非自願性團體": "Involuntary Group"
+    },
+    {
+        "職務再設計": "Job Accommodation"
+    },
+    {
+        "職務再設計": "Worksite Accommodation"
+    },
+    {
+        "職位分析": "Job Analysis"
+    },
+    {
+        "人力銀行": "Job Bank"
+    },
+    {
+        "工作團": "Job Corps"
+    },
+    {
+        "職位說明": "Job Description"
+    },
+    {
+        "工作插入": "Job Insertion"
+    },
+    {
+        "工作安排": "Job Placement"
+    },
+    {
+        "尋職津貼": "Jobseeker's Allowance"
+    },
+    {
+        "少年法院；少年法庭": "Juvenile Court"
+    },
+    {
+        "少年刑事案件": "Juvenile Criminal Case"
+    },
+    {
+        "少年犯罪": "Juvenile Delinquency"
+    },
+    {
+        "少年觀護所": "Juvenile Detention House"
+    },
+    {
+        "少年幫派": "Juvenile Gang"
+    },
+    {
+        "少年司法": "Juvenile Justice"
+    },
+    {
+        "少年監獄": "Juvenile Prison"
+    },
+    {
+        "少年保護處分": "Juvenile Protective Measures"
+    },
+    {
+        "少年次文化": "Juvenile Subculture"
+    },
+    {
+        "關鍵個案取樣": "Key Case Sampling"
+    },
+    {
+        "凱因斯經濟學": "Keynesian Economics"
+    },
+    {
+        "克布茲{以色列公社}": "Kibbtutz"
+    },
+    {
+        "勞工武士會": "Knights of Labor"
+    },
+    {
+        "標籤化": "Labelling"
+    },
+    {
+        "標籤理論": "Labelling Theory"
+    },
+    {
+        "勞動協約": "Labor Agreement"
+    },
+    {
+        "勞動條件": "Labor Conditions"
+    },
+    {
+        "勞資爭議": "Labor Dispute"
+    },
+    {
+        "勞動力": "Labor Force"
+    },
+    {
+        "勞動參與率": "Labor Force Participation"
+    },
+    {
+        "勞動檢查": "Labor Inspection"
+    },
+    {
+        "勞工保險": "Labor Insurance"
+    },
+    {
+        "勞工立法": "Labor Legislation"
+    },
+    {
+        "勞動市場": "Labor Market"
+    },
+    {
+        "勞工運動": "Labor Movement"
+    },
+    {
+        "勞工政策": "Labor Policy"
+    },
+    {
+        "勞工問題": "Labor Problem"
+    },
+    {
+        "勞動關係": "Labor Relations"
+    },
+    {
+        "勞動基準": "Labor Standards"
+    },
+    {
+        "工會": "Labor Union Law"
+    },
+    {
+        "勞工福利": "Labor Welfare"
+    },
+    {
+        "勞工福利指標": "Labor Welfare Indicators"
+    },
+    {
+        "放任的團體領導": "Laissez-faire Group Leadership"
+    },
+    {
+        "鑰匙兒": "Latchkey Child"
+    },
+    {
+        "大數法則": "Law of Large Numbers"
+    },
+    {
+        "學習障礙": "Learning Difficulties"
+    },
+    {
+        "脫離狀態曲線": "Leaving Curves"
+    },
+    {
+        "法律扶助": "Legal Aid"
+    },
+    {
+        "法定給付": "Legal Benefits"
+    },
+    {
+        "法定給付": "Statutory Benefits"
+    },
+    {
+        "法律監護權": "Legal Guardianship"
+    },
+    {
+        "有閒階級": "Leisure Class"
+    },
+    {
+        "多元性傾向社群": "Lesbian, Gay, Bisexual, amd Transgendered Community {=LGBT Community}"
+    },
+    {
+        "消費水準": "Level of Consumption"
+    },
+    {
+        "實習指導教師": "Liaison Instructor"
+    },
+    {
+        "社會工作師": "Licensed Social Workers"
+    },
+    {
+        "生命歷程": "Life Course"
+    },
+    {
+        "生命歷程研究": "Life Course Research"
+    },
+    {
+        "生命循環模式": "Life Cycle Models"
+    },
+    {
+        "平均餘命": "Life Expectancy"
+    },
+    {
+        "生命線": "Life Line"
+    },
+    {
+        "生活模式": "Life Model"
+    },
+    {
+        "生命回顧": "Life Review"
+    },
+    {
+        "生活軌跡": "Life Trajectories"
+    },
+    {
+        "終生教育": "Lifelong Education"
+    },
+    {
+        "終生學習": "Lifelong Learning"
+    },
+    {
+        "李克特量表": "Likert Scale"
+    },
+    {
+        "獅子會": "Lions Clubs International"
+    },
+    {
+        "在地知識": "Local Knowledge"
+    },
+    {
+        "本地社會": "Local Society"
+    },
+    {
+        "地方主義": "Localism"
+    },
+    {
+        "對數線性模型": "Log-linear Models"
+    },
+    {
+        "龍布羅梭學派": "Lombrosian School"
+    },
+    {
+        "長壽": "Longevity"
+    },
+    {
+        "貫時性研究": "Longitudinal Study"
+    },
+    {
+        "長期照顧權利維護者": "Long-term Care Ombudsman"
+    },
+    {
+        "低收入家庭": "Low Income Family"
+    },
+    {
+        "一次給付": "Lump-sum Payment"
+    },
+    {
+        "巨視實施": "Macro Practice"
+    },
+    {
+        "巨視社會工作；宏觀社會工作": "Macro Social Work"
+    },
+    {
+        "郵寄問卷法": "Mailing Questionnaire Method"
+    },
+    {
+        "主流服務": "Mainstream Services"
+    },
+    {
+        "主流社會工作": "Mainstream Social Work"
+    },
+    {
+        "適應不良學生": "Maladjusted Student"
+    },
+    {
+        "男性賺食模式；男性養家模式": "Male Breadwinner Models"
+    },
+    {
+        "不當對待": "Maltreatment"
+    },
+    {
+        "勞資會議": "Management and Labor Council"
+    },
+    {
+        "目標管理": "Management by Objectives {=MBO}"
+    },
+    {
+        "人力資源管理": "Management of Human Resource"
+    },
+    {
+        "資訊系統管理": "Managing Information Systems"
+    },
+    {
+        "人力": "Manpower"
+    },
+    {
+        "人力發展": "Manpower Development"
+    },
+    {
+        "人力動員": "Manpower Mobilization"
+    },
+    {
+        "人力規劃": "Manpower Planning"
+    },
+    {
+        "人力供需": "Manpower Supply-demand"
+    },
+    {
+        "人力資源調查": "Manpower Survey"
+    },
+    {
+        "毛利人的社會工作": "Maori Social Work"
+    },
+    {
+        "邊緣化": "Marginalization"
+    },
+    {
+        "婚姻不穩定": "Marital Instability"
+    },
+    {
+        "市場失靈": "Market Failures"
+    },
+    {
+        "市場機制": "Market Mechanism"
+    },
+    {
+        "婚姻諮商": "Marriage Counseling"
+    },
+    {
+        "婚姻調解": "Marriage Mediation"
+    },
+    {
+        "馬克思主義": "Marxism"
+    },
+    {
+        "陽剛特質；男子氣概": "Masculinitie"
+    },
+    {
+        "大眾傳播": "Mass Communication"
+    },
+    {
+        "大眾傳播媒體": "Mass Media"
+    },
+    {
+        "母性主義的改革": "Maternalistic Reform"
+    },
+    {
+        "生育給付": "Maternity Benefit"
+    },
+    {
+        "生育補助": "Maternity Grant"
+    },
+    {
+        "產假": "Maternity Leave"
+    },
+    {
+        "母性保護": "Maternity Protection"
+    },
+    {
+        "母權社會": "matriarchal society"
+    },
+    {
+        "母系社會": "matrilineal society"
+    },
+    {
+        "送餐": "Meal on the wheels"
+    },
+    {
+        "資產調查": "Means Test"
+    },
+    {
+        "測量": "Measurement"
+    },
+    {
+        "測量誤差": "Measurement Error"
+    },
+    {
+        "測量工具": "Measurement Instrument"
+    },
+    {
+        "調解": "Mediation"
+    },
+    {
+        "美國醫療救助": "Medicaid"
+    },
+    {
+        "醫療給付": "Medical Benefit"
+    },
+    {
+        "醫療照護法": "Medical Care Act"
+    },
+    {
+        "醫療安全制度": "Medical Security System"
+    },
+    {
+        "醫務社會工作": "Medical Social Work"
+    },
+    {
+        "醫療補助": "Medical Subsidy"
+    },
+    {
+        "美國老年醫療保險": "Medicare"
+    },
+    {
+        "心智年齡": "Mental Age"
+    },
+    {
+        "心理健康；精神健康": "Mental Health {Hygiene}"
+    },
+    {
+        "智能障礙": "Mental Retardation"
+    },
+    {
+        "身心障礙": "Mentally and Physically Disabled"
+    },
+    {
+        "實績費率制": "Merit Rate System"
+    },
+    {
+        "後設分析": "Meta-analysis"
+    },
+    {
+        "方法學；方法論": "Methodology"
+    },
+    {
+        "微視實施": "Micro Practice"
+    },
+    {
+        "微視社會工作": "Micro Social Work"
+    },
+    {
+        "小額信用": "Microcredit"
+    },
+    {
+        "微型企業": "Microenterprise"
+    },
+    {
+        "微型財務": "Microfinance"
+    },
+    {
+        "微視分析": "Microscopic Analysis"
+    },
+    {
+        "外籍勞工；移工": "Migrant Workers"
+    },
+    {
+        "軍國主義": "Militarism"
+    },
+    {
+        "軍隊社會工作": "Military Social Work"
+    },
+    {
+        "簡易智能狀態測驗": "Mini-Mental Status Examination {=MMSE}"
+    },
+    {
+        "最低生活費": "Minimum Cost of Living"
+    },
+    {
+        "最低工資": "Minimum Wages"
+    },
+    {
+        "少數團體": "Minority Group"
+    },
+    {
+        "示範城鎮": "Model City"
+    },
+    {
+        "犯罪手法": "Modus Operandi"
+    },
+    {
+        "犯罪手法": "Method of Operation"
+    },
+    {
+        "道德主義": "Moralism"
+    },
+    {
+        "不動產證券化": "Mortgage Securitization"
+    },
+    {
+        "動機研究": "Motivation Research"
+    },
+    {
+        "多元文化能力": "Multicultural Competence"
+    },
+    {
+        "多元文化主義": "Multiculturalism"
+    },
+    {
+        "多元文化主義": "Cultural Pluralism"
+    },
+    {
+        "多專業團隊；多學門團隊": "Multidisciplinary Team"
+    },
+    {
+        "多家庭治療": "Multiple-family Therapy"
+    },
+    {
+        "多目標老人中心": "Multipurpose Senior Center"
+    },
+    {
+        "多階段抽樣": "Multi-stage Sampling"
+    },
+    {
+        "多變數分析": "Multivariate Analysis"
+    },
+    {
+        "音樂治療": "Music Therapy"
+    },
+    {
+        "互助社": "Mutual Aid Society"
+    },
+    {
+        "互助系統": "Mutual Aid System"
+    },
+    {
+        "互助論": "Mutual Aid Theory"
+    },
+    {
+        "敘事取向": "Narrative Approach"
+    },
+    {
+        "敘事研究": "Narrative Research"
+    },
+    {
+        "敘事治療": "Narrative Therapy"
+    },
+    {
+        "國家就業儲蓄信託": "National Employment Savings Trust {=NEST}"
+    },
+    {
+        "全民健康保險": "National Health Insurance"
+    },
+    {
+        "國民所得": "National Income"
+    },
+    {
+        "國民年金": "National Pensions"
+    },
+    {
+        "國籍": "Nationality"
+    },
+    {
+        "原生資源體系": "Natural Resources System"
+    },
+    {
+        "近貧": "Near Poor"
+    },
+    {
+        "需求評估": "Needs Assessment"
+    },
+    {
+        "負所得稅": "Negative Income Tax"
+    },
+    {
+        "負移轉給付": "Negative Transfers"
+    },
+    {
+        "鄰里凝聚": "Neighborhood Cohesion"
+    },
+    {
+        "鄰里日託服務": "Neighborhood Day Care Service"
+    },
+    {
+        "鄰里組織": "Neighborhood Guild"
+    },
+    {
+        "鄰里服務中心": "Neighborhood Service Center"
+    },
+    {
+        "鄰里單元計畫": "Neighborhood Unit Plan"
+    },
+    {
+        "鄰里青年團": "Neighborhood Youth Corps"
+    },
+    {
+        "鄰里中心": "Neighbourhood Centres"
+    },
+    {
+        "鄰里主義": "Neighbourhoodism"
+    },
+    {
+        "新保守主義": "Neo-conservatism"
+    },
+    {
+        "新佛洛伊德主義": "Neo-Freudianism"
+    },
+    {
+        "新自由主義": "Neoliberalism"
+    },
+    {
+        "新馬克斯主義": "Neo-Marxism"
+    },
+    {
+        "網絡分析": "Network Analysis"
+    },
+    {
+        "精神官能症": "Neurosis"
+    },
+    {
+        "新政": "New Deal"
+    },
+    {
+        "單親家長新政": "New Deal for Lone Parents"
+    },
+    {
+        "新漢堡制": "New Hamburg System"
+    },
+    {
+        "和諧新村": "New Harmony Village"
+    },
+    {
+        "新左派": "New Left"
+    },
+    {
+        "新管理主義": "New Managerialism"
+    },
+    {
+        "新右派": "New Right"
+    },
+    {
+        "新市鎮": "New Town"
+    },
+    {
+        "紐西蘭志願性長期儲蓄制": "New Zealand Voluntary Long-term Savings Scheme; KiwiSaver "
+    },
+    {
+        "名目尺度；名義尺度": "Nominal Scale"
+    },
+    {
+        "非繳費制": "Non-contributory System"
+    },
+    {
+        "非控制觀察": "Non-controlled Observation"
+    },
+    {
+        "非指引訪談": "Non-directive Interview"
+    },
+    {
+        "非機構性處遇": "Non-institutional Treatment"
+    },
+    {
+        "非營利組織": "Nonprofit Organizations"
+    },
+    {
+        "非結構性團體": "Non-structured Group"
+    },
+    {
+        "常態分配": "Normal Distribution"
+    },
+    {
+        "正常化": "Normalization"
+    },
+    {
+        "規範需求": "Normative Need"
+    },
+    {
+        "非勞動力": "Not in Labor Force"
+    },
+    {
+        "核心家庭": "Nuclear Family"
+    },
+    {
+        "數值尺度": "Numerical Scales"
+    },
+    {
+        "營養餐食服務": "Nutrition Services"
+    },
+    {
+        "觀察法": "Observation Method"
+    },
+    {
+        "職業災害": "Occupational Accident"
+    },
+    {
+        "職業病": "Occupational Disease"
+    },
+    {
+        "職業年金": "Occupational Pensions"
+    },
+    {
+        "職業安全衛生": "Occupational Safety and Health"
+    },
+    {
+        "職業隔離": "Occupational Segregation"
+    },
+    {
+        "職能治療": "Occupational Therapy"
+    },
+    {
+        "戀母情結": "Oedipus Complex"
+    },
+    {
+        "老年給付": "Old-age Benefit"
+    },
+    {
+        "老年保險": "Old-age Insurance"
+    },
+    {
+        "老年遺囑殘障保險{美國}": "Old-age, Survivors, Disability Insurance"
+    },
+    {
+        "美國老人法": "Older Americans Act {=OAA}"
+    },
+    {
+        "權利維護者": "Ombudsman"
+    },
+    {
+        "單一窗口": "One Stop Service"
+    },
+    {
+        "在職訓練": "On-the-job Training {=OJT}"
+    },
+    {
+        "開放式矯正機構": "Open Correctional Institution"
+    },
+    {
+        "開放式團體": "Open Group"
+    },
+    {
+        "開放工廠": "Open Shop"
+    },
+    {
+        "開放式補助": "Open-end Grants"
+    },
+    {
+        "操作性取樣": "Operational Construct Sampling"
+    },
+    {
+        "機會取樣": "Opportunistic Sampling"
+    },
+    {
+        "口述歷史": "Oral History"
+    },
+    {
+        "順序尺度；次序尺度": "Ordinal Scale"
+    },
+    {
+        "普通最小平方": "Ordinary Least Squares {=OLS}"
+    },
+    {
+        "器官移植": "Organ Transfer"
+    },
+    {
+        "經濟合作與發展組織": "Organization for Economic Cooperation and Development {=OECD}"
+    },
+    {
+        "組織犯罪": "Organized Crime"
+    },
+    {
+        "孤兒年金": "Orphans Pension"
+    },
+    {
+        "他者化": "Othering"
+    },
+    {
+        "外展": "Out Reach"
+    },
+    {
+        "院外救濟": "Outdoor Relief"
+    },
+    {
+        "院外服務": "Outdoor Service"
+    },
+    {
+        "家外照顧": "Out-of-home Care"
+    },
+    {
+        "緩和療護": "Palliative Care"
+    },
+    {
+        "陪席式討論會": "Panel Discussion"
+    },
+    {
+        "典範": "Paradigm"
+    },
+    {
+        "國家親權主義": "Parens Patriae"
+    },
+    {
+        "國家親權主義": "The Parent of The Country"
+    },
+    {
+        "親職教育": "Parent Education"
+    },
+    {
+        "父母效能訓練": "Parent Efficacy Training {=PET}"
+    },
+    {
+        "親職假": "Parental Leave"
+    },
+    {
+        "親職化": "Parentification"
+    },
+    {
+        "父母共享": "Parents’ Fair Share"
+    },
+    {
+        "親師協會": "Parent-Teacher Association"
+    },
+    {
+        "教區救濟": "Parish Relief"
+    },
+    {
+        "帕金森氏症": "Parkinson's Disease"
+    },
+    {
+        "假釋": "Parole"
+    },
+    {
+        "假釋": "Conditional Release"
+    },
+    {
+        "參與觀察": "Participant Observation"
+    },
+    {
+        "夥伴照顧": "Partner Care"
+    },
+    {
+        "過去服務責任{年資併計}": "Past Service Liability"
+    },
+    {
+        "家長主義；父權主義": "Paternalism"
+    },
+    {
+        "陪產假": "Paternity Leave"
+    },
+    {
+        "路徑分析；因徑分析": "Path Analysis"
+    },
+    {
+        "病人權利": "Patient Rights"
+    },
+    {
+        "病人自助團體": "Patient Self-help Group"
+    },
+    {
+        "父權": "Patriarchy"
+    },
+    {
+        "庇護系統": "Patronage System"
+    },
+    {
+        "隨收隨付制": "Pay As You Go Scheme"
+    },
+    {
+        "醫療服務支付制度": "Payment System of Medical Service"
+    },
+    {
+        "和平工作團": "Peace Corps"
+    },
+    {
+        "同儕團體": "Peer Group"
+    },
+    {
+        "刑罰": "Penalty"
+    },
+    {
+        "賓夕維尼亞制": "Pennsylvania System"
+    },
+    {
+        "刑罰學": "Penology"
+    },
+    {
+        "年金": "Pension"
+    },
+    {
+        "年金": "Annuity"
+    },
+    {
+        "年金調整": "Pension Adjustment"
+    },
+    {
+        "年金基金管理人": "Pension Fund Administrators {=PFAs}"
+    },
+    {
+        "年金基金監理人": "Pension Fund Custodians"
+    },
+    {
+        "年金保險": "Pension Insurance"
+    },
+    {
+        "年金保證基金": "Pension Protection Fund "
+    },
+    {
+        "年金信託": "Pension Trust"
+    },
+    {
+        "年金給付年齡": "Pensionable Age"
+    },
+    {
+        "定期給付": "Periodical Payments"
+    },
+    {
+        "終生保險": "Permanent Life Insurance"
+    },
+    {
+        "終身或世襲年金": "Perpetual or Hereditary Pensions"
+    },
+    {
+        "個人社會服務": "Personal Social Services"
+    },
+    {
+        "人在環境中": "Person-in-environment"
+    },
+    {
+        "現象學": "Phenomenology"
+    },
+    {
+        "費城宣言": "Philadelphia Declaration"
+    },
+    {
+        "慈善事業": "Philanthropy"
+    },
+    {
+        "物理治療": "Physical Therapy"
+    },
+    {
+        "肢體障礙兒童": "Physically Handicapped Children"
+    },
+    {
+        "肢體障礙兒童": "Children with Physically Challenge"
+    },
+    {
+        "糾察": "Picketing"
+    },
+    {
+        "示範社區": "Pilot Community"
+    },
+    {
+        "粉紅領勞工": "Pink-collar Worker"
+    },
+    {
+        "安慰劑效應": "Placebo Effect"
+    },
+    {
+        "身心障礙者就業安置": "Placement for the Disabled or Handicapped"
+    },
+    {
+        "柏拉圖共和國": "Plato’s “Republic”"
+    },
+    {
+        "遊戲治療": "Play Therapy"
+    },
+    {
+        "政策分析": "Policy Analysis"
+    },
+    {
+        "政策評鑑": "Policy Evaluation"
+    },
+    {
+        "政策規劃": "Policy Planning"
+    },
+    {
+        "政策研究": "Policy Research"
+    },
+    {
+        "政治酬賞年金": "Political Pensions"
+    },
+    {
+        "一夫多妻": "Polygamy"
+    },
+    {
+        "濟貧法": "Poor Law"
+    },
+    {
+        "濟貧稅": "Poor-relief Tax"
+    },
+    {
+        "母群體": "Population"
+    },
+    {
+        "人口政策": "Population Policy"
+    },
+    {
+        "人口問題": "Population Problems"
+    },
+    {
+        "佔有式個人主義": "Possessive individualism"
+    },
+    {
+        "創傷後壓力症候群": "Post Traumatic Stress Disorder {=PTSD}"
+    },
+    {
+        "後千禧論": "Postmillennialism"
+    },
+    {
+        "後現代主義": "Postmodernism"
+    },
+    {
+        "後現代主義": "Post-modernism"
+    },
+    {
+        "潛在勞動力": "Potential Labor Force"
+    },
+    {
+        "貧窮": "Poverty"
+    },
+    {
+        "貧窮線": "Poverty Line"
+    },
+    {
+        "深陷貧窮": "Poverty Trap"
+    },
+    {
+        "實用主義；務實主義": "Pragmatism"
+    },
+    {
+        "犯罪預測": "Prediction of Crime"
+    },
+    {
+        "預測性研究": "Prediction Study"
+    },
+    {
+        "犯罪預測表": "Prediction Table of Crime"
+    },
+    {
+        "壓力團體": "Pressure Group"
+    },
+    {
+        "預試、前測": "Pretest"
+    },
+    {
+        "預防醫學": "Preventive Medicine"
+    },
+    {
+        "初級團體": "Primary Group"
+    },
+    {
+        "初級勞動市場": "Primary Labor Market"
+    },
+    {
+        "初級預防": "Primary Prevention"
+    },
+    {
+        "初級團結；初級連帶": "Primary Solidarity"
+    },
+    {
+        "監獄": "Prison"
+    },
+    {
+        "監獄": "Penitentiary"
+    },
+    {
+        "監獄作業": "Prison Labor"
+    },
+    {
+        "受刑人自治": "Prisoner Self-government"
+    },
+    {
+        "監獄化": "Prisonization"
+    },
+    {
+        "私人年金制": "Private Pension Schemes"
+    },
+    {
+        "私部門": "Private Sector"
+    },
+    {
+        "私有化": "Privatization"
+    },
+    {
+        "監獄民營化": "Privatization of Prison"
+    },
+    {
+        "預應復原力": "Proactive Resilience"
+    },
+    {
+        "機率抽樣": "Probability Sampling"
+    },
+    {
+        "觀護": "Probation"
+    },
+    {
+        "觀護人": "Probation Officer"
+    },
+    {
+        "觀護制度": "Probation System"
+    },
+    {
+        "問題取向紀錄": "Problem-oriented Record"
+    },
+    {
+        "問題解決學派": "Problem-solving School"
+    },
+    {
+        "生產老化": "Productive Aging"
+    },
+    {
+        "倫理守則": "Professional Code of Ethics"
+    },
+    {
+        "專業層級": "Professional Hierarchy"
+    },
+    {
+        "專業霸權": "Professional Monopoly"
+    },
+    {
+        "專業關係": "Professional Relationship"
+    },
+    {
+        "專業主義": "Professionalism"
+    },
+    {
+        "專業化": "Professionalization"
+    },
+    {
+        "利潤分享；利潤分紅": "Profit Sharing"
+    },
+    {
+        "分紅入股制度": "Profit-sharing and Stock-ownership System"
+    },
+    {
+        "方案評鑑": "Program Evaluation"
+    },
+    {
+        "全包式老人照護計畫；統包式老人照護計畫": "Program of All-inclusive Care for Elderly {=PACE}"
+    },
+    {
+        "累進制積分": "Progressive Grading System"
+    },
+    {
+        "投射": "Projection"
+    },
+    {
+        "投射法": "Projective Methods"
+    },
+    {
+        "保護令": "Protection Order"
+    },
+    {
+        "保護性服務": "Protective Service"
+    },
+    {
+        "新教改革": "Protestant Reformation"
+    },
+    {
+        "公積金": "Provident Fund"
+    },
+    {
+        "鄉土主義": "Provincialism"
+    },
+    {
+        "精神醫療社會工作": "Psychiatric Social Work"
+    },
+    {
+        "精神分析": "Psychoanalysis"
+    },
+    {
+        "精神分析理論": "Psychoanalytic Theory"
+    },
+    {
+        "心理劇": "Psychodrama"
+    },
+    {
+        "心理動力理論": "Psychodynamic Theory"
+    },
+    {
+        "心理動力": "Psychodynamics"
+    },
+    {
+        "心理失調": "Psychological Maladjustment"
+    },
+    {
+        "心理測驗": "Psychological Test"
+    },
+    {
+        "心性發展": "Psychosexual Development"
+    },
+    {
+        "精神病": "Psychosis"
+    },
+    {
+        "心理暨社會學派": "Psychosocial Approach"
+    },
+    {
+        "心理暨社會診斷": "Psychosocial Diagnosis"
+    },
+    {
+        "心理治療": "Psychotherapy"
+    },
+    {
+        "公共救助國家": "Public Assistance States"
+    },
+    {
+        "公共衛生": "Public Health"
+    },
+    {
+        "公共住宅": "Public Housing"
+    },
+    {
+        "公共關係": "Public Relations"
+    },
+    {
+        "公部門": "Public Sector"
+    },
+    {
+        "學生服務": "Pupil Personnel Services"
+    },
+    {
+        "購買式社會服務": "Purchasing Social Service"
+    },
+    {
+        "立意取樣": "Purposive Sampling"
+    },
+    {
+        "皮馬龍效應": "Pygmalion Effect"
+    },
+    {
+        "給付合格期間": "Qualifying Period for Benefit"
+    },
+    {
+        "定量分析": "Qualitative Analysis"
+    },
+    {
+        "定性研究": "Qualitative Research"
+    },
+    {
+        "準實驗設計": "Quasi-experimental Design"
+    },
+    {
+        "準市場": "Quasi-market"
+    },
+    {
+        "問卷": "Questionnaire"
+    },
+    {
+        "種族問題": "Racial Problem"
+    },
+    {
+        "基變社會工作": "Radical Social Work"
+    },
+    {
+        "定序量表": "Ranking Scales"
+    },
+    {
+        "快速評估工具": "Rapid Assessment Instruments"
+    },
+    {
+        "信任關係；投契關係": "Rapport"
+    },
+    {
+        "定值量表": "Rating Scales"
+    },
+    {
+        "求供倍率": "Ratio of Opening to Applicants"
+    },
+    {
+        "等比尺度": "Ratio Scale"
+    },
+    {
+        "合理化": "Rationalization"
+    },
+    {
+        "實質工資；實質薪資": "Real Wages"
+    },
+    {
+        "現實治療": "Reality Therapy"
+    },
+    {
+        "合理生活標準": "Reasonable Standard of Living"
+    },
+    {
+        "互惠網絡": "Reciprocity Networks"
+    },
+    {
+        "認可需求": "Recognised Need"
+    },
+    {
+        "重建": "Reconstruction"
+    },
+    {
+        "復原": "Recovery"
+    },
+    {
+        "紅十字會": "Red Cross Society"
+    },
+    {
+        "洪羽毛運動": "Red Feather Campaign"
+    },
+    {
+        "再分配": "Redistribution"
+    },
+    {
+        "減額年金": "Reduced Pension"
+    },
+    {
+        "資遣通報制度": "Redundancy Notification System"
+    },
+    {
+        "反思實踐": "Reflective Practice"
+    },
+    {
+        "反身性實施": "Reflexive Practice"
+    },
+    {
+        "矯正學校；感化院": "Reform School"
+    },
+    {
+        "矯正學校；感化院": "Reformatory"
+    },
+    {
+        "重新框架；再框架": "Reframing"
+    },
+    {
+        "區域發展": "Regional Development"
+    },
+    {
+        "區域計劃": "Regional Planning"
+    },
+    {
+        "區域主義": "Regionalism"
+    },
+    {
+        "迴歸分析": "Regression Analysis"
+    },
+    {
+        "復健": "Rehabilitation"
+    },
+    {
+        "相對需求": "Relative Need"
+    },
+    {
+        "相對貧窮": "Relative Poverty"
+    },
+    {
+        "相對主義": "Relativism"
+    },
+    {
+        "信度": "Reliability"
+    },
+    {
+        "救災服務": "Relief Services"
+    },
+    {
+        "異地重建": "Relocation"
+    },
+    {
+        "懷舊": "Reminiscence"
+    },
+    {
+        "懷舊工作": "Reminiscence Work"
+    },
+    {
+        "重開案": "Reopened Case"
+    },
+    {
+        "複製研究": "Replication Research"
+    },
+    {
+        "責任通報": "Reporting"
+    },
+    {
+        "出生通報": "Reporting of Births"
+    },
+    {
+        "代表性調查": "Representation Survey"
+    },
+    {
+        "壓迫{政治}；壓抑{心理}": "Repression"
+    },
+    {
+        "研究設計": "Research Design"
+    },
+    {
+        "責任準備金": "Reserve Fund"
+    },
+    {
+        "異地安置": "Resettlement"
+    },
+    {
+        "住宿照顧": "Residential Care"
+    },
+    {
+        "兒童住宿治療中心": "Residential Treatment Center for Children"
+    },
+    {
+        "殘補式福利": "Residential Welfare"
+    },
+    {
+        "復原力；韌性": "Resilience"
+    },
+    {
+        "韌性社區": "Resilient Communities"
+    },
+    {
+        "抗拒": "Resistance"
+    },
+    {
+        "再社會化": "Resocialization"
+    },
+    {
+        "喘息照顧": "Respite Care"
+    },
+    {
+        "退休老人志工方案": "Retired Senior Volunteers Program {=RSVP}"
+    },
+    {
+        "退休給付": "Retirement Benefit"
+    },
+    {
+        "退休給付保證": "Retirement Benefit Bond"
+    },
+    {
+        "退休給付保證再保基金": "Retirement Benefits Bond Redemption Fund"
+    },
+    {
+        "退休社群": "Retirement Communities"
+    },
+    {
+        "退休儲蓄帳": "Retirement Savings Account"
+    },
+    {
+        "逆向貸款": "Reverse Mortgage"
+    },
+    {
+        "生存權": "Right to Life"
+    },
+    {
+        "工作權": "Right to Work"
+    },
+    {
+        "風險評估": "Risk Assessment"
+    },
+    {
+        "強健復原力": "Robust Resilience"
+    },
+    {
+        "羅虛戴爾公平先鋒會社": "Rochdale Equality Pioneer Society"
+    },
+    {
+        "角色衝突": "Role Conflict"
+    },
+    {
+        "角色期待": "Role Expectation"
+    },
+    {
+        "角色功能": "Role Function"
+    },
+    {
+        "角色理論": "Role Theory"
+    },
+    {
+        "角色扮演": "Role-playing"
+    },
+    {
+        "羅森塔爾效應": "Rosenthal Effect"
+    },
+    {
+        "扶輪社": "Rotary Club"
+    },
+    {
+        "橡皮圖章組": "Rubber-stamp groups"
+    },
+    {
+        "農村復興": "Rural Reconstruction"
+    },
+    {
+        "鄉村社會工作": "Rural Social Work"
+    },
+    {
+        "怠工": "Sabotage"
+    },
+    {
+        "施虐人格障礙": "Sadistic Personality Disorder"
+    },
+    {
+        "救世軍": "Salvation Army"
+    },
+    {
+        "同性婚姻": "Same-sax Marriages {=SSM}"
+    },
+    {
+        "樣本": "Sample"
+    },
+    {
+        "抽樣": "Sampling"
+    },
+    {
+        "工賊": "Scab"
+    },
+    {
+        "尺度": "Scale"
+    },
+    {
+        "匱乏原則": "Scarcity Principle"
+    },
+    {
+        "增強時制": "Schedule of Reinforcement"
+    },
+    {
+        "思覺失調症": "Schizophrenia"
+    },
+    {
+        "學校諮商人員": "School Counselor"
+    },
+    {
+        "學校輔導": "School Guidance"
+    },
+    {
+        "學校午餐計畫": "School Lunch Program"
+    },
+    {
+        "學校恐懼症": "School Phobia"
+    },
+    {
+        "學校社會工作": "School Social Work"
+    },
+    {
+        "學校訪視": "School Visit"
+    },
+    {
+        "學校變遷模式": "School-change Model"
+    },
+    {
+        "季節性波動": "Seasonal Fluctuations"
+    },
+    {
+        "次級資料分析": "Secondary data Analysis"
+    },
+    {
+        "次級勞動市場": "Secondary Labor Market"
+    },
+    {
+        "次級預防": "Secondary Prevention"
+    },
+    {
+        "次級團結；次級連帶": "Secondary Solidarity"
+    },
+    {
+        "二次創傷": "Secondary Trauma"
+    },
+    {
+        "宗派主義": "Sectarianism"
+    },
+    {
+        "世俗主義": "Secularism"
+    },
+    {
+        "世俗化": "Secularization"
+    },
+    {
+        "選擇式福利體系": "Selective Welfare Systems"
+    },
+    {
+        "自我實現": "Self-actualization"
+    },
+    {
+        "自我評估": "self-assessment"
+    },
+    {
+        "自我覺察": "Self-awareness"
+    },
+    {
+        "自我檢查": "Self-censorship"
+    },
+    {
+        "自我意識": "Self-consciousness"
+    },
+    {
+        "自決": "Self-determination"
+    },
+    {
+        "自營作業者": "Self-employed Workers"
+    },
+    {
+        "自助": "Self-help"
+    },
+    {
+        "自助團體": "Self-help Group"
+    },
+    {
+        "自助建屋": "Self-help Housing"
+    },
+    {
+        "自我分析表": "Self-inventory"
+    },
+    {
+        "自行投資私人年金": "Self-Invested Personal Pension"
+    },
+    {
+        "半結構性團體": "Semi-structured Group"
+    },
+    {
+        "老人服務中心": "Senior Service Center"
+    },
+    {
+        "老年志願服務": "Senior Volunteer Service"
+    },
+    {
+        "歸屬感": "Sense of Belongingness"
+    },
+    {
+        "掌控感": "Sense of Control"
+    },
+    {
+        "危險性犯罪人": "Serious Offender"
+    },
+    {
+        "服務輸送體系": "Service Delivery System"
+    },
+    {
+        "服務整合": "Service Integration"
+    },
+    {
+        "服務使用者夥伴關係": "Service User Partnership"
+    },
+    {
+        "服務使用者": "Service Users"
+    },
+    {
+        "睦鄰中心": "Settlement House"
+    },
+    {
+        "睦鄰運動": "Settlement Movement"
+    },
+    {
+        "性犯罪": "Sex Crimes"
+    },
+    {
+        "性別歧視": "Sex Discrimination"
+    },
+    {
+        "性歧視": "Sexism"
+    },
+    {
+        "性虐待": "Sexual Abuse"
+    },
+    {
+        "性侵害犯罪": "Sexual Assault Crime"
+    },
+    {
+        "性騷擾": "Sexual Harassment"
+    },
+    {
+        "性傾向": "Sexual Orientation"
+    },
+    {
+        "性暴力": "Sexual Violence"
+    },
+    {
+        "性欲": "Sexuality"
+    },
+    {
+        "共享增值抵押貸款": "Shared Appreciation Mortgages {=SAMs}"
+    },
+    {
+        "庇護工廠": "Sheltered Workshop"
+    },
+    {
+        "疾病給付": "Sickness Benefit"
+    },
+    {
+        "生病謬誤": "Sick-sick Fallacy"
+    },
+    {
+        "手語": "Sign Language"
+    },
+    {
+        "簡化版認知量表": "Simple Portable Mental Status Questionnaire {=SPMSQ}"
+    },
+    {
+        "模擬": "Simulation"
+    },
+    {
+        "單案設計": "Single Subject Design"
+    },
+    {
+        "單親家庭": "Single-parent Family"
+    },
+    {
+        "單親家庭": "Lone-parent Family"
+    },
+    {
+        "姊妹情誼": "Sisterhood"
+    },
+    {
+        "懷疑論者": "Skeptic"
+    },
+    {
+        "懷疑論": "Skepticism"
+    },
+    {
+        "技能檢定": "Skill Test"
+    },
+    {
+        "技術性護理設施": "Skilled Nursing Facility"
+    },
+    {
+        "滑動工資制度": "Sliding Scale System"
+    },
+    {
+        "貧民區": "Slum"
+    },
+    {
+        "貧民區重建": "Slum Redevelopment"
+    },
+    {
+        "小團體理論": "Small Group Theory"
+    },
+    {
+        "智慧年金": "Smart Pension"
+    },
+    {
+        "滾雪球取樣": "Snowball Sampling"
+    },
+    {
+        "社會行動": "Social Action"
+    },
+    {
+        "社會行動主義": "Social Activism"
+    },
+    {
+        "社會調適": "Social Adjustment"
+    },
+    {
+        "社會行政": "Social Administration"
+    },
+    {
+        "社會援助": "Social Aid"
+    },
+    {
+        "社會救助": "Social Assistance"
+    },
+    {
+        "社會資本": "Social Capital"
+    },
+    {
+        "社會個案工作": "Social Casework"
+    },
+    {
+        "社會變遷": "Social Change"
+    },
+    {
+        "社會公民權": "Social Citizenship"
+    },
+    {
+        "社會凝聚": "Social Cohesion"
+    },
+    {
+        "社會建構": "Social Construction"
+    },
+    {
+        "社會達爾文主義": "Social Darwinism"
+    },
+    {
+        "社會防衛": "Social Defense"
+    },
+    {
+        "社會剝奪": "Social Deprivation"
+    },
+    {
+        "社會發展": "Social Development"
+    },
+    {
+        "社會診斷": "Social Diagnosis"
+    },
+    {
+        "社會分化": "Social Differentiation"
+    },
+    {
+        "社會非同質性": "Social Dishomogeneity"
+    },
+    {
+        "社會解組": "Social Disorganization"
+    },
+    {
+        "社會距離量表": "Social Distance Scale"
+    },
+    {
+        "社會股利": "Social Dividend"
+    },
+    {
+        "社會股利稅": "Social Dividend Taxation"
+    },
+    {
+        "社會企業": "Social Enterprises"
+    },
+    {
+        "社會企業精神": "Social Entrepreneurship"
+    },
+    {
+        "社會排除": "Social Exclusion"
+    },
+    {
+        "社會形成": "Social Formation"
+    },
+    {
+        "社會團體工作": "Social Group Work"
+    },
+    {
+        "社會監護人": "Social Guardians"
+    },
+    {
+        "社會同質性": "Social Homogeneity"
+    },
+    {
+        "社會包容；社會融入": "Social Inclusion"
+    },
+    {
+        "社會指標": "Social Indicator"
+    },
+    {
+        "社會無異函數": "Social Indifference Function"
+    },
+    {
+        "社會保險": "Social Insurance"
+    },
+    {
+        "社會整合": "Social Integration"
+    },
+    {
+        "社會互動": "Social Interaction"
+    },
+    {
+        "社會投資": "Social Investment"
+    },
+    {
+        "社會正義": "Social Justice"
+    },
+    {
+        "社會立法": "Social Legislation"
+    },
+    {
+        "社會失調": "Social Maladjustment"
+    },
+    {
+        "社會成熟量表": "Social Maturity Scale"
+    },
+    {
+        "社會醫學": "Social Medicine"
+    },
+    {
+        "社會流動": "Social Mobility"
+    },
+    {
+        "社會模型": "Social Model"
+    },
+    {
+        "身障的社會模式": "Social Model of Disability"
+    },
+    {
+        "社會運動": "Social Movement"
+    },
+    {
+        "社會需求": "Social Needs"
+    },
+    {
+        "社會夥伴": "Social Partners"
+    },
+    {
+        "社會計劃": "Social Planning"
+    },
+    {
+        "社會兩極化": "Social Polarisation"
+    },
+    {
+        "社會政策": "Social Policy"
+    },
+    {
+        "社會問題": "Social Problem"
+    },
+    {
+        "社會過程": "Social Process"
+    },
+    {
+        "社會進步經由社區發展": "Social Progress through Community Development"
+    },
+    {
+        "社會重建": "Social Reconstruction"
+    },
+    {
+        "社會革新": "Social Reform"
+    },
+    {
+        "社會研究": "Social Research"
+    },
+    {
+        "社會復原力": "Social Resilience"
+    },
+    {
+        "社會資源": "Social Resources"
+    },
+    {
+        "社會權": "Social Rights"
+    },
+    {
+        "社會風險": "Social Risks"
+    },
+    {
+        "社會安全": "Social Security"
+    },
+    {
+        "社會服務交換所": "Social Service Exchange"
+    },
+    {
+        "社會服務管理": "Social Service Management"
+    },
+    {
+        "社會服務": "Social Services"
+    },
+    {
+        "社會連帶；社會團結": "Social Solidarity"
+    },
+    {
+        "社會統計": "Social Statistics"
+    },
+    {
+        "社會調查": "Social Survey"
+    },
+    {
+        "社會福利": "Social Welfare"
+    },
+    {
+        "社會福利財務": "Social Welfare Financing"
+    },
+    {
+        "社會福利基金": "Social Welfare Fund"
+    },
+    {
+        "社會福利民營化；社會福利私有化": "Social Welfare Privatization"
+    },
+    {
+        "社會工作": "Social Work"
+    },
+    {
+        "社會工作行政": "Social Work Administration"
+    },
+    {
+        "社會工作教育": "Social Work Education"
+    },
+    {
+        "社會工作會談": "Social Work Interview"
+    },
+    {
+        "社會工作管理": "Social Work Management"
+    },
+    {
+        "社會工作研究": "Social Work Research"
+    },
+    {
+        "社會工作督導": "Social Work Supervision"
+    },
+    {
+        "社會工作理論": "Social Work Theories"
+    },
+    {
+        "家庭社會工作": "Social Work with Families"
+    },
+    {
+        "社會主義": "Socialism"
+    },
+    {
+        "社會化": "Socialization"
+    },
+    {
+        "社經脈絡": "Socioeconomic Context"
+    },
+    {
+        "社會計量測驗": "Sociometric Test"
+    },
+    {
+        "社會計量學": "Sociometry"
+    },
+    {
+        "特殊學校": "Special School"
+    },
+    {
+        "特殊才能": "Special Talent"
+    },
+    {
+        "語言治療": "Speech Therapy"
+    },
+    {
+        "利害關係人年金": "Stakeholder Pensions"
+    },
+    {
+        "利害關係人為基礎的分析": "Stakeholder-based Analysis"
+    },
+    {
+        "標準差": "Standard Deviation"
+    },
+    {
+        "標準行業分類": "Standard Occupational Classification"
+    },
+    {
+        "國家所得相關年金制": "State Earnings-Related Pension Scheme {=SERPS}"
+    },
+    {
+        "國家年金": "State Pensions"
+    },
+    {
+        "國家第二層年金": "State Second Pension {=S2P}"
+    },
+    {
+        "統計關聯": "Statistical Association"
+    },
+    {
+        "統計方法": "Statistical Methods"
+    },
+    {
+        "統計顯著性": "Statistical Significance"
+    },
+    {
+        "法定預備基金": "Statutory Reserve Fund"
+    },
+    {
+        "刻板印象；定型": "Stereotypes"
+    },
+    {
+        "烙印": "Stigma"
+    },
+    {
+        "分層立意抽樣": "Stratified Purposive Sampling"
+    },
+    {
+        "分層抽樣": "Stratified Sampling"
+    },
+    {
+        "街頭遊童": "Street Children"
+    },
+    {
+        "優勢觀點": "Strengths Perspective"
+    },
+    {
+        "壓力管理": "Stress Management"
+    },
+    {
+        "罷工": "Strike"
+    },
+    {
+        "罷工基金": "Strike Fund"
+    },
+    {
+        "結構家族治療": "Structural Family Theory"
+    },
+    {
+        "結構不均": "Structural Inequality"
+    },
+    {
+        "結構社會工作": "Structural Social Work"
+    },
+    {
+        "結構性失業": "Structural Unemployment"
+    },
+    {
+        "結構性團體": "Structured Group"
+    },
+    {
+        "次文化理論": "Subculture Theory"
+    },
+    {
+        "次團體": "Sub-group"
+    },
+    {
+        "昇華": "Sublimation"
+    },
+    {
+        "保險代位": "Subrogation"
+    },
+    {
+        "輔助性": "Subsidiarity"
+    },
+    {
+        "補助假期": "Subsidized Vacation"
+    },
+    {
+        "維生所得": "Subsistence Income"
+    },
+    {
+        "物質濫用": "Substance Abuse"
+    },
+    {
+        "替代作用": "Substitution"
+    },
+    {
+        "替代性服務": "Substitutional Service"
+    },
+    {
+        "替代模式": "Substitutive Pattern"
+    },
+    {
+        "自殺": "Suicide"
+    },
+    {
+        "通算制度{保險年資}": "Sum Up System"
+    },
+    {
+        "超我": "Superego"
+    },
+    {
+        "補充安全收入{美國}": "Supplemental Security Income {U.S.A.}"
+    },
+    {
+        "補充性服務": "Supplementary Service"
+    },
+    {
+        "支持性服務": "Supportive Service"
+    },
+    {
+        "壓迫": "Suppression"
+    },
+    {
+        "倖存者": "Survivors"
+    },
+    {
+        "遺囑給付": "Survivors’ Benefit"
+    },
+    {
+        "緩刑": "Suspended Sentence"
+    },
+    {
+        "永續發展": "Sustainable Development"
+    },
+    {
+        "系統觀察法": "Systematic Observation Method"
+    },
+    {
+        "系統理論": "Systems Theory"
+    },
+    {
+        "二人一職制": "Tandem Job System"
+    },
+    {
+        "標的社區": "Target Community"
+    },
+    {
+        "任務團體": "Task Group"
+    },
+    {
+        "任務中心學派": "Task-centered Approach"
+    },
+    {
+        "任務中心方法": "Task-centered Methods"
+    },
+    {
+        "未成年父母": "Teenage parent"
+    },
+    {
+        "未成年懷孕": "Teenage Pregnancy"
+    },
+    {
+        "結案": "Termination"
+    },
+    {
+        "三級勞動市場": "Tertiary Labor Market"
+    },
+    {
+        "三級預防": "Tertiary Prevention"
+    },
+    {
+        "貝佛里奇報告書": "The Beveridge Report"
+    },
+    {
+        "被剝奪的兒童": "The Deprived Children"
+    },
+    {
+        "弱勢者": "The Disadvantaged"
+    },
+    {
+        "人民年金": "The People’s Pension"
+    },
+    {
+        "西伯罕報告": "The Seedbohm Report"
+    },
+    {
+        "聯合國兒童基金會": "The United Nations Children’s Funds"
+    },
+    {
+        "理論性取樣": "Theoretical Sampling"
+    },
+    {
+        "理論建構": "Theory Construction"
+    },
+    {
+        "治療性社群": "Therapeutic Community"
+    },
+    {
+        "療效因子": "Therapeutic Factors"
+    },
+    {
+        "治療性會談": "Therapeutic Interviews"
+    },
+    {
+        "第三部門": "Third Sector"
+    },
+    {
+        "時間序列分析": "Time-series Analysis"
+    },
+    {
+        "代幣制": "Token Economy"
+    },
+    {
+        "總生育率": "Total Fertility Rate {=TFR}"
+    },
+    {
+        "湯恩比館": "Toynbee Hall"
+    },
+    {
+        "工會": "Trade Union"
+    },
+    {
+        "傳統臨床模式": "Traditional-clinical Model"
+    },
+    {
+        "傳統主義": "Traditionalism"
+    },
+    {
+        "訓練生活津貼": "Training Allowance"
+    },
+    {
+        "交流分析治療": "Transactional Analysis Therapy"
+    },
+    {
+        "移轉支出": "Transfer Payments"
+    },
+    {
+        "轉移作用": "Transference Reaction"
+    },
+    {
+        "過渡性社區": "Transitional Community"
+    },
+    {
+        "跨國社會工作": "Transnational Social Work"
+    },
+    {
+        "跨國主義": "Transnationalism"
+    },
+    {
+        "創傷照顧實務工作": "Trauma-informed Practice"
+    },
+    {
+        "旅人服務": "Travelers Aid"
+    },
+    {
+        "處置；處遇": "Treatment"
+    },
+    {
+        "治療性團體": "Treatment Group"
+    },
+    {
+        "趨勢分析": "Trend Analysis"
+    },
+    {
+        "三角檢視；三角檢驗": "Triangulation"
+    },
+    {
+        "逃學": "Truancy"
+    },
+    {
+        "雙向溝通": "Two-way Communication"
+    },
+    {
+        "典型個案取樣": "Typical Case Sampling"
+    },
+    {
+        "類型學": "Typology"
+    },
+    {
+        "不定期刑": "Uncertain Sentence"
+    },
+    {
+        "底層階級": "Underclass"
+    },
+    {
+        "低度就業": "Underemployment"
+    },
+    {
+        "失業": "Unemployment"
+    },
+    {
+        "失業給付": "Unemployment Benefit"
+    },
+    {
+        "失業補償": "Unemployment Compensation"
+    },
+    {
+        "失業認定": "Unemployment Identification"
+    },
+    {
+        "失業保險": "Unemployment Insurance"
+    },
+    {
+        "失業率": "Unemployment Rate"
+    },
+    {
+        "失業救濟": "Unemployment Relief"
+    },
+    {
+        "基金未準備且未核准退休給付制": "Unfunded Unapproved Retirement Benefit Schemes {=UURBS}"
+    },
+    {
+        "單向度量表": "Unidimensional Scales"
+    },
+    {
+        "社區聯合基金": "United Fund Community"
+    },
+    {
+        "聯合國經濟社會理事會": "United Nations Economic and Social Council"
+    },
+    {
+        "聯合國教科文組織": "United Nations Educational, Scientific and Cultural Organization"
+    },
+    {
+        "聯合勸募": "United Way"
+    },
+    {
+        "世界人權宣言": "Universal Declaration of Human Rights"
+    },
+    {
+        "普及年金": "Universal Pension"
+    },
+    {
+        "未婚媽媽": "Unmarried Mother"
+    },
+    {
+        "都市社區": "Urban Community"
+    },
+    {
+        "都市再發展": "Urban Redevelopment"
+    },
+    {
+        "都市更新": "Urban Renewal"
+    },
+    {
+        "友善使用者實務實施": "User-friendly Practice"
+    },
+    {
+        "使用者主導政策": "User-led Policy"
+    },
+    {
+        "效用主義；功利主義": "Utilitarianism"
+    },
+    {
+        "效度": "Validity"
+    },
+    {
+        "社會工作價值": "Values in Social Work"
+    },
+    {
+        "變項；變數": "Variables"
+    },
+    {
+        "最大變異抽樣": "Varimax Sampling"
+    },
+    {
+        "理解法{德文}": "Verstehen Method"
+    },
+    {
+        "榮民；退除役官兵": "Veterans"
+    },
+    {
+        "替代性創傷": "Vicarious Trauma"
+    },
+    {
+        "受害者扶助": "Victim Assistance"
+    },
+    {
+        "責難受害者": "Victim Blaming"
+    },
+    {
+        "責難受害者": "Blaming the Victim"
+    },
+    {
+        "被害人補償": "Victim Compensation"
+    },
+    {
+        "無被害者犯罪": "Victimless Crime"
+    },
+    {
+        "高齡問題維也納行動計畫": "Vienna International Plan of Action on Aging"
+    },
+    {
+        "訪問教師": "Visiting Teacher"
+    },
+    {
+        "職業教育": "Vocational Education"
+    },
+    {
+        "職業輔導": "Vocational Guidance"
+    },
+    {
+        "職業復健": "Vocational Rehabilitation"
+    },
+    {
+        "職業訓練": "Vocational Training"
+    },
+    {
+        "志願主義": "Voluntarism"
+    },
+    {
+        "志願化": "Voluntarization"
+    },
+    {
+        "志願部門失靈": "Voluntary Failure"
+    },
+    {
+        "任意保險": "Voluntary Insurance"
+    },
+    {
+        "志願部門": "Voluntary Sector"
+    },
+    {
+        "志願服務": "Voluntary Services"
+    },
+    {
+        "志工主義": "Volunteerism"
+    },
+    {
+        "選名登記": "Voter Registration"
+    },
+    {
+        "抵用券": "Vouchers"
+    },
+    {
+        "脆弱性": "Vulnerability"
+    },
+    {
+        "勞作金": "Wage for Prisoner"
+    },
+    {
+        "薪資支持": "Wage Support"
+    },
+    {
+        "工資": "Wages"
+    },
+    {
+        "等待期": "Waiting Period"
+    },
+    {
+        "王德爾報告書": "Wandel Report"
+    },
+    {
+        "下腳": "Wastees"
+    },
+    {
+        "周末監禁": "Weekend Confinement"
+    },
+    {
+        "假日輔導": "Weekend Supervision"
+    },
+    {
+        "福利官僚": "Welfare Bureaucrats"
+    },
+    {
+        "福利資本主義": "Welfare Capitalism"
+    },
+    {
+        "福利依賴": "Welfare Dependency"
+    },
+    {
+        "福利指標": "Welfare Indicator"
+    },
+    {
+        "福利磁吸理論": "Welfare Magnet Theory"
+    },
+    {
+        "福利心智；福利心態": "Welfare Mentality"
+    },
+    {
+        "福利混合": "Welfare Mix"
+    },
+    {
+        "福利多元主義": "Welfare Pluralism"
+    },
+    {
+        "福利權": "Welfare Right"
+    },
+    {
+        "福利社會": "Welfare Society"
+    },
+    {
+        "福利國家": "Welfare State"
+    },
+    {
+        "白手杖": "White Cane"
+    },
+    {
+        "白宮老人會議": "White House Conference on Aging"
+    },
+    {
+        "白宮兒童福利會議": "White House Conference on Children"
+    },
+    {
+        "白領犯罪": "White-collar Crime"
+    },
+    {
+        "白領勞工": "White-collar Worker"
+    },
+    {
+        "寡婦年金": "Widow’s Pension"
+    },
+    {
+        "有色人種女性主義": "Womanism"
+    },
+    {
+        "婦女會": "Women’s Association"
+    },
+    {
+        "婦女運動": "Women’s Movement"
+    },
+    {
+        "婦女專屬團體": "Women-only Group"
+    },
+    {
+        "工作倫理": "Work Ethics"
+    },
+    {
+        "工作經驗方案": "Work Experience Program"
+    },
+    {
+        "職業災害保險": "Work Injury Compensation Insurance"
+    },
+    {
+        "勞動參與率": "Work Participation Rate"
+    },
+    {
+        "監外作業": "Work Release Program"
+    },
+    {
+        "工作者與案主關係": "Worker-client Relationship"
+    },
+    {
+        "職業災害補償": "Workers’ Compensation"
+    },
+    {
+        "勞工教育": "Workers’ Education"
+    },
+    {
+        "工作福利": "Workfare"
+    },
+    {
+        "習藝所": "Workhouse"
+    },
+    {
+        "工作激勵計畫": "Work-incentive Plan"
+    },
+    {
+        "就業家庭稅賦減免": "Working Families Tax Credit"
+    },
+    {
+        "工作貧窮者；在職貧窮者": "Working Poor"
+    },
+    {
+        "職場民主": "Workplace Democracy"
+    },
+    {
+        "工讀方案": "Work-study Program"
+    },
+    {
+        "高齡議題世界大會": "World Assembly on Aging"
+    },
+    {
+        "世界就業方案": "World Employment Program"
+    },
+    {
+        "世界衛生組織": "World Health Organization"
+    },
+    {
+        "聯合國社會發展高峰會議": "World Summit for Social Development"
+    },
+    {
+        "黃狗契約": "Yellow-dog Contract"
+    },
+    {
+        "兒少照顧者": "Young Carers"
+    },
+    {
+        "基督教青年會": "Young Men’s Christian Association"
+    },
+    {
+        "基督教女青年會": "Young Women’s Christian Association"
+    },
+    {
+        "青年旅舍；青年中心": "Youth Hostel"
+    },
+    {
+        "青年失業": "Youth Unemployment"
+    },
+    {
+        "人口零成長": "Zero Population Growth"
+    },
+    {
+        "零基預算": "Zero-based Budgeting"
+    },
+    {
+        "零和動力": "Zero-sum Dynamics"
+    },
+    {
+        "崇她社": "Zonta"
+    }
+]

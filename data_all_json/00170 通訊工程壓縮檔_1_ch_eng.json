@@ -1,0 +1,9335 @@
+[
+    {
+        "路由規劃": "route planning"
+    },
+    {
+        "路由選擇制": "route selection system"
+    },
+    {
+        "路由控制": "routing control"
+    },
+    {
+        "路由控制中心": "Routing Control Center (RCC)"
+    },
+    {
+        "路由標籤": "Routing Label"
+    },
+    {
+        "適應性路由法": "routing， adptive"
+    },
+    {
+        "廣播式路由法": "routing， broadcast"
+    },
+    {
+        "差量路由法": "routing， delta"
+    },
+    {
+        "氾濫式路由法": "routing， flooding"
+    },
+    {
+        "多目地路由法": "routing， multidestnation"
+    },
+    {
+        "羅蘭組態": "Rowland configuration"
+    },
+    {
+        "長途程序呼叫": "RPC (Remote Procedure Call)"
+    },
+    {
+        "每秒鐘轉數，轉/秒": "RPS (Revoltuions Per Second)"
+    },
+    {
+        "連續性RQ": "RQ， continous"
+    },
+    {
+        "遠端釋放": "RR (Remote Release)"
+    },
+    {
+        "一種非同步數據傳輸標準介面": "RS 232C"
+    },
+    {
+        "一種非同步數據傳輸標準介面": "RS-232"
+    },
+    {
+        "一種非同步數據傳輸標準介面": "RS-422"
+    },
+    {
+        "一種非同步數據傳輸標準介面": "RS-423"
+    },
+    {
+        "一種非同步數據傳輸標準介面": "RS-449"
+    },
+    {
+        "雷克解調器": "Rske demodulator"
+    },
+    {
+        "接收機-發射機": "RT (Receiver-Transmitter)"
+    },
+    {
+        "收-發": "RT (Receive-Transmit)"
+    },
+    {
+        "可靠轉送服務": "RTS (Reliable Transfer Service)"
+    },
+    {
+        "紅寶石雷射": "ruby laser"
+    },
+    {
+        "掃描長度，數據串連續0或1的長度": "run length"
+    },
+    {
+        "掃描長度編碼(法)": "run length coding"
+    },
+    {
+        "掃描長度編碼(法)": "run length encoding"
+    },
+    {
+        "鄉村自動電話交換": "rural automatic exchange"
+    },
+    {
+        "鄉村電話": "rural telephone"
+    },
+    {
+        "鄉村電話系統": "rural telephone system"
+    },
+    {
+        "歸零，歸零制": "RZ (Reutrn-to-Zero)"
+    },
+    {
+        "南，南方，南的，南方的": "S (south)"
+    },
+    {
+        "S 頻帶(1.55-3.96Hz或2-4GHz)": "S band"
+    },
+    {
+        "S 參數(散射參數)": "S parameter"
+    },
+    {
+        "信號失真比": "S/D (Signal-to-Distortion ratio)"
+    },
+    {
+        "信號干擾比": "S/I (Signal to Interference ratio)"
+    },
+    {
+        "信號雜訊比": "S/N (Signal-to-Nosie ratio)"
+    },
+    {
+        "短波": "S/W (Short Wave)"
+    },
+    {
+        "信號串音比": "S/X (Short to cross-talk ratio)"
+    },
+    {
+        "掃描器": "sacnner"
+    },
+    {
+        "福斯特掃描器": "sacnner， Foster"
+    },
+    {
+        "鞍點": "saddle point"
+    },
+    {
+        "鞍點積分法": "saddle-point method of integration"
+    },
+    {
+        "安全餘裕，安全客限": "safety margin"
+    },
+    {
+        "傳信ATM調適層": "SALL (Signaling AAL)"
+    },
+    {
+        "時槽式-ALOHA網路": "S-ALOHA (Slot-ALOHA)"
+    },
+    {
+        "後續位址信息": "SAM (Subsequent Address Message)"
+    },
+    {
+        "同步調幅": "SAM (Synchronous Amplitude Modulation)"
+    },
+    {
+        "樣本，取樣": "sample"
+    },
+    {
+        "樣本長寬比": "sample aspect ratio"
+    },
+    {
+        "樣本空間": "sample space"
+    },
+    {
+        "取樣保值": "sample-and-hold"
+    },
+    {
+        "取樣保值電路": "sample-and-hold circuits"
+    },
+    {
+        "樣本循序和": "sample-by-sample sum"
+    },
+    {
+        "取樣孔徑": "sampled aperture"
+    },
+    {
+        "取樣數據": "sampled-data"
+    },
+    {
+        "交插樣本": "sample-interleaved"
+    },
+    {
+        "樣本循序積": "sampley-by-sample product"
+    },
+    {
+        "取樣，抽樣": "sampling"
+    },
+    {
+        "取樣誤差": "sampling error"
+    },
+    {
+        "取樣頻率，抽樣頻率": "sampling frequency"
+    },
+    {
+        "二維訊號取樣": "sampling of 2-D signal"
+    },
+    {
+        "三維訊號取樣": "sampling of 3-D signal"
+    },
+    {
+        "帶通訊號取樣": "sampling of bandpass signal"
+    },
+    {
+        "連續時間訊號取樣": "sampling of continous-time signal"
+    },
+    {
+        "移動性影像取樣": "sampling of moving image"
+    },
+    {
+        "取樣週期": "sampling period"
+    },
+    {
+        "取樣頻率，取樣率": "sampling rate"
+    },
+    {
+        "取樣定理": "sampling theorem"
+    },
+    {
+        "帶通(訊號)取樣定理": "sampling theorem， bandpass"
+    },
+    {
+        "理想取樣": "sampling， ideal"
+    },
+    {
+        "整數倍頻帶取樣(次頻帶編碼用)": "sampling， integer-band"
+    },
+    {
+        "非均勻取樣": "sampling， nonuniform"
+    },
+    {
+        "奈奎斯取樣": "sampling， Nyquist"
+    },
+    {
+        "均勻取樣": "sampling， uniform"
+    },
+    {
+        "沙箱側視": "sand-box test"
+    },
+    {
+        "分空間多工串音": "sapce division multiplexing crosstalk"
+    },
+    {
+        "藍寶石": "sapphire"
+    },
+    {
+        "合成孔徑雷達": "SAR"
+    },
+    {
+        "分段及重組副層": "SAR (Segmentation and Reassembly Sublayer)"
+    },
+    {
+        "特定應用服務元件": "SASE (Spectific Application Service Element)"
+    },
+    {
+        "衛星": "SAT (satellite)"
+    },
+    {
+        "星形連接，Y形連接": "satar communication"
+    },
+    {
+        "穩定性": "satbility"
+    },
+    {
+        "衛星通信": "SATCOM (satellite communications)"
+    },
+    {
+        "衛星天線": "satellite antenna"
+    },
+    {
+        "衛星廣播": "satellite boardcasting"
+    },
+    {
+        "衛星通道": "satellite channel"
+    },
+    {
+        "衛星通訊": "satellite communication"
+    },
+    {
+        "衛星通訊船": "satellite communication ship"
+    },
+    {
+        "衛星覆蓋範圍": "satellite coverage"
+    },
+    {
+        "衛星配置圖": "satellite deployment pattern"
+    },
+    {
+        "衛星中繼段": "satellite hop"
+    },
+    {
+        "人造衛星指示元": "Satellite Indicator"
+    },
+    {
+        "衛星(通訊)線硌": "satellite line"
+    },
+    {
+        "衛星網路": "satellite network"
+    },
+    {
+        "衛星軌道": "satellite orbit"
+    },
+    {
+        "衛星(天線)輻射功率": "satellite radiated power"
+    },
+    {
+        "衛星無線電通訊": "satellite radio comunication"
+    },
+    {
+        "衛星偵察": "satellite reconnaissance"
+    },
+    {
+        "衛星中繼站": "satellite relay station"
+    },
+    {
+        "衛星中繼器": "satellite repeater"
+    },
+    {
+        "衛星站台，人造衛星站": "satellite station"
+    },
+    {
+        "衛星技術": "satellite technology"
+    },
+    {
+        "衛星地面鏈路": "satellite terrestrial links"
+    },
+    {
+        "衛星長途中繼線": "satellite toll trunk"
+    },
+    {
+        "先進型同步氣象衛星": "satellite， advanced synchronous meteorological"
+    },
+    {
+        "廣播衛星": "satellite， broadcasting"
+    },
+    {
+        "低高度衛星": "satellite， low-alititude"
+    },
+    {
+        "機動衛星": "satellite， maneuvering"
+    },
+    {
+        "航海通訊衛星": "satellite， marine communication"
+    },
+    {
+        "流星偵測衛星": "satellite， meteorodi detection"
+    },
+    {
+        "氣象衛星": "satellite， meteorological"
+    },
+    {
+        "最低軌道運行的無人衛星": "satellite， minimum orbital numanned"
+    },
+    {
+        "飛彈末段導引衛星": "satellite， missle termainal guidance"
+    },
+    {
+        "繞月飛行衛星": "satellite， moom-go-round"
+    },
+    {
+        "多級衛星": "satellite， multistage"
+    },
+    {
+        "導航技術衛星": "Navigation Techonogy Satellite"
+    },
+    {
+        "海軍海洋監視衛星": "Satellite， Navy Ocean Surveillance"
+    },
+    {
+        "核爆偵測衛星": "satellite， nuclear (blast) detection"
+    },
+    {
+        "八面體研究衛星": "Octahedral Research Satellite"
+    },
+    {
+        "太平洋衛星，太平洋區域國際通信衛星": "Satellite， Pacific"
+    },
+    {
+        "太平洋通信衛星": "Satellite， Pacific Ocean"
+    },
+    {
+        "有(太陽電池)翼(帆板)衛星": "satellite， paddlewheel"
+    },
+    {
+        "被動式通訊衛星": "satellite， passive communication"
+    },
+    {
+        "被動測地衛星": "Satellite， Passive Geodetic"
+    },
+    {
+        "細長形衛星，鉛筆形衛星": "satellite， pencil-shaped"
+    },
+    {
+        "相控衛星": "satellite， phase"
+    },
+    {
+        "衛星交換/分時多重進接": "Satellite-Switched Time-Division Multiple Access (SS/TDMA)"
+    },
+    {
+        "衛星固定站通訊鏈路": "satellite-to-fixed-station link"
+    },
+    {
+        "衛星間通訊": "satellite-to-satellite communication"
+    },
+    {
+        "衛星警報系統": "satellite-warning system"
+    },
+    {
+        "觀察衛星": "satillite， observation"
+    },
+    {
+        "週期性穩態的": "sationary periodically"
+    },
+    {
+        "狹義的穩態隨機過程": "sationary stochastic processes， strict-sense"
+    },
+    {
+        "衛星網路": "SATNET"
+    },
+    {
+        "接收機前級放大器飽和": "satruation， receiver preamplifier"
+    },
+    {
+        "飽和溢位": "saturation overflow"
+    },
+    {
+        "漂移速度飽和": "saturation， dirft velocity"
+    },
+    {
+        "訊號源驅動電路飽和狀態": "saturation， source dive circuit"
+    },
+    {
+        "波長區隔多工": "Savelength Division Multiplexing (WDM)"
+    },
+    {
+        "表面聲波元件": "SAW (Surface Acostic Wave) device"
+    },
+    {
+        "表面聲波濾波器": "SAW filter"
+    },
+    {
+        "鋸齒波波形": "saw-toothed waveform"
+    },
+    {
+        "邊帶，邊頻帶，旁波帶，旁帶，旁頻帶": "SB (Side Band)"
+    },
+    {
+        "次頻帶編碼": "SBC (Sub-Band Conding)"
+    },
+    {
+        "衛星商業系統": "SBS (Satellite Business Systems)"
+    },
+    {
+        "可選擇性廣播信號虛擬通道識別碼": "SBSVCI (Selective Broadcast Signaling Virtual Channedl Identifer)"
+    },
+    {
+        "代替密碼": "sbustitudion cipher"
+    },
+    {
+        "單通道": "SC (Single-Channel)"
+    },
+    {
+        "抑制載波": "SC (Suppressed Carrier)"
+    },
+    {
+        "每載波單通道": "SC/c (Single Channel per carier)"
+    },
+    {
+        "授權付費通訊": "SCA (Subsidiary Communication Authorization)"
+    },
+    {
+        "可調(尺寸之)能力": "scalability"
+    },
+    {
+        "純量": "scalar"
+    },
+    {
+        "純量饋伺器": "scalar feed"
+    },
+    {
+        "純量號角(天線)": "scalar horn"
+    },
+    {
+        "純量號角天線": "scalar horn antenna"
+    },
+    {
+        "純量磁位": "scalar magnetic potential"
+    },
+    {
+        "純量乘法": "scalar multiplication"
+    },
+    {
+        "純量電位": "scalar potential"
+    },
+    {
+        "純量三重積": "scalar triple product"
+    },
+    {
+        "純量波方程式": "scalar wave equation"
+    },
+    {
+        "比例尺模型": "scale model"
+    },
+    {
+        "比例尺模型天線量測(設施)": "scale model antenna measurement"
+    },
+    {
+        "(雷達截面積之)比例尺模型量測(方法或結果)": "scale model measurements"
+    },
+    {
+        "掃描孔徑(天線)": "scanned aperture"
+    },
+    {
+        "路易士(天線波束)掃描裝置": "scanner， Lesis"
+    },
+    {
+        "風琴型(天線波束)掃描裝置": "scanner， organ-pipe"
+    },
+    {
+        "掃描天線": "scanning antenna"
+    },
+    {
+        "掃描密度": "scanning density"
+    },
+    {
+        "掃描線頻率": "scanning line frequency"
+    },
+    {
+        "掃描損耗因子": "scanning loss factor"
+    },
+    {
+        "掃描雷達": "scanning radar"
+    },
+    {
+        "掃描輻射儀": "scanning radiometer"
+    },
+    {
+        "電機機械式(天線)掃描": "scanning， electromechanical"
+    },
+    {
+        "波束跳躍或掃描(即不規則或有規則的變換使用的波束)": "scannng， beam hopping or"
+    },
+    {
+        "散射，散佈": "scatter"
+    },
+    {
+        "散射角": "scatter angle"
+    },
+    {
+        "散射損耗": "scatter loss"
+    },
+    {
+        "散射傳播": "scatter propagation"
+    },
+    {
+        "前向散射": "scatter， forward"
+    },
+    {
+        "散射，散佈": "scatterance"
+    },
+    {
+        "散射通訊": "scatterancele communication"
+    },
+    {
+        "散射通訊通道終端": "scatterancele communication channel terminal"
+    },
+    {
+        "散射通訊發射器": "scatterancele communication transmitter"
+    },
+    {
+        "散射場": "scattered field"
+    },
+    {
+        "散射功率": "scattered power"
+    },
+    {
+        "散射訊號": "scattered signal"
+    },
+    {
+        "散射體": "scatterer"
+    },
+    {
+        "散射": "scattering"
+    },
+    {
+        "散射角": "scattering angle"
+    },
+    {
+        "散射面積": "scattering area"
+    },
+    {
+        "散射中心": "scattering center"
+    },
+    {
+        "散射係數": "scattering coefficient"
+    },
+    {
+        "散射函數": "scattering function"
+    },
+    {
+        "散射定律": "scattering law"
+    },
+    {
+        "散射層": "scattering layer"
+    },
+    {
+        "散射矩陣": "scattering matrix"
+    },
+    {
+        "散射量測": "scattering measurement"
+    },
+    {
+        "散射傳播": "scattering propagation"
+    },
+    {
+        "散射區域": "scattering region"
+    },
+    {
+        "散射體積": "scattering volume"
+    },
+    {
+        "散射波通訊": "scattering wave communication"
+    },
+    {
+        "不規則散射": "scattering， anomalous"
+    },
+    {
+        "反史扥克斯散射": "scattering， anti-Stokes"
+    },
+    {
+        "外質散射": "scattering， extrinsic"
+    },
+    {
+        "本質散射": "scattering， intrinsic"
+    },
+    {
+        "線性散射": "scattering， linear"
+    },
+    {
+        "非線性散射": "scattering， nonlinear"
+    },
+    {
+        "光子散射": "scattering， phonon"
+    },
+    {
+        "SCCP方式指示元": "SCCP medthod Indicator"
+    },
+    {
+        "夏克諾夫單位圓法": "Schelkunoff's unit circle method"
+    },
+    {
+        "史密特透鏡(天線)": "Schmidt lens"
+    },
+    {
+        "蕭基能障二極體": "Schottdy-barrier diode"
+    },
+    {
+        "蕭基能障，蕭基勢壘": "Schottky barrier"
+    },
+    {
+        "史瓦茲反射原理": "Schwarz reflection principle"
+    },
+    {
+        "史瓦茲-克里斯多福轉換": "Schwarz-Christoffel transformation"
+    },
+    {
+        "思溫格反相藕合器": "Schwinger reversed-phase coupler"
+    },
+    {
+        "訊號閃爍現象，閃爍(電波穿過電離層後之衰退現象)": "scintillation"
+    },
+    {
+        "相位閃爍": "scintiooation， phase"
+    },
+    {
+        "信號組態": "SCON (Signalig Configuration )"
+    },
+    {
+        "式波器": "SCOPE(ocsilloscpoe)"
+    },
+    {
+        "系統時鐘參考依據": "SCR"
+    },
+    {
+        "持續細胞速率": "SCR (sustainable Cell Rate)"
+    },
+    {
+        "攪亂器": "scrambler"
+    },
+    {
+        "篩選顯示元": "Screening Indicator"
+    },
+    {
+        "序列資料": "SD (Sequence Date)"
+    },
+    {
+        "同步數位階層": "SDH (Synchronous Digtal Hierarchy)"
+    },
+    {
+        "同步資料鏈結控制，同步數據鏈路控制": "SDLC (Synchronous Data Link Control)"
+    },
+    {
+        "信號數據處理機": "SDP (Signal Data Processor)"
+    },
+    {
+        "分離式多層條型雷射": "Sdparated Multiclad Layer (SML) stripe laser"
+    },
+    {
+        "二次放射": "SE (Secondary Emission)"
+    },
+    {
+        "東南": "SE (South East)"
+    },
+    {
+        "海洋反向散射": "sea backscatter"
+    },
+    {
+        "航海通訊，海上通訊": "sea communications"
+    },
+    {
+        "海洋雜波": "sea cultter"
+    },
+    {
+        "(偶發之)海洋尖釘雜波": "sea spikes"
+    },
+    {
+        "海洋狀態": "sea state"
+    },
+    {
+        "海洋目標": "sea target"
+    },
+    {
+        "搜尋演算法": "search algorithm"
+    },
+    {
+        "搜索雷達": "search radar"
+    },
+    {
+        "海洋衛星": "SEASAT (Sea satellite)"
+    },
+    {
+        "單錯更正雙錯偵測碼": "SEC-DED (Single-Error-Correcting and Double-Error-Detecting) code"
+    },
+    {
+        "第二代系統": "second generation system"
+    },
+    {
+        "多模態機械式熔接二度校準": "secondary multimode mechanical splice alignment"
+    },
+    {
+        "二線交換局，從屬局": "secondary office"
+    },
+    {
+        "二度被動校準": "secondary passive alignment"
+    },
+    {
+        "旋轉式熔接二度校準": "secondary rotary splice alignment"
+    },
+    {
+        "第二路由，次要路由": "secondary route"
+    },
+    {
+        "矽晶片陣列熔接二度校準": "secondary silicon chip array splicing alignment"
+    },
+    {
+        "次級站": "secondary station"
+    },
+    {
+        "次級單位": "secondary unit"
+    },
+    {
+        "秘密通訊": "secret communication"
+    },
+    {
+        "扇形號角(導波管)": "sectoral horn (saveguide)"
+    },
+    {
+        "扇形號角天線": "sectoral horn antenna"
+    },
+    {
+        "保密語音通訊": "secure voice communications"
+    },
+    {
+        "尋標器": "seeker"
+    },
+    {
+        "(雷達)尋標器天線": "seeker antenna"
+    },
+    {
+        "發射前即鎖定式尋標器": "seeker， Lock-On-Before-Launch (LOBL)"
+    },
+    {
+        "飛彈尋標器": "seeker， missile"
+    },
+    {
+        "弧形空腔": "segmental cavity"
+    },
+    {
+        "分段式訊號雜訊比": "segmental SNR"
+    },
+    {
+        "分段及重組副層": "Segmentation and Resassembly Sublayer"
+    },
+    {
+        "分段信息": "Segmentation Message"
+    },
+    {
+        "選擇性藕合器": "selective coupler"
+    },
+    {
+        "選擇性分集合併": "selective diversity combining"
+    },
+    {
+        "選擇性衰退": "selective fading"
+    },
+    {
+        "選擇性摻雜異質結構電晶體": "selectively doped heterostructure transistor"
+    },
+    {
+        "選擇性": "selectivity"
+    },
+    {
+        "相鄰通道選擇性": "selectivity， adjacent-channel"
+    },
+    {
+        "自調變": "self modulation"
+    },
+    {
+        "自激振盪器": "SELF OSC (self-oscillator)"
+    },
+    {
+        "自定中心": "self-centering"
+    },
+    {
+        "自有時脈碼": "self-clocking code"
+    },
+    {
+        "自偶碼，自對偶碼": "self-dual code"
+    },
+    {
+        "平均自有消息量": "self-information， average"
+    },
+    {
+        "自聚焦透鏡": "SELFOC lenses"
+    },
+    {
+        "自相位調變": "self-phase modulation"
+    },
+    {
+        "自反應": "self-reaction"
+    },
+    {
+        "自行同步": "self-synchronization"
+    },
+    {
+        "自我調整之適應性濾波器": "self-tuning adaptive filter"
+    },
+    {
+        "語意學": "semantics"
+    },
+    {
+        "半自動專用交換機": "semi-automatic private branch exchange"
+    },
+    {
+        "半主動飛彈導引": "semicative missle guudance"
+    },
+    {
+        "半圓形空腔": "semicircular cavity"
+    },
+    {
+        "半導體": "semiconductor"
+    },
+    {
+        "半導體吸收": "semiconductor absorption"
+    },
+    {
+        "半導體放大器": "semiconductor amplifier"
+    },
+    {
+        "半導體崩潰檢光器": "Semiconductor APD"
+    },
+    {
+        "注入式半導體雷射": "semiconductor injection laser"
+    },
+    {
+        "半導體機體光學": "semiconductor integrated optics"
+    },
+    {
+        "半導體接面雷射": "semiconductor junction laser"
+    },
+    {
+        "半導體雷射": "semiconductor laser"
+    },
+    {
+        "半導體發光二極體": "semiconductor LED"
+    },
+    {
+        "半導體光放大器": "semiconductor optical amplifier"
+    },
+    {
+        "半導體光電晶體": "semiconductor photoransistor"
+    },
+    {
+        "半導體 pin 型檢光二極體": "semiconductor p-i-n photodiode"
+    },
+    {
+        "半導體 p-n 型檢光二極體": "semiconductor p-n photo-diode"
+    },
+    {
+        "半導體吸收係數": "semiconductor， absorption coeffecient of"
+    },
+    {
+        "三五族化合物半導體": "semiconductor， alloys (III-V)"
+    },
+    {
+        "半導體帶隙能量": "semiconductor， bandgap energies of"
+    },
+    {
+        "退化摻入半導體": "semiconductor， degenerative doping"
+    },
+    {
+        "半導體介電常數": "dielectric constant of semiconductor"
+    },
+    {
+        "半導體介電張量": "semiconductor， dielectric tensor of"
+    },
+    {
+        " n 型半導體": "semiconductor， n type"
+    },
+    {
+        "p 型半導體": "p type semiconductor"
+    },
+    {
+        "半雙工操作": "semi-duplex operation"
+    },
+    {
+        "發送端濾波器，發送濾波器": "send filter"
+    },
+    {
+        "發射方，發送方，發報方": "send side"
+    },
+    {
+        "送與等": "send-and-wait"
+    },
+    {
+        "傳送完成": "Sending complete"
+    },
+    {
+        "發送機": "sending set"
+    },
+    {
+        "發送端": "sending terminal"
+    },
+    {
+        "發送端串音，發射端串音": "sending-end crosstalk"
+    },
+    {
+        "感測放大器": "sense amplifier"
+    },
+    {
+        "感測天線": "sense antennal"
+    },
+    {
+        "靈敏度，敏感性": "sensitivity"
+    },
+    {
+        "靈敏度分析": "sensitivity analysis"
+    },
+    {
+        "靈敏度係數": "sensitivity coefficient"
+    },
+    {
+        "靈敏度時控(電路)": "Sensitivity Time Control{=STC}"
+    },
+    {
+        "聲波靈敏度": "sensitivity， accoustic"
+    },
+    {
+        "檢光二極體靈敏度": "sensitivity， photodiode"
+    },
+    {
+        "感測器": "sensor"
+    },
+    {
+        "感測放大器": "sensor amplifier"
+    },
+    {
+        "感測器鍍膜": "sensor coating"
+    },
+    {
+        "光纖加速感測器": "sensor， optical fiber acceleration"
+    },
+    {
+        "光纖聲波感測器": "sensor， optical fiber acoustic"
+    },
+    {
+        "光纖鍍膜感測器": "sensor， optical fiber coated"
+    },
+    {
+        "光纖位移感測器": "sensor， optical fiber displacement"
+    },
+    {
+        "光纖編碼器感測器": "sensor， optical fiber encoder"
+    },
+    {
+        "光纖外質感測器": "sensor， optical fiber extrinsic"
+    },
+    {
+        "光纖伽碼射線感測器": "sensor， optical fiber gamma ray"
+    },
+    {
+        "光纖氣體感測器": "sensor， optical fiber gas"
+    },
+    {
+        "光纖陀螺儀感測器": "sensor， optical fiber gyroscopic"
+    },
+    {
+        "光纖強度調變感測器": "sensor， optical fiber intensity-modulated"
+    },
+    {
+        "光纖中斷效應感測器": "sensor， optical fiber interruption effect"
+    },
+    {
+        "光纖慣性感測器": "sensor， optical fiber intertial"
+    },
+    {
+        "光纖本質感測器": "sensor， optical fiber intrinsic"
+    },
+    {
+        "光纖磁場感測器": "sensor， optical fiber magnetic field"
+    },
+    {
+        "光纖磁話方向感測器": "sensor， optical fiber polartimetric"
+    },
+    {
+        "光纖壓力感測器": "sensor， optical fiber pressure"
+    },
+    {
+        "光纖近接感測器": "sensor， optical fiber proximity"
+    },
+    {
+        "光纖旋轉感測器": "sensor， optical fiber rotation"
+    },
+    {
+        "光纖散射效應感測器": "sensor， optical fiber scatter effect"
+    },
+    {
+        "光纖分光鏡效應感測器": "sensor， optical fiber spectrosocpic effect"
+    },
+    {
+        "光纖應力感測器": "sensor， optical fiber strain"
+    },
+    {
+        "光纖溫度感測器": "sensor， optical fiber temperature"
+    },
+    {
+        "光纖速度感測器": "sensor， optical fiber velocity"
+    },
+    {
+        "光纖振動感測器": "sensor， optical fiber vibration"
+    },
+    {
+        "光纖X光感測器": "sensor， optical fiber x-ray"
+    },
+    {
+        "光纖微曲感測器": "sensor， optical fiver microbend"
+    },
+    {
+        "可分離之自相關函數": "separable acf"
+    },
+    {
+        "可分離碼": "separable code"
+    },
+    {
+        "可分離式線性孔徑分佈": "separable linear aperture distribution"
+    },
+    {
+        "可分離之轉換": "separable transforms"
+    },
+    {
+        "雙數分離": "separation of variables"
+    },
+    {
+        "雙數分離法": "separation-of-variables method"
+    },
+    {
+        "奇序列": "seqnecue， odd"
+    },
+    {
+        "序列，順序": "sequence"
+    },
+    {
+        "順序號碼": "Sequence Number"
+    },
+    {
+        "基底序列": "sequence， basis"
+    },
+    {
+        "具因果性序列": "sequence， causal"
+    },
+    {
+        "共軛反對稱序列": "sequence， conjugate-antisymmetric"
+    },
+    {
+        "共軛對稱序列": "sequence， conjugate-symmetric"
+    },
+    {
+        "指數序列": "sequence， exponential"
+    },
+    {
+        "資料框檢查序列": "Sequence， Frame Check (FCS)"
+    },
+    {
+        "卡西米序列": "sequence， Ksasmi"
+    },
+    {
+        "左向序列": "sequence， left-handed"
+    },
+    {
+        "左向序列 ": "sequence， left-sided"
+    },
+    {
+        "週期性序列": "sequence， periodic"
+    },
+    {
+        "右向序列": "sequence， right-sided"
+    },
+    {
+        "正弦序列": "sequence， sinusolidal"
+    },
+    {
+        "雙向序列": "sequence， two-sided"
+    },
+    {
+        "金氏序列": "sequence，Gold"
+    },
+    {
+        "程序裝置，程序器": "sequencer"
+    },
+    {
+        "依序編碼法": "sequential coding"
+    },
+    {
+        "依序解碼法": "sequential decoding"
+    },
+    {
+        "依序檢測(法)": "sequential detection"
+    },
+    {
+        "(雷達)主瓣依序切換(之角度追蹤)": "sequential lobing"
+    },
+    {
+        "串列式數位類比轉換": "serial D/A conversion"
+    },
+    {
+        "順序號": "serial number"
+    },
+    {
+        "串列傳遞，串列傳輸": "serial tranmission"
+    },
+    {
+        "串列-並列轉換器": "serial-to-parallel converter"
+    },
+    {
+        "串聯電容(器)": "series capacitor"
+    },
+    {
+        "串聯電感(器)": "series inductor"
+    },
+    {
+        "串接 T 形接頭": "series tee"
+    },
+    {
+        "串聯饋伺(天線)陣列": "series-fed array"
+    },
+    {
+        "數位式終端服務": "serive， digital termination"
+    },
+    {
+        "附加傳播業務": "servcie，additional dissemination"
+    },
+    {
+        "第一類服務": "Service 1"
+    },
+    {
+        "第二類服務": "Service 2"
+    },
+    {
+        "第三類服務要求": "Service 3 Request"
+    },
+    {
+        "服務進接點": "Service Access Point{=SAP}"
+    },
+    {
+        "業務通道，業務波道": "service channel"
+    },
+    {
+        "服務資料單元": "Service Data Unit{=SDU}"
+    },
+    {
+        "服務資料8位元組": "Service Information Octet"
+    },
+    {
+        "通話次數表": "service meter"
+    },
+    {
+        "諮詢業務": "service， advisory"
+    },
+    {
+        "航空無線電導航業務": "service， aeronuatical radionavigation"
+    },
+    {
+        "衛星廣播業務": "service， broadcasting-satellite"
+    },
+    {
+        "確認的服務": "service， confirmed"
+    },
+    {
+        "信息認證處理服務": "service， messae authentication handling"
+    },
+    {
+        "分組交換業務，分組轉接服務": "service， pack switching"
+    },
+    {
+        "伺服機構": "SERVO (servo mechanism)"
+    },
+    {
+        "伺服迴路": "servo loop"
+    },
+    {
+        "交流伺服系統": "servo， A.C."
+    },
+    {
+        "伺服馬達": "servomtor"
+    },
+    {
+        "交談層": "session layer"
+    },
+    {
+        "交談層協定資料單元": "Session Protocol Data Unit (SPDU)"
+    },
+    {
+        "建立信息": "SETUP (Set-Up Message)"
+    },
+    {
+        "建立回應信息": "SETUP ACK (Set-Up Acknowledge Message)"
+    },
+    {
+        "嚴重誤碼秒": "severe-errored-seconds"
+    },
+    {
+        "嚴重錯誤細胞區塊率": "Severely Errored Cell Block (SECB)"
+    },
+    {
+        "嚴重錯誤細胞區塊率": "Severely Errored Cell Bolck Ratio (SECBR)"
+    },
+    {
+        "短波頻率": "SF (Short wave Frequency)"
+    },
+    {
+        "超聲頻": "SF (Supersonic Frequency)"
+    },
+    {
+        "空間頻率調變": "SFM (Space Frequency Modulation)"
+    },
+    {
+        "S-玻璃": "S-glass"
+    },
+    {
+        "分段信息": "SGM (Segmentation Message)"
+    },
+    {
+        "分段": "sgmentation"
+    },
+    {
+        "陰影": "shadow"
+    },
+    {
+        "陰影區，投影面積": "shadow area"
+    },
+    {
+        "陰影區(訊號)衰減": "shadow attenuation"
+    },
+    {
+        "向農通道容量": "Shannon channel capacity"
+    },
+    {
+        "向農限制": "Shannon limit"
+    },
+    {
+        "向農-哈特萊定律": "Shannon-Hartley law"
+    },
+    {
+        "向農定理": "Shannon's theorem"
+    },
+    {
+        "陣列之整型波數合成法": "shaped beam synthesis of array"
+    },
+    {
+        "雙向彎曲整型反射器": "shaped reflectr， doubly curved"
+    },
+    {
+        "特殊整型波數之天線": "shaped-beam antenna"
+    },
+    {
+        "雜訊整型(用於編碼)": "shaping， nosie"
+    },
+    {
+        "陡峭截止濾波器": "sharp cutoff filter"
+    },
+    {
+        "剪切顯微鏡": "shearing microscope"
+    },
+    {
+        "包皮螺(旋傳輸)線": "sheath helix"
+    },
+    {
+        "極高頻帶": "SHF (Super High Frequency) band"
+    },
+    {
+        "極高頻無線電鏈路": "SHF radio link"
+    },
+    {
+        "遮蔽平衡雙股纜線，遮蔽平衡對絞纜線": "shielded balanced pari caboe"
+    },
+    {
+        "遮蔽有效性": "shielding effectiveness"
+    },
+    {
+        "偏移，移動，位移，漂移，頻移，輪班": "shift"
+    },
+    {
+        "移位暫存器": "shift register"
+    },
+    {
+        "古斯-亨琴(相位)平移": "shift， Goss-Haenchen"
+    },
+    {
+        "相角位移，相位移": "shift， phase"
+    },
+    {
+        "移相器，相移器": "shifter， phase"
+    },
+    {
+        "平移不變系統": "shift-invariant systems"
+    },
+    {
+        "移位暫存器碼": "shift-register code"
+    },
+    {
+        "船艦防衛作戰": "ship defense"
+    },
+    {
+        "船(艦)對岸通訊": "ship to shore communication"
+    },
+    {
+        "船(艦)對衛星通訊": "ship-to-satellite communication"
+    },
+    {
+        "船(艦)間通訊鏈路": "ship-to-ship link"
+    },
+    {
+        "船(艦)度暗通訊鏈路": "ship-to-shore link"
+    },
+    {
+        "熱擊": "shock， thermal"
+    },
+    {
+        "抗(阻)流器號角天線": "shoke horn antenna"
+    },
+    {
+        "短距離通訊": "shor-haul communication"
+    },
+    {
+        "短區塊碼": "short block code"
+    },
+    {
+        "短叢發": "short burst"
+    },
+    {
+        "短路": "short circuits"
+    },
+    {
+        "短距離載波電話": "short distance carrier telephoen"
+    },
+    {
+        "短成(電話)，短距離": "short haul"
+    },
+    {
+        "短波": "short wave"
+    },
+    {
+        "短波天線": "short wave antenna"
+    },
+    {
+        "短波波長": "short wave length"
+    },
+    {
+        "短波接收機": "short wave receiver"
+    },
+    {
+        "短波中繼": "short wave relay"
+    },
+    {
+        "短波發射機": "short wave transmitter"
+    },
+    {
+        "短接，短路": "short-circuit"
+    },
+    {
+        "近距離載波通訊系統": "short-distance carrier system"
+    },
+    {
+        "短路傳輸線": "shorted line"
+    },
+    {
+        "短鎖碼": "shortened code"
+    },
+    {
+        "短縮循環碼": "shortened cyclic code"
+    },
+    {
+        "短縮的漢明碼": "shortened Hammng codes"
+    },
+    {
+        "短週期衰退": "short-period fading"
+    },
+    {
+        "短距離衰退": "short-range fading"
+    },
+    {
+        "短劇無線電發射機": "short-range radio transmitter"
+    },
+    {
+        "短期穩定性": "short-term stability"
+    },
+    {
+        "短時傅立葉轉換": "short-time Fourier transform"
+    },
+    {
+        "短波": "short-wave"
+    },
+    {
+        "短波波短": "short-wave band"
+    },
+    {
+        "短波定向天線": "short-wave beam antenna"
+    },
+    {
+        "短波通訊": "short-wave communication"
+    },
+    {
+        "短波輻射": "short-wave radiation"
+    },
+    {
+        "短波無線電台": "short-wave radio station"
+    },
+    {
+        "短波無線電發射機": "short-wave radio transmitter"
+    },
+    {
+        "散粒雜訊": "shot noise"
+    },
+    {
+        "整型之反射器(天線)": "shpaed reflector"
+    },
+    {
+        "分路，分流，並聯，分路器": "shunt"
+    },
+    {
+        "並聯電容(器)": "shunt capacitor"
+    },
+    {
+        "並接 T 形接頭": "shunt tee"
+    },
+    {
+        "並聯饋入雙極(天線)": "shunt-fed dipole"
+    },
+    {
+        "停機": "shut down"
+    },
+    {
+        "SI 單位": "SI units"
+    },
+    {
+        "矽晶片開關": "Si-chip switch"
+    },
+    {
+        "(調幅中的)低旁波帶": "sidband， lower"
+    },
+    {
+        "(天線)旁回波": "side echo"
+    },
+    {
+        "旁訊息": "side information"
+    },
+    {
+        "誤差保護用之旁訊息": "side information for error protection"
+    },
+    {
+        "旁波瓣": "side lobes"
+    },
+    {
+        "旁波帶，旁頻帶": "sideband"
+    },
+    {
+        "旁波帶抑制載波": "sideband suppressed carrier"
+    },
+    {
+        "(天線場型的)旁波瓣": "sidelobe"
+    },
+    {
+        "旁瓣雜波": "sidelobe clutter"
+    },
+    {
+        "旁瓣雜波去除": "sidelobe clutter rejection"
+    },
+    {
+        "旁瓣干擾": "sidelobe interference"
+    },
+    {
+        "旁瓣干擾消除": "sidelobe interference canceling"
+    },
+    {
+        "旁瓣位準": "sidelobe level"
+    },
+    {
+        "旁瓣雜訊": "sidelobe noise"
+    },
+    {
+        "旁瓣減低": "sidelobe reduction"
+    },
+    {
+        "旁瓣頻譜": "sidelobe spectrum"
+    },
+    {
+        "旁瓣抑制": "sidelobe suppression"
+    },
+    {
+        "旁瓣加權": "sidelobe weighting"
+    },
+    {
+        "最小峰值旁瓣": "sidelobe， minimum peak"
+    },
+    {
+        "天線旁瓣(場型)": "sidelobes， antenna"
+    },
+    {
+        "側視陣列雷達": "SideLooking Array Radar{=SLAR}"
+    },
+    {
+        "恆星日": "sidereal day"
+    },
+    {
+        "(矩形波導之)側牆開槽": "sidewall slots"
+    },
+    {
+        "(德)西門子公司": "SIEMENS"
+    },
+    {
+        "訊號雜訊比": "siganl to noise ratio (SNR)"
+    },
+    {
+        "不歸零傳訊": "siganling， nonreturn ot zero (NRZ)"
+    },
+    {
+        "帶外傳訊": "siganling， out-of-band"
+    },
+    {
+        "反極訊號": "siganls， antipodal"
+    },
+    {
+        "正負號位元": "sign bit"
+    },
+    {
+        "正負號字元": "sign digit"
+    },
+    {
+        "正負號指示元": "sign indicator"
+    },
+    {
+        "致動訊號": "signa， actuatin"
+    },
+    {
+        "類比訊號": "signa， analog"
+    },
+    {
+        "訊號": "signal"
+    },
+    {
+        "數位控制訊號": "signal ，sigital control"
+    },
+    {
+        "訊號分析": "signal analysis"
+    },
+    {
+        "縮寫訊號碼": "signal code， abbreviated"
+    },
+    {
+        "訊號星象圖，訊號分佈圖": "signal contellation"
+    },
+    {
+        "陸軍通信兵": "Signal Corps"
+    },
+    {
+        "訊號延遲時間": "signal delay time"
+    },
+    {
+        "訊號失真": "signal distortion"
+    },
+    {
+        "訊號失真率(自動交換系統中)": "signal distrotion rate"
+    },
+    {
+        "訊號加密系統": "signal encrypt system"
+    },
+    {
+        "訊號能量": "signal energy"
+    },
+    {
+        "訊號流程圖": "signal flow graph"
+    },
+    {
+        "訊號識別": "signal identification"
+    },
+    {
+        "訊號(因傳輸，雜訊等造成之)損壞": "signal impairment"
+    },
+    {
+        "通信情報": "signal intelligience"
+    },
+    {
+        "通信情報處": "signal intelligience service"
+    },
+    {
+        "訊號解釋，訊號譯碼": "signal interpretation"
+    },
+    {
+        "訊號間隔": "signal interval"
+    },
+    {
+        "訊號極性": "signal polarity"
+    },
+    {
+        "訊號功率": "signal power"
+    },
+    {
+        "訊號處理": "signal processing"
+    },
+    {
+        "訊號處理器": "signal processor"
+    },
+    {
+        "類比式訊號處理": "signal procissing， analog"
+    },
+    {
+        "訊號偵察": "signal reconnaissance"
+    },
+    {
+        "訊號重建": "signal reconstruction"
+    },
+    {
+        "訊號保密": "signal security"
+    },
+    {
+        "訊號空間": "signal space"
+    },
+    {
+        "訊號頻譜": "signal spectrum"
+    },
+    {
+        "訊號分割器": "signal spillter"
+    },
+    {
+        "訊號強度": "signal stregth"
+    },
+    {
+        "信號終端機": "Signal Terminal Equipment (STE)"
+    },
+    {
+        "訊號對雜訊與失真比": "signal to noise and distrotion ratio"
+    },
+    {
+        "訊號波形": "signal waveform"
+    },
+    {
+        "實證控制訊號，認可控制訊號": "signal， acknowledgement control"
+    },
+    {
+        "起動訊號": "signal， activating"
+    },
+    {
+        "位址完全訊號": "signal， address-complete"
+    },
+    {
+        "位址不完全訊號": "signal， address-incomplete"
+    },
+    {
+        "調幅訊號": "signal， AM"
+    },
+    {
+        "標誌訊號，傳號訊號": "signal， amrking"
+    },
+    {
+        "反極訊號": "signal， antipodal"
+    },
+    {
+        "幅移鍵控訊號": "signal， ASK"
+    },
+    {
+        "非同步訊號": "signal， asynchronous"
+    },
+    {
+        "有限頻寬訊號": "signal， bandimited"
+    },
+    {
+        "基頻帶博碼調變訊號": "signal， baseband PCM"
+    },
+    {
+        "呼叫行進訊號": "signal， call progress"
+    },
+    {
+        "被叫用戶線路狀況的訊號": "signal， called-party's-line-condition"
+    },
+    {
+        "二階調變訊號": "signal， deta modulation"
+    },
+    {
+        "雙二元部分響應訊號": "signal， doubinary partial response"
+    },
+    {
+        "微分相移鍵控訊號": "signal， DPSK"
+    },
+    {
+        "雙旁波(頻)帶訊號": "signal， DSB"
+    },
+    {
+        "調頻訊號": "signal， FM"
+    },
+    {
+        "調頻雙聲訊號": "signal， FM stereo"
+    },
+    {
+        "頻移鍵控訊號": "signal， FSK"
+    },
+    {
+        "影像訊號": "signal， image"
+    },
+    {
+        "(電視)亮度訊號": "signal， luminance"
+    },
+    {
+        "多階幅移鍵控信號": "signal， MASK"
+    },
+    {
+        "多階頻移鍵控訊號": "signal， MFSK"
+    },
+    {
+        "修正型雙二元訊號": "signal， modified doubinary"
+    },
+    {
+        "多階相移鍵控訊號": "signal， MPSK"
+    },
+    {
+        "雜訊訊號": "signal， nosie"
+    },
+    {
+        "去話回尋重發指令訊號": "signal， outoging RQ'"
+    },
+    {
+        "脈波振幅調變訊號": "signal， PAM"
+    },
+    {
+        "派波寬度調變，脈波位置調變訊號": "signal， PDM， PPM"
+    },
+    {
+        "週期訊號": "signal， periodic"
+    },
+    {
+        "(電話)永久訊號，不減訊號，不掛機訊號": "signal， permanent glow"
+    },
+    {
+        "相移鍵控訊號": "signal， PSK"
+    },
+    {
+        "隨機訊號": "signal， radom"
+    },
+    {
+        "展頻訊號": "signal， spread sectrum"
+    },
+    {
+        "單旁波(頻)帶訊號": "signal， SSB"
+    },
+    {
+        "分時多工訊號": "signal， time multiplexed"
+    },
+    {
+        "電視訊號": "signal， TV"
+    },
+    {
+        "訊號串音比": "signal/crosstalk ratio"
+    },
+    {
+        "信號方式;傳訊": "signaling"
+    },
+    {
+        "非同步傳送模式調適層信號方式": "Signaling ATM Adaptation Layer"
+    },
+    {
+        "傳訊通道": "signaling channel"
+    },
+    {
+        "信號鏈路選擇": "Signaling Link Selection"
+    },
+    {
+        "傳訊網路": "signaling network"
+    },
+    {
+        "發碼率，傳訊率": "signaling rate"
+    },
+    {
+        "信號純音": "Signaling Tone (ST)"
+    },
+    {
+        "信號虛擬通道": "Signaling virtual Channel"
+    },
+    {
+        "雙二位元傳訊": "signaling， doubinary"
+    },
+    {
+        "多頻碼傳訊": "signaling， multi-frequenxy code"
+    },
+    {
+        "帶外傳訊": "signaling， out-band"
+    },
+    {
+        "訊號線抗雜訊度": "signal-line noise immunity"
+    },
+    {
+        "帶通訊號": "signals， bandpass"
+    },
+    {
+        "雙正交訊號": "signals， biotrhogonal"
+    },
+    {
+        "無線電訊號表": "signals， diagram"
+    },
+    {
+        "修正型雙二元部分響應訊號": "signals， modified duobinary partial response"
+    },
+    {
+        "窄頻訊號": "signals， narrowband"
+    },
+    {
+        "訊號對通道雜訊比": "signal-to-channel noise ratio"
+    },
+    {
+        "訊號對雜波比": "signal-to-clutter ratio (SCR)"
+    },
+    {
+        "訊號對串音比": "signal-to-crosstalk ratio"
+    },
+    {
+        "訊號對失真比": "signal-to-distrotion ratio"
+    },
+    {
+        "訊號對干擾比": "signal-to-interference ratio"
+    },
+    {
+        "訊號對遮蔽比": "signal-to-masking ratio"
+    },
+    {
+        "訊號對雜訊比": "signal-to-noise ratio (S/N， SNR)"
+    },
+    {
+        "輸出訊號對雜訊比": "signal-to-noise ratio (SNR)， output"
+    },
+    {
+        "檢測後訊號對雜訊比": "signal-to-noise ratio， postdetection"
+    },
+    {
+        "檢測前訊號對雜訊比": "signal-to-noise ratio， predetection"
+    },
+    {
+        "訊號對量化雜訊比": "signal-to-quaztization noise ratio (SQR)"
+    },
+    {
+        "數位化簽字": "signature， digital"
+    },
+    {
+        "有效數字": "significant figure"
+    },
+    {
+        "有意義號碼": "significant number"
+    },
+    {
+        "相位調變訊號": "signla， PM"
+    },
+    {
+        "滑動螺釘調諧器，滑動螺釘選台器": "silde-screw tuner"
+    },
+    {
+        "滑動接續": "silding connection"
+    },
+    {
+        "靜區": "silence zone"
+    },
+    {
+        "二氧化矽核心柱": "silica core rod"
+    },
+    {
+        "二氧化矽缺陷": "silica defect"
+    },
+    {
+        "二氧化矽光纖": "silica fiber"
+    },
+    {
+        "二氧化矽玻璃製造": "silica glass fabrication"
+    },
+    {
+        "二氧化矽玻璃強度": "silica glass strength"
+    },
+    {
+        "二氧化矽玻璃氣相處理過程": "silica glass vapor phase processing"
+    },
+    {
+        "矽": "silicon"
+    },
+    {
+        "矽吸收": "silicon (Si) absorption"
+    },
+    {
+        "矽撿光器": "silicon (Si) detector"
+    },
+    {
+        "矽場效電晶體": "silicon (Si) FET"
+    },
+    {
+        "矽撿光二極體": "silicon (Si) photodiode"
+    },
+    {
+        "矽碳化物": "silicon carbide"
+    },
+    {
+        "矽晶陣列熔接": "silicon chip array splicing"
+    },
+    {
+        "二氧化矽": "silicon dioxide"
+    },
+    {
+        "矽膠": "silicon gets"
+    },
+    {
+        "矽接面場效二極體": "silicon JFET"
+    },
+    {
+        "矽金氧半導體場效電晶體雜訊": "silicon MOSFET noise"
+    },
+    {
+        "矽氮化物": "silicon nitride"
+    },
+    {
+        "矽酮": "silicone"
+    },
+    {
+        "簡易電子郵遞協定": "Simple Mail Transfer Protocol (SMTP)"
+    },
+    {
+        "簡單物質": "simple matter"
+    },
+    {
+        "簡單同位檢查碼": "simple parity check code"
+    },
+    {
+        "單工，單工機": "simplex"
+    },
+    {
+        "單式碼": "simplex code"
+    },
+    {
+        "單工通訊": "simplex communication"
+    },
+    {
+        "單工訊號": "simplex signal"
+    },
+    {
+        "單工傳輸，單工發報": "simplex transmission"
+    },
+    {
+        "模擬，模擬實驗": "simulation"
+    },
+    {
+        "數位計算機模擬": "simulations， digital computer"
+    },
+    {
+        "模擬器": "simulator"
+    },
+    {
+        "聯播": "simulcast"
+    },
+    {
+        "聯播節目": "simulcast program"
+    },
+    {
+        "聯(合廣)播": "simultaneous broadcasting"
+    },
+    {
+        "同時傳送": "simultaneous transmission"
+    },
+    {
+        "正弦積分函數": "sine integral function"
+    },
+    {
+        "正弦積分函數": "sine integrals"
+    },
+    {
+        "sinc 函數脈波": "sine pulse"
+    },
+    {
+        "正弦波載波": "sine wave carrier"
+    },
+    {
+        "正弦輸入": "sine-input"
+    },
+    {
+        "正弦定律": "sine's law"
+    },
+    {
+        "正弦波輸入": "sine-wave input"
+    },
+    {
+        "信號雜訊比": "Signal-to-Noise Ratio{=SNR}"
+    },
+    {
+        "單一存取": "single access"
+    },
+    {
+        "每載波單通道": "Single Channel Per Carrier (SCPC)"
+    },
+    {
+        "單光纖連接器": "single fiber connector"
+    },
+    {
+        "單頻碼": "single frequency code"
+    },
+    {
+        "單一鏈結程序": "Single Link Procedure (SLP)"
+    },
+    {
+        "單模態注入式鋁砷化鎵雷射": "single mode AlGaAs injection laser"
+    },
+    {
+        "單模連接器": "single mode connector"
+    },
+    {
+        "單模光纖": "Single Mode Fiber{=SMF}"
+    },
+    {
+        "單模光纖連接器": "single mode fiber connector"
+    },
+    {
+        "單模光纖接合損失": "single mode fiber joint loss"
+    },
+    {
+        "單模光纖材料波散參數": "single mode fiber， material dispersion parameter of"
+    },
+    {
+        "單模光纖極化": "single mode fiber， polarization of"
+    },
+    {
+        "單模光纖傳播常數": "single mode fiber， propagation constant of"
+    },
+    {
+        "單模光纖光點大小": "single mode fiber， spot aize of"
+    },
+    {
+        "非半導體單模雷射": "single mode laser， nonsemiconductor"
+    },
+    {
+        "單模雷射半導體模態穩定": "single mode laser， semi-conductor mode stabilization of"
+    },
+    {
+        "單模雷射半導體結構": "single mode laser， semi-conductor structure of"
+    },
+    {
+        "單模系統": "single mode system"
+    },
+    {
+        "單一同位檢查碼": "single parity check code"
+    },
+    {
+        "單邊帶，單旁帶": "Single SideBand (SSB)"
+    },
+    {
+        "單邊帶調變": "single sideband modulation"
+    },
+    {
+        "單邊帶調變器": "single side-band modulator"
+    },
+    {
+        "單步呼叫傳接": "Single Step Call Transfer"
+    },
+    {
+        "單目標追蹤": "Single Target Tracking{=STT}"
+    },
+    {
+        "單軸框架": "single-axis gimbal"
+    },
+    {
+        "單載波調頻模式": "single-carrrier FM mode"
+    },
+    {
+        "每載波單通道": "Single-Channel Per Carrier (SCPC)"
+    },
+    {
+        "單蕊纜線": "single-core cable"
+    },
+    {
+        "單一時延調(雜波)消減(電路)": "single-delay coherent canceler"
+    },
+    {
+        "單端混波器": "single-ended mixer"
+    },
+    {
+        "單錯誤更正碼": "single-error correcting code"
+    },
+    {
+        "單頻干擾": "single-frequency interference"
+    },
+    {
+        "單躍繼鏈路": "single-hop link"
+    },
+    {
+        "單鉛包攬線": "single-lead cable"
+    },
+    {
+        "單模光纖": "single-mode fiber"
+    },
+    {
+        "單模光纖頻寬": "single-mode fiber's bandwidth"
+    },
+    {
+        "單模光纖熔接衰減": "single-mode fiber's splicing attenuation"
+    },
+    {
+        "單埠放大器": "single-port amplifier"
+    },
+    {
+        "單邊帶抑制(載波法)": "single-sideband suppressed"
+    },
+    {
+        "單枝阻抗匹配": "single-stub impedance matching"
+    },
+    {
+        "辛格頓介線": "Singleton bound"
+    },
+    {
+        "單軌錯誤": "single-track error"
+    },
+    {
+        "單線傳輸線": "single-wire line"
+    },
+    {
+        "奇異場": "singular field"
+    },
+    {
+        "接收者(接收並儲存檔案之檔案系統)": "sink agency"
+    },
+    {
+        "正弦序列": "sinusoidal sequences"
+    },
+    {
+        "信號干擾比": "SIR (Signal to Inteference Ratio)"
+    },
+    {
+        "國際航空電信公司(法文)": "SITA (Societe Intermationale de Telecommunications Aeronartiques)"
+    },
+    {
+        "國際航空電信協會數據網路": "SITA data network"
+    },
+    {
+        "(通訊)站名，通訊場地名字": "site name"
+    },
+    {
+        "選址": "site selection"
+    },
+    {
+        "現場勘測，站址勘測": "site survery"
+    },
+    {
+        "地點設置": "siting"
+    },
+    {
+        "概略編碼": "skeletal coding"
+    },
+    {
+        "不交軸光線": "skew rays"
+    },
+    {
+        "不交軸光線受光角": "skew rays acceptance angle"
+    },
+    {
+        "集膚深度": "skin depth"
+    },
+    {
+        "集膚效應": "skin effect"
+    },
+    {
+        "集膚效應電阻": "skin-effect resistance"
+    },
+    {
+        "邊頻選擇性": "skirt selectivity"
+    },
+    {
+        "天空雜訊": "sky noise"
+    },
+    {
+        "天波": "sky wave"
+    },
+    {
+        "太空實現室衛星": "SKYLAB (Sky Laboratory Satellite)"
+    },
+    {
+        "(英國)天網(同步通信)衛星": "SKYNET (Sky Network satellite)"
+    },
+    {
+        "天空雜訊溫度": "sky-noise temperature"
+    },
+    {
+        "板狀導波管": "slab guide"
+    },
+    {
+        "板狀導波管形雙折射性": "slab waveguide shape birefringence"
+    },
+    {
+        "天線量測傾斜範圍": "slant range for antennal measurement"
+    },
+    {
+        "斜置雙極(天線)": "slanted dipoles"
+    },
+    {
+        "側視(陣列或孔徑)雷達": "SLAR"
+    },
+    {
+        "副台，從屬台": "slave station"
+    },
+    {
+        "表面發光雷射二極體至光纖藕合": "SLD-fiber coupling"
+    },
+    {
+        "表面發光二極體至光纖藕合": "SLED-fiber coupling"
+    },
+    {
+        "袖套雙極(天線)": "sleeve dipole"
+    },
+    {
+        "袖套單極(天線)": "sleeve monopole"
+    },
+    {
+        "袖套校準": "sleeve， alignmentof"
+    },
+    {
+        "二氧化矽玻璃氟摻入": "slica glass flourine doping"
+    },
+    {
+        "滑動接點": "sliding contact"
+    },
+    {
+        "不知不覺得衰退": "sliding fading"
+    },
+    {
+        "滑動窗協定": "sliding window protocol"
+    },
+    {
+        "用戶環路多工": "SLM (Subscriber Loop Multiplex)"
+    },
+    {
+        "斜率檢測": "slope detection"
+    },
+    {
+        "斜率檢測器": "slope detector"
+    },
+    {
+        "斜率過載(增量調變中輸入信號變化太快引起的失真)": "slope overload"
+    },
+    {
+        "斜V形天線(半菱形天線)": "sloping vee"
+    },
+    {
+        "槽，狹縫": "slot"
+    },
+    {
+        "縫隙天線，槽行天線": "slot antenna"
+    },
+    {
+        "開槽陣列(天線)": "slot array"
+    },
+    {
+        "開槽等效阻抗": "slot equivalent impedance"
+    },
+    {
+        "I 型開槽": "slot I"
+    },
+    {
+        "開槽阻抗": "slot impedance"
+    },
+    {
+        "開槽微增電納": "slot incremental admittance"
+    },
+    {
+        "開槽輸入電導": "slot input conductance"
+    },
+    {
+        "開槽傳輸線": "slot line"
+    },
+    {
+        "開槽輻射電導": "slot radiation conductance"
+    },
+    {
+        "開槽散射矩陣": "slot scattering matrix"
+    },
+    {
+        "時槽之時長，槽時": "slot time"
+    },
+    {
+        "環狀開槽": "slot， annular"
+    },
+    {
+        "附於共振腔之開槽(天線)": "slot， cavity-backed"
+    },
+    {
+        "圓形波導開槽(天線)": "slot， circular-wavegudie"
+    },
+    {
+        "同軸線饋入是開槽(天線)": "slot， coax feed"
+    },
+    {
+        "交叉開槽": "slot， crossed"
+    },
+    {
+        "介質負載之開槽": "slot， dievlectric loaded"
+    },
+    {
+        "(矩形波導之)邊緣開槽": "slot， edge"
+    },
+    {
+        "半波開槽": "slot， half-wave"
+    },
+    {
+        "傾斜串聯開槽": "slot， inclined series"
+    },
+    {
+        "縱向並聯開槽": "slot， longitudinal shunt"
+    },
+    {
+        "開槽間之相互藕合": "slot， mutual coupling of"
+    },
+    {
+        "V 型凹槽": "slot， notch"
+    },
+    {
+        "偏移饋入之開槽": "slot， offset-feed"
+    },
+    {
+        "探針藕合之開槽": "slot， probe-coupled"
+    },
+    {
+        "短開槽": "slot， short"
+    },
+    {
+        "小型矩形開槽": "slot， small rectangular"
+    },
+    {
+        "條線開槽": "slot， stripline"
+    },
+    {
+        "T 型棒饋入之開槽(天線)": "slot， T-bar-fed"
+    },
+    {
+        "波導饋入之開槽(天線)": "slot， wavegude-fed"
+    },
+    {
+        "開槽陣列天線": "slotted array antenna"
+    },
+    {
+        "開槽圓錐體": "slotted cone"
+    },
+    {
+        "開槽圓柱體": "slotted cylinder"
+    },
+    {
+        "開槽球體": "slotted sphere"
+    },
+    {
+        "開槽波導天線": "slotted waveguide antenna"
+    },
+    {
+        "開槽波導陣列(天線)": "slotted-waveguide array"
+    },
+    {
+        "緩慢漂移": "slow drift"
+    },
+    {
+        "緩慢衰退": "slow fading"
+    },
+    {
+        "慢波": "slow wave"
+    },
+    {
+        "慢波天線": "slow wave antenna"
+    },
+    {
+        "慢波結構": "slow wave structure"
+    },
+    {
+        "慢波裝置": "slow-wave device"
+    },
+    {
+        "SMA 連接器": "SMA connectors"
+    },
+    {
+        "小型天線": "small antenna"
+    },
+    {
+        "小型天線之有效體積": "small antenna， effective volume of"
+    },
+    {
+        "平置式小型天線": "small antenna， flush"
+    },
+    {
+        "小型天線之輻射功率因數": "small antenna， radiation power factor of"
+    },
+    {
+        "小型地面終端機": "small eateh termainal"
+    },
+    {
+        "小型(圓形)迴路(天線)": "small loop"
+    },
+    {
+        "小功率無線電台": "small power radio station"
+    },
+    {
+        "小訊號運轉，小訊號動作": "small-signal behaviour"
+    },
+    {
+        "小型網路": "small-size network"
+    },
+    {
+        "智慧型感側裝置": "smart sensor"
+    },
+    {
+        "半導體離子交換玻璃組件": "smeiconductor ion-exchanged glass components"
+    },
+    {
+        "史密斯圖": "Smith Chart"
+    },
+    {
+        "史密斯阻抗圖": "Smith impedance chart"
+    },
+    {
+        "穩定主振盪器": "Stablized Master Oscillator{=SMO}"
+    },
+    {
+        "煙": "smoke"
+    },
+    {
+        "煙霧衰減": "smoke attenuation"
+    },
+    {
+        "訊號對遮蔽比": "SMR"
+    },
+    {
+        "順序號碼": "SN (Sequence Number)"
+    },
+    {
+        "系統網路架構": "SNA (Systems Network Architecture)"
+    },
+    {
+        "蛇在盒中碼": "snake-in-the-box code"
+    },
+    {
+        "史奈爾定律": "Snell's law"
+    },
+    {
+        "史奈爾反射定律": "Snell's law of reflection"
+    },
+    {
+        "史奈爾折射定律": "snell's law of refraction"
+    },
+    {
+        "雪花干擾": "snow"
+    },
+    {
+        "雪花衰減": "snow attenuation"
+    },
+    {
+        "副載波振盪器": "SOC (SubCarrier Oscillator)"
+    },
+    {
+        "插座;基座": "socket"
+    },
+    {
+        "軟式決定(用於解碼)": "soft decision"
+    },
+    {
+        "軟殼鍍膜": "soft shell coating"
+    },
+    {
+        "軟式決定解碼": "soft-decision decoding"
+    },
+    {
+        "軟體": "software"
+    },
+    {
+        "軟區決策": "soft-zoen decision"
+    },
+    {
+        "固體受光角": "soild acceptance angle"
+    },
+    {
+        "黃經": "sola longitude"
+    },
+    {
+        "太陽活動性": "solar activity"
+    },
+    {
+        "太陽能電池陣列": "solar array"
+    },
+    {
+        "太陽能電池陣列驅動": "solar array drive"
+    },
+    {
+        "太陽能電池陣列並聯調整器": "solar array shunt regulator"
+    },
+    {
+        "太陽能電池": "solar cell"
+    },
+    {
+        "太陽週期": "solar cycle"
+    },
+    {
+        "太陽日": "solar day"
+    },
+    {
+        "赤緯(太陽仰角)": "solar declination"
+    },
+    {
+        "日蝕": "solar eclipse"
+    },
+    {
+        "太陽閃焰；日閃焰": "solar flare"
+    },
+    {
+        "太陽閃爍中子": "solar flare protons"
+    },
+    {
+        "日光通量": "solar flux"
+    },
+    {
+        "太陽引力參數": "solar gravitational parameter"
+    },
+    {
+        "日光雜訊": "solar noise"
+    },
+    {
+        "日光攝動": "solar perturbations"
+    },
+    {
+        "太陽輻射壓": "solar radation pressure"
+    },
+    {
+        "太陽輻射": "solar radiation"
+    },
+    {
+        "赤精度": "solar right ascension"
+    },
+    {
+        "太陽黑點": "solar sunspot"
+    },
+    {
+        "太陽能電池陣列": "solar-cell array"
+    },
+    {
+        "太陽能動力衛星": "solar-powered satellite"
+    },
+    {
+        "焊料": "solder"
+    },
+    {
+        "螺旋場": "solenoidal field"
+    },
+    {
+        "液焦程序": "Sol-Gel process"
+    },
+    {
+        "固體潤滑劑": "solid lubricant"
+    },
+    {
+        "固體推進燃料火箭": "solid propellant trocket"
+    },
+    {
+        "固態放大器": "solid-state amplifiter"
+    },
+    {
+        "固態調變器": "solid-state modulator"
+    },
+    {
+        "固態(半導體)多工器": "solid-state multiplexer"
+    },
+    {
+        "固態訊號源": "solid-state source"
+    },
+    {
+        "光固子通訊系統": "solition communicaiton system"
+    },
+    {
+        "光固子衰減": "soliton attenuation"
+    },
+    {
+        "光固子存在條件": "soliton condistions for existence"
+    },
+    {
+        "光固子方程式": "soliton equation"
+    },
+    {
+        "光固子脈波頻擾": "soliton pulse chirp"
+    },
+    {
+        "光固子波方程式": "soliton wave equation"
+    },
+    {
+        "高階光固子": "soliton， higher-order"
+    },
+    {
+        "夏至及冬至": "solstice， summer and winter"
+    },
+    {
+        "索末菲爾德-高寶波，軸對稱波": "Sommerfeld-Goubau wave"
+    },
+    {
+        "聲納": "sonar"
+    },
+    {
+        "聲納通訊": "sonar communication"
+    },
+    {
+        "同步光纖網路": "SONET"
+    },
+    {
+        "連接器": "sonnector"
+    },
+    {
+        "遇險信號(符號)": "SOS distress signal"
+    },
+    {
+        "聲頻帶寬": "sound bandwidth"
+    },
+    {
+        "聲音廣播": "sound broadcasting"
+    },
+    {
+        "音頻訊號載波，聲音載波": "sound carrier"
+    },
+    {
+        "聲音通道": "sound channel"
+    },
+    {
+        "音壓強度": "sound pressure level"
+    },
+    {
+        "音響訊號，音頻訊號": "sound signal"
+    },
+    {
+        "發聲，(大氣層)探測": "sounding"
+    },
+    {
+        "(氣象等)探測衛星": "sounding satellite"
+    },
+    {
+        "電話隔音室": "sound-proof telephone cabinet"
+    },
+    {
+        "電視伴音分離設備": "sound-vision separator"
+    },
+    {
+        "起源，源，訊號源，電源，波源": "source"
+    },
+    {
+        "傳送端": "source angency"
+    },
+    {
+        "訊號源編碼(做資料壓縮用)": "source coding"
+    },
+    {
+        "波源座標": "source coordinate"
+    },
+    {
+        "訊號源編碼器": "source decoder"
+    },
+    {
+        "適應性差分博碼調變之訊號源編碼": "source ecoding， adaptive DPCM"
+    },
+    {
+        "訊號源編碼": "source encoding"
+    },
+    {
+        "適應性增量調變之訊號源編碼": "source encoding， adaptive DM"
+    },
+    {
+        "適應性博碼調變之訊號源編碼": "source encoding， adaptive PCM"
+    },
+    {
+        "訊號源熵質": "source entropy"
+    },
+    {
+        "信號源參數": "Source Parameter"
+    },
+    {
+        "訊號源產生率": "source rate"
+    },
+    {
+        "訊號源統計特性": "source statistics"
+    },
+    {
+        "有記憶訊號源": "source with memory"
+    },
+    {
+        "惠更斯(等效)電源(或光源)": "source， Huygens"
+    },
+    {
+        "紅外線光源": "source， infared"
+    },
+    {
+        "多極波源": "source， multipole"
+    },
+    {
+        "單位波源": "source， unit"
+    },
+    {
+        "無波源區": "source-free region"
+    },
+    {
+        "圓形孔徑之連續輻射源": "circular aperture continuous sources"
+    },
+    {
+        "餘弦墊高連續輻射源": "sources， coisne on-a-pedestal continuous"
+    },
+    {
+        "連續輻射源": "sources， continouus"
+    },
+    {
+        "餘弦連續輻射源": "sources， cosine continuous"
+    },
+    {
+        "餘弦平方連續輻射源": "cosine-squared continuous sources"
+    },
+    {
+        "三次方連續輻射源": "cubic continuous sources"
+    },
+    {
+        "邊緣式連續輻射源": "sources， edge continuous"
+    },
+    {
+        "高斯分佈連續輻射源": "sources， Guassian continuous"
+    },
+    {
+        "逆削幅式連續輻射源": "inverse taper continuous sources"
+    },
+    {
+        "線形相角連續輻射源": "sources， linear phase continuous"
+    },
+    {
+        "線形連續輻射源": "sources， line-source continuous"
+    },
+    {
+        "徑向削輻之連續輻射源": "sources， radial taper continuous"
+    },
+    {
+        "矩形孔徑連續輻射源": "rectangular aperture continuous sources"
+    },
+    {
+        "三角形連續輻射源": "sources， triangular continuous"
+    },
+    {
+        "單極(的)": "SP (Single-Pole)"
+    },
+    {
+        "空間加頻率分集": "space and tone diversity"
+    },
+    {
+        "空間衰減": "space attenuation"
+    },
+    {
+        "太空中心": "space center"
+    },
+    {
+        "太空通訊": "space communication"
+    },
+    {
+        "太空通訊與追蹤": "space communication and tracking"
+    },
+    {
+        "空間分集": "space diversity"
+    },
+    {
+        "分空間多重進接": "space division multiple access"
+    },
+    {
+        "分空間多工制": "space division multiplex"
+    },
+    {
+        "分區多工，空間多工": "Space Division Multiplexing (SDM)"
+    },
+    {
+        "分空間多工接點開關": "space division multiplexing crosspoint switch"
+    },
+    {
+        "分空間多工鑑別比": "space division multiplexing extinction ratio"
+    },
+    {
+        "分空間多工鈮酸鋰開關": "space division multiplexing lithium niobate switches"
+    },
+    {
+        "分空間多工時槽交換器": "space division multiplexing time-slot interchanger"
+    },
+    {
+        "空間域多重進階": "space domain (or division)multiple access"
+    },
+    {
+        "空間諧振": "space harmonic"
+    },
+    {
+        "空間正交": "space quadrature"
+    },
+    {
+        "太空雷達": "space radar"
+    },
+    {
+        "太空偵察": "space reconnaissance"
+    },
+    {
+        "(衛星系統中在)太空中的部分(或子系統)": "space segment"
+    },
+    {
+        "太空梭": "space shuttle"
+    },
+    {
+        "太空遙測": "space telemetry"
+    },
+    {
+        "對偶空間": "space， dual"
+    },
+    {
+        "零空間": "space， null"
+    },
+    {
+        "列空間": "space， row"
+    },
+    {
+        "太空載具轉播站": "space-born repeater station"
+    },
+    {
+        "(裝載於太空船上之)太空雷達": "space-borne radar"
+    },
+    {
+        "空間電荷電容": "space-charge capacitance"
+    },
+    {
+        "太空通信": "SPACE-COM (space communication)"
+    },
+    {
+        "太空船": "spacecraft"
+    },
+    {
+        "分集式接收機": "spaced receiver"
+    },
+    {
+        "頻隙-時隙相關函數": "spaced-frequency， spaced-time correlation funciton"
+    },
+    {
+        "分空間數位式交換": "space-division digital switching"
+    },
+    {
+        "分空間交換": "space-division switching"
+    },
+    {
+        "分空間交換連接性": "space-division switching connectivity"
+    },
+    {
+        "分空間交換縱橫架構": "space-division switching crossbar architecture"
+    },
+    {
+        "分空間交換機體光學縱橫開關陣列": "space-division switching integrated-optic crossbar switch array"
+    },
+    {
+        "分空間交換重配置速度": "space-division switching reconfiguration speed"
+    },
+    {
+        "分空間交換音串": "space-division swithcing crosstalk"
+    },
+    {
+        "太空-地球通訊": "space-earth communication"
+    },
+    {
+        "太空對地面通訊": "space-to-grund communication"
+    },
+    {
+        "太空對太空通訊鏈路": "space-to-space link"
+    },
+    {
+        "備用": "Spare"
+    },
+    {
+        "備用頻道，備用通道": "spare channel"
+    },
+    {
+        "備用電路": "spare circuit"
+    },
+    {
+        "備用碼": "spare code"
+    },
+    {
+        "備用零件": "spare part(s)"
+    },
+    {
+        "備用衛星": "spare satellite"
+    },
+    {
+        "空間(相位)一致": "spatial coherence"
+    },
+    {
+        "空間相關性": "spatial correlation"
+    },
+    {
+        "空間電洞燒毀": "spatial hole burning"
+    },
+    {
+        "空間解析度": "spatial resolution"
+    },
+    {
+        "空間尺寸可調能力": "spatial scalability"
+    },
+    {
+        "雜波空間分佈均勻度": "spatial uniformity of clutter"
+    },
+    {
+        "空間波，天波": "spatial wave"
+    },
+    {
+        "程序存儲式控制，程式控制": "SPC (Stored Program Control)"
+    },
+    {
+        "單刀雙擲": "SPDT (Single Pole Double Throw)"
+    },
+    {
+        "揚聲器，廣播員": "speaker"
+    },
+    {
+        "分開通路傳訊": "spearate channel signaling"
+    },
+    {
+        "語音音量": "specch volume"
+    },
+    {
+        "語音波形": "specch waveform"
+    },
+    {
+        "特定共同載波": "Specialized Common Carrier (SCC)"
+    },
+    {
+        "特定用途服務元件": "Specific Application Service Element (SASE)"
+    },
+    {
+        "比熱": "specific heat"
+    },
+    {
+        "規格": "specifications"
+    },
+    {
+        "斑點樣型": "speckle pattern"
+    },
+    {
+        "規格": "SPECS (specifications)"
+    },
+    {
+        "頻譜分析": "spectral analyisis"
+    },
+    {
+        "頻譜密度": "spectral density"
+    },
+    {
+        "頻譜效率": "spectral efficiency"
+    },
+    {
+        "頻譜線寬度": "spectral line width"
+    },
+    {
+        "頻譜線寬度": "spectral lines"
+    },
+    {
+        "升餘弦頻譜派波": "spectral raised cosine pulse"
+    },
+    {
+        "譜域解析度": "spectral resolution"
+    },
+    {
+        "頻譜響應": "spectral response"
+    },
+    {
+        "頻域取樣": "spectral sampling"
+    },
+    {
+        "頻譜選擇": "spectral selection"
+    },
+    {
+        "頻譜寬度": "spectral width"
+    },
+    {
+        "頻譜窗(一段可以處理的頻率範圍)": "spectral window"
+    },
+    {
+        "光譜學": "spectroscopy"
+    },
+    {
+        "電磁頻譜": "spectru， electromagnetic"
+    },
+    {
+        "頻譜，光譜，波譜，能譜，質譜": "spectrum"
+    },
+    {
+        "頻譜分析": "spectrum analysis"
+    },
+    {
+        "頻譜分析儀，光譜分析儀": "spectrum analyzer"
+    },
+    {
+        "頻譜估計": "spectrum estimation"
+    },
+    {
+        "頻譜複用隔離": "spectrum reuse isolation"
+    },
+    {
+        "頻譜複用技術": "spectrum reuse technique"
+    },
+    {
+        "頻譜空間，頻譜間隔": "spectrum space"
+    },
+    {
+        "振幅頻譜": "spectrum， amplitude"
+    },
+    {
+        "複頻譜": "spectrum， complex"
+    },
+    {
+        "能量頻譜": "spectrum， energy"
+    },
+    {
+        "紅外線頻譜": "spectrum， infared"
+    },
+    {
+        "注入式雷射(輸出)頻譜": "spectrum， injection laser (outpur)"
+    },
+    {
+        "毫米波頻譜": "spectrum， millimeter wave"
+    },
+    {
+        "升正弦波頻譜": "spectrum， raised sine"
+    },
+    {
+        "雙邊頻譜": "spectrum， two-sided"
+    },
+    {
+        "頻譜預測": "spectrumprediction"
+    },
+    {
+        "鏡面式反射(現象)": "specular reflection"
+    },
+    {
+        "鏡面式散射(現象)": "specular scattering"
+    },
+    {
+        "語言，說話，語音": "speech"
+    },
+    {
+        "語音自相關函數": "speech acf"
+    },
+    {
+        "語言分析": "speech analysis"
+    },
+    {
+        "語言頻寬": "speech bandwidth"
+    },
+    {
+        "通訊品質語音編碼": "speech coding， communi-cations-quality"
+    },
+    {
+        "語音編碼之主觀品質": "speech coding， subjective quality in"
+    },
+    {
+        "語音編碼": "speech encoding"
+    },
+    {
+        "語音品質提昇，語音加強": "speech enhancement"
+    },
+    {
+        "語音頻率，話頻": "speech freuency"
+    },
+    {
+        "語音內插": "speech interpolation"
+    },
+    {
+        "語音預測編碼通訊": "speech predictive encoding communications"
+    },
+    {
+        "語音攪亂器": "speech scrambler"
+    },
+    {
+        "語音訊號": "speech signal"
+    },
+    {
+        "語音頻譜": "speech spectra"
+    },
+    {
+        "語音拉長器(對話速度減低裝置)": "speech stretcher"
+    },
+    {
+        "語音合成": "speech synthesis"
+    },
+    {
+        "語音預測編碼": "Speech-Predictive EnCoding (SPEC)"
+    },
+    {
+        "速度": "speed"
+    },
+    {
+        "速率閘": "speed gate"
+    },
+    {
+        "光速": "speed of light"
+    },
+    {
+        "反應速度": "speed of response"
+    },
+    {
+        "盲速度": "speed， hlind"
+    },
+    {
+        "高速傳真": "speed-fax"
+    },
+    {
+        "專用電話": "speical purpose telephone"
+    },
+    {
+        "球體裝填上限": "sphere-packing bound"
+    },
+    {
+        "球形的": "spherical"
+    },
+    {
+        "球面像差": "spherical aberration"
+    },
+    {
+        "球形校準反射器": "spherical calibration reflector"
+    },
+    {
+        "球形空腔": "spherical cavity"
+    },
+    {
+        "球面座標": "spherical coordinate"
+    },
+    {
+        "球形反射器(天線)之子反射器校正器": "spherical reflector， corrector subreflector of"
+    },
+    {
+        "球形反射器(天線)之線性饋伺源": "spherical reflector， line source feed of"
+    },
+    {
+        "球面波": "spherical wave"
+    },
+    {
+        "服務範圍識別碼": "SPID (Service Profile Identifer)"
+    },
+    {
+        "(海洋)尖釘雜波": "spike clutter"
+    },
+    {
+        "尖峰漏失": "spike leakage"
+    },
+    {
+        "溢失，漏失": "spillover"
+    },
+    {
+        "漏(溢)波損耗": "spillover loss"
+    },
+    {
+        "信息溢失": "spillover of message"
+    },
+    {
+        "溢失功率，溢流功率": "spillover power"
+    },
+    {
+        "旋轉紅外線感應器": "spin infrared sensor"
+    },
+    {
+        "自旋穩定，旋轉穩定": "spin stabilization"
+    },
+    {
+        "旋轉衛星": "spinning satellite"
+    },
+    {
+        "自旋轉穩定衛星": "spin-stabilized satellite"
+    },
+    {
+        "螺線天線": "spiral antenna"
+    },
+    {
+        "螺線天線": "spiral nomogram"
+    },
+    {
+        "螺旋列線圖表": "spiral slot antenna"
+    },
+    {
+        "等角螺線": "spiral， equiagular"
+    },
+    {
+        "星絞形(四心軟)纜線": "spiral-four cable"
+    },
+    {
+        "熔接損失理論": "splice loss theory"
+    },
+    {
+        "毛細管熔接": "splice， capillary"
+    },
+    {
+        "彈性熔接": "splice， elastomeric"
+    },
+    {
+        "加強型旋轉式機械熔接": "splice， enhanced rotray mechanical"
+    },
+    {
+        "熔合熔接": "splice， fusion"
+    },
+    {
+        "機械熔接": "splice， mechanical"
+    },
+    {
+        "微槽熔接": "splice， microgroove"
+    },
+    {
+        "多模態機械熔接": "splice， multimode mechanical"
+    },
+    {
+        "絲帶狀纜線熔接": "splice， ribbon cable"
+    },
+    {
+        "V 型槽熔接": "splice， V-groove"
+    },
+    {
+        "熔接黏劑": "splicing adhesives"
+    },
+    {
+        "熔接衰減": "splicing attenuation"
+    },
+    {
+        "熔接硬體": "splicing hardware"
+    },
+    {
+        "熔接核心偏心率": "splicing， core eccentricity of"
+    },
+    {
+        "熔接藕合係數": "splicing， coupling coefficients of"
+    },
+    {
+        "彈性熔接": "splicing， elastic"
+    },
+    {
+        "熔接電磁理論": "splicing， electromagnetic theory of"
+    },
+    {
+        "熔接高斯光束模型": "splicing， Gaussian beam model of"
+    },
+    {
+        "熔接內在品質因子": "splicing， intrinsic quality facotr of"
+    },
+    {
+        "熔接模態雜訊": "splicing， modal noise of"
+    },
+    {
+        "熔接模態功率分佈": "splicing， modal power distribution of"
+    },
+    {
+        "被動直接帶狀熔接": "splicing， passive direct ribbon"
+    },
+    {
+        "矽晶片陣列熔接": "splicing， sillicon chip array"
+    },
+    {
+        "分裂載波系統": "split carrier system"
+    },
+    {
+        "分叉同軸貝楞": "split coax balun"
+    },
+    {
+        "分離閘式距離追蹤器": "split-gate range tracker"
+    },
+    {
+        "分離器": "splitter"
+    },
+    {
+        "極化分離器": "splitter， polarization"
+    },
+    {
+        "自發性發射，自發射，自發輻射": "spontanceous emission"
+    },
+    {
+        "自發生命週期": "spontaneous lifetime"
+    },
+    {
+        "目錄區": "spooling directory"
+    },
+    {
+        "疏散E電離層": "sporadic E layer"
+    },
+    {
+        "疏散F1電離層": "sporadic F1 layer"
+    },
+    {
+        "偶發反射": "sporadic reflection"
+    },
+    {
+        "頻點，光點，斑點，太陽黑子": "spot"
+    },
+    {
+        "人造衛星定位及跟蹤": "SPOT (Satellite Positionting and Tracking)"
+    },
+    {
+        "(法國)斯波特地球觀測衛星": "SPOT (Satellite Probatoire d'Observation de la Terre)"
+    },
+    {
+        "點波束": "spot beam"
+    },
+    {
+        "點波束天線": "spot beam antenna"
+    },
+    {
+        "當地電臺廣播": "spot broadcasting"
+    },
+    {
+        "點波束接收機": "spot receiver"
+    },
+    {
+        "點波束反射器": "spot reflector"
+    },
+    {
+        "搜索雷射，測位儀，定心站": "spotter"
+    },
+    {
+        "定向天線": "spray antenna"
+    },
+    {
+        "(衰退通道之)擴散因子": "spread factor"
+    },
+    {
+        "擴散衰退通道": "spread fading channel"
+    },
+    {
+        "展頻，擴散頻譜": "spread spectrum"
+    },
+    {
+        "展頻碼": "spread spectrum code"
+    },
+    {
+        "展頻多重進接": "Spread Spectrum Multiple Access (SSMA)"
+    },
+    {
+        "跳頻式展頻": "spread spectrum， Frequency-Hopped (FH)"
+    },
+    {
+        "混合式展頻": "spread spectrum， hybrid combinations"
+    },
+    {
+        "跳時式展頻": "spread spectrum， time-hopped (TH)"
+    },
+    {
+        "擴展函數": "spreading function"
+    },
+    {
+        "展頻技術": "spread-spectrum technique"
+    },
+    {
+        "彈簧觸片": "spring fingers"
+    },
+    {
+        "單刀單擲": "SPST (Single-Pole Single Throw)"
+    },
+    {
+        "光纖絲": "spun fibers"
+    },
+    {
+        "旁生發射": "spurious emission"
+    },
+    {
+        "寄生頻率，旁生頻率": "spurious frequency"
+    },
+    {
+        "寄生波模": "spurious mode"
+    },
+    {
+        "寄生雜訊": "spurious noise"
+    },
+    {
+        "寄生振盪": "spurious oscillation"
+    },
+    {
+        "寄生輻射": "spurious radiation"
+    },
+    {
+        "假訊號響應": "spurious response"
+    },
+    {
+        "寄生訊號，虛假訊號": "spurious signal"
+    },
+    {
+        "間疊衛星": "spy satellite"
+    },
+    {
+        "平方率整流器": "square law rectifier"
+    },
+    {
+        "方形迴路(天線)": "square loop"
+    },
+    {
+        "矩形波，方波": "square wave"
+    },
+    {
+        "平方率位元同步器": "square-law bit synchronizer"
+    },
+    {
+        "平方律檢波器": "square-law detectro"
+    },
+    {
+        "平方律調變器": "square-law modulatro"
+    },
+    {
+        "平方律(檢波)接收機": "square-law receiver"
+    },
+    {
+        "可壓縮導波管，柔性導波管": "squeezable waveguide"
+    },
+    {
+        "籠形天線": "squirrel-cage antenna"
+    },
+    {
+        "移位暫存器": "SR (Shift Register)"
+    },
+    {
+        "SSCOP釋放": "SR (SSCOP Release)"
+    },
+    {
+        "框同步，碼框同步": "srame synchronization"
+    },
+    {
+        "選擇性重複-自動回詢重發糾錯": "SR-ARQ (Selective Repetition-Automatic ReQuest)"
+    },
+    {
+        "SSCOP回復": "SREC (SSCOP Recover)"
+    },
+    {
+        "思拉斯塔拉碼": "Srivastava code"
+    },
+    {
+        "衛星轉接/分時多重進接": "SS/TDMA (Satellite Switched Time Division Mulitple Access)"
+    },
+    {
+        "第七號傳信系統": "SS7"
+    },
+    {
+        "單邊帶": "SSB (Single Side Band)"
+    },
+    {
+        "單邊帶通信": "SSB communication"
+    },
+    {
+        "單邊帶調變器": "SSB modulator"
+    },
+    {
+        "單邊帶升頻器": "SSB up-converter"
+    },
+    {
+        "單邊帶脈波調變": "SSB-pm (SSB Pulse Modulation)"
+    },
+    {
+        "單邊帶抑制載波": "SSBSC (Single Sideband Suppressed Carrier)"
+    },
+    {
+        "單邊帶-抑制載波-調幅": "SSB-SC-AM (Single Side Band-Suppressed Carrier-Amplitude Modulation)"
+    },
+    {
+        "單邊帶-抑制載波-幅移鍵控": "SSB-SC-ASK (Single Side Band-Suppressed Carrier-Amplitude Shigt Keying)"
+    },
+    {
+        "單邊帶-抑制載波-脈幅調變": "SSB-SC-PAM (Single Side Band-Suppressed Carrier-Pulse Amplitude Modulation)"
+    },
+    {
+        "服務特定協調功能\r": "SSCF (Service Specific cordination Function)"
+    },
+    {
+        "服務特定連接式協定": "SSCOP (Service Specific Connection Oriented Protocol)"
+    },
+    {
+        "SSCOP用戶至用戶資訊": "SSCOP User-to-User Information"
+    },
+    {
+        "服務特定聚合副層": "SSCS (Service Specific Convergence Sublayer)"
+    },
+    {
+        "單邊帶調頻": "SSFM (Single Sideband frequency Modulation)"
+    },
+    {
+        "展頻調變": "SSM (Spreaded Spectrum Modulation)"
+    },
+    {
+        "衛星交換多重進接": "SSMA (Satellite Switch Multiple Access)"
+    },
+    {
+        "國際交換/信號節點": "SSN"
+    },
+    {
+        "固態功率放大器": "SSPA (Solid State Power Amplifier)"
+    },
+    {
+        "同步衛星系統": "SSS (Synchronous Satellite System)"
+    },
+    {
+        "線性系統的穩定性": "stability of a linear system"
+    },
+    {
+        "穩定(化)": "stabilization"
+    },
+    {
+        "回饋穩定(化)": "stabilization， feedback"
+    },
+    {
+        "頻率穩定(化)": "stabilization， frequency"
+    },
+    {
+        "穩定頻率": "stabilized frequency"
+    },
+    {
+        "穩定衛星": "stabilized satellite"
+    },
+    {
+        "穩定器": "stabilizer"
+    },
+    {
+        "穩定本地振盪器": "STAble Local Oscillator{=STALO}"
+    },
+    {
+        "穩定系統": "stable system"
+    },
+    {
+        "堆疊器": "stack"
+    },
+    {
+        "堆疊式演算法": "stack algorithm"
+    },
+    {
+        "堆疊計數器": "stack counter"
+    },
+    {
+        "參差變化之脈波覆送律": "staggered PRF"
+    },
+    {
+        "參差式脈波列": "staggered pulse train"
+    },
+    {
+        "交錯掃描": "staggered scanning"
+    },
+    {
+        "標準陣列(解碼時所用)": "standard array"
+    },
+    {
+        "標準大氣": "standard atmosphere"
+    },
+    {
+        "B表準地面站(天線直徑10-13米)": "Standard 'B' Earth Station"
+    },
+    {
+        "C標準地面(天線直徑16-20米)": "standard 'C' Earth Station"
+    },
+    {
+        "標準差": "standard deviation"
+    },
+    {
+        "校準頻率和時間訊號": "standard frequency and time signal"
+    },
+    {
+        "標準失配": "standard mismatch"
+    },
+    {
+        "標準失配器": "standard mismatches"
+    },
+    {
+        "標準溫度": "standard temperature"
+    },
+    {
+        "標準時間訊號衛星": "standard time signal satellite"
+    },
+    {
+        "國際標準切稿": "Standard， Draft International (DIS)"
+    },
+    {
+        "網際網路協定標準": "standard， internetwork protocol (IP)"
+    },
+    {
+        "標準化統一": "standardization"
+    },
+    {
+        "標準": "standards"
+    },
+    {
+        "制定標準的組織": "standards organization"
+    },
+    {
+        "先有產品而後才根據其訂立之標準": "standards， de facto"
+    },
+    {
+        "事先有計劃而訂立的標準": "standards， de jure"
+    },
+    {
+        "工業標準": "standards， injustry"
+    },
+    {
+        "備用(的)，後備(的)，準備，等待，呼叫信號等待收聽或準備(或收)報": "standby"
+    },
+    {
+        "備用頻道": "standby channel"
+    },
+    {
+        "備用無線電通道": "standby radio canggel"
+    },
+    {
+        "駐波": "standing wave"
+    },
+    {
+        "駐波電流": "standing wave current"
+    },
+    {
+        "駐波比指示器": "standing wave ratio indicator"
+    },
+    {
+        "駐波天線": "standing-wave antenna"
+    },
+    {
+        "駐波場型": "standing-wave pattern"
+    },
+    {
+        "駐波比": "Standing Wave Ratio{=SWR}"
+    },
+    {
+        "自動選路衛星通訊": "STAR (Satellite Telecommunication with Automatic Routing)"
+    },
+    {
+        "星形藕合器": "star coupler"
+    },
+    {
+        "星形網路": "star network"
+    },
+    {
+        "主動星狀拓撲": "star toplogy， active"
+    },
+    {
+        "星狀拓撲，放射狀拓撲": "star topolgy"
+    },
+    {
+        "無源星球": "star， passive"
+    },
+    {
+        "星狀環架構": "star-ring architecture"
+    },
+    {
+        "起始碼": "start code"
+    },
+    {
+        "起始視窗": "start window"
+    },
+    {
+        "起始係數": "startup cofficients"
+    },
+    {
+        "被動星狀拓撲": "stat toplogy， passvie"
+    },
+    {
+        "狀態轉換表": "State Transition Table"
+    },
+    {
+        "狀態變遷圖(表)": "state-transition diagram (table)"
+    },
+    {
+        "靜態的": "static"
+    },
+    {
+        "靜電干擾，天電干擾": "static distrurbance"
+    },
+    {
+        "靜態疲乏": "static fatigue"
+    },
+    {
+        "靜態疲乏極線": "static fatigue limit"
+    },
+    {
+        "靜態疲乏失效週期": "static fatigue， time to failure"
+    },
+    {
+        "靜態負載": "static load"
+    },
+    {
+        "靜態模": "static mode"
+    },
+    {
+        "靜電": "statics"
+    },
+    {
+        "站，局": "station"
+    },
+    {
+        "基地台等級碼": "station class code"
+    },
+    {
+        "站間信息對傳": "station diagogue"
+    },
+    {
+        "電台(站)跟蹤，位置保持，軌道控制，衛星位置之維持(正確的軌道和天線指向)": "station keeping"
+    },
+    {
+        "無線電台執照": "station license"
+    },
+    {
+        "台號用戶號碼": "station number"
+    },
+    {
+        "地面站可視區域": "station visual zone"
+    },
+    {
+        "航空廣播台": "station， aeronautical boradcast"
+    },
+    {
+        "導航通訊台，航空通訊電台": "station， aeronautical comunication"
+    },
+    {
+        "航空無線電導航行動電台": "station， aeronautical radionabigation mobile"
+    },
+    {
+        "航空通用陸上電台": "station， aeronautical unility land"
+    },
+    {
+        "航空通用行動電台": "station， aeronautical unility mobile"
+    },
+    {
+        "飛機電台": "station， aeroplane"
+    },
+    {
+        "廣播電台": "station， broadcast transmmitting"
+    },
+    {
+        "目的地分站，收報屬台": "station， destination tributary"
+    },
+    {
+        "微波通信站": "station， microwave"
+    },
+    {
+        "行動電台": "station， mobile"
+    },
+    {
+        "行動式地面站": "station， moblie earth"
+    },
+    {
+        "無源中繼站，被動式中繼站": "station， passive relay"
+    },
+    {
+        "同僚站": "station， peer"
+    },
+    {
+        "穩定性": "stationarity"
+    },
+    {
+        "穩定的，固定的，靜止的，穩態的": "stationary"
+    },
+    {
+        "穩定公式": "stationary formula"
+    },
+    {
+        "穩定點": "stationary point"
+    },
+    {
+        "穩態隨機過程": "stationary random processes"
+    },
+    {
+        "穩態隨機訊號之傅立葉分析": "stationary random signal， Fourier analysis of"
+    },
+    {
+        "同步衛星": "stationary sattllite"
+    },
+    {
+        "廣義的穩態隨機過程": "stationary stochastic processes， wide-sense"
+    },
+    {
+        "靜止目標識別": "stationary target identification (STI)"
+    },
+    {
+        "站間通化，叫號電話": "station-to-station call"
+    },
+    {
+        "統計平均": "statistical average"
+    },
+    {
+        "統計箱，統計單位區段": "statistical bin"
+    },
+    {
+        "統計位元率": "Statistical Bit Rate {=SBR}"
+    },
+    {
+        "雜波統計模型": "statistical clutter model"
+    },
+    {
+        "統計式調節;統計式設條件": "statistical conditioning"
+    },
+    {
+        "統計式尋框": "statistical framing"
+    },
+    {
+        "統計獨立": "statistical independence"
+    },
+    {
+        "統計模型": "statistical model"
+    },
+    {
+        "統計式多工機": "statistical multiplexer"
+    },
+    {
+        "統計多工": "statistical multiplexing"
+    },
+    {
+        "統計分時多工法": "statistical time-division multiplexing"
+    },
+    {
+        "統計區": "statistics area"
+    },
+    {
+        "同溫層，平流層": "statosphere"
+    },
+    {
+        "雜散輻射": "stay radiation"
+    },
+    {
+        "待機(狀態)": "STBy (stand by)"
+    },
+    {
+        "系統標的解碼器": "STD"
+    },
+    {
+        "系統標的解碼器之輸入緩衝器": "STD input buffer"
+    },
+    {
+        "恆態": "steady state"
+    },
+    {
+        "鋼索": "steel rope"
+    },
+    {
+        "鋼線": "steel wire"
+    },
+    {
+        "最陡降(梯度)演算法": "steepest-descent (gradient) algorithm"
+    },
+    {
+        "最陡降(積分)路線": "steepest-descent (integration) contour"
+    },
+    {
+        "最陡降積分法": "steepest-descent method of integration"
+    },
+    {
+        "操縱，控制": "steering"
+    },
+    {
+        "操縱信號，控制信號": "steering command"
+    },
+    {
+        "史提芬-波茲曼法則": "Stefan-Boltzmann law"
+    },
+    {
+        "碳鋼": "stell， carbon"
+    },
+    {
+        "不銹鋼": "stell， stainless"
+    },
+    {
+        "階變折射率光纖模態波散": "step index fiber， intermodal dispersion of"
+    },
+    {
+        "階變折射率光纖模態截止": "step index fiber， mode cutoff of"
+    },
+    {
+        "階變折射率光線模態體積": "step index fiber， mode volume of"
+    },
+    {
+        "階變折射率光纖模態": "step index fiber， modes of"
+    },
+    {
+        "階變折射率光纖傳播常數": "step index fiber， propagation constant of"
+    },
+    {
+        "階變折射率光纖均方根脈衝響應": "step index fiber， rms impulse response of"
+    },
+    {
+        "單模階變折射率光纖": "step index fiber， single mode"
+    },
+    {
+        "級狀負載": "step load"
+    },
+    {
+        "步進制自動電話(交換)系統": "step-by-step automatic telephone system"
+    },
+    {
+        "步進制撥號": "step-by-step dialling"
+    },
+    {
+        "步進制交換中心": "step-by-step switching cneter"
+    },
+    {
+        "階變折射率光纖雙折射": "step-index fiber， birefringent of"
+    },
+    {
+        "階變折射率光纖藕合效率": "step-index fiber， coupling efficiency of"
+    },
+    {
+        "階變折射率光纖藕合增益": "step-index fiber， coupling gain of"
+    },
+    {
+        "階變折射率光纖波散極限": "step-index fiber， dispersion limit of"
+    },
+    {
+        "階變折射率光纖微曲損失": "step-index fiber， microbending loss of"
+    },
+    {
+        "階變折射率光纖波導波散": "step-index fiber， wavegudie dispersion of"
+    },
+    {
+        "步進頻率掃描波形": "stepped frequency saveforms"
+    },
+    {
+        "階梯板面號角天線": "stepped horn antenna"
+    },
+    {
+        "多級波導，階梯形波導": "stepped wavegudie"
+    },
+    {
+        "適應性向後量化之步階乘數": "step-size multipliers in AQB"
+    },
+    {
+        "立體角": "steradian"
+    },
+    {
+        "立體聲調頻": "stereo FM"
+    },
+    {
+        "立體聲模式": "stereo mode"
+    },
+    {
+        "立體聲位置": "stereo position"
+    },
+    {
+        "立體聲處理": "stereo processing"
+    },
+    {
+        "立體聲調幅廣播": "stereo sound AM broadcast"
+    },
+    {
+        "立體聲電視": "stereo sound television{=MTS}"
+    },
+    {
+        "分相關立體聲": "stereo-irrelevant"
+    },
+    {
+        "立體聲像": "stereophonic image"
+    },
+    {
+        "立體聲收音機": "stereophonic receiver"
+    },
+    {
+        "靜態影像": "still picture"
+    },
+    {
+        "靜止影像傳輸": "still-picture transmission"
+    },
+    {
+        "激發性發射，激發輻射": "stimulated emission"
+    },
+    {
+        "司特寧公式": "Stirling's formula"
+    },
+    {
+        "隨機過程，隨機程序": "stochastic processes"
+    },
+    {
+        "隨機訊號": "stochastic signal"
+    },
+    {
+        "史扥克斯散射": "Stokes scattering"
+    },
+    {
+        "史扥克斯定理": "Stokes' theorem"
+    },
+    {
+        "史扥克斯向量": "Stokes vector"
+    },
+    {
+        "阻帶": "stop band"
+    },
+    {
+        "停止位元，終止位元，結束位元": "stop bit"
+    },
+    {
+        "終止碼，結束符號": "stop code"
+    },
+    {
+        "終止視窗": "stop window"
+    },
+    {
+        "暫停並等待": "stop-and-wait"
+    },
+    {
+        "暫停並等待協定": "stop-and-wait protocol"
+    },
+    {
+        "阻帶，抑制頻帶": "stopband"
+    },
+    {
+        "蓄電池": "storage battery"
+    },
+    {
+        "存放及轉送": "store-and-forward"
+    },
+    {
+        "存放-轉送鎖定": "store-and-forward lockup"
+    },
+    {
+        "內存程式控制系統": "stored program control system"
+    },
+    {
+        "張力驗證": "strain proof"
+    },
+    {
+        "張力去除": "strain relief"
+    },
+    {
+        "彎曲張力": "strain， bending"
+    },
+    {
+        "斷裂張力": "strain， breaking"
+    },
+    {
+        "臨界張力": "strain， critical"
+    },
+    {
+        "光纖張力": "strain， fiber"
+    },
+    {
+        "熱張力": "strain， thermal"
+    },
+    {
+        "導線束，絞合線，裸多蕊電纜": "strand"
+    },
+    {
+        "絞合電纜，吊線": "strand cable"
+    },
+    {
+        "光纜線束": "stranded cable fiber"
+    },
+    {
+        "絞合線，鋼絞線": "stranded wire"
+    },
+    {
+        "戰略防衛初步方案(指美國之「星戰計劃」)": "Strategic Defense Initiative (SDI)"
+    },
+    {
+        "平流層頂": "stratopause"
+    },
+    {
+        "雜散電流，漏泄電流": "stray current"
+    },
+    {
+        "數據流保密編碼法": "stream cipher"
+    },
+    {
+        "數據流保密編碼": "stream encryption"
+    },
+    {
+        "位元流": "stream of bits"
+    },
+    {
+        "流線": "streamlines"
+    },
+    {
+        "補強物": "strength member"
+    },
+    {
+        "強度可變性": "strength variability"
+    },
+    {
+        "斷裂強度": "strength， breaking"
+    },
+    {
+        "光纖強度": "strength， fiber"
+    },
+    {
+        "壓力，應力": "stress"
+    },
+    {
+        "電壓力": "stress ，electrical"
+    },
+    {
+        "壓縮雙折射性": "stress birefringence"
+    },
+    {
+        "壓力失效": "stress failure"
+    },
+    {
+        "壓力疲乏": "stress fatigue"
+    },
+    {
+        "抗壓強化": "stress intensification"
+    },
+    {
+        "耐壓驗證": "stress proof"
+    },
+    {
+        "壓力張量": "stress tensor"
+    },
+    {
+        "壓皺": "stress， corrosion"
+    },
+    {
+        "壓裂": "stress， cracking"
+    },
+    {
+        "張壓": "stress， tensile"
+    },
+    {
+        "熱壓": "stress， thermal"
+    },
+    {
+        "光壓係數": "stress-optical coefficient"
+    },
+    {
+        "伸張式(脈波壓縮)訊號處理(方式)": "stretch processing"
+    },
+    {
+        "伸張式(脈波壓縮)雷達": "stretch radar"
+    },
+    {
+        "條，帶，跨接片": "strip"
+    },
+    {
+        "帶狀天線，條片天線": "strip antenna"
+    },
+    {
+        "條狀波導": "strip guide"
+    },
+    {
+        "帶狀(傳輸)線": "strip line"
+    },
+    {
+        "帶狀繪圖雷達技巧": "strip mapping"
+    },
+    {
+        "帶狀(傳輸)線": "stripline"
+    },
+    {
+        "彎曲帶狀傳輸線": "stripline bends"
+    },
+    {
+        "條片串聯開槽天線": "stripline， series slots"
+    },
+    {
+        "懸帶(傳輸)線": "stripline， suspended"
+    },
+    {
+        "去除器": "stripper"
+    },
+    {
+        "(匹配連接時的)結構回波損耗": "structural return loss"
+    },
+    {
+        "播音室，錄音室": "studio"
+    },
+    {
+        "錄音室": "studio room"
+    },
+    {
+        "CCITT之第十八號研究群(有關ISDN之研究)": "Study Group XVIII"
+    },
+    {
+        "填充": "stuffing"
+    },
+    {
+        "填充位元": "stuffing bits"
+    },
+    {
+        "填充位元組": "stuffing bytes"
+    },
+    {
+        "字元填充": "stufing， character"
+    },
+    {
+        "紀錄針，唱針，尖端": "stylus"
+    },
+    {
+        "用戶環路多工": "SUB (subscriber)"
+    },
+    {
+        "副址": "Sub-addressing"
+    },
+    {
+        "次區域，子區域": "subarea"
+    },
+    {
+        "子陣列": "subarray"
+    },
+    {
+        "子頻帶，次頻帶": "subband"
+    },
+    {
+        "副波段，次頻帶": "sub-band"
+    },
+    {
+        "次頻帶編碼": "sub-band coding"
+    },
+    {
+        "次頻帶濾波器組": "subband filterbank"
+    },
+    {
+        "次頻帶取樣值": "subband samples"
+    },
+    {
+        "次頻帶": "subbands"
+    },
+    {
+        "次區塊增益": "subblock gain"
+    },
+    {
+        "次載波多工": "subcarreir multiplexing"
+    },
+    {
+        "負載波，次載波": "subcarrier"
+    },
+    {
+        "副載波頻率": "subcarrier frequency"
+    },
+    {
+        "副載波干擾": "subcarrier interference"
+    },
+    {
+        "次載波調變": "subcarrier modulation"
+    },
+    {
+        "副載波抑制": "subcarrier rejection"
+    },
+    {
+        "次雜波能見度": "subclutter visibility"
+    },
+    {
+        "子碼": "subcode"
+    },
+    {
+        "子欄位": "Subfield"
+    },
+    {
+        "次場子碼": "subfield subcode"
+    },
+    {
+        "次諧波混頻器": "subharmonic mixer"
+    },
+    {
+        "影像編碼之主觀效應": "subjective effect in image coding"
+    },
+    {
+        "語音編碼之主觀效應": "subjective effect in speech coding"
+    },
+    {
+        "主觀訊雜比": "subjective SNR"
+    },
+    {
+        "主觀測試": "subjective testing"
+    },
+    {
+        "衛星轉租": "sublease of satellite"
+    },
+    {
+        "海底纜線": "submarine cable"
+    },
+    {
+        "海底纜線載波通訊系統": "submarine cable carrier communication system"
+    },
+    {
+        "海纜中繼器": "submarine cable repeater"
+    },
+    {
+        "海底光波系統": "submarine lightwave system"
+    },
+    {
+        "海底電話纜線": "submarine telephone cable"
+    },
+    {
+        "水下系統": "submerged system"
+    },
+    {
+        "次毫米波": "submillimeter wave"
+    },
+    {
+        "超小型(元件)": "subminiature"
+    },
+    {
+        "遞交與傳送協定": "Submission and Delivery Protocol (P3 protocol)"
+    },
+    {
+        "子網路": "subnet"
+    },
+    {
+        "次取樣": "subsampling"
+    },
+    {
+        "次衛星點(即衛星與地球中心連線與地表的接觸點)": "subsatellite point"
+    },
+    {
+        "(電話)用戶，訂購戶": "subscriber"
+    },
+    {
+        "用戶(線)載波電話系統": "subscriber carrier telephone system"
+    },
+    {
+        "用戶電路": "subscriber line circuit"
+    },
+    {
+        "用戶端迴路": "subscriber loop"
+    },
+    {
+        "用戶終端設備": "subscriber terminal equipment"
+    },
+    {
+        "(計時)收費制電視": "subscriber TV"
+    },
+    {
+        "用戶號碼": "subscriber's number"
+    },
+    {
+        "收費電視": "subscriber-vision"
+    },
+    {
+        "預約，用戶卡片(電話)": "subscription"
+    },
+    {
+        "計時收費電視": "subscription television"
+    },
+    {
+        "後續位址信息": "Subsequent Address Message"
+    },
+    {
+        "後續號碼": "Subsequent Number"
+    },
+    {
+        "輔助纜線": "subsidiary cable"
+    },
+    {
+        "輔助通訊": "subsidiary communication"
+    },
+    {
+        "次分離系統(將頻率使用加以分配的一種方法)": "subsplit system"
+    },
+    {
+        "不標準的": "substandard"
+    },
+    {
+        "亞(次)標準地面站": "sub-standard earth station"
+    },
+    {
+        "替換方式": "substitution method"
+    },
+    {
+        "基底": "substrate"
+    },
+    {
+        "分(支)系統，輔助系統，子系統，次系統": "subsystem"
+    },
+    {
+        "地下纜線": "subterrancean cable"
+    },
+    {
+        "地下線路": "subterrancean line"
+    },
+    {
+        "市郊電話線": "suburban telephone line"
+    },
+    {
+        "郊區通信業務": "suburban traffic"
+    },
+    {
+        "連續逼近": "successive approximation"
+    },
+    {
+        "連續逼近類比/數位轉換": "successive approximation A/D"
+    },
+    {
+        "電離層突然擾動": "sudden ionospheric disturbance"
+    },
+    {
+        "日升效應(電波傳播)": "sunrise effect"
+    },
+    {
+        "日落效應": "sun-set effect"
+    },
+    {
+        "太陽黑子活動(性)": "sunspot activity"
+    },
+    {
+        "太陽黑子活動期": "sunspot activity period"
+    },
+    {
+        "太陽黑子週期": "sunspot cycle"
+    },
+    {
+        "太陽黑斑群": "sunspot number"
+    },
+    {
+        "太陽黑子": "sunspot(s)"
+    },
+    {
+        "太陽同步軌道": "sun-synchronous oribt"
+    },
+    {
+        "超高頻": "Super High Frequency{=SHF}"
+    },
+    {
+        "超音頻，超聲頻": "super-audio frequency"
+    },
+    {
+        "超導向天線": "superdirective antenna"
+    },
+    {
+        "超導向性": "superdirectivity"
+    },
+    {
+        "將已編碼過的訊息再加以編碼": "superenciphement"
+    },
+    {
+        "超碼框": "superframe"
+    },
+    {
+        "超增益天線": "supergain antenna"
+    },
+    {
+        "(在分頻多工中，每五群組成一)超群體(含60個FDM的語音信號)": "supergroup"
+    },
+    {
+        "超外差": "superheterodyne"
+    },
+    {
+        "超外差接收機": "superheterodyne receiver"
+    },
+    {
+        "超外差式接收": "superheterodyne reception"
+    },
+    {
+        "上蜃景(超短波無線電波傳播時的異常現象)": "superior mirage"
+    },
+    {
+        "超晶格": "superlattice"
+    },
+    {
+        "超發光": "superluminescence"
+    },
+    {
+        "超發光二極體": "superluminescent LED"
+    },
+    {
+        "重疊原理，疊加原理": "superposition principle"
+    },
+    {
+        "超功率電台": "superpower station"
+    },
+    {
+        "超折射": "super-refraction"
+    },
+    {
+        "超再生接收法": "superregenerative reception"
+    },
+    {
+        "超自校準電晶體": "super-self aligned transistor"
+    },
+    {
+        "多層繞桿式電視天線": "superturnstile antenna"
+    },
+    {
+        "監督用碼框": "supervisory frame"
+    },
+    {
+        "補充，增補，(書籍的)補遺，補編，附錄，補碼，補角": "supplement"
+    },
+    {
+        "輔助中繼線群": "supplementary trunk group"
+    },
+    {
+        "抑制載波": "suppressed carrier"
+    },
+    {
+        "載波抑制調變": "suppressed carrier modulation"
+    },
+    {
+        "抑制器，遏抑器，抑制柵極": "suppressor"
+    },
+    {
+        "抑制器損耗": "suppressor loss"
+    },
+    {
+        "表面吸收": "surface absorption"
+    },
+    {
+        "表面吸收係數": "surface absorptivity"
+    },
+    {
+        "表面聲波": "Surface Acoustic Wave (SAW)"
+    },
+    {
+        "表面聲波延遲線": "Surface Acoustic Wave (SAW) delay line"
+    },
+    {
+        "表面聲波元件": "Surface Acoustic Wave (SAW) device"
+    },
+    {
+        "表面聲波濾波器": "surface acoustic wave filter"
+    },
+    {
+        "面電荷": "surface charge"
+    },
+    {
+        "面電流": "surface current"
+    },
+    {
+        "表面發光器": "surface emitter"
+    },
+    {
+        "表面發光器透鏡藕合": "surface emitter， coupling with lenses"
+    },
+    {
+        "雙波長表面發光器": "surface emitter， dual-wavelength"
+    },
+    {
+        "表面發光器形狀與發光型態": "surface emitter， geometry and emission patterms of"
+    },
+    {
+        "長波長表面發光器": "surface emitter， long-wavelength"
+    },
+    {
+        "平台式結構表面發光器": "surface emitter， mesa-structure"
+    },
+    {
+        "微空腔表面發光器": "surface emitter， microcavity"
+    },
+    {
+        "表面導波": "surface gudied waves"
+    },
+    {
+        "表面阻抗": "surface impedance"
+    },
+    {
+        "平郵，海運郵件": "surface miail"
+    },
+    {
+        "等相面": "surface of constant phase"
+    },
+    {
+        "表面電阻係數": "surface resisivity"
+    },
+    {
+        "表面電阻": "surface resistance"
+    },
+    {
+        "金模表面電阻": "surface resistance of gold film"
+    },
+    {
+        "銀模表面電阻": "surface resistance of silver film"
+    },
+    {
+        "表面粗糙度": "surface roughness"
+    },
+    {
+        "表面散射": "surface scattering"
+    },
+    {
+        "表面張量": "surface tension"
+    },
+    {
+        "表面行進波": "surface traveling wave"
+    },
+    {
+        "表面波傳輸線": "surface wave line"
+    },
+    {
+        "表面波輻射": "surface wave radiation"
+    },
+    {
+        "表面波": "surface waves"
+    },
+    {
+        "表面發光二極體": "surface-emitting LED"
+    },
+    {
+        "表面波天線": "surface-wave antenna"
+    },
+    {
+        "環繞通道": "surround channel"
+    },
+    {
+        "監視，偵察，對空觀察": "surveillance"
+    },
+    {
+        "偵察雷達": "surveillance radar"
+    },
+    {
+        "偵察雷達站": "surveillance radar station"
+    },
+    {
+        "偵察報警衛星，警戒衛星": "surveillance-warning satellite"
+    },
+    {
+        "存活路徑": "survivor path"
+    },
+    {
+        "暫停信息": "SUS (Suspend Message)"
+    },
+    {
+        "電納": "susceptance"
+    },
+    {
+        "敏感性，極化率": "susceptibility"
+    },
+    {
+        "磁極化率": "susceptibility， magnetic"
+    },
+    {
+        "停止，中止，懸掛，中繼，停話": "suspend"
+    },
+    {
+        "暫停信息": "Suspend message"
+    },
+    {
+        "暫停/回復指示元": "Suspend/Resume Indicators"
+    },
+    {
+        "中斷的，停止的": "suspended"
+    },
+    {
+        "掛鉤": "suspender"
+    },
+    {
+        "中止，暫停，懸掛": "suspension"
+    },
+    {
+        "持續細胞速率": "Sustainable Cell Rate"
+    },
+    {
+        "信號虛擬通道": "SVC (Signaling Virtual Channel)"
+    },
+    {
+        "信號虛擬通道識別碼": "Signaling Virtual Channel Identifier{=SVCI}"
+    },
+    {
+        "信號虛擬通道識別碼A": "Signaling Virtual Channel Identifier A{=SVCIA}"
+    },
+    {
+        "信號虛擬通道識別碼B": "Signaling Virtual Channel Identifier B{=SVCIB}"
+    },
+    {
+        "南-西": "SW (South-West)"
+    },
+    {
+        "開關，轉換開關，電鍵，轉換器，轉接，轉換，轉接，撥動": "SW (switch)"
+    },
+    {
+        "天波": "SWAVE (sky wave)"
+    },
+    {
+        "轉向，搖晃，傾斜": "sway"
+    },
+    {
+        "短波扼流圈": "SWC (Short Wave Choke)"
+    },
+    {
+        "駐波檢視器": "SWD (Standing Wave Detector)"
+    },
+    {
+        "膨脹，波浪": "swell"
+    },
+    {
+        "史厄林模式": "Swerling model"
+    },
+    {
+        "史厄林目標模式": "Swerling target model"
+    },
+    {
+        "基頻交換系統": "swichging system， baseband frequency"
+    },
+    {
+        "擺動，搖動，動盪，針，最大擺動，擺幅，回轉，轉向，頻移": "swing"
+    },
+    {
+        "開關，轉換開關，電鍵，轉換器，接線器，轉換，轉接，交換，交換機": "switch"
+    },
+    {
+        "切斷，斷開": "switch off"
+    },
+    {
+        "接入，接通": "switch on"
+    },
+    {
+        "交換機埠": "switch ports"
+    },
+    {
+        "天線轉換開關，收發轉換開關": "switch， A.T.R"
+    },
+    {
+        "集合(訊號)速度開關": "switch， aggregate speed"
+    },
+    {
+        "延遲回饋控制開關": "switch， delay feedback control"
+    },
+    {
+        "方向藕合器開關": "switch， directional coupler"
+    },
+    {
+        "機械啟動開關": "switch， mechanically activated"
+    },
+    {
+        "複接開關": "switch， multilex"
+    },
+    {
+        "分封式交換機": "switch， packet"
+    },
+    {
+        "配電盤，配電板，轉換器，交換台，交換機，總機": "switchboard"
+    },
+    {
+        "交換台塞繩": "switchboard cord"
+    },
+    {
+        "交換機吊牌": "switchboard jack"
+    },
+    {
+        "交換台操作員": "switchboard operator"
+    },
+    {
+        "切換式位元分配": "switched bit allocation"
+    },
+    {
+        "切換預測": "switched prediction"
+    },
+    {
+        "切換量化": "switched quantization"
+    },
+    {
+        "轉接電話業務": "switched telephone traffic"
+    },
+    {
+        "交換，配電，換向，轉換，開關": "switching"
+    },
+    {
+        "交換中心，交換台，交換機房": "switching center"
+    },
+    {
+        "交換電路": "switching circuit"
+    },
+    {
+        "交換設備": "switching facility"
+    },
+    {
+        "轉換時間間隔": "switching interval"
+    },
+    {
+        "專接裝置，開關設置，轉接系統，交換系統": "switching system"
+    },
+    {
+        "開關管，交換管": "switching tubes"
+    },
+    {
+        "分封交換": "switching， packet"
+    },
+    {
+        "光子交換": "switching， photonic"
+    },
+    {
+        "分時交換": "switching， time-division"
+    },
+    {
+        "分空間交換": "swithcing， space-division"
+    },
+    {
+        "信號串音比": "SX (Signal-to-corsstalk ratio)"
+    },
+    {
+        "同步器": "sycnhornizer"
+    },
+    {
+        "音節清晰度，音節發聲": "syllable articulation"
+    },
+    {
+        "音節表": "syllable chart"
+    },
+    {
+        "音節壓縮擴展器": "syllable compandor"
+    },
+    {
+        "西貝斯特矩陣": "Sylvester matrix"
+    },
+    {
+        "記號，符號，象徵": "symbol"
+    },
+    {
+        "符元錯誤": "symbol error"
+    },
+    {
+        "符元錯誤率": "symbol error rate"
+    },
+    {
+        "符元同步": "symbol synchronization"
+    },
+    {
+        "同位檢查符元": "symbol， parity check"
+    },
+    {
+        "符號碼，符號代碼": "symbolic code"
+    },
+    {
+        "符號編碼": "symbolic coding"
+    },
+    {
+        "對稱型協定": "symmetric protocol"
+    },
+    {
+        "對稱天線": "symmetrical antenna"
+    },
+    {
+        "對稱性": "symmetry"
+    },
+    {
+        "同步": "SYN (Synchronization)"
+    },
+    {
+        "同步器": "SYNC (synchronizer)"
+    },
+    {
+        "同步電碼": "sync code"
+    },
+    {
+        "同步碼字": "synchornization word"
+    },
+    {
+        "載頻同步": "synchornization， carrier frequency"
+    },
+    {
+        "主從同步": "synchornization， master-salve"
+    },
+    {
+        "同步傳輸": "synchroniaed transmission"
+    },
+    {
+        "同步，同步性": "synchronism"
+    },
+    {
+        "同步，同步化": "synchronization"
+    },
+    {
+        "同步字元": "synchronization character"
+    },
+    {
+        "同步訊號": "synchronization signal"
+    },
+    {
+        "框同步，碼框同步": "synchronization， frame"
+    },
+    {
+        "人工同步": "synchronization， manual"
+    },
+    {
+        "同步廣播網": "synchronized boardcasting network"
+    },
+    {
+        "同步用碼": "synchronizing code"
+    },
+    {
+        "同步脈波": "synchronizing pulses"
+    },
+    {
+        "同步的": "synchronous"
+    },
+    {
+        "同步通訊": "synchronous communication"
+    },
+    {
+        "同步通訊衛星": "synchronous communication satellite"
+    },
+    {
+        "同步數據": "synchronous data"
+    },
+    {
+        "同步資料鍵控制": "Synchronous Data Link Contol (SDLC)"
+    },
+    {
+        "同步數據傳輸，同步數據發送": "synchronous data transmission"
+    },
+    {
+        "同步檢測": "synchronous detection"
+    },
+    {
+        "同步撿波器，同步檢測器": "synchronous detector"
+    },
+    {
+        "同步數位架構": "Synchronous Digital Hierarchy (SDH)"
+    },
+    {
+        "同步直接序列分碼多重進接": "synchronous DS-CDMA"
+    },
+    {
+        "同步赤道軌道": "synchronous equatorial orbit"
+    },
+    {
+        "同步氣象衛星": "synchronous meteorological satellite"
+    },
+    {
+        "同步光纖網路": "synchronous optical network"
+    },
+    {
+        "同步軌道": "synchronous orbit"
+    },
+    {
+        "同步接收機": "synchronous receiver"
+    },
+    {
+        "同步衛星": "synchronous satellite"
+    },
+    {
+        "同步衛星軌道": "synchronous satellite orbit"
+    },
+    {
+        "同步終端機": "synchronous terminal"
+    },
+    {
+        "同步分時多工器": "Synchronous Time Division Multiplexer{=STDM}"
+    },
+    {
+        "同步傳送模式": "Synchronous Transfer Mode(STM)"
+    },
+    {
+        "同步轉移軌道": "synchronous transfer orbit"
+    },
+    {
+        "同步傳輸": "synchronous transmission"
+    },
+    {
+        "同步裝置": "SYNCHROS (synchronizer devices)"
+    },
+    {
+        "同步通信": "SYNCOM (synchronous communication)"
+    },
+    {
+        "同步通訊衛星": "syncom satellite"
+    },
+    {
+        "同步碼字": "syncowrod"
+    },
+    {
+        "循環碼癥狀": "syndorme， cyclic code"
+    },
+    {
+        "(解碼)癥狀": "syndrome"
+    },
+    {
+        "癥狀解碼器": "syndrome decoder"
+    },
+    {
+        "癥狀解碼": "syndrome decoding"
+    },
+    {
+        "語法": "syntax"
+    },
+    {
+        "合成(法)": "synthesis"
+    },
+    {
+        "合成濾波器組": "synthesis filterbank"
+    },
+    {
+        "線性陣列合成": "synthesis of linear array"
+    },
+    {
+        "合成次頻帶濾波器": "synthesis subband filter"
+    },
+    {
+        "波束整形合成技巧": "synthesis， beam shaping"
+    },
+    {
+        "傅氏轉換(天線場型)合成法": "synthesis， Fourier transform"
+    },
+    {
+        "(天線)合成之位可見區": "synthesis， invisible region of"
+    },
+    {
+        "(天線)合成之根匹配": "synthesis， root-matching of"
+    },
+    {
+        "夏克諾夫多頂式(天線)合成": "synthesis， Schelkunoff polynomial"
+    },
+    {
+        "(天線)合成之空間因數": "synthesis， space factor of"
+    },
+    {
+        "(天線)合成之可見區": "synthesis， visible region of"
+    },
+    {
+        "合成，綜合，併接": "synthesize"
+    },
+    {
+        "合成器，合成裝置": "synthesizer"
+    },
+    {
+        "合成孔徑雷達": "Synthetic Aperture Radar{=SAR}"
+    },
+    {
+        "解碼器同步": "syschronization， decoder"
+    },
+    {
+        "線性輻射組合成": "sysnthesis of line-source"
+    },
+    {
+        "系統": "system"
+    },
+    {
+        "系統頻寬": "system bandwidth"
+    },
+    {
+        "系統時鐘參考依據": "system clock reference"
+    },
+    {
+        "系統指令": "system command"
+    },
+    {
+        "系統增益": "system gain"
+    },
+    {
+        "系統標頭": "system header"
+    },
+    {
+        "系統識別": "system idenfification"
+    },
+    {
+        "系統不穩度": "system instabilities"
+    },
+    {
+        "系統損耗": "system loss"
+    },
+    {
+        "系統管理": "system management"
+    },
+    {
+        "系統雜訊": "system noise"
+    },
+    {
+        "系統雜訊溫度": "system noise temperature"
+    },
+    {
+        "系統中斷": "system outage"
+    },
+    {
+        "系統參數": "System Parameter"
+    },
+    {
+        "系統規劃": "system planning"
+    },
+    {
+        "系統品質係數": "system quality factor"
+    },
+    {
+        "系統服務控制點": "System Services Control Point (SSCP)"
+    },
+    {
+        "系統規範，系統規格": "system specifications"
+    },
+    {
+        "系統標的解碼器": "system target decoder"
+    },
+    {
+        "系統標的解碼器之輸入緩衝區": "system traget decoder input buffer"
+    },
+    {
+        "蜂巢式電話系統": "system， cellular telephone"
+    },
+    {
+        "線性非時變系統": "system， linear time-invarigant"
+    },
+    {
+        "鏈路預算系統": "system， link budget"
+    },
+    {
+        "微波放大器中繼系統": "system， mcirowave amplifier repeater"
+    },
+    {
+        "微波電波系統": "system， microwave telecommunication"
+    },
+    {
+        "最小相位系統": "system， mimimun-phase"
+    },
+    {
+        "最小相位落後系統": "system， minimum phase-lag"
+    },
+    {
+        "行動電話系統": "system， mobile telephoe"
+    },
+    {
+        "展頻系統": "system， spread spectrum"
+    },
+    {
+        "轉移函數系統": "system， transfer function"
+    },
+    {
+        "系統性碼": "systematic code"
+    },
+    {
+        "兆(=10的12次)": "T (tera)"
+    },
+    {
+        "T 型飛機天線": "T aircraft antenna"
+    },
+    {
+        "T 型天線": "T antenna"
+    },
+    {
+        "T 型藕合器": "T coupler"
+    },
+    {
+        "T 型接頭": "T junction"
+    },
+    {
+        "T 型阻抗匹配電路": "T match"
+    },
+    {
+        "電話會議": "T/C (teleconference)"
+    },
+    {
+        "遙測和指令": "T/C (Telemetry and Command)"
+    },
+    {
+        "遙測，遙測術": "T/M (TeleMetering)"
+    },
+    {
+        "T1傳輸線(24路博碼調變設備的傳輸線)": "T1"
+    },
+    {
+        "T1 頻寬": "T1 bandwidth"
+    },
+    {
+        "T1 系統(北美所使用之TDM系統，傳輸率為1.544Mbps)": "T1 system"
+    },
+    {
+        "T2傳輸線(適用於中距離的數位傳輸線)": "T2"
+    },
+    {
+        "電信諮詢委員會": "TAB (Telecommunciations Advisory Board)"
+    },
+    {
+        "查表式解碼": "table look-up decoding"
+    },
+    {
+        "查表示量化": "table look-up quantizaion"
+    },
+    {
+        "(國際電信組織)頻率配置表": "Table of Frequency Allocations"
+    },
+    {
+        "表單規格資料": "table specification data"
+    },
+    {
+        "表單規格測式資料": "table specification test data"
+    },
+    {
+        "表單規格測式資料流": "table specification test data stream"
+    },
+    {
+        "戰術空軍指揮通訊(網)": "tactical air command communications"
+    },
+    {
+        "戰術通訊衛星": "tactical communication satellite"
+    },
+    {
+        "戰術通訊系統": "tactical communication system"
+    },
+    {
+        "戰術光纜": "tactical fiber-optical cable"
+    },
+    {
+        "尾帽型飛機天線": "tail-cap aircraft antenna"
+    },
+    {
+        "尾帽天線": "tail-cap antenna"
+    },
+    {
+        "頻帶間隙裁製": "tailoring bandgap"
+    },
+    {
+        "對講音頻/數據鏈路": "talk-back audio/data link"
+    },
+    {
+        "彙接(的)，前後直排，縱列，串接，直通連接": "tandem"
+    },
+    {
+        "彙接中心局": "tandem central office"
+    },
+    {
+        "彙接，直通連接，串接": "tandem connection"
+    },
+    {
+        "彙接交會局，轉接局，匯接局": "tandem exchange"
+    },
+    {
+        "彙接局，中繼局，中間局(用以連接兩地方局)": "tandem office"
+    },
+    {
+        "彙接中繼制，直通中繼制": "tandem relay system"
+    },
+    {
+        "彙接路由法，直通路由法": "tandem routing"
+    },
+    {
+        "衛星彙接電路": "tandem satellite circuit"
+    },
+    {
+        "彙接選擇，中繼選擇，彙接中繼選擇": "tandem selection"
+    },
+    {
+        "彙接交換機，縱向交會機(用以連接相鄰之地方局);中間局之交換機": "tandem switch"
+    },
+    {
+        "彙接中繼線，轉接中繼線": "tandem trunk"
+    },
+    {
+        "切線法": "tangent method"
+    },
+    {
+        "分接頭/傳送接收機(收發機)": "tap/transceiver"
+    },
+    {
+        "帶式驅動機構，帶式傳動裝置": "tape drive mechanism"
+    },
+    {
+        "紙帶穿孔打字機": "tape punch typewriter"
+    },
+    {
+        "(磁或穿孔機)帶讀出器": "tape reader"
+    },
+    {
+        "磁帶紀錄器，磁帶錄音機，磁帶錄影機": "tape recorder"
+    },
+    {
+        "磁帶紀錄器(錄音機錄影機)之磁頭": "tape recorder head"
+    },
+    {
+        "磁帶紀錄，磁帶錄音，磁帶錄影": "tape recording"
+    },
+    {
+        "(磁)帶盤": "tape reel"
+    },
+    {
+        "光纖光徑轉換器": "taper， fiber"
+    },
+    {
+        "漸尖型天線吸收室(天線量測用)": "tapered chamber"
+    },
+    {
+        "漸減式天線照射分佈": "tapered illumination"
+    },
+    {
+        "錐形波導，截面漸變波導": "tapered waveguide"
+    },
+    {
+        "漸變線變換(壓)器": "tapered-line transformers"
+    },
+    {
+        "分接式延遲線": "tapped delay line"
+    },
+    {
+        "分接延遲線濾波器": "tapped delay-line filter"
+    },
+    {
+        "目標獲取": "target acquisition"
+    },
+    {
+        "目標反向散射訊號": "target backscatter"
+    },
+    {
+        "目標分類": "target classification"
+    },
+    {
+        "目標去關聯": "target decorrelation"
+    },
+    {
+        "目標偵測": "target detection"
+    },
+    {
+        "目標鑑別(區別)": "target discrimination"
+    },
+    {
+        "目標回波，目標反射訊號": "target echo"
+    },
+    {
+        "目標擾動": "target fluctation"
+    },
+    {
+        "目標識別": "target identification"
+    },
+    {
+        "目標識別系統": "target identification system"
+    },
+    {
+        "目標辨認": "target recognition"
+    },
+    {
+        "目標訊標迴傳時間": "Target Token Rotation Time (TTRT)"
+    },
+    {
+        "目標軌跡": "target track"
+    },
+    {
+        "校準目標": "target， cailbration"
+    },
+    {
+        "(美國電話公司)線路租用不同頻寬、不同價格方面的文件，資費表，資費，價目表": "tariff"
+    },
+    {
+        "自動電報系統(計算機轉報系統)": "TAS (Telegram Automatic System)"
+    },
+    {
+        "電傳打字機自動轉換": "TAS (Teleprinter Automatic Switching)"
+    },
+    {
+        "工作派遣器": "task dispatcher"
+    },
+    {
+        "理論到達時間": "TAT (Theoretical Arrival Time)"
+    },
+    {
+        "戰術傳輸系統": "TATS (Tactical Transmission System)"
+    },
+    {
+        "泰勒圓形孔徑分佈": "Taylor circular aperture distribution"
+    },
+    {
+        "泰勒分佈": "Taylor weighting"
+    },
+    {
+        "泰勒加權": "Taylow weighting"
+    },
+    {
+        "(日)電信委員會": "TC (Telecommunication Committee)"
+    },
+    {
+        "電話中心": "TC (Telephone Center)"
+    },
+    {
+        "溫度係數": "TC (Temperature Coefficient)"
+    },
+    {
+        "長途電信局": "TC (Toll Center)"
+    },
+    {
+        "無效電收發兩用機": "TC (transceiver)"
+    },
+    {
+        "遙測;指令與監聽(站)": "TC&M (Telemetry， Command & Monitoring)"
+    },
+    {
+        "TC97技術委員會": "TC97 committee"
+    },
+    {
+        "T-載波設備": "T-carrier equipment"
+    },
+    {
+        "T-載波迴路分佈系統": "T-carrier loop distribution system"
+    },
+    {
+        "電信協調委員會": "TCC (Telecommunications Corodinating Committee)"
+    },
+    {
+        "契比雪夫(等漣)響應": "Tchebyscheff (equalripple) response"
+    },
+    {
+        "契比雪夫(等漣)變換器": "Tchebyscheff (equalripple) transformer"
+    },
+    {
+        "契比雪夫多項式": "Tchebyscheff polynomials"
+    },
+    {
+        "傳輸控制/網際網路協定": "TCP/IP"
+    },
+    {
+        "無線電收發兩用機": "TCVR (transceiver)"
+    },
+    {
+        "雷神-D(西歐-美國科學衛星名)": "TD (Thor Data)"
+    },
+    {
+        "時間分割，時間區分，分時": "TD (Time Division)"
+    },
+    {
+        "時延放大器": "TDA (Time Delay Amplifier)"
+    },
+    {
+        "納透二極體放大器": "TDA (Tunnel Diode Muliplex)"
+    },
+    {
+        "分時多工": "TDM (Time Division Multiplex)"
+    },
+    {
+        "智慧型分時多工": "TDM， intellignet"
+    },
+    {
+        "分時多重進接": "TDMA (Time-Division Multiple Access)"
+    },
+    {
+        "終端設備": "TE (Terminal Equipment)"
+    },
+    {
+        "橫向電場(電磁波)": "TE (Transverse-Electric)"
+    },
+    {
+        "橫向電場模態": "TE mode"
+    },
+    {
+        "橫向電波": "TE wave"
+    },
+    {
+        "電視廣播台": "te.evision broascasting station"
+    },
+    {
+        "分子束磊晶技術": "techinque， chemical beam epitaxy growth"
+    },
+    {
+        "分群技術": "techinque， clustering"
+    },
+    {
+        "字元交錯技術": "technique， character-interleaving"
+    },
+    {
+        "導引技術": "technique， guidance"
+    },
+    {
+        "高距離解析度技術": "technique， high rang resolution"
+    },
+    {
+        "雙極晶體技術": "technologies， bipolar"
+    },
+    {
+        "移轉電子元件": "TED (Transferred Electron Device)"
+    },
+    {
+        "T 型匯流裝置(電路)": "tee"
+    },
+    {
+        "岔路 T 形接頭": "tee， hybird"
+    },
+    {
+        "T 型接頭": "teejunctions"
+    },
+    {
+        "T 形接頭": "tees"
+    },
+    {
+        "國際電傳打字機交換業務": "TEKEX (international TEL-eprinter Exchange service)"
+    },
+    {
+        "電報": "TEL (telegram)"
+    },
+    {
+        "電話": "TEL (telephone)"
+    },
+    {
+        "電話號碼": "TEL NO (telephone number)"
+    },
+    {
+        "電報": "TELE (telegraph)"
+    },
+    {
+        "電話衛星，通信衛星": "TELEASAT (TELEcommunications SATellite)"
+    },
+    {
+        "電視廣播，電視節目": "telecast"
+    },
+    {
+        "電信": "TELECOM (telecommunications)"
+    },
+    {
+        "電信，遠距離通信": "telecommunication"
+    },
+    {
+        "電信法": "telecommunication act"
+    },
+    {
+        "電信研究所": "Telecommunication Laboratories (TL)"
+    },
+    {
+        "電信管理網路": "Telecommunication Management Network"
+    },
+    {
+        "電信衛星，通信衛星": "telecommunication satellite"
+    },
+    {
+        "電信系統": "telecommunication systems"
+    },
+    {
+        "電信纜線": "telecommunications cable"
+    },
+    {
+        "電話會議": "TELECON (telephone conference)"
+    },
+    {
+        "(利用)電傳會議，遠距離會議": "teleconference"
+    },
+    {
+        "遠距離控制，遙控": "telecontrol"
+    },
+    {
+        "電視影片": "telefilm"
+    },
+    {
+        "電報，電報業務": "telegram"
+    },
+    {
+        "電報投送業務": "telegram delivery service"
+    },
+    {
+        "自動轉報系統": "telegram retransmission system"
+    },
+    {
+        "電報機，信號機，電報": "telegraph"
+    },
+    {
+        "電報符號(對照)表，電報字母表": "telegraph alphabet"
+    },
+    {
+        "電報碼，電報電碼": "telegraph code"
+    },
+    {
+        "電報規範": "telegraph regulation(s)"
+    },
+    {
+        "電報回答，覆電": "telegraph reply"
+    },
+    {
+        "聲頻電報": "telegraphy， acoustic"
+    },
+    {
+        "字母電報，字母電報制": "telegraphy， alphabetic"
+    },
+    {
+        "直流電報": "direct current telegraphy"
+    },
+    {
+        "多路音頻電報(制)": "telegraphy， multi-cahnnel voice frequency"
+    },
+    {
+        "電子郵件": "telemail"
+    },
+    {
+        "公眾資料服務之通稱(家庭或辦公室使用)": "telematics"
+    },
+    {
+        "遙測計，測遠計": "telemeter"
+    },
+    {
+        "無線電遙測通道": "telemeter channel"
+    },
+    {
+        "遙測，遙測術": "telemetering"
+    },
+    {
+        "遙測，遙測術": "telemetry"
+    },
+    {
+        "遙測及指令天線": "telemetry and command antenna"
+    },
+    {
+        "遙測天線": "telemetry antenna"
+    },
+    {
+        "遙測追蹤和指令站": "telemetry， tracking and command station"
+    },
+    {
+        "遙測指令": "telemtery command"
+    },
+    {
+        "遙測數據": "telemtery data"
+    },
+    {
+        "電話亭，電話座架": "telephine stand"
+    },
+    {
+        "電話亭": "telephone booth"
+    },
+    {
+        "電話費": "telephone caharges"
+    },
+    {
+        "電話呼叫": "telephone call"
+    },
+    {
+        "電話呼叫處理": "telephone call processing"
+    },
+    {
+        "電話中央交換局": "telephone central office"
+    },
+    {
+        "電話通道，電話聲道，話路": "telephone channel"
+    },
+    {
+        "電話電路": "telephone circuit"
+    },
+    {
+        "電話通訊": "telephone communication"
+    },
+    {
+        "電話號碼簿": "telephone directory"
+    },
+    {
+        "電話回音消除": "telephone echo cancellation"
+    },
+    {
+        "電話交換，電話交換機，電話局": "telephone exchange"
+    },
+    {
+        "電話手機": "telephone handset"
+    },
+    {
+        "電話機鉤鍵": "telephone hook"
+    },
+    {
+        "電話的混合線圈，電話二線對四線轉換電路": "telephone hybird coil"
+    },
+    {
+        "電話按鍵": "telephone key"
+    },
+    {
+        "電話線，電話線路": "telephone line"
+    },
+    {
+        "電話線路等化器": "telephone line equalizer"
+    },
+    {
+        "電話總配線架": "telephone main frame"
+    },
+    {
+        "電話留言": "telephone message"
+    },
+    {
+        "電話網路，電話網": "telephone network"
+    },
+    {
+        "電話網路中央交換局": "telephone network central offices"
+    },
+    {
+        "電話號碼": "telephone number"
+    },
+    {
+        "電話號碼編號": "telephone numbering"
+    },
+    {
+        "電話費率": "telephone rate"
+    },
+    {
+        "電話收話器，電話聽筒": "telephone receiver"
+    },
+    {
+        "電話增音機": "telephone repeater"
+    },
+    {
+        "電話鈴": "telephone ringer"
+    },
+    {
+        "電話系統": "telephone system"
+    },
+    {
+        "電話系統長途局間幹線": "telephone system intertoll trunk"
+    },
+    {
+        "話傳電報": "telephone telegram"
+    },
+    {
+        "電話業務，話務": "telephone traffic"
+    },
+    {
+        "電話發話器": "telephone transmitter"
+    },
+    {
+        "電話區域碼": "telephone， area code of"
+    },
+    {
+        "蜂巢式無線電電話": "telephone， cellular radio"
+    },
+    {
+        "電話串音": "telephone， cross-talk of"
+    },
+    {
+        "電話受話器": "telephone， earphone receiver of"
+    },
+    {
+        "野戰電話": "telephone， militray"
+    },
+    {
+        "同線電話，載波電話": "telephone， party"
+    },
+    {
+        "同線電話": "telephone， party line"
+    },
+    {
+        "電話學，電話": "telephony"
+    },
+    {
+        "數位電話學": "telephony， idgital"
+    },
+    {
+        "傳真照片，用傳真電報發送": "telephotograph"
+    },
+    {
+        "傳真電報": "telephotography"
+    },
+    {
+        "電傳機，電傳打字機": "teleprinter"
+    },
+    {
+        "電傳打字機電碼": "teleprinter code"
+    },
+    {
+        "電傳打字電報交換機，電傳打字機交換": "teleprinter exchange"
+    },
+    {
+        "機載電傳打字機": "teleprinter set， airborne"
+    },
+    {
+        "無線電遙控觀察站": "teleradio observation post"
+    },
+    {
+        "利用電視傳送資料庫中之分頁資訊，電文廣播": "teletex"
+    },
+    {
+        "電傳打字機": "teletype"
+    },
+    {
+        "搖排字機，電傳排字機": "teletypesetetter"
+    },
+    {
+        "電傳打字機": "teletypewriter"
+    },
+    {
+        "電傳打字機中心局": "teletypewriter center office"
+    },
+    {
+        "電傳業務": "teletypewriter service"
+    },
+    {
+        "電傳終端機": "teletypewriter terminal"
+    },
+    {
+        "電傳機傳輸": "teletypewriter transmission"
+    },
+    {
+        "電視": "television{=TV}"
+    },
+    {
+        "電視頻帶": "television band"
+    },
+    {
+        "電視廣播衛星": "television broadcas satellite"
+    },
+    {
+        "電視廣播": "television broadcast"
+    },
+    {
+        "電視頻道分配": "television channel"
+    },
+    {
+        "電視彩色訊號": "television chrominance signal"
+    },
+    {
+        "電視通訊": "television communication"
+    },
+    {
+        "電視亮度信號": "television luminance signal"
+    },
+    {
+        "電視(作業)中心": "television operating center"
+    },
+    {
+        "電視廣播節目": "television program"
+    },
+    {
+        "電視接收機，電視機": "television receiver"
+    },
+    {
+        "電視接收天線": "television receiving antenna"
+    },
+    {
+        "電視接收": "television reception"
+    },
+    {
+        "電視轉播台": "television relay station"
+    },
+    {
+        "電視轉播系統": "television relay system"
+    },
+    {
+        "電視轉播": "television relaying"
+    },
+    {
+        "電視接收機，電視機": "television set"
+    },
+    {
+        "電視訊號": "television signal"
+    },
+    {
+        "電視伴音通道": "television sound channel"
+    },
+    {
+        "電視台": "television station"
+    },
+    {
+        "電視演播室，電視播送室，電視錄影棚": "television studio"
+    },
+    {
+        "電視測試圖樣產生器": "television test pattern generator"
+    },
+    {
+        "廣播電視": "television， broadcasting"
+    },
+    {
+        "電視頻道之指配": "television， channel assignment of"
+    },
+    {
+        "數位電視": "television， digital"
+    },
+    {
+        "交替掃描電視(奇偶視場)": "television， interlacting"
+    },
+    {
+        "多頻道電視": "television， multichannel"
+    },
+    {
+        "電視電話制，電視電話系統": "television-telephone system"
+    },
+    {
+        "電傳打字電報": "telex"
+    },
+    {
+        "電傳打字電報交換局": "telex exchange"
+    },
+    {
+        "TELNET協定(終端機模擬協定)": "TELNET"
+    },
+    {
+        "掛胸式電話機": "telophone， breast"
+    },
+    {
+        "橫向電磁模(態)": "TEM mode"
+    },
+    {
+        "橫向電磁波": "TEM wave"
+    },
+    {
+        "溫度": "temperature"
+    },
+    {
+        "溫度循環": "temperature cycling"
+    },
+    {
+        "逆溫": "temperature inversion"
+    },
+    {
+        "溫度靈敏度": "temperature sensitivity"
+    },
+    {
+        "平均有效輸入雜訊溫度": "temperature， average effecive imput-noise"
+    },
+    {
+        "亮度溫度": "temperature， bringtness"
+    },
+    {
+        "宇宙背景射頻雜訊溫度": "temperature， cosmic background of noise"
+    },
+    {
+        "衡穩溫度": "temperature， equilibrium"
+    },
+    {
+        "等效雜訊溫度": "temperature， equivialent noise"
+    },
+    {
+        "時間包絡面": "temporal envelope"
+    },
+    {
+        "時間細密結構": "temporal fine structure"
+    },
+    {
+        "時域可調能力": "temporal scalability"
+    },
+    {
+        "星河雜訊溫度": "tempreature， galactic noise"
+    },
+    {
+        "張量格林函數": "tensor Green's function"
+    },
+    {
+        "大地雜波": "terestrial clutter"
+    },
+    {
+        "地面微波鏈路": "terestrial microwave link"
+    },
+    {
+        "三價化合物": "termary compound"
+    },
+    {
+        "三價半導體化合物": "termary semiconductor alloy"
+    },
+    {
+        "終端機處理能力": "termcap"
+    },
+    {
+        "終端進接控制器，終端接續控制器": "Terminal Access Controller (TAC)"
+    },
+    {
+        "終端機控制元件": "Terminal Control Element (TCE)"
+    },
+    {
+        "終端(機)控制單元": "Terminal Control Unit (TCU)"
+    },
+    {
+        "終端裝置": "terminal device"
+    },
+    {
+        "終端消耗線": "terminal dissipation line"
+    },
+    {
+        "終端": "terminal end"
+    },
+    {
+        "終端導引": "terminal guidance"
+    },
+    {
+        "終端導引系統": "terminal guidance system"
+    },
+    {
+        "終端介面處理器": "Terminal Interface Processor{=TIP}"
+    },
+    {
+        "終端局": "terminal office"
+    },
+    {
+        "終端機輪詢": "terminal polling"
+    },
+    {
+        "終端設備可攜性": "Terminal Portability"
+    },
+    {
+        "終端機": "terminal set"
+    },
+    {
+        "主要結點地面終端機": "terminal， majortiy nodal earth"
+    },
+    {
+        "終端機/埠導向的交換機": "terminal/port-oriented switch"
+    },
+    {
+        "終端負載": "terminate load"
+    },
+    {
+        "有(負)載線": "terminated line"
+    },
+    {
+        "終止傳輸線": "terminated transmission line"
+    },
+    {
+        "連接，端接，終端，終端接頭": "terminating"
+    },
+    {
+        "可調短路中端": "termination， adjustable short-circuit"
+    },
+    {
+        "可移動終端": "termination， movable"
+    },
+    {
+        "終端，終端設備，終端負載": "terminations"
+    },
+    {
+        "術語，專門名詞": "terminology"
+    },
+    {
+        "避免撞地(之功能或技巧)": "Terrain Avoidance (TA)"
+    },
+    {
+        "地形反向散射": "terrain backscatter"
+    },
+    {
+        "地形雜波": "terrain clutter"
+    },
+    {
+        "地形輪廓(等高線)繪圖": "terrain contour mapping"
+    },
+    {
+        "地形回波": "terrain echo"
+    },
+    {
+        "貼地飛行(之功能或技巧)": "Terrain Following (TF)"
+    },
+    {
+        "地面連接": "terrestral connection"
+    },
+    {
+        "地面數據(傳輸)線路": "terrestrial data line"
+    },
+    {
+        "陸地的干擾": "terrestrial interference"
+    },
+    {
+        "地球衛星": "terrestrial satellite"
+    },
+    {
+        "地面電台，地面站": "terrestrial station"
+    },
+    {
+        "t 錯誤更正碼": "t-error-correcting code"
+    },
+    {
+        "測試方法": "test methods"
+    },
+    {
+        "測試程式": "test procedure"
+    },
+    {
+        "歸零碼": "teturn-to-zero (RZ) code"
+    },
+    {
+        "電印": "TEX"
+    },
+    {
+        "電傳打字電報機交換業務": "TEX (automatic teleptinter exchange service)"
+    },
+    {
+        "電文，本文": "text"
+    },
+    {
+        "薄膜混合電路": "TFHC (Thin Film Hybrid Circuit)"
+    },
+    {
+        "轉頻器跳要式分時多重進接，轉頻器跳要式分時多重進出": "TH/TDMA (Transponder Hopping / Time Division Multiple Access)"
+    },
+    {
+        "日本國家太空發展局": "the national SpeceDevelopment Agency of Japan (NASDA)"
+    },
+    {
+        "開立-漢彌頓定理": "theorem， Cayley-Hamiltion"
+    },
+    {
+        "歐幾里德定理": "theorem， Euclid's"
+    },
+    {
+        "怕什法耳定理": "theorem， Parseval's"
+    },
+    {
+        "理論到達時間": "Theoretical Arrival time"
+    },
+    {
+        "電磁模態理論": "theory， electromagentic mode"
+    },
+    {
+        "熱漂白": "thermal bleaching"
+    },
+    {
+        "熱發射係數": "thermal emissivity"
+    },
+    {
+        "熱平衡": "thermal equilibrium"
+    },
+    {
+        "熱漲係數": "thermal expansion coefficient"
+    },
+    {
+        "絕熱": "thermal insulation"
+    },
+    {
+        "熱雜訊": "thermal noise"
+    },
+    {
+        "熱雜訊限制": "thermal noise limit"
+    },
+    {
+        "熱源亮度": "thermal source brightness"
+    },
+    {
+        "熱阻器，熱(變)電阻，隨溫度改變電阻值之電阻": "thermistor"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "稀路由": "thin route"
+    },
+    {
+        "第三代系統": "third generation system"
+    },
+    {
+        "三階互調變": "third order intermodulation"
+    },
+    {
+        "(法)湯姆遜-通用無線電報公司": "THOMOSON-CFS (Thomson-Compagnie Gererale de Telegrphie San Fil)"
+    },
+    {
+        "湯姆遜定理": "Thomson's theorem"
+    },
+    {
+        "三天線式天線極化量測法": "three-antenna (polarization) method antenna measurement"
+    },
+    {
+        "三天縣市天線增益量測法": "three-antenna method antenna measurement"
+    },
+    {
+        "三軸穩定": "three-axis stabilization"
+    },
+    {
+        "三維全像術": "three-dimensional holography"
+    },
+    {
+        "三階量化": "three-level quantization"
+    },
+    {
+        "三方通信服務": "Three-Party Service"
+    },
+    {
+        "三埠接頭": "three-port junction"
+    },
+    {
+        "三向交握": "three-way handshake"
+    },
+    {
+        "三線傳輸線": "three-write transmission line"
+    },
+    {
+        "門檻檢波器": "threshod detector"
+    },
+    {
+        "門檻，臨界(值)": "threshold"
+    },
+    {
+        "門檻值計算分割(區域)": "threshold calculation partition"
+    },
+    {
+        "門檻編碼": "threshold coding"
+    },
+    {
+        "臨界電流密度": "threshold current density"
+    },
+    {
+        "門檻解碼器": "threshold decoder"
+    },
+    {
+        "門檻解碼": "threshold decoding"
+    },
+    {
+        "門檻偵測法": "threshold detection"
+    },
+    {
+        "臨界頻率": "threshold frequency"
+    },
+    {
+        "門檻產生器，臨界產生器": "threshold generator"
+    },
+    {
+        "靜音臨界": "threshold in quiet"
+    },
+    {
+        "門檻位準": "threshold level"
+    },
+    {
+        "門檻取樣，臨界取樣": "threshold sampling"
+    },
+    {
+        "(資料)產出量，流通量(單位時間內)": "throughput"
+    },
+    {
+        "鈦擴散": "ti diffusion"
+    },
+    {
+        "緊緩衝裝填纜線": "tight buffer cable"
+    },
+    {
+        "緊緮波": "tightly bond wave"
+    },
+    {
+        "傾斜面連接器": "tilited face connector"
+    },
+    {
+        "話音插控技術": "Time Assignment Speech Interpolation (TASI)"
+    },
+    {
+        "時間壓縮多工法，壓時多工法": "time compression multiplexing"
+    },
+    {
+        "時間常數": "time constant"
+    },
+    {
+        "最小均方法時間常數": "time constants， LMS"
+    },
+    {
+        "延時電路": "time delay circuit"
+    },
+    {
+        "延時差": "time delay differential"
+    },
+    {
+        "時間延遲失真，延時失真": "time delay distortion"
+    },
+    {
+        "時間分集(在不同時間重複傳送)": "time diversity"
+    },
+    {
+        "方時多工，時域多工": "Time Division Multiplexing{=TDM}"
+    },
+    {
+        "分時多工集中式時脈": "time division multiplexing， centralized colock of"
+    },
+    {
+        "分時多工碼框": "time division multiplexing， frame of"
+    },
+    {
+        "分時多工接收機同步": "time division multiplexing， receiver synchronization of"
+    },
+    {
+        "同步分時多工": "time division multiplexing， synchronous"
+    },
+    {
+        "分時多工時槽交換": "time division multiplexing， time-slot interchanger of"
+    },
+    {
+        "分時交換機": "time division switch"
+    },
+    {
+        "分時交換系統，分時交換制": "time division switching system"
+    },
+    {
+        "時域": "time domain"
+    },
+    {
+        "多模態頻寬下降點時域量測": "time domain measurements for multimode bandwidth fall-off point"
+    },
+    {
+        "多模態頻寬轉移函數時域量測": "time domain measurements for multimode bandwidth transfer function"
+    },
+    {
+        "時域多重進接": "Time Domain Multiple Access (TDMA)"
+    },
+    {
+        "時域反射儀": "time domain reflectometer (TDR)"
+    },
+    {
+        "時域反射量測法": "time domain reflectometry"
+    },
+    {
+        "時域交換矩陣": "time domain switch matrix"
+    },
+    {
+        "固定型分時多工": "time fivision multiplexing， deterministic"
+    },
+    {
+        "非時變通道": "time invariant channel"
+    },
+    {
+        "時槽": "time slot"
+    },
+    {
+        "時間視窗": "time window"
+    },
+    {
+        "存取時間，數據選擇時間，信息發送時間": "time， access"
+    },
+    {
+        "獲取時間": "time， acquistion"
+    },
+    {
+        "時間-頻寬乘積": "time-bandwidth product"
+    },
+    {
+        "時基，掃描(基線)": "time-base"
+    },
+    {
+        "掃描基線產生器，時基產生器": "time-base generator"
+    },
+    {
+        "分時數位式交換": "time-division digital switching"
+    },
+    {
+        "分時交換": "time-division swithcing"
+    },
+    {
+        "時域編碼": "time-domain coding"
+    },
+    {
+        "時-頻調變": "time-frequency modulation"
+    },
+    {
+        "時域諧波傳輸線方程式": "time-harmoic transmission line equation"
+    },
+    {
+        "時域諧波": "time-harmonic"
+    },
+    {
+        "非時變系統": "time-invariant system"
+    },
+    {
+        "時間多工交換機": "Time-Multiplexed Switching (TMS)"
+    },
+    {
+        "目標(照射或觀察)暫留時間": "time-on-target"
+    },
+    {
+        "時限;逾時": "timeout"
+    },
+    {
+        "分時公用系統": "time-sharing system"
+    },
+    {
+        "時槽交換": "Time-Slot Interchange (TSI)"
+    },
+    {
+        "時槽交換器": "time-slot interchanger"
+    },
+    {
+        "時間戳記": "time-stamp"
+    },
+    {
+        "失效(以前)時間": "time-to-failure"
+    },
+    {
+        "時序產生器，定時訊號產生器": "timin generator"
+    },
+    {
+        "限序，定時，計時": "timing"
+    },
+    {
+        "時序產生電路，時限電路(自動電話交換機的)": "timing circuti"
+    },
+    {
+        "時序誤差": "timing error"
+    },
+    {
+        "時序粹取": "timing extraction"
+    },
+    {
+        "時序間隔": "timing interval"
+    },
+    {
+        "時序顫動": "timing jitter"
+    },
+    {
+        "時脈產生器": "timing pulse generator"
+    },
+    {
+        "時序回復電路": "timing recovery circuit"
+    },
+    {
+        "(美國)電視紅外線觀察衛星(又稱泰羅斯氣象偵察衛星)": "TIROS (Television and Infared Observation Satellite)"
+    },
+    {
+        "X.3，X.28，X.29之合稱": "tirple X"
+    },
+    {
+        "太陽神號發射器": "Titan launch vehicle"
+    },
+    {
+        "二氧化鈦": "titanium dioxide (TiO2)"
+    },
+    {
+        "傳輸線": "TL (Transmission Line)"
+    },
+    {
+        "純音調變": "TM (tone modulation)"
+    },
+    {
+        "橫向磁場模態": "TM mode"
+    },
+    {
+        "橫向磁波": "TM wave"
+    },
+    {
+        "電信管理網路": "TMN (Telecommunication Management Network)"
+    },
+    {
+        "匯接長途電話中心局": "TO (tanderm outlet)"
+    },
+    {
+        "抵達時間": "TOA (time of arrival)"
+    },
+    {
+        "扥波力茲矩陣": "Toeplitz matrix"
+    },
+    {
+        "訊標;許可證": "token"
+    },
+    {
+        "訊標匯流排": "token bus"
+    },
+    {
+        "訊標匯流排協定": "token bus protocol"
+    },
+    {
+        "訊標持有時間": "token hold time"
+    },
+    {
+        "訊標環": "token ring"
+    },
+    {
+        "訊標環網路": "token ring network"
+    },
+    {
+        "訊標迴轉時間": "token rotation time"
+    },
+    {
+        "訊標迴轉計時器": "token Rotation Timer (TRT)"
+    },
+    {
+        "公差，容限，容許偏差，容許差度": "tolerance"
+    },
+    {
+        "規定容限，可接受容限": "tolerance， accepted"
+    },
+    {
+        "長途電話": "toll"
+    },
+    {
+        "長途電話": "toll call"
+    },
+    {
+        "長途通訊": "toll communication"
+    },
+    {
+        "(美)長途總機，(英)市郊電話局": "toll exchange"
+    },
+    {
+        "長途來話中繼器，長途來話中繼電路": "toll incoming trunk circuit"
+    },
+    {
+        "長途線中繼電路": "toll line trunk circuit"
+    },
+    {
+        "長途電話計費系統": "toll message accounting system"
+    },
+    {
+        "長途網路應用": "toll network application"
+    },
+    {
+        "長途局": "toll office"
+    },
+    {
+        "長途去話中繼器，長途去話中繼電路": "toll outgoing trunk circuit"
+    },
+    {
+        "長途轉接，長途交換": "toll switching"
+    },
+    {
+        "長途話務": "toll traffic"
+    },
+    {
+        "長途中繼線": "toll trunk"
+    },
+    {
+        "音調的，色調的，音頻頻段的": "tonal"
+    },
+    {
+        "音調分量": "tonal component"
+    },
+    {
+        "音調，色調": "tonality"
+    },
+    {
+        "音調指標": "tonality index"
+    },
+    {
+        "音，單音，純音，色調": "tone"
+    },
+    {
+        "聲頻，音頻，純音頻率": "tone frequency"
+    },
+    {
+        "音頻產生器，純音產生器": "tone generator"
+    },
+    {
+        "單音調變": "tone modulation"
+    },
+    {
+        "單音振鈴器，音調振鈴": "tone ringer"
+    },
+    {
+        "單音訊號，蜂鳴訊號": "tone signal"
+    },
+    {
+        "上圖場": "top field"
+    },
+    {
+        "頂帽型校準反射器": "top hat calibration reflector"
+    },
+    {
+        "頂端負載之單極天線": "top-loaded monopole"
+    },
+    {
+        "拓撲;(網路的)形狀結構": "topology"
+    },
+    {
+        "匯流排/樹狀拓撲": "topology， bus/tree"
+    },
+    {
+        "環狀拓撲": "topology， ring"
+    },
+    {
+        "環形波束": "toroidal beam"
+    },
+    {
+        "長途去話交換機": "TOS (Toll Outgoing Switch)"
+    },
+    {
+        "總諧波比": "total harmonic ratio"
+    },
+    {
+        "全反射臨界角": "total intermal reflection critical angle"
+    },
+    {
+        "總平均功率": "total mean power"
+    },
+    {
+        "雜訊功率": "total noise power"
+    },
+    {
+        "全功率輻射儀": "total power radiometer"
+    },
+    {
+        "全反射": "total reflection"
+    },
+    {
+        "按鍵音撥號盤": "touch-tone dial"
+    },
+    {
+        "按鍵音脈波制": "touch-tone pulsing"
+    },
+    {
+        "按鍵式電話機": "touch-tone telephone"
+    },
+    {
+        "塔式天線": "tower radiator"
+    },
+    {
+        "塔式天線，鐵塔天線": "tower-type antanna"
+    },
+    {
+        "毒氣": "toxic gas"
+    },
+    {
+        "毒性": "toxicity"
+    },
+    {
+        "信息傳送部分": "TP (Message Transfer Part)"
+    },
+    {
+        "電信規劃委員會": "TPC (Telecommunications Planning Committee)"
+    },
+    {
+        "傳輸路徑終端": "TPT (Transmission Path Termination)"
+    },
+    {
+        "發射機，送話筒，話筒": "TR (transmitter)"
+    },
+    {
+        "收發兩用機": "TR (Transmitter-Receiver)"
+    },
+    {
+        "收發管": "TR tube"
+    },
+    {
+        "單脈波追蹤雷達": "tracker， monopulse"
+    },
+    {
+        "追蹤與資料中繼衛星（美國-供地面與低軌道飛行物間通訊用的衛星）": "Tracking & Data Relay Satellite (TDRS)"
+    },
+    {
+        "跟蹤天線": "tracking antenna"
+    },
+    {
+        "追蹤濾波器": "tracking filter"
+    },
+    {
+        "追蹤站": "tracking station"
+    },
+    {
+        "獲取追蹤子系統": "tracking subsystem， acquistion"
+    },
+    {
+        "半自動追蹤制，輔助追蹤制": "tracking system， aided"
+    },
+    {
+        "半自動追蹤": "tracking， aided"
+    },
+    {
+        "半自動距離追蹤": "tracking， aided range"
+    },
+    {
+        "多目標追蹤": "Tracking， Mutiple Target (MTT)"
+    },
+    {
+        "速度(都卜勒)追蹤": "tracking， velocity (Doppler)"
+    },
+    {
+        "掃描兼追蹤雷達": "Track-Whike-Scan (TWS) radar"
+    },
+    {
+        "斟酌，妥協": "trade-off"
+    },
+    {
+        "訊務(量)，話務(量)，報務(量)，業務(量)": "traffic"
+    },
+    {
+        "訊務容量，報務容量，話務容量，(傳輸的)通話能力": "traffic capacity"
+    },
+    {
+        "訊(話、報、業)務量控制": "traffic control"
+    },
+    {
+        "訊(話、報、業)務量控制中心": "traffic control center"
+    },
+    {
+        "訊務描述符元": "Traffic Descriptor"
+    },
+    {
+        "訊(話、報、業)務強度": "traffic intensity"
+    },
+    {
+        "訊(話、報、業)務負載": "traffic load"
+    },
+    {
+        "溢出訊(話)務，過量報務，溢呼業務量": "traffic， overflow"
+    },
+    {
+        "流星尾跡通訊": "trail communication"
+    },
+    {
+        "(資料段之)尾部": "trailer"
+    },
+    {
+        "向量量化訓練": "training in VQ"
+    },
+    {
+        "交易": "transaction"
+    },
+    {
+        "橫越大西洋電話線路": "trans-Atlantic telephone circuits"
+    },
+    {
+        "傳送-接收機(收發機)": "transceiver"
+    },
+    {
+        "轉換碼": "transcode"
+    },
+    {
+        "轉換編碼器": "transcoder"
+    },
+    {
+        "轉換器，換能器，變換器，傳感器": "transducer"
+    },
+    {
+        "轉換器增益": "transducer gain"
+    },
+    {
+        "轉換器損耗": "transducer loss"
+    },
+    {
+        "轉移，傳輸，傳遞": "transfer"
+    },
+    {
+        "轉移函數，傳輸函數，傳遞函數": "transfer function"
+    },
+    {
+        "賀門轉移": "transfer Hohmann"
+    },
+    {
+        "(從發射軌道到同步軌道間的)轉移軌道": "transfer orbit"
+    },
+    {
+        "傳送所使用之語法": "transfer systax"
+    },
+    {
+        "移轉電子元件": "transferred electron device"
+    },
+    {
+        "轉換編碼": "transform coding"
+    },
+    {
+        "轉換編碼增益": "transform coding gain"
+    },
+    {
+        "離散傅立葉轉換": "transform， discrete Fourier"
+    },
+    {
+        "快速哈得曼轉換": "transform， fast Hadamard"
+    },
+    {
+        "哈得曼轉換": "transform， Hadmaard"
+    },
+    {
+        "希爾伯特轉換": "transform， hibert"
+    },
+    {
+        "拉普拉斯轉換": "transform， Laplace"
+    },
+    {
+        "瑪克威廉轉換": "transform， MacWilliams"
+    },
+    {
+        "轉換，變換": "transformation"
+    },
+    {
+        "轉換器，換能器，變換器": "transformer"
+    },
+    {
+        "(阻抗)轉換器貝楞": "transformer balun"
+    },
+    {
+        "音頻變壓器": "transformer， audio-frequcny"
+    },
+    {
+        "契比雪夫(阻抗)轉換電路": "transformer， Chebyshev"
+    },
+    {
+        "亞鐵鹽心(阻抗)轉換電路": "transformer， ferrite core"
+    },
+    {
+        "多段式(阻抗)轉換電路": "transformer， multiple sections"
+    },
+    {
+        "極化轉換器": "transformer， polarization"
+    },
+    {
+        "四分之一波長(阻抗)轉換電路": "transformer， quarter-wave"
+    },
+    {
+        "單段式(阻抗)轉換電路": "transformer， single section"
+    },
+    {
+        "暫態長度": "transient length"
+    },
+    {
+        "暫態模態": "transient mode"
+    },
+    {
+        "暫態功率": "transient power"
+    },
+    {
+        "暫態，瞬態": "transients"
+    },
+    {
+        "轉換阻抗放大器": "transimpedance amplifier"
+    },
+    {
+        "轉換阻抗接收機前級": "transimpedance receiver fromt end"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "砷化鎵/砷化鋁鎵異質接面雙極電晶體": "transistor， GaAs/GaAlAs heterojunction bipolar"
+    },
+    {
+        "飛越角": "transit angle"
+    },
+    {
+        "過境延遲": "transit delay"
+    },
+    {
+        "轉送網路選擇": "Transit Network Selection"
+    },
+    {
+        "過渡時間": "transit time"
+    },
+    {
+        "過渡時間效應": "transit time effect"
+    },
+    {
+        "變遷，渡過，轉變": "transition"
+    },
+    {
+        "過渡金屬": "transition metal"
+    },
+    {
+        "變遷機率，轉態機率": "transition probability"
+    },
+    {
+        "變遷速率": "transition rate"
+    },
+    {
+        "座標平移": "translation of coordinates"
+    },
+    {
+        "傳輸率": "transmisivity"
+    },
+    {
+        "傳輸，發射": "transmission"
+    },
+    {
+        "傳輸面積，穿透面積": "transmission area"
+    },
+    {
+        "傳輸通道": "transmission channel"
+    },
+    {
+        "傳輸系統，穿透係數": "transmission coefficient"
+    },
+    {
+        "傳輸控制": "transmission control"
+    },
+    {
+        "傳輸控制協定": "Transmission Control Protocol (TCP)"
+    },
+    {
+        "波散限制之傳輸距離": "transmission distance， despersion-limited"
+    },
+    {
+        "損失限制之傳輸距離": "transmission distance， loss-limited"
+    },
+    {
+        "輔助傳輸設備": "transmission equipment， ancillary"
+    },
+    {
+        "傳輸錯誤": "transmission errors"
+    },
+    {
+        "傳輸因子": "transmission factor"
+    },
+    {
+        "傳輸損害": "transmission impairment"
+    },
+    {
+        "傳輸線": "transmission line"
+    },
+    {
+        "傳輸線方程式": "transmission line equation"
+    },
+    {
+        "傳輸線濾波器": "transmission line filter"
+    },
+    {
+        "傳輸線分析法": "transmission line method"
+    },
+    {
+        "楔形傳輸線": "transmission line wedge"
+    },
+    {
+        "雙錐傳輸線": "transmission line， biconical"
+    },
+    {
+        "可彎曲同軸傳輸線": "transmission line， coaxial fiexible"
+    },
+    {
+        "半彎曲性同軸傳輸線": "transmission line， coaxial semiflexible"
+    },
+    {
+        "固定導體(不可彎曲之)同軸傳輸線": "transmission line， coaxial solid conductor"
+    },
+    {
+        "等效傳輸線": "transmission line， equivalent"
+    },
+    {
+        "微波傳輸線": "transmission line， microwave"
+    },
+    {
+        "毫米波傳輸線": "transmission line， millimeter-wave"
+    },
+    {
+        "裸線傳輸線": "transmission line， open-wire"
+    },
+    {
+        "平行板傳輸線": "transmission line， parallel-plate"
+    },
+    {
+        "輻射狀傳輸線": "transmission line， radial"
+    },
+    {
+        "條片傳輸線": "transmission line， strip"
+    },
+    {
+        "雙槽傳輸線": "transmission line， twin-slot"
+    },
+    {
+        "傳輸矩陣": "transmission matrices"
+    },
+    {
+        "傳輸介質，傳輸媒介": "transmission media"
+    },
+    {
+        "傳輸媒介": "transmission medium"
+    },
+    {
+        "傳輸介質需求": "Transmission Medium Requirements"
+    },
+    {
+        "傳輸模式": "transmission mode"
+    },
+    {
+        "傳輸路徑損耗": "transmission path loss"
+    },
+    {
+        "傳輸路徑終端": "Transmission Path Termination"
+    },
+    {
+        "傳送樣式": "transmission pattern"
+    },
+    {
+        "傳送速率，傳輸率": "transmission rate"
+    },
+    {
+        "發射系統，傳輸系統": "transmission system"
+    },
+    {
+        "雙性傳輸": "transmission， bidrectional"
+    },
+    {
+        "字元導向式傳輸": "transmission， character-oriented"
+    },
+    {
+        "數據傳輸": "transmission， data"
+    },
+    {
+        "直流輸電，直流分量傳送(電視)": "transmission， directcurrent"
+    },
+    {
+        "黑白電視傳輸": "transmission， monchrome"
+    },
+    {
+        "無線電波傾斜傳播": "transmission， oblique radio"
+    },
+    {
+        "遠洋傳遞，越洋傳輸": "transmission， oversa"
+    },
+    {
+        "病行傳輸": "transmission， parallel"
+    },
+    {
+        "點對點傳輸": "transmission， point-to-point"
+    },
+    {
+        "三元傳輸": "transmission， ternary"
+    },
+    {
+        "傳輸線不連續": "transmission-line discontinuities"
+    },
+    {
+        "傳輸線方程式": "transmission-line equation"
+    },
+    {
+        "收發轉換開關": "transmit-teceive (T/R， TR) switch"
+    },
+    {
+        "發射機": "transmitter"
+    },
+    {
+        "發射器回饋控制": "transmitter feedback control"
+    },
+    {
+        "發射機雜訊": "transmitter noise"
+    },
+    {
+        "飛機用無線電發射機": "transmitter， aircraft radio"
+    },
+    {
+        "角度數據發射機": "transmitter， angle-data"
+    },
+    {
+        "發射器鑑別比": "transmitter， extinction ratio"
+    },
+    {
+        "發光二極體發射器": "transmitter， LED"
+    },
+    {
+        "主振盪器配功率放大器方式之發射機": "transmitter， master oscillator-power amplifier"
+    },
+    {
+        "微波發射機": "transmitter， microwave"
+    },
+    {
+        "多頻發射機": "transmitter， multifrequency"
+    },
+    {
+        "無定向性發射機": "transmitter， non-directional"
+    },
+    {
+        "發射器光電積體化": "transmitter， optoelectronic integration for"
+    },
+    {
+        "機載發射設備": "transmitting equipment， airborne"
+    },
+    {
+        "多工轉換，PCM-24對FDM-60之轉換": "transmultiplexing"
+    },
+    {
+        "橫貫大陸之通訊": "Transocntinental communication"
+    },
+    {
+        "橫越太平洋電話線路": "trans-Pacific telephone circuits"
+    },
+    {
+        "通透性，透明性": "transparency"
+    },
+    {
+        "轉發器，轉頻器，訊答機": "transponder"
+    },
+    {
+        "解調-重調轉發器": "transponder， demodulation-remodulation"
+    },
+    {
+        "傳輸層": "transport layer"
+    },
+    {
+        "傳輸點": "transport netity"
+    },
+    {
+        "傳輸協定": "Transport Protocol (TP)"
+    },
+    {
+        "傳輸服務進接點": "Transport Service Access point{=TSAP}"
+    },
+    {
+        "傳輸服務資料單元": "Transport Srevice Data Unit (TSUD)"
+    },
+    {
+        "傳輸流封包標頭": "transport stream packet header"
+    },
+    {
+        "可運輸的地面站": "transportable earth station"
+    },
+    {
+        "轉位保密法": "transposition cipher"
+    },
+    {
+        "橫向反射器": "transreflector"
+    },
+    {
+        "橫亙等化器": "transversal equalizer"
+    },
+    {
+        "橫亙濾波器": "transversal filter"
+    },
+    {
+        "橫向的": "transverse"
+    },
+    {
+        "橫向電場模態": "Transverse Electrivc (TE) mode"
+    },
+    {
+        "橫向電磁模態": "transverse electromagnetic mode"
+    },
+    {
+        "橫向場": "transverse field"
+    },
+    {
+        "橫向場向量": "transverse field vector"
+    },
+    {
+        "橫向干涉(技術)": "transverse interferometry"
+    },
+    {
+        "橫向接面槽雷射": "Transverse Junction Stripe (TJS) laser"
+    },
+    {
+        "橫向接面條文槽發射器": "transverse junction stripe transmitter"
+    },
+    {
+        "橫向磁場模態": "Transverse Magnetic (TM) mode"
+    },
+    {
+        "橫向共振": "transverse resonance"
+    },
+    {
+        "橫向共振法": "transverse resonance method"
+    },
+    {
+        "橫向波導上牆開槽": "transverse top-wall slot"
+    },
+    {
+        "TRAPATT 二極體": "TRAPATT diode"
+    },
+    {
+        "梯形齒狀對數調期天線": "trapezoidal tooth log-periodic antenna"
+    },
+    {
+        "行進波": "traveling wave"
+    },
+    {
+        "貝弗瑞奇行波天線": "traveling wave antenna， Beverage"
+    },
+    {
+        "雙導向行波天線": "traveling wave antenna， bidrectional"
+    },
+    {
+        "快波行波天線": "traveling wave antenna， fast wave"
+    },
+    {
+        "漏波行波天線": "traveling wave antenna， leaky-wave"
+    },
+    {
+        "對數週期行波天線": "traveling wave antenna， log-periodic"
+    },
+    {
+        "長線行波天線": "long wire traveling wave antenna"
+    },
+    {
+        "非共振行波天線": "traveling wave antenna， nonresonant"
+    },
+    {
+        "菱形行波天線": "traveling wave antenna， rhombic"
+    },
+    {
+        "表面波行波天線": "traveling wave antenna， surface wave"
+    },
+    {
+        "單導向性行波天線": "traveling wave antenna， unidirectional"
+    },
+    {
+        "V 形行波天線": "traveling wave antenna， V"
+    },
+    {
+        "宇田-八夫行波天線": "traveling wave antenna， Yagi-Uda"
+    },
+    {
+        "共振行波天線": "traveling wave entenna， resonant"
+    },
+    {
+        "行波式雷射放大器": "Traveling Wave Laser Amplifier{=TWLA}"
+    },
+    {
+        "行波量測": "traveling wave measurement"
+    },
+    {
+        "天線行波比，天線行波係數": "traveling wave ratio， antenna"
+    },
+    {
+        "行波管": "Traveling Wave Tube{=TWT}"
+    },
+    {
+        "行波放大器": "traveling-wave amplifier"
+    },
+    {
+        "行波調變器": "traveling-wave modulator"
+    },
+    {
+        "行波諧振器": "traveling-wave resonator"
+    },
+    {
+        "行波管放大器": "Traveling-Wave Tube Amplifier{=TWTA}"
+    },
+    {
+        "樹狀雜波": "tree clutter"
+    },
+    {
+        "樹狀碼": "tree code"
+    },
+    {
+        "樹狀編碼": "tree coding"
+    },
+    {
+        "樹狀網路": "tree network"
+    },
+    {
+        "樹狀圖，籬笆圖": "trellis diagram"
+    },
+    {
+        "籬笆碼調變": "Trellis-Coded Modulation{=TCM}"
+    },
+    {
+        "射頻調諧": "TRF (Tuned Radio-Frequency)"
+    },
+    {
+        "測試場": "trial field"
+    },
+    {
+        "巴斯可三角形": "triangle， Pascal's"
+    },
+    {
+        "三角形孔徑分佈": "triangular aperture distribution"
+    },
+    {
+        "三角形分佈": "triangular distribution"
+    },
+    {
+        "三角形迴路(天線)": "triangular loop"
+    },
+    {
+        "三角折射率分佈光纖": "triangular profile fiber"
+    },
+    {
+        "三角薄片形雙極(天線)": "triangular sheet dipoles"
+    },
+    {
+        "三角形齒狀對數週期天線": "triangular tooth log-periodic antenna"
+    },
+    {
+        "三角形三面反射器": "triangular trihedral refelctor"
+    },
+    {
+        "三角波形": "triangular waveform"
+    },
+    {
+        "三面平板校準反射器": "trihedral cailbration reflector"
+    },
+    {
+        "平衡衰減器": "trim attenuator"
+    },
+    {
+        "三極管": "triode"
+    },
+    {
+        "三球連接器": "triple ball connector"
+    },
+    {
+        "三個錯誤更正碼": "triple-error-correcting code"
+    },
+    {
+        "三位元組": "triplet"
+    },
+    {
+        "可調頻率延伸空腔雷射": "trnable extended cavity laser"
+    },
+    {
+        "穿隧二極體": "trnnel diode"
+    },
+    {
+        "量子穿隧": "trnneling， quantum"
+    },
+    {
+        "橫向電磁波": "Trnsverse ElectroMagnetic (TEM) wave"
+    },
+    {
+        "對流層雜訊溫度": "trooposhere noisetemperature"
+    },
+    {
+        "對流層": "TROPO (tropospheric)"
+    },
+    {
+        "對流層散射": "TROPOSCATTER (troposphere scatter)"
+    },
+    {
+        "漏波式水槽型波導天線": "trough-guide antenna， leaky"
+    },
+    {
+        "截斷式解碼器": "truncated decoder"
+    },
+    {
+        "中繼線，幹線": "trunk"
+    },
+    {
+        "幹線纜線": "trunk cable"
+    },
+    {
+        "幹線網路": "trunk network"
+    },
+    {
+        "幹線話務": "trunk traffic"
+    },
+    {
+        "幹線傳輸系統": "trunk transmission system"
+    },
+    {
+        "交換局幹線": "trunk， central office"
+    },
+    {
+        "迂迴中繼法": "trunking， altermative"
+    },
+    {
+        "時槽": "TS (Time Slot)"
+    },
+    {
+        "長途交會機": "TS (Toll Swithc)"
+    },
+    {
+        "雙邊帶": "TSB (Twin SideBand)"
+    },
+    {
+        "雙副載波": "TSC (Twin SubCarrier)"
+    },
+    {
+        "契比雪夫多項式": "Tschebyscheff (Chebyschev) polynomials"
+    },
+    {
+        "時移鍵控": "TSK (Time Shift Keying)"
+    },
+    {
+        "時分系統，分時共用系統": "TSS (Time-Sharing System)"
+    },
+    {
+        "追蹤，遙測和指令站": "TT&C (Tracking Telemetry and Command station)"
+    },
+    {
+        "遙測追蹤指令和監聽站": "TTC&M (Telemetry Tracking Command Monitor station)"
+    },
+    {
+        "截擊時間，攔截時間": "TTI (Time to Intercept)"
+    },
+    {
+        "電傳打字機": "TTY (teletypewriter)"
+    },
+    {
+        "調諧器，選台器": "tuner"
+    },
+    {
+        "自動頻率調諧器": "tuner automaticfrequency"
+    },
+    {
+        "自動天線調諧器": "tuner， automatic antnna"
+    },
+    {
+        "雙柱調諧器": "tuner， double-slug"
+    },
+    {
+        "滑動螺釘調諧器": "tuner， slide-screw"
+    },
+    {
+        "鎢碳": "tungsten carbide"
+    },
+    {
+        "多極調諧": "tuning， multistage"
+    },
+    {
+        "透納二極體放大器": "Tunnel Diode Amplifier (TDA)"
+    },
+    {
+        "穿隧電流": "tunneling current"
+    },
+    {
+        "穿隧效應": "tunneling effect"
+    },
+    {
+        "渦輪雷達回波之調變現象": "turbine modulation"
+    },
+    {
+        "繞桿式雙極天線": "turnstile dipole antenna"
+    },
+    {
+        "繞桿式接頭": "turnstile junction"
+    },
+    {
+        "電視及調頻(廣播)發射天線": "TV and FM transmitting antennas"
+    },
+    {
+        "電視頻道分配": "TV frequency allocation"
+    },
+    {
+        "電視接收系統雜訊": "TV receiver-system noise"
+    },
+    {
+        "電視接收天線": "TV receiving antenna"
+    },
+    {
+        "電視接收系統雜訊": "TV receiving system"
+    },
+    {
+        "電視信號強度": "TV signal strength"
+    },
+    {
+        "電視遊樂": "TV-Game"
+    },
+    {
+        "終端特高頻全向無線電信標": "TVOR (Terminal V.O.R.)"
+    },
+    {
+        "電視轉發器": "TVT (TeleVision translater)"
+    },
+    {
+        "總帶寬，總頻寬": "TWB (total bandwidth)"
+    },
+    {
+        "雙線": "twin pair"
+    },
+    {
+        "雙兩線式傳輸線": "twin-lead"
+    },
+    {
+        "雙槽(傳輸)線": "twin-slot line"
+    },
+    {
+        "扭轉極化反射器": "twist reflector"
+    },
+    {
+        "扭轉極化反射器天線": "twist reflector antenna"
+    },
+    {
+        "波導扭轉接頭": "twist， waveguide"
+    },
+    {
+        "雙絞線;絞對線": "twisted pair"
+    },
+    {
+        "雙天線式天線增益量測法": "two-antenna (gain) method antenna measurement"
+    },
+    {
+        "雙腔調速管之阿普里格": "two-cavity klystron， Applegate diagram of"
+    },
+    {
+        "二維碼": "two-dimensional code"
+    },
+    {
+        "二維離散餘弦轉換": "two-dimensional DCT"
+    },
+    {
+        "二維離散傅立葉轉換": "two-dimensional DFT"
+    },
+    {
+        "二維偶極": "two-dimensional dipole"
+    },
+    {
+        "二維線性系統": "two-dimensional linear system"
+    },
+    {
+        "二維預測": "two-dimensional prediction"
+    },
+    {
+        "二維轉換": "two-dimensional transform"
+    },
+    {
+        "二元陣列(天線)": "two-element array"
+    },
+    {
+        "二灰階影像": "two-level image"
+    },
+    {
+        "雙相委託": "two-phase commit"
+    },
+    {
+        "雙埠網路": "two-port network"
+    },
+    {
+        "二補數運算系統": "two's complement arithetic system"
+    },
+    {
+        "二補數碼": "two's complement code"
+    },
+    {
+        "雙向交替鏈結": "two-way alternate link"
+    },
+    {
+        "雙向交握": "two-way handshake"
+    },
+    {
+        "雙向同時鏈結": "two-way simultaneous link"
+    },
+    {
+        "雙權重碼": "two-weight code"
+    },
+    {
+        "雙線電話網路": "two-wire telephone network"
+    },
+    {
+        "掃描兼追蹤(雷達)": "TWS (Track-While-Scan)"
+    },
+    {
+        "電傳打字機交換業務": "TWX (teletypewriter exchange service)"
+    },
+    {
+        "發射機，送話筒，話筒": "TX (transmitter)"
+    },
+    {
+        "發射機，送話筒，話筒": "TXT (transmitter)"
+    },
+    {
+        "型態": "Type"
+    },
+    {
+        "號碼型式": "Type of Number"
+    },
+    {
+        "訊務型態": "type of traffic"
+    },
+    {
+        "N型連接器，N型接頭": "type-N connectors"
+    },
+    {
+        "國際無線電聯盟(法文)": "U.I.R (Union Interationale de la Radiodiffusion)"
+    },
+    {
+        "美國國防部": "U.S. Department of Defense"
+    },
+    {
+        "增頻變頻器，上變頻器": "U/C (Up/Converter)"
+    },
+    {
+        "用戶/網路": "U/N (User/Network)"
+    },
+    {
+        "通用非同步接收發送器": "UART"
+    },
+    {
+        "UNITDATA已接收": "UDR (UNITDATA Received)"
+    },
+    {
+        "超高頻通訊天線": "UHF communication antenna"
+    },
+    {
+        "超高頻測向": "UHF/DF (Ultra-High-Frequency Direction Finding)"
+    },
+    {
+        "超高頻濾波器": "UHFF (Ultra-High-Frequency Filter)"
+    },
+    {
+        "超高頻信號產生器": "UHFG (Ultra-High-Frequcny Generator)"
+    },
+    {
+        "超高頻振盪器": "UHFO (Ultra-High-Frequency Oscillator)"
+    },
+    {
+        "超高頻接收機": "UHFR (Ultra-High-Frequency Receiver)"
+    },
+    {
+        "國際電信聯盟(法文)": "UIT (Union Internationale des Telecommunications)"
+    },
+    {
+        "超低頻": "Ultra-Low Frequency{=ULF}"
+    },
+    {
+        "超高頻": "Ultra High Frequency{=UHF}"
+    },
+    {
+        "超高頻": "ultrahigh frequency (UHF)"
+    },
+    {
+        "超低損失光纖": "ultra-low-loss fiber"
+    },
+    {
+        "紫外發光": "ultraviolet (uv) fluorescence"
+    },
+    {
+        "紫外線吸收": "ultraviolet absorption"
+    },
+    {
+        "紫外內質吸收": "ultraviolet， intrinsic absorption of"
+    },
+    {
+        "用戶箝制信號協定實體": "UMSPE (User Meta-signaling Protocol Entity)"
+    },
+    {
+        "超微波": "UMW (Ultra Micro Waves)"
+    },
+    {
+        "明確(肯定)的都卜勒量測質(或分佈狀況)": "unambiguous Doppler"
+    },
+    {
+        "明確(肯定)的距離量測質(或分佈狀況)": "unambiguous range"
+    },
+    {
+        "明確(肯定)的速度量測(或分佈狀況)": "unambiguous velocity"
+    },
+    {
+        "非保證式資料傳送": "Unassured Data Transfer"
+    },
+    {
+        "不平衡的，非平衡的": "UNBAL (unbalanced)"
+    },
+    {
+        "非平衡組態": "unbalanced configuration"
+    },
+    {
+        "不平衡傳輸線": "unbalanced line"
+    },
+    {
+        "非平衡混波器": "unbalanced mixer"
+    },
+    {
+        "不平衡模態": "unbalanced mode"
+    },
+    {
+        "非平衡正常回應模式": "Unbalanced Normal Response (UNR) mode"
+    },
+    {
+        "位確認之服務": "unconfirmed service"
+    },
+    {
+        "升頻器": "un-converter"
+    },
+    {
+        "振幅漸減之振盪": "underdamping"
+    },
+    {
+        "未滿": "underfill"
+    },
+    {
+        "地下設備": "underground plant"
+    },
+    {
+        "海底纜線": "undersea cable"
+    },
+    {
+        "海底纜線衰減": "undersea cable attenuation"
+    },
+    {
+        "海底纜線傳輸系統": "undersea cable transmission systems"
+    },
+    {
+        "低度擴散": "underspread"
+    },
+    {
+        "無法偵測之錯誤型式": "undetectable error patterns"
+    },
+    {
+        "未對焦之合成陣列(雷達)": "unfocused synthetic array"
+    },
+    {
+        "非導波模態": "unguided mode"
+    },
+    {
+        "非波導系統": "unguided system"
+    },
+    {
+        "非導波型傳輸介質": "unguided transmission media"
+    },
+    {
+        "用戶與網路介面": "UNI (User-Network Interface)"
+    },
+    {
+        "單方向性": "unidirectional"
+    },
+    {
+        "均勻孔徑分佈": "uniform aperture distribution"
+    },
+    {
+        "均勻分佈": "uniform distribution"
+    },
+    {
+        "均勻(單一)照射分佈": "uniform illumination"
+    },
+    {
+        "均勻線性陣列": "uniform linear array"
+    },
+    {
+        "均勻平面波": "uniform plane wave"
+    },
+    {
+        "均勻量化": "uniform quantization"
+    },
+    {
+        "均勻波": "uniform wave"
+    },
+    {
+        "聯集上界": "union bound"
+    },
+    {
+        "單極雙錐天線": "uniple biconical natenna"
+    },
+    {
+        "單極脈波調變": "unipolar modulation"
+    },
+    {
+        "單極性訊號": "unipolar signal"
+    },
+    {
+        "單極性視訊(影像)": "unipolar video"
+    },
+    {
+        "(CDMA用的)辨識碼": "unique code (CDMA)"
+    },
+    {
+        "唯一字": "unique word"
+    },
+    {
+        "唯一性，單一性": "uniqueness"
+    },
+    {
+        "唯一定理": "uniqueness theorem"
+    },
+    {
+        "單位": "unit"
+    },
+    {
+        "單位圓": "unit circle"
+    },
+    {
+        "陣列(天線)單位圓": "unit circle of array"
+    },
+    {
+        "單位延遲預估器": "unit delay predictor"
+    },
+    {
+        "單位元素": "unit element"
+    },
+    {
+        "認可訊號單元產生器": "unit generator， acknowledgement signal"
+    },
+    {
+        "單位脈衝函數": "unit impulse function"
+    },
+    {
+        "單位步階序列": "unit step sequence"
+    },
+    {
+        "自然常數": "universal constant"
+    },
+    {
+        "通用資料型態": "universal data type"
+    },
+    {
+        "(號角天線之)通用(天線)場型": "universal pattern"
+    },
+    {
+        "世界標準時間": "Universal Time (UT)"
+    },
+    {
+        "全球網路": "universe ntewtok"
+    },
+    {
+        "UNIX網路": "UNIX networking"
+    },
+    {
+        "上行鏈路(地對空鏈路)": "un-link (earth-to-space link)"
+    },
+    {
+        "多條上行鏈路": "unlinks， multiple"
+    },
+    {
+        "未副載時間": "unload time"
+    },
+    {
+        "無載品質因素": "unloaded Q"
+    },
+    {
+        "無人操作地面台": "unmanned earth station"
+    },
+    {
+        "未遮蔽效應": "unmasking effects"
+    },
+    {
+        "未編碼的碼框": "unnumbered frame"
+    },
+    {
+        "未編號資訊命令/回應": "Unnumbered Information (UI) command/response"
+    },
+    {
+        "未編號之輪詢命令": "Unnumbered Poll (UP) command"
+    },
+    {
+        "不可預測性": "unpredictability"
+    },
+    {
+        "非請求信息": "unsolicited message"
+    },
+    {
+        "無聲之語音(聲帶不振動所發出之音樂)": "unvoiced speech"
+    },
+    {
+        "升頻轉換": "up-conversion"
+    },
+    {
+        "國際郵政聯盟": "UPI (Union Postale Internationale)"
+    },
+    {
+        "上下界限": "upper and lower bounds"
+    },
+    {
+        "頻率上限": "upper frequency limit"
+    },
+    {
+        "上旁波帶，上邊帶": "upper sideband"
+    },
+    {
+        "不斷電系統": "UPS (Uninterruptable Power System)"
+    },
+    {
+        "用戶查證狀態": "UPS (User Proving State)"
+    },
+    {
+        "升取樣器": "upsampler"
+    },
+    {
+        "升取樣濾波器": "upsmapling filter"
+    },
+    {
+        "向上多工，高率多工": "upward multiplexing"
+    },
+    {
+        "國際無線電科學聯盟": "URSI (Union Radio-Scientifique Internationale)"
+    },
+    {
+        "美國空軍(衛星)(美軍事衛星)": "USAF(S) (United States Air Force (Satellite))"
+    },
+    {
+        "用法": "Usage"
+    },
+    {
+        "使用參數控制": "Usage Parameter Control{=UPC}"
+    },
+    {
+        "上邊帶": "USB (Upper SideBand)"
+    },
+    {
+        "用戶代理人(提供電子郵件系統介面之程式)": "user agent"
+    },
+    {
+        "用戶資料元協定": "User Datagram Protocol (UDP)"
+    },
+    {
+        "用戶元": "user element"
+    },
+    {
+        "用戶設備服務，特定項目的服務": "user facilities servie"
+    },
+    {
+        "用戶箝制信號協定實體": "User Meta-signaling Protocol Entity"
+    },
+    {
+        "用戶部": "User Part"
+    },
+    {
+        "用戶特定檔": "user profile"
+    },
+    {
+        "用戶服務資訊": "User Service Information"
+    },
+    {
+        "用戶電信服務資訊": "User Teleservice Information"
+    },
+    {
+        "用戶與網路介面": "User-Network Interface"
+    },
+    {
+        "用戶至用戶指示元": "User-to-User Indicators"
+    },
+    {
+        "用戶至用戶資訊": "User-to-User Information"
+    },
+    {
+        "用戶至用戶資訊信息": "User-to-User Information Message"
+    },
+    {
+        "用戶至用戶服務": "User-to-User Service"
+    },
+    {
+        "用戶至用戶信號方式": "User-to-User Signaling"
+    },
+    {
+        "用戶至用戶資訊信息": "USR (User-To-User Information Message)"
+    },
+    {
+        "通用同步接收發送器": "USRT"
+    },
+    {
+        "超短波": "USW (U.S.W) (ultrashort wave)"
+    },
+    {
+        "用戶至用戶": "UU (User to User)"
+    },
+    {
+        "UNIX系統間拷貝用程式": "uucp program"
+    },
+    {
+        "紫外線": "UV (Ultra Violet)"
+    },
+    {
+        "超音波": "UW (Ultrasonic Wave)"
+    },
+    {
+        "伏特，伏": "V (volt)"
+    },
+    {
+        "V 型線性天線": "V antenna"
+    },
+    {
+        "V頻帶(46-56GHz)": "V band"
+    },
+    {
+        "V 數值": "V number"
+    },
+    {
+        "(OSI)V系列11號文件(又稱RS-422，有關22絞線在100m內，1Mbps之傳輸信號定義": "V.11"
+    },
+    {
+        "(OSI)V系列24號文件(在美國則稱EIARS232 標準)": "V.24"
+    },
+    {
+        "(OSI)V系列35號文件(又稱RS-499，定義使用RS-422信號之介面標準)": "V.35"
+    },
+    {
+        "伏安": "VA (VoltAmpere)"
+    },
+    {
+        "真空檢光器": "vacuum photodiode"
+    },
+    {
+        "M 型真空管": "vacuum tube， M type"
+    },
+    {
+        "O 型真空管": "vacuum tube， Q type"
+    },
+    {
+        "共價帶": "valence band"
+    },
+    {
+        "華氏碼": "Walsh code"
+    },
+    {
+        "加值網路": "Value-Added Network (VAN)"
+    },
+    {
+        "伏特安培計，電壓電流計": "VAM voltameter"
+    },
+    {
+        "范藹倫輻射帶": "Van Allen radiation belt"
+    },
+    {
+        "范德格拉夫粒子加速器": "Van de Graaff particle accelerator"
+    },
+    {
+        "范德蒙行列式": "Vandemonde dterminant"
+    },
+    {
+        "光矩片": "vane， solar torque"
+    },
+    {
+        "汽相沿軸沉澱積法": "vapor axial deposition"
+    },
+    {
+        "汽相磊晶": "Vapor Phase Eptiaxy (VPE)"
+    },
+    {
+        "可變電容二極體調振濾波器": "varacotr-tuned filter"
+    },
+    {
+        "可變電容二極體": "Varactor diode"
+    },
+    {
+        "可變電容二極體調變器": "varactor modulator"
+    },
+    {
+        "可變電容二極體調控振盪器": "varactor-tuned oscillator"
+    },
+    {
+        "截止波可變衰減器": "variable attenuator， cutoff type"
+    },
+    {
+        "鰭型可變衰減器": "variable attenuator， flap type"
+    },
+    {
+        "旋轉片可變衰減器": "variable attenuator， rotary-vane type"
+    },
+    {
+        "帶狀線可變衰減器": "variable attenuator， stripline type"
+    },
+    {
+        "可變位元分配": "variable bit allocation"
+    },
+    {
+        "可變位元率": "Variable Bit Rate"
+    },
+    {
+        "可變長度編碼": "variable length coding"
+    },
+    {
+        "可變匹配網路": "variable matching network"
+    },
+    {
+        "可變相移器": "variable phase shifter"
+    },
+    {
+        "可變長度編碼": "variable-length coding"
+    },
+    {
+        "可變寬度次頻道": "variable-width sub-band"
+    },
+    {
+        "變異數": "variance"
+    },
+    {
+        "隨機變數之變異數": "variance of random variable"
+    },
+    {
+        "脈波擴散變異": "variance， pulse boradening"
+    },
+    {
+        "變分": "variation"
+    },
+    {
+        "變分法": "variational methods"
+    },
+    {
+        "變分原理": "variational principle"
+    },
+    {
+        "發舍里莫-吉伯特上限": "Varsharimov-Gilbert bound"
+    },
+    {
+        "可變位元率": "VBR (Variable Bit  Rate)"
+    },
+    {
+        "視訊緩衝驗證器": "VBV"
+    },
+    {
+        "虛擬通道": "VC (Vitrual Channel)"
+    },
+    {
+        "虛擬線路": "VC (Vitual Circuit)"
+    },
+    {
+        "虛擬通道鏈路終端": "VCLT (Virtual Channel Link Termination)"
+    },
+    {
+        "壓控晶體振盪器": "VCXO (Voltage-controlled Crystal Oscillator)"
+    },
+    {
+        "視頻分佈放大器": "VDA (Video Distributing Amplifier)"
+    },
+    {
+        "直流電壓": "VDC (Vlots， Direct-Current)"
+    },
+    {
+        "正交向量": "vecotrs， orthogonal"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "向量分析": "vector anllysis"
+    },
+    {
+        "圓柱座標向量微分運算子": "vector differential operators， cylindrical"
+    },
+    {
+        "直角座標向量微分運算子": "vector differential operators， rectangular"
+    },
+    {
+        "球面座標向量微分運算子": "vector differential operators， spherical"
+    },
+    {
+        "向量微分搏碼調變": "vector DPCM"
+    },
+    {
+        "向量格林定理": "vector Green's theorem"
+    },
+    {
+        "向量量化": "vector quanitzation (VQ)"
+    },
+    {
+        "向量空間": "vector space"
+    },
+    {
+        "向量轉換": "vector transformation"
+    },
+    {
+        "瓊斯向量": "vector， Jones"
+    },
+    {
+        "向量三重積": "vector， triple product"
+    },
+    {
+        "車輛通訊": "vehicular communication"
+    },
+    {
+        "雷射都卜勒測速器": "Velocimeter， Laser Doppler (LDV)"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "速度(都卜勒)追蹤迴路": "velocity (Doppler) tracking loop"
+    },
+    {
+        "(追蹤迴路之)(都卜勒)速度鑑別裝置": "velocity discriminant (in tracking loops)， (Doppler)"
+    },
+    {
+        "速度因素": "velocity factor"
+    },
+    {
+        "破裂成長速度": "velocity， crack growth"
+    },
+    {
+        "漂移速度": "velocity， drift"
+    },
+    {
+        "相速": "velocity， phase"
+    },
+    {
+        "垂直雙極(天線)": "verical sampling factor"
+    },
+    {
+        "指令查證": "verification of command"
+    },
+    {
+        "春分": "vernal equinox"
+    },
+    {
+        "(置於拋物線體反射器)頂點之平板": "vertex plate"
+    },
+    {
+        "垂直冗餘核對": "Vertical Redundancy Check (VRC)"
+    },
+    {
+        "垂直取樣因子": "vertical sampling factor"
+    },
+    {
+        "特高頻，超高頻": "Very High Frequency"
+    },
+    {
+        "特低頻，超低頻": "Very Low Frequency{=VLF}"
+    },
+    {
+        "超小型天線(小耳朵)": "Very Small Aperture Terminal (VSAT)"
+    },
+    {
+        "(天現場型之)退化波瓣": "vestifial lobe"
+    },
+    {
+        "殘留邊帶": "Vestigial SideBand{=VSB}"
+    },
+    {
+        "殘邊帶調幅": "vestigial sideband amplitude modulation{=VSB-AM}"
+    },
+    {
+        "殘邊帶抑止載波": "vestigial sideband suppressed carrier"
+    },
+    {
+        "殘邊帶調變": "Vestigial-Sideband Modulation (VSM)"
+    },
+    {
+        "視頻": "VF (Video Frequency)"
+    },
+    {
+        "語音頻帶": "VF (Video Frequency) band"
+    },
+    {
+        "視頻放大器": "VFA (Video Frequency Amplifier)"
+    },
+    {
+        "話頻載波": "VFC (Vice Frequency Carrier)"
+    },
+    {
+        "可變頻率振盪器": "VFO (Variable-Frequency Oscillator)"
+    },
+    {
+        "可變增益放大器": "VGA (Variable Gain Amplifier)"
+    },
+    {
+        "V-型槽連接器": "V-groove connector"
+    },
+    {
+        "V 型槽雷射": "V-groove laser"
+    },
+    {
+        "V型槽無透鏡元件": "V-groove lensless component"
+    },
+    {
+        "特高頻(30-300MHz)": "VHF (Very High Frequency， 30-300MHz)"
+    },
+    {
+        "特高解析度輻射儀": "VHRR (Very High Resolution Radiometer)"
+    },
+    {
+        "振動線": "vibrating wire"
+    },
+    {
+        "振動吸收衰減": "vibrational absorption attenuation"
+    },
+    {
+        "振動(能階)吸收": "vibratonal absorption"
+    },
+    {
+        "仿真語聲，模擬語聲": "vice， artificial"
+    },
+    {
+        "視訊動態影像": "video"
+    },
+    {
+        "視訊緩衝查證器": "video buffering verifier"
+    },
+    {
+        "視訊水平回掃": "video horizontal retrace"
+    },
+    {
+        "視訊序列": "video sequence"
+    },
+    {
+        "視訊服務": "video services"
+    },
+    {
+        "視頻訊號": "video signal"
+    },
+    {
+        "視訊電話，電視電話": "video telephony"
+    },
+    {
+        "視訊傳輸": "video transmission"
+    },
+    {
+        "視訊電話，電視電話": "videophone"
+    },
+    {
+        "高解析的Videotex系統(利用畫的方式來構成圖案)": "videotex alphageometric system"
+    },
+    {
+        "低解析的Videotex系統(以特殊形狀構圖)": "videotex alphamosaic system"
+    },
+    {
+        "Videotex 之別稱": "viewdata"
+    },
+    {
+        "電壓干擾比": "VIR (Voltage Interference Ratio)"
+    },
+    {
+        "虛擬呼叫，虛擬通話": "virtual call"
+    },
+    {
+        "虛擬通道": "Virtual Channel (VC)"
+    },
+    {
+        "虛擬通道連接": "Virtual Channel Connection (VCC)"
+    },
+    {
+        "虛擬通道連接終端": "Virtual Channel Connection Termination"
+    },
+    {
+        "與VC連接有關的功能\r": "Virtual Channel Connection-Related Functions"
+    },
+    {
+        "虛擬通道識別碼": "Virtual Channel Identifier{=VCI}"
+    },
+    {
+        "虛擬通道鏈路終端": "Virtual Channel Link Termination"
+    },
+    {
+        "虛擬電路交換": "virtual circuit switches"
+    },
+    {
+        "虛擬檔案儲存": "virtual file sote"
+    },
+    {
+        "虛擬路徑": "Virtual Path{=VP}"
+    },
+    {
+        "虛擬路徑終端": "Virtual Path Connection Termination{=VPCT}"
+    },
+    {
+        "虛擬路徑連接": "Virtual Path Connection{=VPC}"
+    },
+    {
+        "虛擬路徑連接識別碼": "Virtual Path Connection Identifier{=VPCI}"
+    },
+    {
+        "與VP連接有關的功能": "Virtual Path Connection-Related Functions"
+    },
+    {
+        "虛擬路徑識別碼": "Virtual Path Identifier"
+    },
+    {
+        "虛擬路徑鏈路終端": "Virtual Path Link Termaination"
+    },
+    {
+        "虛擬路由(選擇)": "virtual route"
+    },
+    {
+        "虛擬排程機制": "Virtual Scheduling"
+    },
+    {
+        "虛擬排程演算法": "Virtual scheduling Alogrithm"
+    },
+    {
+        "虛擬終端機": "Virtual terminal{=VT}"
+    },
+    {
+        "延滯性": "viscosity"
+    },
+    {
+        "可見區，能見區": "visible region"
+    },
+    {
+        "陣列(天線)可視區": "visible region of array"
+    },
+    {
+        "可見空間": "visible space"
+    },
+    {
+        "維特比演算法": "Viterbi algorithm"
+    },
+    {
+        "使用 Viterbi 演算法作通道估計": "Viterbi algorithm for channel estimation"
+    },
+    {
+        "使用 Viterbi 演算法的性能": "Viterbi algorithm， performance of"
+    },
+    {
+        "維特比解碼器": "Viterbi decoders"
+    },
+    {
+        "維特比解碼法": "Viterbi decoding"
+    },
+    {
+        "可變長度編碼": "VLC"
+    },
+    {
+        "伏特計，電壓表": "VM (voltmeter)"
+    },
+    {
+        "視頻調變系統": "VMS (Video Modulation System)"
+    },
+    {
+        "美國之音": "VOA (Voice of America)"
+    },
+    {
+        "語音編碼器": "vocoder"
+    },
+    {
+        "(VOX)語音啟動": "voice activation"
+    },
+    {
+        "普通電話線;可提供語音服務所需的傳輸品質的線": "voice grade line"
+    },
+    {
+        "語音攪拌器": "voice scrambler"
+    },
+    {
+        "語音頻帶數據通訊": "voiceband data communication"
+    },
+    {
+        "語音頻帶數據傳輸": "voiceband data transmission"
+    },
+    {
+        "有聲語音(聲帶振動發出之因素)": "voiced speech"
+    },
+    {
+        "音量，容積，容量，體積，電位器，卷，部，冊": "VOL (volume)"
+    },
+    {
+        "電壓": "voltage"
+    },
+    {
+        "電壓放大器": "voltage amplifier"
+    },
+    {
+        "壓控震盪器": "Voltage Controlled Oscillator{=VCO}"
+    },
+    {
+        "電壓增益": "voltage gain"
+    },
+    {
+        "電壓反射係數": "voltage refelection cofficient"
+    },
+    {
+        "穩壓器": "voltage regulator"
+    },
+    {
+        "交流電路定壓調整器": "voltage regulator， A.C. circuit constant"
+    },
+    {
+        "電壓上升": "voltage rise"
+    },
+    {
+        "電壓源": "voltage source"
+    },
+    {
+        "電壓駐波比": "Voltage Standing Wave Ratio{=VSWR}"
+    },
+    {
+        "體電荷密度": "volume charge density"
+    },
+    {
+        "體電流密度": "volume current density"
+    },
+    {
+        "(雜波)體反射率係數": "volume reflectivity coefficient"
+    },
+    {
+        "(雜波)體散射": "volume scattering"
+    },
+    {
+        "三維立體式搜索": "volume search"
+    },
+    {
+        "螺旋線形天線": "volutes"
+    },
+    {
+        "范卡門天線罩": "Von Karmen radome"
+    },
+    {
+        "特高頻全向無線電信標": "VOR (very-high frequenc yOmni-direction Radio range)"
+    },
+    {
+        "特高頻全向信標測距設備": "VOR/DME (VHF Omni-Range Distance Measuring Equipment)"
+    },
+    {
+        "特高頻全向信標與坦康組成的導航系統": "VORTAC (VOR and TACAN system)"
+    },
+    {
+        "渦源": "vortex source"
+    },
+    {
+        "特高頻全向信標測試信號": "VOT (VOR Test Signal)"
+    },
+    {
+        "汽相磊晶": "VPE (Vapor-Phase Epitaxy)"
+    },
+    {
+        "虛擬路徑識別碼": "VPI (Virtual Path Identifier)"
+    },
+    {
+        "虛擬路徑鏈路終端": "VPLT (Virtual Path Link Termination)"
+    },
+    {
+        "V-型塞連接器": "V-plug connector"
+    },
+    {
+        "虛擬排程演算法": "VSA (Virtual Scheduling Algorithm)"
+    },
+    {
+        "殘留邊帶-調幅": "VSB-AM (Vestigial Side Band-Amplitude Modulation)"
+    },
+    {
+        "(CCITT)V系列標準": "V-series recommendations"
+    },
+    {
+        "甚短波": "VSW (Very Short Wave)"
+    },
+    {
+        "電壓調控磁控管": "VTM (Voltage Tunable Magnetron)"
+    },
+    {
+        "電壓調控振盪器": "VTO (Vlotage Tunable Oscillator)"
+    },
+    {
+        "虛擬終端機協定": "Virtual Terminal Protocol{=VTP}"
+    },
+    {
+        "磁帶錄影機": "VTR (Video Tape Recorder)"
+    },
+    {
+        "脆弱度，脆弱性": "vulnerability"
+    },
+    {
+        "V 值": "V-value"
+    },
+    {
+        "瓦特": "watt，W"
+    },
+    {
+        "W 頻帶 (56-100GHz)": "W band"
+    },
+    {
+        "W 型光纖": "W fiber"
+    },
+    {
+        "W 型波導": "W guide"
+    },
+    {
+        "手提無線電話": "walky-talky"
+    },
+    {
+        "(導波管)壁電流": "wall current (in waveguide)"
+    },
+    {
+        "壁阻抗": "wall impedance"
+    },
+    {
+        "電話牆機": "wall telephone"
+    },
+    {
+        "世界無線電行政大會": "WARC (World Administrative Radio Conference)"
+    },
+    {
+        "彈頭": "warhead"
+    },
+    {
+        "水負載": "water load"
+    },
+    {
+        "水蒸汽": "water vapor"
+    },
+    {
+        "水蒸氣吸收帶(約在22021-22.5GHz間)": "water vapor absorption band"
+    },
+    {
+        "水蒸汽衰減": "water vapor attenuation"
+    },
+    {
+        "水阻絕": "water-blocking"
+    },
+    {
+        "世界電報電話行政大會": "WATTC (World Administrative Telegraph and Telephone Conference)"
+    },
+    {
+        "波(動)方程式": "wave equation"
+    },
+    {
+        "電波方程式": "wave equation for electric wave"
+    },
+    {
+        "電磁波方程式": "wave equation for electromagnetic"
+    },
+    {
+        "磁波方程式": "wave equation for magnetic wave"
+    },
+    {
+        "頻域波(動)方程式": "wave equation in frequency domain"
+    },
+    {
+        "波函數": "wave function"
+    },
+    {
+        "圓柱波函數": "wave function， cylindrical"
+    },
+    {
+        "平面波函數": "wave function， plane"
+    },
+    {
+        "球面波函數": "wave function， spherical"
+    },
+    {
+        "海浪高度": "wave height"
+    },
+    {
+        "波阻抗": "wave impedance"
+    },
+    {
+        "波數": "wave number"
+    },
+    {
+        "波封包": "wave packet"
+    },
+    {
+        "波極化": "wave polarization"
+    },
+    {
+        "圓(形)波極化": "wave polarization， circular"
+    },
+    {
+        "橢圓波極化": "wave polarization， elliptical"
+    },
+    {
+        "線性(平面)波極化": "wave polarization， linear (plane)"
+    },
+    {
+        "隨機波極化": "wave polarization， random"
+    },
+    {
+        "波位": "wave potentials"
+    },
+    {
+        "電波傳播": "wave propagation"
+    },
+    {
+        "波理論": "wave theory"
+    },
+    {
+        "波轉換": "wave transformation"
+    },
+    {
+        "毛細管作用波": "wave， capillary"
+    },
+    {
+        "圓(形)極化波": "wave， circular polaroized"
+    },
+    {
+        "電磁波": "wave， electromagneitc"
+    },
+    {
+        "干涉波": "wave， interference"
+    },
+    {
+        "毫米波": "millimeter wave"
+    },
+    {
+        "超長波(萬米波)": "wave， myrametric"
+    },
+    {
+        "平面波": "wave， plane"
+    },
+    {
+        "波傳播向量": "wave， propagation vector"
+    },
+    {
+        "橫向電磁波": "wave， Transverse Electo Magnetic (TEM)"
+    },
+    {
+        "波真空傳播常數": "wave， vacuum propagation constant of"
+    },
+    {
+        "波形": "waveform"
+    },
+    {
+        "波形編碼": "waveform coding"
+    },
+    {
+        "波形解碼器": "waveform decoder"
+    },
+    {
+        "波形編碼器": "waveform encoder"
+    },
+    {
+        "有限頻寬波形": "waveform， bandlimited"
+    },
+    {
+        "步進式頻率調變波形": "waveform， frequency-stepped"
+    },
+    {
+        "隨機波形": "waveform， random"
+    },
+    {
+        "波形保持編碼器": "waveform-preserving coder"
+    },
+    {
+        "波前": "wavefornt"
+    },
+    {
+        "波導負載": "wavegudie load"
+    },
+    {
+        "電介質棒波導": "wavegudie， dielectric rod"
+    },
+    {
+        "測量用導波管": "wavegudie， meansuring"
+    },
+    {
+        "波導管，波導": "waveguide"
+    },
+    {
+        "波導陣列天線": "waveguide array antenna"
+    },
+    {
+        "旋轉片波導衰減器": "waveguide attenuato， rotary-vane"
+    },
+    {
+        "電阻片波導衰減器": "waveguide attenuator， resistive-card"
+    },
+    {
+        "彎曲導波管": "waveguide band"
+    },
+    {
+        "波導通道": "waveguide channel"
+    },
+    {
+        "波導零件": "waveguide component"
+    },
+    {
+        "波導不連續，不連續波導": "waveguide discontinuities"
+    },
+    {
+        "波導波散": "waveguide dispersion"
+    },
+    {
+        "波導波散參數": "waveguide dispersion parameter"
+    },
+    {
+        "光電波導元件振幅調變": "waveguide electrooptic device， amplitude modulation"
+    },
+    {
+        "光電波導元件光電折射率改變": "waveguide electrooptic device， electrooptic index change of"
+    },
+    {
+        "光電波導元件相位調變": "waveguide electrooptic devices， phase modulation"
+    },
+    {
+        "光電波導元件相位調變器": "waveguide electrooptic devices， phase modulator"
+    },
+    {
+        "光電波導元件頻譜寬化": "waveguide electrooptic devices， spectral broadening of"
+    },
+    {
+        "導波管濾波器": "waveguide filiter"
+    },
+    {
+        "導波管之安裝邊緣": "waveguide flange"
+    },
+    {
+        "波導組抗": "waveguide impedance"
+    },
+    {
+        "導波管簾片": "waveguide iris"
+    },
+    {
+        "導波管接頭，導波管接面": "waveguide junction"
+    },
+    {
+        "光電波導元件光纖藕合損失": "waveguide lectrooptic devices， fiber-coupling looses of"
+    },
+    {
+        "波導透鏡天線": "waveguide lens antenna"
+    },
+    {
+        "波導損耗": "waveguide loss"
+    },
+    {
+        "導波管相移器": "waveguide phase shifter"
+    },
+    {
+        "開槽波導陣列(天線)": "waveguide slot array"
+    },
+    {
+        "開槽波導陣列天線": "waveguide slotted array antenna"
+    },
+    {
+        "導波管 T 形接頭": "waveguide tee"
+    },
+    {
+        "E 平面導波管 T 形接頭(串聯式 T 形接頭)": "waveguide tee， E-plane (series tee)"
+    },
+    {
+        "H 平面導波管 T 形接頭(並聯式 T 形接頭)": "waveguide tee， H-plane (shunt tee)"
+    },
+    {
+        "環形岔路導波管接頭": "waveguide tee， hybrid rings"
+    },
+    {
+        "幻 T 形導波管接頭": "waveguide tee， magic tee (hybrid tee)"
+    },
+    {
+        "波導扭轉接頭": "waveguide twists"
+    },
+    {
+        "分叉導波管": "waveguide， bifrucated"
+    },
+    {
+        "電介質波導": "waveguide， dielectric"
+    },
+    {
+        "電介質平板波導，平板介質波導": "waveguide， dielectric slab"
+    },
+    {
+        "波導波散": "waveguide， dispersion of"
+    },
+    {
+        "橢圓形導波管": "waveguide， elliptical"
+    },
+    {
+        "波導製作": "waveguide， fabrication of"
+    },
+    {
+        "鰭線波導": "waveguide， fin-line"
+    },
+    {
+        "可彎曲波導": "waveguide， flexible"
+    },
+    {
+        "偏移導波管": "waveguide， off-set"
+    },
+    {
+        "光導波管": "waveguide， optical"
+    },
+    {
+        "起紋波導，波浪板形波導": "waveguide， orrugated"
+    },
+    {
+        "平行板波導": "waveguide， parallel-plate"
+    },
+    {
+        "部分(介質)填充導波管": "partially filled waveguide"
+    },
+    {
+        "部分填充平行板導波管": "partially filled paralle-plate waveguide"
+    },
+    {
+        "相位同步波導": "waveguide， phase synchronism"
+    },
+    {
+        "平面波導": "waveguide， planar"
+    },
+    {
+        "輻射狀平行板導波管": "waveguide， radially parallel-plate"
+    },
+    {
+        "波導 S 型彎曲": "waveguide， S-band"
+    },
+    {
+        "(相位陣列之)波導模擬器": "waveguide， simulator"
+    },
+    {
+        "Y 型分支波導": "waveguide， Y branches"
+    },
+    {
+        "空管波導": "waveguides， hollow-tube"
+    },
+    {
+        "多模波導": "waveguides， multimode"
+    },
+    {
+        "光纖波導": "waveguides， optical-fiber"
+    },
+    {
+        "輻射狀波導": "waveguides， radial"
+    },
+    {
+        "輻線與雙錐形波導": "waveguides， radial line and biconical"
+    },
+    {
+        "矩形波導": "waveguides， rectangular"
+    },
+    {
+        "內脊波導": "waveguides， ridged"
+    },
+    {
+        "波導之標準尺寸": "waveguides， standard sizes of"
+    },
+    {
+        "水槽形波導": "waveguides， trough"
+    },
+    {
+        "波導對波導轉移器，波導與波導交接處": "waveguide-to-waveguide transitions"
+    },
+    {
+        "多工及調變用之波長濾波器": "wavelenght filter， multiplexing and modulating"
+    },
+    {
+        "波長": "wavelength"
+    },
+    {
+        "波長解多工": "wavelength demultiplexing"
+    },
+    {
+        "使用光槽解多工器之分波長多工器": "wavelength division multiplexer using gratings demultiplexer"
+    },
+    {
+        "無透鏡組件分波長多工器": "wavelength division multiplexer， lensless components"
+    },
+    {
+        "雙模態波長濾波器": "wavelength filter， double moded"
+    },
+    {
+        "波長濾波器部分頻寬": "wavelength filter， fractional bandwidth of"
+    },
+    {
+        "波長濾波器移頻器": "wavelength filter， frequency shifter"
+    },
+    {
+        "波長濾波器光柵": "wavelength filter， grating of"
+    },
+    {
+        "波長濾波器模態轉換器": "wavelength filter， mode-converter"
+    },
+    {
+        "波長濾波器相位匹配條件": "wavelength filter， phasematch condition of"
+    },
+    {
+        "波長濾波器相位匹配波長": "wavelength filter， phasematch wavelength of"
+    },
+    {
+        "全光纖組件式波長多工器": "all-fiber component wavelength multiplexer"
+    },
+    {
+        "自由空間波長": "wavelength， free space"
+    },
+    {
+        "波導波長": "wavelength， guide"
+    },
+    {
+        "線性極化模態截止波長": "LP mode cutoff wavelength"
+    },
+    {
+        "共振波長": "wavelength， resonance"
+    },
+    {
+        "吸收式波長計": "wave-metter， absorptivity"
+    },
+    {
+        "波傳輸矩陣": "wave-transmission matrix"
+    },
+    {
+        "威克斯界限": "Wax bound"
+    },
+    {
+        "寬頻帶": "WB (Wide Band)"
+    },
+    {
+        "波長區隔多工": "WDM (Wave length Division Multiplexing)"
+    },
+    {
+        "弱波導": "weak guidance"
+    },
+    {
+        "弱波導近似法": "weakly guiding approxmiation"
+    },
+    {
+        "弱波導光纖": "weakly guiding fiber"
+    },
+    {
+        "氣象雷達": "weather radar"
+    },
+    {
+        "楔形空腔": "wedge cavity"
+    },
+    {
+        "魏普分佈": "Weibull distribution"
+    },
+    {
+        "魏普模式": "Weibull model"
+    },
+    {
+        "魏普模量": "Weibull modulus"
+    },
+    {
+        "魏普圖": "Weibull plot"
+    },
+    {
+        "魏普光纖壓折失效統計": "Weibull statistics for failure of fiber under stress"
+    },
+    {
+        "魏普目標模式": "Weibull target model"
+    },
+    {
+        "(錯誤更正碼的)權重分佈": "weight distribution"
+    },
+    {
+        "權重向量，加權向量": "weight vector"
+    },
+    {
+        "最小權重": "weight， minimum"
+    },
+    {
+        "實數權重": "weight， real"
+    },
+    {
+        "加權式多數決解碼": "weighted majority decoding"
+    },
+    {
+        "加權函數": "weighting functions"
+    },
+    {
+        "惠斯富拉克法(切線法)": "Weissfloch method (Tangent method)"
+    },
+    {
+        "威爾屈界線": "Welch bound"
+    },
+    {
+        "WKB近似法": "Wentzel-Kramers-Brillouin (WKB) approximation"
+    },
+    {
+        "寬頻帶": "WF (Wide Frequency band)"
+    },
+    {
+        "波導": "WG (Wave Guide)"
+    },
+    {
+        "瓦時": "Watt-Hour，WH"
+    },
+    {
+        "鞭形天線": "whip antenna"
+    },
+    {
+        "揮帚式天線波束掃描方式": "whisk-broom scanning"
+    },
+    {
+        "白色高斯雜訊": "white Gaussian noise"
+    },
+    {
+        "白色雜訊，白雜訊": "white noise"
+    },
+    {
+        "白化濾波器，白色化濾波器": "whitening filter"
+    },
+    {
+        "寬頻(傳輸)電路": "wide band circuit"
+    },
+    {
+        "寬頻 ": "wideband"
+    },
+    {
+        "寬頻數據通訊": "wideband data comunication"
+    },
+    {
+        "寬頻數據傳輸": "wideband data transmission"
+    },
+    {
+        "寬頻(帶)濾波器": "wideband filter"
+    },
+    {
+        "寬頻調變": "wideband modulation"
+    },
+    {
+        "寬頻頻譜圖": "wideband spectrogram"
+    },
+    {
+        "廣義穩態隨機過程": "wide-sense stationary random process"
+    },
+    {
+        "威能-霍樸方持式": "Wiener Hopf equation"
+    },
+    {
+        "威能最小平方解": "Wiener least-squares solution"
+    },
+    {
+        "威能程序": "Wiener process"
+    },
+    {
+        "威能-霍樸法": "Wiener-Hopf method"
+    },
+    {
+        "Wiener-Khintchine定理(自相關函數/功率頻普密度轉換)": "Wiener-Khintchine theorem"
+    },
+    {
+        "威爾金生功率分配器": "Wilkinson power divider"
+    },
+    {
+        "風切": "wind shear"
+    },
+    {
+        "風速測量": "wind velocity measurement"
+    },
+    {
+        "視窗機能;視窗機制": "window mechanism"
+    },
+    {
+        "視窗切換": "window switching"
+    },
+    {
+        "凱斯視窗": "window， Kaiser"
+    },
+    {
+        "溫諾格雷傅立葉轉換演算法": "Winograd Fourier transform algorithm (WFTA)"
+    },
+    {
+        "線": "wire"
+    },
+    {
+        "線形天線": "wire anteaan"
+    },
+    {
+        "集線區": "wire center"
+    },
+    {
+        "竊聽，搭線": "wire tapping"
+    },
+    {
+        "長條線(天線)": "wire， long"
+    },
+    {
+        "無線電對講機": "wireless transcieiver"
+    },
+    {
+        "伍德華線形源合成法": "Woodward line source synthesis"
+    },
+    {
+        "伍德華陣列合成法": "Woodward synthesis of array"
+    },
+    {
+        "碼字交插": "word interleaving"
+    },
+    {
+        "碼字同步": "word synchronization"
+    },
+    {
+        "碼字對時，碼字定時": "word timing"
+    },
+    {
+        "逐字檢測": "word-by-word detection"
+    },
+    {
+        "世界電波管理會議": "World Administrative Radio Conference (WA-RC)"
+    },
+    {
+        "矩形波導": "WR (waveguide， rectangular)"
+    },
+    {
+        "讓斯金行列式": "Wronskian determinan"
+    },
+    {
+        "重量": "WT (weight)"
+    },
+    {
+        "伍倫韋伯(天線)陣列": "Wullenweber array"
+    },
+    {
+        "世界電離層觀測委員會": "WWSC (World-Wide Soundings Committee)"
+    },
+    {
+        "電抗的符號，交換機": "X"
+    },
+    {
+        "電抗": "X (reactance)"
+    },
+    {
+        "X 頻帶 (6.2-I0.9GHz或8-12GHz)": "X band"
+    },
+    {
+        "(CCITT)X系列第二號文件(定義X.25所提供之設備種類及其參數)": "X.2"
+    },
+    {
+        "(CCITT)X系列第21號文件(定義X.25實體層之規格標準)": "X.21"
+    },
+    {
+        "(CCITT)X系列第25號文件(定義用戶端與分封交奐網路間介面標準)": "X.25"
+    },
+    {
+        "(CCITT)X系列第28號文件(描述PAD-終端機協定)": "X.28"
+    },
+    {
+        "(CCITT)X系列第29號文件(描述PAD-主機協定)": "X.29"
+    },
+    {
+        "(CCITT)X系列第3號文件(描述PAD之功能峊峊H控制其操作之參數)": "X.3"
+    },
+    {
+        "(CCITT)X.400系列文件(定義ISDN之資訊處理服務之要求)": "X.400"
+    },
+    {
+        "(CCITT)X.系列第75號文件(在數位X.25網路上，提供虛擬線路服務之標準協定)": "X.75"
+    },
+    {
+        "(電)容(電)抗": "XC (capacitive reactance)"
+    },
+    {
+        "收撥兩用機": "XCVR (transceiver)"
+    },
+    {
+        "慶賀電報(標誌)": "XLT (Greeting telegram)"
+    },
+    {
+        "傳送，傳遞，發射，傳熱，透光": "XMIT (transmit)"
+    },
+    {
+        "收/發": "XMT/RCV (transmit and receive)"
+    },
+    {
+        "發射機，送話器，話筒晶體": "XMTR (transmitter)"
+    },
+    {
+        "X-通/X-斷，用以通知發送端開始/停止傳送資料的指令": "X-ON/X-OFF"
+    },
+    {
+        "晶體": "XTAL (crystal)"
+    },
+    {
+        "晶體(控制)振盪器": "XTAL OSC (crystal oscillator)"
+    },
+    {
+        "晶體(控制)振盪器": "XTLO (crystal oscillator)"
+    },
+    {
+        "Y型連接": "Y"
+    },
+    {
+        "Y 型分支干涉調變器": "Y branch  interferometric modulator"
+    },
+    {
+        "Y 型分之波導": "Y branch waveguide"
+    },
+    {
+        "Y 型接面": "Y junction"
+    },
+    {
+        "宇田一八夫陣列(天線)": "Yagi-Uda array"
+    },
+    {
+        "宇田一八夫迴路(天線)陣列": "Yagi-Uda array loop"
+    },
+    {
+        "宇田一八夫陣列(天線)原理": "Yagi-Uda array theory of"
+    },
+    {
+        "宇田一八夫陣列(天線)之指向器": "Yagi-Uda array， directors of"
+    },
+    {
+        "宇田一八夫陣列(天線)之激發器": "Yagi-Uda array， exciter of"
+    },
+    {
+        "宇田一八夫陣列(天線)之反射器": "Yagi-Uda array， reflectors of"
+    },
+    {
+        "宇田一八夫雙極(陣列)天線": "Yagi-Uda dipole antenna"
+    },
+    {
+        "宇田一八夫迴路(陣列)天線": "Yagi-Uda loops antennas"
+    },
+    {
+        "宇田一八夫共振迴路(陣列)天線": "Yagi-Uda resonant loop antenna"
+    },
+    {
+        "逸出軸控制": "yaw control"
+    },
+    {
+        "逸出軸誤差": "yaw error"
+    },
+    {
+        "逸出軸感測器": "yaw sensor"
+    },
+    {
+        "Y 型分支干涉儀": "Y-branch interferometer"
+    },
+    {
+        "黃頁(分類)簿，電話號碼簿之非住宅分類部份": "yellow pages"
+    },
+    {
+        "釔鐵石榴石": "YIG (yttrium iron garnet)"
+    },
+    {
+        "Y 型匯流環形器": "Y-junction circulator"
+    },
+    {
+        "楊氏模量": "Young's modulus"
+    },
+    {
+        "光纖楊氏模量": "Young's mudulus fo fiber"
+    },
+    {
+        "YIG調控振盪器": "YTO (YIG-tuned oscillator)"
+    },
+    {
+        "釔鋁石榴石": "Yttrium-Aluminum Garnate (YAG)"
+    },
+    {
+        "尤爾-沃克方程式": "Yule-Walker equation"
+    },
+    {
+        "蔡斯心形反射器": "Zeiss-cardioid reflector"
+    },
+    {
+        "惹奈克波": "Zenneck wave"
+    },
+    {
+        "零波散": "zeor dispersion"
+    },
+    {
+        "(場之)零元素": "zero element (of a field)"
+    },
+    {
+        "零引力": "zero gravity"
+    },
+    {
+        "(錯誤更正)碼的根": "zero of code"
+    },
+    {
+        "墊零(再資料串後面加些零)": "zero padding"
+    },
+    {
+        "零點圖": "zero polt"
+    },
+    {
+        "零向量": "zero vector"
+    },
+    {
+        "跨零檢測器，越零檢測器": "zero-crossing detector"
+    },
+    {
+        "零散波": "zero-dispersion"
+    },
+    {
+        "零散波波長": "zero-dispersion wavelength"
+    },
+    {
+        "零記憶量化": "zero-emeory quanization"
+    },
+    {
+        "逼零等化器": "zero-forcing equalizer"
+    },
+    {
+        "零輸入限制週期(雜訊)": "zero-input limit cycles"
+    },
+    {
+        "零平均訊號，平均值為零之訊號": "zero-mean signal"
+    },
+    {
+        "零階外插法": "zero-order extrapolation"
+    },
+    {
+        "零階保值": "zero-order hold"
+    },
+    {
+        "零階保值濾波器": "zero-order hold filter"
+    },
+    {
+        "零相位搖應": "zero-phase response"
+    },
+    {
+        "零相位系統": "zero-phase system"
+    },
+    {
+        "補零": "zero-stuffing"
+    },
+    {
+        "鋸齒形天線": "zigzag antenna"
+    },
+    {
+        "鋸齒狀掃描次序": "zig-zag scanning order"
+    },
+    {
+        "鋸齒序列": "zig-zag sequence"
+    },
+    {
+        "鋅": "zinc"
+    },
+    {
+        "柔羅塔瑞函數": "Zolotarev function"
+    },
+    {
+        "Z 平面": "Z-plane"
+    },
+    {
+        "Z 轉換": "Z-transform"
+    },
+    {
+        "Z 轉換對": "Z-transform pairs"
+    },
+    {
+        "單邊Z轉換": "z-transform， one-side"
+    },
+    {
+        "Z 轉換帕斯摩關係": "Z-transform， Parseva's traltion of"
+    },
+    {
+        "Z轉換收斂域": "Z-transform， region of convergence of"
+    },
+    {
+        "單邊Z轉換": "Z-transform， unilateral"
+    },
+    {
+        "Z反轉換": "Z-transorm， inverse"
+    },
+    {
+        "吉伯洛界限": "Zyablov bound"
+    },
+    {
+        "毫米波積體電路": "millimeter wave integrated circuit{=MMIC}"
+    },
+    {
+        "細胞廣播；蜂巢式廣播": "cell broadcast"
+    },
+    {
+        "部分頻段；比例頻段": "fractional band"
+    }
+]

@@ -1,0 +1,8015 @@
+[
+    {
+        "三分核分裂": "ternary fission"
+    },
+    {
+        "三元相": "ternary phase"
+    },
+    {
+        "地電流": "terrestrial current"
+    },
+    {
+        "地磁；地磁學": "terrestrial magnetism"
+    },
+    {
+        "地磁；地磁學": "terrestrial magnetism"
+    },
+    {
+        "類地行星": "terrestrial planet"
+    },
+    {
+        "三級結構": "tertiary structure"
+    },
+    {
+        "特士拉｛磁場單位｝": "tesla｛=T｝"
+    },
+    {
+        "田諧函數": "tesseral harmonics"
+    },
+    {
+        "等軸晶系": "tesseral system"
+    },
+    {
+        "檢驗電荷": "test charge"
+    },
+    {
+        "四分面體晶形": "tetartohedral form"
+    },
+    {
+        "四方[晶]系": "tetragonal system"
+    },
+    {
+        "四面體鍵": "tetrahedral bond"
+    },
+    {
+        "四面體群": "tetrahedral group"
+    },
+    {
+        "四面體空隙": "tetrahedral interstice"
+    },
+    {
+        "四面體座": "tetrahedral site"
+    },
+    {
+        "四面體": "tetrahedron"
+    },
+    {
+        "四分一對稱": "tetrahedry"
+    },
+    {
+        "四六面體": "tetrahexahedron"
+    },
+    {
+        "十四面體": "tetrakaidecahedron"
+    },
+    {
+        "織構": "texture"
+    },
+    {
+        "薄膜電晶體": "TFT｛thin film transistor｝"
+    },
+    {
+        "鉈": "thallium｛=Tl｝"
+    },
+    {
+        "經緯儀｛天文｝": "theodolite"
+    },
+    {
+        "定理": "theorem"
+    },
+    {
+        "平行軸定理": "theorem of parallel axes"
+    },
+    {
+        "留數定理": "theorem of residues"
+    },
+    {
+        "理論力學": "theoretical mechanics"
+    },
+    {
+        "理論物理[學]": "theoretical physics"
+    },
+    {
+        "[理]論；[學]說": "theory"
+    },
+    {
+        "相對論": "theory of relativity"
+    },
+    {
+        "熱量單位": "therm"
+    },
+    {
+        "熱體": "thermal"
+    },
+    {
+        "熱激發": "thermal activation"
+    },
+    {
+        "熱騷動": "thermal agitation"
+    },
+    {
+        "熱學分析": "thermal analysis"
+    },
+    {
+        "熱邊界層": "thermal boundary layer"
+    },
+    {
+        "熱容率": "thermal capacitivity"
+    },
+    {
+        "熱容量": "thermal capacity"
+    },
+    {
+        "熱導率；導熱性": "thermal conductivity"
+    },
+    {
+        "熱導係數": "thermal conductivity coefficient"
+    },
+    {
+        "熱接觸；熱接點": "thermal contact"
+    },
+    {
+        "熱循環": "thermal cycle"
+    },
+    {
+        "熱寂": "thermal death"
+    },
+    {
+        "熱退吸": "thermal desorption"
+    },
+    {
+        "熱檢器": "thermal detector"
+    },
+    {
+        "熱擴散": "thermal diffusion"
+    },
+    {
+        "熱擴散率": "thermal diffusivity"
+    },
+    {
+        "熱解離": "thermal dissociation"
+    },
+    {
+        "熱畸變": "thermal distortion"
+    },
+    {
+        "熱效應": "thermal effect"
+    },
+    {
+        "熱效率": "thermal efficiency"
+    },
+    {
+        "熱瀉流": "thermal effusion"
+    },
+    {
+        "熱電": "thermal electricity"
+    },
+    {
+        "熱電動勢": "thermal electromotive force"
+    },
+    {
+        "熱電子": "thermal electron"
+    },
+    {
+        "熱能": "thermal energy"
+    },
+    {
+        "熱平衡": "thermal equilibrium"
+    },
+    {
+        "熱當量": "thermal equivalent"
+    },
+    {
+        "熱膨脹": "thermal expansion"
+    },
+    {
+        "熱疲勞": "thermal fatigue"
+    },
+    {
+        "熱通量": "thermal flux"
+    },
+    {
+        "熱遲滯": "thermal hysteresis"
+    },
+    {
+        "熱像": "thermal image"
+    },
+    {
+        "熱致雙折射": "thermal induced birefringence"
+    },
+    {
+        "絕熱": "thermal insulation"
+    },
+    {
+        "熱電離": "thermal ionization"
+    },
+    {
+        "熱致透鏡效應": "thermal lensing effect"
+    },
+    {
+        "熱運動": "thermal motion"
+    },
+    {
+        "熱[能]中子；慢中子": "thermal neutron"
+    },
+    {
+        "熱中子反應器": "thermal neutron reactor"
+    },
+    {
+        "熱[位]勢": "thermal potential"
+    },
+    {
+        "熱輻射": "thermal radiation"
+    },
+    {
+        "熱弛豫": "thermal relaxation"
+    },
+    {
+        "熱阻": "thermal resistance"
+    },
+    {
+        "熱阻率": "thermal resistivity"
+    },
+    {
+        "熱敏電阻": "thermal resistor"
+    },
+    {
+        "熱靈敏度": "thermal sensitivity"
+    },
+    {
+        "熱屏蔽": "thermal shielding"
+    },
+    {
+        "熱衝激": "thermal shock"
+    },
+    {
+        "熱分流器": "thermal shunt"
+    },
+    {
+        "熱應變": "thermal strain"
+    },
+    {
+        "熱應力": "thermal stress"
+    },
+    {
+        "熱速度": "thermal velocity"
+    },
+    {
+        "熱振動": "thermal vibration"
+    },
+    {
+        "熱波": "thermal wave"
+    },
+    {
+        "熱化中子；慢化中子": "thermalized neutron"
+    },
+    {
+        "熱合金": "thermalloy"
+    },
+    {
+        "熱陰極": "thermic cathode"
+    },
+    {
+        "熱量單位": "thermie"
+    },
+    {
+        "熱離子": "thermion"
+    },
+    {
+        "熱離子電流": "thermionic current"
+    },
+    {
+        "熱離子雜訊": "thermionic noise"
+    },
+    {
+        "熱離子管": "thermionic tube [valve]"
+    },
+    {
+        "熱離子功函數": "thermionic work function"
+    },
+    {
+        "熱離子學": "thermionics"
+    },
+    {
+        "測溫電阻器；熱阻體": "thermistor"
+    },
+    {
+        "熱雜訊": "thermo noise"
+    },
+    {
+        "熱輻射": "thermo radiation"
+    },
+    {
+        "熱[電]偶安培計": "thermo-ammeter"
+    },
+    {
+        "熱天平": "thermobalance"
+    },
+    {
+        "熱化學": "thermochemistry"
+    },
+    {
+        "熱變色性": "thermochromatism"
+    },
+    {
+        "選吸熱線作用": "thermochrose"
+    },
+    {
+        "熱接觸": "thermocontact"
+    },
+    {
+        "熱接觸；熱接點": "thermo-contact"
+    },
+    {
+        "熱[電]偶；溫差電偶": "thermocouple"
+    },
+    {
+        "熱彈性係數": "thermodynamic coefficient"
+    },
+    {
+        "熱彈性效應": "thermodynamic effect"
+    },
+    {
+        "熱力[學]函數": "thermodynamic function"
+    },
+    {
+        "熱力學定律": "thermodynamic laws"
+    },
+    {
+        "熱力[學位]勢": "thermodynamic potential"
+    },
+    {
+        "熱力學溫標": "thermodynamic scale of temperature"
+    },
+    {
+        "熱力[學]平衡": "thermodynamical equilibrium"
+    },
+    {
+        "熱力學": "thermodynamics"
+    },
+    {
+        "熱電係數": "thermoelectric coefficient"
+    },
+    {
+        "熱電冷卻": "thermoelectric cooling"
+    },
+    {
+        "熱電流": "thermoelectric current"
+    },
+    {
+        "熱電；熱電學": "thermo-electricity"
+    },
+    {
+        "熱電動勢": "thermo-electromotive force"
+    },
+    {
+        "熱電子": "thermoelectron"
+    },
+    {
+        "熱電子管": "thermoelectron tube"
+    },
+    {
+        "熱偶元件": "thermoelement"
+    },
+    {
+        "熱[電偶]電流計": "thermo-galvanometer"
+    },
+    {
+        "溫度記錄器": "thermograph"
+    },
+    {
+        "熱重分析": "thermogravimetric analysis"
+    },
+    {
+        "熱重分析術": "thermogravimetry"
+    },
+    {
+        "熱重平衡": "thermogravity balance"
+    },
+    {
+        "熱接頭": "thermo-junction"
+    },
+    {
+        "熱致冷光": "thermoluminescence"
+    },
+    {
+        "熱磁效應": "thermo-magnetic effect"
+    },
+    {
+        "熱機械效應": "thermomechanical effect"
+    },
+    {
+        "溫度計": "thermometer"
+    },
+    {
+        "測溫液[體]": "thermometric liquid"
+    },
+    {
+        "測溫性質": "thermometric property"
+    },
+    {
+        "溫[度]標": "thermometric scale"
+    },
+    {
+        "溫度記錄器": "thermometrograph"
+    },
+    {
+        "測溫術": "thermometry"
+    },
+    {
+        "熱遷徙": "thermomigration"
+    },
+    {
+        "熱分子壓力效應": "thermomolecular pressure effect"
+    },
+    {
+        "熱雜訊": "thermo-noise"
+    },
+    {
+        "熱核能": "thermonuclear energy"
+    },
+    {
+        "熱核裝置": "thermonuclear machine"
+    },
+    {
+        "熱核中子": "thermonuclear neutrons"
+    },
+    {
+        "熱核反應": "thermonuclear reaction"
+    },
+    {
+        "熱核技術學": "thermonucleonics"
+    },
+    {
+        "溫熱發聲器": "thermophone"
+    },
+    {
+        "熱物理學": "thermophysics"
+    },
+    {
+        "熱電堆；溫差電堆": "thermopile"
+    },
+    {
+        "熱塑材料": "thermoplastic material"
+    },
+    {
+        "熱[可]塑性": "thermoplasticity"
+    },
+    {
+        "熱電力": "thermopower"
+    },
+    {
+        "熱淬降": "thermoquenching"
+    },
+    {
+        "熱電繼電器": "thermorelay"
+    },
+    {
+        "測溫器": "thermoscope"
+    },
+    {
+        "熱敏元件": "thermosensitive device"
+    },
+    {
+        "熱固性；熱硬化": "thermosetting"
+    },
+    {
+        "熱固材料": "thermosetting material"
+    },
+    {
+        "熱球；增溫層": "thermosphere"
+    },
+    {
+        "恆溫器": "thermostat"
+    },
+    {
+        "熱致液晶": "thermotropic liquid crystal"
+    },
+    {
+        "熱電壓": "thermovoltage"
+    },
+    {
+        "θ點": "theta point"
+    },
+    {
+        "θ介子｛已改名為K介子｝": "theta-meson"
+    },
+    {
+        "θ-τ疑難": "theta-tau puzzle"
+    },
+    {
+        "戴維您定理": "Thevenin theorem"
+    },
+    {
+        "厚透鏡": "thick lens"
+    },
+    {
+        "厚度規": "thickness gauge"
+    },
+    {
+        "厚度計": "thickness meter"
+    },
+    {
+        "消色差薄雙合透鏡": "thin achromatic doublet"
+    },
+    {
+        "薄膜": "thin film"
+    },
+    {
+        "薄膜積體電路": "thin film integrated circuit"
+    },
+    {
+        "薄透鏡": "thin lens"
+    },
+    {
+        "薄稜鏡": "thin prism"
+    },
+    {
+        "薄化長度": "thin-down length"
+    },
+    {
+        "薄膜電容": "thin-film capacitor"
+    },
+    {
+        "薄膜物理學": "thin-film physics"
+    },
+    {
+        "薄膜電阻": "thin-film resistor"
+    },
+    {
+        "生光｛日月食｝": "third contact"
+    },
+    {
+        "第三運動定律": "third law of motion"
+    },
+    {
+        "熱力學第三定律": "third law of thermodynamics"
+    },
+    {
+        "第三級像差": "third order aberration"
+    },
+    {
+        "第三聲": "third sound"
+    },
+    {
+        "第三最近鄰": "third-nearest neighbor"
+    },
+    {
+        "三級非線性極化率": "third-order nonlinear susceptibility"
+    },
+    {
+        "三級非線性": "third-order nonlinearity"
+    },
+    {
+        "壓電[晶體]三十度截法": "thirty-degree piezoelectric cut｛=Y-cut｝"
+    },
+    {
+        "搖變性": "thixotropy"
+    },
+    {
+        "托馬斯進動": "Thomas precession"
+    },
+    {
+        "托馬斯-費米模型": "Thomas-Fermi model"
+    },
+    {
+        "托馬斯-費米-狄拉克模型": "Thomas-Fermi-Dirac model"
+    },
+    {
+        "托馬斯-瑞赫-庫恩求和定則": "Thomas-Reiche-Kuhn sum rule"
+    },
+    {
+        "湯姆森效應；托姆森效應": "Thomson effect"
+    },
+    {
+        "湯姆森檢流計；托姆森檢流計": "Thomson galvanometer"
+    },
+    {
+        "湯姆森熱；托姆森熱": "Thomson heat"
+    },
+    {
+        "湯姆森散射；托姆森散射": "Thomson scattering"
+    },
+    {
+        "特夫特規範": "t'Hooft gauge"
+    },
+    {
+        "托柔斯濾器｛增加輻射硬度用的｝": "Thoraeus filter"
+    },
+    {
+        "托瑞克斯過程": "Thorex process"
+    },
+    {
+        "釷土": "thoria"
+    },
+    {
+        "敷釷燈絲": "thoriated filament"
+    },
+    {
+        "含釷鎢": "thoriated tungsten"
+    },
+    {
+        "敷釷鎢燈絲": "thoriated tungsten filament"
+    },
+    {
+        "矽酸釷礦": "thorite"
+    },
+    {
+        "釷化合物": "thorium compound"
+    },
+    {
+        "釷射氣": "thorium emanation"
+    },
+    {
+        "釷系": "thorium family"
+    },
+    {
+        "釷[核]分裂": "thorium fission"
+    },
+    {
+        "硝酸釷": "thorium nitrate"
+    },
+    {
+        "釷系": "thorium series"
+    },
+    {
+        "釷": "thorium｛=Th｝"
+    },
+    {
+        "【气+土】": "thoron｛=Tn｝"
+    },
+    {
+        "釷鎢礦": "thorotungstite"
+    },
+    {
+        "釷鈾礦": "thoruraninite"
+    },
+    {
+        "臆想實驗；想像實驗": "thought experiment"
+    },
+    {
+        "穿過；切螺紋": "threading"
+    },
+    {
+        "類螺紋分子": "thread-like molecule"
+    },
+    {
+        "三色印刷": "three color printing"
+    },
+    {
+        "三維繞射": "three dimensional diffraction"
+    },
+    {
+        "三噴注": "three jet"
+    },
+    {
+        "三磁振子散射": "three magnon scattering"
+    },
+    {
+        "三相馬達": "three phase current motor"
+    },
+    {
+        "三原色": "three primary colors"
+    },
+    {
+        "波戈留波夫三階段": "three stages of Bogoliubov"
+    },
+    {
+        "三端[電]網路": "three terminal net [work]"
+    },
+    {
+        "三體碰撞": "three-body collision"
+    },
+    {
+        "三體問題": "three-body problem"
+    },
+    {
+        "三色管": "three-color tube"
+    },
+    {
+        "三維流": "three-dimensional flow"
+    },
+    {
+        "三維運動": "three-dimensional motion"
+    },
+    {
+        "三五族化合物": "three-five compound｛=III-V compound｝"
+    },
+    {
+        "三重軸": "threefold axis"
+    },
+    {
+        "三重對稱軸": "threefold axis of symmetry"
+    },
+    {
+        "三重分支點": "threefold branch point"
+    },
+    {
+        "三重符合": "threefold coincidence"
+    },
+    {
+        "三重簡併性；三重簡併度": "threefold degeneracy"
+    },
+    {
+        "3K [背景]輻射": "three-kelvin radiation"
+    },
+    {
+        "三能階雷射": "three-level laser"
+    },
+    {
+        "三粒子交互作用": "three-particle interaction"
+    },
+    {
+        "三相[交變]電流": "three-phase alternating current"
+    },
+    {
+        "三相整流器": "three-phase rectifier"
+    },
+    {
+        "三相區": "three-phase region"
+    },
+    {
+        "三光子毀滅": "three-photon annihilation"
+    },
+    {
+        "三光子衰變": "three-photon decay"
+    },
+    {
+        "三點端差公式": "three-point difference formula"
+    },
+    {
+        "三極開關": "three-pole switch"
+    },
+    {
+        "發射三量子毀滅": "three-quantum annihilation"
+    },
+    {
+        "三量子衰變": "three-quantum decay"
+    },
+    {
+        "三面形": "threesider"
+    },
+    {
+        "三自旋模型": "three-spin model"
+    },
+    {
+        "三節火箭": "three-stage rocket"
+    },
+    {
+        "三路管塞": "three-way stop-cock"
+    },
+    {
+        "底限；閾值": "threshold"
+    },
+    {
+        "底限支切": "threshold branch cut"
+    },
+    {
+        "閾值條件；底限條件": "threshold condition"
+    },
+    {
+        "閾值電流；低限電流": "threshold current"
+    },
+    {
+        "閾值效應；底限效應": "threshold effect"
+    },
+    {
+        "閾值能；底限能": "threshold energy"
+    },
+    {
+        "閾值頻率；底限頻率": "threshold frequency"
+    },
+    {
+        "底限定律": "threshold law"
+    },
+    {
+        "底限層級": "threshold level"
+    },
+    {
+        "底限能中子": "threshold neutron"
+    },
+    {
+        "可聞底限": "threshold of audibility"
+    },
+    {
+        "量測底限": "threshold of detectability"
+    },
+    {
+        "痛楚底限": "threshold of discomfort"
+    },
+    {
+        "聽覺底限": "threshold of hearing"
+    },
+    {
+        "閾值功率": "threshold power"
+    },
+    {
+        "底限反應": "threshold reaction"
+    },
+    {
+        "底限值": "threshold value"
+    },
+    {
+        "底限電壓": "threshold voltage"
+    },
+    {
+        "喉用傳聲器": "throat microphone"
+    },
+    {
+        "節流量熱器": "throttling calorimeter"
+    },
+    {
+        "節流曲線": "throttling curve"
+    },
+    {
+        "節流過程": "throttling process"
+    },
+    {
+        "均勻電鍍本領": "throwing power"
+    },
+    {
+        "推力": "thrust"
+    },
+    {
+        "碳鈾釷礦": "thucholite"
+    },
+    {
+        "銩": "thulium｛=Tm｝"
+    },
+    {
+        "雷": "thunder"
+    },
+    {
+        "閘流管記錄器": "thyratron recorder"
+    },
+    {
+        "閘流器": "thyristor"
+    },
+    {
+        "親甲狀腺同位素": "thyroid-seeking isotope"
+    },
+    {
+        "兆赫（=1012）": "THz｛=tera hertz｝"
+    },
+    {
+        "反饋線圈": "tickler coil"
+    },
+    {
+        "潮汐曲線": "tidal curve"
+    },
+    {
+        "潮汐力": "tidal force"
+    },
+    {
+        "潮汐摩擦[力]": "tidal friction"
+    },
+    {
+        "潮汐預測機": "tide predicting machine"
+    },
+    {
+        "生潮力": "tide-generating force"
+    },
+    {
+        "潮汐": "tides"
+    },
+    {
+        "結線": "tie line"
+    },
+    {
+        "結六面體": "tie-hexahedron"
+    },
+    {
+        "結四面體": "tie-tetrahedron"
+    },
+    {
+        "結三角[形]": "tie-triangle"
+    },
+    {
+        "強結合；緊密結合": "tight bond"
+    },
+    {
+        "緊耦合；密耦[合]": "tight coupling"
+    },
+    {
+        "緊束縛近似": "tight-binding approximation"
+    },
+    {
+        "音品；音色": "timbre"
+    },
+    {
+        "時；時刻": "time"
+    },
+    {
+        "時矢": "time arrow"
+    },
+    {
+        "時間平均干涉術": "time average interferometry"
+    },
+    {
+        "時基": "time base"
+    },
+    {
+        "時間帶": "time belt"
+    },
+    {
+        "時間常數": "time constant"
+    },
+    {
+        "時間關聯": "time correlation"
+    },
+    {
+        "時間延遲": "time delay"
+    },
+    {
+        "時間膨脹": "time dilatation"
+    },
+    {
+        "時間膨脹": "time dilation"
+    },
+    {
+        "時間平移": "time displacement"
+    },
+    {
+        "時閘": "time gate"
+    },
+    {
+        "時間積分": "time integral"
+    },
+    {
+        "時間間隔；時段": "time interval"
+    },
+    {
+        "時間反轉": "time inversion"
+    },
+    {
+        "時滯": "time lag"
+    },
+    {
+        "時光機": "time machine"
+    },
+    {
+        "時間調制": "time modulation"
+    },
+    {
+        "飛行時間": "time of flight｛=TOF｝"
+    },
+    {
+        "遲豫時間": "time of relaxation"
+    },
+    {
+        "靜置時間": "time of repose"
+    },
+    {
+        "時序算符": "time ordered operator"
+    },
+    {
+        "時序[乘]積": "time ordered product"
+    },
+    {
+        "時鐘弔詭；時間弔詭": "time paradox"
+    },
+    {
+        "TP違逆": "time parity violation"
+    },
+    {
+        "時間反轉": "time reversal"
+    },
+    {
+        "時間平移": "time translation"
+    },
+    {
+        "時間寬度": "time width"
+    },
+    {
+        "時區": "time zone"
+    },
+    {
+        "時間帶寬積": "time-bandwidth product"
+    },
+    {
+        "時基發生器": "time-base generator"
+    },
+    {
+        "延遲電路": "time-delay circuit"
+    },
+    {
+        "時間延遲常數": "time-delay constant"
+    },
+    {
+        "含時微擾": "time-dependent perturbation"
+    },
+    {
+        "含時薛丁格方程[式]": "time-dependent Schrödinger equation"
+    },
+    {
+        "含時波[動]函數": "time-dependent wave function"
+    },
+    {
+        "時移算符": "time-displacement operator"
+    },
+    {
+        "時距曲線": "time-distance curve"
+    },
+    {
+        "時域反射術": "time-domain reflectometry"
+    },
+    {
+        "時間演化算符": "time-evolution operator"
+    },
+    {
+        "時諧光波": "time-harmonic light wave"
+    },
+    {
+        "不含時微擾": "time-independent perturbation"
+    },
+    {
+        "不含時波方程[式]": "time-independent wave equation"
+    },
+    {
+        "時間不變系統": "time-invariant system"
+    },
+    {
+        "類時四向量": "time-like four-vector"
+    },
+    {
+        "類時間隔": "timelike interval"
+    },
+    {
+        "飛行時間法": "time-of-flight method"
+    },
+    {
+        "時序積": "time-ordered product"
+    },
+    {
+        "時序算符": "time-ordering operator"
+    },
+    {
+        "時計；定時器": "timer"
+    },
+    {
+        "時間分辨能譜術": "time-resolved spectroscopy"
+    },
+    {
+        "時間分辨率": "time-resolving power"
+    },
+    {
+        "時間反轉算符": "time-reversal operator"
+    },
+    {
+        "分時雷射": "time-sharing laser"
+    },
+    {
+        "時[間]溫[度]轉換圖": "time-temperature-transformation｛=TTT｝ diagram"
+    },
+    {
+        "脈衝時間-高度轉換器": "time-to-pulse-height converter"
+    },
+    {
+        "時移算符": "time-translation operator"
+    },
+    {
+        "校時；計時": "timing"
+    },
+    {
+        "計時脈衝": "timing pulse"
+    },
+    {
+        "錫鳴": "tin cry"
+    },
+    {
+        "錫": "tin｛=Sn｝"
+    },
+    {
+        "錫瘟": "tinplague"
+    },
+    {
+        "錫輝": "tint"
+    },
+    {
+        "色輝計": "tintometer"
+    },
+    {
+        "尖": "tip"
+    },
+    {
+        "組織": "tissue"
+    },
+    {
+        "組織培養": "tissue culture"
+    },
+    {
+        "組織等效電離室": "tissue-equivalent ionization chamber"
+    },
+    {
+        "組織等效物質": "tissue-equivalent material"
+    },
+    {
+        "泰坦｛土星第六號衛星｝": "Titan"
+    },
+    {
+        "鈦酸": "titanate"
+    },
+    {
+        "鈦": "titanium｛=Ti｝"
+    },
+    {
+        "滴定法": "titration"
+    },
+    {
+        "TJ模型": "T-J model"
+    },
+    {
+        "台面台階扭折結構": "TLK structure｛terrace-ledge-kink structure｝"
+    },
+    {
+        "T矩陣": "t-matrix"
+    },
+    {
+        "扭曲向列型液晶": "TN｛twisted nematic｝"
+    },
+    {
+        "黃色炸藥當量": "TNT equivalent"
+    },
+    {
+        "T數": "T-number"
+    },
+    {
+        "戶田鏈": "Toda chain"
+    },
+    {
+        "戶田晶格": "Toda lattice"
+    },
+    {
+        "萬有理論": "TOE｛theory of everything｝"
+    },
+    {
+        "手按開關": "toggle switch"
+    },
+    {
+        "托卡馬克｛一種環狀大電流熱核離子體實驗裝置｝；流磁機": "Tokamak"
+    },
+    {
+        "托卡馬克局束": "Tokamak confinement"
+    },
+    {
+        "容限": "tolerance"
+    },
+    {
+        "容許劑量": "tolerance dose"
+    },
+    {
+        "快[中子]容許通量": "tolerance fast[-neutron] flux"
+    },
+    {
+        "托曼-斯徒瓦效應": "Tolman and Stewart effect"
+    },
+    {
+        "甲苯": "toluene"
+    },
+    {
+        "甲苯": "toluol"
+    },
+    {
+        "頓巴黃銅": "tombac"
+    },
+    {
+        "斷層攝影術": "tomography"
+    },
+    {
+        "英噸": "ton"
+    },
+    {
+        "每平方吋噸數": "ton per square inch"
+    },
+    {
+        "音；純音": "tone"
+    },
+    {
+        "音調制": "tone modulation"
+    },
+    {
+        "音色": "tone quality"
+    },
+    {
+        "音階": "tone scale"
+    },
+    {
+        "鉗；鋏": "tongs"
+    },
+    {
+        "公噸": "tonne"
+    },
+    {
+        "音調計": "tonometer"
+    },
+    {
+        "齒紋波": "tooth ripple"
+    },
+    {
+        "陀螺": "top"
+    },
+    {
+        "頂層": "top layer"
+    },
+    {
+        "頂夸克": "top quark"
+    },
+    {
+        "黃玉": "topaz"
+    },
+    {
+        "托卜勒起電機": "Töpler electric machine"
+    },
+    {
+        "托卜勒起電機": "Töpler electrical machine"
+    },
+    {
+        "托卜勒點": "Töpler point"
+    },
+    {
+        "小孔徑寬視場鏡頭；彎月形透鏡": "topogon lens"
+    },
+    {
+        "形貌": "topogram"
+    },
+    {
+        "地形斟察": "topographic survey"
+    },
+    {
+        "地形學；形貌學": "topography"
+    },
+    {
+        "拓撲異構物": "topoisomer"
+    },
+    {
+        "拓撲荷": "topological charge"
+    },
+    {
+        "拓撲守恆律": "topological conservation law"
+    },
+    {
+        "拓撲缺陷": "topological defect"
+    },
+    {
+        "拓撲維數": "topological dimension"
+    },
+    {
+        "拓撲等義": "topological equivalence"
+    },
+    {
+        "拓撲群": "topological groups"
+    },
+    {
+        "拓撲映射": "topological mapping"
+    },
+    {
+        "拓撲[磁]單極": "topological monopole"
+    },
+    {
+        "拓撲量子數": "topological quantum number"
+    },
+    {
+        "拓撲孤立波": "topological soliton"
+    },
+    {
+        "拓撲變換": "topological transformation"
+    },
+    {
+        "拓撲繞數": "topological winding number"
+    },
+    {
+        "拓撲學；位相學": "topology"
+    },
+    {
+        "拓撲變換": "topotactic transformation"
+    },
+    {
+        "頂偶素": "topponium"
+    },
+    {
+        "反射環面": "tore of reflection"
+    },
+    {
+        "複曲面透鏡": "toric lens"
+    },
+    {
+        "複曲面": "toric surface"
+    },
+    {
+        "環體": "toroid"
+    },
+    {
+        "環式繞組": "toroid winding"
+    },
+    {
+        "環形室": "toroidal chamber"
+    },
+    {
+        "環式線圈": "toroidal coil"
+    },
+    {
+        "環狀形態": "toroidal configuration"
+    },
+    {
+        "環式局束": "toroidal confinement"
+    },
+    {
+        "環式放電": "toroidal discharge"
+    },
+    {
+        "環[狀]幾何位形": "toroidal geometry"
+    },
+    {
+        "曲面光柵單光器": "toroidal grating monochromator"
+    },
+    {
+        "環向磁場": "toroidal magnetic field"
+    },
+    {
+        "環形捏縮": "toroidal pinch"
+    },
+    {
+        "轉矩；力矩": "torque"
+    },
+    {
+        "力矩力": "torque force"
+    },
+    {
+        "轉矩磁強計": "torque magnetometer"
+    },
+    {
+        "轉矩計": "torque-meter"
+    },
+    {
+        "托｛=mmHg｝": "torr"
+    },
+    {
+        "托里切利真空": "Torricellian vacuum"
+    },
+    {
+        "托里切利定律": "Torricelli's law"
+    },
+    {
+        "扭轉；扭力": "torsion"
+    },
+    {
+        "扭轉角": "torsion angle"
+    },
+    {
+        "扭秤": "torsion balance"
+    },
+    {
+        "扭轉常數": "torsion constant"
+    },
+    {
+        "扭轉彈性": "torsion elasticity"
+    },
+    {
+        "扭絲": "torsion fibre"
+    },
+    {
+        "扭轉群": "torsion group"
+    },
+    {
+        "扭頭": "torsion head"
+    },
+    {
+        "示扭器": "torsion indicator"
+    },
+    {
+        "測扭干涉儀": "torsion interferometer"
+    },
+    {
+        "微扭計": "torsion micrometer"
+    },
+    {
+        "扭轉模量": "torsion modulus"
+    },
+    {
+        "扭擺": "torsion pendulum"
+    },
+    {
+        "扭桿": "torsion rod"
+    },
+    {
+        "扭力": "torsion[al] force"
+    },
+    {
+        "磁流體扭波": "torsional hydromagnetic wave"
+    },
+    {
+        "扭轉磁滯": "torsional hysteresis"
+    },
+    {
+        "扭轉壓電振盪": "torsional piezo-oscillation"
+    },
+    {
+        "扭轉剛度": "torsional rigidity"
+    },
+    {
+        "扭應變": "torsional strain"
+    },
+    {
+        "扭應力": "torsional stress"
+    },
+    {
+        "扭轉振動": "torsional vibration"
+    },
+    {
+        "扭波": "torsional wave"
+    },
+    {
+        "無扭轉群": "torsion-free group"
+    },
+    {
+        "扭力計": "torsionmeter"
+    },
+    {
+        "環面": "torus"
+    },
+    {
+        "反射環面": "torus of reflection"
+    },
+    {
+        "全吸收": "total absorption"
+    },
+    {
+        "總角動量": "total angular momentum"
+    },
+    {
+        "總結合能": "total binding energy"
+    },
+    {
+        "總截面": "total cross-section"
+    },
+    {
+        "全導數": "total derivative"
+    },
+    {
+        "全微分": "total differential"
+    },
+    {
+        "全色散": "total dispersion"
+    },
+    {
+        "全食": "total eclipse"
+    },
+    {
+        "總落差": "total head"
+    },
+    {
+        "焓": "total heat"
+    },
+    {
+        "全內反射": "total internal reflection"
+    },
+    {
+        "總壓[力]": "total pressure"
+    },
+    {
+        "總量子數": "total quantum number"
+    },
+    {
+        "全[波]輻射器": "total radiator"
+    },
+    {
+        "全反射": "total reflection"
+    },
+    {
+        "總散射": "total scattering"
+    },
+    {
+        "總穿透率": "total transmittance"
+    },
+    {
+        "接觸；微量": "touch"
+    },
+    {
+        "堅韌；韌性": "toughness"
+    },
+    {
+        "電氣石": "tourmaline"
+    },
+    {
+        "電氣石鉗": "tourmaline tongs"
+    },
+    {
+        "突謝克效應": "Touschek effect"
+    },
+    {
+        "湯森德特性曲線": "Townsend characteristic"
+    },
+    {
+        "湯森德放電": "Townsend discharge"
+    },
+    {
+        "湯森德電離[作用]": "Townsend ionization"
+    },
+    {
+        "毒劑": "toxic agent"
+    },
+    {
+        "毒物": "toxicant"
+    },
+    {
+        "毒性": "toxicity"
+    },
+    {
+        "對角和；跡數": "trace"
+    },
+    {
+        "痕量": "trace amount"
+    },
+    {
+        "痕量分析": "trace analysis"
+    },
+    {
+        "痕量雜質": "trace impurity"
+    },
+    {
+        "示蹤物": "tracer"
+    },
+    {
+        "示蹤物化學": "tracer chemistry"
+    },
+    {
+        "示蹤化合物": "tracer compound"
+    },
+    {
+        "示蹤探測器": "tracer detector"
+    },
+    {
+        "示蹤元素": "tracer element"
+    },
+    {
+        "示蹤實驗": "tracer experiment"
+    },
+    {
+        "示蹤同位素": "tracer isotope"
+    },
+    {
+        "示蹤法": "tracer method"
+    },
+    {
+        "標示示蹤": "tracer-labelling"
+    },
+    {
+        "徑跡": "track"
+    },
+    {
+        "徑跡角": "track angle"
+    },
+    {
+        "徑跡室": "track chamber"
+    },
+    {
+        "徑跡凝結": "track condensation"
+    },
+    {
+        "[粒子]徑跡數計數": "track count"
+    },
+    {
+        "跟蹤器；追蹤器": "tracker"
+    },
+    {
+        "徑跡侵蝕偵測器": "track-etch detector"
+    },
+    {
+        "追蹤": "tracking"
+    },
+    {
+        "隨動望遠鏡": "tracking telescope"
+    },
+    {
+        "牽引": "traction"
+    },
+    {
+        "牽引力": "traction force"
+    },
+    {
+        "貿易風": "trade wind"
+    },
+    {
+        "尾沿": "trailing edge"
+    },
+    {
+        "尾曳渦旋": "trailing vortex"
+    },
+    {
+        "尾曳波": "trailing wave"
+    },
+    {
+        "尾曳力": "trailing-edge drag"
+    },
+    {
+        "尾曳渦旋": "trailing-vortex drag"
+    },
+    {
+        "列": "train"
+    },
+    {
+        "波列": "train of waves"
+    },
+    {
+        "列波": "train wave"
+    },
+    {
+        "軌跡；彈道": "trajectory"
+    },
+    {
+        "超錒元素": "transactinoide [element]"
+    },
+    {
+        "跨導納": "transadmittance"
+    },
+    {
+        "收發機；收發器": "transceiver"
+    },
+    {
+        "超越函數": "transcendental function"
+    },
+    {
+        "跨導": "transconductance"
+    },
+    {
+        "跨臨界分歧": "transcritical bifurcation"
+    },
+    {
+        "跨晶粒破裂": "transcrystalline rupture"
+    },
+    {
+        "橫結晶": "transcrystallization"
+    },
+    {
+        "超鋦元素": "transcurium"
+    },
+    {
+        "換能器": "transducer"
+    },
+    {
+        "飽和電抗器": "transductor"
+    },
+    {
+        "轉換": "transfer"
+    },
+    {
+        "轉移特性": "transfer characteristic"
+    },
+    {
+        "轉移碰撞": "transfer collision"
+    },
+    {
+        "轉移函物；傳遞函數": "transfer function"
+    },
+    {
+        "轉移阻抗": "transfer impedance"
+    },
+    {
+        "轉移矩陣；傳遞矩陣": "transfer matrix"
+    },
+    {
+        "轉移反應": "transfer reaction"
+    },
+    {
+        "超限感應": "transfinite induction"
+    },
+    {
+        "變換[式]": "transform"
+    },
+    {
+        "變換；轉換": "transformation"
+    },
+    {
+        "變換式": "transformation equation"
+    },
+    {
+        "變換群": "transformation group"
+    },
+    {
+        "變換律": "transformation law"
+    },
+    {
+        "變換矩陣": "transformation matrix"
+    },
+    {
+        "變換算符": "transformation operator"
+    },
+    {
+        "變壓器": "transformer"
+    },
+    {
+        "變壓器耦合放大器": "transformer coupled amplifier"
+    },
+    {
+        "變壓器耦合": "transformer coupling"
+    },
+    {
+        "滲流": "transfusion"
+    },
+    {
+        "跨粒破裂": "transgranular fracture"
+    },
+    {
+        "過渡過程": "transient [process]"
+    },
+    {
+        "暫態分析器": "transient analyzer"
+    },
+    {
+        "暫態混沌": "transient chaos"
+    },
+    {
+        "暫態特性": "transient characteristic"
+    },
+    {
+        "暫態爬動": "transient creep"
+    },
+    {
+        "暫態電流": "transient current"
+    },
+    {
+        "瞬畸變": "transient distortion"
+    },
+    {
+        "暫態效應": "transient effect"
+    },
+    {
+        "瞬變平衡": "transient equilibrium"
+    },
+    {
+        "瞬間磁變": "transient magnetic variation"
+    },
+    {
+        "瞬間運動": "transient motion"
+    },
+    {
+        "過渡振盪": "transient oscillation"
+    },
+    {
+        "瞬間過衝": "transient overshoot"
+    },
+    {
+        "過渡期間": "transient period"
+    },
+    {
+        "過渡現象": "transient phenomenon"
+    },
+    {
+        "瞬間電漿": "transient plasma"
+    },
+    {
+        "瞬間壓力；過渡壓力": "transient pressure"
+    },
+    {
+        "過渡問題": "transient problem"
+    },
+    {
+        "瞬間脈衝": "transient pulse"
+    },
+    {
+        "暫抗": "transient reactance"
+    },
+    {
+        "瞬變回應": "transient response"
+    },
+    {
+        "瞬態": "transient state"
+    },
+    {
+        "過渡時間": "transient time"
+    },
+    {
+        "暫態電壓": "transient voltage"
+    },
+    {
+        "透光度｛醫學｝": "transillumination"
+    },
+    {
+        "照光聚光鏡": "transillumination condenser"
+    },
+    {
+        "轉抗作用": "transistance"
+    },
+    {
+        "電晶體": "transistor"
+    },
+    {
+        "電晶體放大器": "transistor amplifier"
+    },
+    {
+        "電晶體四極體": "transistor tetrode"
+    },
+    {
+        "電晶體三極體": "transistor triode"
+    },
+    {
+        "電晶體-電晶體邏輯": "transistor-transistor logic｛=TTL｝"
+    },
+    {
+        "通過；凌日；經緯儀；子午儀；中星儀": "transit"
+    },
+    {
+        "通行角度": "transit angle"
+    },
+    {
+        "子午圈": "transit circle"
+    },
+    {
+        "中星儀；經緯儀": "transit instrument"
+    },
+    {
+        "暫態振盪": "transit oscillation"
+    },
+    {
+        "經緯儀": "transit theodolite"
+    },
+    {
+        "通行時間；過渡時間": "transit time"
+    },
+    {
+        "相變；躍遷；轉變": "transition"
+    },
+    {
+        "過渡金屬合金": "transition alloy"
+    },
+    {
+        "轉換椎": "transition cone"
+    },
+    {
+        "躍遷截面": "transition cross-section"
+    },
+    {
+        "過渡元素": "transition element"
+    },
+    {
+        "相變能；躍遷能；轉變能": "transition energy"
+    },
+    {
+        "過渡流": "transition flow"
+    },
+    {
+        "躍遷頻率": "transition frequency"
+    },
+    {
+        "相變熱": "transition heat"
+    },
+    {
+        "轉變層": "transition layer"
+    },
+    {
+        "轉變損失": "transition loss"
+    },
+    {
+        "躍遷矩陣": "transition matrix"
+    },
+    {
+        "過渡金屬": "transition metal"
+    },
+    {
+        "躍遷矩": "transition moment"
+    },
+    {
+        "過渡核": "transition nucleus"
+    },
+    {
+        "一級相變": "transition of the first order"
+    },
+    {
+        "二級相變": "transition of the second order"
+    },
+    {
+        "躍遷算符": "transition operator"
+    },
+    {
+        "轉變級": "transition order"
+    },
+    {
+        "躍遷現象": "transition phenomenon"
+    },
+    {
+        "相變點": "transition point"
+    },
+    {
+        "躍遷機率": "transition probability"
+    },
+    {
+        "躍遷過程；相變過程": "transition process"
+    },
+    {
+        "渡越輻射": "transition radiation"
+    },
+    {
+        "渡越輻射探測器": "transition radiation detector"
+    },
+    {
+        "躍遷[時]率": "transition rate"
+    },
+    {
+        "轉變區；相變區": "transition region"
+    },
+    {
+        "過渡狀態": "transition state"
+    },
+    {
+        "相變溫度": "transition temperature"
+    },
+    {
+        "躍遷時間；轉變時間": "transition time"
+    },
+    {
+        "過渡色輝": "transition tint"
+    },
+    {
+        "過渡區": "transition zone"
+    },
+    {
+        "遞移群": "transitive group"
+    },
+    {
+        "遞移律": "transitive law"
+    },
+    {
+        "遞移關係": "transitive relation"
+    },
+    {
+        "遞移性": "transitivity"
+    },
+    {
+        "短暫激源": "transitory stimulus"
+    },
+    {
+        "負跨導管": "transitron"
+    },
+    {
+        "通行時間補償": "transit-time compensation"
+    },
+    {
+        "通行時間延遲": "transit-time delay"
+    },
+    {
+        "過渡時振盪": "transit-time oscillator"
+    },
+    {
+        "過渡時現象": "transit-time phenomenon"
+    },
+    {
+        "平移": "translation"
+    },
+    {
+        "平移分量": "translation component"
+    },
+    {
+        "平移動能": "translation energy"
+    },
+    {
+        "平移滑走": "translation gliding"
+    },
+    {
+        "平移群": "translation group"
+    },
+    {
+        "平移晶格": "translation lattice"
+    },
+    {
+        "平移操作": "translation operation"
+    },
+    {
+        "平移算符": "translation operator"
+    },
+    {
+        "平移週期": "translation period"
+    },
+    {
+        "平移阻力": "translation resistance"
+    },
+    {
+        "平移滑動": "translation slip"
+    },
+    {
+        "平移對稱": "translation symmetry"
+    },
+    {
+        "平移向量": "translation vector"
+    },
+    {
+        "線加速度；平移加速度": "translational acceleration"
+    },
+    {
+        "平移軸": "translational axis"
+    },
+    {
+        "平移自由度": "translational degree of freedom"
+    },
+    {
+        "平移[運動]熵；線性[運動]熵": "translational entropy"
+    },
+    {
+        "平移不變性": "translational invariance"
+    },
+    {
+        "平移": "translational motion"
+    },
+    {
+        "平移速度；線性速度": "translational velocity"
+    },
+    {
+        "平移振動；線性振動": "translational vibration"
+    },
+    {
+        "平移波": "translational wave"
+    },
+    {
+        "無平移殘餘[點對稱]": "translation-free residue"
+    },
+    {
+        "翻譯機；轉譯器": "translator"
+    },
+    {
+        "移動": "translatory"
+    },
+    {
+        "移動流": "translatory flow"
+    },
+    {
+        "移動；線性移動": "translatory shift"
+    },
+    {
+        "半透明性；半透明度；半透澈度": "translucence"
+    },
+    {
+        "半透明性；半透明度；半透澈度": "translucency"
+    },
+    {
+        "半透明體": "translucent body"
+    },
+    {
+        "半透明介質": "translucent medium"
+    },
+    {
+        "透膜過程": "transmembrane process"
+    },
+    {
+        "可傳性；可透性": "transmissibility"
+    },
+    {
+        "傳遞；發送；  透射；穿透；傳輸": "transmission"
+    },
+    {
+        "傳輸頻帶": "transmission band"
+    },
+    {
+        "透射伯格-巴瑞特技術": "transmission Berg-Barrett technique"
+    },
+    {
+        "透射照相機": "transmission camera"
+    },
+    {
+        "傳輸頻道": "transmission channel"
+    },
+    {
+        "透射係數": "transmission coefficient"
+    },
+    {
+        "透射常數": "transmission constant"
+    },
+    {
+        "透射橫截面": "transmission cross-section"
+    },
+    {
+        "透線凹陷": "transmission dip"
+    },
+    {
+        "傳輸方向": "transmission direction"
+    },
+    {
+        "透射式階梯光柵": "transmission échelon"
+    },
+    {
+        "發送效率；傳輸效率": "transmission efficiency"
+    },
+    {
+        "穿透式電子繞射": "transmission electron diffraction"
+    },
+    {
+        "穿透式電子顯微鏡": "transmission electron microscope｛=TEM｝"
+    },
+    {
+        "穿透式電子輻射計": "transmission electron radiography"
+    },
+    {
+        "透射光柵": "transmission grating"
+    },
+    {
+        "透射全相圖；透射全像圖": "transmission hologram"
+    },
+    {
+        "透射高度圖": "transmission hypsogram"
+    },
+    {
+        "透射光": "transmission light"
+    },
+    {
+        "傳輸線；輸電線": "transmission line"
+    },
+    {
+        "傳輸損耗": "transmission loss"
+    },
+    {
+        "傳輸矩陣；T矩陣": "transmission matrix｛=T-matrix｝"
+    },
+    {
+        "穿透式顯微鏡": "transmission microscope"
+    },
+    {
+        "傳輸模[態]": "transmission mode"
+    },
+    {
+        "壓力之傳遞": "transmission of pressure"
+    },
+    {
+        "聲之透射；聲之傳遞": "transmission of sound"
+    },
+    {
+        "傳輸面": "transmission plane"
+    },
+    {
+        "傳輸功率": "transmission power"
+    },
+    {
+        "傳輸速度": "transmission velocity"
+    },
+    {
+        "透射比": "transmissivity"
+    },
+    {
+        "透射儀": "transmissometry"
+    },
+    {
+        "透射比": "transmittance"
+    },
+    {
+        "透射計": "transmittance meter"
+    },
+    {
+        "透射比曝光量曲線": "transmittance-exposure curve"
+    },
+    {
+        "相對穿透率": "transmittancy"
+    },
+    {
+        "穿透強度；透射強度": "transmitted intensity"
+    },
+    {
+        "透射功率": "transmitted power"
+    },
+    {
+        "透射波": "transmitted wave"
+    },
+    {
+        "透射頻帶": "transmitted-frequency band"
+    },
+    {
+        "透射光聚光鏡": "transmitted-light condenser"
+    },
+    {
+        "透射功率計": "transmitted-power meter"
+    },
+    {
+        "發送機；  發報機；發話機；話筒": "transmitter"
+    },
+    {
+        "發送天線": "transmitter aerial"
+    },
+    {
+        "發送天線": "transmitter antenna"
+    },
+    {
+        "發送接收器": "transmitter receiver"
+    },
+    {
+        "發送功率響應": "transmitting power response"
+    },
+    {
+        "發送管｛電信｝": "transmitting tube"
+    },
+    {
+        "透射率": "transmittivity"
+    },
+    {
+        "遷變": "transmutation"
+    },
+    {
+        "遷變同位素": "transmutation isotope"
+    },
+    {
+        "遷變機率": "transmutation probability"
+    },
+    {
+        "跨音速方程[式]": "transonic equation"
+    },
+    {
+        "跨音速流": "transonic flow"
+    },
+    {
+        "透明性；透澈性；透明度；透澈度": "transparency"
+    },
+    {
+        "透明導電電極": "transparent conducting electrode"
+    },
+    {
+        "透明介質": "transparent medium"
+    },
+    {
+        "蒸騰冷卻": "transpiration cooling"
+    },
+    {
+        "蒸騰牽引機": "transpiration pull"
+    },
+    {
+        "超鈽元素": "transplutonium element"
+    },
+    {
+        "傳輸；輸運；遷移": "transport"
+    },
+    {
+        "輸運係數；傳輸係數": "transport coefficient"
+    },
+    {
+        "輸運截面；傳輸截面": "transport cross-section"
+    },
+    {
+        "輸運延遲；傳輸延遲": "transport delay"
+    },
+    {
+        "輸運效應；傳輸效應": "transport effect"
+    },
+    {
+        "輸運熵；傳輸熵": "transport entropy"
+    },
+    {
+        "傳輸方程[式]": "transport equation"
+    },
+    {
+        "傳輸延遲": "transport lag"
+    },
+    {
+        "傳輸平均自由徑": "transport mean free path"
+    },
+    {
+        "傳輸現象": "transport phenomenon"
+    },
+    {
+        "位調式": "transpose"
+    },
+    {
+        "轉置核心": "transposed kernel"
+    },
+    {
+        "轉置矩陣": "transposed matrix"
+    },
+    {
+        "轉置共軛矩陣": "transposed-conjugate matrix"
+    },
+    {
+        "位調；轉置；換位；易位；移項": "transposition"
+    },
+    {
+        "換位反應": "transposition reaction"
+    },
+    {
+        "跨整流器": "transrectifier"
+    },
+    {
+        "超鈾元素": "transuranic element"
+    },
+    {
+        "超鈾元素核": "transuranium nucleus"
+    },
+    {
+        "橫波": "transversal wave"
+    },
+    {
+        "橫向性": "transversality"
+    },
+    {
+        "橫向加速度": "transverse acceleration"
+    },
+    {
+        "橫向聲模": "transverse acoustical mode"
+    },
+    {
+        "橫向色[像]差": "transverse chromatic aberration"
+    },
+    {
+        "橫向同調性": "transverse coherence"
+    },
+    {
+        "橫向收縮": "transverse contraction"
+    },
+    {
+        "橫向擴散": "transverse diffusion"
+    },
+    {
+        "橫向杜卜勒效應": "transverse Doppler effect"
+    },
+    {
+        "橫向效應": "transverse effect"
+    },
+    {
+        "橫向電波": "transverse electric wave"
+    },
+    {
+        "橫向電波模": "transverse electric｛=TE｝ mode"
+    },
+    {
+        "橫向電磁波": "transverse electromagnetic wave"
+    },
+    {
+        "橫向電磁波模": "transverse electromagnetic｛=TEM｝ mode"
+    },
+    {
+        "橫向膨脹": "transverse expansion"
+    },
+    {
+        "橫向力": "transverse force"
+    },
+    {
+        "橫向規範": "transverse gauge"
+    },
+    {
+        "橫磁波": "transverse magnetic wave"
+    },
+    {
+        "橫向磁波模": "transverse magnetic｛=TM｝ mode"
+    },
+    {
+        "橫磁阻": "transverse magnetoresistance"
+    },
+    {
+        "橫向磁致伸縮": "transverse magneto-striction"
+    },
+    {
+        "橫向放大率；橫向放大": "transverse magnification"
+    },
+    {
+        "橫質量": "transverse mass"
+    },
+    {
+        "橫介子": "transverse meson"
+    },
+    {
+        "橫模；橫向模態": "transverse mode"
+    },
+    {
+        "橫動量": "transverse momentum"
+    },
+    {
+        "橫向運動": "transverse motion"
+    },
+    {
+        "橫光模": "transverse optical mode"
+    },
+    {
+        "橫向壓電效應": "transverse piezoelectric effect"
+    },
+    {
+        "橫向極化": "transverse polarization"
+    },
+    {
+        "橫向壓": "transverse pressure"
+    },
+    {
+        "橫向牽引": "transverse pull"
+    },
+    {
+        "橫向弛豫": "transverse relaxation"
+    },
+    {
+        "橫向散射": "transverse scattering"
+    },
+    {
+        "橫向應變": "transverse strain"
+    },
+    {
+        "橫向成層": "transverse stratification"
+    },
+    {
+        "橫向應力": "transverse stress"
+    },
+    {
+        "橫向振動": "transverse vibration"
+    },
+    {
+        "橫波": "transverse wave"
+    },
+    {
+        "橫向季曼效應": "transverse Zeeman effect"
+    },
+    {
+        "橫激大氣壓[力]氣體雷射": "transversely excited atmospheric gas laser"
+    },
+    {
+        "橫激大氣壓[力]氣體雷射": "transversely excited atmospheric pressure laser"
+    },
+    {
+        "橫激模": "transversely excited mode"
+    },
+    {
+        "易位": "transversion"
+    },
+    {
+        "換頻器；轉換器": "transverter"
+    },
+    {
+        "陷阱": "trap"
+    },
+    {
+        "陷擾電路；陷波電路": "trap circuit"
+    },
+    {
+        "不規則四邊形（美）；梯形（英）": "trapezium"
+    },
+    {
+        "梯形畸變": "trapezium distortion"
+    },
+    {
+        "偏方錐面形[晶體]；二十四面體[晶體]": "trapezohedral [crystal] class"
+    },
+    {
+        "偏方三八面體": "trapezohedron"
+    },
+    {
+        "梯形脈衝": "trapezoidal pulse"
+    },
+    {
+        "梯形定則": "trapezoidal rule"
+    },
+    {
+        "梯形波產生器": "trapezoidal wave generator"
+    },
+    {
+        "入陷焦形軌": "trapped banana"
+    },
+    {
+        "入陷電子": "trapped electron"
+    },
+    {
+        "入陷磁場": "trapped magnetic field"
+    },
+    {
+        "陷捕": "trapping"
+    },
+    {
+        "陷捕中心": "trapping center"
+    },
+    {
+        "陷捕截面": "trapping cross-section"
+    },
+    {
+        "陷捕集能階": "trapping level"
+    },
+    {
+        "可移動距離": "travel"
+    },
+    {
+        "行丘": "traveling dune"
+    },
+    {
+        "行進場": "traveling field"
+    },
+    {
+        "移動加熱器溶劑法": "traveling heater solvent method"
+    },
+    {
+        "移測顯微鏡": "traveling microscope"
+    },
+    {
+        "旅行推銷員問題": "traveling salesman problem"
+    },
+    {
+        "行進波": "traveling wave"
+    },
+    {
+        "行場電磁泵": "traveling-field electromagnetic pump"
+    },
+    {
+        "行進波加速器": "traveling-wave accelerator"
+    },
+    {
+        "行進波邁射": "traveling-wave maser"
+    },
+    {
+        "時距曲線": "travel-time curve"
+    },
+    {
+        "時距曲線": "travel-time curve｛=time-distance curve｝"
+    },
+    {
+        "時距表": "travel-time table"
+    },
+    {
+        "橫跨線": "traverse line"
+    },
+    {
+        "橫向運動": "traversing"
+    },
+    {
+        "處理": "treatment"
+    },
+    {
+        "樹形圖": "tree diagram"
+    },
+    {
+        "樹形放電": "tree discharge"
+    },
+    {
+        "抖動": "trembling motion"
+    },
+    {
+        "微震": "tremor"
+    },
+    {
+        "趨勢": "trend"
+    },
+    {
+        "三重軸": "triad axis"
+    },
+    {
+        "三重結構": "triadic structure"
+    },
+    {
+        "凸起十二面體": "triakisdodecahedron"
+    },
+    {
+        "凸起八面體": "triakisoctahedron"
+    },
+    {
+        "嘗試法；試誤法": "trial and error method"
+    },
+    {
+        "試探函數": "trial function"
+    },
+    {
+        "試探移動": "trial move"
+    },
+    {
+        "三角形": "triangle"
+    },
+    {
+        "Δ連接；三角連接": "triangle connection"
+    },
+    {
+        "三角化分法": "triangle diagram"
+    },
+    {
+        "力之三角形": "triangle of forces"
+    },
+    {
+        "向量三角形": "triangle of vectors"
+    },
+    {
+        "三角形脈衝": "triangle pulse"
+    },
+    {
+        "三角形分辨函數": "triangular resolution function"
+    },
+    {
+        "三角波": "triangular wave"
+    },
+    {
+        "三角測量": "triangulation"
+    },
+    {
+        "三角測量點": "triangulation point"
+    },
+    {
+        "三軸橢球": "triaxial ellipsoid"
+    },
+    {
+        "摩擦化學": "tribochemistry"
+    },
+    {
+        "摩擦起電效應": "triboelectric effect"
+    },
+    {
+        "摩擦電": "triboelectricity"
+    },
+    {
+        "摩擦帶電": "triboelectrification"
+    },
+    {
+        "摩擦學": "tribology"
+    },
+    {
+        "摩擦冷光": "triboluminescence"
+    },
+    {
+        "摩擦計": "tribometer"
+    },
+    {
+        "摩擦物理": "tribophysics"
+    },
+    {
+        "三色性": "trichroism"
+    },
+    {
+        "三原色係數": "trichromatic coefficient"
+    },
+    {
+        "三原色比色計": "trichromatic colorimeter"
+    },
+    {
+        "三原色理論": "trichromatic theory"
+    },
+    {
+        "三色視覺": "trichromatic vision"
+    },
+    {
+        "涓滴充電": "trickling charge"
+    },
+    {
+        "滴濾器": "trickling filter"
+    },
+    {
+        "三斜晶": "triclinic crystal"
+    },
+    {
+        "三斜半面像晶族": "triclinic hemihedral class"
+    },
+    {
+        "三斜全像晶族": "triclinic holohedral class"
+    },
+    {
+        "三斜[晶]系": "triclinic system"
+    },
+    {
+        "三重臨界點": "tricritical point"
+    },
+    {
+        "三晶": "tricrystal"
+    },
+    {
+        "牛頓三叉曲線": "trident of Newton"
+    },
+    {
+        "三裂雲氣": "trifid nebula"
+    },
+    {
+        "觸發放電管": "trigatron"
+    },
+    {
+        "觸發器；觸發信號": "trigger"
+    },
+    {
+        "觸發電路": "trigger circuit"
+    },
+    {
+        "觸發電極": "trigger electrode"
+    },
+    {
+        "觸發脈衝": "trigger pulse"
+    },
+    {
+        "觸發靈敏度": "trigger sensitivity"
+    },
+    {
+        "觸發能": "triggering energy"
+    },
+    {
+        "觸發脈衝": "triggering pulse"
+    },
+    {
+        "觸發晶體": "trigistor"
+    },
+    {
+        "硫酸三甘氨酸": "triglycine sulphate sulfate｛=TGS｝"
+    },
+    {
+        "三角晶格": "trigonal lattice"
+    },
+    {
+        "三角晶系": "trigonal system"
+    },
+    {
+        "三角函數": "trigonometric functions"
+    },
+    {
+        "三角光線追跡": "trigonometric ray tracing"
+    },
+    {
+        "三角水準測量": "trigonometrical leveling"
+    },
+    {
+        "三角學": "trigonometry"
+    },
+    {
+        "三面角": "trihedron"
+    },
+    {
+        "兆；1012": "trillion"
+    },
+    {
+        "修整電容器；微調電容器": "trimmer capacitor"
+    },
+    {
+        "三形性": "trimorphism"
+    },
+    {
+        "三極體": "triode"
+    },
+    {
+        "三元性": "triolity"
+    },
+    {
+        "跳脫；解扣": "trip"
+    },
+    {
+        "跳脫電路": "trip circuit"
+    },
+    {
+        "跳脫線圈": "trip coil"
+    },
+    {
+        "解扣功率": "trip power"
+    },
+    {
+        "三鍵": "triple bond"
+    },
+    {
+        "三體碰撞": "triple collision"
+    },
+    {
+        "三相曲線": "triple curve"
+    },
+    {
+        "三級γ射線級聯": "triple gamma-ray cascade"
+    },
+    {
+        "三倍數諧波": "triple harmonic"
+    },
+    {
+        "三重積分": "triple integral"
+    },
+    {
+        "三垂面反射鏡": "triple mirror"
+    },
+    {
+        "三相點": "triple point"
+    },
+    {
+        "[向量]三重積": "triple product"
+    },
+    {
+        "三重純量積": "triple scalar product"
+    },
+    {
+        "三重向量積": "triple vector product"
+    },
+    {
+        "三晶繞射儀": "triple-crystal diffractometer"
+    },
+    {
+        "三對角線矩陣": "triple-diagonal matrix"
+    },
+    {
+        "三重線；三重態；三合[透]鏡": "triplet"
+    },
+    {
+        "三重態交互作用": "triplet interaction"
+    },
+    {
+        "三重線間隔": "triplet intervals"
+    },
+    {
+        "三重態能級": "triplet level"
+    },
+    {
+        "三重態正子電子偶": "triplet positronium"
+    },
+    {
+        "三重態能譜": "triplet spectrum"
+    },
+    {
+        "三重態": "triplet state"
+    },
+    {
+        "三合薄透鏡": "triplet thin lens"
+    },
+    {
+        "三基飽和": "triply saturated"
+    },
+    {
+        "三腳放大鏡": "tripod magnifier"
+    },
+    {
+        "三極": "tripole"
+    },
+    {
+        "斷路": "trip-out"
+    },
+    {
+        "跳脫裝置；解扣裝置": "tripping device"
+    },
+    {
+        "跳脫脈衝": "tripping pulse"
+    },
+    {
+        "三八面體": "trisoctahedron"
+    },
+    {
+        "三四面體": "tristetrahedron"
+    },
+    {
+        "三原色度計": "tristimulus colorimeter"
+    },
+    {
+        "三色值": "tristimulus values"
+    },
+    {
+        "黃藍色盲": "tritanopia"
+    },
+    {
+        "氚飽和水": "tritiated water"
+    },
+    {
+        "氚": "tritium"
+    },
+    {
+        "氚滋生比": "tritium breeding ratio"
+    },
+    {
+        "氚監測器": "tritium monitor"
+    },
+    {
+        "氚核": "tritium nucleus"
+    },
+    {
+        "氚核": "triton nucleus"
+    },
+    {
+        "三空位": "trivacancy"
+    },
+    {
+        "三價離子": "trivalent ion"
+    },
+    {
+        "三價金屬": "trivalent metal"
+    },
+    {
+        "明顯解": "trivial solution"
+    },
+    {
+        "次擺線": "trochoid"
+    },
+    {
+        "次擺線分析器": "trochoidal analyzer"
+    },
+    {
+        "次擺線質譜儀": "trochoidal mass spectrometer"
+    },
+    {
+        "次擺線波": "trochoidal wave"
+    },
+    {
+        "多極電子管": "trochotron"
+    },
+    {
+        "[北；南]迴歸線": "tropic [of cancer]"
+    },
+    {
+        "[北；南]迴歸線": "tropic [of capricon]"
+    },
+    {
+        "回歸年": "tropic year"
+    },
+    {
+        "回歸帶": "tropic zone"
+    },
+    {
+        "回歸月": "tropical month"
+    },
+    {
+        "回歸年": "tropical year"
+    },
+    {
+        "回歸帶": "tropical zone"
+    },
+    {
+        "熱帶": "tropics"
+    },
+    {
+        "對流層頂": "tropopause"
+    },
+    {
+        "對流層頂振盪": "tropopause oscillation"
+    },
+    {
+        "對流層": "troposphere"
+    },
+    {
+        "對流層波": "troposphere wave"
+    },
+    {
+        "對流層波": "tropospheric wave"
+    },
+    {
+        "故障": "trouble"
+    },
+    {
+        "故障係數": "trouble coefficient"
+    },
+    {
+        "故障線": "troubling line"
+    },
+    {
+        "[波]谷；槽": "trough"
+    },
+    {
+        "英國金衡制": "troy weights"
+    },
+    {
+        "真近點角｛天文｝": "true anomaly"
+    },
+    {
+        "真電荷": "true charge"
+    },
+    {
+        "真色散": "true dispersion"
+    },
+    {
+        "真焦點": "true focus"
+    },
+    {
+        "真底限": "true threshold"
+    },
+    {
+        "真值": "true value"
+    },
+    {
+        "真重": "true weight"
+    },
+    {
+        "細管喇叭": "trumbone"
+    },
+    {
+        "小號": "trumpet"
+    },
+    {
+        "截斷圖形": "truncated diagram"
+    },
+    {
+        "截斷": "truncation"
+    },
+    {
+        "截斷誤差；截短誤差": "truncation error"
+    },
+    {
+        "截斷因子": "truncation factor"
+    },
+    {
+        "幹線": "trunk line"
+    },
+    {
+        "真值表": "truth table"
+    },
+    {
+        "真值": "truth value"
+    },
+    {
+        "熱激電流": "TSC｛thermal stimulate current｝"
+    },
+    {
+        "矽鈦鈰釔礦": "tscheffkinite"
+    },
+    {
+        "矽鈦鈰釔礦": "tschewkinite"
+    },
+    {
+        "T-節濾器": "T-section filter"
+    },
+    {
+        "每平方吋噸數": "tsi"
+    },
+    {
+        "丁字尺": "T-square"
+    },
+    {
+        "管；[電子]管": "tube"
+    },
+    {
+        "電子管接合器": "tube adapter"
+    },
+    {
+        "管式計數器": "tube counter"
+    },
+    {
+        "管頸": "tube neck"
+    },
+    {
+        "管生雜訊": "tube noise"
+    },
+    {
+        "流束": "tube of flow"
+    },
+    {
+        "通量束": "tube of flux"
+    },
+    {
+        "力線束": "tube of force"
+    },
+    {
+        "力線束": "tube of lines of force"
+    },
+    {
+        "磁力線束": "tube of magnetic induction"
+    },
+    {
+        "電子管振盪器": "tube oscillator"
+    },
+    {
+        "管式共鳴": "tube resonance"
+    },
+    {
+        "管式望遠鏡": "tube telescope"
+    },
+    {
+        "管壁厚度": "tube thickness"
+    },
+    {
+        "管式伏特計": "tube voltmeter"
+    },
+    {
+        "管式檢流計": "tube[-type] galvanometer"
+    },
+    {
+        "管壁厚度": "tube-wall thickness"
+    },
+    {
+        "管狀風力計": "tubular anemometer"
+    },
+    {
+        "管狀波導": "tubular guide"
+    },
+    {
+        "可調性": "tunability"
+    },
+    {
+        "可調頻雷射": "tunable laser"
+    },
+    {
+        "調[子]；調諧": "tune"
+    },
+    {
+        "調諧放大器": "tuned amplifier"
+    },
+    {
+        "調屏調柵電路": "tuned plate tuned grid｛=TPTG｝ circuit"
+    },
+    {
+        "調諧器": "tuner"
+    },
+    {
+        "鎢氬管": "tungar"
+    },
+    {
+        "鎢青銅型結構": "tungsten bronze structure"
+    },
+    {
+        "鎢絲": "tungsten filament"
+    },
+    {
+        "鎢鋼": "tungsten steel"
+    },
+    {
+        "鎢": "tungsten｛=W｝"
+    },
+    {
+        "鎢": "tungsten｛=W｝"
+    },
+    {
+        "音叉": "tuning fork"
+    },
+    {
+        "音叉振盪器": "tuning fork oscillator"
+    },
+    {
+        "隧道位障；隧道勢壘": "tunnel barrier"
+    },
+    {
+        "穿隧導[電]體": "tunnel conductor"
+    },
+    {
+        "穿隧二極體": "tunnel diode"
+    },
+    {
+        "穿隧效應": "tunnel effect"
+    },
+    {
+        "隧道結；隧道接面": "tunnel junction"
+    },
+    {
+        "穿隧整流器": "tunnel rectifier"
+    },
+    {
+        "穿隧電阻[器]": "tunnel resistor"
+    },
+    {
+        "穿隧電晶體": "tunnel transistor"
+    },
+    {
+        "穿隧三極體": "tunnel triode"
+    },
+    {
+        "穿隧磁阻": "tunneling magnetoresistance｛=TMR｝"
+    },
+    {
+        "混濁介質": "turbid medium"
+    },
+    {
+        "混濁計": "turbidimeter"
+    },
+    {
+        "濁度；混濁性": "turbidity"
+    },
+    {
+        "濁度係數": "turbidity coefficient"
+    },
+    {
+        "濁度": "turbidness"
+    },
+    {
+        "渦輪機": "turbine"
+    },
+    {
+        "渦輪流量計": "turbine flowmeter"
+    },
+    {
+        "渦輪泵；渦輪分子泵": "turbine pump"
+    },
+    {
+        "渦輪發電機": "turbodynamo"
+    },
+    {
+        "渦輪發電機": "turbo-generator"
+    },
+    {
+        "亂流；湍流；紊流": "turbulence"
+    },
+    {
+        "紊流理論": "turbulence theory"
+    },
+    {
+        "紊流邊界層": "turbulent boundary layer"
+    },
+    {
+        "亂流；湍流": "turbulent flow"
+    },
+    {
+        "紊流路易斯數": "turbulent Lewis number"
+    },
+    {
+        "擾[性運]動": "turbulent motion"
+    },
+    {
+        "紊流卜然托數": "turbulent Prandtl number"
+    },
+    {
+        "紊流施密特數": "turbulent Schmidt number"
+    },
+    {
+        "紊流剪力": "turbulent shear force"
+    },
+    {
+        "湍性[衝]擊波": "turbulent shock"
+    },
+    {
+        "擾動態": "turbulent state"
+    },
+    {
+        "轉動孔徑": "turn aperture"
+    },
+    {
+        "繞線匝數": "turn of winding"
+    },
+    {
+        "匝[數]比": "turn ratio"
+    },
+    {
+        "轉速": "turn speed"
+    },
+    {
+        "轉折角": "turning angle"
+    },
+    {
+        "轉動力矩": "turning moment"
+    },
+    {
+        "轉折點": "turning point"
+    },
+    {
+        "交岔頻率": "turn-over frequency"
+    },
+    {
+        "松節油": "turpentine"
+    },
+    {
+        "浮沉測粒計": "turpidometer"
+    },
+    {
+        "高頻揚聲器": "tweeter"
+    },
+    {
+        "鑷子": "tweezers"
+    },
+    {
+        "十二[音]度": "twelfth"
+    },
+    {
+        "微光；曙光": "twilight"
+    },
+    {
+        "雙晶；孿晶": "twin"
+    },
+    {
+        "孿晶間界": "twin boundary"
+    },
+    {
+        "孿晶": "twin crystal"
+    },
+    {
+        "孿生像": "twin image"
+    },
+    {
+        "孿生子弔詭": "twin paradox"
+    },
+    {
+        "雙晶軸": "twin-axis"
+    },
+    {
+        "孿生軸": "twinning axis"
+    },
+    {
+        "雙晶面": "twin-plane"
+    },
+    {
+        "扭曲向錯": "twist disclination"
+    },
+    {
+        "扭曲映射": "twist mapping"
+    },
+    {
+        "扭力": "twisting force"
+    },
+    {
+        "扭[轉]矩": "twisting moment"
+    },
+    {
+        "扭應變": "twisting strain"
+    },
+    {
+        "扭應力": "twisting stress"
+    },
+    {
+        "扭轉振動": "twisting vibration"
+    },
+    {
+        "扭量": "twistor"
+    },
+    {
+        "兩液電池": "two fluid cell"
+    },
+    {
+        "雙光子同調態": "two photon coherent state"
+    },
+    {
+        "二端[電]網路": "two terminal net work"
+    },
+    {
+        "雙能帶模型": "two-band model"
+    },
+    {
+        "雙[光]束干涉測量學": "two-beam interferometry"
+    },
+    {
+        "二體碰撞": "two-body collision"
+    },
+    {
+        "兩體力": "two-body force"
+    },
+    {
+        "兩體力": "two-body interaction"
+    },
+    {
+        "雙載子理論": "two-carrier theory"
+    },
+    {
+        "雙環角向器": "two-circle goniometer"
+    },
+    {
+        "二色全相圖；二色全像圖": "two-color hologram"
+    },
+    {
+        "二分量微中子理論": "two-component neutrino theory"
+    },
+    {
+        "二分量理論": "two-component theory"
+    },
+    {
+        "二衝程引擎": "two-cycle engine"
+    },
+    {
+        "二維失序": "two-dimensional disorder"
+    },
+    {
+        "二維電子氣": "two-dimensional electron gas｛=2 DEG｝"
+    },
+    {
+        "二維電子系統": "two-dimensional electron system"
+    },
+    {
+        "二維光柵": "two-dimensional grating"
+    },
+    {
+        "二維運動": "two-dimensional motion"
+    },
+    {
+        "二極[電子]管": "two-electrode tube"
+    },
+    {
+        "雙流[]體模型": "two-fluid model"
+    },
+    {
+        "電之雙流體說": "two-fluid theory of electricity"
+    },
+    {
+        "二重[對稱]軸": "two-fold [symmetry] axis"
+    },
+    {
+        "二重軸": "twofold axis"
+    },
+    {
+        "二重對稱軸": "twofold axis of symmetry"
+    },
+    {
+        "雙頻雷射": "two-frequency laser"
+    },
+    {
+        "二群模型；雙組模型": "two-group model"
+    },
+    {
+        "二能階雷射": "two-level laser"
+    },
+    {
+        "二能階系統": "two-level system"
+    },
+    {
+        "雙粒子格林函數": "two-particle Green function"
+    },
+    {
+        "雙粒子穿隧": "two-particle tunneling"
+    },
+    {
+        "二相合金": "two-phase alloy"
+    },
+    {
+        "二相區": "two-phase region"
+    },
+    {
+        "雙光子吸收": "two-photon absorption"
+    },
+    {
+        "[發射]雙光子[之]毀滅": "two-photon annihilation"
+    },
+    {
+        "雙光子雷射": "two-photon laser"
+    },
+    {
+        "雙探針法": "two-probe method"
+    },
+    {
+        "雙叉星": "two-pronged star"
+    },
+    {
+        "雙量子毀滅": "two-quantum annihilation"
+    },
+    {
+        "雙狹縫干涉": "two-slit interference"
+    },
+    {
+        "雙節火箭": "two-stage rocket"
+    },
+    {
+        "兩步[驟]異構躍遷": "two-step isomeric transition"
+    },
+    {
+        "雙流不穩性": "two-stream instability"
+    },
+    {
+        "雙流電漿": "two-stream plasma"
+    },
+    {
+        "雙次晶格模型": "two-sublattice model"
+    },
+    {
+        "雙向天線": "two-way antenna"
+    },
+    {
+        "雙向波道": "two-way channel"
+    },
+    {
+        "雙向開關": "two-way switch"
+    },
+    {
+        "雙向同步加速器": "two-way synchrotron"
+    },
+    {
+        "雙線電路": "two-wire [loop] circuit"
+    },
+    {
+        "特外曼-革恩干涉儀": "Twyman and Gerrn interferometer"
+    },
+    {
+        "第谷[宇宙]體系": "Tychonic system"
+    },
+    {
+        "廷得效應": "Tyndall effect"
+    },
+    {
+        "廷得計": "tyndall meter"
+    },
+    {
+        "第一類超導體": "type I superconductor"
+    },
+    {
+        "第二類超導體": "type II superconductor"
+    },
+    {
+        "U[吸收]帶": "U-band"
+    },
+    {
+        "遍佈模": "ubiquitious mode"
+    },
+    {
+        "UBV測光術": "UBV photometry"
+    },
+    {
+        "雨量計": "udometer"
+    },
+    {
+        "于令勢": "Uehling's potential"
+    },
+    {
+        "午布力西球": "Uhlbricht sphere"
+    },
+    {
+        "單接面電晶體": "UJT｛unijunction transistor｝"
+    },
+    {
+        "住留譜線": "ultimate lines"
+    },
+    {
+        "極限抗張強度": "ultimate shearing strength"
+    },
+    {
+        "極限強度": "ultimate strength"
+    },
+    {
+        "極限應力": "ultimate stress"
+    },
+    {
+        "終極真空": "ultimate vacuum"
+    },
+    {
+        "超高頻": "ultra high frequency｛=UHF｝"
+    },
+    {
+        "超顯微術": "ultra microscopy"
+    },
+    {
+        "超射頻": "ultra radio frequency"
+    },
+    {
+        "超短波": "ultra short wave"
+    },
+    {
+        "超聲[波]學": "ultra-acoustics"
+    },
+    {
+        "超三極管": "ultra-audion"
+    },
+    {
+        "超速離心機": "ultracentrifuge"
+    },
+    {
+        "超速離心": "ultracentrifuging"
+    },
+    {
+        "超冷中子": "ultra-cold neutron"
+    },
+    {
+        "超微晶體": "ultracrystallite"
+    },
+    {
+        "超快中子": "ultra-fast neutron"
+    },
+    {
+        "超快物理[學]": "ultrafast physics"
+    },
+    {
+        "超微晶體": "ultrafast process"
+    },
+    {
+        "超快光譜學": "ultrafast spectroscopy"
+    },
+    {
+        "超過濾": "ultrafiltration"
+    },
+    {
+        "超細濾器": "ultrafine filter"
+    },
+    {
+        "超細顆粒": "ultrafine grain"
+    },
+    {
+        "超細顆粒": "ultrafine particle"
+    },
+    {
+        "超諧振動": "ultraharmonic vibration"
+    },
+    {
+        "超高真空": "ultrahigh vacuum｛=UHV｝"
+    },
+    {
+        "超高能加速器": "ultrahigh-energy accelerator"
+    },
+    {
+        "超高頻帶": "ultrahigh-frequency band"
+    },
+    {
+        "超高頻光譜學": "ultrahigh-frequency spectroscopy"
+    },
+    {
+        "超游離": "ultraionization"
+    },
+    {
+        "超線性電路": "ultralinear circuit"
+    },
+    {
+        "超低頻": "ultra-low frequency｛=ULF｝"
+    },
+    {
+        "超低溫": "ultra-low temperature"
+    },
+    {
+        "超微量分析": "ultramicroanalysis"
+    },
+    {
+        "超微量天平": "ultramicrobalance"
+    },
+    {
+        "超微量化學": "ultramicrochemistry"
+    },
+    {
+        "超測微計": "ultramicrometer"
+    },
+    {
+        "超顯微鏡": "ultra-microscope"
+    },
+    {
+        "超顯微術": "ultramicroscopy"
+    },
+    {
+        "超光射線": "ultraphotic rays"
+    },
+    {
+        "極端相對論性粒子": "ultrarelativistic particle"
+    },
+    {
+        "極端相對論性區域": "ultrareletivistic region"
+    },
+    {
+        "超短雷射脈衝": "ultrashort laser pulse"
+    },
+    {
+        "超短波": "ultrashort wave"
+    },
+    {
+        "超聲吸收": "ultrasonic absorption"
+    },
+    {
+        "超聲凝聚": "ultrasonic agglomeration"
+    },
+    {
+        "超聲分析": "ultrasonic analysis"
+    },
+    {
+        "超聲衰減": "ultrasonic attenuation"
+    },
+    {
+        "超聲空化[現象]": "ultrasonic cavitation"
+    },
+    {
+        "超聲離心機": "ultrasonic centrifuge"
+    },
+    {
+        "超聲凝聚": "ultrasonic coagulation"
+    },
+    {
+        "超聲交叉光柵": "ultrasonic cross grating"
+    },
+    {
+        "超聲流": "ultrasonic current"
+    },
+    {
+        "超聲延遲線": "ultrasonic delay line"
+    },
+    {
+        "超聲波偵測器": "ultrasonic detector"
+    },
+    {
+        "超聲波頻散": "ultrasonic dispersion"
+    },
+    {
+        "超聲回波": "ultrasonic echo"
+    },
+    {
+        "超聲回波探深器": "ultrasonic echo sounder"
+    },
+    {
+        "超聲波發射器": "ultrasonic emitter"
+    },
+    {
+        "超聲能": "ultrasonic energy"
+    },
+    {
+        "超聲腐蝕": "ultrasonic erosion"
+    },
+    {
+        "超聲激發": "ultrasonic excitation"
+    },
+    {
+        "超聲場": "ultrasonic field"
+    },
+    {
+        "超聲流量計": "ultrasonic flowmeter"
+    },
+    {
+        "超聲頻[率]": "ultrasonic frequency"
+    },
+    {
+        "超聲波產生器": "ultrasonic generator"
+    },
+    {
+        "超聲光柵": "ultrasonic grating"
+    },
+    {
+        "超聲光柵常數": "ultrasonic grating constant"
+    },
+    {
+        "超聲全相術；超聲全像術": "ultrasonic holography"
+    },
+    {
+        "超聲波干涉計": "ultrasonic interferometer"
+    },
+    {
+        "超聲輻照": "ultrasonic irradiation"
+    },
+    {
+        "超聲透鏡": "ultrasonic lens"
+    },
+    {
+        "超聲致光繞射": "ultrasonic light diffraction"
+    },
+    {
+        "超聲波光調制器": "ultrasonic light modulator"
+    },
+    {
+        "超聲致材料瀰散": "ultrasonic material dispersion"
+    },
+    {
+        "超聲波顯微鏡": "ultrasonic microscope"
+    },
+    {
+        "超聲物理[學]": "ultrasonic physics"
+    },
+    {
+        "超聲探針": "ultrasonic probe"
+    },
+    {
+        "超聲處理": "ultrasonic processing"
+    },
+    {
+        "超聲輻射": "ultrasonic radiation"
+    },
+    {
+        "超聲弛豫": "ultrasonic relaxation"
+    },
+    {
+        "超聲焊接": "ultrasonic soldering"
+    },
+    {
+        "超聲波": "ultrasonic sound"
+    },
+    {
+        "超聲空間光柵": "ultrasonic space grating"
+    },
+    {
+        "超聲波譜計": "ultrasonic spectrometer"
+    },
+    {
+        "超聲波譜儀": "ultrasonic spectroscope"
+    },
+    {
+        "超聲波譜": "ultrasonic spectrum"
+    },
+    {
+        "超聲頻閃觀測器": "ultrasonic stroboscope"
+    },
+    {
+        "超聲厚度規": "ultrasonic thickness gauge"
+    },
+    {
+        "超聲轉換器": "ultrasonic transducer"
+    },
+    {
+        "超聲波發射機": "ultrasonic transmitter"
+    },
+    {
+        "超音速": "ultrasonic velocity"
+    },
+    {
+        "超聲振動": "ultrasonic vibration"
+    },
+    {
+        "超音波": "ultrasound"
+    },
+    {
+        "超聲激發": "ultrasound excitation"
+    },
+    {
+        "超聲波產生器": "ultrasound generator"
+    },
+    {
+        "超聲全相術；超聲全像術": "ultrasound holography"
+    },
+    {
+        "超球多項式": "ultraspherical polynomials"
+    },
+    {
+        "超強度材料": "ultrastregth material"
+    },
+    {
+        "超真空": "ultravacuum"
+    },
+    {
+        "紫外光；紫外線": "ultraviolet"
+    },
+    {
+        "紫外[光]吸收譜": "ultraviolet absorption spectrum"
+    },
+    {
+        "紫外[光]天文學": "ultraviolet astronomy"
+    },
+    {
+        "紫外[光]帶": "ultraviolet band"
+    },
+    {
+        "紫外爆發": "ultraviolet burst"
+    },
+    {
+        "紫外災變": "ultraviolet catastrophe"
+    },
+    {
+        "紫外截止[頻率]": "ultraviolet cut-off"
+    },
+    {
+        "紫外發散": "ultraviolet divergence"
+    },
+    {
+        "紫外激發": "ultraviolet excitation"
+    },
+    {
+        "紫外脈衝光學": "ultraviolet impulse optics"
+    },
+    {
+        "紫外冷光": "ultraviolet luminescence"
+    },
+    {
+        "紫外光顯微鏡": "ultraviolet microscope"
+    },
+    {
+        "紫外光電池": "ultraviolet photocell"
+    },
+    {
+        "紫外光電效應": "ultraviolet photoeffect"
+    },
+    {
+        "紫外光電子能譜學": "ultraviolet photoelectron spectroscopy｛=UPS｝"
+    },
+    {
+        "紫外[光]照相術": "ultraviolet photography"
+    },
+    {
+        "紫外光度計": "ultraviolet photometer"
+    },
+    {
+        "紫外顯微照相術": "ultra-violet photomicrography"
+    },
+    {
+        "紫外[光]物理學": "ultraviolet physics"
+    },
+    {
+        "紫外線": "ultraviolet ray"
+    },
+    {
+        "紫外轉動帶": "ultraviolet rotational band"
+    },
+    {
+        "紫外敏感層": "ultraviolet sensitive layer"
+    },
+    {
+        "紫外陰影": "ultraviolet shadow"
+    },
+    {
+        "紫外穩性": "ultraviolet stability"
+    },
+    {
+        "紫外振動帶": "ultraviolet vibrational band"
+    },
+    {
+        "本影": "umbra"
+    },
+    {
+        "傘形天線": "umbrella antenna"
+    },
+    {
+        "傘形效應": "umbrella effect"
+    },
+    {
+        "拍轉過程；U過程": "Umklapp process｛=U-process｝"
+    },
+    {
+        "迂迴": "Umweganregung"
+    },
+    {
+        "未活化態": "unactivated state"
+    },
+    {
+        "肉眼": "unaided eye"
+    },
+    {
+        "無效能量": "unavailable energy"
+    },
+    {
+        "失衡": "unbalance"
+    },
+    {
+        "不平均電流": "unbalanced current"
+    },
+    {
+        "不平均負載": "unbalanced load"
+    },
+    {
+        "無偏測試": "unbias[s]ed test"
+    },
+    {
+        "無偏誤差": "unbiased error"
+    },
+    {
+        "連通鏈": "unblocked bond"
+    },
+    {
+        "無縛電子": "unbound electron"
+    },
+    {
+        "無縛粒子": "unbound particle"
+    },
+    {
+        "無界算符": "unbounded operator"
+    },
+    {
+        "無界空間": "unbounded space"
+    },
+    {
+        "無界波": "unbounded wave"
+    },
+    {
+        "不準量": "uncertainty"
+    },
+    {
+        "測不準原理": "uncertainty principle"
+    },
+    {
+        "不帶電粒子": "uncharged particle"
+    },
+    {
+        "未碰撞輻射": "uncollided radiation"
+    },
+    {
+        "未滿軌道": "uncompleted orbit"
+    },
+    {
+        "無約束系統": "unconstrained system"
+    },
+    {
+        "不受控連鎖反應": "uncontrolled chain reaction"
+    },
+    {
+        "不受控[核]分裂": "uncontrolled fission"
+    },
+    {
+        "不受控粒子": "uncontrolled particle"
+    },
+    {
+        "升頻轉換磷光體": "unconversion phosphor"
+    },
+    {
+        "無關聯電子": "uncorrelated electron"
+    },
+    {
+        "無耦合粒子": "uncoupled particle"
+    },
+    {
+        "無阻尼電振盪": "undamped electrical oscillation"
+    },
+    {
+        "無阻尼振盪": "undamped oscillation"
+    },
+    {
+        "無阻尼共振器": "undamped resonator"
+    },
+    {
+        "無阻尼波": "undamped wave"
+    },
+    {
+        "未慢化中子": "undegraded neutron"
+    },
+    {
+        "瞬發中子": "undelayed neutron"
+    },
+    {
+        "無衰減通量": "undepleted flux"
+    },
+    {
+        "次阻尼": "under damping"
+    },
+    {
+        "群集不足": "underbunching"
+    },
+    {
+        "低複激繞法": "undercompound winding"
+    },
+    {
+        "欠冷液體": "undercooled liquid"
+    },
+    {
+        "欠校[正]透鏡": "undercorrected lens"
+    },
+    {
+        "耦合不足": "undercoupling"
+    },
+    {
+        "次臨界耦合": "undercritical coupling"
+    },
+    {
+        "電流不足；暗流": "undercurrent"
+    },
+    {
+        "欠流釋放器": "under-current release"
+    },
+    {
+        "暗流": "underflow"
+    },
+    {
+        "地下天線": "underground antenna"
+    },
+    {
+        "內層": "underlayer"
+    },
+    {
+        "欠負載": "underload"
+    },
+    {
+        "欠匹配": "undermatching"
+    },
+    {
+        "欠調制": "undermodulation"
+    },
+    {
+        "欠壓": "underpressure"
+    },
+    {
+        "淬火不足": "underquenching"
+    },
+    {
+        "欠飽和": "undersaturation"
+    },
+    {
+        "低插；負脈衝訊號": "undershoot"
+    },
+    {
+        "次聲頻[率]": "undersonic frequency"
+    },
+    {
+        "速度不足": "underspeed"
+    },
+    {
+        "欠張": "undertension"
+    },
+    {
+        "欠壓釋放器": "under-voltage release"
+    },
+    {
+        "水下聲學": "underwater acoustics"
+    },
+    {
+        "未定乘數": "undetermined multiplier"
+    },
+    {
+        "無向輻射": "undirected radiation"
+    },
+    {
+        "未解離分子": "undissociated molecule"
+    },
+    {
+        "無失真波": "undistorted wave"
+    },
+    {
+        "波盪電流": "undulating current"
+    },
+    {
+        "波盪流": "undulating flow"
+    },
+    {
+        "波盪": "undulation"
+    },
+    {
+        "波盪作用力": "undulation force"
+    },
+    {
+        "波盪譜": "undulation spectrum"
+    },
+    {
+        "聚頻磁鐵；波盪器": "undulator"
+    },
+    {
+        "波盪電流": "undulatory current"
+    },
+    {
+        "波盪消滅": "undulatory extinction"
+    },
+    {
+        "波盪流": "undulatory flow"
+    },
+    {
+        "波盪運動": "undulatory motion"
+    },
+    {
+        "未濃化鈾": "unenriched uranium"
+    },
+    {
+        "不等程音階": "unequally tempered scale"
+    },
+    {
+        "不等程干涉儀": "unequal-path interferometer"
+    },
+    {
+        "不均勻輻照": "uneven irradiation"
+    },
+    {
+        "不利躍遷": "unfavored transition"
+    },
+    {
+        "[原子核]集體模型（統合模型）": "unfied model"
+    },
+    {
+        "未滿能階": "unfilled level"
+    },
+    {
+        "未滿殼": "unfilled shell"
+    },
+    {
+        "無突緣管": "unflanged tube"
+    },
+    {
+        "無導向波": "unguided wave"
+    },
+    {
+        "單軸晶體": "uniaxial crystal"
+    },
+    {
+        "負單軸晶體": "uniaxial negative crystal"
+    },
+    {
+        "單軸取向": "uniaxial orientation"
+    },
+    {
+        "正單軸晶體": "uniaxial positive crystal"
+    },
+    {
+        "單軸應力": "uniaxial stress"
+    },
+    {
+        "單成分系統": "unicomponent system"
+    },
+    {
+        "單牙配分子": "unidental ligand"
+    },
+    {
+        "單向天線": "unidirectional antenna"
+    },
+    {
+        "單向電流": "unidirectional current"
+    },
+    {
+        "單向接面": "unidirectional junction"
+    },
+    {
+        "統一原子質量[單位]": "unified atomic mass [unit]"
+    },
+    {
+        "統一場論": "unified field theory"
+    },
+    {
+        "統一模型": "unified model"
+    },
+    {
+        "[原子]核統一模型": "unified nuclear model"
+    },
+    {
+        "單絲懸置": "unifilar suspension"
+    },
+    {
+        "單線繞組": "unifilar winding"
+    },
+    {
+        "單流機": "uniflow engine"
+    },
+    {
+        "等加速度": "uniform acceleration"
+    },
+    {
+        "等速圓周運動": "uniform circular motion"
+    },
+    {
+        "均勻介電質": "uniform dielectric"
+    },
+    {
+        "均勻擴散": "uniform diffusion"
+    },
+    {
+        "均勻分布": "uniform distribution"
+    },
+    {
+        "均勻場": "uniform field"
+    },
+    {
+        "均勻負載": "uniform load"
+    },
+    {
+        "均勻磁場": "uniform magnetic field"
+    },
+    {
+        "等速運動": "uniform motion"
+    },
+    {
+        "等速運動": "uniform motion"
+    },
+    {
+        "均勻平面波": "uniform plane wave"
+    },
+    {
+        "均向點源": "uniform point source"
+    },
+    {
+        "均等標度": "uniform scale"
+    },
+    {
+        "平恆星時": "uniform sidereal time"
+    },
+    {
+        "均勻溫度包殼": "uniform temperature enclosure"
+    },
+    {
+        "等速度": "uniform velocity"
+    },
+    {
+        "均勻性": "uniformity"
+    },
+    {
+        "等加速運動": "uniformly accelerated motion"
+    },
+    {
+        "[均]勻漫射[表]面": "uniformly diffusing surface"
+    },
+    {
+        "均勻加感電纜": "uniformly loaded cable"
+    },
+    {
+        "單接面電晶體": "unijunction transistor｛=UJT｝"
+    },
+    {
+        "單向導電": "unilateral conduction"
+    },
+    {
+        "單向導電性；單向導電率": "unilateral conductivity"
+    },
+    {
+        "單側約束": "unilateral constraint"
+    },
+    {
+        "單向阻抗": "unilateral impedance"
+    },
+    {
+        "單向轉換器": "unilateral transducer"
+    },
+    {
+        "單向繞組；單向繞法": "unilateral winding"
+    },
+    {
+        "單[分子]層": "unilayer"
+    },
+    {
+        "單峰分布": "unimodal distribution"
+    },
+    {
+        "么模群": "unimodular group"
+    },
+    {
+        "么模矩陣": "unimodular matrix"
+    },
+    {
+        "么模變換": "unimodular transformation"
+    },
+    {
+        "單分子膜": "unimolecular film"
+    },
+    {
+        "單分子反應": "unimolecular reaction"
+    },
+    {
+        "單相": "uniphase"
+    },
+    {
+        "共平面力": "uniplanar force"
+    },
+    {
+        "單面取向": "uniplanar orientation"
+    },
+    {
+        "單極天線": "unipolar antenna"
+    },
+    {
+        "單極電池": "unipolar cell"
+    },
+    {
+        "單極導電": "unipolar conduction"
+    },
+    {
+        "單極發電機": "unipolar dynamo"
+    },
+    {
+        "單極發電機": "unipolar generator"
+    },
+    {
+        "單極感應": "unipolar induction"
+    },
+    {
+        "單極電晶體": "unipolar transistor"
+    },
+    {
+        "單極天線": "unipole"
+    },
+    {
+        "等電位[靜電]透鏡": "unipotential [electrostatic] lens"
+    },
+    {
+        "等電位陰極": "unipotential cathode"
+    },
+    {
+        "唯一型禁躍遷": "unique forbidden transition"
+    },
+    {
+        "唯一性": "uniqueness"
+    },
+    {
+        "單折射性": "unirefringence"
+    },
+    {
+        "單源": "unisource"
+    },
+    {
+        "單位；單元": "unit"
+    },
+    {
+        "單位晶胞": "unit cell"
+    },
+    {
+        "單位電荷": "unit charge"
+    },
+    {
+        "單位圓": "unit circle"
+    },
+    {
+        "單位力": "unit force"
+    },
+    {
+        "單位晶格": "unit lattice"
+    },
+    {
+        "單位磁極": "unit magnetic pole"
+    },
+    {
+        "單位矩陣": "unit matrix"
+    },
+    {
+        "感覺單位": "unit of sensation"
+    },
+    {
+        "時間單位": "unit of time"
+    },
+    {
+        "單位操作": "unit operation"
+    },
+    {
+        "單位算子": "unit operator"
+    },
+    {
+        "單位[磁]極": "unit pole"
+    },
+    {
+        "單位球面": "unit sphere"
+    },
+    {
+        "單位制": "unit system"
+    },
+    {
+        "單位張量": "unit tensor"
+    },
+    {
+        "單位轉換": "unit transformation"
+    },
+    {
+        "單位力線束": "unit tube of force"
+    },
+    {
+        "單位向量": "unit vector"
+    },
+    {
+        "單元體積": "unit volume"
+    },
+    {
+        "么正性": "unitarity"
+    },
+    {
+        "么正規範": "unitary gauge"
+    },
+    {
+        "么正群": "unitary group"
+    },
+    {
+        "么正不可約表現": "unitary irreducible representation"
+    },
+    {
+        "么正矩陣": "unitary matrix"
+    },
+    {
+        "單式八重態": "unitary octet"
+    },
+    {
+        "么正算符；單式算子": "unitary operator"
+    },
+    {
+        "單式表現": "unitary representation"
+    },
+    {
+        "么正散射因數": "unitary scattering factor"
+    },
+    {
+        "么旋": "unitary spin"
+    },
+    {
+        "么正對稱[性]": "unitary symmetry"
+    },
+    {
+        "么正變換": "unitary transformation"
+    },
+    {
+        "聯合原子模型": "united atom model"
+    },
+    {
+        "單極軸；單向軸": "uniterminal axis"
+    },
+    {
+        "單位脈衝響應": "unit-impulse response"
+    },
+    {
+        "單葉函數": "univalent function"
+    },
+    {
+        "單變平衡": "univariant equilibrium"
+    },
+    {
+        "單變系": "univariant system"
+    },
+    {
+        "普適軸向量費米交互作用": "universal axial vector Fermi interaction"
+    },
+    {
+        "普適常數": "universal constant"
+    },
+    {
+        "泛覆蓋群": "universal covering group"
+    },
+    {
+        "普適費米弱交互作用": "universal Fermi weak interaction"
+    },
+    {
+        "萬用檢流計": "universal galvanometer"
+    },
+    {
+        "馬克士威速度分布": "universal gas constant"
+    },
+    {
+        "萬有引力": "universal gravitation"
+    },
+    {
+        "萬有引力定律": "universal law of gravitation"
+    },
+    {
+        "普適量": "universal quantity"
+    },
+    {
+        "萬用分流器": "universal shunt"
+    },
+    {
+        "協調世界時": "universal time coordinated｛=UTC｝"
+    },
+    {
+        "世界時": "universal time｛=UT｝"
+    },
+    {
+        "普適性": "universality"
+    },
+    {
+        "普適類": "universality class"
+    },
+    {
+        "宇宙": "universe"
+    },
+    {
+        "宇宙": "universe"
+    },
+    {
+        "宇宙年齡": "universe age"
+    },
+    {
+        "宇宙演化": "universe evolution"
+    },
+    {
+        "單電壓透鏡": "univoltage lens"
+    },
+    {
+        "未慢化中子": "unmoderated neutron"
+    },
+    {
+        "[波長]未變輻射": "unmodified radiation"
+    },
+    {
+        "不可觀測量": "unobservable"
+    },
+    {
+        "未滿能階": "unoccupied level"
+    },
+    {
+        "未配對電子": "unpaired electron"
+    },
+    {
+        "未配對消自旋": "unpaired spin"
+    },
+    {
+        "未約化晶胞": "unreduced cell"
+    },
+    {
+        "未重整量": "unrenormalized quantity"
+    },
+    {
+        "未飽和鍵": "unsaturated bond"
+    },
+    {
+        "不飽和色": "unsaturated color"
+    },
+    {
+        "未飽和蒸汽": "unsaturated vapor"
+    },
+    {
+        "不飽和；未飽和": "unsaturation"
+    },
+    {
+        "不穩性；不穩度": "unstability"
+    },
+    {
+        "不穩平衡": "unstable equilibrium"
+    },
+    {
+        "不穩定點": "unstable fixed point"
+    },
+    {
+        "不穩同位素": "unstable isotope"
+    },
+    {
+        "不穩粒子": "unstable particle"
+    },
+    {
+        "不穩解": "unstable solution"
+    },
+    {
+        "非穩定平衡": "unsteady equilibrium"
+    },
+    {
+        "非穩定流": "unsteady flow"
+    },
+    {
+        "非穩定態": "unsteady state"
+    },
+    {
+        "不對稱陀螺": "unsymmetric[al] top"
+    },
+    {
+        "未調諧放大器": "untuned amplifier"
+    },
+    {
+        "未分帶透鏡": "unzoned lens"
+    },
+    {
+        "上夸克": "up quark"
+    },
+    {
+        "上升[海]流": "up welling current"
+    },
+    {
+        "增頻轉換": "upconversion"
+    },
+    {
+        "高大氣層": "upper atmosphere"
+    },
+    {
+        "上界": "upper bound"
+    },
+    {
+        "上臨界[磁]場": "upper critical [magnetic] field"
+    },
+    {
+        "高諧波": "upper harmonic"
+    },
+    {
+        "高混雜波": "upper hybrid wave"
+    },
+    {
+        "上標": "upper index"
+    },
+    {
+        "上限": "upper limit"
+    },
+    {
+        "高泛音": "upper partials"
+    },
+    {
+        "高旁[頻]帶": "upper side band"
+    },
+    {
+        "上屈服點": "upper yield point"
+    },
+    {
+        "上頻移": "upshift"
+    },
+    {
+        "吸取率": "uptake rate"
+    },
+    {
+        "鈾鐳系": "U-Ra series"
+    },
+    {
+        "土狀硫鈾礦": "uraconite"
+    },
+    {
+        "鈾酸": "uranic acid"
+    },
+    {
+        "六氟化鈾": "uranic fluoride｛=UF6｝"
+    },
+    {
+        "鈾系": "uranides"
+    },
+    {
+        "複鈾礦；方鈾礦；晶鈾礦": "uraninite"
+    },
+    {
+        "鈾雲母類": "uranite"
+    },
+    {
+        "鈾的釋熱元體": "uranium cartridge"
+    },
+    {
+        "鈾化合物": "uranium compound"
+    },
+    {
+        "鈾循環": "uranium cycle"
+    },
+    {
+        "鈾衰變系": "uranium decay series"
+    },
+    {
+        "二氧化鈾": "uranium dioxide｛=UO2｝"
+    },
+    {
+        "鈾濃化": "uranium enrichment"
+    },
+    {
+        "鈾系": "uranium family"
+    },
+    {
+        "鈾[核]分裂": "uranium fission"
+    },
+    {
+        "氟化鈾": "uranium fluoride｛=UF4UF6｝"
+    },
+    {
+        "鈾燃料元件": "uranium fuel element"
+    },
+    {
+        "鈾玻璃": "uranium glass"
+    },
+    {
+        "六氟化鈾": "uranium hexafluoride"
+    },
+    {
+        "鈾晶格": "uranium lattice"
+    },
+    {
+        "氧化鈾": "uranium oxide"
+    },
+    {
+        "氟氧化鈾": "uranium oxyfluoride"
+    },
+    {
+        "五氯化鈾": "uranium pentachloride｛=Ucl5｝"
+    },
+    {
+        "鈾[核]分裂": "uranium photofission"
+    },
+    {
+        "鈾系": "uranium series"
+    },
+    {
+        "八氧化三鈾": "uranium sesquioxide｛=U3O8｝"
+    },
+    {
+        "四溴化鈾": "uranium tetrabromide｛=UBr4｝"
+    },
+    {
+        "四氯化鈾": "uranium tetrachloride｛=UCl4｝"
+    },
+    {
+        "四氟化鈾": "uranium tetrafluoride｛=UF4｝"
+    },
+    {
+        "四碘化鈾": "uranium tetraiodide｛=UI4｝"
+    },
+    {
+        "四氧化鈾": "uranium tetroxide｛=UO4｝"
+    },
+    {
+        "三氯化鈾": "uranium trichloride｛=UCl3｝"
+    },
+    {
+        "釩酸鈾": "uranium vanadate"
+    },
+    {
+        "鈾X": "uranium X"
+    },
+    {
+        "鈾Y": "uranium Y"
+    },
+    {
+        "鈾Z": "uranium Z"
+    },
+    {
+        "鈾": "uranium｛=U｝"
+    },
+    {
+        "鈾石墨晶格": "uranium-graphite lattice"
+    },
+    {
+        "鈾鉛法": "uranium-lead method"
+    },
+    {
+        "鈾鐳系": "uranium-radium series"
+    },
+    {
+        "方鈾礦": "uranniobite"
+    },
+    {
+        "鈣銅鈾礦": "uranochalcite"
+    },
+    {
+        "鋇鈾雲母": "uranocircite"
+    },
+    {
+        "天象圖學": "uranography"
+    },
+    {
+        "綠鈾礦": "uranolepidite"
+    },
+    {
+        "矽鈣鈾礦": "uranophane"
+    },
+    {
+        "鈾鈣礬": "uranopilite"
+    },
+    {
+        "天象鏡": "uranoscopy"
+    },
+    {
+        "水鋁鈾雲母": "uranospathite"
+    },
+    {
+        "纖鉍鈾礦": "uranosphaerite"
+    },
+    {
+        "砷鈣鈾礦": "uranospinite"
+    },
+    {
+        "鈾鈣石": "uranothallite"
+    },
+    {
+        "鈾方釷石": "uranothorianite"
+    },
+    {
+        "鈾釷礦": "uranothorite"
+    },
+    {
+        "矽鈣鈾礦": "uranotile"
+    },
+    {
+        "四氟化鈾": "uranous fluoride｛=UF4｝"
+    },
+    {
+        "三氧化二鈾": "uranous oxide｛=U2O3｝"
+    },
+    {
+        "八氧化三鈾": "uranous-uranic oxide｛=U3O8｝"
+    },
+    {
+        "天王星": "Uranus"
+    },
+    {
+        "雙氧鈾": "uranyl"
+    },
+    {
+        "氟化[雙]氧鈾": "uranyl fluoride｛=UO2F2｝"
+    },
+    {
+        "氫氧化雙氧鈾": "uranyl hydroxide｛=UO2(OH)2｝"
+    },
+    {
+        "硝酸雙氧鈾": "uranyl nitrate"
+    },
+    {
+        "草酸雙氧鈾": "uranyl oxalate｛=UO2C2O4｝"
+    },
+    {
+        "鈾酸雙氧鈾": "uranyl uranate"
+    },
+    {
+        "耳巴赫定則": "Urbach rule"
+    },
+    {
+        "用戶群": "user group"
+    },
+    {
+        "U型管": "U-tube"
+    },
+    {
+        "V型天線": "V antenna"
+    },
+    {
+        "V-A [向量-向量軸]耦向": "V-A coupling"
+    },
+    {
+        "V減A理論": "V－A theory"
+    },
+    {
+        "空位": "vacancy"
+    },
+    {
+        "空位團": "vacancy cluster"
+    },
+    {
+        "空位蠕動": "vacancy creep"
+    },
+    {
+        "空位電子": "vacancy electron"
+    },
+    {
+        "空位流": "vacancy flow"
+    },
+    {
+        "空位徙動": "vacancy migration"
+    },
+    {
+        "空位遷移率": "vacancy mobility"
+    },
+    {
+        "空位對；空位偶": "vacancy pair"
+    },
+    {
+        "空能階": "vacant level"
+    },
+    {
+        "空態": "vacant state"
+    },
+    {
+        "真空計": "vacuometer"
+    },
+    {
+        "真空": "vacuum"
+    },
+    {
+        "真空退火": "vacuum annealing"
+    },
+    {
+        "真空近似法": "vacuum approximation"
+    },
+    {
+        "真空天平": "vacuum balance"
+    },
+    {
+        "真空斷流器": "vacuum breaker"
+    },
+    {
+        "真空鍛燒": "vacuum calcination"
+    },
+    {
+        "真空卡計": "vacuum calorimeter"
+    },
+    {
+        "真空室": "vacuum chamber"
+    },
+    {
+        "真空冷阱": "vacuum cold trap"
+    },
+    {
+        "真空冷凝": "vacuum condensation"
+    },
+    {
+        "真空脫水": "vacuum dehydration"
+    },
+    {
+        "真空澱積": "vacuum deposition"
+    },
+    {
+        "真空圖": "vacuum diagram"
+    },
+    {
+        "真空膨脹計": "vacuum dilatometer"
+    },
+    {
+        "真空放電": "vacuum discharge"
+    },
+    {
+        "真空蒸餾": "vacuum distillation"
+    },
+    {
+        "真空能": "vacuum energy"
+    },
+    {
+        "真空蒸發": "vacuum evaporation"
+    },
+    {
+        "真空蒸發器；真空蒸鍍機": "vacuum evaporator"
+    },
+    {
+        "真空期望值": "vacuum expectation value"
+    },
+    {
+        "真空場": "vacuum field"
+    },
+    {
+        "保溫瓶": "vacuum flask"
+    },
+    {
+        "真空起伏；真空漲落": "vacuum fluctuation"
+    },
+    {
+        "真空致冷": "vacuum freezing"
+    },
+    {
+        "真空計": "vacuum gauge"
+    },
+    {
+        "真空圖": "vacuum graph"
+    },
+    {
+        "真空磁導率": "vacuum permeability"
+    },
+    {
+        "真空介電係數": "vacuum permittivity"
+    },
+    {
+        "真空物理[學]": "vacuum physics"
+    },
+    {
+        "真空極化": "vacuum polarization"
+    },
+    {
+        "真空泵": "vacuum pump"
+    },
+    {
+        "真空穩性": "vacuum stability"
+    },
+    {
+        "真空態": "vacuum state"
+    },
+    {
+        "真空阱": "vacuum trap"
+    },
+    {
+        "真空管振盪器": "vacuum tube oscillator"
+    },
+    {
+        "真空管整流器": "vacuum tube rectifier"
+    },
+    {
+        "真空穿隧": "vacuum tunnel[l]ing"
+    },
+    {
+        "真空紫外光": "vacuum ultraviolet｛=VUV｝"
+    },
+    {
+        "真空蒸發法": "vacuum vapor deposition method"
+    },
+    {
+        "價；[原子]價": "valence"
+    },
+    {
+        "變價": "valence alternation"
+    },
+    {
+        "價[替]換偶": "valence alternation pair｛=VAP｝"
+    },
+    {
+        "價角": "valence angle"
+    },
+    {
+        "價帶": "valence band"
+    },
+    {
+        "價鍵": "valence bond"
+    },
+    {
+        "價電荷": "valence charge"
+    },
+    {
+        "價鍵晶體": "valence crystal"
+    },
+    {
+        "價電子": "valence electron"
+    },
+    {
+        "價漲落；價起伏": "valence fluctuation"
+    },
+    {
+        "[原子]價力": "valence force"
+    },
+    {
+        "價不穩性": "valence instability"
+    },
+    {
+        "價核子": "valence nucleon"
+    },
+    {
+        "價數": "valence number"
+    },
+    {
+        "價軌域": "valence orbital"
+    },
+    {
+        "價夸克": "valence quark"
+    },
+    {
+        "價殼": "valence shell"
+    },
+    {
+        "價態": "valence state"
+    },
+    {
+        "價振動": "valence vibration"
+    },
+    {
+        "價鍵理論": "valence-bond theory"
+    },
+    {
+        "[原子]價": "valency"
+    },
+    {
+        "價電子": "valency electron"
+    },
+    {
+        "凹部；谷值": "valley"
+    },
+    {
+        "谷分裂": "valley splitting"
+    },
+    {
+        "閥；電子管；真空管": "valve"
+    },
+    {
+        "電子管特性": "valve characteristic"
+    },
+    {
+        "整流管": "valve rectifier"
+    },
+    {
+        "凡阿侖帶": "van Allen belt"
+    },
+    {
+        "凡阿耳克過程": "van Arkel process"
+    },
+    {
+        "凡瑟特-冊尼克[準單色光源相干]定理": "van Cittert-Zernike theorem"
+    },
+    {
+        "凡德格拉夫[靜電]加速器": "van de Graaff [electrostatic] accelerator"
+    },
+    {
+        "凡德格拉夫起電機": "van de Graaff generator"
+    },
+    {
+        "凡得波方程[式]": "van der Pol equation"
+    },
+    {
+        "凡得波振盪器": "van der Pol oscillator"
+    },
+    {
+        "凡得瓦吸附": "van der Waals adsorption"
+    },
+    {
+        "凡得瓦鍵": "van der Waals bond"
+    },
+    {
+        "凡得瓦[物態]方程[式]": "van der Waals equation [of state]"
+    },
+    {
+        "凡得瓦力": "van der Waals' force"
+    },
+    {
+        "凡得瓦交互作用": "van der Waals interaction"
+    },
+    {
+        "凡得瓦-倫敦交互作用": "van der Waals-London interaction"
+    },
+    {
+        "凡何夫奇異性": "van Hoff singularity"
+    },
+    {
+        "凡霍夫奇點": "van Hove singularity"
+    },
+    {
+        "凡霍夫傳輸方程[式]": "van Hove transport equation"
+    },
+    {
+        "凡扶累克順磁性": "van Vleck paramagnetism"
+    },
+    {
+        "釩": "vanadium｛=V｝"
+    },
+    {
+        "凡德法": "Vand's method"
+    },
+    {
+        "輪葉；葉；風標": "vane"
+    },
+    {
+        "葉輪風速計": "vane anemometer"
+    },
+    {
+        "葉輪輻射計": "vane radiometer"
+    },
+    {
+        "凡特何夫因數": "van't Hoff's factor"
+    },
+    {
+        "凡特何夫定律": "van't Hoff's law"
+    },
+    {
+        "變價對": "VAP｛valance alternation pair｝"
+    },
+    {
+        "蒸汽": "vapor"
+    },
+    {
+        "汽密度": "vapor density"
+    },
+    {
+        "氣相沉積法": "vapor deposition method"
+    },
+    {
+        "汽相": "vapor phase"
+    },
+    {
+        "汽相磊晶；汽相取向附生": "vapor phase epitaxy｛=VEP｝"
+    },
+    {
+        "汽相生長": "vapor phase growth"
+    },
+    {
+        "汽壓常數；蒸汽壓": "vapor pressure"
+    },
+    {
+        "汽壓溫度計": "vapor pressure thermometer"
+    },
+    {
+        "汽化力": "vaporability"
+    },
+    {
+        "汽化；氣化": "vaporization"
+    },
+    {
+        "汽化曲線": "vaporization curve"
+    },
+    {
+        "汽液固生長": "vapor-liquid-solid｛=V-L-S｝ growth"
+    },
+    {
+        "汽固平衡": "vapor-solid equilibrium"
+    },
+    {
+        "乏｛功率單位｝": "var"
+    },
+    {
+        "變容器；變容二極體": "varactor"
+    },
+    {
+        "變異性": "variability"
+    },
+    {
+        "變量": "variable"
+    },
+    {
+        "可變帶寬濾器": "variable bandwidth filter"
+    },
+    {
+        "可變電容": "variable capacitance"
+    },
+    {
+        "可變電容二極體": "variable capacitance diode"
+    },
+    {
+        "可變電容器；變容器": "variable capacitor"
+    },
+    {
+        "變焦透鏡": "variable focal length lens"
+    },
+    {
+        "變焦聚光器": "variable focus condenser"
+    },
+    {
+        "[可]變焦距透鏡": "variable focus lens"
+    },
+    {
+        "可變電感器": "variable inductometer"
+    },
+    {
+        "變光星雲": "variable nebula"
+    },
+    {
+        "狀態變數": "variable of state"
+    },
+    {
+        "可變放大率目鏡": "variable power eye piece"
+    },
+    {
+        "變程跳躍": "variable range hopping"
+    },
+    {
+        "可變電壓器": "variable ratio transformer"
+    },
+    {
+        "變星": "variable star"
+    },
+    {
+        "變數轉變": "variable transformation"
+    },
+    {
+        "可變變壓器": "variable transformer"
+    },
+    {
+        "可變電壓變壓器": "variable voltage transformer"
+    },
+    {
+        "可變延遲符合": "variable-delay coincidence"
+    },
+    {
+        "變異數分析": "variance analysis"
+    },
+    {
+        "變異數比": "variance ratio"
+    },
+    {
+        "變分係數": "variation coefficient"
+    },
+    {
+        "變分導數": "variation derivative"
+    },
+    {
+        "變分法": "variation method"
+    },
+    {
+        "變分原理": "variation principle"
+    },
+    {
+        "變分條件": "variational condition"
+    },
+    {
+        "變分導數": "variational derivative"
+    },
+    {
+        "變分方程[式]": "variational equation"
+    },
+    {
+        "變分原理": "variational principle"
+    },
+    {
+        "變分問題": "variational problem"
+    },
+    {
+        "變分解": "variational solution"
+    },
+    {
+        "變分波函數": "variational wave function"
+    },
+    {
+        "[可]變焦距透鏡": "vari-focal lens"
+    },
+    {
+        "伐立農定理": "Varignon's theorem"
+    },
+    {
+        "可變耦合器": "variocoupler"
+    },
+    {
+        "可變電感器": "variometer"
+    },
+    {
+        "乏計": "varmeter"
+    },
+    {
+        "石油脂｛凡士林｝": "vaseline"
+    },
+    {
+        "向量": "vector"
+    },
+    {
+        "向量加法": "vector addition"
+    },
+    {
+        "向量代數": "vector algebra"
+    },
+    {
+        "向量分析[學]": "vector analysis"
+    },
+    {
+        "向量面積": "vector area"
+    },
+    {
+        "向量玻色子": "vector boson"
+    },
+    {
+        "向量束": "vector bundle"
+    },
+    {
+        "向量微積分": "vector calculus"
+    },
+    {
+        "向量色度學": "vector colorimeter"
+    },
+    {
+        "向量分布": "vector component"
+    },
+    {
+        "向量合成": "vector composition"
+    },
+    {
+        "向量耦合": "vector coupling"
+    },
+    {
+        "向量流": "vector current"
+    },
+    {
+        "向量分解": "vector decomposition"
+    },
+    {
+        "向量圖；諧量圖": "vector diagram"
+    },
+    {
+        "向量主控模型": "vector dominance model"
+    },
+    {
+        "向量場": "vector field"
+    },
+    {
+        "向量交互作用": "vector interaction"
+    },
+    {
+        "向量介子": "vector meson"
+    },
+    {
+        "向量乘法": "vector multiplication"
+    },
+    {
+        "向量記號": "vector notation"
+    },
+    {
+        "向量運算": "vector operation"
+    },
+    {
+        "向量算符": "vector operator"
+    },
+    {
+        "向量[位]勢": "vector potential"
+    },
+    {
+        "向量[式]處理器": "vector processor"
+    },
+    {
+        "向量積": "vector product"
+    },
+    {
+        "向量分解": "vector resolution"
+    },
+    {
+        "向量集": "vector set"
+    },
+    {
+        "向量空間": "vector space"
+    },
+    {
+        "向量三重積": "vector triple product"
+    },
+    {
+        "向量軸向量理論": "vector-axial-vector theory"
+    },
+    {
+        "V型天線": "Vee antenna"
+    },
+    {
+        "韋嘎定律": "Vegard's law"
+    },
+    {
+        "面紗星雲｛天文｝": "Veil Nebula"
+    },
+    {
+        "流速學": "velocimetry"
+    },
+    {
+        "速度": "velocity"
+    },
+    {
+        "速度分量": "velocity component"
+    },
+    {
+        "速度分布": "velocity distribution"
+    },
+    {
+        "速度分布函數": "velocity distribution function"
+    },
+    {
+        "速度分布律": "velocity distribution law"
+    },
+    {
+        "速度橢球": "velocity ellipsoid"
+    },
+    {
+        "濾速器": "velocity filter"
+    },
+    {
+        "速度聚焦": "velocity focusing"
+    },
+    {
+        "流速頭": "velocity head"
+    },
+    {
+        "壓差麥克風;振速麥克風": "velocity microphone"
+    },
+    {
+        "振速傳聲器；壓差傳聲器": "velocity microphone"
+    },
+    {
+        "調速": "velocity modulation"
+    },
+    {
+        "速度節": "velocity node"
+    },
+    {
+        "脫離速度": "velocity of escape"
+    },
+    {
+        "光速": "velocity of light"
+    },
+    {
+        "聲速": "velocity of sound"
+    },
+    {
+        "速度位勢": "velocity potential"
+    },
+    {
+        "速度輪廓": "velocity profile"
+    },
+    {
+        "選速器": "velocity selector"
+    },
+    {
+        "速度篩分": "velocity sieving"
+    },
+    {
+        "速度空間": "velocity space"
+    },
+    {
+        "速度聚焦質譜儀": "velocity-focussing mass-spectrograph"
+    },
+    {
+        "調速電子束": "velocity-modulated beam"
+    },
+    {
+        "通風；換氣": "ventilation"
+    },
+    {
+        "通氣孔；排放孔": "venting hole"
+    },
+    {
+        "文土里管": "Venturi tube"
+    },
+    {
+        "文土里流量計": "Venturimeter"
+    },
+    {
+        "金星": "Venus"
+    },
+    {
+        "伐得常數": "Verdet constant"
+    },
+    {
+        "聚散度": "vergence"
+    },
+    {
+        "聚散度": "vergency"
+    },
+    {
+        "春分；春分點": "vernal equinox"
+    },
+    {
+        "伐諾伊[焰熔]法": "Verneuil method"
+    },
+    {
+        "游標；游標尺": "vernier"
+    },
+    {
+        "游標[卡]尺": "vernier caliper"
+    },
+    {
+        "游標測徑器": "vernier callipers"
+    },
+    {
+        "微變電容[器]": "vernier capacitor"
+    },
+    {
+        "微變電容[器]": "vernier condenser"
+    },
+    {
+        "微變聚焦": "vernier focusing"
+    },
+    {
+        "游標規": "vernier gauge"
+    },
+    {
+        "游標刻度": "vernier scale"
+    },
+    {
+        "頂；頂點": "vertex"
+    },
+    {
+        "頂角": "vertex angle"
+    },
+    {
+        "頂點耦合": "vertex coupling"
+    },
+    {
+        "頂焦距": "vertex focal length"
+    },
+    {
+        "頂點函數": "vertex function"
+    },
+    {
+        "鏡頂": "vertex of mirror"
+    },
+    {
+        "頂點算符": "vertex operator"
+    },
+    {
+        "鏡頂曲光度": "vertex power"
+    },
+    {
+        "對頂角": "vertical angle"
+    },
+    {
+        "縱軸": "vertical axis"
+    },
+    {
+        "地中經圈": "vertical circle"
+    },
+    {
+        "垂直偏轉": "vertical deflection"
+    },
+    {
+        "垂直致偏器": "vertical deflector"
+    },
+    {
+        "垂直[式]紀錄": "vertical recording"
+    },
+    {
+        "垂直落差": "vertical throw"
+    },
+    {
+        "屈度計；焦度計": "vertometer"
+    },
+    {
+        "費耳威相變": "Verwey transition"
+    },
+    {
+        "特高頻": "very high frequency｛=VHF｝"
+    },
+    {
+        "超大型積體電路": "very large scale integrated circuit｛=VLSI｝"
+    },
+    {
+        "特低頻": "very low frequency｛=VLF｝"
+    },
+    {
+        "特長基線干涉儀": "very-long-baseline interferometer｛=VLBI｝"
+    },
+    {
+        "特短波": "very-short wave"
+    },
+    {
+        "微胞": "vesciles"
+    },
+    {
+        "泡狀結構": "vesicular structure"
+    },
+    {
+        "容器": "vessel"
+    },
+    {
+        "小玻璃瓶": "vial"
+    },
+    {
+        "振動觸點": "vibrating contact"
+    },
+    {
+        "振動片；脣管片": "vibrating plates"
+    },
+    {
+        "振簧": "vibrating reed"
+    },
+    {
+        "振動樣品磁強計": "vibrating sample magnetometer｛=VSM｝"
+    },
+    {
+        "振動": "vibration"
+    },
+    {
+        "振動帶": "vibration band"
+    },
+    {
+        "振動能": "vibration energy"
+    },
+    {
+        "振動激發": "vibration excitation"
+    },
+    {
+        "隔振": "vibration isolation"
+    },
+    {
+        "振動能階": "vibration level"
+    },
+    {
+        "振動模[態]": "vibration mode"
+    },
+    {
+        "耐振性": "vibration resistance"
+    },
+    {
+        "振動譜": "vibration spectrum"
+    },
+    {
+        "振動容限": "vibration tolerance"
+    },
+    {
+        "震動頻帶": "vibrational band"
+    },
+    {
+        "振動自由度": "vibrational degree of freedom"
+    },
+    {
+        "振動能階": "vibrational energy level"
+    },
+    {
+        "振動激發": "vibrational excitation"
+    },
+    {
+        "振動模[態]": "vibrational mode"
+    },
+    {
+        "振動模型": "vibrational model"
+    },
+    {
+        "振動光譜學": "vibrational spectroscopy"
+    },
+    {
+        "振動頻譜": "vibrational spectrum"
+    },
+    {
+        "振動態": "vibrational state"
+    },
+    {
+        "振動躍遷": "vibrational transition"
+    },
+    {
+        "振轉動": "vibration-rotation"
+    },
+    {
+        "振轉[動]帶": "vibration-rotation band"
+    },
+    {
+        "顫音": "vibrato"
+    },
+    {
+        "振動器；振動體": "vibrator"
+    },
+    {
+        "電子振動交互作用": "vibronic interaction"
+    },
+    {
+        "臨晶面": "vicinal face"
+    },
+    {
+        "鄰近": "vicinity"
+    },
+    {
+        "韋克斯硬度": "Vickers hardness"
+    },
+    {
+        "視頻寬": "video bandwidth"
+    },
+    {
+        "視頻檢測器": "video detector"
+    },
+    {
+        "視頻[率]": "video frequency"
+    },
+    {
+        "視頻信號": "video signal"
+    },
+    {
+        "視像攝影管": "vidicon"
+    },
+    {
+        "戶外用大型照相機": "view camera"
+    },
+    {
+        "視場光闌": "view stop"
+    },
+    {
+        "視察窗": "view window"
+    },
+    {
+        "視角": "viewing angle"
+    },
+    {
+        "視角捕集器": "viewing dump"
+    },
+    {
+        "視域": "viewing field"
+    },
+    {
+        "觀測鏡": "viewing mirror"
+    },
+    {
+        "觀察口": "viewing port"
+    },
+    {
+        "室屏": "viewing screen"
+    },
+    {
+        "暈邊現象；漸暈": "vignetting"
+    },
+    {
+        "漸暈光闌；漸暈膜片": "vignetting diaphragm"
+    },
+    {
+        "漸暈效應": "vignetting effect"
+    },
+    {
+        "暈邊光闌": "vignetting stop"
+    },
+    {
+        "韋拉里效應": "Villari effect"
+    },
+    {
+        "韋拉里反轉效應": "Villari reversal"
+    },
+    {
+        "韋拉斯-菲利浦分類": "Villars-Phillips classification"
+    },
+    {
+        "中提琴": "viola"
+    },
+    {
+        "紫；紫光": "violet"
+    },
+    {
+        "紫移": "violet shift"
+    },
+    {
+        "小提琴": "violin"
+    },
+    {
+        "大提琴": "violoncello"
+    },
+    {
+        "初始曲線": "virgin curve"
+    },
+    {
+        "室女[星]座": "Virgo"
+    },
+    {
+        "室女[座]星系團": "Virgo cluster"
+    },
+    {
+        "室女[座]超星系團": "Virgo supercluster"
+    },
+    {
+        "均功；維里": "virial"
+    },
+    {
+        "維里係數": "Virial coefficient"
+    },
+    {
+        "維里狀態方程[式]": "Virial equation of state"
+    },
+    {
+        "維里展開式": "Virial expansion"
+    },
+    {
+        "均功定理": "virial theorem"
+    },
+    {
+        "虛束縛態": "virtual bound state"
+    },
+    {
+        "虛陰極": "virtual cathode"
+    },
+    {
+        "虛晶[體]近似": "virtual crystal approximation"
+    },
+    {
+        "虛形變": "virtual deformation"
+    },
+    {
+        "虛位移": "virtual displacement"
+    },
+    {
+        "虛焦點": "virtual focus"
+    },
+    {
+        "虛躍移": "virtual hopping"
+    },
+    {
+        "虛像": "virtual image"
+    },
+    {
+        "虛漏": "virtual leak"
+    },
+    {
+        "虛能階": "virtual level"
+    },
+    {
+        "虛質量": "virtual mass"
+    },
+    {
+        "虛物": "virtual object"
+    },
+    {
+        "虛偶；潛在偶": "virtual pair"
+    },
+    {
+        "虛粒子": "virtual particle"
+    },
+    {
+        "虛光子": "virtual photon"
+    },
+    {
+        "虛光子場": "virtual photon field"
+    },
+    {
+        "虛過程": "virtual process"
+    },
+    {
+        "虛量子": "virtual quantum"
+    },
+    {
+        "虛擬反應堆": "virtual reactor"
+    },
+    {
+        "虛域": "virtual space"
+    },
+    {
+        "虛態": "virtual state"
+    },
+    {
+        "虛躍遷": "virtual transition"
+    },
+    {
+        "虛功": "virtual work"
+    },
+    {
+        "虛功原理": "virtual work principle"
+    },
+    {
+        "黏彈性介質": "viscoelastic medium"
+    },
+    {
+        "黏彈性": "viscoelasticity"
+    },
+    {
+        "黏度計": "viscometer"
+    },
+    {
+        "黏度學": "viscometry"
+    },
+    {
+        "黏塑應力": "viscoplastic strain"
+    },
+    {
+        "黏塑性": "viscoplasticity"
+    },
+    {
+        "黏度計": "viscosimeter"
+    },
+    {
+        "測黏術": "viscosimetry"
+    },
+    {
+        "黏[滯]性；黏度": "viscosity"
+    },
+    {
+        "黏滯係數": "viscosity coefficient"
+    },
+    {
+        "黏度計": "viscosity gauge"
+    },
+    {
+        "黏度指數": "viscosity index"
+    },
+    {
+        "黏性壓力計": "viscosity manometer"
+    },
+    {
+        "黏滯阻力": "viscosity resistance"
+    },
+    {
+        "黏性標度": "viscosity scale"
+    },
+    {
+        "黏滯阻尼": "viscous damping"
+    },
+    {
+        "黏滯耗散": "viscous dissipation"
+    },
+    {
+        "黏滯曳力": "viscous drag"
+    },
+    {
+        "黏[滯]流[動]": "viscous flow"
+    },
+    {
+        "黏性流體": "viscous fluid"
+    },
+    {
+        "黏[性]力": "viscous force"
+    },
+    {
+        "黏性摩擦": "viscous friction"
+    },
+    {
+        "黏遲滯": "viscous hysteresis"
+    },
+    {
+        "黏滯運動": "viscous motion"
+    },
+    {
+        "黏滯傾點": "viscous pour point"
+    },
+    {
+        "黏性次層｛氣象學｝": "viscous sublayer"
+    },
+    {
+        "可見度": "visibility"
+    },
+    {
+        "能見度曲線": "visibility curve"
+    },
+    {
+        "可見度因數": "visibility factor"
+    },
+    {
+        "可見度函數": "visibility function"
+    },
+    {
+        "可見發射率": "visible emissivity"
+    },
+    {
+        "可見地平": "visible horizon"
+    },
+    {
+        "可見像": "visible image"
+    },
+    {
+        "可見[光]雷射": "visible laser"
+    },
+    {
+        "可見光": "visible light"
+    },
+    {
+        "可見光線": "visible ray"
+    },
+    {
+        "可見訊號": "visible signal"
+    },
+    {
+        "可見光譜": "visible spectrum"
+    },
+    {
+        "視覺": "vision"
+    },
+    {
+        "視覺[敏]銳度": "vision acuity"
+    },
+    {
+        "明視距離": "vision distance"
+    },
+    {
+        "視域": "vision field"
+    },
+    {
+        "視覺暫留": "vision persistence"
+    },
+    {
+        "視[覺]敏[銳]度": "visual acurity"
+    },
+    {
+        "目視亮度": "visual brightness"
+    },
+    {
+        "視覺疲乏": "visual fatigue"
+    },
+    {
+        "視域": "visual field"
+    },
+    {
+        "視覺": "visual perception"
+    },
+    {
+        "視覺暫留": "visual persistence"
+    },
+    {
+        "目測光度計": "visual photometer"
+    },
+    {
+        "目測光度學": "visual photometry"
+    },
+    {
+        "目視鑑別率": "visual resolution"
+    },
+    {
+        "觀察儀": "visualizer"
+    },
+    {
+        "null": "vitreous body"
+    },
+    {
+        "正電；玻璃電": "vitreous electricity"
+    },
+    {
+        "玻璃狀液｛生理｝": "vitreous humour"
+    },
+    {
+        "玻質氧化矽": "vitreous silica"
+    },
+    {
+        "玻璃態": "vitreous state"
+    },
+    {
+        "琉化[現象]": "vitrification"
+    },
+    {
+        "玻基陶瓷": "vitroceramics"
+    },
+    {
+        "弗拉索夫方程[式]": "Vlasov equation"
+    },
+    {
+        "超長基線干涉術": "VLBI｛very long baseline interferometry｝"
+    },
+    {
+        "超大型積體電路": "VLSI｛very large scale integrated-circuit｝"
+    },
+    {
+        "聲帶": "vocal cord"
+    },
+    {
+        "語音合成儀": "vocoder"
+    },
+    {
+        "語音音流": "voice current"
+    },
+    {
+        "語音頻率": "voice frequency"
+    },
+    {
+        "聲紋": "voice print"
+    },
+    {
+        "空；空位；空隙": "void"
+    },
+    {
+        "空隙係數": "void coefficient"
+    },
+    {
+        "空洞效應": "void effect"
+    },
+    {
+        "虛晶格": "void lattice"
+    },
+    {
+        "空隙體積": "void volume"
+    },
+    {
+        "空隙率": "voidage"
+    },
+    {
+        "佛伊格特效應": "Voigt effect"
+    },
+    {
+        "佛伊格特固體": "Voigt's solid"
+    },
+    {
+        "揮發性物質": "volatile matter"
+    },
+    {
+        "揮發": "volatilization"
+    },
+    {
+        "伏特": "volt"
+    },
+    {
+        "伏特匣": "volt box"
+    },
+    {
+        "伏打效應": "volta effect"
+    },
+    {
+        "電壓": "voltage"
+    },
+    {
+        "電壓放大；電壓放大率": "voltage amplification"
+    },
+    {
+        "電壓放大器": "voltage amplifier"
+    },
+    {
+        "電壓特性": "voltage characteristic"
+    },
+    {
+        "電壓電路": "voltage circuit"
+    },
+    {
+        "電壓線圈": "voltage coil"
+    },
+    {
+        "分壓器": "voltage divider"
+    },
+    {
+        "分壓器": "voltage divider"
+    },
+    {
+        "電壓漂移": "voltage drift"
+    },
+    {
+        "[電]壓降": "voltage drop"
+    },
+    {
+        "電壓饋電": "voltage feed"
+    },
+    {
+        "電壓漲落；電壓起伏": "voltage fluctuation"
+    },
+    {
+        "電壓梯度": "voltage gradient"
+    },
+    {
+        "電壓相量": "voltage phasor"
+    },
+    {
+        "電壓額定值": "voltage rating"
+    },
+    {
+        "電壓調節": "voltage regulation"
+    },
+    {
+        "電壓調節器": "voltage regulator"
+    },
+    {
+        "電壓靈敏度": "voltage sensitivity"
+    },
+    {
+        "穩壓器": "voltage stabilizer"
+    },
+    {
+        "穩壓二極體": "voltage stabilizing diode"
+    },
+    {
+        "變壓器": "voltage transformation"
+    },
+    {
+        "電壓發送係數": "voltage transmission coefficient"
+    },
+    {
+        "電壓倍程器": "voltage-range multiplier"
+    },
+    {
+        "電壓調節二極體": "voltage-regulator diode"
+    },
+    {
+        "電源反相器": "voltage-source inverter"
+    },
+    {
+        "伏匝比": "voltage-turns ratio"
+    },
+    {
+        "伏打電池": "voltaic battery"
+    },
+    {
+        "伏打電": "voltaic electricity"
+    },
+    {
+        "伏打堆": "voltaic pile"
+    },
+    {
+        "電量計": "voltameter"
+    },
+    {
+        "電量滴定": "voltametric titration"
+    },
+    {
+        "伏[特]安[培]": "volt-ampere"
+    },
+    {
+        "伏安特性曲線": "volt-ampere characteristics"
+    },
+    {
+        "伏打堆": "volta's pile"
+    },
+    {
+        "伏特計": "voltmeter"
+    },
+    {
+        "伏安法": "voltmeter-ammeter method"
+    },
+    {
+        "伏特歐姆計": "volt-ohmmeter"
+    },
+    {
+        "伏特歐姆毫安計；三用電表": "volt-ohm-milliammeter"
+    },
+    {
+        "體積；容積；音量": "volume"
+    },
+    {
+        "體電荷密度": "volume charge density"
+    },
+    {
+        "體積壓縮係數": "volume compressibility"
+    },
+    {
+        "體積濃度": "volume concentration"
+    },
+    {
+        "音量控制": "volume control"
+    },
+    {
+        "體電量計；庫侖計": "volume coulometer"
+    },
+    {
+        "體電流": "volume current"
+    },
+    {
+        "體密度": "volume density"
+    },
+    {
+        "體積膨脹計": "volume dilatometer"
+    },
+    {
+        "體積元[素]": "volume element"
+    },
+    {
+        "體積能": "volume energy"
+    },
+    {
+        "體積膨脹": "volume expansion"
+    },
+    {
+        "體膨脹率": "volume expansivity"
+    },
+    {
+        "體積流率": "volume flow rate"
+    },
+    {
+        "體通量": "volume flux"
+    },
+    {
+        "體厚全相片；體厚全像片": "volume hologram"
+    },
+    {
+        "體積分": "volume integral"
+    },
+    {
+        "體積電離密度": "volume ionization density"
+    },
+    {
+        "體積電離密度": "volume level"
+    },
+    {
+        "體磁致伸縮": "volume magnetostriction"
+    },
+    {
+        "相干體積": "volume of coherence"
+    },
+    {
+        "體光電導性": "volume photoconductivity"
+    },
+    {
+        "體極化電荷": "volume polarization charge"
+    },
+    {
+        "體復合": "volume recombination"
+    },
+    {
+        "體反射係數": "volume reflection coefficient"
+    },
+    {
+        "體反射係數": "volume reflexion coefficient"
+    },
+    {
+        "體電阻率": "volume resistivity"
+    },
+    {
+        "體應變": "volume strain"
+    },
+    {
+        "體應力": "volume stress"
+    },
+    {
+        "體磁化率": "volume susceptibility"
+    },
+    {
+        "體速度": "volume velocity"
+    },
+    {
+        "體黏度": "volume viscosity"
+    },
+    {
+        "體積平均通量": "volume-averaged flux"
+    },
+    {
+        "體積計": "volumenometer"
+    },
+    {
+        "體積計": "volumeter"
+    },
+    {
+        "體放熱率": "volumetric heat release rate"
+    },
+    {
+        "馮克立曾常數": "von Klitzing constant"
+    },
+    {
+        "馮諾伊曼代數": "von Neumann algebra"
+    },
+    {
+        "渦旋": "vortex"
+    },
+    {
+        "渦旋[真空]泵": "vortex [vacuum] pump"
+    },
+    {
+        "渦旋核": "vortex core"
+    },
+    {
+        "渦[旋]絲": "vortex filament"
+    },
+    {
+        "渦流": "vortex flow"
+    },
+    {
+        "渦旋流體": "vortex fluid"
+    },
+    {
+        "渦旋玻璃": "vortex glass"
+    },
+    {
+        "渦[旋]線": "vortex line"
+    },
+    {
+        "渦動": "vortex motion"
+    },
+    {
+        "渦[旋]偶": "vortex pair"
+    },
+    {
+        "渦[旋]環": "vortex ring"
+    },
+    {
+        "渦[旋]層；渦[旋]列": "vortex sheet"
+    },
+    {
+        "渦旋面": "vortex surface"
+    },
+    {
+        "渦[旋]層": "vortex trail"
+    },
+    {
+        "渦[旋]層": "vortex train"
+    },
+    {
+        "渦[旋]管": "vortex tube"
+    },
+    {
+        "渦[旋]速度": "vortex velocity"
+    },
+    {
+        "渦旋場": "vortical field"
+    },
+    {
+        "渦[旋]度": "vorticity"
+    },
+    {
+        "渦度輸送假設": "vorticity-transport hypothesis"
+    },
+    {
+        "母音": "vowel"
+    },
+    {
+        "蒸汽相磊晶": "VPE｛vapor-phase epitaxy｝"
+    },
+    {
+        "夫利蘭振盪器": "Vreeland oscillator"
+    },
+    {
+        "振動樣品磁強計": "VSM｛vibrating sample magnetometer｝"
+    },
+    {
+        "硫化": "vulcanization"
+    },
+    {
+        "石英玻璃": "vycor"
+    },
+    {
+        "W係數": "W coefficient"
+    },
+    {
+        "W型星": "W stars"
+    },
+    {
+        "瓦茲利缺陷": "Wadsley defect"
+    },
+    {
+        "瓦茲沃斯稜鏡": "Wadsworth prism"
+    },
+    {
+        "圓片；晶片": "wafer"
+    },
+    {
+        "華格納接地法": "Wagner earth [connection]"
+    },
+    {
+        "華格納接地法": "Wagner ground"
+    },
+    {
+        "華格納斷續器": "Wagner interrupter"
+    },
+    {
+        "束腰半徑｛光學｝": "waist radius"
+    },
+    {
+        "尾流": "wake"
+    },
+    {
+        "尾流": "wake flow"
+    },
+    {
+        "尾流阻力": "wake resistance"
+    },
+    {
+        "瓦登定則": "Walden's rule"
+    },
+    {
+        "磁壁能": "wall energy"
+    },
+    {
+        "壁面摩擦": "wall friction"
+    },
+    {
+        "壁碰撞": "wall-collision"
+    },
+    {
+        "砷鉍鈾礦": "walpurgite"
+    },
+    {
+        "萬納高溫計": "Wanner's optical pyrometer"
+    },
+    {
+        "萬納高溫計": "Wanner's pyrometer"
+    },
+    {
+        "萬尼爾函數": "Wannier function"
+    },
+    {
+        "低昂音；顫音": "warble tone"
+    },
+    {
+        "低昂音；顫音": "warbling tone"
+    },
+    {
+        "瓦堡定律": "Warburg's law"
+    },
+    {
+        "瓦德恆等式": "Ward identity"
+    },
+    {
+        "瓦得-高橋恆等式": "Ward-Takahashi identities"
+    },
+    {
+        "溫電子": "warm electron"
+    },
+    {
+        "墊圈；洗滌器": "washer"
+    },
+    {
+        "廢料": "waste"
+    },
+    {
+        "廢熱": "waste heat"
+    },
+    {
+        "排廢[料]管": "waste pipe"
+    },
+    {
+        "廢鈾": "waste uranium"
+    },
+    {
+        "水沸騰反應器": "water boiler"
+    },
+    {
+        "水循環": "water cycle"
+    },
+    {
+        "水[電]極": "water electrode"
+    },
+    {
+        "水當量": "water equivalent"
+    },
+    {
+        "水薄膜": "water film"
+    },
+    {
+        "水玻璃": "water glass"
+    },
+    {
+        "水錘": "water hammer"
+    },
+    {
+        "水位差": "water head"
+    },
+    {
+        "水位差": "water head｛=head of water｝"
+    },
+    {
+        "水注": "water jet"
+    },
+    {
+        "水位": "water level"
+    },
+    {
+        "水位計": "water level gauge"
+    },
+    {
+        "水量計；水表": "water meter"
+    },
+    {
+        "水動機": "water motor"
+    },
+    {
+        "結晶水": "water of crystallization"
+    },
+    {
+        "防水": "water proof"
+    },
+    {
+        "抽水機；水泵": "water pump"
+    },
+    {
+        "水淬": "water quenching"
+    },
+    {
+        "水變阻器": "water rheostat"
+    },
+    {
+        "水箱": "water tank"
+    },
+    {
+        "水輪機": "water turbine"
+    },
+    {
+        "水蒸汽": "water vapor"
+    },
+    {
+        "水解電量計": "water voltameter"
+    },
+    {
+        "水浴": "water-bath"
+    },
+    {
+        "水沸騰反應器": "water-boiler reactor"
+    },
+    {
+        "水卡計": "water-calorimeter"
+    },
+    {
+        "水冷反應器": "water-cooled reactor"
+    },
+    {
+        "水緩反應器": "water-moderated reactor"
+    },
+    {
+        "瓦特｛單位｝": "watt"
+    },
+    {
+        "瓦特數": "wattage"
+    },
+    {
+        "功率耗散": "wattage dissipation"
+    },
+    {
+        "瓦時": "watt-hour"
+    },
+    {
+        "瓦時計": "watthour meter"
+    },
+    {
+        "瓦特計": "wattmeter"
+    },
+    {
+        "波": "wave"
+    },
+    {
+        "波行像差": "wave aberration"
+    },
+    {
+        "波動聲學": "wave acoustics"
+    },
+    {
+        "波分析器": "wave analyzer"
+    },
+    {
+        "行波天線": "wave antenna"
+    },
+    {
+        "波帶": "wave band"
+    },
+    {
+        "波帶調換器": "wave band changing switch"
+    },
+    {
+        "削波器": "wave clipper"
+    },
+    {
+        "波峰": "wave crest"
+    },
+    {
+        "偵波器；檢波器": "wave detector"
+    },
+    {
+        "導波體": "wave director"
+    },
+    {
+        "波導管": "wave duct"
+    },
+    {
+        "波動方程[式]": "wave equation"
+    },
+    {
+        "波激發": "wave excitation"
+    },
+    {
+        "濾波器": "wave filter"
+    },
+    {
+        "波形": "wave form"
+    },
+    {
+        "波前": "wave front"
+    },
+    {
+        "波函數": "wave function"
+    },
+    {
+        "波群": "wave group"
+    },
+    {
+        "波導": "wave guide"
+    },
+    {
+        "波致阻力": "wave making resistance"
+    },
+    {
+        "波動力學": "wave mechanics"
+    },
+    {
+        "波頻計；波長計": "wave meter"
+    },
+    {
+        "波模[態]": "wave mode"
+    },
+    {
+        "波動": "wave motion"
+    },
+    {
+        "波面法線": "wave normal"
+    },
+    {
+        "波數": "wave number"
+    },
+    {
+        "波動光學": "wave optics"
+    },
+    {
+        "波包": "wave packet"
+    },
+    {
+        "波片": "wave plate"
+    },
+    {
+        "波之傳播": "wave propagation"
+    },
+    {
+        "波反射": "wave reflection"
+    },
+    {
+        "波折射": "wave refraction"
+    },
+    {
+        "波動學說": "wave theory"
+    },
+    {
+        "波列": "wave train"
+    },
+    {
+        "陷波器": "wave trap"
+    },
+    {
+        "波谷": "wave trough"
+    },
+    {
+        "波向量": "wave vector"
+    },
+    {
+        "波速度": "wave velocity"
+    },
+    {
+        "波速面": "wave velocity surface"
+    },
+    {
+        "波形繞組；波捲": "wave winding"
+    },
+    {
+        "波粒二象性": "wave-corpuscle duality"
+    },
+    {
+        "波前像差": "wave-front aberration"
+    },
+    {
+        "波前重建": "wave-front reconstruction"
+    },
+    {
+        "波前反轉": "wave-front reversal"
+    },
+    {
+        "波前剪變干涉儀": "wave-front shearing interferometer"
+    },
+    {
+        "波前分裂": "wave-front splitting"
+    },
+    {
+        "波導": "waveguide"
+    },
+    {
+        "波導彎頭": "waveguide bend"
+    },
+    {
+        "波導腔": "waveguide cavity"
+    },
+    {
+        "波導連接器": "waveguide connector"
+    },
+    {
+        "波導臨界尺寸": "waveguide critical dimension"
+    },
+    {
+        "波導截止頻率": "waveguide cutoff frequency"
+    },
+    {
+        "波導彎頭": "waveguide elbow"
+    },
+    {
+        "波導濾器": "waveguide filter"
+    },
+    {
+        "波導拼合": "waveguide hybrid"
+    },
+    {
+        "波導接合": "waveguide junction"
+    },
+    {
+        "波導透鏡": "waveguide lens"
+    },
+    {
+        "波導模[態]": "waveguide mode"
+    },
+    {
+        "波導栓": "waveguide plunger"
+    },
+    {
+        "波導稜鏡": "waveguide prism"
+    },
+    {
+        "波導探針": "waveguide probe"
+    },
+    {
+        "波導諧振器": "waveguide resonator"
+    },
+    {
+        "波導開關": "waveguide switch"
+    },
+    {
+        "波導窗": "waveguide window"
+    },
+    {
+        "波長": "wavelength"
+    },
+    {
+        "波散光譜儀": "wavelength dispersion spectrometer"
+    },
+    {
+        "波長展開度": "wavelength spread"
+    },
+    {
+        "波長標準": "wavelength standards"
+    },
+    {
+        "波長底限": "wavelength threshold"
+    },
+    {
+        "子波": "wavelet"
+    },
+    {
+        "波頻計；波長計": "wavemeter"
+    },
+    {
+        "波數向量": "wave-number vector"
+    },
+    {
+        "波粒二象性": "wave-particle duality"
+    },
+    {
+        "波紋": "waviness"
+    },
+    {
+        "蠟": "wax"
+    },
+    {
+        "蠟塊光度計": "wax block photometer"
+    },
+    {
+        "韋伯": "Wb｛weber｝"
+    },
+    {
+        "W玻色子": "W-boson"
+    },
+    {
+        "分波長多工": "WDM｛wavelength division multiplex｝"
+    },
+    {
+        "弱玻色子": "weak boson"
+    },
+    {
+        "弱因果關係": "weak causality"
+    },
+    {
+        "弱荷": "weak charge"
+    },
+    {
+        "弱收斂": "weak convergence"
+    },
+    {
+        "弱耦合": "weak coupling"
+    },
+    {
+        "弱流": "weak current"
+    },
+    {
+        "弱[作用]衰變": "weak decay"
+    },
+    {
+        "弱等效原理": "weak equivalence principle"
+    },
+    {
+        "弱鐵磁性": "weak ferromagnetism"
+    },
+    {
+        "弱聚焦": "weak focusing"
+    },
+    {
+        "弱核力": "weak force"
+    },
+    {
+        "弱超荷": "weak hypercharge"
+    },
+    {
+        "弱[交互]作用": "weak interaction"
+    },
+    {
+        "弱同位旋": "weak isospin"
+    },
+    {
+        "弱連結": "weak junction"
+    },
+    {
+        "弱極限": "weak limit"
+    },
+    {
+        "弱連結": "weak link"
+    },
+    {
+        "弱混合角": "weak mixing angle"
+    },
+    {
+        "弱中性流": "weak neutral current"
+    },
+    {
+        "弱湍動": "weak turbulence"
+    },
+    {
+        "弱聚焦同步加速器": "weak-focusing synchrotron"
+    },
+    {
+        "弱電離電漿": "weakly ionized plasma"
+    },
+    {
+        "磨耗": "wear"
+    },
+    {
+        "磨耗阻力": "wear resistance"
+    },
+    {
+        "耐磨耗性": "wearability"
+    },
+    {
+        "磨耗面": "wearing surface"
+    },
+    {
+        "韋伯｛單位｝": "weber"
+    },
+    {
+        "韋伯數": "Weber number"
+    },
+    {
+        "韋伯定律": "Weber's law"
+    },
+    {
+        "楔；劈": "wedge"
+    },
+    {
+        "劈形吸收器": "wedge absorber"
+    },
+    {
+        "劈形向錯": "wedge disclination"
+    },
+    {
+        "劈形錯位": "wedge dislocation"
+    },
+    {
+        "劈形膜；楔形膜": "wedge film"
+    },
+    {
+        "劈形濾器": "wedge filter"
+    },
+    {
+        "劈形干涉儀": "wedge interferometer"
+    },
+    {
+        "劈片光度計": "wedge photometer"
+    },
+    {
+        "劈積": "wedge product"
+    },
+    {
+        "劈形狹縫": "wedge slit"
+    },
+    {
+        "光楔射譜圖": "wedge spectrogram"
+    },
+    {
+        "光楔攝譜儀": "wedge spectrograph"
+    },
+    {
+        "弱核力": "week nuclear force"
+    },
+    {
+        "韋乃特陰極": "Wehnelt cathode"
+    },
+    {
+        "外得曼-夫蘭茲定律": "Weidemann-Franz law"
+    },
+    {
+        "重；重量；權重": "weight"
+    },
+    {
+        "重量濃度": "weight concentration"
+    },
+    {
+        "重量密度": "weight density"
+    },
+    {
+        "加權平均": "weighted average"
+    },
+    {
+        "加權誤差": "weighted error"
+    },
+    {
+        "加權平均值": "weighted mean"
+    },
+    {
+        "加權係數": "weighting coefficient"
+    },
+    {
+        "加權因子": "weighting factor"
+    },
+    {
+        "失重": "weightlessness"
+    },
+    {
+        "砝碼": "weights"
+    },
+    {
+        "度量衡": "weights and measures"
+    },
+    {
+        "萬柏格角": "Weinberg angle"
+    },
+    {
+        "萬柏格定理": "Weinberg theorem"
+    },
+    {
+        "萬柏格-薩拉姆模型": "Weinberg-Salam model"
+    },
+    {
+        "流量計": "weir gauge"
+    },
+    {
+        "外斯域": "Weiss domain"
+    },
+    {
+        "外斯場": "Weiss field"
+    },
+    {
+        "外斯公式": "Weiss formula"
+    },
+    {
+        "外斯指數": "Weiss indices"
+    },
+    {
+        "外斯內場": "Weiss internal field"
+    },
+    {
+        "外斯定律": "Weiss law"
+    },
+    {
+        "外斯[磁性]理論": "Weiss' theory [of magnetism]"
+    },
+    {
+        "外側克-威廉斯[方]法": "Weizsäcker-Williams method"
+    },
+    {
+        "熔接": "weld"
+    },
+    {
+        "熔接劑": "welding flux"
+    },
+    {
+        "井式壓力計": "well-type manometer"
+    },
+    {
+        "熔接": "well-type reactor"
+    },
+    {
+        "井型屏": "well-type shield"
+    },
+    {
+        "WKB近似": "Wentzel-Kramers- Brillouin approximation"
+    },
+    {
+        "WKB[方]法": "Wentzel-Kramers- Brillouin method"
+    },
+    {
+        "[宇宙線的]西超現象": "west excess [of cosmic ray]"
+    },
+    {
+        "衛司吞標準電池": "Weston standard cell"
+    },
+    {
+        "乾濕球濕度計": "wet and dry bulb hygrometer"
+    },
+    {
+        "濕皺屈": "wet buckling"
+    },
+    {
+        "濕球": "wet bulb"
+    },
+    {
+        "「濕式」氫彈": "wet H-bomb"
+    },
+    {
+        "可濕性": "wettability"
+    },
+    {
+        "潤濕": "wetting"
+    },
+    {
+        "潤濕角": "wetting angle"
+    },
+    {
+        "潤濕力": "wetting power"
+    },
+    {
+        "外勒方程[式]": "Weyl equations"
+    },
+    {
+        "外勒張量": "Weyl tensor"
+    },
+    {
+        "外勒-佛克理論": "Weyl-Fock theory"
+    },
+    {
+        "瓦時": "Wh｛=watt-hour｝"
+    },
+    {
+        "惠司同電橋": "Wheatstone bridge"
+    },
+    {
+        "惠司同光度計": "Wheatstone photometer"
+    },
+    {
+        "惠司同立體鏡": "Wheatstone stereoscope"
+    },
+    {
+        "輪曳力": "wheel drag"
+    },
+    {
+        "回轉乾濕球溼度計": "whirling psychrometer"
+    },
+    {
+        "晶鬚": "whisker"
+    },
+    {
+        "哨": "whistle"
+    },
+    {
+        "白體": "white body"
+    },
+    {
+        "白口鐵": "white cast iron"
+    },
+    {
+        "白矮星": "white dwarf"
+    },
+    {
+        "白矮星": "white dwarf star"
+    },
+    {
+        "白熱": "white heat"
+    },
+    {
+        "白洞": "white hole"
+    },
+    {
+        "白光": "white light"
+    },
+    {
+        "白雜訊": "white noise"
+    },
+    {
+        "白輻射；連續輻射": "white radiation"
+    },
+    {
+        "白譜；連續譜": "white spectrum"
+    },
+    {
+        "連續x輻射": "white x-radiation"
+    },
+    {
+        "連續x射線": "white x-rays"
+    },
+    {
+        "全音音階": "whole tone scale"
+    },
+    {
+        "全身照射": "whole-body exposure"
+    },
+    {
+        "全身輻照": "whole-body irradiation"
+    },
+    {
+        "全波片": "whole-wave plate"
+    },
+    {
+        "威克排序": "Wick ordering"
+    },
+    {
+        "威克旋轉": "Wick rotation"
+    },
+    {
+        "威克定理": "Wick theorem"
+    },
+    {
+        "廣角透鏡": "wide angle lens"
+    },
+    {
+        "寬[頻]帶": "wide band"
+    },
+    {
+        "寬能隙半導體": "wide bandgap semiconductor"
+    },
+    {
+        "寬場": "wide field"
+    },
+    {
+        "廣角射叢；廣角簇射": "wide-angle shower"
+    },
+    {
+        "大孔徑物鏡": "wide-aperture lens"
+    },
+    {
+        "展寬": "widening"
+    },
+    {
+        "能階寬度": "width of energy level"
+    },
+    {
+        "條紋寬度": "width of fringe"
+    },
+    {
+        "韋謝-黎納位": "Wiechert-Liénard potential"
+    },
+    {
+        "維德曼效應": "Wiedemann effect"
+    },
+    {
+        "維德曼-夫蘭茲定律": "Wiedemann-Franz law"
+    },
+    {
+        "維德曼相加律": "Wiedemann's additivity law"
+    },
+    {
+        "維因電容電橋": "Wien capacitance bridge"
+    },
+    {
+        "維因常數": "Wien constant"
+    },
+    {
+        "維因效應": "Wien effect"
+    },
+    {
+        "維納測度": "Wiener measure"
+    },
+    {
+        "維納-霍普方程[式]": "Wiener-Hopf equations"
+    },
+    {
+        "維因位移律": "Wien's displacement law"
+    },
+    {
+        "維因分布律": "Wien's distributions law"
+    },
+    {
+        "維因輻射定律": "Wien's radiation law"
+    },
+    {
+        "增頻磁鐵": "wiggler [magnet]"
+    },
+    {
+        "外特曼函數": "Wightman function"
+    },
+    {
+        "維格納3j算符": "Wigner 3j symbol"
+    },
+    {
+        "維格納係數": "Wigner coefficient"
+    },
+    {
+        "維格納分布函數": "Wigner distribution function"
+    },
+    {
+        "維格納能量": "Wigner energy"
+    },
+    {
+        "維格納晶格": "Wigner lattice"
+    },
+    {
+        "維格納位勢": "Wigner potential"
+    },
+    {
+        "維格納3-j符號": "Wigner three-j symbol"
+    },
+    {
+        "維格納國值定律": "Wigner threshold law"
+    },
+    {
+        "維格納-艾卡定理": "Wigner-Eckart theorem"
+    },
+    {
+        "維格納-塞茨[單位]晶胞": "Wigner-Seits [unit] cell"
+    },
+    {
+        "維格納-賽次近似法": "Wigner-Seitz approximation"
+    },
+    {
+        "矽酸鋅礦": "willemite"
+    },
+    {
+        "威廉斯折射計": "Williams refractometer"
+    },
+    {
+        "威廉斯-黑曾公式": "Williams-Hazen formula"
+    },
+    {
+        "威爾森雲霧室": "Wilson [cloud] chamber"
+    },
+    {
+        "威爾森驗電器": "Wilson electroscope"
+    },
+    {
+        "威爾森膨脹[雲霧]室": "Wilson expansion chamber"
+    },
+    {
+        "大質量弱作用粒子": "WIMP｛weakly interacting massive particle｝"
+    },
+    {
+        "威姆斯赫斯起電機": "Wimshurst [electrical] machine"
+    },
+    {
+        "管樂器": "wind instrument"
+    },
+    {
+        "風洞": "wind tunnel"
+    },
+    {
+        "繞組；繞法": "winding"
+    },
+    {
+        "繞數": "winding number"
+    },
+    {
+        "翼曳力": "wing drag"
+    },
+    {
+        "翼阻力": "wing resistance"
+    },
+    {
+        "冬至；冬至點": "winter solstice"
+    },
+    {
+        "電刷": "wipe contact"
+    },
+    {
+        "線；金屬線": "wire"
+    },
+    {
+        "絲[火花]室": "wire [spark] chamber"
+    },
+    {
+        "金屬線規": "wire gauge"
+    },
+    {
+        "線柵": "wire grating"
+    },
+    {
+        "無線電": "wireless"
+    },
+    {
+        "線繞低溫開關": "wire-wound cryotron"
+    },
+    {
+        "接線圖；佈線圖": "wiring diagram"
+    },
+    {
+        "WKB近似｛半古典近似｝": "WKB approximation"
+    },
+    {
+        "WKB法": "WKB｛Wentzel- Kramers-Brillouin｝ method"
+    },
+    {
+        "沃夫數": "Wolf number"
+    },
+    {
+        "鎢": "wolfram｛=W｝"
+    },
+    {
+        "沃拉斯吞稜鏡": "Wollaston prism"
+    },
+    {
+        "伍德效應": "Wood effect"
+    },
+    {
+        "伍德合金；伍德齊": "Wood's metal"
+    },
+    {
+        "低頻揚聲器": "woofer"
+    },
+    {
+        "功": "work"
+    },
+    {
+        "功函數": "work function"
+    },
+    {
+        "加工硬化指數": "work hardening index"
+    },
+    {
+        "工作曲線": "working curve"
+    },
+    {
+        "顯微鏡工作距離": "working distance of microscope"
+    },
+    {
+        "實用假說": "working hypothesis"
+    },
+    {
+        "工作物質": "working substance"
+    },
+    {
+        "功能定理": "work-kinetic energy theorem"
+    },
+    {
+        "世界線": "world line"
+    },
+    {
+        "蛀孔；蟲孔": "worm hole"
+    },
+    {
+        "[低頻]顫動": "wow"
+    },
+    {
+        "扳手；偶單力系": "wrench"
+    },
+    {
+        "扭曲不穩性": "wriggling instability"
+    },
+    {
+        "扭曲微擾": "wriggling perturbation"
+    },
+    {
+        "萊特望遠鏡": "Wright telescope"
+    },
+    {
+        "若恩斯基行列式": "Wronskian"
+    },
+    {
+        "若恩斯基行列式": "Wronskian determinant"
+    },
+    {
+        "熟鐵": "wrought iron"
+    },
+    {
+        "瓦-秒": "Ws｛watt-second｝"
+    },
+    {
+        "午夫靜電計": "Wulf electrometer"
+    },
+    {
+        "午夫驗電器": "Wulf electroscope"
+    },
+    {
+        "纖鋅礦": "wurtzite"
+    },
+    {
+        "X波段": "X band"
+    },
+    {
+        "X係數": "X coefficient"
+    },
+    {
+        "x單位": "x unit"
+    },
+    {
+        "x射線吸收近能帶緣結構": "XANES｛x-ray absorption near edge structure｝"
+    },
+    {
+        "x射線吸收光譜學": "XAS｛x-ray absorption spectroscopy｝"
+    },
+    {
+        "x射線雷射": "xaser"
+    },
+    {
+        "x射線雷射": "xaser"
+    },
+    {
+        "x軸": "x-axis"
+    },
+    {
+        "居里截晶體": "X-cut crystal"
+    },
+    {
+        "X截晶體": "X-cut crystal"
+    },
+    {
+        "氙燈": "xenon lamp"
+    },
+    {
+        "氙中毒": "xenon poisoning"
+    },
+    {
+        "氙": "xenon｛=Xe｝"
+    },
+    {
+        "靜電複印術": "xerography"
+    },
+    {
+        "x射線照術": "xeroradiography"
+    },
+    {
+        "x射線光電子能譜學": "XPS｛x-ray photoelectron spectroscopy｝"
+    },
+    {
+        "x射線｛侖琴射線｝": "x-radiation"
+    },
+    {
+        "x射線｛侖琴射線｝": "x-ray"
+    },
+    {
+        "x射線吸收": "x-ray absorption"
+    },
+    {
+        "x射線吸收邊限": "x-ray absorption edge"
+    },
+    {
+        "x射線吸收精細結構": "x-ray absorption fine structure"
+    },
+    {
+        "x射線分析": "x-ray analysis"
+    },
+    {
+        "x射線爆裂源": "x-ray burster"
+    },
+    {
+        "x射線臨界[吸收]波長": "x-ray critical [absorption] wavelength"
+    },
+    {
+        "x射線晶體密度": "x-ray crystal density"
+    },
+    {
+        "x射線晶體光譜儀": "x-ray crystal spectrometer"
+    },
+    {
+        "x射線結晶學": "x-ray crystallography"
+    },
+    {
+        "x射線探傷法": "x-ray defectoscopy"
+    },
+    {
+        "x射線繞射": "x-ray diffraction"
+    },
+    {
+        "x射線繞射襯法": "x-ray diffraction contrast method"
+    },
+    {
+        "x射線繞射粉末照相機": "x-ray diffraction powder camera"
+    },
+    {
+        "x射線繞射拓撲學": "x-ray diffraction topography"
+    },
+    {
+        "x射線繞射儀": "x-ray diffractometer"
+    },
+    {
+        "x射線雙晶分析": "x-ray double crystal analysis"
+    },
+    {
+        "x射線發射譜": "x-ray emission spectrum"
+    },
+    {
+        "x射線螢光分析": "x-ray fluorescent analysis"
+    },
+    {
+        "x射線發生器": "x-ray generator"
+    },
+    {
+        "x射線測角計": "x-ray goniometer"
+    },
+    {
+        "x射線硬度": "x-ray hardness"
+    },
+    {
+        "x射線全相術；x射線全像術": "x-ray holography"
+    },
+    {
+        "x射線影像攝譜學": "x-ray image spectrography"
+    },
+    {
+        "x射線干涉儀": "x-ray interferometer"
+    },
+    {
+        "x射線干涉測量學": "x-ray interferometry"
+    },
+    {
+        "x射線雷射": "x-ray laser"
+    },
+    {
+        "x射線刻板術": "x-ray lithography"
+    },
+    {
+        "x射線冷光": "x-ray luminescence"
+    },
+    {
+        "x射線金相學": "x-ray metallography"
+    },
+    {
+        "x射線微束技術": "x-ray microbeam technique"
+    },
+    {
+        "x射線顯微術": "x-ray microscopy"
+    },
+    {
+        "x射線單光儀；x射線單光器": "x-ray monochromator"
+    },
+    {
+        "x射線光學": "x-ray optics"
+    },
+    {
+        "x射線光電子光譜學": "x-ray photoelectron spectroscopy｛=XPS｝"
+    },
+    {
+        "x射線照相": "x-ray photograph"
+    },
+    {
+        "x射線粉末法": "x-ray powder method"
+    },
+    {
+        "x射線照相術": "x-ray radiography"
+    },
+    {
+        "x射線散射": "x-ray sacttering"
+    },
+    {
+        "x射線攝譜儀": "x-ray spectrograph"
+    },
+    {
+        "x射線光譜儀": "x-ray spectrometer"
+    },
+    {
+        "x射線光譜學": "x-ray spectroscopy"
+    },
+    {
+        "x射線譜": "x-ray spectrum"
+    },
+    {
+        "x射線拓撲圖": "x-ray topograph"
+    },
+    {
+        "x射線拓撲學": "x-ray topography"
+    },
+    {
+        "x射線透射照相": "x-ray transmission photograph"
+    },
+    {
+        "x射線管": "x-ray tube"
+    },
+    {
+        "x單位": "x-ray unit"
+    },
+    {
+        "釔鋁石榴石雷射；亞格雷射": "YAG laser"
+    },
+    {
+        "釔鋁石榴石": "YAG｛yttrium aluminum garnet｝"
+    },
+    {
+        "Y合金；Y齊": "Y-alloy"
+    },
+    {
+        "楊-米爾斯方程[式]": "Yang-Mills equation"
+    },
+    {
+        "楊-米爾斯場": "Yang-Mills field"
+    },
+    {
+        "碼": "yark｛=yd｝"
+    },
+    {
+        "偏向轉矩": "yaw moment"
+    },
+    {
+        "Y軸": "y-axis"
+    },
+    {
+        "Y形迴路": "Y-connection"
+    },
+    {
+        "Y截晶體": "Y-cut crystal"
+    },
+    {
+        "年": "year"
+    },
+    {
+        "黃斑｛生理｝": "yellow spot"
+    },
+    {
+        "屈服；產額": "yield"
+    },
+    {
+        "屈服點": "yield point"
+    },
+    {
+        "屈服應變": "yield strain"
+    },
+    {
+        "屈服強度": "yield strength"
+    },
+    {
+        "屈服應力": "yield stress"
+    },
+    {
+        "伊倫｛化學元素的假想原始物質｝": "ylem"
+    },
+    {
+        "Y式水準儀": "Y-level"
+    },
+    {
+        "軛鐵": "yoke [of the magnet]"
+    },
+    {
+        "楊氏構圖法": "Young construction"
+    },
+    {
+        "楊[氏]圖示[法]": "Young tableau"
+    },
+    {
+        "楊-拉普拉斯方程[式]": "Young-Laplace equation"
+    },
+    {
+        "楊氏[暈環]測微徑計": "Young's eriometer"
+    },
+    {
+        "楊[氏]實驗": "Young's experiment"
+    },
+    {
+        "楊氏干涉條紋": "Young's interference fringes"
+    },
+    {
+        "楊氏模量；楊氏係數": "Young's modulus"
+    },
+    {
+        "返折態": "yrast state"
+    },
+    {
+        "鐿": "ytterbium｛=Yb｝"
+    },
+    {
+        "釷釔礦": "yttrialite"
+    },
+    {
+        "釔鋁石榴石": "yttrium aluminium garnet｛=YAG｝"
+    },
+    {
+        "釔鐵石榴石": "yttrium iron garnet｛=YIG｝"
+    },
+    {
+        "四氟化釔鋰": "yttrium lithium tetrafluoride｛=YLF｝"
+    },
+    {
+        "正鋁酸釔": "yttrium orthoaluminate｛=Yalo｝｛=YAP｝"
+    },
+    {
+        "釔": "yttrium｛=Yo｝"
+    },
+    {
+        "鈦釔釷礦": "yttrocrasite"
+    },
+    {
+        "釔鈮鉭鐵礦": "yttrotantalite"
+    },
+    {
+        "湯川耦合": "Yukawa coupling"
+    },
+    {
+        "湯川介子": "Yukawa meson"
+    },
+    {
+        "湯川勢": "Yukawa potential"
+    },
+    {
+        "Z0玻色子": "Z0 boson"
+    },
+    {
+        "季曼效應原子吸收光譜術": "ZAA spectrometry"
+    },
+    {
+        "z軸": "z-axis"
+    },
+    {
+        "z截[式]晶體": "z-cut crystal"
+    },
+    {
+        "季曼分裂": "Zeeman splitting"
+    },
+    {
+        "季曼效應原子吸收光譜術": "Zeeman-effect atomic absorption spectrometry"
+    },
+    {
+        "季納擊穿": "Zener breakdown"
+    },
+    {
+        "季納電流": "Zener current"
+    },
+    {
+        "季納二極體": "Zener diode"
+    },
+    {
+        "季納效應": "Zener effect"
+    },
+    {
+        "天頂": "zenith"
+    },
+    {
+        "天頂角": "zenith angle"
+    },
+    {
+        "天頂距": "zenith distance"
+    },
+    {
+        "天頂角分布": "zenith-angle distribution"
+    },
+    {
+        "天頂角效應": "zenith-angle effect"
+    },
+    {
+        "天頂角變化｛宇宙射線強度的｝": "zenith-angle variation"
+    },
+    {
+        "沸石": "zeolite"
+    },
+    {
+        "沸石阱": "zeolite trap"
+    },
+    {
+        "零點校正器；調整零點儀器": "zero adjuster"
+    },
+    {
+        "零點調整": "zero adjustment"
+    },
+    {
+        "零齡主星序": "zero age main sequence"
+    },
+    {
+        "零拍": "zero beat"
+    },
+    {
+        "零偏壓": "zero bias"
+    },
+    {
+        "零譜支": "zero branch"
+    },
+    {
+        "零點電容；起點電容": "zero capacity"
+    },
+    {
+        "零能階": "zero energy level"
+    },
+    {
+        "無重力": "zero gravity"
+    },
+    {
+        "起點級": "zero level"
+    },
+    {
+        "衡消法": "zero method"
+    },
+    {
+        "零點": "zero point"
+    },
+    {
+        "零點能": "zero point energy"
+    },
+    {
+        "零點起伏": "zero point fluctuation"
+    },
+    {
+        "零點運動": "zero point motion"
+    },
+    {
+        "零點振動": "zero point vibration"
+    },
+    {
+        "零電位；零電勢": "zero potential"
+    },
+    {
+        "參考零電位": "zero potential reference"
+    },
+    {
+        "零力程近似": "zero range approximation"
+    },
+    {
+        "起點讀數": "zero reading"
+    },
+    {
+        "零聲": "zero sound"
+    },
+    {
+        "無場分裂": "zero-field splitting"
+    },
+    {
+        "零點熵": "zero-point entropy"
+    },
+    {
+        "零點漲落；零點起伏": "zero-point fluctuation"
+    },
+    {
+        "熱力學第零定律": "zeroth law of thermodynamics"
+    },
+    {
+        "第零類聲": "zeroth sound"
+    },
+    {
+        "零零躍遷": "zero-zero transition"
+    },
+    {
+        "ζ函數": "zeta function"
+    },
+    {
+        "閃鋅礦晶格": "zinc blende lattice"
+    },
+    {
+        "閃鋅礦[型]結構": "zinc blende structure"
+    },
+    {
+        "鋅冕玻璃": "zinc crown glass"
+    },
+    {
+        "硫化鋅": "zinc sulphide"
+    },
+    {
+        "鋅": "zinc｛=Zn｝"
+    },
+    {
+        "閃鋅礦": "zincblende"
+    },
+    {
+        "鐵鋰雲母": "zinnwaldite"
+    },
+    {
+        "秦特耳線": "Zintl line"
+    },
+    {
+        "秦特耳定則": "Zintl's rule"
+    },
+    {
+        "水鈾礬": "zippeite"
+    },
+    {
+        "閃光環": "zipper"
+    },
+    {
+        "鋯土": "zirconia"
+    },
+    {
+        "鋯": "zirconium｛=Zr｝"
+    },
+    {
+        "鈦鋯釷礦": "zirkelite"
+    },
+    {
+        "往復運動": "zitterbewegung"
+    },
+    {
+        "黃道帶": "zodiac"
+    },
+    {
+        "黃道帶": "zodiacal band"
+    },
+    {
+        "黃道塵": "zodiacal dust"
+    },
+    {
+        "黃道光": "zodiacal light"
+    },
+    {
+        "帶像差；域像差": "zonal aberration"
+    },
+    {
+        "帶；區；域；晶帶": "zone"
+    },
+    {
+        "[晶]帶軸": "zone axis"
+    },
+    {
+        "區界": "zone boundary"
+    },
+    {
+        "[晶]帶圈": "zone circle"
+    },
+    {
+        "晶帶指數": "zone indices"
+    },
+    {
+        "晶帶定律": "zone law"
+    },
+    {
+        "漫射帶": "zone of diffuse scattering"
+    },
+    {
+        "反射帶": "zone of reflections"
+    },
+    {
+        "反射帶": "zone of reflexions"
+    },
+    {
+        "飽和區域": "zone of saturation"
+    },
+    {
+        "偏析帶": "zone of segregation"
+    },
+    {
+        "[晶]帶[平]面": "zone plane"
+    },
+    {
+        "波帶片；波域片": "zone plate"
+    },
+    {
+        "分帶": "zoning"
+    },
+    {
+        "[晶狀體]懸纖維": "zonule fiber"
+    },
+    {
+        "可變焦距透鏡": "zoom lens"
+    },
+    {
+        "次外格定則": "Zweig rule"
+    },
+    {
+        "阿伐射線之電離作用": "α ionization"
+    },
+    {
+        "阿伐粒子": "α particle"
+    },
+    {
+        "Γ函數倍角公式； [Γ函數]倍數公式": "Γduplication formula"
+    },
+    {
+        "γ躍遷": "γ-transition"
+    },
+    {
+        "λ相變": "λ-transition"
+    }
+]

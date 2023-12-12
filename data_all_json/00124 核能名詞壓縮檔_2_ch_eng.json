@@ -1,0 +1,5258 @@
+[
+    {
+        "時間符合": "time coincidence"
+    },
+    {
+        "時間常數計": "time constant meter"
+    },
+    {
+        "時間常數範圍": "time constant range"
+    },
+    {
+        "時間常數": "time constants"
+    },
+    {
+        "時間轉換器": "time converter"
+    },
+    {
+        "時間褶積法": "time convolution method"
+    },
+    {
+        "時間遲延": "time delay"
+    },
+    {
+        "時間依持；時間相依": "time dependence"
+    },
+    {
+        "時間依持核反應": "time dependent nuclear reaction"
+    },
+    {
+        "時間鑑別器": "time discriminator"
+    },
+    {
+        "時間因數": "time factor"
+    },
+    {
+        "時間間隔鑑別器": "time interval discriminator"
+    },
+    {
+        "時距譜": "time interval spectrum"
+    },
+    {
+        "時間跳動": "time jitter"
+    },
+    {
+        "時間落後": "time lag"
+    },
+    {
+        "飛行時間": "time of flight"
+    },
+    {
+        "飛行時間分析器": "time of flight analyzer"
+    },
+    {
+        "飛行時間分析裝置": "time of flight analyzing assembly"
+    },
+    {
+        "飛行時間質譜儀": "time of flight massspectrometer"
+    },
+    {
+        "飛行時間法": "time of flight method"
+    },
+    {
+        "釋放時間": "time of liberation"
+    },
+    {
+        "時間宇稱性": "time parity"
+    },
+    {
+        "時間選截": "time pick-off"
+    },
+    {
+        "時間分解力": "time resolution"
+    },
+    {
+        "時間分解譜儀": "time resolved spectrograph"
+    },
+    {
+        "回應時間": "time response"
+    },
+    {
+        "時間反轉": "time reversal"
+    },
+    {
+        "時間倍進因數": "time scaling factor"
+    },
+    {
+        "時間移轉": "time slewing"
+    },
+    {
+        "時間分類機": "time sorter"
+    },
+    {
+        "時間數位轉換器": "time to digital converter"
+    },
+    {
+        "時間暫態": "time transients"
+    },
+    {
+        "時間可變場": "time variable field"
+    },
+    {
+        "時間變化和非線性": "time variant and nonlinear"
+    },
+    {
+        "時間變化脈衝整形": "time variant pulse shaping"
+    },
+    {
+        "時間行走": "time walk"
+    },
+    {
+        "校正時間": "time， correction"
+    },
+    {
+        "無感時間": "time， dead"
+    },
+    {
+        "衰減時間": "time， die-away"
+    },
+    {
+        "放電時間": "time， discharge"
+    },
+    {
+        "平衡時間": "time， equilibration"
+    },
+    {
+        "下降時間；衰減時間": "time， fall"
+    },
+    {
+        "飛行時間": "time， flight"
+    },
+    {
+        "堆內時間": "time， in-pile"
+    },
+    {
+        "不敏感時間": "time， insensitive"
+    },
+    {
+        "核時間": "time， nuclear"
+    },
+    {
+        "工作時間；運轉時間": "time， operating"
+    },
+    {
+        "停機時間；停爐時間": "time， outage"
+    },
+    {
+        "處理時間": "time， processing"
+    },
+    {
+        "瞬發產生時間": "time， prompt generation"
+    },
+    {
+        "原時": "time， proper"
+    },
+    {
+        "脈衝下降時間": "time， pulse-decay"
+    },
+    {
+        "脈衝重複時間": "time， pulse-repetition"
+    },
+    {
+        "集聚時間": "time， receptive"
+    },
+    {
+        "釋放時間": "time， release"
+    },
+    {
+        "復原時間": "time， restoring"
+    },
+    {
+        "慢化時間": "time， retardation"
+    },
+    {
+        "〔連續〕運轉時間": "time， run"
+    },
+    {
+        "閃爍衰變時間": "time， scintillationdecay"
+    },
+    {
+        "起動時間": "time， start-up"
+    },
+    {
+        "終了時間": "time， terminal"
+    },
+    {
+        "世界時": "time， universe"
+    },
+    {
+        "等待時間": "time， wait"
+    },
+    {
+        "零時間": "zero time"
+    },
+    {
+        "時間振幅轉換器": "time-amplitude converter"
+    },
+    {
+        "時間基礎單位": "time-base unit"
+    },
+    {
+        "時間相關輸出": "time-correlated output"
+    },
+    {
+        "光的時間過程": "timecourse of light"
+    },
+    {
+        "時間遲延閉合電驛": "time-delay closing relay"
+    },
+    {
+        "時間遲延電驛": "time-delay relay"
+    },
+    {
+        "時間遲延起動電驛": "time-delay startingrelay"
+    },
+    {
+        "時間依持": "time-dependent"
+    },
+    {
+        "乾井時間歷程分析": "time-history analysis of drywell"
+    },
+    {
+        "時間間隔計數器": "time-interval counter"
+    },
+    {
+        "飛行時間中子譜計儀": "time-of-flight neutron spectrometer"
+    },
+    {
+        "定時器": "timer"
+    },
+    {
+        "定時器接觸": "timer contact"
+    },
+    {
+        "定時器重定鈕": "timer reset button"
+    },
+    {
+        "定時器副框架": "timer subchassis"
+    },
+    {
+        "時間振幅變換": "time-to-amplitude conversion"
+    },
+    {
+        "時間脈高變換器": "time-to-pulse amplitude converter"
+    },
+    {
+        "時間時間變換": "time-to-time conversion"
+    },
+    {
+        "定時": "timing"
+    },
+    {
+        "定時準確性": "timing accuracy"
+    },
+    {
+        "定時電路": "timing circuit"
+    },
+    {
+        "定時圖": "timing diagram"
+    },
+    {
+        "定時鑑別器": "timing discriminator"
+    },
+    {
+        "定時性能": "timing performance"
+    },
+    {
+        "定時精密度": "timing precision"
+    },
+    {
+        "定時脈衝": "timing pulse"
+    },
+    {
+        "定時技術": "timing techniques"
+    },
+    {
+        "定時徑跡": "timing track"
+    },
+    {
+        "快定時": "timing， fast"
+    },
+    {
+        "錫": "tin"
+    },
+    {
+        "錫麂t統": "tin-uranium system"
+    },
+    {
+        "探入核〔爐〕心探針系統": "TIP (transversing incore probe)"
+    },
+    {
+        "極部；極端": "tip， pole"
+    },
+    {
+        "溫度指示開關": "TIS (temperature indicating switch)"
+    },
+    {
+        "組織": "tissue"
+    },
+    {
+        "組織劑量": "tissue dose"
+    },
+    {
+        "組織傷害": "tissue injury"
+    },
+    {
+        "組織侖琴": "tissue roentgen"
+    },
+    {
+        "含有放射性物的組織": "tissue， radioactivitybearing"
+    },
+    {
+        "組織等值游離腔": "tissue-equivalent ionization chamber"
+    },
+    {
+        "組織等值材料": "tissue-equivalent material"
+    },
+    {
+        "鈦": "titanium"
+    },
+    {
+        "矽酸硼釷礦": "titromite"
+    },
+    {
+        "釩酸鈣鈾礦": "tjuiamunite; tyuyamunite"
+    },
+    {
+        "熱發光劑量計佩章": "TLD badge"
+    },
+    {
+        "熱發光劑量計指環": "TLD ring"
+    },
+    {
+        "三硝基甲苯；梯恩梯": "TNT (trintrotoluene)"
+    },
+    {
+        "梯恩梯炸藥當量": "TNT equivalent"
+    },
+    {
+        "鈮鉭酸錳鐵鈾礦": "toddite"
+    },
+    {
+        "套環開關": "toggle switches"
+    },
+    {
+        "托克馬克〔熱核反應器之一〕": "TOKAMAK"
+    },
+    {
+        "托克馬克圍阻": "tokamak confinement"
+    },
+    {
+        "耐受": "tolerance"
+    },
+    {
+        "耐受動物": "tolerance animal"
+    },
+    {
+        "耐受劑量": "tolerance dose"
+    },
+    {
+        "耐受標準": "tolerance standards"
+    },
+    {
+        "耐受值": "tolerance value"
+    },
+    {
+        "呼吸耐受": "tolerance， breathing"
+    },
+    {
+        "飲水耐受": "tolerance， drinking"
+    },
+    {
+        "人體耐受": "tolerance， human"
+    },
+    {
+        "委託濃化": "toll enrichment"
+    },
+    {
+        "鈾的委託濃化服務": "toll enrichment service of uranium"
+    },
+    {
+        "甲苯": "toluene"
+    },
+    {
+        "斷層X射線攝影裝置": "tomograph"
+    },
+    {
+        "斷層X射線攝影術": "tomography; body section radiography"
+    },
+    {
+        "夾具": "tongs"
+    },
+    {
+        "工具；儀器": "tool"
+    },
+    {
+        "工具檯車": "tool dolly"
+    },
+    {
+        "指動抓手": "tool， finger-action"
+    },
+    {
+        "裝卸工具": "tool， handling"
+    },
+    {
+        "長柄工具": "tool， long-handed"
+    },
+    {
+        "更換燃料工具": "tool， refueling"
+    },
+    {
+        "遙控裝卸工具": "tool， remote-handling"
+    },
+    {
+        "移除工具；取樣工具": "tool， removal"
+    },
+    {
+        "握拳抓手": "tool， socket"
+    },
+    {
+        "鉗夾抓手": "tool， vise"
+    },
+    {
+        "工具；儀器": "tooling"
+    },
+    {
+        "頂部；上端": "top"
+    },
+    {
+        "頂底部均反射的反應器": "top and bottom reflected reactor"
+    },
+    {
+        "頂弦": "top chord"
+    },
+    {
+        "頂凸緣": "top flange"
+    },
+    {
+        "頂部導板": "top guide"
+    },
+    {
+        "頂導件剪力": "top guide shear"
+    },
+    {
+        "頂手柄；頂扶手": "top handle"
+    },
+    {
+        "頂蓋\r": "top head"
+    },
+    {
+        "頂蓋凸緣滲漏": "top head flange leakage"
+    },
+    {
+        "頂蓋凸緣": "top head flange"
+    },
+    {
+        "大氣頂層": "top of the atmosphere"
+    },
+    {
+        "頂容器密合蓋": "top vessel closure head"
+    },
+    {
+        "拉平循環": "toping cycle"
+    },
+    {
+        "地形圖表": "topographic chart"
+    },
+    {
+        "地形組態": "topographic configuration"
+    },
+    {
+        "(一)上部；頂端(二)拉平；使平坦": "topping"
+    },
+    {
+        "托普西〔美國洛色拉莫士科學研究所具有反射體的快中子臨界裝置的名稱〕": "Topsy"
+    },
+    {
+        "〔加速器〕環形管": "tor"
+    },
+    {
+        "磷酸銅鈾礦": "torbernite"
+    },
+    {
+        "火炬；火燄": "torch"
+    },
+    {
+        "環形管捏縮": "toreidal pinch"
+    },
+    {
+        "扭矩": "torgue"
+    },
+    {
+        "扭矩感測傳達機": "torgue sensing transmitter"
+    },
+    {
+        "轉矩開關": "torgue switch"
+    },
+    {
+        "龍捲風基準": "tornado criteria"
+    },
+    {
+        "龍捲風": "tornadoes"
+    },
+    {
+        "環形管": "toroid"
+    },
+    {
+        "環式組態": "toroidal configuration"
+    },
+    {
+        "環式電場": "toroidal electric field"
+    },
+    {
+        "環式場": "toroidal field"
+    },
+    {
+        "環式線性": "toroidal liner"
+    },
+    {
+        "環形管捏縮裝置": "toroidal pinch device"
+    },
+    {
+        "環形管電漿質": "toroidal plasmoid"
+    },
+    {
+        "托〔毫米汞柱〕": "torr(torricell)"
+    },
+    {
+        "扭力矩記錄器開關": "TORS (torgue recorder switch)"
+    },
+    {
+        "扭力效應": "torsion effect"
+    },
+    {
+        "扭力靜電計": "torsion electrometer"
+    },
+    {
+        "扭力負載效應": "torsion load effect"
+    },
+    {
+        "扭〔力〕矩": "torsional moment"
+    },
+    {
+        "環形〔抑壓〕槽": "torus"
+    },
+    {
+        "環形〔抑壓〕槽旁通閥": "torus bypass valve"
+    },
+    {
+        "環形〔抑壓〕槽冷卻方式": "torus cooling mode"
+    },
+    {
+        "環形〔抑壓〕槽檯面": "torus desk floor"
+    },
+    {
+        "環形〔抑壓〕槽水": "torus water"
+    },
+    {
+        "環形〔抑壓〕槽通道": "torus， racetrack"
+    },
+    {
+        "總吸收": "total absorption"
+    },
+    {
+        "總吸收係數": "total absorption coefficient"
+    },
+    {
+        "總量": "total accounted for"
+    },
+    {
+        "總活性": "total activity"
+    },
+    {
+        "總角動量": "total angular momentum"
+    },
+    {
+        "總角矩量子數": "total angular momentum quantum number"
+    },
+    {
+        "總結合能": "total binding energy"
+    },
+    {
+        "全身計數器": "total body counter"
+    },
+    {
+        "全身照射": "total body irradiation"
+    },
+    {
+        "全身輻射": "total body radiation"
+    },
+    {
+        "總特性偵檢效率": "total characteristic detection efficiency"
+    },
+    {
+        "總電荷數": "total charge number"
+    },
+    {
+        "總截面": "total cross-section"
+    },
+    {
+        "總偵檢效率": "total detection efficiency"
+    },
+    {
+        "總出水頭": "total discharge head"
+    },
+    {
+        "總劑量": "total dose"
+    },
+    {
+        "總有效碰撞截面": "total effective collision cross-section"
+    },
+    {
+        "總電子結合能": "total electron binding energy"
+    },
+    {
+        "總能": "total energy"
+    },
+    {
+        "總循環最終急停回應": "total EOC scram response"
+    },
+    {
+        "總誤差": "total error"
+    },
+    {
+        "總野外劑量": "total field dose"
+    },
+    {
+        "總濾器": "total filter"
+    },
+    {
+        "總衝量": "total impulse"
+    },
+    {
+        "總游離": "total ionization"
+    },
+    {
+        "總能階寬度": "total level width"
+    },
+    {
+        "總直線衰減加馬射線係數": "total linear attenuation gamma-ray coefficient"
+    },
+    {
+        "總巨觀截面": "total macroscopic crosssection"
+    },
+    {
+        "總質量": "total mass"
+    },
+    {
+        "總質量流量信號": "total mass flow signal"
+    },
+    {
+        "總質量數": "total mass number"
+    },
+    {
+        "總平均自由行程": "total mean free path"
+    },
+    {
+        "總微觀截面": "total microscopic cross section"
+    },
+    {
+        "總中子源密度": "total neutron source density"
+    },
+    {
+        "總核結合能": "total nuclear binding energy"
+    },
+    {
+        "總放射性": "total radioactivity"
+    },
+    {
+        "總反應器燃料": "total reactor feed"
+    },
+    {
+        "總鬆弛長度": "total relaxation length"
+    },
+    {
+        "總皮膚劑量": "total skin dose"
+    },
+    {
+        "總固體量": "total solids"
+    },
+    {
+        "總活性比度": "total specific activity"
+    },
+    {
+        "總游離比度": "total specific ionization"
+    },
+    {
+        "總熱功率": "total thermal power"
+    },
+    {
+        "總量": "total to account for"
+    },
+    {
+        "總白血球計數": "total white count"
+    },
+    {
+        "總〔能階〕寬度": "total width"
+    },
+    {
+        "總吸收加馬譜計": "total-absorption gamma spectrometer"
+    },
+    {
+        "求和裝置": "totalizer"
+    },
+    {
+        "托騰〔英國於1953年12月15日在澳大利亞烏米耳試驗場進行原子彈試驗的代號〕": "Totem"
+    },
+    {
+        "(一)碰撞(二)微量": "touch"
+    },
+    {
+        "氫的痕跡": "touch of hydrogen"
+    },
+    {
+        "韌度": "toughness"
+    },
+    {
+        "塔；柱": "tower"
+    },
+    {
+        "蒸餾塔": "tower， distillation"
+    },
+    {
+        "分解塔": "tower， knockdown"
+    },
+    {
+        "填充塔": "tower， packed"
+    },
+    {
+        "振動孔板塔": "tower， pulsed perforated-plate"
+    },
+    {
+        "更換燃料試驗塔": "tower， refueling test"
+    },
+    {
+        "湯生突崩；湯生崩瀉": "Townsend avalanche"
+    },
+    {
+        "湯生特性": "Townsend characteristic"
+    },
+    {
+        "湯生係數": "Townsend coefficient"
+    },
+    {
+        "湯生放電": "Townsend discharge"
+    },
+    {
+        "湯生理論；湯生學說": "Townsend theory"
+    },
+    {
+        "毒血症": "toxemia"
+    },
+    {
+        "毒性；毒力": "toxicity"
+    },
+    {
+        "毒性輻射": "toxicity radiation"
+    },
+    {
+        "緩發毒性": "toxicity， delayed"
+    },
+    {
+        "托依托普〔美國熱核裝置名稱〕": "Toy Top"
+    },
+    {
+        "臺灣電力公司": "TPC (Taiwan Power Company)"
+    },
+    {
+        "扭力矩超載開關": "TQOS (torgue overload switch)"
+    },
+    {
+        "扭力矩傳送機": "TQT (torgue transmitter)"
+    },
+    {
+        "微量": "trace"
+    },
+    {
+        "微量化學": "trace chemistry"
+    },
+    {
+        "描圖濃度": "trace concentration"
+    },
+    {
+        "微量污染": "trace contamination"
+    },
+    {
+        "穿過物質": "trace out"
+    },
+    {
+        "波形圖；示波圖": "trace， oscillograph"
+    },
+    {
+        "波形圖；示波圖": "trace， oscilloscope"
+    },
+    {
+        "功率描圖；功率紀錄": "trace， power"
+    },
+    {
+        "〔輻射〕反行程；回程": "trace， return"
+    },
+    {
+        "示蹤劑": "tracer"
+    },
+    {
+        "示蹤劑實驗室": "tracer ab"
+    },
+    {
+        "示蹤劑分析": "tracer analysis"
+    },
+    {
+        "示蹤〔劑〕原子": "tracer atom"
+    },
+    {
+        "示蹤劑化學": "tracer chemistry"
+    },
+    {
+        "示蹤〔劑〕化合物": "tracer compound"
+    },
+    {
+        "示蹤劑擴散": "tracer diffusion"
+    },
+    {
+        "示蹤劑劑量": "tracer dose"
+    },
+    {
+        "示蹤劑元素": "tracer element"
+    },
+    {
+        "示蹤劑設施": "tracer facility"
+    },
+    {
+        "示蹤劑工業用途": "tracer industrial applications"
+    },
+    {
+        "示蹤〔劑〕同位素": "tracer isotope"
+    },
+    {
+        "示蹤〔劑〕同位素診斷": "tracer isotope diagnostics ostics"
+    },
+    {
+        "示蹤劑原理": "tracer principle"
+    },
+    {
+        "示蹤劑標度": "tracer scale"
+    },
+    {
+        "示蹤〔劑〕研究": "tracer studies"
+    },
+    {
+        "示蹤〔劑〕技術": "tracer technique"
+    },
+    {
+        "非放射性示蹤劑": "tracer， non-radioactive"
+    },
+    {
+        "放射碳示蹤劑": "tracer， radiocarbon"
+    },
+    {
+        "放射同位素示蹤劑": "tracer， radioisotopic"
+    },
+    {
+        "無示蹤劑的": "tracer-free"
+    },
+    {
+        "示蹤劑標誌": "tracer-labeling"
+    },
+    {
+        "(一)示蹤(二)自動記錄": "tracing"
+    },
+    {
+        "功率記錄": "tracing of the power"
+    },
+    {
+        "故障追蹤": "tracing， fault"
+    },
+    {
+        "物理示蹤法": "tracing， physical"
+    },
+    {
+        "徑跡": "track"
+    },
+    {
+        "徑跡腔": "track chamber"
+    },
+    {
+        "徑跡凝結": "track condensation"
+    },
+    {
+        "徑跡失真": "track distortion"
+    },
+    {
+        "徑跡長度": "track length"
+    },
+    {
+        "雜徑跡": "track noise"
+    },
+    {
+        "徑跡密度": "track population"
+    },
+    {
+        "徑跡敏感空間": "track sensitive volume"
+    },
+    {
+        "徑跡尖細": "track taper"
+    },
+    {
+        "霧室徑跡": "track， cloud"
+    },
+    {
+        "鮮明徑跡": "track， crips"
+    },
+    {
+        "分裂破片徑跡": "track， fission (-fragment)"
+    },
+    {
+        "游離徑跡": "track， ionization"
+    },
+    {
+        "無磁場徑跡": "track， non-field"
+    },
+    {
+        "核粒子徑跡": "track， nuclear"
+    },
+    {
+        "粒子徑跡": "track， particle"
+    },
+    {
+        "膨脹前徑跡": "track， pre-expansion"
+    },
+    {
+        "回跳質子徑跡": "track， proton recoil"
+    },
+    {
+        "V型徑跡": "track， V-shaped"
+    },
+    {
+        "追跡": "tracking"
+    },
+    {
+        "相交徑跡": "tracks， copunutual"
+    },
+    {
+        "灰徑跡": "tracks， grey"
+    },
+    {
+        "非同時〔通過〕徑跡": "tracks， non-contemporary"
+    },
+    {
+        "微量活性": "trac-level activity"
+    },
+    {
+        "賣掉": "trade-off"
+    },
+    {
+        "蹤跡重水生產法": "trail heavy water production process"
+    },
+    {
+        "後緣": "trailing edge"
+    },
+    {
+        "列": "train"
+    },
+    {
+        "系列關斷閥": "train shutoff valve"
+    },
+    {
+        "套手工作箱列": "train， glove-box"
+    },
+    {
+        "脈衝列": "train， pulse"
+    },
+    {
+        "波列": "train， wave"
+    },
+    {
+        "訓練〔用〕反應器": "training reactor"
+    },
+    {
+        "(一)〔射體〕軌道(二)彈道": "trajectory"
+    },
+    {
+        "迷離鈾": "tramp uranium"
+    },
+    {
+        "跨導": "transconductance"
+    },
+    {
+        "中子跨導": "transconductance， neutron"
+    },
+    {
+        "(一)換能機(二)轉換機": "transducer"
+    },
+    {
+        "磁變流器": "transducer， magnetic"
+    },
+    {
+        "接收器；接收變換器": "transducer， receiving"
+    },
+    {
+        "遷移；輸送": "transfer"
+    },
+    {
+        "轉送水渠": "transfer canal"
+    },
+    {
+        "傳遞係數": "transfer coefficient"
+    },
+    {
+        "移轉線圈": "transfer coil"
+    },
+    {
+        "轉換效應": "transfer effect"
+    },
+    {
+        "轉換函數": "transfer function"
+    },
+    {
+        "轉換函數計": "transfer function meter"
+    },
+    {
+        "轉送通口": "transfer port"
+    },
+    {
+        "傳遞開關": "transfer switch"
+    },
+    {
+        "輸送管道": "transfer tube"
+    },
+    {
+        "轉移單位": "transfer unit"
+    },
+    {
+        "自由對流傳熱": "transfer， free-conve-ction heat"
+    },
+    {
+        "相間傳送": "transfer， interphase"
+    },
+    {
+        "液態金屬傳熱": "transfer， liquid-metal"
+    },
+    {
+        "液體和蒸汽間的質量傳遞": "transfer， liquid-vapour mass"
+    },
+    {
+        "遠隔輸送": "transfer， remote"
+    },
+    {
+        "轉移數據": "transferring data"
+    },
+    {
+        "流量記憶元件": "transfluxor memory element"
+    },
+    {
+        "換式；轉換": "transform"
+    },
+    {
+        "轉換分析": "transform analysis"
+    },
+    {
+        "轉換方法": "transform methods"
+    },
+    {
+        "(一)變化(二)變換": "transformation"
+    },
+    {
+        "變化鏈；變換鏈": "transformation chain"
+    },
+    {
+        "變化常數；變換常數": "transformation constant"
+    },
+    {
+        "變化公式；變換公式": "transformation formula"
+    },
+    {
+        "數據貯存之轉換方法": "transformation method of data storage"
+    },
+    {
+        "元素轉變": "transformation of element"
+    },
+    {
+        "變化期；半化期": "transformation period"
+    },
+    {
+        "變化範圍；變換範圍": "transformation range"
+    },
+    {
+        "變化系；變換系": "transformation series"
+    },
+    {
+        "化學變化": "transformation， chemical"
+    },
+    {
+        "相轉變": "transformation， phase"
+    },
+    {
+        "旋轉變形": "transformation， rotational"
+    },
+    {
+        "變壓器；變量器": "transformer"
+    },
+    {
+        "瞬變的；暫時的": "transient"
+    },
+    {
+        "瞬態分析": "transient analysis"
+    },
+    {
+        "〔反應器〕瞬時行為": "transient behavior (of reactor)"
+    },
+    {
+        "瞬態係數": "transient coefficient"
+    },
+    {
+        "瞬時狀態": "transient condition"
+    },
+    {
+        "瞬時平衡": "transient equilibrium"
+    },
+    {
+        "瞬態損壞": "transient failure"
+    },
+    {
+        "瞬態損壞低限": "transient failure threshold"
+    },
+    {
+        "瞬態尖峰": "transient peak"
+    },
+    {
+        "瞬態周期": "transient period"
+    },
+    {
+        "瞬態放射平衡": "transient radioactive equilibrium"
+    },
+    {
+        "瞬時反應器實驗": "transient reactor test experiment"
+    },
+    {
+        "暫態反應": "transient response"
+    },
+    {
+        "反應度瞬變": "transient， reactivity"
+    },
+    {
+        "傳遞；橫過": "transit"
+    },
+    {
+        "橫過角": "transit angle"
+    },
+    {
+        "橫過箱": "transit box"
+    },
+    {
+        "運輸工具": "transit carrier"
+    },
+    {
+        "運輸工具〔封閉式〕": "transit carrier (closed)"
+    },
+    {
+        "運輸工具〔開放式〕": "transit carrier (open)"
+    },
+    {
+        "橫過劑量": "transit dose"
+    },
+    {
+        "橫過相角": "transit phase angle"
+    },
+    {
+        "橫過時間": "transit time"
+    },
+    {
+        "橫過時間伸展": "transit time spread"
+    },
+    {
+        "過渡": "transition"
+    },
+    {
+        "變態沸騰": "transition boiling"
+    },
+    {
+        "轉換曲線": "transition curve; easemene curve"
+    },
+    {
+        "過渡效應": "transition effect"
+    },
+    {
+        "過渡元素": "transition element"
+    },
+    {
+        "過渡能": "transition energy"
+    },
+    {
+        "固態中的過渡": "transition in the solid state"
+    },
+    {
+        "過渡矩陣": "transition matrix"
+    },
+    {
+        "過渡多極矩": "transition multipole moments"
+    },
+    {
+        "過渡機率；躍遷機率": "transition probability"
+    },
+    {
+        "過渡輻射": "transition radiation"
+    },
+    {
+        "過渡時間": "transition time"
+    },
+    {
+        "過渡區": "transition zone"
+    },
+    {
+        "偶極躍遷": "transition， dipole"
+    },
+    {
+        "偶極加馬躍遷": "transition， dipole gamma-tray"
+    },
+    {
+        "有利躍遷": "transition， favored"
+    },
+    {
+        "基態躍遷": "transition， groundstate"
+    },
+    {
+        "磁躍遷": "transition， magnetic"
+    },
+    {
+        "一次禁制躍遷": "transition， onceforbidden"
+    },
+    {
+        "對等變化": "transition， parity"
+    },
+    {
+        "四極躍遷": "transition， quadrupole"
+    },
+    {
+        "量子躍遷": "transition， quantum"
+    },
+    {
+        "輻射躍遷": "transition， radiative"
+    },
+    {
+        "共振躍遷": "transition， resonant"
+    },
+    {
+        "旋轉躍遷": "transition， rotational"
+    },
+    {
+        "單粒子躍遷": "transition， singleparticle"
+    },
+    {
+        "級聯躍遷；暫停躍遷": "transition， stop-over"
+    },
+    {
+        "超容許躍遷": "transition， superallowed"
+    },
+    {
+        "二次禁制躍遷": "transition， twiceforbidden"
+    },
+    {
+        "不利躍遷": "transition， unfavoured"
+    },
+    {
+        "唯一躍遷；稀有躍遷": "transition， unique"
+    },
+    {
+        "振動躍遷": "transition， vibrational"
+    },
+    {
+        "徒變的白血球": "transitional leucocyte"
+    },
+    {
+        "過渡的；躍遷的": "transitory"
+    },
+    {
+        "平移；平動": "translation"
+    },
+    {
+        "平移；平動": "translation motion; translational motion"
+    },
+    {
+        "平移彈簧": "translational spring"
+    },
+    {
+        "易位": "translocation"
+    },
+    {
+        "(一)半透明的(二)半透澈的": "translucent"
+    },
+    {
+        "振動傳遞率": "transmissibility of vibration"
+    },
+    {
+        "(一)傳遞(二)透射": "transmission"
+    },
+    {
+        "透射係數": "transmission coefficient"
+    },
+    {
+        "輸電成本": "transmission cost"
+    },
+    {
+        "透射曲線": "transmission curve"
+    },
+    {
+        "傳遞實驗": "transmission experimen"
+    },
+    {
+        "(一)傳遞線(二)輸電線": "transmission line"
+    },
+    {
+        "輸電廠": "transmission plant"
+    },
+    {
+        "傳輸電壓": "transmission voltage"
+    },
+    {
+        "向內導熱": "transmission， inward heat"
+    },
+    {
+        "向外導熱": "transmission， outward heat"
+    },
+    {
+        "〔計數管〕窗透射": "transmission， window"
+    },
+    {
+        "透射比": "transmissivity"
+    },
+    {
+        "(一)發送機(二)發報機": "transmitter"
+    },
+    {
+        "燃料流傳送器": "transmitter， fuel-flow"
+    },
+    {
+        "指向傳送器；指向發送器": "transmitter， sensing"
+    },
+    {
+        "溫度傳送器": "transmitter， temperature"
+    },
+    {
+        "傳送變換器": "transmitting transducer"
+    },
+    {
+        "遷變；蛻變": "transmutation"
+    },
+    {
+        "轉變常數": "transmutation constant"
+    },
+    {
+        "轉變元素": "transmutation element"
+    },
+    {
+        "轉變方程式": "transmutation equation"
+    },
+    {
+        "核轉變": "transmutation of nucleus"
+    },
+    {
+        "變成": "transmute"
+    },
+    {
+        "(一)透明性(二)透明度": "transparency"
+    },
+    {
+        "核穿透性": "transparency， nuclear"
+    },
+    {
+        "超鈽〔元素〕": "transplutonium"
+    },
+    {
+        "超鈽元素": "transplutonium elements"
+    },
+    {
+        "遷移": "transport"
+    },
+    {
+        "同位素運輸和包裝": "transport and packaging of isotopes"
+    },
+    {
+        "遷移截面": "transport cross section"
+    },
+    {
+        "遷移方程式": "transport equation"
+    },
+    {
+        "遷移核仁": "transport kernel"
+    },
+    {
+        "遷移平均自由行程": "transport mean free path"
+    },
+    {
+        "遷移現象": "transport phenomena"
+    },
+    {
+        "遷移理論": "transport theory"
+    },
+    {
+        "遷移單位": "transport unit"
+    },
+    {
+        "快中子遷移": "transport， fast neutron"
+    },
+    {
+        "質量傳遞": "transport， mass"
+    },
+    {
+        "物質傳遞": "transport， material"
+    },
+    {
+        "中子遷移": "transport， neutron"
+    },
+    {
+        "熱中子遷移": "transport， thermalneutron"
+    },
+    {
+        "可運送反應器": "transportable reactor"
+    },
+    {
+        "運送": "transportation"
+    },
+    {
+        "核廢料運送": "transportation of nuclear wastes"
+    },
+    {
+        "移動；位移": "transpose"
+    },
+    {
+        "(一)移調(二)換位": "transposition"
+    },
+    {
+        "反-1，2一二苯乙烯": "trans-stilbene"
+    },
+    {
+        "超鈾元素\r": "transuranic elements"
+    },
+    {
+        "超鈾元素\r": "transuranium elements"
+    },
+    {
+        "超鈾同位素": "transuranium isotope"
+    },
+    {
+        "超鈾〔元素〕": "transuranium"
+    },
+    {
+        "橫貫阻板": "transverse baffling"
+    },
+    {
+        "橫〔貫〕擴散": "transverse diffusion"
+    },
+    {
+        "橫場": "transverse field"
+    },
+    {
+        "橫鰭": "transverse finning"
+    },
+    {
+        "橫聚焦電場": "transverse focussing electric-field"
+    },
+    {
+        "橫衝量": "transverse impulse"
+    },
+    {
+        "橫鍵": "transverse key"
+    },
+    {
+        "橫鰭燃料元件": "transversly-finned fuel element"
+    },
+    {
+        "陷阱": "trap"
+    },
+    {
+        "冷凍阱": "trap， frozen"
+    },
+    {
+        "熱收集器": "trap， thermal"
+    },
+    {
+        "被捕碘": "traped iodine"
+    },
+    {
+        "捕獲": "trapping"
+    },
+    {
+        "陷阱中心": "trapping center"
+    },
+    {
+        "捕獲同位素": "trapping isotope"
+    },
+    {
+        "電漿收集": "trapping， plasma"
+    },
+    {
+        "共振捕獲": "trapping， resonance"
+    },
+    {
+        "垃圾": "trash"
+    },
+    {
+        "雜物倉室": "trash bin chamber"
+    },
+    {
+        "外傷": "trauma"
+    },
+    {
+        "(一)運動(二)行程": "travel"
+    },
+    {
+        "行程引動開關": "travel actuated switch"
+    },
+    {
+        "全刻表行程": "travel， full-scale"
+    },
+    {
+        "棒的行程": "travel， rod"
+    },
+    {
+        "成〔套〕文件": "traveling package"
+    },
+    {
+        "移動簾": "traveling screen"
+    },
+    {
+        "移動水篩": "traveling water screen"
+    },
+    {
+        "〔進〕行波": "traveling wave"
+    },
+    {
+        "行波管": "traveling-wave tube"
+    },
+    {
+        "橫過；相交": "traverse"
+    },
+    {
+        "分裂計數器〔輻射〕橫過": "traverse， fission-counter"
+    },
+    {
+        "照射橫過": "traverse， irradiation"
+    },
+    {
+        "溫度橫過": "traverse， temperature"
+    },
+    {
+        "托架；托盤": "tray"
+    },
+    {
+        "托架寬；托盤寬": "tray span"
+    },
+    {
+        "托架型式；托盤型式": "tray type"
+    },
+    {
+        "泡罩板": "tray， bubble cap"
+    },
+    {
+        "計數器盤": "tray， counter"
+    },
+    {
+        "瞬態反應器實驗": "TREAT (Transient Reactor Test Equipment)"
+    },
+    {
+        "治療錐": "treatment cone"
+    },
+    {
+        "可燃性廢料處理": "treatment of combustible waste"
+    },
+    {
+        "液體淤泥廢料處理": "treatment of liquid sludge waste"
+    },
+    {
+        "輻射病治療": "treatment of tadiation illness"
+    },
+    {
+        "處理廠；濃化廠": "treatment plant; enrichment plant"
+    },
+    {
+        "費米年積處理法": "treatment， Fermi age"
+    },
+    {
+        "單群處理": "treatment， one-group"
+    },
+    {
+        "水處理": "treatment， water"
+    },
+    {
+        "治療": "treatment; therapy"
+    },
+    {
+        "樹狀演算法": "tree algorithm"
+    },
+    {
+        "壕溝": "trench"
+    },
+    {
+        "充水溝渠": "trench， water-filled"
+    },
+    {
+        "選擇記錄": "trend log"
+    },
+    {
+        "方位記錄機": "trend recorder"
+    },
+    {
+        "方位打字": "trend typing"
+    },
+    {
+        "起動實驗的瞬態記錄裝備": "TREST (transient recording equipment for startup testing)"
+    },
+    {
+        "三和弦": "triad"
+    },
+    {
+        "試驗": "trial"
+    },
+    {
+        "三角格子": "triangular lattice"
+    },
+    {
+        "三角脈衝": "triangular pulse"
+    },
+    {
+        "三角脈衝整形": "triangular pulse shaping"
+    },
+    {
+        "特里愛克斯〔美國熱核裝置的名稱〕": "Triax"
+    },
+    {
+        "三軸捏縮實驗": "triaxial pinch experiment"
+    },
+    {
+        "摩擦熱發光": "triboluminescence"
+    },
+    {
+        "吹邦多－貝功尼定律": "Tribondeau-Bergonie's law"
+    },
+    {
+        "磷酸三丁酯": "tributyl phosphate"
+    },
+    {
+        "磷酸三丁酯萃取法": "tributyl phosphate extraction process"
+    },
+    {
+        "三氯化鈾": "trichioride， uranium"
+    },
+    {
+        "三氯化物": "trichloride"
+    },
+    {
+        "涓流電流；滴流": "trickle current"
+    },
+    {
+        "細流濾器": "trickling filter"
+    },
+    {
+        "三叉跡": "trident"
+    },
+    {
+        "三氟化物": "trifluoride"
+    },
+    {
+        "三氟化鈽": "trifluoride， plutonium"
+    },
+    {
+        "美國通用原子公司訓練研究及生產同位素反應器；中子脈衝反應器": "TRIGA (Training， Research and Isotope-production Reactor， Gengeral Atomic)"
+    },
+    {
+        "激發器；板機": "trigger"
+    },
+    {
+        "觸發作用；激發作用": "trigger action"
+    },
+    {
+        "觸發電路；激發電路": "trigger circuit"
+    },
+    {
+        "激發裝置；觸發裝置": "trigger mechanism"
+    },
+    {
+        "(一)觸發的(二)起動裝置": "triggered"
+    },
+    {
+        "板機；激發": "triggering"
+    },
+    {
+        "脈衝觸發": "pulse triggering"
+    },
+    {
+        "三乙二醇": "triglycol"
+    },
+    {
+        "三一；特里提尼〔美國於1945年7月16日在新墨西哥州阿拉默果爾多進行的匱u爆炸代號〕": "Trinity"
+    },
+    {
+        "三一彈": "trinity bomb"
+    },
+    {
+        "三氧化物": "trioxide"
+    },
+    {
+        "跳脫引動器接觸": "trip actuator contact"
+    },
+    {
+        "跳脫放大器": "trip amplifier"
+    },
+    {
+        "跳脫控道": "trip channel"
+    },
+    {
+        "跳脫電路": "trip circuit"
+    },
+    {
+        "跳脫斷閉時間": "trip closure time"
+    },
+    {
+        "跳脫條件；跳脫狀態": "trip condition"
+    },
+    {
+        "跳脫要求信號": "trip demand signal"
+    },
+    {
+        "跳脫準位": "trip level"
+    },
+    {
+        "跳脫餘裕": "trip margin"
+    },
+    {
+        "跳脫參考電路": "trip reference circuit"
+    },
+    {
+        "跳脫設定": "trip set"
+    },
+    {
+        "跳脫設定值": "trip setting"
+    },
+    {
+        "跳脫螺線管": "trip solenoid"
+    },
+    {
+        "跳脫；解扣": "trip"
+    },
+    {
+        "瞬時跳脫": "trip， momentary"
+    },
+    {
+        "定期跳脫；周期跳脫": "period trip"
+    },
+    {
+        "功率階位跳脫": "trip， power-level"
+    },
+    {
+        "反應器跳脫": "trip， reactor"
+    },
+    {
+        "三分法": "tripartition"
+    },
+    {
+        "無跳脫電驛": "trip-free relay"
+    },
+    {
+        "三苯銻": "triphenylstibine"
+    },
+    {
+        "三重符合": "triple coincidence"
+    },
+    {
+        "三符合計數器": "triple coincidence counter"
+    },
+    {
+        "三分裂": "triple fission"
+    },
+    {
+        "三交點": "triple point"
+    },
+    {
+        "(一)三重線(二)三重態": "triplet"
+    },
+    {
+        "三重晶體": "triplet crystal"
+    },
+    {
+        "跳脫發生": "trip-occurred"
+    },
+    {
+        "(一)負載減弱(二)斷路；停止": "trip-out"
+    },
+    {
+        "跳脫": "tripping"
+    },
+    {
+        "跳脫能力": "tripping ability"
+    },
+    {
+        "跳脫點": "trip-point"
+    },
+    {
+        "符合接線之跳脫裝置": "trips， coincidenceconnetced"
+    },
+    {
+        "三硫磺酸鹽": "trithionate"
+    },
+    {
+        "用氚飽和": "tritiate"
+    },
+    {
+        "氚化氧化物": "tritiated oxide"
+    },
+    {
+        "氚化": "tritiation"
+    },
+    {
+        "三重的": "tritide"
+    },
+    {
+        "氚核": "trition， recoil"
+    },
+    {
+        "氚": "tritium"
+    },
+    {
+        "氚空氣偵測器": "tritium air monitor"
+    },
+    {
+        "氚濃度": "tritium concentration"
+    },
+    {
+        "氚定年": "tritium dating"
+    },
+    {
+        "氚標誌": "tritium labeling"
+    },
+    {
+        "氚發光化合物": "tritium luminous compound"
+    },
+    {
+        "氚氧化物": "tritium oxide"
+    },
+    {
+        "宇宙射線產生之氚": "tritium production by cosmic rays"
+    },
+    {
+        "氚表面污染〔偵測〕計": "tritium surface contamination meter"
+    },
+    {
+        "氚靶": "tritium target"
+    },
+    {
+        "氚單位": "tritium unit"
+    },
+    {
+        "空氣偵測器中氚和氧化氚的比": "tritium/tritium oxide in air monitor"
+    },
+    {
+        "尖錐稀土礦": "tritomite"
+    },
+    {
+        "氚核": "triton"
+    },
+    {
+        "八氧化三鈾": "triutanium octoxide"
+    },
+    {
+        "〔原子能委員會〕臺灣輻射偵測工作站": "TRMC (Taiwan Radiation Monitoring Center)"
+    },
+    {
+        "次擺線質量分析器": "trochoidal mass analyzer"
+    },
+    {
+        "多級電子計數管": "trochotron"
+    },
+    {
+        "砷酸鈾礦": "trogegrite"
+    },
+    {
+        "手推車；吊運車": "trolley"
+    },
+    {
+        "吊運車系統": "trolley system"
+    },
+    {
+        "對流層頂": "tropopause"
+    },
+    {
+        "對流層": "troposphere"
+    },
+    {
+        "對流層空氣運動": "tropospheric air movement"
+    },
+    {
+        "對流層落塵": "tropospheric fall-out"
+    },
+    {
+        "故障": "trouble"
+    },
+    {
+        "故障鑑定": "trouble shooting"
+    },
+    {
+        "無故障的": "trouble-free"
+    },
+    {
+        "(一)〔波〕谷(二)槽": "trough"
+    },
+    {
+        "真吸收": "true absorption"
+    },
+    {
+        "真吸收係數": "true absorption coefficient"
+    },
+    {
+        "源的真活性常數": "true activity constant of a source"
+    },
+    {
+        "真符合": "true coincidence"
+    },
+    {
+        "真核質量": "true nuclear mass"
+    },
+    {
+        "真範圍；真射程": "true range"
+    },
+    {
+        "截角平頭端": "truncated cusp"
+    },
+    {
+        "構架系統": "truss system"
+    },
+    {
+        "矽鈦酸鈰釔礦": "tscheckinite; chevkinite"
+    },
+    {
+        "溫度記錄開關": "TSR (temperature recorder switch)"
+    },
+    {
+        "海嘯": "tsunami"
+    },
+    {
+        "T-型徑跡": "T-track"
+    },
+    {
+        "管": "tube"
+    },
+    {
+        "輸送管": "tube conveyor"
+    },
+    {
+        "管計數": "tube count"
+    },
+    {
+        "〔X射線〕管濾器": "tube filter"
+    },
+    {
+        "管焦點": "tube focus"
+    },
+    {
+        "管滲漏": "tube leak"
+    },
+    {
+        "管側": "tube side"
+    },
+    {
+        "管側薄膜係數": "tube side film coefficient"
+    },
+    {
+        "管板": "tube skeet"
+    },
+    {
+        "管架": "tube stand"
+    },
+    {
+        "計數器管": "tube， counter"
+    },
+    {
+        "放電管": "tube， discharge"
+    },
+    {
+        "聚焦管": "tube， focussing"
+    },
+    {
+        "充氣管": "tube， gas"
+    },
+    {
+        "閘管": "tube， gate"
+    },
+    {
+        "蓋革計數管": "tube， Geiger"
+    },
+    {
+        "通用氣送管": "tube， general-use pneumatic"
+    },
+    {
+        "輝光傳送計數管": "tube， glow-transfer counter"
+    },
+    {
+        "G-M計數管；蓋革-牟勒計數管": "tube， G-M"
+    },
+    {
+        "像管": "tube， image"
+    },
+    {
+        "光電管": "tube， photoelectric"
+    },
+    {
+        "氣〔壓傳〕送管": "tube， pneumatic(tra-nsfer)"
+    },
+    {
+        "毒物管；中子吸收劑管": "tube， poison"
+    },
+    {
+        "工作管": "tube， process"
+    },
+    {
+        "照射梭": "tube， rabbit"
+    },
+    {
+        "產生放射管": "tube， radiogenous"
+    },
+    {
+        "反應器控制計數器": "tube， reactor control"
+    },
+    {
+        "共振腔管": "tube， resonant-cavity"
+    },
+    {
+        "侖琴管": "tube， roentgen"
+    },
+    {
+        "風動傳送管；液壓傳送管": "tube， shuttle"
+    },
+    {
+        "單間隔加速管": "tube， single-gap acce-lerating"
+    },
+    {
+        "試驗樣品管": "tube， test-sample"
+    },
+    {
+        "熱離子管": "tube， thermionic"
+    },
+    {
+        "真空管": "tube， vacuum"
+    },
+    {
+        "電壓穩定器": "tube， voltage-stabilizing"
+    },
+    {
+        "排水管": "tube， water-discharge"
+    },
+    {
+        "蓋革-牟勒計數管": "tube，Geiger-Muller"
+    },
+    {
+        "平行管列": "tubes， unstaggered"
+    },
+    {
+        "汽輪機直流油泵": "tubine dc oil pump"
+    },
+    {
+        "管式冷卻器": "tubular cooler"
+    },
+    {
+        "管式換熱器": "tubular heat interchanger"
+    },
+    {
+        "管狀捏縮裝置": "tubular pinch device"
+    },
+    {
+        "鈾釷礦": "tucholite; thucholite"
+    },
+    {
+        "軋光機管": "tule， calandre"
+    },
+    {
+        "腫瘤": "tumor"
+    },
+    {
+        "腫瘤劑量": "tumor dose; tumourdose"
+    },
+    {
+        "輻射引起的腫瘤": "tumor due to radiation"
+    },
+    {
+        "可調雷射": "tunable laser"
+    },
+    {
+        "透納－巴斯奎方法": "Tuner-Pasquill method"
+    },
+    {
+        "鎢": "tungsten"
+    },
+    {
+        "鎢合金": "tungsten alloy; heavy alloy"
+    },
+    {
+        "碳化鎢": "tungsten carbide"
+    },
+    {
+        "鎢盤；鎢圓片": "tungsten disk"
+    },
+    {
+        "黏膜液": "tunica mucosa"
+    },
+    {
+        "墜道": "tunnel"
+    },
+    {
+        "墜式室": "tunnel cell"
+    },
+    {
+        "墜道二極體": "tunnel diode"
+    },
+    {
+        "墜道二極體電路": "tunnel diode circuits"
+    },
+    {
+        "墜道效應〔量子洩漏〕": "tunnel effect (quantum leakage)"
+    },
+    {
+        "礦坑水": "tunnel suits"
+    },
+    {
+        "照射孔道": "tunnel， irradiation"
+    },
+    {
+        "同位素生產管道": "tunnel， isotope production"
+    },
+    {
+        "墜道效應": "tunneling"
+    },
+    {
+        "濁度": "turbidity"
+    },
+    {
+        "〔渦〕輪機；〔汽〕輪機；汽機": "turbine"
+    },
+    {
+        "汽輪機進氣閥": "turbine admission valve"
+    },
+    {
+        "汽輪機廠房滲漏率": "turbine building leak rate"
+    },
+    {
+        "汽輪機旁路容量": "turbine bypass capacity"
+    },
+    {
+        "汽輪機旁路系統": "turbine bypass system"
+    },
+    {
+        "汽輪機旁通閥": "turbine bypass valve"
+    },
+    {
+        "汽輪機殼": "turbine casing"
+    },
+    {
+        "汽輪機慢下": "turbine coastdown"
+    },
+    {
+        "汽輪機控制誤作用": "turbine control malfunction"
+    },
+    {
+        "汽輪機控制閥": "turbine control valve"
+    },
+    {
+        "汽輪機循環流動": "turbine cycle flow"
+    },
+    {
+        "汽輪機循環熱率": "turbine cycle heat rate"
+    },
+    {
+        "汽輪機數值電動水力控制": "turbine DEHC"
+    },
+    {
+        "汽輪機排洩閥": "turbine drain valve"
+    },
+    {
+        "汽輪機裝備清潔洩水": "turbine equipment clean drain"
+    },
+    {
+        "汽輪機排氣蓋溫度": "turbine exhaust hood temperature"
+    },
+    {
+        "汽輪機排氣蒸汽": "turbine exhaust steam"
+    },
+    {
+        "汽輪機排氣溫度": "turbine exhaust temperature"
+    },
+    {
+        "汽輪機發電機控制": "turbine generator control"
+    },
+    {
+        "汽輪機發電機輔助系統": "turbine generator support systems"
+    },
+    {
+        "汽輪機填函蓋密封系統": "turbine gland sealing system"
+    },
+    {
+        "汽輪機調節系統": "turbine governor system"
+    },
+    {
+        "汽輪機高排氣壓力": "turbine high exhaust pressure"
+    },
+    {
+        "汽輪機負載誤差信號": "turbine load errorsignal"
+    },
+    {
+        "汽輪機金屬溫度": "turbine metal temperature"
+    },
+    {
+        "汽輪機飛出物": "turbine missile"
+    },
+    {
+        "汽輪機超速": "turbine overspeed"
+    },
+    {
+        "汽輪機轉動子": "turbine rotor"
+    },
+    {
+        "汽輪機密封": "turbine seal"
+    },
+    {
+        "汽輪機軸承填函蓋密封": "turbine shaft gland sealing"
+    },
+    {
+        "汽輪機屏蔽室": "turbine shield well"
+    },
+    {
+        "汽輪機速率": "turbine speed"
+    },
+    {
+        "汽輪機速率指示器": "turbine speed indicator"
+    },
+    {
+        "汽輪機蒸汽流量": "turbine steam flow"
+    },
+    {
+        "汽輪機蒸汽閥": "turbine steam valve"
+    },
+    {
+        "汽輪機停止閥": "turbine stop valve"
+    },
+    {
+        "汽輪機停止閥閉合": "turbine stop valve closure"
+    },
+    {
+        "汽輪機跳脫": "turbine trip"
+    },
+    {
+        "汽輪機跳脫旁路": "turbine trip bypass"
+    },
+    {
+        "汽輪機跳脫設定點": "turbine trip set point"
+    },
+    {
+        "汽輪機跳脫信號": "turbine trip signal"
+    },
+    {
+        "汽輪機驅動給水泵": "turbine-driven feed pump"
+    },
+    {
+        "汽輪機發電機": "turbo-alternator"
+    },
+    {
+        "汽輪機充油器": "turbo-charger"
+    },
+    {
+        "汽輪機發電機": "turbogenerator"
+    },
+    {
+        "汽輪機噴射": "turboject"
+    },
+    {
+        "〔原子〕核汽輪機噴射": "turboject， nuclear"
+    },
+    {
+        "(一)擾流(二)渦動流": "turbulent flow"
+    },
+    {
+        "擾動加熱": "turbulent heating"
+    },
+    {
+        "手續費": "turn-around charge"
+    },
+    {
+        "旋轉輪": "turning gear"
+    },
+    {
+        "旋轉葉片": "turning vance"
+    },
+    {
+        "包辦合同": "turnkey contract"
+    },
+    {
+        "移轉": "turnover"
+    },
+    {
+        "移轉率": "turnover rate"
+    },
+    {
+        "移轉率常數": "turnover rate constant"
+    },
+    {
+        "移轉時間": "turnover time"
+    },
+    {
+        "釩酸鈣鈾礦": "tuyamunite"
+    },
+    {
+        "臨時雇工曝露問題": "TWER (transient worker exposure problem)"
+    },
+    {
+        "雙網路": "twice network"
+    },
+    {
+        "二次禁制過渡": "twice-forbidden transition"
+    },
+    {
+        "雙游離腔": "twin ionization chamber"
+    },
+    {
+        "雙晶作用": "twinning"
+    },
+    {
+        "扭環計數器": "twisted ring counter"
+    },
+    {
+        "扭轉矩": "twisting moment"
+    },
+    {
+        "兩晶譜儀": "two crystal spectrometer"
+    },
+    {
+        "二因次脈高頻譜": "two dimensional pulse height spectrum"
+    },
+    {
+        "雙電子殼": "two electron shell"
+    },
+    {
+        "雙絲靜電計": "two fibre electrometer"
+    },
+    {
+        "兩相劑量計": "two phase dosimeter"
+    },
+    {
+        "二相流": "two phase flow"
+    },
+    {
+        "計數器": "two pi counter"
+    },
+    {
+        "兩板腔": "two plate chamber"
+    },
+    {
+        "兩級過熱器": "two stage superheater"
+    },
+    {
+        "兩射柱不穩定性": "two-beam instability"
+    },
+    {
+        "兩射柱管": "two-beam tube"
+    },
+    {
+        "兩體衰": "two-body decay"
+    },
+    {
+        "兩維紙層析術": "two-dimensional paper chromatography"
+    },
+    {
+        "兩群模型": "two-group model"
+    },
+    {
+        "兩群理論": "two-group theory"
+    },
+    {
+        "二迴路跳脫": "two-loop trip"
+    },
+    {
+        "二取二邏輯": "two-out-of-two logic"
+    },
+    {
+        "二筆捲條線圖記錄器": "two-pen strip chart recorder"
+    },
+    {
+        "二相流特性": "two-phase flow characteristics"
+    },
+    {
+        "二相系統": "two-phase system"
+    },
+    {
+        "二相容器沖放": "two-phase vessel blowdown"
+    },
+    {
+        "兩區反應器": "two-region reactor"
+    },
+    {
+        "兩態過程": "two-state process"
+    },
+    {
+        "兩階異構物躍遷": "two-step isomeric transition"
+    },
+    {
+        "梯貢〔塑料〕": "tygon"
+    },
+    {
+        "型；式": "type"
+    },
+    {
+        "衰變型式": "type of decay"
+    },
+    {
+        "物料種類〔報告單位〕": "type of material (reporting unit)"
+    },
+    {
+        "放射性衰變型式": "type of radioactive decay"
+    },
+    {
+        "活字衝孔機": "type punch"
+    },
+    {
+        "活字讀器": "type reader"
+    },
+    {
+        "打字機通信": "typewriter message"
+    },
+    {
+        "打字機輸出": "typewriter output"
+    },
+    {
+        "颱風負載": "typhoon wing load"
+    },
+    {
+        "典型試樣置放": "typical sample mounts"
+    },
+    {
+        "鉭鋦酸塵謐q": "tyrite; fergusionite"
+    },
+    {
+        "氟鈽礦": "tysonite"
+    },
+    {
+        "水化釩酸鈣鈾礦": "tyuyamite"
+    },
+    {
+        "釩酸鈣鈾礦": "tyuyamunite"
+    },
+    {
+        "紫外激發螢光計": "U.V. excitation fluorimeter"
+    },
+    {
+        "U型鐵心": "U-core"
+    },
+    {
+        "鈦酸鈾鐵鈰礦": "uferite"
+    },
+    {
+        "不含鈾的；除去鈾的\r": "U-free"
+    },
+    {
+        "鈾石墨反應器": "U-graphite reactor"
+    },
+    {
+        "任意單位": "uit， arbitrary"
+    },
+    {
+        "英國原子能管理局": "UKAEA (United Kingdom Atomic Energy Authority)"
+    },
+    {
+        "英國中央電力管理局": "UKCEA (United Kingdom Central Electricity Authority)"
+    },
+    {
+        "潰瘍": "ulcer"
+    },
+    {
+        "方鈾礦": "ulrichite"
+    },
+    {
+        "極終曲度陷縮負載": "ultimate buckling collapse load"
+    },
+    {
+        "極終壓力": "ultimate pressure"
+    },
+    {
+        "極終強度": "ultimate strength"
+    },
+    {
+        "極終廢料處置": "ultimate waste disposal"
+    },
+    {
+        "超高速離心機": "ultra-centrifuge"
+    },
+    {
+        "超高速離心機法": "ultra-centrifuge process"
+    },
+    {
+        "超快中子": "ultrafast neutron"
+    },
+    {
+        "超高速捏縮": "ultrafast pinch"
+    },
+    {
+        "超高空爆炸": "ultrahigh altitude burst"
+    },
+    {
+        "超〔高〕速粒子": "ultra-high speed particle"
+    },
+    {
+        "超高溫反應器實驗": "ultra-high temperature reactor experiment"
+    },
+    {
+        "超高度真空": "ultrahigh vacuum"
+    },
+    {
+        "超微量化學": "ultramicrochemistry"
+    },
+    {
+        "超級顯微鏡": "ultra-microscope"
+    },
+    {
+        "宇宙線；宇宙輻射": "ultrarays"
+    },
+    {
+        "超音波": "ultrasonic"
+    },
+    {
+        "超音波清洗": "ultrasonic cleaning"
+    },
+    {
+        "超音波裝備": "ultrasonic equipment"
+    },
+    {
+        "超音波檢查": "ultrasonic examination"
+    },
+    {
+        "超音波液位規": "ultrasonic level gage"
+    },
+    {
+        "超音速試驗方法": "ultrasonic test method"
+    },
+    {
+        "超音波式儀表": "ultrasonic type instrumentation"
+    },
+    {
+        "紫外的": "ultraviolet"
+    },
+    {
+        "紫外輻射": "ultraviolet radiation"
+    },
+    {
+        "遠紫外輻射區": "ultraviolet， far"
+    },
+    {
+        "近紫外輻射區": "ultraviolet， near"
+    },
+    {
+        "影": "umbra"
+    },
+    {
+        "影效應": "umbra effect"
+    },
+    {
+        "鉬鈾礦": "umohoite"
+    },
+    {
+        "無效性": "unavailability"
+    },
+    {
+        "失衡": "unbalance"
+    },
+    {
+        "剩餘不平衡度": "unbalance， residual"
+    },
+    {
+        "〔信號〕開啟": "unblanking"
+    },
+    {
+        "無護套燃料元件": "uncanned fuel element"
+    },
+    {
+        "不準量": "uncertainty"
+    },
+    {
+        "測不準原理": "uncertainty principle"
+    },
+    {
+        "未加護套燃料": "unclad fuel"
+    },
+    {
+        "核蛋白質": "uncleoprotein"
+    },
+    {
+        "巧合核；魔核": "uncleus， magic"
+    },
+    {
+        "靶核": "uncleus， target"
+    },
+    {
+        "非碰撞通率": "uncolloided flux"
+    },
+    {
+        "無條件釋放": "uncontitional release"
+    },
+    {
+        "不能控制的反應": "uncontrollable reaction"
+    },
+    {
+        "無控制核變": "uncontrolled nuclear transformation"
+    },
+    {
+        "非控制區域": "uncontrolled region"
+    },
+    {
+        "無控制釋放": "uncontrolled release"
+    },
+    {
+        "不聯結控制棒驅動": "uncoupled control rod drive"
+    },
+    {
+        "脫接棒": "uncoupling rod"
+    },
+    {
+        "脫接短柄": "uncoupling spud"
+    },
+    {
+        "脫接工具": "uncoupling tool"
+    },
+    {
+        "電流不足電驛": "under current relay"
+    },
+    {
+        "激磁不足": "under excited"
+    },
+    {
+        "活塞下方進水口": "under piston water inlet"
+    },
+    {
+        "低功率電驛": "under power relay"
+    },
+    {
+        "低速裝置": "under speed device"
+    },
+    {
+        "低電壓": "under voltage"
+    },
+    {
+        "欠電壓電驛": "under voltage relay"
+    },
+    {
+        "低電壓計時器": "under voltage timer"
+    },
+    {
+        "分群不足": "underbunching"
+    },
+    {
+        "不完全耦合": "undercoupling"
+    },
+    {
+        "弱阻尼；弱減幅": "underdamp(ling)"
+    },
+    {
+        "曝露不足": "underexposure"
+    },
+    {
+        "地下爆炸": "underground burst"
+    },
+    {
+        "負載不足": "underload"
+    },
+    {
+        "緩和不足": "undermoderation"
+    },
+    {
+        "海底核能電廠": "undersea nuclear power plant"
+    },
+    {
+        "欠射；負脈衝信號": "undershoot"
+    },
+    {
+        "欠射；負脈衝信號": "undershot"
+    },
+    {
+        "欠射；負脈衝信號": "underswing"
+    },
+    {
+        "水下爆炸": "underwater burst"
+    },
+    {
+        "水下發電機": "underwater power generator"
+    },
+    {
+        "水下反應器": "underwater reactor"
+    },
+    {
+        "水下地震儀站": "underwater seismogrpah station"
+    },
+    {
+        "水下電視偵測系統": "underwater TV monitoring system"
+    },
+    {
+        "水下真空清潔器": "underwater vacuum cleaner"
+    },
+    {
+        "不可靠性": "uneliability"
+    },
+    {
+        "非濃化鈾": "un-enriched uranium"
+    },
+    {
+        "單軸拉力試驗": "uniaxial tensile test"
+    },
+    {
+        "未確認滲漏": "unidentified leakage"
+    },
+    {
+        "統一原子質量常數": "unified atomic mass constant"
+    },
+    {
+        "統一原子量": "unified atomic weight"
+    },
+    {
+        "統一模型": "unified model"
+    },
+    {
+        "原子核統一模型": "unified model of nuelei"
+    },
+    {
+        "〔均〕勻；等": "uniform"
+    },
+    {
+        "均強射柱": "uniform beam"
+    },
+    {
+        "均強場": "uniform field"
+    },
+    {
+        "單層": "unilayer"
+    },
+    {
+        "單分子": "unimolecular"
+    },
+    {
+        "未游離化": "unionized"
+    },
+    {
+        "非游離原子": "un-ionized atom"
+    },
+    {
+        "單極性": "unipolar"
+    },
+    {
+        "單極弧": "unipolar arc"
+    },
+    {
+        "單極性脈衝整形": "unipolar pulse shaping"
+    },
+    {
+        "單極性整形": "unipolar shaping"
+    },
+    {
+        "未經照射的；未受輻射的": "unirradiated"
+    },
+    {
+        "(一)單位；(二)機組；裝置": "unit"
+    },
+    {
+        "單位面積": "unit area"
+    },
+    {
+        "機組輔助變壓計": "unit auxiliary transformer"
+    },
+    {
+        "單位設廠成本": "unit capital cost"
+    },
+    {
+        "電廠單位成本": "unit capital cost of plant"
+    },
+    {
+        "晶格單元": "unit cell"
+    },
+    {
+        "單位電荷": "unit charge"
+    },
+    {
+        "單位長度": "unit length"
+    },
+    {
+        "單位操作": "unit process"
+    },
+    {
+        "機組次序起動電驛": "unit sequence starting relay"
+    },
+    {
+        "機組次序開關": "unit sequence switch"
+    },
+    {
+        "機組起動和停爐": "unit startup and shutodwn"
+    },
+    {
+        "單位熱導": "unit thermal conductance"
+    },
+    {
+        "單位時間": "unit time"
+    },
+    {
+        "單位體積": "unit volume"
+    },
+    {
+        "單位重量": "unit weight"
+    },
+    {
+        "絕對單位": "unit， absolute"
+    },
+    {
+        "埃單位": "unit， angstron"
+    },
+    {
+        "電磁系單位": "unit， electromagentic"
+    },
+    {
+        "基本單位": "unit， fundamental"
+    },
+    {
+        "可移動鏈反應器": "unit， mobile chainreacting"
+    },
+    {
+        "物理原子質量單位": "unit， physical atomic mass"
+    },
+    {
+        "物理原子量單位": "unit， physical atomic weight"
+    },
+    {
+        "動力裝置": "unit， power"
+    },
+    {
+        "生產機組": "unit， production"
+    },
+    {
+        "(一)滅火器(二)阻尼器": "unit， quench(ing)"
+    },
+    {
+        "侖琴單位": "unit， R"
+    },
+    {
+        "計算線路；讀出裝置": "unit， read-out"
+    },
+    {
+        "複合裝置": "unit， recombination"
+    },
+    {
+        "遙控機械手": "unit， remote handling"
+    },
+    {
+        "拉〔塞福〕單位": "unit， Rutherford"
+    },
+    {
+        "閃爍計數器": "unit， scintillation"
+    },
+    {
+        "定態鏈反應器": "unit， stationary chainreacting"
+    },
+    {
+        "遠隔居里設備": "unit， telecuric"
+    },
+    {
+        "試驗裝置": "unit， test"
+    },
+    {
+        "計時裝置": "unit， timing"
+    },
+    {
+        "N單位": "unit. N"
+    },
+    {
+        "公正性": "unitarity"
+    },
+    {
+        "晶格單元參數": "unit-cell parameters"
+    },
+    {
+        "統一的": "unitized"
+    },
+    {
+        "重複單元": "units， repetitive"
+    },
+    {
+        "(一)單位(二)單一": "unity"
+    },
+    {
+        "通用氣體常數": "universal gas constant"
+    },
+    {
+        "普遍不穩定性": "universal instability"
+    },
+    {
+        "通用操作器": "universal manipulator"
+    },
+    {
+        "宇宙": "universe"
+    },
+    {
+        "大學訓練反應器": "university training reactor"
+    },
+    {
+        "未標誌的": "unlabeled"
+    },
+    {
+        "不可浸出的；不可濾瀝的": "unleachable"
+    },
+    {
+        "卸載": "unloading"
+    },
+    {
+        "卸載設備": "unloading device"
+    },
+    {
+        "卸載面": "unloading face"
+    },
+    {
+        "卸載機器": "unloading machine"
+    },
+    {
+        "脫鎖；開鎖": "unlocking"
+    },
+    {
+        "開鎖手柄": "unlocking handle"
+    },
+    {
+        "釋放管；脫鎖管": "unlocking tube"
+    },
+    {
+        "未修正散射": "unmodified scatter"
+    },
+    {
+        "不可見的": "unobservable"
+    },
+    {
+        "未滿的〔能階〕": "unoccupied"
+    },
+    {
+        "不成對的〔電子〕": "unpaired"
+    },
+    {
+        "未擾動的": "unperturbed"
+    },
+    {
+        "非封閉的": "unplugged"
+    },
+    {
+        "未煉材料；未處理材料": "unprocessed material"
+    },
+    {
+        "非限制區": "unrestricted area"
+    },
+    {
+        "非密封放射性物質": "unsealed radioactive material"
+    },
+    {
+        "非密封源": "unsealed source"
+    },
+    {
+        "無用性；不可用性": "unserviceability"
+    },
+    {
+        "不銳利；模糊": "unsharpness"
+    },
+    {
+        "不穩定元素": "unstable element"
+    },
+    {
+        "不穩定同位素": "unstable isotope"
+    },
+    {
+        "不穩定分子": "unstable molecule"
+    },
+    {
+        "不穩定態": "unstable state"
+    },
+    {
+        "不穩定介膜沸騰": "unstable-film boiling"
+    },
+    {
+        "(一)濃化(二)提昇〔品質〕": "upgrading"
+    },
+    {
+        "核〔爐〕心上格架": "upper core grid"
+    },
+    {
+        "上導滾子": "upper guide roller"
+    },
+    {
+        "上能階鑑別器": "upper level discriminator"
+    },
+    {
+        "上充氣部": "upper plenum"
+    },
+    {
+        "上部繫板": "upper tie plate"
+    },
+    {
+        "上跳脫準位": "upper trip level"
+    },
+    {
+        "超標度": "upscale"
+    },
+    {
+        "超標度警報": "upscale alarm"
+    },
+    {
+        "超標度跳脫": "upscale trip"
+    },
+    {
+        "超標度跳脫電路": "upscale trip circuit"
+    },
+    {
+        "增能散射": "upscattering"
+    },
+    {
+        "傾覆狀態": "upset condition"
+    },
+    {
+        "吸取": "uptake"
+    },
+    {
+        "吸取因數": "uptake factor"
+    },
+    {
+        "吸取率": "uptake rate"
+    },
+    {
+        "吸取比": "uptake ratio"
+    },
+    {
+        "向上": "upward"
+    },
+    {
+        "向上流": "upward flow"
+    },
+    {
+        "上風落塵": "upwind fall-out"
+    },
+    {
+        "土狀硫酸鈾礦": "uraconite"
+    },
+    {
+        "鈾酸鹽": "uranates"
+    },
+    {
+        "鈾酸鈾醯": "uranates， uranyl"
+    },
+    {
+        "氧化鈾": "urania"
+    },
+    {
+        "酸酸": "uranic acid"
+    },
+    {
+        "超錒元素": "uranides"
+    },
+    {
+        "瀝青鈾礦": "uraninite"
+    },
+    {
+        "鈾": "uranium"
+    },
+    {
+        "醋酸鈾": "uranium acetate"
+    },
+    {
+        "鈾年積": "uranium age"
+    },
+    {
+        "鈾合金": "uranium alloy"
+    },
+    {
+        "鈾重水反應堆": "uranium and hevay water pile"
+    },
+    {
+        "鈾棒": "uranium bar"
+    },
+    {
+        "鈾塊": "uranium block"
+    },
+    {
+        "鈾彈": "uranium bomb"
+    },
+    {
+        "碳化鈾": "uranium carbide"
+    },
+    {
+        "碳酸鈾錯合基": "uranium carbonate complexes"
+    },
+    {
+        "鈾精礦": "uranium concentrate"
+    },
+    {
+        "鈾含量": "uranium content"
+    },
+    {
+        "鈾貸款": "uranium credit"
+    },
+    {
+        "鈾蠕變": "uranium creep"
+    },
+    {
+        "鈾衰變系": "uranium decay series"
+    },
+    {
+        "鈾礦床": "uranium deposits"
+    },
+    {
+        "二氧化鈾": "uranium dioxide"
+    },
+    {
+        "鈾分裂": "uranium fission"
+    },
+    {
+        "氟化鈾": "uranium fluoride"
+    },
+    {
+        "鈾燃料元素": "uranium fuel element"
+    },
+    {
+        "鹵化鈾": "uranium halide"
+    },
+    {
+        "六氟化鈾": "uranium hexafluoride"
+    },
+    {
+        "碘酸鈾": "uranium iodate"
+    },
+    {
+        "金屬鈾": "uranium metal"
+    },
+    {
+        "鈾礦磨製": "uranium milling"
+    },
+    {
+        "鈾礦物": "uranium mineral"
+    },
+    {
+        "鈾礦開採": "uranium mining"
+    },
+    {
+        "一硫化鈾": "uranium monosulfide"
+    },
+    {
+        "一氧化鈾": "uranium monoxide"
+    },
+    {
+        "硝酸鈾": "uranium nitrage"
+    },
+    {
+        "氮化鈾": "uranium nitride"
+    },
+    {
+        "天然濃化鈾": "uranium of natural enrichment"
+    },
+    {
+        "鈾礦石": "uranium ore"
+    },
+    {
+        "氧化鈾": "uranium oxide"
+    },
+    {
+        "過氧化鈾": "uranium peroxide"
+    },
+    {
+        "鈾堆": "uranium pile"
+    },
+    {
+        "鈾中毒": "uranium poisoning"
+    },
+    {
+        "鈾純化": "uranium purification"
+    },
+    {
+        "鈾系": "uranium radium series"
+    },
+    {
+        "鈾反應器": "uranium reactor"
+    },
+    {
+        "鈾勘查": "uranium reconnaissance"
+    },
+    {
+        "鈾精煉": "uranium refining"
+    },
+    {
+        "鈾棒": "uranium rod"
+    },
+    {
+        "鈾鹽": "uranium salt"
+    },
+    {
+        "鈾系": "uranium series"
+    },
+    {
+        "鈾錠；鈾燃料": "uranium slug"
+    },
+    {
+        "硬脂酸鈾": "uranium stearate"
+    },
+    {
+        "硫酸鈾鹽": "uranium sulfate"
+    },
+    {
+        "硫化鈾": "uranium sulfide"
+    },
+    {
+        "鈾系統": "uranium system"
+    },
+    {
+        "四氟化鈾": "uranium tetrafluoride"
+    },
+    {
+        "四氟化鈾": "uranium tetroxide"
+    },
+    {
+        "三氧化三鈾": "uranium trioxide"
+    },
+    {
+        "鈾水架格": "uranium water lattice"
+    },
+    {
+        "鈾X": "uranium X"
+    },
+    {
+        "鈾Y": "uranium Y"
+    },
+    {
+        "鈾Z": "uranium Z"
+    },
+    {
+        "鋁護套鈾": "uranium， aluminiumclad"
+    },
+    {
+        "可孕鈾": "uranium， fertile"
+    },
+    {
+        "天然鈾": "uranium， natural"
+    },
+    {
+        "天然鈾": "uranium， naturallyoccurring"
+    },
+    {
+        "鈾粉": "uranium， powdered"
+    },
+    {
+        "未濃化鈾": "uranium， unenriched"
+    },
+    {
+        "鈾Ⅰ": "uranium-Ⅰ"
+    },
+    {
+        "鈾235": "uranium-235"
+    },
+    {
+        "鈾Ⅱ": "uranium-Ⅱ"
+    },
+    {
+        "鈾錒系": "uranium-actinium series"
+    },
+    {
+        "鈾錒": "uranium-actinium"
+    },
+    {
+        "含鈾的": "uranium-containing"
+    },
+    {
+        "鈾石墨格子": "uranium-graphite lattice"
+    },
+    {
+        "鈾石墨堆": "uranium-graphite pile"
+    },
+    {
+        "鈾鉛年積": "uranium-lead ages"
+    },
+    {
+        "鈾釷反應器": "uranium-thorium reactor"
+    },
+    {
+        "鈾鋯合金": "uranium-zirconium alloy"
+    },
+    {
+        "鉬酸鈾礦": "uranmolybdate"
+    },
+    {
+        "晶鈾礦": "uranniobite"
+    },
+    {
+        "硫酸鈣銅鈾礦": "uranochalcite"
+    },
+    {
+        "磷酸鋇鈾礦": "uranocircite"
+    },
+    {
+        "銅鈾礦": "uranolepidite"
+    },
+    {
+        "矽酸鈣鈾礦": "uranophane"
+    },
+    {
+        "硫酸鈣鈾礦": "uranopilite"
+    },
+    {
+        "含水磷酸鈾礦": "uranospathite"
+    },
+    {
+        "砷酸鈣鈾礦": "uranosphinite"
+    },
+    {
+        "矽酸鈾釷礦": "uranothorite"
+    },
+    {
+        "矽酸鈣鈾礦": "uranotile"
+    },
+    {
+        "含四價鈾的": "uranous"
+    },
+    {
+        "八氧化三鈾": "uranous uranic oxide"
+    },
+    {
+        "醋酸鈾醯": "uranyl acetate"
+    },
+    {
+        "鈾醯化合物": "uranyl compounds"
+    },
+    {
+        "氟化鈾醯": "uranyl fluoride"
+    },
+    {
+        "硝酸鈾醯": "uranyl nitrate"
+    },
+    {
+        "鈾醯鹽": "uranyl salt"
+    },
+    {
+        "硫酸鈾醯": "uranyl sulfate"
+    },
+    {
+        "尿道放射攝影術": "urethrography"
+    },
+    {
+        "變質瀝青鈾礦": "urgite"
+    },
+    {
+        "脲酸": "uric acid"
+    },
+    {
+        "尿樣分析": "urinalysis"
+    },
+    {
+        "鈾醯": "urnayl"
+    },
+    {
+        "泌尿系放射攝影術": "urography"
+    },
+    {
+        "使用；應用": "usage"
+    },
+    {
+        "長期操作；連續運轉": "usage， long-term"
+    },
+    {
+        "租用費": "use charge"
+    },
+    {
+        "野外利用": "use， field"
+    },
+    {
+        "和平用途": "use， peaceful"
+    },
+    {
+        "照現況使用": "use-as-is"
+    },
+    {
+        "用過燃料": "used fuel"
+    },
+    {
+        "有用射柱": "useful beam"
+    },
+    {
+        "有用捕獲": "useful capture"
+    },
+    {
+        "有用中子": "useful neutrons"
+    },
+    {
+        "有用功率": "useful power"
+    },
+    {
+        "有用熱功率": "useful thermal power"
+    },
+    {
+        "使用者": "user"
+    },
+    {
+        "同位素使用者": "user， isotope"
+    },
+    {
+        "利用": "utilization"
+    },
+    {
+        "利用因數": "utilization factor"
+    },
+    {
+        "熱中子的利用": "utilization， thermal"
+    },
+    {
+        "U管重熱器部分": "U-tube reheater section"
+    },
+    {
+        "釩酸鈾礦": "uvanite"
+    },
+    {
+        "圍阻體積": "volume， containment"
+    },
+    {
+        "基本散射體積": "volume， elementary scattering"
+    },
+    {
+        "離子收集體積": "volume， ion-collecting"
+    },
+    {
+        "分子體積": "volume， molecular"
+    },
+    {
+        "散射體積": "volume， scattering"
+    },
+    {
+        "零體積": "volume， zero"
+    },
+    {
+        "體積改變": "volumetric change"
+    },
+    {
+        "體積排洩比": "volumetric discharge ratio"
+    },
+    {
+        "容量流速率": "volumetric flow rate"
+    },
+    {
+        "螺旋型小室": "volute"
+    },
+    {
+        "輻射引起嘔吐": "vomiting due to radiation"
+    },
+    {
+        "馮卡門數": "Von Karman number"
+    },
+    {
+        "渦漩管": "vortes tube"
+    },
+    {
+        "渦漩": "vortex"
+    },
+    {
+        "渦漩鏡": "vortex finder"
+    },
+    {
+        "賣方畫押檔案": "VPF (vender print file)"
+    },
+    {
+        "目視檢驗": "VT (visual test)"
+    },
+    {
+        "變壓器": "VT (voltage transformer)"
+    },
+    {
+        "晶片": "wafer"
+    },
+    {
+        "貨車計畫〔美國原子能和平用途耕犂計畫之一，以研究開鑿山洞為目的。〕": "wagon project"
+    },
+    {
+        "移動；行走": "walk"
+    },
+    {
+        "移動效應": "walk effect"
+    },
+    {
+        "牆；壁": "wall"
+    },
+    {
+        "壁吸收": "wall absorption"
+    },
+    {
+        "壁效應": "wall effect"
+    },
+    {
+        "壁損失": "wall loss"
+    },
+    {
+        "〔碰〕壁復合": "wall recombination"
+    },
+    {
+        "〔碰〕壁散射": "wall scattering"
+    },
+    {
+        "核表面": "wall， nuclear"
+    },
+    {
+        "反應器壁": "wall， reactor"
+    },
+    {
+        "組織等值壁": "wall， tissue-equivalent"
+    },
+    {
+        "水牆": "wall， water"
+    },
+    {
+        "無壁游離腔": "wall-less ionization chamber"
+    },
+    {
+        "魏波定律": "Wallodi Weiball law"
+    },
+    {
+        "砷酸鉍鈾礦": "walpuagite"
+    },
+    {
+        "飄動": "wandering"
+    },
+    {
+        "倉庫": "warehouses"
+    },
+    {
+        "戰劑": "warfare agent"
+    },
+    {
+        "彈頭": "warhead"
+    },
+    {
+        "鈾彈頭": "warhead， uranium"
+    },
+    {
+        "低〔強度〕放射性": "warm"
+    },
+    {
+        "暖鋒": "warm front"
+    },
+    {
+        "警告": "warning"
+    },
+    {
+        "警告裝置": "warning assembly"
+    },
+    {
+        "警告標誌": "warning label"
+    },
+    {
+        "警示燈": "warning lamp"
+    },
+    {
+        "警告準位": "warning level"
+    },
+    {
+        "警告燈": "warning lights"
+    },
+    {
+        "警告屏蔽": "warning shield"
+    },
+    {
+        "警告標誌": "warning sign"
+    },
+    {
+        "危險警告": "warning， danger"
+    },
+    {
+        "翹曲；彎曲": "warpage"
+    },
+    {
+        "沖洗站": "washdown station"
+    },
+    {
+        "墊圈": "washer"
+    },
+    {
+        "洗滌塔": "washer coulmn"
+    },
+    {
+        "清洗": "washout"
+    },
+    {
+        "廢料": "waste"
+    },
+    {
+        "廢料鍛燒爐": "waste calciner"
+    },
+    {
+        "廢料收集桶〔槽〕": "waste collecting tank"
+    },
+    {
+        "廢料收集器": "waste collector"
+    },
+    {
+        "廢料收集器濾器輸入閥": "waste collector filter inlet valve"
+    },
+    {
+        "廢料收集器濾器輸出閥": "waste collector filter outlet valve"
+    },
+    {
+        "廢料收集器泵": "waste collector pump"
+    },
+    {
+        "廢料濃縮器": "waste concentrator"
+    },
+    {
+        "廢料除礦劑流出物": "waste demineralizer effluent"
+    },
+    {
+        "廢料密度": "waste density"
+    },
+    {
+        "廢料處置": "waste disposal"
+    },
+    {
+        "廢料處置的法律": "waste disposal legal aspects"
+    },
+    {
+        "廢料濾器": "waste filter"
+    },
+    {
+        "廢熱回收": "waste heat recovery"
+    },
+    {
+        "廢料流入物": "waste influent"
+    },
+    {
+        "廢料中和劑槽": "waste neutralizer tank"
+    },
+    {
+        "廢料中和系統": "waste neutralizing system"
+    },
+    {
+        "廢料中和槽": "waste neutralizing tank"
+    },
+    {
+        "廢料污染": "waste pollution"
+    },
+    {
+        "廢料處理": "waste processing"
+    },
+    {
+        "廢料回收": "waste recovery"
+    },
+    {
+        "廢料樣品槽": "waste sample tank"
+    },
+    {
+        "廢漿槽": "waste sludge tank"
+    },
+    {
+        "廢料固化系統": "waste solidification system"
+    },
+    {
+        "廢料緩衝泵": "waste surge pump"
+    },
+    {
+        "廢料緩衝槽": "waste surge tank"
+    },
+    {
+        "廢料緩衝槽水面": "waste surge tank level"
+    },
+    {
+        "廢料處理": "waste treatment"
+    },
+    {
+        "廢鈾": "waste uranium"
+    },
+    {
+        "廢水": "waste water"
+    },
+    {
+        "燃料處理廢料": "waste， fuel-processing"
+    },
+    {
+        "中〔強度〕放射性廢料": "waste， intermediatelevel"
+    },
+    {
+        "天然化廢料": "waste， naturalized"
+    },
+    {
+        "核廢料": "waste， nuclear"
+    },
+    {
+        "生產廢料": "waste， process(ing)"
+    },
+    {
+        "放射性廢料；放射性待處理物料": "waste， radioactive"
+    },
+    {
+        "水": "water"
+    },
+    {
+        "水活度計": "water activity meter"
+    },
+    {
+        "水平衡": "water balance"
+    },
+    {
+        "水鍋反應器": "water boiler reactor"
+    },
+    {
+        "水沸騰反應器": "water boiling reactor"
+    },
+    {
+        "水冷凍器": "water chiller"
+    },
+    {
+        "水冷凍裝置": "water chilling unit"
+    },
+    {
+        "水柱": "water column"
+    },
+    {
+        "水狀態": "water condition"
+    },
+    {
+        "水冷反應器": "water cooled reactor"
+    },
+    {
+        "水腐蝕": "water corrosion"
+    },
+    {
+        "水偵檢器": "water detector"
+    },
+    {
+        "水間隙": "water gap"
+    },
+    {
+        "水鎚": "water hammer"
+    },
+    {
+        "注水噴嘴": "water injection nozzle"
+    },
+    {
+        "水套": "water jacket"
+    },
+    {
+        "水滲漏偵檢": "water leakage detection"
+    },
+    {
+        "水腳壁": "water leg"
+    },
+    {
+        "充水段泵": "water leg pump"
+    },
+    {
+        "水位": "water level"
+    },
+    {
+        "水位控制": "water level control"
+    },
+    {
+        "水位邏輯": "water level logics"
+    },
+    {
+        "水管": "water line"
+    },
+    {
+        "水負荷": "water load"
+    },
+    {
+        "塞水破裂": "water logging rupture"
+    },
+    {
+        "水環路": "water loop"
+    },
+    {
+        "水緩和格子": "water moderated lattice"
+    },
+    {
+        "水緩和反應器": "water moderated reactor"
+    },
+    {
+        "水偵測器": "water monitor"
+    },
+    {
+        "水偵測器腔": "water monitor chamber"
+    },
+    {
+        "水偵測": "water monitoring"
+    },
+    {
+        "水〔中子〕屏蔽": "water neutron shield; water shield"
+    },
+    {
+        "水池": "water pool"
+    },
+    {
+        "水質": "water quality"
+    },
+    {
+        "水質偵測器": "water quality monitor"
+    },
+    {
+        "水質標準": "water quality standard"
+    },
+    {
+        "水驟冷槽": "water quench tank"
+    },
+    {
+        "回水管": "water return line"
+    },
+    {
+        "水棒": "water rod"
+    },
+    {
+        "水取樣器": "water sampler"
+    },
+    {
+        "水封蓋\r": "water sealing cap"
+    },
+    {
+        "水漿體": "water slurry"
+    },
+    {
+        "水間隔棒": "water spacer rod"
+    },
+    {
+        "水供應": "water supply"
+    },
+    {
+        "水系統": "water system"
+    },
+    {
+        "〔水〕汽壓": "water vapor pressure"
+    },
+    {
+        "(一)給水(二)飲用水": "water， feed"
+    },
+    {
+        "加壓水": "water， pressurized"
+    },
+    {
+        "工業用水": "water， process"
+    },
+    {
+        "再循環水": "water， recirculation"
+    },
+    {
+        "複製重水": "water， reconstituted heavy"
+    },
+    {
+        "氚飽和水": "water， tritiated"
+    },
+    {
+        "水載": "waterborne"
+    },
+    {
+        "充氣窗": "water-filled window"
+    },
+    {
+        "水油分離器": "water-oil separator"
+    },
+    {
+        "公用水": "waters， public"
+    },
+    {
+        "水水反應器": "water-water reactor"
+    },
+    {
+        "瓦〔特〕": "watt"
+    },
+    {
+        "瓦特額定值": "wattage rating"
+    },
+    {
+        "瓦特時計": "watthour meter"
+    },
+    {
+        "瓦特計": "wattmeter"
+    },
+    {
+        "瓦特公式": "watt's formula"
+    },
+    {
+        "波": "wave"
+    },
+    {
+        "波繞射": "wave diffraction"
+    },
+    {
+        "波方程式": "wave equation"
+    },
+    {
+        "波函數": "wave function"
+    },
+    {
+        "波導": "wave guide"
+    },
+    {
+        "波高": "wave hight"
+    },
+    {
+        "波長移變器": "wave length shifter"
+    },
+    {
+        "波動力學原子模型": "wave mechanical atom model"
+    },
+    {
+        "波動力學": "wave mechanics"
+    },
+    {
+        "波數": "wave number"
+    },
+    {
+        "波與質點二元論": "wave particle duality"
+    },
+    {
+        "波輻射": "wave radiation"
+    },
+    {
+        "波形": "wave shape"
+    },
+    {
+        "波面": "wave surface"
+    },
+    {
+        "波向量": "wave vector"
+    },
+    {
+        "波速度": "wave velocity"
+    },
+    {
+        "德布各利波": "wave， de Broglie"
+    },
+    {
+        "磁場驅動的震波": "wave， magnetically driven shock"
+    },
+    {
+        "中子波": "wave， neutron"
+    },
+    {
+        "不跳動〔保持軌道自旋〕散射波": "wave， non-flip scattered"
+    },
+    {
+        "平面波": "wave， plane"
+    },
+    {
+        "平面偏振電磁波": "wave， plane-polarized electromagnetic"
+    },
+    {
+        "功率波": "wave， power"
+    },
+    {
+        "質子波": "wave， proton"
+    },
+    {
+        "磁流體扭波": "wave， torsional hydromagnetic"
+    },
+    {
+        "行波": "wave， travelling"
+    },
+    {
+        "波形": "waveform"
+    },
+    {
+        "波長": "wave-length"
+    },
+    {
+        "截止波長": "wave-length， cut-off"
+    },
+    {
+        "德布各利波長": "wave-length， de Broglie"
+    },
+    {
+        "中子波長": "wave-length， neutron"
+    },
+    {
+        "低限波長": "wave-length， threshold"
+    },
+    {
+        "彎曲波長": "wave-length， wriggle"
+    },
+    {
+        "零波長": "wave-length， zero"
+    },
+    {
+        "物質波": "waves， matter"
+    },
+    {
+        "電漿波": "waves， plasma"
+    },
+    {
+        "蠟像；蠟假體": "wax phantom"
+    },
+    {
+        "廢料收集器": "WC (waste collector)"
+    },
+    {
+        "廢料收集器濾器": "WC filter"
+    },
+    {
+        "廢料收集器濾器閥": "WC filter valve"
+    },
+    {
+        "廢料收集器槽": "WC tank"
+    },
+    {
+        "弱互應作用；弱〔交互〕作用": "weak interaction"
+    },
+    {
+        "弱游離電漿": "weakly ionized plasma"
+    },
+    {
+        "武器": "weapon"
+    },
+    {
+        "武器殘骸；碎片": "weapon debris"
+    },
+    {
+        "武器效應": "weapons effect"
+    },
+    {
+        "武器現象學": "weapons phenomenology"
+    },
+    {
+        "武器試爆": "weapons test"
+    },
+    {
+        "武器試爆偵檢": "weapons test detection"
+    },
+    {
+        "老化折損期": "wear out period"
+    },
+    {
+        "耐磨": "wear resistant"
+    },
+    {
+        "耐磨環": "wear ring"
+    },
+    {
+        "尖劈；楔": "wedge"
+    },
+    {
+        "楔和制止環": "wedge and restrainer"
+    },
+    {
+        "楔形濾器": "wedge filter"
+    },
+    {
+        "楔形譜儀": "wedge spectrograph"
+    },
+    {
+        "灰楔": "wedge， grey"
+    },
+    {
+        "權重；稱": "weighing"
+    },
+    {
+        "定量進料器": "weighing feeder"
+    },
+    {
+        "分裂權重": "weighing， fission"
+    },
+    {
+        "重量": "weight"
+    },
+    {
+        "重量百分比": "weight percent"
+    },
+    {
+        "克份子量": "weight， gram-mole-cular"
+    },
+    {
+        "同位素原子量": "weight， isotopic"
+    },
+    {
+        "平均原子量": "weight， mean atomic"
+    },
+    {
+        "權重函數": "weighting function"
+    },
+    {
+        "無重量積存": "weightless deposit"
+    },
+    {
+        "無重量試樣準備": "weightless sample preparation"
+    },
+    {
+        "堰；壩": "weir"
+    },
+    {
+        "堰環；圳環": "weir anulus"
+    },
+    {
+        "堰牆；圳牆": "weir wall"
+    },
+    {
+        "外司磁子": "Weiss magneton"
+    },
+    {
+        "熔接": "weld"
+    },
+    {
+        "熔接衰變": "weld decay"
+    },
+    {
+        "熔接接合組態": "weld joint configration"
+    },
+    {
+        "熔接位置": "weld location"
+    },
+    {
+        "熔接構造": "welded construction"
+    },
+    {
+        "熔接接頭": "welded joint"
+    },
+    {
+        "熔接板管": "welded plate pipe"
+    },
+    {
+        "熔接密封": "welded seal"
+    },
+    {
+        "熔接研究": "welding research"
+    },
+    {
+        "井": "well"
+    },
+    {
+        "探勘油井": "well logging"
+    },
+    {
+        "井型計數器": "well type counter"
+    },
+    {
+        "井型反應器": "well type reactor"
+    },
+    {
+        "井型閃爍計數器": "well type scintillator"
+    },
+    {
+        "注入井": "well， injection"
+    },
+    {
+        "照射井": "well， irradiation"
+    },
+    {
+        "放射探勘井": "well， radio-logging"
+    },
+    {
+        "圓角勢阱": "well， rounded-edge"
+    },
+    {
+        "張量勢阱": "well， tensor"
+    },
+    {
+        "勢電偶孔道": "well， thermocouple"
+    },
+    {
+        "湯川阱": "well， Yukawa-type"
+    },
+    {
+        "井頭壓": "well-head pressure"
+    },
+    {
+        "井型": "well-type"
+    },
+    {
+        "井型閃爍偵檢器": "well-type scintillator detector"
+    },
+    {
+        "井型碘化鈉晶體": "well-type sodium iodide crystal"
+    },
+    {
+        "威斯克特截面": "Westcott cross section"
+    },
+    {
+        "濕臨界": "wet criticality"
+    },
+    {
+        "濕再處理": "wet reprocessing"
+    },
+    {
+        "濕蒸汽冷卻反應器": "wet-steam cooled reactor"
+    },
+    {
+        "潤濕": "wetting"
+    },
+    {
+        "潤濕狀態": "wetting condition"
+    },
+    {
+        "濕室溫度": "wetwell temperature"
+    },
+    {
+        "惠士同電橋": "Wheaston bridge"
+    },
+    {
+        "白血球": "white blood cell"
+    },
+    {
+        "白血球計數": "white blood count"
+    },
+    {
+        "白血球": "white corpuscle"
+    },
+    {
+        "白血球計數": "white count"
+    },
+    {
+        "白雜波": "white noise"
+    },
+    {
+        "全身計數": "whole body count"
+    },
+    {
+        "全身計數器": "whole body counter"
+    },
+    {
+        "全身劑量": "whole body dose"
+    },
+    {
+        "全身曝露": "whole body exposure"
+    },
+    {
+        "全身照射": "whole body irradiation"
+    },
+    {
+        "整數": "whole number"
+    },
+    {
+        "全身偵測器": "whole-body monitor"
+    },
+    {
+        "全身輻射計": "whole-body radiation meter"
+    },
+    {
+        "大範圍偵測器": "wide range monitor"
+    },
+    {
+        "寬間隔晶格": "widely spaced lattice"
+    },
+    {
+        "寬帶的": "wide-range"
+    },
+    {
+        "極面繞線": "widing， pole-face"
+    },
+    {
+        "寬度": "width"
+    },
+    {
+        "分裂寬度": "width， fission"
+    },
+    {
+        "內廩〔光譜〕線寬度": "width， intrinsic line"
+    },
+    {
+        "能階寬度": "width， level"
+    },
+    {
+        "篩格寬度": "width， mesh"
+    },
+    {
+        "中子寬度": "width， neutron"
+    },
+    {
+        "脈衝寬度": "width， pulse"
+    },
+    {
+        "輻射寬度": "width， radiation"
+    },
+    {
+        "輻射寬度": "width， radiative"
+    },
+    {
+        "約化寬度": "width， reduced"
+    },
+    {
+        "鑑別寬度": "width， resolution"
+    },
+    {
+        "共振能階寬度": "width， resonancelevel"
+    },
+    {
+        "交因位移定律": "Wien's displacement law"
+    },
+    {
+        "威格納效應": "Wigner effect"
+    },
+    {
+        "威格納能量": "Wigner energy"
+    },
+    {
+        "威格納溝": "wigner gap"
+    },
+    {
+        "威格納生長": "Wigner growth"
+    },
+    {
+        "威格納核種": "Wigner nuclides"
+    },
+    {
+        "威格納釋放": "Wigner release"
+    },
+    {
+        "威格納理論": "Wigner theorem"
+    },
+    {
+        "威格納-威爾金分布": "Wigner-Wilkins distribution"
+    },
+    {
+        "鈮鉭酸釓鈦礦": "wiikite"
+    },
+    {
+        "威金生類比數字轉換器": "Wilkinson ADC"
+    },
+    {
+        "威耳生霧室": "Wilson chamber; Wilson cloud chamber"
+    },
+    {
+        "風頂": "wind aloft"
+    },
+    {
+        "風基準": "wind criteria"
+    },
+    {
+        "風吹送": "wind drift"
+    },
+    {
+        "風負載": "wind load"
+    },
+    {
+        "風洞試驗": "wind tunnel test"
+    },
+    {
+        "(一)繞組；(二)繞法": "winding"
+    },
+    {
+        "電磁鐵線圈": "winding， magnet"
+    },
+    {
+        "風車": "windmill"
+    },
+    {
+        "窗": "window"
+    },
+    {
+        "窗放大器": "window amplifier"
+    },
+    {
+        "窗分析器": "window analyzer"
+    },
+    {
+        "窗計數器管": "window counter tube"
+    },
+    {
+        "窗散射": "window scattering"
+    },
+    {
+        "尾窗": "window， end"
+    },
+    {
+        "觀察窗": "window， observation"
+    },
+    {
+        "屏蔽窗": "window， shielding"
+    },
+    {
+        "觀察窗": "window， viewing"
+    },
+    {
+        "溴化鋅窗": "window， zinc-bromide"
+    },
+    {
+        "無窗": "windowless"
+    },
+    {
+        "無窗計數器": "windowless counter"
+    },
+    {
+        "無窗偵檢器": "windowless detector"
+    },
+    {
+        "無窗光電倍增器": "windowless photomultiplier"
+    },
+    {
+        "文治克耳〔英國原子能中心之一〕": "Windscale"
+    },
+    {
+        "向風牆": "windward wall"
+    },
+    {
+        "酒瓶勢位": "winebottle potential"
+    },
+    {
+        "翼；盤": "wing"
+    },
+    {
+        "曲線翼": "wing of the curve"
+    },
+    {
+        "共振曲線翼": "wings of the resonance level"
+    },
+    {
+        "擦拭": "wipe"
+    },
+    {
+        "擦拭試驗": "wipe test"
+    },
+    {
+        "攪拌膜蒸發器": "wiped-film evaporator"
+    },
+    {
+        "拭去": "wipe-out"
+    },
+    {
+        "刮刷封環": "wiper seal"
+    },
+    {
+        "金屬線": "wire"
+    },
+    {
+        "線網除霧器": "wire mesh demister"
+    },
+    {
+        "絲穿透計": "wire penetrometer"
+    },
+    {
+        "絲線掃描器": "wire scanner"
+    },
+    {
+        "線〔輻射〕源": "wire source"
+    },
+    {
+        "抽出": "withdraw"
+    },
+    {
+        "抽出命令": "withdraw command"
+    },
+    {
+        "抽出驅動閥": "withdraw drive valve"
+    },
+    {
+        "抽出排氣閥": "withdraw exhaust valve"
+    },
+    {
+        "抽出總管": "withdraw header"
+    },
+    {
+        "抽出管": "withdraw line"
+    },
+    {
+        "抽出電磁閥": "withdraw solenoid valve"
+    },
+    {
+        "抽出": "withdrawal"
+    },
+    {
+        "抽出循環": "withdrawal cycle"
+    },
+    {
+        "抽出誤差": "withdrawal error"
+    },
+    {
+        "控制棒抽出": "withdrawal of control rods"
+    },
+    {
+        "抽離速率": "withdrawal rate"
+    },
+    {
+        "排出熱": "withdrawal， heat"
+    },
+    {
+        "棒的間歇提動": "withdrawal， intermittent rod"
+    },
+    {
+        "棒移動": "withdrawal， rod"
+    },
+    {
+        "抽出信號": "withsraw signal"
+    },
+    {
+        "見證": "witness"
+    },
+    {
+        "工作水平": "WL (working level)"
+    },
+    {
+        "亂頻率": "wobble frequency"
+    },
+    {
+        "振動；援動": "wobbling"
+    },
+    {
+        "鎢": "wolfram"
+    },
+    {
+        "碳化鎢": "wolfram carbide"
+    },
+    {
+        "鈣鉛鈾礦": "wolsendorfite"
+    },
+    {
+        "鉛玻璃窗": "wondow， lead-glass"
+    },
+    {
+        "木塑膠": "wood plastics"
+    },
+    {
+        "木質塑膠結合": "wood-plastic combination"
+    },
+    {
+        "木質塑膠合成": "wood-plastic composite"
+    },
+    {
+        "伍得放電管": "Wood's discharge tube"
+    },
+    {
+        "〔電腦〕字長": "word length"
+    },
+    {
+        "工作負載": "word load"
+    },
+    {
+        "(一)功(二)工作": "work"
+    },
+    {
+        "功函數": "work function"
+    },
+    {
+        "加工硬化": "work hardening"
+    },
+    {
+        "中強度放射性工作": "work， medium-level"
+    },
+    {
+        "實驗性規模工作": "work， pilot-scale"
+    },
+    {
+        "放射化學處理": "work， radiochemical"
+    },
+    {
+        "X射線工作": "work， X-ray"
+    },
+    {
+        "工作人員；職員": "worker"
+    },
+    {
+        "同位素工作人員": "worker， isotopic"
+    },
+    {
+        "X射線工作人員": "worker， X-ray"
+    },
+    {
+        "營業資金": "working capital"
+    },
+    {
+        "工作循環": "working cycle"
+    },
+    {
+        "工作流體": "working fluid"
+    },
+    {
+        "工作氣體": "working gas"
+    },
+    {
+        "工作水平": "working level"
+    },
+    {
+        "工作模型": "working model"
+    },
+    {
+        "工作平台": "working platform"
+    },
+    {
+        "工作溫度": "working temperature"
+    },
+    {
+        "工作電壓": "working voltage"
+    },
+    {
+        "鈽工廠": "works， plutonium"
+    },
+    {
+        "全球落塵": "world-wide fallout"
+    },
+    {
+        "最壞的假想事故": "worst conceivable accident"
+    },
+    {
+        "運轉最壞預期狀況": "worst expected state of operation"
+    },
+    {
+        "值": "worth"
+    },
+    {
+        "值特性": "worth characteristics"
+    },
+    {
+        "燃料值": "worth of the fuel"
+    },
+    {
+        "中子值": "worth， neutron"
+    },
+    {
+        "毒物值": "worth， poison"
+    },
+    {
+        "反應度值": "worth， reactivity"
+    },
+    {
+        "傷口污染": "wound contamination"
+    },
+    {
+        "大範圍偵測站": "WPM (wide range monitor)"
+    },
+    {
+        "急停輔助彈簧": "wpring， scram-aiding"
+    },
+    {
+        "(一)包裝(二)殼": "wrapper"
+    },
+    {
+        "薄膜包裝": "wrapper， film"
+    },
+    {
+        "板鉗": "wrenches"
+    },
+    {
+        "彎曲": "wriggle"
+    },
+    {
+        "註銷": "write off"
+    },
+    {
+        "鍛": "wrought"
+    },
+    {
+        "鍛沃斯田不銹鋼": "wrought austenitic stainless steel"
+    },
+    {
+        "鍛製板": "wrought plate"
+    },
+    {
+        "午耳夫－布勒格關係": "Wulf-Bragg relation"
+    },
+    {
+        "W值": "W-value"
+    },
+    {
+        "黃原酸鹽": "xanthate"
+    },
+    {
+        "氙": "xenon"
+    },
+    {
+        "停機後氙增長": "xenon build up after shut-down"
+    },
+    {
+        "氙增長": "xenon buildup"
+    },
+    {
+        "氙燒毀": "xenon burnout"
+    },
+    {
+        "氙冷阱": "xenon cold traps"
+    },
+    {
+        "氙效應": "xenon effect"
+    },
+    {
+        "氙平衡": "xenon equilibrium"
+    },
+    {
+        "無氙核〔爐〕心": "xenon free core"
+    },
+    {
+        "氙不穩定性": "xenon instability"
+    },
+    {
+        "氙同位素": "xenon isotopes"
+    },
+    {
+        "氙振盪": "xenon oscillation"
+    },
+    {
+        "氙振盪效應": "xenon oscillation effect"
+    },
+    {
+        "氙毒克制": "xenon override"
+    },
+    {
+        "氙最大中毒量": "xenon peak"
+    },
+    {
+        "氙毒害": "xenon poisoning"
+    },
+    {
+        "氙毒害計算機": "xenon poisoning computer"
+    },
+    {
+        "氙毒害預測機": "xenon poisoning predictor"
+    },
+    {
+        "氙反應度燒毀": "xenon reactivity burnout"
+    },
+    {
+        "氙閃爍計數器": "xenon scintillation counter"
+    },
+    {
+        "四氯化氙": "xenon tetrachloride"
+    },
+    {
+        "四氧化氙": "xenon tetroxide"
+    },
+    {
+        "氙瞬態": "xenon transient"
+    },
+    {
+        "三氧化氙": "xenon trioxide"
+    },
+    {
+        "磷酸釔礦": "xenotime"
+    },
+    {
+        "乾放射攝影術": "xeroradiography"
+    },
+    {
+        "X照射": "X-irradiation"
+    },
+    {
+        "X輻射": "X-radiation"
+    },
+    {
+        "X射線攝影術": "X-radiography"
+    },
+    {
+        "X射線": "X-ray"
+    },
+    {
+        "X射線吸收限": "X-ray absorption edge"
+    },
+    {
+        "X射線分析": "X-ray analysis"
+    },
+    {
+        "X射線裝置": "X-ray apparatus"
+    },
+    {
+        "X射線背景": "X-ray background"
+    },
+    {
+        "X射線灼燒": "X-ray burn"
+    },
+    {
+        "X射線照像機": "X-ray camera"
+    },
+    {
+        "X射線接觸治療": "X-ray contact therapy"
+    },
+    {
+        "X射線適用範圍": "X-ray coverage"
+    },
+    {
+        "X射線晶體學": "X-ray crystallography"
+    },
+    {
+        "X射線深部治療": "X-ray deep therapy"
+    },
+    {
+        "放射皮膚炎": "X-ray dermatitis"
+    },
+    {
+        "X射線繞射": "X-ray diffraction"
+    },
+    {
+        "X射線繞射計": "X-ray diffractometer"
+    },
+    {
+        "X射線劑量": "X-ray dose"
+    },
+    {
+        "X射線紅斑": "X-ray erythema"
+    },
+    {
+        "X射線激發螢光計": "X-ray excitation fluorimeter"
+    },
+    {
+        "X射線軟片": "X-ray film"
+    },
+    {
+        "X射線螢光分析": "X-ray fluorescence analysis"
+    },
+    {
+        "X射線螢光厚度計": "X-ray fluorescence thickness meter"
+    },
+    {
+        "X射線焦點": "X-ray focal spot"
+    },
+    {
+        "X射線發生裝置": "X-ray generator"
+    },
+    {
+        "X射線角度計": "X-ray goniometer"
+    },
+    {
+        "X射線柵": "X-ray grid"
+    },
+    {
+        "X射線像": "X-ray image"
+    },
+    {
+        "X射線誘發突變": "X-ray induced mutation"
+    },
+    {
+        "X射線單波器": "X-ray monochromator"
+    },
+    {
+        "X射線突變": "X-ray mutation"
+    },
+    {
+        "X射線輸出": "X-ray output"
+    },
+    {
+        "X射線全額定值輸出": "X-ray output at full rating"
+    },
+    {
+        "X射線譜圖": "X-ray spectrogram"
+    },
+    {
+        "X射線〔光〕譜儀": "X-ray spectrograph"
+    },
+    {
+        "X射線譜計": "X-ray spectrometer"
+    },
+    {
+        "X射線光譜學": "X-ray spectrometry"
+    },
+    {
+        "X射線譜": "X-ray spectrum"
+    },
+    {
+        "X射線電視裝置": "X-ray television apparatus"
+    },
+    {
+        "X射線治療": "X-ray therapy"
+    },
+    {
+        "X射線治療定位器": "X-ray therapy localizer"
+    },
+    {
+        "X射線管": "X-ray tube"
+    },
+    {
+        "X射線照射": "X-raying"
+    },
+    {
+        "X射線": "X-rays"
+    },
+    {
+        "X射線特性": "X-rays characteristic"
+    },
+    {
+        "X單位": "X-unit"
+    },
+    {
+        "Y型濾器": "Y strainer"
+    },
+    {
+        "〔美國二次大戰時曼哈計畫中電磁分離廠代號〕": "Y-12"
+    },
+    {
+        "調度員": "yardman"
+    },
+    {
+        "年平均煙囟釋放率": "yearly average stack release rate"
+    },
+    {
+        "年劑量": "yearly dose"
+    },
+    {
+        "黃餅〔重鈾酸鈉或銨〕": "yellow cake"
+    },
+    {
+        "黃鈾": "yellow uranium"
+    },
+    {
+        "產率曲線": "yield curve"
+    },
+    {
+        "產率分布": "yield distribution"
+    },
+    {
+        "每離子對的產率": "yield per ion pair"
+    },
+    {
+        "每粒子的產率": "yield per particle"
+    },
+    {
+        "屈服點；降伏點": "yield point"
+    },
+    {
+        "屈服強度": "yield strength"
+    },
+    {
+        "屈服應力": "yield stress"
+    },
+    {
+        "產率": "yield"
+    },
+    {
+        "分裂〔產物〕產率": "yield， fission (product)"
+    },
+    {
+        "螢光產率": "yield， fluorescent"
+    },
+    {
+        "分裂產物直接產率": "yield， independent fission yield"
+    },
+    {
+        "K層螢光產率": "yield， K-shell fluorescence"
+    },
+    {
+        "質量產率": "yield， mass"
+    },
+    {
+        "光核〔反應〕產率": "yield， photonuclear"
+    },
+    {
+        "毒化產率": "yield， poisoning"
+    },
+    {
+        "量子產率": "yield， quantum"
+    },
+    {
+        "輻射產率": "yield， radiation"
+    },
+    {
+        "相對產率": "yield， relative"
+    },
+    {
+        "熱中子分裂產率": "yield， thermal-fission"
+    },
+    {
+        "熱力學產率": "yield， thermodynamic"
+    },
+    {
+        "熱核〔反應〕產率": "yield， thermonuclear"
+    },
+    {
+        "屈服點": "yielding point"
+    },
+    {
+        "產率質量曲線": "yield-mass curve"
+    },
+    {
+        "按產率量度的": "yield-weighted"
+    },
+    {
+        "假設重物質": "ylem"
+    },
+    {
+        "軛鐵": "yoke"
+    },
+    {
+        "磁軛；磁偏轉系統": "yoke， magnet"
+    },
+    {
+        "楊格模量；楊格係數": "Young's modulus"
+    },
+    {
+        "Y粒子": "Y-particle"
+    },
+    {
+        "Y型球閥": "Y-pattern globe valve"
+    },
+    {
+        "鐿": "ytterbium"
+    },
+    {
+        "矽酸釷釔礦": "yttrialite"
+    },
+    {
+        "釓": "yttrium"
+    },
+    {
+        "釔90棒": "yttrium-90 rod"
+    },
+    {
+        "鉭鈮酸釔鈾礦": "yttrocolumbite"
+    },
+    {
+        "酞酸釔釷礦": "yttrocrasite"
+    },
+    {
+        "變質釔瀝青鈾礦": "yttrogummite"
+    },
+    {
+        "鈮鉭酸釔鐵礦": "yttrotantalite"
+    },
+    {
+        "湯川秀樹核仁": "Yukawa kernel"
+    },
+    {
+        "湯川介子理論": "Yukawa meson theory"
+    },
+    {
+        "湯川位能": "Yukawa potential"
+    },
+    {
+        "湯川井": "Yukawa well"
+    },
+    {
+        "湯子": "yukon"
+    },
+    {
+        "Z依持性": "Z-dependence"
+    },
+    {
+        "斑馬塔〔溶劑萃取所用之一種萃取塔〕": "Zebra column"
+    },
+    {
+        "則曼效應": "Zeeman effect"
+    },
+    {
+        "天頂": "zenith"
+    },
+    {
+        "天頂角效應": "zenith angle effect"
+    },
+    {
+        "沸石": "zeolite"
+    },
+    {
+        "英國零功率快中子反應器縮寫": "Zephyr"
+    },
+    {
+        "英國零能快中子反應器": "Zephyr (Zero Energy Fast Reactor)"
+    },
+    {
+        "印度零功率天然馱狨鳥嘗Y寫": "Zerlina"
+    },
+    {
+        "天然鈾燃料零能反應器": "Zerlina (Zero Energy Reactor with Natural Uranium Fuel)"
+    },
+    {
+        "零電荷": "zero charge"
+    },
+    {
+        "零點交叉": "zero crossing"
+    },
+    {
+        "零點交叉法": "zero crossing method"
+    },
+    {
+        "零點交叉時間選域": "zero crossing time pick-off"
+    },
+    {
+        "零點漂移": "zero drift"
+    },
+    {
+        "零能": "zero energy"
+    },
+    {
+        "零能實驗堆": "zero energy experimental pile"
+    },
+    {
+        "零梯度同步加速器": "zero gradient synchrotron"
+    },
+    {
+        "電路之零點〔零位〕": "zero of a circuit"
+    },
+    {
+        "零功率": "zero power"
+    },
+    {
+        "零反應器壓力": "zero reactor pressure"
+    },
+    {
+        "零釋放電廠": "zero release plant"
+    },
+    {
+        "零厚度": "zero thickness"
+    },
+    {
+        "爆心投影地點": "zero， ground"
+    },
+    {
+        "時間零點": "time zero"
+    },
+    {
+        "零能階": "zero-energy level"
+    },
+    {
+        "零能反應器": "zero-energy reactor"
+    },
+    {
+        "零場發射電流": "zero-field emission current"
+    },
+    {
+        "零位調整〔儀器〕": "zeroing"
+    },
+    {
+        "電磁動量": "zero-magnetic momentum"
+    },
+    {
+        "零質量": "zero-mass"
+    },
+    {
+        "零矩": "zero-moment"
+    },
+    {
+        "零階函數": "zero-order function"
+    },
+    {
+        "零點能": "zero-point energy"
+    },
+    {
+        "微功率反應器；零功率反應器": "zero-power reactor"
+    },
+    {
+        "零零過渡；零零轉變": "zero-zero transition"
+    },
+    {
+        "〔英國〕零能熱核裝置": "ZETA (Zero Energy Thermonuclear Assembly)"
+    },
+    {
+        "砷酸銅鈾礦": "zeunerite"
+    },
+    {
+        "零能鈾裝置": "ZEUS (Zero Energy Uranium System)"
+    },
+    {
+        "雙測量範圍的阿伐粒子計數管": "Zeuto"
+    },
+    {
+        "Z偶數": "Z-even"
+    },
+    {
+        "鋅": "zinc"
+    },
+    {
+        "溴化鋅": "zinc bromide"
+    },
+    {
+        "二乙鋅": "zinc diethyl"
+    },
+    {
+        "金屬鋅": "zinc metal"
+    },
+    {
+        "硫化鋅幕〔屏〕": "zinc sulfide screen"
+    },
+    {
+        "硫化鋅": "zinc sulphide"
+    },
+    {
+        "鐵鋰雲母": "zinnwaldite"
+    },
+    {
+        "硫酸鈾礦": "zippeite"
+    },
+    {
+        "鋯合金": "zircaloy"
+    },
+    {
+        "鋯合金護套": "zircaloy cladding"
+    },
+    {
+        "鋯合金間隔物": "zircaloy spacer"
+    },
+    {
+        "鋯合金管": "zircaloy tube"
+    },
+    {
+        "鋯合金2": "zircaloy-2"
+    },
+    {
+        "鋯合金2護套": "zircaloy-2 cladding"
+    },
+    {
+        "鋯合金2管": "zircaloy-2 tube"
+    },
+    {
+        "鋯合金4護套": "zircaloy-4 cladding"
+    },
+    {
+        "鋯萃取法": "zircex process"
+    },
+    {
+        "鋯石": "zircon"
+    },
+    {
+        "二氧化鋯": "zirconia"
+    },
+    {
+        "鋯": "zirconium"
+    },
+    {
+        "鋯合金": "zirconium alloy"
+    },
+    {
+        "氫化鋯": "zirconium hydride"
+    },
+    {
+        "鋯礦": "zirconium ores"
+    },
+    {
+        "氧化鋯耐火物": "zirconium oxide refractory"
+    },
+    {
+        "鋯海綿": "zirconium sponge"
+    },
+    {
+        "鋯砂": "zirconsand"
+    },
+    {
+        "鋯套再製法": "zirflex process"
+    },
+    {
+        "鈦鋯釷礦": "zirkelite"
+    },
+    {
+        "Z奇數": "Z-odd"
+    },
+    {
+        "〔法國〕零能重水鈾反應器": "ZOE (Zero Oxide Eau)"
+    },
+    {
+        "(一)帶(二)區域": "zone"
+    },
+    {
+        "區軸": "zone axis"
+    },
+    {
+        "區〔域〕熔〔化〕": "zone melting"
+    },
+    {
+        "有關貯存的區域方法": "zone method of associative storage"
+    },
+    {
+        "晶體帶": "zone of a crystal"
+    },
+    {
+        "反應器非活性區": "zone， passive reactor"
+    },
+    {
+        "(一)反應器(二)活性區": "zone， reaction"
+    },
+    {
+        "反應器活性區": "zone， reactor radiation"
+    },
+    {
+        "波帶；波段": "zone， wave"
+    },
+    {
+        "兩性離子": "zwitterion"
+    },
+    {
+        "受精卵": "zygote"
+    },
+    {
+        "人員偵測": "monitoring， personal"
+    }
+]
