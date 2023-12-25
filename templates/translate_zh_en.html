@@ -26,19 +26,17 @@
     }
     </style>
         <script>
-            // 在頁面加載時檢查是否有儲存的滾動位置
             window.onload = function() {
                 if (sessionStorage.scrollPosition) {
                     window.scrollTo(0, sessionStorage.scrollPosition);
-                    sessionStorage.removeItem('scrollPosition'); // 用完後移除
+                    sessionStorage.removeItem('scrollPosition'); 
                 }
             };
     
-            // 當表單提交時儲存當前滾動位置
             function handleFormSubmit(event) {
-                event.preventDefault(); // 防止表單的默認提交行為
-                sessionStorage.scrollPosition = window.scrollY; // 儲存滾動位置
-                event.target.submit(); // 提交表單
+                event.preventDefault();
+                sessionStorage.scrollPosition = window.scrollY; 
+                event.target.submit(); 
             }
         </script>
 </head>
@@ -1362,9 +1360,9 @@
             }
 
             .checkbox-wrapper-1 {
-                flex: 0 0 20%; /* 每個元素佔用20%的寬度，這樣一行可以放下5個 */
+                flex: 0 0 20%; 
                 box-sizing: border-box;
-                padding: 5px; /* 可以根據需要調整間距 */
+                padding: 5px; 
                 font-size: 10px;
             }
             form{
@@ -1377,10 +1375,10 @@
                 max-height: 500px;
                 border: 0.5px solid rgb(77, 77, 77);
                 border-radius: 10px;
-                display: block; /* 改為 block 以便從上方開始填充 */
-                resize: none; /* 禁止手動調整大小 */
-                overflow-y: auto; /* 文本超出時顯示滾動條 */
-                padding: 10px; /* 增加內邊距 */          
+                display: block;
+                resize: none; 
+                overflow-y: auto; 
+                padding: 10px;         
             }
             #selected-container {
                 width: 80%;
@@ -1388,10 +1386,10 @@
                 max-height: 500px;
                 border: 0.5px solid rgb(77, 77, 77);
                 border-radius: 10px;
-                display: block; /* 改為 block 以便從上方開始填充 */
-                resize: none; /* 禁止手動調整大小 */
-                overflow-y: auto; /* 文本超出時顯示滾動條 */
-                padding: 10px; /* 增加內邊距 */
+                display: block; 
+                resize: none; 
+                overflow-y: auto; 
+                padding: 10px; 
             }
             #input-container {
                 width: 80%;
@@ -1399,10 +1397,10 @@
                 max-height: 500px;
                 border: 0.5px solid rgb(77, 77, 77);
                 border-radius: 10px;
-                display: block; /* 改為 block 以便從上方開始填充 */
-                resize: none; /* 禁止手動調整大小 */
-                overflow-y: auto; /* 文本超出時顯示滾動條 */
-                padding: 10px; /* 增加內邊距 */
+                display: block;
+                resize: none;
+                overflow-y: auto; 
+                padding: 10px;
             }
 
             .container {
