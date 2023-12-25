@@ -60,1678 +60,1285 @@
         <br>
         選擇領域： <br><br>
         <div class="container">
-        <div id="translated-container">
+        <div id="selected-container">
+                <div class="text-container">
+                <p>各項學門</p>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: center;">
+                    <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+            </div>
+
+            <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00031" class="substituted" type="checkbox" name="numbers" value="00031 心理學名詞壓縮檔_0_ch_eng,00032 心理學名詞壓縮檔_1_ch_eng" {% if '00031 心理學名詞壓縮檔_0_ch_eng,00032 心理學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00031">心理學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00086" class="substituted" type="checkbox" name="numbers" value="00086 地質學名詞壓縮檔_0_ch_eng,00087 地質學名詞壓縮檔_1_ch_eng,00088 地質學名詞壓縮檔_2_ch_eng" {% if '00086 地質學名詞壓縮檔_0_ch_eng,00087 地質學名詞壓縮檔_1_ch_eng,00088 地質學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00086">地質學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00177" class="substituted" type="checkbox" name="numbers" value="00177 測量學壓縮檔_0_ch_eng,00178 測量學壓縮檔_1_ch_eng" {% if '00177 測量學壓縮檔_0_ch_eng,00178 測量學壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00177">測量學</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00179" class="substituted" type="checkbox" name="numbers" value="00179 發生學壓縮檔_0_ch_eng" {% if '00179 發生學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00179">發生學</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00180" class="substituted" type="checkbox" name="numbers" value="00180 統計學名詞壓縮檔_0_ch_eng,00181 統計學名詞壓縮檔_1_ch_eng" {% if '00180 統計學名詞壓縮檔_0_ch_eng,00181 統計學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00180">統計學名詞</label>
+                </div>
+            </div>
+
+            <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00185" class="substituted" type="checkbox" name="numbers" value="00185 經濟學壓縮檔_0_ch_eng" {% if '00185 經濟學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00185">經濟學</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00182" class="substituted" type="checkbox" name="numbers" value="00182 新聞傳播學名詞壓縮檔_0_ch_eng,00183 新聞傳播學名詞壓縮檔_1_ch_eng" {% if '00182 新聞傳播學名詞壓縮檔_0_ch_eng,00183 新聞傳播學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00182">新聞傳播學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00090" class="substituted" type="checkbox" name="numbers" value="00090 材料科學名詞壓縮檔_0_ch_eng,00091 材料科學名詞壓縮檔_1_ch_eng" {% if '00090 材料科學名詞壓縮檔_0_ch_eng,00091 材料科學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00090">材料科學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00002" class="substituted" type="checkbox" name="numbers" value="00002 力學名詞壓縮檔_0_ch_eng" {% if '00002 力學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00002">力學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00168" class="substituted" type="checkbox" name="numbers" value="00168 設計學壓縮檔_0_ch_eng" {% if '00168 設計學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00168">設計學</label>
+                </div>
+            </div>
+            <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00089" class="substituted" type="checkbox" name="numbers" value="00089 行政學名詞壓縮檔_0_ch_eng" {% if '00089 行政學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00089">行政學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00278" class="substituted" type="checkbox" name="numbers" value="00278 礦物學名詞壓縮檔_0_ch_eng,00279 礦物學名詞壓縮檔_1_ch_eng,00280 礦物學名詞壓縮檔_2_ch_eng" {% if '00278 礦物學名詞壓縮檔_0_ch_eng,00279 礦物學名詞壓縮檔_1_ch_eng,00280 礦物學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00278">礦物學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00281" class="substituted" type="checkbox" name="numbers" value="00281 鑄造學壓縮檔_0_ch_eng" {% if '00281 鑄造學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00281">鑄造學</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00030" class="substituted" type="checkbox" name="numbers" value="00030 天文學名詞壓縮檔_0_ch_eng" {% if '00030 天文學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00030">天文學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00063" class="substituted" type="checkbox" name="numbers" value="00063 市場學壓縮檔_0_ch_eng" {% if '00063 市場學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00063">市場學</label>
+                </div>
+            </div>
+
+
             <div class="checkbox-row">
 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00001" class="substituted" type="checkbox" name="numbers" value="00001 人體解剖學壓縮檔_0_ch_eng" {% if '00001 人體解剖學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00001">人體解剖學壓縮檔_0</label>
+                    <input id="option00246" class="substituted" type="checkbox" name="numbers" value="00246 舞蹈名詞壓縮檔_0_ch_eng,00247 舞蹈名詞壓縮檔_1_ch_eng" {% if '00246 舞蹈名詞壓縮檔_0_ch_eng,00247 舞蹈名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00246">舞蹈名詞</label>
+                </div>                                            
+
+                <div class="checkbox-wrapper-1">
+                    <input id="option00148" class="substituted" type="checkbox" name="numbers" value="00148 航空太空名詞壓縮檔_0_ch_eng,00149 航空太空名詞壓縮檔_1_ch_eng,00150 航空太空名詞壓縮檔_2_ch_eng" {% if '00148 航空太空名詞壓縮檔_0_ch_eng,00149 航空太空名詞壓縮檔_1_ch_eng,00150 航空太空名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00148">航空太空名詞</label>
                 </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00119" class="substituted" type="checkbox" name="numbers" value="00119 食品科技壓縮檔_0_ch_eng,00120 食品科技壓縮檔_1_ch_eng,00121 食品科技壓縮檔_2_ch_eng" {% if '00119 食品科技壓縮檔_0_ch_eng,00120 食品科技壓縮檔_1_ch_eng,00121 食品科技壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00119">食品科技</label>
+                </div>
+
+                <div class="checkbox-wrapper-1">
+                    <input id="option00099" class="substituted" type="checkbox" name="numbers" value="00099 物理化學儀器設備名詞壓縮檔_0_ch_eng,00100 物理化學儀器設備名詞壓縮檔_1_ch_eng" {% if '00099 物理化學儀器設備名詞壓縮檔_0_ch_eng,00100 物理化學儀器設備名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00099">物理化學儀器設備名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00106" class="substituted" type="checkbox" name="numbers" value="00106 社會工作與福利名詞壓縮檔_0_ch_eng" {% if '00106 社會工作與福利名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00106">社會工作與福利名詞</label>
+                </div>
+
+
+            </div>
+            <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00122" class="substituted" type="checkbox" name="numbers" value="00122 核能名詞壓縮檔_0_ch_eng,00123 核能名詞壓縮檔_1_ch_eng,00124 核能名詞壓縮檔_2_ch_eng" {% if '00122 核能名詞壓縮檔_0_ch_eng,00123 核能名詞壓縮檔_1_ch_eng,00124 核能名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00122">核能名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00166" class="substituted" type="checkbox" name="numbers" value="00166 視覺藝術名詞壓縮檔_0_ch_eng" {% if '00166 視覺藝術名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00166">視覺藝術名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00107" class="substituted" type="checkbox" name="numbers" value="00107 社會學名詞壓縮檔_0_ch_eng" {% if '00107 社會學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00107">社會學名詞</label>
+                </div>
+                
+
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00002" class="substituted" type="checkbox" name="numbers" value="00002 力學名詞壓縮檔_0_ch_eng" {% if '00002 力學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00002">力學名詞壓縮檔_0</label>
+                    <input id="option00109" class="substituted" type="checkbox" name="numbers" value="00109 計量學名詞壓縮檔_0_ch_eng,00110 計量學名詞壓縮檔_1_ch_eng,00111 計量學名詞壓縮檔_2_ch_eng" {% if '00109 計量學名詞壓縮檔_0_ch_eng,00110 計量學名詞壓縮檔_1_ch_eng,00111 計量學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00109">計量學名詞</label>
                 </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00125" class="substituted" type="checkbox" name="numbers" value="00125 氣象學名詞壓縮檔_0_ch_eng,00126 氣象學名詞壓縮檔_1_ch_eng" {% if '00125 氣象學名詞壓縮檔_0_ch_eng,00126 氣象學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00125">氣象學名詞</label>
+                </div>
+            </div>
+            <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00142" class="substituted" type="checkbox" name="numbers" value="00142 畜牧學壓縮檔_0_ch_eng,00143 畜牧學壓縮檔_1_ch_eng" {% if '00142 畜牧學壓縮檔_0_ch_eng,00143 畜牧學壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00142">畜牧學壓縮檔</label>
+                </div> 
+                <div class="checkbox-wrapper-1">
+                    <input id="option00145" class="substituted" type="checkbox" name="numbers" value="00145 紡織科技壓縮檔_0_ch_eng,00146 紡織科技壓縮檔_1_ch_eng,00147 紡織科技壓縮檔_2_ch_eng" {% if '00145 紡織科技壓縮檔_0_ch_eng,00146 紡織科技壓縮檔_1_ch_eng,00147 紡織科技壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00145">紡織科技</label>
+                </div>
+            </div>
+
+            <br>
+            <div class="text-container">
+                <p>數學</p>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: center;">
+                    <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                <br>
+            </div>
+
+            <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00248" class="substituted" type="checkbox" name="numbers" value="00248 數學名詞壓縮檔_0_ch_eng,00249 數學名詞壓縮檔_1_ch_eng" {% if '00248 數學名詞壓縮檔_0_ch_eng,00249 數學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00248">數學名詞</label>
+                </div>   
+            </div>
+
+
+            <br>
+                <div class="text-container">
+                <p>科技與工程</p>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: center;">
+                    <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+            </div>
+
+
+            <div class="checkbox-row">
+
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00003" class="substituted" type="checkbox" name="numbers" value="00003 土木工程名詞壓縮檔_0_ch_eng" {% if '00003 土木工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00003">土木工程名詞壓縮檔_0</label>
+                    <input id="option00195" class="substituted" type="checkbox" name="numbers" value="00195 電子工程名詞壓縮檔_0_ch_eng,00196 電子工程名詞壓縮檔_1_ch_eng,00197 電子工程名詞壓縮檔_2_ch_eng,00198 電子工程名詞壓縮檔_3_ch_eng,00199 電子工程名詞壓縮檔_4_ch_eng,00200 電子工程名詞壓縮檔_5_ch_eng,00201 電子工程名詞壓縮檔_6_ch_eng,00202 電子工程名詞壓縮檔_7_ch_eng,00203 電子工程名詞壓縮檔_8_ch_eng,00204 電子工程名詞壓縮檔_9_ch_eng,00205 電子工程名詞壓縮檔_10_ch_eng,00206 電子工程名詞壓縮檔_11_ch_eng" {% if '00195 電子工程名詞壓縮檔_0_ch_eng,00196 電子工程名詞壓縮檔_1_ch_eng,00197 電子工程名詞壓縮檔_2_ch_eng,00198 電子工程名詞壓縮檔_3_ch_eng,00199 電子工程名詞壓縮檔_4_ch_eng,00200 電子工程名詞壓縮檔_5_ch_eng,00201 電子工程名詞壓縮檔_6_ch_eng,00202 電子工程名詞壓縮檔_7_ch_eng,00203 電子工程名詞壓縮檔_8_ch_eng,00204 電子工程名詞壓縮檔_9_ch_eng,00205 電子工程名詞壓縮檔_10_ch_eng,00206 電子工程名詞壓縮檔_11_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00195">電子工程名詞</label>
                 </div>
-                
+
                 <div class="checkbox-wrapper-1">
-                    <input id="option00004" class="substituted" type="checkbox" name="numbers" value="00004 土木工程名詞壓縮檔_1_ch_eng" {% if '00004 土木工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00004">土木工程名詞壓縮檔_1</label>
+                    <input id="option00188" class="substituted" type="checkbox" name="numbers" value="00188 電力工程壓縮檔_0_ch_eng,00189 電力工程壓縮檔_1_ch_eng,00190 電力工程壓縮檔_2_ch_eng,00191 電力工程壓縮檔_3_ch_eng,00192 電力工程壓縮檔_4_ch_eng,00193 電力工程壓縮檔_5_ch_eng,00194 電力工程壓縮檔_6_ch_eng" {% if '00188 電力工程壓縮檔_0_ch_eng,00189 電力工程壓縮檔_1_ch_eng,00190 電力工程壓縮檔_2_ch_eng,00191 電力工程壓縮檔_3_ch_eng,00192 電力工程壓縮檔_4_ch_eng,00193 電力工程壓縮檔_5_ch_eng,00194 電力工程壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00188">電力工程</label>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00005" class="substituted" type="checkbox" name="numbers" value="00005 土木工程名詞壓縮檔_2_ch_eng" {% if '00005 土木工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00005">土木工程名詞壓縮檔_2</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00006" class="substituted" type="checkbox" name="numbers" value="00006 土壤學名詞壓縮檔_0_ch_eng" {% if '00006 土壤學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00006">土壤學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00007" class="substituted" type="checkbox" name="numbers" value="00007 工程圖學壓縮檔_0_ch_eng" {% if '00007 工程圖學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00007">工程圖學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00008" class="substituted" type="checkbox" name="numbers" value="00008 中央研究院臺灣物種名錄壓縮檔_0_ch_eng" {% if '00008 中央研究院臺灣物種名錄壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00008">中央研究院臺灣物種名錄壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00009" class="substituted" type="checkbox" name="numbers" value="00009 中央研究院臺灣物種名錄壓縮檔_1_ch_eng" {% if '00009 中央研究院臺灣物種名錄壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00009">中央研究院臺灣物種名錄壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00010" class="substituted" type="checkbox" name="numbers" value="00010 中央研究院臺灣物種名錄壓縮檔_2_ch_eng" {% if '00010 中央研究院臺灣物種名錄壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00010">中央研究院臺灣物種名錄壓縮檔_2</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00011" class="substituted" type="checkbox" name="numbers" value="00011 中央研究院臺灣物種名錄壓縮檔_3_ch_eng" {% if '00011 中央研究院臺灣物種名錄壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00011">中央研究院臺灣物種名錄壓縮檔_3</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00012" class="substituted" type="checkbox" name="numbers" value="00012 中央研究院臺灣物種名錄壓縮檔_4_ch_eng" {% if '00012 中央研究院臺灣物種名錄壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00012">中央研究院臺灣物種名錄壓縮檔_4</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00013" class="substituted" type="checkbox" name="numbers" value="00013 內分泌學名詞壓縮檔_0_ch_eng" {% if '00013 內分泌學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00013">內分泌學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00014" class="substituted" type="checkbox" name="numbers" value="00014 化學工程名詞壓縮檔_0_ch_eng" {% if '00014 化學工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00014">化學工程名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00015" class="substituted" type="checkbox" name="numbers" value="00015 化學工程名詞壓縮檔_1_ch_eng" {% if '00015 化學工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00015">化學工程名詞壓縮檔_1</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00016" class="substituted" type="checkbox" name="numbers" value="00016 化學名詞-不飽和雜環化合物及結構式壓縮檔_0_ch_eng" {% if '00016 化學名詞-不飽和雜環化合物及結構式壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00016">化學名詞-不飽和雜環化合物及結構式壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00017" class="substituted" type="checkbox" name="numbers" value="00017 化學名詞-化學元素一覽表壓縮檔_0_ch_eng" {% if '00017 化學名詞-化學元素一覽表壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00017">化學名詞-化學元素一覽表壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00018" class="substituted" type="checkbox" name="numbers" value="00018 化學名詞-化學名詞用字之讀音壓縮檔_0_ch_eng" {% if '00018 化學名詞-化學名詞用字之讀音壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00018">化學名詞-化學名詞用字之讀音壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00019" class="substituted" type="checkbox" name="numbers" value="00019 化學名詞-化學相關科學家壓縮檔_0_ch_eng" {% if '00019 化學名詞-化學相關科學家壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00019">化學名詞-化學相關科學家壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00020" class="substituted" type="checkbox" name="numbers" value="00020 化學名詞-化學術語壓縮檔_0_ch_eng" {% if '00020 化學名詞-化學術語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00020">化學名詞-化學術語壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00021" class="substituted" type="checkbox" name="numbers" value="00021 化學名詞-化學術語壓縮檔_1_ch_eng" {% if '00021 化學名詞-化學術語壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00021">化學名詞-化學術語壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00022" class="substituted" type="checkbox" name="numbers" value="00022 化學名詞-化學術語壓縮檔_2_ch_eng" {% if '00022 化學名詞-化學術語壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00022">化學名詞-化學術語壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00023" class="substituted" type="checkbox" name="numbers" value="00023 化學名詞-有機化合物之基壓縮檔_0_ch_eng" {% if '00023 化學名詞-有機化合物之基壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00023">化學名詞-有機化合物之基壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00024" class="substituted" type="checkbox" name="numbers" value="00024 化學名詞-有機化合物壓縮檔_0_ch_eng" {% if '00024 化學名詞-有機化合物壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00024">化學名詞-有機化合物壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00025" class="substituted" type="checkbox" name="numbers" value="00025 化學名詞-有機化合物壓縮檔_1_ch_eng" {% if '00025 化學名詞-有機化合物壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00025">化學名詞-有機化合物壓縮檔_1</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00026" class="substituted" type="checkbox" name="numbers" value="00026 化學名詞-常見生物鹼及結構式壓縮檔_0_ch_eng" {% if '00026 化學名詞-常見生物鹼及結構式壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00026">化學名詞-常見生物鹼及結構式壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00027" class="substituted" type="checkbox" name="numbers" value="00027 化學名詞-常見萜類及結構式壓縮檔_0_ch_eng" {% if '00027 化學名詞-常見萜類及結構式壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00027">化學名詞-常見萜類及結構式壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00028" class="substituted" type="checkbox" name="numbers" value="00028 化學名詞-無機化合物壓縮檔_0_ch_eng" {% if '00028 化學名詞-無機化合物壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00028">化學名詞-無機化合物壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00029" class="substituted" type="checkbox" name="numbers" value="00029 化學名詞-硼化合物壓縮檔_0_ch_eng" {% if '00029 化學名詞-硼化合物壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00029">化學名詞-硼化合物壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00030" class="substituted" type="checkbox" name="numbers" value="00030 天文學名詞壓縮檔_0_ch_eng" {% if '00030 天文學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00030">天文學名詞壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00031" class="substituted" type="checkbox" name="numbers" value="00031 心理學名詞壓縮檔_0_ch_eng" {% if '00031 心理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00031">心理學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00032" class="substituted" type="checkbox" name="numbers" value="00032 心理學名詞壓縮檔_1_ch_eng" {% if '00032 心理學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00032">心理學名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00033" class="substituted" type="checkbox" name="numbers" value="00033 比較解剖學壓縮檔_0_ch_eng" {% if '00033 比較解剖學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00033">比較解剖學壓縮檔_0</label>
-                </div>
-                
                 <div class="checkbox-wrapper-1">
                     <input id="option00034" class="substituted" type="checkbox" name="numbers" value="00034 水利工程壓縮檔_0_ch_eng" {% if '00034 水利工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00034">水利工程壓縮檔_0</label>
+                    <label for="option00034">水利工程</label>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00035" class="substituted" type="checkbox" name="numbers" value="00035 外國地名譯名壓縮檔_0_ch_eng" {% if '00035 外國地名譯名壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00035">外國地名譯名壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00036" class="substituted" type="checkbox" name="numbers" value="00036 外國地名譯名壓縮檔_1_ch_eng" {% if '00036 外國地名譯名壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00036">外國地名譯名壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00037" class="substituted" type="checkbox" name="numbers" value="00037 外國地名譯名壓縮檔_2_ch_eng" {% if '00037 外國地名譯名壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00037">外國地名譯名壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00038" class="substituted" type="checkbox" name="numbers" value="00038 外國地名譯名壓縮檔_3_ch_eng" {% if '00038 外國地名譯名壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00038">外國地名譯名壓縮檔_3</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00039" class="substituted" type="checkbox" name="numbers" value="00039 外國地名譯名壓縮檔_4_ch_eng" {% if '00039 外國地名譯名壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00039">外國地名譯名壓縮檔_4</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00040" class="substituted" type="checkbox" name="numbers" value="00040 外國地名譯名壓縮檔_5_ch_eng" {% if '00040 外國地名譯名壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00040">外國地名譯名壓縮檔_5</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00041" class="substituted" type="checkbox" name="numbers" value="00041 外國地名譯名壓縮檔_6_ch_eng" {% if '00041 外國地名譯名壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00041">外國地名譯名壓縮檔_6</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00042" class="substituted" type="checkbox" name="numbers" value="00042 外國學者人名譯名-各領域學者人名西語壓縮檔_0_ch_eng" {% if '00042 外國學者人名譯名-各領域學者人名西語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00042">外國學者人名譯名-各領域學者人名西語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00043" class="substituted" type="checkbox" name="numbers" value="00043 外國學者人名譯名-各領域學者人名法語壓縮檔_0_ch_eng" {% if '00043 外國學者人名譯名-各領域學者人名法語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00043">外國學者人名譯名-各領域學者人名法語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00044" class="substituted" type="checkbox" name="numbers" value="00044 外國學者人名譯名-各領域學者人名阿拉伯語壓縮檔_0_ch_eng" {% if '00044 外國學者人名譯名-各領域學者人名阿拉伯語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00044">外國學者人名譯名-各領域學者人名阿拉伯語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00045" class="substituted" type="checkbox" name="numbers" value="00045 外國學者人名譯名-各領域學者人名英語壓縮檔_0_ch_eng" {% if '00045 外國學者人名譯名-各領域學者人名英語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00045">外國學者人名譯名-各領域學者人名英語壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00046" class="substituted" type="checkbox" name="numbers" value="00046 外國學者人名譯名-各領域學者人名義語壓縮檔_0_ch_eng" {% if '00046 外國學者人名譯名-各領域學者人名義語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00046">外國學者人名譯名-各領域學者人名義語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00047" class="substituted" type="checkbox" name="numbers" value="00047 外國學者人名譯名-各領域學者人名德語壓縮檔_0_ch_eng" {% if '00047 外國學者人名譯名-各領域學者人名德語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00047">外國學者人名譯名-各領域學者人名德語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00048" class="substituted" type="checkbox" name="numbers" value="00048 外國學者人名譯名-常見姓氏土耳其語壓縮檔_0_ch_eng" {% if '00048 外國學者人名譯名-常見姓氏土耳其語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00048">外國學者人名譯名-常見姓氏土耳其語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00049" class="substituted" type="checkbox" name="numbers" value="00049 外國學者人名譯名-常見姓氏日韓語壓縮檔_0_ch_eng" {% if '00049 外國學者人名譯名-常見姓氏日韓語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00049">外國學者人名譯名-常見姓氏日韓語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00050" class="substituted" type="checkbox" name="numbers" value="00050 外國學者人名譯名-常見姓氏西語壓縮檔_0_ch_eng" {% if '00050 外國學者人名譯名-常見姓氏西語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00050">外國學者人名譯名-常見姓氏西語壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00051" class="substituted" type="checkbox" name="numbers" value="00051 外國學者人名譯名-常見姓氏法語壓縮檔_0_ch_eng" {% if '00051 外國學者人名譯名-常見姓氏法語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00051">外國學者人名譯名-常見姓氏法語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00052" class="substituted" type="checkbox" name="numbers" value="00052 外國學者人名譯名-常見姓氏阿拉伯語壓縮檔_0_ch_eng" {% if '00052 外國學者人名譯名-常見姓氏阿拉伯語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00052">外國學者人名譯名-常見姓氏阿拉伯語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00053" class="substituted" type="checkbox" name="numbers" value="00053 外國學者人名譯名-常見姓氏英語壓縮檔_0_ch_eng" {% if '00053 外國學者人名譯名-常見姓氏英語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00053">外國學者人名譯名-常見姓氏英語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00054" class="substituted" type="checkbox" name="numbers" value="00054 外國學者人名譯名-常見姓氏斯拉夫語壓縮檔_0_ch_eng" {% if '00054 外國學者人名譯名-常見姓氏斯拉夫語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00054">外國學者人名譯名-常見姓氏斯拉夫語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00055" class="substituted" type="checkbox" name="numbers" value="00055 外國學者人名譯名-常見姓氏義語壓縮檔_0_ch_eng" {% if '00055 外國學者人名譯名-常見姓氏義語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00055">外國學者人名譯名-常見姓氏義語壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00056" class="substituted" type="checkbox" name="numbers" value="00056 外國學者人名譯名-常見姓氏德語壓縮檔_0_ch_eng" {% if '00056 外國學者人名譯名-常見姓氏德語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00056">外國學者人名譯名-常見姓氏德語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00057" class="substituted" type="checkbox" name="numbers" value="00057 外國學者人名譯名-諾貝爾獎得主西語壓縮檔_0_ch_eng" {% if '00057 外國學者人名譯名-諾貝爾獎得主西語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00057">外國學者人名譯名-諾貝爾獎得主西語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00058" class="substituted" type="checkbox" name="numbers" value="00058 外國學者人名譯名-諾貝爾獎得主法語壓縮檔_0_ch_eng" {% if '00058 外國學者人名譯名-諾貝爾獎得主法語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00058">外國學者人名譯名-諾貝爾獎得主法語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00059" class="substituted" type="checkbox" name="numbers" value="00059 外國學者人名譯名-諾貝爾獎得主英語壓縮檔_0_ch_eng" {% if '00059 外國學者人名譯名-諾貝爾獎得主英語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00059">外國學者人名譯名-諾貝爾獎得主英語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00060" class="substituted" type="checkbox" name="numbers" value="00060 外國學者人名譯名-諾貝爾獎得主斯拉夫語壓縮檔_0_ch_eng" {% if '00060 外國學者人名譯名-諾貝爾獎得主斯拉夫語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00060">外國學者人名譯名-諾貝爾獎得主斯拉夫語壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00061" class="substituted" type="checkbox" name="numbers" value="00061 外國學者人名譯名-諾貝爾獎得主義語壓縮檔_0_ch_eng" {% if '00061 外國學者人名譯名-諾貝爾獎得主義語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00061">外國學者人名譯名-諾貝爾獎得主義語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00062" class="substituted" type="checkbox" name="numbers" value="00062 外國學者人名譯名-諾貝爾獎得主德語壓縮檔_0_ch_eng" {% if '00062 外國學者人名譯名-諾貝爾獎得主德語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00062">外國學者人名譯名-諾貝爾獎得主德語壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00063" class="substituted" type="checkbox" name="numbers" value="00063 市場學壓縮檔_0_ch_eng" {% if '00063 市場學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00063">市場學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00064" class="substituted" type="checkbox" name="numbers" value="00064 生命科學名詞-科學家譯名壓縮檔_0_ch_eng" {% if '00064 生命科學名詞-科學家譯名壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00064">生命科學名詞-科學家譯名壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00065" class="substituted" type="checkbox" name="numbers" value="00065 生命科學名詞壓縮檔_0_ch_eng" {% if '00065 生命科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00065">生命科學名詞壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00066" class="substituted" type="checkbox" name="numbers" value="00066 生物學名詞-植物壓縮檔_0_ch_eng" {% if '00066 生物學名詞-植物壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00066">生物學名詞-植物壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00067" class="substituted" type="checkbox" name="numbers" value="00067 生物學名詞-植物壓縮檔_1_ch_eng" {% if '00067 生物學名詞-植物壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00067">生物學名詞-植物壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00068" class="substituted" type="checkbox" name="numbers" value="00068 生物學名詞-植物壓縮檔_2_ch_eng" {% if '00068 生物學名詞-植物壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00068">生物學名詞-植物壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00069" class="substituted" type="checkbox" name="numbers" value="00069 生物學名詞-植物壓縮檔_3_ch_eng" {% if '00069 生物學名詞-植物壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00069">生物學名詞-植物壓縮檔_3</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00070" class="substituted" type="checkbox" name="numbers" value="00070 生物學名詞-植物壓縮檔_4_ch_eng" {% if '00070 生物學名詞-植物壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00070">生物學名詞-植物壓縮檔_4</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00071" class="substituted" type="checkbox" name="numbers" value="00071 生產自動化壓縮檔_0_ch_eng" {% if '00071 生產自動化壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00071">生產自動化壓縮檔_0</label>
+                    <label for="option00071">生產自動化</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00265" class="substituted" type="checkbox" name="numbers" value="00265 機構與機器原理壓縮檔_0_ch_eng" {% if '00265 機構與機器原理壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00265">機構與機器原理</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+
+                
+                </div>
+                <div class="checkbox-row">
+
+                
+                </div>
+                <div class="checkbox-row">
+
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00207" class="substituted" type="checkbox" name="numbers" value="00207 電子計算機名詞壓縮檔_0_ch_eng,00208 電子計算機名詞壓縮檔_1_ch_eng,00209 電子計算機名詞壓縮檔_2_ch_eng,00210 電子計算機名詞壓縮檔_3_ch_eng,00211 電子計算機名詞壓縮檔_4_ch_eng,00212 電子計算機名詞壓縮檔_5_ch_eng,00213 電子計算機名詞壓縮檔_6_ch_eng,00214 電子計算機名詞壓縮檔_7_ch_eng,00215 電子計算機名詞壓縮檔_8_ch_eng,00216 電子計算機名詞壓縮檔_9_ch_eng,00217 電子計算機名詞壓縮檔_10_ch_eng,00218 電子計算機名詞壓縮檔_11_ch_eng,00219 電子計算機名詞壓縮檔_12_ch_eng,00220 電子計算機名詞壓縮檔_13_ch_eng" {% if '00207 電子計算機名詞壓縮檔_0_ch_eng,00208 電子計算機名詞壓縮檔_1_ch_eng,00209 電子計算機名詞壓縮檔_2_ch_eng,00210 電子計算機名詞壓縮檔_3_ch_eng,00211 電子計算機名詞壓縮檔_4_ch_eng,00212 電子計算機名詞壓縮檔_5_ch_eng,00213 電子計算機名詞壓縮檔_6_ch_eng,00214 電子計算機名詞壓縮檔_7_ch_eng,00215 電子計算機名詞壓縮檔_8_ch_eng,00216 電子計算機名詞壓縮檔_9_ch_eng,00217 電子計算機名詞壓縮檔_10_ch_eng,00218 電子計算機名詞壓縮檔_11_ch_eng,00219 電子計算機名詞壓縮檔_12_ch_eng,00220 電子計算機名詞壓縮檔_13_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00207">電子計算機名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00276" class="substituted" type="checkbox" name="numbers" value="00276 礦冶工程名詞壓縮檔_0_ch_eng,00277 礦冶工程名詞壓縮檔_1_ch_eng" {% if '00276 礦冶工程名詞壓縮檔_0_ch_eng,00277 礦冶工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00276">礦冶工程名詞</label>
+                </div>         
+                <div class="checkbox-wrapper-1">
+                    <input id="option00169" class="substituted" type="checkbox" name="numbers" value="00169 通訊工程壓縮檔_0_ch_eng,00170 通訊工程壓縮檔_1_ch_eng" {% if '00169 通訊工程壓縮檔_0_ch_eng,00170 通訊工程壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00169">通訊工程</label>
+                </div> 
+                <div class="checkbox-wrapper-1">
+                    <input id="option00007" class="substituted" type="checkbox" name="numbers" value="00007 工程圖學壓縮檔_0_ch_eng" {% if '00007 工程圖學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00007">工程圖學</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00240" class="substituted" type="checkbox" name="numbers" value="00240 圖書館學與資訊科學名詞壓縮檔_0_ch_eng" {% if '00240 圖書館學與資訊科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00240">圖書館學與資訊科學名詞</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+
+                
+                </div>
+                <div class="checkbox-row">
+
+                
+                </div>
+                <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00221" class="substituted" type="checkbox" name="numbers" value="00221 電機工程名詞壓縮檔_0_ch_eng,00222 電機工程名詞壓縮檔_1_ch_eng,00223 電機工程名詞壓縮檔_2_ch_eng,00224 電機工程名詞壓縮檔_3_ch_eng,00225 電機工程名詞壓縮檔_4_ch_eng,00226 電機工程名詞壓縮檔_5_ch_eng,00227 電機工程名詞壓縮檔_6_ch_eng,00228 電機工程名詞壓縮檔_7_ch_eng,00229 電機工程名詞壓縮檔_8_ch_eng,00230 電機工程名詞壓縮檔_9_ch_eng,00231 電機工程名詞壓縮檔_10_ch_eng,00232 電機工程名詞壓縮檔_11_ch_eng,00233 電機工程名詞壓縮檔_12_ch_eng,00234 電機工程名詞壓縮檔_13_ch_eng,00235 電機工程名詞壓縮檔_14_ch_eng,00236 電機工程名詞壓縮檔_15_ch_eng,00237 電機工程名詞壓縮檔_16_ch_eng,00238 電機工程名詞壓縮檔_17_ch_eng,00239 電機工程名詞壓縮檔_18_ch_eng" {% if '00221 電機工程名詞壓縮檔_0_ch_eng,00222 電機工程名詞壓縮檔_1_ch_eng,00223 電機工程名詞壓縮檔_2_ch_eng,00224 電機工程名詞壓縮檔_3_ch_eng,00225 電機工程名詞壓縮檔_4_ch_eng,00226 電機工程名詞壓縮檔_5_ch_eng,00227 電機工程名詞壓縮檔_6_ch_eng,00228 電機工程名詞壓縮檔_7_ch_eng,00229 電機工程名詞壓縮檔_8_ch_eng,00230 電機工程名詞壓縮檔_9_ch_eng,00231 電機工程名詞壓縮檔_10_ch_eng,00232 電機工程名詞壓縮檔_11_ch_eng,00233 電機工程名詞壓縮檔_12_ch_eng,00234 電機工程名詞壓縮檔_13_ch_eng,00235 電機工程名詞壓縮檔_14_ch_eng,00236 電機工程名詞壓縮檔_15_ch_eng,00237 電機工程名詞壓縮檔_16_ch_eng,00238 電機工程名詞壓縮檔_17_ch_eng,00239 電機工程名詞壓縮檔_18_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00221">電機工程名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00250" class="substituted" type="checkbox" name="numbers" value="00250 機械工程名詞壓縮檔_0_ch_eng,00251 機械工程名詞壓縮檔_1_ch_eng,00252 機械工程名詞壓縮檔_2_ch_eng,00253 機械工程名詞壓縮檔_3_ch_eng,00254 機械工程名詞壓縮檔_4_ch_eng,00255 機械工程名詞壓縮檔_5_ch_eng,00256 機械工程名詞壓縮檔_6_ch_eng,00257 機械工程名詞壓縮檔_7_ch_eng,00258 機械工程名詞壓縮檔_8_ch_eng,00259 機械工程名詞壓縮檔_9_ch_eng,00260 機械工程名詞壓縮檔_10_ch_eng,00261 機械工程名詞壓縮檔_11_ch_eng,00262 機械工程名詞壓縮檔_12_ch_eng,00263 機械工程名詞壓縮檔_13_ch_eng,00264 機械工程名詞壓縮檔_14_ch_eng" {% if '00250 機械工程名詞壓縮檔_0_ch_eng,00251 機械工程名詞壓縮檔_1_ch_eng,00252 機械工程名詞壓縮檔_2_ch_eng,00253 機械工程名詞壓縮檔_3_ch_eng,00254 機械工程名詞壓縮檔_4_ch_eng,00255 機械工程名詞壓縮檔_5_ch_eng,00256 機械工程名詞壓縮檔_6_ch_eng,00257 機械工程名詞壓縮檔_7_ch_eng,00258 機械工程名詞壓縮檔_8_ch_eng,00259 機械工程名詞壓縮檔_9_ch_eng,00260 機械工程名詞壓縮檔_10_ch_eng,00261 機械工程名詞壓縮檔_11_ch_eng,00262 機械工程名詞壓縮檔_12_ch_eng,00263 機械工程名詞壓縮檔_13_ch_eng,00264 機械工程名詞壓縮檔_14_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00250">機械工程名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00003" class="substituted" type="checkbox" name="numbers" value="00003 土木工程名詞壓縮檔_0_ch_eng,00004 土木工程名詞壓縮檔_1_ch_eng,00005 土木工程名詞壓縮檔_2_ch_eng" {% if '00003 土木工程名詞壓縮檔_0_ch_eng,00004 土木工程名詞壓縮檔_1_ch_eng,00005 土木工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00003">土木工程名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00014" class="substituted" type="checkbox" name="numbers" value="00014 化學工程名詞壓縮檔_0_ch_eng,00015 化學工程名詞壓縮檔_1_ch_eng" {% if '00014 化學工程名詞壓縮檔_0_ch_eng,00015 化學工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00014">化學工程名詞</label>
+                </div>
+            
+                
+                </div>
+
+
+
+
+                <br>
+                <div class="text-container">
+                    <p>化學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
+
+                <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00016" class="substituted" type="checkbox" name="numbers" value="00016 不飽和雜環化合物及結構式壓縮檔_0_ch_eng" {% if '00016 不飽和雜環化合物及結構式壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00016">不飽和雜環化合物及結構式</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00072" class="substituted" type="checkbox" name="numbers" value="00072 生態學名詞壓縮檔_0_ch_eng" {% if '00072 生態學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00072">生態學名詞壓縮檔_0</label>
+                    <input id="option00017" class="substituted" type="checkbox" name="numbers" value="00017 化學元素一覽表壓縮檔_0_ch_eng" {% if '00017 化學元素一覽表壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00017">化學元素一覽表</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00073" class="substituted" type="checkbox" name="numbers" value="00073 地球科學名詞-大氣壓縮檔_0_ch_eng" {% if '00073 地球科學名詞-大氣壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00073">地球科學名詞-大氣壓縮檔_0</label>
+                    <input id="option00018" class="substituted" type="checkbox" name="numbers" value="00018 化學名詞用字之讀音壓縮檔_0_ch_eng" {% if '00018 化學名詞用字之讀音壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00018">化學名詞用字之讀音</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00074" class="substituted" type="checkbox" name="numbers" value="00074 地球科學名詞-大氣壓縮檔_1_ch_eng" {% if '00074 地球科學名詞-大氣壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00074">地球科學名詞-大氣壓縮檔_1</label>
+                    <input id="option00019" class="substituted" type="checkbox" name="numbers" value="00019 化學相關科學家壓縮檔_0_ch_eng" {% if '00019 化學相關科學家壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00019">化學相關科學家</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00020" class="substituted" type="checkbox" name="numbers" value="00020 化學術語壓縮檔_0_ch_eng,00021 化學術語壓縮檔_1_ch_eng,00022 化學術語壓縮檔_2_ch_eng" {% if '00020 化學術語壓縮檔_0_ch_eng,00021 化學術語壓縮檔_1_ch_eng,00022 化學術語壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00020">化學術語</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00023" class="substituted" type="checkbox" name="numbers" value="00023 有機化合物之基壓縮檔_0_ch_eng" {% if '00023 有機化合物之基壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00023">有機化合物之基</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00024" class="substituted" type="checkbox" name="numbers" value="00024 有機化合物壓縮檔_0_ch_eng,00025 有機化合物壓縮檔_1_ch_eng" {% if '00024 有機化合物壓縮檔_0_ch_eng,00025 有機化合物壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00024">有機化合物</label>
+                </div>
+
+                <div class="checkbox-wrapper-1">
+                    <input id="option00028" class="substituted" type="checkbox" name="numbers" value="00028 無機化合物壓縮檔_0_ch_eng" {% if '00028 無機化合物壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00028">無機化合物</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00029" class="substituted" type="checkbox" name="numbers" value="00029 硼化合物壓縮檔_0_ch_eng" {% if '00029 硼化合物壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00029">硼化合物</label>
+                </div>
+
+                <div class="checkbox-wrapper-1">
+                    <input id="option00027" class="substituted" type="checkbox" name="numbers" value="00027 常見萜類及結構式壓縮檔_0_ch_eng" {% if '00027 常見萜類及結構式壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00027">常見萜類及結構式</label>
+                </div>
+                
+                
+                </div>
+                <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00026" class="substituted" type="checkbox" name="numbers" value="00026 常見生物鹼及結構式壓縮檔_0_ch_eng" {% if '00026 常見生物鹼及結構式壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00026">常見生物鹼及結構式</label>
+                </div>
+                
+                </div>
+                <br>
+                <div class="text-container">
+                    <p>外國學者人名與地名</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+                <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00035" class="substituted" type="checkbox" name="numbers" value="00035 外國地名譯名壓縮檔_0_ch_eng,00036 外國地名譯名壓縮檔_1_ch_eng,00037 外國地名譯名壓縮檔_2_ch_eng,00038 外國地名譯名壓縮檔_3_ch_eng,00039 外國地名譯名壓縮檔_4_ch_eng,00040 外國地名譯名壓縮檔_5_ch_eng,00041 外國地名譯名壓縮檔_6_ch_eng" {% if '00035 外國地名譯名壓縮檔_0_ch_eng,00036 外國地名譯名壓縮檔_1_ch_eng,00037 外國地名譯名壓縮檔_2_ch_eng,00038 外國地名譯名壓縮檔_3_ch_eng,00039 外國地名譯名壓縮檔_4_ch_eng,00040 外國地名譯名壓縮檔_5_ch_eng,00041 外國地名譯名壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00035">外國地名譯名</label>
+                    </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00042" class="substituted" type="checkbox" name="numbers" value="00042 各領域學者人名西語壓縮檔_0_ch_eng" {% if '00042 各領域學者人名西語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00042">各領域學者人名西語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00043" class="substituted" type="checkbox" name="numbers" value="00043 各領域學者人名法語壓縮檔_0_ch_eng" {% if '00043 各領域學者人名法語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00043">各領域學者人名法語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00044" class="substituted" type="checkbox" name="numbers" value="00044 各領域學者人名阿拉伯語壓縮檔_0_ch_eng" {% if '00044 各領域學者人名阿拉伯語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00044">各領域學者人名阿拉伯語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00045" class="substituted" type="checkbox" name="numbers" value="00045 各領域學者人名英語壓縮檔_0_ch_eng" {% if '00045 各領域學者人名英語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00045">各領域學者人名英語</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00046" class="substituted" type="checkbox" name="numbers" value="00046 各領域學者人名義語壓縮檔_0_ch_eng" {% if '00046 各領域學者人名義語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00046">各領域學者人名義語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00047" class="substituted" type="checkbox" name="numbers" value="00047 各領域學者人名德語壓縮檔_0_ch_eng" {% if '00047 各領域學者人名德語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00047">各領域學者人名德語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00048" class="substituted" type="checkbox" name="numbers" value="00048 常見姓氏土耳其語壓縮檔_0_ch_eng" {% if '00048 常見姓氏土耳其語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00048">常見姓氏土耳其語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00049" class="substituted" type="checkbox" name="numbers" value="00049 常見姓氏日韓語壓縮檔_0_ch_eng" {% if '00049 常見姓氏日韓語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00049">常見姓氏日韓語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00050" class="substituted" type="checkbox" name="numbers" value="00050 常見姓氏西語壓縮檔_0_ch_eng" {% if '00050 常見姓氏西語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00050">常見姓氏西語</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00051" class="substituted" type="checkbox" name="numbers" value="00051 常見姓氏法語壓縮檔_0_ch_eng" {% if '00051 常見姓氏法語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00051">常見姓氏法語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00052" class="substituted" type="checkbox" name="numbers" value="00052 常見姓氏阿拉伯語壓縮檔_0_ch_eng" {% if '00052 常見姓氏阿拉伯語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00052">常見姓氏阿拉伯語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00053" class="substituted" type="checkbox" name="numbers" value="00053 常見姓氏英語壓縮檔_0_ch_eng" {% if '00053 常見姓氏英語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00053">常見姓氏英語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00054" class="substituted" type="checkbox" name="numbers" value="00054 常見姓氏斯拉夫語壓縮檔_0_ch_eng" {% if '00054 常見姓氏斯拉夫語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00054">常見姓氏斯拉夫語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00055" class="substituted" type="checkbox" name="numbers" value="00055 常見姓氏義語壓縮檔_0_ch_eng" {% if '00055 常見姓氏義語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00055">常見姓氏義語</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+                <div class="checkbox-wrapper-1">
+                    <input id="option00056" class="substituted" type="checkbox" name="numbers" value="00056 常見姓氏德語壓縮檔_0_ch_eng" {% if '00056 常見姓氏德語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00056">常見姓氏德語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00057" class="substituted" type="checkbox" name="numbers" value="00057 諾貝爾獎得主西語壓縮檔_0_ch_eng" {% if '00057 諾貝爾獎得主西語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00057">諾貝爾獎得主西語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00058" class="substituted" type="checkbox" name="numbers" value="00058 諾貝爾獎得主法語壓縮檔_0_ch_eng" {% if '00058 諾貝爾獎得主法語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00058">諾貝爾獎得主法語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00059" class="substituted" type="checkbox" name="numbers" value="00059 諾貝爾獎得主英語壓縮檔_0_ch_eng" {% if '00059 諾貝爾獎得主英語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00059">諾貝爾獎得主英語</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00060" class="substituted" type="checkbox" name="numbers" value="00060 諾貝爾獎得主斯拉夫語壓縮檔_0_ch_eng" {% if '00060 諾貝爾獎得主斯拉夫語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00060">諾貝爾獎得主斯拉夫語</label>
+                </div>
+                
+                </div>
+                <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00061" class="substituted" type="checkbox" name="numbers" value="00061 諾貝爾獎得主義語壓縮檔_0_ch_eng" {% if '00061 諾貝爾獎得主義語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00061">諾貝爾獎得主義語</label>
+                    </div>
+                    
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00062" class="substituted" type="checkbox" name="numbers" value="00062 諾貝爾獎得主德語壓縮檔_0_ch_eng" {% if '00062 諾貝爾獎得主德語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00062">諾貝爾獎得主德語</label>
+                    </div>
+                    
+
+                </div>
+                
+
+                <br>
+                <div class="text-container">
+                    <p>生物相關</p>
+                </div>
+
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+    
+                <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00064" class="substituted" type="checkbox" name="numbers" value="00064 生命科學名詞-科學家譯名壓縮檔_0_ch_eng" {% if '00064 生命科學名詞-科學家譯名壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00064">生命科學名詞-科學家譯名</label>
+                    </div>
+                    
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00065" class="substituted" type="checkbox" name="numbers" value="00065 生命科學名詞壓縮檔_0_ch_eng" {% if '00065 生命科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00065">生命科學名詞</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00066" class="substituted" type="checkbox" name="numbers" value="00066 生物學名詞-植物壓縮檔_0_ch_eng,00067 生物學名詞-植物壓縮檔_1_ch_eng,00068 生物學名詞-植物壓縮檔_2_ch_eng,00069 生物學名詞-植物壓縮檔_3_ch_eng,00070 生物學名詞-植物壓縮檔_4_ch_eng" {% if '00066 生物學名詞-植物壓縮檔_0_ch_eng,00067 生物學名詞-植物壓縮檔_1_ch_eng,00068 生物學名詞-植物壓縮檔_2_ch_eng,00069 生物學名詞-植物壓縮檔_3_ch_eng,00070 生物學名詞-植物壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00066">生物學名詞-植物</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00072" class="substituted" type="checkbox" name="numbers" value="00072 生態學名詞壓縮檔_0_ch_eng" {% if '00072 生態學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00072">生態學名詞</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00008" class="substituted" type="checkbox" name="numbers" value="00008 中央研究院臺灣物種名錄壓縮檔_0_ch_eng,00009 中央研究院臺灣物種名錄壓縮檔_1_ch_eng,00010 中央研究院臺灣物種名錄壓縮檔_2_ch_eng,00011 中央研究院臺灣物種名錄壓縮檔_3_ch_eng,00012 中央研究院臺灣物種名錄壓縮檔_4_ch_eng" {% if '00008 中央研究院臺灣物種名錄壓縮檔_0_ch_eng,00009 中央研究院臺灣物種名錄壓縮檔_1_ch_eng,00010 中央研究院臺灣物種名錄壓縮檔_2_ch_eng,00011 中央研究院臺灣物種名錄壓縮檔_3_ch_eng,00012 中央研究院臺灣物種名錄壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00008">中央研究院臺灣物種名錄</label>
+                    </div>
+                </div>
+                <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00092" class="substituted" type="checkbox" name="numbers" value="00092 林學壓縮檔_0_ch_eng" {% if '00092 林學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00092">林學</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00013" class="substituted" type="checkbox" name="numbers" value="00013 內分泌學名詞壓縮檔_0_ch_eng" {% if '00013 內分泌學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00013">內分泌學名詞</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00006" class="substituted" type="checkbox" name="numbers" value="00006 土壤學名詞壓縮檔_0_ch_eng" {% if '00006 土壤學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00006">土壤學名詞</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00174" class="substituted" type="checkbox" name="numbers" value="00174 魚類壓縮檔_0_ch_eng,00175 魚類壓縮檔_1_ch_eng,00176 魚類壓縮檔_2_ch_eng" {% if '00174 魚類壓縮檔_0_ch_eng,00175 魚類壓縮檔_1_ch_eng,00176 魚類壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00174">魚類</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00151" class="substituted" type="checkbox" name="numbers" value="00151 動物學名詞壓縮檔_0_ch_eng,00152 動物學名詞壓縮檔_1_ch_eng,00153 動物學名詞壓縮檔_2_ch_eng" {% if '00151 動物學名詞壓縮檔_0_ch_eng,00152 動物學名詞壓縮檔_1_ch_eng,00153 動物學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00151">動物學名詞</label>
+                    </div>
+                </div>
+                <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00167" class="substituted" type="checkbox" name="numbers" value="00167 細菌免疫學壓縮檔_0_ch_eng" {% if '00167 細菌免疫學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00167">細菌免疫學</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00108" class="substituted" type="checkbox" name="numbers" value="00108 肥料學壓縮檔_0_ch_eng" {% if '00108 肥料學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00108">肥料學</label>
+                    </div>
+                </div>
+
+
+
+                <br>
+                <div class="text-container">
+                    <p>解剖學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+    
+    
+                <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00001" class="substituted" type="checkbox" name="numbers" value="00001 人體解剖學壓縮檔_0_ch_eng" {% if '00001 人體解剖學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00001">人體解剖學</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00033" class="substituted" type="checkbox" name="numbers" value="00033 比較解剖學壓縮檔_0_ch_eng" {% if '00033 比較解剖學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00033">比較解剖學</label>
+                    </div>
+                </div>
+
+                <br>
+                <div class="text-container">
+                    <p>地球科學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
+                <div class="checkbox-row">
+
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00081" class="substituted" type="checkbox" name="numbers" value="00081 地球科學名詞-海洋壓縮檔_0_ch_eng" {% if '00081 地球科學名詞-海洋壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00081">地球科學名詞-海洋</label>
+                    </div>
+                    
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00082" class="substituted" type="checkbox" name="numbers" value="00082 地球科學名詞壓縮檔_0_ch_eng" {% if '00082 地球科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00082">地球科學名詞</label>
+                    </div>
+
+                
+
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00073" class="substituted" type="checkbox" name="numbers" value="00073 地球科學名詞-大氣壓縮檔_0_ch_eng,00074 地球科學名詞-大氣壓縮檔_1_ch_eng" {% if '00073 地球科學名詞-大氣壓縮檔_0_ch_eng,00074 地球科學名詞-大氣壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00073">地球科學名詞-大氣</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00075" class="substituted" type="checkbox" name="numbers" value="00075 地球科學名詞-天文壓縮檔_0_ch_eng" {% if '00075 地球科學名詞-天文壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00075">地球科學名詞-天文壓縮檔_0</label>
+                    <label for="option00075">地球科學名詞-天文</label>
                 </div>
-                
-                </div>
-                <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00076" class="substituted" type="checkbox" name="numbers" value="00076 地球科學名詞-太空壓縮檔_0_ch_eng" {% if '00076 地球科學名詞-太空壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00076">地球科學名詞-太空壓縮檔_0</label>
+                    <label for="option00076">地球科學名詞-太空</label>
                 </div>
+
+                </div>
+                <div class="checkbox-row">
+
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00077" class="substituted" type="checkbox" name="numbers" value="00077 地球科學名詞-水文壓縮檔_0_ch_eng" {% if '00077 地球科學名詞-水文壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00077">地球科學名詞-水文壓縮檔_0</label>
+                    <label for="option00077">地球科學名詞-水文</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00078" class="substituted" type="checkbox" name="numbers" value="00078 地球科學名詞-地球物理壓縮檔_0_ch_eng" {% if '00078 地球科學名詞-地球物理壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00078">地球科學名詞-地球物理壓縮檔_0</label>
+                    <label for="option00078">地球科學名詞-地球物理</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00079" class="substituted" type="checkbox" name="numbers" value="00079 地球科學名詞-地質壓縮檔_0_ch_eng" {% if '00079 地球科學名詞-地質壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00079">地球科學名詞-地質壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00080" class="substituted" type="checkbox" name="numbers" value="00080 地球科學名詞-地質壓縮檔_1_ch_eng" {% if '00080 地球科學名詞-地質壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00080">地球科學名詞-地質壓縮檔_1</label>
+                    <input id="option00079" class="substituted" type="checkbox" name="numbers" value="00079 地球科學名詞-地質壓縮檔_0_ch_eng,00080 地球科學名詞-地質壓縮檔_1_ch_eng" {% if '00079 地球科學名詞-地質壓縮檔_0_ch_eng,00080 地球科學名詞-地質壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00079">地球科學名詞-地質</label>
                 </div>
                 
                 </div>
+
+                <br>
+                <div class="text-container">
+                    <p>地理學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00081" class="substituted" type="checkbox" name="numbers" value="00081 地球科學名詞-海洋壓縮檔_0_ch_eng" {% if '00081 地球科學名詞-海洋壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00081">地球科學名詞-海洋壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00082" class="substituted" type="checkbox" name="numbers" value="00082 地球科學名詞壓縮檔_0_ch_eng" {% if '00082 地球科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00082">地球科學名詞壓縮檔_0</label>
-                </div>
+
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00083" class="substituted" type="checkbox" name="numbers" value="00083 地理學名詞-測繪學名詞壓縮檔_0_ch_eng" {% if '00083 地理學名詞-測繪學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00083">地理學名詞-測繪學名詞壓縮檔_0</label>
+                    <label for="option00083">地理學名詞-測繪學名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00084" class="substituted" type="checkbox" name="numbers" value="00084 地理學名詞-GIS名詞壓縮檔_0_ch_eng" {% if '00084 地理學名詞-GIS名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00084">地理學名詞-GIS名詞壓縮檔_0</label>
+                    <label for="option00084">地理學名詞-GIS名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00085" class="substituted" type="checkbox" name="numbers" value="00085 地理學名詞壓縮檔_0_ch_eng" {% if '00085 地理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00085">地理學名詞壓縮檔_0</label>
+                    <label for="option00085">地理學名詞</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00086" class="substituted" type="checkbox" name="numbers" value="00086 地質學名詞壓縮檔_0_ch_eng" {% if '00086 地質學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00086">地質學名詞壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00087" class="substituted" type="checkbox" name="numbers" value="00087 地質學名詞壓縮檔_1_ch_eng" {% if '00087 地質學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00087">地質學名詞壓縮檔_1</label>
-                </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00088" class="substituted" type="checkbox" name="numbers" value="00088 地質學名詞壓縮檔_2_ch_eng" {% if '00088 地質學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00088">地質學名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00089" class="substituted" type="checkbox" name="numbers" value="00089 行政學名詞壓縮檔_0_ch_eng" {% if '00089 行政學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00089">行政學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00090" class="substituted" type="checkbox" name="numbers" value="00090 材料科學名詞壓縮檔_0_ch_eng" {% if '00090 材料科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00090">材料科學名詞壓縮檔_0</label>
-                </div>
+
+
                 
                 </div>
+
+                <br>
+                <div class="text-container">
+                    <p>法律學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00091" class="substituted" type="checkbox" name="numbers" value="00091 材料科學名詞壓縮檔_1_ch_eng" {% if '00091 材料科學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00091">材料科學名詞壓縮檔_1</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00092" class="substituted" type="checkbox" name="numbers" value="00092 林學壓縮檔_0_ch_eng" {% if '00092 林學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00092">林學壓縮檔_0</label>
-                </div>
+
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00093" class="substituted" type="checkbox" name="numbers" value="00093 法律學名詞-公法壓縮檔_0_ch_eng" {% if '00093 法律學名詞-公法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00093">法律學名詞-公法壓縮檔_0</label>
+                    <label for="option00093">法律學名詞-公法</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00094" class="substituted" type="checkbox" name="numbers" value="00094 法律學名詞-民法壓縮檔_0_ch_eng" {% if '00094 法律學名詞-民法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00094">法律學名詞-民法壓縮檔_0</label>
+                    <label for="option00094">法律學名詞-民法</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00095" class="substituted" type="checkbox" name="numbers" value="00095 法律學名詞-刑法壓縮檔_0_ch_eng" {% if '00095 法律學名詞-刑法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00095">法律學名詞-刑法壓縮檔_0</label>
+                    <label for="option00095">法律學名詞-刑法</label>
+                </div>
+
+                <div class="checkbox-wrapper-1">
+                    <input id="option00097" class="substituted" type="checkbox" name="numbers" value="00097 法律學名詞-財經法壓縮檔_0_ch_eng" {% if '00097 法律學名詞-財經法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00097">法律學名詞-財經法</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00098" class="substituted" type="checkbox" name="numbers" value="00098 法律學名詞-國際法壓縮檔_0_ch_eng" {% if '00098 法律學名詞-國際法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00098">法律學名詞-國際法</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00096" class="substituted" type="checkbox" name="numbers" value="00096 法律學名詞-性別與家事法壓縮檔_0_ch_eng" {% if '00096 法律學名詞-性別與家事法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00096">法律學名詞-性別與家事法壓縮檔_0</label>
+                    <label for="option00096">法律學名詞-性別與家事法</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00097" class="substituted" type="checkbox" name="numbers" value="00097 法律學名詞-財經法壓縮檔_0_ch_eng" {% if '00097 法律學名詞-財經法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00097">法律學名詞-財經法壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00098" class="substituted" type="checkbox" name="numbers" value="00098 法律學名詞-國際法壓縮檔_0_ch_eng" {% if '00098 法律學名詞-國際法壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00098">法律學名詞-國際法壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00099" class="substituted" type="checkbox" name="numbers" value="00099 物理化學儀器設備名詞壓縮檔_0_ch_eng" {% if '00099 物理化學儀器設備名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00099">物理化學儀器設備名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00100" class="substituted" type="checkbox" name="numbers" value="00100 物理化學儀器設備名詞壓縮檔_1_ch_eng" {% if '00100 物理化學儀器設備名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00100">物理化學儀器設備名詞壓縮檔_1</label>
-                </div>
+
+            
                 
                 </div>
+
+    
+                <br>
+                <div class="text-container">
+                    <p>物理學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00101" class="substituted" type="checkbox" name="numbers" value="00101 物理學名詞-物理相關科學家壓縮檔_0_ch_eng" {% if '00101 物理學名詞-物理相關科學家壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00101">物理學名詞-物理相關科學家壓縮檔_0</label>
+                    <label for="option00101">物理學名詞-物理相關科學家</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00102" class="substituted" type="checkbox" name="numbers" value="00102 物理學名詞-聲學壓縮檔_0_ch_eng" {% if '00102 物理學名詞-聲學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00102">物理學名詞-聲學壓縮檔_0</label>
+                    <label for="option00102">物理學名詞-聲學</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00103" class="substituted" type="checkbox" name="numbers" value="00103 物理學名詞壓縮檔_0_ch_eng" {% if '00103 物理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00103">物理學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00104" class="substituted" type="checkbox" name="numbers" value="00104 物理學名詞壓縮檔_1_ch_eng" {% if '00104 物理學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00104">物理學名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00105" class="substituted" type="checkbox" name="numbers" value="00105 物理學名詞壓縮檔_2_ch_eng" {% if '00105 物理學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00105">物理學名詞壓縮檔_2</label>
+                    <input id="option00103" class="substituted" type="checkbox" name="numbers" value="00103 物理學名詞壓縮檔_0_ch_eng,00104 物理學名詞壓縮檔_1_ch_eng,00105 物理學名詞壓縮檔_2_ch_eng" {% if '00103 物理學名詞壓縮檔_0_ch_eng,00104 物理學名詞壓縮檔_1_ch_eng,00105 物理學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00103">物理學名詞</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00106" class="substituted" type="checkbox" name="numbers" value="00106 社會工作與福利名詞壓縮檔_0_ch_eng" {% if '00106 社會工作與福利名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00106">社會工作與福利名詞壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00107" class="substituted" type="checkbox" name="numbers" value="00107 社會學名詞壓縮檔_0_ch_eng" {% if '00107 社會學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00107">社會學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00108" class="substituted" type="checkbox" name="numbers" value="00108 肥料學壓縮檔_0_ch_eng" {% if '00108 肥料學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00108">肥料學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00109" class="substituted" type="checkbox" name="numbers" value="00109 計量學名詞壓縮檔_0_ch_eng" {% if '00109 計量學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00109">計量學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00110" class="substituted" type="checkbox" name="numbers" value="00110 計量學名詞壓縮檔_1_ch_eng" {% if '00110 計量學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00110">計量學名詞壓縮檔_1</label>
-                </div>
+
                 
                 </div>
+
+                <br>
+                <div class="text-container">
+                    <p>音樂</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00111" class="substituted" type="checkbox" name="numbers" value="00111 計量學名詞壓縮檔_2_ch_eng" {% if '00111 計量學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00111">計量學名詞壓縮檔_2</label>
-                </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00112" class="substituted" type="checkbox" name="numbers" value="00112 音樂名詞-流行音樂專有名詞音響類壓縮檔_0_ch_eng" {% if '00112 音樂名詞-流行音樂專有名詞音響類壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00112">音樂名詞-流行音樂專有名詞音響類壓縮檔_0</label>
+                    <label for="option00112">音樂名詞-流行音樂專有名詞音響類</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00113" class="substituted" type="checkbox" name="numbers" value="00113 音樂名詞-流行音樂樂團名壓縮檔_0_ch_eng" {% if '00113 音樂名詞-流行音樂樂團名壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00113">音樂名詞-流行音樂樂團名壓縮檔_0</label>
+                    <label for="option00113">音樂名詞-流行音樂樂團名</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00114" class="substituted" type="checkbox" name="numbers" value="00114 音樂名詞-音樂家壓縮檔_0_ch_eng" {% if '00114 音樂名詞-音樂家壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00114">音樂名詞-音樂家壓縮檔_0</label>
+                    <label for="option00114">音樂名詞-音樂家</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00115" class="substituted" type="checkbox" name="numbers" value="00115 音樂名詞-音樂歌劇譯名壓縮檔_0_ch_eng" {% if '00115 音樂名詞-音樂歌劇譯名壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00115">音樂名詞-音樂歌劇譯名壓縮檔_0</label>
+                    <label for="option00115">音樂名詞-音樂歌劇譯名</label>
                 </div>
-                
-                </div>
-                <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00116" class="substituted" type="checkbox" name="numbers" value="00116 音樂名詞-樂器名壓縮檔_0_ch_eng" {% if '00116 音樂名詞-樂器名壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00116">音樂名詞-樂器名壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00117" class="substituted" type="checkbox" name="numbers" value="00117 音樂名詞壓縮檔_0_ch_eng" {% if '00117 音樂名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00117">音樂名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00118" class="substituted" type="checkbox" name="numbers" value="00118 音樂名詞壓縮檔_1_ch_eng" {% if '00118 音樂名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00118">音樂名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00119" class="substituted" type="checkbox" name="numbers" value="00119 食品科技壓縮檔_0_ch_eng" {% if '00119 食品科技壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00119">食品科技壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00120" class="substituted" type="checkbox" name="numbers" value="00120 食品科技壓縮檔_1_ch_eng" {% if '00120 食品科技壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00120">食品科技壓縮檔_1</label>
+                    <label for="option00116">音樂名詞-樂器名</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00121" class="substituted" type="checkbox" name="numbers" value="00121 食品科技壓縮檔_2_ch_eng" {% if '00121 食品科技壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00121">食品科技壓縮檔_2</label>
-                </div>
+
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00122" class="substituted" type="checkbox" name="numbers" value="00122 核能名詞壓縮檔_0_ch_eng" {% if '00122 核能名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00122">核能名詞壓縮檔_0</label>
+                    <input id="option00117" class="substituted" type="checkbox" name="numbers" value="00117 音樂名詞壓縮檔_0_ch_eng,00118 音樂名詞壓縮檔_1_ch_eng" {% if '00117 音樂名詞壓縮檔_0_ch_eng,00118 音樂名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00117">音樂名詞</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00123" class="substituted" type="checkbox" name="numbers" value="00123 核能名詞壓縮檔_1_ch_eng" {% if '00123 核能名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00123">核能名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00124" class="substituted" type="checkbox" name="numbers" value="00124 核能名詞壓縮檔_2_ch_eng" {% if '00124 核能名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00124">核能名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00125" class="substituted" type="checkbox" name="numbers" value="00125 氣象學名詞壓縮檔_0_ch_eng" {% if '00125 氣象學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00125">氣象學名詞壓縮檔_0</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00126" class="substituted" type="checkbox" name="numbers" value="00126 氣象學名詞壓縮檔_1_ch_eng" {% if '00126 氣象學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00126">氣象學名詞壓縮檔_1</label>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00127" class="substituted" type="checkbox" name="numbers" value="00127 海事壓縮檔_0_ch_eng" {% if '00127 海事壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00127">海事壓縮檔_0</label>
+
+                <br>
+                <div class="text-container">
+                    <p>海洋相關</p>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00128" class="substituted" type="checkbox" name="numbers" value="00128 海事壓縮檔_1_ch_eng" {% if '00128 海事壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00128">海事壓縮檔_1</label>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00129" class="substituted" type="checkbox" name="numbers" value="00129 海事壓縮檔_2_ch_eng" {% if '00129 海事壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00129">海事壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00130" class="substituted" type="checkbox" name="numbers" value="00130 海事壓縮檔_3_ch_eng" {% if '00130 海事壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00130">海事壓縮檔_3</label>
-                </div>
-                
-                </div>
+
+
                 <div class="checkbox-row">
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00127" class="substituted" type="checkbox" name="numbers" value="00127 海事壓縮檔_0_ch_eng,00128 海事壓縮檔_1_ch_eng,00129 海事壓縮檔_2_ch_eng,00130 海事壓縮檔_3_ch_eng" {% if '00127 海事壓縮檔_0_ch_eng,00128 海事壓縮檔_1_ch_eng,00129 海事壓縮檔_2_ch_eng,00130 海事壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00127">海事</label>
+                    </div>
                 <div class="checkbox-wrapper-1">
-                    <input id="option00131" class="substituted" type="checkbox" name="numbers" value="00131 海洋地質學壓縮檔_0_ch_eng" {% if '00131 海洋地質學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00131">海洋地質學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00132" class="substituted" type="checkbox" name="numbers" value="00132 海洋地質學壓縮檔_1_ch_eng" {% if '00132 海洋地質學壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00132">海洋地質學壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00133" class="substituted" type="checkbox" name="numbers" value="00133 海洋地質學壓縮檔_2_ch_eng" {% if '00133 海洋地質學壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00133">海洋地質學壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00134" class="substituted" type="checkbox" name="numbers" value="00134 海洋地質學壓縮檔_3_ch_eng" {% if '00134 海洋地質學壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00134">海洋地質學壓縮檔_3</label>
+                    <input id="option00131" class="substituted" type="checkbox" name="numbers" value="00131 海洋地質學壓縮檔_0_ch_eng,00132 海洋地質學壓縮檔_1_ch_eng,00133 海洋地質學壓縮檔_2_ch_eng,00134 海洋地質學壓縮檔_3_ch_eng" {% if '00131 海洋地質學壓縮檔_0_ch_eng,00132 海洋地質學壓縮檔_1_ch_eng,00133 海洋地質學壓縮檔_2_ch_eng,00134 海洋地質學壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00131">海洋地質學</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00135" class="substituted" type="checkbox" name="numbers" value="00135 海洋科技名詞-水下工程壓縮檔_0_ch_eng" {% if '00135 海洋科技名詞-水下工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00135">海洋科技名詞-水下工程壓縮檔_0</label>
+                    <label for="option00135">海洋科技名詞-水下工程</label>
                 </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00136" class="substituted" type="checkbox" name="numbers" value="00136 海洋科技名詞-造船工程壓縮檔_0_ch_eng,00137 海洋科技名詞-造船工程壓縮檔_1_ch_eng,00138 海洋科技名詞-造船工程壓縮檔_2_ch_eng" {% if '00136 海洋科技名詞-造船工程壓縮檔_0_ch_eng,00137 海洋科技名詞-造船工程壓縮檔_1_ch_eng,00138 海洋科技名詞-造船工程壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00136">海洋科技名詞-造船工程</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00171" class="substituted" type="checkbox" name="numbers" value="00171 造船工程名詞壓縮檔_0_ch_eng,00172 造船工程名詞壓縮檔_1_ch_eng,00173 造船工程名詞壓縮檔_2_ch_eng" {% if '00171 造船工程名詞壓縮檔_0_ch_eng,00172 造船工程名詞壓縮檔_1_ch_eng,00173 造船工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00171">造船工程名詞</label>
+                </div>    
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00136" class="substituted" type="checkbox" name="numbers" value="00136 海洋科技名詞-造船工程壓縮檔_0_ch_eng" {% if '00136 海洋科技名詞-造船工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00136">海洋科技名詞-造船工程壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00137" class="substituted" type="checkbox" name="numbers" value="00137 海洋科技名詞-造船工程壓縮檔_1_ch_eng" {% if '00137 海洋科技名詞-造船工程壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00137">海洋科技名詞-造船工程壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00138" class="substituted" type="checkbox" name="numbers" value="00138 海洋科技名詞-造船工程壓縮檔_2_ch_eng" {% if '00138 海洋科技名詞-造船工程壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00138">海洋科技名詞-造船工程壓縮檔_2</label>
-                </div>
+            
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00139" class="substituted" type="checkbox" name="numbers" value="00139 海洋科學名詞-近岸工程壓縮檔_0_ch_eng" {% if '00139 海洋科學名詞-近岸工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00139">海洋科學名詞-近岸工程壓縮檔_0</label>
+                    <label for="option00139">海洋科學名詞-近岸工程</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00140" class="substituted" type="checkbox" name="numbers" value="00140 海洋科學名詞-離岸工程壓縮檔_0_ch_eng" {% if '00140 海洋科學名詞-離岸工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00140">海洋科學名詞-離岸工程壓縮檔_0</label>
+                    <label for="option00140">海洋科學名詞-離岸工程</label>
                 </div>
-                
-                </div>
-                <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00141" class="substituted" type="checkbox" name="numbers" value="00141 海洋科學名詞壓縮檔_0_ch_eng" {% if '00141 海洋科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00141">海洋科學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00142" class="substituted" type="checkbox" name="numbers" value="00142 畜牧學壓縮檔_0_ch_eng" {% if '00142 畜牧學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00142">畜牧學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00143" class="substituted" type="checkbox" name="numbers" value="00143 畜牧學壓縮檔_1_ch_eng" {% if '00143 畜牧學壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00143">畜牧學壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00144" class="substituted" type="checkbox" name="numbers" value="00144 病理學名詞壓縮檔_0_ch_eng" {% if '00144 病理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00144">病理學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00145" class="substituted" type="checkbox" name="numbers" value="00145 紡織科技壓縮檔_0_ch_eng" {% if '00145 紡織科技壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00145">紡織科技壓縮檔_0</label>
+                    <label for="option00141">海洋科學名詞</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00146" class="substituted" type="checkbox" name="numbers" value="00146 紡織科技壓縮檔_1_ch_eng" {% if '00146 紡織科技壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00146">紡織科技壓縮檔_1</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00147" class="substituted" type="checkbox" name="numbers" value="00147 紡織科技壓縮檔_2_ch_eng" {% if '00147 紡織科技壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00147">紡織科技壓縮檔_2</label>
-                </div>
+           
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00148" class="substituted" type="checkbox" name="numbers" value="00148 航空太空名詞壓縮檔_0_ch_eng" {% if '00148 航空太空名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00148">航空太空名詞壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00149" class="substituted" type="checkbox" name="numbers" value="00149 航空太空名詞壓縮檔_1_ch_eng" {% if '00149 航空太空名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00149">航空太空名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00150" class="substituted" type="checkbox" name="numbers" value="00150 航空太空名詞壓縮檔_2_ch_eng" {% if '00150 航空太空名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00150">航空太空名詞壓縮檔_2</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00151" class="substituted" type="checkbox" name="numbers" value="00151 動物學名詞壓縮檔_0_ch_eng" {% if '00151 動物學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00151">動物學名詞壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00152" class="substituted" type="checkbox" name="numbers" value="00152 動物學名詞壓縮檔_1_ch_eng" {% if '00152 動物學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00152">動物學名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00153" class="substituted" type="checkbox" name="numbers" value="00153 動物學名詞壓縮檔_2_ch_eng" {% if '00153 動物學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00153">動物學名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00154" class="substituted" type="checkbox" name="numbers" value="00154 國防部新編國軍簡明美華軍語辭典壓縮檔_0_ch_eng" {% if '00154 國防部新編國軍簡明美華軍語辭典壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00154">國防部新編國軍簡明美華軍語辭典壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00155" class="substituted" type="checkbox" name="numbers" value="00155 國防部新編國軍簡明美華軍語辭典壓縮檔_1_ch_eng" {% if '00155 國防部新編國軍簡明美華軍語辭典壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00155">國防部新編國軍簡明美華軍語辭典壓縮檔_1</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00156" class="substituted" type="checkbox" name="numbers" value="00156 國防部新編國軍簡明美華軍語辭典壓縮檔_2_ch_eng" {% if '00156 國防部新編國軍簡明美華軍語辭典壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00156">國防部新編國軍簡明美華軍語辭典壓縮檔_2</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00157" class="substituted" type="checkbox" name="numbers" value="00157 國防部新編國軍簡明美華軍語辭典壓縮檔_3_ch_eng" {% if '00157 國防部新編國軍簡明美華軍語辭典壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00157">國防部新編國軍簡明美華軍語辭典壓縮檔_3</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00158" class="substituted" type="checkbox" name="numbers" value="00158 國防部新編國軍簡明美華軍語辭典壓縮檔_4_ch_eng" {% if '00158 國防部新編國軍簡明美華軍語辭典壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00158">國防部新編國軍簡明美華軍語辭典壓縮檔_4</label>
-                </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00159" class="substituted" type="checkbox" name="numbers" value="00159 國防部新編國軍簡明美華軍語辭典壓縮檔_5_ch_eng" {% if '00159 國防部新編國軍簡明美華軍語辭典壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00159">國防部新編國軍簡明美華軍語辭典壓縮檔_5</label>
                 </div>
-                
+
+                <br>
+                <div class="text-container">
+                    <p>教育學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
+                <div class="checkbox-row">
+
                 <div class="checkbox-wrapper-1">
                     <input id="option00160" class="substituted" type="checkbox" name="numbers" value="00160 教育學名詞-幼教名詞壓縮檔_0_ch_eng" {% if '00160 教育學名詞-幼教名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00160">教育學名詞-幼教名詞壓縮檔_0</label>
+                    <label for="option00160">教育學名詞-幼教名詞</label>
                 </div>
-                
-                </div>
-                <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00161" class="substituted" type="checkbox" name="numbers" value="00161 教育學名詞-科教名詞壓縮檔_0_ch_eng" {% if '00161 教育學名詞-科教名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00161">教育學名詞-科教名詞壓縮檔_0</label>
+                    <label for="option00161">教育學名詞-科教名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00162" class="substituted" type="checkbox" name="numbers" value="00162 教育學名詞-特教名詞壓縮檔_0_ch_eng" {% if '00162 教育學名詞-特教名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00162">教育學名詞-特教名詞壓縮檔_0</label>
+                    <label for="option00162">教育學名詞-特教名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00163" class="substituted" type="checkbox" name="numbers" value="00163 教育學名詞-教社名詞壓縮檔_0_ch_eng" {% if '00163 教育學名詞-教社名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00163">教育學名詞-教社名詞壓縮檔_0</label>
+                    <label for="option00163">教育學名詞-教社名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00164" class="substituted" type="checkbox" name="numbers" value="00164 教育學名詞-體育名詞壓縮檔_0_ch_eng" {% if '00164 教育學名詞-體育名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00164">教育學名詞-體育名詞壓縮檔_0</label>
+                    <label for="option00164">教育學名詞-體育名詞</label>
                 </div>
+                
+                </div>
+                <div class="checkbox-row">
+
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00165" class="substituted" type="checkbox" name="numbers" value="00165 教育學壓縮檔_0_ch_eng" {% if '00165 教育學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00165">教育學壓縮檔_0</label>
+                    <label for="option00165">教育學</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00166" class="substituted" type="checkbox" name="numbers" value="00166 視覺藝術名詞壓縮檔_0_ch_eng" {% if '00166 視覺藝術名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00166">視覺藝術名詞壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00167" class="substituted" type="checkbox" name="numbers" value="00167 細菌免疫學壓縮檔_0_ch_eng" {% if '00167 細菌免疫學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00167">細菌免疫學壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00168" class="substituted" type="checkbox" name="numbers" value="00168 設計學壓縮檔_0_ch_eng" {% if '00168 設計學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00168">設計學壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00169" class="substituted" type="checkbox" name="numbers" value="00169 通訊工程壓縮檔_0_ch_eng" {% if '00169 通訊工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00169">通訊工程壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00170" class="substituted" type="checkbox" name="numbers" value="00170 通訊工程壓縮檔_1_ch_eng" {% if '00170 通訊工程壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00170">通訊工程壓縮檔_1</label>
-                </div>
+           
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00171" class="substituted" type="checkbox" name="numbers" value="00171 造船工程名詞壓縮檔_0_ch_eng" {% if '00171 造船工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00171">造船工程名詞壓縮檔_0</label>
-                </div>
+        
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00172" class="substituted" type="checkbox" name="numbers" value="00172 造船工程名詞壓縮檔_1_ch_eng" {% if '00172 造船工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00172">造船工程名詞壓縮檔_1</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00173" class="substituted" type="checkbox" name="numbers" value="00173 造船工程名詞壓縮檔_2_ch_eng" {% if '00173 造船工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00173">造船工程名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00174" class="substituted" type="checkbox" name="numbers" value="00174 魚類壓縮檔_0_ch_eng" {% if '00174 魚類壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00174">魚類壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00175" class="substituted" type="checkbox" name="numbers" value="00175 魚類壓縮檔_1_ch_eng" {% if '00175 魚類壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00175">魚類壓縮檔_1</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00176" class="substituted" type="checkbox" name="numbers" value="00176 魚類壓縮檔_2_ch_eng" {% if '00176 魚類壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00176">魚類壓縮檔_2</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00177" class="substituted" type="checkbox" name="numbers" value="00177 測量學壓縮檔_0_ch_eng" {% if '00177 測量學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00177">測量學壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00178" class="substituted" type="checkbox" name="numbers" value="00178 測量學壓縮檔_1_ch_eng" {% if '00178 測量學壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00178">測量學壓縮檔_1</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00179" class="substituted" type="checkbox" name="numbers" value="00179 發生學壓縮檔_0_ch_eng" {% if '00179 發生學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00179">發生學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00180" class="substituted" type="checkbox" name="numbers" value="00180 統計學名詞壓縮檔_0_ch_eng" {% if '00180 統計學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00180">統計學名詞壓縮檔_0</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00181" class="substituted" type="checkbox" name="numbers" value="00181 統計學名詞壓縮檔_1_ch_eng" {% if '00181 統計學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00181">統計學名詞壓縮檔_1</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00182" class="substituted" type="checkbox" name="numbers" value="00182 新聞傳播學名詞壓縮檔_0_ch_eng" {% if '00182 新聞傳播學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00182">新聞傳播學名詞壓縮檔_0</label>
-                </div>
+
+                                
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00183" class="substituted" type="checkbox" name="numbers" value="00183 新聞傳播學名詞壓縮檔_1_ch_eng" {% if '00183 新聞傳播學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00183">新聞傳播學名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00184" class="substituted" type="checkbox" name="numbers" value="00184 會計學壓縮檔_0_ch_eng" {% if '00184 會計學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00184">會計學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00185" class="substituted" type="checkbox" name="numbers" value="00185 經濟學壓縮檔_0_ch_eng" {% if '00185 經濟學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00185">經濟學壓縮檔_0</label>
-                </div>
+
                 
                 </div>
+
+
+                <br>
+                <div class="text-container">
+                    <p>農業</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00186" class="substituted" type="checkbox" name="numbers" value="00186 農業推廣學壓縮檔_0_ch_eng" {% if '00186 農業推廣學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00186">農業推廣學壓縮檔_0</label>
+                    <label for="option00186">農業推廣學</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00187" class="substituted" type="checkbox" name="numbers" value="00187 農業機械名詞壓縮檔_0_ch_eng" {% if '00187 農業機械名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00187">農業機械名詞壓縮檔_0</label>
+                    <label for="option00187">農業機械名詞</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00188" class="substituted" type="checkbox" name="numbers" value="00188 電力工程壓縮檔_0_ch_eng" {% if '00188 電力工程壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00188">電力工程壓縮檔_0</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00189" class="substituted" type="checkbox" name="numbers" value="00189 電力工程壓縮檔_1_ch_eng" {% if '00189 電力工程壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00189">電力工程壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00190" class="substituted" type="checkbox" name="numbers" value="00190 電力工程壓縮檔_2_ch_eng" {% if '00190 電力工程壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00190">電力工程壓縮檔_2</label>
-                </div>
+
                 
                 </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00191" class="substituted" type="checkbox" name="numbers" value="00191 電力工程壓縮檔_3_ch_eng" {% if '00191 電力工程壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00191">電力工程壓縮檔_3</label>
+
+
+                <br>
+                <div class="text-container">
+                    <p>醫學</p>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00192" class="substituted" type="checkbox" name="numbers" value="00192 電力工程壓縮檔_4_ch_eng" {% if '00192 電力工程壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00192">電力工程壓縮檔_4</label>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00193" class="substituted" type="checkbox" name="numbers" value="00193 電力工程壓縮檔_5_ch_eng" {% if '00193 電力工程壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00193">電力工程壓縮檔_5</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00194" class="substituted" type="checkbox" name="numbers" value="00194 電力工程壓縮檔_6_ch_eng" {% if '00194 電力工程壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00194">電力工程壓縮檔_6</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00195" class="substituted" type="checkbox" name="numbers" value="00195 電子工程名詞壓縮檔_0_ch_eng" {% if '00195 電子工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00195">電子工程名詞壓縮檔_0</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00196" class="substituted" type="checkbox" name="numbers" value="00196 電子工程名詞壓縮檔_1_ch_eng" {% if '00196 電子工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00196">電子工程名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00197" class="substituted" type="checkbox" name="numbers" value="00197 電子工程名詞壓縮檔_2_ch_eng" {% if '00197 電子工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00197">電子工程名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00198" class="substituted" type="checkbox" name="numbers" value="00198 電子工程名詞壓縮檔_3_ch_eng" {% if '00198 電子工程名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00198">電子工程名詞壓縮檔_3</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00199" class="substituted" type="checkbox" name="numbers" value="00199 電子工程名詞壓縮檔_4_ch_eng" {% if '00199 電子工程名詞壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00199">電子工程名詞壓縮檔_4</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00200" class="substituted" type="checkbox" name="numbers" value="00200 電子工程名詞壓縮檔_5_ch_eng" {% if '00200 電子工程名詞壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00200">電子工程名詞壓縮檔_5</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00201" class="substituted" type="checkbox" name="numbers" value="00201 電子工程名詞壓縮檔_6_ch_eng" {% if '00201 電子工程名詞壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00201">電子工程名詞壓縮檔_6</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00202" class="substituted" type="checkbox" name="numbers" value="00202 電子工程名詞壓縮檔_7_ch_eng" {% if '00202 電子工程名詞壓縮檔_7_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00202">電子工程名詞壓縮檔_7</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00203" class="substituted" type="checkbox" name="numbers" value="00203 電子工程名詞壓縮檔_8_ch_eng" {% if '00203 電子工程名詞壓縮檔_8_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00203">電子工程名詞壓縮檔_8</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00204" class="substituted" type="checkbox" name="numbers" value="00204 電子工程名詞壓縮檔_9_ch_eng" {% if '00204 電子工程名詞壓縮檔_9_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00204">電子工程名詞壓縮檔_9</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00205" class="substituted" type="checkbox" name="numbers" value="00205 電子工程名詞壓縮檔_10_ch_eng" {% if '00205 電子工程名詞壓縮檔_10_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00205">電子工程名詞壓縮檔_10</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00206" class="substituted" type="checkbox" name="numbers" value="00206 電子工程名詞壓縮檔_11_ch_eng" {% if '00206 電子工程名詞壓縮檔_11_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00206">電子工程名詞壓縮檔_11</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00207" class="substituted" type="checkbox" name="numbers" value="00207 電子計算機名詞壓縮檔_0_ch_eng" {% if '00207 電子計算機名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00207">電子計算機名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00208" class="substituted" type="checkbox" name="numbers" value="00208 電子計算機名詞壓縮檔_1_ch_eng" {% if '00208 電子計算機名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00208">電子計算機名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00209" class="substituted" type="checkbox" name="numbers" value="00209 電子計算機名詞壓縮檔_2_ch_eng" {% if '00209 電子計算機名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00209">電子計算機名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00210" class="substituted" type="checkbox" name="numbers" value="00210 電子計算機名詞壓縮檔_3_ch_eng" {% if '00210 電子計算機名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00210">電子計算機名詞壓縮檔_3</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00211" class="substituted" type="checkbox" name="numbers" value="00211 電子計算機名詞壓縮檔_4_ch_eng" {% if '00211 電子計算機名詞壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00211">電子計算機名詞壓縮檔_4</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00212" class="substituted" type="checkbox" name="numbers" value="00212 電子計算機名詞壓縮檔_5_ch_eng" {% if '00212 電子計算機名詞壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00212">電子計算機名詞壓縮檔_5</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00213" class="substituted" type="checkbox" name="numbers" value="00213 電子計算機名詞壓縮檔_6_ch_eng" {% if '00213 電子計算機名詞壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00213">電子計算機名詞壓縮檔_6</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00214" class="substituted" type="checkbox" name="numbers" value="00214 電子計算機名詞壓縮檔_7_ch_eng" {% if '00214 電子計算機名詞壓縮檔_7_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00214">電子計算機名詞壓縮檔_7</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00215" class="substituted" type="checkbox" name="numbers" value="00215 電子計算機名詞壓縮檔_8_ch_eng" {% if '00215 電子計算機名詞壓縮檔_8_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00215">電子計算機名詞壓縮檔_8</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00216" class="substituted" type="checkbox" name="numbers" value="00216 電子計算機名詞壓縮檔_9_ch_eng" {% if '00216 電子計算機名詞壓縮檔_9_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00216">電子計算機名詞壓縮檔_9</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00217" class="substituted" type="checkbox" name="numbers" value="00217 電子計算機名詞壓縮檔_10_ch_eng" {% if '00217 電子計算機名詞壓縮檔_10_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00217">電子計算機名詞壓縮檔_10</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00218" class="substituted" type="checkbox" name="numbers" value="00218 電子計算機名詞壓縮檔_11_ch_eng" {% if '00218 電子計算機名詞壓縮檔_11_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00218">電子計算機名詞壓縮檔_11</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00219" class="substituted" type="checkbox" name="numbers" value="00219 電子計算機名詞壓縮檔_12_ch_eng" {% if '00219 電子計算機名詞壓縮檔_12_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00219">電子計算機名詞壓縮檔_12</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00220" class="substituted" type="checkbox" name="numbers" value="00220 電子計算機名詞壓縮檔_13_ch_eng" {% if '00220 電子計算機名詞壓縮檔_13_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00220">電子計算機名詞壓縮檔_13</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00221" class="substituted" type="checkbox" name="numbers" value="00221 電機工程名詞壓縮檔_0_ch_eng" {% if '00221 電機工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00221">電機工程名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00222" class="substituted" type="checkbox" name="numbers" value="00222 電機工程名詞壓縮檔_1_ch_eng" {% if '00222 電機工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00222">電機工程名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00223" class="substituted" type="checkbox" name="numbers" value="00223 電機工程名詞壓縮檔_2_ch_eng" {% if '00223 電機工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00223">電機工程名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00224" class="substituted" type="checkbox" name="numbers" value="00224 電機工程名詞壓縮檔_3_ch_eng" {% if '00224 電機工程名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00224">電機工程名詞壓縮檔_3</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00225" class="substituted" type="checkbox" name="numbers" value="00225 電機工程名詞壓縮檔_4_ch_eng" {% if '00225 電機工程名詞壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00225">電機工程名詞壓縮檔_4</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00226" class="substituted" type="checkbox" name="numbers" value="00226 電機工程名詞壓縮檔_5_ch_eng" {% if '00226 電機工程名詞壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00226">電機工程名詞壓縮檔_5</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00227" class="substituted" type="checkbox" name="numbers" value="00227 電機工程名詞壓縮檔_6_ch_eng" {% if '00227 電機工程名詞壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00227">電機工程名詞壓縮檔_6</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00228" class="substituted" type="checkbox" name="numbers" value="00228 電機工程名詞壓縮檔_7_ch_eng" {% if '00228 電機工程名詞壓縮檔_7_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00228">電機工程名詞壓縮檔_7</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00229" class="substituted" type="checkbox" name="numbers" value="00229 電機工程名詞壓縮檔_8_ch_eng" {% if '00229 電機工程名詞壓縮檔_8_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00229">電機工程名詞壓縮檔_8</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00230" class="substituted" type="checkbox" name="numbers" value="00230 電機工程名詞壓縮檔_9_ch_eng" {% if '00230 電機工程名詞壓縮檔_9_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00230">電機工程名詞壓縮檔_9</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00231" class="substituted" type="checkbox" name="numbers" value="00231 電機工程名詞壓縮檔_10_ch_eng" {% if '00231 電機工程名詞壓縮檔_10_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00231">電機工程名詞壓縮檔_10</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00232" class="substituted" type="checkbox" name="numbers" value="00232 電機工程名詞壓縮檔_11_ch_eng" {% if '00232 電機工程名詞壓縮檔_11_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00232">電機工程名詞壓縮檔_11</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00233" class="substituted" type="checkbox" name="numbers" value="00233 電機工程名詞壓縮檔_12_ch_eng" {% if '00233 電機工程名詞壓縮檔_12_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00233">電機工程名詞壓縮檔_12</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00234" class="substituted" type="checkbox" name="numbers" value="00234 電機工程名詞壓縮檔_13_ch_eng" {% if '00234 電機工程名詞壓縮檔_13_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00234">電機工程名詞壓縮檔_13</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00235" class="substituted" type="checkbox" name="numbers" value="00235 電機工程名詞壓縮檔_14_ch_eng" {% if '00235 電機工程名詞壓縮檔_14_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00235">電機工程名詞壓縮檔_14</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00236" class="substituted" type="checkbox" name="numbers" value="00236 電機工程名詞壓縮檔_15_ch_eng" {% if '00236 電機工程名詞壓縮檔_15_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00236">電機工程名詞壓縮檔_15</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00237" class="substituted" type="checkbox" name="numbers" value="00237 電機工程名詞壓縮檔_16_ch_eng" {% if '00237 電機工程名詞壓縮檔_16_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00237">電機工程名詞壓縮檔_16</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00238" class="substituted" type="checkbox" name="numbers" value="00238 電機工程名詞壓縮檔_17_ch_eng" {% if '00238 電機工程名詞壓縮檔_17_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00238">電機工程名詞壓縮檔_17</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00239" class="substituted" type="checkbox" name="numbers" value="00239 電機工程名詞壓縮檔_18_ch_eng" {% if '00239 電機工程名詞壓縮檔_18_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00239">電機工程名詞壓縮檔_18</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00240" class="substituted" type="checkbox" name="numbers" value="00240 圖書館學與資訊科學名詞壓縮檔_0_ch_eng" {% if '00240 圖書館學與資訊科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00240">圖書館學與資訊科學名詞壓縮檔_0</label>
-                </div>
-                
-                </div>
+
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00241" class="substituted" type="checkbox" name="numbers" value="00241 實驗動物及比較醫學名詞壓縮檔_0_ch_eng" {% if '00241 實驗動物及比較醫學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00241">實驗動物及比較醫學名詞壓縮檔_0</label>
+                    <label for="option00241">實驗動物及比較醫學名詞</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00242" class="substituted" type="checkbox" name="numbers" value="00242 管理學名詞-會計學壓縮檔_0_ch_eng" {% if '00242 管理學名詞-會計學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00242">管理學名詞-會計學壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00243" class="substituted" type="checkbox" name="numbers" value="00243 管理學名詞壓縮檔_0_ch_eng" {% if '00243 管理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00243">管理學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00244" class="substituted" type="checkbox" name="numbers" value="00244 管理學名詞壓縮檔_1_ch_eng" {% if '00244 管理學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00244">管理學名詞壓縮檔_1</label>
-                </div>
+        
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00245" class="substituted" type="checkbox" name="numbers" value="00245 精神病理學壓縮檔_0_ch_eng" {% if '00245 精神病理學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00245">精神病理學壓縮檔_0</label>
+                    <label for="option00245">精神病理學</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00144" class="substituted" type="checkbox" name="numbers" value="00144 病理學名詞壓縮檔_0_ch_eng" {% if '00144 病理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00144">病理學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
+                    <input id="option00272" class="substituted" type="checkbox" name="numbers" value="00272 獸醫學壓縮檔_0_ch_eng,00273 獸醫學壓縮檔_1_ch_eng,00274 獸醫學壓縮檔_2_ch_eng" {% if '00272 獸醫學壓縮檔_0_ch_eng,00273 獸醫學壓縮檔_1_ch_eng,00274 獸醫學壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00272">獸醫學</label>
+                </div>            
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00275" class="substituted" type="checkbox" name="numbers" value="00275 藥學壓縮檔_0_ch_eng" {% if '00275 藥學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00275">藥學</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00246" class="substituted" type="checkbox" name="numbers" value="00246 舞蹈名詞壓縮檔_0_ch_eng" {% if '00246 舞蹈名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00246">舞蹈名詞壓縮檔_0</label>
-                </div>
+         
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00247" class="substituted" type="checkbox" name="numbers" value="00247 舞蹈名詞壓縮檔_1_ch_eng" {% if '00247 舞蹈名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00247">舞蹈名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00248" class="substituted" type="checkbox" name="numbers" value="00248 數學名詞壓縮檔_0_ch_eng" {% if '00248 數學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00248">數學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00249" class="substituted" type="checkbox" name="numbers" value="00249 數學名詞壓縮檔_1_ch_eng" {% if '00249 數學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00249">數學名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00250" class="substituted" type="checkbox" name="numbers" value="00250 機械工程名詞壓縮檔_0_ch_eng" {% if '00250 機械工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00250">機械工程名詞壓縮檔_0</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00251" class="substituted" type="checkbox" name="numbers" value="00251 機械工程名詞壓縮檔_1_ch_eng" {% if '00251 機械工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00251">機械工程名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00252" class="substituted" type="checkbox" name="numbers" value="00252 機械工程名詞壓縮檔_2_ch_eng" {% if '00252 機械工程名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00252">機械工程名詞壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00253" class="substituted" type="checkbox" name="numbers" value="00253 機械工程名詞壓縮檔_3_ch_eng" {% if '00253 機械工程名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00253">機械工程名詞壓縮檔_3</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00254" class="substituted" type="checkbox" name="numbers" value="00254 機械工程名詞壓縮檔_4_ch_eng" {% if '00254 機械工程名詞壓縮檔_4_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00254">機械工程名詞壓縮檔_4</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00255" class="substituted" type="checkbox" name="numbers" value="00255 機械工程名詞壓縮檔_5_ch_eng" {% if '00255 機械工程名詞壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00255">機械工程名詞壓縮檔_5</label>
-                </div>
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00256" class="substituted" type="checkbox" name="numbers" value="00256 機械工程名詞壓縮檔_6_ch_eng" {% if '00256 機械工程名詞壓縮檔_6_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00256">機械工程名詞壓縮檔_6</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00257" class="substituted" type="checkbox" name="numbers" value="00257 機械工程名詞壓縮檔_7_ch_eng" {% if '00257 機械工程名詞壓縮檔_7_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00257">機械工程名詞壓縮檔_7</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00258" class="substituted" type="checkbox" name="numbers" value="00258 機械工程名詞壓縮檔_8_ch_eng" {% if '00258 機械工程名詞壓縮檔_8_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00258">機械工程名詞壓縮檔_8</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00259" class="substituted" type="checkbox" name="numbers" value="00259 機械工程名詞壓縮檔_9_ch_eng" {% if '00259 機械工程名詞壓縮檔_9_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00259">機械工程名詞壓縮檔_9</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00260" class="substituted" type="checkbox" name="numbers" value="00260 機械工程名詞壓縮檔_10_ch_eng" {% if '00260 機械工程名詞壓縮檔_10_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00260">機械工程名詞壓縮檔_10</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00261" class="substituted" type="checkbox" name="numbers" value="00261 機械工程名詞壓縮檔_11_ch_eng" {% if '00261 機械工程名詞壓縮檔_11_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00261">機械工程名詞壓縮檔_11</label>
-                </div>
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00262" class="substituted" type="checkbox" name="numbers" value="00262 機械工程名詞壓縮檔_12_ch_eng" {% if '00262 機械工程名詞壓縮檔_12_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00262">機械工程名詞壓縮檔_12</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00263" class="substituted" type="checkbox" name="numbers" value="00263 機械工程名詞壓縮檔_13_ch_eng" {% if '00263 機械工程名詞壓縮檔_13_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00263">機械工程名詞壓縮檔_13</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00264" class="substituted" type="checkbox" name="numbers" value="00264 機械工程名詞壓縮檔_14_ch_eng" {% if '00264 機械工程名詞壓縮檔_14_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00264">機械工程名詞壓縮檔_14</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00265" class="substituted" type="checkbox" name="numbers" value="00265 機構與機器原理壓縮檔_0_ch_eng" {% if '00265 機構與機器原理壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00265">機構與機器原理壓縮檔_0</label>
-                </div>
+
                 
                 </div>
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00266" class="substituted" type="checkbox" name="numbers" value="00266 醫學名詞-放射醫學名詞壓縮檔_0_ch_eng" {% if '00266 醫學名詞-放射醫學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00266">醫學名詞-放射醫學名詞壓縮檔_0</label>
+                    <label for="option00266">醫學名詞-放射醫學名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00267" class="substituted" type="checkbox" name="numbers" value="00267 醫學名詞-醫事檢驗名詞壓縮檔_0_ch_eng" {% if '00267 醫學名詞-醫事檢驗名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00267">醫學名詞-醫事檢驗名詞壓縮檔_0</label>
+                    <label for="option00267">醫學名詞-醫事檢驗名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
-                    <input id="option00268" class="substituted" type="checkbox" name="numbers" value="00268 醫學名詞壓縮檔_0_ch_eng" {% if '00268 醫學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00268">醫學名詞壓縮檔_0</label>
+                    <input id="option00268" class="substituted" type="checkbox" name="numbers" value="00268 醫學名詞壓縮檔_0_ch_eng,00269 醫學名詞壓縮檔_1_ch_eng,00270 醫學名詞壓縮檔_2_ch_eng,00271 醫學名詞壓縮檔_3_ch_eng" {% if '00268 醫學名詞壓縮檔_0_ch_eng,00269 醫學名詞壓縮檔_1_ch_eng,00270 醫學名詞壓縮檔_2_ch_eng,00271 醫學名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00268">醫學名詞</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00269" class="substituted" type="checkbox" name="numbers" value="00269 醫學名詞壓縮檔_1_ch_eng" {% if '00269 醫學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00269">醫學名詞壓縮檔_1</label>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00270" class="substituted" type="checkbox" name="numbers" value="00270 醫學名詞壓縮檔_2_ch_eng" {% if '00270 醫學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00270">醫學名詞壓縮檔_2</label>
+
+                <div class="checkbox-row">          
                 </div>
-                
+
+
+                <br>
+                <div class="text-container">
+                    <p>管理學、會計學</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
                 </div>
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00271" class="substituted" type="checkbox" name="numbers" value="00271 醫學名詞壓縮檔_3_ch_eng" {% if '00271 醫學名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00271">醫學名詞壓縮檔_3</label>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00184" class="substituted" type="checkbox" name="numbers" value="00184 會計學壓縮檔_0_ch_eng" {% if '00184 會計學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00184">會計學</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00242" class="substituted" type="checkbox" name="numbers" value="00242 管理學名詞-會計學壓縮檔_0_ch_eng" {% if '00242 管理學名詞-會計學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00242">管理學名詞-會計學</label>
+                    </div>
+                    
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00243" class="substituted" type="checkbox" name="numbers" value="00243 管理學名詞壓縮檔_0_ch_eng,00244 管理學名詞壓縮檔_1_ch_eng" {% if '00243 管理學名詞壓縮檔_0_ch_eng,00244 管理學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00243">管理學名詞</label>
+                    </div>        
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00272" class="substituted" type="checkbox" name="numbers" value="00272 獸醫學壓縮檔_0_ch_eng" {% if '00272 獸醫學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00272">獸醫學壓縮檔_0</label>
+
+
+
+
+
+                <br>
+                <div class="text-container">
+                    <p>政府、行政</p>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00273" class="substituted" type="checkbox" name="numbers" value="00273 獸醫學壓縮檔_1_ch_eng" {% if '00273 獸醫學壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00273">獸醫學壓縮檔_1</label>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00274" class="substituted" type="checkbox" name="numbers" value="00274 獸醫學壓縮檔_2_ch_eng" {% if '00274 獸醫學壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00274">獸醫學壓縮檔_2</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00275" class="substituted" type="checkbox" name="numbers" value="00275 藥學壓縮檔_0_ch_eng" {% if '00275 藥學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00275">藥學壓縮檔_0</label>
-                </div>
-                
-                </div>
+
                 <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00276" class="substituted" type="checkbox" name="numbers" value="00276 礦冶工程名詞壓縮檔_0_ch_eng" {% if '00276 礦冶工程名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00276">礦冶工程名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00277" class="substituted" type="checkbox" name="numbers" value="00277 礦冶工程名詞壓縮檔_1_ch_eng" {% if '00277 礦冶工程名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00277">礦冶工程名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00278" class="substituted" type="checkbox" name="numbers" value="00278 礦物學名詞壓縮檔_0_ch_eng" {% if '00278 礦物學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00278">礦物學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00279" class="substituted" type="checkbox" name="numbers" value="00279 礦物學名詞壓縮檔_1_ch_eng" {% if '00279 礦物學名詞壓縮檔_1_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00279">礦物學名詞壓縮檔_1</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00280" class="substituted" type="checkbox" name="numbers" value="00280 礦物學名詞壓縮檔_2_ch_eng" {% if '00280 礦物學名詞壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00280">礦物學名詞壓縮檔_2</label>
-                </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00281" class="substituted" type="checkbox" name="numbers" value="00281 鑄造學壓縮檔_0_ch_eng" {% if '00281 鑄造學壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00281">鑄造學壓縮檔_0</label>
-                </div>
+
+
+
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00282" class="substituted" type="checkbox" name="numbers" value="00282 一般公文用語壓縮檔_0_ch_eng" {% if '00282 一般公文用語壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00282">一般公文用語壓縮檔_0</label>
+                    <label for="option00282">一般公文用語</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00283" class="substituted" type="checkbox" name="numbers" value="00283 十二年國民基本教育課程綱要總綱及領綱名詞壓縮檔_0_ch_eng" {% if '00283 十二年國民基本教育課程綱要總綱及領綱名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00283">十二年國民基本教育課程綱要總綱及領綱名詞壓縮檔_0</label>
+                    <label for="option00283">十二年國民基本教育課程綱要總綱及領綱名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00284" class="substituted" type="checkbox" name="numbers" value="00284 中小學常用職稱及場所、單位名稱壓縮檔_0_ch_eng" {% if '00284 中小學常用職稱及場所、單位名稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00284">中小學常用職稱及場所、單位名稱壓縮檔_0</label>
+                    <label for="option00284">中小學常用職稱及場所、單位名稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00285" class="substituted" type="checkbox" name="numbers" value="00285 中央機關一般職稱壓縮檔_0_ch_eng" {% if '00285 中央機關一般職稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00285">中央機關一般職稱壓縮檔_0</label>
+                    <label for="option00285">中央機關一般職稱</label>
+                </div>
+
+                <div class="checkbox-wrapper-1">
+                    <input id="option00154" class="substituted" type="checkbox" name="numbers" value="00154 國防部新編國軍簡明美華軍語辭典壓縮檔_0_ch_eng,00155 國防部新編國軍簡明美華軍語辭典壓縮檔_1_ch_eng,00156 國防部新編國軍簡明美華軍語辭典壓縮檔_2_ch_eng,00157 國防部新編國軍簡明美華軍語辭典壓縮檔_3_ch_eng,00158 國防部新編國軍簡明美華軍語辭典壓縮檔_4_ch_eng,00159 國防部新編國軍簡明美華軍語辭典壓縮檔_5_ch_eng" {% if '00154 國防部新編國軍簡明美華軍語辭典壓縮檔_0_ch_eng,00155 國防部新編國軍簡明美華軍語辭典壓縮檔_1_ch_eng,00156 國防部新編國軍簡明美華軍語辭典壓縮檔_2_ch_eng,00157 國防部新編國軍簡明美華軍語辭典壓縮檔_3_ch_eng,00158 國防部新編國軍簡明美華軍語辭典壓縮檔_4_ch_eng,00159 國防部新編國軍簡明美華軍語辭典壓縮檔_5_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00154">國防部新編國軍簡明美華軍語辭典</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00286" class="substituted" type="checkbox" name="numbers" value="00286 中央機關主管職稱壓縮檔_0_ch_eng" {% if '00286 中央機關主管職稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00286">中央機關主管職稱壓縮檔_0</label>
+                    <label for="option00286">中央機關主管職稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00287" class="substituted" type="checkbox" name="numbers" value="00287 中央機關首長職稱壓縮檔_0_ch_eng" {% if '00287 中央機關首長職稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00287">中央機關首長職稱壓縮檔_0</label>
+                    <label for="option00287">中央機關首長職稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00288" class="substituted" type="checkbox" name="numbers" value="00288 中央機關單位名稱壓縮檔_0_ch_eng" {% if '00288 中央機關單位名稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00288">中央機關單位名稱壓縮檔_0</label>
+                    <label for="option00288">中央機關單位名稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00289" class="substituted" type="checkbox" name="numbers" value="00289 中央機關銜稱壓縮檔_0_ch_eng" {% if '00289 中央機關銜稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00289">中央機關銜稱壓縮檔_0</label>
+                    <label for="option00289">中央機關銜稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00298" class="substituted" type="checkbox" name="numbers" value="00298 交通壓縮檔_0_ch_eng" {% if '00298 交通壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00298">交通壓縮檔_0</label>
+                    <label for="option00298">交通</label>
                 </div>
                 
                 </div>
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
                     <input id="option00299" class="substituted" type="checkbox" name="numbers" value="00299 地方機關一般職稱壓縮檔_0_ch_eng" {% if '00299 地方機關一般職稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00299">地方機關一般職稱壓縮檔_0</label>
+                    <label for="option00299">地方機關一般職稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00300" class="substituted" type="checkbox" name="numbers" value="00300 地方機關主管職稱壓縮檔_0_ch_eng" {% if '00300 地方機關主管職稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00300">地方機關主管職稱壓縮檔_0</label>
+                    <label for="option00300">地方機關主管職稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00301" class="substituted" type="checkbox" name="numbers" value="00301 地方機關首長職稱壓縮檔_0_ch_eng" {% if '00301 地方機關首長職稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00301">地方機關首長職稱壓縮檔_0</label>
+                    <label for="option00301">地方機關首長職稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00302" class="substituted" type="checkbox" name="numbers" value="00302 地方機關單位名稱壓縮檔_0_ch_eng" {% if '00302 地方機關單位名稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00302">地方機關單位名稱壓縮檔_0</label>
+                    <label for="option00302">地方機關單位名稱</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00303" class="substituted" type="checkbox" name="numbers" value="00303 地方機關銜稱壓縮檔_0_ch_eng" {% if '00303 地方機關銜稱壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00303">地方機關銜稱壓縮檔_0</label>
+                    <label for="option00303">地方機關銜稱</label>
                 </div>
                 
                 </div>
-                <div class="checkbox-row">
+
+                <div class="checkbox-row">  
                 <div class="checkbox-wrapper-1">
-                    <input id="option00308" class="substituted" type="checkbox" name="numbers" value="00308 其他壓縮檔_0_ch_eng" {% if '00308 其他壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00308">其他壓縮檔_0</label>
+                    <input id="option00325" class="substituted" type="checkbox" name="numbers" value="00325 國家教育研究院場所名詞壓縮檔_0_ch_eng" {% if '00325 國家教育研究院場所名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00325">國家教育研究院場所名詞</label>
                 </div>
-                
+
                 <div class="checkbox-wrapper-1">
                     <input id="option00310" class="substituted" type="checkbox" name="numbers" value="00310 科技部政務次長及常務次長英譯壓縮檔_0_ch_eng" {% if '00310 科技部政務次長及常務次長英譯壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00310">科技部政務次長及常務次長英譯壓縮檔_0</label>
+                    <label for="option00310">科技部政務次長及常務次長英譯</label>
                 </div>
+
+                </div>
+
+                <br>
+                <div class="text-container">
+                    <p>高中以下各科名詞</p>
+                </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+
+                <div class="checkbox-row">
+
+                
+
+
+
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00318" class="substituted" type="checkbox" name="numbers" value="00318 高中以下化學名詞壓縮檔_0_ch_eng" {% if '00318 高中以下化學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00318">高中以下化學名詞壓縮檔_0</label>
+                    <label for="option00318">高中以下化學名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00319" class="substituted" type="checkbox" name="numbers" value="00319 高中以下生命科學名詞壓縮檔_0_ch_eng" {% if '00319 高中以下生命科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00319">高中以下生命科學名詞壓縮檔_0</label>
+                    <label for="option00319">高中以下生命科學名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00320" class="substituted" type="checkbox" name="numbers" value="00320 高中以下地球科學名詞壓縮檔_0_ch_eng" {% if '00320 高中以下地球科學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00320">高中以下地球科學名詞壓縮檔_0</label>
+                    <label for="option00320">高中以下地球科學名詞</label>
                 </div>
-                
-                </div>
-                <div class="checkbox-row">
-                <div class="checkbox-wrapper-1">
-                    <input id="option00321" class="substituted" type="checkbox" name="numbers" value="00321 高中以下地理學名詞壓縮檔_0_ch_eng" {% if '00321 高中以下地理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00321">高中以下地理學名詞壓縮檔_0</label>
-                </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00322" class="substituted" type="checkbox" name="numbers" value="00322 高中以下物理學名詞壓縮檔_0_ch_eng" {% if '00322 高中以下物理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00322">高中以下物理學名詞壓縮檔_0</label>
-                </div>
-                
                 <div class="checkbox-wrapper-1">
                     <input id="option00323" class="substituted" type="checkbox" name="numbers" value="00323 高中以下資訊名詞壓縮檔_0_ch_eng" {% if '00323 高中以下資訊名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00323">高中以下資訊名詞壓縮檔_0</label>
+                    <label for="option00323">高中以下資訊名詞</label>
                 </div>
                 
                 <div class="checkbox-wrapper-1">
                     <input id="option00324" class="substituted" type="checkbox" name="numbers" value="00324 高中以下數學名詞壓縮檔_0_ch_eng" {% if '00324 高中以下數學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00324">高中以下數學名詞壓縮檔_0</label>
+                    <label for="option00324">高中以下數學名詞</label>
                 </div>
-                
-                <div class="checkbox-wrapper-1">
-                    <input id="option00325" class="substituted" type="checkbox" name="numbers" value="00325 國家教育研究院場所名詞壓縮檔_0_ch_eng" {% if '00325 國家教育研究院場所名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00325">國家教育研究院場所名詞壓縮檔_0</label>
-                </div>
-                
                 </div>
                 <div class="checkbox-row">
                 <div class="checkbox-wrapper-1">
+                    <input id="option00321" class="substituted" type="checkbox" name="numbers" value="00321 高中以下地理學名詞壓縮檔_0_ch_eng" {% if '00321 高中以下地理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00321">高中以下地理學名詞</label>
+                </div>
+                
+                <div class="checkbox-wrapper-1">
+                    <input id="option00322" class="substituted" type="checkbox" name="numbers" value="00322 高中以下物理學名詞壓縮檔_0_ch_eng" {% if '00322 高中以下物理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                    <label for="option00322">高中以下物理學名詞</label>
+                </div>
+                <div class="checkbox-wrapper-1">
                     <input id="option00326" class="substituted" type="checkbox" name="numbers" value="00326 教育部特殊專門名詞壓縮檔_0_ch_eng" {% if '00326 教育部特殊專門名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00326">教育部特殊專門名詞壓縮檔_0</label>
+                    <label for="option00326">教育部特殊專門名詞</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00327" class="substituted" type="checkbox" name="numbers" value="00327 場所標示壓縮檔_0_ch_eng" {% if '00327 場所標示壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00327">場所標示壓縮檔_0</label>
-                </div>
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00328" class="substituted" type="checkbox" name="numbers" value="00328 新冠病毒疫情相關詞彙壓縮檔_0_ch_eng" {% if '00328 新冠病毒疫情相關詞彙壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00328">新冠病毒疫情相關詞彙壓縮檔_0</label>
-                </div>
+
+
                 
-                <div class="checkbox-wrapper-1">
-                    <input id="option00329" class="substituted" type="checkbox" name="numbers" value="00329 業務標示壓縮檔_0_ch_eng" {% if '00329 業務標示壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00329">業務標示壓縮檔_0</label>
                 </div>
+
+
                 <br>
-                
+                <div class="text-container">
+                    <p>其他</p>
                 </div>
+                <div style="display: flex; align-items: center; justify-content: center;">
+                        <hr style="border: 0.75px solid; width: 90%; color: rgb(198, 198, 198);"/>
+                    <br>
+                </div>
+                <div class="checkbox-row">
+                    
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00328" class="substituted" type="checkbox" name="numbers" value="00328 新冠病毒疫情相關詞彙壓縮檔_0_ch_eng" {% if '00328 新冠病毒疫情相關詞彙壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00328">新冠病毒疫情相關詞彙</label>
+                    </div>
+                    
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00329" class="substituted" type="checkbox" name="numbers" value="00329 業務標示壓縮檔_0_ch_eng" {% if '00329 業務標示壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00329">業務標示</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00327" class="substituted" type="checkbox" name="numbers" value="00327 場所標示壓縮檔_0_ch_eng" {% if '00327 場所標示壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00327">場所標示</label>
+                    </div>
+                    <div class="checkbox-wrapper-1">
+                        <input id="option00308" class="substituted" type="checkbox" name="numbers" value="00308 其他壓縮檔_0_ch_eng" {% if '00308 其他壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
+                        <label for="option00308">其他</label>
+                    </div>
+                </div>
+
+                <br>
+                <br>
         </div>
 
         </div>
@@ -1745,10 +1352,13 @@
     <br><br><br>
         <style>
             .checkbox-row {
+                max-width: 95%;
                 display: flex;
                 flex-wrap: wrap;
                 justify-content: flex-start;
                 text-align: left;
+                padding-left: 2.5%;
+                padding-right: 2.5%;
             }
 
             .checkbox-wrapper-1 {
@@ -1772,6 +1382,17 @@
                 overflow-y: auto; /* 文本超出時顯示滾動條 */
                 padding: 10px; /* 增加內邊距 */          
             }
+            #selected-container {
+                width: 80%;
+                min-height: 350px;
+                max-height: 500px;
+                border: 0.5px solid rgb(77, 77, 77);
+                border-radius: 10px;
+                display: block; /* 改為 block 以便從上方開始填充 */
+                resize: none; /* 禁止手動調整大小 */
+                overflow-y: auto; /* 文本超出時顯示滾動條 */
+                padding: 10px; /* 增加內邊距 */
+            }
             #input-container {
                 width: 80%;
                 min-height: 350px;
@@ -1788,6 +1409,22 @@
                 display: flex;
                 justify-content: center;
                 align-items: center;
+            }
+
+
+
+            .text-container h1 {
+                font-weight: bold;
+            }
+
+            .text-container h6 {
+                font-weight: bold;
+                color: #4a4a4a;
+            }
+
+            .text-container p {
+                margin-bottom: -2px;
+                color: #212121;
             }
 
         </style>

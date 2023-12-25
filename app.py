@@ -2,6 +2,7 @@ from flask import Flask, request, render_template
 import jieba
 import io
 import os
+import re
 import requests, uuid, json
 
 app = Flask(__name__)
@@ -75,26 +76,21 @@ def translate_zh_en(documents, user_input, folder_path):
         else:
             print(f"File '{file_name}' does not exist.")
 
-    # 提示用户输入
     user_input = user_input
 
-    # 分割用户输入的字符串，获取键名列表
     selected_keys = [key.strip() for key in user_input.split(',')]
 
-    # 新建一个列表来存储合并后的结果
     merged_list = []
 
-    # 检查并打印用户选择的元素，并将它们添加到合并列表中
     for key in selected_keys:
         if key in all_lists:
             print(f"键 '{key}'")
             # print(f"键 '{key}': {all_lists[key]}")
-            merged_list.extend(all_lists[key])  # 将选中的元素添加到合并列表中
+            merged_list.extend(all_lists[key]) 
         else:
             print(f"键名 '{key}' 不存在。")
 
-    # 打印合并后的列表
-    # print("合并后的列表：")
+
     print(merged_list)
 
 
@@ -189,10 +185,18 @@ def translate_en_zh(documents, user_input, folder_path):
     # Merge the dictionaries from all files into a single list
     ch_eng = [entry for sublist in all_lists.values() for entry in sublist]
 
-    # Replace English terms in the document with their Chinese equivalents
-    for entry in ch_eng:
-        for key, value in entry.items():
-            documents[0] = documents[0].replace(value, key)
+    # Create a mapping of lower case English terms to their Chinese equivalents
+    lowercase_mapping = {value.lower(): key for sublist in all_lists.values() for entry in sublist for key, value in entry.items()}
+
+    # Create a function to replace matched words
+    def replace_match(match):
+        word = match.group(0)
+        # Check for lowercase word in the mapping
+        return lowercase_mapping.get(word.lower(), word)
+
+    # Use a regular expression to replace words in the document
+    pattern = r'\b' + r'\b|\b'.join(re.escape(word) for word in lowercase_mapping) + r'\b'
+    documents[0] = re.sub(pattern, replace_match, documents[0], flags=re.IGNORECASE)
 
     print(documents[0])
     sentence = documents[0]
