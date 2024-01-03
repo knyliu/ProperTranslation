@@ -84,11 +84,11 @@ def translate_zh_en(documents, user_input, folder_path):
 
     for key in selected_keys:
         if key in all_lists:
-            print(f"键 '{key}'")
-            # print(f"键 '{key}': {all_lists[key]}")
+            print(f"Key '{key}'")
+            # print(f"Key '{key}': {all_lists[key]}")
             merged_list.extend(all_lists[key]) 
         else:
-            print(f"键名 '{key}' 不存在。")
+            print(f"The key name '{key}' does not exist.")
 
 
     print(merged_list)
@@ -123,7 +123,7 @@ def translate_zh_en(documents, user_input, folder_path):
     # print(sentence)
 
     # Add your key and endpoint
-    key = "6efe201e152c4b23807c8edffd214ac1"
+    key = os.getenv('API_KEY')
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -202,7 +202,7 @@ def translate_en_zh(documents, user_input, folder_path):
     sentence = documents[0]
 
     # Add your key and endpoint
-    key = "6efe201e152c4b23807c8edffd214ac1"
+    key = os.getenv('API_KEY')
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
