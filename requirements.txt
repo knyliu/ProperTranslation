@@ -2,4 +2,4 @@ Flask
 jieba
 requests
 azure-ai-textanalytics
-TextAnalyticsClient
+azure-core
