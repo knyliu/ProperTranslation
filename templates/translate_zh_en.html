@@ -1347,6 +1347,15 @@
             <p>{{ result }}</p>
         {% endif %}
     </div>
+    <br>
+    內容摘要： <br>
+    <br>
+    <div id="summary-container">
+        {% if summary_result %}
+            <p>{{ summary_result }}</p>
+        {% endif %}
+    </div>
+
     <br><br><br>
         <style>
             .checkbox-row {
@@ -1379,6 +1388,17 @@
                 resize: none; 
                 overflow-y: auto; 
                 padding: 10px;         
+            }
+            #summary-container {
+            width: 80%;
+            min-height: 150px;
+            max-height: 150px;
+            border: 0.5px solid rgb(77, 77, 77);
+            border-radius: 10px;
+            display: block; 
+            resize: none;
+            overflow-y: auto; 
+            padding: 10px;  
             }
             #selected-container {
                 width: 80%;
