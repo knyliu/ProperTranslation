@@ -129,8 +129,7 @@ def translate_zh_en(documents, user_input, folder_path):
     # print(sentence)
 
     # Add your key and endpoint
-    # key = os.getenv('API_KEY')
-    key = "6efe201e152c4b23807c8edffd214ac1"
+    key = os.getenv('API_KEY')
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -209,8 +208,7 @@ def translate_en_zh(documents, user_input, folder_path):
     sentence = documents[0]
 
     # Add your key and endpoint
-    # key = os.getenv('API_KEY')
-    key = "6efe201e152c4b23807c8edffd214ac1"
+    key = os.getenv('API_KEY')
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -256,7 +254,7 @@ def translate_en_zh(documents, user_input, folder_path):
 
 # 文字摘要
 def extract_summary(documents):
-    key = "bd0307ad47c94a4399eebd1101b1bd03"
+    key = os.getenv('ES_API_KEY')
     endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
 
     try:
