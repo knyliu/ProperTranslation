@@ -3,5 +3,3 @@ jieba
 requests
 azure-ai-textanalytics
 TextAnalyticsClient
-ExtractiveSummaryAction
-AzureKeyCredential
