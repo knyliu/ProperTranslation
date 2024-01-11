@@ -24,6 +24,7 @@ def about():
 @app.route('/translate-zh-en', methods=['GET', 'POST'])
 def translate_zh_en_route():
     result = None
+    summary_result = None
     sentence = ''
     numbers = []
 
@@ -56,11 +57,8 @@ def translate_en_zh_route():
 
         user_input = ','.join(numbers)
         documents = [sentence]
+        summary_result = extract_summary(sentence)
         result = translate_en_zh(documents, user_input, folder_path)
-        summary_result = extract_summary(result)
-        
-        print(result)
-        print(summary_result)
 
     return render_template('translate_en_zh.html', result=result, summary_result = summary_result, sentence=sentence, numbers=','.join(numbers))
 
