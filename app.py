@@ -57,8 +57,8 @@ def translate_en_zh_route():
 
         user_input = ','.join(numbers)
         documents = [sentence]
-        summary_result = extract_summary(sentence)
         result = translate_en_zh(documents, user_input, folder_path)
+        summary_result = extract_summary(result)
 
     return render_template('translate_en_zh.html', result=result, summary_result = summary_result, sentence=sentence, numbers=','.join(numbers))
 
