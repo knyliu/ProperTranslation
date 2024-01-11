@@ -4,6 +4,8 @@ import io
 import os
 import re
 import requests, uuid, json
+from azure.ai.textanalytics import TextAnalyticsClient, ExtractiveSummaryAction
+from azure.core.credentials import AzureKeyCredential
 
 app = Flask(__name__)
 
@@ -33,14 +35,16 @@ def translate_zh_en_route():
 
         user_input = ','.join(numbers)
         documents = [sentence]
+        summary_result = extract_summary(sentence)
         result = translate_zh_en(documents, user_input, folder_path)
 
-    return render_template('translate_zh_en.html', result=result, sentence=sentence, numbers=','.join(numbers))
+    return render_template('translate_zh_en.html', result=result, summary_result = summary_result, sentence=sentence, numbers=','.join(numbers))
 
 # 英翻中路由
 @app.route('/translate-en-zh', methods=['GET', 'POST'])
 def translate_en_zh_route():
     result = None
+    summary_result = None
     sentence = ''
     numbers = []
 
@@ -53,8 +57,12 @@ def translate_en_zh_route():
         user_input = ','.join(numbers)
         documents = [sentence]
         result = translate_en_zh(documents, user_input, folder_path)
+        summary_result = extract_summary(result)
+        
+        print(result)
+        print(summary_result)
 
-    return render_template('translate_en_zh.html', result=result, sentence=sentence, numbers=','.join(numbers))
+    return render_template('translate_en_zh.html', result=result, summary_result = summary_result, sentence=sentence, numbers=','.join(numbers))
 
 
 
@@ -123,7 +131,8 @@ def translate_zh_en(documents, user_input, folder_path):
     # print(sentence)
 
     # Add your key and endpoint
-    key = os.getenv('API_KEY')
+    # key = os.getenv('API_KEY')
+    key = "6efe201e152c4b23807c8edffd214ac1"
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -202,7 +211,8 @@ def translate_en_zh(documents, user_input, folder_path):
     sentence = documents[0]
 
     # Add your key and endpoint
-    key = os.getenv('API_KEY')
+    # key = os.getenv('API_KEY')
+    key = "6efe201e152c4b23807c8edffd214ac1"
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -243,6 +253,39 @@ def translate_en_zh(documents, user_input, folder_path):
 
 
     return translated_text
+
+
+
+# 文字摘要
+def extract_summary(documents):
+    key = "bd0307ad47c94a4399eebd1101b1bd03"
+    endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
+
+    try:
+        ta_credential = AzureKeyCredential(key)
+        text_analytics_client = TextAnalyticsClient(
+            endpoint=endpoint, 
+            credential=ta_credential)
+
+        document = [documents]
+        poller = text_analytics_client.begin_analyze_actions(
+            document,
+            actions=[ExtractiveSummaryAction(max_sentence_count=4)],
+        )
+
+        document_results = poller.result()
+        print(document_results)
+        for result in document_results:
+            extract_summary_result = result[0]
+            if extract_summary_result.is_error:
+                return "錯誤: '{}' - '{}'".format(
+                    extract_summary_result.code, extract_summary_result.message
+                )
+            else:
+                return " ".join([sentence.text for sentence in extract_summary_result.sentences])
+    except Exception as e:
+        return str(e)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
