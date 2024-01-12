@@ -1348,14 +1348,91 @@
         {% endif %}
     </div>
     <br>
-    內容摘要： <br>
+    <br>
+    <b>內容摘要</b> <br>
     <br>
     <div id="summary-container">
         {% if summary_result %}
             <p>{{ summary_result }}</p>
         {% endif %}
     </div>
+    <br>
+    <br>
+    <b>Learn More About</b> <br>
+    <br>
+    <div class="links-container">
+        <a href="https://www.google.com/search?q={{ key_phrases_info }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='google.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://www.google.com/search?q={{ key_phrases_info_1 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='google.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_1 }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://www.google.com/search?q={{ key_phrases_info_2 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='google.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_2 }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://www.google.com/search?q={{ key_phrases_info_3 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='google.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_3 }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://www.google.com/search?q={{ key_phrases_info_4 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='google.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_4 }}</p>
+            </div>
+        </a>
+    </div>
 
+    <div class="links-container">
+        <a href="https://scholar.google.com/scholar?q={{ key_phrases_info }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='googleScholar.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://scholar.google.com/scholar?q={{ key_phrases_info_1 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='googleScholar.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_1 }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://scholar.google.com/scholar?q={{ key_phrases_info_2 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='googleScholar.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_2 }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://scholar.google.com/scholar?q={{ key_phrases_info_3 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='googleScholar.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_3 }}</p>
+            </div>
+        </a>
+        <br>
+        <a href="https://scholar.google.com/scholar?q={{ key_phrases_info_4 }}" target="_blank" class="custom-link">
+            <div class="search-container">
+                <img src="{{ url_for('static', filename='googleScholar.png') }}" alt="Google Logo" class="logo">
+                <p>{{ key_phrases_info_4 }}</p>
+            </div>
+        </a>
+    </div>
     <br><br><br>
     <style>
         .checkbox-row {
@@ -1384,21 +1461,32 @@
             max-height: 500px;
             border: 0.5px solid rgb(77, 77, 77);
             border-radius: 10px;
-            display: block; 
-            resize: none;
+            display: block;
+            resize: none; 
             overflow-y: auto; 
-            padding: 10px;  
+            padding: 10px;         
         }
         #summary-container {
-            width: 80%;
-            min-height: 150px;
-            max-height: 150px;
-            border: 0.5px solid rgb(77, 77, 77);
-            border-radius: 10px;
-            display: block; 
-            resize: none;
-            overflow-y: auto; 
-            padding: 10px;  
+        width: 80%;
+        min-height: 150px;
+        max-height: 150px;
+        border: 0.5px solid rgb(77, 77, 77);
+        border-radius: 10px;
+        display: block; 
+        resize: none;
+        overflow-y: auto; 
+        padding: 10px;  
+        }
+        #key_phrases_info {
+        width: 80%;
+        min-height: 80px;
+        max-height: 800px;
+        border: 0.5px solid rgb(77, 77, 77);
+        border-radius: 10px;
+        display: block; 
+        resize: none;
+        overflow-y: auto; 
+        padding: 10px;  
         }
         #selected-container {
             width: 80%;
@@ -1407,7 +1495,7 @@
             border: 0.5px solid rgb(77, 77, 77);
             border-radius: 10px;
             display: block; 
-            resize: none;
+            resize: none; 
             overflow-y: auto; 
             padding: 10px; 
         }
@@ -1418,9 +1506,9 @@
             border: 0.5px solid rgb(77, 77, 77);
             border-radius: 10px;
             display: block;
-            resize: none; 
+            resize: none;
             overflow-y: auto; 
-            padding: 10px; 
+            padding: 10px;
         }
 
         .container {
@@ -1446,131 +1534,196 @@
         }
 
     </style>
-        <script>
-            const inputContainer = document.getElementById('input-container');
+    <script>
+        const inputContainer = document.getElementById('input-container');
 
-            inputContainer.addEventListener('input', function() {
-                this.style.height = 'auto';
-                this.style.height = (this.scrollHeight) + 'px';
-            });
-        </script>
+        inputContainer.addEventListener('input', function() {
+            this.style.height = 'auto';
+            this.style.height = (this.scrollHeight) + 'px';
+        });
+    </script>
 
-        <style>
-            .checkbox-wrapper-1 *,
-            .checkbox-wrapper-1 ::after,
-            .checkbox-wrapper-1 ::before {
-            box-sizing: border-box;
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted {
-            margin: 0;
-            width: 0;
-            height: 0;
-            display: inline;
-            -webkit-appearance: none;
-            -moz-appearance: none;
-            appearance: none;
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted + label:before {
-            content: "";
-            display: inline-block;
-            vertical-align: top;
-            height: 1.15em;
-            width: 1.15em;
-            margin-right: 0.6em;
-            color: rgba(0, 0, 0, 0.275);
-            border: solid 0.06em;
-            box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em inset, 0 0 0 0.07em transparent inset;
-            border-radius: 0.2em;
-            background: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" fill="white" viewBox="0 0 9 9"><rect x="0" y="4.3" transform="matrix(-0.707 -0.7072 0.7072 -0.707 0.5891 10.4702)" width="4.3" height="1.6" /><rect x="2.2" y="2.9" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 12.1877 2.9833)" width="6.1" height="1.7" /></svg>') no-repeat center, white;
-            background-size: 0;
-            will-change: color, border, background, background-size, box-shadow;
-            transform: translate3d(0, 0, 0);
-            transition: color 0.1s, border 0.1s, background 0.15s, box-shadow 0.1s;
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted:enabled:active + label:before,
-            .checkbox-wrapper-1 [type=checkbox].substituted:enabled + label:active:before {
-            box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(0, 0, 0, 0.1) inset;
-            background-color: #f0f0f0;
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted:checked + label:before {
-            background-color: #3B99FC;
-            background-size: 0.75em;
-            color: rgba(0, 0, 0, 0.075);
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted:checked:enabled:active + label:before,
-            .checkbox-wrapper-1 [type=checkbox].substituted:checked:enabled + label:active:before {
-            background-color: #0a7ffb;
-            color: rgba(0, 0, 0, 0.275);
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted:focus + label:before {
-            box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(0, 0, 0, 0.1) inset, 0 0 0 3.3px rgba(65, 159, 255, 0.55), 0 0 0 5px rgba(65, 159, 255, 0.3);
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted:focus:active + label:before,
-            .checkbox-wrapper-1 [type=checkbox].substituted:focus + label:active:before {
-            box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(0, 0, 0, 0.1) inset, 0 0 0 3.3px rgba(65, 159, 255, 0.55), 0 0 0 5px rgba(65, 159, 255, 0.3);
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted:disabled + label:before {
-            opacity: 0.5;
-            }
-        
-            .checkbox-wrapper-1 [type=checkbox].substituted.dark + label:before {
-            color: rgba(255, 255, 255, 0.275);
-            background-color: #222;
-            background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" fill="rgba(34, 34, 34, 0.999)" viewBox="0 0 9 9"><rect x="0" y="4.3" transform="matrix(-0.707 -0.7072 0.7072 -0.707 0.5891 10.4702)" width="4.3" height="1.6" /><rect x="2.2" y="2.9" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 12.1877 2.9833)" width="6.1" height="1.7" /></svg>');
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted.dark:enabled:active + label:before,
-            .checkbox-wrapper-1 [type=checkbox].substituted.dark:enabled + label:active:before {
-            background-color: #444;
-            box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(255, 255, 255, 0.1) inset;
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted.dark:checked + label:before {
-            background-color: #a97035;
-            color: rgba(255, 255, 255, 0.075);
-            }
-            .checkbox-wrapper-1 [type=checkbox].substituted.dark:checked:enabled:active + label:before,
-            .checkbox-wrapper-1 [type=checkbox].substituted.dark:checked:enabled + label:active:before {
-            background-color: #c68035;
-            color: rgba(0, 0, 0, 0.275);
-            }
-        </style>
+    <style>
+        .checkbox-wrapper-1 *,
+        .checkbox-wrapper-1 ::after,
+        .checkbox-wrapper-1 ::before {
+        box-sizing: border-box;
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted {
+        margin: 0;
+        width: 0;
+        height: 0;
+        display: inline;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted + label:before {
+        content: "";
+        display: inline-block;
+        vertical-align: top;
+        height: 1.15em;
+        width: 1.15em;
+        margin-right: 0.6em;
+        color: rgba(0, 0, 0, 0.275);
+        border: solid 0.06em;
+        box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em inset, 0 0 0 0.07em transparent inset;
+        border-radius: 0.2em;
+        background: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" fill="white" viewBox="0 0 9 9"><rect x="0" y="4.3" transform="matrix(-0.707 -0.7072 0.7072 -0.707 0.5891 10.4702)" width="4.3" height="1.6" /><rect x="2.2" y="2.9" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 12.1877 2.9833)" width="6.1" height="1.7" /></svg>') no-repeat center, white;
+        background-size: 0;
+        will-change: color, border, background, background-size, box-shadow;
+        transform: translate3d(0, 0, 0);
+        transition: color 0.1s, border 0.1s, background 0.15s, box-shadow 0.1s;
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted:enabled:active + label:before,
+        .checkbox-wrapper-1 [type=checkbox].substituted:enabled + label:active:before {
+        box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(0, 0, 0, 0.1) inset;
+        background-color: #f0f0f0;
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted:checked + label:before {
+        background-color: #3B99FC;
+        background-size: 0.75em;
+        color: rgba(0, 0, 0, 0.075);
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted:checked:enabled:active + label:before,
+        .checkbox-wrapper-1 [type=checkbox].substituted:checked:enabled + label:active:before {
+        background-color: #0a7ffb;
+        color: rgba(0, 0, 0, 0.275);
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted:focus + label:before {
+        box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(0, 0, 0, 0.1) inset, 0 0 0 3.3px rgba(65, 159, 255, 0.55), 0 0 0 5px rgba(65, 159, 255, 0.3);
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted:focus:active + label:before,
+        .checkbox-wrapper-1 [type=checkbox].substituted:focus + label:active:before {
+        box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(0, 0, 0, 0.1) inset, 0 0 0 3.3px rgba(65, 159, 255, 0.55), 0 0 0 5px rgba(65, 159, 255, 0.3);
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted:disabled + label:before {
+        opacity: 0.5;
+        }
+    
+        .checkbox-wrapper-1 [type=checkbox].substituted.dark + label:before {
+        color: rgba(255, 255, 255, 0.275);
+        background-color: #222;
+        background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" fill="rgba(34, 34, 34, 0.999)" viewBox="0 0 9 9"><rect x="0" y="4.3" transform="matrix(-0.707 -0.7072 0.7072 -0.707 0.5891 10.4702)" width="4.3" height="1.6" /><rect x="2.2" y="2.9" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 12.1877 2.9833)" width="6.1" height="1.7" /></svg>');
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted.dark:enabled:active + label:before,
+        .checkbox-wrapper-1 [type=checkbox].substituted.dark:enabled + label:active:before {
+        background-color: #444;
+        box-shadow: 0 0 0.04em, 0 0.06em 0.16em -0.03em transparent inset, 0 0 0 0.07em rgba(255, 255, 255, 0.1) inset;
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted.dark:checked + label:before {
+        background-color: #a97035;
+        color: rgba(255, 255, 255, 0.075);
+        }
+        .checkbox-wrapper-1 [type=checkbox].substituted.dark:checked:enabled:active + label:before,
+        .checkbox-wrapper-1 [type=checkbox].substituted.dark:checked:enabled + label:active:before {
+        background-color: #c68035;
+        color: rgba(0, 0, 0, 0.275);
+        }
+    </style>
 
-        <style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-            }
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        }
 
-            .flex-container {
-                display: flex;
+        .flex-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: auto;
+            margin-top: 0px;
+        }
+
+        button {
+            height: 35px;
+            width: 250px;
+            font-size: 13px;
+            margin: 20px 0px 20px 0px;
+            background-color: rgb(87, 87, 87);
+            color: rgb(255, 255, 255);
+            border-radius: 50px;
+            transition: 0.2s;
+            margin: 20px;
+        }
+
+
+        button:hover {
+            background-color: rgb(211, 211, 211);
+            color: black;
+        }
+
+
+
+        h1 {
+            color: #4d4d4d;
+        }
+    </style>
+    <style>
+        .search-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        border: 1px solid #ddd;
+        padding: 10px;
+        border-radius: 50px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin: 0px 20px 20px 20px;
+        }
+
+        .search-container p {
+            text-decoration: none;
+            font-size: 12px;
+            color: rgb(0, 8, 66);
+            padding: 0px;
+            margin: 0%;
+        }
+
+        .custom-link {
+            text-decoration: none;
+            color: inherit;
+        }
+
+
+        .logo {
+        height: 20px;
+        margin-right: 10px;
+        }
+
+        .search-box {
+        border: none;
+        outline: none;
+        padding: 10px;
+        font-size: 16px;
+        flex-grow: 1;
+        }
+
+        .search-box::placeholder {
+        color: #aaa;
+        }
+    </style>
+    <style>
+        .links-container {
+            display: flex;
+            justify-content: space-around; 
+            flex-wrap: wrap;
+        }
+
+        .custom-link {
+            text-decoration: none;
+            color: inherit; 
+            display: flex;
+            flex-direction: column;
+            align-items: center; 
+        }
+
+        @media (max-width: 600px) {
+            .links-container {
                 flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                height: auto;
-                margin-top: 0px;
             }
-
-            button {
-                height: 35px;
-                width: 250px;
-                font-size: 13px;
-                margin: 20px 0px 20px 0px;
-                background-color: rgb(87, 87, 87);
-                color: rgb(255, 255, 255);
-                border-radius: 50px;
-                transition: 0.2s;
-                margin: 20px;
-            }
-
-
-            button:hover {
-                background-color: rgb(211, 211, 211);
-                color: black;
-            }
-
-
-
-            h1 {
-                color: #4d4d4d;
-            }
-        </style>
-    </body>
-    </html>
+        }
+    </style>
+</body>
+</html>
