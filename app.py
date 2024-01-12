@@ -41,8 +41,7 @@ def translate_zh_en_route():
         summary_result = extract_summary(sentence)
         result = translate_zh_en(documents, user_input, folder_path)
 
-        # ES_API_KEY = os.getenv('ES_API_KEY')
-        ES_API_KEY = "bd0307ad47c94a4399eebd1101b1bd03"
+        ES_API_KEY = os.getenv('ES_API_KEY')
         endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
         key_phrases_info = extract_top_key_phrases(sentence, endpoint, ES_API_KEY, top_n=5)
         key_phrases_info_list = key_phrases_info.split(',')
@@ -71,8 +70,7 @@ def translate_en_zh_route():
         summary_result = extract_summary(result)
 
 
-        # ES_API_KEY = os.getenv('ES_API_KEY')
-        ES_API_KEY = "bd0307ad47c94a4399eebd1101b1bd03"
+        ES_API_KEY = os.getenv('ES_API_KEY')
         endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
         key_phrases_info = extract_top_key_phrases(sentence, endpoint, ES_API_KEY, top_n=5)
         key_phrases_info_list = key_phrases_info.split(',')
@@ -147,8 +145,7 @@ def translate_zh_en(documents, user_input, folder_path):
     # print(sentence)
 
     # Add your key and endpoint
-    # key = os.getenv('API_KEY')
-    key = "6efe201e152c4b23807c8edffd214ac1"
+    key = os.getenv('API_KEY')
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -227,8 +224,7 @@ def translate_en_zh(documents, user_input, folder_path):
     sentence = documents[0]
 
     # Add your key and endpoint
-    # key = os.getenv('API_KEY')
-    key = "6efe201e152c4b23807c8edffd214ac1"
+    key = os.getenv('API_KEY')
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -275,7 +271,6 @@ def translate_en_zh(documents, user_input, folder_path):
 # 文字摘要
 def extract_summary(documents):
     key = os.getenv('ES_API_KEY')
-    key = "bd0307ad47c94a4399eebd1101b1bd03"
     endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
 
     try:
