@@ -25,6 +25,8 @@ def about():
 def translate_zh_en_route():
     result = None
     summary_result = None
+    key_phrases_info = None
+    key_phrases_info_list = ["","","","",""]
     sentence = ''
     numbers = []
 
@@ -39,13 +41,21 @@ def translate_zh_en_route():
         summary_result = extract_summary(sentence)
         result = translate_zh_en(documents, user_input, folder_path)
 
-    return render_template('translate_zh_en.html', result=result, summary_result = summary_result, sentence=sentence, numbers=','.join(numbers))
+        # ES_API_KEY = os.getenv('ES_API_KEY')
+        ES_API_KEY = "bd0307ad47c94a4399eebd1101b1bd03"
+        endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
+        key_phrases_info = extract_top_key_phrases(sentence, endpoint, ES_API_KEY, top_n=5)
+        key_phrases_info_list = key_phrases_info.split(',')
+
+    return render_template('translate_zh_en.html', result=result, summary_result = summary_result, key_phrases_info = key_phrases_info_list[0], key_phrases_info_1 = key_phrases_info_list[1], key_phrases_info_2 = key_phrases_info_list[2], key_phrases_info_3 = key_phrases_info_list[3], key_phrases_info_4 = key_phrases_info_list[4], sentence=sentence, numbers=','.join(numbers))
 
 # 英翻中路由
 @app.route('/translate-en-zh', methods=['GET', 'POST'])
 def translate_en_zh_route():
     result = None
     summary_result = None
+    key_phrases_info = None
+    key_phrases_info_list = ["","","","",""]
     sentence = ''
     numbers = []
 
@@ -60,7 +70,15 @@ def translate_en_zh_route():
         result = translate_en_zh(documents, user_input, folder_path)
         summary_result = extract_summary(result)
 
-    return render_template('translate_en_zh.html', result=result, summary_result = summary_result, sentence=sentence, numbers=','.join(numbers))
+
+        # ES_API_KEY = os.getenv('ES_API_KEY')
+        ES_API_KEY = "bd0307ad47c94a4399eebd1101b1bd03"
+        endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
+        key_phrases_info = extract_top_key_phrases(sentence, endpoint, ES_API_KEY, top_n=5)
+        key_phrases_info_list = key_phrases_info.split(',')
+
+
+    return render_template('translate_en_zh.html', result=result, summary_result = summary_result, key_phrases_info = key_phrases_info_list[0], key_phrases_info_1 = key_phrases_info_list[1], key_phrases_info_2 = key_phrases_info_list[2], key_phrases_info_3 = key_phrases_info_list[3], key_phrases_info_4 = key_phrases_info_list[4], sentence=sentence, numbers=','.join(numbers))
 
 
 
@@ -129,7 +147,8 @@ def translate_zh_en(documents, user_input, folder_path):
     # print(sentence)
 
     # Add your key and endpoint
-    key = os.getenv('API_KEY')
+    # key = os.getenv('API_KEY')
+    key = "6efe201e152c4b23807c8edffd214ac1"
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -208,7 +227,8 @@ def translate_en_zh(documents, user_input, folder_path):
     sentence = documents[0]
 
     # Add your key and endpoint
-    key = os.getenv('API_KEY')
+    # key = os.getenv('API_KEY')
+    key = "6efe201e152c4b23807c8edffd214ac1"
     endpoint = "https://api.cognitive.microsofttranslator.com"
 
     # location, also known as region.
@@ -255,6 +275,7 @@ def translate_en_zh(documents, user_input, folder_path):
 # 文字摘要
 def extract_summary(documents):
     key = os.getenv('ES_API_KEY')
+    key = "bd0307ad47c94a4399eebd1101b1bd03"
     endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
 
     try:
@@ -281,6 +302,33 @@ def extract_summary(documents):
                 return " ".join([sentence.text for sentence in extract_summary_result.sentences])
     except Exception as e:
         return str(e)
+    
+# 主詞分析
+def extract_top_key_phrases(documents, endpoint, key, top_n=5):
+    # Setup for key phrases extraction
+    credential = AzureKeyCredential(key)
+    text_analytics_client = TextAnalyticsClient(endpoint=endpoint, credential=credential)
+
+    documents = [documents]
+
+    try:
+        # Key phrases extraction
+        key_phrases_response = text_analytics_client.extract_key_phrases(documents, language="zh-Hant")
+        key_phrases_docs = [doc for doc in key_phrases_response if not doc.is_error]
+
+        # Select top N key phrases
+        key_phrases_info = ""
+        if key_phrases_docs and key_phrases_docs[0].key_phrases:
+            top_key_phrases = key_phrases_docs[0].key_phrases[:top_n]  # Get top N key phrases
+            key_phrases_info = ", ".join(top_key_phrases)
+        else:
+            key_phrases_info = "主詞：無"
+
+    except Exception as e:
+        key_phrases_info = "提取主詞過程中發生錯誤: " + str(e)
+
+    return key_phrases_info
+
 
 
 if __name__ == '__main__':
