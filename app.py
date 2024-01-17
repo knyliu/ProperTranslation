@@ -67,7 +67,10 @@ def translate_en_zh_route():
         user_input = ','.join(numbers)
         documents = [sentence]
         result = translate_en_zh(documents, user_input, folder_path)
-        summary_result = extract_summary(result)
+        summary_result = extract_summary(sentence)
+        summary_result_list = [summary_result]
+        user_input = ""
+        summary_result = translate_en_zh(summary_result_list, user_input, folder_path)
 
 
         ES_API_KEY = os.getenv('ES_API_KEY')
