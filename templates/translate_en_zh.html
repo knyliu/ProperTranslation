@@ -51,12 +51,32 @@
     <h1>Proper Translation</h1>
     <form method="POST" onsubmit="handleFormSubmit(event)">
         
-        原文（英文）: <br><br><br>
+        原文（英文）: <br><br>
         <div class="container">
             <textarea id="input-container" name="sentence">{{ sentence }}</textarea>
         </div>
+        <div class="container">
+            <br>
+            <br>
+            <div id="word-count" class="word-counter">0 / 4500</div>
+        </div>
+
+        
+        <style>      
+            .word-counter {
+                color: grey; 
+                font-size: 10px; 
+                text-align: left; 
+                padding-left: 10px; 
+            }
+        </style>
+        
+        
+        
         <br>
-        選擇領域： <br><br>
+        <br>
+        選擇領域
+        <br><br>
         <div class="container">
         <div id="selected-container">
                 <div class="text-container">
@@ -1725,5 +1745,24 @@
             }
         }
     </style>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var textarea = document.getElementById('input-container');
+                var wordCount = document.getElementById('word-count');
+
+                textarea.addEventListener('input', function () {
+                    var text = textarea.value;
+                    var textLength = text.length;
+
+                    // 更新實時字數
+                    wordCount.textContent = textLength + ' / 4500';
+
+                    // 如果字數超過4500，則截斷文本
+                    if (textLength > 4500) {
+                        textarea.value = text.substring(0, 4500);
+                    }
+                });
+            });
+        </script>
 </body>
 </html>
