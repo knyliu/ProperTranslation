@@ -6,6 +6,9 @@ import re
 import requests, uuid, json
 from azure.ai.textanalytics import TextAnalyticsClient, ExtractiveSummaryAction
 from azure.core.credentials import AzureKeyCredential
+from azure.core.credentials import AzureKeyCredential
+from azure.ai.language.questionanswering import QuestionAnsweringClient
+from azure.ai.language.questionanswering import models as qna
 
 app = Flask(__name__)
 
@@ -29,24 +32,30 @@ def translate_zh_en_route():
     key_phrases_info_list = ["","","","",""]
     sentence = ''
     numbers = []
+    search_result = None
 
     if request.method == 'POST':
         sentence = request.form.get('sentence', '')
         numbers = request.form.getlist('numbers')
+        question = request.form.getlist('question')
+
 
         print("Selected options:", numbers)
+        print(question)
 
         user_input = ','.join(numbers)
+        original_documents = [sentence]
         documents = [sentence]
         summary_result = extract_summary(sentence)
         result = translate_zh_en(documents, user_input, folder_path)
+        search_result = search(question, original_documents)
 
         ES_API_KEY = os.getenv('ES_API_KEY')
         endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
         key_phrases_info = extract_top_key_phrases(sentence, endpoint, ES_API_KEY, top_n=5)
         key_phrases_info_list = key_phrases_info.split(',')
 
-    return render_template('translate_zh_en.html', result=result, summary_result = summary_result, key_phrases_info = key_phrases_info_list[0], key_phrases_info_1 = key_phrases_info_list[1], key_phrases_info_2 = key_phrases_info_list[2], key_phrases_info_3 = key_phrases_info_list[3], key_phrases_info_4 = key_phrases_info_list[4], sentence=sentence, numbers=','.join(numbers))
+    return render_template('translate_zh_en.html', result=result, summary_result = summary_result, key_phrases_info = key_phrases_info_list[0], key_phrases_info_1 = key_phrases_info_list[1], key_phrases_info_2 = key_phrases_info_list[2], key_phrases_info_3 = key_phrases_info_list[3], key_phrases_info_4 = key_phrases_info_list[4], search_result = search_result, sentence=sentence, numbers=','.join(numbers))
 
 # 英翻中路由
 @app.route('/translate-en-zh', methods=['GET', 'POST'])
@@ -57,20 +66,25 @@ def translate_en_zh_route():
     key_phrases_info_list = ["","","","",""]
     sentence = ''
     numbers = []
+    search_result = None
 
     if request.method == 'POST':
         sentence = request.form.get('sentence', '')
         numbers = request.form.getlist('numbers')
+        question = request.form.getlist('question')
 
         print("Selected options:", numbers)
+        print(question)
 
         user_input = ','.join(numbers)
+        original_documents = [sentence]
         documents = [sentence]
         result = translate_en_zh(documents, user_input, folder_path)
         summary_result = extract_summary(sentence)
         summary_result_list = [summary_result]
         user_input = ""
         summary_result = translate_en_zh(summary_result_list, user_input, folder_path)
+        search_result = search(question, original_documents)
 
 
         ES_API_KEY = os.getenv('ES_API_KEY')
@@ -79,7 +93,7 @@ def translate_en_zh_route():
         key_phrases_info_list = key_phrases_info.split(',')
 
 
-    return render_template('translate_en_zh.html', result=result, summary_result = summary_result, key_phrases_info = key_phrases_info_list[0], key_phrases_info_1 = key_phrases_info_list[1], key_phrases_info_2 = key_phrases_info_list[2], key_phrases_info_3 = key_phrases_info_list[3], key_phrases_info_4 = key_phrases_info_list[4], sentence=sentence, numbers=','.join(numbers))
+    return render_template('translate_en_zh.html', result=result, summary_result = summary_result, key_phrases_info = key_phrases_info_list[0], key_phrases_info_1 = key_phrases_info_list[1], key_phrases_info_2 = key_phrases_info_list[2], key_phrases_info_3 = key_phrases_info_list[3], key_phrases_info_4 = key_phrases_info_list[4], search_result = search_result, sentence=sentence, numbers=','.join(numbers))
 
 
 
@@ -326,6 +340,38 @@ def extract_top_key_phrases(documents, endpoint, key, top_n=5):
         key_phrases_info = "提取主詞過程中發生錯誤: " + str(e)
 
     return key_phrases_info
+
+# 論文檢索
+key = os.getenv('ES_API_KEY')
+endpoint = "https://language-service-20231031-1.cognitiveservices.azure.com/"
+credential = AzureKeyCredential(key)
+
+def search(question, documents):
+    client = QuestionAnsweringClient(endpoint, credential)
+    with client:
+        question=question
+        input = qna.AnswersFromTextOptions(
+            question=question,
+            text_documents=documents
+        )
+
+
+        output = client.get_answers_from_text(input)
+
+    best_answer = [a for a in output.answers if a.confidence >= 0][0]
+    print(u"Q: {}".format(input.question))
+    print(u"A: {}".format(best_answer.answer))
+    print("Confidence Score: {}".format(output.answers[0].confidence))
+    print(question)
+    print(best_answer.confidence)
+    
+    if best_answer.confidence >= 0.4:
+        answer = (u"{}".format(best_answer.answer))
+    else:
+        answer = "您所詢問的問題可能並非本論文的重點，學習主軸可能已經發散！"
+    
+    
+    return answer
 
 
 

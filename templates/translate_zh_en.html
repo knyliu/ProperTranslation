@@ -1073,7 +1073,7 @@
                 </div>
                 <div class="checkbox-wrapper-1">
                     <input id="option00144" class="substituted" type="checkbox" name="numbers" value="00144 病理學名詞壓縮檔_0_ch_eng" {% if '00144 病理學名詞壓縮檔_0_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
-                    <label for="option00144">病理學名詞</label>
+                    <label for="option00144">醫學名詞</label>
                 </div>
                 <div class="checkbox-wrapper-1">
                     <input id="option00272" class="substituted" type="checkbox" name="numbers" value="00272 獸醫學壓縮檔_0_ch_eng,00273 獸醫學壓縮檔_1_ch_eng,00274 獸醫學壓縮檔_2_ch_eng" {% if '00272 獸醫學壓縮檔_0_ch_eng,00273 獸醫學壓縮檔_1_ch_eng,00274 獸醫學壓縮檔_2_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
@@ -1116,10 +1116,10 @@
                     <label for="option00267">醫學名詞-醫事檢驗名詞</label>
                 </div>
                 
-                <div class="checkbox-wrapper-1">
+                <!-- <div class="checkbox-wrapper-1">
                     <input id="option00268" class="substituted" type="checkbox" name="numbers" value="00268 醫學名詞壓縮檔_0_ch_eng,00269 醫學名詞壓縮檔_1_ch_eng,00270 醫學名詞壓縮檔_2_ch_eng,00271 醫學名詞壓縮檔_3_ch_eng" {% if '00268 醫學名詞壓縮檔_0_ch_eng,00269 醫學名詞壓縮檔_1_ch_eng,00270 醫學名詞壓縮檔_2_ch_eng,00271 醫學名詞壓縮檔_3_ch_eng' in numbers %} checked {% endif %} style="display: none;"/>
                     <label for="option00268">醫學名詞</label>
-                </div>
+                </div> -->
                 
                 </div>
 
@@ -1452,107 +1452,159 @@
             </div>
         </a>
     </div>
-    <br><br><br>
+
+    <br>
+    <br>
+    <b>論文詢問</b> <br>
+    <br>
+    <form method="POST" onsubmit="handleFormSubmit(event)">
         <style>
-            .checkbox-row {
-                max-width: 95%;
-                display: flex;
-                flex-wrap: wrap;
-                justify-content: flex-start;
-                text-align: left;
-                padding-left: 2.5%;
-                padding-right: 2.5%;
+            #input-container-hidden {
+                display: none;
             }
-
-            .checkbox-wrapper-1 {
-                flex: 0 0 20%; 
-                box-sizing: border-box;
-                padding: 5px; 
-                font-size: 10px;
-            }
-            form{
-                width: 100%;
-                text-align: center;
-            }
-            #translated-container {
-                width: 80%;
-                min-height: 350px;
-                max-height: 500px;
-                border: 0.5px solid rgb(77, 77, 77);
-                border-radius: 10px;
-                display: block;
-                resize: none; 
-                overflow-y: auto; 
-                padding: 10px;         
-            }
-            #summary-container {
-            width: 80%;
-            min-height: 150px;
-            max-height: 150px;
-            border: 0.5px solid rgb(77, 77, 77);
-            border-radius: 10px;
-            display: block; 
-            resize: none;
-            overflow-y: auto; 
-            padding: 10px;  
-            }
-            #key_phrases_info {
-            width: 80%;
-            min-height: 80px;
-            max-height: 800px;
-            border: 0.5px solid rgb(77, 77, 77);
-            border-radius: 10px;
-            display: block; 
-            resize: none;
-            overflow-y: auto; 
-            padding: 10px;  
-            }
-            #selected-container {
-                width: 80%;
-                min-height: 350px;
-                max-height: 500px;
-                border: 0.5px solid rgb(77, 77, 77);
-                border-radius: 10px;
-                display: block; 
-                resize: none; 
-                overflow-y: auto; 
-                padding: 10px; 
-            }
-            #input-container {
-                width: 80%;
-                min-height: 350px;
-                max-height: 500px;
-                border: 0.5px solid rgb(77, 77, 77);
-                border-radius: 10px;
-                display: block;
-                resize: none;
-                overflow-y: auto; 
-                padding: 10px;
-            }
-
-            .container {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-
-
-
-            .text-container h1 {
-                font-weight: bold;
-            }
-
-            .text-container h6 {
-                font-weight: bold;
-                color: #4a4a4a;
-            }
-
-            .text-container p {
-                margin-bottom: -2px;
-                color: #212121;
-            }
-
         </style>
+        <div class="container">
+            <textarea id="input-container-hidden" name="sentence">{{ sentence }}</textarea>
+        </div>
+        
+        問題: <br><br>
+        <div class="container">
+            <textarea id="input-container-q" name="question">{{ question }}</textarea>
+        </div>
+        <button type="submit" value="提交">詢問</button>
+    </form>
+    <br>
+    <div id="searching-container">
+        {% if search_result %}
+            <p>{{ search_result }}</p>
+        {% endif %}
+    </div>
+    <br>
+    <br>
+
+    <br><br><br>
+    <style>
+        .checkbox-row {
+            max-width: 95%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            text-align: left;
+            padding-left: 2.5%;
+            padding-right: 2.5%;
+        }
+
+        .checkbox-wrapper-1 {
+            flex: 0 0 20%; 
+            box-sizing: border-box;
+            padding: 5px; 
+            font-size: 10px;
+        }
+        form{
+            width: 100%;
+            text-align: center;
+        }
+        #translated-container {
+            width: 80%;
+            min-height: 350px;
+            max-height: 500px;
+            border: 0.5px solid rgb(77, 77, 77);
+            border-radius: 10px;
+            display: block;
+            resize: none; 
+            overflow-y: auto; 
+            padding: 10px;         
+        }
+        #summary-container {
+        width: 80%;
+        min-height: 150px;
+        max-height: 150px;
+        border: 0.5px solid rgb(77, 77, 77);
+        border-radius: 10px;
+        display: block; 
+        resize: none;
+        overflow-y: auto; 
+        padding: 10px;  
+        }
+        #searching-container {
+        width: 80%;
+        min-height: 150px;
+        max-height: 150px;
+        border: 0.5px solid rgb(77, 77, 77);
+        border-radius: 10px;
+        display: block; 
+        resize: none;
+        overflow-y: auto; 
+        padding: 10px;  
+        }
+        #key_phrases_info {
+        width: 80%;
+        min-height: 80px;
+        max-height: 800px;
+        border: 0.5px solid rgb(77, 77, 77);
+        border-radius: 10px;
+        display: block; 
+        resize: none;
+        overflow-y: auto; 
+        padding: 10px;  
+        }
+        #selected-container {
+            width: 80%;
+            min-height: 350px;
+            max-height: 500px;
+            border: 0.5px solid rgb(77, 77, 77);
+            border-radius: 10px;
+            display: block; 
+            resize: none; 
+            overflow-y: auto; 
+            padding: 10px; 
+        }
+        #input-container {
+            width: 80%;
+            min-height: 350px;
+            max-height: 500px;
+            border: 0.5px solid rgb(77, 77, 77);
+            border-radius: 10px;
+            display: block;
+            resize: none;
+            overflow-y: auto; 
+            padding: 10px;
+        }
+        #input-container-q {
+            width: 80%;
+            min-height: 10px;
+            max-height: 500px;
+            border: 0.5px solid rgb(77, 77, 77);
+            border-radius: 10px;
+            display: block;
+            resize: none;
+            overflow-y: auto; 
+            padding: 10px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+
+        .text-container h1 {
+            font-weight: bold;
+        }
+
+        .text-container h6 {
+            font-weight: bold;
+            color: #4a4a4a;
+        }
+
+        .text-container p {
+            margin-bottom: -2px;
+            color: #212121;
+        }
+
+    </style>
         <script>
             const inputContainer = document.getElementById('input-container');
 
