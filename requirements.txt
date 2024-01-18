@@ -3,3 +3,4 @@ jieba
 requests
 azure-ai-textanalytics
 azure-core
+azure-ai-language-questionanswering
